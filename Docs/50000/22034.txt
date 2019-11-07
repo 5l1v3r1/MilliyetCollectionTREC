@@ -1,0 +1,59 @@
+<DOC>
+<DOCNO> 22034 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/05/19/ekonomi/eko04.html </URL>
+<DATE> 2001/05/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Açık pozisyon 6 milyar azaldı 
+</HEADLINE>
+<TEXT>
+
+Bankacılık sisteminin Eylül 2000’de 18.2 milyar dolar olan açık pozisyonu, Mart 2001 itibariyle 12.2 milyar dolara düştü 
+     TARIK YILMAZ 
+
+     Bankacılık Düzenleme ve Denetleme Kurumu BDDK , Eylül 2000 tarihi itibariyle 18.2 milyar dolar olan açık pozisyonun Mart 2001’de 12.2 milyar dolara gerilediği açıkladı. 
+     Vadeli döviz işlemleri hariç tutularak yapılan bu hesaplamaya göre, özel bankalar Eylül 2000’deki açık pozisyonu 9 milyar 637 milyon dolardan 6 milyar 185 milyon dolara inerken ilk sıradaki yerini korudu. 
+     BDDK’nın dün açıkladığı "Bankacılık Sektörü Yeniden Yapılandırma Programı" adlı raporda, bankaların vadeli döviz işlemleri hariç tutulduğunda açık pozisyonun 12.2 milyar dolar, dahil edildiğinde 5.2 milyar dolar olduğu bildirildi. 
+     
+İkinci çatı geliyor      Bankacılar bu rakamlar içinde vadeli döviz işlemlerinin çoğu zaman bankayla ilişkili kuruluşlarla yapıldığı, karşılığının "çok sağlam" olmadığı için hariç rakamların gerçeği daha fazla yansıtıldığını iddia ettiler. 
+     Raporda, Türkbank, İnterbank, Esbank ve Etibank’ın satılamaması halinde 31 Mayıs’a kadar birleştirileceği, Fon bankalarının kötü aktiflerinin 31 Temmuz’a kadar BDDK içindeki Tahsilat Dairesi’ne aktarılacağı, Bank Ekspres’in satış işleminin 31 Mayıs’ta biteceği belirtildi. 
+     
+Repo bilançoda izlenecek      Bankaların bilanço dışında nazım hesaplar altında izlediği repolar 1 Ocak 2002’den itibaren bilanço içinde izlenecek. Raporda programın uygulanmasına ilişkin verilen takvimde, gelir vergisi stopajının gözden geçirilmesine ilişkin çalışmalar yürütüldüğü birleşme ve devirlerde vergi avantajı sağlamak için Maliye Bakanlığı’ndan istekte bulunulduğu belirtiliyor. Takvimde, bağımsız denetim kuruluşlarında da Eylül 2001’e kadar yeni düzenlemelere gidileceği kaydedildi. 
+     
+     
+Açık pozisyon 12.1 milyar dolar  Ocak 2000  Eylü 2000  Mart 2001  Kamu bankaları -177 -191 -1 19 -66 -25 Özel bankalar -6.061 -773 -9.637 -847 -6.185 -429 TMSF bankaları -5.345 -2.684 -6.271 1.362 -4.552 -4.670 Yabancı bankalar -1.201 -60 -2.112 -78 -1.131 4 Kalkınma ve Yatırım B. -2 91 -168 200 -226 -29 Toplam -12.786 -3.617 -18.189 -5.783 -12.160 -5.149 Toplam Fon bankaları hariç -7.441 -933 -11.918 -874 -7.608 -479      
+Kaynak BDDK. Vadeli işlemler Hariç Yabancı Para Net Genel Pozisyonu 
+Vadeli işlemler Dahil YP Net Genel Pozisyonu yasal sınırlamaya esas olan değer 
+
+8 bin 600 bankacı işsiz kaldı   Şube sayısı  Personel sayısı Banka Adı Devir tarihinde 7 Mayıs 2001 Devir tarihi 7 Mayıs 2001 Bank Ekspres 25 26 721 618 Demirbank 198 202 4.241 3.896 Esbank 94 77 2.363 1.764 Etibank 151 151 2.076 1.972 iktisat Bankası 62 62 1.305 1.257 interbank 38 41 1.732 1.282 Sümerbank 401 138 9.357 3.953 Türk Ticaret Bank. 274 238 4.790 3.180 Toplam 1.243 935 26.585 17.922      
+Kaynak BDDK. Egebank, Bank Kapital, Yurtbank, Yaşarbank ve Ulusal Bank Sümerbank bünyesinde birleştirilmiştir. 
+
+Kamu ve Fon bankalarının borç stoğu 44 katrilyon  Aralık 2000 stok 1 Ocak 2001-14 Mayıs 2001 arası 14 Mayıs 2001 stok TMSF Bünyesindeki Bankalar 3.862 12.428 16.290 Emlakbank'a sermaye - 669 669 Halkbank'a sermaye - 900 900 Görev zararları 18.093 7.714 25.807 - Tahvile bağlanmış 2.897 22.910 25.807 - Tahvile bağlanmamış 15.196 -15.196 0 Toplam 21.955 21.712 43.666      
+     
+Kaynak Hazine, BDDK 45 trilyon lirası görev zararı karşılığında verilmiştir 
+
+
+
+
+ EKONOMİ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

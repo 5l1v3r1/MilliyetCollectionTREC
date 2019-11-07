@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 12400 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/03/21/son/soneko20.html </URL>
+<DATE> 2001/03/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+GSM'de rekabet kızışıyor... 
+</HEADLINE>
+<TEXT>
+
+     Türkiye'nin 3. GSM operatörü Aria ile birlikte GSM sektöründe rekabet arttı. 
+     Aria, sabit ücreti kaldırırken, konuşma ücretini 280 bin lira olarak açıkladı. Standart sabit ücret Turkcell'de 2 milyon 543 bin 478 lira, Telsim'de ise 2.9 milyon lira düzeyinde bulunuyor. Konuşma ücretlerinde ise farklı uygulamalar yer alıyor. 
+     Batarya adını taşıyan faturasız hatlardaki tarifenin dakikası 280 bin lira olarak uygulanacak. Kontür süresi 7.5 saniye olarak belirlenirken, bir kontürün fiyatı 42 bin 500 lira. Ayrıca Aria'nın faturasız hat müşterisi dışarıdan aranma tutarı 55 dakikaya ulaştığında, 40 kontüre karşılık gelen 5 dakika bedava konuşma hakkı kazanıyor. 
+     Hazır kartların 100 kontürü 4 milyon 250 bin lira, 250 kontürü 10 milyon 625 bin lira, 500'lük kontürü 21 milyon 250 bin lira, 750'lik kontürü 31 milyon 875 bin lira, 1.000'lik kontürü ise 42 milyon 500 lira. Faturalı hatlar için ise sabit ücret uygulaması bulunmuyor. Faturalı hatlarda da görüşmelerin dakikası 280 bin lira olarak belirlendi. Faturalı hatta kullananın arama süresi 55 dakikayı aştığında, konuşmalar yüzde 55 indirimli olarak sürdürülecek. İndirimli konuşmaların dakikası 126 bin liraya düşüyor. 
+     Turkcell de Aria'nın hizmete girdiği bugün, numaraları 0532, 0533, 0535 ve 0536'yla başlayan tüm abonelerine, kendi aralarındaki görüşmelerde çok daha ucuza konuşmalarını sağlayan ''BizbizeCell'' tarifesini kullanıma sundu. 
+     BizbizeCell tarifesinin faturalı hatlar için sabit ücreti 950 bin lira, tüm Turkcell numaralarıyla bir dakikalık görüşme ücreti 99 bin lira, bir dakikalık yurtiçi normal görüşme ücreti ise 295 bin lira olarak belirlendi. 
+     Yeni tarifeyi seçen Hazır Kart ve Muhabbet hat aboneleri de, tüm Turcell numaralarıyla görüşmenin dakikasına 145 bin 14 lira, yurtiçi normal görüşmenin dakikasına ise 398 bin 789 lira ödeyecek. Turkcell'in standart aylık sabit ücreti ise 2 milyon 543 bin 478 lira. Konuşma ücretleri ise standart tarife kapsamında 138 bin lira ile 362 bin 535 lira arasında değişiyor. Turkcell'den Turkcell'i aramanın dakikası 199 bin 700, diğer operatörleri ve sabit telefonları aramak 254 bin lira. 
+     Telsim de ise aylık sabit ücret ekonomik modelde 2.4 milyon, standart modelde 2.9 milyon lira düzeyinde bulunuyor. Konuşma ücretinin dakikası, standart modelde Telsim'den Telsim'e ve diğer GSM'e 155-195 bin lira, Telsim'den normal telefona 245 bin lira, ekonomik modelde Telsim'den Telsim'e ve diğer GSM'e 155-200 bin lira, Telsim'den nomral telefona 250 bin lira olarak uygulanıyor. Diğer modellerde ise konuşma ücretinin dakikası 110 ila 200 bin lira arasında değişiyor. 
+
+
+
+
+</TEXT>
+</DOC>

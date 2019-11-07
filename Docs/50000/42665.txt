@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 42665 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/09/17/son/sontur05.html </URL>
+<DATE> 2001/09/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kocaeli'nin aktif fay haritası çıkarılıyor 
+</HEADLINE>
+<TEXT>
+
+     Kocaeli'nin aktif fay haritasını yeniden çıkartacak çalışmalar hızla sürüyor. 
+     Kocaeli Üniversitesi KOÜ Mühendislik Fakültesi Dekan Yardımcısı Doç. Dr. Mithat Fırat Özer, A.A muhabirine yaptığı açıklamada, 8 ay önce başlatılan 5 ayrı projeye ilişkin çalışmaların aralıksız sürdürüldüğünü söyledi. 
+     Kocaeli için sismik tehlike oluşturabilecek kaynakların ayrıntılı olarak saptanacağını ifade eden Özer, şöyle konuştu 
+     ''Bölgenin sismolojik, tektonik, jeomorfolojik ve jeolojik özellikleri incelenip, ayrıntılı ve güncelleştirilmiş veri tabanı oluşturulacaktır. Bunun sonucunda, uydu görüntüleri, sismik, jeolojik ve jeomorfolojik verileri birlikte değerlendirip aktif fay haritası yeniden ortaya çıkartılacak. Her fayın geometrisi, aktivitesi, üretebileceği en büyük deprem ve özelliklerine ait bilgiler güncelleştirilecek.'' 
+     Olası depremlerin zamanının, büyüklüğünün ve yerinin tespit edilmesinin henüz mümkün olmadığını anlatan Özer, şöyle devam etti 
+     ''Ancak, teknolojinin hızla ilerliyor, bunlar da gelecekte tespit edilebilecek. Bizim projemizle, Körfez, Sapanca ve İzmit'e kuracağımız 4 istasyonla Kuzey Anadolu Fay Hattı ile Doğu Marmara Bölgesi'ndeki kısım yakından izlenecek.'' 
+     KOÜ, ABD'den Penn State ve Boğaziçi Üniversitesi, Afet İşleri Deprem Araştırma Merkezi ve İzmit Büyükşehir Belediyesi işbirliğiyle sürdürülen çalışmalar, yaklaşık 200 milyar liralık harcamayla 2 yılda tamamlanacak. 
+
+
+
+
+
+
+</TEXT>
+</DOC>

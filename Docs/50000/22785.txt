@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 22785 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/05/23/son/soneko13.html </URL>
+<DATE> 2001/05/23/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsada 1. seansta en çok değer kazanan ve kaybeden hisseler 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası'nda İMKB bugün yapılan 1. seansta, en çok değer kazanan ve en çok değer yitiren 10 hisse senedi ile değişim oranları şöyle 
+     
+DEĞER KAZANAN HiSSE ADI ARTIŞ ORANI Kerevitaş 96.23 Metemteks 18.75 ÇBS Boya S. 11.39 Ray Sigorta 10.94 İş Bankası A 10.00 Demisaş Döküm 8.93 Meges Boya 8.91 Ersu Meyve G. 8.11 Taç Yat. Ort. 6.67      
+ DEĞER KAYBEDEN HiSSE ADI DÜŞÜŞ ORANI Şeker Piliç -12.20 Berdan Tekstil -10.34 Banvit -6.67 İş Bankası C -6.52 Aksigorta -6.00 Emek Elektrik -5.88 Koniteks -5.66 Şişe Cam -5.66 Ditaş Doğan -4.69 Sarkuysan -4.55      
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

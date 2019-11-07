@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 2047 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/13/son/soneko01.html </URL>
+<DATE> 2001/01/13/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düşüşte 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası'nda Dow Jones ve Nasdaq endeksleri, günü düşüşle kapattı. 
+     Borsanın temel göstergesi olan Dow Jones, 84.17 puan düşerek günü 10,525.38 puandan kapattı. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq ise 14.07 puan düşerek, günü 2,626.50 puandan kapattı. 
+
+
+
+
+</TEXT>
+</DOC>

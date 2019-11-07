@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 26225 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/06/11/son/sondun08.html </URL>
+<DATE> 2001/06/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Cep telefonu devleri, beyin kanserini önleyecek kalkan geliştiriyor 
+</HEADLINE>
+<TEXT>
+
+     İngiltere'de yayın yapan The Times gazetesi, cep telefonu teknolojisinin üç dev şirketinin bir yandan cep telefonlarının sağlığa zararını reddederken, diğer yandan da söz konusu cihazların müşterileri üzerinde yarattığı beyin kanseri riskini azaltmak için özel koruyucu kalkan sistemleri geliştirdiklerini yazdı. 
+     Gazetenin haberinde Nokia, Ericsson ve Motorola'nın cep telefonu kullanıcılarını beyin tümörlerinden korumak için geliştirdikleri sistemlerin patentini aldıkları da belirtilirken, yeni sistemlerin cep telefonu kullanıcılarının beyinlerinin radyasyon dalgalarından korunmasını sağlayacak şekilde geliştirildiğine dikkat çekildi. 
+     The Times ayrıca, Nokia'nın ABD'nin başkenti Washington'daki patent ofisine yaptığı başvuruyu ele geçiriklerini bildirerek, söz konusu belgede uzun zamandır ortaya konulan radyo dalgalarının saçtığı radyasyonun öldürücü tümörlere yol açması tehlikesine dikkat çekiliğini vurguladı. 
+     Patent belgesinin, cep telefonu üreticilerinin son sekiz yıldır bir radyasyon kalkanı geliştirmek için çalıştıklarını ortaya koyduğunu da belirten gazete, bu şirketlerin bir yandan cep telefonlarının zararsızlığını savunurken diğer yandan da böyle sistemler için patent almalarının bir çelişki oluşturmadığını savunduklarını bildirdi. 
+     Bu arada bilim dünyasının da konuyla ilgili tartışmalar yüzünden ikiye bölündüğünü hatırlatan gazete, konuyla ilgili olarak yapılmış geniş kapsamlı son araştırmanın cep telefonlarıyla kanser arasında bir ilişki bulunmadığına işaret ettiğini, ancak irili-ufaklı diğer pek çok araştırmada bunun tersinin savunulduğunu hatırlattı. 
+     İngiltere'de tüketiciler adına görev yapan bağımsız gözlemci Alasdair Philips de, cep telefonu şirketlerinin radyasyonun etkilerini azaltıcı yeni sistemler geliştirme çabasını değerlendirirken, ''bu da gösteriyor ki, telefon şirketleri radyasyonun yarattığı tehlikeyi kamuoyu önünde kabul ettiklerinden çok daha fazla ciddiye alıyorlar'' dedi. 
+     Ericsson adına açıklama yapan kurumun Sağlık araştırmaları Merkezi sözcüsü Michael Westmark ise, alınan patentlerin ortada bir sağlık riski bulunduğunun kanıtı olduğu yolundaki görüşleri reddetti. Westmark, cep telefonlarıyla ilgili sağlık riski bulunduğuna dair herhangi bir kanıt olmadığını savunurken, onun bu görüşleri Motorola sözcüsü Norman Sandler tarafından da desteklendi. 
+
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 12219 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/03/20/son/soneko01.html </URL>
+<DATE> 2001/03/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones yükseldi 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Setreet Menkul Kıymetler Borsası'nın temel göstergesi Dow Jones Sanayi Endeksi günün son seansında 135.70 puan kazanarak yüzde 1.4 yükselme 9,959.11 puandan kapandı. 
+     Teknoloji hisse senetlerinin takip edildiği Nasdaq Birleşik Endeksi ise 2000 puan sınırının hemen altında günü tamamladı. Wall Street güne yükselişle başlamış ve açılışında Dow Jones Endeksi yüzde 0.34, Nasdaq Birleşik Endeksi de yüzde 0,76 oranında puan artışı sağlamıştı. 
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 16864 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/04/18/son/soneko01.html </URL>
+<DATE> 2001/04/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Wall Street yükseldi 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Borsası'nda Dow Jones Endeksi, 57.84 puan artışla yüzde 0.5 10,216.40 puandan kapandı. 
+     Teknoloji şirketlerinin Nasdaq Birleşik Endeksi ise 13.68 puan artışla yüzde 0.7 1,923.25 puandan günü tamamladı. 
+
+
+
+
+</TEXT>
+</DOC>

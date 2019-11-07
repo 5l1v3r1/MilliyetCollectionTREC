@@ -1,0 +1,41 @@
+<DOC>
+<DOCNO> 12342 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/03/21/yasam/yas08.html </URL>
+<DATE> 2001/03/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bu virüs bilgisayarı ÇÖPE ATTIRIYOR 
+</HEADLINE>
+<TEXT>
+
+     DIŞ HABERLER SERVİSİ 
+
+     Yol açtığı hasarlar açısından daha önceki Çıplak Eş’ ve Kurnikova’ virüslerine rahmet okutacak yeni bir bilgisayar virüsü ortaya çıktı. Norton Anti - Virüs program şirketinin açıklamasına göre Magistr’ adı verilen ve birkaç gün önce yayılmaya başladığı için verdiği hasar tespit edilemeyen virüs, öncekilerden çok daha etkili. 
+     Yeni canavar Magistr, e - mail’den işletim programına ve veri dosyalarına kadar bütün bir bilgisayarı tahrip ediyor. Yani bu virüsü alan bilgisayar için çöpe atılmaktan başka yapacak bir şey kalmıyor. Uzmanlar Magistr’ın, diğerleri gibi amatör hackerlar tarafından değil, bizzat profesyonel bir bilgisayar programcısı tarafından gerçekleştirildiği tahmin ediliyor. 
+     
+     
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

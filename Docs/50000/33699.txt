@@ -1,0 +1,62 @@
+<DOC>
+<DOCNO> 33699 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/07/25/guncel/agun.html </URL>
+<DATE> 2001/07/25/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Her konser BİR DEPREM 
+</HEADLINE>
+<TEXT>
+
+Rumelihisarı'nın konserlerden zarar görmemesi için koyulan "90 desibel" sınırı, hiç kimsenin umurunda değil. Sadece seyircinin alkışı 93 desibeli bulurken, konser anında ölçüm cihazının gösterdiği rakam 120'ye kadar çıkıyor 
+     ALİ EYÜBOĞLU 
+
+     Kültür Bakanlığı, Aspendos Antik Tiyatrosu'nda elektronik ses düzeni kurularak 90 desibelin üstünde ses çıkaracak konserlere izin vermiyor. Kültür Bakanlığı'nın 90 desibeli aşmamak koşuluyla Tarkan konseri ile Sultans of the Dance'ın gösterisine özel izin vermesi ise arkeologların tepkisine neden oldu. 1800 yıllık tarihi olan Aspendos'un elektronik ses düzenlerinden çıkan ses dalgalarının duvarlarda, çözülme ve gevşemelere yol açacağına dikkat çeken Doç. Dr. Nevzat Çelik, "Yüksek titreşim, taş blokları bile kaydırıyor" dedi. 
+     
+     Elton John da deldi 
+     Elton John ise Efes Antik Tiyatro'da verdiği konserde akustik yerine, elektronik ses düzeniyle konser vererek, yasağı deldi. Peki, İstanbul'daki Rumeli Hisarı'nda durum ne 1452 yılında Fatih Sultan Mehmet tarafından yaptırılan ve günümüzde ise her gece müzik dünyasının bir başka ünlüsünün sahne aldığı tarihi mek ndaki ses düzeni kaç desibel 
+     Rumelihisarı'ndaki konserlerin ses düzenini yapan Staras'ın ortağı Ayhan Özel, 90 desibelin üstüne çıkmadıklarını belirterek sözlerine şöyle devam etti 
+     
+     '90 desibeli aşmıyoruz' 
+     "Sesin şiddeti 90 desibelin üzerinde olursa tarihi yapıya bir zarar verebilir ama biz bu değerin üzerine çıkmadık. Zaten kurduğumuz düzende hoparlörlerden çıkan ses direkt taşlara gelmediği için bir zarar vermiyor." 
+     Ancak rakamlar Staras'ı doğrulamıyor. Nereden mi biliyoruz Çünkü gittik ve konser sırasında bizzat ölçüm yaptık. Rumelihisarı'nda dün gece Haluk Levent'in konseri vardı. Bir ölçüm cihazı alıp, yola koyulduk. Daha konser başlamadan 2 bine yakın seyircinin çıkardığı uğultu bile cihazda 84.3 desibeli gösteriyordu. 
+     
+     Surların vay haline 
+     Derken müthiş bir müzik, alkış ve tezahürat eşliğinde Haluk Levent çıktı sahneye... Sanatçı, "Kral Çıplak" şarkısını söylemeye başladığında cihazın ekranında rakamlar 114 ile 120 desibel arasında seyrediyordu. Sahnenin önünde tablo böyleydi. 
+     Peki acaba cihaz, surların dibinde kaçı gösterecekti Hisarın sur diplerinde de ölçümler yaptık. Cihazın ekranındaki rakamlar, sur kenarlarında zaman zaman 112.8'e kadar yükseldi. Ses şiddetini gösteren rakamlar konser boyunca 106'dan aşağı ise hiç inmedi... 
+     
+     SES MÜHENDİSİ CİHAT COŞKUN 
+Bas titreşimler kolon kaydırır      Pragon Design Sound Lighting Systems'ın sahibi ve ses mühendisi Cihat Coşkun, 90 desibelin üstündeki bas seslerin dairesel dalgalar halinde yayıldığı için tarihi mek nlarda çok tehlikeli olduğunu belirterek, şunları söyledi 
+     "Tiz sesler doğrusal gittiği için çarpıp, geri döner. Zarar vermez. Ama baz sesler dairesel dalgalarla yayıldığı için engel tanımaz. Desibeli çok yüksek ise tehlike arz eder. Biz birkaç yıl önce Beyoğlu'ndaki tarihi binalardan Mısırlı Apartmanı'nın bodrum katında açılan Club Magma'nın ses düzenini kurmuştuk. 135 desibele kadar çıkan bir ses düzeniydi bu. Ses titreşimlerinin binaya zarar vermemesi için binanın kolonlarına ve kirişlerine çelik giydirme yapıldı. Eğer bunu yapmasaydık hiç beklenmedik tatsız sonuçlar yaşanabilirdi." 
+     
+Uğultu bile sınırı zorluyor Seyirci uğultusu 84.3 Sadece alkış 93.4 Sahne çevresinde 114 - 120 Sur dibinde 106 - 112.8      
+     
+
+
+
+ GÜNCEL 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

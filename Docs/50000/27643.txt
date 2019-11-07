@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 27643 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/06/19/yasam/yas09a.html </URL>
+<DATE> 2001/06/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Uçak teknolojisi dişçi koltuğunda 
+</HEADLINE>
+<TEXT>
+
+Uçak ve otomotiv sanayiinde devrim yaratan CAD - CAM yöntemi, artık protez, dolgu ve diğer diş onarımlarında da harikalar yaratıyor 
+     AYŞEGÜL AYDOĞAN İstanbul 
+
+     Birçok insanın korkulu rüyası dişçi koltuğu, her geçen gün gelişen yeni teknoloji sayesinde kabus olmaktan çıkıyor. Diş hekimliğinde artık uçak ve otomotiv sanayiinde devrim yaratan CAD - CAM yöntemi kullanılıyor. CAD - CAM yöntemi bilgisayar destekli diş tasarımı ve yapımı olarak tanımlanıyor. İnsan gözü yerine bilgisayardan yardım alınması nedeniyle yöntemin hatayı ortadan kaldırdığını anlatan Prof. Dr. Serdar Çintan, "Resmi çiziyorsunuz, komutu veriyorsunuz ve hasta dişini yaptırmadan nasıl olacağını monitörden görüyor" dedi. 
+     
+Dijital ortamda dizayn ediliyor      Çintan, CAD - CAM yönteminin tek seansta dolgu yaptırmasına olanak verdiğini belirterek yöntemi şöyle anlattı "Bu yöntemde hastanın restore edilecek dişinin son hali, dijital ortamda üç boyutlu olarak dizayn edilerek anında bu dijital beyne bağlı olan cihazda imal edilebiliyor. Hasta yapılacak dişini önündeki ekrandan izleyebiliyor. Aynı zamanda gereksiz laboratuvar işlemlerini de ortadan kaldırıyor." 
+     Klasik tekniklerin "kemer uyumu" denilen diş ile onarım arasında uyum sorunu çıkardığını anlatan Prof. Çintan, "CAD-CAM dişle dolgu restorasyon arasında sızıntıya imkan vermiyor" diye konuştu. 
+     
+
+</TEXT>
+</DOC>

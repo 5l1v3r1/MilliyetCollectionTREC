@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 32303 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/07/16/son/sondun13.html </URL>
+<DATE> 2001/07/16/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Uluslararası Uzay İstasyonu'nda sızıntı alarmı 
+</HEADLINE>
+<TEXT>
+
+     Uluslararası Uzay İstasyonu'na yeni yerleştirilen hava emniyetli giriş koridoru ile istasyon arasındaki bir bağlantının soğutma tertibatında meydana gelen sızıntı, istasyonda alarmın çalmasına neden oldu. ABD'nin Ulusal Havacılık ve Uzay Dairesi NASA tarafından yapılan açıklamaya göre, alarm, TSİ 07 00'de, uluslararası istasyon ile istasyona kenetli Amerikan uzay mekiği Atlantis'in mürettebatlarının, dün yerleştirilen hava emniyetli giriş koridoru ile istasyon arasında enerji, veri ve soğutucu gibi onlarca bağlantıyı kurarken çalmaya başladı. 
+     İstasyon mürettebatındaki astronotlardan James Voss'un, bağlantılardan birinde bir litre kadar su sızıntını bildirdiği belirtilen açıklamada, sızıntının büyük olasılıkla sıvı geçiş hatlarından birindeki tıkanıklıktan kaynaklandığı kaydedildi. 
+     Açıklamada, istasyonda, Atlantis'in mürettebatıyla birlikte bulunan 8 astronot için tehlikeli bir durumun söz konusu olmadığı, NASA'nın ufak sızıntı ve alarm nedenini araştırdığı bildirildi. NASA, soğutma tertibatında meydana gelen bir hava kabarcığının, istasyonun laboratuvar mödülü için kullanılan soğutucu sistemi kısa süreli durdurabileceğini kaydetti. Uzay yürüyüşü yapacak astronotların uzay istasyonuna giriş ve çıkışlarında kullanmaları için yapılan, 6.5 ton ağırlığındaki ve 164 milyon dolara mal olan hava emniyet sistemli giriş koridoru modülü, istasyona dün yerleştirilmişti. Bu modül olmadan Uluslararası Uzay İstasyonu'ndaki astronotların uzay yürüyüşü yapabilmeleri için bir uzay mekiğinin istasyona kenetlenmiş olması gerekiyor. 
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

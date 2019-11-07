@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 13290 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/03/27/son/sondun08.html </URL>
+<DATE> 2001/03/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hollanda polisinden telefon hırsızlarına "teslim ol" mesajı 
+</HEADLINE>
+<TEXT>
+
+     Hollanda'nın başkenti Amsterdam'da polis bugünden itibaren çalıntı cep telefonlarına sürekli SMS mesajı göndererek, kullanıcılardan telefonu teslim etmelerini istiyor. 
+     Amsterdam Polisi tarafından başlatılan uygulama kapsamında, çalıntı cep telefonuna bilgisayar aracılığıyla her 2 dakikada bir SMS mesajı gönderiliyor. Mesajda, telefonun çalıntı olduğu ve cezayı gerektirdiği, polisin sürekli izlediği belirtiliyor ve ''bu mesajı aldıktan sonra telefonu karakola getirmek için 15 dakika zamanınız kaldı'' deniliyor. 
+     Amsterdam Polisi'nden yapılan açıklamada, son 6 ayda sokaklardaki hırsızlık olaylarında rekor artış görüldüğü ve çalınan eşyanın yüzde 80'ini cep telefonları ve taşınabilir bilgisayarların oluşturduğu bildirildi. 
+     Polisin verdiği bilgiye göre, Amsterdam'da sokakta ayda ortalama 400 cep telefonu çalınıyor. Polis, çalınan telefonların numaralarının iptal edilmesi için şirketlerle yapılan görüşmelerin her zaman istenildiği gibi gitmediğini, çünkü şirketlerin kendi ekonomik kazançlarını da düşündüklerini belirtti. 
+     Polis, cep telefonu hırsızlığı olaylarının önlenmesi için kendi yöntemleriyle başa çıkmaya çalıştığını belirtti ve herhangi bir toplantıda ya da bir ortamda her iki dakikada bir SMS mesajı alan telefonların çalıntı olduğunun bilinmesi gerektiğini hatırlattı. Amsterdam Polisi tarafından bugün başlatılan uygulama, diğer emniyet müdürlükleri tarafından da izleniyor ve kısa bir süre sonra uygulamanın ülke genelinde yaygınlaştırılması bekleniyor. 
+
+
+
+
+</TEXT>
+</DOC>

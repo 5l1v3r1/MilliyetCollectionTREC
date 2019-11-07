@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 17059 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/04/19/son/soneko01.html </URL>
+<DATE> 2001/04/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsası yükseldi 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Borsası'nda Dow Jones Endeksi, 390.10 puan artışla 10,615.64 puandan kapandı. 
+     Teknoloji şirketlerinin Nasdaq Birleşik Endeksi ise 156.22 puan artışla 2.079.62 puandan günü tamamladı. 
+
+
+
+
+</TEXT>
+</DOC>

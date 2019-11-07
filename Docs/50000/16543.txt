@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 16543 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/04/16/son/soneko03.html </URL>
+<DATE> 2001/04/16/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Birisi devleti gözetliyor 
+</HEADLINE>
+<TEXT>
+
+     Devlette hemen her alanda gündeme gelen tasarruf tedbirlerine kurumların uyup uymadığı, Maliye Bakanlığı'nca tek tek izlenecek. 
+     Maliye Bakanlığı Muhasebat Genel Müdürlüğü'nde yürütülen ''Say 2000i Web Tabanlı Saymanlık Otomasyon Projesi'' kamuda israfın önüne geçilmesine yönelik olarak da hizmet verecek. 
+     Halen Bütçe ve Mali Kontrol Genel Müdürlüğü'nde devam eden bütçedeki kod yapısının değiştirilmesine ilişkin çalışmaların da yardımıyla devlet, Say 2000i ile birlikte her türlü harcamayı günlük olarak takip edebilecek. Bu şekilde akaryakıttan çiçek parasına, elektrik ve doğalgazdan cep telefonu faturalarına, demirbaş alımlarından bina ve taşıt alımlarına kadar her türlü harcama kurum kurum, hatta her kurumun merkez ve taşra teşkilatlarına kadar bütün iç detaylarıyla ekrana dökülecek. 
+     Diğer yandan kamuda taşıt saltanatını sona erdirecek Başbakanlık Genelgesinin ardından makam taşıtı kullanımı büyük ölçüde sınırlanacak. Makam ve diğer servis taşıtlarının akaryakıt kullanımını disipline etmek için smart kartlar gelecek. 
+     Halen bazı özel sektör kuruluşlarının kullandığı smart kartlar ile kamu araçlarının hangi kilometrede ne kadar yakıt aldığı elektronik ortamda dökülecek ve bu şekilde getirilecek limitlere aykırı davranışlar hemen ortaya çıkarılacak.Bu arada Muhasebat Genel Müdürü Galip Taşdemir, bin 658 saymanlığı merkeze ve birbirine bağlayacak bilgisayar sisteminin kuruluş çalışmalarının hızla devam ettiğini bildirdi. Acil durum merkezi dahil Ankara'da oluşturulan merkezin tamamen aktif hale geldiğini, 12 saymanlıkta da altyapının tamamen oluşturulduğunu kaydeden Taşdemir, ''Temmuz'a kadar sistem tümüyle kurulmuş olacak ve yılın ikinci yarısıyla birlikte Say 2000i devreye girecek. Yıl sonuna kadar eski ve yeni sistem beraberce götürülecek. 2002 başında da eski sistem tamamen terkedilecek ve tümüyle bütün hesabını elektronik ortamda, günlük gören devlet haline gelinecek'' dedi. 
+     
+
+
+
+</TEXT>
+</DOC>

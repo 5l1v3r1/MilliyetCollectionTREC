@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 36578 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/08/11/son/sondun18.html </URL>
+<DATE> 2001/08/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+HIV virüsünün hastalığa yol açan etkisini yok eden bir antikor saptandı 
+</HEADLINE>
+<TEXT>
+
+     Bilim adamları, HIV virüsünün hastalığa yol açan etkisini yok eden bir antikor saptadı. 
+     Oxford Üniversitesi bilim adamları, saptadıkları antikorun yapısının, insan bağışıklık sistemini çökerten HIV virüsünü etkisiz bıraktığını açıkladı. 
+     b12 antikorunun yüzeyindeki özellik, HIV virüsünün ana proteini gp 120 üzerinde etki yaratarak HIV virüsünün hastalık meydana getirmesini önlüyor. 
+     ''Journal Science'' dergisinde yer alan araştırma raporunda, yeni buluşun, HIV virüsüne karşı etkili bir aşı geliştirme yolunda mesaj verdiği belirtildi. 
+     The Skags Enstitüsü Moleküler Biyoloji Bölümü uzmanlarından Dr. Wilson D. Phil, b12 antikorunun oranını yükseltecek yeni bir aşının HIV üzerinde etkili olacağını kaydetti. Phil, HIV virüsünün kan dolaşmına girmesinin ardından vücuttaki B hücrelerinin b12 antikoru ürettiğini de hatırlattı. 
+     Vücudun bağışıklık sisteminin duyarlılık göstermesi ile b12 antiroları kan dolaşım sisteminde yol alarak, HIV virüsünü yakalayıp öldürmeye çalışıyor. Vücudun normal olarak HIV virüsüne karşı ürettiği antikorlar ise, virüsün yüzeyine yaklaşamadığı için etkili olamıyor. 
+     HIV virüsünün karbonhidrat ile kaplı olduğuna değinen Dr. Erica Ollman, bu nedenle virüsün, vücudun bağışıklık sistemi tarafından normal olarak üretilen antikorlardan gizlenebildiğini kaydetti. b12 atikoru HIV virüsünün yüzeyine bağlanarak, virüsün sağlıklı hücreleri etkilemesini önlüyor. 
+     b12 antikoru sadece HIV virüsünün yüzeyindeki gp 120 protein parçalarını etkileyerek hastalığın oluşmasını önlüyor. Bu durumun virüsün tamamen yok edilmesi açısından bir sorun olduğuna değinen uzmanlar, HIV virüsünün yüzeyindeki gp 120 protein parçalarının, vücudun savunma sistemini oyalayarak, virüsü ölmekten koruduğunu belirtti. 
+     Araştırmacılar, kan dolaşım sisteminde b 12 antikorlarının sürekli çoğaltılabilmesi ile HIV virüsünün AIDS hastalığına yol açmasının önlenebileceğine değiniyor. 
+     31 yaşıdaki bir HIV pozitif hastasının 6 yıl hastalık belirtisi göstermeden yaşaması üzerine, hastanın kemik iliği hücreleri üzerinde araştırma yapan uzmanlar, vücudun b12 antikorlarını çoğaltabildiğini ve bu şekilde HIV virüsü üzerinde etkili olabildiğini saptadı. 
+     Bilim adamları, vücudun bağışıklık sisteminin HIV virüsüne karşı sürekli uyarılması için değişik bir yol saptama çalışmalarına girdiklerini de bildirdi. 
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

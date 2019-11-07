@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 32664 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/07/18/son/sondun07.html </URL>
+<DATE> 2001/07/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayar güvenlik şirketi SANS, 'hacker'ların kurbanı oldu 
+</HEADLINE>
+<TEXT>
+
+     Amerika'nın saygın internet kuruluşlarından olan ve bilgisayar güvenlik eğitim seminerleri düzenleyen SANS şirketinin internet sitesi, siber korsanların hedefi oldu. Site bir gün boyunca devre dışı kaldı. 
+     Tam adı, Networking and Security Institute SANS olan şirkete, kendilerine ''Fluffi Bunni'' adını veren bir hacker grubu saldırdı. Saldırganlar, sitenin tüm gün kullanılamamasına sebep oldu. 
+     Şirket yetkilileri, saldırıdan dolayı büyük utanç duyduklarını bildirerek kullanıcılardan özür dilediler. Kendilerinin uzun zamandır siber korsanların hedefi durumunda bulunduğunu belirten site yöneticileri, korsanların amaçlarına ulaştıklarını kaydettiler. 
+     Öte yandan siteye saldıran korsanların hiçbir kullanıcı bilgisine ulaşamadıkları da açıklandı. 
+     SANS şirketi, bilgisayar güvenlik uzmanları için sertifika sınıfları ve seminerler düsenliyor. Ayrıca dünya çapında düzenlenen bilişim konferanslar için de rezervasyon yapıyor. 
+     Bu yılın Mayıs ayında ise, Exodus Communications şirketinin, http security.exodus.net sitesi benzer bir şekilde yine aynı grup tarfından saldırıya uğramıştı. 
+
+
+
+
+
+
+</TEXT>
+</DOC>

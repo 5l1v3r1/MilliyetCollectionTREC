@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 8381 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/02/22/son/soneko16.html </URL>
+<DATE> 2001/02/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa hızlı toparlandı 
+</HEADLINE>
+<TEXT>
+
+     Ekonomik reform programında döviz kuru rejiminin değiştirilerek kurların dalgalanmaya bırakılmaya başlamasıyla hızla yükselen döviz fiyatları, Borsa'yı da yukarı çekti. 
+     Ulusal-100 Endeksi, seansın ilk dakikalarındaki satışların ardından hızla yönünü yukarı çevirdi. Seans başında gelen satışlarla 7,796 puana kadar gerileyen Endeks, ardından yoğun alımlarla çıkışa geçti. 
+     Yoğun işlem hacmiyle 7,800 puan seviyelerine yükselen Endeks, ilk yarım saat tamamlanırken, dünkü kapanışın 653 puan üzerinde 7,833 puan seviyesine ulaştı. Hisse senetleri ortalama yüzde 9.10 oranında değer kazandı. Borsa uzmanları, döviz fiyatlarının ani yükselişiyle piyasanın dolar karşısında düşük kaldığını, bu nedenle alımların geldiğini bildirdiler. 
+     Bu arada, İMKB Repo Piyasası ve Bankalararası TL interbankında ise henüz işlem gerçekleşmedi. 
+
+
+
+
+</TEXT>
+</DOC>

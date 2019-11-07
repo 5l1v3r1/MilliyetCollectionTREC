@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 37230 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/08/15/son/sondun10.html </URL>
+<DATE> 2001/08/15/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayar korsanı bu kez yakayı ele verdi 
+</HEADLINE>
+<TEXT>
+
+     Şifre kırıcıların hacker evlerde kullanılan bilgisayarlara sızıp kontrolü ele geçirmelerine yarayan bilgisayar virüs programı ''W32-Leave worm''u yazan kişi, FBI ve Scotland Yard'ın ortak çalışmasıyla yakalandı. 
+     Yetkililer, adı açıklanmayan 24 yaşındaki kişinin 23 Temmuz'da yakalandığını, daha sonra tutuksuz yargılanmak üzere serbest bırakıldığını açıkladı. 
+     İngiliz Bilgisayar Suistimal Kananu'na göre suçlanan bu kişi, 5 yıla kadar hapis cezasıyla karşı karşıya bulunuyor. 
+     ''W32-Leave worm'' adındaki solucan ya da virüs programı, bir şifre kırıcının, kurbanın bilgisayarına sızmasına ve bilgisayarın denetimini eline geçirmesine yardımcı oluyor. 
+     Şifre kırıcı hacker bu yolla sızdığı bilgisayardaki dosyaları çalabiliyor, silebiliyor ya da o bilgisayarı başkalarının şifrelerini kırmak hack için kullanabiliyor. 
+     FBI'ın ilgili birimi, bu virüs programı hakkında Haziran ayında bir uyarı yayınlamıştı. 
+     
+     
+     
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

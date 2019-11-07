@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 8017 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/02/20/son/soneko11.html </URL>
+<DATE> 2001/02/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Merkez Bankası bugün repo ihalesi açmadı 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası, TL piyasasının rekor düzeyde eksi rezervle açıldığı ortamda, bugün repo ihalesi açmadı. 
+     Böylelikle bankanın fonlamayı düşük tutarak, bankaları döviz satışına teşvik ettiği bildirildi. 
+     Ekonomi uzmanları, buna göre dün bankaların satın aldığı 5 milyar dolar civarındaki dövizin en azından 1-2 milyar dolarlık kısmının geri dönmesinin hedeflendiğini söylediler. 
+     Bu arada Hazine'nin 1 aylık bono ihalesi yanında, TAP yöntemiyle Merkez Bankası aracılığı döviz cinsinden 4 aylık bono satışıyla da, hem Hazine'nin yarınki ödeme öncesi finansman ihtiyacının karşılanması hem de çıkan dövizin bir kısmının geri dönüşünü hedefliyor. Para piyasalarında diğer enstrümanların durumuna bakıldığında ise dün yaşanan gelişmelerin etkisi sürüyor. 
+     İMKB repo piyasasında faiz açılışta yüzde 300 oldu. Bu oran daha sonra yükseldi. Gecelik repo dün en yüksek yüzde 760'ları görürken, ortalama yüzde 315.88 olmuştu. İkinci el bono piyasasında da 11 Temmuz 2001 vadeli bonolarda ortalama faiz yüzde 102.98 oldu. Buna göre faiz dünün üzerinde bulunuyor. 
+     Dün MGK toplantısında yaşanan gelişmeler sonrası bankalar döviz alımına geçerken, Merkez Bankası'ndan çıkan döviz tutarı 5 milyar dolara yaklaşmıştı. 
+
+
+
+</TEXT>
+</DOC>

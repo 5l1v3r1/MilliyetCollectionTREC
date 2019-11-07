@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 35256 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/08/03/son/sondun06.html </URL>
+<DATE> 2001/08/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft'un başı tekelleşme davasında dertten kurtulmuyor 
+</HEADLINE>
+<TEXT>
+
+     ABD'de yönetimin değişmesiyle, hükümetin açtığı anti-tekel davasında şansının arttığı belirtilen bilgisayar devi Microsoft, federal temyiz mahkemesine yaptığı başvurunun reddedilmesiyle hayal kırıklığına uğradı. 
+     ABD Adalet Bakanlığı'nın, bilgisayar sektöründe tekel yarattığı suçlamasıyla açtığı davada, şirketin bölünmesi kararı verilmiş, bunun üzerine Microsoft temyize başvurmuştu. 
+     Federal Temyiz Mahkemesi, kararın bazı bölümlerinin yeniden incelenmesi yönünde Microsoft'un yaptığı başvuruyu reddetti. Mahkeme aynı zamanda, Adalet Bakanlığı'nın, davayı hızlandırarak hemen bir alt mahkemeye sevk edilmesi talebini de reddetti. 
+     Bu kararla, gelecek hafta sonuna doğru Microsoft davası yeniden Washington bölge mahkemesine getirilecek. Ancak Microsoft'un, en yüksek yargı organı olan ABD Federal Yüksek Mahkemesi'ne temyiz başvurusunda bulunma şansı bulunuyor. 
+     Microsoft sözcüsü Jim Desler, Federal Yüksek Mahkeme'ye başvurma konusunu halen değerlendirdiklerini söyledi. 
+     Davanın zamanlaması, Ekim ayında yeni Windows XP sistemini piyasaya sürmeye hazırlanan Microsoft için büyük önem taşıyor. Microsoft'un temyize başvurarak davayı uzatmak istediği, böylece yeni ürününü davadan etkilenmeden piyasaya sürmüş olmayı amaçladığı öne sürülüyor. 
+     Microsoft Yüksek Mahkeme'ye temyiz başvurusunda bulunmazsa, dava Washington'daki bölge mahkemesinde, yeni atanan bir yargıç tarafından görülecek. 
+     Yargıç, Microsoft'un, Internet Explorer ve Windows sistemlerini, kendi tekelini yaratmak amacıyla kullanıp kullanmadığı konusunda karar verecek. 
+     ABD Adalet Bakanlığı da mahkemenin Microsoft kararını memnuniyetle karşıladıklarını açıkladı. 
+     Microsoft şirketinin, yönetimin Demokrat Parti'den Cumhuriyetçi Parti'ye geçmesiyle birlikte, davanın seyrinde avantaj kazandığı yorumları yapılmıştı. 
+     
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

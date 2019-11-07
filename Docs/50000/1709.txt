@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1709 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/11/son/soneko13.html </URL>
+<DATE> 2001/01/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Garanti'den ilk sanal kredi kartı 
+</HEADLINE>
+<TEXT>
+
+     Garanti Bankası, Türkiye'nin ilk sanal kredi kartını çıkardı. 
+     Garanti Bankası'dan yapılan açıklamaya göre, Nisan 2000'den bu yana kullanımda olan Garanti Sanal Kart'ın debit kart ardından, sanal kredi kartı da hizmete sunuldu. 
+     Garanti kredi kartı olan tüm internet şubesi kullanıcıları, internette yaygın ve güvenli alışveriş sağlayan sanal kredi kartlarını İnternet Şubesi'nden anında oluşturup kullanmaya başlayabilecekler. Kullanılabilir limiti ihtiyaç duyulan tutara yükseltilebilen kartla alışveriş yapıldıkça kartın kullanılabilir limitinden harcanan tutar düşüyor. Ayrıca alışverişten sonra kartın kullanılabilir limitinin tekrar sıfırlanıp kartın güvenliğinin artırılması da mümkün. Sanal kredi kartıyla yapılan harcamaların ödemesi de Garanti İnternet Şubesi veya Alo Garanti'den yapılabiliyor. 
+
+
+
+
+</TEXT>
+</DOC>

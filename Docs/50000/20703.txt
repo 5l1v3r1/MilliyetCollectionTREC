@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 20703 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/05/11/son/soneko12.html </URL>
+<DATE> 2001/05/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa'da 1. seans böyle geçti... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi, dünkü kapanışa göre 375.49 puan kayıpla, 1. seansı 11,767.80 puandan tamamladı. 
+     Hisse senetleri ortalama yüzde 3.09 oranında değer yitirdi. Telekom yasasındaki uzlaşmaya rağmen, dün 133 puan düşen Borsa'da,günün ilk seansında da satışlar sürdü. Piyasada teknik düzeltme olarak nitelendirilen satışlarla Endeks, 12 bin seviyesinin altına gevşedi. Dengeli açılan seansta bir süre sonra hızlı satışlar geldi. Yoğun satışlarla 11,735 puana kadar gerileyen Endeks, tepki alımlarıyla ilk bir saati 11,832 puanla geçti. 
+     İkinci yarıda işlem hacminin de teyid ettiği bir durgunluk görülse de satış baskısı sürdü. Bu yarıda en düşük 11,693 puana kadar gerileyen Endeks, seansı hafif tepki alımlarıyla 11,767.80 puandan tamamladı. 
+     Kapanışta mali endeks 646.64 puanlık düşüşle 16,548.02 puana, sınai endeksi 211.14 puanlık düşüşle 9,013.00 puana, hizmet endeksi de 75.13 puanlık düşüşle 7,157.26 puana geriledi. Böylece mali gurubu hisseler önceki kapanışa göre ortalama yüzde 3.76, sınai gurubu hisseler yüzde 2.29, hizmet gurubu hisseler de yüzde 1.04 oranında değer yitirdi. 1. seansta işlem gören toplam 289 hisse senedinden 48'i değer kazandı. 171 hisse senedi değer yitirirken, 70 hissenin fiyatında ise değişiklik olmadı. Seansta 233 trilyon 25 milyar 585 milyon liralık işlem hacmi oluştu. 1. seansta Yapı Kredi Bankası, Akbank, Tüpraş, Koç Holding ve Sabancı Holding en yoğun işlem gören hisseler oldular. 
+     
+
+</TEXT>
+</DOC>

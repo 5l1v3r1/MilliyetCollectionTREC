@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 37081 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/08/14/son/soneko17.html </URL>
+<DATE> 2001/08/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa'da 1. seans böyle geçti 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi, dünkü kapanışa göre 111.05 puan kayıpla 1. seansı 8,964.60 puandan tamamladı. 
+     Hisse senetleri ortalama yüzde 1.22 oranında değer yitirdi. Döviz piyasasına odaklanan Borsa'da, günün ilk seansında da satışlar sürdü. 9,096 puan seviyesinde açılan seansın ilk yarım saatinde 9,154 puana kadar toparlanan Endeks, ardından satışlarla gevşemeye başladı. En düşük 8,885 puanı gören Endeks, seansın ilk yarısını 8,915 puanla geçti. 
+     İşlem hacminin durma noktasına geldiği ikinci yarıda sıkışık bir seyir izleyen Endeks, seansı 8,964.60 puandan tamamladı. 
+     Kapanışta mali endeks 125.66 puan kayıpla 12,357.85 puana, sınai endeksi 97.06 puan kayıpla 7,773.92 puana, hizmet endeksi de 82.71 puan kayıpla 4,900.96 puana geriledi. Önceki kapanışa göre mali grup hisseler ortalama yüzde 1.01, sınai grubu hisseler yüzde 1.23, hizmet grubu hisseler de yüzde 1.66 oranında değer yitirdi. 1. seansta işlem gören toplam 277 hisse senedinden 180'i değer yitirdi. 31 hisse senedi değer kazanırken, 66 hissenin fiyatında ise değişiklik olmadı. Seansta 45 trilyon 450 milyar 39 milyon lira ile seans bazında yılın en düşük işlem hacmi oluştu. 1. seansta Yapı Kredi Bankası, İş Bankası C, Garanti Bankası, Tüpraş ve Vestel en yoğun işlem gören hisseler oldular. 
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

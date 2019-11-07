@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 9733 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/03/02/son/soneko23.html </URL>
+<DATE> 2001/03/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Para piyasalarında son durum 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası Para piyasasında TL Interbank'ında faiz yüzde 80'den gerçekleşirken, İMKB repo piyasasında ise gecelik faizler yüzde 80-115 bandında değişiyor. 
+     İMKB Repo piyasasında ortalama gecelik yüzde 90.54 seviyesinde bulunuyor. 
+     Piyasaların açılışında TL Interbank'ta Merkez Bankası yüzde 140'dan işlem açmış ancak ilk işlem yüzde 99'dan yapılmıştı. Dün, Merkez Bankası TL Interbank'ında ortalama gecelik faiz yüzde 96.55, Repo piyasasında ise yüzde 135.92 olmuştu. 
+     Bu arada, Merkez Bankası kapanışta doların alış fiyatını 903 bin 721 lira, satış fiyatını 908 bin 80 lira olarak açıkladı. Buna göre, Türk Lirası düne göre dolar karşısında yüzde 1.3 değer kazandı. Merkez Bankası dün doların alış kurunu 915 bin 708 lira, satış kurunu da 920 bin 125 lira olarak açıklamıştı. 
+     Öte yandan, bankacılık çevreleri ekonomik kararlarla ilgili olumlu beklentilerin fiyatlara yansımaya başladığını belirtiyorlar. Bankacılar, doların değer kaybında türk lirası ihtiyacının etkisinin bulunduğunu da bildirerek, dövizdeki asıl fiyatların, bayram sonrasında açıklanması beklenen yeni ekonomik program sonrasında oluşacağını ifade ediyorlar. İlgili çevreler, bayram tatili öncesi olmasına rağmen Türk lirası gecelik faizlerde de belirgin bir düşüş olduğuna da dikkat çekiyorlar. Bankacılar, bono piyasasında ise uzun süredir devam eden hacimsiz seyrin, durma noktasına geldiğini belirtiyorlar. 
+
+
+
+
+</TEXT>
+</DOC>

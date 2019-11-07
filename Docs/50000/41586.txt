@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 41586 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/09/11/son/soneko02.html </URL>
+<DATE> 2001/09/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası'nda Dow Jones ve Nasdaq endeksleri yükseldi. 
+     Borsanın temel göstergesi Dow Jones, 0.34 puan artarak günü 9,605.51 puandan kapattı. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq da 7.68 puan artarak 1,695.38 puana yükseldi. 
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

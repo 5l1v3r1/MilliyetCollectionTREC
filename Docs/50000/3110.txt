@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 3110 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/20/son/soneko01.html </URL>
+<DATE> 2001/01/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones düştü, Nasdaq yükseldi 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Borsası'nda temel mali gösterge Dow Jones sanayi endeksi günü 90.69 puan düşüşle yüzde 0.9 10 bin 587.59 puandan kapadı. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq Birleşik Endeksi ise 1.93 puanlık artışla 2 bin 770.42 puandan kapandı. 
+     New York menkul kıymetler borsası Wall Street'in açılışında Nasdaq Bileşik Endeksi yüzde 2,62 oranında artışla 2.841,10 puana çıkmış, Dow Jones Endeksi ise ilk seansta yüzde 0,03'lük artışla 10.681,33 puana yükselmişti. 
+
+
+
+
+</TEXT>
+</DOC>

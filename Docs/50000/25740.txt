@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 25740 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/06/08/son/sondun12.html </URL>
+<DATE> 2001/06/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft'un yeni tarayıcısı "tehlikeli" bulundu 
+</HEADLINE>
+<TEXT>
+
+     Microsoft tarafından 25 Ekim'de piyasaya çıkartılacak ''Windows-XP'' işletim sistemine bağlı Internet Explorer 6 sürümünün, web sayfaları okuyucularını, sayfa yapımcısının haberi ve rızası olmadan başka yerlere yönlendirme kapasitesine sahip olduğu bildirildi. 
+     Wall Street Journal gazetesi ve internetteki bilgisayar sitelerinde yer alan haberlere göre, Internet Explorer'in yeni sürümü bunu ''smart tags'' adı verilen özelliği sayesinde yapıyor. Yeni tarayıcının beta sürümünü inceleyen uzmanlar, Explorer'ın yönlendirdiği sayfaların büyük kısmının Microsoft'a ya da onun destek verdiği kuruluşlara ait olduğunu belirlediler. 
+     Halen internet sitelerinin sahip ve yapımcıları, arzu ettikleri başka sitelere link verme özgürlüğüne sahip bulunuyorlar. Internet Explorer'ın yeni sürümü piyasaya çıkınca bu özgürlük ortadan kalkacak. Microsoft yetkilileri, kullanıcıların diledikleri takdirde Explorer'ın bu özelliğini etkisiz hale getirebileceklerini disable öne sürdüler, ancak özelliğin tarayıcının yeni sürümüne neden konduğunu izah edemediler. 
+     Tarayıcının beta sürümünü kullananların belirttiğine göre, IE6 ile görülen web sayfalarındaki bazı kelimelerin altlarında deniz dalgasını andıran çizgiler oluşuyor. Okuyucu bu kelimelere klik yaptığı takdirde derhal başka sayfalara yönlendiriliyor. 
+     Eleştiride bulunan uzmanlar, örneğin kahve satan bir firmanın web sitesine yeni tarayıcıyla bakıldığında, kuruluşun rakibi olan firmaların sayfalarına link verilmesi ve okuyucunun buralara yönlendirilmesi tehlikesi bulunduğunu öne sürdüler. Harvard üniversitesi hukuk profesörlerinden Andy Gavil de tarayıcının söz konusu özelliğinin, Microsoft firmasının ikiye ayrılmasını öngören mahkeme kararına benzer ikinci bir karar alınmasına yol açabileceğini söyledi. 
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

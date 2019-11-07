@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 33224 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/07/21/son/soneko01.html </URL>
+<DATE> 2001/07/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones ve Nasdaq endeksleri düştü 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası'nda Dow Jones ve Nasdaq endeksleri günü düşüşle tamamladı. 
+     Borsa'nın temel göstergesi Dow Jones endeksi 33.35 puan düşerek, günü 10,576.65 puandan kapattı. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq da 17.22 puan düşüşle 2,029.37 puana indi. 
+
+
+
+
+
+
+</TEXT>
+</DOC>

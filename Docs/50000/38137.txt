@@ -1,0 +1,44 @@
+<DOC>
+<DOCNO> 38137 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/08/21/dunya/adun.html </URL>
+<DATE> 2001/08/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tanklara Atılgan’ kalkanı 
+</HEADLINE>
+<TEXT>
+
+Uzay Yolu dizisinden esinlenen bilimadamları, tankları manyetik alanla donatacak. Böylece hem roketlere karşı korunma artacak, hem de zırh yüzünden ağırlıkları 60 tona çıkan tanklar hafifleyip çevikleşecek 
+     DIŞ HABERLER SERVİSİ 
+
+     Bilim adamları kara savaşlarında çığır açacak yeni bir teknolojik evrimi tamamlama aşamasında... ABD’li ve İngiliz bilim adamları, birlikte yürüttükleri bir çalışmayla, tanklara "Uzay Yolu" Star Trek dizisindeki Atılgan uzay gemisinden aşina olduğumuz manyetik alan zırhları giydirmeye hazırlanıyor. 
+     Bilim dünyasının saygın dergisi "New Scientist"in son sayısında yayınlanan çalışma sayesinde, kara savaşlarının en önemli araçları olan tanklar tonlarca ağırlığındaki zırh yerine düğmeye basıldığında devreye girecek bir manyetik alanla korunacak. 
+     
+     Yakıt tasarrufu 
+     Elektronik kalkan sayesinde, 20 ton ağırlığındaki füzeler bile tankın zırh kalınlığı ne olursa olsun etkisiz kalacak. İngiltere ordusunda yaygın olarak kullanılan Challenger tanklarının 60 tonluk ağırlığı düşünüldüğünde, elektronik kalkan sayesinde hafifleyen tanklar yakıt tasarrufu da sağlayacak. Hantallıkları yüzünden çoğu arazide kullanılamayan tankların hafiflemeleriyle manevra kabiliyetleri de artacak ve çoğu arazide kullanılamayan tanklar altın çağlarını yaşamaya başlayacak. 
+     İngiltere Savunma Bakanlığı elektronik kalkan konusunda ser verip sır vermezken ABD ordusu’nun Maryland’deki araştırma laboratuvarları yetkilileri sistemin çalışma esasını açıkladı bile. 
+     
+     Plastik tuğlalar 
+     Projeye göre her tank güçlendirilmiş plastik tuğlalarla kaplanacak. Bu tuğla yüzeyin altına fiber optik kablolardan oluşan bir hasır serilecek. En alt katmandaysa standard tank zırhı ve altında metal bobinler yer alacak. Düşmana ait antitank füzesi tanka yaklaştığında devreye giren sistem, elektronik bir manyetik alan oluşturarak, füzenin hasar vermesini önleyecek. 
+     Savunma konularında uzman "Jane’s Armour and Artillery" dergisinin editörü Chirs Foss, bu gelişmenin artık ordular için kaçınılmaz olduğunu, bazı ülkelerin tankların en zayıf noktası olan makinelik tüfek yuvalarından vuran füzeler geliştirdiğini, ancak elektromanyetik zırh sayesinde bunların da etkisiz kalacağını söyledi. 
+     ABD Ordusu Araştırma Laboratuvarları bilim adamlarından Mike Zoltowski ise, yeni nesil tanklarda artık 800 mm kalınlığında zırhlara ihtiyaç duyulmayacağını, bu sayede hem önemli ölçüde yakıt tasarrufu sağlanacağını hem de tankların büyük bir manevra yeteneği kazanacağını söyledi. 
+     
+
+
+
+ DÜNYA 
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

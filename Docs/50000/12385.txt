@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 12385 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/03/21/son/soneko05.html </URL>
+<DATE> 2001/03/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İstanbul ve Ankara'da dolar, mark ve sterlinin son fiyatları 
+</HEADLINE>
+<TEXT>
+
+     İstanbul ve Ankara'da dolar, mark ve sterlinin alış-satış fiyatları, saat 10.00 itibariyle şöyle 
+     
+İSTANBUL SERBEST PİYASA ALIŞ SATIŞ ABD Doları 950,000 970,000 Alman Markı 440,000 460,000 İngiliz Sterlini 1,350,000 1,450,000      
+     
+ANKARA SERBEST PİYASA ALIŞ SATIŞ ABD Doları 940,000 975,000 Alman Markı 435,000 455,000 İngiliz Sterlini 1,338,000 1,415,000      
+
+
+
+
+</TEXT>
+</DOC>

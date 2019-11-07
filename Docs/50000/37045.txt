@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 37045 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/08/14/son/sondun09.html </URL>
+<DATE> 2001/08/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD'nin prototip uçağı 'Helios'tan dünya irtifa rekoru.. 
+</HEADLINE>
+<TEXT>
+
+     ABD'nin prototip uçağı ''Helios'', yatay uçuşta 96500 ayak yaklaşık 28.95 km yükselerek dünya irtifa rekorunu kırdı. 
+     NASA'dan yapılan açıklamaya göre, Hawai'nin Kuai adasındaki Amerikan Pacific Missile Range hava üssünden kalkan, uzaktan kumandalı pilotsuz uçak, yaklaşık 8 saat uçtuktan sonra bu yüksekliğe ulaştı. Bu irtifada hava sıcaklığının eksi 40 derece olduğu ve şimdiye kadar hiçbir uçağın bu yüksekliğe erişemediği belirtildi. 
+     Uçuşun toplam süresinin 14 ila 16 saat süreceği, güneş enerjisiyle çalışan deney uçağının dönüş için alçalmaya başladığı kaydedildi. 
+     Buna karşın, California eyaletindeki Monrovia'da bulunan AeroVironment şirketi tarafından geliştirilen uçağın rekorunun henüz resmen kayda geçmediği belirtildi. 
+     Rekorun havacılık tarihi için bir kilometre taşı olduğunu kaydeden NASA yetkilileri de çevreyi kirletmeyen ve güneş enerjisiyle çalışan bu uçağın bu alanda bir teknolojik zafer olduğunu ifade ettiler. 
+     Helios'un küçük bir çeşidi olan ve ''Pathfinder Plus'' adı verilen bir başka prototip, 1998'te 80200 ayak yaklaşık 24.06 km irtifaya ulaşmıştı. Füzeler dışında jet motorlu uçaklarda irtifa rekoru 1976'da Lockheed SR-71 tarafından 85068 ayak 25.52 km ile kırılmıştı. Havacılık ve çevre için büyük bir adım olarak nitelenen Helios, 2'şer beygirgücündeki 14 elektrikli pervaneye ve bir Boeing 747 Jumbo kadar geniş 82 metre uzunluğunda kanatlara sahip bulunuyor. 
+     Karbon ve grafit liflerinden üretilen, son derece hafif çevreci uçakta, 65 bin güneş hücresi bulunuyor ve havalanabilmesi için açık ve güneşli bir hava gerekiyor. Bataryaları pervanelerini bütün bir gece çalıştırabilen uçak, bisiklet hızıyla havalanırken, saatte 30 ila 50 km hızla uçuyor. NASA yetkilileri, uygun hava koşullarında prototip uçağın 103000 ayak 30.9 km irtifaya yükselebileceğini bunun da jet motorlu ticari uçakların çıktığı irtifanın 3 katı yüksek olduğunu belirtiyorlar. 
+     Dünya atmosferi 100 bin ayaktan sonra ince Mars atmosferi ile benzerlik taşıyor. NASA uzmanları, Helios'un Mars'a gidecek uzay aracının yapımı için mühendislere yardım edeceğini belirtiyorlar. Amerikalı uzmanlar, Mars'ta yüzeye yakın uçabilecek bir aracın, yerdekinden daha faydalı olacağına ve yakıt ikmali için yere inmesine gerek olmadığını kaydediyorlar. Helios'tan ayrıca ''uçan uydu'' olarak da yararlanılabilecek. Uçakla ilgili internette ''www.aerovironment.com'', ''www.dfrc.nasa.gov Projects Erast helios.html'' ''www.solaraircraft.com'' siteleri ziyaret edilebilir. 
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

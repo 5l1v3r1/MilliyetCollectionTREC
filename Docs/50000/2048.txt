@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 2048 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/13/son/soneko03.html </URL>
+<DATE> 2001/01/13/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Fındık döviz kazandırıyor 
+</HEADLINE>
+<TEXT>
+
+     Dünya fındık üretim ve ihracatının büyük bölümünü elinde bulunduran Türkiye, son 10 yılda ihracattan toplam 6 milyar 686 milyon 154 bin 383 dolar döviz elde etti. 
+     Karadeniz Fındık ve Mamülleri İhracatçıları Birliği yetkililerinden alınan bilgiye göre, 1991-2000 yılları arasında Türkiye, büyük bölümü Avrupa ülkelerine olmak üzere 1 milyon 940 bin ton iç fındık ihraç etti. Yetkililer, son 10 yıl içinde miktar olarak en fazla ihracatın 1995 yılında 242 bin 632 ton ile yapıldığını belirterek, 1997 yılında elde edilen 925 milyon 651 bin dolarlık dövizin ise bir yılda kazanılan en fazla miktarı teşkil ettiğini söylediler. 
+
+
+
+
+</TEXT>
+</DOC>

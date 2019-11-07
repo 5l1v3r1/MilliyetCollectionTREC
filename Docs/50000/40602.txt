@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 40602 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/09/05/son/sondun08.html </URL>
+<DATE> 2001/09/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Magistr virüsüne dikkat... 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayarların BIOS ce CMOS yongalarındaki bilgileri silen çok tehlikeli ve yıkıcı bir virüs keşfedildi. 
+     Daha önce görülen ''Magistr'' adlı virüsün bir değişkeni olan ve ''Magistr-B'' adı verilen yeni virüs e-mail aracılığıyla yayılıyor ve birden fazla ek dosya attachment taşıyabiliyor. ''Readme.exe'' dosyası içinde ulaşan virüsün gerek yerel, gerekse şebekedeki dosyaları silme özelliği de bulunuyor. Söz konusu dosya açılmadığı takdirde, virüsün bilgisayara bulaşma olasılığı safdışı ediliyor. 
+     ABD'deki uzmanlar, yeni virüsün Avrupa'da hızla yayıldığını, henüz ABD'ye ulaşmadığını bildirdiler. 2000 yılı başlarında çıkan ''Magistr-A'' virüsü hala internetteki en yaygın virüsler arasında bulunuyor. Yeni virüsün ''win.com'' ve ''NETLDR'' gibi Windows işletim sistemini yükleyen dosyaları da sildiği ve bilgisayarı kullanılmaz hale getirdiği ifade edildi. Virüs, anti virüs programlarının kullandığı .ntz uzatımlı dosyaları ve ''ZoneLab'' firmasının ücretsiz dağıttığı ''ZoneAlarm'' firewall programlarını da tahrip ederek anti virüs programlarını etkisiz hale getiriyor. 
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

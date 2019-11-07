@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 23701 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/05/28/son/soneko32.html </URL>
+<DATE> 2001/05/28/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsada bugün en çok değer kazanan ve kaybeden hisseler 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası'nda İMKB bugün günlük bazda en çok değer kazanan ve en çok değer yitiren 10 hisse senedi ile değişim oranları şöyle 
+     
+DEĞER KAZANAN HiSSE ADI ARTIŞ ORANI Y.Kredi F. Kir. 10.20 Boyasan Tekst. 8.77 Duran Ofset 8.51 Eminiş Amb. 7.27 Yasaş 6.78 M.Zorlu Holding 6.06 Milliyet Gazt. 5.97 Taç Yat. Ort. 5.71 Vakıf Fin.K. 5.68 FM.İzmit Piston 5.00      
+ DEĞER KAYBEDEN HiSSE ADI DÜŞÜŞ ORANI Meges Boya -14.29 Bayraklı Boya -13.33 Metemteks Y. -11.83 Tansaş -11.63 Klimasan -11.63 Deva Holding -11.11 Turcas Petrol -10.77 ÇBS Boya S. -10.75 Doğan Hold. -10.71 Parsan -10.34      
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

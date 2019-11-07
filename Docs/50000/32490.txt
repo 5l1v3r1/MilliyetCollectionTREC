@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 32490 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/07/17/son/sondun05.html </URL>
+<DATE> 2001/07/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hacker'lar sansürcü hükümetlere karşı yazılım geliştirdi 
+</HEADLINE>
+<TEXT>
+
+     İnternet jargonunda ''hacker'' şifre kırıcı olarak adlandırılan bilgisayar korsanları, sansürcü hükümetlere karşı bir yazılım geliştirdiklerini bildirdiler. 
+     Verilen bilgiye göre, söz konusu yazılım aracılığıyla insan hakları savunucusu olan kuruluşlar, internete sansür uygulayan hükümetlerin sitelerine nüfuz edebilecekler. Hacker'lar, geliştirdikleri yazılıma ''Peekabooty'' adını verdiler. Geçen hafta sonu açıklanması beklenen yeni yazılım, kullanıcıların kimliklerinin kesin olarak gizlenebildiği kanıtlandıktan sonra, muhtemelen yıl sonuna doğru kullanıma sunulacak. Bilgisayar korsanları, ''internetteki bilgilere ulaşmanın temel insan haklarından olduğunu ve sansürcü hükümetlerin bunu engelleyemeyeceklerini'' savunuyorlar. 
+     Hacker'ların hedef aldıkları, siyasal ve dinsel gerekçelerin yanı sıra bazı sitelerin pornografik olduklarını öne sürerek yurttaşlarını internetten yararlanmaktan alıkoyan ülkeler arasında Birleşik Arap Emirlikleri, Suudi Arabistan, Afganistan, Myanmar, Çin ve Kuzey Kore bulunuyor. 
+     Kendilerine ''Hactivismo'' adını veren hacker grubu, hazırladıkları yazılımın, hükümetlerin koydukları filtreleri delerek girilmesi yasaklanan sitelere girişe olanak vereceğini savunuyorlar. Proje üzerinde yaklaşık 30 gönüllünün çalıştığı ve bunlar arasında bilgisayar programcılarının yanı sıra hukukçular, öğrenciler ve insan hakları savunucularının bulunduğu belirtildi. ''Hactivismo'' grubunun üyelerinin ABD, Çin, Kanada, Avrupa ülkeleri, İsrail, Taiwan ve Güney Koreli oldukları kaydedildi. 
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

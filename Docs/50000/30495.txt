@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 30495 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/07/05/son/soneko11.html </URL>
+<DATE> 2001/07/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Döviz pozisyon oranı hesaplamalarına dövize endeksli senetlerde dahil.. 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası, bankaların haftalık ve aylık döviz pozisyon oranı hesaplamasına, iç borç takası konusu dövize endeksli senetlerin de dahil edildiğini bildirdi. 
+     Merkez Bankası'ndan yapılan açıklamaya göre, Banka'nın ilgili genelgesinde değişiklik yapılarak, Hazine'nin iç borç değişimi dolayısıyla ihraç ettiği dövize endeksli devlet iç borçlanma senetlerinden, bankalar ve özel finans kurumlarının döviz varlıklarının yüzde 15'ne kadar olanları, bankaların haftalık ve aylık döviz pozisyon oranı hesaplamasına esas döviz varlıkları arasına dahil edildi. Bu uygulamaya, 22 Haziran tarihli haftalık cetvelden itibaren başlandığı ifade edilen açıklamada, ''bilindiği gibi döviz pozisyon oranı düzenlemesine göre, banka ve özel finans kurumlarının döviz varlıklarının döviz yükümlülüklerine oranının yüzde 80-110 arasında olması gerekmekte olup, daha önceki uygulamada döviz endeksli Devlet İç Borçlanma Senetleri döviz varlığı olarak kabul edilmiyordu'' denildi. 
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

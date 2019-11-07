@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 43210 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/09/20/son/soneko01.html </URL>
+<DATE> 2001/09/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsasında düşüş sürüyor.. 
+</HEADLINE>
+<TEXT>
+
+     ABD'de 1929 Büyük Ekonomi Bunalımı'ndan beri ilk kez uzun süreli kapalı kalan ve hafta başında açılan New York Wall Street Menkul Kıymetler Borsası'nda düşüş sürüyor. 
+     New York'ta 11 Eylül Salı sabahı yerle bir olan 110 katlı Dünya Ticaret Merkezi ve eş zamanlı olarak Savunma Bakanlığı Pentagon'un da vurulmasıyla tarihin en geniş çaplı terör darbesine maruz kalan ABD'de, dünyanın en büyük borsası konumundaki Wall Street, 6 gün kapalı kaldı. 
+     Borsa açıldıktan sonra, üçüncü gün olan Çarşamba da esas gösterge Dow Jones Sanayi Endeksi'nde 144.27 puan düşüşle yüzde 1.62 kayıp , 8,759.13 puandan kapanış kaydedildi. Teknoloji firmalarının hisse senetlerinin izlendiği Nasdaq Birleşik Endeksi'nde de 27.43 puan düşüş yüzde 1.76 görüldü ve endeks 1,527.65 puanda kapandı. Standard and Poor's 500 Endeksi, 1998 Ekim ortasından beri, borsa açıldıktan sonra bir ara psikolojik 1000 puan sınırının ilk kez altına düştü ve çıktı. S P 500 Endeksi 16.67 puan düşüşle yüzde 1.61 1,016.07 puanla kapandı. Dow Jones Endeksi, ilk seansta 23.46 puanlık değer kaybıyla 8,879.94 puana geriledi. 
+     Edison elektrik şebekesinin Güney Manhattan bölgesinin tümüne hala elektrik veremediği ortamda, New York Borsası, Pazartesi ve Salı günkü yüksek düşüş oranına rağmen, Çarşamba günü biraz daha istikrarlı çizgi tutturdu, fakat yatırımıcılar yine de tedirginliklerini korudu. 
+     Dow Jones, İkiz Gökdelenler yıkıldıktan sonra 2.5 yılı aşkın süredir ilk kez 9000 puanın altına düştü. Büyük Bunalım'dan beri ilk kez uzun süreli kapalı kalan New York Wall Street Borsası'nın Dow Jones Endeksi, Pazartesi günü en büyük kayıplarından biriyle karşılaştı 678.2 puan, yani yüzde 7 düştü. Amerikan Merkez Bankası ve Avrupa Merkez Bankası'nın yatırımcılara destek için faiz oranlarını düşürmesine rağmen New York Borsası hızlı düşüşten kurtulamadı. 
+     ABD Merkez Bankası, bu yıl 0,5 ila 3 puan arasında 8 kez faiz oranlarını düşürdü. Dow Jones Sanayi Endeksi, itfaiyecilerin açılış gongunu çalmasıyla başlayan ilk günde, Pazartesi öğleden sonraki seansta 678.52 puan düşüşle yüzde 7.07 8 bin 921.18 puana geriledi ve endeksin Ocak 2000'deki en yüksek rekorunun yüzde 24'ünü kaybetmiş oldu. Nasdaq Birleşik Endeksi de Pazartesi günü 115.66 puan düşüşle yüzde 6.82 1,579.71 puandan kapandı. Nasdaq, 1998-Ekim'den beri en düşük düzeyinde kaldı. 
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

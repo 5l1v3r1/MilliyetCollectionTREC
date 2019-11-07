@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 28691 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/06/25/son/sondun01.html </URL>
+<DATE> 2001/06/25/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İran'da 18 yaşından küçüklerin internet kullanması yasaklandı 
+</HEADLINE>
+<TEXT>
+
+     İran 18 yaşından küçüklerin Internet kullanmalarını yasaklayan bir tüzük yayınladı. 
+     Hembestegi gazetesinin bugünkü haberine göre, İran Telekomünikasyon İdaresi, yayınladığı yeni tüzükte, muhalefet gruplarıve muhalif kişilerin, rejim ve İslami değerler aleyhine bilgiler içeren Internet siteleri işletmeleri nedeniyle Internet'in ''ulusal güvenliği tehdit edebileceğini'' belirterek, Internet şirketlerini 18 yaşından küçüklerin Internet kullanmasını denetlemekle ve bu tür içerikler bulunan sitelere erişimi engellemekle sorumlu kıldı. 
+     Tüzükte, bu önlemleri almayan Internet servis şirketlerinin çalışma izinlerinin iptal edileceği hükme bağlanıyor. Yayınlanan tüzükte, 18 yaşından küçük kişilerin evlerindeki bilgisayarlardan Internete erişimlerinin nasıl denetlenip engelleneceği konusunda ise bilgi verilmedi. 
+     Özellikle ABD'deki İranlılar tarafından kurulan Internet siteleri, İran içindeki gençler arasında, hem ayrıntılı ve sansürsüz haberler vermeleri hem de eğlence ve ülke içinde yasaklı şarkıları dinleme ve kaydetme imkanı sağlamaları açısından çok popüler durumda. Polis, geçen ay gerekli izinleri almadıkları gerekçesiyle yüzlerce Internet Cafe ve Internet servisi veren şirketi kapatırken, Internet piyasasında çalışan şirketler bu kısıtlama önlemlerinin arkasında, yakında 1 milyon kullanıcıya ulaşacak büyük Internet pazarında, bazı güçlü siyasi kişilere veya bakanlıklara yakın şirketlerin egemenlik oluşturacağı bir tekelleşme yönündeki adımlar olarak yorumluyorlar. 
+     
+     
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

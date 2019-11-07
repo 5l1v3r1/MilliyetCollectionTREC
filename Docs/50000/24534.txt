@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 24534 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/06/01/son/sontur09.html </URL>
+<DATE> 2001/06/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayarlarda ölümcül Jennifer Lopez virüsü geliyor 
+</HEADLINE>
+<TEXT>
+
+     Jennifer Lopez'in fotoğraflarını çıplak görmeyi sağlamayı vaad eden yeni tür bir "Çernobil virüsünün" internette hızla yayıldığı bildirildi. Virüs e-mail aracılığıyla gönderiliyor. 
+     Uzmanların belirttiğine göre, virüs dosyasının konu bölümünde "where are you" yazıyor ve ekli dosya "jenniferlopez naked.jpg.vbs" koduyla gönderiliyor. 
+     Anti-virüs üreticisi "Panda Software" şirketi, perşembe günü kendilerine bu konuda sekiz ihbar iletildiğini, ihbarlardan birinin büyük bir uçak firmasından geldiğini açıkladı. Uçak şirketinin bilgisayarlarına giren virüsün sisteme zarar vermeden farkedildiği öğrenildi. 
+     "Panda" firması, virüsün bilgisayarlara yayılma ve zarar verme açısından en riskli virüslerden biri olduğunu açıkladı. Norton anti-virüs programını üreten "Symantec" firması ise, virüsle ilgili altı ihbar aldığını, ancak virüsün önemli bir zarara yol açmayacak kadar yavaş yayıldığını duyurdu. 
+     
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

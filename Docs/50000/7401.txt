@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 7401 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/02/16/son/soneko03.html </URL>
+<DATE> 2001/02/16/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Goodyear 7 bin 200 kişiyi işten çıkarıyor 
+</HEADLINE>
+<TEXT>
+
+     ABD'nin önde gelen lastik üreticilerinden Goodyear, verimliliği arttırmak için 7 bin 200 kişiyi işten çıkartacağını bildirdi. 
+     Çıkartılacak işçilerin, şirketin toplam personel sayısının yüzde 7'sini oluşturduğu belirtildi. Goodyear'in, başlıca rakibi olan Firestone'un bir kısım lastiklerini hatalı oldukları gerekçesiyle toplatmak zorunda kalmasına rağmen, zarar ettiği ifade edildi. Bunda, yükselen hammadde fiyatları, petrol fiyatlarındaki artış ve euro'nun dolar karşısında değer yitirmesinin rol oynadığı kaydedildi. Goodyear'in geçen yılın 4'üncü 3 aylık dönemine ait verimlilik tahminleri beklenenin altında gerçekleşmişti. Yapılacak personel indirimi sonucu bu yıl 150, gelecek yıl ise 250 milyon dolar tasarruf sağlanması planlanıyor. 
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 36377 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/08/10/son/sondun10.html </URL>
+<DATE> 2001/08/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Güney Kore'de 'Kırmızı Kod'un üçüncü versiyonu saptandı 
+</HEADLINE>
+<TEXT>
+
+     ''Kırmızı Kod'' bilgisayar virüsünün üçüncü versiyonunun Güney Kore'de saptandığı bildirildi. 
+     Güney Kore Enformasyon ve İletişim Bakanlığı yetkilileri, şimdiye kadar 10 bilgisayarın etkilendiği haberleri geldiğini, buna ''Kırmızı Kod 3''ün yol açtığını tahmin ettiklerini söyledi. Yetkililer, Kırmızı Kod'un bu türünün ilk versiyonlara göre daha hızlı yayıldığını ve etkilediği bilgisayarlara başka kullanıcıların internet üzerinden girmelerine olanak sağladığını söylediler. G. Kore yetkilileri, virüsün versiyonlarının 43.201 sunucuyu etkilediğini belirttiler. 
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,108 @@
+<DOC>
+<DOCNO> 32484 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/07/17/yazar/yilmaz.html </URL>
+<DATE> 2001/07/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Serpil YILMAZ  </AUTHOR>
+<HEADLINE>
+Bayındır'ın gelirine el kondu 
+</HEADLINE>
+<TEXT>
+
+     Fon'a geçen bankaların patronları tutuklu, servetleri serbest 
+     IMF ile yapılan hükümet programına halktan destek isteniyorsa, önce soygunculardan paraların tahsil edeceğine dair güvenin verilmesi gerekiyor. Hatta her tahsil edilen kuruşun bangır bangır ilan edilmesi... 
+     Cavit Çağlar'ın bankasında milyar dolar batıyor, cebinden 5 milyon doları nakit olarak çıkartıp kefalet parası verebiliyor. 
+     Ali Balkaner, Fon'a geçen 18 bankadan giden 23 milyar doların ortağı olarak yükü sırtımıza bindiriyor, milyon dolarlık tabloları Manoco'daki saray yavrusunu süslüyor. 
+     Bankaların binaları borçlarıyla devlete geçiyor, içindeki paralar tatilde... 
+     Ankara Asliye Ticaret Mahkemesi, Bayındır Bank'a el koyan Tasarruf Mevduatı Sigorta Fonu'nun açtığı dava sonucunda, Bayındır Holding ve Bayındır İnşaat ile yöneticilerinin, mal varlıkları üzerine ihtiyati tedbir konulmasına, üçüncü kişilere devir ve temliklerin önlenmesi kararı aldı. 
+     Bayındır'a benzer durumdaki Nergis Holding veya Balkaner'in şirketleri ne durumda 
+     Kartal cezaevinde 46 off - shore alacaklısına, 11 milyar lira borcunu ödememek için arkadaşlarıyla kaldığı koğuştan atılıp, hayali ihracat zanlısı Muhammed Ciğer ile kalmayı göze alan Balkaner'den ne tahsil edildi 
+     Banka baronlarının dışarıda kalan yakınları, servet takibi yapmaya devam ediyorlar. 
+     
+Geleceğimiz kaçıyor      Geleceğimiz yazılımda. 
+     Bu saptamayı yapan bilişim sektöründe faaliyet gösteren Bilkent Holding'e bağlı Meteksan Sistem ve Bilgisayar Teknolojileri Murahhas Üye'si Alper Köstem. Bilkent Holding İcra Kurulu'nda da yer alan Köstem'in hesabı şu 
+     "Avrupa Birliği ülkelerinin kişi başına yıllık IT harcaması 160 Euro, Türkiye'nin ise 7-8 Euro. Bu demektir ki, Türkiye henüz bilişim sektöründe yolun başında." 
+     Avrupa bir yana, Hindistan yılda 10 milyar dolar olan yazılım ihraç gelirini, 2005'de 5'e katlamayı hedefliyor. 
+     Köstem, "Türkiye'nin çıkışı yazılımda. Cip üretip, satacak değiliz. Ancak sektörde krizle birlikte çok vahim bir gelişme yaşanıyor. Yetişmiş yazılım uzmanları buradaki işlemlerini bırakıp, Avrupa ülkelerine yerleşiyorlar" diyor. 
+     Köstem, Avrupa'da yazılım alanında istihdam açığı olduğunu ve yetişmiş iş gücünü Türkiye'de tutmakta güçlük çektiklerini söylüyor. 
+     Yaşanan krizlerle önce yabancı, sonra yerli sermaye kaçmaya başladı, sıra yetişmiş iş gücüne geldi. 
+     Aynı doğrultuda aldığım okuyucu mail'lerinden bir örnek 
+     "Üniversiteyi bölüm üçüncüsü olarak bitirdim. İş aradığım bir yıllık süre içinde kendimi daha da geliştirmek için kurslara gittim. Bu arada internetten biri Viyetnamlı, diğeri Fransız iki girişimci ile midye kabuklarından yapılan havyar kaşığı işine girdim. Emirates Airlines, British Airways ve New York'daki ünlü restoranlara bir yıl içinde 5 bin adet havyar kaşığı pazarladım. Ortaklarım Türkiye'yi riskli bulduğu için yatırım yapmaktan kaçınıyorlar. Benim gibi umudu tükenen 1 milyon kişi, ABD'nin "Greencard Lotary" çekilişine katıldı. Artık değişimi yapamıyorlarsa, gitsinler " 
+     Esnaf yazar kasa fırlattı, işçi-memur her gün sokaklarda, yüzbinlerce çalışan gibi işadamları da işsiz... 
+     Umutların tükenişi, geleceği kaçırıyor 
+     
+Kimiz, neyiz, neyimiz var      Kamu, "Kimiz, neyiz, neyimiz var" sorusunun yanıtını arıyor. 
+     Meteksan'ın 2000 yılı içinde aldığı kamu ihalalerini görünce, aslında teknoloji alt yapı yatırımlarında ne kadar geç kaldığımız da anlaşılıyor. "Zararın neresinden dönülse kardır" diye bakıp, yapılanları sıralayayım 
+     
+     Emniyet Genel Müdürlüğü Otomatik Parmak İzi Teşhis Projesi AFİS 
+     Japon Eximbank ve Sumitoma Bank'tan sağlanan 28 milyon dolar kredi ile 3 yılda 1 saniye içinde, 13 bin parmak izini karşılaştırma olanağı elde ediliyor. 16 ilin Emniyet Müdürlüğü'nde tamamlanan bu çalışma, suçluları kodlayacak. 
+     
+     İçişleri Bakanlığı Merkezi Nüfus İdaresi Projesi MERNİS 
+     Genel merkezde nüfus veri tabanı oluşturan bu proje ile herkese bir kimlik numarası verildi. 110 milyon ölü ve sağın bilgilerine ulaşmak mümkün.923 ilçede Koç Sistem ile Meteksan'ın yürütüğü bu projeden partiler de yararlandığında, seçim sistemi üzerine yapılan teknik tartışmaya açıklık gelebilir. 
+     
+     TSK Rehabilitasyon Projesi 
+     Dünyanın üçüncü, Avrupa'nın birinci merkezi kabul edilen ve Ankara'da 1 milyon metrekare alan üzerine kurulu tedavi ve rehabilitasyon merkezi, gazilere hizmet veriyor. Proje 105 milyon dolara maloluyor. 
+     
+     Tarım Kredi Kooperatifleri Projesi TARKOP 
+     Yaklaşık 2 milyon çiftçinin bağlı olduğu 2376 kooperatifin otomasyonu sağlandı. 
+     
+     Maliye Muhasebat Projesi Say 2001 
+     Devletin muhasebesi web tabanlı bir uygulama ile 15 milyon dolarlık yatırım sonucunda, otomasyona geçiyor. 1660 saymanlıktaki bilgiler toplanıyor ve hangi kurumun Hazine'ye ne kadar yük getirdiği ortaya çıkıyor. Saymanlıkların birinin yazılım ve donanım maliyeti 6 bin dolar olurken, vergi dairelerindeki otomasyon yatırımında bu maliyet 400 bin dolara çıktı. Aradaki farkın nedenini artık yetkililer izah etsinler bakalım. Benim anlamam mümkün değil. 
+     Bunlar Meteksan'ın içinde olduğu konsorsiyumlarla aldığı kamu ihalelerinden yalnızca bir bölüm. Atatürk Havalimanı Dış Hatlar Terminali, Doğal Afet Sigortaları Projesi DASK gibi diğer projelerle yıllık cirosu 300 milyon dolara yükseliyor. Son 5 yılda bilişim sektörünün 3 katı büyümeyi yakalayan Meteksan'ın gözü, 600 milyon dolarlık SSK ve 150 milyon dolarlık Bağ - Kur otomasyonu projelerinde. Finansman sağlayabilirlerse. 
+     
+     
+
+
+
+
+
+
+
+Ara dönem ve MHP 
+
+
+Tezek terazi 
+
+
+'Karıştırmak istiyorlar' 
+
+
+Hayata Dönüş Operasyonu'nun hesabını vermek zorunda devlet 
+
+
+Psikiyatr... Psikolog... 
+
+
+İffet Bey 
+
+
+Ecevit'e teşekkür erken mi oldu 
+
+
+Konuşmak daha iyi... 
+
+
+Siyaset ve ekonomi 
+
+
+Dünya Bankası ile BDDK nasıl ortak oldu 
+
+
+ANAP'ın geleceği 
+
+
+Çağlar ve Hacı Ali Demirel'in Malki'leri 
+
+
+Yargıtay'ın anlattığı şey farklı 2 
+
+
+Döviz 100 lira artınca fiyatlar 57 lira artıyor 
+
+
+Bayındır'ın gelirine el kondu 
+
+
+</TEXT>
+</DOC>

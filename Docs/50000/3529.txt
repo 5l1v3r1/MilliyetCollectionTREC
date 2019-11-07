@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 3529 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/23/son/sondun05.html </URL>
+<DATE> 2001/01/23/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayar korsanları hükümet sitelerine saldırdı 
+</HEADLINE>
+<TEXT>
+
+     İnternet korsanları, ABD, İngiltere ve Avustralya'daki 26 hükümet sitesini yağmaladılar. 
+     İnternet güvenlik grubu ''Attrition'' yetkililerinden B.K.DeLong, son olayın, özellikle birbirinden çok uzak 3 ayrı ülkedeki hükümet kuruluşlarına ait web sitelerini hedef alması açısından önem taşıdığını kaydetti. DeLong, saldırıya uğrayan sitelerin en fazla 15 dakika süreyle bozulduğunu ve yetkililerin derhal devreye girerek durumu düzelttiklerini bildirdi. 
+     Saldırıya uğrayan siteler arasında ABD Ulusal Mezarlıklar İdaresi, İçişleri Bakanlığı Alaska Ofisi ve California Eyalet Meclisi Cumhuriyetçi Parti grubuna ait sitelerin de bulunduğu belirtildi. DeLong, ABD kara, hava ve deniz kuvvetleri ile Hazine Bakanlığı'na ait sitelerin de saldırıya hedef olduğunu sözlerine ekledi. ABD, İngiltere ve Avustralya'nın dışında Çin, Kuveyt, Romanya, Gürcistan ve Vietnam'da da hükümete ait sitelerin saldırıya uğradığı bildirildi. 
+
+
+
+
+</TEXT>
+</DOC>

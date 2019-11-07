@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 11694 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/03/16/son/soneko21.html </URL>
+<DATE> 2001/03/16/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Repo faizi düştü 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası İMKB Tahvil ve Bono Piyasası Repo Pazarı'nda gecelik faiz oranı düştü. 
+     İMKB Tahvil ve Bono Piyasası verilerine göre, Repo Pazarı'nda 3 gecelik faizde en düşük oran yüzde 80, en yüksek oran ise yüzde 86 olarak gerçekleşti. Dün gecelik yüzde 87.25 olarak gerçekleşen ortalama faiz oranı, bugün 3 gecelikde yüzde 83.76 oldu. Menkul kıymetlerin alınıp satıldığı Tahvil ve Bono Piyasası'nda 21 Mart vadeli, 19 Mart valörlü bononun bileşik getirisi yüzde 142.83 oldu. Bankalararası TL İnterbankı'nda ise gecelik faizler minumum yüzde 80, maksimum yüzde 80.50 aralığında seyrediyor. Ortalama faiz yüzde 80 düzeyinde. 
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 12876 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/03/24/son/soneko01.html </URL>
+<DATE> 2001/03/24/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası günü 115 puan artışla tamamladı 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası yükselişle başladığı günü 115.30 puan artışla yüzde 1.23 9,504.78 puandan tamamladı. 
+     Wall Street Menkul Kıymetler Borsası'nda temel mali gösterge Dow Jones'un yanı sıra teknoloji şirketlerinin birleşik endeksi Nasdaq da 31.28 puan yükselişle yüzde 1.65 1,928.98 puandan kapandı. 
+     Borsanın ilk saati sonunda Dow Jones Endeksi 14.45 puan artarak 9,403.93 puana, Nasdaq Endeksi de 33.60 puan artışla 1,931.30 puana çıkmıştı. 
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 10987 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/03/12/son/sondun06.html </URL>
+<DATE> 2001/03/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İngiltere'de şap hastalığı rekor seviyede arttı 
+</HEADLINE>
+<TEXT>
+
+     İngiltere'de, Şap hastalığı vakaları dün rekor seviyede arttı ve 25 yeni vaka ile hastalığın görüldüğü çiftlik sayısı 164'e yükseldi. 
+     Bugüne kadar hastalık virüsünün hiç görülmediği Kent bölgesinde de salgının etkili olduğu anlaşılırken, bölgede virüsün bir sığırda tespit edilmesinin ardından durumları kuşkulu görülen yüzlerce sığırın imha edildiği açıklandı. Uzmanlar, hastalığın canlı hayvan dolaşımının tümüyle durdurulduğu Kent'e rüzgar yoluyla taşınmış olabileceği tahmininde bulunurken, Muhafazakar Parti sözcüleri hastalığın bir milli felakete dönüşmesi ihtimaline dikkat çektiler ve hükümetin ordudan yardım istemesi önerisinde bulundular. 
+     Bu arada, İngiltere'de hükümet yetkililerinin salgının tümüyle kontrol altında olduğu yolundaki açıklamaları komşu ülke İrlanda'yı kızdırdı. İrlanda Doğal Kaynaklar Bakanı Hugh Byrne İngiltere'yi salgının atlatıldığı yolunda erken ümitlere kapılıp hem kendi çiftçisini hem de komşularını yanıltmakla suçladı. Şu ana kadar 114 bin 82 hastalıklı hayvanın imha edildiği, 30 bin hayvanın da hastalık taşıdıkları kuşkusuyla imha edilmeye hazırlanıldığı İngiltere'de salgının faturasının ise çoktan 1 milyar sterline ulaştığı tahmin ediliyor. Buna besicilik sektörünün kayıplarının yanı sıra kamuoyunun ve turistlerin ziyaretlerine kapatılan pek çok kırsal alanda oluşan turizm geliri kayıpları da dahil ediliyor. 
+
+
+
+
+</TEXT>
+</DOC>

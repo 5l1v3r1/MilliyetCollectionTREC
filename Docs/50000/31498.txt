@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 31498 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/07/11/son/sondun13.html </URL>
+<DATE> 2001/07/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Japonlar konukları karşılayan robot yaptı 
+</HEADLINE>
+<TEXT>
+
+     Japonya'da bir güvenlik şirketi, konukları karşılayabilen, onlarla konuşabilen ve çocuklarla oynayabilen bir ''bekçi'' robotu halka tanıttı. 
+     Robotu üreten Sogo Keibi şirketinin sözcüsü Şigeo Tosaka, ''GuardRobo C3'' adlı silindir biçimindeki robotun boyunun 1 metre 20 santimetre olduğunu söyledi. Tosaka'ya göre, bir kamera, klavye ve tekerleklerle donatılan robot, planı hafızasına yüklenen bir binanın katlarını gezebiliyor. Hafızasında bulunan 1500 sözcüğü telaffuz edebilen robot, ''Günaydın'' diyenlere aynı karşılığı verebiliyor. Robot kendisiyle oynamak isteyen çocuklarla da oynayabiliyor. Şirketin robotu bir yıl içinde piyasaya sürmeyi planladığı belirtiliyor. 
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

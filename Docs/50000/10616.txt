@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 10616 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/03/09/son/soneko01.html </URL>
+<DATE> 2001/03/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Intel 5 bin kişiyi işten çıkarıyor 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın en büyük bilgisayar yonga yapımcısı Intel şirketi, 5 bin kişiyi işten çıkaracağını açıkladı. 
+     İşlerine son verilecek personel, şirketin toplam işgücünün yüzde 6’sını oluşturuyor. Intel’in, bir süre önce, gelirlerinde düşma olacağını açıklamasından sonra, hisse senetleri yüzde 7 oranında değer kaybetmişti. Hisseler Nasdaq borsasında 2.31 dolar gerileyerek 30.94 dolara indi. 
+     Intel, son 3 aylık dönemde gelirinin yüzde 15 değil, yüzde 25 azalacağını duyurmuştu. Şirketin son 3 aylık dönemdeki kazancının 8.7 milyar dolar olduğu açıklandı. 
+     Şirket yetkilileri düşüşün tüm ülkede görülen ekonomik duraklamadan kaynaklandığını savunuyor. Durgunluk nedeniyle kişisel bilgisayarlara olan talebin azaldığı belirtiliyor. 
+     Buna karşılık Intel’in fazla etkili olmadığı şebeke, iletişim ve server’ler alanındaki talebin büyüdüğü ifade ediliyor. Intel, dünya çapında 88 bin işçi çalıştırıyor. 
+     
+
+
+
+
+</TEXT>
+</DOC>

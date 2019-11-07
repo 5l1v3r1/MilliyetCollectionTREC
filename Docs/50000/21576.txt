@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 21576 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/05/16/son/soneko20.html </URL>
+<DATE> 2001/05/16/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsada 1. seansta en çok değer kazanan ve kaybeden hisseler 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası'nda İMKB bugün yapılan 1. seansta, en çok değer kazanan ve en çok değer yitiren 10 hisse senedi ile değişim oranları şöyle 
+DEĞER KAZANAN HiSSE ADI ARTIŞ ORANI SEZGİNLER GIDA 13.46 PINAR SU 13.04 YASAŞ 11.29 PINAR SÜT 10.77 YASAŞ YENİ 10.53 OLMUKSA 10.00 DENİZLİ CAM 9.84 BERDAN TEKSTİL 9.52 GLOBAL YAT.ORT. 9.52 10-NET HOLDİNG 9.43      
+ DEĞER KAYBEDEN HiSSE ADI DÜŞÜŞ ORANI AVRASYA YAT. ORT. -9.21 TOPRAK FACTORİNG -5.13 İŞ BANKASI B -3.74 VAKKO -3.17 UKİ KONFEKSİYON -2.53 LOGO YAZILIM -2.17 ERBOSAN -2.17 T.TUBORG -2.04 YATIRIM FIN. YAT. ORT. -2.00 KARSU TEKSTİL -1.96      
+     
+
+</TEXT>
+</DOC>

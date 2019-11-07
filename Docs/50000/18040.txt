@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 18040 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/04/25/son/sontur03.html </URL>
+<DATE> 2001/04/25/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ermeni "hacker"lar internette Kültür Bakanlığı sitesine saldırdı 
+</HEADLINE>
+<TEXT>
+
+     Ermeni iddialarına cevap vermek ve tarihi gerçekleri tüm yönleriyle ortaya koymak amacıyla ''Ermeni Sorunu İddialar-Gerçekler'' adlı CD hazırlayan Kültür Bakanlığı, Ermeni hackerların saldırısına hedef oldu. Ermeni hackerların, Kültür Bakanlığı'nın İnternet sitesini çökertmeye çalıştıkları belirlendi. 
+     Kültür Bakanı İstemihan Talay, bakanlığın İnternet sitesine yapılan Ermeni tehdidinin, geçmişte olduğu gibi Ermeni saldırganlığının tipik bir örneği olduğunu söyledi. 
+     Bakanlığın ''www.kultur.gov.tr'' adresinden ulaşılan tanıtım sitesi, Kültür Bakanlığı'nın Ermeni iddialarına karşı tarihi gerçekleri ortaya koymak amacıyla hazırladığı CD'nin 18 Nisan tarihindeki tanıtımından sonra hackerlar tarafından tehdit edilmeye başlandı. Yapılan araştırma sonucu siteyi Ermeni hackerların çökertmeye çalıştıkları, böylece bugün web sitesinde ziyarete açılacak olan CD'nin tanıtılmasını önlemeyi amaçladıkları belirlendi. 
+     Bunun üzerine Kültür Bakanı İstemihan Talay'ın talimatıyla sistem sürekli gözetim altına alınarak, herhangi bir saldırıya karşı sistemin yedekleri hazırlandı. Sitenin çökertilmesi durumunda yedek sistem devreye girecek. 
+     Kültür Bakanı İstemihan Talay, yaptığı açıklamada, ''İnternet sitemize yapılan Ermeni tehdidi, Türk toplumuna karşı geçmişte olduğu gibi Ermeni saldırganlığının tipik bir örneği olarak karşımıza çıkmıştır'' dedi. 
+     Talay, Ermenilerin geçmişte Anadolu'da yaptıkları katliamları ve Asala terör örgütüyle bu katliamlara devam ettiklerini hatırlatarak, ''Şimdi de sitemizi tehdit eden Ermeni diasporasının bu kez de sanal alemde bize karşı yöneldiği görülmektedir'' dedi. Bu tehditten herhangi bir endişe duymadıklarını ifade eden Talay, sitenin çökertilmesi ihtimaline karşı bütün önlemleri aldıklarını bildirdi. 
+     Kültür Bakanlığı'nın Ermeni iddialarına cevap vermek ve tarihi gerçekleri tüm yönleriyle ortaya koymak amacıyla hazırladığı ''Ermeni Sorunu İddialar-Gerçekler'' adlı CD, 18 Nisan'da Milli Kütüphane'de düzenlenen törenle tanıtılmıştı. 
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

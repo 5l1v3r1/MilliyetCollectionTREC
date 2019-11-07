@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 5932 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/02/07/son/soneko06.html </URL>
+<DATE> 2001/02/07/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternet erişim ücretlerinde indirim 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekom, internet abonelik bağlantı ücretini 60 milyon liradan, 20 milyon liraya indirdi. Telekom'dan yapılan yazılı açıklamada, 7.5 milyon lira olan aylık sabit ücret uygulaması kaldırılarak, 200 kontör hakkı içeren abonman ücreti uygulamasına geçildiği kaydedildi. 
+     Ay içinde kullanılmayan kontör hakkının, izleyen aya aktarılacağı belirtilen açıklamada, ISDN-BA üzerinden internete erişimde bağlantı ücreti de alınmayacağı bildirildi.Aylık ödemelerde abonelere tanınan seçenekli tarifeye göre ücretler, 1 aylık 2.5 milyon lira, 3 aylık 6 milyon lira, 6 aylık 10 milyon lira ve 12 aylık 15 milyon lira oldu.İki sabit telefon hattına sahip olan abonelerin, bu hatları iade etmeleri kaydıyla ISDN-BA aboneliği taleplerini ve ISDN-BA üzerinden internete erişim aboneliğiyle, telefon hattı üzerinden internete erişim aboneliğinin birbirlerine dönüşüm taleplerinin ücretsiz karşılanacağı bildirildi. ADSL erişimde port bağlantı ücreti de her port için 20 milyon liradan, 10 milyon liraya indirildi. ADSL erişimde aylık ücret, kullanılan süreye göre değil, hıza göre alınacak.Açıklamada, Telekom'un Turpak üzerinden internet erişiminde bağlantı ücreti almayacağı belirtilerek, bu hizmetin aylık ücretinin 8 milyon liradan, 2.5 milyon liraya indirildiği ifade edildi. 
+
+
+
+
+</TEXT>
+</DOC>

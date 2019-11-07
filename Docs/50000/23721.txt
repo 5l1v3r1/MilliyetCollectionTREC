@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> 23721 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/05/28/son/sonspo16.html </URL>
+<DATE> 2001/05/28/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+At yarışı meraklılarına müjde...Ganyan sonuçları artık cep telefonunda 
+</HEADLINE>
+<TEXT>
+
+     At yarışları sonuçları bundan böyle, Turkcell aboneleri tarafından GanyanCell Servisi'nden öğrenilebilecek. 
+     Turkcell'den yapılan açıklamaya göre, bir yarış günündeki tüm koşularla, altılı ganyan sonuçları aboneler tarafından sorgulanabilecek. Hazır Kart ve Muhabbet Hat aboneleri, anahtar kelimeleri 5021 numaralı hatta kısa mesaj olarak göndererek, istedikleri bilgilere ulaşabilecek. 
+     Aboneler, GanyalCell Servisi'ndeki her sorgulama için 2 kısa mesajücreti ödeyecek. 
+     GanyanCell için anahtar kelimeler ise şunlar 
+     
+     1. koşu sonuçları için ''KOSU1'' 
+     2. koşu sonuçları için ''KOSU2'' 
+     3. koşu sonuçları için ''KOSU3'' 
+     4. koşu sonuçları için ''KOSU4'' 
+     5. koşu sonuçları için ''KOSU5'' 
+     6. koşu sonuçları için ''KOSU6'' 
+     7. koşu sonuçları için ''KOSU7'' 
+     8. koşu sonuçları için ''KOSU8'' 
+     9. koşu sonuçları için ''KOSU9'' 
+     10. koşu sonuçları için ''KOSU10'' 
+     Atlılı Ganyan sonuçları ''ALTILI'' 
+
+
+
+
+
+
+</TEXT>
+</DOC>

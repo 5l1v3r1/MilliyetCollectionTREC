@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 24982 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/06/04/son/soneko31.html </URL>
+<DATE> 2001/06/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsada bugün en çok değer kazanan ve kaybeden hisseler 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası'nda İMKB bugün günlük bazda en çok değer kazanan ve en çok değer yitiren 10 hisse senedi ile değişim oranları şöyle 
+     
+DEĞER KAZANAN HiSSE ADI ARTIŞ ORANI Tuborg 22.58 Kerevitaş 21.59 Lüks Kadife 20.00 EGS Finansal K. 16.22 Alternatif Y.O 15.69 Tümteks 15.05 Pınar Et ve Un 12.77 Kardemir A 12.64 Favori Dinl.Yer 12.64 Çelebi H. S. 12.28      
+ DEĞER KAYBEDEN HiSSE ADI DÜŞÜŞ ORANI Transtürk H. -13.64 Makina Takım -10.71 Bayraklı Boya -6.54 Meges Boya -5.88 Anadolu Efes -5.10 Toprak Factorin -4.11 Akın Tekstil -3.70 Y.Kredi F. Kir. -3.33 Turkcell -3.28 Avrasya Y.O. -2.70      
+
+
+
+
+
+
+</TEXT>
+</DOC>

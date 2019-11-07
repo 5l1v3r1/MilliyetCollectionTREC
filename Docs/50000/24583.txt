@@ -1,0 +1,46 @@
+<DOC>
+<DOCNO> 24583 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/06/02/guncel/gun01.html </URL>
+<DATE> 2001/06/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+GÖZALTI-NET 
+</HEADLINE>
+<TEXT>
+
+Polisin, internette izinsiz izleme istediğini öne süren servis sağlayıcısı şirketler, "Bilgi vermeyi reddettiğimizde gözaltına alınıyoruz" diyorlar 
+     ŞÜKRÜ ANDAÇ 
+
+     Türkiye'nin gündemini aylarca işgal eden "telekulak" skandalından sonra, bu kez de internette benzer bir olayın yaşandığı ortaya çıktı. Bazı tahkikatlar için savcılık emriyle internet servis sağlayıcı şirketlerin kapısını çalan polisin, zaman zaman da savcılık emri olmadan, şirket veya kişisel bilgiler ile e - mail trafiği konularında bilgi istedikleri anlaşıldı. 
+     Savcılıklar, şüpheli gördüğü kişi ve kurumlarla ilgili internet üzerindeki bilgileri internet servis sağlayıcı şirketlerden İSS resmi yollarla isteyebiliyorlar. Böylece herhangi bir İSS üzerinden hizmet alan bir abonenin kişisel bilgileri, yasal yollardan teslim edilebiliyor. 
+     Ancak savcılık talimatı haricinde polisin de doğrudan bazı bilgilere ulaşmak için İSS'lere gittiği, hatta işlemin yasal olmadığı gerekçesiyle bilgi vermeyi reddeden bazı şirket yöneticilerini gözaltına aldığı öğrenildi. 
+     
+Dernekten ağır suçlama      Türkiye İnternet Servis Sağlayıcıları Derneği TİSSAD Başkanı Burak Cedetaş, Milliyet'e şunları söyledi 
+     "Türkiye'de 5 yıldır hizmet veriyoruz. Bugüne kadar bizlerden internet üzerinde yer alan bilgiler istendi ve alındı. Biz savcılığın istediği bilgileri kendilerine veriyoruz. Ancak bizlerin kapısından içeri girilip abonenin kişisel bilgilerinin istediği günleri de yaşadık. Doğal olarak bu bilgileri vermedik. Ve bunun sonucunda da gözaltına alınan arkadaşlarımız oldu." 
+     
+Dönmezer Polis kendi isteyemez      Ceza hukuku profesörü Prof. Dr. Sulhi Dönmezer'in konuyla ilgili görüşleri şöyle 
+     "Polis kendi başına bir şey yapamaz. Yalnızca ihtiyacı bildirir. Savcı uygun görürse, bu bilgiler talep edilebilir. Bu talep de 4422 sayılı yasanın ikinci maddesinde var. Bu maddede 'Telefon ve o nevi muhabere araçları...' der. İnternet 'o nevi' ibaresinde içeriliyor. Ancak polis kendisi isteyemez. Kişinin haberi olmadığı takdirde başvurması söz konusu değil. Yasada izinsiz telefon dinleme suçu benzeri bir işlem gerektirir. 4422'ye göre izlemek için ciddi suç iddiası lazım. Suçla alakası yoksa10 gün içinde imhası gerekir." 
+     
+
+
+
+ GÜNCEL 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

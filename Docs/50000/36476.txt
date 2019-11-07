@@ -1,0 +1,53 @@
+<DOC>
+<DOCNO> 36476 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/08/11/ekonomi/eko10.html </URL>
+<DATE> 2001/08/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kızıl Kod’un daha tehlikelisi geliyor 
+</HEADLINE>
+<TEXT>
+
+     EKONOMİ SERVİSİ 
+
+     Güney Kore Enformasyon Bakanlığı "Kızıl Kod" adıyla bilinen bilgisayar virüsünün üçüncü ve çok daha tehlikeli bir versiyonunun üretildiğini açıkladı. 
+     Bakanlık sözcüsü, şimdiye kadar Kızıl Kod 3’ün neden olduğu 10 ağır hasar vakasıyla karşılaştıklarını kaydetti. 
+     Bakanlığın açıklamasına göre virüsün yeni versiyonu eskisine göre daha hızlı yayılıyor ve daha tahrip edici. Yeni virüsün en kötü özelliği ise bulaştığı bilgisayarı, kendisinden sonra gelecek virüslere karşı da zayıf düşürmesi. Başka bir anlamda Kızıl Kod 3, bilgisayarın geçmişini de geleceğini de "karartıyor." 
+     
+     Hasar büyük 
+     Bakanlık, Kızıl Kod virüsünün, şimdiye kadar Güney Kore’deki toplam 15 bin devlet dairesinde 43 bini aşkın server’ı etkilediğini bunlardan bin 400’ünün kullanılamaz hale geldiğini açıkladı. 
+     
+
+
+
+ EKONOMİ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

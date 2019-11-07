@@ -1,0 +1,46 @@
+<DOC>
+<DOCNO> 37561 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/08/17/yasam/yas09.html </URL>
+<DATE> 2001/08/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+12 trilyon işlemi aynı anda yapıyor 
+</HEADLINE>
+<TEXT>
+
+     DIŞ HABERLER SERVİSİ 
+
+     O dünyanın en hızlı bilgisayarı’... O saniyede 12 trilyon farklı işlemi bir arada yapabiliyor...Ve o bilgisayar, ABD’nin Kuzey Californiya eyaletindeki Lawrence Livermore Ulusal Laboratuarı’nda kamuoyuna tanıtıldı. 
+     8 bin 192 işlemciden oluşan ASCI White adlı bilgisayar saniyede yaklaşık 12 trilyon farklı işlemi gerçekleştirebiliyor. 300 milyon kitabı hafızasında bulundurabilen bilgisayar, 2 basketbol sahası büyüklüğünde bir alanı kaplıyor. 
+     Teknoloji harikası buluşun tam 110 milyon dolara mal oldu. Dünyanın en hızlı bilgisayarı, 3 bilgisayar devinin, IBM, SGI ve Intel’in imzasını taşıyor. Bu özel bilgisayar, özellikle nükleer silah sistemlerinin simülasyonunda kullanılacak. 
+     
+
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

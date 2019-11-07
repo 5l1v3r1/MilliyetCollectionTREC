@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 20170 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/05/08/son/soneko13.html </URL>
+<DATE> 2001/05/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Etibank mevduat faizlerini indirdi 
+</HEADLINE>
+<TEXT>
+
+     Etibank, tasarruf mevduatına uyguladığı faiz oranlarını 5 ile 10 puan arasında düşürdü. 
+     Etibank'tan yapılan açıklamaya göre, yarından geçerli olmak üzere, yüzde 83 olan 1 aya kadar vadeli mevduat faiz oranı, yüzde 78'e, 3 aya kadar vadeli mevduat faiz oranı yüzde 81'den yüzde 76'ya geriledi. 
+     6 aya kadar vadeli hesaplara uygulanan mevduat faiz oranları ise yüzde 73'ten yüzde 63'e, 1 yıla kadar vadeli mevduat faiz oranı yüzde 68'den yüzde 63'e ve 1 yıl ve daha fazla vadeli mevduat faiz oranı da yine yüzde 68'den yüzde 63'e düştü. 
+     Yüzde 3 olan vadesiz mevduat ve yüzde 15 olan 7 gün ihbarlı mevduat faiz oranları ise değişmedi. 
+
+
+
+
+
+
+</TEXT>
+</DOC>

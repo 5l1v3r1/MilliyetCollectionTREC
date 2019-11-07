@@ -1,0 +1,52 @@
+<DOC>
+<DOCNO> 7473 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/02/17/ekonomi/eko03.html </URL>
+<DATE> 2001/02/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Paylaşımda sınır yok 
+</HEADLINE>
+<TEXT>
+
+İnternette değiş - tokuş artık müzik dosyalarıyla sınırlı değil. Fotoğraflar, ikinci el eşyalar bile merkezi sunucu olmadan paylaşılabiliyor 
+     İnternet üzerinden müzik dosyalarının kullanıcılar arasında değiş tokuşuna olanak sağlayan Napster son mahkeme kararı ile kapatılmanın eşiğine geldi. Ancak Napster sitesi ile popülerleşen internet üzerinden dosya değiş tokuşu fırtınası dinmedi. 
+     Müzik dosyalarının indirilebileceği ya da değiş tokuş edilebileceği sitelerin sayısı yalnızca Amerika’da 4 bin 500 civarında. PtoP olarak adlandırılan kullanıcıdan kullanıcıya oluşturulan ağlar, bilgi ya da eşya değiş tokuşu ile geleceğin en önemli trendlerinden birisi olarak görülüyor. 
+     
+Fotoğraf da paylaşılacak      Tatile çıktınız. çektiğiniz fotoğrafları arkadaşınıza göndermek istiyorsunuz. Geleneksel yol, resimleri mektup ile göndermeniz modern yöntem ise resimlerin taranarak e-posta ile dağıtılması. Çektiğiniz resimleri tarayıp örneğin Yahoo.com’un fotoğraf albümü bölümüne koyuyorsunuz. Böylece isteyen arkadaşınız girip resimlere bakabiliyor, isteyen ise sevdiği resimleri kendi bilgisayarına yükleyebiliyor. 
+     Şirketin sitesine girip size verilen bilgileri almak yerine http photos.yahoo.com da olduğu gibi diğer kullanıcılar ile doğuradan fotoğraflarınızı ve Napster örneğinde olduğu gibi bilgisayarınızda bulunan müzik dosyalarını başkaları ile paylaşabiliyorsunuz. 
+     
+Cevapları bilen de vardır      Napster’in kapatılmasına ilişkin dava tüm dünyada tartışılırken ABD’nin San Fransisco kentinde 14-16 şubat tarihleri arasında önemli bir konferans gerçekleşti. O’Reilly P2P isimli konferansta kullanıcıları birbirleri ile birleştiren yeni teknoloji ve iş modellerinin geleceği tartışıldı. Konferansa katılan yenilikçi şirketler arasında bulunan OpenCola internette aradığı bilgiyi bulamayan kullanıcıların çareyi arama motorlarında değil diğer kullanıcılarda bulabileceklerini gösteren iş modeli ile dikkat çekti. 
+     OpenCola’nın yazılımı aslında basitçe bilgisayarınızdaki dosyaları yönetiyor. İnternette gezerken bazı ilginizi çeken yazılar okudunuz. Bu dosyaları bir kez konu başlığı ile örneğin "yeni ekonomi" başlığı altında kaydettiniz. Bu tarihten itibaren o konu ile ilgili internette yayınlanan ve OpenCola kullanıcılarının okuduğu diğer yazılar konu başlığına göre otomatik olarak dosyalarınıza kaydediliyor. 
+     
+Atıl bilgisayar yok      "Çift yönlü internet" fikri uzun zamandır birçok projenin üretildiği bir alan. Intel, Microsoft gibi büyük şirketlerin de el attığı P toP sektörünün temeli kullanıcıların ellerindeki atıl bilgisayar gücünün kullanılmasına dayanıyor. Örneğin California Üniversitesi Seti at Home’ projesinde 2.7 milyon gönüllü bilgisayarını dünya dışı uygarlıkların araştırılması için kullanıyor. 
+     
+Çekim yapın arkadaşlarınızla paylaşın      İnternet üzerinden sadece müzik değil örneğin çektiğiniz videoları da paylaşmanız mümkün. Scour.com örneğin müzik parçalarının yanısıra video gibi dijital tüm içeriğin paylaşımına olanak sağlıyor. 
+     Napster’ı müzik ile ilgilenip bilmeyen kalmadı gibi. Problemli olmakla birlikte gnutella.com ya da scour.com gibi Napster benzeri yüzlerce site MP3 değişimine aracılık ediyor. 
+     Çektiğiniz resimleri e-mail ile göndermek yerine photos.yahoo.com’da yayınlayarak çok daha geniş bir arkadaş grubu ile paylaşabilirsiniz. 
+     Beşamel soslu tavuk nasıl yapılır gibi aklınıza gelebilecek tüm sorulara cevap verebilecek birileri mutlaka vardır. Keen.com gibi şirketler sorularına cevap arayanlarla, soruların cevabını bildiklerini söyleyenleri buluşturuyor. 
+     
+
+
+ EKONOMİ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

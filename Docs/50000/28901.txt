@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 28901 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/06/26/son/soneko01.html </URL>
+<DATE> 2001/06/26/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones Endeksi düştü, Nasdaq ise yukarıda... 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası Dow Jones Endeksi, 100.37 puan düşüşle günü 10,504.22 puandan kapadı. 
+     Teknoloji şirketlerinin hisse senetlerinin takip edildiği Nasdaq Birleşik Endeksi de, 16.03 puan yükselmeyle 2,050.87 puandan kapandı. 
+
+
+
+
+
+
+</TEXT>
+</DOC>

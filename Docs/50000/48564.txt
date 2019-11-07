@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 48564 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/10/24/son/sondun14.html </URL>
+<DATE> 2001/10/24/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bin Ladin virüsü kendini Güney Kore'de gösterdi... 
+</HEADLINE>
+<TEXT>
+
+     Uluslararası terörist Usame Bin Ladin adı verilen bilgisayar virüsünün, Güney Kore'de ortaya çıktığı bildirildi. 
+     Kore'nin en büyük anti-virüs program üreticisi Ahnlab şirketi yetkilileri, kullanıcılardan birinin, ''Bin Ladin virüsü taşıyan elektronik posta aldığını'' bildirmesi üzerine hareket geçildiğini kaydettiler. 
+     Şirket yetkilileri, Bin Ladin virüsünün yalnızca maddi kayıp vermediğini, ancak bilgisayarın çalışmasını yavaşlattığını ve ağ üzerinden diğerlerine bilgi sızdırdığını belirttiler. 
+     Şirket, bilgisayar kullanıcılarını ''Bin Laden toilette paper '', ''Saddam Hussein and Bin Laden IN LOVE'' ya da ''Is Osama Bin Laden BAD-LOVED '' başlıklı elektronik postaları açmamaları yolunda uyardı. 
+     Bu postalarda ''BINLADEN BRASIL.EXE.'' ekinin bulunduğu da belirtildi. 
+     Ahnlab, ''www.ahnlab.co.kr'' internet adresinden anti-virüs programının bedava yüklenebileceğini bildirdi. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

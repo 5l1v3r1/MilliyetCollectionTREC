@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 13513 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/03/28/son/sontur21.html </URL>
+<DATE> 2001/03/28/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ATM'lere telefon yerleştirerek dolandırıcılık yapıyorlar 
+</HEADLINE>
+<TEXT>
+
+     Bankaların ATM'lerine telefon yerleştirerek vatandaşları dolandıran 3 kişi yakalandı. 
+     Son zamanlarda ATM makinelerinde yaşanan dolandırıcılık olaylarını takibe alan Asayiş Şube Müdürlüğü ekipleri Gürcan A., Ömer Z., ve Şuayip Ş.'yi yakaladı. Bu kişilerle birlikte ATM'lere monte edilen cep telefonu, duvar telefonu, bankamatik kart girişlerini tıkayan özel plastik hazne ve bunların montojını sağlayan aletler elde edildi. Bu kişilerin sorgulaması sonucu, Sincan'da bulunan Yapı Kredi Bankası ATM'sinden para çekmeye çalışan çok sayıda vatandaşın dolandırıldığı tespit edildi. 
+     Emniyet yetkilileri dolandırıcıların kullandığı yöntemle ilgili vatandaşları uyararak şunları söylediler 
+     ''Dolandırıcılar ATM'ye içinde cep telefonu olan bir duvar telefonu monte ediyor. ATM'nin kart ağzına özel bir plastik koyuyorlar. Para çekmek isteyen vatandaş kartını yerleştirirken, ATM kartı yutmuş gibi işlem yapmıyor. Şaşkın vatandaşı biraz ilerden gözetleyen dolandırıcı hemen cep telefonuyla ATM'ye monte edilen telefonu arıyor. Kendini banka görevlisiymiş gibi tanıtarak önce bankamatik kartının şifresini soruyor, ardından, 'kartınızı yarın şubeden alabilirsiniz' diyor. Vatandaş uzaklaşınca ATM'ye gelen dolandırıcılar, bankamatik kartını çıkarıp vatandaşın mevduatını veya ek hesabını ya hemen nakit çekiyor ya da başka hesaplara havale ediyor.'' 
+
+
+
+
+</TEXT>
+</DOC>

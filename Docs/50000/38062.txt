@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 38062 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/08/20/son/sondun09.html </URL>
+<DATE> 2001/08/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hollanda'da havaalanında pasaport yerine iris kontrolü başlıyor 
+</HEADLINE>
+<TEXT>
+
+     Hollanda'nın Schiphol Havaalanı'nda, gelecek aydan itibaren, giriş çıkışlarda, pasaport yerine gözün iris tabakası ile kontrol uygulaması başlatılacak. 
+     Yolcuların, kontrol noktasından geçerken, pasaport göstermek yerine kameraya bakmaları yeterli olacak. 
+     Avrupa'da ilk kez Schiphol Havaalanı'nda başlatılacak bu uygulama, başlangıçta, iş adamları ve sürekli yolculuk yapmak zorunda olan kişileri kapsayacak, daha sonra da isteyen herkes için geçerli olacak. Pasaport kontrolü sırasında bekleme süresini ortadan kaldırmak amacıyla başlatılacak uygulama için, önce bir kereye mahsus kişinin gözünün kaydı scan yapılacak. İrisscan denilen bu kayıt ile iris tabakasındaki yaklaşık 240 ayrı nokta bir ''chip'' kartta saptanacak. Kameraya bakıldığında, bilgisayar o kişinin aynı kişi olup olmadığını anında belirleyecek. 
+     Schiphol Havaalanı sözcüsü tarafından yapılan açıklamaya göre, iris kontrol kemeraları normal pasaport kontrolü yapılan noktaların hemen yanında olacak ve bu sistemle artık giriş çıkışlarda suiistimal söz konusu olamayacak. Schiphol Havalanı'nda pasaport kontrolü sırasında bekleme sürelerinin azaltılması için uzun süredir yeni sistemler üzerinde çalışmalar yapılıyordu. Verilen bilgiye göre, irisscan yöntemi en güvenilir sistem olarak belirlendi. Sistemin toplam maliyeti ve yolcuların bir kereye mahsus iris kaydını yapacak chip için ne kadar para ödemek zorunda olacakları hakkında ise bilgi verilmedi. 
+
+
+
+
+
+
+</TEXT>
+</DOC>

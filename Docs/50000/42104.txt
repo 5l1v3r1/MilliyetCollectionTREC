@@ -1,0 +1,54 @@
+<DOC>
+<DOCNO> 42104 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/09/14/yasam/yas14.html </URL>
+<DATE> 2001/09/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Uçakta cep yasağı kalkabilir 
+</HEADLINE>
+<TEXT>
+
+     Kamikaze pilotlarının esiri olan yolcuların cep telefonları, yaşamın son anlarında sevdikleriyle son bağlantı kanalları oldu... Uçak kaçırma eylemlerinde, uçağın bilgisayar sistemini olumsuz etkileyeceği için kullanımı yasak olan cep telefonlarının çalıştırılması meşru hale geliyor. Uzmanlar, bu gerçeği göz önüne alarak, şimdi uçakta cep telefonlarının açık olmasına izin verilmesinin yerinde olup olmayacağını ve teknik sakıncaların nasıl giderileceğini tartışıyor. 
+     
+     Kapsama alanındalar... 
+     Uçakta, herhangi bir irtifada, yer anten ağıyla uygun açı bulabilen cep telefonları çalışıyor. Carnegie-Mellon Üniversitesi'nden Marvin Sirbu, klasik analog’ telefonların 13 - 16 bin metre yükseklikte çalışabildiğini, dijital telefonlarınsa ancak 8 bin metre yüksekliğe kadar erişim sağlayabildiklerini taydetti. 
+     Saatte 885 kilometre süratle giden bir uçakta kullanılan cep’in erişim dalgası, her dakika ayrı ağ antenine ulaşmazsa bağlantı kesiliyor. 
+     
+
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

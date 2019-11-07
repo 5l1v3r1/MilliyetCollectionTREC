@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 20171 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/05/08/son/soneko14.html </URL>
+<DATE> 2001/05/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsada 1. seansta en çok değer kazanan ve kaybeden hisseler 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası'nda İMKB bugün yapılan 1. seansta, en çok değer kazanan ve en çok değer yitiren 10 hisse senedi ile değişim oranları şöyle 
+     
+DEĞER KAZANAN HiSSE ADI ARTIŞ ORANI Berdan Tekstil 11.11 Mensa Mensucat 9.80 Menderes Tekst. 8.86 Metemteks 8.77 Atlantis YENİ 8.75 Pimaş 7.61 Sezginler Gıda 7.37 Egeplast 5.77 Ege Endüstri 5.43 İntema 5.38      
+ DEĞER KAYBEDEN HiSSE ADI DÜŞÜŞ ORANI Net Holding -15.94 Esem Spor Giyim -11.84 Taç Yat. Ort. -6.56 Vakıf GM.Y.O. -5.36 Marmaris A.Y. -4.62 TSKB -4.55 Yatırım F.Y.O. -4.26 Okan Tekstil -4.05 Y.Kredi Y.O. -3.92 Yasaş -3.57      
+
+
+
+
+
+
+</TEXT>
+</DOC>

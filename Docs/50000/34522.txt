@@ -1,0 +1,47 @@
+<DOC>
+<DOCNO> 34522 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/07/30/yasam/yas05.html </URL>
+<DATE> 2001/07/30/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayarını seven kaçsın 
+</HEADLINE>
+<TEXT>
+
+Çarşamba günü harekete geçecek Kırmızı Kod’ adlı virüs, dünya çapında onbinlerce bilgisayara saldıracak 
+     DIŞ HABERLER SERVİSİ 
+
+     Bilgisayar güvenlik uzmanları uyardı "ABD Savunma Bakanlığı Pentagon’un önlem için internet sitelerini kapatmasına neden olan Code Red’ Kırmızı Kod isimli virüs çarşamba günü uyanacak ve onbinlerce bilgisayarı hack’leyecek." 
+     ABD’nin Carnegie Mellon Üniversitesi’ndeki Bilgisiyar Acil Durum Müdahale Timi’ CERT yetkilileri de uyarılar yıyınladı. 
+     
+     Işık hızıyla yayılıyor 
+     Virüsün 19 Temmuz’da sadece 9 saat içinde 250 bin bilgisayara bulaştığını hatırlatan yetkililer, çarşamba gününe dikkat çekti. 
+     CERT, Beyaz Saray’ın da internet protokol adresini değiştirmesine neden olan virüsün, güvenlik açıklarından yararlanarak bilgisayarların kontrolünü ele geçirebileceğini söyledi. 
+     Microsoft işletim sistemleri yüklü bilgisayarlardaki güvenlik açıkları virüsün bir anda yayılmasına yol açıyor, makineyi esin alıyor. 
+     
+
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

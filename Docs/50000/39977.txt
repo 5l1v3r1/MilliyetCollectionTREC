@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 39977 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/09/01/son/sondun02.html </URL>
+<DATE> 2001/09/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD Hükümeti'nden Microsoft'a kötü haber... 
+</HEADLINE>
+<TEXT>
+
+     Amerikan hükümeti, bilgisayar yazılım devi Microsoft firmasının tekelcilik yaptığı iddiasıyla hakkında açılan davada, Microsoft tarafından yapılan temyiz başvurusunun reddedilmesini istedi. 
+     Temyiz mahkemesine bir belge sunarak başvuran ABD Adalet Bakanlığı, Microsoft firmasının temyiz başvurusunun reddedilmesini isteyerek, ''Microsoft'un başvurusu, istinaf mahkemesinin kararının yanlış bir biçimde yorumlanmasına dayandırılmıştır, bu yüzden reddedilmesi gerekmektedir'' denildi. 
+     Microsoft, temyiz başvurusunda, Yargıç Thomas Jackson'ın dava boyunca basına demeç vermesi dolayısıyla ''boşboğaz'' olduğunu ve bu demeçlerde Microsoft'a eleştiriler yönelttiğini ileri sürüyor. İstinaf mahkemesi tarafından bizzat toplanan bu demeçlerin metni, asliye mahkemesindeki davanın sonucunda kamuoyuna açıklanmıştı. 
+     İstinaf mahkemesi, Haziran ayında asliye mahkemesinin Microsoft'un tekelcilik yaptığına ilişkin kararını onaylamış, ancak davayı asliye mahkemesine geri göndererek Yargıç Jackson'ın bölünme kararını bozmuştu. 
+
+
+
+
+
+
+</TEXT>
+</DOC>

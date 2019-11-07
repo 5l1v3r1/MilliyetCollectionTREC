@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 49604 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/10/30/son/soneko03.html </URL>
+<DATE> 2001/10/30/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Mikro-işlemci fiyatlarında büyük indirim... 
+</HEADLINE>
+<TEXT>
+
+     İntel ve AMD şirketleri, bilgisayarların kalbi kabul edilen mikro-işlemci fiyatlarında büyük indirimler yaptı. 
+     İndirimlerin, bazı ürünlerde yüzde 29'u bulduğu bildiriliyor. 
+     İntel ve AMD firmalarının, indirimleri, pazar paylarını arttırmanın yanı sıra durgunluğa girmiş bulunan Amerikan ekonomisi bünyesinde bilgisayara olan talebi artırmak amacıyla yaptıkları belirtiliyor. 
+     İndirimler, İntel'in ürettiği 50 dolayındaki işlemciden 10 kadarını etkiliyor. Şirket en hızlı işlemcisi olan 2 GHZ hızındaki pentium-4'leri şimdi 401 dolardan pazarlamaya başladı. Bu işlemcilerin fiyatı daha önce 562 dolardı. İndirim oranının bu türde yüzde 29'u bulduğu belirtiliyor. Firma 1.9 GHZ hızındaki pentium-4'leri ise yüzde 27 ucuzlatarak 375 dolardan 273 dolara indirdi. 1.8 GHZ hızındaki 
+     işlemciler ise 256 dolar yerine 225 dolardan satılacak. 
+     İntel, 2 GHZ hızındaki Xeon işlemcilerin fiyatını da 615 dolardan 455 dolara düşürdüğünü bildirdi. Xeon işlemcilerde indirim oranı yüzde 
+     26 düzeyinde. 
+     İntel'in başlıca rakibi olan AMD şirketi ise Athlon XP 1800 işlemcilerinin fiyatını yüzde 12 ucuzlatarak 252 dolardan 223 dolara indirdi. Duron işlemcilerin fiyatı ise 103 dolardan 89 dolara geriledi. 
+     Bu arada İntel'in pazar payının bu yıl yüzde 76.8'e düştüğü Mercury Research adlı araştırma firması tarafından bildirildi. 
+     Şirketin pazar, payı 2000 yılında yüzde 80 dolayındaydı. 
+     Öte yandan İntel, karlılık oranının bu yılın 3. çeyreğinde yüzde 77'ye gerilediğini duyururken, AMD de satışların yüzde 37 azaldığını 
+     açıkladı. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

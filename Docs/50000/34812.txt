@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> 34812 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/08/01/ekonomi/eko05.html </URL>
+<DATE> 2001/08/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kızıl Kod’ fena vurdu 
+</HEADLINE>
+<TEXT>
+
+Etkisini dün gece göstermeye başlayan Kızıl Kod virüsü, ilk olarak İsviçre’yi vurdu. Virüsün dalga dalga yayılarak Türkiye de dahil tüm dünyayı etkilemesi bekleniyor 
+     ŞÜKRÜ ANDAÇ 
+
+     Bugüne kadar yayılan en hızlı virüs olduğu tespit edilen ve ABD saati ile 20.00’dan itibaren tüm dünyada harekete geçmesi beklenen Kızıl Kod’ Code Red adlı virüs, dün geceden itibaren tüm dünyada etkili olmaya başladı. ABD’de Pentagon, Beyaz Saray gibi en iyi korunan hükümet sistemlerine bile sızan virüs, dün gece ilk olarak İsviçre hükümet sistemlerinde ve İsviçre’deki web sunucularında görüldü. 
+     Kızıl Kod’ virüsünün Türkiye’de de 03.00’dan itibaren sistemlere zarar verebileceği belirtiliyor. Microsoft, SANS, the NIPC, CERT CC ve 4 lider güvenlik firması dün İnternete ciddi bir tehdit Önlem için 31 Temmuz son tarih’ başlığıyla yaptıkları açıklamada, Kızıl Kod’un çok tehlikeli olduğu vurgulandı ve bu virüsün elektronik ticaret, e - posta ve eğlence uygulamaları için, internetin kişisel ve ticari kullanımında problemlere yol açabileceği belirtildi. 
+     
+     İlk saldırı İsviçre’ye 
+     Dün gece ilk saldırılara maruz kalan İsviçre’de Hükümet Sözcüsü Claudio Frigerio, şu ana kadar 10’a yakın web sunucusunda ve bunlara ait internet sitelerinde Kızıl Kod virüsünün zarar vermeye başladığını açıkladı. Virüsün İsviçre’nin en büyük şirketlerine yönelik saldırılarda bulunduğunu söyleyen Frigerio, "Kızıl Kod ayrıca İsviçre hükümetinin sistemlerine de girdi. Hükümet sistemlerinde antivirüs programı olmasına rağmen virüs az da olsa sistemlere zarar verdi" açıklamasını yaptı. 
+     
+     Esir alan solucan 
+     Solucan şeklindeki Kırmızı Kod’ virüsü, Microsoft işletim sistemleri yüklü bilgisayarlardaki güvenlik açıklarından yararlanıp bir anda yayılıyor ve bilgisayarların kontrolünü ele geçirip makineyi adeta esir alıyor. 
+     Üç versiyonu bulunan virüs, sisteme yerleştiğini Hacked by Chinese’ yazarak bildiriyor. Solucan tipli bu virüsün kimin tarafından yazıldığı ise bir türlü bulunamıyor. 
+     
+     Bugüne dikkat 
+     Kızıl Kod, ABD Savunma Bakanlığı Pentagon’un önlem için internet sitelerini kapatmasına ve Beyaz Saray’ın da internet protokol adresini değiştirmesine neden olmuştu. Virüsün 19 Temmuz’da 9 saat içinde Microsoft Windows 2000 ve NT kullanan yaklaşık 5 milyon kullanıcıdan 250 binine bulaştığını hatırlatan yetkililer, çarşamba günü çok dikkat edilmesi gerektiğini belirtiyorlar. 
+     Kızıl Kod’un bu yeni saldırılarının ise, dünya çapında yaklaşık 1.5 milyon civarında internet kullanıcısını etkilemesi bekleniyor. 
+     
+Bu programı yükleyin      Microsoft Türkiye Teknik Destek Müdürü Murat Yılmaz, "Kızıl Kod virüsünün yayıldığı yerler web sunucular. Kullanıcılara direkt et- kisi az. Kullanıcılara etkisi, bu virüsü almış sitelere giremeyecek ya da çok yavaş çalıştırabilecek olmaları" dedi. Kullanıcıları, Microsoft’un web sitesinde bulunan bir yamayı acil olarak bilgisayarlarına indirmeleri konusunda uyaran Yılmaz, bu program için gerekli adresin de www.microsoft.com security’ olduğunu söyledi. 
+     İnternette güvenlik hizmetleri veren İnfonet Genel Müdürü Taner Özdeş, Türkiye’deki büyük servis sağlayıcıların saldırılara karşı sistemlerine yatırım yaptıklarını ancak küçük şirketlerin bu yatırımları yapmadığını ve bu virüsten et- kilenebileceklerini söyledi. 
+     
+     Virüsten korunabilirsiniz 
+
+</TEXT>
+</DOC>

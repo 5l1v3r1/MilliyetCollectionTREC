@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 48217 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/10/22/son/soneko22.html </URL>
+<DATE> 2001/10/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İstanbul ve Ankara'da dolar, mark ve sterlinin son fiyatları 
+</HEADLINE>
+<TEXT>
+
+     İstanbul ve Ankara'da dolar, mark ve sterlinin alış-satış fiyatları, saat 16.30 itibariyle şöyle 
+     
+
+İSTANBUL SERBEST PİYASA ALIŞ SATIŞ ABD Doları 1,637,000 1,642,000 Alman Markı 746,000 752,000 İngiliz Sterlini 2,340,000 2,382,000 İsviçre Frangı 996,000 1,015,000 Fransız Frangı 224,150 228,150      
+
+ANKARA SERBEST PİYASA ALIŞ SATIŞ ABD Doları 1,625,000 1,650,000 Alman Markı 743,000 756,000 İngiliz Sterlini 2,312,000 2,370,000      
+</TEXT>
+</DOC>

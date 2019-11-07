@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 9714 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/03/02/son/soneko04.html </URL>
+<DATE> 2001/03/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tokyo Borsası son 15 yılın en düşük düzeyinde 
+</HEADLINE>
+<TEXT>
+
+     Tokyo Borsası günü düşüşle tamamladı. 
+     Borsanın temel göstergesi Nikkei Endeksi kapanışta düne göre 419.86 puan azalışla 12,261.80 puana indi. 
+     Bu puan Tokyo Borsası'nın son 15 yıl içinde kaydettiği en düşük düzeyi oluşturuyor. Tokyo borsasındaki düşüş Japon ekonomisindeki durgunluğun sürdüğüne ilişkin işaretlerin güçlenmesinden kaynaklandı. Tokyo'da ABD Doları ise Japon Yeni karşısında düne göre 0.34 yen yükselerek 117.72 yenden işlem gördü. 
+
+
+
+
+</TEXT>
+</DOC>

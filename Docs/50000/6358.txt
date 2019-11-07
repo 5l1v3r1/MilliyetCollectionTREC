@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> 6358 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/02/10/ekonomi/eko11.html </URL>
+<DATE> 2001/02/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Müşterisini tanıyan benzinci 
+</HEADLINE>
+<TEXT>
+
+     İzmir Üçkuyular BP benzin istasyonu müşteri bilgilerini elektronik ortamda izliyor. 
+     Exim’in altyapısını kurduğu sistemde, müşteri barkodlu numara ile BP Club üyesi yapılıyor. Arabalara barkodlu etiket veriliyor. Akaryakıt alınırken barkodu okutan pompacı, müşteriyi ismiyle karşılıyor ve sistemde kayıtlı olan diğer bilgilerini görüyor. Pompacı, alınan yakıt miktarını el terminaline kaydederek, günlük satışı terminal üzerinden izleyebiliyor. 
+     
+
+
+ EKONOMİ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

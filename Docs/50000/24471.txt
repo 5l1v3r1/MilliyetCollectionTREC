@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 24471 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/06/01/son/sondun05.html </URL>
+<DATE> 2001/06/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+15 metreden silahı tespit eden cihaz geliştirildi 
+</HEADLINE>
+<TEXT>
+
+     ABD'de, elektromanyetik dalgalar aracılığıyla silah, bıçak, plastik bomba taşıyanları 15 metre uzaktan tespit edebilen radar benzeri bir cihaz geliştirildi. 
+     Hükümete bağlı bir kuruluş olan, Colorado'daki ''Standart ve Teknoloji Enstitüsü''nün geliştirdiği sistemin, bu yıl sonundan itibaren kullanıma girmesi bekleniyor. 
+     Sistem sayesinde, kalabalık bir grubun içine giren polis araçlarının, silah, bıçak, hatta plastik patlayıcı taşıyanları tespit edebileceği belirtiliyor. 
+     Polis, sistem sayesinde, aracındaki ekranda, taşınan silahın şeklini de görebilecek. 
+     Ancak bu radar sisteminin kullanılmasının, kişi haklarına aykırılık bakımından anayasal sıkıntı yaratabileceği ve davalara konu olabileceğinden de endişe ediliyor. Sistemi geliştirenler ise havaalanlarında herkesin güvenlik bandından geçirildiği örneğini vererek, suçluları tespit etmede büyük yarar getirmesi beklenen bu cihazın yaygın kullanımını savunuyorlar. 
+
+
+
+
+
+
+</TEXT>
+</DOC>

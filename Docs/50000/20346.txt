@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 20346 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/05/09/son/soneko02.html </URL>
+<DATE> 2001/05/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones düştü, nasdaq yükseldi 
+</HEADLINE>
+<TEXT>
+
+     New York borsasında Dow Jones endeksi 52.12 puan düşerek, günü 10,883.05 puandan kapattı. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq endeksi ise 24.37 puan yükselerek 2,197.94 puandan günü kapattı. 
+     
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

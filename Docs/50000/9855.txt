@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 9855 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/03/03/son/sondun02.html </URL>
+<DATE> 2001/03/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Endonezya'da 5.7 büyüklüğünde deprem 
+</HEADLINE>
+<TEXT>
+
+     Endonezya'nın Java Adası'nda 5.7 büyüklüğünde deprem meydana geldi. 
+     Meteoroloji ve Jeofizik Ajansı, yerel saatle 13 08'de TSİ 08 08 meydana gelen depremin merkez üssünün, Batı Java eyaletinin güneybatı ucundaki Panaitan Adası'nın güneyinde, Hint Okyanusu'nun 80 kilometre dibi olduğunu kaydetti. 
+     Depremin can ya da mal kaybına yol açıp açmadığı konusunda henüz bir haber alınamadı. 
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 9222 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/02/27/son/soneko16.html </URL>
+<DATE> 2001/02/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa endeksi 96 puan geriledi 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi, dünkü kapanışa göre 96.18 puan gerileyerek, 1. seansı 8,784.15 puandan tamamladı. 
+     Hisse senetleri ortalama yüzde 1.08 oranında değer yitirdi. Borsa'da, dün ikinci seansta başlayan satışlar günün ilk seansında da yoğun olmamakla birlikte sürdü. Seans 8,909 puan seviyesinde yüksek açılış yaptıktan sonra en yüksek 8,970 puanı gördü. Ancak, ilk dakikalardaki yükselişin ardından, piyasa oturmaya başladı ve kar satışlarıyla Endeks, hızla geriledi. 8,578 puana kadar gerileyen Endeks, ilk bir saati 8,655 puanla geçti. 
+     İkinci yarıda hisse bazı alımlarla hafif toparlanan Endeks, seansı 8,784.15 puandan tamamladı. Kapanışta hizmet endeksi 29.38 puanlık artışla 6,040.63 puana yükselirken, mali endeks 210.19 puanlık düşüşle 12,036.63 puana, sanayi endeksi de 64.74 puanlık düşüşle 6,525.05 puana geriledi. Böylece hizmet grubu hisseler, önceki kapanışa göre ortalama yüzde 0.49 oranında değer kazanırken, mali gurup hisseler yüzde 1.72, sanayi gurubu hisseler de yüzde 0.98 oranında değer yitirdi. 
+     1. seansta işlem gören toplam 298 hisse senedinden 163'ü değer yitirdi. 78 hisse senedi değer kazanırken, 57 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta 132 trilyon 423 milyar 201 milyon liralık işlem hacmi oluştu. 1. seansta Yapı Kredi Bankası, Garanti Bankası,Tüpraş, Sabancı Holding ve Akbank en yoğun işlem gören hisseler oldular. 
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 10860 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/03/11/son/sondun02.html </URL>
+<DATE> 2001/03/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Discovery'deki astronotlar çalışmalarına başladı 
+</HEADLINE>
+<TEXT>
+
+     Uluslararası Uzay İstasyonu ile dün kenetlenen uzay mekiği Discovery'deki 2 astronot, kargo sevkıyatında kullanılacak Leonardo adlı modülün UUİ'ye monte edilebilmesi için çalışmalar yapmak üzere uzaya çıktı. 
+     Amerikalı James Voss ve Susan Helms adlı astronotların, Leonardo'nun monte edilebilmesi için bazı kabloları değiştirecekleri, UUİ'ye bir anten yerleştirecekleri ve Amerikalıların Destiny laboratuvarına teçhizat takacakları bildirildi. İtalya Uzay Ajansı tarafından yapılan Leonardo modülünün bu gece yarısından sonra UUİ'ye monte edilmesi bekleniyor. Leonardo'daki teçhizat UUİ'ye aktarıldıktan sonra modül, Discovery mekiği ile Dünya'ya dönecek. 
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> 11750 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/03/17/guncel/gun03.html </URL>
+<DATE> 2001/03/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Çocukların sörf alanı daralacak 
+</HEADLINE>
+<TEXT>
+
+     Çocuklarının İnternet'te olur olmaz sitelere girmesinden rahatsızlık duyan ancak bir türlü engel olamayan aileler için huzur dolu günler çok yakın... Bu amaçla geliştirilen Siber Klavuz adlı yerli bir yazılım sayesinde ebeveynler, zararlı buldukları tüm sitelere girişi engelleyebilecek. 
+     
+Bilgisayara yükleniyor      Yazılım önce bilgisayara yükleyecek, daha sonra da özel bir şifreyle istenmeyen internet adresleri belirlenip kaydedilecek. İzin verilen ya da erişimi yasaklanan site adresleri hafızada sürekli saklanıyor ve bir sonraki istekte onaya gerek olmadan eski işlem tekrarlanıyor. 
+     
+
+
+ GÜNCEL 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

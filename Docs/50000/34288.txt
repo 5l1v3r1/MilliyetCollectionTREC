@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 34288 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/07/28/son/sondun08.html </URL>
+<DATE> 2001/07/28/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Mars'ta hayat olduğu yönünde bir iddia daha... 
+</HEADLINE>
+<TEXT>
+
+     ABD Uzay ve Havacılık Dairesi NASA'nın 25 yıl önce Mars'a gönderdiği Viking uzay aracından elde edilen bilgilerin, bu gezegende hayat olduğu yönünde delliler içerdiği iddia edildi. 
+     Güney California Üniversitesi Hücre ve Nörobiyoloji Bölümü'nde görevli bilim adamı Joseph Miller, su ve besleyicilerle ıslatılan Mars toprağında mikrobiyal yaşamın ortaya çıkıp çıkmayacağını görmek için yapılan deneyler sırasında çıkan gaz seviyelerinde farklı bir ritim saptadığını söyledi. 
+     Eğer toprakta yaşayan herhangi bir organizma varsa, toprağa verilen gıdaların organizmalarca emilmesi ve gaz formunda karbon çıkması gerekiyor. 
+     25 yıl önce yapılan deneyde gaz çıkmıştı, ancak pek çok bilim adamı, bunun kimyasal reaksiyonlar sonucu ortaya çıktığını öne sürmüşlerdi. 
+     Ancak Miller, gaz salınımındaki dalgalanmanın çok düzenli olduğunu ve bakteriler dahil dünyada yaşam biçimlerindeki doğal gece-gündüz ritmine benzediğini söyledi. Miller, bunun biyolojiye işaret ettiğini belirtti. 
+     Viking'den gelen verilerin yüzde 30 kadarını incelediğini belirten Miller, elde ettiği sonuçların Mars'ta yaşam olduğunu gösterdiğine yüzde 90 emin olduğunu söyledi. Diğer bilim adamları ise Miller'ın bu iddiasına şüpheyle bakıyorlar. Bu bilim adamları, dünyaya gönderilen verilerin başka açıklamaları da olabileceğine dikkat çekiyorlar. 
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

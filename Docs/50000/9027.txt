@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 9027 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/02/26/son/soneko08.html </URL>
+<DATE> 2001/02/26/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa hızlı gidiyor 
+</HEADLINE>
+<TEXT>
+
+     Borsa, haftaya hızlı bir başlangıç yaptı. Ulusal-100 Endeks, açılışta 9,063.61 puanı gördü. 
+     Hafta sonu piyasaların normale dönmesi için alınan kararların olumlu etkisiyle güne hızlı bir başlangıç yapan Endeks, 8,577 dan açıldı. Yoğun alımlarla birkaç dakika içinde hızla 9 bin puanı aşan Endeks, en yüksek 9,063.61 puanı gördü. 
+     Seansın hızla yukarı doğru açılmasında gecelik repo faizlerinin yüzde 150'ye düşmesinin de etkisi oldu. Yüzde 150'den açılan İMKB Repo Piyasası'ndaki gecelik faizler aynı orandan işlem görmeyi sürdürüyor. 
+
+
+
+
+</TEXT>
+</DOC>

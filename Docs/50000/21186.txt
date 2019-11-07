@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 21186 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/05/14/son/soneko29.html </URL>
+<DATE> 2001/05/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsada bugün en çok değer kazanan ve kaybeden hisseler 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası'nda İMKB bugün günlük bazda en çok değer kazanan ve en çok değer yitiren 10 hisse senedi ile değişim oranları şöyle 
+     
+DEĞER KAZANAN HiSSE ADI ARTIŞ ORANI İş Bank. KU 156.67 Transtürk H. 17.86 Çelik Halat 16.18 Petrokent Turiz 15.79 Makina Takım 15.79 Bayraklı Boya 15.58 Parsan 13.73 Hektaş 13.10 Camiş Lojistik 12.28 Doğusan 10.45      
+ DEĞER KAYBEDEN HiSSE ADI DÜŞÜŞ ORANI Okan Tekstil -26.87 Pirelli Kablo -15.15 Esem Spor Giyim -12.50 Şekerbank -10.29 Metaş -8.47 Raks Ev Aletler -7.81 Sınai Yatırım B -6.12 İş Bankası A -5.89 M.Zorlu Holding -4.69 Avrasya Y.O. -4.41      
+
+
+
+
+
+
+</TEXT>
+</DOC>

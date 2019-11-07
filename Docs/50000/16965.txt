@@ -1,0 +1,58 @@
+<DOC>
+<DOCNO> 16965 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/04/19/guncel/gun08.html </URL>
+<DATE> 2001/04/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABS cep’ten etkilenir mi 
+</HEADLINE>
+<TEXT>
+
+ÇAPRAZ ATEŞ 
+     ŞULE YÜCEBIYIK 
+
+     Cep telefonlarının, aracın elektronik donanımını ve ABS’yi ani fren sırasında tekerlekleri kitlenmesini önleyen sistem etkileyip etkilemediği her kazadan sonra tekrar tartışılır. İşte değerlendirmeler.. 
+     
+     Bernd Voigt Mercedes Türk Müdürü 
+     ABS’yi bozmaz 
+     Ürettiğimiz otobüslerde, seyir halinde iken cep telefonu kullanımının aracın fren sistemini etkilemesi ya da herhangi bir arızaya sebep olması sözkonusu değildir. Buna rağmen, kapalı alanda cep telefonu kullanımını, özellikle kalp pili ve diğer tıbbi cihazlar taşıyan yolcuların sağlığı açısından, olumsuz etkisi bulunabileceği sebebiyle önermiyoruz. Yolcu otobüslerinde cep telefonu kullanımı, şöförün konsantrasyonunu dağıtma riski taşıyor. Hiçbir riske girmemek ve emniyeti sağlamak için kullanılmamasını tavsiye ediyoruz. 
+     
+     Tayyar Temeltaş Renault Servisi 
+     Yüzde 100 etkiliyor 
+     Cep telefonu ABS sistemini kesinlikle etkiliyor. Özellikle, dışarıdan gelen çağrılar, cep telefonunda yoğun bir manyetik alan yaratıyor. Bu da aracın elektronik devrelerini bozuyor. Sadece ABS’yi de değil, alarm gibi, radyo, CD çalar gibi elektronik tüm cihazları etkiliyor. Piyasada satılan araç kitleri, bu riski ortadan kaldırıyor.. 
+     
+     Ohannes Tatonyan Servis Sahibi 
+     Yenilerde sorun yok 
+     Cep telefonlarının ABS’yi etkileyip etkilemediği henüz kesinleşmemiş bir konu. Otomobillerin sistemleri karmaşık. Hemen hemen tüm manyetik alanlandan etkilenebiliyorlar. Ancak, yeni jenerasyon otomobillerin çoğunda, ABS manyetik etkilere karşı korunmuş durumda. Cep telefonu kullanmadan önce servise danışmakta fayda var. 
+     
+     Tibet Soysal Ford Otosan Müdürü 
+     Risk var 
+     Ford araçlarında kullanılan ABS sistemlerinin cep telefonlarından etkilenme oranı en aza indirildi. Yeni sistemde, frenlerin kitlenmesi mekanik olarak mümkün değil. Yine de, milyonda bir de olsa, risk faktörü bulunuyor. 
+     
+
+
+ GÜNCEL 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

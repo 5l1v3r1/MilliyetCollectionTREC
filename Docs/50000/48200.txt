@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 48200 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/10/22/son/soneko05.html </URL>
+<DATE> 2001/10/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Endeks hisseleri yatırımcıların gözdesi... 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası İMKB Ulusal-100 ve özellikle Ulusal-30 endeksine giren hisse senetlerinin, hisselerin endekse dahil olduğu güne kadar olan dönemde olağandışı getiriler sağladıkları belirlendi. 
+     İMKB Hisse Senetleri Piyasası Müdür Yardımcısı Recep Bildik ve İMKB Hisse Senetleri Piyasası Eksperi Güzhan Gülay tarafından ''Endeks Kompozisyonundaki Değişikliklerin Hisse Senedi Piyasası Üzerine Etkisi İMKB'den Kanıtlar'' konulu bir araştırma hazırlandı. 
+     Ulusal-100 ve Ulusal-30 endekslerine 1995-2000 yılları arasındaki 24 ayrı endeks-düzeltme döneminde endekslere dahil olan ve çıkarılan 
+     hisse senetlerine ait getiriler ve işlem hacimlerinin analiz edildiği araştırmada, getirilerin yanı sıra endekse dahil edilen ve çıkartılan hisse senetlerinin işlem hacimlerinin de, bu olaydan önemli derecede etkilendikleri saptandı. Endeksteki hisse senetlerinin fiilen değiştirildiği günden sonra hem endekse dahil edilen hem de endeksten çıkartılan hisse senetlerinin fiyatlarının düştüğü gözlendi. Bulgular, hisse senedi fiyatlarının, endeks değişim dönemi olarak alınan giriş-çıkış duyurusunun yapıldığı tarihten önceki ve giriş-çıkış döneminden sonraki 10'ar günlük dönemler, ilginç ve farklı davranışsal özellikler sergilediğini gösterdi. Çalışmada, olağandışı işlem hacmi gerek endekse dahil edilen gerekse endeksten çıkartılan hisse senetleri için gözlenirken, her iki grup hisse senetleri için de oranların birden yüksek ve istatistiki olarak güçlü olduğu belirlendi. Endeksten çıkartılan hisse senetlerinde olağandışı işlem hacmi, hisse senetlerinin endeksten çıkartılacağının İMKB tarafından kamuya açıklandığı gün ile ertesi günde ve de özellikle hisseler fiilen endeksten çıkartıldığı endeks değişim gününde önemli oranda artıyor. Hisse senetleri endeksten çıkartıldıktan sonra ise işlem hacminin düştüğü görülüyor. Bu bulgular, piyasa katılımcılarının endeks kompozisyonundaki değişikliklere ve buna bağlı haberlere duyarlı olduklarını ve tepki gösterdikleri yönündeki önceki bulguları da teyit ediyor. Piyasa katılımcılarının özellikle endeksten çıkartılan hisse senetlerine karşı daha fazla duyarlılık gösterdikleri belirlendi. Hisse senetlerinin gösterdiği bu davranış biçimini açıklayabilecek faktörlerden biri, İMKB'nin sadece Ulusal-100 endeksine dahil olan hisse senetlerinin kredili işlemlere, açığa satış ve ödünç menkul kıymet işlemlerine konu olabileceği yönündeki düzenlemesi olarak görülüyor. Bunun sonucunda endeksten çıkartılan hisse senetlerine ait kredili işlem hesapları hisselerin endeksten fiilen çıkartılmasından belirli bir süre sonra kapatılıyor ve aracı kurumlar genellikle bu hisseleri teminat olarak kabul etmiyorlar. Ayrıca, endekse dahil edilen ve çıkartılan hisse senetleri ile ilgili olarak kamuya yapılan açıklamanın ardından, endeksten çıkartılan hisse senetlerinin fiyatı ve işlem hacmi düşüyor. Bu da enformasyon maliyeti ve likidite hipotezlerine paralel bir sonuç olarak değerlendiriliyor. Yatırımcılar daha çok, likidide ve büyüklükleri nedeniyle endekse dahil olan hisselere yatırım yapmayı tercih ediyorlar. Kurumsal nitelikli yabancı yatırımcıların da portföylerinde endekse dahil olan hisselere daha fazla pay ayırdıkları görülüyor. Endekse dahil edilecek ve endeksten çıkartılacak hisse senetlerinin kamuya açıklandığı gün ve hemen öncesinde gözlenen olağandışı alım-satım hareketinin, endekse girmesi ve çıkması muhtemel hisse senetleri konusundaki tahminlerin söylentiler şeklinde yatırımcılar arasında yayılmasına dayalı olarak, spekülatörler tarafından yaratılan spekülatif nitelikteki işlemlerden kaynaklandığı da düşünülüyor. Bu da endekse girecek ve çıkacak hisse senetlerinin, bunları belirlemede kullanılan değerleme kriterlerinin ve verilerin tüm yatırımcılara açık olması nedeniyle tahmin edilebileceğini varsayan beklentilere paralel bir sonuç olarak görülüyor. Araştırmada ayrıca, elde edilen tüm bu bulguların, endeks kompozisyonundaki değişikliklerin, piyasa katılımcılarının yatırım kararları açısından önemli olduğunu, endekse giren ve özellikle endeksten çıkartılan hisse senetlerinin getiri ve hacimleri üzerinde önemli bir etki yarattığını gösterdiği vurgulanarak, şöyle denildi ''Gelecekte endeks fonları başta olmak üzere, A tipi yatırım fonları ve emeklilik fonları gibi kurumsal yatırımcıların artması ve endeks üzerine vadeli ve opsiyon gibi türev işlemlerinin başlamasıyla birlikte, bu etkinin gerek istatistiki gerekse ekonomik yönden çok daha güçlü ve belirgin olacağı da görülmektedir.'' 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

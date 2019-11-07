@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 19166 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/05/02/son/soneko02.html </URL>
+<DATE> 2001/05/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi 
+</HEADLINE>
+<TEXT>
+
+     New York borsasında Dow Jones, 163.37 puan yükselerek 10,898.34 puana çıktı. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq, 52.03 puan yükselerek günü 2,168.27 puandan kapattı. 
+
+
+
+
+
+
+</TEXT>
+</DOC>

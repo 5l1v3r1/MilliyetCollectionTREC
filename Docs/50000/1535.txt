@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1535 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/10/son/soneko14.html </URL>
+<DATE> 2001/01/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Turkcell Network kontrol merkezi hizmete girdi 
+</HEADLINE>
+<TEXT>
+
+     Turkcell şebekesindeki tüm santral ve radyo baz istasyonlarında oluşan sorunlar ile alarm durumlarını gözleyebilen, iletişim sistemlerinde oluşabilecek arızaları giderebilen, sistemlerin bakım ve işletim faaliyetlerini uzaktan yapabilen Turkcell Network Kontrol Merkezi NCC hizmete girdi. 
+     
+
+
+
+
+</TEXT>
+</DOC>

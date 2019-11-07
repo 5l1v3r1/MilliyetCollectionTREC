@@ -1,0 +1,51 @@
+<DOC>
+<DOCNO> 43366 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/09/21/yasam/yas05.html </URL>
+<DATE> 2001/09/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sanal lemde Nimda terörü 
+</HEADLINE>
+<TEXT>
+
+En hızlı ve tehlikeli bilgisayar virüsü’ olan Nimda’, e-mail yoluyla dünyayı dolaşıyor 
+     ŞÜKRÜ ANDAÇ 
+
+     Geçtiğimiz aylarda dünyanın başına bela olan ve bilgisayarlara sızarak sistemleri çökerten Code Red Kızıl Kod virüsünden sonra, şimdi de daha hızlı ve daha tehlikeli olan Nimda’ virüsü sanal lemde kol geziyor. Geçtiğimiz salı gününden itibaren bilgisayar sistemlerine e-mail yoluyla sızan virüsün tüm dünyaya yayılmasından endişe ediliyor. 
+     Windows 2000 ya da Windows NT sistemleriyle çalışan bilgisayarlarda aktif hale gelen Nimda, ekli dosyalar açıldığında aktif hale geçerek sistemi çökertiyor. Nimda, Windows 95 ve 98 sistemlerini kullananları etkileyemiyor. 
+     Virüsten, ABD’de 130 bin, Almanya, İngiltere, Fransa ve İtalya başta olmak Avrupa’da da 15 bine yakın web sunucusu ve kullanıcı etkilendi. Japonya, Hong Kong, Tayvan, Güney Kore ve Çin gibi Uzakdoğu ülkeleri de etkilendiklerini açıkladılar. FBI, virüs programını yazanlara ulaşabilmek için çalışmalarını sürdürüyor. Nimda virüsünün sistemlerinize girmesini önlemek aslında çok zor değil. 
+     
+     Korunmak için... 
+     Size gelen e-mail’de subject konu ismi yazmıyor ve ekli dosyada readme.exe.’ yazısı görünüyorsa, virüs sistemlerinize sızmaya başlıyor demektir. Korunmanın tek yolu ise, e-mail’i hemen silmek. Bu virüsün girmesini önlemek için gerekli yamaları yüklemeniz de korunmanızı sağlıyor. Bunun için "microsoft.com security" adresinden gerekli 16 yamayı yükleyebilirsiniz. 
+     
+
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

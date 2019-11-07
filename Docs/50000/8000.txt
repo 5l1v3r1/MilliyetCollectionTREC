@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 8000 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/02/20/son/sondun07.html </URL>
+<DATE> 2001/02/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kuveyt'te petrol tesislerinde yangın çıktı 
+</HEADLINE>
+<TEXT>
+
+     Kuveyt'te, dünyanın ikinci büyük petrol alanı olarak bilinen bölgedeki tesislerde yangın çıktı. 
+     Petrolle ilgili bazı kaynaklardan alınan bilgiye göre, başkentin 80 kilometre kadar güneyindeki Burgan tesislerinde bu sabahın erken saatlerinde alevler yükseldi. Tesislerdeki 2 numaralı depolama bölümünde çıkan yangının büyüklüğü konusunda bilgi edinilemedi. Burgan tesislerinde günde 1,5 milyon varilden fazla petrol üretiliyor. 
+
+
+
+</TEXT>
+</DOC>

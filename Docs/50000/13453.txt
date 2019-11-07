@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 13453 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/03/28/son/soneko01.html </URL>
+<DATE> 2001/03/28/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası günü yükselişle tamamladı. 
+     Borsanın temel göstergesi Dow Jones Endeksi 260.01 puan artarak, günü 9.947.54 puandan kapattı. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq Endeksi ise 53.75 puan artışla 1.972.24 puana yükseldi. 
+
+
+
+
+</TEXT>
+</DOC>

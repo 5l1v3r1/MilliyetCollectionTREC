@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 30547 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/07/05/son/sontur13.html </URL>
+<DATE> 2001/07/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türk Telekom'a çifte soruşturma 
+</HEADLINE>
+<TEXT>
+
+     Rekabet Kurulu, Türk Telekomünikasyon A.Ş hakkında başlattığı soruşturmada, internet hizmetlerinde internet servis sağlayıcı kuruluşların aleyhine haksız rekabete yol açtığına karar vererek, geçici tedbir kararı aldı ve Türk Telekom'dan 15 gün içinde tarifelerini yeniden düzenlemesini istedi. 
+     Telekomünikasyon Kurumu da aynı konuda soruşturma başlatarak, Türk Telekom'dan savunmasını istedi. Rekabet Kurulu, 28 Mart 2001 tarihinde Türk Telekomünikasyon A.Ş'nin internet hizmetlerinde 4054 sayılı kanuna aykırı uygulamalarının olup olmadığına ilişkin soruşturmasında geçici tedbir kararı aldı. 
+     Türk Telekom'a iletilen kararda, haksız rekabete yol açan uygulamaların 15 gün içinde düzeltilmesi, aksi halde her gün için ayrı para cezası uygulanacağı kaydedildi. Kararda, gereken tedbirlerin alınmaması halinde 4054 sayılı Kanun'un 16 ve 17. maddeleri uyarınca Türk Telekom hakkında işlem yapılacağı ifade edildi. Türk Telekom, söz konusu tedbirleri almadığı takdirde günlük 1 milyar liraya yakın ceza ödemek durumunda kalacak. 
+     Rekabet Kurulu aldığı kararla, Türk Telekom'un TTNet şebekesinden sunduğu hizmetlerin fiyatlarıyla, internet servis sağlayıcılarına yönelik tarife ve uygulamalarını rekabet ihlali oluşturmayacak şekilde yeniden belirlemesini istedi. 
+     İnternet servis sağlayıcılarına internet erişimi sunmaları için sadece sanal erişim noktalarını VPOP kiralamaya zorlayan Türk Telekom'un bu eylemine son vermesi, imkanlardan ayrımcılığa yer vermeyecek şekilde internet servis sağlayıcılarının yararlandırılması gerektiği kaydedildi. 
+     Türk Telekom'un xDSL internet erişim olanağı ile kablo TV şebekesi üzerinden internet erişimini internet servis sağlayıcılarına makul ve teknik açıdan imkan dahilindeki koşullarda ayrımcı olmayacak şekilde açması karara bağlandı. 
+     Ayrıca, Türk Telekom'un, rakibi olan internet servis sağlayıcılarından teknik açıdan gerekli olanlar dışında, rekabet avantajı sağlayacak bilgileri talep etme uygulamasına da son vermesi talep edildi. 
+     Rekabet Kurulu'nun Türk Telekom hakkında resen ve internet servis sağlayıcı kuruluşların başvurusu üzerine başlattığı soruşturma sürüyor. Rekabet Kurulu, Türk Telekom'dan, soruşturma sonuçlanana geçici tedbir niteliğindeki önlemleri yerine getirmesini istiyor. 
+     Öte yandan, Telekomünikasyon Kurumu da aynı konuya ilişkin Türk Telekom hakkında ön soruşturma yaptı. Soruşturma kararı veren Telekomünikasyon Kurumu, Türk Telekom'dan savunmasını istedi. Telekomünikasyon Kurumu da savunmaya göre, Telekom'u haksız bulması halinde gerekli önlemleri almasını isteyecek. Türk Telekom, bu önlemleri almadığı takdirde Telekomünikasyon Kurumu'nun para ve lisans iptali gibi yaptırımlarıyla karşı karşıya kalabilecek. 
+     
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

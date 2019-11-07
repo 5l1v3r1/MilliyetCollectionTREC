@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 2616 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/17/son/soneko05.html </URL>
+<DATE> 2001/01/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yazıcı pazarında IBM-Bilgitaş işbirliği 
+</HEADLINE>
+<TEXT>
+
+     IBM Türk, çözüm ortağı Bilgitaş Bilgisayar ile yazıcı dağıtımında da işbirliğine gitti. 
+     IBM sunucu, iş istasyonu, diz üstü-masa üstü bilgisayar ürünlerinin Türkiye çapındaki dağıtıcılığını yapan Bilgitaş Bilgisayar, IBM yazıcılarının da Türkiye'deki tek dağıtıcısı oldu. 
+     IBM Türk Kurumsal Sistemler Bölüm Müdürü İhsan Tunçer yeni işbirliğinin tanıtımı amacıyla düzenlenen toplantıda yaptığı konuşmada, IBM'in çözüm ortaklarına verdiği öneme değinerek, IBM ve Bilgitaş'ın ortaklıklarına ekledikleri bu yeni halkanın uzun vadeli işbirliğinin temellerini sağlamlaştıracağını söyledi. 
+     IBM'in sektördeki marka güveni, bilgi ve deneyiminin, Bilgitaş'ın geniş dağıtım ağı ve distribütörlük tecrübesiyle birleşmesinden oluşacak bu yeni soluğun, yazıcı pazarında kısa sürede hissedileceğini vurguladı. 
+     Tunçer, internet dünyasında yazıcının öneminin her geçen gün daha da arttığına dikkat çekerek, bu sene printer işini daha cazip ve para kazanılabilir bir iş haline getireceklerini, printer pazarındaki hedeflerinin de geçen seneki rakamları ikiye katlamak olduğunu söyledi. Bilgitaş Bilgisayar Genel Müdürü Lusi Adut ise, hedeflerinin 1,5 yıl önce IBM ile başlattıkları işbirliğinde, daha geniş ürün yelpazesiyle daha fazla müşteriye hizmet vererek pazar paylarını ve başarılarını artırmak olduğunu belirtti. 
+     
+
+
+
+</TEXT>
+</DOC>

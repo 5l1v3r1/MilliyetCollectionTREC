@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 21386 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/05/15/son/soneko30.html </URL>
+<DATE> 2001/05/15/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsada bugün en çok değer kazanan ve kaybeden hisseler 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası'nda İMKB bugün günlük bazda en çok değer kazanan ve en çok değer yitiren 10 hisse senedi ile değişim oranları şöyle 
+     
+DEĞER KAZANAN HiSSE ADI ARTIŞ ORANI Lüks Kadife 23.44 Yasaş 19.23 Yasaş Yeni 18.75 Avrasya Y.O. 16.92 Vakko Tekstil 16.67 Arat Tekstil 10.64 Hektaş 10.53 Link Bilgisayar 10.00 Doğusan 9.46 Doğusan YENİ 9.43      
+ DEĞER KAYBEDEN HiSSE ADI DÜŞÜŞ ORANI Otokar -12.50 Anadolu Efes -9.43 Pimaş -9.09 Tansaş -8.70 Bayraklı Boya -7.87 Doğan Hold. -7.55 Mensa Mensucat -7.02 Makina Takım -6.82 Bak Ambalaj -6.76 Global Yat.O. -6.67      
+
+
+
+
+
+
+</TEXT>
+</DOC>

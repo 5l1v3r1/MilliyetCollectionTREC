@@ -1,0 +1,53 @@
+<DOC>
+<DOCNO> 24386 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/06/01/guncel/gun01.html </URL>
+<DATE> 2001/06/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Depreme uzay gözü 
+</HEADLINE>
+<TEXT>
+
+Rus bilim adamları, yerkabuğundaki hareketlenmeleri takip edecek ve depremi birkaç gün önceden tespit edecek bir uydu sistemi geliştirdi 
+     UTKU ÇAKIRÖZER Ankara 
+
+     Hava Kuvvetleri Komutanlığı’nın organize ettiği Uzay Sempozyumu’na katılan Rus bilim adamları iyonosferdeki elektron ve iyon hareketlerinden depremleri birkaç gün önceden ihbar edecek bir uydu sistemini tanıttı. 
+     Rusya Bilimler Akademisi profesörlerinden Kırıl Boyarçuk dün Sheraton Oteli’nde sunduğu bildirisinden sonra basının yoğun ilgisiyle karşılaştı. Prof. Boyarçuk, pilot proje olarak hazırlanan ve ekimde uzaya fırlatılacak olan COMPASS pusula hakkındaki sorularımızı şöyle yanıtladı 
+     - Önerdiğiniz sistemin özelliği nedir 
+     Projemizle ilk kez uzaydan uydu aracılığıyla tahminde bulunulacak ve eğer başarılı olursak yer sarsıntılarını birkaç gün önce tespit edebileceğiz. 
+     - Sistem nasıl çalışacak 
+     Deprem olmadan günler, saatler önce yerkabuğundaki hareketlenmelerin yarattığı elektromanyetik ortam, atmosferin ikinci katı olan iyonosferde iyon ve elektron yoğunluklarında ani değişimlere neden oluyor. Sistemin esası iyonosferdeki bu öncü hareketlenmeyi yeryüzüne yakın bir alçak yörünge uydusu aracılığıyla tespit etmekten ibaret. 
+     - Sistemin depremi tahmin yüzdesi ne olacak 
+     Richter ölçeğine göre 6 ve üzerindeki yer hareketlerini iyonosferdeki değişimlerden belirleme olasılığımız 80. 
+     - Projenin finansmanı ne kadar 
+     20 milyon dolar. 
+     - Türkiye için bir tahmininiz var mı 
+     17 Ağustos depreminden birkaç saat önce iyonosferde öncü iyon hareketlenmesi gözlenmiş. Eğer böyle bir uydu olsaydı bu datalar yardımıyla insan kayıpları en aza indirilebilirdi. 
+     
+Ayvacık sallandı      Çanakkale’nin Ayvacık ilçesinde dün gece saat 22.39’da 4.1 büyüklüğünde deprem meydana geldi. Çevre yerleşim birimlerinde de hissedilen sarsıntıda can ve mal kaybı olmadı. 
+     
+
+
+
+ GÜNCEL 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 9010 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/02/26/son/sondun11.html </URL>
+<DATE> 2001/02/26/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Avrupa'da deli dana'dan sonra şimdi de şap hastalığı paniği 
+</HEADLINE>
+<TEXT>
+
+     Hollanda'da, şap hastalığına karşı önlemler çerçevesinde, hafta sonunda 3 binden fazla büyük baş hayvan imha edildi. 
+     Tarım Bakanlığı'ndan verilen bilgiye göre, bakanlık müfettişlerince yapılan incelemeler sonunda, 11 ayrı çiftlikte toplam 600 geyik ve 2 bin 400 koyun ile yüzlerce sığır ve domuz imha edildi. 
+     Hastalığın, hayvan üreticileri arasında paniğe yol açmaması için, imha edilen hayvanların bulundukları çiftlikler ve yerleri gizli tutuldu. 
+     İngiltere'de şap hastalığının salgın şeklinde ortaya çıkmasından sonra, bakanlık müfettişlerince 18 ayrı çiftlikte inceleme yapıldı. Bunlardan 11'indeki hayvanların temizlenmesine karar verildi. Diğer 7 çiftlikteki hayvanlarda ise herhangi bir hastalık belirtisine rastlanmadı, ancak bu çiftliklerle ilişkide bulunun 17 ayrı işletme, önlem amacıyla dışarıya tamamen kapatıldı. Bu çiftliklerdeki hayvanlardan alınan kan örnekleri üzerinde araştırmanın sürdürüldüğü kaydedildi. 
+     Bulaşıcı olan şap hastalığının domuzlarda çok çabuk belli olmasına karşılık, koyun ve sığırda biraz daha zor farkedildiğini bildiren uzmanlar, araştırmaların çoğunlukla domuz üretim çiftliklerinde yapıldığını ve bu çiftliklerde sığır ve koyunun da beslendiğini belirttiler. 
+     Almanya'da da Kuzey Ren Vestfalya eyaletinde, İngiltere'den ithal edilen hayvanlar şap hastalığı şüphesiyle öldürüldü. 
+     Eyalet Çevre ve Tarım Bakanı Baerbel Höhn, bugün Deutschlandradio adlı radyoya yaptığı açıklamada, eyaletteki 2 çiftliğin İngiltere'den hayvan ithal ettiğinin belirlendiğini söyledi. Höhn, bu çiftliklerden birinde bulunan hayvanların dün diğer çiftlikteki hayvanların da bugün öldürüldüğünü belirtti. 
+     
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 26432 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/06/12/son/sondun18.html </URL>
+<DATE> 2001/06/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft bilgisayara telefonu ilave etti 
+</HEADLINE>
+<TEXT>
+
+     Microsoft firmasının, 25 Ekim'de piyasaya çıkaracağı yeni işletim sistemi ''Windows XP'' ile bilgisayara telefonu da ilave edeceği bildirildi. 
+     ''Windows-XP'' programını inceleyen uzmanlar, işletim sistemine eklenen bir yazılım sayesinde, bundan böyle bilgisayar aracılığıyla telefon etmenin günlük hayata gireceğini bildirdiler. 
+     Yazılım, internet üzerinden telefon numaralarını bulmak, çevirmek ve bilgisayar aracılığıyla konuşmayı mümkün hale getiriyor. Gelişmenin, telefonun ABD'de, bilgisayarla birlikte en fazla kullanılan teknolojik gereç olmasından kaynaklandığı kaydedildi. 
+     Bilgisayar aracılığıyla telefon etmek, şimdiye kadar çeşitli yazılım kuruluşlarınca denenmiş bir yöntem. Ancak bu yazılımların hiçbiri, bilgisayarla normal telefonlar gibi iletişim sağlanmasına olanak vermiyordu. Konuşmaların genellikle güç anlaşıldığı bilgisayarlı telefon konuşmalarında sık sık da kesilmeler meydana geliyordu. 
+     ''Windows-XP''ye eklenen yazılımın, bu aksaklıkları ortadan kaldıracağı öne sürülüyor. Ayrıca şimdiye kadar, bilgisayarlarıyla telefon konuşması yapmak isteyenler, internette birbirlerini kolayca bulamıyor ve bu iş için değişik kuruluşların ürettiği pahalı yazılımları bilgisayarlarına yüklemek zorunda kalıyorlardı. Microsoft'un yaptığı son atılım, uzmanların, ''kuruluşun bundan sonraki hedefi telefon firmaları mı '' sorusunu sormalarına yol açtı. Microsoft yetkilileri, ''XP'' programına güçlü telefon konuşma ve bulma özellikleri ekleneceğini belirttiler. Şimdiye kadar internet aracılığiyle video-konferans ve karşılıklı sohbet etme olanaklarını geliştirmiş olan Microsoft, ''passport'' adını verdiği internette kimlik belirtme yöntemiyle bu alandaki ilk adımını atmıştı. Yakın gelecekte bilgisayar aracılığıyla yapılacak telefon konuşmalarının, günümüzdeki telefon konuşmalarından daha kaliteli olacağı, ayrıca bilgisayarın, aranan kişinin yerinde olup olmadığını arayıcıya bildireceği ifade ediliyor. 
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

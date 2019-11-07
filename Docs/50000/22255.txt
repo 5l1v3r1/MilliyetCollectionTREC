@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 22255 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/05/20/son/sondun05.html </URL>
+<DATE> 2001/05/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Okullarda sigara içenleri yakalamak için üfleme cihazı geliştirildi 
+</HEADLINE>
+<TEXT>
+
+     Orta dereceli okullarda sigara içilmesini engellemek ve içenleri anında yakalamak amacına yönelik olarak İngiltere’de geliştirilen "üfleme cihazı", nefesteki karmonmonoksit seviyesi ölçerek anında sonuç veriyor. 
+     Trafik polislerinin alkollü araç kullanan sürücülerin tesbiti için kullandıkları dedektörleri andıran cihaz, İngiltere’deki pek çok orta dereceli okulda kullanıma sokuldu. 
+     "Smokerlyzer" adı verilen cihaz, üflemenin ardından çok kısa bir süre içinde nefesle birlikte cihaza gelen havadaki karbonmonoksit miktarını ortaya koyarak, sigara içilip içilmediğini ortaya çıkarıyor. Uzmanlar, birkaç çocuğun dedektöre yakalanmamak için aynı sigaradan birer-ikişer nefes çekmelerinin bile dedektörü yanıltamadığını, aletin bu miktardaki karbonmonoksidi bile hissedebildiğini ifade ediyor. 
+     Uzmanlara göre, üfleme cihazı hiç sigara içmeyen kişileri yeşil ışıkla, az içmiş kişileri sarı ışıkla, tiryakileri ise kırmızı ışıkla birbirinden ayırıyor. İngiliz eğitimciler, cihazın çocukların cezalandırılmasından ziyade sigaranın zararlarına karşı uyarılması için kullanıma sokulduğunu belirtirken, bazı okulların dedektör kontrolünde temiz çıkan eski içicileri spor kulüplerine bedava üyelik kartı vererek ödüllendirdikleri bildirildi. 
+     
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

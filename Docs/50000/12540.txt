@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 12540 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/03/22/son/soneko01.html </URL>
+<DATE> 2001/03/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsası düştü 
+</HEADLINE>
+<TEXT>
+
+     New York borsasında Dow Jones ve Nasdaq endeksi düştü. 
+     Borsanın temel göstergesi Dow Jones 233.76 puan düşerek, günü 9487.00 puandan kapattı. Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq endeksi ise 27.28 puan azalarak, günü 1,830.16 puandan kapattı. 
+
+
+
+
+</TEXT>
+</DOC>

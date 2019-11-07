@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 49999 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/11/01/son/soneko01.html </URL>
+<DATE> 2001/11/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası'nda Dow Jones düştü, Nasdaq yükseldi 
+</HEADLINE>
+<TEXT>
+
+     New York Menkul Kıymetler Borsası Wall Street'in Dow Jones Endeksi 46.84 puan azalmayla yüzde 0.6 günü 9,075.14 puandan kapadı. 
+     Teknoloji ortaklıkları hisse senetlerinin izlendiği Nasdaq Birleşik Endeksi ise 22.79 puan artışla yüzde 1.4 son seansı 1,690.20 puandan tamamladı. 
+     Dow Jones endeksi günün ilk seansında 91.83 puanlık artışla 9,213.81 puana yükselmişti. 
+     Borsanın ilk seanstaki yükselişinde, yatırımcıların, düşük fiyatlı kağıtları satın almaları belirleyici oldu. Amerikan hükümetinin, yılın üçüncü çeyreğinde, 11 Eylül'ün dev terör darbesinden sonra ekonominin beklenenden daha az oranda küçüldüğünü açıklamasına rağmen, ihtiyatlı yatırım eğilimi borsanın seyrini belirliyor. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

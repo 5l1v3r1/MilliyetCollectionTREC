@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 35859 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/08/07/son/sondun11.html </URL>
+<DATE> 2001/08/07/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kırmızı Kod Çin'de de ortaya çıktı 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayar kullanıcılarının korkulu rüyası olarak gösterilen, ancak tahmin edildiği kadar zarar veremediği gözlenen ''Kırmızı Kod''un daha etkili versiyonu ''Kırmızı Kod II'', Çin'deki bazı bilgisayarlarda da ortaya çıktı. 
+     Pekin Rising Technology Şirketi yetkilisi, daha önce ''Çin dilindeki kırılabilir sistem versiyonlarının virüse bağışık olabileceği'' şeklindeki iddiaların tersine, virüsün Çin'de hızlı ve geniş bir şekilde yayıldığını söyledi. İsminin açıklanmasını istemeyen yetkili, Çin'de bazı bilgisayarların, ''Kırmızı Kod II'' virüsünün saldırısına uğradığını ve bazı üniversite, kamu kuruluşları ve büyük firmaların bu virüsten etkilendiğini belirtti. ''Kırmızı Kod II'' virüsü, internet üzerinden kredi kartı kullananların bilgisayarlarına bulaşması halinde, kart şifreleri dahil birçok hassas bilgiyi ortaya çıkartabiliyor. 
+     
+     
+
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 20740 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/05/11/son/sontur12.html </URL>
+<DATE> 2001/05/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bayrampaşa Cezaevi'nde mahkumların gözdesi "Aria" 
+</HEADLINE>
+<TEXT>
+
+     Bayrampaşa Cezaevi'ne son günlerde dışarıdan çok sayıda cep telefonu atılmasının, hizmete yeni giren GSM şebekesi Aria'nın, daha önce konuşmaları engellemek amacıyla yerleştirilen yansıtıcılardan etkilenmemesinden kaynaklandığı anlaşıldı. 
+     Bayrampaşa Cezaevi'ne yaklaşık iki yıl önce, tutukluların cep telefonlarıyla konuşmalarının engellenmesi amacıyla yansıtıcılar yerleştirildi. Cezaevinin çevresinde oturan vatandaşlarla aynı güzergaha yolu düşenlerin bile cep telefonlarını kullanamamalarına neden olan yansıtıcılar yüzünden görüşmeleri engellenen tutuklular, bu kez çevredeki evlere santrallar kurdurarak, telsiz telefon aracılığıyla görüşmelerini sürdürmeye çalıştı. 
+     Polisin gerçekleştirdiği operasyonlarda bu santralları de çöken tutuklular, bu kez hizmete yeni giren ve 1800 megahertz frekansını kullanan Aria'nın, 900 megahertze ayarlı yansıtıcılardan etkilenmediğini keşfetti. Bunun üzerine son iki ayda, çevre sokaklardan cezaevine, çok sayıda cep telefonu ve SIM kartı atıldı. 
+     Cezaevi korumasında görevli jandarmalar da, 16 Nisan'dan bu yana, dışarıdan atılan ve aramalarda bulunan cep telefonlarından 45'ini, SIM kart, batarya ve şarj cihazlarıyla ele geçirdi. 
+     İstanbul Cumhuriyet Başsavcılığı da, Adalet Bakanlığı'na bir yazı göndererek, cezaevindeki yansıtıcıların yeni şebekenin frekansına göre ayarlanmasını istedi. 
+
+
+
+
+
+
+</TEXT>
+</DOC>

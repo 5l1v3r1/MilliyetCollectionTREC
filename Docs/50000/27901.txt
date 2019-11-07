@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 27901 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/06/20/son/soneko25.html </URL>
+<DATE> 2001/06/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsada günün en çok değer kazanan ve kaybeden hisseleri 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası'nda İMKB bugün en çok değer kazanan ve en çok değer yitiren 10 hisse senedi ile değişim oranları şöyle 
+     
+DEĞER KAZANAN HiSSE ADI ARTIŞ ORANI Deva Holding 20.00 Adel Kalemc. 11.63 Lüks Kadife 11.27 Uzel Makina 9.20 Burçelik 7.45 FM.İzmit Piston 7.41 Acıbadem Sağ. 7.04 Usaş Uçak S. 6.87 Karsu Tekstil 6.74 EGS G.Menkul 6.38       
+DEĞER KAYBEDEN HiSSE ADI DÜŞÜŞ ORANI Meges Boya -14.81 Ceytaş Madencil -14.67 Gediz İplik -14.29 Garanti Y.O. -12.50 Park Elk.Maden. -12.12 Sezginler Gıda -11.24 Boyasan Tekst. -11.11 Tümteks -10.87 Doğusan -9.62 Raks Ev Aletler -8.74      
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

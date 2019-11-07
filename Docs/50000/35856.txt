@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 35856 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/08/07/son/sondun08.html </URL>
+<DATE> 2001/08/07/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kırmızı Kod Güney Kore'de hükümetin bilgisayarlarını vurdu 
+</HEADLINE>
+<TEXT>
+
+     ''Kırmızı Kod'' adlı bilgisayar virüsü, Güney Kore'de hükümete ait bilgisayarları vurdu. 
+     İçişleri Bakanlığı yetkilisi, bilgisayar solucanının, başkent Seul'un 140 kilometre güneyindeki Taejon'da, bazı kamu dairelerinde etkili olduğunu ve departmanlar arasındaki bilgisayar ağını etkilediğini söyledi. Yetkili, virüsün dün teşhis edildiğini ve etkilenen bilgisayarların, virüsün yayılmasını engellemek amacıyla kullanım dışı bırakıldığını belirtti. Kırmızı Kod virüsünün, 10 gün süreyle ''kuluçkaya yattığını'' ve etki süresini yaydığını belirten yetkili, diğer kamu dairelerine de, gerekli önlemlerin alınması ve virüsün yayılmasının önlenmesi konusunda uyarıda bulunduklarını kaydetti. Kırmızı Kod virüsü, ABD'de 19 Temmuz'da 9 saat içinde yaklaşık 225 bin bilgisayar sistemini felce uğratmıştı. Bu virüsle Beyaz Saray'ın internet sitesine saldırılmış, Pentagon'un internet sitesine de ''Çinliler tarafından kırıldı'' Hacked by Chinese yazısı yerleştirilmişti. 
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

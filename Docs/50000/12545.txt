@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 12545 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/03/22/son/soneko06.html </URL>
+<DATE> 2001/03/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Repo Pazarı'nda gecelik faiz yüzde 80 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası İMKB Tahvil ve Bono Piyasası Repo Pazarı'nda gecelik faiz yüzde 80.10'dan açıldı. 
+     Repo Pazarı'nda günün ilk saatlerinde durgunluk gözlenirken, menkul kıymetlerin alınıp satıldığı Tahvil ve Bono Piyasası'nda en çok işlem gören 27 Haziran vadeli, bugün valörlü bononun bileşik getirisi dünün 0.34 puan altında yüzde 133.34, 23 Mayıs vadeli, bugün valörlü bononun bileşik getirisi de 0.54 puan altında yüzde 137.65 düzeyinde. Bankalararası TL interbankında ise gecelik faizler yüzde 80'den işlem görüyor. 
+
+
+
+
+</TEXT>
+</DOC>

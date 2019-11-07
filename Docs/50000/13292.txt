@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 13292 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/03/27/son/soneko01.html </URL>
+<DATE> 2001/03/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones yükseldi, Nasdaq düştü 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın en büyük borsası konumundaki New York Wall Street Menkul Kıymetler Borsası'nın temel göstergesi Dow Jones Sanayi Endeksi, 141.11 puan yükselişle yüzde 0.48 son seansı 9,645.74 puandan kapattı. 
+     Teknoloji şirketlerinin hisse senetlerinin takip edildiği Nasdaq Birleşik Endeksi ise az düşüşle 2.91 puan kayıp yüzde 0.15 1,925.77 puandan günü kapadı. 
+     New York'ta endeksler, ilk seans açılışında yükseldi. 
+     Açılıştan kısa süre sonra, Dow Jones Endeksi 111.73 puan artarak 9,616.51 puana, teknoloji endeksi Nasdaq ise 23.39 puan yükselerek 1,952.07 puana çıktı. 
+     Borsada yükselme, geçen hafta sonundaki satış eğiliminden sonra yatırımcıların piyasaların nefes alacağı düşüncesiyle alımlara yönelmelerine bağlandı. 
+
+
+
+</TEXT>
+</DOC>

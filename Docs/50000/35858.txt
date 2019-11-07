@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 35858 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/08/07/son/sondun10.html </URL>
+<DATE> 2001/08/07/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Rus hacker Sklyarov kefaletle serbest 
+</HEADLINE>
+<TEXT>
+
+     Rus şifre kırıcı hacker Dimitri Sklyarov, 50 bin dolarlık kefalet karşılığında serbest bırakıldı. 
+     San Jose'daki mahkemenin önünde toplanan protestocular, FBI'ın ABD Anayasası tarafından güvence altına alınan ifade özgürlüğünü ihlal ettiğini öne sürdüler. 
+     Kefalet miktarını Moskova'da bulunan ElcomSoft karşılarken, Sklyarov, 8 yıldır ABD'de yaşayan bir diğer yazılım programcısı Sergey Osokine'nin gözetiminde bırakıldı. 
+     Yaptığı kısa açıklamada, kendisine yönelik suçlamaların aslında diğer programcılara uyarı niteliğinde olduğunu savunan Sklyarov, ''Muhtemelen birileri, diğerlerine bir çeşit gösteri yapmaya çalıştı'' dedi. Sklyarov, 15 Temmuz'da Las Vegas'taki DefCon şifre kırıcıları toplantısında ''E-kitap Güvenliği Teori ve Pratik'' başlıklı bir konuşma yapmış ve ertesi günü Moskova'ya dönmek üzere toparlanmak için geldiği otelinde FBI tarafından tutuklanmıştı. Elektronik kitapların güvenliğini sağlayan sistemleri kırarak herkesin okumasını sağlayabilen bir program hazırladığı öne sürülen Sklyarov'un, konuşmasının ardından tutuklanması ifade özgürlüğü nedeniyle dikkatleri çekmiş, şifre kırıcıların protesto gösterileri yapmasına yol açmıştı. 
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

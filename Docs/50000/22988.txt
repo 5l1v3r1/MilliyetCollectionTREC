@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 22988 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/05/24/son/soneko27.html </URL>
+<DATE> 2001/05/24/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsada bugün en çok değer kazanan ve kaybeden hisseler 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası'nda İMKB bugün günlük bazda en çok değer kazanan ve en çok değer yitiren 10 hisse senedi ile değişim oranları şöyle 
+     
+DEĞER KAZANAN HiSSE ADI ARTIŞ ORANI Kerevitaş 22.92 Mensa Mensucat 15.63 Turcas Petrol 13.48 Yataş 12.77 Ege Gübre 10.34 Çimentaş 10.34 Tuborg 9.80 Birlik Mensucat 9.64 Klimasan 7.78 Egeplast 7.69      
+ DEĞER KAYBEDEN HiSSE ADI DÜŞÜŞ ORANI Taç Yat. Ort. -13.92 Konfrut Gıda -10.61 Demisaş Döküm -10.00 İş Bankası C -9.30 Tümteks -8.45 Öz Finans F. -8.33 Boyasan Tekst. -7.27 Adana Çim. B -6.78 Esem Spor Giyim -6.67 Global Men.D. -6.67      
+
+
+
+
+
+
+</TEXT>
+</DOC>

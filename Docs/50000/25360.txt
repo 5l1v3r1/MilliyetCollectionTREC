@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 25360 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/06/06/son/soneko01.html </URL>
+<DATE> 2001/06/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones ve Nasdaq endeksleri yükseldi 
+</HEADLINE>
+<TEXT>
+
+     New York borsası günü yükşelişle kapadı. 
+     Borsanın temel göstergesi Dow Jones 114.32 puan yükselerek, günü 11,175.84 puandan kapattı. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq da 77.73 puan artışla 2,223.66 puandan kapandı. 
+
+
+
+
+
+
+</TEXT>
+</DOC>

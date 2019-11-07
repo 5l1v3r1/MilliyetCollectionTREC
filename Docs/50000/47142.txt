@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 47142 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/10/16/son/sondun07.html </URL>
+<DATE> 2001/10/16/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD'de İnternetin düşmana sır verdiğinden şüpheleniliyor 
+</HEADLINE>
+<TEXT>
+
+     ABD, internette mouse ile tek bir tıklama sonucu su kaynakları ve santrallerin haritalarından, askeri ve başkanlık komuta, kontrol merkezlerinin yerine kadar pek çok sırra kolayca ulaşılmasının, ''düşmanın eline koz verdiği'' şüphesiyle yeni önlemler alıyor. 
+     Uzmanlar, internetteki arama motorlarıyla hemen ulaşılabilecek bu bilgilerin gizli bilgi konumuna alınması yönünde Amerikan yönetimi yetkililerini uyarıyorlar. 
+     Merkezi İstihbarat Teşkilatı CIA'in eski başkanı James Woolsey, Amerikan televizyonlarındaki açıklamasında, bu tür detaylı askeri bilgilerin internette bulunduğunu bilmediğini belirtirken, bu bilgilerin internette bulunmasını ''çılgınlık'' olarak niteledi. 
+     Üstelik bu bilgilerin bulunduğu internet sitelerinin, Amerika'nın düşmanları tarafından değil, kar amacı gütmeyen bazı kuruluşlar ile hükümetin kendisi tarafından hazırlandığı belirtiliyor. 
+     11 Eylül terörist saldırılarının ardından, bu internet 
+     sayfalarından bazılarının kaldırılmasına karşılık, birçok önemli bilgiyi içerenler halen duruyor. Amerikan Bilim Adamları Federasyonu'nun Başkanı Steven Aftergood, genel olarak hükümetin gizlilik politikalarına karşı olmalarına rağmen, askeri operasyon bitinceye kadar yeni bir zayıf nokta ortaya çıkarmamak için bazı bilgilerin bulunduğu sayfaları kapatacaklarını bildirdi. Hükümet kuruluşları tarafından hazırlanan bazı internet siteleri de yeniden düzenlenerek ulaşım zorlaştırıldı veya tamamen kapatıldı. Nükleer Düzenleme Komisyonu, nükleer santral şemalarının bulunduğu sitesini, ''hassas bilgiler'' içerdiği gerekçesiyle kapattı. Çevre Koruma Ajansı da kimyasal bitkiler risk yönetim planlarına ilişkin bilgileri sitesinden çekti. Uçak kaçıran teröristlerden Muhammed Atta'nın, daha önce Tennessee ve Washington yakınlarında kimyasallara ilişkin bilgi araştırdığı biliniyor. Ulaştırma Bakanlığı'nın boru hattı güvenliği ofisi de ulusal boru hattı harita sistemine ilişkin bilgi veren sayfasını kapattı. 11 Eylül saldırılarından sonra ordu mühendisleri internet sitesinde yer verilen, yeraltı bir kumanda merkezine ilişkin bilgiler, kullanıcı adı ve şifre ile ulaşılabilir konuma getirildi. ABD'de, internetin en iyi arama motoru olarak bilinen Google'ın bile, internet arşivinden, hassas olabilecek bilgileri içeren internet sitelerini çıkarttığı açıklandı. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

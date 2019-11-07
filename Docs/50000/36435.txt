@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 36435 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/08/10/son/sontur03.html </URL>
+<DATE> 2001/08/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Başbakanlık sitesini kıran bilgisayar korsanı sır oldu 
+</HEADLINE>
+<TEXT>
+
+     Başbakanlığın internet sitesini geçtiğimiz aylarda kıran bilgisayar korsanının kullandığı bilgisayar bulundu ancak "Hacker" en küçük bir iz bile bırakmadan ortadan kayboldu. 
+     Başbakanlık Müsteşarlığı'ndan edinilen bilgiye göre, web sitesinin kırılması ve protesto mesajlarının siteye yansıtılmasından sonra harekete geçen "siber" dedektifler, teknolojinin her türlü olanağını kullanarak bir araştırma yaptılar. Yapılan araştırma sonucunda web sitesinin İstanbul'daki bir internet cafeden gönderilen programla kırıldığı ortaya çıktı. İnternet cafeye giden emniyet yetkilileri, programın gönderildiği bilgisayarı buldular, ancak bilgisayarı kullanan hakkında en küçük bir ize ulaşılamadı. 
+     Başbakanlık yetkilileri, internet cafenin ismini açıklamazken, kullanıcı kayıtlarının tutulmaması nedeniyle bu tür olaylarda zaman zaman sorumluların ortaya çıkarılamadığını belirttiler. 
+     Başbakanlık internet sitesini kıran ve "memur çocuğu" olduğunu belirten "hacker", düşük memur maaş zamlarını protesto ettiğini belirtmişti. "Hacker" Başbakanlığın sayfasına ayrıca "En büyük Cem Yılmaz" biçiminde bir de kayıt düşmüştü. 
+     
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 37581 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/08/17/son/sondun03.html </URL>
+<DATE> 2001/08/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Japonya hükümetinin bilgisayarlarında Kızıl Kod 2 virüsü 
+</HEADLINE>
+<TEXT>
+
+     Japon hükümeti, bilgisayarlarına ''Kırmızı Kod 2'' virüsünün bulaşmış olabileceğini açıkladı. 
+     Eğitim, Kültür, Spor, Bilim ve Teknoloji Bakanlığı, ''Kırmızı Kod 2'' olduğu sanılan virüs nedeniyle sunucularından birini geçici olarak kapattıklarını, durumun incelendiğini bildirdi. 
+     Virüsün ''Kırmızı Kod 2'' olduğu doğrulanırsa geçen ay 300 binden fazla bilgisayarı etkileyen ''Kırmızı Kod'' virüsünün ikinci ve daha tehlikeli versiyonu olan virüs Japon hükümetinin bilgisayar ağına ilk kez bulaşmış olacak. 
+     Japon Ulusal Polis Ajansı bu ay başında, ülkedeki yaklaşık 200 internet sitesine virüs girmiş olabileceğini belirterek, polisi hazırlıklı olması konusunda uyarmıştı. 
+     
+     
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

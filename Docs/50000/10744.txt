@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 10744 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/03/10/son/soneko01.html </URL>
+<DATE> 2001/03/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones ve Nasdaq günü düşüşle kapadı 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın en büyük borsası konumundaki ABD'nin New York-Wall Street Menkul Kıymetler Borsasının temel göstergesi Dow Jones Sanayi Endeksi 213.63 puan düşüşle yüzde 1.97 günü 10,644.62 puandan kapadı. Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq Birleşik Endeksi ise son 27 ayın en düşük düzeyine indi Nasdaq, 115.95 puanlık yüzde 5.35 azalmayla 2,052.78 puandan günü tamamladı. Bu puan düzeyi, Nasdaq'ın 1998'in Aralık ayı ortasından beri uğradığı en büyük düşüş oldu. 
+     ABD'de işsizlik oranının şubat ayında bir önceki aydaki düzeyini koruduğunun açıklanmasıyla, ABD Merkez Bankası'nın faiz oranlarını düşürmesi ihtimali zayıflayınca, Wall Street günü düşüşle açtı. 
+     ABD'nin güçlü ve iyi yönetilen yüksek teknoloji şirketlerinden bilgisayar çipi üreticisi Intel'in satışlarında azalma ve personel indirimi yapacağını bildirmesi, Nasdaq Bileşik Endeksi'ne borsanın açılışında 46.06 puan yüzde 2.12 kaybettirip 2,122.67 puana düşmesine yol açtı. 
+     Borsanın açılışında Dow Jones Endeksi 48.73 puan gerileyerek 10,809.52 puana inmişti. Nasdaq Endeksi rekor kırdığı 10 Mart 2000 tarihinde 5,048.62 puandan kapanmıştı ve aradan geçen bir yılda endeks yüzde 57 oranında puan kaybedip son iki yılın en düşük düzeylerine indi. Endeksin 2,000 puanı ''test edeceği'' tahmin ediliyordu. 
+
+
+
+
+</TEXT>
+</DOC>

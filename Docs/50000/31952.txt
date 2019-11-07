@@ -1,0 +1,50 @@
+<DOC>
+<DOCNO> 31952 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/07/14/guncel/gun05.html </URL>
+<DATE> 2001/07/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Balkona, terasa baz kurmak yasak 
+</HEADLINE>
+<TEXT>
+
+     ANKARA ANKA 
+
+     Cep telefonu baz istasyonlarının kuruluşu ve işletilmesine ilişkin esasları bir yönetmelikle belirleyen Telekomünikasyon Kurumu, baz istasyonlarının balkon ve teras gibi herkesin ulaşabileceği yerlere kurulmasını yasakladı. Okul ve hastane gibi sağlık kuruluşlarına olan uzaklıklarına da standartlar getirildi. 
+     Yönetmeliğe göre baz istasyonları Telekomünikasyon Kurumu'nun, radyo ve televizyon vericileri ise Radyo ve Televizyon Üst Kurulu'nun vereceği sistem kurma izinlerinde ya da onaylı yatırım planında belirtilen bölgelerde ve sayıda kurulabilecek. 
+     
+     Okullara uzak olacak 
+     Baz istasyonları ve diğer vericilerle, okul öncesi eğitim ve temel eğitim kuruluşları arasında belli bir güvenlik mesafesi bırakılacak. Güvenlik mesafesi cihazın çıkış gücü, anten kazancı ve elektrik alan değerleri esas alınarak hesaplanacak. Söz konusu istasyonların teşhis ve tedavi amaçlı sağlık kuruluşlarının civarında kurulması halinde ise bu kuruluşlardaki tıbbi cihazları etkilememesi açısından bina içinde oluşturacağı elektrik alan şiddet değeri belli bir sınırı geçemeyecek. 
+     
+     Var olanlara 3 ay süre 
+     Halen kurulu bulunan olan sabit telekomünikasyon cihazlarının, yönetmelikle öngörülen sınır değerlere uyması için 3 ay süre tanınacak. Bu süre içinde gerekli düzenlerin yapılmaması durumunda Telekomünikasyon Kurumu, cihaz ruhsat ücretinin 50 katına kadar para cezası verecek ve düzeltilmesi için beş gün süre tanıyacak. 
+     
+
+
+
+ GÜNCEL 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

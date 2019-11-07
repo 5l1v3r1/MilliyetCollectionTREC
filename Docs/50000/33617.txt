@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 33617 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/07/24/son/sondun01.html </URL>
+<DATE> 2001/07/24/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayar korsanları'nın hedefinde ABD Savunma Bakanlığı var 
+</HEADLINE>
+<TEXT>
+
+     ABD'de, Beyaz Saray'dan sonra Savunma Bakanlığı'nın Pentagon internet sitesini hedef alan ''Kırmızı Kod'' Code Red adlı bilgisayar virüsü nedeniyle, bakanlığın internet sayfası geçici olarak kapatıldı. 
+     ABD'de yaklaşık 225 bin bilgisayar sistemini felce uğratan ''Kırmızı Kod'' virüsüyle geçen hafta Beyaz Saray internet sitesine düzenlenen siber saldırı, Beyaz Saray'ın sitesinin başka bir adrese taşınmasıyla savuşturulmuştu. 
+     Pentagon'un internet sitesine de musallat olan virüs, sayfa açıldığında, ''Çinliler tarafından kırıldı'' Hacked by Chinese yazısının çıkmasına neden oldu. 
+     ABD Savunma Bakanlığı yetkilileri, bu nedenle Pentagon internet sitesinin geçici bir süre için halkın kullanımına kapatıldığını bildirdiler. Pentagon'a bağlı Savunma Hattı Defense Link ve Ulusal Füze Savunma Sistemi National Missile Defense adlı sitelerin ise hizmete açık kalacağı belirtildi. 
+     Yetkililer, geçen yıl Mayıs ayında Pentagon'un, bütün dünyada etkili olan bilgisayar virüsü ''I Love You''dan kurtulmak için büyük sıkıntı çektiğini hatırlatırken, her tür virüse karşı olağanüstü önlemler aldıklarını kaydettiler. 
+     ''Kırmızı Kod'' virüsü tehdit olmaktan çıkıncaya kadar Pentagon sitelerinin kullanıma kapalı kalacağı belirtildi. 
+     
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

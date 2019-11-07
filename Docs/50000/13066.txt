@@ -1,0 +1,44 @@
+<DOC>
+<DOCNO> 13066 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/03/26/guncel/gun01.html </URL>
+<DATE> 2001/03/26/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ne olur rahat bırakın’ 
+</HEADLINE>
+<TEXT>
+
+Deprem tahmin sistemini geliştiren ekibin internet adresi bir gazetede yayınlanınca sistem felç oldu. Canyaran rica etti "BİZİ BIRAKIN ÇALIŞAMIYORUZ" 
+     SERHAT OĞUZ İstanbul 
+
+     Afyon ve İstanbul depremlerini tespit eden "Erken Tahmin Sistemi"nin kurucuları Dr. Berk Üstündağ ve Lütfü Canyaran'ın, ekip içi iletişim amacıyla internette kurdukları siteye bir günde 5 bin kişi girince, sistem çöktü. Canyaran, "İki gündür kendi adresimize giremiyoruz. Bizi rahat bıraksınlar çalışalım" dedi. 
+     
+Veriler elde kaldı      Geliştirdikleri sistemle depremin peşine düşen Üstündağ ve Canyaran, iki gündür çalışamıyor. Kurdukları 13 istasyondan gelen verileri değerlendirmek ve iletişim sağlamak için kurdukları internet sitesinin adresi önceki gün bir gazetede yayınlanınca, site ziyaretçi rekoru kırdı. Ancak, 50 ziyaretçi kapasiteli "server", yoğun talebi karşılayamayınca site bir günde çöktü. 
+     Canyaran, 10 ayda 56 bin giriş yapılan siteyi, birkaç saat içinde 5 bin kişinin ziyaret ettiğini bildirerek, şöyle konuştu 
+     
+Herkese açık değil      "İnternet sitemizi sadece proje çalışanları için kurduk, kamuoyuna açık bir site değil. İnsanlar deprem korkusu yaşadığı için haber almak istiyorlar ancak siteye girmemeleri lazım. Hem bizim çalışmamız engelleniyor hem de zor durumda kalıyoruz. 
+     
+Başbakanlık’a bilgi veririz      Elimizdeki bilgileri sadece Başbakanlık yetkililerine iletiriz. Haberler nedeniyle telefonla arayanlar da çoğaldı. Herkes, büyük deprem gelecek mi diye soruyor. Şu anda bir yanıt veremiyoruz." 
+     
+
+
+ GÜNCEL 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

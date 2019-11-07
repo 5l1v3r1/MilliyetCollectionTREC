@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 4655 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/30/son/soneko06.html </URL>
+<DATE> 2001/01/30/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Turkcell'den dev altyapı anlaşması 
+</HEADLINE>
+<TEXT>
+
+     Turkcell, 2001 yılı yatırımlarının bir bölümünü gerçekleştirmek ve Türkiye genelindeki altyapısını genişletmek üzere Ericsson'la 400 milyon ABD Doları tutarında bir anlaşma imzaladı. 
+     Turkcell'den yapılan açıklamaya göre, anlaşma kapsamında, Turkcell'in kapsama alanı daha da genişletilecek, abonelerin artan ihtiyaçları göz önüne alınarak tasarlanan yeni servisler hizmete sunulacak. 
+     2000 yılı sonu itibarıyla 10.1 milyon aboneye hizmet veren Turkcell, 400 milyon ABD Dolarlık anlaşma sayesinde, yoğun konuşma trafiği yaşanan bölgelerdeki kapasitesini ve kapsama alanını artıracak. Turkcell, abonelerine, anlaşma kapsamında MPS 3.0 Mobile Positioning System-Mobil Konumlama Servisi , WAP 3.0 Wireless Application Protocol-Kablosuz İletişim Protokolü ve CNTS Core Network Transport Solution gibi GSM teknolojisindeki son gelişmeleri sunacak. 
+     Turkcell Eylül 2000 sonu itibarıyla, nüfusu 10 binin üzerinde olan yerleşim merkezlerinin yüzde 99.7'sinde kapsamlı mobil iletişim hizmeti veriyor. 
+
+
+
+
+</TEXT>
+</DOC>

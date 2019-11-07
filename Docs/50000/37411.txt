@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 37411 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/08/16/son/sondun15.html </URL>
+<DATE> 2001/08/16/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Japonlar, dünyanın en küçük heykelini lazerle yonttu 
+</HEADLINE>
+<TEXT>
+
+     Japon bilim adamları, lazer yardımıyla dünyanın en küçük heykelini yonttuklarını ve bunun insan vücudunu keşfedecek mikro-makinelerin geliştirilmesi için önemli bir adım olduğunu belirttiler. 
+     Osaka Üniversitesi Makine ve Mühendislik Laboratuvarı'nda yapılan araştırmalarda, minik bir reçine parçasından 3 boyutlu bir ''boğa'' görüntüsü üretmek için 2 lazer kullanıldı. Japon bilim adamları, karmaşıklığından ötürü boğa figürü seçtiler. 
+     Profesör Satoşi Kawata, 10 mikrometreye 7 mikrometre bir mikrometre, milimetrenin binde birine eşit ölçülerindeki heykelin, bir kan hücresi boyutunda ve 4 yıllık araştırmaların ürünü olduğunu belirtti. 
+     Araştırmalarında 2 fotonlu mikropolimerizasyon adı verilen bir teknik kullandıklarını belirten bilim adamları, ''Bu teknikle her biçimi verebiliriz, çok küçük aletler yapabiliriz'' dediler. 
+     Şu anda bir başka ekip, örnek olarak damarlarda yolculuk edebilecek araçların üretimi için çalışmalarını sürdürürken, bilim adamları, hedeflerinden birinin, bir çeşit minyatür tedavi arabası yapmak ve hücrelere müdahale edecek aletlerden faydalanmak olduğunu belirttiler. 
+     Japon bilim adamları, ancak insan vücudu içinde yolculuk yapabilecek makine ve aletlerin üretimi için hala çok mesafe kat edilmesi gerektiğini kaydettiler. 
+
+
+
+
+
+
+</TEXT>
+</DOC>

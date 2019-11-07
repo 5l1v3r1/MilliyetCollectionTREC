@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 3943 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/25/son/sontur25.html </URL>
+<DATE> 2001/01/25/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ulaştırma Bakanlığı'nın web sitesindeki arıza giderildi 
+</HEADLINE>
+<TEXT>
+
+     Ulaştırma Bakanlığı'nın ana sunucudaki sorun nedeniyle devre dışı kalan web sitesindeki arıza giderildi. 
+     Alınan bilgiye göre, bakanlığın, yaklaşık 15 gün önce ortaya çıkan arıza nedeniyle devre dışı kalan internet sitesindeki sorunun nedeni, bakanlık teknik elemanlarının uzun süren çalışmaları sonucu belirlendi. Teknik elemanlar, ana sunucuda olduğu belirlenen sorunu giderdiler ve Ulaştırma Bakanlığı'nın internet sitesi yeniden hizmet vermeye başladı. 
+
+
+
+
+</TEXT>
+</DOC>

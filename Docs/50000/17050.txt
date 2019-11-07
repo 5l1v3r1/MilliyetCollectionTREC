@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 17050 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/04/19/son/sondun10.html </URL>
+<DATE> 2001/04/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İngiltere'de insan kopyalamak yasaklanacak 
+</HEADLINE>
+<TEXT>
+
+     İngiliz hükümeti, insanın genetik kopyasının çıkarılmasını yasayla yasaklayacağını bildirdi. 
+     Sağlık Bakanı Alan Milburn, İngiltere’nin genetik kopyalamayı yasayla resmen yasaklayan ilk ülke olacağını bildirdi. Kopyalamayı yasaklamakla birlikte genetik araştırmaları desteklediklerini belirten bakan, bu alanda dünyada öncü rol oynamak istediklerini söyledi. 
+     Şimdiye dek dünyada hiç insan kopyalanmadı. Uzmanlar, insanı genetik olarak kopyalayacak teknolojinin henüz uzakta olduğunu belirtiyorlar. 
+     İngiliz hükümetinin çıkarmayı kararlaştırdığı yasayla, hiçbir İngiliz araştırmacı kopyalama çalışması yapamayacak. Tedavi amacıyla cenin kopyalamak isteyen uzmanlar da, mutlaka biyo-ahlaki sorunlarla ilgili resmi kuruluşa başvuracaklar. 
+     Sağlık Bakanı Milburn, genetik araştırmaları ise destekleyeceklerini belirtti ve bu araştırmaların, hastalıkların önlenmesi bakımından önemli olduğunu vurguladı 
+
+
+
+
+</TEXT>
+</DOC>

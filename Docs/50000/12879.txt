@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 12879 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/03/24/son/soneko04.html </URL>
+<DATE> 2001/03/24/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Akaryakıta zam yapıldı, yeni pompa fiyatları için tıklayın 
+</HEADLINE>
+<TEXT>
+
+     Akaryakıt ürünlerinden benzinlere yüzde 2.1, gazyağına yüzde 3.1 oranında zam yapıldı. 
+     Ankara, İstanbul ve İzmir'deki yeni pompa fiyatları, litre bazında öncekiyle karşılaştırmalı şöyle 
+İSTANBUL Avrupa yakası ESKİ FİYAT YENİ FİYAT Kurşunsuz Benzin 699.600 714.600 Süper Benzin 700.000 714.900 Normal Benzin 670.900 685.100 Gazyağı 549.600 566.600      
+İSTANBUL Anadolu ESKİ FİYAT YENİFİYAT Kurşunsuz Benzin 698.500 713.400 Süper Benzin 698.900 713.800 Normal Benzin 669.800 684.000 Gazyağı 548.400 565.400      
+ANKARA ESKİ FİYAT YENİ FİYAT Kurşunsuz Benzin 698.100 713.000 Süper Benzin 698.500 713.400 Normal Benzin 669.400 683.700 Gazyağı 558.600 576.100      
+İZMİR ESKİ FİYAT YENİ FİYAT Kurşunsuz Benzin 696.800 711.800 Süper Benzin 697.300 712.200 Normal Benzin 668.300 682.500 Gazyağı 546.700 563.700      
+     
+
+
+
+</TEXT>
+</DOC>

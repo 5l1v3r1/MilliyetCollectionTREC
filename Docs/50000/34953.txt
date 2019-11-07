@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 34953 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/08/01/son/sontur10.html </URL>
+<DATE> 2001/08/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kırmızı kod beklenen zararı vermedi 
+</HEADLINE>
+<TEXT>
+
+     Kimin yazdığı belli olmayan ve sunucuları server kullanılamaz hale getirdiği belirtilen Code Red isimli virüsün beklenen zararı vermediği bildirildi. 
+     İnternette yer alan haberlere göre, 31 Temmuz gecesi aktif olup hızla yayılması beklenen Code Red yazılımı, beklendiği kadar etkili olmadı. 
+     Özellikle FBI ve bu kuruluşun ortak çalışma yürüttüğü bilgisayar firmaları iki gündür virüsü mercek altına aldı. Dünyanın değişik ülkelerinde farklı saatlerde aktif hale gelen korsan yazılım, alınan önlemler sebebiyle çok büyük zarar veremedi. Öte yandan konunun uzmanları, kesin hasarın belirlenmesi için birkaç gün daha beklemek gerektiğini ifade ediyorlar. 
+     1988 yılında ortaya çıkan ve Code Red'e benzeyen Cornell Internet Worm adlı yazılım 3000 sunucuya yerleşmiş ve o sisteme bağlı bilgisayarların yüzde 5'ini etkilemişti. 
+     
+     
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

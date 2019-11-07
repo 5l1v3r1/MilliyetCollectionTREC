@@ -1,0 +1,43 @@
+<DOC>
+<DOCNO> 26634 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/06/13/son/soneko05.html </URL>
+<DATE> 2001/06/13/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Takasta, İç Borçlanma Senetleri'ne uygulanacak fiyatlar belirlendi 
+</HEADLINE>
+<TEXT>
+
+     Hazine tarafından yapılacak ihalede takasa konu olan Devlet İç Borçlanma Senetleri'nde DİBS uygulanacak fiyatlar belirlendi. 
+     Hazine Müsteşarlığı'nın açıklamasında, belirlenen fiyatların faiz vergisine tabi olan senetler için vergi sonrası net fiyatlar olduğu belirtildi. 
+     Açıklamada, daha önce ihale yöntemi ile satışı gerçekleştirilmiş olan DİBS'nin 23 adet dövize endeksli ve TL cinsinden değişken faizli tahviller ile gönüllü takas işleminin gerçekleştirilmesi amacıyla ihale edileceği hatırlatıldı 
+     Bu kapsamda gerçekleştirilecek ihalede, değişime konu olacak DİBS için uygulanacak fiyatların faiz vergisine tabi olan senetler için, vergi sonrası net fiyatlar olduğu belirtildi 
+     Bu kapsamda gerçekleştirilecek ihalede değişime konu olacak DİBS için uygulanacak fiyatlar şöyle 
+     
+Grup I Senetler TL  TRT200601T17 99.743 TRB270601T10 98.832 TRB110701T17 96.961 TRT180701T10 96.004 TRB250701T11 95.032 TRB080801T11 93.051 TRB150801T12 92.043 TRT220801T13 91.025 TRB050901T13 88.723 TRB190901T17 86.862 TRB101001T13 83.666 TRB211101T19 78.346 TRB051201T18 76.648 TRT121201T19 75.814 TRT031001T12 114,725      
+Grup II Senetler TL  TRT230102T18 115.576 TRT150502T14 108.420 TRT240702T11 117.921 TRT140802T12 111.581 TRT200202T28 67.950 TRT200202T10 67.950 TRB060302T17 66.478 TRT260602T10 55.795      
+     
+     Takas fiyatları 
+     Açıklamada, yatırımcılardan gelen sorular üzerine takas işlemlerine açıklık getirildi 
+     Buna göre, birinci grupta yer alan senetlerin takası karşılığında yatırımcıların alacağı 1 yıl vadeli Türk Lirası cinsinden senetlerin kupon ödemelerinde gösterge niteliğinde yapılacak olan 3 aylık Hazine Bonosu ihalesinde gerçekleşen dönem faiz oranının üzerine yüzde 1,25'lik yıllık basit yüzde 5 ek getiri ilave edilecek. Bu eksik hususun Hazine'nin internet sitesinde yer alan dökümanda da düzeltildi. 
+     Takas karşılığı ihraç edilecek Türk Lirası cinsinden değişken faizli senetlerin kupon hesaplamalarında halihazırda ihraç edilmiş değişken faizli Türk Lirası cinsinden senetlerin kupon faizlerinin hesaplamasında kullanılan yöntemler kullanılacak. 
+     İhraç edilecek dövize endeksli senetlerin ilk kupon ödemesinde uygulanacak yıllık basit faiz oranı yüzde 6,76 LIBOR yüzde 3,91 yüzde 2,85 olarak belirlendi. Bu durumda ilk kupon dönem faizi yüzde 3,46 oldu. 
+     
+     Dolar kurunun belirlenmesi 
+     Takasta kullanılacak ve 1.160.000 Lira olarak açıklanan dolar kuru, 28 Mayıs- 8 Haziran 2001 tarihleri arasındaki 10 iş gününde oluşan ve Merkez Bankası'nca açıklanan dolar satış kurunun basit aritmetik ortalaması olarak belirlendi. 
+     Daha önceki açıklamada 5 yıllık senetlerin fiyatlarının ihalede 3 yıllık senet için oluşacak getiri oranı üzerine 0,5 puan eklenerek hesaplanacağı ilan edildi. 
+     Ancak fiyatlamanın daha kolay olacağı düşünülerek 5 yıllık senetlerin fiyatını hesaplama yöntemi, 3 yıllık senetlerin ihalede oluşacak fiyatının ''0,9259'' katsayısı ile çarpılması şeklinde değiştirildi. 
+     İhale sonuçları değerlendirilirken, ortalamadan yapılan tekliflere öncelik verilecek. 
+     İhraç edilecek tüm senetlerin minimum küpür tutarı 5,000,000 lira olacak. 
+     
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

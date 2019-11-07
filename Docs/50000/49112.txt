@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 49112 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/10/27/son/soneko01.html </URL>
+<DATE> 2001/10/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones endeksi yükseldi, Nasdaq düştü... 
+</HEADLINE>
+<TEXT>
+
+     New York borsasında Dow Jones endeksi yükseldi, Nasdaq ise düştü. 
+     Borsanın temel göstergesi Dow Jones, 82.27 puan yükselişle günü 9,545.17 puandan kapattı. 
+     Dow Jones endeksi böylece, ABD'ye saldırıların düzenlendiği 11 Eylül'den bir gün önceki seviyeye ulaşmasına 60 puan kaldı. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq ise 6.51 puan düşerek 1,768.96 puandan kapandı. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

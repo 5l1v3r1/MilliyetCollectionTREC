@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 7033 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/02/14/son/sondun18.html </URL>
+<DATE> 2001/02/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kournikova virüsünü yazdığı iddia edilen bir kişi gözaltına alındı 
+</HEADLINE>
+<TEXT>
+
+     Hollanda polisi, ünlü tenisçi Anna Kournikova'nın adını taşıyan virüsü yazdığını öne süren bir bilgisayar korsanını gözaltına aldı. 
+     Yetkililer, ülkenin kuzeyindeki Friesland bölgesinden 20 yaşındaki bir kişinin polise gelerek virüsü yazdığını söyledikten sonra gözaltına alındığını söylediler. 
+     Söz konusu kişinin bilgisayar programlarına ve mülkiyete zarar verdiği şüphesiyle gözaltına alındığı ve Hollanda yasalarına göre bu kişinin isminin gizli tutulduğu belirtildi. Polis yetkilileri, bu kişinin mülkiyete zarar vermekten suçlu bulunması halinde en fazla 4 yıl hapse mahkum edileceğini kaydettiler. E-postayla gönderilen Anna Kournikova virüsü, Avustralya'dan ABD'ye yüzbinlerce bilgisayarı etkilemişti. 
+     Virüsün izini süren bilgisayar şirketi, virüsün kaynağının Hollanda olduğunu belirlemiş, Hollanda polisi daha önce bu konuyu araştırmak için bir sebep olmadığını açıklamıştı. Daha önce kendisini ''OnTheFLy'' olarak tanımlayan bir kişi virüsün kendinin yazdığını öne sürmüş ve amacının tehlikeyi önemsemeyen internet kullanıcılarını uyarmak olduğunu bildirmişti. 
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 30865 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/07/07/son/soneko06.html </URL>
+<DATE> 2001/07/07/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bankaların mevduat faiz oranları için tıklayın 
+</HEADLINE>
+<TEXT>
+
+     Bu hafta liste kapsamındaki bir banka Türk Lirası TL mevduata uyguladığı faiz oranlarında değişikliğe gitti. 
+     Açıklama yapan bankalardan Denizbank, 1 ay vadeli mevdata yüzde 63, 3 ay vadeli mevduata yüzde 66, 6 ay ve 1 yıl vadeli mevduata da yüzde 62 faiz uygulayacağını duyurdu. 
+     Bankaların mevduata uyguladıkları faiz oranları şöyle 
+     
+Bankalar 1 Ay 3 Ay 6 Ay 12 Ay Akbank 63 63 63 63 Bankekspres 66 67 65 62 Bayındırbank 66 63 61 58 Citibank 65 65 71 55 Demirbank 66 67 62 62 Denizbank 63 66 62 62 Etibank 66 67 65 62 Finansbank 66 65 64 60 Garanti Bankası 65 65 61 61 Halkbank 66 65 60 60 İş Bankası 63 63 60 60 Körfezbank 65 67 50 50 Osmanlı Bankası 62 62 60 50 Pamukbank 63 60 60 59 TEB 60 65 48 43 Tekstilbank 61 62 61 56 Toprakbank 69 65 60 55 Vakıfbank 61 61 51 51 Yapı Kredi Bankası 58 56 56 56 Ziraat Bankası 64 65 60 60      
+     
+     Kırık vadede uygulanan oran. 
+
+
+
+
+
+
+</TEXT>
+</DOC>

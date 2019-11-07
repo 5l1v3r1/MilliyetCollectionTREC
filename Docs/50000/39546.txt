@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 39546 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/08/29/son/soneko11.html </URL>
+<DATE> 2001/08/29/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Telsim, elektronik havuz sistemine geçti... 
+</HEADLINE>
+<TEXT>
+
+     Telsim, abonelerinin numaralarını kendilerinin belirlemesini sağlayan ''Megapool'' adlı yeni bir uygulama başlattı. 
+     Telsim'den yapılan açıklamaya göre, GSM hizmetlerinde yeni bir dönem başlatan Megapool uygulamasının hayata geçirilmesi için bütün Telsim CepShop'lar, merkezle ve birbirleriyle online bağlantılı hale getirildi. 
+     Megapool sisteminde, yüzbinlerce cep numarasından istenilen numarayı seçip faturalı ya da faturasız olarak anında abonenin kullanımına sunuluyor. 
+     Elektronik havuz Megapool sayesinde abone, rakamları kendisinin belirleyeceği bir cep numarasını, istediği Telsim CepShop'dan edinebiliyor. Tüm Türkiye'de geçerli olan bu uygulama ile abone kendi doğum gününü, kendisi için özel bir günü ya da isminin harflerini, cep telefonunun tuşlarında karşılık gelen rakamlardan oluşturabiliyor veya istediği herhangi bir numarayı cep numarası olarak belirleyebiliyor. 
+     Abone isterse kendi ev veya iş telefonunun aynısını da cep numarası olarak alabiliyor. Daha önce kullanılan cep numarasının aynısını da almak mümkün olabiliyor. 
+
+
+
+
+
+
+</TEXT>
+</DOC>

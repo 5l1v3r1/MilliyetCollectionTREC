@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> 40452 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/09/04/son/soneko23.html </URL>
+<DATE> 2001/09/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+"Vadeli işlemler piyasasında çok az işlem yapıldı" 
+</HEADLINE>
+<TEXT>
+
+     İMKB Vadeli İşlemler Piyasası Müdürü Çetin Ali Dönmez, vadeli işlemler piyasasında bugüne kadar çok az işlem yapıldığını, vergi ve muhasebeleştirme açısından problemler bulunduğunu belirterek, ''böyle problemlerin olduğu bir ortamda işlem olmasını beklemek, aslında hayalperestlik. Ancak bu yavaş yavaş oturacaktır'' dedi. 
+     Dönmez, 15 Ağustos tarihinden itibaren İMKB bünyesinde faaliyete geçen Vadeli İşlemler Piyasası hakkında bilgi vermek amacıyla İMKB'de bir basın toplantısı düzenledi. 
+     Vadeli işlem futures sözleşmesinin, taraflara, belirlenen ileri bir tarihte, üzerinde anlaşılan fiyattan, standartlaştırılmış miktar ve kalitedeki bir malı veya kıymeti alma veya satma yükümlülü getirdiğini belirten Dönmez, sözleşmenin herhangi bir ürün, finansal gösterge, menkul kıymet, yabancı para veya kıymetli maden üzerine düzenlenebileceğini anlattı. 
+     Dönmez, vadeli işlemler sözleşmesinde tarafların birbirine karşı değil, Takas Kurumu'na karşı sorumlu olduğunu, bu nedenle taraflar açısından kredi riski olmadığını belirtti. 
+     Vedeli işlemlerin, vadeli işlem sözleşmesine konu olan nakit piyasalarda gelecekte ortaya çıkabilecek olumsuz fiyat değişimlerine karşı korunma imkanı sağlayacağını kaydeden Dönmez, ''Futures sözleşmede işlem görülen ölçüde standart vadeler ve büyüklükler vardır. Bunun faydası da, likiditedir'' dedi. 
+     Bu piyasa iyi şekilde çalıştığı taktirde, TL cinsinden işlemleri teşvik edeceğini belirten Dönmez, ''Futures piyasa, TL cinsinden alışverişi teşvik eden bir bir piyasadır'' diye konuştu. Türkiye'de şu anda dövize dayalı vadeli işlem sözleşmelerinin işlem gördüğünü anımsatan Dönmez, döviz üzerine vadeli işlemlerin başlatılması ile piyasa tarafından belirlenen dövizin gelecekteki değeri ekonomide bulunan tüm yatırımcıları ve özellikle dış ticaret şirekteleri için bir referans kaynağı olacağını, daha gerçekçi yatırım kararları alınabileceğini bildirdi. 
+     
+     Problemler 
+     Dönmez, vadeli işlemler piyasasında bugüne kadar çok az işlem yapıldığını vurgularken, bunun nedenlerini şöyle açıkladı 
+     ''Bu piyasa, bizim yatırımcıya çok yeni. Bu piyasada işlem gören sözleşmelerin nasıl vergilendirileceği belli değil. Banka sigorta muameleri vergisi açısından problemler var. Gelir vergisi konusunda, yapılan karın veya zararın nasıl tahakkuk ettirileceği konusunda problemler var. Diğer taraftan, vadeli işlemlerin muhasebeleştirilmesine ilişkin bir düzenleme yok. Böyle problemlerin olduğu bir ortamda işlem olmasını beklemek aslında hayalperestlik. Ancak, bu yavaş yavaş oturacaktır. 
+     Şu ana, 1 tane bile açılmış yatırımcı hesabı yok. Hepsi, portföy hesabı. Üye bankaların da, buna sahip çıkması lazım. Hiçbir bankanın yazılımı, vadeli işlem için hazır değil. Müşteri gitse, hesap açtıramıyor. '' 
+     Dönmez, bu sorunların giderilmesi için SPK ve maliyenin çalışmalarını sürdürdüğünü ifade etti. Bu piyasada işlem yapmak isteyen yatırımcıların, kendilerinin üyesi olan 16 ticari bankaya başvurup, aracılık çerçeve sözleşmesi imzaladıktan sonra hesap açtırarak işlem yapabilir hale geleceğini anlatan Dönmez, hesap açtırabilmek için gerekli minimum limitin 30 milyar lira olduğunu bildirdi. 
+     Brezilya'da vadeli işlemler piyasasının iyi bir örnek olduğunu, burada 150 bin sözleşmenin açık pozisyonunun 7.5 milyar dolar olduğunu ve günde 1 milyar doların üzerinde işlem yapıldığını kaydeden Dönmez, şunları söyledi ''Piyasaların etkin çalışması için spotun dışında vadeliye de ihtiyaç var. Hem enformasyon etkinliği, hem işlem etkinliği, hem de fiyatların doğru oluşması açısından vadeli işlemler piyasası kesinlikle olması gereken bir piyasa.'' 
+     Vadeli İşlemler Piyasası Müdür Yardımcısı Yaman Başaran da, bu piyasayı riskten korunmak isteyenlerin, spekülatörlerin ve piyasalar arasındaki fiyat farkından yararlanmayı amaçlayan arbitrajcıların kullandığını anlattı. Başaran, Türk ekonomisinin en büyük sorunlarından biri olan ve yaşanan krizlerin ortak noktası olan bankaların açık pozisyonlarının ekonomi üzerindeki olumsuz etkisinin, bankalara, açık pozisyonları dolayısıyla üstlenmek zorunda kaldıkları risklerden spot piyasaya pek fazla etki etmeden vadeli piyasalarda korunma imkanı verilerek azaltılabileceğini kaydetti. 
+
+
+
+
+
+
+</TEXT>
+</DOC>

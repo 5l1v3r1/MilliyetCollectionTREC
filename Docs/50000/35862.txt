@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 35862 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/08/07/son/sondun14.html </URL>
+<DATE> 2001/08/07/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İsrailli bilim adamları kanserli hücreleri uyutmaya çalışıyor 
+</HEADLINE>
+<TEXT>
+
+     İsrailli bilim adamlarının kanser tedavisinde yeni bir yöntem üzerinde çalıştıkları bildirildi. 
+     Kudüs'teki İbrani Üniversitesi bilim adamları, yeni tedavi yönteminin esasının, kanseri kemoterapi yoluyla zayıflatıp öldürmeye çalışmak yerine, kanserli hücreleri uyutmak olduğunu söylediler. Profesör Eitan Yefenof ve arkadaşları, geliştirdikleri teknikle kanserin yıkıcı etkilerini durdurup kanserli hücreleri hareketsiz hale getirdiklerini, kemoterapiyle karşılaştırıldığında yeni yöntemin hastalar için çok daha az zararlı olduğunu belirttiler. 
+     Bilim adamları tarafından yapılan açıklamada ise yeni yaklaşımın, kanserli hücreler yanında normal hücreleri de öldüren düzenli kemoterapi tedavi yönteminde kullanılan yüksek miktarlardaki zehirli ilaçlarla karşılaştırıldığında, çok az zararlı olacağı ifade edildi. Yefenof ve ekibinin, yöntemi öncelikle kanserli prostat hücrelerini enjekte ettikleri farede denedikleri, tedavi sürdükçe farenin sağlığını koruduğu belirtildi. Bilim adamları, bundan sonraki aşamanın yeni tedavi yönteminin insanlar üzerinde denenmesi olduğunu söylediler. 
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

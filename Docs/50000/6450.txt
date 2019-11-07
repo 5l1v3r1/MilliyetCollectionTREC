@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 6450 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/02/10/son/soneko01.html </URL>
+<DATE> 2001/02/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düştü 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası'nda Dow Jones ve Nasdaq endeksleri günü düşüşle kapattı. 
+     Borsanın temel göstergesi Dow Jones endeksi, 99.10 puan düşerek günü 10,781.45 puandan kapattı. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq ise 91.09 puan düşüşle, 2,470.97 puana geriledi. 
+
+
+
+
+</TEXT>
+</DOC>

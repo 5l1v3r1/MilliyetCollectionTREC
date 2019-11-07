@@ -1,0 +1,53 @@
+<DOC>
+<DOCNO> 42900 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/09/19/ekonomi/eko09a.html </URL>
+<DATE> 2001/09/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Havaalanlarında teknoloji devrimi 
+</HEADLINE>
+<TEXT>
+
+     ALEV BELVİRANLI San Francisco 
+
+     New York’taki Dünya Ticaret Merkezi binasına yapılan akıl almaz saldırının ardından havaalanlarındaki güvenlik kontrolleri baştan aşağı değiştirilmeye başlandı. 
+     Ancak saldırının ardından gerçekleştirilen az sayıdaki uçuşlarda yolcuların sıkı kontroller nedeniyle saatlerce beklemek zorunda kalmalarına karşın, uzmanlar çok daha etkili teknolojileri devreye sokmanın yollarını arıyor. Güvenlik görevlileri, sayıları ne kadar artırılırsa artırılsın binlerce yolcunun herbirinin kimliklerinin doğrulugunu kontrol etmede yetersiz kalabiliyor. Uzmanlara göre havaalanları büyük bir teknolojik değişime gebe. Özellikle kimlik tespiti için biyometrik teknolojilerin daha etkili bir şekilde kullanılabileceği düşünülüyor. Tüm kimlik bilgilerinizin yükleneceği akıllı kartlar, kimliğinizin doğruluğunu sesinizin tonundan ya da yüzünüzün dijital resminden tanıyan akıllı teknolojiler ihtimallerden yalnızca birkaçı. 
+     
+     CIA veritabanı 
+     Sadece havalanları ya da polis departmanları değil bankaların da müşteri tespiti için ses ya da gözbebeğinden kimlik tespiti yapabilen teknolojiler kullanıyor. Ancak sorun bu tarz yöntemlerin ancak belli bir veritabanında bulunan kimliklerle gerçek kimliklerin karşılaştırmasını yapabilmesi. Örneğin havaalanından geçen bireylerin yüzlerinin taranarak CIA’nın terörist listesi ile karşılaştırılması mümkün olabilir. 
+     Tabii CIA’nın önceden bu kişilerin yüz, gözbebeği, avuç içi, parmak ucu özelliklerini taramış olmaları ya da ses tonlarını kaydetmiş olmaları şartı ile. Uzmanlara göre biyometrik teknolojilerin en önemli dezavantajı yüzde yüz güvenli olmamalarında. 
+     
+
+
+
+ EKONOMİ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

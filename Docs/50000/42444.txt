@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 42444 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/09/16/son/sondun09.html </URL>
+<DATE> 2001/09/16/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yunanistan'da deprem 
+</HEADLINE>
+<TEXT>
+
+     Yunanistan'ın güneybatısında sabah saatlerinde orta büyüklükte bir deprem meydana geldi. 
+     Yetkililer, sabah 05 02'de meydana gelen depremin büyüklüğünün Richter ölçeğine göre 5.2, merkez üssünün ise başkent Atina'nın 180 kilometre güneybatısı olduğunu, herhangi bir can kaybına yol açmadığını belirttiler. 
+     Depremin merkez üssüne 30 kilometre mesafedeki Kalamata kentinin polisi ise, depremde 5 ev ve bir kilisenin kısmen hasara uğradığını açıkladı. 
+     Kalamata'da 1986 yılında meydana gelen şiddetli depremde 20 kişi ölmüştü. 
+
+
+
+
+
+
+</TEXT>
+</DOC>

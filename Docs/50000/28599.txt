@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 28599 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/06/24/son/sontur07.html </URL>
+<DATE> 2001/06/24/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Telefonla ekonomik konuşmanın koşullarını öğrenmek için tıklayın... 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekom, haftanın belirli gün ve saatlerindeki telefon görüşmelerinde yüzde 30 ile 40 oranında indirim uyguluyor. Bu uygulamadan, GSM aramaları ve mobil telefon aboneleri yararlanamazken, indirim oranları internet kullanıcılarına da aynen yansıtılıyor. 
+     Türk Telekom Kayseri İl Müdürlüğü yetkililerinden alınan bilgiye göre, normal tarifede şehir içi telefon gürüşmelerinde 60 saniyede, kent merkezi dışındaki yerleşim birimleriyle yapılan görüşlerde 30 saniyede, şehirlerası görüşmelerde 15 saniyede, uluslararası görüşmelerde de 1.4 ile 5.6 saniye arasında değişen zaman dilimlerinde 1 kontür ücreti alınıyor. 
+     Ücreti aranan tarafından ödenen 800'lü hatlarda 20 saniye, ücreti arayan tarafından ödenen ve 5 ayrı ücretlendirme süresine bölünen 900'lü hatlarda ise kontür atma süresi 0.8 saniye ile 2 saniye arasında değişiyor. 
+     
+     İndirimler 
+     Şehir içi ve şehirlerarası telefon görüşmelerinde, hafta içi 08.00-20.00 saatleri arasında 1 kontür ücreti olan 42 bin 800 lira üzerinden normal ücretlendirme yapılırken, hafta içi 20.00-22.30 saatleri ve 07.00- 08.00 saatleri arasında yüzde 30, 22.30-06.00 saatleri arasında yüzde 40, cumartesi günleri 07.00-22.30 saatleri arasında yüzde 30, 22.30-06.00 saatleri arasında yüzde 40, pazar günleri de tam gün yüzde 40 oranında indirim uygulanıyor. 
+     Uluslararası görüşmelerde de, 22.00-09.00 saatleri arasında ve pazar günleri yüzde 30 ile 40 arasında değişen oranlarda indirim yapılıyor. 
+     360 saniyede 1 kontür ücreti alınan internet kullanıcılarına ise hafta içi 07.00-08.00 ve 20.00-22.30 saatleri arasında yüzde 30, cumartesi 07.00-22.30 saatleri arasında yüzde 30, 22.30-07.00 saatleri arasında yüzde 40, pazar günleri ise 07.00'den ertesi gün 07.00'ye kadar yüzde 40 indirim uygulanıyor. 
+     Resmi tatil günleri gerek yurtiçi gerekse yurtdışı ile telefonla görüşmek isteyenler yüzde 40 indirimden yararlanıyor. 6 saniyede 1 kontür ücretinin alındığı GSM aramalarında ve 12 saniyede 1 kontür ücretinin alındığı mobil telefonla yapılan görüşmelerde ise indirim uygulanmıyor. 
+     
+     Diğer ücretlendirmeler 
+     Bunun yanında, sabit telefonlara aylık 4 milyon 280 bin lira olan abonman karşılığı 100 kontür kullanım hakkı veriliyor. Bu kontür devam eden ay içinde kullanılmadığı takdirde, abone hakkını kaybetmiş oluyor. Ayrıca, nakil için abonelerden 7 milyon 500 bin, devir için 2 milyon 250 bin, ünvan değişikliği için 2 milyon 250 bin, numara değişikliği için 7 milyon 500 bin lira ücret talep ediliyor. Mesaj servisine mesaj bırakma, uyandırma ve hatırlatma hizmetleri için 250 bin, ayrıntılı fatura için 10 kontür ücreti, CLIP Arayanın numarasının görünmesi ve CLIR Arayanın numarasının saklanması için de her ay 15 kontür karşılığı ücret alınıyor. 
+     
+     Peşin öde, zamlardan etkilenme 
+     Türk Telekom aboneleri, gelecek ay başlayacak yeni bir uygulama sayesinde peşin ödeme yapmaları durumunda zamlardan etkilenmeyecekler. Bu uygulamada, yıl içinde en az 600 kontür alarak ücretini peşin ödeyen abone, aldığı kontürün tamamını aynı yıl bitiremediği takdirde, kalan kontür bir sonraki yıla devredilecek. Numara değişikliklerinde ya da farklı adrese yeniden telefon bağlantısı yapıldığında kalan kontür yeni numaraya aktarılacak. Telefon aboneliğinin iptal edilmesi halinde ise kalan kontürün karşılığı olan ücret, o tarihteki tarife üzerinden müşteriye iade edilecek. Müşterinin satın aldığı kontür bittiğinde o andan itibaren yaptığı görüşmelerin ücreti fatura ile bildirilecek. 
+
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 24481 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/06/01/son/soneko01.html </URL>
+<DATE> 2001/06/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones ve Nasdaq endeksi yükseldi 
+</HEADLINE>
+<TEXT>
+
+     New York-Wall Street Menkul Kıymetler Borsası'nın temel göstergesi Dow Jones Sanayi Endeksi, binde 37 artışla 10,912.27 puandan kapandı. 
+     Teknoloji hisse senetlerinin Nasdaq Birleşik Endeksi ise yüzde 1.24 artışla 2,110.33 puandan günü bitirdi. 
+     Borsada ilk saat sonunda Dow Jones Endeksi 40.47 puan artarak 10,913.11 puana, Nasdaq Endeksi de 35.40 puan artarak 2,119.90 puana çıkmıştı. 
+
+
+
+
+
+
+</TEXT>
+</DOC>

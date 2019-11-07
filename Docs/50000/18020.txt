@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 18020 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/04/25/son/soneko26.html </URL>
+<DATE> 2001/04/25/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsada bugün en çok değer kazanan ve kaybeden hisseler 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası'nda İMKB bugün günlük bazda en çok değer kazanan ve en çok değer yitiren 10 hisse senedi ile değişim oranları şöyle 
+     
+DEĞER KAZANAN HiSSE ADI ARTIŞ ORANI İş Bank. KU 29.17 Berdan Tekstil 22.22 Global Yat.O. 18.31 Alfa Menkul Değ. 17.14 Atlantis YENİ 16.00 Lüks Kadife 15.79 M.Martı Otel 15.79 Net Turizm 14.81 Pimaş 14.67 Varlık Yatırım 14.55      
+ DEĞER KAYBEDEN HiSSE ADI DÜŞÜŞ ORANI Kristal Kola -10.94 M.Zorlu Holding -9.84 Yasaş -8.20 Bak Ambalaj -7.78 Gentaş -7.69 Ege Seramik -7.58 Aksu İplik -7.50 Turkcell -6.56 Akçansa -6.15 Ray Sigorta -6.10      
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 1510 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/10/son/sondun10.html </URL>
+<DATE> 2001/01/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Açık unutulan cep telefonu uçak indirtti 
+</HEADLINE>
+<TEXT>
+
+     Slovenya havayollarına ait bir yolcu uçağının, açık unutulan cep telefonunun etkilediği elektronik sisteminin yangın alarmı vermesi nedeniyle acil iniş yaptığı bildirildi. 
+     Devlete ait Adria havayolları şirketi yetkilileri, Slovenya'nın başkenti Ljubljana'dan Saraybosna'ya gitmek üzere havalanan yolcu uçağının, yangın alarmının devreye girmesi yüzünden kısa süre sonra havaalanına acil iniş yaptığını kaydettiler. Yetkililer, uçakta yapılan araştırmada, bagaj bölümünde açık bırakılmış bir cep telefonunun unutulduğunu ve bunun elektronik sistemi etkilediğini belirttiler. 
+
+
+
+</TEXT>
+</DOC>

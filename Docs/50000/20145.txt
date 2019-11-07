@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 20145 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/05/08/son/sondun07.html </URL>
+<DATE> 2001/05/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Pentagon'un internet sitesine Rus tacizi 
+</HEADLINE>
+<TEXT>
+
+     Rusya'da bulunduğu tespit edilen 7 adresten ABD Savunma Bakanlığı Pentagon'un internet sitelerine siber saldırılar düzenlendiği ve 3 yıl önce saptanmasına rağmen bu saldırıların halen devam ettiği ileri sürüldü. 
+     The Washington Post gazetesinde çıkan bir haberde, ABD'nin 3 yıl önce keşfetmesine rağmen, ''Ayışığı Çıkmazı'' Moonlight Maze adı verilen siber saldırıların devam ettiği, saldırıların kesin sorumlusu konusunda ise Amerikan yetkililerinin elinde yeterli ipucu olmadığı belirtildi. 
+     Amerikan Ulusal Güvenlik Ajansı danışmanlarından James Adams da Foreign Affairs dergisinde yayınlanan bir makalede, siber saldırılarla ilgili ABD'nin geçen yıl diplomatik kanallardan Rusya'yı kınadığını yazdı. 
+     Adams, saldırıların 7 Rusya adresinden yapıldığı tespit edilirken, Rusya'nın söz konusu internet adreslerinin kullanılmadığını öne sürerek, iddiaları reddettiğini de belirtti. ''Ayışığı Çıkmazı''nın, ABD hükümetinin internet sistemlerine yapılan en ciddi siber saldırı olduğu belirtiliyor. Pentagon bilgisayarlarının güvenliği, Amerikan Federal Soruşturma Bürosu FBI veUzay Komutanlığı tarafından korunuyor. 
+     ABD'nin en büyük endişesinin, yabancı ülkelerin veya teröristlerin, askeri sırları internet yoluyla elde etmesi olduğu belirtiliyor. FBI Ulusal Altyapı Koruma Merkezi Direktörü Ronald Dick, geçen ay Kongre'de yaptığı açıklamada, 1999 ve 2000 yıllarında askeri kurumlara 1300 ciddi siber saldırı düzenlendiğini bildirmişti. FBI'ın elinde, siber suçlarla ilgili 1219 dosya bulunurken, bunlardan 102'sini, hükümet sistemlerine yapılan saldırılar oluşturuyor. 
+     Bu saldırıların pek çoğunun, sadece web sayfalarını değiştirmek veya çok fazla mesaj göndererek sistemi çökertmek gibi basit eylemler olduğu, hükümet sırlarını tehdit etmediği belirtiliyor. Uzmanlar, 1998'de keşfedilen ''Ayışığı Çıkmazı''nın ''farklı'' olduğunda birleşiyor. ''Ayışığı Çıkmazı'', Amerikan Savunma Enformasyon Sistemleri Ajansı'nda çalışan bir uzman tarafından fark edildi. Siber saldırganların Pentagon'un gizli dosyalarına, ''tünel kazmak'' denilen bir yöntemle girdiği tespit edildi. İstihbarat uzmanları, ''Rusya yönetmiyorsa bile en azından bu saldırılara izin veriyor olabilir'' yorumunda bulunuyorlar. 
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

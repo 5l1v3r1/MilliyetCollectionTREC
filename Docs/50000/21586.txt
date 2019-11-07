@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 21586 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/05/16/son/soneko30.html </URL>
+<DATE> 2001/05/16/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsada bugün en çok değer kazanan ve kaybeden hisseler 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası'nda bugün günlük bazda en çok değer kazanan ve en çok değer yitiren 10 hisse senedi ile değişim oranları şöyle 
+ DEĞER KAZANAN HiSSE ADI ARTIŞ ORANI Meges Boya 17.86 Sezginler Gıda 17.31 Berdan Tekstil 15.48 Pınar Süt 15.38 Link Bilgisayar 14.55 Park Elk.Maden. 14.29 Lüks Kadife 13.92 Ecz.Başı Yap. 13.75 Yasaş 12.90 Olmuksa 12.50      
+ DEĞER KAYBEDEN HiSSE ADI DÜŞÜŞ ORANI İş Bankası K. -10.01 Bisaş Tekstil -9.09 İş Bankası B -4.67 Esem Spor Giyim -3.70 Arsan Tekstil -2.99 Çelik Halat -2.50 Makina Takım -2.44 Yatırım F.Y.O. -2.00 Karsu Tekstil -1.96 Metaş -1.85      
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 40947 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/09/07/son/sondun17.html </URL>
+<DATE> 2001/09/07/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Çin 'Mavi Kod' adlı yeni bir virüsün tehdidi altında 
+</HEADLINE>
+<TEXT>
+
+     Çin'de ''Mavi Kod'' adlı yeni bir virüsün, Windows 2000 yüklü bilgisayarları etkilemeye başladığı bildirildi. 
+     Yeni Çin Haber Ajansı'nın haberinde, ''Worm.IIS.CodeBlue'' adlı yeni virüsün, Çin'de daha önce bilgisayarları etkileyen ''Kızıl Kod 2'' virüsünden daha tehlikeli olduğu belirtildi. Ajans, virüsün bilgisayarları önceki gün etkilemeye başladığı ve uzmanların, yeni virüsün bilgisayarlara Kızıl Kod 2 virüsünden daha fazla zarar vereceğini düşündüklerini bildirdi. 
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

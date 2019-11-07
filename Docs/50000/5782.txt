@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 5782 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/02/06/son/soneko08.html </URL>
+<DATE> 2001/02/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+KoçSistem-SAP-Koçtaş işbirliği 
+</HEADLINE>
+<TEXT>
+
+     KoçSistem, internet tabanlı kurumsal kaynak yazılım şirketi SAP ve yapı market sektörü şirketlerinden Koçtaş, yeni ekonominin gözde hizmetlerinden birisi olan Uygulama Servis Sağlayıcılığı ASP hizmeti konusunda anlaşma imzaladılar. 
+     Anlaşmaya göre, Türkiye'de kurumsal düzeyde ilk ASP hizmeti, KoçSistem'in ''Data Center'' yatırımıyla SAP mağazacılık çözümü ile Koçtaş tarafından kullanılacak. ASP'nin tanıtımı nedeniyle düzenlenen toplantıda konuşan KoçSistem Genel Müdürü Bülent Gönç, 2000'li yıllarda KoçSistem'in vizyonunu, sektörel bazlı, müşteri ve hizmet odaklı bir şirket olarak açıkladı. 
+     KoçSistem-SAP işbirliğinin ilk meyvesi olan Koçtaş projesinde, Türkiye'de ilk defa kurumsal düzeyde ASP hizmetinin uygulandığını belirten Gönç, ASP'nin gerekli uzman işgücünün hizmet şirketlerinde temin edilmesi sonucunda şirketlerin esas faaliyet alanlarına odaklanmalarını sağlayan bir hizmet olduğunu bildirdi. Gönç, ''Koçtaş gibi bu hizmeti alan şirketler, gerek işgücü ve maddi tasarruflarıyla, gerekse de teknolojik gelişmelere sağladıkları hızlı adaptasyon ile fayda sağlayacaklardır'' dedi. 
+     Bülent Gönç, ASP modelinin oluşturulması amacıyla 1 milyon dolara bilgi-işlem merkezi kurduklarını, Koçtaş'a verilen 3 yıllık hizmetin karşılığının da 1 milyon dolar olduğunu kaydetti. 
+     
+
+
+
+</TEXT>
+</DOC>

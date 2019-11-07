@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 9726 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/03/02/son/soneko16.html </URL>
+<DATE> 2001/03/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Repo Pazarı'nda 10 günlük ortalama faiz yüzde 111 düzeyinde 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası İMKB Tahvil ve Bono Piyasası Repo Pazarı'nda 10 günlük faiz oranı ortalama yüzde 111.00 düzeyinde. 
+     İMKB Tahvil ve Bono Piyasası verilerine göre, Repo Pazarı'nda en düşük oran yüzde 105, en yüksek oran ise yüzde 115 oldu. 
+     Menkul kıymetlerin alınıp satıldığı Tahvil ve Bono Piyasası'nda 21 Mart vadeli, bugün valörlü bononun bileşik getirisi yüzde 129.73, 16 Mayıs vadeli, bugün valörlü bononun bileşik getirisi de yüzde 140.95 oldu. Bankalararası TL interbankında ise faizler minumum yüzde 80, maksimum yüzde 99 aralığında seyrediyor. Ortalama faiz yüzde 88.72 düzeyinde bulunuyor. 
+
+
+
+
+</TEXT>
+</DOC>

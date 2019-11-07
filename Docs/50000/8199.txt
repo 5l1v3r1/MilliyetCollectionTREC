@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 8199 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/02/21/son/soneko23.html </URL>
+<DATE> 2001/02/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düşüşle başladı 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası güne düşüşle başladı. 
+     Borsada ilk saatin sonunda Dow Jones Endeksi 94.31 puan azalarak 10,636.57 puana, Nasdaq Endeksi de 29.67 puan azalarak 2,288.68 puana indi. 
+     Borsanın düşüşünde ABD Çalışma Bakanlığı'nın açıkladığı enflasyon rakamlarınının beklenenden yüksek çıkması etkili oldu. Bakanlık raporunda Ocak ayı enflasyonunun yüzde 0.6 ile son 10 ayın en yüksek düzeyinde gerçekleştiği bildirildi. 
+
+
+
+
+</TEXT>
+</DOC>

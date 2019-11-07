@@ -1,0 +1,60 @@
+<DOC>
+<DOCNO> 35037 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/08/02/yasam/yas05.html </URL>
+<DATE> 2001/08/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kırmızı Kod pusuya yattı 
+</HEADLINE>
+<TEXT>
+
+On binlerce bilgisayarı çökertmesi beklenen Kırmızı Kod’ virüsü, korkulduğu kadar etkili olmadı.. Ancak Tehlike henüz geçmedi’ 
+     DIŞ HABERLER SERVİSİ 
+
+     Siber lemde’ panik çıkaran ve tüm dünyadaki bilgisayar kullanıcılarını önceki gece alarma geçiren Kırmızı Kod’ isimli virüs şaşırttı’. 
+     Tüm dünya çapında bilgisayar sistemlerine ve internet sitelerine önemli zararlar vermesi beklenen Kırmızı Kod’ adlı virüs, önceki gece İsviçre hariç, alarma geçen birçok ülkede randevusuna’ gelmedi. Amerikan internet gözleme yetkililerine göre, önceki gece TSİ 03.00’te aktif olması beklenen virüsün bilgisayarları vurduğuna dair herhangi bir işaret görülmedi. Japon bilgisayar uzmanları da bu konuda şik yet almadıklarını açıkladı. Avrupa’nın diğer ülkeleri ile Uzakdoğu’daki bilgisayar ve internet kullanıcılarından da, korkulduğu gibi Kırmızı Kod’ çöküntüsü haberi alınamadı. 
+     
+     Birkaç gün daha dikkat 
+     Kırmızı Kod’dan en çok endişelenen kurumların başında gelen ABD Federal Soruşturma Bürosu FBI da, bilgisayarlarının normal çalıştığını açıkladı. 
+     FBI Ulusal Altyapı Koruma Merkezi Direktörü Ronald L. Dick, özel ve kamu sektöründe bilgisayarların Kırmızı Kod’a karşı korunması için inanılmaz bir çaba harcandığını ve bunun başarıldığını açıkladı. 
+     İnternetin normal işlediğini, herhangi bir sorun görülmediğini açıklayan yetkililer, yine de Kırmızı Kod’ virüsü ya da değişik biçimlerinin bilgisayarları etkileme riskine karşı, birkaç gün daha dikkatli olmak gerektiğini belirtiyor. 
+     Bilgisayar güvenliği kuruluşu SANS Enstitüsü Araştırma Bölümü Müdürü Alan Paller, daha önceki Kırmızı Kod’un bilgisayarları vurmasının 7 gün aldığını hatırlattı ve Ancak bir hafta sonra kesin güvende olabiliriz’ diye konuştu. 
+     
+Türkiye’yi de vurdu      Kızıl Kod virüsü Amerika’dan sonra, dün de Türkiye ve bazı Asya ülkelerine uğradı. Doruknet Teknik Koordinatörü Gökhan Erkman, bazı İSS internet servis sağlayıcı şirketlerinin, gerekli yamayı sistemlerine yüklemedikleri için sorunlar yaşadığını, sistemlerinin zarar gördüğünü ve bunu kapatmakla uğraştıklarını söyledi. Erkmen, Kızıl Kod virüsünden dolayı internet hızında bir yavaşlama olduğunu, ancat çok büyük sorun yaşanmadığını kaydetti. 
+     
+
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

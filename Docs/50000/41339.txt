@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 41339 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/09/10/guncel/gun01.html </URL>
+<DATE> 2001/09/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnsanların yüzü gülüyor 
+</HEADLINE>
+<TEXT>
+
+Antalya’da insanlarla konuşurken kimse Ankara’dan ve de krizden yakınmıyor. Kendi konusunda yaptıklarını, yapacaklarını heyecanla anlatıyor. Antalya bir başka Türkiye 
+     SİZE GELİYORUZ 
+
+     Milliyet yazarlarının Antalya halkıyla yaptıkları görüşmelerden edindikleri izlenimleri, aşağıdaki linklere tıklayarak okuyabilirsiniz... 
+     
+
+
+
+html"IMG SRC "resim gun013.gif" WIDTH 466 HEIGHT 169 BORDER 0 A BCENTERI I CENTER B IMG SRC " sabitimg 03 gazete genel logominik.gif" WIDTH 8 HEIGHT 14 BORDER 0 FONT SIZE "4" FACE "Verdana" COLOR " 005090"B B FONT IMG SRC " sabitimg 03 gazete genel cizgi.gif" WIDTH 450 HEIGHT 1 BORDER 0 IMG SRC " sabitimg 03 gazete genel transp.gif" WIDTH 220 HEIGHT 5 BORDER 0 A A A TD TR TABLE CENTER TD -- SAĞ DATA -- TD ALIGN "CENTER" VALIGN "TOP" WIDTH 155 BGCOLOR " F5F5F5" IMG SRC " sabitimg 03 gazete genel transp.gif" WIDTH 1 HEIGHT 9 BORDER 0 TD TR TABLE TD TR TABLE body html 
+</TEXT>
+</DOC>

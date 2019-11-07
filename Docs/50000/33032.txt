@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 33032 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/07/20/son/sondun09.html </URL>
+<DATE> 2001/07/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Beyaz Saray'ın bilgisayarlarına "Kod kırmızı" virüsü saldırdı 
+</HEADLINE>
+<TEXT>
+
+     Dünyada 225 binden fazla bilgisayar sistemini felce uğratan ''Code Red'' Kod Kırmızı adlı virüs ile Beyaz Saray'ın internet sitesine de saldırıldı, ancak başarılı olamadı. 
+     Beyaz Saray sözcülerinden Jeanie Mamo, gazetecilerin sorularına karşılık, ''Kod Kırmızı solucan olarak bilinen bilgisayar virüsünden gelebilecek etkileri en aza indirmek için gereken bütün önlemler alındı'' yanıtını vermekle yetindi. 
+     ''Code Red'' virüsünün, ''hacked by Chinese'' mesajıyla birlikte bilgisayar sistemlerine girmesine karşılık, virüsün hangi ülkeden kaynaklandığının tespit edilemediği belirtildi. 
+     Virüsün ana hedefi, mümkün olduğu kadar çok bilgisayarı etkisi altına alıp güçlenerek, bütün bu bilgisayarların, Beyaz Saray'ın numaralara dayalı internet adresine saldırmalarını sağlamak olarak tanımlanıyor. Gönderilen çok geniş bir veri ile bilgisayar sistemi çökertiliyor. 
+     Beyaz Saray'ın, durumu engellemek için, sitesini farklı bir numaralara dayalı adrese taşıdığı belirtildi. 
+     Federal Soruşturma Bürosu FBI da, virüse karşı özellikle hükümet kuruluşlarının dikkatli olması için uyarı yayınladı. ''Code Red'', geçen ay keşfedilmişti. Bu virüse karşı en savunmasız software sistemlerinin Microsoft Windows NT 4.0 ve Windows 2000 olduğu belirtildi. 
+     Virüs, kişisel bilgisayarlardan çok, iş çevreleri ve hükümet kuruluşlarının internet sitelerini hedef alıyor. 
+     
+     
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

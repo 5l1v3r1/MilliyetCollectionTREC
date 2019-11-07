@@ -1,0 +1,49 @@
+<DOC>
+<DOCNO> 47114 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/10/16/yasam/yas07.html </URL>
+<DATE> 2001/10/16/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Futbol sahalarını robotlar dolduracak 
+</HEADLINE>
+<TEXT>
+
+Robot futbolcu’lara kıvrak çalımlar attırmayı başaran bilim adamları gerçek oyuncularla, robotların mücadele edeceği bir lig hayal ediyor 
+     ÖNAY YILMAZ İstanbul 
+
+     Dünyada robot futbol salgını hızla yayılıyor. Robot futbolculardan oluşan "RoboCup" turnuvaları, internet üzerinden ve televizyondan milyonlarca kişi tarafından izleniyor. 
+     Normal futbol kurallarının geçerli olduğu ancak ofsaytın uygulanmadığı bu turnuvalarda, robotlar, uzaktan kumandayla yönlendirilmeden içlerine yerleştirilen küçük çiplerle bir futbolcu gibi oynayabiliyor. Hata yapınca, örneğin diğer bir robotu devirdiklerinde sarı kart görüyor, tekrarlarsa kırmızı kartla oyundan atılıyorlar. 
+     
+     Efsane takım Big Red 
+     Bilim adamlarından oluşan RoboCup Federasyonu’nun bir amacı da, en geç 2050 yılına kadar daha gelişmiş bir robot futbol ekibiyle, insanlardan kurulu futbol takımlarını yenip dünya şampiyonu olmak. Tıpkı bir bilgisayar olan "Deep Blue"nun, ünlü satranççı Kasparov’u yenmesi gibi... 
+     Şimdilik sadece kendi başlarına futbol oynayabilen bu robotların, gelecekte deprem, sel gibi felaketlerde kurtarma, nükleer atık ve mayın temizleme gibi çalışmalarda ve ulaşımda kullanılabilir hale gelmeleri planlanıyor. 
+     Son iki yılın şampiyonu ABD’deki Cornell Üniversitesi’nin "efsane" takımı Big Red Büyük Kırmızı , bu yıl şampiyonluğu, çok değişik taktikler sergileyen Singapurlu Field Rangers Saha Korucuları takımına devretti. 
+     
+
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

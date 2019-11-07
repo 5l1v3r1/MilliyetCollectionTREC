@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 7050 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/02/14/son/soneko14.html </URL>
+<DATE> 2001/02/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İş Bankası'ndan KDV açıklaması 
+</HEADLINE>
+<TEXT>
+
+     Türkiye İş Bankası, iştiraki İŞ-TİM'in GSM 1800 lisans bedelinin ikinci ve son taksitinin KDV tutarını dün ödediğini bildirdi. 
+     İş Bankası'ndan Borsa'ya gönderilen açıklamada, iştirakleri İŞ-TİM Telekomünikasyon Hizmetleri A.ş.'ye ait GSM 1800 sayısal hücresel mobil telefon sistemi kurulması ve işletilmesi lisansına ilişkin lisans bedelinin ikinci ve son taksidinin katma değer vergisine ilişkin basında yer alan haber ve yorumlara açıklık getirildi. Açıklamada, söz konusu KDV tutarının 13 Şubat tarihinde iştirakleri tarafından ödendiği bildirildi. 
+
+
+
+
+</TEXT>
+</DOC>

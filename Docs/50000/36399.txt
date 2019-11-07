@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 36399 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/08/10/son/soneko09.html </URL>
+<DATE> 2001/08/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsada uzatılmış seanslar Pazartesi başlıyor 
+</HEADLINE>
+<TEXT>
+
+     İMKB Hisse Senetleri Piyasası'nda seans saatlerindeki uzatmaya ilişkin uygulama 13 Ağustos Pazartesi gününden geçerli olmak üzere başlayacak. 
+     Yeni uygulamayla, Ulusal, Bölgesel ve Yeni Şirketler Pazarı'nda işlemler 1. Seans 09.30-12.00, 2. Seans 14.00-16.30 saatleri arasında gerçekleştirilecek. 
+     Hisse Senetleri Piyasası'nın uzaktan Erişim Projesi kapsamında sürdürülen çalışmalara paralel olarak, önümüzdeki günlerde devreye alınması planlanan ve Hisse Senetleri Piyasası HSP Alım-Satım Sistemi ile üye sisteminin doğrudan iletişimini sağlayacak olan Ex-API uygulamasına hazırlık amacıyla, seans saatlerinde ve ''Disketle Emir İletimi'' uygulamasında bazı değişiklikler yapıldı. 
+     HSP'de 13 Ağustos 2001 Pazartesi gününden itibaren geçerli olacak yeni uygulamanın esasları şöyle belirlendi 
+     -Borsa üyeleri tarafından elektronik kanallardan toplanan emirlerin hızlı bir şekilde HSP Alım-Satım Sistemi'ne Sistem iletilmesine imkan vermek üzere uygulamaya konulan Disketle Emir İletimi'nin saatleri, üyelerin özellikle sabah sat 09.00'dan sonra gelen emirleri Sistem'e daha kolay bir şekilde aktarabilmeleri için uygulama saati geriye alınıp, süre uzatılarak, 1. seans için 09.30-10.00, 2. seans içinse 14.00-14.15 olarak belirlendi. 
+     Böylece, yeni uygulama ile toplam süre olarak uzatılan Disketle Emir İletimi süreci, mevcut durumda sadece birinci seansta yer alırken, yeni düzenlemeyle ikinci seansta da uygulanacak. 
+     -HSP'de seans saatlerinin uzatılmasıyla, piyasadaki likidite imkanı artırılırken, uluslararası yatırımcıların piyasaya erişimini kolaylaştıran bir imkan yaratıldı. HSP emir-işlem kurallarında herhangi bir değişiklik yapılmadı. 
+     -Yeni düzelemeyle birlikte, 2. seansta yer alan ''Disketle Emir İletimi'' sürecinde Gözaltı Pazarı'ndaki hisse senetleri için de emir verilebilecek. 
+     -Piyasanın geneline yönelik olarak şeffaflığın artırılması amacıyla disketle emir iletimi sürecinde iletilen emirlere ve gerçekleşen işlemlere ait olan ve daha önce yayınlanmayan bilgilere ilişkin derinlikli veri yayını, birinci seans için saat 09.30, ikinci seans içinse saat 14.00'den itibaren veri yayın ekranlardan yapılmaya başlanacak. 
+     -Yeni düzenleme ile birlikte Ekspres-Terminal uygulaması kaldırıldı ve tüm terminaller aynı özelliklere kavuşturuldu. Böylece üyeler gerek İMKB'de, gerekse merkez ofislerinde bulunan işlem terminallerinden tüm sorguları yapabilecekler. 
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

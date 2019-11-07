@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 15256 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/04/08/son/soneko07.html </URL>
+<DATE> 2001/04/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Intel "Bilişim sektöründe bu sene büyüme beklemiyoruz" 
+</HEADLINE>
+<TEXT>
+
+     Intel Türkiye Genel Müdürü Cüneyt Çubukçu, krizle birlikte bu sene bilişim sektöründe büyüme beklemediklerini söyledi. 
+     Çubukçu, bilişim sektörünün depreme kadar muhteşem büyüyen bir sektör olduğunu, büyümenin deprem öncesi yüzde 30'lara vardığını, depremden sonra ise yüzde 20'lerin yakalandığını hatırlattı. 
+     Bu sene krizden önce yüzde 20 büyüme beklediklerini ifade eden Çubukçu, ancak krizle birlikte bilişim sektöründe rakamların geçen sene ile aynı olacağını, büyüme beklemediklerini kaydetti. 
+     Değişik kulvarlarda bir miktar büyüme olabileceğine işaret eden Çubukçu, ''Bugünlerde artmasını beklediğimiz e-bussines yatırımları var. Kriz ortamında işyerleri iş yapış şekillerini gözden geçiriyorlar. Özellikle sunucu ve iletişim cihazları konusunda büyüme yaşanabilir'' dedi. 
+     Çubukçu, Türkiye'deki Pentium 4 satışlarının da krizin derinleşmeye başladığı 22 Şubat akşamına kadar Avrupa'daki ilk 4-5 ülke arasında bulunduğunu söyledi. 
+     Döviz kurunun serbest bırakılmasıyla birlikte kimsenin ödeme yapamadığını, fatura kesemediğini ifade eden Çubukçu, ''Oradan başlayan bir zincir ile belirsizlik bugünlere kadar taşındı. Tahsilatlar, ödemeler yapılamadı, birçok firmayı çok kötü yakaladı. Biz de ordan yola çıkarak iade talepleri olursa yardımcı olmak için kesinlikle geri çevirmiyoruz'' dedi. 
+     Intel'in dünyadaki pek çok ülkede ürünlerini sattığını ve dalgalanmalara alışık olduklarını ifade eden Çubukçu, şunları kaydetti 
+     'Biz böyle durumlara uzun vadeli yaklaşıyoruz. Planlarımızı aksatmıyoruz. Böyle dönemlerde ülkeler ekonomik olarak biraz geri giderler, fakat kaldıkları yere döndüklerinde modernlik anlamında bir kaç adım ileriden başlamak isterler. İşte ara teknolojiler yerine yeniteknolojileri her zaman ön plana çıkarmakta fayda var. Pentium 4'le ilgili hiçbir aktivitemizi ertelemedik. Mutlaka dağıtıcıların sattığı adetlerde azalma olacak ama hiçbir ülke kolay kolay batmaz. Türkiye dekesinlikle bundan sıyrılacak.'' 
+
+
+
+
+</TEXT>
+</DOC>

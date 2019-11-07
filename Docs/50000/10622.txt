@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 10622 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/03/09/son/soneko07.html </URL>
+<DATE> 2001/03/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Döviz fiyatlarında son durum 
+</HEADLINE>
+<TEXT>
+
+     İstanbul ve Ankara'da dövizin alış-satış fiyatları, saat 12.00 itibariyle şöyle seyrediyor 
+     
+İSTANBUL SERBEST PİYASA ALIŞ SATIŞ ABD Doları 875,000 895,000 Alman Markı 417,000 432,000 İngiliz Sterlini 1,250,000 1,327,000      
+     
+ANKARA SERBEST PİYASA ALIŞ SATIŞ ABD Doları 850,000 900,000 Alman Markı 400,000 440,000 İngiliz Sterlini 1,150,000 1,570,000      
+
+
+
+</TEXT>
+</DOC>

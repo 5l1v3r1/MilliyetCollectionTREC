@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 8193 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/02/21/son/soneko17.html </URL>
+<DATE> 2001/02/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Repo faizi yüzde 7.500'ü gördü 
+</HEADLINE>
+<TEXT>
+
+     İMKB Repo piyasasında gecelik faizler, maksimum yüzde 7,500'e ulaştı. 
+     Repo piyasasında gecelik faizler minumum yüzde 1000, maksimum 7,500 olarak gerçekleşti. En son repo işlemi yüzde 7,500'den işlem görürken, ortalama faiz yüzde 4501.68 oldu. İMKB Tahvil ve Bono Piyasası'nda en çok işlem gören kağıtlardan 21 Mart tarihli, bugün valörlü tahvilin bileşik faizi yüzde 154.64, 16 Mayıs tarihli bugün valörlü tahvilin bileşik faizi yüzde 128.94 olarak gerçekleşti. Bankalararası TL interbankında ise faizler minumum yüzde 600, maksimum yüzde 2300 aralığında seyretti. Ortalama faiz yüzde 2056.02 oldu. 
+
+
+
+
+</TEXT>
+</DOC>

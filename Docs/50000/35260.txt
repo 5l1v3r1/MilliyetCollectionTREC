@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 35260 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/08/03/son/sondun10.html </URL>
+<DATE> 2001/08/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+NASA'dan dünyanın en doğru üç boyutlu haritası... 
+</HEADLINE>
+<TEXT>
+
+     Amerikan Ulusal Uzay ve Havacılık Dairesi NASA , geçen yıl bir uzay mekiği ekibi tarafından tespit edilen verilerle şimdiye kadar dünyanın en doğru üç boyutlu haritasını çıkarmaya başladı. 
+     Dağ, vadi ve ovaların üç boyutlu görüntülerini içeren harita için yaklaşık bir trilyon ölçüm yapıldığı, Radar Topografi Misyon Mekiği'nin geçen yılki 11 günlük araştırması sırasında, 8 terabyte'lık veri toplayarak dijital topografik haritaların ortaya çıkarılmasının yolunu açtığı bildirildi. NASA yetkilileri, görevini geçen yıl Şubat ayında bitiren mekiğin topladığı verilerin 160 milyon sayfayla eşdeğer olduğunu, ölçümler arasında yerin kütlesel yüzeyinin yüzde 80'inin kusursuz ölçümlerinin de bulunduğunu belirttiler. 
+     NASA yetkilisi Tom Farr, yeni küresel haritanın şimdiye kadar yapılanlardan 100 kat daha iyi olacağını söyledi. Araştırma sırasında astronotların verileri iki büyük radar anteni kullanarak topladığı, antenlerden birinin mekiğin üzerinde olduğu, diğerinin ise yaklaşık 200 ayak uzunluğundaki bir direğin ucuna bağlandığı belirtilerek, iki antenin Yer yüzeyinden eşzamanlı olarak topladığı görüntülerden daha sonra stereo topografik görüntülerin oluşturulduğu kaydedildi. 
+     NASA'nın internette yayımlanması beklenen haritasıyla pilotların yüksek tepelere çarpmalarının engelleneceği, bilim adamlarının vadilerdeki su geçişleri üzerinde çalışabilecekleri ve Savunma Bakanlığı'nın füze yönlendirmelerini daha iyi yapabileceği bildiriliyor. 
+     Proje görevlilerinden Thomas Hennig ise, 142 milyon dolara mal olacak projede 160 askeri ve istihbarat sistemi kullanılacağını söyledi. Hennig, haritanın, başta sınır anlaşmazlıkları olmak üzere, birçok alanda kullanılacağını kaydetti. Yeni haritanın Kuzey Amerika kıtasını gösteren bölümünün ilkbaharda, diğer kıta ve adaların ise gelecek yılın sonunda yayımlanacağı bildiriliyor. 
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

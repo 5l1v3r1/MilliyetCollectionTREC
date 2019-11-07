@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 5625 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/02/05/son/soneko12.html </URL>
+<DATE> 2001/02/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Eczacıbaşı akıllı kart üretimine başlıyor 
+</HEADLINE>
+<TEXT>
+
+     Eczacıbaşı Topluluğu, Türkiye'nin ilk ''akıllı kart'' üretim tesislerini Gebze'de kurdu. 
+     Eczacıbaşı Holding'den yapılan açıklamaya göre, E-Kart Elektronik Kart Sistemleri A.Ş. adıyla kurulan tesislerde, veri saklama, yetki belirleme ve tanımlama, güvenlik yönetimi, şifreleme gibi çözümler sunan akıllı kartlar üretilecek. 
+     Halen makinaların test çalışmalarını sürdüren ve çok yakında deneme üretimine başlayacak olan E-Kart, Gebze'deki tesiste gerek baskı teknikleri, gerek akıllı kartlarda uygulanabilecek fonksiyonların geliştirilmesi açısından dünya devleri ile aynı teknolojileri kullanacak. 
+     Türkiye'de akıllı kart kullanıcısı kuruluşlara yüksek teknolojinin yanı sıra güvenilir bir hizmet zinciri de sunacak olan E-Kart, kartın tasarımından kişiselleştirilmesine ve zarflanarak sahibine teslim edilmesine kadar tüm üretim sürecini üstlenecek. 
+     Dünya standartlarında bir teknolojiyi, yerel üretici olmanın lojistik avantajlarını kullanarak pazara sunacak olan E-Kart, müşteriye ve ihtiyaca özel çözümler üretecek. Ayrıca, akıllı çözümlere geçmek isteyen yeni kuruluşlara danışmanlık hizmeti verilecek. Dünyada ''smart card'' olarak bilinen akıllı kartlar, personel devam kontrol sistemleri, geçiş kontrol ve güvenlik sistemleri, resmi kimlik belgelerini barındırabilen, internet ve intranet elektronik güvenlik alt yapısı gibi birçok çözümler sunan, küçük bir bilgisayar gibi işleyen chip'lerden oluşuyor. Son derece esnek, kullanışlı, ekonomik ve dayanıklı bir veri saklama yöntemi olan akıllı kartlar, 1999 yılında tüm dünyada 1.5 milyar adet satıldı. Kart üzerinde birden fazla alanda, pek çok farklı bilginin barındırılabilmesi ve bilgilerin tam güvenlikle korunuyor olması, akıllı kartların kullanım alanlarını giderek genişletiyor. 
+
+
+
+
+</TEXT>
+</DOC>

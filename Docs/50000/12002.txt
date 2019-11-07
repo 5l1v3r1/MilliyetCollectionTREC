@@ -1,0 +1,53 @@
+<DOC>
+<DOCNO> 12002 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/03/19/guncel/agun.html </URL>
+<DATE> 2001/03/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayardaki CASUS 
+</HEADLINE>
+<TEXT>
+
+ABD gizli servisinin, Microsoft yazılımlarındaki ana şifreyi kullanarak Alman ordusunun gizli belgelerini tek tek ele geçirdiği ileri sürüldü... 
+     DIŞ HABERLER SERVİSİ 
+
+     Kaydettikleri tüm verilerin ve yazışmaların ABD gizli servisleri tarafından öğrenildiğini farkeden Alman ordusu ve Dışişleri Bakanlığı, Microsoft yazılımlarını kullanmayacaklarını açıkladı. Alman Der Spiegel Dergisi'nde yer alan iddiaya göre, asrın casusluğu Microsoft programlarındaki gizli ana şifreyi kullanan Amerikan Ulusal Güvenlik Ajansı NSA tarafından gerçekleştirildi. 
+     
+Programlar silinecek      Almanya gelişmeler üzerine yurtdışındaki temsilciliklerle yapılan video konferansları da tamamen dondurdu. Dışişleri Bakan Yardımcısı Gunter Pleuger, Der Spiegel'e, video konferansta kullanılan uydu bağlantısının "teknik nedenler"den ötürü, ABD'nin Colorado eyaleti üzerinden gerçekleştirildiğinin anlaşıldığını da sözlerine ekledi. 
+     
+NSA'dan şüpheleniliyor      Durumu yeni öğrendiklerini belirten bir başka Dışişleri yetkilisi ise bu şartlar altında Alman büyükelçiliklerinin Berlin'le yaptıkları görüşmeleri CIA karargahında yapmış gibi olduklarını vurguladı. Alman yetkili, Denver'deki yer istasyonunun da büyükihtimalle NSA olduğunu söyledi. 
+     
+Telekom'a yazılım siparişi      Der Spiegel'e göre, Alman Dışişleri ve Genelkurmayı, Telekom tarafından uyarıldı. Bunun üzerine Alman yetkililer, Telekom ve Siemens'ten güvenli yazılım programları geliştirmelerini talep etti. Alman firmalarının geliştireceği yeni program ve sistemlerin Alman ordusu ile Dışişleri'ndeki tüm hassas noktalara yerleştirileceği belirtildi. 
+     
+İkili sistemle korunuyoruzAYDIN HASAN Ankara 
+     Alman yetkililerin ABD gizli servislerine yönelttiği teknolojik casusluk iddiasının ardından Türk yetkililere, ülkemizde bu tip ihtimallere karşı ne gibi önlemler alındığını sorduk. Milli şifre ve ikili sistem yöntemine dayalı bir güvenlik kalkanı oluşturulduğunu söyleyen yetkililer, "Güvenlikle ilgili konularda ciddi çalışmalarımız var. Mesele sadece Microsoft değil. Başka bir yazılımın şifresi de üç günde kırılabilir" değerlendirmesinde bulundu. TSK, bilgisayar ağıyla ilgili çalışmaları TÜBİTAK ve ODTÜ ile birlikte yürütüyor. Ordunun yanı sıra milli güvenlikle ilgili kuruluşların gizli bilgileri özellikle internete açık bilgisayarlara girilmiyor. Gizli bilgiler, kapalı çevrim ortamında tutuluyor. 
+     
+Battıkça çıkıyor      Geçen yıl tam 38.5 katrilyon TL zarara uğrayan Bill Gates, h l "dünyanın en zengin adamı" 
+DIŞ HABERLER SERVİSİ 
+     Microsoft'un patronu, dünyanın en zengin işadamı Bill Gates geçen yıl 38.5 milyar dolar yaklaşık 38.5 katrilyon lira fakirleşti. Ancak Forbes ASAP Dergisi'nin araştırmasına göre, geçen yıl büyük kaybına rağmen 54.4 milyar dolarlık servetiyle Bill Gates hala 'en zenginler listesi'nde ilk sıradaki yerini koruyor. En zenginler listesinin ikinci sırasında bulunan Oracle'ın sahibi Larry Ellison ise geçen yıl servetini 29 milyar dolar artırmasına karşın hala Gates'in çok gerisinde. Ellison'ın şu andaki serveti 42.1 milyar dolar olarak biliniyor. 
+     
+Ortaklarını da kalkındırdı      Dolar milyarderleri sıralamasında üçüncü ve dördüncü sırayı, Microsoft ortaklarından 24.4 milyar dolarla Paul Allen ve 15.3 milyar dolarla Steve Ballmer alıyor. Amazon.com'un sahibi Jeff Bezos ise 2.3 milyar dolarlık servetiyle 16'ncı sırada. 
+     
+
+
+ GÜNCEL 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

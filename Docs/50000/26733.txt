@@ -1,0 +1,49 @@
+<DOC>
+<DOCNO> 26733 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/06/14/guncel/gun02.html </URL>
+<DATE> 2001/06/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dümeni yanlış yere taktılar 
+</HEADLINE>
+<TEXT>
+CASA’yı düşüren hata 
+Hava Kuvvetleri Komutanlığı, TAI, TUSAŞ ve CASA müfettişlerinin incelemelerinde, kazanın üretim hatasından kaynaklandığı ortaya çıktı 
+     UTKU ÇAKIRÖZER Ankara 
+
+     Ankara’da 3 İspanyol mühendis ile 1 Türk uçak teknisyeninin ölümüyle sonuçlanan kazada parçalanan CN - 235 tipi CASA uçağının, TAI’de üretim hattındaki bir hatadan dolayı düştüğü saptandı. Hava Kuvvetleri Komutanlığı, TAI, TUSAŞ ve CASA müfettişlerinin yaptığı incelemede, uçağın sağa - sola yatmasını sağlayan "aileron" adlı kanatçıklardan birinin hatalı takıldığı ortaya çıktı. 
+     İnceleme heyetinden alınan bilgilere göre kalkışta sola yatan uçağı sağa çevirerek dengelemek isteyen İspanyol pilotun, kanatçıklara verdiği kumanda, bu parçaların hatalı takılması nedeniyle ters etki yarattı. Uçağı sağa yatırmak için "sağ kanattaki aerlikonu kaldırıp sol kanattaki aerlikonu indirmesi" gereken pilotun bu yönde gerçekleştirdiği kumanda, sola yatışı durdurmak yerine daha da arttırdı ve uçak sol kanat üzerinde yere düştü. 
+     Hava Kuvvetleri, TUSAŞ, TAI ve CASA yetkililerinden oluşan inceleme heyeti, enkazdan topladığı kanatları yeniden monte edince kazanın sebebi ortaya çıktı. Heyet, uçağın kanatlarına monte edilen "aileron" isimli kanatçıkların üretim esnasında hatalı monte edildiği bulgusuna ulaştı. 
+     
+     Fabrika testlerinde tespit edilemedi 
+     Üretim esnasındaki yanlış yerleştirme, deneme uçuşları başlamadan TAI ve CASA teknisyenleri tarafından yapılan fabrika çıkış testlerinde de tespit edilemeyince ölümle biten kaza gerçekleşti. 
+     Düşen uçaktaki üretim hatasının tespitinden sonra TAI, halen üretim bandında olan 8 CN - 235 uçağını inceleme altına aldı. Yetkililer bu uçaklarda aynı hataya rastlanmadığını, aileronların kanatlara hatasız yerleştirildiğinin gözlendiğini bildirdiler. 
+     "Deniz Kuvvetleri karakol uçağı" projesi için üretilen uçak, 18 Mayıs’ta düştükten sonra başlatılan inceleme 20 gün sürdü. İnceleme sonucunu 8 Haziran’da yazılı olarak açıklayan TAI, tespit edilen hataya değinmeden "Muhtemel sebep, uçağın aileron kontrol sisteminin işleyişindeki bir aksaklıktır" ifadesiyle yetindi. 
+     
+
+
+
+ GÜNCEL 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

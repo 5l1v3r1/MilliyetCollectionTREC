@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 20715 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/05/11/son/soneko24.html </URL>
+<DATE> 2001/05/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsada bugün en çok kazandıran ve kaybettiren hisseler 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası'nda İMKB bugün günlük bazda en çok değer kazanan ve en çok değer yitiren 10 hisse senedi ile değişim oranları şöyle 
+     
+DEĞER KAZANAN HiSSE ADI ARTIŞ ORANI Bayraklı Boya 24.19 Lüks Kadife 15.38 Berdan Tekstil 15.07 Tümteks 10.00 Akın Tekstil 9.76 Şekerbank 9.68 Uşak Seramik 9.62 Haznedar Tuğla 8.20 Anadolu Isuzu 7.87 Söktaş 7.69      
+DEĞER KAYBEDEN HiSSE ADI DÜŞÜŞ ORANI Finansbank -10.00 Pirelli Kablo -9.59 TSKB -9.52 Altınyıldız -9.30 Metaş -9.23 Turcas Petrol -9.21 Global Yat.O. -7.37 Park Elk.Maden. -7.25 Mardin Çimento -6.98 Akal Tekstil -6.90      
+     
+
+</TEXT>
+</DOC>

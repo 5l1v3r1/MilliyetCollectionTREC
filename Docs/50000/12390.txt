@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 12390 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/03/21/son/soneko10.html </URL>
+<DATE> 2001/03/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa ihale sonrası durgun 
+</HEADLINE>
+<TEXT>
+
+     Borsa, günün ilk seansında yüksek açılışın ardından, yatay seyir izliyor. 
+     Hazine'nin dünkü bono ihalesi sonrası para piyasalarında normalleşme eğilimi gözlenirken, Borsa, piyasaların yerleşmesini bekliyor. 
+     Ulusal-100 Endeks, alım ağırlıklı açılışın ardından en yüksek 8,914 puanı gördü. Ancak, hızlı açılışın etkisiyle kar satışları geldi ve ilk bir saat geçilirken Endeks, 8,800 puan seviyelerinde yatay seyre girdi. Uzmanlar, ihale sonrası ilk tepkinin ikinci el tahvil bono piyasasında görüldüğünü ve faizlerin gevşemeye başladığını belirterek, döviz piyasasının da belirginleşmesi gerektiğini kaydettiler. Piyasaların belirginleşmesi için en az 1 hafta daha süreye ihtiyaç olduğunu ifade eden uzmanlar, Borsa'nın, diğer piyasaları izleyerek yönünü belirleyeceğini bildirdiler. 
+     Öte yandan, İstanbul Menkul Kıymetler Borsası İMKB Tahvil ve Bono Piyasası Repo Pazarı'nda gecelik faiz oranı ortalama yüzde 80.12 düzeyinde. 
+     İMKB Tahvil ve Bono Piyasası verilerine göre, Repo Pazarı'nda en düşük oran yüzde 80.10, en yüksek oran ise yüzde 80.20 oldu. Menkul kıymetlerin alınıp satıldığı Tahvil ve Bono Piyasası'nda en çok işlem gören 20 Haziran vadeli, bugün valörlü bononun bileşik getirisi dünün 47 puan altında yüzde 137.51, 11 Temmuz vadeli, bugün valörlü bononun bileşik getirisi de dünün 44 puan altında yüzde 137.43 düzeyinde. Bankalararası TL interbankında ise gecelik faizler, dünkü gibi yüzde 80 dolayında bulunuyor. 
+
+
+
+
+</TEXT>
+</DOC>

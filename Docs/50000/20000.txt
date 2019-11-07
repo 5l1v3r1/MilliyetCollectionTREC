@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 20000 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/05/07/son/soneko25.html </URL>
+<DATE> 2001/05/07/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsada bugün en çok değer kazanan ve kaybeden hisseler 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası'nda İMKB bugün günlük bazda en çok değer kazanan ve en çok değer yitiren 10 hisse senedi ile değişim oranları şöyle 
+     
+DEĞER KAZANAN HiSSE ADI ARTIŞ ORANI Sezginler Gıda 18.75 Metemteks 18.75 Frigo Pak 15.79 Şekerbank 14.58 Boyasan Tekst. 12.77 Tümteks 10.00 Bumerang 10.00 Alkim Kimya 9.38 Alfa Menkul Değ 8.89 Konfrut Gıda 8.75      
+ DEĞER KAYBEDEN HiSSE ADI DÜŞÜŞ ORANI A.Teletaş -12.00 EGS G.Menkul -9.68 Altın Yağ -9.62 Bak Ambalaj -8.22 Vakıf GM.Y.O. -8.20 Kordsa -8.00 Tek-Art Turizm -7.84 ÇBS Printaş -7.14 Atlas Yat.O. -6.98 Bagfaş -6.82      
+
+
+
+
+
+
+</TEXT>
+</DOC>

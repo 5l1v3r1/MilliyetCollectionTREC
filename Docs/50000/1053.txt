@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 1053 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/07/son/sondun01.html </URL>
+<DATE> 2001/01/07/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft çocuk pornografisi yapan siteyi kapattı 
+</HEADLINE>
+<TEXT>
+
+     Microsoft firması, evsahipliği yaptığı bir sitenin çocuk pornografisi yayınladığı uyarısı üzerine bu siteyi kapattı. 
+     Microsoft'un İskandinav ülkeleri yetkilisi Lars Backhans, şirketin sunduğu servis altında açılan İsveç'e ait web sitesini kapattıklarını söyledi. 
+     Backhans, bu tip eylemlere hoşgörülü yaklaşamayacaklarını belirtti. İsveç polisi, 26 Aralık'ta bu web sitesinden çocuk pornografisi yapıldığı gerekçesiyle Microsoft'u uyarmıştı, ancak site 5 Ocak'ta kapandı. Polis, Microsoft'u ağır hareket ettiği gerekçesiyle eleştiriyor. Backhans, kesin kanıt için siteye ait kayıtların incelendiğini bu prosedür nedeniyle de kapatma işleminin 5 Ocak'ı bulduğunu söyledi. 
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 40123 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/09/02/son/sondun06.html </URL>
+<DATE> 2001/09/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayar virüslerinin maliyeti 10.7 milyar dolar... 
+</HEADLINE>
+<TEXT>
+
+     Virüslerin tüm dünyada bilgisayarlara verdikleri zararın sadece bu yıl 10.7 milyar dolar olduğu açıklandı. 
+     Bu alandaki gelişmeleri izleyen, merkezi California'da bulunan ''Computer Economics of Carlsbad'' adlı kuruluş tarafından yapılan açıklamaya göre, virüslerin yarattığı zarar son 3 yıl içinde 40 milyar dolara yaklaşıyor. Buna virüslerin kirlettiği sistemlerin temizlenmesi ve üretim kaybı dahil bulunuyor. 
+     Kuruluşun Başkan Yardımcısı Michael Erbschloe, ''Bu yıl yeni bir virüs ortaya çıkmadığı takdirde, yıllık zararın 15 milyar doların altında kalacağını, ancak yeni ve tehlikeli bir virüs daha ortaya çıkarsa zararın geçen yılın üzerine çıkacağını'' kaydetti. 
+     Erbschloe'nin belirttiğine göre, virüs zararlarının yıllara göre dökümü şöyle 
+     -1999 12.1 milyar dolar 
+     -2000 17.1 milyar dolar 
+     -2001 Şu ana kadar 10.7 milyar dolar. 
+     Erbschloe, bilgisayarlara en fazla zarar veren virüsün ''Love Bug'' Aşk Böceği olduğunu bildirdi. Uzmanın açıklamasına göre, 50 değişik türü bulunan ''Love Bug'' 40 milyon dolayında bilgisayarı etkiledi. Virüsün verdiği zarar 8.7 milyar dolar olarak belirlendi. ''Love Bug''ı 1.2 milyar dolar zarar veren ''Melissa'' virüsü ve 1 milyar dolar zarara yol açan ''Explorer'' virüsü izliyor. ''Kızıl Kod'' ve ''SirCam'' virüsleri ise toplam 2.3 milyon bilgisayarı vurdu ve 1 milyar doların üzerinde zarara yol açtı. 
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

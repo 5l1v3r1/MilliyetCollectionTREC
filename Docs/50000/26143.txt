@@ -1,0 +1,56 @@
+<DOC>
+<DOCNO> 26143 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/06/11/ekonomi/eko07a.html </URL>
+<DATE> 2001/06/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Takasın vergi hesabı 
+</HEADLINE>
+<TEXT>
+
+Vergi Dünyası MUSTAFA ÖZYÜREK 
+     Son günlerin ekonomi gündemini borç swapı veya değiş tokuşu ya da daha çok benimsenen tabirle takası oluşturuyor. Aslında bu durum hiç yadırganmamalı. Çünkü ekonominin en önemli sorunu kamu borcunun çevrilebilmesi. Hazine Müsteşarı açıkladı 2001 yılından borç servisi 79 milyar dolar. Hesabın güçlükleri ortada. O zaman akla gelen çözüm yollarından biri swap. Yani bankaların portföylerinde bulunan TL cinsinden Devlet İç Borçlanma Senetleri DİBS Hazine’ye verecekler. Bunların yerine döviz cinsinden veya dövize endeksli DİBS’yi koyacaklar ve vade uzamış olacak, Hazine borçlarını yeniden yapılandırmak açısından bir şans bulacak. Bankalar kur riskini Hazine’ye aktaracak ve ayrıca borç servisinin yapılmasına yardımcı olacaklar. Bir yerde takas "zorunlu gönüllülük" gerektiren bir işlem. 
+     Pekiyi takas nasıl yapılacak Takas işleminin ayrıntıları Hazine ile bankaların tartışması sonucu belirlendi. Bu hafta içinde gerçekleştirilecek olan takasın yöntemi şöyle 
+     Başlangıçta 5 milyar dolarlık bir takas yapılması planlanıyor. Takasın yapılacağı tarihteki cari kur esas alınarak bankaların TL cinsinden DİBS portföyünden 5 milyar dolara tekabül eden kısmı Hazine’ye devredilecek, bunun yerine 5 milyar dolarlık döviz cinsinden veya dövize endeksli DİBS portföyü konulacak. Döviz cinsinden DİBS’nin vadesi 5 veya 7 yıl olacak. İhraç edilecek tahviller, ayrılabilir faiz kuponlu ve 3 ayda bir faiz ödemeli olacak. 
+     
+Bankaların faiz talebi 18      Faiz oranı en kritik konu. Oran konusu henüz belli değil. Ama düşünülen formüllerden en çok ilgi göreni bankaların katılacakları bir ihale ile faizin belirlenmesi. Hazine, faiz oranın euro - bond faizi kadar, yani yüzde 11 - 12’lerde olmasından yana. Bankalar takas için çıkarılacak dövize endeksli tahvillerde faizin en az yüzde 18 olmasını istiyor. Bankacılar yüzde 18’lik faizi isterken, Arjantin örneğinden yola çıkıyor. Arjantin’de yapılan takasta faiz oranı yüzde 16 olmuştu, ancak Türkiye’nin kredi notunun daha düşük olması nedeniyle daha yüksek bir oran gerektiği görüşü taraftar buluyor. 
+     Anlaşılan o ki, bu takas işi bir şekilde olacak. Ancak bu işin bir de vergisel yönü var. Bu hesaplarda acaba vergi dikkate alındı mı Çünkü basına yansıyan bilgiler bu boyutun pek dikkate alınmadığını gösteriyor. Evet bu işin vergisel boyutu da çok önemli. Kısaca şöyle 
+     Öncelikle bankalar şu an portföylerinde bulunan TL cinsinden DİBS’yi Hazine’ye verecekler. Yani bunları elden çıkaracaklar. İşlemin yapıldığı tarihteki tahvil fiyatı ile aktife kayıtlı fiyatı arasında olumlu bir fark varsa bankalar bunu kar yazacaklar olumsuz ise zarar yazacaklar. Olumlu fark olduğunda geçici vergi, kurumlar vergisi, stopaj ve fon payı gibi mali yükümlülükler çıkacak. Bu, bankalar tarafından Hazine’ye verilecek tahvillerin vergisel akıbeti. 
+     Döviz cinsinden veya dövize endeksli tahvil alınması halinde, bunlar, işlemin yapıldığı tarihteki kur esas alınarak aktife alınacak. Üç ayda bir tahsil edilen faizler bankalar tarafından doğal olarak gelir yazılacak ve yukarıdaki vergisel yükümlülükler yine ortaya çıkacak. Bunun dışında önemli bir konu daha var. O da Vergi Usul Kanunu’nun 279. maddesi. Buna göre bankalar her üç ayda bir geçici vergi açısından dövize endeksli veya döviz cinsinden olan bu senetleri borsa rayicine göre değerleyecekler. Bu değerleme yapılırken doğal olarak kur farkları dikkate alınacak. Özetle borç takasının veya swapının hangisini beğeniyorsanız bir de vergisel ayağı var. Bankalar takasın ne getirip ne götürdüğünü hesaplarken olayın vergisel boyutunu da hesaba katmaları gerekir. 
+     
+Vergi nasıl oluşacak      Bilindiği üzere devlet iç borçlanma senetlerinden, vadesi 1 yıl ve daha uzun olanlar devlet tahvili olarak tanımlanıyor. Devlet tahvilinin üzerinde yazılı değer fiilen borçlanılan tutarı gösterir. Ödeme planına göre borçlanılan tutar üzerinden, kupon karşılığı dönemler itibariyle faiz ödemesi yapılır. 
+     Örnek E Bankası A.Ş., 05.11.2000 tarihinde ihraç edilen, nominal bedeli 2.000.000.000 lira olan 1 yıl vadeli ve 110 faizli devlet tahvili satın almıştır. Vade sonunda 2.200.000.000 lirası faiz olmak üzere anaparayla birlikte 4.200.000.000 lira ödenecektir. Bu tahvillerin İstanbul Menkul Kıymetler Borsası’nda işlem gördüğü ortalama fiyat 30 Haziran 2001 tarihinde 3.280.000.000 lira olsun. Bu menkul kıymet 30 Haziran tarihi itibariyle Bankanın portföyünde yer alıyorsa, 279. madde gereği 1.280.000.000 lira değerleme farkının gelir yazılması gerekir. Diyelim ki, bu tahvili takas kapsamında döviz cinsinden tahville değiştirdik. Değiştirme fiyatının 12 Haziran itibariyle 3.080.000.000 lira olduğunu kabul edelim. O zaman değişim tarihinde elden çıkarma dolayısıyla oluşan 1.080.000.000 lira kar yazılacak. Bu durum nihai bir vergileme doğurur. Bunun yerine değeri yaklaşık 3 dolar olan tahvil konulmuş olsun. 30 Haziran itibariyle eğer borsa rayici, örneğin 3.06 dolar olursa, o zaman 6 cent ve 3 doların kur farkı yine o tarihte gelir yazılacak. Tabii ki bu işlem tüm değerleme günlerinde devam edecek. Özetle değerleme açısından aslında değişen bir şey yok. Ama tahakkuk eden veya realize olan gelir açısından mutlak bir vergileme, takas sonucu ortaya çıkacaktır. Takas olmazsa belki sonraki dönemlerde değerleme farkları düşecektir. 
+     
+
+
+
+ EKONOMİ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,51 @@
+<DOC>
+<DOCNO> 38382 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/08/22/yasam/yas08a.html </URL>
+<DATE> 2001/08/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hotmail’lerinizi biri okuyabilir 
+</HEADLINE>
+<TEXT>
+
+Hackerlar, en yaygın elektronik posta sunucularından Hotmail’in güvenlik sırlarını deşifre ettiler... 
+     DIŞ HABERLER SERVİSİ 
+
+     Hotmail abonelerinin postalarının herkes tarafından okunabilmesini sağlayan güvenlik açıkları, hacker’ların sitesi Root Core aracılığıyla çok sayıda haber grubuna ve siteye postalandı. 
+     Antivirüs yazılım şirketi Sophos’un güvenlik danışmanlarından Graham Cluley, sorunun Hotmail’deki ciddi bir güvenlik açığından kaynaklandığını söyledi. Bir de iyi’ haber veren Cluley, herkesin hesabındaki postaların okunmadığını, bu güvenlik açığından faydalanarak sadece hedeflenen’ kişilerin postalarının okunabildiğini belirtti. 
+     Cluley, paranoyaklara da hesaplarını kapalı tutmalarından başka çareleri olmadığını öğütledi. Hotmail’in 110 milyon aktif hesabı var. 
+     
+
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

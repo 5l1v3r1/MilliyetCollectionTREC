@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 24806 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/06/03/son/sondun09.html </URL>
+<DATE> 2001/06/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dünyanın en hızlı uçağı ilk uçuş denemesinde başarısız oldu 
+</HEADLINE>
+<TEXT>
+
+     Hız rekoru kırarak seyahatte devrim yaratmayı hedefleyen NASA’nın, "dünyanın en hızlı uçağı"nın prototipiyle yaptığı deneme, başarısızlıkla sonuçlandı. 
+     ABD Uzay ve Havacılık Dairesi NASA uzmanları, içinde insan bulunmayan X-43A’nın prototipini, uçağı taşıyan roket kontrolden çıkarak irtifa kaybetmeye başlayınca imha etmek zorunda kaldılar. İmha edilmeseydi, uçak birkaç dakika sonra, ses hızını 7 kez aşmasını sağlayacak motorunu çalıştıracaktı. 
+     Deneme uçuşunu izleyen iki F-18 uçağındaki NASA kameraları, kontrolden çıktığı için Pasifik Okyanusu üzerine düşürülen Pegasus adlı roketin görüntülerini aldılar. 
+     Roketin parçalarıyla, NASA’nın "Hyper-X" programının bir parçası olan X-43A’nın prototipi, denizin derinliklerine gömüldü. Pegasus roketiyle X-43A, Edwards Hava Üssü’nden havalanan B-52 uçağıyla 8 bin metre yüksekliğe taşındı. Burada B-52’den ayrılan roketin, X-43A’yı 30 bin 800 metreye çıkarması ve ses hızının 7 katı hıza ulaştıktan sonra, uçağın roketten ayrılması ve birkaç saniye bu hızda tek başına giderek hız rekoru kırması bekleniyordu. Başarısızlığa neyin sebep olduğunu bilmediklerini belirten uzmanlar, hatanın hipersonik motorlu X-43A’dan değil roketten kaynaklandığını sandıklarını belirttiler. 
+     Başarısız denemeyle ilgili bir araştırma ekibi oluşturulacağını belirten NASA yetkilileri, 185 milyon dolarlık programın devam edeceğini söylediler. 
+     Program çerçevesinde yapılacak 3 denemeden ilkini gerçekleştiren NASA, uzayda seyahati rutin hale etirmeyi ve yolculukları çok kısa sürelere indirmeyi amaçlıyor. Bilim adamları, söz konusu programı, Wright Kardeşler’in ilk uçuşu gibi, tarihi bir havacılık başarısı olarak nitlendiriyor. Hayata geçirilmesi mühendislerin 40 yılını alan hipersonik motor, oksijen yakıtını havadan alarak uzay seyahatinde devrim yaratmayı amaçlıyor. Böylece, motoru oksijenle hidrojeni karıştıran uçağın, oksijen taşımasına gerek kalmıyor. Şu anki en hızlı uçak, ses hızını 3 kat aşabilen SR-71 Blackbird. 
+     
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

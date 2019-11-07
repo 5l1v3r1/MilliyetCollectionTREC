@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 12559 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/03/22/son/soneko20.html </URL>
+<DATE> 2001/03/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Repo Pazarı ortalama yüzde 80.08'den kapandı 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası İMKB Tahvil ve Bono Piyasası Repo Pazarı, ortalama yüzde 80.08'den kapandı. 
+     İMKB Tahvil ve Bono Piyasası verilerine göre, Repo Pazarı gecelik faiz en düşük oran yüzde 80, en yüksek oran ise yüzde 80.20 olarak gerçekleşti. 
+     Menkul kıymetlerin alınıp satıldığı Tahvil ve Bono Piyasası'nda en çok işlem gören 27 Haziran vadeli, bugün valörlü bononun basit getirisi yüzde 94.37, bileşik getirisi de yüzde 132.11 oldu. Bu bononun basit getirisi düne göre 0.91 puan, bileşik getirisi de 1.48 puan oranında düşerken, 140.1 trilyon liralık işlem hacmi gerçekleşti. Böylece, 98 günlük bono 2 günde yüzde 6.8 oranında kazandırdı. Bankalararası TL interbankında ise gecelik faizler yüzde 80'den işlem görüyor. 
+
+
+
+
+</TEXT>
+</DOC>

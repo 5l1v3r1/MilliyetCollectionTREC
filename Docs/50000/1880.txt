@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 1880 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/12/son/soneko01.html </URL>
+<DATE> 2001/01/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones ve Nasdaq yükseldi 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası'nda Dow Jones ve Nasdaq endeksleri, günü yükselerek kapattılar. 
+     Borsanın temel göstergesi olan Dow Jones, 5.28 puan artarak günü 10,609.55 puandan kapattı. Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq ise 116.39 puan yükselerek, günü 2,640.57 puandan kapattı. 
+
+
+
+
+</TEXT>
+</DOC>

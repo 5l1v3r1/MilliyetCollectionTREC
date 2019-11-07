@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 5482 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/02/04/son/sontur04.html </URL>
+<DATE> 2001/02/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ÖSS bilgi kontrol formları adaylara gönderiliyor 
+</HEADLINE>
+<TEXT>
+
+     Öğrenci Seçme Sınavı'na ÖSS girecek adaylara ait bilgilerin yer aldığı ''aday bilgi kontrol formları'', adayların adreslerine postalanıyor. Kontrol formlarında, adayların ÖSS'ye başvurma belgelerine kodladıkları bilgiler bulunuyor. 
+     Söz konusu form eline geçen adaylar, bilgilerin doğruluğunu kontrol edecekler. Formlarında eksik veya yanlış bulunan adaylar, formun arkasındaki açıklamaya uygun şekilde form üzerinde düzeltme yapacaklar. Adaylar, eksik belgeleri de forma ekleyerek, 2 Mart 2001'e kadar Öğrenci Seçme ve Yerleştirme Merkezi'ne ÖSYM gönderecekler. Belirtilen tarihe kadar ÖSYM'ye ulaşmayan veya ekinde istenen belgeler bulunmayan formlar işleme konulmayacak. ÖSYM, adaylarca düzeltilen bilgileri inceledikten sonra bilgiişlem ortamına aktaracak, ancak bilgi kontrol formları tekrar adaya gönderilmeyecek. Aday bilgi kontrol formundaki tüm bilgileri doğru olan ve eksik belgesi bulunmayan adaylar, söz konusu formu ÖSYM'ye göndermeyecek. Adaylar, bilgi kontrol formlarını, 6 Şubat Salı günü saat 10.00'dan itibaren, ''http abkf.osym.gov.tr'' internet adresinden kontrol edebilecekler. Aynı bilgiler WAP uyumlu cep telefonlarından da izlenebilecek. WAP adresi de şöyle ''http wap.osym.gov.tr'' 
+
+
+
+
+</TEXT>
+</DOC>

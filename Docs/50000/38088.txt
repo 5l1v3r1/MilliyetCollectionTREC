@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 38088 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/08/20/son/soneko21.html </URL>
+<DATE> 2001/08/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+KoçSistem danışmanları yurtdışına açıldı 
+</HEADLINE>
+<TEXT>
+
+     KoçSistem Profesyonel Hizmetler Birimi danışmanları, dünyanın en büyük petrol şirketi Aramco Saudi Arabian Oil Company'nin Exchange 2000 Geçiş Projesi'ni gerçekleştirerek, ilk kez yurtdışına açıldı. 
+     KoçSistem'den yapılan açıklamaya göre, Microsoft ile geçen yıl yapılan işbirliği anlaşması çerçevesinde Microsoft Danışmanlık Hizmetleri vermeye başlayan KoçSistem, bu projeyle danışmanlık hizmetleri tecrübesine uluslararası bir boyut da ekledi. KoçSistem Profesyonel Hizmetler danışmanlık kadrosu, Koç Grubu içindeki yaklaşık 10 bin kullanıcılı Exchange tecrübesiyle, Aramco projesinde aktif olarak hizmet vererek, projenin uzman takımı içerisinde 30 iş günü süresince yer aldı. Şirket, proje ile Suudi Arabistan'ın Dahran bölgesinde bulunan dünyanın en büyük petrol şirketinin halen çalışmakta olan Exchange 5.5 yapısını, Microsoft Cluster'in yanı sıra tamamen yeni donanımlarla güçlendirdi. Ayrıca, projenin tamamlandığı 30 iş günü süresince yaklaşık 37 bin posta kutusunun Exchange 2000 server'ları üzerine taşıma işlemi başarıyla tamamlandı. 
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

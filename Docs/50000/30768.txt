@@ -1,0 +1,52 @@
+<DOC>
+<DOCNO> 30768 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/07/07/guncel/agun.html </URL>
+<DATE> 2001/07/07/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yargı karar verdi Baz öldürür 
+</HEADLINE>
+<TEXT>
+
+Mahkeme, "İstasyonlardan yayılan radyasyon, kansere ve beyin hasarına neden olur" diyen raporu onayladı. Ve Çankaya'daki istasyonun kaldırılmasına hükmetti 
+     ANKARA Milliyet 
+
+     Ankara 6. İdare Mahkemesi'nin, baz istasyonlarına ilişkin bir dava nedeniyle yaptırdığı bilirkişi incelemesinde, bu istasyonların "kanser dahil, birçok tehlikeli hastalığa neden olduğu ve apartmanlara kurulmasının tehlike arz ettiği" sonucuna ulaşıldı. 
+     
+     Yöneticinin itirazı reddedildi 
+     Çankaya Belediyesi’nin, ilçedeki bir apartmana baz istasyonu kurulmasına karşı verdiği "kaldırılma" yönündeki kararına yargıdan onay geldi. Mahkeme, apartman yöneticisinin açtığı iptal davasını reddetti. Kararda, bilirkişi incelemesi de yer aldı. Bilirkişi raporunda şöyle denildi 
+     
+     Ölçüm yapan teknisyen de etkilendi 
+     Türkiye'deki baz istasyonlarında, 900 ve 1800 Mhz RF frekansları kullanılmaktadır. RF radyasyonuna maruz kalan canlılarda kanserin çeşitli türleri ortaya çıkmaktadır. Bu nedenle çatılarda kurulacak RF sistemlerinin iki metreden yüksek olması gerekir. Söz konusu olayda, link sisteminin yaklaşık yarım metre yükseklikte olması nedeniyle ölçümü gerçekleştirmeye çalışan teknisyen bile, çok yakın mesafeden radyasyona maruz kalmıştır. 
+     
+     İstasyon değil, ölüm makinesi 
+     Bina yanına monte edilen 400 watt gücündeki iki baz istasyonu, yaydıkları radyasyonla birçok hastalığa yol açabilir. Bunlar lösemi, lenfoma başta olmak üzere kanser türleri, sinir sisteminin yapısının değişmesi, beyin hücrelerinin sıcaklığının artması, üremede azalma, kromozal bozulmalar, kan basıncının artması, uyku bozuklukları, çocuklarda öğrenme güçlüğü, bitkinlik, baş ağrısı, beyinde DNA hasarı gibi pek çok etkiye neden olur. 
+     
+Uzman görüşü Tehlike uzaklığı beş metre      Prof. Dr. Tunaya Kalkan Cerrahpaşa Tıp Fakültesi Biyofizik Ana Bilim Dalı Öğretim Üyesi 
+     "Baz istasyonuna beş metreden fazla yaklaşılırsa ve uzun süre yanında kalınırsa veya yaşam alanının çok yakınında olduğu sürece zararlı etkisi olabilir. Yoksa birkaç dakikalık yakınlaşmanın bir sakıncası olmadığını düşünüyorum. Ev ya da okulların çatısına kurulan baz istasyonları, 6 derecelik açıyla uzağa doğru ışıma veriyor, şiddeti yavaşlıyor. Bana göre cep telefonları daha zararlı. Cep telefonlarının yakın mesafeden çok fazla yoğun kullanımı daha tehlikeli. Çok daha dikkatli kullanılması gerekir." 
+     
+
+
+
+ GÜNCEL 
+
+
+
+
+
+
+
+cezasız kalmalı mı 
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

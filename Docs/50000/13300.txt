@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 13300 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/03/27/son/soneko09.html </URL>
+<DATE> 2001/03/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsada 1. seansta 252 hisse senedi değer yitirdi 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi, dünkü kapanışa göre 344.55 puan kayıpla, 1. seansı 7,986.74 puandan tamamladı. 
+     Hisse senetleri ortalama yüzde 4.14 oranında değer yitirdi. Borsa'da, dünkü 34 puanlık kaybın ardından, günün ilk seansı da satış ağırlıklı açıldı. Satış baskısına dayanamayan piyasa, 8 bin seviyesinin de altına geriledi ve ilk bir saat 7,943 puanla geçildi. 
+     İkinci yarıda en düşük 7,926 puanı gören Endeks, düşük işlem hacmiyle yatay seyre girdi. Ulusal-100 Endeks, seansı 7,986.74 puanla tamamladı. Kapanışta mali endeks 469.72 puanlık düşüşle 10,743.29 puana, sınai endeksi 233.63 puanlık düşüşle 6,319.33 puana, hizmet endeksi de281.02 puanlık düşüşle 5,410.45 puana geriledi. 
+     Böylece mali grup hisseler önceki kapanışa göre ortalama yüzde 4.19, sınai grubu hisseler yüzde 3.57, hizmet gurubu hisseler de yüzde 4.94 oranında değer yitirdi. 1. seansta işlem gören toplam 294 hisse senedinden 19'u değer kazandı. 252 hisse senedi değer yitirirken, 23 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta 80 trilyon 980 milyar 253 milyon liralık işlem hacmi oluştu. 1. seansta Şişe Cam, Koç Holding, Akbank, Yapı Kredi Bankası ve Tüpraş en yoğun işlem gören hisseler oldular. 
+
+
+
+
+</TEXT>
+</DOC>

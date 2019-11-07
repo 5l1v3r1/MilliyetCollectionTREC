@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 39669 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/08/30/son/sondun05.html </URL>
+<DATE> 2001/08/30/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternet'in babası Dertouzos öldü 
+</HEADLINE>
+<TEXT>
+
+     World Wide Web www sisteminin kurucularından Michael Dertouzos, bir süredir tedavi gördüğü Boston'daki Massachusetts General Hospital'da hayatını kaybetti. 
+     Olay internet çevrelerinde büyük üzüntü yarattı. 
+     Dünyanın en önemli bilim kuruluşlarından Massachusetts Institute of Technology'nin MIT 1974 yılından beri direktörlüğünü yapan ve bir süredir tedavi gören Dertouzos, bugünkü modern internetin oluşumunda rol oynamış ve web sayfaları sistemi Hyper Text Transfer Protokol'un http adını koymuştu. 
+     Computek isimli firmada 1968 yılında çalışmaya başlayan Dertouzos, daha sonra tecrübelerini değişik enstitülerdeki öğrencilerle paylaşmıştı. 
+     Babası emekli bir amiral olan Dertouzos'un cenazesi doğduğu kent olan Atina'da 4 Eylül'de toprağa verilecek. 
+     
+     
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

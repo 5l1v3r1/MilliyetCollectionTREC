@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 35454 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/08/04/son/sontur04.html </URL>
+<DATE> 2001/08/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Görüntülü telefonu en çok İzmirliler sevdi 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekom'un görüntülü telefon hizmetine en fazla talep İzmir'deki abonelerden geliyor. Hizmetten İzmir'de toplam 240 abone yararlanıyor. 
+     Alınan bilgiye göre, İzmir'i 106 abone ile Ankara, 98 abone ile İstanbul, 37 abone ile Adana ve 19 abone ile Antalya izliyor. 
+     Aboneler, hizmetten faydalanabilmek için bağlantı ücreti olarak 14 milyon lira, aylık ücret olarak da 200 kontör karşılığı ödeme yapıyorlar. Haberleşme ücreti, telefon kontör atış periyoduna göre belirleniyor. 
+     Hizmetten yararlanmak isteyen aboneler, gereken cihazları Türk Telekom onaylı olmak şartıyla piyasadan temin edebiliyorlar. 
+     Bu arada, hizmetin en düşük maliyeti, telefon santrali kurulması için 2 bin dolar, telefon cihazı için 200 dolar, 2 modem için 250 dolar olmak üzere toplam 2 bin 450 dolar. 
+     Telefonda, isteğe göre siyah-beyaz veya renkli görüntü sağlanabiliyor. 
+     Görüntülü telefon hizmetinden faydalanmak için gereken cihazlar, telekomünikasyonla ilgili ürünleri pazarlayan özel şirketlerinden temin edilebiliyor. 
+     Öte yandan, görüntülü telefon hizmeti ses, görüntü ve verilerin sayısal ortamda birleştirilip aynı hat üzerinden iletilmesinin sağlandığı bir haberleşme ağı olan ''Tümleşik Hizmetler Sayısal Şebekesi Integrated Services Digital Network-ISDN '' aracılığıyla veriliyor. 
+     İletim kalitesi normal telefon hattından daha yüksek olan söz konusu şebeke hata oranı düşük, yüksek kaliteli, güvenli ve sınırsız haberleşmeye ve internete hızlı bir şekilde bağlanmaya olanak sağlıyor. 
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

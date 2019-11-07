@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 39261 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/08/27/son/sontur03.html </URL>
+<DATE> 2001/08/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hacker korkusu polise internet sitesini kapattırıyor... 
+</HEADLINE>
+<TEXT>
+
+     Başbakanlık, Milli Savunma ve Maliye Bakanlığı'nın da aralarında bulunduğu bazı kamu kuruluşlarına ait internet sitelerinin hackerlar tarafından kırılarak çökertilmesi, Emniyet Genel Müdürlüğü'nü kendi sitesi için önlem almaya zorladı. 
+     Emniyet Genel Müdürlüğü, web sitesini her gün saat 17.00'den sonra kapatma kararı aldı. Emniyet Genel Müdürlüğü'nden edinilen bilgiye göre, Genel Müdürlüğün internet sitesi bundan böyle saat 08.30 ile 17.00 arasında hizmet verecek. 
+     Emniyet Genel Müdürlüğü'nün internet sitesine Saat 17.00'dan sonra girilmesinin mümkün olmayacağı belirtilirken, bu uygulamanın "güvenlik" amacıyla alındığı ifade edildi. 
+     Daha önce Başbakanlık, Milli Savunma Bakanlığı, Maliye Bakanlığı, Muhasebat Genel Müdürlüğü gibi kuruluşların internet siteleri "hack"lenmişti. Başbakanlığın internet sitesini kıran ve 'memur çocuğu' olduğunu belirten hacker, düşük memur maaş zamlarını protesto ettiğini belirtmişti. 
+     "Korsan Team" adındaki bir grup hacker da bir hafta önce Milli Savunma Bakanlığının internet sitesini çöketmiş ve "Ülkemizin içinde bulunduğu ekonomik krize karşı önlem almanızı bekliyoruz. Yoksulluk sınırı, işsizlik...Güzelim yurdumun hali bu mu olacaktı Lütfen buna bir son veriniz" mesajını bırakmıştı. 
+
+
+
+
+
+
+</TEXT>
+</DOC>

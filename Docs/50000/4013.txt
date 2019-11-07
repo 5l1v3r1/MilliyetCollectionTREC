@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 4013 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/26/yasam/ayas.html </URL>
+<DATE> 2001/01/26/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Boğaz’a uydulu hayat’ öpücüğü 
+</HEADLINE>
+<TEXT>
+
+İstanbul ve Çanakkale Boğazları’nı uydu, radar ve bilgisayarlarla tam güvenliğe’ alacak dev projenin temeli pazar günü atılıyor... 
+     İHSAN YILMAZ İstanbul 
+
+     Özellikle petrol tankerlerinin tehdidinde olan İstanbul ve Çanakkale Boğazları’nı korumaya alacak sistem nihayet kuruluyor. 
+     Türk Boğazları Gemi Trafik Yönetim Bilgi Sistemi’ adı verilen projenin temeli pazar günü törenle atılacak. Boğazlardaki trafiği yüksek teknoloji yardımıyla tam güvenliğe alacak proje, haziran ayında bitirilerek hizmete girecek. 
+     
+     İnsansız’ gözetleme 
+     Denizcilik Müsteşarlığı’nca gerçekleştirilen proje kapsamında, Ahırkapı, Üsküdar, Kandilli, Kanlıca, Beykoz, Rumelikavağı, Garipçe ve Yom Burnu’na sekiz adet insansız’ trafik gözetleme istasyonu bulunacak. 
+     Sistemin kalbini oluşturacak Trafik Kontrol Merkezi ise, İstinye’de kurulacak. İstanbul Boğazı’ndaki bu sisteme ek olarak, Çanakkale Boğazı’nda da beş gözetleme istasyonu ve bir de trafik kontrol merkezi yapılacak. 
+     
+     24 saat çalışacak 
+     Radar cihazları, meteorolojik ve hidrografik algılayıcılar, hassas uydu konum belirleme sistemi, gece ve gündüz 24 saat izleme yapabilen kameralar, sayısal haberleşme cihazları, elektronik harita gösterim ve bilgi sistemi ile boğazların her köşesini tam anlamıyla kontrol altına alınacak. 
+     Sistem devreye girdikten sonra boğazlara giren bir gemi, çıkışına kadar saniye saniye uydudan alınan görüntüler, gece - gündüz çalışan kameralar, radarlar ve diğer yardımcı teçhizatla takip edilecek. Gemiler, herhangi bir tehlikede anında uyarılacak ve yönlendirilecek. Kaptanlar, boğaz ve geçiş sırasındaki her türlü meteorolojik durumla ilgili geniş bilgi sahibi olabilecek. 
+     
+     Trilyonluk proje 
+     Sistemin etüt - proje’ işini, 1 trilyon 270 milyar lira bedelle İTÜ Vakfı Savunma Araştırmaları Merkezi yaptı. ABD’li Amerikan Lockheed Martin Overseas Co. firması da elektrik - elektronik sistemlerini 20 milyon 407 bin dolara sağladı. İnşaatını ise İstanbul’da Fermanlı, Çanakkale’de Şentürkoğlu şirketleri, toplam 3 trilyon 117 milyar liraya üstlendi. 
+     
+     Sistemin yararları 
+
+</TEXT>
+</DOC>

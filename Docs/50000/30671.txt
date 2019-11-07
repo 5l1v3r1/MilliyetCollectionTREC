@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 30671 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/07/06/son/sondun23.html </URL>
+<DATE> 2001/07/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayar korsanı psikolojik tedaviye mahkum edildi 
+</HEADLINE>
+<TEXT>
+
+     İngiltere'de, 5 ülkenin İnternet sitelerine saldıran ve 26 binden fazla kredi kartı hakkında bilgileri çalan bilgisayar korsanı, 3 yıl göz hapsi, toplum hizmeti ve pisikolojik tedaviye mahkum edildi. 
+     FBI, İnternet güvenlik uzmanları ve polisin araştırmaları sonucu yakalanan 19 yaşındaki Raphael Gray, aldığı cezayı duyduktan sonra hapis cezası almadığına sevindiğini kaydetti. 
+     Mahkemede, ABD, Kanada, Tayland, Japonya ve İngiltere'nin internet sayfalarına aylarca saldırıda bulunduğunu kabul eden Gray, ''Curador'' adıyla binlerce kişinin kredi kartlarıyla ilgili detaylı bilgileri de kendi internet sayfasında yayınlamıştı. İnternet güvenliğinin yetersiz olduğunu kanıtlamak için bu suçu işlediğini belirten Gray, mahkemeden sonra gazetecilere yaptığı açıklamada, ''Tekrar yapacağım ama bu kez yasal olduğunu garantileyeceğim'' dedi. Bir İnternet güvenlik firması da Gray'in aldığı cezayı, diğer korsanları caydırmak için yeterli olmadığı gerekçesiyle eleştirdi. 
+     
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

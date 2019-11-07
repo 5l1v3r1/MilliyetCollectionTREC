@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 36046 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/08/08/son/sondun20.html </URL>
+<DATE> 2001/08/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+"Kırmızı Kod" Çin'i etkisi altına aldı 
+</HEADLINE>
+<TEXT>
+
+     ''Kırmızı Kod 2'' adlı virüsün, Çin'de yaklaşık 180 sunucuyu server etkilediği belirtilirken, bu sayının daha da artacağı tahmininde bulunuluyor. 
+     Anti virüs alanında uğraşan Pekin Yükselen Teknoloji Şirketi sözcüsü, Pazar sabahından Çarşamba öğleden sonraya kadar 180 ''Kırmızı Kod'' vakasının kendilerine bildirildiğini söyledi. Teknik destek ekiplerinin çok meşgul olduğunu, sürekli çalıştıklarını kaydeden sözcü, kendilerine telefon ya da e-postayla iletilen virüs vakalarının çoğunun Pekin'de olduğunu, geri kalanının ise Şangay, Dalian, Tiancin, Henan eyaletlerinde görüldüğünü söyledi. Bu virüsü kimin yarattığı henüz bilinmezken, Hollandalı bilgisayar korsanları bu virüsün ikinci versiyonunu kendilerinin yazdığını öne sürdüler. 
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 3718 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/24/son/soneko03.html </URL>
+<DATE> 2001/01/24/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türk Telekom'dan sabit ücretle ilgili yeni uygulama 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekom Genel Müdürlüğü, internet abonelerinden alınan aylık sabit ücret konusunda yeni bir uygulama başlattı. 
+     Kurumun bu ay başlattığı uygulama kapsamında, internet abonelerinden aylık 2.5 milyon lira olarak alınan sabit ücret, bundan böyle, abonelerin isteğine göre aylık, 3 aylık, 6 aylık veya yıllık olarak tahsil edilecek. 
+     Ücretler, internet abonelerinden aylık 2.5 milyon, 3 aylık 6 milyon, 6 aylık 10 milyon ve yıllık 15 milyon olarak alınacak. Kurum, uygulamayla abonelerin, internet ücreti ödemelerinin yapılması için belirlenen zaman aralıklarında yapılacak zamlardan etkilenmemesini hedefliyor. Bu ay 15 milyon liralık fatura gelen aboneler, bağlı bulundukları Türk Telekom müdürlüklerine başvurarak ödemelerini aylık, 3 aylık veya 6 aylık olarak yapma talebinde bulunabilecekler. Ayrıca, bu abonelere, azladan ödedikleri ücretler geri verilecek. 
+
+
+
+
+</TEXT>
+</DOC>

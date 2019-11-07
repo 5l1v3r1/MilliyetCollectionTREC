@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 25370 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/06/06/son/soneko11.html </URL>
+<DATE> 2001/06/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+BM ve Telekom devleri 'çevreci iletişim' için kolları sıvıyor 
+</HEADLINE>
+<TEXT>
+
+     Birleşmiş Milletler ile dünyanın öndgelen telekom şirketleri, iletişimin çevreye daha az zararlı kılınması amacıyla ''yeşil girişim'' başlattı. 
+     BM Çevre Programı UNEP ile AT T, British Telecommunications, Cable Wireless, Deutsche Telekom, Ericsson, Lucent Technologies, Marconi, Telcordia Technologies, Telenor şirketleriyle, Avrupa Telekomünikasyon Şebekesi Operatörleri Birliği, Global Çevresel-Sürdürülebilirlilik Girişimi GeSI sözleşmesi imzaladı. 
+     Kendi türünün ilk örneği olan GeSI sözleşmesiyle, telekomünikasyon alanında enerji tasarruflu teknolojinin kullanımı ve yaygınlaştırılması teşvik edilip, telekomünikasyon sanayiinde atıklar ve israf asgariye indirilecek. 
+     Telekomünikasyon sektörünün, video-konferanslama, Internet bankacılığı ve Internet üzerinden alışverişler yoluyla çevre kirliliğinin azaltılması ve çevrenin korunmasına büyük ölçüde katkı sağlaması öngörülüyor. Telekomünikasyonun sunduğu bu imkanlarla seyahat, ulaştırma gereklerinin azaltılıp, küresel ısınmaya neden olan atmosfere salınan sera etkili gazların hacminde de düşüş bekleniyor. 
+     GeSI üyeleri, faaliyetlerini daha fazla çevre dostu kılmak, uzak bölgelerdeki topluluklara ve kalkınmakta olan ülkelerin Internet'e erişimine yardım etmek gibi bir dizi girişimle iki yıl boyunca çalışmalar yapacak. 
+
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 3727 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/24/son/soneko12.html </URL>
+<DATE> 2001/01/24/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Turkcell, Yahoo Europe'la anlaşma imzaladı 
+</HEADLINE>
+<TEXT>
+
+     Turkcell, dünyanın önde gelen internet iletişim, e-ticaret ve medya şirketlerinden ''Yahoo Europe''ile anlaşma imzaladı. 
+     Anlaşma kapsamında, Turkcell aboneleri, Yahoo 'nun wap ortamında İngilizce olarak yayınlanan ''Yahoo Europe'' Yahoo Avrupa mobil bilgi servislerine bağlanabilecek. 
+     Turkcell'den yapılan açıklamada, Turkcell abonelerinin Yahoo 'nun wap.yahoo.co.uk adresinde bulunan e-posta, haberler, finans, spor, hava durumu, takvim, fal, arama ve Yahoo Messenger servislerini kullanabilmeleri için wap uyumlu bir cep telefonlarının olmasının yeterli olacağı belirtildi. Açıklamada, abonelerin 1 dakikalık wap bağlantısı için KDV dahil, Özel İletişim Vergisi hariç seçilen her tarifede 100 bin lira, indirimli saatler olan 21.00-08.00 arasında ise 50 bin lira ödeyeceği bildirildi. 
+     Öte yandan, Turkcell, İzmir Bornova ve Ankara Söğütözü'nde 2 yeni santralı hizmete açtı. Yapılan yeni yatırımla, Turkcell'in ülke genelinde hizmet veren santral sayısı 350'ye yükseldi. Turkcell, açtığı 2 yeni santrala ek olarak 19 ilin 128 noktasında,radyo şebekesine ait altyapı yatırımlarıyla 28 binin üzerinde ek hat kapasitesi sağladı. 
+
+
+
+
+</TEXT>
+</DOC>

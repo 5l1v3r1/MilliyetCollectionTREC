@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 42992 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/09/19/son/sondun16.html </URL>
+<DATE> 2001/09/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayar kullanıcılarının yeni korkusu "Nimda" virüsü 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayar kullanıcılarının korkulu rüyası haline gelen ve tüm dünyada 2.6 milyar dolarlık hasara yol açan ''Kırmızı Kod'' virüsünden sonra, şimdi de ''Nimda'' virüsü Çin'deki bazı bilgisayarlara bulaştı. 
+     Uzmanlar, virüsün başkent Pekin ve Şenzen kentleriyle Anhui bölgesindekilerle birlikte ülke genelinde 100 kadar bilgisayara bulaştığını belirtti. 
+     Virüsün, yurtdışından gelen mesajlardan bulaştığını söyleyen uzmanlar, Nimda'nın vereceği hasarın, Temmuz ve Ağustos aylarında bilgisayar kullanıcılarının belası olan ''Kırmızı Kod''un uğrattığı zarardan daha fazla olacağını kaydetti. 
+     ABD Adalet Bakanı John Ashcroft dün, ''Kırmızı Kod'' virüsünden de kötü ve küresel bilgisayar ağını tehdit eden yeni bir bilgisayar virüsünün olduğu uyarısında bulunmuştu. 
+     Virüs Türkiye'deki bilgisayarlara da bulamış durumda. 
+
+
+
+
+
+
+</TEXT>
+</DOC>

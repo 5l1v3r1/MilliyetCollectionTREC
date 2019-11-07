@@ -1,0 +1,43 @@
+<DOC>
+<DOCNO> 6505 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/02/11/guncel/gun15.html </URL>
+<DATE> 2001/02/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayarda tatil virüsü 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayar kullanıcıları, "Win A Holiday" e - postası, "Cellsaver.exe" ekran koruyucu ve "Sandname"den gelebilecek mesajlara karşı uyarıldı. 
+     İnternette faaliyet gösteren Brian Club'un Beyin Kulübü Moderatörü Hakan Topuzoğlu, Microsoft'un önceki gün internet kullanıcılarını uyararak, "Win A Holiday" Bir tatil kazanın başlığı altında gelen e - posta mesajının virüs taşıdığını ve bilgisayarların hard disklerinin silinmesine neden olduğunu bildirdiğini kaydetti. 
+     Bu e-postanın açılmamasını ve hemen silinmesini öneren Topuzoğlu, dosya adı "cellsaver.exe" olan, celcom ekran koruyucu programının da, çok iyi görünüşlü olmasına rağmen, aktif hale getirildikten sonra bilgisayarı yavaşlattığını bildirdi. Topuzoğlu, son günlerde "Sandname" adlı bir internet kullanıcısından "www.geocities.com vienna 6318" adresli sayfasına girilmesi yolunda mesaj alınması durumunda bu adrese girilmemesini de önererek, bu sayfanın bilgisayarı ciddi şekilde tahrip ettiğini söyledi. 
+     
+
+
+ GÜNCEL 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

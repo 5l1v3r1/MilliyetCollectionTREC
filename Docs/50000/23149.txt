@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 23149 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/05/25/son/sondun20.html </URL>
+<DATE> 2001/05/25/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+NASA "Mars'taki insan yüzü sadece bir tepe" 
+</HEADLINE>
+<TEXT>
+
+     Mars fotoğraflarında insan yüzüne benzetilen şeklin, sadece tepe olduğu bildirildi. 
+     Amerikan Ulusal Havacılık ve Uzay Dairesi NASA tarafından yapılan açıklamada, bazılarının uzaylıların yaptığı heykel olduğuna inandıkları şeklin, Mars Global Surveyor MGS uydusu tarafından çekilen resimlerin incelenmesiyle tepeden başka bir şey olmadığının anlaşıldığı belirtildi. 
+     MGS, 450 km mesafeden insan yüzünün yandan resimlerini çekti, resim geçen yılın haziranında çekilen başka bir klişeden de yararlanılarak bilgisayarda üç boyutlu hale getirildi. Elde edilen fotoğrafta, eni 2 boyu 3 km'yi bulan dikdörtgen şeklinde girinti ve çıkıntılarıyla bir tepe ortaya çıktı. 1976 yılında çekilen Mars fotoğraflarının birinde görülen şekil, birçoklarınca insan yüzü heykeline benzetiliyordu. İnsan yüzünü andıran görüntü, romanlara, televizyon tartışmalarına ve spekülasyonlara konu olmuş, Mars Görevi adlı bir de film çevrilmişti. 
+
+
+
+
+
+
+</TEXT>
+</DOC>

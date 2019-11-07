@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 8185 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/02/21/son/soneko09.html </URL>
+<DATE> 2001/02/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İMKB repo piyasasında işlemler yüzde 1,000'den gerçekleşti 
+</HEADLINE>
+<TEXT>
+
+     Hafta başında yaşanan gelişmelerin ardından, piyasalarda Türk lirasına olan talep artışına bağlı faizlerdeki yükseliş etkisini sürdürüyor. 
+     Merkez Bankası'nın repo ihalesi açmadığı ortamda, ilk işlemler TL İnterbank'ta yüzde 2,500, İMKB repo piyasasında ise yüzde 1,000'den gerçekleşti. 
+     Gecelik faizler dün TL İnterbank'ta en yüksek yüzde 2,300, İMKB repo piyasasında ise yüzde 3,000 olarak hesaplanmıştı.Bankaların vatandaşa dönük repo işlemlerinde de gecelik faiz yüzde 200'ü buldu. İki günlük reponun getirisi de yüzde 100'lerden başlıyor. Bu arada dün ihraç edilen 21 Mart 2001 vadeli bir aylık bonoda ortalama faiz, alımlar nedeniyle yüzde 141.21'e geriledi. Dünkü ihalede yıllık bileşik ortalama faiz ise yüzde 144.2 olmuştu. Bankalar hafta başında yaşanan krizin ardından Pazartesi günü Merkez Bankası'ndan doğrudan 5 milyar dolara yakın döviz alırken, dün bir aylık bono ihalesi sonrası satışa geçerek 4.3 milyar doları tekrar Merkez Bankası'na satmışlardı. 
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> 6943 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/02/14/magazin/mag06.html </URL>
+<DATE> 2001/02/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+En güzel virüs 
+</HEADLINE>
+<TEXT>
+
+     DIŞ HABERLER SERVİSİ 
+
+     İnternet, dünyadaki milyonlarca bilgisayarı altüst eden I Love You’ virüsünden sonra şimdi de AnnaKourkinova’ adlı bir virüsle sarsılıyor. Ünlü tenisçinin adını taşıyan virüs, e - mail yoluyla bilgisayardan bilgisayara bulaşıyor. Virüs, e - mail kutusuna ekli dosya olarak gönderiliyor, Anna Kournikova’ adını gören kullanıcı da ünlü tenisçinin fotoğrafının gönderildiğini düşünerek kolayca tuzağa düşüyor. Microsoft Outlook’u kullanarak hafızadaki bütün adreslere giden tahrip edici virüs’ şimdiden 100 bini aşkın bilgisayara bulaştı. 
+     
+     
+
+
+ MAGAZİN 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

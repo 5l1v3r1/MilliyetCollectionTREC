@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 11340 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/03/14/son/soneko12.html </URL>
+<DATE> 2001/03/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa dalgalı bir seyir izliyor 
+</HEADLINE>
+<TEXT>
+
+     Borsa yüksek açılışın ardından, dalgalı bir seyir izliyor. 
+     Ulusal-100 Endeks, 8,547 puan seviyesinde açılış yaptıktan sonra, en yüksek 8,591 puanı gördü. Ancak, özellikle İş Bankası C hissesindeki satışların etkisiyle piyasa satış yönüne döndü. 
+     Endeks, satışlarla 8,143 puan seviyesine kadar geriledi. Tepki alımlarıyla yeniden toparlanmaya başlayan Endeks, ilk yarım saati 8,400 puanın üzerinde geçti. 
+     İstanbul Menkul Kıymetler Borsası İMKB Tahvil ve Bono Piyasası Repo Pazarı'nda gecelik faiz oranı yüzde 82.50'den açıldı. Bankalararası TL interbankında da faizler, dünkü gibi yüzden 80'den açılış yaptı ve henüz bu piyasada da tek işlem gerçekleşti. Öte yandan, serbest döviz piyasasında döviz fiyatları da dünün üzerinde açıldı. ABD doları serbest piyasada 960-990 bin aralığında işlem görürken, Merkez Bankası döviz interbankında ilk döviz işlemleri 982 bin liradan gerçekleşti. 
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 34921 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/08/01/son/soneko10.html </URL>
+<DATE> 2001/08/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Rekabet Kurulu Turkcell'e 7 trilyon para cezası verdi 
+</HEADLINE>
+<TEXT>
+
+     Rekabet Kurulu, Turkcell'e toplam 6 trilyon 973 milyar 129 milyon lira para cezası verdi. 
+     Başarı Elektronik ve Telsim'in başvurusu üzerine görülen davada, Rekabet Kurulu kararını açıkladı. Karara göre, Turkcell İletişim Hizmetleri A.Ş'nin GSM hizmetleri piyasasında hakim durumunu kötüye kullandığını oy çokluğuyla kararlaştırdı. 
+     Kararda, Turkcell'in, düzenlediği kampanyalar çerçevesinde, cep telefonu distribütörleri ile münhasır çalışması veya bunları kendisine bağımlı konuma getirmesi suretiyle, bu distribütörlerin rakip operatörlerle benzer kampanyalar yapmasını ve sonuç olarak bu distribütörlere ait cihazların rakip operatör hattı ile satılmasını engellediğine değiniliyor. 
+     Kurul kararında, Aralık 1999 öncesinde bayileri, Aralık 1999 sonrasında ise aktivasyon merkezleri ve abone noktaları ile münhasır çalışması suretiyle, aktivasyon merkezleri ve abone noktalarının aynı zamanda distribütörlerin bayileri olmaları ve bu distribütörlerin tamamına yakınının münhasır ve bağımlı kılınmış distribütörler olmalarının birlikte sonucu olarak rakip operatörün piyasadaki faaliyetlerini zorlaştırdığına dikkat çekildi. 
+     Turkcell'in, böylece Rekabetin Korunması Hakkındaki Kanun'da belirtilen yasak eylemleri gerçekleşmiş olduğu kararı verildi. 
+     Turkcell'in gerçekleştirdiği yasak eylemler ''arasında distribütörler arasında ayrımcılık yaparak rekabeti engellemek, hakim durumunu kullanarak birlik içindeki KVK'nın piyasadaki durumunu güçlendirmek'' de yer aldı. Turkcell, soruşturma heyetine sağladığı kolaylık nedeniyle ceza hafifletilerek 6 trilyon 275 milyar 816 milyon 100 bin lira idari para cezasına çarptırıldı. 
+     Ayrıca sözleşmelerle fiyat belirlediği gerekçesiyle de 697 milyar 312 milyon 900 bin lira idari para cezası ile cezalandırılan Turkcell toplam 6 trilyon 973 milyar 129 milyon lira para cezası ödeyecek. 
+     Uygulamada fiyat tespiti anlamına gelen ve münhasır çalışmaya zorlayan eylemlerde bulunmaması için uyarılan Turkcell sim kilidi uygulamasını promosyon dışındaki cihazlara uygulayamayacak. 
+     Promosyon kapsamında sim kilit yapılan cep telefonlarının ne süre ile bu şekilde kalacağı ve bu süre bitiminde ücretsiz olarak sim kilitlerinin kaldırılacağını abonelerine bildirecek. 
+     
+
+</TEXT>
+</DOC>

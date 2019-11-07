@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 47543 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/10/18/son/soneko22.html </URL>
+<DATE> 2001/10/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Koç.Net ve Oracle'dan ASP anlaşması.... 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın en büyük e-iş çözümleri üreticisi Oracle, Türkiye'nin lider servis sağlayıcısı Koç.net ile Türkiye'deki ilk Uygulama Servis Sağlayıcılığı ASP anlaşmasını imzaladı. 
+     Anlaşma dolayısıyla düzenlenen basın toplantısında konuşan Koç.net Genel Müdürü Bülent Yıldırım, yaşanan ekonomik krize rağmen büyüdüklerini bildirdi. 
+     Koç.net'in yatırımlarına ara vermediğini ifade eden Yıldırım,'' Koç.net bugüne değil geleceğe bakıyor. En ileri ülkelerde dahi sınırlı sayıda şirketin vermekte olduğu hizmetleri Türkiye'de sunuyoruz. 
+     Oracle Türkiye ve Koç.net işbirliği ile sunulacak bu yeni hizmet sayesinde Türkiye'de faaliyet gösteren şirketler Oracle ürünlerinin güvencesi ile Koç.net hizmet kalitesine aynı anda ulaşırken, maksimum verimlilik ve performans artışı sağlayabilecekler '' şeklinde konuştu. 
+     Oracle Türkiye Genel Müdürü Atilla Kıral ise Koç.net'in ASP hizmetleri alanındaki yatırımlarının gelecek için atılmış önemli adımlar olduğunu kaydetti. 
+     Şirketlerin sadece kendi faaliyet alanına odaklanmasına yardımcı olmak ve verimliliği artırmak için bu tür bir işbirliği yapıldığını vurgulayan Kıral, şirketlerin ihtiyacı olan kurumsal yazılımların tamamını satın alarak, kendi çözümünü üretmesinin getirdiği mali yükü hafifletmek amacı ile oluşturulan ASP uygulamasının, şirketlere ciddi anlamda mali destek sağladığının altını çizdi. 
+     Oracle ve Koç.net'in işbirliği kapsamında, gerekli donanım, network altyapısı, internet erişimi ve ilgili servisler Koç.net tarafından, Oracle veritabanı ve ilgili servisler Oracle Türkiye tarafından sağlanacak. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 23358 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/05/26/son/soneko02.html </URL>
+<DATE> 2001/05/26/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones ve Nasdaq düştü 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası'nda Dow Jones ve Nasdaq endeksleri haftayı düşüşle kapattı. 
+     Borsanın temel göstergesi Dow Jones endeksi, 117.07 puan düşerek, haftayı 11,005.37 puandan tamamladı. 
+     Teknoloji hisse senetlerinin izlendiği Nasdaq endeksi ise 30.98 puan kayıpla 2,251.04 puana geriledi. 
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

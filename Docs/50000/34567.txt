@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 34567 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/07/30/son/soneko10.html </URL>
+<DATE> 2001/07/30/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa 1. seansta 119 puan yükseldi 
+</HEADLINE>
+<TEXT>
+
+     İMKB Bileşik Endeksi 1. seansta, 119.59 puan artarak, 9,884.69 puandan kapandı. Hisse senetleri, ortalama yüzde 1.22 oranında değer kazandı. 
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 43018 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/09/19/son/soneko01.html </URL>
+<DATE> 2001/09/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York ve Londra borsası düştü 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası'nda Dow Jones ve Nasdaq endeksleri düştü. 
+     Borsanın temel göstergesi Dow Jones, 17.30 puan düşerek günü 8,903.40 puandan kapattı. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq da 24.29 puan düşerek 1,555.26 puandan kapandı. 
+     Londra Borsası da, günü düşüşle tamamladı. FTSE endeksi 50.2 puan düşerek, 4,848.7 puandan kapandı. 
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

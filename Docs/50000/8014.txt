@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 8014 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/02/20/son/soneko08.html </URL>
+<DATE> 2001/02/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ay-Cell'in altyapısını Ericsson ile Siemens yapacak 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekom'a bağlı olarak faaliyet gösterecek Türkiye'nin dördüncü GSM şebekesi Ay-Cell'in altyapısı için açılan ihaleyi Ericsson ile Sıemens kazandı. 
+     Yedi ille sınırlı olan 103 milyon dolarlık proje kapsamında Ericsson baz istasyonlarını, Siemens ise santralları kuracak. Türk Telekom, 4 ay içinde sonuçlandıramıyarak iptal ettiği ilk ihalenin ardından açtığı ikinci ihaleyi jet hızıyla tamamladı. Cumartesi ve pazar günleri dahil dört gün gibi kısa bir süre içinde sonuçlandırılan GSM 1800 altyapı ihalesini Ericsson ve Sıemens kazandı. Karar uyarınca, Türk Telekom'a bağlı olarak faaliyet gösterecek cep telefonu operatörünün baz istasyonlarını Ericsson, santrallarını ise Sıemens'in kuracak.Telekom, diğer illerde de GSM operatörleriyle roaming yaparak, potansiyel abonelerine "alo" dedirtecek. Sözde Ermeni soykırım savlarını yasalaştıran Fransa'ya karşı uygulanan yaptırımlar nedeniyle Alcatel'in dışlandığı ikinci ihaleye NETAŞ, Sıemens, Ericsson ve Nokia teklif vermişlerdi. 
+     İhaleyi kazanan firmalar kısa sürede Ankara, İstanbul, İzmir, Adana, Antalya, Bursa ve Muğla'da çalışmalara başlayacaklar.Altyapı ihalesinin şartnamelerini 5 Şubat'ta dağıtmaya başlayan Telekom, 15 Şubat'ta firmalardan tekliflerini aldı. Telekom, 4 gün gibi kısa bir sürede değerlendirmesini tamamlayarak, ihaleyi sonuçlandırdı.İhaleyi kazanan Ericsson'un, ihaleyi kazanabilmek için fiyatı önemli ölçüde kırdığı belirtildi. Telekom'un ihalesini alabilmek için ilk ihaleye ülkücü olarak bilinen Yunus Doğan'ın sahibi olduğu Atlas Holding'le giren Ericsson, ikinci ihalede istediği sonuca ulaştı. Turkcell'e altyapı hizmeti sunan Ericsson, İş-Tim'in altyapısını da Siemens'le birlikte kuruyor. Son olarak Türk Telekom ihalesini de kazanan Ericsson, böylece GSM pazarında Telsim dışında tüm firmaların altyapısına damgasını vurarak, piyasada altyapı açısından "tekel" konuma geldi. İhale'nin 103 milyon dolar düzeyinde bir mali boyut taşığıdı belirtiliyor. 
+
+
+
+
+</TEXT>
+</DOC>

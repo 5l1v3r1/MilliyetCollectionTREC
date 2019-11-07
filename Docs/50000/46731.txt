@@ -1,0 +1,47 @@
+<DOC>
+<DOCNO> 46731 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/10/14/ekonomi/eko01.html </URL>
+<DATE> 2001/10/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+'GAP'ı izle parayı gözle 
+</HEADLINE>
+<TEXT>
+
+11 Eylül saldırısı ertesinde fiyatlarda oluşan gap'ler boşluklar borsada yeni bir beklenti oluşturmuş durumda 
+     Songül HATISARU 
+
+     İMKB'de yaygın olarak bilinen bir teknik analiz formasyonu gap fiyat boşlukları şu aralar borsada tekrar gündemde. 11 Eylül saldırısı ertesinde fiyatlarda oluşan gap'ler yeni bir beklenti oluşturmuş durumda. Aslında oluşan her fiyat boşluğunun mutlaka kapanacağı beklentisi yanlış olmasına rağmen, genelde bu boşlukların kapanması, fiyatlarda gap'ler oluştuğu zaman, beklentininde doğmasına neden oluyor. Peki gap ne demektir, neyi ifade etmektedir Boşluk esas olarak hisse senedinin el değiştirmediği fiyat alanınını ifade etmektedir. 
+     Boşluklar, bir hisse senedinde bir gün içinde oluşan en yüksek fiyatın bir önceki günün en düşük fiyatının altında gerçekleşmesi veya tam tersi olarak en düşük fiyatın bir önceki günün en yüksek fiyatının üstünde olması durumunda gerçekleşiyor. Örnek olarak 11 Eylül 2001 tarihinde dolar bazındaki İMKB 100 Endeksi en düşük 0.64 sent seviyesini görmüşken bir sonraki işgünü olan 13 Eylül 2001'de en yüksek 0.63 seviyesine ulaşabildi. Arada oluşan ve işlem gerçekleşmeyen bu fiyat farkının olduğu bölgenin ismi gap olup, teknik analizde tam olarak yeri olmamasına karşılık bu farkın ilerleyen günlerde kapanacağı yönünde yaygın bir inanış bulunuyor. Yine İMKB 100 örneğine dönecek olursak, 11 Ekim 2001 itibariyle oluşan kapanış fiyatının 11 Eylül seviyesinin yüzde 16 altında olması, İMKB 100'ün yüzde 16'lık bir fiyat performansı artışı gerçekleştirerek bu boşluğu dolduracağı varsayılıyor. 
+     Teknik analizde çeşitli fiyat formasyonları sonunda bu türlü fiyat boşluklarının olduğu görülmekte ve oluşan bu boşlukların verdiği sinyaller farklı şekillerde analiz edilebilmektedir. Ancak 11 Eylül tarihinde oluşan boşluklar ise piyasalarda meydana gelen ve fiyatları etkileyen önemli bir gelişme neticesinde oluştuğu için bir teknik analiz formasyonu içinde gerçekleşmemiş olağan boşluklardan kabul edilebilir. 
+     
+     Tablo neyi ifade ediyor 
+     İlk kolonda hisselerin 11 Eylül tarihli kapanışları yer aldı. İkinci kolonda yer alan yüzde gap kolonunu ise 11 Eylül - 13 Eylül tarihleri arasında hisselerin işlem görmediği fiyat aralığının 11 Eylül tarihli en düşük fiyata bölünmesiyle elde edildi. Yüzde gap'i yüksek olan şirketlerin fiyat boşluğu daha yüksek gerçekleşti. Gap'in büyüklüğü düşüşün sertliğini de ifade ediyor. Üçüncü kolonda ise hisselerin 11 Ekim 2001 tarihi itibariyle 11 Eylül 2001 fiyatlarının yüzde olarak ne kadar altında olduğu görülüyor. Borsadaki yaygın beklenti fiyatların son kolonda oluşan düşüş kadar yükseleceği yönündedir. Ancak genel olarak boşluklar kapanmakla birlikte bunun teknik analizde kesinlikle gerçekleşeceği yönünde bir veri bulunmuyor. 
+     
+
+
+
+ EKONOMİ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

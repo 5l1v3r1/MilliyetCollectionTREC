@@ -1,0 +1,58 @@
+<DOC>
+<DOCNO> 9664 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/03/02/yasam/yas04.html </URL>
+<DATE> 2001/03/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Airbag’ gibi cep telefonu 
+</HEADLINE>
+<TEXT>
+
+Almanya’da, arabaya takılacak ve kaza anında yerinizi birkaç saniyede bildirecek telefon geliştirildi GSM Koruyucu Melek 
+     Alman Aerzte Zeitung gazetesi, birçok kazazedenin gecikme’ nedeniyle can vermesini önleyecek müthiş bir buluş duyurdu. 
+     Gazeteye göre, bu müthiş buluşu, Magdeburg kentindeki Otto von Guericke Üniversitesi’nden 3 öğrenci geliştirdi. Öğrencilerin GSM Koruyucu Melek’ ismini verdiği müthiş buluş, akıllı bir cep telefonundan’ ibaret. Bu cep telefonu, aynı bildiğimiz cep telefonları gibi arabalara araç kitleri’ ile takılıyor ve anında devreye giriyor. Herhangi bir kaza anında, GSM Koruyucu Melek’, otomatik olarak derhal yardım sinyali göndermeye başlıyor. 
+     Böylece kazazedeler kendinden geçse bile, Yardım edin’ sinyali GSM operatörünün merkezine ulaşıyor. 
+     Bu andan itibaren devreye merkezdeki bilgisayar giriyor. Sinyalin, kaza yerine yakın değişik istasyonlara ulaşım hızını değerlendiren bilgisayar, cep telefonunun ve dolayısıyla kazanın yerini 5 saniyede belirliyor. 
+     
+     5 saniyede tamam 
+     Eğer cep telefonu kullanıcısı, internet üzerinden daha önce sağlık bilgilerini kan grubu gibi yüklemişse, yardım sinyaliyle birlikte bu bilgiler de merkeze ulaşıyor. 
+     Hatta, doğrudan bağlantı ile kazazedeyle konuşulabiliyor. Daha sonra merkez, kaza yeri ve diğer bilgileri, kaza yerine en yakın sağlık ekipleri ve güvenlik birimlerine bildiriyor. Böylece, birçok can alan geç müdahale önleniyor. 
+     
+     'Koruyucu Melek' nasıl çalışıyor 
+     1 - GSM Koruyucu Melek, diğer cep telefonları gibi araçlara 'kitle' takılacak. Ve motor çalıştığı anda devreye girecek. 
+     2 - Sistem, kaza anında aynı hava yastıkları gibi derhal devreye girerek 'Acil durum' sinyali göndermeye başlayacak. 
+     3 - Merkezdeki bilgisayar, bu sinyallerin istasyonlara varış sürelerinden yola çıkarak kaza yerini sadece 5 saniyede tam olarak belirleyecek. 
+     4 - Bu bilgiler yine bilgisayar aracılığı ile kaza yerine en kısa sürede ulaşabilecek sağlık ve güvenlik birimlerine anında bildirilecek. 
+     5 - Böylece sağlık ekipleri ve güvenlik birimleri, kazadan yaklaşık 30 saniye sonra olay yerine doğru yola çıkmış olacak. 
+     
+     
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 18047 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/04/25/son/sontur10.html </URL>
+<DATE> 2001/04/25/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Aman yarın dikkatli olun, bilgisayarlarda ikinci Çernobil alarmı... 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayarların en büyük düşmanı olan ve bulaştığı bilgisayarı kullanılmaz hale getiren Çernobil virüsünün, Çernobil faciasının yıldönümü olan yarın yeniden aktif hale gelebileceği bildirildi. 
+     İnternette yer alan bir haberde, bilişim dünyasında Chernobyl, PE CIH, Win95.CIH, Win32.CIH, W95 CIH.1003, CIH.Spacefiller gibi adlarla anılan ve bugüne kadar 250 milyon dolarlık zarar veren virüsün bu geceyarısından itibaren aktif hale gelebileceğine dikkat çekilerek, bilgisayar kullanıcılarının önlem alması önerildi. 
+     http www.symantec.com avcenter venc data kill cih.html internet adresinden virüs ile ilgili ayrıntılı bilgi ve anti-virüs yazılımı indirilebiliyor. 
+
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 20711 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/05/11/son/soneko20.html </URL>
+<DATE> 2001/05/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Rekabet Kurulu'ndan Telekom'a "internet soruşturması" 
+</HEADLINE>
+<TEXT>
+
+     Rekabet Kurulu, "internet hizmeti sektöründe hakim durumunu kötüye kullandığı" iddiaları nedeniyle Türk Telekomünikasyon A.Ş hakkında soruşturma açtı. İddiaların ciddiliği nedeniyle önaraştırma yapmayan Kurul, Telekom'u ihlal kapsamına giren eylemlerine son vermesi konusunda da uyardı. 
+     İnternet servis sağlayıcılarına İSS altyapı hizmeti veren Telekom'un, aylık erişim ücretlerini maliyetlerinin altında belirleyerek, İSS'lerin kendi altyapılarını oluşturmak için talep ettiği hatları uzun süredir vermediği iddia ediliyor. 
+     Ayrıca Kablo tv üzerinden internet erişimini sunmak isteyen İSS'lere en fazla 64 KBYTE-SEC kapasitesi vererek, kendi servis sağlayıcısı TTNET'e ise bunun yaklaşık 5 katı kapasite tesis ettiği yolunda basında çıkan haberler ve raportörlerin incelemesi de, soruşturma açılmasında etkili oldu. 
+     Türkiye İnternet Servis Sağlayıcıları Derneği TISSAD ve çeşitli internet hizmetleri şirketleri de Telekom hakkında şikayette bulundu. 
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

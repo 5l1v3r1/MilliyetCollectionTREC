@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 35693 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/08/06/son/sondun05.html </URL>
+<DATE> 2001/08/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+"Kırmızı Kod"dan daha yıkıcısı geliyor... 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayar güvenlik uzmanları, geçen hafta dünyadaki çok sayıda bilgisayara bulaşan ''Kırmızı Kod'' adlı virüse benzeyen, ancak daha yıkıcı yeni bir virüs uyarısında bulundular. 
+     ''Kırmızı Kod 2'' adı verilen yeni virüsün, ilkinden 6 kat daha hızlı yayıldığı, ancak Microsoft'a ait bazı işletim sistemleri için güvenlik yama programının indirilmesi halinde etkisiz hale getirilebildiği kaydedildi. 
+     ''Kırmızı Kod 2''nin önceki virüs gibi, ağ üzerinde aynı internet bağlantısını kullanan bilgisayarlara saldırdığı belirtildi. Yeni virüsün Web sitelerini tahrif etmek ve kendini yaymak yerine, virüsün bulaştığı bilgisayarlarda açık kapı bıraktığı bildirildi. TruSecure Corp. bilgisayar güvenlik şirketinden bir yetkili, ''Kırmızı Kod 2''nin, bilgisayarlara ''Truva Atı'' adı verilen başka bir virüs yerleştirdiğini ve bu sayede başka kullanıcıların virüslü bilgisayara girmelerine imkan tanıdığını söyledi. Yetkili, bu virüsün, önceden yama programı indirilmiş bilgisayarları etkilemediğini ve ''Kırmızı Kod'' virüsüne karşı önceden önlem alanların endişe etmelerini gerektirecek bir durum olmadığını belirtti. ''Kırmızı Kod 2'' virüsünün geçen Cumartesi gününden bu yana faaliyette olduğunu belirten uzmanlar, bu virüsün ismine rağmen ''Kırmızı Kod'' viüsünün yeni versiyonu olmadığını, tamamen yeni bir virüs olduğunu belirtiyorlar. 
+     Yeni virüsün, ''Kırmızı Kod'' gibi izinin bulunmasının zor olduğunu, bu yüzden ne kadar bilgisayarın etkilendiğini söylemenin mümkün olmadığı kaydedildi. Microsoft Windows NT ve 2000 işletim sistemleri kullananların, Microsoft'un güvenlik yama programını şirketin ''www.microsoft.com technet security bulletin MS01-033. asp'' adlı web sitesinden yükleyebilecekleri kaydedildi. Windows 95, 98 ve Me'nin bu virüse açık olmadığı belirtildi. 
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

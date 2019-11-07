@@ -1,0 +1,44 @@
+<DOC>
+<DOCNO> 36348 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/08/10/yasam/yas03.html </URL>
+<DATE> 2001/08/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Robottan al sanal haberi 
+</HEADLINE>
+<TEXT>
+
+Şimdilik pek mümkün görünmüyor ama yakında yapay zek ’ sayesinde gazetecilik robotların eline geçecek 
+     DIŞ HABERLER SERVİSİ 
+
+     Birçok alanda çalışanları işinden eden’ robotlar, yapay zeka sayesinde şimdi de gazetecilik ve ticaret alanında boy göstermeye’ çalışıyor. 
+     Guardian gazetesinde yayımlanan bir haberde, gelecekte gazete muhabirliğinin insanlar tarafından değil, gerekli dijital yazılımlara sahip robotlar tarafından yapılabileceği öne sürüldü. 
+     Halen kullanılmakta olan author’ yazar adlı akıllı sistem, zaten peri masalları’ yazmayı başarmıştı. Kuzey Carolina Devlet Üniversitesi’nden Charles Callaway ve James Lester adlı araştırmacılar Author’un, şu an kullanılmakta olan metinden bilgi çıkarabilen’ teknolojiyle birleştirilerek inandırıcı ve güçlü haberler yazımında da kullanılabileceğini öne sürüyorlar. 
+     Buna göre yeni Author’, ajansları tarayarak haberin çatısını oluşturacak ve kişi, mek n ve olay zincirlerini gramatik olarak doğru cümleler halinde bütünleyerek haber yazabilecek. 
+     
+     Ticarette de öndeler 
+     Öte yandan, IBM tarafından yapılan bir testte insanlar ve robotlar, ticaret dalında birbirleriyle yarıştı. New Scientist dergisinin haberine göre, bot’ adı verilen robotlarla, insanlar altın ve domuz eti alım satımı yaptılar. Sonuçta robotlar insanlardan yüzde 7 daha fazla nakit kazanmayı başardılar. Ancak deneyde kullanılan insanların ticaret alanında profesyonel olmamaları robotlara avantaj sağladı. 
+     
+
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

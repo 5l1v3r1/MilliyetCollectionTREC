@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 9207 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/02/27/son/soneko01.html </URL>
+<DATE> 2001/02/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası'nda Dow Jones Endeksi ve Nasdaq Endeksi günü yükselişle kapattı. 
+     Borsanın temel göstergesi Dow Jones Endeksi, 200.63 puan yükselerek günü 10,642.53 puandan kapattı. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq ise 45.99 puan yükselerek, günü 2.308,50 puandan kapattı. 
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 16550 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/04/16/son/soneko10.html </URL>
+<DATE> 2001/04/16/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa 1. seansın ilk yarısında yükseldi 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası'nda İMKB Ulusal 100 Endeksi, 1. seansın ilk yarısında yükseldi. 
+     Endeks seansın ilk saatini, Cuma günkü kapanışa göre 150.64 puan artarak 9,090.88 puandan geçti. Hisse senetleri ortalama yüzde 1.68 oranında değer kazandı. 
+     Seansın ilk saatinde 235 hisse senedinin fiyatı arttı, 17 hisse düştü, 39'u ise aynı kaldı. İlk saatte işlem hacmi, 112 trilyon 154 milyar 744 milyon lira olarak belirlendi. 
+
+
+
+
+</TEXT>
+</DOC>

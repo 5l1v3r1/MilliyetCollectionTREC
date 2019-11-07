@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 8389 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/02/22/son/soneko24.html </URL>
+<DATE> 2001/02/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Repo faizleri yüzde 3 binden işlem görüyor 
+</HEADLINE>
+<TEXT>
+
+     İMKB Repo Piyasası'nda gecelik faizler, yüzde 3000'den işlem görüyor. 
+     Repo piyasasında gecelik faizler minumum yüzde 2000, maksimum 3000 düzeyinde gerçekleşti. En son repo işlemi yüzde 3000'den işlem görürken, ortalama faiz yüzde 2,367.91 oldu. 
+     İMKB Tahvil ve Bono Piyasası'nda en çok işlem gören kağıtlardan 21 Mart tarihli, bugün valörlü bononun bileşik getirisi yüzde 153.63, 23 Mayıs tarihli bugün valörlü bononun bileşik getirisi yüzde 173.98, 11 Temmuz bugün valörlü bononun bileşik getirisi ise yüzde 153.26 olarak gerçekleşti. 
+     Bankalararası TL interbankında ise faizler minumum yüzde 150, maksimum yüzde 3000 aralığında seyretti. Ortalama faiz yüzde 2,287 oldu. 
+
+
+
+
+</TEXT>
+</DOC>

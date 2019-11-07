@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 12381 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/03/21/son/soneko01.html </URL>
+<DATE> 2001/03/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düşüşle kapandı 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası günü düşüşle kapattı. 
+     Borsanın kapanışında Dow Jones Endeksi 238.35 puan azalışla 9,720.76 puana inerek son iki yılın en düşük seviyesinde kapandı. 
+     Teknoloji şirketlerinin hisse senetlerini izleyen Nasdaq Endeksi de 93.72 puan azalarak 1,857.46 puana indi. Bu puan da söz konusu endeksin 1999 Kasım ayından beri aldığı en düşük düzeyi oluşturuyor. Borsanın düşüşünde, yatırımcıların ABD Merkez Bankası'nın faiz hadlerinde yaptığı indirimi yetersiz bulması etkili oldu. ABD Merkez Bankası'nın faiz hadlerini yarım puan indirmesi yatırımcıları tatmin etmedi. Yatırımcılar en az 0.75 puanlık indirim bekliyordu. 
+
+
+
+
+</TEXT>
+</DOC>

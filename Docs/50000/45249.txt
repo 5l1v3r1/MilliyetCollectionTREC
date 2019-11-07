@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 45249 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/10/05/son/soneko01.html </URL>
+<DATE> 2001/10/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası'nda Dow Jones düştü, Nasdaq yükseldi 
+</HEADLINE>
+<TEXT>
+
+     ABD'nin New York Wall Street Borsası, yükselişle açıldığı günü az düşüşle kapadı. 
+     Dow Jones Endeksi, 62.90 puan düşüşle yüzde 0.69 günün son seansını 9,060.88 puandan kapattı. 
+     Teknoloji şirketlerinin endeksi Nasdaq Birleşik Endeksi de 16.71 puan artışla yüzde 1.06 1,597.52 puandan kapandı. Nasdaq üç gün üst üste yükseldi ve 10 Eylül'den bu yana en yüksek çizgisine geldi. 
+     New York'taki Dünya Ticaret Merkezi-İkiz Gökdelenleri ve savunma bakanlığı Pentagon'a 11 Eylül'de indirilen tarihin en geniş çaplı terör darbesini takiben bir pafta içinde yüksek senetler Wall Street'te bin 369 puan kaybetti ve sonradan 825 puan toparlanlanmayı yüzde 60 yükseliş başardı. 
+     Dow Jones endeksi, perşembenin ilk işlem saatinde, 22.07 puanlık artışla 9,145.85 puana yükseldi. Nasdaq Bileşik Endeksi de ilk seansta 23.03 puanlık artışla 1,603.84 puana ulaştı. 
+     Borsanın yükselmesinde, dünyanın önde gelen bilgisayar yapımcısı Dell şirketinin üç aylık hedefinin tuttuğuna ilişkin haber belirleyici oldu. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

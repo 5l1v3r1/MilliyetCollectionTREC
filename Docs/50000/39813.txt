@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 39813 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/08/31/son/sondun01.html </URL>
+<DATE> 2001/08/31/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+'Kırmızı Kod' virüsünün anavatanı ÇİN'miş... 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayar kullanıcılarının başını ağrıtan ve dünya genelinde 2.4 milyar dolarlık hasara yol açan ''Kırmızı Kod'' adlı virüsün çıkış yeri Çin olarak belirlendi. 
+     ABD Kongresi Araştırma Merkezi'ne ifade veren Genel Muhasebe Ofisi'nde görevli teknoloji uzmanı Keith Rhodes, ''Virüsün doğum yeri, Çin'in güneyindeki ülkenin en zengin bölgesi olan Guangdong'da bir üniversite olarak saptandı'' dedi. 
+     Rhodes ve yardımcıları, virüsün Çin kökeni hakkında ayrıntılı bilgi vermedi. 
+     Kırmızı Kod, ABD Federal Soruşturma Bürosu'nun FBI uyarısının hemen ardından 19 Temmuz'da, sadece 9 saatte yaklaşık 250 bin sisteme bulaşmıştı. 
+
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 5150 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/02/02/son/sondun01.html </URL>
+<DATE> 2001/02/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dünya sallanıyor, bu kez Japonya'da deprem 
+</HEADLINE>
+<TEXT>
+
+     Japonya'da, Richter ölçeğine göre 4.4 büyüklüğünde bir deprem meydana geldi. 
+     Japonya'daki Meteoroloji Ajansı tarafından yapılan açıklamada, yerel saatle 08.10'da TSİ 01.10 meydana gelen depremin merkez üssünün, Kanagawa eyaletinin batı kısmında, yerin 10 kilometre altında olduğu belirtildi. 
+     Polis yetkilileri, Japonya'nın önemli liman kenti Yokohama ve Otsuki kenti çevresinde de hissedilen depremde yaralanma ya da hasar meydana geldiği hakkında bir haber ulaşmadığını kaydettiler. 
+
+
+
+
+</TEXT>
+</DOC>

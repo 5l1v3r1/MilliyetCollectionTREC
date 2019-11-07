@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 38121 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/08/20/son/sontur05.html </URL>
+<DATE> 2001/08/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Aycell bu hafta faaliyete geçiyor... Cepte ucuzluk beklentisi 
+</HEADLINE>
+<TEXT>
+
+     Türkiye'nin dördüncü GSM operatörü "0505 Aycell", çarşamba günü teknik olarak faaliyete geçiyor. 
+     Aycell'in, aboneliği cazip hale getirecek düşük görüşme ücretleriyle GSM pazarında Aria ile başlayan rekabetin yarattığı ucuzlamanın artarak sürmesi bekleniyor. 
+     Aycell yöneticilerinden edinilen bilgiye göre, GSM 1800 bandında hizmet verecek olan Aycell'in tüm teknik çalışmaları tamamlandı. Şirket, teknik olarak faaliyete geçeceği tarihi izleyen 15 günün sonunda abone kayıtlarına başlayacak. Aycell, ulusal dolaşım anlaşması roaming için Turkcell ve Telsim ile yürütülen görüşmelerden şu ana değin sonuç alınamaması nedeniyle başlangıçta yalnızca aralarında Ankara, İstanbul ve İzmir'in de bulunduğu 7 büyük ilde "alo" dedirtecek. 
+     Aycell'le birlikte GSM pazarında ikisi 900, ikisi de 1800 bandından olmak üzere toplam 4 operatörün faaliyet göstereceğine dikkat çeken yetkililer, böylece Aria'nın pazara girmesiyle başlayan rekabetle ortaya çıkan görüşme ücretlerindeki düşüşün hızlanacağına işaret ettiler. 
+     Aria gibi Aycell'in de abonelerinden sabit ücret almayacağı belirtiliyor. 
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

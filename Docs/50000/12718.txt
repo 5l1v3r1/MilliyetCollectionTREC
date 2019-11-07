@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 12718 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/03/23/son/soneko01.html </URL>
+<DATE> 2001/03/23/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsasında Dow Jones düştü, Nasdaq yükseldi 
+</HEADLINE>
+<TEXT>
+
+     New York borsasında Dow Jones Endeksi düşerken, Nasdaq Endeksi yükseldi. 
+     Borsanın temel göstergesi Dow Jones Endeksi 97.52 puan düşerek, günü 9.389,48 puandan kapattı. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq Endeksi ise 67.47 puan artışla 1.897,72 puana çıktı. 
+     Ayrıca Londra Borsası düşüşle kapandı. Borsanın temel göstergesi FTSE 100 Endeksi 225,9 puan düşerek günü 5.314,8 puandan kapattı. 
+
+
+
+
+</TEXT>
+</DOC>

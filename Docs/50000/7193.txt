@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 7193 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/02/15/son/sondun05.html </URL>
+<DATE> 2001/02/15/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tayland'da aşıklar GSM şebekesini çöketti 
+</HEADLINE>
+<TEXT>
+
+     Tayland'da dün Sevgililer Günü nedeniyle sevgililerine romantik mesajlar geçmek üzere onbinlerce çiftin cep telefonuna sarılması, ülkenin en büyük GSM şebekesini çökertti. 
+     AIS şirketi, cep telefonu aracılığıyla 1 saat içinde 100 binden fazla mesaj geçilmesine sistemin dayanamadığını açıkladı. Saatte 72 bin kısa mesaj servisi SMS kapasitesi bulunan AIS'in sisteminin, dün tam anlamıyla iptal olduğu belirtildi. Yetkililer, Sevgililer Günü'nde cep telefonlarından gönderilen mesajların sayısının Yılbaşı'nda gönderilenlerin 2 katı olduğunu belirtiyor. Tayland cep telefonu pazarının yüzde 52'sine sahip olan AIS, 1.9 milyon aboneye sahip. 
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 43022 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/09/19/son/soneko05.html </URL>
+<DATE> 2001/09/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD'ye yapılan saldırılar Windows XP'yi de vurdu 
+</HEADLINE>
+<TEXT>
+
+     ABD'de geçen hafta düzenlenen terörist saldırıların, 25 Ekim'de resmen satışa sunulacak olan, Microsoft'un en son bilgisayar işletim sistemi Windows-XP satışlarını bile etkileyeceği ortaya çıktı. 
+     Uzmanlar, ''son olaylar karşısında azalan tüketici güveni nedeniyle Windows-XP programının, öngörüldüğü biçimde bilgisayar satışlarını artırmayacağı'' tahmininde bulundular. 
+     2-3 yıldan eski bilgisayarların Windows-XP işletim sistemini çalıştıracak özelliklere sahip olmamaları yüzünden, Windows-XP kullanmak isteyenlerin yeni bilgisayar satın almaları gerekiyor. Üreticiler, bu gerekçeyle, bir süredir durgun giden satışların Windows-XP'nin piyasaya çıkmasıyla yeniden canlanmasını bekliyorlardı. 
+     Ancak piyasa analistleri, 11 Eylül'de yapılan terörist saldırılardan sonra, herkes gibi Microsoft'un da planlarını değiştirmesi gerekeceğini öne sürüyorlar. Bu kaynaklar, tüketicinin güveninin yediği darbe ve geleceğe yönelik belirsizlikler yüzünden tüketicilerin yeni bilgisayar alımına büyük paralar ayırma yoluna gitmeyebileceği görüşünü savunuyorlar. 
+     Konuyla ilgili olarak bir araştırma notu yayımlayan ''Credit Suisse First Boston Bankası'' uzmanları, Windows-XP programının piyasaya sürülmesinin, tahmin edilenden daha az şaşaalı olacağı kanısındayız'' tahmininde bulundular. Kevin McCarthy adlı uzman tarafından kaleme alınan notta, Windows-XP'yi kullanabilmek için tüketicilerin en az yüzde 70'inin, bilgisayarlarının kapasitesini geliştirmeleri gerektiği kaydedildi. McCarthy, ''mevcut koşullar altında tüketicilerin büyük çoğunluğu böyle bir karar almayı erteleyebilir'' dedi. 
+     Windows-XP işletim programı 25 Ekim'de piyasaya çıkacak. Microsoft, yeni sistemi lanse etmek için 200 milyon dolarlık bir tanıtım kampanyası planlamış bulunuyor. ''Credit Suisse'' analistleri, ''Windows-XP piyasaya çıktıktan sonra, yılın 4. çeyreğine ait satışlarda yüzde 10 dolayında artış görülmesinin normal kabul edilebileceğini, ancak daha fazlasının beklenmemesi gerektiğini'' belirttiler. 
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 10624 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/03/09/son/soneko09.html </URL>
+<DATE> 2001/03/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Döviz fiyatları ve repo oranlarında düşüş 
+</HEADLINE>
+<TEXT>
+
+     Para piyasalarında döviz fiyatları ve repo oranları, bayram öncesine göre düşüş gösterdi. 
+     Dolar fiyatındaki gerileme 30 bin liraya ulaşırken, repo faizlerindeki düşüş 31.40 puan oldu. 
+     ABD Doları Kapalıçarşı'daki döviz büfelerinde 886-900 bin lira, Ayaklı Borsa'da 880-890 bin liradan işlem görüyor. Mark ise her iki piyasada da 420-430 bin seviyesinde alıcı buluyor. 2 Mart Cuma günü dolar 900-920 bin, mark da 430-440 bin lira fiyat aralıklarında satılmıştı. 
+     Öte yandan, İstanbul Menkul Kıymetler Borsası'nın İMKB bugün tek açık piyasası olan Tahvil ve Bono Piyasası Repo Pazarı'nda üç gecelik faiz oranı ortalama yüzde 80.46 olarak gerçekleşti. İMKB Tahvil ve Bono Piyasası verilerine göre, Repo Pazarı'nda en düşük oran yüzde 80, en yüksek oran ise yüzde 81.5 oldu. Bu pazarda 202 milyar liralık işlem hacmi kaydedildi. Repo Pazarı'nda bayram öncesi 2 Mart'ta 7 gecelik faiz ortalama yüzde 89.72, 10 gecelik faizler ortalama yüzde 111.86 düzeyinde gerçekleşmişti. 
+     Tahvil ve Bono Piyasası'nda 11 Temmuz vadeli, bugün valörlü bononun basit getirisi yüzde 108.32, bileşik getirisi de yüzde 151.52 olarak hesaplandı. 2 Mart'ta bu oran, yüzde 159.26 olmuştu. 
+
+
+
+
+</TEXT>
+</DOC>

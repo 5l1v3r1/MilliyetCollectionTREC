@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 38086 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/08/20/son/soneko19.html </URL>
+<DATE> 2001/08/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İş Bankası bilançosuyla ilgili tartışmalara cevap verdi.. 
+</HEADLINE>
+<TEXT>
+
+     İş Bankası, Türkiye Bankalar Birliği'ne 1 milyon 20 bin lira döviz kuru esas alınarak hazırlanmış herhangi bir mali tablo görderilmediğini bildirdi. 
+     İş Bankası'ndan, bir gazetede yer alan ''Hayali Bilanço Gerçek Yazı'' başlıklı yazıya ilişkin olarak İMKB'ye gönderilen açıklamada, dönem sonlarında bankaların yabancı para bilanço kalemlerini kendilerinin gişe alış kurları ile değerleme imkanına sahip bulunduğu, bankaların bu değerleme işlemlerinde kullandığı kurların değerleme tarihinde gişelerinde ilan ettikleri kur olduğu ve konjonktürel nedenlerden dolayı değiştirilebildiği belirtildi. 
+     Açıklamada, bu açıdan bakıldığında bankanın İMKB'ye göndererek kamuoyuna açıkladığı 31 Mart 2001 tarihli bilançosundaki yabancı para kıymetlerinin, ilgili mevzuat çerçevesinde değerlendiği, kullanılan 861 bin liralık değerleme kurunun da bu tarihe ilişkin bankanın dolar gişe alış kuru olduğu kaydedildi. 
+     Ayrıca her bankanın uygulayacağı kuru hiç bir kısıtlama olmaksızın kendisinin belirleyebildiğine işaret edilen açıklamada, şu görüşlere yer verildi 
+     ''Nitekim 31 Mart 2001 tarihi itibariyle İMKB'de işlem gören diğer bankaların kullanmış oldukları değerleme kurları incelendiğinde bunların birbirinden farklı olduğu görülecektir. 
+     Söz konusu yazıda Türkiye İş Bankası'nın Türkiye Bankalar Birliği'nin yabancılar için hazırlanan İngilizce WEB sayfasında gönderdiği bilançoda döviz kurunun 1 milyon 20 bin lira üzerinden hesapladığı belirtilmektedir. Bankamızca, Türkiye Bankalar Birliği'ne bu kur esas alınarak hazırlanmış herhangi bir mali tablo gönderilmemiş olup, bahsi geçen sitede Türkiye Bankalar Birliği tarafından Bankamız ve diğer bankaların 31 Mart 2001 tarihinde Türk Lirası cinsinden ilan ettikleri finansal tabloları söz konusu tarih itibariyle Merkez Bankası'nın ilan ettiği 1 milyon 20 bin 560 lira olan döviz kuru dikate alınarak, daha önceki dönemlerde de olduğu üzere ABD Doları'na çevrilmiştir. 
+
+
+
+
+
+
+</TEXT>
+</DOC>

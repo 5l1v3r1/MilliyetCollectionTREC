@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> 19756 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/05/06/dunya/dun03.html </URL>
+<DATE> 2001/05/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+FBI bizi gözetliyor 
+</HEADLINE>
+<TEXT>
+
+     DIŞ Haberler ServİSİ 
+
+     Amerikan Federal Soruşturma Bürosu’nun FBI internet üzerinden yapılan her türlü haberleşmeyi yakından izlediği belgeleriyle kanıtlandı. 
+     Associated Press AP haber ajansının, ABD anayasasındaki Bilgiye Ulaşma Özgürlüğü maddesine dayanarak elde ettiği belgeler, FBI’ın elektronik iletişimi çeşitli gizli yazılım programlarıyla izleme altında tuttuğunu gözler önüne serdi. 
+     Belgelere göre, FBI Ekim 1999’dan Ağustos 2000 tarihine kadar Carnivore denilen programı 13 kez, benzer başka bir program olan Etherpeek’i de 11 kez kullanarak internetteki e - mail, web sayfası, chat odaları ve ticari yazışmalara sızarak onları okudu. Belgeler, FBI’ın internet üzerinden yapılan haberleşmeleri rastgele olarak izlediği, sistematik izleme yapılmadığı yolundaki savunmasını geçersiz kıldı. FBI’ın elektronik izleme yöntemlerini kaçaklara, uyuşturucu madde kaçakçılarına, bilgisayar korsanlarına ve yabancı ajanlara karşı kullandığı şeklindeki açıklamasının da doğru olmadığı anlaşıldı. 
+     Sivil haklar savunucusu gruplar, FBI’ın bu tür faaliyetlerini kınarken FBI’ın internet ortamındaki müdahalesinin bazı e - mail ve sitelerin açılmasını yavaşlattığını, bazılarını ise çökerttiğini vurguladılar. 
+     
+     
+     
+
+
+
+ DÜNYA 
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

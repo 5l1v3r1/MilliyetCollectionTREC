@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 32842 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/07/19/son/sondun06.html </URL>
+<DATE> 2001/07/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ders vermeye giden hacker tutuklandı 
+</HEADLINE>
+<TEXT>
+
+     Amerikan Federal Araştırma Bürosu FBI dedektifleri, Las Vegas'ta yapılan bir konferans kapsamında ders vermeye giden Rus siber korsan Dmitry Sklyarov'u, telif haklarını ihlal ettiği gerekçesiyle tutukladı. Skylorov suçlu bulunursa 500 bin dolar ve 5 yıl hapis cezasına çarptırılabilecek. İnternette yer alan habere göre, Def Con Konferansı'nda e-kitap formatları hakkında bilgi veren Rus hacker, FBI tarafından tutuklandı. Sklyarov'un yazdığı ''Advanced e-book processor'' ile, e-kitap dosyaları kırılarak Adobe'nin PDF formatına çevrilebiliyor. Bu sayede Acrobat Reader gibi PDF dosyalarını destekleyen yazılımlarla e-kitap dosyalarını okumak mümkün hale geliyor. İnternet analistleri, elektronik kitapların güvenliğini sağlayan birçok sistemi kıran bir yazılım hazırladığı iddia edilen Dmitry Sklyarov'un söz konusu konferansa katılmasının ''çok tehlikeli ve aptalca'' olduğunu belirttiler. 
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

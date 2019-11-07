@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 38423 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/08/22/son/soneko02.html </URL>
+<DATE> 2001/08/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones ve Nasdaq endeksleri düştü 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası'nda Dow Jones ve Nasdaq endeksleri düştü. 
+     Borsanın temel göstergesi Dow Jones, 145.93 puan düşerek 10,174.14 puandan kapandı. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq, 50.05 puan düşerek günü 1,831.30 puandan kapattı. 
+
+
+
+
+
+
+</TEXT>
+</DOC>

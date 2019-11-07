@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 15904 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/04/12/son/soneko01.html </URL>
+<DATE> 2001/04/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones düştü, Nasdaq arttı 
+</HEADLINE>
+<TEXT>
+
+     New York menkul kıymetler borsası Wall Street'te Dow Jones Sanayi Endeksi, 83.09 puan düşüşle yüzde 0.82 10,019.65 puandan kapandı. 
+     Teknoloji şirketleri hisse senetlerinin Nasdaq Birleşik Endeksi ise 50.38 puan yükselişle yüzde 2.72 1,902.41 puandan kapandı. 
+
+
+
+
+</TEXT>
+</DOC>

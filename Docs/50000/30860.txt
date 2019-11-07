@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 30860 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/07/07/son/soneko01.html </URL>
+<DATE> 2001/07/07/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Telsim, Alcatel ile 30 milyon dolarlık altyapı anlaşması yaptı 
+</HEADLINE>
+<TEXT>
+
+     Telsim, Alcatel ile ilk etapta 7 ay içerisinde tamamlanacak 30 milyon dolar tutarında altyapı yatırım anlaşması imzaladı. 
+     Telsim'den yapılan yazılı açıklamada, anlaşma kapsamında ilk etapta Ankara bölgesinde mevcut 360 baz istasyonunun Alcatel teçhizatı ile değiştirileceği ve bu çalışmaya paralel olarak Ankara bölgesinde 90 adet ilave baz istasyonunun da şebekeye entegre edileceği bildirildi. 
+     Açıklamada, bu anlaşmayla 200 bin abone kapasitesine sahip bir GSM santrali alımı, 2000 BTS ve Intelligent Network Akıllı şebeke sistemi , katma değerli servisler, radyolink servisleri, GPRS ve 3. jenerasyon hazırlık özelliği de sağlayan sistemlerle tüm ileri teknoloji ekipmanları sağlayacak ikinci etap için de prensip mutabakatının sağlandığı kaydedildi. 
+
+
+
+
+
+
+</TEXT>
+</DOC>

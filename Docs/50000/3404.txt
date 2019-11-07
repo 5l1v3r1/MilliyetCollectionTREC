@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 3404 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/22/son/sontur10.html </URL>
+<DATE> 2001/01/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İstanbul'da su kesintisi 
+</HEADLINE>
+<TEXT>
+
+     Mahmutbey Terfi Merkezi'ndeki inşaat ve montaj çalışmaları nedeniyle Bağcılar, Bahçelievler, Güngören ve Esenler ile Yenibosna'nın yüksek kesimlerine, 24-25 Ocak'ta, 24 saat süreyle su verilemeyeceği bildirildi. 
+     İstanbul Su ve Kanalizasyon İdaresi'nden İSKİ yapılan yazılı açıklamaya göre, terfi merkezlerinin Aksaray'daki İSKİ merkez binasında bulunan SCADA bilgisayar ve kontrol odasından izlenebilmesi için sürdürülen inşaat ve montaj çalışmaları kapsamında, Bayrampaşa, Avcılar ve Esenyurt terfi merkezlerinin ana isale hattı giriş ve çıkışlarındaki bağlantılar tamamlandı. 
+     Bunun üzerine, projenin üçüncü aşaması olan Mahmutbey Terfi Merkezi'nin ana isale hattı giriş ve çıkışlarına kontrol vanası, eletromagnetik debimetre ve basınç ölçer cihazların montaj çalışmalarına geçildi. Söz konusu terfi merkezlerinden, şehre sürekli ve daha düzenli su verilebilme imkanına kavuşulması için gerçekleştirilen çalışmalardan dolayı 24 Ocak Çarşamba günü saat 08.00'den 25 Ocak Perşembe günü saat 08.00'e kadar, Bağcılar ilçesinin tamamı, Bahçelievler, Güngören ve Esenler ilçeleri ile Yenibosna'nın yüksek kesimleri su alamayacak. 
+
+
+
+
+</TEXT>
+</DOC>

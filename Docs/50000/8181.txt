@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 8181 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/02/21/son/soneko05.html </URL>
+<DATE> 2001/02/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa yoğun satışlarla açıldı 
+</HEADLINE>
+<TEXT>
+
+     Borsa, krizin 3. gününde yoğun satışlarla başladı. Ulusal-100 Endeks, kısa sürede yaklaşık 700 puan gevşedi. 
+     Borsa’da, dün Başbakan Ecevit’in açıklamalarıyla 2. seansta toparlanan ve 8,768.52 puandan kapanan Endeks, güne yoğun satışlarla başladı. Seansın ilk dakikalarında yoğun işlem hacmiyle hızla gevşeyen Endeks, 8,087 puana kadar geriledi. İlk 15 dakikada 75 trilyon lira işlem hacmi gerçekleşti. 
+     Öte yandan, İMKB Tahvil ve Bono Piyasası’nda işlem saati bugün için saat 11.00’e çekildi. 
+     Yetkililer, kesin alım satım pazarı ve repo ters repo pazarında aynı gün işlemlerin kapanış saatlerinin 15.30’a ve buna bağlı olarak repo işlemine konu menkul kıymet bildirimlerinin son bildirim saatinin 16.15’e uzatıldığını bildirdiler. 
+     Piyasa saatlerinin aynı gün valörlü işlemler için 15.30’a çekilmesi nedeniyle bugünkü yükümlülüklerin EFT kapanış saatine kadar yerine getirilebileceği kaydedildi. 
+     
+
+
+
+
+</TEXT>
+</DOC>

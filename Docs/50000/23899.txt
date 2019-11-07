@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 23899 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/05/29/son/soneko28.html </URL>
+<DATE> 2001/05/29/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsada bugün en çok değer kazanan ve kaybeden hisseler 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası'nda İMKB bugün günlük bazda en çok değer kazanan ve en çok değer yitiren 10 hisse senedi ile değişim oranları şöyle 
+     
+DEĞER KAZANAN HiSSE ADI ARTIŞ ORANI Lüks Kadife 16.25 Park Elk.Maden. 11.11 Ceytaş Madencil 7.84 Çimbeton 7.41 Güneş Sigorta 6.35 Sönmez Pamuklu 4.88 Olmuksa 4.65 Şekerbank 3.64 Gorbon Işıl 3.64 Berdan Tekstil 3.57      
+ DEĞER KAYBEDEN HiSSE ADI DÜŞÜŞ ORANI Metemteks Y. -15.85 Meges Boya -14.44 Kerevitaş -14.29 Burçelik -13.46 Frigo Pak -11.58 Milliyet Gazt. -11.27 Konfrut Gıda -10.53 Raks Ev Aletler -10.29 Link Bilgisayar -10.14 M.Zorlu Holding -10.00      
+     
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

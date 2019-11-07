@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 42193 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/09/14/son/sontur06.html </URL>
+<DATE> 2001/09/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternete "100 kat" daha hızlı erişim... 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekom, internete "100 kat" daha hızlı erişim sağlayacak sistemin kurulması amacıyla ihaleye çıktı. 
+     Alınan bilgiye göre, geniş bantlı sayısal abone erişimi olarak tanımlanan ADSL sistemi sayesinde, kurumun internet şebekesi TTNET'e abone olanlar, internete 100 kat daha hızlı ulaşma olanağına sahip olacaklar. 
+     Söz konusu ihalenin 2 ay içerisinde sonuçlandırılması bekleniyor. İnternete erişim hızının artmasının, TTNET'in abone sayısında artış sağlayacağı belirtiliyor. Türkiye genelindeki 2.5 milyon internet abonesinin 110 bini internete Türk Telekom'un internet şebekesi TTNET üzerinden erişiyor. 
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

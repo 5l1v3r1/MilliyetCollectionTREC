@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 35065 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/08/02/son/sondun01.html </URL>
+<DATE> 2001/08/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+"Kırmızı Kod" tehlikesi henüz atlatılmadı 
+</HEADLINE>
+<TEXT>
+
+     Türkiye saatiyle 03.00'den itibaren etkili olan ''Kırmızı Kod'' adlı bilgisayar virüsü, yalnızca ABD'de 150 bin bilgisayarı etkilerken, ABD Savunma Bakanlığı Pentagon, koruma amacıyla internet sitesini kapattı. 
+     Virüs, ilk olarak ABD'de 19 Temmuz tarihinde 350 bin bilgisayarı felce uğratmıştı. İnternet sitesini, numaralara dayalı başka bir sayfaya taşıyan Beyaz Saray, son anda saldırıdan korunmuş, Pentagon da geçici bir süre için sitesini kapatmıştı. 
+     Virüsün bu sabah yeniden etkili olacağı uyarıları çerçevesinde Pentagon, Savunma Bakanlığı'nın internet sitesini korumak için sayfasını kapattığını duyurdu. 150 bin bilgisayarın etkilenmesine karşılık, virüsün, beklenilenden daha az etkili olduğu belirtiliyor. 
+     ''Bilgisayar solucanı'' da denilen ''Kırmızı Kod'', internet sisteminde, insan yönetimi gerekmeden Microsoft NT ve Windows 2000 sistemi kullanıcılarını etkiliyor. ''Kırmızı Kod'', şirket ve hükümet kuruluşlarını hedef alıyor. 
+     Amerikan hükümet kuruluşları, halen ihtiyatı elden bırakmazken, virüsün ne derece etkili olduğu konusunda yorum yapmaktan kaçındılar. Federal Soruşturma Bürosu FBI , Beyaz Saray ve diğer kuruluş yetkilileri, ''durumu izliyoruz'' açıklamasıyla yetindiler. 
+     Virüs yüzünden, ABD'de internet bağlantılarında yaygın olarak kesintiler ve sistemde yavaşlama gibi sıkıntılar yaşanıyor. Uzmanlar, virüsün yeni tasarlanmış versiyonlarının, bir kez daha programlanarak internet sitelerine saldırmasından endişe ederken, ''tehlike henüz geçmedi'' uyarısında bulunuyorlar. 
+     Virüsün etkili olduğu sayfada, kırmızı, büyük harflerle, ''Çinliler tarafından kırıldı'' Hacked by Chinese ibaresi yer alıyor. 
+     
+     
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

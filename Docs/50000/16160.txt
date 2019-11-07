@@ -1,0 +1,74 @@
+<DOC>
+<DOCNO> 16160 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/04/14/ekonomi/eko06.html </URL>
+<DATE> 2001/04/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+10 SORU 10 CEVAP 
+</HEADLINE>
+<TEXT>
+Bankalar Merkez’den nasıl döviz alıyor 
+     TARIK YILMAZ 
+
+     Merkez Bankası’nın dalgalı kura geçilmeden önce 4 bankaya 3.5 - 4 milyar dolar satış yaptığının duyulması üzerine kamuoyu bankalarla Merkez Bankası arasındaki döviz alışverişini merak etti. Uzmanlara bankaların Merkez Bankası’ndan niçin ve nasıl döviz aldığını sorduk 
+     
+Bankalar Merkez Bankası’ndan niçin döviz alır 
+     Bankalar, Merkez Bankası’ndan iki nedenle döviz alırlar. İlki, müşterilerinden gelen döviz talebini karşılamak için... İkincisi ise spekülatif amaçlı. Banka, dövizin yükseleceğini düşünüyorsa Merkez Bankası’ndan döviz alır. Fiyat yükselince de bunu ya diğer bankalara ya da Merkez Bankası’na satar. 
+     
+Merkez Bankası’ndan nasıl döviz alırlar 
+     Alım - satımlar telefonla yapılır. Merkez Bankası Reuters, Telerate gibi haber ajaslarının ekranlarından dolar alış - satış kotasyonlarını ilan eder. 
+     Bu fiyatlardan döviz almak isteyen bir banka Merkez Bankası’nın döviz masasını arar ve oradaki dealer’a almak istediği döviz miktarını iletir. Dealer da bu bankaya parayı verir. Banka bu paranın karşılığı olan TL’yi Merkez Bankası’na yatırır. 
+     Merkez Bankası ayrıca birbirleri ile dolar alışverişi yapmak isteyen bankalara da aracılık yapan bir kurum görevini yürütür. Merkez Bankası, parasını satmak isteyen bankayla para satın almak isteyen bankayı buluşturur. 
+     
+Yabancı bankalar da döviz alabilirler mi 
+     Türkiye’de faaliyet gösteren yabancı bankaların da Merkez Bankası’ndan döviz alma hakkı var. 
+     
+Taraflardan biri daha sonra "ben böyle bir emir vermedim" diyebilir mi 
+     Tüm telefon kayıtları banda kaydedilir. Bankalar da benzer telefon kayıtlarını yaparlar. Bu nedenle taraflar "Ben böyle bir emir vermedim" diyemez. 
+     
+Bu kayıtlar kamuya açık bilgi midir 
+     Kesinlikle bilgi verilmez. Sadece 1994 yılı başında yapılan yüzde 13.6’lık devalüasyonun ardından bazı bankaların kayırıldığı iddiaları sonrası gelen baskı üzerine Merkez Bankası bu kayıtları açıklamak zorunda kalmıştı. 
+     
+Merkez Bankası’nın bankalara açtığı limit nedir 
+     Merkez Bankası bankalara döviz depo ve döviz TL işlemleri nedeniyle bilanço büyüklerine bağlı olarak bir limit açıyor. 
+     Böylece bankalar döviz depo piyasası Merkez Bankası’nın vadeli olarak para sattığı piyasa ile döviz TL piyasasında dövizle TL’nin değiştirildiği piyasa limitleri dahilinde para alıp satabiliyorlar. 
+     
+Her bankanın limiti aynı mıdır 
+     Merkez Bankası, limitleri bankaların mali tablolarına bakarak belirliyor. Bankaları bilanço büyüklüklerine göre üç gruba ayıran Merkez Bankası, bir teminat istiyor ve bu teminat dahilinde limit açıyor. Merkez, bankaların bu limitlerin üzerinde döviz almasına izin vermiyor. 
+     Eğer bir banka limitlerini yükseltmek için Merkez Bankası’na başvurursa Merkez daha önceki dönemlerdeki ödeme gücünü, ödemelerini aksatıp aksatmadığını, sermayesini v.s. inceleyerek artırıp artırmayacağına karar veriyor. 
+     
+Bankalar bu limiti aşabilir mi 
+     Merkez Bankası’nda görev yapan dealerların bilgisayarları birbirine bağlı. Eğer bir bankanın limiti dolarsa dealerlar o bankaya satış yapmıyor. 
+     Eğer limit aşılmışsa Merkez Bankası’nın o işlemi iptal edebileceği belirtiliyor. 
+     Ancak bu konuda net bir bilgi yok. 
+     
+Eğer limit aşılırsa ne olur 
+     Limitler bilgisayar ortamında sürekli kontrol edildiği için dealerların limit aşımına izin vermeyeceği belirtiliyorlar. 
+     
+Usülsüz işlemler olursa kim devreye giriyor 
+     Bankanın teftiş kurulu bulunuyor. Ayrıca Merkez Bankası Yasası’nın 42. maddesi de şöyle 
+     "Başbakan, Banka’nın işlem ve hesaplarını teftiş ve murakabe ettirebilir. Başbakanlık bu hususta her nevi bilgiyi bankadan talep edebilir." 
+     
+
+
+ EKONOMİ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

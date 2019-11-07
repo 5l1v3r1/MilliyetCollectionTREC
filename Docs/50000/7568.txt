@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 7568 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/02/17/son/sondun11.html </URL>
+<DATE> 2001/02/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+El Salvador'da deprem 5.3 
+</HEADLINE>
+<TEXT>
+
+     El Salvador'da bugün şiddetli bir deprem meydana geldiği ve binlerce insanın sokaklara döküldüğü bildirildi. 
+     Yerel saatle 14.30'dan kısa bir süre sonra meydana gelen depremin büyüklüğüyle, can ve mal kaybı olup olmadığı konusunda bilgi verilmezken, başkent San Salvador'daki yanardağın eteklerinden toz bulutu yükseldiği belirtildi. 
+     Radyo Cuscatlan'ın verdiği habere göre, görgü tanıkları, başkent civarında birkaç bölgede toprak kaymaları meydana geldiğini söylediler. 
+     El Salvador'da, 13 Ocak'ta 7.6 büyüklüğündeki depremde meydana gelen toprak kaymasında yüzlerce insanın öldüğü San Salvador'un banliyösü Santa Tecla Belediye Başkanı Oscar Ortiz, bu depremin kısa, ancak güçlü olduğunu bildirdi. 
+     Ortiz, yeni depremde can kaybı olduğu konusunda henüz bir haber bulunmamasının sevindirici olduğunu kaydetti. 
+     El Salvador'da 13 Ocak'ta meydana gelen depremde ülke çapında 844 kişi ölürken, 278 bin ev yıkılmış, 13 Şubat'ta 6.6 büyüklüğündeki depremde de 402 kişi ölmüş, 3 bin 153 kişi yaralanmış ve 45 bin ev çökmüştü. 
+
+
+
+
+</TEXT>
+</DOC>

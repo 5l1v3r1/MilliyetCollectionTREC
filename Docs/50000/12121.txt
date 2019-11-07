@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 12121 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/03/19/son/sontur04.html </URL>
+<DATE> 2001/03/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İzmir'de yeni trafik düzeni 
+</HEADLINE>
+<TEXT>
+
+     İzmir Büyükşehir Belediyesi'nin Çınarlı Tren İstasyonu hemzemin geçidinde yapacağı zemin düzenleme çalışmaları nedeniyle Bornova 1561 sokağın yarından itibaren 3 gün süreyle trafiğe kapatılacağı bildirildi. 
+     İzmir Büyükşehir Belediyesi'nden yapılan açıklamaya göre, trafik akışı Bornova Ağaçlı Yolu izleyerek 1561 sokağa varan araçların Karşıyaka ve Alsancak yönüne gidişleri Ulusoy Kavşağı'ndan sağlanacak. Karşıyaka Anadolu Caddesi güzergahından gelen trafik ise Anadolu Caddesi, Ozan Abay Caaddesi ve 1586 sokak üzerinden Bornova Ağaçlı Yola yönlendirilecek. Alsancak yönünden gelerek Bornova yönüne devam edecek araçlar ise Çınarlı Karakolu'nu takiben Anadolu Caddesi ve Ozan Abay Caddesi'ni kullanarak Ağaçlı Yol üzerinden Bornova'ya gidebilecek. 
+
+
+
+
+</TEXT>
+</DOC>

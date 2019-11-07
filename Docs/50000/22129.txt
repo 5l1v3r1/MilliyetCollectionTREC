@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 22129 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/05/19/son/soneko02.html </URL>
+<DATE> 2001/05/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones ve Nasdaq yükseldi 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası'nda Dow Jones ve Nasdaq Endeksleri yükseldi. 
+     Borsanın temel göstergesi Dow Jones Endeksi, günü 53.16 puan artışla 11.301,74 puandan kapattı. 
+     Teknoloji hisse senetlerinin izlendiği Nasdaq endeksi ise 5.21 puan artarak 2.198,89 puana yükseldi. 
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

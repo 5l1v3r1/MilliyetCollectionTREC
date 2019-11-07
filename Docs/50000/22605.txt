@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 22605 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/05/22/son/soneko28.html </URL>
+<DATE> 2001/05/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsada bugün en çok değer kazanan ve kaybeden hisseler 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası'nda İMKB bugün günlük bazda en çok değer kazanan ve en çok değer yitiren 10 hisse senedi ile değişim oranları şöyle 
+     
+DEĞER KAZANAN HiSSE ADI ARTIŞ ORANI Meges Boya 21.69 Gorbon Işıl 19.19 Egeplast 16.36 Emek Elektrik 13.33 ÇBS Printaş 13.16 L. Aslan Çimento 12.50 Konfrut Gıda 12.50 Rant Fin.Kiralama 11.83 Erbosan 11.63 Koniteks 11.58      
+ DEĞER KAYBEDEN HiSSE ADI DÜŞÜŞ ORANI Berdan Tekstil -15.94 Tuborg -10.71 İş Bankası A -9.52 Arena Bilgisayar -8.89 Yasaş -8.25 Camiş Lojistik -8.24 Pınar Su -8.16 Anadolu Isuzu -8.06 Alkim Kağıt -7.59 Pınar Et ve Un -7.58      
+
+
+
+
+
+
+</TEXT>
+</DOC>

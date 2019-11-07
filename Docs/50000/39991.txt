@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 39991 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/09/01/son/sondun16.html </URL>
+<DATE> 2001/09/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+"Genetik bilimi, bilgisayarların insanı geçmesini önleyebilir" 
+</HEADLINE>
+<TEXT>
+
+     Ünlü fizikçi Stephen Hawking, genetik mühendisliğinin, bilgisayarların insan zekasının önüne geçmesini engellemek için kullanılabileceğini söyledi. 
+     Hawking, Fokus dergisine verdiği demeçte, genetik değişikliğin DNA'nın karmaşıklığını artırabileceğini ve insanoğlunu geliştirebileceğini belirtti. 
+     Bunun uzun bir süreç gerektireceğini belirten Hawking, ''Ancak biyolojik sitemlerin elektronik olanlara üstün olmaya devam etmesini istiyorsak, bu yolu izlemeliyiz'' dedi. 
+     ''Bizim zihnimize karşın bilgisayarların performansı her 18 ayda bir artıyor'' diyen ünlü fizikçi, ''Beyinle bilgisayar arasında doğrudan bağlantıyı sağlayan teknolojileri geliştirmeliyiz. Böylece yapay beyin insan zekasına karşı olmak bir yana ona katkıda bulunur'' dedi. 
+
+
+
+
+
+
+</TEXT>
+</DOC>
