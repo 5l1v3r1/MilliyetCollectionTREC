@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 350148 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/08/son/sonyas31.html </URL>
+<DATE> 2005/06/08/ </DATE>
+<TIME> 18.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+AB uyumlu Microsoft Windows işletim sistemi dağıtımı 15 Haziranda... 
+</HEADLINE>
+<TEXT>
+
+     Microsoft, AB’nin talep ettiği değişikliklerin yapıldığı Windows’un yeni sürümünün Avrupa’da dağıtımına 15 Haziranda başlanacağını açıkladı. 
+     Microsoft’un açıklamasında, bilgisayar kullanıcılarına 2 işletim sistemi sunulacağı ve kişisel kullanıcılar için "Windows XP Home Edition N"in, profesyonel kullanıcılar için "Windows XP Professionnal N"in piyasaya sürüleceği belirtildi. 
+     Bu sürümlerde AB kararına uygun olarak "Media Player" programının bulunmadığı kaydedildi. 
+     AB Komisyonu, geçen yıl başında, haksız rekabet yöntemleri nedeniyle suçladığı Microsoft’a karşı tavır belirlemişti. 
+     Komisyon, Microsoft şirketinin bilgisayar ve bilgi işlem alanında bir tekel elde ettiği, haksız rekabette bulunduğu görüşünden kaynaklanan ve 5 yıldır süren soruşturmasını tamamlamış, AB üyesi ülkelerin uzmanlarının, Microsoft’un rekabet kurallarını ihlal ettiği görüşünde birleştikleri bildirilmişti. 
+     "Windows" ve "Media Player" gibi programlarla tekel oluşturan ve rakiplerine alternatif sunmayan Microsoft’tan tavır değiştirmesini isteyen AB, Microsoft’tan, Windows ve diğer programları hakkında rakip şirketlere daha fazla bilgi vermesini, bu programlara uyumlu farklı programlar üretilmesine olanak tanımasını da talep etmişti. 
+     AB Komisyonu, bu taleplerine olumlu yanıt alamayınca, geçen yılın mart ayında, Avrupa pazarında haksız rekabet yöntemleri nedeniyle suçladığı Amerikan bilgisayar ve bilgi işlem şirketi Microsoft’a 497 milyon avro ceza verdi. Microsoft, cezayı ödeyerek, geçen haziran ayında Avrupa Adalet Divanı’na resmen başvurdu ve bu karara itiraz etti. Lüksemburg’da bulunan Adalet Divanı, "AB Komisyonu kararının iptalini" isteyen Microsoft’un bu başvurusunu reddetti. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 168035 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/08/son/soneko17.html </URL>
+<DATE> 2003/07/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa günün ilk yarısını 17 puanlık artışla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası İMKB Ulusal-100 Endeksi, 1. seansı, 16.50 puan artışla 10,368.33 puandan tamamladı. 
+     Hisse senetlerinin ortalama değer artışı yüzde 0.16 olarak gerçekleşti. 
+     Endeks, günün ilk seansına 10.87 puan kayıpla 10,340.96 puan seviyesinde başladı. İlk yarıyı 10,369.79 puandan geçen endeks, seansta en düşük 10,286.92, en yüksek 10,468.69 puanı gördü. 
+     Seans kapanışında mali endeks 54.32 puan artışla 12,572.76 puana, sanayi endeksi 30.09 puan artışla 10,498.30 puana yükselirken, hizmetler endeks 33.09 puan kayıpla 6,658.17 puana geriledi. 
+     Böylece, önceki kapanışa göre mali grup hisseler ortalama yüzde 0.43, sanayi grubu hisseler ortalama yüzde 0.29 değer kazanırken, hizmetler grubu hisseler ortalama yüzde 0.49 oranında değer kaybetti. 
+     İşlem gören toplam 285 hisseden 130'u değer kazandı, 88'i değer yitirdi, 67'sinin fiyatında değişiklik olmadı. 
+     Seansta, toplam 127 trilyon 481 milyar 623 milyon liralık işlem hacmi oluştu. 
+     1. seansta, Yapı ve Kredi Bankası, İş Bankası C , İhlas Holding, Turkcell ve Sabancı Holding en yoğun işlem gören hisseler oldu. 
+     
+</TEXT>
+</DOC>

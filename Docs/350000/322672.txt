@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 322672 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/10/son/sonyas15.html </URL>
+<DATE> 2005/03/10/ </DATE>
+<TIME> 11.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Zemini ve ayağı tanıyan ilk ayakkabı 
+</HEADLINE>
+<TEXT>
+
+     Adidas en son model koşu ayakkabısına yerleştirdiği 'chip' benzeri bir mekanizmayla zemini ve ayağı tanıyan akıllı ayakkabıyı üretti. 
+     Spor ayakkabı piyasasında rekabet giderek kızışıyor. 
+     Bir dönem 'moda olma' rüzgarı yerini yeniden 'teknolojik ayakkabı üretme yarışına' bıraktı. 
+     Adidas, Nike ile giriştiği büyük rekabette öne geçebilmek için en yeni koşu ayakkabısının tabanına mikrochip benzeri bir mekanizma yerleştirdi. 
+     
+     Koşulan zemini tanıma 
+     Bu mekanizma koşulan zemini tanıyor, ayağın taşıdığı ağırlığı ve ayak yapısını algılayarak tabana gerekli desteği veriyor. 
+     'Adidas 1' adı verilen yeni model için tasarımcılar 'kişiye özgü ilk spor ayakkabı' diyor. 
+     Firma yetkilileri, yeniden popüler yaptıkları üç çizgili markayı her iki yılda bir teknolojik yenilikle destekleyeceklerini açıkladılar. 
+     
+</TEXT>
+</DOC>

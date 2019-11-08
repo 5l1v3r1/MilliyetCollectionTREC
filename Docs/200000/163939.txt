@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 163939 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/18/son/soneko37.html </URL>
+<DATE> 2003/06/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Merkez Bankası Döviz Kurları... 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası İdare Merkezi tarafından, saat 15.30'da belirlenen gösterge niteliğindeki döviz kurları şöyle 
+     
+     
+DÖVİZ EFEKTİF DÖVİZİN CİNSİ ALIŞ SATIŞ ALIŞ SATIŞ 1 ABD Doları 1,409,141 1,415,938 1,408,155 1,418,062 1 Avustralya Doları 943,637 949,811 939,296 955,510 1 Danimarka Kronu 222,724 223,821 222,568 224,336 1 İngiliz Sterlini 2,366,829 2,379,201 2,365,172 2,382,770 1 İsviçre Frangı 1,069,135 1,076,022 1,067,1 1,077,636 1 İsveç Kronu 181,668 183,559 181,541 183,981 1 Japon Yeni 11,868 11,947 11,824 11,992 1 Kanada Doları 1,049,878 1,054,624 1,045,993 1,058,632 1 Kuveyt Dinarı 4,674,641 4,736,212 4,604,521 4,807,255 1 Norveç Kronu 201,975 203,337 201,834 203,805 1 Sud. Arb. Riyali 376,873 377,5 374,046 380,385 1 Euro 1,6,909 1,661,886 1,652,751 1,664,379 
+     
+     
+ÇAPRAZ KURLAR 1 ABD Doları 1.4908 Avustralya Doları 1 ABD Doları 6.3262 Danimarka Kronu 1 ABD Doları 1.3159 İsviçre Frangı 1 ABD Doları 7.7138 İsveç Kronu 1 ABD Doları 118.52 Japon Yeni 1 ABD Doları 1.3426 Kanada Doları 1 ABD Doları 6.9635 Norveç Kronu 1 ABD Doları 3.7503 Suudi Arabistan Riyalı 1 Euro 1.1737 ABD Doları 1 İngiliz Sterlini 1.6803 ABD Doları 1 Kuveyt Dinarı 3.3449 ABD Doları 
+     
+     
+1 Özel Çekme Hakkı SDR 1.41952 ABD Doları 1 Özel Çekme Hakkı SDR 2,009,952 Türk Lirası 
+     
+</TEXT>
+</DOC>

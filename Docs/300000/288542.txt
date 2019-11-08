@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 288542 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/13/son/sondun10.html </URL>
+<DATE> 2004/11/13/ </DATE>
+<TIME> 11.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Times. Bankalar internette dolandırılanların zararlarını tazmin etmeyecek 
+</HEADLINE>
+<TEXT>
+
+     İngiltere'de bankaların, internet bankacılığı sırasında dolandırılan, banka hesaplarına internet korsanları tarafından ulaşılan müşterilerinin zararlarını artık tazmin etmeme kararı aldığı öne sürüldü. 
+     The Times gazetesinin haberinde, ülkede 14 milyon kişinin internet bankacılığından yararlanıp, bankacılık işlemlerini internet üzerinden yaptığına dikkat çekildi. 
+     İnternetteki banka hesaplarının sayısının artmasıyla bu hesaplara yapılan saldırıların da arttığını belirten Times, ekimde 60 büyük internet dolandırıcılığının tespit edildiğini, bu rakamın bir önceki aya göre yüzde 33'lük bir artış gösterdiğini bildirdi. 
+     Bankaların müşterilerinin zararlarını üstlenirken, kendi zararlarını sigortalatamadıklarına işaret eden Times, ''Bu işin faturasının büyüyeceğini gören bankalar, müşterilerine artık bu zararları üstlenmeyeceklerini bildirmeye hazırlanıyor'' diye yazdı. 
+     Times, bu yılın ilk altı ayında bankaların, 2000 internet sahteciliğinin bedelini tazmin etmek üzere müşterilerine 4,5 milyon sterlin ödeme yapmak zorunda kaldıklarını da hatırlattı. 
+     
+</TEXT>
+</DOC>

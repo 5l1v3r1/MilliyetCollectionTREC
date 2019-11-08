@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 287824 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/10/son/sontur10.html </URL>
+<DATE> 2004/11/10/ </DATE>
+<TIME> 10.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tren kazalarını önleyecek dev adım... 
+</HEADLINE>
+<TEXT>
+
+     Eskişehir'de kurulu Türkiye Lokomotif ve Motor Sanayii A.Ş. TÜLOMSAŞ , tren kazalarını önlemede etkili rol oynadığı belirtilen Otomatik Tren Durdurma Sistemi'nin ATS seri üretimine başladı. 
+     TÜLOMSAŞ Genel Müdür Vekili Hayri Avcı, AA muhabirine yaptığı açıklamada, Türkiye demiryolu hatlarında Ankara'nın doğusunda ayrı, batısında ayrı olmak üzere 2 farklı sinyalizasyon sistemi bulunduğunu belirtti. 
+     ATS'nin, demiryoluna sabit konulan ve trene yerleştirilen iki ayrı bölümden oluştuğunu ifade eden Avcı, şöyle konuştu 
+     ''Sabit sistem, hat boyunca döşenir ve demiryollarında mevcut lokomotifler için kullanılır. İkincisi ise lokomotiflere takılır ve sabit sistemden ikaz alır. Daha önce demiryollarında çalışan lokomotifler için kullanılan iki ayrı ATS sistemine ait sabit cihazlar, yeni alınacak ve lokomotiflere takılacak cihazlar için de kullanılacak. Bu cihazlar mevcut sistemde bulunan iki ayrı tip ATS ile uyum sağlayacak. TÜLOMSAŞ tarafından üretilen prototip ATS cihazı, yapılan test çalışmaları sonucunda olumlu netice verdi. Böylece seri üretim aşamasına geçildi. ATS'nin takıldığı ilk tren de TCDD'ye teslim edildi.'' 
+     
+     ''500 LOKOMOTİFE ATS TAKACAĞIZ'' 
+
+     Avcı, kuruluşta geliştirdikleri cihazın, trenin seyri boyunca ATS sistemine ve ileride ihtiyaç duyulabilecek trenin diğer kontrol ve operasyonel işlevlerine ait bilgilerin saklanabileceği ''görev bellek'' ve ''kayıt'' sistemine de sahip olduğunu anlattı. Hayri Avcı, ATS sisteminin uyarıları için operatör kontrol biriminde makinisti uyarmak için sesli bir ikaz sistemi olduğunu bildirdi. 
+     Lokomotifte ATS sistemini besleyen enerjinin kesilmesi halinde ATS tarafından trene otomatik olarak frenleme uygulandığını ifade eden Avcı, şöyle devam etti 
+     ''Lokomotife monte edilecek ATS kumanda sistemi iki kısımdan oluşur. Bu sistem sinyalizasyon sisteminin bir tamamlayıcısıdır. Sistem sarı sinyali geçerken gerekli sesli-ışıklı ikazı verir. Kırmızı sinyali geçtiğinde ise treni hemen durduracak kabiliyete sahiptir. TCDD'nin yaklaşık 500 lokomotifine TÜLOMSAŞ tarafından üretilecek ATS cihazı monte edilecek. 
+     
+</TEXT>
+</DOC>

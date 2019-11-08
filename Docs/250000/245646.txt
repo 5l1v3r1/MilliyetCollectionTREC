@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 245646 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/05/son/sonyas10.html </URL>
+<DATE> 2004/06/05/ </DATE>
+<TIME> 10.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Harry Potter virüsüne dikkat 
+</HEADLINE>
+<TEXT>
+
+     Tüm dünyada bilgisayarları etkileyerek önemli zararlar veren "netsky" virüsü, şimdi de "Harry Potter" adıyla bilgisayar sistemlerini tehdit ediyor. 
+     Bilgisayar virüsü "netsky" şimdi de Harry Potter filminin yarattığı popülariteyi arkasına alarak kol geziyor. 
+     "Harry Potter ve Azkaban Tutsağı-Harry Potter and the Prisoner of Azkaban" adlı filmin gösterime girerek tüm dünya sinemalarında fırtına gibi esmesini fırsat bilen hackerlar, başta filmin fanatiği çocukları hedef aldı. 
+     Anti-virüs şirketi Sophos'un verilerine göre Mayıs ayında bilgisayar sistemlerini en çok tehdit eden ikinci virüs olan "netsky", Harry Potter adıyla şu başlıklar altında gönderiliyor 
+     -Harry Potter 1-6 book.txt.exe. 
+     -Harry Potter 5.mpg.exe. 
+     -Harry Potter all e.book.doc.exe. 
+     -Harry Potter e book.doc.exe. 
+     -Harry Potter game.exe -Harry Potter.doc.exe. 
+
+     
+</TEXT>
+</DOC>

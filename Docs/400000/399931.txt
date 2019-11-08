@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 399931 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/02/son/soneko01.html </URL>
+<DATE> 2005/12/02/ </DATE>
+<TIME> 04.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacmi bakımından dünyanın en büyük borsası konumunda olan New York Wall Street Borsası'nda endeksler haftanın dördüncü işlem gününü yükselişle kapadı. 
+     Dow Jones Sanayi Endeksi, 107.74 puan yükselerek yüzde 1 ikinci seansı 10 bin 913.61 puandan tamamladı. 
+     Teknoloji ortaklıkları ibresi Nasdaq Bileşik Endeksi de 34.35 puan artışla yüzde 1.54 son seansı 2 bin 267.17 puandan noktaladı. 
+     Endeks yükselişinde Exxon Mobil gibi dev firmanın ham petrol fiyatlarında artıştaki kazancı, yarıiletken şirketi İntel'in yongalarında yatırım etkili oldu. 
+     Endekslerin perşembe ilk seanstan yüksek açılmasında ABD'de başlayan indirimli satışlarda iyimserlik de etki etti. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,45 @@
+<DOC>
+<DOCNO> 358030 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/04/son/soneko15.html </URL>
+<DATE> 2005/07/04/ </DATE>
+<TIME> 10.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Memura jet emeklilik imkanı... 
+</HEADLINE>
+<TEXT>
+
+     Türkan Al AA 
+
+Emekli Sandığı Genel Müdürlüğü'nün uygulamaya koyacağı ''Hizmet Belgesi Oluşturarak Emeklilik İşlemlerinin On-Line Yürütülmesi'' Projesiyle, devlet memurları ve diğer kamu görevlileri, ''2 ay yerine 2 günde'' emekli olabilecek. 
+     Alınan bilgiye göre, yeni projeyle Emekli Sandığı'na tabi çalışanlar için, yeni bir veri tabanı oluşturulacak. Buradaki bilgiler sürekli güncellenecek. 
+     Emekli kesenekleri ve kurum karşılıkları bilgilerinin kişi bazında elektronik ortamda tutulmasını öngören projeyle, mevcut sistemde tam olarak bilinemeyen ve kontrol edilemeyen emekli kesenek ve karşılık tutarları da, günlük şekilde izlenecek. 
+     Her ay kurumlardan ne kadar kesenek-karşılık yatırıldığı, bu miktarların doğru olup olmadığı, bunları göndermeyen kurumlar bulunup bulunmadığı da elektronik ortamda anında görülecek. 
+     Yeni sistemle birlikte, her devlet memuru ve kuruma tabi diğer kamu görevlisi için, elektronik ortamda hizmet belgesi de düzenlenecek. Böylelikle kişiler, emekli olmak istediklerinde, kurumların hizmet belgesi hazırlamasına gerek kalmayacak. 
+     Emeklilik işlemlerini on-line ortama alarak, yazışmaları önleyecek olan proje, hangi kurumda kaç personel bulunduğunu, hangi hizmet sınıfında ve kaç yaşında kaç kişi çalıştığını da kolayca ortaya koyacak. 
+     
+     40 BİN KURUMDAN BİLGİ TOPLANIYOR 
+     Emekli Sandığı Genel Müdürlüğü yetkilileri, mevcut sistemin oldukça karışık ve sağlıksız bir yapı arz ettiğini belirttiler. 
+     Verilen bilgiye göre halen yaklaşık 40 bin ayrı kurumdan, buralarda çalışanlara ait yıllık emekli kesenek ve kurum karşılık bilgileri, kağıt ortamında sandığa geliyor. Gelen bilgileri ''görüntü'' olarak kaydeden Emekli Sandığı, kesenek ve kurum karşılık bilgilerini de, yıl ve kurum numarasına göre saklıyor. 
+     Bunun sonucunda da, ancak kurum numarasına göre arama yapılabiliyor, kişi bazındaki aramalar da göz taraması ile gerçekleştiriliyor. 
+     Elektronik ortamda kayıt olmadığından emekliye ayrılacak memurların emekli kesenek ve kurum karşılıklarının tamamının yatıp yatmadığının kontrolü ya çok zor oluyor, ya da hiç mümkün olmuyor. 
+     Memurlar da, kendi emekli kesenek ve karşılık bilgilerine ulaşamıyor. 
+     
+     YENİ SİSTEM NASIL İŞLEYECEK 
+     Kesenek ve karşılık bilgilerinin, internet tabanlı web servisleri kanalıyla, kurumlar tarafından her ay sandığa aktarılmasını içeren yeni sistem, TC kimlik numarasını baz alacak. Sistem, ileride Mernis ve Say2000i ile de veri alışverişi yapacak. 
+     Projede ilk aşamada, kurumlarda çalışan iştirakçilerin nüfus bilgileri ile hizmet belgesine temel oluşturacak veriler sisteme yüklenecek. İkinci aşamada her ay gelecek kesenek-karşılık bilgileri ile hizmet belgeleri için gerekli yapı oluşturulacak. 
+     Yeni sistemde kamu kuruluşları, kesenek ve karşılık bilgilerini, her ay elektronik ortamda Sandığa iletecek. Burada emekli kesenek ve kurum karşılık bilgileri için özel bir yapı oluşturulacak. Gerekli veri girişleri de otomatik olarak gerçekleştirilecek. 
+     Kurumlar, kontrol işlemlerini de yine web üzerinden elektronik ortamda yapacak. Sistemde, kurumların doğrulanan kayıtlarının çıktısı verilecek. Sandığa da çıktıdaki bu tutar yatırılacak. 
+     Emekli Sandığı, bildirilen ve yatırılan tutarları karşılaştıracak, gerektiğinde kişiye kadar inerek, olası eksiklikleri tespit edecek ve daha sonra da bunların giderilmesi için kurumları uyaracak. 
+     Son aşamada ise elektronik imza ile memurların elektronik ortamda kısa sürede emekli olmasını sağlayacak altyapı kurulacak. 
+     
+     ELEKTRONİK İMZA İLE EMEKLİLİK 
+     Yeni uygulamayla birlikte, memurlar ve sandığa tabi diğer kamu çalışanları, hizmet durumlarını da sürekli olarak takip etme imkanına kavuşacak. Çalışanlar, ne zaman emekli olabileceklerini de, elektronik ortamda anında öğrenebilecek. 
+     Tüm hizmet ve kesenek tutarının Sandık kaydına alınmış olmasıyla, kurumlardan hizmet belgesi ve emeklilik onay belgesinin alınmasına da ihtiyaç kalmayacak. 
+     Emekli olmak isteyen kişi, çalıştığı kuruma başvurduğunda, bu durum elektronik imza ile anında Emekli Sandığına iletilecek. Sandık da, hizmet bilgilerine göre hemen aylık bağlama işlemine başlayacak. Böylece işlemlerdeki kırtasiye ve zaman kaybı önlenerek, çok kısa sürede emekli maaşı bağlanabilecek. 
+     Emekli Sandığı yetkilileri, günümüzde bir devlet memurunun emekli olmak için kurumuna başvurduğunda, kurumdaki hizmet belgesi ve onay işlemlerinin 1.5 ayı aştığına dikkati çektiler. Emekli Sandığı'ndaki maaş bağlama işlemi ise 5 ile 7 gün alıyor. Bu şartlarda bir memurun başvurusu ile emekliliği arasında geçen süre 2 ayı buluyor. Yeni projeyle bu süre 2 günde tamamlanacak. 
+     Uygulama programlarının yazılımı tamamlanan on-line emeklilik projesinde, halen kurumların donanım alt yapısının kurulmasına dönük çalışmalar ise devam ediyor. 
+     
+</TEXT>
+</DOC>

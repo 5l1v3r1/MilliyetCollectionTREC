@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 259296 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/30/son/soneko33.html </URL>
+<DATE> 2004/07/30/ </DATE>
+<TIME> 14.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Turkcell'den İran açıklaması Yeni bir anlaşma yok 
+</HEADLINE>
+<TEXT>
+
+     Turkcell, İran GSM pazarıyla ilgili olarak şu anda yeni bir anlaşmanın söz konusu olmadığını bildirdi. 
+     Turkcell İletişim Hizmetleri A.Ş.'den Borsa'ya gönderilen açıklamada, çeşitli haber ajanslarında, Turkcell'in İran GSM pazarında ikinci operatör olarak çalışması konusunda anlaşmaya varıldığına ilişkin bilgilere yer verildiği kaydedildi. 
+     Açıklamada, devamla şöyle denildi 
+     ''18 Şubat 2004 tarihinde kamuya yaptığımız özel durum açıklamasında da belirttiğimiz üzere, İran 1800 900 GSM lisansının şirketimiz liderliğindeki Irancell konsorsiyumuna verileceği İran yetkilileri tarafından şirketimize bildirilmiştir. Şu anda taraflar arasında imzalanan yeni bir anlaşma sözkonusu olmayıp, daha önce ihale şartnamesinde belirtildiği üzere gerekli prosedürler devam etmektedir. 
+     İhale şartnamesine göre, Yabancı Yatırım Teşvik Etme ve Koruma Kanunu'na FIPPA uyumluluğa ilişkin onayın alınması, GSM operasyonunu yürütecek lokal şirket Irancell'in kurulması ve 300 milyon Euro tutarındaki lisans bedelinin ödenmesi gibi koşullarin yerine getirilmesinin ardından Irancell konsorsiyumu İran 1800 900 GSM lisansını almaya hak kazanacaktır.'' 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 236017 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/29/son/sonyas01.html </URL>
+<DATE> 2004/04/29/ </DATE>
+<TIME> 10.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Mars'ta işlem tamam 
+</HEADLINE>
+<TEXT>
+
+     ABD'nin Mars'a yolladığı robotlar, üçer aylık keşif görevlerini tamamladı. ''Sağlığı'' yerinde olan robotlar, bundan böyle yeni görevler için ''fazla mesai'' yapacak. 
+     Opportunity ve Spirit adlı robotların, kendilerine verilen bütün görevleri yerine getirdikleri, Amerikan Ulusal Havacılık ve Uzay Dairesi NASA yetkililerince açıklandı. 
+     Mediani Planum adlı ovaya indirilen Opportunity, Mars yüzeyinde 811 metre yol katetti, Dünyaya 15 gigabitlik bilimsel veri yolladı. Veriler arasında 12 binden fazla fotoğraf bulunuyor. Opportunity'nin gönderdiği veriler, o bölgenin bir zamanlar tuzlu suyla kaplı olduğunu gösterdi. Robot, NASA'dan aldığı emirle yeni bilimsel keşifler için Endurance adlı kratere yönelecek. 
+     1,2 km yol giden Spirit ise şu anda nihai hedefi Columbia tepelerinden 1,8 km uzakta bulunuyor. Uzmanlar, bu tepelerde çok daha eski kayaçlar bulacaklarını umuyorlar. Aksilik çıkmazsa Spirit Columbia tepelerine haziran ortasında ulaşacak. 
+     
+</TEXT>
+</DOC>

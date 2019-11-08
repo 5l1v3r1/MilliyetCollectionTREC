@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 96007 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/07/16/son/sondun12.html </URL>
+<DATE> 2002/07/16/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Windows Media Player 9, Eylül'ün başında piyasaya çıkacak 
+</HEADLINE>
+<TEXT>
+
+     Microsoft, media player olarak bilinen ürününün son sürümünü 4 Eylülde kullanıma sunacağını açıkladı. 
+     Media player, internet üzerinden yüksek kaliteli ses ve görüntü alınmasını sağlıyor. 
+     Windows Media Player 9 WMP-9 olarak adlandırılan yeni ürünün, Microsoft'un kurucusu Bill Gates tarafından tanıtılacağı ve beta sürümünün 4 Eylülden itibaren herkes tarafından serbestçe indirilip kullanılabileceği belirtildi. 
+     Microsoft, player alanında RealNetworks firmasıyla kıyasıya bir rekabet içinde bulunuyor. İnterneti izleyen ''Nielsen Netratings'' adlı kuruluş tarafından yapılan açıklamaya göre, RealNetowrks'un Realplayer adlı ürünü piyasanın yüzde 16.2'sini elinde bulunduruyor. 
+     Microsoft media player'ın pazar payı ise yüzde 14.4. 
+     Microsoft sayısal medya satış müdürü Dave Fester, WMP-9'un tüm özelliklerini içeren sürümünün 4 Eylülden yedi hafta sonra kullanıma sunulabileceğini ifade etti. 
+     
+     ÖZELLİKLERİ 
+     WMP-9'un özelliklerinin başında, bir parçanın çalınabilmesi için gerekli yükleme-bekleme süresini ortadan kaldırması geliyor. Ürünün resim kalitesinin ise yüksek çözünürlüklü TV'ler ayarında olacağı bildirildi. WMP-9 aracılığıyla beş kanal üzerinden çevresel ses ve ''bass subwoofer'' etkisi elde etmek mümkün olacak. Bu özellikleriyle WMP-9 bilgisayarın parçası olmaktan çıkarak çok kaliteli bir müzik seti haline dönüşecek. 
+     WMP-9'un kaliteli video özelliklerinden yararlanabilmek için kullanıcıların hızlı internet bağlantısına sahip olmaları gerekiyor. 
+     Ancak İnternete telefon modemiyle bağlananların da, ürünün kalitesini farkedecekleri belirtildi. 
+     Bu arada, yeni player'in, telif hakkı kapsamında bulunan parçaların indirilmesini engelleyecek bir yazılımla birlikte geleceği açıklandı. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

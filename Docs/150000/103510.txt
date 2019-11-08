@@ -1,0 +1,41 @@
+<DOC>
+<DOCNO> 103510 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/08/23/yasam/yas08.html </URL>
+<DATE> 2002/08/23/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bırak klavyeyi gözlerin yazsın 
+</HEADLINE>
+<TEXT>
+
+     DIŞ HABERLER 
+
+     İngiliz bilim adamları, ekranda alfabetik sırayla görüntülenen harflere sadece gözle odaklanarak, hiç klavye kullanmadan bilgisayarda yazı yazmayı sağlayacak akıllı bir yazılım geliştirdi. Cambridge Üniversitesi’nde geliştirilen Dasher’ adlı yazılım, göz hareketlerini bir cihaz ve kamera ile takip edip, göz ekrandaki hangi harf üzerinde odaklandıysa o harfi seçip yazıyor. www.inference.phy.cam. ac.uk dasher ’ adresinden ücretsiz indirilebilen yazılım çok az tashih veriyor. 
+     
+
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 385717 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/11/son/sondun06.html </URL>
+<DATE> 2005/10/11/ </DATE>
+<TIME> 09.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+"Savaşçı robota" ilk adım... 
+</HEADLINE>
+<TEXT>
+
+     ''Savaşçı robot'' üretme sürecini başlatan ABD Savunma Bakanlığı Pentagon , bir arazi aracını modifiye ederek kendi başına hareket edebilir hale getiren üniversiteli araştırmacıları parayla ödüllendirdi. 
+     Stanford üniversitesi uzmanları, elektronik aygıtlarla donatarak tamamen kendi başına hareket edebilir hale getirdikleri Volkswagen marka araç için Pentagon'dan 2 milyon dolar ödül kazandı. Şoförü bulunmayan, uzaktan da kumanda edilmeyen 4x4, Nevada çölünde önceki gün yapılan 210 km menzilli yarışı kazandı. Yarışa 23 araç katıldı. 
+     Pentagon, ''savaşçı robot'' araştırmalarına başlangıç olur düşüncesiyle geçen yıl ilk kez yarışma düzenlemiş, ancak araçlardan hiçbiri bitiş çizgisine ulaşamamıştı. Bu yıl ise, 23 aracın beşi yarışı tamamlayabildi. ''Stanley'' adı verilen dizel motorlu Touareg, 210 km'yi 6 saat dakika 58 saniyede kat ederek birinci oldu. 
+     
+</TEXT>
+</DOC>

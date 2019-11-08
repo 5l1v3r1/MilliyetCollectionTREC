@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 390271 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/27/son/sonyas11.html </URL>
+<DATE> 2005/10/27/ </DATE>
+<TIME> 13.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sağırlar bundan sonra müzik hissedebilecek 
+</HEADLINE>
+<TEXT>
+
+     İngiltere'de üniversiteden yeni mezun bir mucit, işitme engellilerin de müziği ''hissedebilecekleri'' bir cihaz geliştirdi. 
+     Shane Kerwin'in ''Vibrato'' adını verdiği icat, sağırların parmaklarıyla değişik enstrümanlardan gelen sesleri, her biri için ayrı bir ''titreşim'' vibrasyon ile hissetmelerini sağlıyor. 
+     Normal bir hoparlöre bağlanan cihaz, müzik çaldığında her bir parmağa, notalar, ritmler ve enstrüman kombinasyonları arasındaki farkı kullanıcının hissedebileceği şekilde değişik titreşimler veriyor. 
+     Bu titreşimler normal bir hoparlöre bağlandığında, her bir enstrümanın sesini ayırt etmek ise olanaksız oluyor. 
+     Londra'nın Brunel Üniversitesi'nden kısa bir süre önce mezun olan Kerwin'in geliştirdiği cihaz, kullanıcılarına müziği, halen mümkün olandan çok daha dramatik ve gelişmiş şekilde hissetme olanağı sağlıyor. 
+     Müziği dokunarak iletme konusunda çok başarılı bulunan Vibrato'nun okullarda, sağır çocukların diğer çocuklarla müzik derslerini ortak yapabilmelerine olanak sağlaması bekleniyor. 
+     Kerwin, Vibrato'nun kullanıcılarına kendi müziklerini de yapabilmeleri şansı vereceğini, işitme özürlülerin de müziği keşfetme ve eğlenmelerine olanak tanıyacağını belirtiyor. 
+     
+</TEXT>
+</DOC>

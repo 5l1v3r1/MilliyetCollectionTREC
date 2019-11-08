@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 391567 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/02/ekonomi/eko06.html </URL>
+<DATE> 2005/11/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Net'te aramayı soru - cevaba döktü 
+</HEADLINE>
+<TEXT>
+
+
+EKONOMİ SERVİSİ 
+
+ABD'nin New York kentinde yaşayan bir Türk Rıza Can Berkan. Berkan, nükleer fizik doktoru. Aynı zamanda piyanist. Caz piyanisti Atilla Berkan'ın oğlu. Fizik dalında kitabı bulunan, filmlere müzik yapan Berkan, şu sıralar yeni ekonomi dalında önemli bir projenin hazırlığını yapıyor. New York'ta kurduğu 'Hakia' adlı yeni ekonomi şirketi, son yıllarda öne çıkan internette arama motoru pazarına giriş yapmaya hazırlanıyor. 
+
+Sorarak aranıyor 
+Google, Yahoo, MSN gibi dev arama motorlarıyla rekabete hazırlanan Hakia'nın en iddialı tarafı ise, internette arama yapılırken direkt olarak soru - cevap şeklinde çalışacak olan yeni bir sistem. Klasik arama motorlarında direkt olarak soru sormak yerine ilgili kelimeler art arda sıralarak arama yapılıyordu, yeni sistemde ise kullanıcı merak ettiği konuda soru sorarak, birkaç saniyede ilgili yanıtları alabilecek. Sistem, şu anda test aşamasında. Hakia'nın test adresi, 'www.hakia.com testing'. 
+Fince 'araştırmacı' anlamına gelen 'hakija' sözcüğünden türetilen Hakia tasarlanırken ABD'de girişim yatırımcılarından 5 milyon dolarlık sermaye desteği alınmış durumda. 
+
+
+</TEXT>
+</DOC>

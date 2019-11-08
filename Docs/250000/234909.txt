@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 234909 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/26/son/soneko31.html </URL>
+<DATE> 2004/04/26/ </DATE>
+<TIME> 15.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hırsızlara karşı akıllı alarm... 
+</HEADLINE>
+<TEXT>
+
+     Türkiye'de ev, işyeri ve otomobil hırsızlarına karşı 2 alarm cihazı tasarlanıp üretildi. 
+     Bilişim şirketi Mobiarts tarafından geliştirilen ve Turkcell şebekesi üzerinden sunulan Mobilarm ve Otomubul, GSM üzerinden çalışarak olası tehlikelere karşı kullanıcıyı hemen uyarıyor. 
+     İstanbul'da basın toplantısıyla tanıtılan cihazlardan ev ve işyerleri için üretilen Mobilarm'ın hareket dedektörü, giriş kapısının arkasına monte ediliyor. Verilen bilgiye göre, cihazın içine bir Turkcell SIM kartı yerleştiriliyor ve 3 farklı cep numarası, Mobilarm'a tanıtılıyor. 
+     Kumanda aleti olarak cep telefonu kullanılıyor. Ev ve işyerine hırsız girmesi halinde, cihazın sensörü hareketi algılayıp siren çalıyor, ayrıca hafızasına önceden tanıtılan 3 farklı cep telefonu numarasına kısa mesaj atarak durumu bildiriyor. Kendisine tanıtılan ilk cep telefonunu ise sesli olarak arayıp uyarıyor. 
+     Mobilarm, sadece kapıyı değil, istenilen her noktayı kontrol edebiliyor. Harici dedektör yardımıyla pencere, balkon gibi noktaları da tek bir cihazla kontrol altına almak mümkün oluyor. 
+     Araç bilgilerini 24 saat cep telefonuna yollayan akıllı araç takip cihazı Otomubul ise, aracın istenilen herhangi bir noktasına gizleniyor. 
+     İçine Turkcell SIM kartı takılan Otomubul'la otomobili takip etmek ve kumanda etmek cep telefonuyla mümkün hale geliyor. 
+     Kapıya park edilen otomobil çalınırsa cep telefonuna hemen uyarı mesajı gönderiliyor. SMS yardımıyla aracın o anda hangi GSM baz istasyonunun kapsamı altında olduğu öğreniliyor. 
+     Otomubul ile otomobil kornasını çaldırmak, uzaktan flaşörlerini çalıştırmak da mümkün olabiliyor. 
+     Her 2 ürünün fiyatının 175'er euro olduğu bildirildi. 
+     Mobilarm ve Otomubul'un tanıtım toplantısının ardından gazeteciler, mizansen olarak otomobille İstanbul sokaklarında gezen ünlü manken Eylem Şenkal'ı arayıp buldular. 
+     
+</TEXT>
+</DOC>

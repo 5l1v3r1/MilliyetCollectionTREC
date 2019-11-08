@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 300695 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/24/son/sontur48.html </URL>
+<DATE> 2004/12/24/ </DATE>
+<TIME> 19.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Telekom'da arıza yüzünden kullanıcılar internete bağlanamıyor 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekomünikasyon A.Ş'nin internet şebekesi TTnet'te meydana gelen arıza nedeniyle kullanıcılar internet bağlantısı sağlayamıyor. 
+     AA muhabirinin aldığı bilgiye göre, sistemde öğle saatlerinde başlayan problem, kullanıcıların internet bağlantısı kurmalarını engelliyor. 
+     Türk Telekom'dan konuya ilişkin yapılan yazılı açıklamada, ''TTnet şebekesinde bugün öğle saatlerinde bir sorun meydana gelmiştir. Sorunun kaynağı teknik ekiplerimizce araştırılmakta olup, çalışmalar hakkında kamuoyuna bilgi verilecektir'' denildi. 
+     
+     ÜLKE ÇAPINDA SORUN 
+
+     Bolu İl Telekom Müdür Yardımcısı Altan Atan, Türkiye genelinde internet erişiminde sorun yaşandığını belirterek, ''Telekom'un internet erişimini sağladığı Router cihazı arızalandı'' dedi. 
+     Bolu İl Telekom Müdür Yardımcısı Altan Atan, Türkiye genelinde internet erişiminde sorun yaşandığını belirterek, ''Yaşanan sorun sadece Bolu'ya özgü değil. Aldığımız bilgiye göre, Telekom'un internet erişimini sağladığı router cihazı saat 12.30 civarında çökmüş ve arızalanmış. Bu sitem Türkiye'nin yurt dışı ile internet bağlantısını sağlıyor. Yaşanan sorun nedeniyle özellikle TR uzantılı adreslere ulaşılamıyor, İstanbul ve birkaç il ise lokal bağlantılarla internet erişimi sağlamaya çalışıyor'' dedi. 
+     
+     İNTERNET KAFELER TEPKİLİ 
+
+     Türk Telekom'un ADSL adı verilen hızlı internet bağlantısına abone olduklarını belirten internet kafelerin sahipleri ise internet erişiminde son bir haftadır yaşanan sorunlar nedeniyle verimli olarak hizmet alamadıklarını belirterek, ''Telekom faturayı bir gün ödemesek hattımızı aynı gün kesiyor. Yaşanan sorunlar iletildiğinde ise duyarsız kalınıyor'' dediler. 
+     İnternet kafelerde internete girmek isteyen vatandaşlar ise sorun giderilemediği için bilgisayarların başında, sorunun giderilmesini bekliyor. 
+     
+     ARIZA TAMAMEN GİDERİLDİĞİNİ BİLDİRDİ 
+
+     Türk Telekomünikasyon A.Ş, internet şebekesi TTnet'in Ankara ve Acıbadem bölümlerindeki arızanın tamamen giderildiğini bildirdi. 
+     Türk Telekom'dan konuya ilişkin yapılan yazılı açıklamada, TTnet şebekesinde öğle saatlerinde genel bir arazının meydana geldiği belirtilerek, şunlar kaydedildi 
+     ''Teknik ekiplerimizin yoğun ve kesintisiz çalışmaları sonucu arızanın Ankara'daki bölümü 16.25 itibariyle, Acıbadem'deki bölümü de saat 16.45 itibariyle giderilmiştir. Tüm TTnet şebekesi ile ilgili çalışmaların saat 19.00'da tamamlanması ile sorun tamamiyle ortadan kalkmıştır. 
+     Kesintinin nedeni ile ilgili detaylı teknik açıklama da en kısa sürede yapılacaktır.'' 
+     
+</TEXT>
+</DOC>

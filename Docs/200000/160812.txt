@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> 160812 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/03/son/soneko44.html </URL>
+<DATE> 2003/06/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Para piyasalarında bugün... 
+</HEADLINE>
+<TEXT>
+
+     Hazine ihaleleri ve enflasyon verilerinin yakından izlendiği piyasalarda, Borsa günü yüzde 2.01 kayıpla kapattı. 
+     İstanbul Menkul Kıymetler Borsası İMKB Ulusal 100 Endeksi, 1. seansta 127.83 puan ve yüzde 1.10 oranında geriledi. 
+     Endeks, 2. seansta da süren kar satışlarıyla, 104.93 puan kayıpla 11,346.50 puandan kapandı. Endeksteki günlük gerileme ise 232.76 puan ve yüzde 2.01 olarak belirlendi. 
+     Hisse senetleri piyasasında günlük işlem hacmi, 614 trilyon 182 milyar 528 milyon lira olarak gerçekleşti. 
+     
+     DÖVİZ YÜKSELDİ 
+     Doların satış fiyatı serbest piyasada 12 bin lira, Merkez Bankası kurlarında 14 bin 289 lira yükseldi. 
+     Kapalıçarşı'da dün 1 milyon 430 bin liradan kapanan dolar, güne 1 milyon 434 bin liradan, 1 milyon 675 bin liradan kapanan Euro da 1 milyon 682 bin liradan başladı. 
+     Piyasa kapanışında doların satış fiyatı 1 milyon 442 bin liraya, Euro'nun satış fiyatı 1 milyon 695 bin liraya çıktı. 
+     Merkez Bankası, doların bugünkü efektif kurunu alışta 1 milyon 428 bin 574 lira, satışta ise 1 milyon 438 bin 625 lira olarak açıkladı. 
+     Böylece dolar, Merkez Bankası'nın dünkü kurlarına göre, alışta 14 bin 189 lira, satışta ise 14 bin 289 lira yükseldi. 
+     
+     TAHVİL-REPO 
+     İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda en fazla işlem gören 7 Temmuz 2004 vadeli bugün valörlü tahvilin bileşik faizi Cuma gününe göre 0.46 puan yükseldi. 
+     Piyasa kapanışında bu kağıdın aynı gün valörlü işlemlerinin basit getirisi yüzde 49.77, bileşik getirisi ise yüzde 48.77 olarak gerçekleşti. 
+     İMKB Tahvil ve Bono Piyasası Repo Pazarı'nda, gecelik faiz ortalama yüzde 41.00 olarak belirlendi. 
+     Bankalararası TL interbankında da gecelik faiz oranı, ortalama yüzde 41.00 oldu. 
+     
+     HAZİNE İHALELERİ 
+     Hazine Müsteşarlığı'nın bugün gerçekleştirdiği 2 yıl vadeli 6 ayda bir yüzde 3 kupon ödemeli dolar cinsinden tahvil ihalesinde bileşik faiz yüzde 7, 154 gün vadeli bono ihalesinde ise yüzde 45.95 oldu. 
+     Dolar ihalesinde net satış miktarı 971.3 milyon dolar, bono ihalesindeki net satış tutarı da 335.5 trilyon lira olarak belirlendi. 
+     
+</TEXT>
+</DOC>

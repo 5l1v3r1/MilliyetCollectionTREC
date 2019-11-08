@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> 291349 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/23/yazar/yilmaz.html </URL>
+<DATE> 2004/11/23/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Serpil YILMAZ  </AUTHOR>
+<HEADLINE>
+Bu kez patronlar devleti teşvik ediyor 
+</HEADLINE>
+<TEXT>
+
+
+Bu yıl TÜSİAD ve TBV tarafından ikincisi düzenlenen eTürkiye eTR Kongresi ve "eTürkiye" ödüllerinin amacı, devleti teşvik etmek. Oysa bugüne kadar tam tersini bilirdik devlet özel sektörü teşvik ederdi, etmeliydi .. 
+Türk Sanayici ve İşadamları Derneği TÜSİAD sanayinin modernleşmesine ilk katkıyı bilişimden önce, "kalite", daha sonra da bilgi toplumuna dönüşümü destekleyen "teknoloji" ödülleri ile vermişti. eTürkiye ödülleri başvurusunda, finale kalan kamu kurumları ve projeleri şöyle oldu 
+Adalet Bakanlığı Ulusal Yargı Ağı Projesi - UYAP 
+Denizcilik Müsteşarlığı e - Denizcilik 
+Dış Ticaret Müsteşarlığı İhracat Genel Müdürlüğü Dahilde İşleme Rejiminin Elekronik Ortamda Gerçekleştirilmesi Projesi 
+Sermaye Piyasası Kurulu - Kamuoyu Aydınlatma Platformu - KAP 
+Emniyet Genel Müdürlüğü Karayolu İyileştirilmesi ve Trafik Güvenliği - KİTGİ 
+Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü Merkezi Nüfus İdaresi Sistemi 
+Kamu İhale Kurumu Kamu İhaleleri İlan Yönetim Sistemi 
+Gelirler Genel Müdürlüğü Vergi Dairesi Otomasyon Projesi 2. Aşama-VEDOP 
+Eğitim Teknolojileri Genel Müdürlüğü Milli Eğitim Bakanlığı İl ve İlçe Milli Eğitim Müdürlükleri Yönetim Bilgi Sistemi 
+Sanayi ve Ticaret Bakanlığı e - Tüketici Sosyal Sigortalar Kurumu e - Bildirge Türkiye ve Orta Doğu Amme İdaresi Enstitüsü Yerel Yönetimler için Eğitim Malzemesi Geliştirme Projesi - YEREP 
+Yarışmanın yerel yönetimleri içine alan "eYerel Yönetim Hizmetleri Kategorisi" finalistleri ise Ankara Altındağ, Bursa Osmangazi, İstanbul Silivri, İstanbul Bahçeşehir Belediyeleri ile İstanbul Su ve Kanalizasyon İdaresi Genel Müdürlüğü oldu. 
+Bu ödül yarışında, kamuyu yüreklendirmenin yanı sıra, verilen hizmetin kamuoyu tarafından bilinmesi de önem taşıyor. 
+CeBIT Eurasia Bilişim Fuarı düzenleyicisi HİFAŞ Genel Müdürü Şafak Alpay, çağın en önemli ürünü olarak görülen bilişim teknolojilerinin, şeffaf ve katılımcı devletin alt yapısını oluşturduğunu anlatıyor. 
+Bilişimde Avrupa'nın Kanada, Avustralya ve Yeni Zelanda'nın gerisinde oldduğunu belirten Alpay, AB'de bilişim fonları bulunduğunu da sözlerine ekliyor. Ancak bu fonlardan Türkiye bugüne kadar tek kuruş kullanmamış. 30 Kasım'da Ankara'da düzenlenecek eTR Kongresi'ne konuşmacı olarak katılacak Avrupa Komisyonu, "eDevlet Ödülleri" eski Danışmanı Giuseppe Zilioli bu konuda bilgi verecek. 
+Alpay, "tek ekranda" yerel hizmetleri internet ortamına taşıyan Yalova Belediyesi'nde, yerel seçimlerden sonra bu hizmetlerin durduğunu söyledi. Nedenini merak ettim. 
+eDevlet bir yönetim anlayışına henüz dönüşmemiş mi 
+Ulaştırma Bakanı Binali Yıldırım ile geçtiğimiz günlerde Ankara'da bir sohbet toplantısına katılmıştım. Yıldırım burada Başbakan Yardımcısı Abdüllatif Şener başkanlığında ve Devlet Planlama Teşkilatı DPT Koordinatörlüğü'nde yürütülen "e - Dönüşüm" çalışmalarından örnekler veriyordu. 
+Yıldırım, AB müzakere sürecinde Ulaştırma Bakanlığı'nın, Ulaştırma ve Bilişim İletişim olarak ikiye ayrılacağını da söylüyordu. 
+Türk Telekom'un "Türkiye Portalı" çalışması yürüttüğü bilgisini de veren Yıldırım, önümüzdeki günlerde Bakanlar Kurulu kararı ile yeni bir ihale açılacağını da duyuruyordu. 
+
+
+
+</TEXT>
+</DOC>

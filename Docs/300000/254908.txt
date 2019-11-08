@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 254908 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/12/son/sonyas06.html </URL>
+<DATE> 2004/07/12/ </DATE>
+<TIME> 10.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternette ''dialer'' tuzağına dikkat .. 
+</HEADLINE>
+<TEXT>
+
+     
+     Tevfik Işık 
+
+     
+
+Hür Türkiye Teknoloji Platformu HTTP Başkanı Hakan Topuzoğlu, internet kullanıcılarının tüm uyarılara Yes cevabı verme alışkanlıklarının internet çetelerinin işini kolaylaştırdığını ileri sürdü. 
+     Topuzoğlu, AA muhabirine yaptığı açıklamada, internet kullanımının yaygınlaşmasıyla, kötü niyetli bazı kesimlerin internet kullanıcılarına yönelik hazırladıkları tuzakların da arttığına dikkati çekti. 
+     İnternette kullanılan ''Dialer'' isimli küçük programların, kullanıcıların dalgınlığı, dikkatsizliği ve bilinçsizliği nedeniyle büyük tuzaklar haline gelebildiğini ifade eden Topuzoğlu, şunları söyledi 
+     ''Dialer adı verilen programlar, internet kullanıcılarının telefon hattını uluslararası telefon servislerine yönlendiriyor. Kullanıcıların çok yüksek telefon faturaları ile karşılaşmalarına yol açan bu programların, fark edilmemesi için bazı hileli yöntemler kullanılıyor. İnternet kullanıcıları, farkında olmadan bu programları indirip tuzağa düşüyorlar. Kullanıcıların, tüm uyarılara Yes cevabı verme alışkanlıkları internet çetelerinin işini kolaylaştırıyor. İnsanlar, internette istedikleri bilgilere ulaşabilmek için çoğu zaman yabancı dilde yazılan ve anlamadıkları tüm uyarılara Evet cevabı veriyorlar.'' 
+
+     
+</TEXT>
+</DOC>

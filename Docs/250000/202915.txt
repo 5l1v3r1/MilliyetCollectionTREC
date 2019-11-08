@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 202915 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/18/son/sondun09.html </URL>
+<DATE> 2003/12/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternette elektronik kitap mağazası... 
+</HEADLINE>
+<TEXT>
+
+     Akrobat okuyucularıyla tanınan Adobe firması, internette sanal bir elektronik kitap mağazası açtığını bildirdi. 
+     Mağazada Harper Collins, Simon Schuster ve Random House gibi tanınmış yayınevleri tarafından yayımlanan kitaplar yer alıyor. Ayrıca siteden çeşitli başka kültürel sitelere link veriliyor. 
+     Adobe firması başkanı James Heeger, internette yer alan elektronik kitapların, Adobe tarafından geliştirilen PDF formatında olduğunu söyledi. PDF formatı, internette yaygın biçimde kullanılıyor. 
+     Yetkililerin verdiği bilgiye göre, yayıncılık alanında geleceğin seçimi gözüyle bakılan elektronik kitaplar, artık kişisel ya da el bilgisayarları aracılığıyla kolaylıkla okunabiliyor. 
+     ABD'nin en büyük kitabevi olan Barnes Noble, eylül ayında internet sitesinden elektronik kitap satışını durdurduğunu açıklamış ve bu gelişme, elektronik kitap sektörüne darbe olarak nitelendirilmişti. 
+     Elektronik kitaplar, Adobe'un geliştirdiği PDF ya da Microsoft tarafından geliştirilen MRF formatında yayımlanıyor. 
+     
+</TEXT>
+</DOC>

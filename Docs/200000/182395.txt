@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 182395 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/15/son/sondun01.html </URL>
+<DATE> 2003/09/15/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+NASA, uzay aracına intihar dalışı yaptıracak... 
+</HEADLINE>
+<TEXT>
+
+     Amerikan Ulusal Havacılık ve Uzay Dairesi NASA, 1,5 Milyar dolara mal olan uzay aracı Galileo'ya, Jüpiter'in uydusu ''Europa''ya, bakteri bulaştırmaması için intihar dalışı yaptıracak. 
+     Jüpiter'in yörüngesinde dönmekte olan sonda aracı Galileo, pazar günü bu gezegenin fırtınalı atmosferine, saatte 173.770 kilometre hızla dalacak ve yok olacak. 
+     Uzay aracının böylece, dünyadan taşımış olabileceği her tür mikroorganizmayı, yüzeyi buzla kaplı olan Europa'ya çarpması halinde bu uyduya bulaştırma riski bertaraf edilecek. 
+     1989'da fırlatılan Galileo, Jüpiter'in çevresinde 35 tur yaptı. Aracın 11 tur daha yapması planlanıyordu, ancak intihar ettirilmesine karar verildi. 
+     NASA, Güneş Sistemi'ne gönderdiği araçları mikroplardan tamamen arındırıyor. Galileo'nun Jüpiter'in yörüngesini, görevi sonunda terk etmesi planlandığı için bu yapılmadı. Ancak yörüngedeki görev planlananın öncesinde bitiriliyor. Bunun nedeni de yerçekimi kuvvetinin uzay aracını yörüngesinden çıkarması ve Jüpiter'in, Europa da dahil uydularından birine çarpması olasılığı. 
+     Bilimadamları özellikle Europa'yı korumayı amaçlıyorlar çünkü insanlığın ileride bu uyduda koloniler kurması olasılığı varken, şimdiden mikrop kapmasını istemiyorlar. 
+     
+</TEXT>
+</DOC>

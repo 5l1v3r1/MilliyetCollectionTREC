@@ -1,0 +1,56 @@
+<DOC>
+<DOCNO> 128461 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/01/03/yasam/yas03.html </URL>
+<DATE> 2003/01/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Gole çip’ler karar verecek 
+</HEADLINE>
+<TEXT>
+
+İçinde elektronik çip bulunan futbol topları, Almanya’da ilk kez denendi. Böylece Top gol çizgisini geçti mi ’ tartışmaları bitecek 
+     ŞENOL ÇALABAKAN Frankfurt 
+
+     Son olarak Fenerbahçe - Trabzon ve Denizli - Beşiktaş maçlarında yaşanan top gol çizgisini geçti, geçmedi’ tartışmaları çok yakında tamamen tarihe karışacak. 
+     Artık futbol toplarının içine yerleştirilen çipler, tartışmalı pozisyonların hatasız olarak hakemlere aktarılmasını sağlayacak. Alman Stern dergisinin haberine göre, 7.5 milyon euro harcanan proje, Almanya’nın Nürnberg kentindeki Franken Stadyumu’nda ilk kez denendi. 
+     
+     Nasıl çalışıyor 
+     Alman İşletme Mühendisi Rene Dünkler’in geliştirdiği dijital hakem sistemi, basit şekilde şöyle çalışıyor 
+     Özel yapım top içine yerleştirilen elektronik bir çip, saha içine yerleştirilen alıcılara sinyal gönderiyor. Saniyede 100 kez gönderilen sinyaller, topun saha içindeki konumunun kesin bir şekilde belirlenmesini sağlıyor. Bilgisayarda üç boyutlu olarak görülen sonuç, hakemin bileğinde saat gibi taşıyacağı bir alıcıya aktarılıyor. Böylece, hakem kuşkuya düştüğü pozisyonlarda hata yapmadan karar verebiliyor. 
+     
+     Birkaç sorun kaldı 
+     Ancak her şeye rağmen, sistemin uygulamasında bazı zorluklar da söz konusu. 
+     Top içine yerleştirilen vericilerin sarsıntılara daha dayanıklı ve daha küçük olması gerekiyor. Ayrıca saha içindeki mobil telefon gibi elektronik cihazlardan kaynaklanabilecek frekans bozuklukları da, sistemi yanıltabiliyor. Uzmanlar, bu sorunları çözmek için proje üzerinde çalışmalarını sürdürüyor. 
+     
+
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 241542 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/21/guncel/gun01.html </URL>
+<DATE> 2004/05/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+NATO'nun güvenliği Türkiye'ye emanet 
+</HEADLINE>
+<TEXT>
+
+
+NATO'nun haberleşmesinde kullanılan kriptoları yapan TÜBİTAK, şimdi de NATO'nun geniş bant haberleşme sistemi için açılan uluslararası ihalede Almanya ve İngiltere ile yarışıyor 
+
+
+NATO'nun "çok gizli" haberleşmesinde güvenle kullanabileceği kripto cihazını üreten TÜBİTAK, açılan uluslararası ihalede kıyasıya yarış veriyor. TÜBİTAK ihaleyi kazanırsa, NATO ülkeleri, kararg hlardaki testlerden de başarıyla geçen ISDN Kripto BRI cihazıyla haberleşecek. 
+
+Dünyanın 10 ülkesinden biriyiz 
+Ulusal Elektronik ve Kriptoloji Araştırma Enstitüsü UEKAE Müdürü Önder Yetiş, "Teknolojik bilgi birikimimiz şu anda çok üst seviyede. Kriptoloji konusunda dünyanın ilk 10 ülkesinden birisiyiz" dedi. 
+Ürettikleri iki algoritmanın kripto "NATO algoritması" olarak kabul edildiğini kaydeden Yetiş, tüm NATO'da kullanıldığını bildirdi. NATO Askeri Komitesi'nin, TÜBİTAK'ın geliştirdiği üç kriptoloji cihazını da "NATO cihazı" olarak kabul ettiğini belirten Yetiş, ''Bunun anlamı şudur NATO, gizli bilgileri dahil, bilgi güvenliğini bu cihazlara emanet ediyor. Bu da bizim teknolojik olarak geldiğimiz noktayı gösteriyor" diye konuştu. 
+
+Tamamı Türk teknolojisi 
+NATO'nun geniş bant haberleşme sistemlerinde kullanılmak üzere kripto cihazı geliştirilmesi için açtığı yarışmaya katılarak istenilen niteliklere uygun cihazı geliştirdiklerini de anlatan Yetiş, şunları söyledi 
+"Belçika'da NATO Kararg hı'nda işlevsel testler yapıldı. Bizimle birlikte testleri geçenler, İngilizlerin Marconi ve Almanların Rohde - Schwarz şirketleri. Cihazlar ABD Pentagon'da bulunan SECAN denilen grubun güvenlik testlerinden de başarıyla geçti. Sonuçlanma aşamasına gelen bu ihaleyi büyük bir ihtimalle kazanacağız." 
+Cihazların en az 12 yıl boyunca NATO'nun haberleşmesinde kullanılacağını, bakım ve geliştirme işlemlerinin TÜBİTAK tarafından yapılacağını vurgulayan Yetiş, "Algoritması, cihazın tasarımı ve üretimi tamamen Türk teknolojisidir" şeklinde konuştu. 
+
+
+</TEXT>
+</DOC>

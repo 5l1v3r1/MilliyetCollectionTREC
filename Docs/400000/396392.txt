@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 396392 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/19/son/sonyas06.html </URL>
+<DATE> 2005/11/19/ </DATE>
+<TIME> 10.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+100 dolarlık laptop'lar 2006'da çıkıyor 
+</HEADLINE>
+<TEXT>
+
+     CNNTÜRK 
+
+Gelişmekte olan ülkelerdeki çocukların eğitimine yardım amacıyla üretilecek 100 dolarlık dizüstü bilgisayarların üretimine gelecek yıl başlanacak. 
+     Massachusetts Teknoloji Enstitüsü'nden MIT Nicholas Negroponte, 2006 yılı sonuna kadar milyonlarca dizüstü bilgisayar üretmeyi planladıklarını söyledi. 
+     Elektrikle çalışan bir adaptörün yanı sıra, elektriğin olmadığı durumlar için bir dinamoya da sahip olacak 100 dolarlık dizüstü bilgisayarlar, çocukların bir yandan öğrenirken bir yandan da birbirleriyle etkileşim içinde olmalarını sağlayacak. 
+     'Yeşil makine' olarak adlandırılan dizüstü bilgisayarlar, normal bir bilgisayar veya notebook gibi kullanılabilecek. Kullanımı kolaylaştırmak için makinenin arkasında bir imleç veya önünde dokunmatik bir alan bulunacak. 
+     Makineler ayrıca, elde kullanılan oyun makineleri gibi kullanılabilecek ve televizyon olarak da görev yapacak. 
+     
+     Heyecanlandıran pasta 
+
+     150 milyon adet üretilmesi planlanan 100 dolarlık dizüstü bilgisayarların üretimine henüz başlanmasa da, bu büyük yatırım dünyanın dev bilişim firmalarının da ilgisini çekiyor. 
+     Profesör Negroponte, bu konuda en istekli iki ülke olan Brezilya ve Tayland'dan, şubat ayında ilk dizüstü bilgisayarlar üretilmeden önce harekete geçmemelerini istedi. 
+     
+     Minimal tasarım 
+
+     100 dolarlık dizüstü bilgisayarlarda maliyetler mümkün olduğunca düşük tutuluyor. Bilgisayarda standart dizüstü bilgisayarların aksine sekiz inçlik bir ekran bulunuyor. 
+     İki işlevli olan ekran yazı yazarken yüksek, internette gezinirken ise düşük çözünürlüklü çalışıyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 187776 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/10/son/soneko25.html </URL>
+<DATE> 2003/10/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hazine'nin değişim ihalesine piyasa yapıcı bankalar katılabilecek 
+</HEADLINE>
+<TEXT>
+
+     Hazine Müsteşarlığı tarafından, 14 Ekim'de yapılacak olan değişim ihalesine ilişkin kurallar açıklandı. 
+     Merkez Bankası'ndan yapılan açıklamaya göre, söz konusu değişim ihalelerine sadece, piyasa yapıcı bankalar katılabilecek. İhalede, satılan kıymet fiyatı 75 bin 977 lira, değişim tarihi 15 Ekim 2003 ve en son teklif saati 12.00 olarak belirlendi. 
+     Değişim ihalelerinde teklif fiyat ihale sistemi uygulanacak ve teklifler EFT ile gönderilecek. 
+     İhalelerde Hazine tarafından geri alınan kıymet için nominal ve fiyat teklifi verilmek suretiyle teklif gönderilecek. Minimum teklif miktarı nominal 250 milyon lira olarak belirlenirken, teklifler 5 milyon liranın katları şeklinde gönderilecek. Değişim ihalelerinde Rekabetçi Olmayan Teklif ROT hakkı ve ihale sonrası değişim hakkı yüzde 5 kullandırılmayacak, ihale sonrası teklif hakkı ise kullandırılacak. 
+     İhale sonrası teklif hakkı değişim ihalesi yapılması nedeniyle devlet iç borçlanma senedi DİBS değişimi olarak yapılacak. Değişime konu tutar hesaplanırken, piyasa yapıcısı bankanın ihalede gerçekleştirdiği net değişim tutarının yüzde 20'si oranında DİBS'in nominal karşılığı ilave değişime konu olacak. Söz konusu işlem valör günü değişim günü saat 14.00'e kadar kabul edilecek. 
+     Açıklamada, bu kuralların gerçekleştirilecek tüm değişim ihalelerinde geçerli olacağı, kurallarda değişiklik olması halinde ayrıca ilan edileceği de belirtildi. 
+     
+</TEXT>
+</DOC>

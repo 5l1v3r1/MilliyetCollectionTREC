@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 390430 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/28/son/soneko23.html </URL>
+<DATE> 2005/10/28/ </DATE>
+<TIME> 12.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa günü 235 puanlık kayıpla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeksi, dünkü kapanışa göre 234.79 puan azalarak, 31,038.52 puandan kapandı. 
+     1. seansta, hisse senetlerinin ortalama değer kaybı yüzde 0.75 oldu. 
+     Dün 31,273.31 puandan kapanan İMKB Ulusal 100 Endeksi, ilk seansa 57.62 puan azalarak 31,215.69 puandan başladı. İlk yarıyı 30,985.30 puandan geçen endeks, en düşük 30,922.66 puana kadar gerilerken, en yüksek 31,273.31 puanı gördü. 
+     Seans sonunda mali endeks 500.07 puan azalarak 47,488.95 puana, hizmetler endeksi 147.56 puan azalarak 15,339.35 puana gerilerken, sanayi endeksi 20.06 puan artarak 24,760.04 puana yükseldi. 
+     Böylece önceki kapanışa göre, mali grup hisseler ortalama yüzde 1.04, hizmetler grubu hisseler ise yüzde 0.95 oranında değer kaybetti, sanayi grubu hisseler yüzde 0.08 oranında değer kazandı. 
+     1. seansta işlem gören toplam 306 hisse senedinden 92'si değer kazandı, 148'i değer kaybetti, 66 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta, 377 milyon 923 bin 538 YTL'lik işlem hacmi oluştu. 
+     1. seansta Erdemir, İş Bankası C , Doğan Holding, Akbank ve Tüpraş en çok işlem gören hisse senetleri olarak belirlendi. 
+     29 Ekim Cumhuriyet Bayramı nedeniyle öğleden sonra yarım gün resmi tatil olan bugün İMKB'de 2. Seans yapılmayacak. 
+     
+</TEXT>
+</DOC>

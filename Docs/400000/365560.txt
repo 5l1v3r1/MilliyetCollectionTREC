@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 365560 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/30/guncel/axgun02.html </URL>
+<DATE> 2005/07/30/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Telekom müdürünün e-mail şifresi kırıldı 
+</HEADLINE>
+<TEXT>
+
+
+TBMM Yolsuzlukla Mücadele Komisyonu Üyesi AKP'li Hamza Albayrak'ın oğlu Emre Albayrak, Telekom Genel Müdürü'nün e-maillerini izlemekle suçlanıyor. Albayrak ise Telekom'u suçluyor 
+
+Tolga Şardan - Ankara 
+
+Türk Telekom Genel Müdürü Mehmet Ekinalan, kendisine ait elektronik posta e-mail kutusuna gizlice girildiği iddiasıyla savcılığa suç duyurusunda bulundu. Savcılığın başlattığı soruşturmada, e-mail kutusuna gizli giriş yapan IP ınternet protokol numarasının, TBMM Yolsuzlukla Mücadele Komisyonu üyesi olan AKP Amasya Milletvekili Hamza Albayrak'ın oğlu Emre Albayrak'a ait olduğu ortaya çıktı. 
+Milliyet'in aldığı bilgiye göre, Ekinalan, bir süre önce kendisine ait e-mail kutusu ve hesabına yabancı bir kişinin giriş yaparak gizlice elektronik mesajlarını okuduğunun farkına vardı. Bunun üzerine Ekinalan, olayın ortaya çıkarılmasını sağlamak amacıyla Ankara Cumhuriyet Başsavcılığı'na suç duyurusunda bulundu. Ekinalan dilekçesinde, 3 Nisan-26 Mayıs tarihleri arasında mail hesabına giren IP adresinin tespit edilmesini istedi. 
+Başsavcılık, Ekinalan'ın suç duyurusu üzerine hazırlık soruşturması başlattı. Soruşturma kapsamında suç tarihleri arasında Ekinalan'ın adresine giren 2 adet IP numarası tespit edildi. Bulunan ilk IP numarası üzerinde yapılan araştırma, Ekinalan'ın mail adresine nereden girildiğinin tespit edilememesi üzerine takipsizlikle sonuçlandı. 
+
+İkinci adres Albayrak'a ait 
+İkinci IP adresinin, bilişim sektöründeki bir firmada üst düzey yönetici olan, "Yolsuzlukların Sebepleri, Ekonomik ve Sosyal Boyutlarının Araştırılarak Alınması Gereken Önlemlerin Belirlenmesi Amacıyla Kurulan Meclis Araştırması Komisyonu" üyesi Hamza Albayrak'ın oğlu Emre Albayrak'a ait olduğu belirlendi. Bunun üzerine Emre Albayrak'ın ifadesine başvuruldu. 
+Albayrak, "sırrın mahsumiyetini ihlal" ve "izinsiz olarak e-mail okumak" suçlarını işlediği iddiasıyla başlatılan soruşturma çerçevesinde verdiği ifadede, Ekinalan'ın illegal yollardan kendisine ait IP numarasını tespit ettirdiğini öne sürdü. Albayrak, "Babam Meclis Yolsuzlukları Araştırma Komisyonu Başkan Vekilliği yaptı. Ekinalan'ın yolsuzluklarını ortaya çıkardı diye bunları yaptı" diyerek, Ekinalan'dan şik yetçi oldu. 
+Çalıştığı şirketin kullandığı IP numarasının Türk Telekom tarafından verildiğini belirten Albayrak, "Telekom'da kayıtlı bu numaram kullanılarak Ekinalan'ın hesabına girilmiş de olabilir. Ben olsam neden kendi çalıştığım şirketten bağlantı kurayım ki Giderim bir internet kafeden girerim" dedi. 
+
+Hapis ve para cezası 
+1 Haziran'da yürürlüğe giren yeni TCK'ya göre, başka birisine ait bir sisteme gizlice girerek orada kalmaya devam eden kimse, 2 yıla kadar hapis ve adli para cezasıyla yargılanıyor. Bu fiil nedeniyle sistemin içerdiği veriler yok olur veya değişirse, kişiye verilecek hapis cezası 4 yıla kadar çıkabiliyor. 
+
+
+</TEXT>
+</DOC>

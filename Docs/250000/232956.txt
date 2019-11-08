@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 232956 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/19/son/sonyas04.html </URL>
+<DATE> 2004/04/19/ </DATE>
+<TIME> 07.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternet kullancılarının altıda biri kablosuz... 
+</HEADLINE>
+<TEXT>
+
+     ABD'de yapılan bir araştırma, internet kullanıcılarının altıda birinin yaklaşık yüzde 17 , kısa adı Wi-Fi olan kablosuz internet hizmetinden yararlandığını ortaya koydu. 
+     Araştırmayı yapan ''Pew İnternet American Life Project'' adlı kar amacı gütmeyen kuruluş, bu oranın hızla artmakta olduğuna dikkati çekti. 
+     Bu arada, 27 yaşın altındaki gençlerin, diğer yaş gruplarına oranla kablosuz internete en az 2 kat daha fazla ilgi gösterdikleri de belirlendi. 
+     ABD'de yetişkinlerin yaklaşık yüzde 75'i bilgisayar kullanıyor, yüzde 63'ü ise internetten yararlanıyor. 
+     Aynı araştırmada, internet üzerinden yapılan açık artırmalara katılma oranının yaklaşık yüzde 25, internetten mal satın alma oranının yüzde 65 olduğu ortaya çıktı. 
+     
+</TEXT>
+</DOC>

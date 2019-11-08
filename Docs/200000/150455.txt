@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 150455 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/04/17/son/soneko13.html </URL>
+<DATE> 2003/04/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+AYCELL'in, GPRS hizmeti ücretleniyor... 
+</HEADLINE>
+<TEXT>
+
+     Yurtiçinde ve yurtdışında kapsama alanını genişleten AYCELL, kuruluşundan bugüne kadar ücretsiz olarak sunduğu GPRS hizmetine, 1 Mayıs'tan tarihinden itibaren ücret uygulayacağını bildirdi. 
+     AYCELL'den yapılan açıklamada, diğer GSM operatörlerine kıyasla daha avantajlı olan yeni uygulamada abonelerin, 1 Mayıs'tan itibaren 1 Kbyte'lık data için KDV dahil 950 lira ücret ödeyecekleri kaydedildi. 
+     Açıklamaya göre, 3,5 Kbyte olan e-mail için 3.325 lira, 24 Kbyte olan world sayfası için 22.800 lira, 1 Kybte olan wap sitesine bağlanmak için 950 lira, 10 Kybte olan wap uygulaması için 9.500 lira, 50 Kybte olan web sitesi için 47.500 lira ödeme yapılacak. 
+     Aycell abonesi, 5MB 1MB 1024 Kbyte data kullanımı yaptığında 4 milyon 864 bin lira ücret ödeyecek. 
+     Abone sayısı kısa zamanda 750 bine ulaşan ve 12 ülkedeki 15 operatörle anlaşmasını tamamlayan AYCELL'in konuşma tarifesinin de, abonelere diğer operatörlere oranla daha avantajlı olanaklar sunduğu kaydedildi. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

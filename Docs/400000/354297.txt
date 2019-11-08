@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 354297 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/22/son/sondun06.html </URL>
+<DATE> 2005/06/22/ </DATE>
+<TIME> 08.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnterneti en çok sansürleyen ülke İran 
+</HEADLINE>
+<TEXT>
+
+     İran'ın, interneti en çok sansürleyen ülke olduğu öne sürüldü. 
+     Harward, Toronto ve Cambridge Üniversitesi'nden araştırma görevlilerinin yaptığı ''OpenNet İnitiative'' adlı çalışma, İran'ın politikayı, cinselliği konu eden, kadın haklarını işleyen birçok siteyi sansürlediğini, üstelik bunu Amerikan teknolojisi kullanarak yaptığını ortaya koydu. 
+     Araştırmada, internette birçok siteyi sansürleyen İran'da yazılımları kullanılan Amerikan Secure Computing isimli firmanın da İran'ın ''suç ortağı'' olduğu iddia edildi. 
+     İran'da takibe alınan internet sitelerinin yüzde 34'ünün sansürlendiği, sansürlenen sitelerden İngilizce yayın yapanların Farsça yayın yapanlara nazaran çok daha fazla olduğu bildirildi. 
+     Harward Üniversitesi'nde bulunan internet merkezinin direktörü John Palfrey, ''Aynı Çin gibi, İran da filtreleme işlemlerini internet dünyasındaki teknolojik değişimleri kullanarak düzenliyor. Bunu da özgürce fikrini beyan etmek isteyenleri engelleyerek, kedinin fareyle oynadığı gibi yapıyor'' ifadesini kullandı. 
+     Toronto Üniversitesi'nden Ronald Deibert de İran sansürü üzerine yaptıkları çalışmanın, bu sansürün ifade özgürlüğünü ve bilgiye ulaşmayı tehdit ettiğini ortaya koyduğunu belirtti. 
+     
+</TEXT>
+</DOC>

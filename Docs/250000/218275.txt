@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 218275 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/27/son/soneko23.html </URL>
+<DATE> 2004/02/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+TRLIBOR oranları... 
+</HEADLINE>
+<TEXT>
+
+     Bankalararası Türk Lirası Referans Faiz Oranı TRLIBOR , gecelik faizde yüzde 24,8786'ya yükseldi. 
+     TRLIBOR, gecelik faizde dün yüzde 24,7000 olmuştu. 
+     Bugün açıklanan TRLIBOR oranları, vadelerine göre şöyle 
+     
+     
+VADE ORAN Gecelik 24,8786 1 Haftalık 25,0543 1 Aylık 25,0543 2 Aylık 25,0971 3 Aylık 25,0686 6 Aylık 25,0686 9 Aylık 25,1371 1 Aylık 25,1114 
+     
+</TEXT>
+</DOC>

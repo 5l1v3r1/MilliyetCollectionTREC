@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 249118 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/18/son/sonyas06.html </URL>
+<DATE> 2004/06/18/ </DATE>
+<TIME> 10.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ünlü hacker Mitnick, diğer hackerlardan yardım istedi 
+</HEADLINE>
+<TEXT>
+
+     İnternet tarihinin ünlü siber korsanlarından Hacker Kevin Mitnick, hack öykülerinin yer alacağı bir kitap hazırlamak için diğer korsanlardan yardım istedi. Mitnick, en etkili hack hikayesine 500 dolar ödül verecek. 
+     Mitnick'in web sitesinde yer alan habere göre, bazı büyük şirketlerin bilgisayarlarını hack ettiği için tutuklanan ve 5 yıl hapis kaldıktan sonra serbest bırakılan Mitnick, Hacker'lara kendi hikayelerini anlatmaları için çağrı yaptı. 
+     Tahliye koşulları nedeniyle 2010 yılına kadar kendi hack hikayelerini anlatmasının yasak olduğunu belirten Mitnick, hackerlardan en etkileyici hikayeleri yazıp göndermelerini istedi. Eğer gönderilen hikaye, kitaba alınırsa hackera Kevin Mitnick'in imzaladığı, yazarın bir önceki kitabı ''The Art of Deception'' hediye edilecek. Hack metotları ya da saldırı için seçilen hedefin zorluğu açısından en etkileyici bulunan hikaye de 500 dolarla ödüllendirilecek. Kitapta her hikayenin sonunda hack edilen sistemdeki güvenlik açıklarıyla ilgili bilgi verilen ayrıntılı bir teknik analiz de yer alacak. 
+     Hacker'ların kimliklerinin açığa çıkmayacağı konusunda tüm korsanlara garanti veren Mitnick, hacker isterse hikayenin takma isimle yayınlanacağını belirtti. 
+     
+</TEXT>
+</DOC>

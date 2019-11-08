@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 205963 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/02/son/sondun11.html </URL>
+<DATE> 2004/01/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Mars'ın fethi... Amerikalılar, yarın gece Mars'a robot indiriyor 
+</HEADLINE>
+<TEXT>
+
+     Beagle 2 adlı Avrupalı robotun Mars'ta kaybolmasından sonra, bu kez Amerikalılar Kızıl gezegene robot indiriyor. 
+     Avrupa Uzay Ajansı'nın 25 Aralık'ta Mars'a indirdiği, fakat hiç haber alamadığı Beagle 2 robotu, Kızıl gezegen olarak da anılan gezegende yaşam izi arayacaktı. Amerikan Ulusal Havacılık ve Uzay Dairesi'nin NASA , yarın gece Mars yüzeyine indirmeyi planladığı iki robottan ilki de aynı hedef peşinde ''koşacak.'' Beagle 2 robotu, 25 Aralık gecesinden beri sessiz. Belki bir kraterin içine yuvarlandı, belki antenleri açılmadı, belki Mars atmosferine girerken parçalandı kimse bilmiyor. 
+     
+     İLK BAŞARI 
+     Mars macerasında başarı Amerikalıların oldu. 1976 yılında Mars'a Viking adlı iki sonda yollandı. 1997'de Pathfinder sondası, Mars'a Sojourner adlı robotu indirdi. Robot, Mars toprağında birkaç metre yol almayı başardı. 
+     Amerikalıların diğer başarıları, Mars yörüngesine 1997'de oturtulan Mars Global Surveyor ile 2002'de oturtulan Mars Odyssey sondaları oldu. Bunlarla Mars yüzeyi incelendi, harita çıkarıldı. 
+     NASA, bunlardan önce başarısızlıklara uğramadı değil. 1992'de Mars Observer fırlatıldı. Kızıl gezegenin yörüngesine girmesi planlanan üç tonluk sondanın fırlatılışı ve yolculuğu iyi geçti, lakin Mars'a yaklaştığında her şey ters gitmeye başladı. İletişim koptu, 1 milyar dolarlık araç kayboldu. 
+     1999 sonlarında iki başarısızlık daha yaşandı Mars Climate Orbiter ve Mars Polar Lander uydularının seferleri sonuçsuz kaldı. 
+     
+     İLK BAŞARISIZLIK 
+     ABD'nin Mars macerasındaki ilk başarısızlığı 1964 yılına rastlar. Mariner 3 adlı uydu, 1964'de fırlatıldıktan kısa süre sonra kayboldu. İkinci başarısızlık 1971'de geldi. Mariner 8 uydusu da fırlatıldıktan sonra kayboldu. 
+     Ruslara gelince, onların bütün Mars seferleri hezimetle bitti. Mars'a gitmek için 1960'dan itibaren 15 kadar sefer düzenleyen Ruslar hep hüsrana uğradı. Başarısızlıklarının en büyüğü de Mars-96 uydusu oldu 1996'da fırlatılan 6.7 tonluk sonda, roketlerindeki arıza yüzünden Dünya yörüngesinden çıkamadı, iki gün sonra da yeryüzüne düştü. 
+     NASA yetkilisi Ed Willer, geçen haziran ve temmuzda Mars Exploration Rover adlı uyduların fırlatılmasından bu yana hep Mars macerasının zorluğuna dikkati çekti. Willer, son olarak Avrupalı Beagle 2'nin başına geleni anımsatarak, Mars yolculuğunun sert rüzgarlar, engebeli arazi ve genel anlamda Kızıl gezegenin uygunsuz koşullarına dikkati çekti ve ''Mars'ta gezinmek, pazar öğleden sonra kumsalda gezinmeye benzemiyor...'' dedi. 
+     
+     AKILLI ROBOTLAR 
+     NASA'nın Mars'a indireceği ''akıllı'' iki Rovers robotu, uzmanların deyimiyle ''Kızıl gezegenin tuzaklarından kurtulmayı sağlayabilecek'' teknolojiye sahip. 
+     Mars'ta 90 gün boyunca çalışıp çabalayacak olan Roverlar, kameraları ve üç boyutlu görüntüleme tekniğiyle çevrelerinde bulunan nesneleri saptayabilecek, herhangi bir çukur, kaya ya da yükseltiyi fark edip bunların çevresinden dolaşabilecek. 
+     Uzmanlara göre, robotlar, jeolog gibi çalışarak Mars'ın yüzey özelliklerini araştıracak, Mars'ta yaşam izi arayacak. 
+     
+</TEXT>
+</DOC>

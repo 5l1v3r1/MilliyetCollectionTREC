@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 385607 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/10/son/sonyas06.html </URL>
+<DATE> 2005/10/10/ </DATE>
+<TIME> 09.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bu rallide sürücü yok Robot araçlar, Nevada Çölü'nde 240 km yarıştı 
+</HEADLINE>
+<TEXT>
+
+     Washington DHA 
+
+ABD Savunma Bakanlığı Pentagon sponsorluğunda Nevada’daki Mojave Çölü’nde organize edilen sürücüsüz ’robot araba’ yarışmasında 4 araç bitiş çizgisine ulaşmayı başardı. 
+     Amerikan İleri Araştırma Projeleri Dairesi’nin DARPA düzenlediği ’Grand Challenge’ adlı yarışmaya, zor arazi koşullarıyla kendi başına mücadele edebilecek şekilde donatılmış, birbirinden değişik tasarımlara sahip 23 araçtan 22’si katıldı. 
+     8 günlük eleme turlarının ardından, 43 araç arasından 23 aday finale kalmıştı. Bunlardan 22’si dün çeşitli zaman aralıklarıyla yola çıktı ve 4’ü yarışmayı bitirmeyi başardı. Henüz start almayan 6 tekerlekli bir robot aracın gündüz vakti yarışabilmesi için yetkililer yarışa bugün devam etmeyi planlıyor. O nedenle henüz yarışın galibi açıklanmış değil. 
+     
+     ROBOTLARIN, ASKERLERİN YERİNİ ALMASI UMUDU GÜÇLENDİ 
+
+     Savaşlarda robotların bir gün askerlerin yerini alabileceği yönünde bilim adamlarına umut veren yarışmayı ilk bitiren, Stanford Üniversitesi’ne ait dönüştürülmüş bir Volkswagen Stanley oldu. Bu araç, 240 kilometrelik kayalık ve birbirinden zorlu engellerin bulunduğu, 2 milyon dolar ödüllü yarışmayı 7.5 saatte bitirmeyi başardı. Carnegie Mellon Üniversitesi’ne ait ’H1ghlander’ adlı dönüştürülmüş bir Hummer ve ’Sandstorm’ adlı bir Humvee ile Metarie bölgesinden öğrencilerin hazırladığı bir Ford Escape Hybrid de yarışmayı bitirebilen araçlar arasında yer aldı. 
+     
+     DIŞARIDAN HİÇBİR MÜDAHALEYE İZİN VERİLMEDİ 
+
+     Üniversiteler ve mucitler tarafından özel olarak küresel yer belirleme sistemi, kamera, kızılötesi algılayıcılar, bilgisayar teçhizatı ve yön gösterici lazer ışınlarıyla donatılmış araçlara yarış sırasında uzaktan kumanda dahil hiçbir şekilde dışarıdan müdahale edilmesine izin verilmedi. Sadece üzerlerindeki teknolojik donanımı kullanarak ’kendi başına’ çölde yarışan araçların parkuru 10 saat içinde kat etmesi gerekiyordu. Yarışmayı geçen yıl hiçbir araç kazanamamıştı. 
+     
+</TEXT>
+</DOC>

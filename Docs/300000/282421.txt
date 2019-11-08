@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 282421 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/22/son/sondun14.html </URL>
+<DATE> 2004/10/22/ </DATE>
+<TIME> 10.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Einstein'in teorisi doğrulandı... Dünya, zaman ve uzayı büküyor... 
+</HEADLINE>
+<TEXT>
+
+     İzafiyet teorisinin doğruluğunu sınamak isteyen bilim adamları, Dünya'nın kendi ekseninde dönerken çevresindeki zaman ve uzayı büktüğünü doğruladı. 
+     ABD Ulusal Havacılık ve Uzay Dairesi NASA yetkilisi Erricos Pavlis, Albert Einstein'ın 1918 yılında öne sürdüğü izafiyet teorisinde, Dünya gibi büyük cisimlerin kendi eksenleri etrafında dönerken zaman ve uzayı büktüklerini söylediğini hatırlattı ve bunun doğru olup olmadığını anlamak için ölçümler yaptıklarını açıkladı. 
+     Pavlis, ''Şayet Dünya etrafındaki uzay-zamanı eğiyorsa, yakınlardaki uyduların yörüngesi değişmeliydi'' dedi ve bu düşünceden hareketle LAGEOS1 ve LAGEOS2 adlı uyduların yörüngelerindeki sapmayı lazer ışını kullanarak ölçmeyi başardıklarını anlattı. 
+     Pavlis, ''Her iki uydunun yörüngesinde de Dünya'nın dönüş yönünde yılda iki metrelik sapma belirledik. Ölçümlerimiz, genel izafiyet teorisinden hareketle daha önce yapılan hesaplara yüzde 99 uydu'' dedi. 
+
+     
+</TEXT>
+</DOC>

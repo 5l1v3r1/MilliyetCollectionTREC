@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 153505 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/04/30/son/soneko23.html </URL>
+<DATE> 2003/04/30/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Turkcell, uydu üzerinden kesintisiz iletişim sağlayacak... 
+</HEADLINE>
+<TEXT>
+
+     Uydu üzerinden mobil iletişim hizmeti sunan Thuraya ile GSM operatörü Turkcell, uluslararası dolaşım işbirliği anlaşması imzaladı. 
+     Thuraya Genel Müdürü Hakan Çelikoğlu ve Turkcell Kurumsal Hizmetler Müdürü Hakan Erenoğlu, işbirliğinin sağladığı avantajları bir basın toplantısı ile duyurdu. 
+     Toplantıda verilen bilgiye göre, işbirliğiyle uydu, GSM ve GPS sistemleri abonelerin kullanımına sunuldu. Turkcell'in uluslararası dolaşım imkanları Thuraya'nın uydu üzerinden iletişim teknolojisi ile birleşirken, iki şirketin kapsama alanı çok geniş bir coğrafyayı içine alacak şekilde genişledi. 
+     Turkcell'in, 136 ülkede 318 operatör ile uluslararası dolaşım anlaşması bulunuyor. Thuraya'nın kendine ait kapsama alanı ise Avrupa'dan Orta Asya'ya, Ortadoğu'dan Hindistan'a kadar 99 ülkeyi kapsıyor. Bu ülkeler arasında Afganistan, Irak, İran ve Libya gibi GSM altyapısı olmayan 11 ülke de yer alıyor. 
+     Anlaşma ile GSM üzerinden uluslararası dolaşım imkanı bulunmayan ülkelerde Turkcell aboneleri, Thuraya telefonlarını kullanarak hizmet alabilecekler. 
+     Thuraya kullanıcıları ise Turkcell'in GSM özelliğinden yararlanabilecekler. Thuraya sistemi içinde dakikalık tarife, Thuraya'dan Thuraya aramada 50 cent, Thuraya'dan sabit telefona veya Turkcell'e yönelik aramada 75 cent olarak uygulanacak. 
+     Thuraya Genel Müdürü Çelikoğlu, uygulamanın Thuraya ve Turkcell açısından yararlarını şöyle anlattı 
+     'Uydu telefonları ile iletişim telefon uyduyu görmediği zaman kesiliyor. Kapalı mekanlarda telefonlarımız GSM moduna geçerek iletişimi kesintisiz sağlıyor. Turkcell açısından bakarsak, telefonumuzu taşıyan Turkcell abonesi, GSM hizmeti bulunmayan ülkelere, açık denizlere, yerleşim alanlarından uzak bölgeler gittiğinde ise Thuraya uydusu üzerinden iletişimde bulunacak.'' Çelikoğlu, Thuraya'nın halen toplam 100 bin dolayında abonesi bulunduğunu belirterek, Türkiye'de son dönemde Irak krizi nedeniyle medya mensuplarından büyük talep gördüklerini kaydetti. 
+     
+     THURAYA 
+     Birleşik Arap Emirlikleri'nde 1997 yılında kurulan Thuraya, 2000 yılında fırlatılan Thuraya-1 uydusu aracılığıyla hizmet veriyor. Uydu bugüne kadar atılan en ağır 4.8 ton uydu olma özelliğini taşıyor. 
+     Yatırım maliyeti 1.1 milyar dolar olan Thuraya'nın cep ve araç telefonları uydu, GSM ve GPS Global Konumlama Sistemi teknolojilerini biraraya topluyor. 
+     
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,45 @@
+<DOC>
+<DOCNO> 314884 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/13/son/soneko12.html </URL>
+<DATE> 2005/02/13/ </DATE>
+<TIME> 13.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ATO Kredi kartı mağduriyet profili milletvekiline kadar genişledi 
+</HEADLINE>
+<TEXT>
+
+     Ankara Ticaret Odası ATO , 9 milyon kredi kartı kullanıcısını bilinçlendirmek amacıyla hazırladığı "Kredi Kartı Kullanma Kılavuzu" ile kart kullanımının püf noktalarını anlattı. 
+     ATO Başkanı Sinan Aygün mağdur profilinin "milletvekili"ne kadar genişlediğine dikkat çekerek, "Cebinizdeki kart bir bombaya dönüşebilir" dedi. Aygün, faizlerin indirilmesini isterken, yüksek faizler nedeniyle insanların evini, arabasını sattığını bunun da yetmeyip "nemasını rehin bırakarak" aldığı krediyi kart borcuna yatırdığını söyledi. 
+     Kredi kartı kullanıcılarına dolandırıcılık ve hırsızlığa karşı korunmaları konusunda kılavuzda şu uyarılar yapıldı 
+     "-Kartın arka yüzündeki imza kısmını imzalayın. 
+     Şifrenizi banka çalışanları da dahil kimseye söylemeyin. 
+     Şifrenizi kartın üzerinde, cüzdanda ya da çantada yazılı olarak saklamayın. 
+     -Doğum tarihi, nüfus cüzdanı no, telefon numarası gibi kolay ulaşılabilir şifreleri kullanmayın. 
+     -Bankaların kart sahiplerine sağladığı sigorta hizmetleri sayesinde, üçüncü şahıs harcamalarından sorumlu tutulamazsınız. 
+     -Atacağınız hesap ekstreleri, slipler, ATM fişleri gibi kişisel bilgi içeren evraklarınızı yırtarak okunamayacak hale getirin. Süresi dolan kredi kartınızı da numarası okunmayacak ve bir başkası tarafından kullanılamayacak hale getirdikten sonra imha edin. 
+     -Kredi kartınıza ait ekstrelerin geleceği adresin güvenilir olduğundan emin olun. Hesap ekstrenizin çalınmasını önlemek için posta kutunuzu kilitli tutun. 
+     -Kredi limiti yüksek olan kartlarınızı internet ortamında kullanmayın. İnternet kafe gibi halka açık ve kalabalık yerlerde bulunan bilgisayarlardan, internet aracılığıyla alışveriş yapmayın. 
+     -Kredi kartları sanal ortamda kullanılırken virüs tehlikesine dikkat edin. 
+     -Kartınızın, POS makinasından geçirilmesi işleminin kasada ve gözönünde yapılmasına dikkat edin." Açıklamada, kredi kartı kullanıcıları, alış veriş slibini imzalamadan önce, kart numarası, ad-soyad ve tutarın doğruluğunu kontrol etmeleri istendi. "Nakit para çekimi faizi ve ücreti, alış veriş faiz oranı, üyelik ücreti, limit aşım ücreti"nin bankadan bankaya farklılık gösterdiği belirtilirken, bu bilgilerin sürekli takip edilmesi önerildi. 
+     
+     KART DOLANDIRICILIĞININ 12 YOLU 
+
+     Kılavuzda kredi kartı dolandırıcılığının 12 yolu da şöyle anlatıldı 
+     "Kayıp-çalıntı kart kullanımı Kart sahibinin kartını kaybetmesi veya çaldırması halinde kartın kötü niyetli kişiler tarafından kullanılmasıdır. 
+     -Ele geçmeyen kartlar Kartın, sahibine ulaşması sırasında posta kutusundan çalınması, kaybolması veya sahte kimlik belgeleri ile kart sahibinin adına bankadan alınması mümkün. 
+     -Sahte başvuru Dolandırıcılar, sahte kimlik ve diğer belgelerle kart başvurusu yapıyor. 
+     -Boş plastik yöntemi Boş plastik plakalar üzerine kabartma olarak basılan gerçek kredi kartı numaraları, işyerlerinde imprinter cihazı ile satış belgesi üzerine aktarılarak bankadan tahsil ediliyor. 
+     -Değiştirilmiş kart Kredi kartları üzerindeki kabartma numaraları kesilerek değiştiriliyor ya da ütülenerek yerine yenisi basılıyor. 
+     -Sahte kartlar Sahte yollardan üretilen kartın arkasında bulunan manyetik şerit, "encoder" denilen bir cihaz ile kodlanarak içine elektronik yollardan kart bilgileri yazılabiliyor. 
+     -Manyetik şerit sahteciliği Gerçek kartın manyetik şeridi silinerek manyetik şerid kodlayıcısı ile başka birine ait bilgiler tekrar kodlanıyor. 
+     -Kart kopyalama Alışveriş yapan müşterilerin kartları müşteri görmeden encoder cihazından geçirilip kopyalanıyor. 
+     -Posta ve telefon ile yapılan mal siparisi dolandırıcılığı Dolandırıcı, başkasının kartı numarasıyla kendi adresine mal şiparişi veriyor. 
+     -ATM dolandırıcılığı Bankaya gelen müşteriden önce ATM'nin kart giriş haznesine bir cisim yerleştiriyor. Kart ATM cihazında sıkışınca, dolandırıcı yardım etmek bahanesiyle şifreyi öğreniyor. 
+     -İnternet dolandırıcılığı -Hesap yönlendirme Dolandırıcı, bankayı arayıp sizmişsiniz gibi davranarak, kredi kartı ekstresinin posta adresini değiştiriyor." 
+
+ANKA 
+     
+</TEXT>
+</DOC>

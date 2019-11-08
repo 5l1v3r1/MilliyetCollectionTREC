@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 382057 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/27/son/sonyas02.html </URL>
+<DATE> 2005/09/27/ </DATE>
+<TIME> 09.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Japon Bilim adamlarından felçli hastalara düşünceyle konuşma müjdesi 
+</HEADLINE>
+<TEXT>
+
+     Japon bilim adamları, tüm vücudu felçli hastalara ''evet'' veya ''hayır'' diyebilmelerini sağlayan bir cihaz icat ettiler. 
+     ''Kokoro-gatari'' düşünceyle konuşma adı verilen bu cihaz, Japon elektronik devi Hitachi, Mechatronix grubuna ait Excel şirketi ve Japonya Amyotrofik Lateral Skleroz Hastaları Derneği'nin işbirliğiyle geliştirildi. 
+     Sinirlerin tahrip olması nedeniyle bu ciddi hastalığın pençesine düşen ve konuşamayan, gözlerini dahi kırpamayan, ancak normal şekilde düşünmeye devam eden hastaların kullanabileceği cihaz, beyindeki kan akışını ölçerek çalışıyor. 
+     Hastanın başına yerleştirilen özel bir bant, beyindeki kan akış hızını ölçüyor. Eğer, hasta ''evet'' demek isterse örneğin kafadan bir hesap yapıyor veya zihninden bir şarkı söylüyor. Böylece beynin ön lobuna fazladan giden kan cihaz tarafından ölçülmüş oluyor. 
+     Hasta, tersine ''hayır'' demek istediğindeyse kan akışının geri akışını sağlamak için rahatlaması ve sakinleşmesi gerekiyor. 
+     Felçli hastalara büyük kolaylık sağlayacak cihaz. denemeleri sırasında 36 saniyede yüzde 80 doğruluk oranına ulaştı. 
+     ''Düşünceyle konuşma cihazı''nın Japonya'da yıl sonuna doğru 470 bin yen yaklaşık 3470 avro fiyatla satışa çıkması planlanıyor. Cihazın şu aşamada ihracı düşünülmüyor. 
+     
+</TEXT>
+</DOC>

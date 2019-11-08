@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 230763 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/12/son/sonyas12.html </URL>
+<DATE> 2004/04/12/ </DATE>
+<TIME> 11.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Depresyon hastalarına internetten tedavi 
+</HEADLINE>
+<TEXT>
+
+     İngiltere'de yaklaşık 6 milyon depresyon hastasına, internet aracılığıyla tedavi imkanı sağlanacak. 
+     İngiliz basınının haberlerine göre, 1,3 milyonu ''ağır'' denilebilecek düzeyde hasta olan kişilere aile hekimlerinin gerekli tedaviyi sağlayabilmeleri için geliştirilen bilgisayar programı sayesinde, tedavinin daha kolay yapılabileceğine inanılıyor. 
+     Haberlerde, ilk yaygın uygulamanın yakın zamanda başlatılabileceği, uzmanların hazırladığı bilgisayar programı sayesinde hastanelerin psikiyatri servisleri üzerindeki ağır baskının da azaltılabileceği belirtildi. 
+     Uzmanlar, yeni tedavi yönteminin bir psikiyatr ile karşı karşıya gelmekten çekinen hastalarda çok daha iyi sonuç vereceğini, internet üzerinden tedavinin hastanın hayata bakışı ve ruh hali üzerinde olumlu etki yarattığını tespit ettiklerini söylediler. 
+     Programın geçen bir yıl boyunca denendiği, ilk olarak geçen hafta Swindon İl Sağlık Müdürlüğü tarafından 50 bin sterline satın alındığı ve kentteki 50 aile hekimine kullandırılmaya başlanacağı bildirildi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 230626 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/12/son/soneko15.html </URL>
+<DATE> 2004/04/12/ </DATE>
+<TIME> 10.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Mart ayında en yüksek getiriyi borsa sağladı... 
+</HEADLINE>
+<TEXT>
+
+     Finansal yatırım araçları arasında, bu yılın Mart ayında en fazla reel getiriyi, borsa endeksi sağladı. 
+     DİE verilerine göre, 1994 100 bazlı Toptan Eşya Fiyatları Endeksi TEFE ile indirgenerek yapılan hesaplamalarda, borsa endeksi Mart'ta, bir önceki aya göre yüzde 4.9 reel getiriyle yatırımcısını sevindirdi. 
+     Buna karşılık Mart ayında mevduat faizi yüzde 0.3, dolar yüzde 2.6, euro yüzde 5.7, külçe altın yüzde 3.0 oranında reel düşüşle tasarrufçusunu zarara uğrattı. 
+     
+     YILLIK GETİRİ 
+     Mart ayı itibariyle son bir yıla bakıldığında da, borsa endeksi ile banka mevduatına yatırım yapanlar kazanırken, dolar, euro ve altına yatırım yapanlar zarar etti. 
+     Enflasyondan arındırıldığında, doların son bir yıldaki reel kaybı yüzde 26.7, altının kaybı yüzde 13.2 ve euronun yüzde 16.8 olurken, borsa endeksinin reel getirisi yüzde 81.3, mevduat fazinin de yüzde 36.5 olarak gerçekleşti. 
+     
+     2004 YILININ İLK ÇEYREĞİ 
+     Mart 2004 itibariyle TEFE bazında üç aylık dönemde ise seçilmiş finansal yatırım araçlarından banka Mevduatı brüt yüzde 0,1, borsa endeksi yüzde 7,1 oranında reel getiri sağladı. 
+     Aynı dönemde dolar yüzde 13,4, euro yüzde 13,6 ve külçe altın yüzde 14,1 oranında reel düşüşle tasarrufçusunu zarara uğrattı. 
+     
+</TEXT>
+</DOC>

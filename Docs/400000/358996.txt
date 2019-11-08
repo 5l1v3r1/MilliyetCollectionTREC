@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 358996 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/07/son/soneko35.html </URL>
+<DATE> 2005/07/07/ </DATE>
+<TIME> 15.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bono - tahvil piyasasında faiz yüzde 16.00'a yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda işlem gören 24 Ocak 2007 vadeli, bugün valörlü tahvilin basit getirisi yüzde 16.69, bileşik getirisi yüzde 16.00'dan kapandı. 
+     Bu kağıdın aynı gün valörlü işlemlerinin dünkü basit getirisi yüzde 16.64, bileşik getirisi yüzde 15.95 olarak gerçekleşmişti. 
+     
+     REPO 
+     İMKB Tahvil ve Bono Piyasası Repo-Ters Repo Pazarı'nda gecelik işlemler en düşük yüzde 14.30, en yüksek yüzde 15.25 ve ortalama yüzde 14.93 oldu. 
+     
+     KOTASYONLAR 
+     Bankalararası piyasada dolar kotasyonları, saat 14.45 itibariyle, alışta en düşük 1.3590 YTL, en yüksek 1.3610 YTL, satışta en düşük 1.3630 YTL, en yüksek 1.3670 YTL seviyesinde bulunuyor. 
+     
+     PARİTE 
+     Uluslararası piyasalarda avro-dolar paritesi 1.1990, sterlin-dolar paritesi 1.7457, yen-dolar paritesi ise 111.69 düzeyinde seyrediyor. 
+     
+</TEXT>
+</DOC>

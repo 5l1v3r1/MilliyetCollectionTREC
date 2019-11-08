@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 274792 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/25/yazar/saglam.html </URL>
+<DATE> 2004/09/25/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Erdoğan SAĞLAM  </AUTHOR>
+<HEADLINE>
+Vergide e - beyan sorunlarla birlikte başlıyor 
+</HEADLINE>
+<TEXT>
+
+SSK'dan sonra Maliye de düğmeye bastı. 1 Ekim'den itibaren vergi beyannemeleri de elektronik ortamda alınmaya başlanacak. Konuya ilişkin tebliğ tasarısı internet sitesine www.gelirler.gov.tr konuldu. 
+İsteyen mükellefler bu olanaktan yararlanacak, istemeyenler kağıt ortamında beyanname vermeye devam edecekler. E - beyannamenin kağıt ortamında verilenlerle hukuki sonuçları bakımından hiçbir farkı olmayacak. 
+Ancak e - beyannameyi tercih eden her mükellef, beyannamesini kendisi gönderemeyecek. Aktif toplamı veya net satışlar tutarı belli bir haddin üzerinde olduğu için beyannamelerini serbest muhasebeci SM veya serbest muhasebeci mali müşavire SMMM imzalatmak zorunda olmayanlar kendileri gönderecek. Beyannamelerini bu kişilere imzalatmak zorunda olanlar ise aracılık yetkisi verilmiş kişiler vasıtasıyla e - beyanname verebilecekler. Aracılık yetkisi SM, SMMM ve yeminli mali müşavirlere YMM verilebilecek. 
+E - beyanname verme konusunu isteğe bağlı olarak uygulatan Maliye'nin beyannamenin gönderilmesi konusunda bazı mükellefleri aracılara yönlendirmesini doğru bulmuyoruz. Eğer mükellef e - beyannameyi kendisi vermek istiyorsa bunu aracısız yapabilmelidir. Küçük mükelleflerin beceremeyecekleri düşüncesi yanlıştır. Nitekim SKK tüm işverenlere aracısız olarak e - bildirge verme olanağı tanımış, görebildiğimiz kadarıyla halen ihtiyari olarak yapılan uygulamadan olumlu sonuçlar alınmıştır. Mükellef kendisi gönderemiyorsa zaten meslek mensuplarından destek alacaktır. 
+İkinci hata YMM'lere beyanname göndermede aracılık yetkisi verilmiş olmasıdır. YMM'lik bir tasdik müessesesi olduğundan YMM'lere muhasebecilik sayılabilecek beyanname gönderme işi verilmemelidir. Böyle bir görevin meslekle bağdaşmadığını düşünüyoruz. 
+E - beyanname uygulamasından yararlanmak isteyen ve beyannamesini kendisi gönderebilecek olan mükellefler vergi dairesine başvurup kullanıcı kodu, parola ve şifre almak zorundalar. Beyannamesini aracı kanalıyla gönderecek olanlar ise aracılarla sözleşme imzalamak durumundalar. Aracı olmak isteyenler de vergi dairesine müracaat etmek zorundalar. 
+E - beyannamenin ekranda onaylanmasıyla beyanname imzalanmış ve vergi dairesine verilmiş sayılacak. Şimdilik süresi geçmemiş beyannameler kapsamda, yakında süresi geçmiş beyannamelerle, pişmanlık ve düzeltme beyannameleri de elektronik ortamda gönderilebilecek. 
+Eylül dönemine ait olup 1 Ekim'den itibaren elektronik ortamda gönderilebilecek beyannemeler şunlar 
+KDV 1 ve 2 no.lu ,ÖTV 2a hariç ,Muhtasar,Damga Vergisi,BSMV,Özel İletişim Vergisi,Şans Oyunları Vergisi. 
+Fikir gerçekten güzel, emeği geçenleri kutlarız. Önerilerimizin dikkate alınmasını ve uygulamanın başarılı olmasını diliyoruz. 
+
+
+
+</TEXT>
+</DOC>

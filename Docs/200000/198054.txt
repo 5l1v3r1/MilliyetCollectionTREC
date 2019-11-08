@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 198054 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/26/son/sontur30.html </URL>
+<DATE> 2003/11/26/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bombalara röntgen 
+</HEADLINE>
+<TEXT>
+
+     Kent sokaklarında bulunduğunda genelde halk arasında paniğe neden olan şüpheli paketlerin bomba içerip içermediği artık kısa zamanda öğrenilebilecek. Bilkent Teknoparkı'nda geliştirilen bomba teşhis sistemi, şüpheli nesnelerin röntgenini çekerek bomba olup olmadığını gösteriyor. 
+     Elektroland Limited Şirketi Genel Müdürü Ferhat Uğur, AA muhabirine yaptığı açıklamada, Ankara Üniversitesi Teknoloji Geliştirme Merkezi'nde başladıkları Bomba Teşhis Sistemi geliştirme çalışmalarını Bilkent Üniversitesi Cyberpark Teknoparkı'nda ürüne dönüştürdüklerini söyledi. 
+     Uğur, sistemin dijital kamera, x ışını kaynağı ve taşınabilir bilgisayardan oluştuğunu, herhangi bir mekana bırakılan ve bomba olasılığı bulunan bavul, poşet, eşya veya çanta gibi nesnelerin içlerinin x ışınları yardımıyla kamera tarafından görüntülendiğini belirtti. 
+     Kamera ve x ışını kaynağının şüpheli nesnelere güvenli bir mesafede bırakıldığını, taşınabilir bilgisayar aracılığı ile nesnelerin bir bakıma röntgeninin çekildiğini ifade eden Uğur, bu sayede şüpheli görülen nesnenin içeriğinin tespit edildiğini kaydetti. 
+     Sistemin taşınabilir, hafif ve kurulumunun basit olmasından dolayı kolayca kullanabildiğini dile getiren Uğur, bu sistemle nesnelerin içeriğine göre önlem alınabildiğini kaydetti. 
+     Şüpheli nesnelere karşı genelde cisme fünye bağlayıp patlatma yönteminin kullanıldığını, ancak bu sırada şüpheli cismin içerisinde tahrip gücü yüksek bir bomba olması halinde bu bombanın patlatılması olasılığının da bulunduğunu anlatan Uğur, ayrıca fünyenin maliyetinin yüksek olduğunu söyledi. 
+     Uğur, gelişmiş ülkelerde ise şüpheli cismin röntgeni çekilerek görüntü alındığını ve bu görüntü değerlendirilerek ''Su Topu'' denilen aletle yüksek basınçlı su fırlatılarak bombanın imha edildiğini belirtti. Türkiye'de ''Su Topu'nun'' Makina Kimya Endüstrisi tarafından üretildiğini anlatan Uğur, topların geliştirdikleri sistemle kullanılmasının daha ideal olacağını ifade etti. 
+     Sistemin yazılımının Türkçe olmasının yanı sıra kısa sürede kurulup kullanılabildiğini, bakım gerektirmediğini ve fiyatının ithal cihazlara göre çok ucuz olduğunu kaydeden Uğur, bu sistemin jandarma patlayıcı biriminin tecrübe ve istekleri göz önüne alınarak üretildiğini, bu birimin hizmetine 5 adet verildiğini bildirdi. 
+     
+     PATENT İÇİN BAŞVURU YAPILDI 
+
+     Sistemin 8-12 bin dolar arasında maliyetinin bulunduğunu, yurtdışından alındığında ise maliyetin 40 bin dolara yaklaştığını kaydeden Uğur, şöyle konuştu 
+     ''Terörün ne zaman ortaya çıkacağını bilmediğimiz için her ilin ilgili birimine almak gerekliliği ortaya çıkmakta ve bu rakam oldukça kabarmaktadır. Ayrıca bu tip cihazlar sürekli bakım istediğinden maliyet daha da yükselmektedir ve bu nedenle ülkemizde sınırlı sayıda vardır. Hedefimiz nadir yetişen bomba imha ekiplerinin ve halkımızın can güvenliğini artırmak, yurtdışına bu alanda bağımlılığımızı sona erdirmek ve sistemimizi yurtdışına satarak döviz girişi sağlamaktır.'' Uğur, sisteme ilişkin Türk Patent Enstitüsü'ne başvuru yaptıklarını, sisteme yurtdışından da talepler geldiğini, bu çerçevede, ilk etapta Nijerya ve Umman'a satış yapıldığını belirtti. 
+     Ferhat Uğur, sistemi geliştireceklerini, teşhis sırasında kullanılmak üzere gerekli görülen robotları üretmeye hazırlandıklarını sözlerine ekledi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 376401 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/07/son/soneko21.html </URL>
+<DATE> 2005/09/07/ </DATE>
+<TIME> 12.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı 204 puanlık kayıpla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeksi, dünkü kapanışa göre 204.40 puan azalarak, seansı 31,628.10 puandan kapandı. 
+     1. seansta, hisse senetlerinin ortalama değer kaybı yüzde 0.64 oldu. 
+     Dün 31.832.50 puandan kapanan İMKB Ulusal 100 Endeksi, ilk seansa 34.32 puan artarak 31,866.82 puandan başladı. İlk yarıyı 31,592.16 puandan geçen endeks, en düşük 31,496.40 puanı, en yüksek 32,006.88 puanı gördü. 
+     Seans sonunda mali endeks 456.22 puan azalarak 48,236.35 puana, sanayi endeksi 41.48 puan azalarak 25,081.21 puana, hizmetler endeksi 54.44 puan azalarak 15,481.40 puana geriledi. 
+     Böylece önceki kapanışa göre, mali grup hisseler ortalama yüzde 0.94, sanayi grubu hisseler yüzde 0.17, hizmetler grubu hisseler ise yüzde 0.35 oranında değer kaybetti. 
+     1. seansta işlem gören toplam 301 hisse senedinden 75'i değer kazandı, 153'ü değer kaybetti, 73 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta, 567 milyon 177 bin 764 YTL'lik işlem hacmi oluştu. 
+     1. seansta Garanti Bankası, Petkim, Yapı ve Kredi Bankası, İş Bankası C ile Doğan Holding, en çok işlem gören hisse senetleri olarak belirlendi. 
+     
+</TEXT>
+</DOC>

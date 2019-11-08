@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 260784 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/05/son/soneko01.html </URL>
+<DATE> 2004/08/05/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones yükseldi, Nasdaq düştü... 
+</HEADLINE>
+<TEXT>
+
+     New York menkul kıymetler borsasında Dow Jones endeksi günü 6,34 puan yükselişle 10.126,58'den kapadı. 
+     Nasdaq endeksi ise 4,36 puan kayıpla 1.855,06'ya geriledi. 
+     
+</TEXT>
+</DOC>

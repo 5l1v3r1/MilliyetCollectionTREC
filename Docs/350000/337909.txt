@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 337909 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/28/son/sonyas10.html </URL>
+<DATE> 2005/04/28/ </DATE>
+<TIME> 09.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Günlük uyku ihtiyacını 3 saate indirebilecek gen keşfedildi 
+</HEADLINE>
+<TEXT>
+
+     İnsanların günde sadece üç saat uyuyarak düzenli bir hayat sürme ihtimali olup olmadığını araştıran bilim adamları uykunun kimyasını etkileyen geni keşfettiler. 
+     Independent Gazetesi'nin haberine göre bu keşif, bazı insanların gece geç saatlere kadar uyanık kalabilmelerinin sebebini de genler yoluyla açıklamış oluyor. 
+     Araştırmacılar bu keşfin, uykunun kimyasal temelini anlamada büyük yararlar sağlayacağını ve bu sayede etkili uyku ilaçları geliştirilebileceğini umduklarını belirttiler. 
+     Araştırma sonucuna göre bu gen, potasyum iyonlarının beynin uykuyu da idare eden kritik bölgelerine akışını düzenleyen biyokimyasal kanalları kontrol ediyor. 
+     Çalışmayı yürüten Wisconsin-Madison Üniversitesi bilim adamları, ilk kez tek bir genin uyku üzerindeki etkisinin kanıtlandığını dile getirerek, bu araştırmanın beynin kimyasal yapısını değil beyindeki potasyum kanallarını etkileyecek yeni bir bileşim oluşturma imkanı sunduğunu ifade ettiler. 
+     Nature dergisinde yayınlanan çalışmada, genetik değişimin meyve sineklerinin uyku alışkanlıklarını nasıl etkilediği inceleniyor. Araştırma sonucuna göre, meyve sinekleri de tıpkı insanlar gibi günde altı ila on iki saat uykuya ihtiyaç duyuyor ve yeterli uyku uyuyamadıklarında stres belirtileri gösteriyor. Ancak bir genlerinde yapılan değişiklikle sinekler birkaç saatlik uykuyla bile günlerini stressiz geçirebiliyor. Bununla beraber, az uyuyan sineklerin normal sinekler kadar uzun yaşamadığı da tespit edildi. 
+     Yapılan testlerde, bu sineklerin normal sineklerden farklı hareket etmediklerinin ortaya çıkması üzerine bilim adamları sonuçların insanlara da uyarlanma ihtimalini gündeme getirdi. Bilim adamlarına göre, bu gen potasyum kanallarını kontrol ederek vücudun derin uykuya mı yoksa hafif uykuya mı geçeceğine karar veriyor. Mutasyon sonucunda ise potasyum iyonlarının beyindeki sinir hücresi zarlarının içinde bulunan kanallardan serbestçe geçişi engelleniyor. 
+     Projeyi yürüten bilim adamları, insanların da aynı tür genlere ve potasyum kanallarına sahip olduğunu belirterek potasyum kanallarının denetim altında tutularak, uzun uykuya olan ihtiyacın da ortadan kaldırılabileceğini ileri sürdüler. 
+
+     
+</TEXT>
+</DOC>

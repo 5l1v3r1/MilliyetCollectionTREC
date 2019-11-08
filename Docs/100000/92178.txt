@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 92178 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/06/26/son/sondun08.html </URL>
+<DATE> 2002/06/26/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tablet bilgisayarlar 7 Kasım'da piyasada 
+</HEADLINE>
+<TEXT>
+
+     Yazılım devi Microsoft'un Windows-XP yazılımıyla çalışacak tablet bilgisayarlar Tablet PC 7 Kasım'da piyasaya çıkacak. 
+     New York'taki bir toplantıda yapılan açıklama, bilgisayar sanayii çevrelerinde büyük yankı uyandırdı. Uzmanların verdiği bilgiye göre tablet bilgisayar, el yazısı ile bilgisayar teknolojisini birleştiriyor. Kapatıldığında düz bir ekran haline gelen bilgisayara özel bir kalem ve ''elektronik mürekkeple'' yazı yazılabiliyor ve şekil çizilebiliyor. Bilgisayarın, klasik dizüstü bilgisayarların tüm özelliklerini taşıyacağı da belirtildi. 
+     Tablet bilgisayar, elektronik mürekkebin yanı sıra klavyeyle de kullanılabilecek. Uzmanların verdiği bilgiye göre, bilgisayar açıldığında klavyeyle kullanılabilir hale geliyor, kapatıldığında ise tablet haline dönüşüyor. 
+     Microsoft Tablet PC bölümü başkan yardımcısı Alexandra Loeb, gelecekte tüm dizüstü bilgisayarların bu özellikleri taşıyacağı tahmininde bulundu. Loeb, yeni ürünün, ''bilgisayara elle yazma konusunda tereddüdü olanları bile ikna edebilecek nitelikler taşıdığını'' ifade etti. 
+     Şimdiye kadar el yazısıyla çalışan bilgisayar türleri, el yazısını tanıyan yazılımların güvenli olmaması yüzünden başarı kazanamamıştı. 
+     Bu cihazların başında Apple firmasının çıkardığı Newton marka el bilgisayarı geliyor. 
+     Microsoft yetkilileri, Tablet PC'nin, Windows-XP profesyonel yazılımıyla çalışacağını ve Windows programlarının tümüyle uyumlu olduğunu ifade ettiler. 
+     
+     FİYATLAR EL YAKIYOR 
+     Öte yandan Kasım başında Acer, Fujitsu, HP, Toshiba ve NEC gibi tanınmış firmalar tarafından piyasaya sürülmesi beklenen tablet PC'lerin satış fiyatının 2 bin 500 dolar olması bekleniyor. Tablet özelliği bulunmayan bilgisayarların fiyatları ise 1200-2400 dolar arasında değişiyor. 
+     Tablet PC'nin kullanıcılar tarafından toplantılarda elle not tutmak amacıyla da kullanılabileceği bildirildi. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

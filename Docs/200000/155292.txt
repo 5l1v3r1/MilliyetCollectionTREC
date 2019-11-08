@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 155292 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/08/son/sondun09.html </URL>
+<DATE> 2003/05/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilimadamları "kıvrılabilir" bilgisayar ekranı üretti 
+</HEADLINE>
+<TEXT>
+
+     Günümüzde iyice incelen bilgisayar ekranları, nihayet kıvrılabilecek hale geldi. Gelişmenin, elektronik gazete ya da ''giyilebilir bilgisayarlar''a doğru önemli bir adım olduğu bildiriliyor. 
+     Merkezi Massachussets'in Cambridge kentinde bulunan E İnk şirketi için çalışan Yu Chen, dünyada ilk kez üretilen yüksek teknoloji ürünü ekranların, insan saç telinin 3 katı kalınlığında olduğunu söyledi. 
+     Chen, grimtrak beyaz fon üzerinde siyah harfler yansıtan ekranın çözünürlüğünün, günümüzdeki dizüstü bilgisayar ekranlarıyla eşdeğer olduğu bildirdi. Kıvrılabilir bilgisayar ekranlarının, resim kalitesini kaybetmeden çapı 1.25 santim olan bir silindire sarılabildiği kaydediliyor. 
+     
+     ELEKTRONİK KAĞIDA DOĞRU 
+     Uzmanlar, bu ilerlemeye rağmen henüz elektronik gazete ya da kitap sayfaları üretiminden uzak bulunulduğunu ifade ettiler. 
+     Aynı kaynaklar, ''birçok şirketin elektronik kağıt üretme yolunda ciddi çaba harcadıklarını, bunların e-kitap ya da e-gazete üretimi açısından önem taşıdığını'' söylediler. 
+     Kıvrılabilir ekranın, ağır dizüstü bilgisayar çağına son vereceği belirtiliyor. Yaklaşık 7.5 santim genişliğindeki ekranların, paslanmaz çelik bir tabaka üzerine döşenen ince devre katmanı yoluyla elde edildiği ifade edildi. 
+     Uzmanlar şimdi, kıvrılabilir ekranın dönüşüm hızını yaklaşık 10 kat artırmak suretiyle video izleme olanağını sağlamaya çalışıyorlar. Bundan sonraki aşamanın ise ekranın tüm renkleri yansıtabilir hale getirilmesi olacak. 
+     Projeye katkıda bulunan IBM Gelişmiş Ekran Teknolojisi Laboratuarı Müdürü Robert Wisnieff, ''pek de uzak olmayan bir gelecekte, hesap hülasasını gösteren kredi kartları yapımının mümkün olacağını'' söyledi. Bir sonraki aşamanın ise kolunda internet bağlantısı bulunan ceket üretimi olabileceği kaydediliyor. 
+     
+</TEXT>
+</DOC>

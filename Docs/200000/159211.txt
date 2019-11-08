@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 159211 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/27/son/sondun18.html </URL>
+<DATE> 2003/05/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsofot dava dosyaları tuvalet kağıdı oluyor.. 
+</HEADLINE>
+<TEXT>
+
+     Microsoft şirketine karşı açılan bir davanın 3 milyon sayfadan oluşan dosyalarının tuvalet kağıdına dönüştürüleceği belirtildi. 
+     Dosyalar, 90'lı yılların ortasından bu yana Salt Lake City'deki bir depoda saklandı. Bugünkü adı SCO Group olan yazılım şirketi Caldera tarafından Microsoft aleyhine açılan ve 2000 yılının başında sonuçlanan davada kullanılan dosyaların saklanması aylık 1500 dolara mal oldu. 
+     Microsoft aleyhine başka dava açan ve bu yüzden dosyaların imha edilmesine karşı çıkan Sun Microsystems şirketinin, delil oluşturacak bazı belgelerin ayrılması ve taranarak bilgisayar ortamında saklanması isteği mahkeme tarafından kabul edildi. 
+     Kalan belgelerin imhasıyla görevlendirilen Recall Secure Destruction şirketi, kağıtları parçalamaya başladı. Kağıtlar bu işlemden sonra, atık kağıttan tuvalet kağıdı yapan bir fabrikaya satılacak. 
+     
+</TEXT>
+</DOC>

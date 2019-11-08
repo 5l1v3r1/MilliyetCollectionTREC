@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 177373 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/22/yasam/yas03.html </URL>
+<DATE> 2003/08/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Terminatör'e az kaldı 
+</HEADLINE>
+<TEXT>
+
+   Teknoloji, ünlü filmdeki 'makine insan'a doğru hızla ilerliyor. İşte kendini onaran 'yılan' robot, 'çocuk akıllı' robot ve 'giysi' robot 
+      DIŞ HABERLER SERVİSİ 
+   
+   Arnold Schwarzenegger'in canlandırdığı makine robot 'Terminatör' hayal ürünü idiyse de, modern teknoloji bu hayalin fazla uzak olmayan bir gelecekte 'gerçek' olabileceğinin işaretlerini veriyor. Yüksek teknoloji firmaları, yapay zek lı 'humanoid'lerden askeri robotlara kadar bir dizi ultra buluşa imza atmaya hazırlanıyor. İşte, 'Terminatör'ün pek de hayal olmadığını kanıtlayan üç önemli 'robot' haberi 
+   
+   Giysi robot    Japonlar, engelli ve yaşlıların yürümelerine, merdiven çıkıp oturmalarına yardımcı olacak 'robot giysi'yi piyasaya sürmeye hazırlanıyor. 
+   Tsukuba Üniversitesi'nden Prof. Yoşiyuki Sankai'nin geliştirdiği HAL - 3 adlı 'robot giysi', bilgisayar ve batarya içeren bir sırt çantasından oluşuyor. Sistem, diz ve kalça eklemlerine bağlı üniteleriyle, bu bölgeleri harekete geçiriyor. Kaslara gönderilen elektrik sinyali de bacakları hareket ettiriyor. 8 bin 440 dolara yaklaşık 13 milyar lira satılması beklenen robot giysi sayesinde, kullanıcı çok az fiziksel çaba ile saatte 4 km. hızla yürüyebiliyor. 'Robot giysi'yi üretip pazarlamak için 30 kadar firma, ortak bir şirket kuracak. 
+   
+   Çocuk robot    Yine Japon bilim adamları, 30 yıl sürecek büyük bir projeyle, bir çocuğun fiziksel, duygusal ve akli yeteneklerine sahip bir humanoid robot geliştirmek için kolları sıvadı. 'Atom Projesi' adlı proje ile üretilecek robot, 5 yaşında bir çocuğun yeteneklerine sahip olacak ve kendi kendine düşünüp hareket edebilecek. Tamamlandığında 50 milyar Japon Yeni'ne 590 trilyon TL mal olacak 'Atom Projesi', Japonya'nın bilimsel ve teknolojik gelişimini daha da hızlandıracak. 
+   
+   Yılan robot    İngiliz havacılık firması 'BAE Systems', müthiş 'robot yılanlar' geliştirdi. Düşman hatları gerisinden hayati bilgiler toplayacak 'robot yılan', helikopterlerden atılacak. Hafızalı metal alaşımlardan üretilen robotun tekerlekleri yok. Tıpkı bir yılan gibi gövdesiyle toprağı sımsıkı kavrıyor ve kıvrılarak ilerliyor. 
+   Londra Üniversitesi bilgisayar uzmanı Peter Bentley, 'yılan robotun' bozulan veya mermiyle vurulan bölümünü yeniden işler hale getirebileceğini kaydederek, bu makinenin çalışma esaslarını şöyle anlattı "Robot, yılanın omurları gibi, bir araya gelmiş modüler yapılardan oluşuyor. Her bölümde üç ayrı mekanik 'kas bloku' bulunuyor. Kas bloku elektrik verildiğinde kasılıyor, elektrik kesilince eski halini alıyor. Böylece robot sürünerek ilerliyor." 
+   
+   
+</TEXT>
+</DOC>

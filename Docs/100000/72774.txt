@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 72774 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/03/15/son/soneko09.html </URL>
+<DATE> 2002/03/15/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+AOL, yeni tarayıcısıyla "browser savaşına" katıldı 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın en büyük internet servis sağlayıcı şirketi AOL American Online , test aşamasında olan yeni internet tarayıcısını yakında piyasaya süreceğini duyurdu. 
+     ''Medya Devi'' Time Warner'ın en önemli yatırımlarından AOL, Netscape teknolojisi ile yazılan yeni tarayıcısı ile Microsoft'un tarayıcısı Internet Explorer'a IE rakip olmayı planlıyor. 
+     İnternet analistleri, 1999 yılında Netscape'i satın alarak tarayıcı savaşını geniş kitlelere yayan AOL'un, yeni tarayıcısını önce dünya çapındaki 34 milyon kullanıcısına, ardından daha geniş kitlelere sunmayı planladığını ifade ediyorlar. 
+     AOL'un, tarayıcı pazarı açısından ''internet tarayıcı liginin lideri'' IE ile olan davası 2001 yılının Ocak ayında sona ermişti. 
+     AOL, yeni bir anlaşma olmaması dolayısıyla tarayıcı teknolojilerini istediği miktarda ve istediği kadar sürdürebilecek. Öte yandan internet analistleri, AOL'un 34 milyon hazır kullanıcısına rağmen Microsoft'un AOL'un web tarayıcısını ''çok da önemsemeyeceği'' görüşünü savunuyorlar. 
+     Microsoft'un IE'yi işletim sistemleri ile birlikte ücretsiz vermesi, anti-tröst yasalarına göre dava açılmasına neden olmuş ve ABD adaleti Microsoft'u tekel oluşturmakla suçlamıştı. AOL'un en büyük avantajı, deneme çalışmaları yapılan yeni tarayıcının kaynak kodlarının açık olması. Bu durum AOL'un gelecekte tekel olmakla suçlanmasını engelleyeceği belirtiliyor. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 384950 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/08/ekonomi/eko08.html </URL>
+<DATE> 2005/10/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Cep telefonunda da kara liste tutulacak 
+</HEADLINE>
+<TEXT>
+
+
+
+Telekomünikasyon Kurumu TK , cep telefonlarında kayıt işlemlerinin hangi usullerle yapılacağını belirleyen yönetmeliğe son şeklini vererek, Başbakanlığa gönderdi. Yönetmeliğin yayınlanmasının ardından 15 gün içinde GSM operatörleri aracılığı ile kayıt dışı cep telefonlarına, kayıt yaptırmaları için uyarı mesajları gönderilecek. Cep telefonu aboneleri, çalınma, yağmalanma, kaybolma gibi durumlarda cihazlarının haberleşme şebekesinden hizmet almasının engellenmesi için TK'nın bilgi ve ihbar merkezine kısa mesaj göndererek kayıt yaptıracak. Bu işlemin, e-posta ve faksla yaptırılabileceği de belirtiliyor. 
+TK, oluşturacağı veri tabanıyla cep telefonlarını 'Kara', 'Gri' ve 'Beyaz' listeler altında izleyecek. İzinli cihazların elektronik kimlik bilgilerine ait güncel liste 'Beyaz Liste' olarak nitelendiriliyor. Hizmet dışı bırakılması gereken cihazlar kara listede bulunacak. İki listenin dışında kalan cihazlar ise Gri Liste'de yer alacak. 
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 319580 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/01/son/soneko04.html </URL>
+<DATE> 2005/03/01/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     New York menkul kımyetler borsası Wall Street günü düşüşle kapattı. 
+     Dow Jones endeksi 75.96 puan kayıpla 10,765.64'e, Nasdaq endeksi 13.68 puan düşerek 2,051.72'ye geriledi. 
+     
+</TEXT>
+</DOC>

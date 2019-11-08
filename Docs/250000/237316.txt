@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 237316 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/04/son/sonyas03.html </URL>
+<DATE> 2004/05/04/ </DATE>
+<TIME> 10.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Üç boyutlu internet arama motoru geliştirildi... 
+</HEADLINE>
+<TEXT>
+
+     İnternette, gerçek bilgi çağı aşaması olarak gösterilen üç boyutlu bir arama motoru geliştirildi. 
+     ABD'de Purdue Üniversitesi Makina Mühendisliği bölümü profesörlerinden Karthik Ramani, üç boyutlu bir arama motoru geliştirdi. 
+     İnternette, sözcüklerin yanı sıra bundan böyle üç boyutlu nesnelerin de aranmasına imkan verecek yeni sistem, özellikle sanayide, bilgisayar tasarımı nesnelerin kıyaslanmasında büyük kullanım alanı bulacağı ifade ediliyor. 
+     Yeni arama motorunun, Bilgisayar Destekli Tasarımların CAD daha çabuk bulunarak kıyaslanabilmesi nedeniyle, sanayideki buluşları daha da hızlandırması bekleniyor. 
+     Yeni üç boyutlu arama motorunun yalnızca sanayide değil, görsel sanal dünyaya da zenginlik getireceği belirtiliyor. 
+     
+</TEXT>
+</DOC>

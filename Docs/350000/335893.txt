@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 335893 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/22/son/soneko42.html </URL>
+<DATE> 2005/04/22/ </DATE>
+<TIME> 16.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa, günü 311.38 puan yükselişle tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi 2. seansta, 1. seansa göre 39.76 puan artarak 24,730.75 puandan kapandı. 
+     2. seansta, hisse senetlerinin ortalama değer kazancı yüzde 0.16 oldu. 
+     Endeks 2. seansa, 2.07 puan artarak 24,693.06 puandan başladı. Seansın ilk yarısını 24,736.89 puandan geçen endeks, en düşük olarak 24,588.40 puana gerilerken, en yüksek olarak 24,809.73 puanı gördü. 
+     1. seanstaki 271.62 puanlık artış dikkate alındığında, endeks günlük bazda 311.38 puan yükseldi. Hisse senetlerinin günlük ortalama değer artışı yüzde 1.28 olarak belirlendi. 
+     2. seans kapanışında, mali endeks 4.92 puan artarak 36,088.65 puana, sanayi endeksi 77.05 puan artarak 19,930.04 puana, hizmetler endeksi 36.92 puan artarak 13,670.57 puana yükseldi. 
+     Böylece ilk seansa göre, mali grup hisseler ortalama yüzde 0.01, sanayi grubu hisseler ortalama yüzde 0.39, hizmet grubu hisseler ortalama yüzde 0.27 oranında değer kazandı. 
+     2. seansta işlem gören toplam 311 hisse senedinden 117'si değer kazandı, 139'u değer yitirdi, 55 hisse senedinin fiyatında değişiklik olmadı. 
+     2. seansta, 437 milyon 902 bin 818 YTL'lik işlem hacmi kaydedildi. Günlük işlem hacmi, 791 milyon 519 bin 272 YTL olarak hesaplandı. 
+     2. seansta İzdemir, Tansaş, Migros, Doğan Holding ve İhlas Holding, en çok işlem gören hisse senetleri oldular. 
+     
+</TEXT>
+</DOC>

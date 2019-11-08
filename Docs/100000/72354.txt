@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 72354 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/03/13/son/soneko01.html </URL>
+<DATE> 2002/03/13/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones yükseldi, Nasdaq düştü... 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası Wall Street'in Dow Jones Endeksi, 21.11 puan yükselerek 10,632.35 puandan kapandı. 
+     Teknoloji göstergesi Nasdaq Endeksi ise 32.37 puan azalarak 1,897.12 puana indi. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

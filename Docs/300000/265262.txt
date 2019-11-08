@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 265262 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/21/son/soneko02.html </URL>
+<DATE> 2004/08/21/ </DATE>
+<TIME> 10.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+DİE verileri teletekse de giriyor... 
+</HEADLINE>
+<TEXT>
+
+     Teknolojik gelişmeleri izleyerek daha hızlı veri üretmeye çalışan Devlet İstatistik Enstitüsü DİE , bir yandan da ilgilerin bunlara daha kolay ulaşabilmesinin yollarını arıyor. 
+     Bu kapsamda, DİE tarafından yayımlanan enflasyon, büyüme ve dış ticaret istatistiklerinin TRT'nin teleteks sayfasından izlenebilmesi hedefleniyor. 
+     A.A muhabirinin edindiği bilgiye göre, konuya ilişkin iki kuruluş arasında önümüzdeki günlerde bir protokol imzalanması bekleniyor. 
+     
+     İNTERNETTE KREDİ KARTI İLE BİLGİ SATIŞI 
+     DİE, hazırladığı istatistiklere ilişkin ayrıntılı bilgilere ulaşılmasında da kolaylık sağlanması amacıyla internet ortamında kredi kartı ile bilgi satışı yapacak. 
+     Uygulamada, DİE'nin web sitesinden isteyen kredi kartı ile anında bilgiye ulaşabileceği gibi isteyenler de bunları ayırtarak DİE'den şahsen teslim alabilecek. 
+     Bu konuda Enstitü'nün gerekli izinleri aldığı ve bankalarla görüştüğü belirtilirken, uygulamanın 1-2 ay içinde hayata geçirileceği belirtiliyor. 
+     
+     ANKETÖRLERE 250 TABLET BİLGİSAYAR 
+     DİE, bölgelerden fiyat alınması sırasında kullandığı sistemde de değişikliğe gitmeyi planlıyor. 
+     Anketörlerin fiyat aldığı yerlerde anında fiyat girerek merkeze daha kısa sürede bilgi ulaştırmasını öngören sistem için 250 adet tablet bilgisayar alınacak. 
+     Böylelikle veri giriş süreci kısalacak ve merkezde oluşan yığılmanın da önüne geçilmiş olacak. 
+     
+</TEXT>
+</DOC>

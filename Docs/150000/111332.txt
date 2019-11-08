@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 111332 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/10/05/son/soneko01.html </URL>
+<DATE> 2002/10/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düşüşle kapandı 
+</HEADLINE>
+<TEXT>
+
+     New York borsası, günü düşüşle kapattı. 
+     Borsanın temel göstergesi Dow Jones endeksi, günün sonunda 188.79 puan düşerek 7,528.40 puan oldu. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq endeksi de 25.64 puan düşüşle, 1,139.92 puanla kapandı 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

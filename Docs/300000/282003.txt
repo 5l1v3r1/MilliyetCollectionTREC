@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 282003 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/20/son/sonyas30.html </URL>
+<DATE> 2004/10/20/ </DATE>
+<TIME> 13.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Doğal afetleri izlemek için uzaya uydu fırlatıldı 
+</HEADLINE>
+<TEXT>
+
+     Çin, doğal felaketleri izlemek için meteoroloji uydusu fırlattı. 
+     Çin basınında bildirildiğine göre, Fenyun-2 Fırtına-2 adlı uydu, dün ülkenin güneybatısında Siçuan eyaletinde bulunan Şiçang Xichang Uydu Fırlatma Merkezi'nden, Çin yapımı Çang Cıng Uzun Yürüyüş 3-A füzesiyle fırlatıldıktan sonra başarıyla yörüngesine oturdu. 
+     Çin'in geliştirdiği 1,38 ton ağırlığındaki uydunun, daha önce yörüngeye gönderilen benzer uydulara göre daha kapsamlı olduğu ve yeryüzünün üçte birini izleme kapasitesi bulunduğu bildirildi. 
+     Uydu, tüm Asya ve Pasifik bölgesine meteoroloji hizmeti verecek. 
+     Çin, ilk meteoroloji uydusunu fırlattığı 1988 yılından bu yana değişik tipte toplam 7 meteoroloji uydusu fırlattı. 
+     
+</TEXT>
+</DOC>

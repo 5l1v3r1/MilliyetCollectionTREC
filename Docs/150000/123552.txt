@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 123552 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/12/09/son/soneko34.html </URL>
+<DATE> 2002/12/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa günü yüzde 4.39'luk kayıpla noktaladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Bileşik Endeksi 2. seansta 0.16 puan artarak, 12,703.78 puandan kapandı. 
+     İlk seanstaki 583.67 puanlık azalış dikkate alındığında, borsa endeksi günün tamamında 583.51 puan geriledi. Hisse senetlerindeki günlük kayıp ise yüzde 4.39 oldu. 
+     Endeks 2. seansa, 30.02 puanlık düşüşle 12,673.60 puandan başladı. Seansın ilk yarısını 25.51 puan artıda 12,729.13 puandan geçen bileşik endeks, seans içinde en düşük 12,524.08 puana gerilerken, en yüksek olarak 12,787.55 puanı gördü. 
+     Kapanışta mali endeks 22.85 puan artışla 16,031.65 puana yükselirken, hizmetler endeksi 20.80 puan düşüşle 8,144.02 puana, sanayi endeksi 22.98 puan düşüşle 12,041.05 puana geriledi. 
+     Böylece ilk seansa göre mali grup hisseler ortalama yüzde 0.14 oranında değer kazanırken, hizmet grubu hisseler ortalama yüzde 0.19, sanayi grubu hisseler ortalama yüzde 0.25 oranında değer kaybetti. 
+     İşlem gören toplam 293 hisse senedinden 132'si değer yitirirken, 66 hisse senedi değer kazandı. 95 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta, 195 trilyon 232 milyar 921 milyon liralık işlem hacmi kaydedildi. İki seanstaki işlem hacmi toplamı da 391 trilyon 629 milyar 790 milyon lira oldu. 
+     Sabancı Holding, Turkcell, İş Bankası C, Akbank ve Garanti Bankası en yoğun işlem gören hisse senetleri olarak belirlendi. 
+     Borsa uzmanları, 12,500 desteğinin oldukça önemli olduğunu vurgulayarak, piyasanın bu seviyeden gelen taleple tutunma çabası içinde olduğunu, yukarıda en yakın direncin 13,000 puan civarında bulunduğunu kaydediyorlar. 
+     Uzmanlar, 12,500 desteği kırılırsa, satış baskısı ile endeksin 10,500 seviyelerine kadar inmesinin mümkün göründüğünü, bu destek kırılmadığı sürece, piyasanın umudunu koruduğunun söylenebileceğini ifade ederek, yarın satıcılı seyirin devam edebileceğini, 12 Aralık öncesinde piyasa üzerindeki baskının kalkmasının zor olacağını vurguluyorlar. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

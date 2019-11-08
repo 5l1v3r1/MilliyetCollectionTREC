@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 232800 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/19/son/soneko21.html </URL>
+<DATE> 2004/04/19/ </DATE>
+<TIME> 12.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa 23 Nisan'da tatil... 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası'nda İMKB , 23 Nisan Cuma günü işlem olmayacak. 
+     Borsa Başkanlığı'nın duyurusuna göre, resmi tatil olması nedeniyle 23 Nisan günü Hisse Senetleri Piyasası'nda işlem yapılmayacak. 
+     21 Nisan Çarşamba günü gerçekleştirilecek işlemlerin takası 26 Nisan Pazartesi, 22 Nisan Perşembe günü gerçekleştirilecek işlemlerin takası ise 27 Nisan Salı günü yapılacak. 
+     
+</TEXT>
+</DOC>

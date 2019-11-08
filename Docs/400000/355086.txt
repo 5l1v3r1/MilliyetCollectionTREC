@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 355086 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/24/son/soneko01.html </URL>
+<DATE> 2005/06/24/ </DATE>
+<TIME> 01.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Borsası’nda Dow Jones ve Nasdaq endeksleri düştü. 
+     Borsanın temel göstergesi Dow Jones 166.49 puanlık sert düşüşle günü 10,421.44 puandan kapatırken, teknoloji endeksi Nasdaq da 21.37 puan kayıpla 2,070.66 puana indi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 335152 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/20/son/soneko33.html </URL>
+<DATE> 2005/04/20/ </DATE>
+<TIME> 13.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+TBV Akademisi hayata geçti... 
+</HEADLINE>
+<TEXT>
+
+     Türkiye Bilişim Vakfı TBV , bilişim sektöründeki eleman açığını kapatmak ve eğitim kalitesini yükseltmek amacı ile TBV Akademisi'ni kurdu. 
+     TBV ve teknoloji şirketi Cisco Systems işbirliğinde oluşturulan TBV Akademisi'nde ilk etapta, uluslararası bir meslek eğitimi olarak kabul edilen Cisco Networking Akademisi Programı CNAP eğitimleri verilecek. 
+     TBV Akademisi'nin kuruluşu nedeniyle düzenlenen toplantıda konuşan TBV Başkanı Faruk Eczacıbaşı, vakfın yıllardır eğitim ve birçok alanda ülke standartlarını yükseltmeye yönelik çalışmalar yaptığını söyledi. 
+     Cisco işbirliğiyle kurulan akademi ile bilişim alanında geniş gruplara mesleki eğitim verilmesini amaçladıklarını bildiren Eczacıbaşı, ''Öncelikle bilişimle ilgili eğitim veren tüm lise, meslek yüksekokulu ve üniversitelerdeki öğretim görevlilerine yönelik bir kampanya gerçekleştireceğiz. CNAP içindeki ücretsiz hazır eğitim içeriklerini müfredatlarda kullanımını teşvik etmeyi ve bilişim eğitiminde uluslararası düzeyde standartlara oturtmayı hedefliyoruz'' dedi. 
+     Faruk Eczacıbaşı, üniversiteler, sivil toplum örgütleri ve kamu kurumları ile birlikte ortak projeler geliştirerek, bilişim eğitimlerini yaygınlaştırmayı, dar gelirli, işsiz ve engellilerin yanı sıra KOBİ'lerin de bu eğitimlerden daha etkin olarak faydalanmasını amaçladıklarını kaydetti. Cisco Systems Genel Müdürü Mete Kabatepe ise projenin 150 ülkede olduğu gibi Türkiye'de de Cisco'nun insana değer katma yönünde gerçekleştirdiği bir proje olduğunu belirterek, ''CNAP'i Türkiye'de daha çok kişiye ulaştırabilmek amacıyla TBV ile yaptığımız bu ortaklık bizim için oldukça önemlidir'' dedi. 
+     Verilen bilgiye göre, internetin getirdiği olanaklar kullanarak sürekli güncellenen program içeriği, katılımcılara bilişimin temelleri, bilgisayar ağlarının tasarımını, kurulmasını ve bakımını öğretmeyi hedefliyor. 
+     TBV Akademisi'nde 70'şer saatlik modüllerle eğitim alacak katılımcıların başarısı ara sınavlarla sürekli olarak denetlenecek. 
+     TBV Akademisi'nden mezun olanlar, ''CNAP Eğitmen Sertifikası'' almaya hak kazanacak ve yerel akademilerde öğrenci yetiştirebilecek. TBV Akademisi eğitimlerine Haziran ayında başlayacak. 
+     
+</TEXT>
+</DOC>

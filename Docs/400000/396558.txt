@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 396558 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/20/son/sontur10.html </URL>
+<DATE> 2005/11/20/ </DATE>
+<TIME> 11.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternet kullanıcılarına öneriler... 
+</HEADLINE>
+<TEXT>
+
+     Sınırsız ve ortak bir iletişim ve etkileşim ortamı olan interneti kullanırken rahatsız edilmemek ve başkalarını rahatsız etmemek için bazı ilkelerin göz ardı edilmemesi gerektiği bildirildi. 
+     Türkiye Bilişim Derneği'nin TBD web sitesinde yer alan duyuruda, bazı kurallara uyulmasıyla internet ortamının etkin ve yararlı kullanımının artacağı ifade edildi. 
+     Sanal ortamda kimliklerin saklayabileceğini umarak, benimsenmeyen davranışların sergilememesi gerektiği belirtilen duyuruda, şunlara dikkat edilmesi istendi 
+     ''Başkalarına karşı saygılı olmalı, düşüncelerimizi açıklarken hırçın, kırıcı, karalayıcı izlenimi vermekten kaçınmalıyız. Tartışmaların kişiselleşmesine yol açmamalı, hoşgörü ve anlayışlı olmaya çalışmalıyız. Kişilerin istemleri dışında iletiler alarak rahatsız olmalarını elimizden geldiğince önlemeli, bize gelen bir iletiyi, başkasına aktarırken, bu iletiyi bize gönderenin bunu isteyip istemediğinden emin olmalıyız. Ulaşmadığı kaygısıyla bile olsa aynı iletileri ardı ardına göndermemeliyiz.'' Bir web sitesinde yer alan uzunca bir metin ya da belgenin e-posta ekinde dolaştırılmaması, bu metin ya da belgenin adresini ve konusunu belirtip, sanal adresinin verilmesiyle yetinilmesi önerilen duyuruda, ''İleti trafiğini yoğunlaştıran gönderimlerde bulunanları sürekli uyarmalıyız, ısrarcı olanlarla yasal ve teknik yollarla uğraşmaktan kaçınmamalıyız'' denildi. 
+     
+     KİMLİĞİNİZİ GİZLEMEYİN 
+     Açık kimliğin gizlememesi, konu kısmı yeterince açık olan, dili anlaşılır, özlü kısa iletilerle iletişim kurmaya özen gösterilmesi, yanıtların cevap verilen iletinin konu başlığını koruyarak verilmesi, düz ve yalın deyişlerle düşüncelerin aktarılması gerektiği belirtilen duyuruda, şu görüşlere yer verildi 
+     ''İletilerimizin yalnızca eleştirici olması yerine her zaman yapıcı ve ufuk açıcı olmasını gözetmeliyiz. Gereksiz yere büyük harflerle yazışmamalı, sık sık özel simgeleri kullanmamalı, esprili ya da alaycı anlatımlardan kaçınmalıyız. Gönderdiğimiz eklerin çok yer kaplayan ekler olmamasına hele virüs gibi alıcısının bilgisayar ortamını bozucu içerik taşımamasına özen göstermeliyiz. Virüslü iletilerle karşılaştığımızda en kısa zamanda kaynağına duyurmalıyız ve etkileneceğini sandığımız kişileri gecikmeden uyarmalıyız. 
+     Başkalarının kimlik bilgilerini ele geçirmeye, açıklamaya ve kullanmaya çalışmamalıyız. İnternet ortamının sağladığı olanakların yasadışı biçimde insanlara zarar verme, başkalarının işlerini engelleme, gizli ve kişisel bilgilerini ele geçirip yararlanma, her türlü sahtekarlık, yolsuzluk, dolandırıcılık ya da hırsızlık gibi kötü amaçlı kullanımına yol açmamalıyız.'' Alınan bir iletiyi aktarırken ileti üzerindeki e-posta adres bilgilerinin gerekmiyorsa aktarılan kişinin eline geçmemesine özen gösterilmesi ve internet üzerinde denetim ve düzenleme yetkisi olanlara, işlerini kolaylaştırıcı her türlü desteğin verilmesi istendi. 
+     
+</TEXT>
+</DOC>

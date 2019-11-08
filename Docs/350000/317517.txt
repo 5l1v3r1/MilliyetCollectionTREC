@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 317517 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/22/son/sondun54.html </URL>
+<DATE> 2005/02/22/ </DATE>
+<TIME> 23.09 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hewlett- Packard aleyhine dava açtı. 
+</HEADLINE>
+<TEXT>
+
+     ABD'nin Georgia eyaletinde bir kadın, yazıcı kartuşlarının belli bir tarihte bitmeye programlandığını ileri sürerek Hewlett-Packard firması aleyhine dava açtı. 
+     Mürekkep kartuşlarında, mürekkebin azaldığını gösteren bir çip teknolojisi kullanılıyor. Ancak, Santa Clara mahkemesinde açılan davada, kartuşlardaki çiplerin, mürekkep bitmese bile, daha önce belirlenmiş bir tarihe göre mürekkebi kesmeye programlandığı ileri sürülüyor. 
+     Davanın, Şubat 2001'den beri ABD'de bu kartuşları kullanan herkesi temsil ettiği belirtildi. 
+     Dünyanın bir numaralı bilgisayar yazıcısı üreticisi HP'den ise konuyla ilgili yorum gelmedi. 
+     
+</TEXT>
+</DOC>

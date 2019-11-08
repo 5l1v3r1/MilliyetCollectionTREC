@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 232027 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/16/son/soneko39.html </URL>
+<DATE> 2004/04/16/ </DATE>
+<TIME> 16.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Merkez Bankası kurları... 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası İdare Merkezi tarafından, saat 15.30'da belirlenen gösterge niteliğindeki döviz kurları şöyle 
+     
+
+DÖVİZİN CİNSİ D.ALIŞ D.SATIŞ E.ALIŞ E.SATIŞ 1 ABD Doları 1,354,894 1,361,429 1,353,946 1,363,471 1 Avustralya Doları 1,001,315 1,007,866 996,709 1,013,913 1 Danimarka Kronu 217,677 218,749 217,525 219,252 1 İngiliz Sterlini 2,424,556 2,437,230 2,422,859 2,440,886 1 İsviçre Frangı 1,041,672 1,048,382 1,040,109 1,049,955 1 İsveç Kronu 175,207 177,030 175,084 177,437 1 Japon Yeni 12,473 12,556 12,427 12,604 1 Kanada Doları 1,007,360 1,011,914 1,003,633 1,015,759 1 Kuveyt Dinarı 4,557,954 4,617,988 4,489,585 4,687,258 1 Norveç Kronu 195,369 196,687 195,232 197,139 1 Sud. Arb. Riyali 362,366 363,019 359,648 365,742 1 Euro 1,620,724 1,628,541 1,619,589 1,630,984      
+</TEXT>
+</DOC>

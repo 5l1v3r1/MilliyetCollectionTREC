@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> 214005 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/09/yazar/oztrak.html </URL>
+<DATE> 2004/02/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> FAİK ÖZTRAK  </AUTHOR>
+<HEADLINE>
+Doların değer kaybı neden endişelendiriyor 
+</HEADLINE>
+<TEXT>
+
+   
+   G7 ülkelerinin Boca Radon'daki toplantısının sonuç bildirisi geçtiğimiz cumartesi yayımlandı. Toplantıya ABD dışındaki gelişmiş ülkelerin doların değer kaybı konusundaki endişeleri damgasını vurdu. 
+   Bildiride döviz kurlarının temel ekonomik verileri yansıtmasının altı çizilirken "Aşırı volatilite ve düzensiz hareketler ekonomik büyüme bakımından arzu edilmemektedir. 
+   Döviz piyasalarında kurlarla ilgili gelişmeleri yakından takip etmeye ve gereken biçimde işbirliğine devam edeceğiz" denmektedir. Aşırı volatilite sözcüğü esas itibariyle AB'nin doların son dönemdeki değer kaybını tanımlamak için kullandığı ifadedir. Buradan hareketle ABD ve diğer G7 ülkelerinin doların değer kaybı konusunda ortak bir noktaya geldikleri düşünülebilir. Tabii burada piyasaların bu açıklamaları nasıl yorumlayacağı ve geçtiğimiz eylül ayında yayımlanan Dubai bildirisinden çıkarttıkları sonucu ne kadar değiştirecekleri doların geleceği bakımından önemlidir. 
+   
+   Reel efektif döviz kuru 
+   Ülkemizde de reel efektif döviz kuru ile ilgili veriler geçtiğimiz hafta yayımlandı. Ocak ayı verileri 2003 yılının son üç ayında gözlenen TL'nin reel değer kaybının durduğunu gösteriyor. TL'nin bir aylık değer kazancı oldukça yüksek. 
+   Aşağıdaki tabloda yer almayan Ocak 2003 - 2004 arasındaki 12 aylık değer artışı ise TÜFE'ye göre yüzde 23, TEFE'ye göre ise yüzde 17'ye yükselmiş. Bir başka ifadeyle yurtiçinde üretilen malların fiyatları, döviz kurunu kullanarak Türk lirası cinsinden ifade ettiğimiz yabancı ülkelerdeki malların fiyatlarına göre tüketici fiyatları endeksine giren mal ve hizmetler itibariyle yüzde 23, toptan eşya fiyaları endeksine giren mallar itibariyle de yüzde 17 daha hızlı artmış. 
+   Yani ithal malların fiyatlarındaki artış yurtiçinde üretilen malların fiyatlarındaki artışın altında kalmış, ithal malı almak yerli malı almaya göre daha avantajlı olmuş. Bu durum yerli girdi kullanan üreticiyi ithal girdi kullanmaya teşvik eder, yerli girdi üreticisini mağdur eder, büyüme olumsuz etkilenir, cari işlemler dengesi bozulur. 
+   
+   Reel efektif kur endeksi 1995 100 TÜFE ARTIŞ TEFE ARTIŞ Ara.99 127,3 108,8 Ara.00 147,6 15,9 118,3 8,7 Ara.01 116,3 -21,2 107,3 -9,3 Ara.02 125,4 7,8 117,0 9,0 Ara.03 140,6 12,1 126,1 7,8 Oca.04 146,8 4,4 133,2 5,6 
+   Kaynak TCMB 
+   
+   Yabancıya avantaj 
+   Konuya uluslararası sermaye hareketleri açısından bakıldığında ise TL'nin değer kazanması şu an için yerli finansal araçlara yatırım yapan yabancı yatırımcılara avantaj sağlıyor. Çünkü TL değer kazandıkça yurtiçindeki mali varlıkların yabancı para cinsinden getirisi artıyor. Bu süreçte yabancı sermaye girişi cari açığı finanse ettiği gibi rezerv artışına da imkan veriyor. TL değer kazanmaya devam ediyor. Ancak bunun bir kırılma noktası var. 
+   Cari işlemler açığının karşılığı borçlanma. Açık arttıkça borçlanma da artıyor. Dış yatırımcılar bu borcun ödenebileceği kuşkusuna kapıldıkları anda devalüasyon beklentisine girip borç vermeyi yavaşlatıyorlar veya ellerindeki yerli varlıkları satıp çıkıyorlar. 
+   Türkiye'nin ulusararası ilişkilerinde yaşanan hızlı gelişmeler de ekonomik temeller dışında, yatırımcıların kararlarını etkiliyebiliyor. Bu durumda aşırı değerlenmiş TL volatilite riskini artırıyor. 
+   Uluslararası piyasalarda sizin dışınızdaki pazarlarda meydana gelen değişiklikler de aynı etkiyi yapabiliyor. Euronun dolar karşısındaki değer kazancının AB ekonomilerinde yarattığı endişe son G7 bildirisine yansıdı. Bu ABD'nin faizleri yükseltmesine yol açarsa bizim de içinde yer aldığımız yükselen piyasa ekonomilerine sermaye akışı yavaşlayacaktır. 
+   Ekonomi yönetimi cari işlemler dengesindeki ve sermaye hareketlerindeki gelişmeleri yakından izlemeli, sene başında yapılanın tam tersine maliye ve gelirler politikaları ile iç talebin kontrolüne ağırlık vermelidir. Belirsizlik yaratılmaması için IMF ile gözden geçirme sonuçlandırılmalıdır. Bankacılık ve şirketler kesimi de iç ve dış gelişmeleri yakından izlemeli, kur riskine dikkat etmelidir. 
+   
+      
+   
+</TEXT>
+</DOC>

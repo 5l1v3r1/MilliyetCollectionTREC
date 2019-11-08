@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 263929 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/16/son/sonyas13.html </URL>
+<DATE> 2004/08/16/ </DATE>
+<TIME> 13.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bulgar hackerlardan teröristlere sanal savaş ilanı... 
+</HEADLINE>
+<TEXT>
+
+     Bulgar bilgisayar korsanları hacker , adam kaçırıp öldüren terör örgütlerine sanal savaş ilan etti. 
+     ''The İnquirer'' adlı bir İngiliz internet dergisi, hackerların son bir hafta içinde Irak'ta iki Bulgar şoförü kaçırıp öldüren ''Tevhid ve Cihad'' örgütünün üç ayrı internet sitesini yıktığını bildirdi. 
+     Rehinelerin idamlarını gösteren fotoğrafları silip, yerine kendi mesajlarını yazan hackerler, ''Teröristler, ilkel siteleriyle bizi korkutabileceklerini zanneden salaklardır. Sanal ortamda Bulgaristan ile savaş etmek istiyorlarsa silahsız olduklarını anlayacaklar.'' Terör yanlısı sitelerden şiddet ve tehdit içerikli tüm görüntü ve açıklamaları silen Bulgar hackerler, ''Tevhid ve Cihad''ın ikinci sitesine de ''Yaşayacağınız sıkıntılara rağmen kinci ve intikamcı olmayın. Bulgarların kalbi büyüktür. Sloganımız göze göz dişe dişi değildir'' yazılı anonim bir mesaj bıraktı. 
+     Çökertilen üçüncü sitedeyse hackerler sadece ''d3n0r'' şeklinde bir imza attı. 
+     Bulgaristan'daki internet kullanıcılarını temsil eden ''İnternet Topluluğu'' adlı birliğin Başkanı Veni Markovski, olayla ilgili olarak A.A muhabirine yaptığı açıklamada, hackerların böyle bir savaşı sürdürmelerinin yanlış olduğunu söyledi. 
+     Markovski, ''Hackerların yaptığı aslında Bulgar yasalarına göre de suç sayılır. Ayrıca, olayı ahlaki değerler savaşı olarak ele alırsak onların yaptığını yaptığımızda, teröristlerden daha üstün olmadığımızı gösteririz'' dedi. 
+     
+</TEXT>
+</DOC>

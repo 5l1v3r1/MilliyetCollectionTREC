@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 201544 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/12/son/sondun04.html </URL>
+<DATE> 2003/12/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternet Explorer'da yeni güvenlik açığı... 
+</HEADLINE>
+<TEXT>
+
+     Microsoft firması tarafından geliştirilen internet tarayıcısı İnternet Explorer'da IE yeni bir güvenlik açığı daha ortaya çıkarıldı. 
+     ''Secunia'' adlı bir Danimarka firmasının uzmanlarınca bulunan açığın, hacker'lara, sahte siteleri gerçekmiş gibi gösterme fırsatı verdiği bildirildi. Bu sayede hacker'lar, örneğin sahte bir siteyi, internetin en büyük açık arttırma sitesi olan e-Bay sitesi gibi göstererek, kişilerin buraya girmelerini ve kredi kartı numaraları dahil çeşitli kişisel bilgileri vermelerini sağlayabiliyor. 
+     Hacker'ların, bu yoldan elde edecekleri bilgileri kötü amaçla kullanabilmeleri olasılığı bulunuyor. Bu yöntemin kredi kartı ve kimlik hırsızlığının başlıca metotları arasında yer aldığı bildiriliyor. 
+     ''Secunia'' firmasının durumdan haberdar ettiğini belirttikleri Microsoft yetkilileri ise ''konuyu araştırdıklarını'' ifade ettiler. Yetkililer, ''zaman veremeyeceklerini, ancak muhtemelen açığı kapatmak üzere yeni bir yamanın yayınlanacağını'' sözlerine eklediler. 
+     Microsoft yetkilileri, ''kullanıcıların ateş duvarı kullanımı, yazılımların üst dereceye yükseltilmesi ve antivirüs programları gibi temel koruyucu yöntemleri ihmal etmemelerini'' de istediler. Microsoft, ''Scania firması tarafından yapılan açıklamanın sorumlu şekilde yapılmadığını ve bilgisayar kullanıcılarının güvenliğini tehlikeye attığını'' da öne sürdü. 
+     Yetkililer, ''bulunan açıkların öncelikle üretici firmaya bildirilmesinin herkesin yararına olacağına'' dikkati çektiler. 
+     
+</TEXT>
+</DOC>

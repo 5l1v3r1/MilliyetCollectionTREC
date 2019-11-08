@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 292462 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/26/son/sontur39.html </URL>
+<DATE> 2004/11/26/ </DATE>
+<TIME> 17.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Balıkesir'de telefon görüşmelerinde sorun... 
+</HEADLINE>
+<TEXT>
+
+     Balıkesir'de iletişimi sağlayan fiberoptik kablodaki arıza nedeniyle, diğer illerle bağlantısı 4 saat koptu. 
+     AA muhabirinin Türk Telekom Genel Müdürlüğü yetkililerinden aldığı bilgiye göre, Balıkesir'in dış dünyayla her türlü iletişimini sağlayan ana link çıkışlarının bulunduğu, Susurluk İlçesi'nden geçen fiberoptik kablo saat 12.00 sıralarında koptu. 
+     Kopma sonucu, Balıkesir genelinde 12.00-16.00 saatleri arasında şehir içi ve şehirlerarası telefon görüşmeleri yapılamadı. 
+     GSM şebekelerinin devreden çıkmasına, bankalarda ve ATM'lerde işlemlerin durmasına, kredi kartları ile alışveriş yapılamamasına ve internet bağlantısının kopmasına neden olan arızanın giderildiğini kaydeden yetkililer, Balıkesir'de haberleşme sorununun saat 16.00 itibariyle sona erdiğini söylediler. 
+     Bu arada, fiberoptik kablodaki kopmanın, Balıkesir-Susurluk- Bandırma arasında devam eden duble yol çalışmalarından kaynaklanmış olabileceği, konunun araştırıldığı öğrenildi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> 246237 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/08/son/soneko37.html </URL>
+<DATE> 2004/06/08/ </DATE>
+<TIME> 18.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hisse senetleri ortalama yüzde 2.31 değer kaybetti... 
+</HEADLINE>
+<TEXT>
+
+     Borsa'da işlem gören hisse senetleri bugün ortalama yüzde 2.31 değer kaybetti. 
+     İstanbul Menkul Kıymetler Borsası İMKB Ulusal 100 Endeksi, 1. seansta 106.92 puan kayıpla 17,913.37 puana, 2. seansta 309.31 puan kayıpla 17,604.06 puana geriledi. 
+     Endeksin günlük kaybı ise 416.23 puan ve yüzde 2.31 olarak hesaplandı. 
+     Hisse senedi piyasasında, günlük bazda 622.6 trilyon liralık işlem hacmi oluştu. 
+     
+     DÖVİZ 
+     Kapalıçarşı'da dün 1 milyon 479 bin liradan kapanan dolar, güne aynı fiyatla, 1 milyon 820 bin liradan kapanan euro 1 milyon 821 bin liradan başladı. 
+     Kapanışta doların satış fiyatı 1 milyon 492 bin lira, euronun satış fiyatı 1 milyon 830 bin lira oldu. 
+     Merkez Bankası, doların bugünkü efektif kurunu alışta 1 milyon 465 bin 445 lira, satışta 1 milyon 475 bin 755 lira olarak açıkladı. 
+     Böylece dolar, Merkez Bankası'nın dünkü kurlarına göre, TL karşısında alışta 4 bin 455 lira, satışta 4 bin 487 lira değer kaybetti. 
+     
+     TAHVİL-REPO 
+     İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda işlem gören 5 Ekim 2005 vadeli tahvilin bugün valörlü işlemlerinde basit getiri yüzde 27.21, bileşik getiri yüzde 26.15 oldu. 
+     Bu kağıdın bugün valörlü işlemlerinin bileşik getirisi, dünkü kapanışa göre 0.26 puan geriledi. 
+     İMKB Tahvil ve Bono Piyasası Repo Pazarı'nda gecelik faiz ortalama yüzde 22.00 olarak gerçekleşti. 
+     
+     HAZİNE İHALELERİ 
+     Hazine tarafından bugün yapılan iki bono ihalesinde, nominal toplam 3 katrilyon 167.1 trilyon liralık satış gerçekleşti. 
+     Bileşik faiz, 154 gün vadeli bono ihalesinde yüzde 27.33, 350 gün vadeli bono ihalesinde ise yüzde 28.05 olarak belirlendi. 
+     
+</TEXT>
+</DOC>

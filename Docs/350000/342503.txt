@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 342503 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/14/son/sondun27.html </URL>
+<DATE> 2005/05/14/ </DATE>
+<TIME> 19.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kango'da Ebola şüphesi 9 ölü 
+</HEADLINE>
+<TEXT>
+
+     Kongo’nun kuzeybatısında son günlerde 9 kişinin Ebola virüsü semptomlarına benzeyen bir hastalıktan öldüğü bildirildi. 
+     Kongo Sağlık Bakanlığı’ndan yapılan açıklamada, hastalık belirtileri taşıyan iki kişinin ise tıbbi denetimde tutulduğu ifade edildi. 
+     Hastalığın Ebola olup olmadığı konusunda titiz araştırmalar yapıldığı, ancak bu araştırmaların şu anda herhangi bir fikir vermediği açıklandı. 
+     Ebola, dünyanın en öldürücü virüslerinden biri olarak biliniyor. 
+     
+</TEXT>
+</DOC>

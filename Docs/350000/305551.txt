@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 305551 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/11/son/sontur26.html </URL>
+<DATE> 2005/01/11/ </DATE>
+<TIME> 13.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kombi elektrik sayaçlarında hile iddiası... 
+</HEADLINE>
+<TEXT>
+
+     Elektrik Mühendisleri Odası EMO İzmir Şubesi Yönetim Kurulu Başkanı Musa Çeçen, küçük ve büyük ölçekli işletmelerde kullanılması zorunlu olan ''Kombi elektrik sayaçlarının hileli olduğunu'' iddia etti. 
+     Çeçen, düzenlediği basın toplantısında, piyasada satılan iki değişik tipteki kombi elektrik sayacını TÜBİTAK Ulusal Metroloji Enstitüsü'ne UME incelettirdiklerini, yapılan ölçümlerde, ''sayaçların reaktif tüketimi yanlış kaydettiğinin doğrulandığını'' savundu. 
+     UME laboratuvar ölçüm sonuçlarını incelediklerinde, sayaçların fazlara aynı zaman diliminde ''hem kapasitif, hem de indüktif enerji miktarının yazıldığının görüldüğünü'' ifade eden Çeçen, şu bilgiyi verdi 
+     ''Bu durum, kullanılan sayacın tüketicileri cezalı konuma sokacak ölçüm kaydı yaptığını kanıtlamaktadır. Tespit edilen durum, mekanik sayaçlarla yapılan bir elektrik ölçüm sisteminde aktif, indüktif ve kapasitif sayacın aynı anda dönerek enerji kaydı yapmasına benzetilebilir. Bu teknik olarak olanaksızdır. TEDAŞ'ın bilim ve mühendislik dışı talep ve baskısıyla bu sayaçların yazılımına müdahale edilmiş, TEDAŞ ve diğer elektrik dağıtımı yapan kuruluşlara para kazandıran kaynağa dönüştürülmüştür.'' Çeçen, bu duruma son vermek için Enerji ve Tabii Kaynaklar Bakanlığı, Sanayi ve Ticaret Bakanlığı, Ölçü ve Ayarlar Genel Müdürlüğü, TSE Genel Müdürlüğü ve Devlet Denetleme Kurulu'nun soruşturma açmasını beklediklerini söyledi. Elektrik dağıtım şirketlerinin, bu sayaçlar sayesinde trilyonlara varan haksız kazanç elde ettiğini öne süren EMO İzmir Şubesi Yönetim Kurulu Başkanı Musa Çeçen, şöyle devam etti 
+     ''Vatandaşlar ve işyeri sahipleri, farkında olmadan, fazla tüketim nedeniyle sürekli cezalı ödeme yapıyor. Bu sayaçlarla yapılan ödemelerin yüzde 30'unun haksız kazanç olduğu kanaatindeyiz. Yasal süreci bekleyip, daha sonra kamu adına yasal yollara başvuracağız. Söz konusu sayaçlar konutlarda kullanılmıyor.'' 
+     
+</TEXT>
+</DOC>

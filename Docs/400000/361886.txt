@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 361886 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/17/son/soneko11.html </URL>
+<DATE> 2005/07/17/ </DATE>
+<TIME> 11.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türk boğazlarına etkin kontrol geliyor... 
+</HEADLINE>
+<TEXT>
+
+     Türk boğazlarında geçişlerin daha etkin ve sağlıklı olarak yapılması amacıyla, Denizcilik Müsteşarlığı yeni bir proje çalışmasını daha başlattı. 
+     Edinilen bilgiye göre, kısa bir süre önce Gemi Trafik İzleme Sistemi ile boğazların kontrolünü sağlamayı başaran Denizcilik Müsteşarlığı, programına aldığı ve kısa adı AIS olan Otomatik Tanılama sistemiyle, boğazlardaki her türlü geçişleri daha sıkı takip ve denetleme altına alacak. 
+     Denizcilik Müsteşarlığı'nın ilk etapta İstanbul, Çanakkale daha sonra da Marmara denizinde hizmete almayı planladığı Otomatik Tanımlama kimlik sistemi ile ilgili fizibilite çalışmalarına başlandığı bildirildi. 
+     Söz konusu AIS sistemi ile boğazlara girecek olan tüm gemiler, otomatik tanımlama sistemi ile kontrol altına alınacak. Fizibilite etüdü çalışmalarının bu yıl içinde ihale edilmesi planlanan AIS sisteminin 2006 yılı sonunda devreye alınması planlanıyor. 
+     Sistemle boğazlarda kazaların büyük ölçüde önleneceği gibi ÖTV'siz yakıt kullanan tekneler, yine yasal olmayan yollardan balıkçılık yapan gemiler de, bu sistemle kontrol altına alınmış olacak. Ayrıca diğer güvenlik kuruluşları ile de işbirliği yapılarak boğazdan her türlü kaçak girişlerinin de önüne geçilmiş olacak. 
+     Yaklaşık 3 milyon avroya mal olması planlanan sistemin finansmanı, Avrupa Yatırım Bankası tarafından karşılanacak. 
+     AIS Sistemi ihalesinin bu yıl içinde yapılması halinde sistemin önümüzdeki yıl sonuna kadar hizmete alınması planlanıyor. 
+     İlk etapta İstanbul ve Çanakkale boğazlarında hizmet verecek olan Otomatik Tanımlama Sistemi uygulamasının önümüzdeki yıllarda diğer limanlara da yaygınlaştırılması planlanıyor. 
+     
+</TEXT>
+</DOC>

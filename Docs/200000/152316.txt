@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 152316 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/04/25/son/sondun35.html </URL>
+<DATE> 2003/04/25/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+SARS şimdi de para kazandırıyor... 
+</HEADLINE>
+<TEXT>
+
+     Asya'da ekonominin zarara uğramasına neden olan atipik zatürree türü olan SARS hastalığı, Hong-Konglu bir cep telefonu operatörüne yeni iş alanı yarattı. 
+     Hong-Konglu GSM operatörü Sunday Communications, SARS bölgesi olarak tanımlanan yerlere yaklaşan abonelerini, kısa mesaj aracılığıyla uyarmaya başladı. 
+     SARS uyarı sistemi, Avrupa'da kullanılan ''Konuma Bağlı Servis Platformu''nun LBS-Location Based Services sistemiyle aynı şekilde çalışıyor. Bu sistemde baz istasyonları, GSM şebekelerinin hücresel yapısından yararlanarak, aboneye bulunduğu bölgeye ilişkin bazı bilgileri aktarabiliyor. 
+     Sunday Communications de, resmi kurumlar tarafından açıklanan ve şimdilik 119 adresi içeren uyarı listesine dayanarak, son 10 günde içinde SARS hastası bulunduğu tespit edilen binaları bildiriyor. 
+     Cep telefonu kullanıcıların tepkileri ise değişiyor. Kimi hizmeti çok yararlı bulurken, kimi de virüs bulunan bölgelerden kaçmakla kargaşanın artacağından endişeli. 
+     Sunday Communications bu hizmetiyle kimseyi kızdırmak istemediğini açıkladı. Şirket, SARS hastalığıyla mücadele eden insanları da düşündüklerini kaydederek, bu kişilere dış dünyadan kopmamaları için 1000 adet Sim kartı hediye etti. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

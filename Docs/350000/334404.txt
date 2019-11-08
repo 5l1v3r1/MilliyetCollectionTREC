@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 334404 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/18/son/sondun29.html </URL>
+<DATE> 2005/04/18/ </DATE>
+<TIME> 13.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Fransa'da kış kapıdan baktırıyor... 
+</HEADLINE>
+<TEXT>
+
+     Fransa'nın Alpler bölgesinde hafta sonu etkili olan fırtına ve kar yağışı yüzünden 44 bin eve hala elektrik verilemediği bildirildi. 
+     Ulusal Elektik İdaresi EDF , pazar günü kötü hava koşulları yüzünden elektriksiz kalan konut sayısın 145 bine kadar çıktığını açıkladı. 
+     Karayolları İdaresi, Alpler bölgesinde, küçük yerleşim birimlerini birbirine bağlayan bazı yolların ulaşıma kapandığını bildirdi. 
+     Bu arada, Lyon civarındaki bazı yerleşim birimlerinde aşırı yağışların sel tehlikesine yol açtığı ve 350 kişinin bulundukları bölgeden geçici olarak tahliye edildikleri belirtildi. 
+     
+</TEXT>
+</DOC>

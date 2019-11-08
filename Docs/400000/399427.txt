@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 399427 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/30/son/sonyas02.html </URL>
+<DATE> 2005/11/30/ </DATE>
+<TIME> 07.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tavuk yağından yakıt üretildi 
+</HEADLINE>
+<TEXT>
+
+     ABD''nin Arkansas Üniversitesi araştırmacılarının biodizel yakıt elde etme yöntemini geliştirerek tavuk yağından yakıt ürettikleri bildirildi. 
+     Üniversitenin kimya mühendisliği araştırmacılarından Brian Mattingly, projeyle ilgili olarak ''Petrol tabanını genişletmeye çalışıyoruz. Yüzde 5 ila yüzde 20 oranında biodizelin petrol bazlı dizelle karıştırılması, ABD'nin yurt dışından gelen petrole olan bağımlılığını gözle görülür şekilde düşürecektir'' dedi. 
+     Bu arada Mattingly'nin araştırmasının biodizel üreticilerine tercih yapabilecekleri değişik materyalleri kullanabilme imkanı verdiği belirtilirken, aynı üniversitede kimya mühendisi olan Profesör R.E. Babcock, ''Tavuk yağından elde edilen yakıt daha iyi yanıyor, silindir ve pistonları yağlayarak temizliyor'' dedi. Babcock, tavuk yağından elde edilen yakıtın hem çevre hem de makineler için en iyi yakıt olduğunu da savundu. Araştırmacılar, biodizel üreticilerinin geleneksel olarak yakıta dönüşmesi daha kolay olan soya yağı gibi rafine ürünleri kullandıklarını, ancak rafine edilme sürecinin soya yağını daha pahalı hale getirdiğini belirtiyorlar. Araştırmacılar, tavuk yağının ise biodizel üretiminde daha ucuz bir malzeme olarak kullanılabileceğini kaydediyorlar. 
+     Mattingly, biodizel üretiminde soya yağının mı yoksa tavuk yağının mı kullanılmasının daha uygun olacağına ekonomi biliminin karar vereceğini belirtirken, ziraat ekonomisi profesörlerinden Michael Popp, tavuk yağından biodizel üretmenin ekonomik olarak uygun olup olmadığı konusunda karar vermek için henüz erken olduğunu ifade etti. 
+     
+</TEXT>
+</DOC>

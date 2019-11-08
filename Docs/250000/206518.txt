@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 206518 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/05/son/sondun05.html </URL>
+<DATE> 2004/01/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sars'ın, Misk kedisinden kaynaklanma olasılığı artıyor 
+</HEADLINE>
+<TEXT>
+
+     Akut solunum yetmezliği sendromu SARS virüsünün Misk kedilerinden kaynaklanması olasılığının arttığı bildirildi. 
+     Çin'in güneyindeki Guangdong Eyaleti Hastalık Önleme ve Kontrol Merkezi tarafından açıklamada, Guangzhou şehrinde SARS hastalığına yakalandığından şüphelenilen kişinin S geni sıralamasının, Hong Kong Üniversitesi tarafından ortaya çıkarılan, Misk kedisinin taşıdığı SARS adlı taçlı virüsün S geni sıralamasına çok benzediği kaydedildi. 
+     Bu sonuç, insanlara bulaşan SARS virüsünün büyük olasılıkla Misk kedisinden kaynaklandığını gösteriyor. 
+     Çinli uzmanlar, hükümete, Misk kedisi ve benzeri hayvanların beslenmesi, kesilmesi veya yenilmesinin yasaklanması önerisinde bulundular. 
+     Öte yandan, Guangdong eyaleti yetkilileri, eyalette ikinci bir SARS vakası görüldüğü söylentilerinin gerçeği yansıtmadığını belirttiler. 
+     Yetkililer, halen tedavi altında bulunan tek şüpheli SARS hastasının durumunun iyi olduğunu ve ateşinin günlerdir normal sınırlar içinde bulunduğunu kaydettiler. 
+     
+</TEXT>
+</DOC>

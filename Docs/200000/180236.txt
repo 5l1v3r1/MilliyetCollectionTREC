@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 180236 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/04/son/sondun17.html </URL>
+<DATE> 2003/09/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft'un ofis programında bir açık daha... 
+</HEADLINE>
+<TEXT>
+
+     Merkezi Seattle'da bulunan yazılım devi Microsoft, Ofis programında açık bulunduğunu duyurdu ve kullanıcılardan internet güvenlik sitesine girerek, gerekli yamayı indirmelerini istedi. 
+     Microsoft tarafından yapılan açıklamada, Visual Basic yazılımındaki ''kritik'' açık yüzünden hacker'ların, kullanıcı bilgisayarlarını ele geçirebilecekleri kaydedildi. 
+     Açığı kapatacak yama www.microsoft.com security adlı siteden indirilebiliyor. 
+     Microsoft'un yazılımları bu yıl içinde biri Blaster, diğeri Slammer adı verilen iki böceğin saldırısına maruz kalmıştı. 
+     Son açığın özellikle Microsoft'un en yeni Access, Excel, Powerpoint, Publisher, Visio, Word ve Works programlarında olduğu bildirildi. 
+     Tüm bu programlar Microsoft'un ''Ofis'' süitinin parçaları. Söz konusu programlar yazı, hesaplama, sunu ve internet yayıncılığı alanlarında geniş biçimde kullanılıyor. 
+     
+</TEXT>
+</DOC>

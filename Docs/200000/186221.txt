@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 186221 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/03/son/soneko16.html </URL>
+<DATE> 2003/10/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+"Geleceğin savaş uçağı"nda Türk imzası... 
+</HEADLINE>
+<TEXT>
+
+     Smiths Aerospace, Aydın Yazılım ve Elektronik A.Ş Ayesaş ile 'geleceğin savaş uçağı' olarak nitelendirilen F-35 Müşterek Savaş Uçağının füze kumanda arayüz birimi ünitesi mekanik ve çevrim kartı alt aksam bölümünü geliştirmek üzere anlaşma imzaladı. 
+     IDEF Fuar alanında düzenlenen imza töreninde konuşan Savunma Sanayi Müsteşarı Ali Ercan, anlaşmanın Türk savunma sanayinin somut bir adımı olduğunu, diğer Türk firmaların da bu projelerde yer alması için gayret göstermesini istedi. 
+     Ardından imzalanan anlaşmaya, Smiths Aerospace adına Uluslararası Program Direktörü Dave R. Bino, Ayesaş adına Yönetim Kurulu Başkanı Neşe Özdemir ile Savunma Sanayi Müsteşarı Ercan imza koydu. 
+     
+     ANLAŞMA NELERİ İÇERİYOR 
+     Anlaşmaya göre, Türk endüstrisinin uluslararası F-35 ortaklarının bir parçası olarak yürüteceği ilk geliştirme programı olan bu projeden Türk firması, füze kumanda arayüz birimi ünitesi alt aksamlarının kalifikasyon ve uçuş testleri de dahil olmak üzere 6 milyon dolar elde edecek. Uçak konfigürasyonuna bağlı olarak projenin değeri 80 milyon dolara kadar çıkabilecek. 
+     İlk geliştirme donanımı 2006 yılının Haziran ayında tamamlanacak olan programın üretim aşaması Ankara'daki Ayesaş tesislerinde 2009 yılında başlayıp 2026 tarihine kadar sürecek. 
+     Silahların standart olmayan arabirimlerini 1.760 standart silah arabirimine çeviren bu ünitenin, hafif, anında şarj olan, silah yuvasında ve kanatlardaki yerine bağlı olarak güç şartlarda güvenli bir şekilde çalışması gerekiyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 212546 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/01/son/sondun13.html </URL>
+<DATE> 2004/02/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Virüs Mydoom veba gibi... Çin'de 200 bin bilgisayara bulaştı 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın en tehlikeli bilgisayar virüslerinden olan Mydoom'un, Çin'de 200 bin bilgisayara bulaştığı bildidildi. 
+     Yeni Çin Haber Ajansı, Çin'de virüslere koruma sisteminin zayıf olduğu, bu yüzden de virüsün 78 milyon bilgisayarın saldırı tehdidi altında bulunduğunu belirtti. 
+     Çin'de geçen yıl Sobig.F virüsü, internet bağlantılı bilgisayarların yüzde 30'una karşılık gelen 20 milyon kadar bilgisayara bulaşmıştı. 
+     
+</TEXT>
+</DOC>

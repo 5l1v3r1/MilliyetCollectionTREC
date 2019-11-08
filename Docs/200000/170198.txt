@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 170198 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/18/son/soneko01.html </URL>
+<DATE> 2003/07/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Wall Street düşüşle kapandı... 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street borsası günü düşüşle kapadı. 
+     Dow Jones sanayi endeksi 43,77 puan, yani yüzde 0,48 kayıpla günü 9050,82 puandan, Nasdaq endeksi ise 49,95 puan, yani yüzde 2,86 düşüşle 1698,02 puandan kapandı. 
+     
+</TEXT>
+</DOC>

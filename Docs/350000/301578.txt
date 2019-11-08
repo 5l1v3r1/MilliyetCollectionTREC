@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 301578 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/28/son/soneko11.html </URL>
+<DATE> 2004/12/28/ </DATE>
+<TIME> 11.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Muhasebe sisteminde YTL'ye uyum esasları açıklandı... 
+</HEADLINE>
+<TEXT>
+
+     Yeni yılda uygulamaya girecek Yeni Türk Lirası YTL ile ilgili düzenlemeler çerçevesinde, Özel Kesim Muhasebe Sisteminde işletmeler tarafından uyulacak esaslara açıklık getirildi. 
+     Maliye Bakanlığı'nın, Resmi Gazete'nin bugünkü sayısında yayımlanan tebliğe göre, söz gelimi bakkaldan alınan ve 30 yeni kuruş olan bir ekmeğin KDV'si, 1 Ocak 2005 tarihinden sonra bu fiyata dahil olacak. Yani 30 kuruşluk ekmeğin yüzde 1 olarak belirlenen KDV'si 0.29 kuruş olmakla birlikte, bu ekmeğin 30 kuruşluk fiyatı içinde yer alacak. 
+     Aynı işletme iki ekmek sattığında iki ekmeğin KDV'si 0.59 Yeni kuruş olacak. Yasa hükmü gereği bu değere, 0.41 ilave edilerek muhasebe kayıtlarına 1 Yeni Kuruş olarak işlenecek ve farkı da işletme verecek. 
+     İşletme beş ekmek sattığında ise fiyatı kdv dahil 150 kuruş olacak. Beş ekmeğin kdv'si 1.48 Yeni Kuruş olarak hesaplanırken, 1.5 kuruşun altında kaldığından bu ekmeklerin kdv'si 1 kuruş olarak hesaplanacak. 
+     Bir işletmenin yüzde 18 KDV oranına tabi ürünlerinde ise fiyatlarda tamamlama yapılmayacak, birim fiyatların miktarlarla çarpılması sonucu bulunan tutar işlem sonucu olduğundan, tamamlama bu aşamada yapılacak ve tutarlar Yeni Kuruş olarak ifade edilecek. 
+     ÖTV kapsamında olan ve yüzde 100 yerli tütünden imal bir paket sigara 1.35 yeni kuruştan satışa sunulduğunda, buna yüzde 28 ÖTV ile yüzde 0.35 maktu ÖTV uygulanarak piyasaya sunulacak. 
+     Yüzde 34'ün üzerinde yerli tütün kullanılanarak imal edilen ve 2.15 yeni kuruştan piyasaya sunulacak sigaraya da yüzde 28 ÖTV, yüzde 0.5 maktu ÖTV, yüzde yüz yabancı tütünden imal edilen ve piyasaya 2.95 yeni kuruştan sunulacak bir paket sigaraya da yüzde 28 ÖTV, yüzde 1 maktu ÖTV uygulaması yapılacak. 
+     Öte yandan kurşunsuz süper benzin ve motorinin satış faturalarında, yine KDV ile ÖTV oranları yansıtılacak. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 322271 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/09/son/sontur12.html </URL>
+<DATE> 2005/03/09/ </DATE>
+<TIME> 10.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İzmir metrosunda arıza.... Seferler aksadı... 
+</HEADLINE>
+<TEXT>
+
+     İzmir Metrosu'nda sinyalizasyon sisteminde meydana gelen arıza nedeniyle bu sabah 06.00'dan itibaren metro seferlerinin gecikmeli yapıldığı bildirildi. 
+     AA muhabirinin İzmir Metro A.Ş yetkililerinden aldığı bilgiye göre, sinyalizasyon sisteminde sabah 06.00'dan sonra arıza meydana geldi. 
+     Yetkililer, trenlerin raylar üzerinde güvenli bir şekilde seyrini ve araçların otomatik olarak yolu algılamasını sağlayan sistemdeki arıza nedeniyle Bornova-Üçkuyular, Üçkuyular-Bornova hatlarında seferlerin sağlıklı olarak gerçekleştirilemediğini belirttiler. 
+     Arıza nedeniyle istasyonlarda sık sık anons yapılarak seferlerin gecikmeli olarak gerçekleştirileceği duyuruldu. Yetkililer, karşılıklı sefer yapılamadığını, durumun ''tek yönlü'' olarak çalıştırılan iki tren ile aşılmaya çalışıldığını söylediler. 
+     Sistemdeki arızanın giderilmesi için çalışmaların aralıksız sürdüğü kaydedildi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 374354 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/31/son/soneko01.html </URL>
+<DATE> 2005/08/31/ </DATE>
+<TIME> 01.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düşüşle kapandı... 
+</HEADLINE>
+<TEXT>
+
+     ABD’nin Meksika Körfezi kıyılarını vuran ve büyük bir yıkıma yola açan kasırga felaketi, New York Borsası’nda da düşüşe neden oldu. 
+     New York Borsası’nda Dow Jones Endeksi 50.23 puan azalarak, 1,129.76 puandan kapandı. Teknoloji şirketlerinin hisse senetlerinin 
+     izlendiği Nasdaq da 7,89 puan gerileyerek, 2,129.76 puana düştü. 
+     Kasırganın şiddetinin azalması üzerine dün yükselişle kapanan borsanın, bugün yetkililerin, kasırganın yol açtığı can ve mal kaybını büyük bir yıkım olarak nitelemelerinden sonra petrol fiyatlarının fırlaması ve ilgili sektörlerde hisse senetlerinin düşüşünü sürdürmesi üzerine gerilediği kaydediliyor. 
+     
+</TEXT>
+</DOC>

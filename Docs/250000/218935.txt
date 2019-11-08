@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 218935 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/01/son/sondun40.html </URL>
+<DATE> 2004/03/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Netsky virüsünün yeni biçimi 
+</HEADLINE>
+<TEXT>
+
+     Netsky adlı bilgisayar virüsünün yeni biçimi Netsky-D, dünden itibaren tüm dünyada yayılmaya başladı. 
+     ''Pif'' dosyası program information file biçiminde ve yanıt mesaj gibi gözüken bir postayla bilgisayarlara gelen Netsky-D solucanı, iki gün içerisinde oldukça etkili biçimde yayıldı. Mesaj, ''re details'' veya ''re here is the document'' şeklinde ifadelerle sunuluyor. 
+     Sophos Plc.'den teknoloji danışmanı Graham Cluley, bugün yaptığı açıklamada, bilinmeyen bir yerden ''pif'' dosyası alındığında açılmamasını, silinmesini önerdi. 
+     
+</TEXT>
+</DOC>

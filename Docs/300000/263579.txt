@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 263579 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/15/son/soneko01.html </URL>
+<DATE> 2004/08/15/ </DATE>
+<TIME> 09.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yeni milli gelir hesabı önümüzdeki bahara kaldı... 
+</HEADLINE>
+<TEXT>
+
+     Milli gelir GSMH hesaplamasında, 1996 yılı yerine 1998'e ait girdi-çıktı tablosunun kullanılması gündeme gelince yeni milli gelir hesabı 2005 Mart'ına kaldı. 
+     A.A muhabirinin edindiği bilgiye göre, 1987 yılı bazlı olarak hesaplanan milli gelirde ilk olarak baz yılının 1996 yılına taşınması gündeme geldi. 
+     Ancak 1998 yılına ait input-output girdi-çıktı tablolarının hazırlanmasının fazla zaman almayacağı görülünce, baz yılının sık sık değiştirilmemesi için biraz daha beklenerek, baz yılının 1998 yılına alınması görüşü ağır bastı. Bu süre içinde 2002 yılı sanayi sayımı sonuçlarının da kesinleşeceği belirtiliyor. 
+     Yeni yöntemle hesaplanan ilk milli gelir rakamının, 2005 yılına ait ilk çeyrek rakamının açıklanacağı 2005 Haziran sonunda ortaya konulması hedefleniyor. 
+     
+     YENİ HESAPLAMADA NELER VAR 
+     Yeni milli gelir hesabı ile kapsam dışı alanlardan bazılarının kapsama alınmasıyla birlikte GSMH'da yüzde 20 ila 30 civarında bir artış olacağı öngörülüyor. 
+     Yeni yöntemde, daha önceki hesaplamada bulunmayan, üst kurulların yarattığı katma değer hesaba dahil edilecek. Özel finans kurumları, factoring ve leasing kuruluşları da milli gelir hesabı içine alınacak. 
+     Milli gelir hesabında dikkate alınan ortalama kira değeri de yükseltilecek. 
+     
+     MİLLİ GELİR HESABI NASIL YAPILIYOR 
+     Milli gelir hesabı girdi-çıktı tablolarına göre belirleniyor. 
+     Hesaplamada, herhangi bir sektörde üretilen 100 birimlik malın ne kadarının ticarete konu olduğuna bakılıyor. 
+     Örneğin, Türkiye'de bir yılda üretilen patatesin değerinin 100 milyar lira olduğu varsayıldığında, bunun yüzde 90'ının ticarete konu olduğu esas alınıyor ve 90 milyar liralık ticaret yapıldığı sonucuna varılıyor. 
+     Bu üretimin ne kadarlık bölümünün ulaştırma sektörünü etkilediği belirlenerek, buradan çıkan rakam da ulaştırma sektörü içinde gösteriliyor. 
+     Bu ağırlıklar girdi-çıktı tabloları sonucunda ortaya çıkan katsayılardan hesaplanırken, kayıtdışı sektör de marj yöntemiyle belirleniyor. 
+     
+</TEXT>
+</DOC>

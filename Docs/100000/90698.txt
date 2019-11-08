@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 90698 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/06/19/son/sondun06.html </URL>
+<DATE> 2002/06/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İngiliz mühendis dişe takılan cep telefonu geliştirdi 
+</HEADLINE>
+<TEXT>
+
+     İngiliz mühendisler, dişe takılan ve cep telefonu işlevi gören bir cihaz geliştirdiler. 
+     James Auger ve Jimmy Loizeau tarafından geliştirilen ''diş telefon'', ufak bir titreşim aletiyle radyo alıcısından oluşuyor ve ameliyatla dişin içine takılıyor. 
+     Cihazın henüz mikroçipi bulunmuyor, ancak Augrey, teknolojinin denendiğini ve tam fonksiyonlu bir telefonun çok kısa bir zaman içinde tamamlanabileceğini söylüyor. 
+     Augrey, Reuters'e yaptığı açıklamada, ''mikroçiplerin şimdiki boyutlarıyla bu mümkün. Mikroçipler , dişe takılmak için artık yeteri kadar küçük boyutta'' dedi. 
+     
+     NASIL ÇALIŞIYOR 
+     Dişe dijital bir radyo sinyaliyle gelen ses, kemikler tarafından aksettirilerek iç kulağa ulaşıyor. Böylece, bilgiye her yerde ve herhangi bir zamanda ulaşılabiliyor ve başka hiç kimse telefon görüşmesini dinleyemiyor. 
+     Buluşun mucitleri, ''diş telefonun'', insan vücuduna yerleştirilen ve tıbbi özellik taşımayan ilk cihaz olabileceğini belirtiyor. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

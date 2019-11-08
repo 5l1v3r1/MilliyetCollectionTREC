@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 321988 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/08/son/sonyas10.html </URL>
+<DATE> 2005/03/08/ </DATE>
+<TIME> 10.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Uçaktan bozma otomobille saatte bin 287 kilometreye çıkacaklar 
+</HEADLINE>
+<TEXT>
+
+     WASHINGTON DHA 
+
+      ABD'de sürat düşkünü 2 arkadaş, 30 bin dolara satın aldıkları bir savaş uçağını kara taşıtı haline getirerek, saatte bin 228 kilometreyle İngilizlere ait olan karadaki hız rekorunu kırmak için canla başla çalışıyor. 
+     Yazılım devi IBM'den emekli Ed Shadle ve Boeing yöneticilerinden Keith Zanghi, 1998'de neredeyse hurda halinde satın aldıkları Lockheed üretimi jeti, saatte bin 287 kilometrelik hedeflerine ulaşmak için on binlerce dolar harcayarak yeniden şekillendirdi. 
+     
+     MALİYETİ 1 MİLYON DOLARA ULAŞACAK 
+     Uçağa uygun bir aerodinamik yapı kazandırarak karada sürat yapmaya elverişli bir 'otomobil' hale getiren ekip, 52 bin beygir gücündeki motoru önceki gün tam devir çalıştırdı ve hiçbir sorunla karşılaşmadı. 'North American Eagle' Kuzey Amerika Kartalı adlı aracın şimdiden yollara çıkmaya hazır olduğu gözlenirken, 35 mühendis ve 36 sponsor firmadan oluşan ekip cumartesi günü yapılacak deneme sürüşü için kollarını sıvadı. 
+     
+     KARADA SES HIZINI AŞACAKLAR 
+     Washington eyaletinin Pierce County bölgesindeki bir uçak pistinde yapılacak denemelerde kademeli olarak 480 kilometreye kadar çıkılıp aracın sarsma seviyesi ölçülecek. Sonbahar aylarında ise asıl hedef olan saatte bin 287 kilometreye çıkılması hedeflenecek. Bu, saatte bin 224 kilometre olan ses hızından bile daha yüksek bir sürat anlamına geliyor. 
+     Karada saatte bin 228 kilometre hıza çıkılarak kırılmış rekor, 22 yıldır İngilizlerin elinde bulunuyor. Yeni rekor denemesinin, maceracı ekibe maliyetinin 1 milyon dolara kadar çıkabileceği belirtiliyor. 
+     
+</TEXT>
+</DOC>

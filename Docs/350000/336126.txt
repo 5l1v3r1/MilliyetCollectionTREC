@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 336126 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/23/yasam/yas01.html </URL>
+<DATE> 2005/04/23/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ev telefonundan da kısa mesaj atılacak 
+</HEADLINE>
+<TEXT>
+
+
+Televizyon yarışmalarına mesaj atmak isteyen ama cep telefonu olmayan ev kadınlarını hedefleyen Türk Telekom, mayıstan itibaren sabit telefondan kısa mesaj hizmeti verecek 
+
+GÜLÇİN ÜSTÜN Ankara 
+
+Özelleştirme süreci öncesinde değerini artırmak için katma değerli hizmetlere ağırlık veren Türk Telekom TT , abonelerine mayıstan itibaren ev telefonundan SMS kısa mesaj gönderme imk nı sunacak. 30 bin abone elde etmeyi planlayan TT'nin hedefi, evlilik yarışmalarına mesaj atmak isteyen ev kadınları olacak. Aboneler 160 karakterlik SMS'yi ev telefonlarıyla yazarak hem diğer sabit telefonlara, hem cep telefonlarına ve e - mail adreslerine gönderebilecek. 
+
+Sistem nasıl işleyecek 
+Abone önce SMS göndermeye uyumlu Q klavyeli bir cihaz alacak ya da mevcut telefonuna ek cihaz taktıracak.Telefonuna mesaj servis numarası kaydeden abone, Telekom Müşteri Hizmetleri'ne boş bir mesaj göndererek kayıtlı hale gelecek.Abone, sisteme kayıtlı olmayan ve uyumlu telefon sahibi olmayan sabit telefon kullanıcılarına da mesaj gönderebilecek. Kayıtlı olmayan abonelerin telefonuna mesaj geldiğinde telefon, farklı bir zil tonunda çalacak ve yazılan mesaj sesli olarak iletilecek. 
+
+E-posta, IQ düşürüyor 
+
+NEVSAL ELEVLİ 
+E-posta ve cep telefonu mesajlarının yarattığı dikkat dağınıklığının IQ seviyesine, esrardan daha fazla zarar verdiği belirtildi. İngiltere'de yapılan araştırmaya göre, e-posta ve mesajlar, IQ seviyesinde 10 puan düşüşe yol açabiliyor. 
+
+
+</TEXT>
+</DOC>

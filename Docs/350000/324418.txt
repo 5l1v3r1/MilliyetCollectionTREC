@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 324418 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/17/son/soneko49.html </URL>
+<DATE> 2005/03/17/ </DATE>
+<TIME> 16.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Piyasalarda bugün... Borsa sert düştü, dolar hafif yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeksi, 2. seansta 814.14 puan azalarak 24,475.97 puandan kapandı. 
+     Hisse senetleri 2. seansta, ortalama yüzde 3.22 oranında değer kaybetti. 
+     İlk seanstaki 41.59 puanlık düşüş dikkate alındığında, Borsa endeksi günün tamamında 855.73 puan geriledi. Hisse senetlerinin günlük ortalama değer kaybı yüzde 3.38 oldu. 
+     Endeks 2. seansa, 10.49 puan azalarak 25,279.62 puandan başladı. Seansın ilk yarısını 24,402.62 puandan geçen endeks, en düşük 23,874.68 puana kadar gerilerken, en yüksek seviye olarak 25,279.62 puanı gördü. 
+     2. seans kapanışında, mali endeks 1,132.53 puan düşerek 35,365.83 puana, sanayi endeksi 834.80 puan düşerek 20,773.48 puana ve hizmetler endeksi 348.90 puan düşerek 12,898.91 puana geriledi. 
+     Böylece ilk seansa göre, mali grup hisseler ortalama yüzde 3.10, sanayi grubu hisseler ortalama yüzde 3.86 ve hizmet grubu hisseler ise ortalama yüzde 2.63 oranında değer kaybetti. 
+     2. seansta işlem gören toplam 309 hisse senedinden 16'sı değer kazandı, 290'ı değer yitirdi, 3 hisse senedinin fiyatında değişiklik olmadı. 
+     2. seansta, 1 milyar 11 milyon 645 bin 274 YTL'lik işlem hacmi kaydedildi. Günlük işlem hacmi, 1 milyar 550 milyon 279 bin 248 YTL olarak hesaplandı. 
+     2. seansta İş Bankası C , Yapı ve Kredi Bankası, Garanti Bankası, Doğan Holding ve Sabancı Holding, en çok işlem gören hisse senetleri oldular. 
+     
+     DOLAR HAFİF YÜKSELDİ 
+
+     Güne 1.3230 YTL'den başlayan dolar, son işlemlerde 1.3350 YTL'ye yükseldi. 
+     İstanbul ve Ankara serbest piyasalarında alınıp satılan döviz türlerinin, dün ve bugün itibariyle alış ve satış kapanış fiyatları şöyle 
+     
+
+İSTANBUL SERBEST PİYASA Çarşamba Alış Çarşamba Satış Perşembe Alış Perşembe Satış ABD Doları 1.3230 1.3320 1.3250 1.3350 Avro 1.7800 1.7850 1.7700 1.7800 İng. Sterlini 2.5400 2.5800 2.5400 2.5800 İsviçre Frangı 1.1450 1.1550 1.1430 1.1600      
+
+ANKARA SERBEST PİYASA Çarşamba Alış Çarşamba Satış Perşembe Alış Perşembe Satış ABD Doları 1.3200 1.3350 1.3230 1.3380 Avro 1.7680 1.7880 1.7670 1.7870 İng. Sterlini 2.5260 2.5740 2.5240 2.5700      
+
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 233290 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/20/son/sonyas03.html </URL>
+<DATE> 2004/04/20/ </DATE>
+<TIME> 10.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnsanın gen haritası internette... 
+</HEADLINE>
+<TEXT>
+
+     Değişik ülkelerden 152 araştırmacı, yaklaşık 30 bin insan geninin 20 binden fazlasını internette ayrıntılarıyla yayınladı. 
+     Public Library of Science Biology adlı derginin haberine göre, Japon doktoru Takaşi Gojobori önderliğindeki uluslararası ekip, 21 bin 37 insan geninden oluşan haritayı internet kullanıcılarının hizmetine sundu. 40 kurumda çalışan uzmanların 2 yıllık çalışmalarının ürünü olan genetik veri bankasının, türünün dünyadaki en büyük örneği olduğu kaydedildi. 
+     Biyologlar, doktorlar ve eczacılar için özellikle yararlı olacak gen haritası, gen fonksiyonlarıyla hastalıklar arasındaki bağlantıların ortaya çıkarılmasını sağlayacak. 
+     
+</TEXT>
+</DOC>

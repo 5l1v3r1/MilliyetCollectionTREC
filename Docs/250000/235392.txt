@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 235392 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/27/son/sonyas18.html </URL>
+<DATE> 2004/04/27/ </DATE>
+<TIME> 13.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Beyinde "yaşlılık unutkanlığına" neden olan bölge bulundu 
+</HEADLINE>
+<TEXT>
+
+     Amerikalı bilim adamları, yaşlanmaya bağlı olarak öğrenme ve hatırlama yetilerinin azalmasında anahtar rol oynayan beyin bölgesini tespit ettiler. 
+     PNAS dergisinde yayımlanan habere göre, New York'taki Columbia Üniversitesi'nde görevli Scott Small ve ekibi, beynin ''hippocampus'' bölgesinin bir parçası olan ''gyrus dentatus'' bölümünde, hem metabolik aktivitelerin hem de yeni anıları kaydetme yeteneğinin, hafızayla ilgili başka bölgelerle karşılaştırıldığında daha hızlı azaldığını tespit etti. 
+     Daha önceki araştırmalarda hippocampusun aktivitesinin yaşlanmayla birlikte azaldığının bilindiği hatırlatılan haberde, bu bölgenin öğrenme ve anıların kaydedilmesiyle ilgili olduğu ifade edildi. 
+     Bilim adamlarının, bu bölgenin hangi kısmının yaşlanmadan en fazla etkilendiğini bulma çabaları şimdiye kadar sonuçsuz kalmıştı. 
+     İnsanlar üzerinde yapılan deneylerin doğru sonuç vermeme ihtimalinin bulunduğu kaydedilen haberde, bunun nedeninin, deneye katılan kişilerin Alzheimer gibi bir hastalığa yakalanıp yakalanmadığının önceden bilinmemesi olduğu belirtildi. Bu hastalıkların, erken evrede hippocampusta değişikliklere neden olduğu biliniyor. 
+     Small, bundan dolayı deneyi Alzheimer hastalığının görülmediği sıçanlar ve rhesus maymunları üzerinde yaptıklarını söyledi. 
+     7 ila 31 yaşlarında 14 maymunun beyinlerini tarayan bilim adamları, daha sonra hayvanlara hafıza testi yaptırdılar. 
+     Sonuçları beynin çeşitli bölgelerin metabolik aktiviteleriyle karşılaştıran bilim adamları, sadece ''gyrus dentatus'' bölgesindeki aktivitenin, yaşlılıkta hafızayla birlikte paralel olarak azaldığını tespit ettiler. 
+     Sıçanlarla yapılan deneyde de aynı sonuca vardıklarını kaydeden Small, sıçanların beynindeki ''gyrus dentatus'' bölgesindeki ''arc'' ismi verdikleri bir genin aktivitesine baktıklarını söyledi. Bu genin sadece yeni öğrenilenlerin kaydedilmesi sırasında aktif hale geldiğini belirten Small, sıçanların yaşıyla birlikte ''arc'' geninin aktivitesinin de azaldığını ifade etti. 
+     Small, bu bölgenin bulunmasıyla artık yaşlanmayla birlikte azalan fonksiyonların biyokimyasal faktörlerinin araştırılabileceğini kaydetti. 
+     
+</TEXT>
+</DOC>

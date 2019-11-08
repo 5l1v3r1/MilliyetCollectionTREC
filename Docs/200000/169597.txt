@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 169597 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/15/son/sontur11.html </URL>
+<DATE> 2003/07/15/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yeni uygulama geliyor... Çalıntı telefon, alıcısını uyaracak... 
+</HEADLINE>
+<TEXT>
+
+     Cep telefonları, bundan böyle alıcılarını ''çalıntı mal oldukları'' yönünde uyaracak. 
+     Ankara Cumhuriyet Başsavcılığı, ikinci el cep telefonu hırsızlığıyla mücadele amacıyla GSM şirketleriyle Türkiye'de ilk kez uygulanacak yeni ve etkin bir yol geliştirdi. 
+     Çalıntı telefonlarla ilgili her geçen gün giderek artan suç duyurusu alan başsavcılık, bir yandan çalınan telefonları bulmak için soruşturma açarken, diğer yandan da çalıntı telefonları alanların mağduriyetinin önlenmesi için GSM şirketleriyle temasa geçti. 
+     Başsavcılık, GSM şirketlerine, ''emai'' numarasıyla tespit edilen çalıntı cep telefonlarının ekranlarına herhangi bir uyarı yazısı gönderilip gönderilmeyeceği yönünde yazı gönderdi. GSM şirketleri, başsavcılığa gönderdikleri cevabi yazıda, bunun teknik olarak mümkün olduğunu bildirdiler. 
+     Bundan sonra, cep telefonu çaldıran bir kişinin suç duyurusunda bulunduğu anda, konu ilgili GSM firmasına iletilecek. GSM firması da çalıntı telefonun ekranına, ''emai'' numarası kanalıyla ''Çalıntı maldır'' uyarı yazısı gönderecek. 
+     Ankara Cumhuriyet Başsavcısı Fahri Kasırga, konuya ilişkin değerlendirme yaparken, günde ortalama 150 çalıntı telefon başvurusu aldıklarını, bunun da yılda yaklaşık 50 bin başvuru anlamına geldiğini söyledi. İkinci el cep telefonu hırsızlığıyla mücadelede bazı zafiyetleri olduğunu, soruşturmaların uzun sürdüğünü ve sonuç almakta sıkıntı çektiklerini anlatan Kasırga, söz konusu zorlukların kendilerini yeni uygulama yoluna ittiğini ifade etti. 
+     Telefon ekranındaki ''çalıntı mal'' uyarısının ilk kez Ankara'da hayata geçirileceğini bildiren Kasırga, Turkcell ve Aycell firmalarının uygulamaya teknik olarak hazır olduklarını kaydetti. 
+     Çalınan telefonların ekranlarına bundan sonra ''çalıntı maldır'' uyarısı gönderileceğini ifade eden Kasırga, telefonu buna rağmen alan kişilerin tespit edilerek, ''hırsızlık malını bilerek satın almak'' suçundan 7 günden 3 yıla kadar hapis istemiyle yargılanacağını kaydetti. 
+     
+</TEXT>
+</DOC>

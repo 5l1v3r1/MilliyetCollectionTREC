@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 60523 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/01/04/yasam/yas10.html </URL>
+<DATE> 2002/01/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Beş sanal’ AIDS virüsü 
+</HEADLINE>
+<TEXT>
+
+2001 yılında bilgisayar dünyası, beş yok edici’ virüsün kurbanı oldu 
+     Bilgisayar uzmanları, 2001'de toplam 65 tehlikeli virüsün ortaya çıktığını ancak en yok edici’ virüslerin BadTrans.B, Sircam, Magistr, Nimda ve Goner olduğunu açıkladı. 
+     Uzmanlara göre, en tehlikeli bu beş bilgisayar virüsünün özellikleri de şöyleydi 
+
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 187223 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/08/son/sondun10.html </URL>
+<DATE> 2003/10/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD hastanelerindeki küçük hatalar yılda 32 bin kişiyi öldürüyor 
+</HEADLINE>
+<TEXT>
+
+     ABD'deki hastanelerde, kolaylıkla önlenebilecek kaza ve yanlışlar yüzünden her yıl 32 bin kişinin hayatını kaybettiği bildirildi. 
+     Sağlık Koruma Ajansı adlı kuruluş tarafından yapılan araştırmaya göre, tıbbi hatalar yüzünden ölenlerin toplam sayısı 98 bini bulurken, hata ve yanlışların maliyeti 9 milyar dolar. 
+     Araştırmaya göre, ölümlere, ameliyat sonrası iltihaplanmalar, ameliyat yaralarının kazayla açılması ya da hastanın karnında alet unutulması gibi hatalar yol açıyor. 
+     Sonuçları Amerikan Tıp Derneği'nin resmi organında yayınlanan araştırmanın ABD çapında 994 hastaneyi kapsadığı kaydedildi. 
+     
+     ELİNİ YIKA, HAYAT KURTAR 
+     Araştırmaya göre ameliyat sonrası en ciddi komplikasyon olan kan zehirlenmesi 2592 hastada görüldüğü ve bu nedenle hasta başına fazladan 57 bin 727 dolar harcama yapıldı. 
+     Kan zehirlenmesi hastanın ölüm riskini de yüzde 22 oranında artırıyor. Uzmanlar, doktor ve sağlık personelinin ellerini muntazam yıkamaları halinde bu komplikasyonun önlenebileceğini vurguladılar. 
+     Ameliyat yerinin açılması ise hastaların hastanede 9 gün fazla kalmasına ve kişi başına 40 bin 323 dolar ek harcamaya neden oluyor. 
+     Bu hastalarda ölüm riski de yüzde 10 artıyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 394926 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/14/son/sonyas09.html </URL>
+<DATE> 2005/11/14/ </DATE>
+<TIME> 10.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Japonlar, uzay robotunu asteroide indiremedi 
+</HEADLINE>
+<TEXT>
+
+     Japonlar, Minerva adını verdikleri minicik uzay robotunu İtokava asteroidine indirmeyi başaramadı. Robotla irtibat da koptu. 
+     Japon Uzay Kurumu JAXA yetkililerince yapılan açıklamaya göre, Hayabusa adlı uzay aracının fırlattığı el büyüklüğündeki 600 gramlık robot, yeryüzünden 300 milyon kilometre mesafedeki İtokava'ya inerek dünyaya görüntü geçecekti, ancak hedef tutturulamadı. Robottan gelen sinyaller de kesildi. 
+     Açıklamada, Hayabusa'nın öngörülenden daha hızlı hareket ettiği ve robotu, 600x300 metre boyutlarındaki asteroidin yüzeyinde belirlenen noktaya yönlendireceğine yörüngeye bıraktığı kaydedildi. Robotun, dün fırlatıldıktan 18 saat sonra sinyal göndermeyi kestiği belirtildi. 
+     Robot, minik sıçrama hareketleriyle ilerleyecek ve üzerindeki üç mikro kamerayla İtokava'nın yüzeyini filme çekip bunu dünyaya gönderecekti. 
+     
+</TEXT>
+</DOC>

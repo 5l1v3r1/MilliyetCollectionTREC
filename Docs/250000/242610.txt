@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 242610 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/25/son/sondun20.html </URL>
+<DATE> 2004/05/25/ </DATE>
+<TIME> 11.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+FT Okula gitmeyen kız çocukları Türkiye'nin başını ağrıtır 
+</HEADLINE>
+<TEXT>
+
+     Financial Times gazetesi, Türkiye'de eğitimde kız ve erkek öğrenciler arasındaki eşitsizliğe dikkat çeken geniş bir haber yayınladı. 
+     Haberde, özellikle doğu ve Güneydoğu'da aileleri tarafından okula gönderilmeyen kız çocuklarının sayısının fazlalılığına işaret ediliyor. 
+     Financial Times haberinde, anayasa reformlarıyla Avrupa Birliği'nin takdirini toplayan Türkiye'nin, üyelik müzakerelerinde eğitimde yaşanan sorunlar nedeniyle başının ağrıyacağı yorumunu yapıyor. 
+     
+</TEXT>
+</DOC>

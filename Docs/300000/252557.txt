@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 252557 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/03/ekonomi/aeko.html </URL>
+<DATE> 2004/07/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yılbaşında 5 dakika YTL molası 
+</HEADLINE>
+<TEXT>
+
+
+Yeni Türk Lirası'na YTL geçiş sırasında kredi kartları 31 Aralık 2004 saat 23 58 ile 1 Ocak 2005 saat 00 03 arasında kullanılamayacak 
+
+SERKAN ARMAN 
+
+Devlet Bakanı Ali Babacan, 31 Aralık 2004'ü 1 Ocak 2005'e bağlayan gece, altı sıfır atılmış Yeni Türk Lirası'na YTL geçiş işlemleri sırasında tüm Türkiye'de kredi kartlarının 5 dakika kullanım dışı kalacağını söyledi. 
+Kadın Girişimciler Derneği'nin KAGİDER düzenlediği 'Türkiye Ekonomisi ve Türkiye Ekonomisi'nde Kadının Yeri' konulu toplantının basına kapalı bölümünde konuşan Babacan, TL'nin 2006'ya kadar tedavülde kalacağını hatırlatarak, "Daha ileride inşallah YTL'nin euroya dönüşmesi de söz konusu olacak" dedi. Babacan YTL'ye geçişin Avrupa'nın euroya geçişinden daha kolay olacağını, fiyatlarda yukarı doğru bir yuvarlanma beklemediklerini kaydetti. 
+
+ATM'den YTL makbuzu 
+Babacan'ın açıklamasının ardından Bankalararası Kart Merkezi BKM , BKM ve üyelerinin sistemlerinde gerekli düzenlemelerin yapılabilmesi için Switch Otorizasyon Sistemi'nin 31 Aralık 2004 ile 1 Ocak 2005 arasında 5 dakika hizmete kapatılacağını bildirdi. Sistemin açılışından sonraki tüm işlemlerde ise yurtiçi para birimi olarak YTL'nin kullanılacağı belirtildi. Açıklamada şöyle denildi 
+"Banka uygulamasına bağlı olarak toplumu YTL'ye alıştırmak için 1 Ekim 2004'ten itibaren POS slipleri ve ATM makbuzlarında her iki para birimi birlikte kullanılabilecek. Bu uygulama 31 Aralık 2005'e kadar sürecek. 1 Ocak 2005'ten itibaren düzenlenecek POS ve ATM makbuzları ise YTL ve kuruşlu olacak. Bu tarihten başlayarak, hatalı uygulamalara neden olunmaması için POS üzerindeki 000 tuşu devre dışı bırakılacak. YTL'ye geçiş prosedürü kapsamında, üyelerimizin sistem altyapılarının uygun çalışıp çalışmadığını kontrol etmek amacıyla 1 Ocak 2005'ten önce tüm üyelerimizle gerekli test ve sertifikasyonlar yapılacak." 
+Garanti Bankası Ar - Ge Yönetmeni Eliz Bezircioğlu, Switch Otorizasyon Sistemi'nin 31 Aralık 2004 saat 23 58 ve 1 Ocak 2005 saat 00 03 arasında devre dışı kalacağını ve bu sırada kredi kartı işlemlerinin yapılamayacağını açıkladı. Bezircioğlu, bu zaman dilimi sonunda ATM'lerin de, YTL ve TL olmak üzere iki para birimiyle çalışacağını belirtti. Akbank Bilgi Teknolojilerinden Sorumlu Genel Müdür Yardımcısı Haluk Erdoğan da, "Sistem belirlenen süre içinde kapalı olmak zorunda çünkü limitler YTL'ye dönüştürülecek" dedi. Provizyonların YTL üzerinden verileceğini ancak diğer işlemlerin biraz uzayabileceğini dile getiren Erdoğan, "Bankalar 5 dakikada limitlerini düzenleyemezse provizyonlara red cevabı alınabilir. O gece ve ertesi günün tatil olması avantaj" diye konuştu. 
+BKM Operasyon Yönetmeni Murat Tarçın ise hazırlıkların tüm hızıyla sürdüğünü belirterek şunları söyledi "Benzeri bir durumu '2000 Sendromu olur mu' diye yaşamıştık. Yazılım testleri yapılacak. Bankalararası test amaçlı hayali mesajlar gönderilecek, otorizasyon alınacak. 31 Aralık'ta esas akşam üzeri yoğunlaşma olur. Gece sistem kapalıyken kart kullanılırsa 'bankaya ulaşılamıyor' mesajı gelir." 
+
+
+</TEXT>
+</DOC>

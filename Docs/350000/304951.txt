@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 304951 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/09/son/sonyas08.html </URL>
+<DATE> 2005/01/09/ </DATE>
+<TIME> 11.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kredi kartı dolandırıcığı en çok hangi yöntemle yapılıyor 
+</HEADLINE>
+<TEXT>
+
+     Son yıllarda kullanımı giderek artan kredi kartları, kullanıcısına sağladığı kolaylığın yanında sıkıntı da yaşatabiliyor. 
+     Polis kayıtlarına göre, bugüne kadar 10 çeşidi belirlenen kredi kartı dolandırıcılığının en tehlikelisini, kopyalama yoluyla yapılanlar oluşturuyor. Kopyalanan karttaki tüm bilgiler gerçek olduğu için, dolandırıcılığın ispatı da mümkün olmuyor. 
+     Dolandırıcıların genellikle çalıntı kartlar ile posta yoluyla gönderilen kartları ele geçirerek eylemlerini gerçekleştirdiğini saptayan polise göre, dolandırıcılar, çağın teknolojik imkanı internetten de faydalanıyor. Dolandırıcıların kart bilgilerini genellikle internetten temin etmeleri nedeniyle kredi kartı sahiplerinin kişisel bilgilerini internette güvenli olmayan sitelere göndermemeleri isteniyor. 
+     Hatay'ın İskenderun İlçe Emniyet Müdürlüğü de artan kredi kartı dolandırıcılığına karşı, halkı internet ortamında oluşturduğu WEB sitesi aracılığıyla uyarıyor. 
+     Internetteki sitede yer alan bilgilere göre, bugüne kadar kredi kartı dolandırıcılığının 10 çeşidi polis kayıtlarına girdi. 
+     
+     DOLANDIRICILIK ÇEŞİTLERİ 
+     Dolandırıcılar, kimlik ve imza kontrolü yapılmayan işyerlerinde, çalıntı ya da kayıp kartları kullanıyorlar. Bu nedenle kredi kartı kaybolan kişinin en kısa sürede bankasına bildirmesi gerekiyor. 
+     Posta ya da kargo yoluyla müşteriye ulaştırılan kartlar da çalınıp kullanılıyor. Bu dolandırıcılık, sahte kimlik belgeleriyle banka şubesinden kart alınarak da yapılabiliyor. 
+     Dolandırıcılar, kendilerine ait ya da bir şekilde ele geçirdiği kredi kartındaki numarayı ütüleme yöntemiyle yok ederek yerine yeni ve başkasına ait bir numara basmak suretiyle dolandırıcılık yapabiliyor. 
+     Sahte para gibi sahte kredi kartı da basan dolandırıcılar, kartın arkasında bulunan manyetik şeride, encoder kodlayıcı adı verilen bir cihazla gerçek kredi kartı bilgilerini kodlayarak kullanıyor. 
+     
+     EN TEHLİKELİSİ 
+     Kart dolandırıcılığın en tehlikelisi, kopyalamayla yapılıyor. Alışveriş yapan müşterilerin kartları müşteri görmeden encoder cihazından geçirilip kopyalanıyor. Sonra bu bilgiler, üretilen sahte bir kartın şeridine aktarılıyor. Karttaki bilgiler gerçek olduğu için, dolandırıcılığın ispatlanması zor oluyor. 
+     ATM dolandırıcılığında ise bankaya gelen müşteriden önce ATM'nin kart giriş haznesine bir cisim yerleştiriyor. Sonra gelen müşterinin kartı ATM cihazında kalınca, dolandırıcı, yardım etmek bahanesiyle şifreyi öğreniyor. Müşterinin bankadan ayrılmasından sonra da kartı ATM cihazından çıkarıp kullanıyor. 
+     Manyetik şerit sahteciliğiyle yapılan dolandırıcılıkta, dolandırıcı, kendisine ait kredi kartının arkasındaki manyetik şerit bilgilerini siliyor ve encoder cihazıyla başkasına ait bilgileri yüklüyor. 
+     
+     INTERNETLE MAL SİPARİŞİ 
+     Internette şirket ve kişilerin güvenlik şifrelerini aşarak, kart numaraları ve özlük bilgilerini çalan dolandırıcı, bu bilgilerle sipariş verebiliyor. 
+     Hesap yönlendirmek suretiyle yapılan dolandırıcılıkta ise kart sahibinin kimlik bilgileri, kredi kart bilgileri öğrenilerek bankaya telefonla veya başvuru formuyla yapılıyor. Eldeki bilgilerle kartın adresi değiştiriliyor ve bir süre sonra kaybolma bahanesiyle yeni adrese yeni kart isteniyor. Gelen kartın arkasına imza atan dolandırıcı, kartı kullanmaya başlıyor. 
+     
+</TEXT>
+</DOC>

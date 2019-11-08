@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> 296912 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/12/ekonomi/eko02.html </URL>
+<DATE> 2004/12/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Avrupa'dan ithal kopya kredi kartı 
+</HEADLINE>
+<TEXT>
+
+
+Yabancı banka müşterilerinin kullandıkları kartların bilgilerini Türk kartlarına aktaran çeteler, bunları '24 saat yakalanmama' garantisiyle 1 milyara satıyor 
+
+Şükran Pakkan 
+
+Sahte kart üretip, geçmiş yıllarda iç pazarda vurgun yapan kredi kartı dolandırıcıları, bu kez Avrupa bankalarını milyarlarca dolar zarara uğratan 'kopyalama yöntemini' Türkiye'ye getirdi. 
+Yeni yöntemle yabancı banka müşterilerinin kullandıkları kartların tüm bilgileri Türk kartlarına aktarılıyor. İstanbul Mali Şube Müdürlüğü'nden alınan bilgiye göre, son bir yıl içerisinde kart kopyalamaktan 100'ün üzerinde kişi yakalandı. Bu yöntemde, bugüne kadar yaklaşık 10 trilyon liralık haksız kazancın döndüğü saptandı. Yetkililer, kart kopyalamanın hızla artan bir suç olduğuna dikkat çekiyor. 
+Kredi kartlarından kopyalamayı aslında kartın üzerinde bulunan siyah alan yani manyetik bölüm engelliyordu. Sahte kullanıma karşı önlem olarak geliştirilen manyetik alana, kullanıcı adı, güvenlik kodu, son kullanma tarihi bilgileri yükleniyor. Ancak Macaristan'da mühendis bir çiftin icad ettiği ve cezaevine girmesine neden olan el büyüklüğündeki bir alet, bir kerede 25 kartın bilgisini kopyalamayı başardı. Kopyalamalar genellikle, Macaristan, İngiltere ve Uzakdoğu ülkelerinde yapılıyor. 
+
+24 saatlik kartlar 
+Bu arada, kart üreten çeteler, kartları piyasada da pazarlıyor. Daha çok işyerleri sahiplerinin kapısını çalan dolandırıcılar, 1 - 1.5 milyar lira karşılığında bir bedelle 10 - 15 bin dolar limitli kartı kendilerine satabileceklerini, ancak 24 saat içerisinde kullandıkları taktirde hiçbir sorunla karşılaşmayacaklarını vaad ediyorlar. 
+Kart kopyalama sisteminin önüne geçebilmek için manyetik alanı tarihe karıştıracak bir sistem geliştirildi. 1 Ocak 2005'ten itibaren kredi kartlarına çip takılacak. 
+
+Parayı, Avrupalı banka ödüyor Uluslararası bankacılık yasalarına göre, gerçek müşteri hesabında kendisine ait olmayan harcamaları fakettiği an, harcamaların yapıldığı tarihte Türkiye'de olmadığını kanıtlaması yeterli. Mağazaya ödemeyi yapan Türk bankalara da yaptıkları harcama kısa bir süre sonra Avrupalı banka tarafından ödeniyor. Bu nedenle Türk bankacıların bir zararı söz konusu değil. 
+Dolandırıcılar, gerçek kart sahipleri bulmak için çeşitli yollar deniyor. Bundan birkaç ay önce Çorum'da yakalanan bir çete, onlarca köylüyü Ukrayna'da iş vaadiyle kandırıp, kimlik bilgilerini aldı. Ardından bankalara giderek kredi kartı başvurusunda bulundu. Ancak başvurdukları banka sahteciliği saptayıp çeteyi yakalatmayı başardı. 
+Çünkü dolandırıcılar, başvuru formlarına kişilerin gerçek adreslerini verdi. Kredi kartları kurye yoluyla gönderildiğinden, çete üyeleri de bu adreslerde beklenirken yakalandı. Kurye kılığına girenler ise polisti. 
+
+Dolandırıcılığı önlemek için slipteki isim kontrol edilmeli İlk adım, kopyalama makinelerine sahip olmak. Manyetiğe yüklenen tüm gizli bilgileri kopyalayıp, hafızasında tutan bu makine, 250 dolara satılıyor. 
+Genellikle restoran ve otellerde kullanılan bu makine, ödeme yapmak üzere kredi kartını teslim eden müşteri görmeden kartın manyetiğini kopyalıyor. 
+Ya da dolandırıcılar, bankalarda çalışan bazı programcıları satın alıyor ve istedikleri miktarda müşterinin hesap bilgilerini elde ediyor. 
+Üçüncü adım ise bu bilgileri internet üzerinden satışa çıkaranları bulmak. Bu bilgiler çok yüksek fiyatlara alıcı buluyor. 
+İnternetten ya da diğer yöntemlerle elde edilen bilgiler herhangi bir bankanın gerçek kartının üzerindeki manyetik alana aktarılıyor. 
+Böylece alışveriş sırasında kimlik bilgisi sorulduğunda, kartın üzerindeki kabartmalı alanla bir uyuşmazlık söz konusu olmuyor. 
+Post makinesinden işlem yapıldığında slip, manyetik bölümü okuduğundan yabancı müşterinin adıyla çıkıyor. Ancak, kasa görevlileri slibi kontrol etmediğinden bir sorun yaşanmıyor. 
+
+
+</TEXT>
+</DOC>

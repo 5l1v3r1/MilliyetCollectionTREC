@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 242697 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/25/son/sonsiy15.html </URL>
+<DATE> 2004/05/25/ </DATE>
+<TIME> 12.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bakanlar Kurulu'na teknolojik donanım... 
+</HEADLINE>
+<TEXT>
+
+     Başbakanlık Yeni Bina'da bulunan Bakanlar Kurulu ve Yüksek Planlama Kurulu'nun toplandığı salon yeniden düzenlenerek, teknolojik yeniliklerle donatıldı. 
+     Bir süre önce tadilatı tamamlanarak, Başbakan Recep Tayyip Erdoğan ve devlet bakanlarının fiilen kullanmaya başladığı ve Bakanlar Kurulu toplantılarının da yapıldığı Başbakanlık Yeni Bina'daki salon, özel bir şirket tarafından modernize edildi. 
+     Salon, Türkiye'de ilk kez dünyada çok özel birkaç toplantı salonunda kullanılan teknoloji ile donatıldı. Her türlü işitsel ve görsel medyanın sunulabilmesi, sayısal ve klasik analog ortamlarda kayıt yapılmasının mümkün olduğu salonda, tüm teknik donanım bir bilgisayar ve teknisyen ile yönetiliyor. 
+     Salondaki konferans sistemi, 1 başkan ve 39 delege ünitesinden oluşuyor ve tüm haberleşmesini tek bir kablo üzerinden yapıyor. 
+     
+     KATILIMCILARIN SİSTEME TANITILMASI 
+     Her iki kişiye birer adet düşecek şekilde asansör sistemiyle masanın içine gizlenebilen 20 ekrandan, katılımcılara her türlü görsel sunum yapılabiliyor. 
+     Konferansa katılan katılımcıların sisteme tanıtılması ve kayıtları, kendilerine verilen ve toplantı esnasında üniteye takılan bir adet chip kart ile sağlanıyor. Bu kart ile katılımcıların tüm bilgileri, yetki seviyesi ve ses özellikleri sisteme tanıtılabiliyor. 
+     
+     ROBOT KAMERA 
+     Robot kamera ile konuşmacılar otomatik olarak algılanıyor ve söz alan her konuşmacıya kamera, operatör müdahalesi olmaksızın dönerek kayda başlıyor. 
+     Sistem, çok amaçlı oylama fonksiyonuna da sahip. Oylama ile ilgili her türlü soru, seçenek ve sonuçlar anında ekranlara yansıtılabiliyor. 
+     Delege üniteleri üzerindeki çok fonksiyonlu ekran vasıtası ile bütün delegelere, bir grubuna veya kişiye özel mesaj gönderilebiliyor. 
+     Salonda, izleyicilerin de görsel sunumlardan faydalanabilmeleri için bir motorlu perde ve yüksek çözünürlüklü projeksiyon cihazı da bulunuyor. 
+     
+     İNTERNET 
+     Her masa grubu ve kürsü, yerel ağa ve internete ulaşma imkanına, telefon hattına, görsel ve işitsel sunum için gerekli bağlantı noktalarına sahip. 
+     Salonda, giriş koridorları ve tavan arasında, yüksek hassasiyetli yangın algılama detektörleri bulunuyor. Salon giriş koridorlarında güvenlik kameraları yer alıyor. 
+     Her türlü elektrik kesintisi durumunda 1500 watt gücünde acil aydınlatma sisteminin devreye girdiği salondaki parçalı yuvarlak masadan oluşan oturma grubuna 40 kişi oturabiliyor. 
+     Başbakan Erdoğan, devlet bakanları ve başbakanlık bürokratları, Başbakanlık Merkez Bina'da geçen günlerde başlayan tadilat bitinceye kadar Başbakanlık Yeni Bina'yı kullanacaklar. 
+     
+</TEXT>
+</DOC>

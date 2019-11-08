@@ -1,0 +1,41 @@
+<DOC>
+<DOCNO> 186652 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/05/son/sontur18.html </URL>
+<DATE> 2003/10/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Emniyet, bilişim suçlarına karşı uyardı... 
+</HEADLINE>
+<TEXT>
+
+     Emniyet yetkilileri, bilişim suçlarına karşı bazı önleyici güvenlik tedbirlerinin alınabileceğini, aynı zamanda bu suçlarla karşılaşılması halinde, mağdurların Cumhuriyet Başsavcılıklarına başvurması gerektiğini belirtiyorlar. 
+     Emniyet yetkilileri, dolandırıcılık, sahtecilik, pornografi ve yasadışı yayınlar, telif haklarıyla korunan ürünlerin kopyalanması ve hakaret gibi geleneksel suçların bilgisayar ve yüksek teknoloji ürünlerinin kullanılmasıyla bilişim suçları kapsamına girdiğini, ancak bu konuda mağdur olan vatandaşların haklarını nasıl arayacaklarını bilmediklerini söylediler. 
+     Yetkililer, bilişim suçlarının kanunlarda karşılığının bulunduğunu, mağdur kurum, şirket ve kişilerin, delil niteliği taşıması muhtemel bütün unsurları müdahale etmeden muhafaza etmeleri ve vakit geçirmeden bağlı bulundukları Cumhuriyet Başsavcılıklarına başvurmaları gerektiğini belirttiler. 
+     
+     BİLİŞİM SUÇLARINA KARŞI ÖNLEMLER 
+
+     Yetkililer, bilişim suçlarına karşı alınabilecek önlemleri ise şöyle sıraladılar 
+     -Güvenlik çözümleri için kurumunuzdaki uzmanlardan yardım alın. 
+     -Mutlaka lisanslı anti-virüs yazılımı kullanın. 
+     -Bilgisayarınıza karşı yetkisiz erişimleri engellemek ve bunları görüntülemek için mutlaka kişisel güvenlik duvarı yazılımları kullanın. 
+     -Bilmediğiniz CD'leri bilgisayarınıza yüklemeyin. 
+     -Güvenliğinden emin olmadığınız sitelerden dosya indirmeyin. 
+     -Tanımadığınız kişilerin gönderdiği ve bilmediğiniz uzantıya sahip elektronik postaları e-mail açmayın. 
+     -Virüs tanımlarının düzenli olarak güncellendiğinden emin olun ve düzenli olarak bilgisayarınızdaki kişisel dosyalarınızda virüs taraması yapın. Virüsler, daha çok ''pif, scr, bat, vbs, hta, shs, lnk'' uzantılı dosyalardan bulaşmaktadır. Bu tip uzantı içeren bir dosya alırsanız, açmadan silin. 
+     -Kimden geldiğini bilmediğiniz programları çalıştırmayın. 
+     -Kullandığınız işletim sistemi başta olmak üzere bilgisayarınıza yüklenmiş tüm programların ve yamaların güncel olduğuna emin olun. 
+     -İnterneti aktif biçimde kullanmadığınız zamanlarda bağlantınızı kesmeye özen gösterin. 
+     -Java, Java Script, ActiveX gibi aktif kodların bulunduğu siteler içeren bağlantılarınızda dikkatli olun. 
+     -Önemli bilgilerinizi bilgisayarınızdan başka manyetik ortamlara yedekleyin, disklerinizi yazma korumalı hale getirin. 
+     -Tehdit ve taciz içerikli mesajlar aldığınızda e-mailinizi başlık kısmı ile bir dilekçeye ekleyerek savcılığa müracaat edin. 
+     -Bilgisayarınızda kullandığınız şifreleri kimseye söylemeyin, herhangi bir yere yazmayın, tahmin edilmesi kolay şifreler seçmeyin. 
+     
+     ÇOCUKLARI ZARARLI İÇERİKLERDEN KORUMAK İÇİN 
+
+     Öte yandan, emniyet yetkilileri, çocuklar üzerinde olumsuz etkileri olan internet sitelerine erişimin engellenmesi için internet bağlantı paketi satın alınırken içerik denetimi özelliği veren paketlerin tercih edilmesini tavsiye ediyorlar. Yetkililer, paketlerde içerik denetimi özelliği yoksa, bu özelliği içeren üçüncü parti yazılımlarla bu denetimin sağlanabileceğini belirtiyorlar. 
+     Yetkililer, bilgisayarın ''internet explorer''ının ''tools'' menüsünden ''internet options'' seçeneğinin seçilip, gelen ekrandan ''content'' menüsü tıklanarak, ekranda beliren ''content advisor'' menüsünden ''enable'' ikonu seçildikten sonra gelen ekrandan çocukların girmesi sakıncalı sitelerin adreslerinin yazılarak bu sitelere girişin engellenebileceğini ifade ediyorlar. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 237017 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/03/son/sonyas03.html </URL>
+<DATE> 2004/05/03/ </DATE>
+<TIME> 10.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Noter çekilişiyle "com.tr" adresi... 
+</HEADLINE>
+<TEXT>
+
+     İnternette adres tescili konusunda Türkiye'de tek yetkili kurum olan ODTÜ Alan Adı Yönetimi, Domain Names Systems-DNS , bugüne kadar ''jenerik'' oldukları gerekçesiyle tescil etmediği ''com.tr'' uzantılı adresleri, noter huzurunda yapılacak çekilişle verecek. 
+     AA muhabirinin aldığı bilgiye göre, DNS Yönetimi, bir süre önce araba, banka ve çeşitli hizmet sektörlerinin doğrudan adlarıyla başlayacak internet alan adlarını tescil edeceğini duyurdu. 
+     Başvuruların ardından noter huzurunda kura ile bugüne kadar ''jenerik'' sayılarak dağıtılmayan adreslerin verileceğinin açıklanması üzerine, DNS'ye 31 bin başvuru yapıldı. 
+     Başvuru evraklarının incelenmesinden sonra noter huzurunda çekiliş yapmayı planlayan DNS Yönetimi, evrakların son günde gelmesi ve ilginin çok fazla olması nedeniyle çekilişi ertelemek zorunda kaldı. 
+     DNS Yönetimi, belgesi bulunan 16 bin 787 başvuruyu inceleyerek çekilişin 7 Mayıs Cuma günü ODTÜ Kültür ve Kongre Merkezi'nde yapılmasını kararlaştırdı. Bugüne kadar jenerik olduğu gerekçesiyle verilmeyen 25 alan adı, 62 başvuru sahibi arasında yapılacak çekilişle tescil edilecek. 
+     
+     TALİBİ FAZLA OLAN 25 ALAN ADI 
+     Aynı adresi almak için çok başvuru yapılması nedeniyle şanslı olanlar isteklerine ulaşabilecek. ''fenerbahce.com.tr'' alan adı için başvuru yapan Fenerbahçe Kulübü, aynı adı isteyen Fenerbahçe Bahçecilik Ticaret Limited Şirketi ile yarışacak. Çok sayıda kişi ya da kurum tarafından istenen adresler şöyle sıralanıyor 
+     ''koruma.com.tr, uludag.com.tr, akademi.com.tr, akcay.com.tr, fenerbahce.com.tr, marmara.com.tr, turkmen.com.tr, ata.com.tr, bilisim.com.tr, done.com.tr, editor.com.tr, emlak.com.tr, hitit.com.tr, ikincielbilgisayar.com.tr, is.com.tr, kadikoy.com.tr, marka.com.tr, modem.com.tr, network.com.tr, rant.com.tr, reform.com.tr, sanal.com.tr, seker.com.tr, sektorel.com.tr, uzman.com.tr.'' 
+     
+</TEXT>
+</DOC>

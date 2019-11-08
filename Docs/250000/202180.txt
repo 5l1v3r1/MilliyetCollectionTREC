@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 202180 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/15/son/sondun16.html </URL>
+<DATE> 2003/12/15/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft, Windows 98'i desteklemeye son veriyor 
+</HEADLINE>
+<TEXT>
+
+     Yazılım firması Microsoft, gelecek aydan itibaren Windows-98 işletim sistemi için destek hizmeti vermeyi durduracağını açıkladı. 
+     Şirket, bununla birlikte, ''işletim sistemine yönelik güvenlik tehditleri fazlasıyla ciddi olduğu takdirde, yeni yamalar yayımlanabileceğini'' belirtti. 
+     International Data Corp. adlı kuruluşun tuttuğu istatistiklere göre, dünyadaki bilgisayarların yaklaşık yüzde 20'si hala Windows-95 veya Windows 98 ile çalışıyor. 
+     Microsoft, Windows-95'i desteklemeyi 31 Aralık 2001 tarihinde durdurmuştu. 
+     Yetkililer, Windows-98 kullanıcılarının 16 Ocak 2004 tarihinden sonra Microsoft'u arayarak teknik yardım isteyemeyeceğini belirtti. Ancak bilgisayarların büyük bölümünün kullanıldığı işyerlerinin, her 3-5 senede bir işletim sistemlerini bir üst düzeye çıkardığı biliniyor. Bu nedenle Microsoft'un Windows-98'i desteklemekten vazgeçmesi, sadece özel kullanıcıları etkileyecek. 
+     Jupiter araştırma kurumu uzmanlarından Joe Wilcox da, ''Windows-95 ve 98 sistemlerinin çok eski olduğunu, dolayısıyla hala bu sistemleri kullananlar varsa, sistemlerini yenilemeleri zamanının geldiğini'' ifade etti. 
+     Wilcox, ''işyeri ve kurumların, güvenlik gerekçeleriyle bu sistemleri çoktan terk ettiğini'' sözlerine ekledi. 
+     
+     GAMALI HAÇ ÇIKARILIYOR 
+     Öte yandan Microsoft firması, bazı yazılımlarında yer alan gamalı haçları çıkartacağını açıkladı. 
+     Gamalı haçların, Microsoft'un en son yayımladığı ''Office'' programında da bulunduğu bildiriliyor. 
+     Gamalı haçların yer aldığı programlar arasında, ''Bookshelf Symbol 7'' fontları da bulunuyor. 
+     Microsoft, ''gamalı haç işaretlerini sistemden çıkartacak yamanın web sayfasında derhal yayımlanacağını'' bildirdi. 
+     Nazi Almanya'sının sembolü olan gamalı haçlar, Budist dininde de Buda'nın ayak izlerini temsil amacıyla kullanılıyor. Gamalı haçın eski Mezopotamya, İskandinavya, Hindistan, Amerika, Çin ve Japonya'da da kullanıldığı kaydedildi. 
+     Merkezi Los Angeles'ta bulunan Simon Wiesenthal Merkezi, Hitler'in gamalı haçı, milliyetçiliğin ifadesi olduğu gerekçesiyle benimsediğini belirtiyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 169474 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/15/yasam/yas06.html </URL>
+<DATE> 2003/07/15/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Akıllı tuğlalar can kurtaracak 
+</HEADLINE>
+<TEXT>
+
+Amerikalı bilim adamlarının sensörlerle donattığı tuğlalar deprem ve yangın gibi afetleri önceden haber verecek... 
+     ŞENOL ÇALABAKAN Frankfurt 
+
+     Amerika'nın İllionis Üniversitesi'nde görevli bilim adamları, içine yerleştirilen sensörler algılayıcılar sayesinde deprem ya da yangın gibi afetlerde ev sakinlerini uyaran akıllı tuğlalar geliştirmeyi başardı. Aslında tuğlalar, bilinenlerden farklı değil. Ancak bu tuğlalar sıcaklık veya sarsıntıyı hissedebilen sensörlerle algılayıcı donatılmış. 
+     
+     100 ile 1000 dolar arasında 
+     Duvara monte edilen akıllı tuğlanın içindeki sensörler, en ufak bir sarsıntıyı veya küçük bir ısı değişimini yine tuğlanın içindeki entegre sisteme iletiyor. Bu sistem, gelen sinyali bir alarm sistemine naklederek, ev sakinlerinin uyarılmasını sağlıyor. 
+     Hayat kurtarması beklenen akıllı tuğla içindeki akü, dışarıdan kablo ile şarj edilebiliyor. Projenin sorumlusu Chang Liu, akıllı tuğlanın ömrünü, binanın ömrü kadar uzatmaya çalıştıklarını ifade ederek şunları söyledi "Tuğla içindeki standart donanımın türüne göre, maliyet 100 ile 1000 dolar arasında değişiyor. Kısa süre içerisinde bu donanımları mini çiplerle değiştireceğiz. Bu sensörler, ilerde beton kalıbın içine de yerleştirilebilir." 
+     
+
+</TEXT>
+</DOC>

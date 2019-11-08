@@ -1,0 +1,43 @@
+<DOC>
+<DOCNO> 285339 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/02/son/sondun08.html </URL>
+<DATE> 2004/11/02/ </DATE>
+<TIME> 09.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD bugün sandık başında... Oy verme teknolojisi ilk sınavını veriyor 
+</HEADLINE>
+<TEXT>
+
+     ABD'de halk bugün, bulundukları eyaletlerde okul, kilise ve belediye binalarında ABD başkanı ve başkan yardımcısıyla ülke genelinde kendilerini temsil edecek kongre üyelerini seçmek üzere sandık başına gidiyor. 
+     ABD'nin 44. başkanının belirleneceği seçimlerde, yaklaşık 200 milyon seçmen oy vermeye hazırlanıyor. 
+     Daha önceki seçimlerde, seçmen sayısının ancak yarısı sandık başına gitti. Bugünkü seçimde ise daha fazla katılım olması bekleniyor. 
+     Kıyasıya bir mücadele vermesi beklenen Demokrat Parti başkan adayı John Kerry ile Cumhuriyetçi Parti adayı Başkan George Bush'un, seçim kampanyalarında halkı ısrarla sandık başına çağırmalarının etkisini göstereceği belirtiliyor. 
+     Oy verme işlemi, kapalı bir oy verme odası içinde, seçmenin hür iradesi ile baş başayken yapılacak. 
+     Seçmenler önce oy verilen binada seçim yetkililerini ve gönüllüleri bulacak ve seçmen kayıtlarında adını tespit ettirecek. Seçmen kaydı bulunamayanlar da oy kullanabilecek, ancak bu oyların geçerliliği, seçmen listesinde yer aldıklarının kanıtlanmasının ardından kabul edilecek. 
+     Doğu kıyısında oy verme işlemi, TSİ 13.00'da başlıyor. Bu yıl seçmenleri daha çok oy vermeye teşvik için, hiçbir bahane göstermeden mektupla oy kullanma imkanı da tanındı. 
+     Ülkede, seçimin kilit eyaleti Florida dahil 30 kadar eyalette pek çok kişi oyunu kullanmış bulunuyor. 
+     Eskiden mektupla oy kullanma, sadece seçim sırasında yaşadığı eyalette bulunmayanlar için tanınan bir imkandı. Şimdi isteyen seçmen, yerel seçim yetkililerinden mektupla oy kullanma imkanı tanıyan bir form alıyor ve postayla bu formu seçim bölgesine gönderiyor. Örneğin Oregon eyaletinde bütün oylar mektupla kullanıldı ve oy verme işlemi şu anda bitmiş durumda. 
+     Uzmanlar, bu yıl düzenlenen kampanyaların da etkisiyle oy kullananların sayısının 100 milyonu geçeceğini öngörüyor. 
+     Oy vermek için 18 yaşını doldurmuş olmak ve kayıtlı seçmen olmak şart. 
+     
+     OY VERME TEKNOLOJİSİ 
+     Amerikan seçim tarihi boyunca oy verme yöntemleri de çeşitlilik gösterdi. 
+     Koloni döneminde çok sayıda kişi okuma yazma bilmediği için seçmenler el kaldırarak veya sözlü oy kullanıyordu. 
+     1700'lerin sonunda diğer yöntemlerin yanı sıra kağıt oy pusulaları ağırlıklı olarak kullanılmaya başlandı. 
+     1869'da keşfedilen mekanik oy verme makinesi, kağıt pusulaların kullanım oranını düşürdü. Ancak 2000 seçiminde bile ABD'de kağıt pusulalar kullanıldı ve bu pusulalar, başkanlık seçiminin 6 hafta kadar tıkandığı Florida eyaletinde büyük sorun yarattı. 
+     Yöntemin ilkelliği üzerine başlayan tartışmaların ardından, ekrana dokunarak çalışan elektronik oy verme makineleri devreye girdi. 
+     Bu başkanlık seçiminde, Amerikan seçmenlerinin yüzde 1'den daha azı, geleneksel kağıt oy pusulasıyla oyunu kullanacak. 
+     Oy verme teknolojisi, her eyalette değişiyor. Bu seçimde 6 ayrı oy verme sistemi kullanılacak. Bunlar şöyle 
+     - Kağıt pusulada, adayların adının yanındaki kutuya delik açma yöntemi. Bu yöntemi seçmenlerin yüzde 13.7'si kullanacak. 
+     - Oy verme makinesinin mekanik kolunun aşağı çekilmesi. Bu yöntemi yüzde 14 kullanacak. 
+     - Seçmenler optik tarayıcıyla okunabilecek bir oy pusulasını işaretleyecek. Bu yöntemi yüzde 34.9 kullanacak. 
+     - Seçmenler, elektronik ekrana dokunarak veya düğmelere basarak oy kullanacak. Seçmenlerin yüzde 29.3'ü bu yöntemle oy verecek. 
+     - Kağıt oy pusulaları. Yüzde 0.7 bu yöntemle oy kullanacak. 
+     - Her eyaletteki ilçede bulunan birbirinden farklı makinelerde oy kullanılacak. Yüzde 7.4 oyunu böyle verecek. 
+     Elektronik oy verme yönteminin bu yıl çok büyük destek almasına, 2000 seçiminde Florida'da yaşanan sıkıntılar yardım etti. 
+     ABD kongresi, 3.9 milyar dolar ayırarak, seçim sisteminin yenilenmesine onay verdi. Böylece Florida'da oy pusulası delinerek veya mekanik kol çekilerek oy verme yöntemleri yerine, bu seçimde elektronik ekrana dokunarak seçmenler oy kullanabilecek. 
+     
+</TEXT>
+</DOC>

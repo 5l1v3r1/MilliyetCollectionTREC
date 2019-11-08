@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 315242 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/15/ekonomi/eko07.html </URL>
+<DATE> 2005/02/15/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Intel'den fazla beyinli bilgisayar 
+</HEADLINE>
+<TEXT>
+
+
+
+Birden fazla beyni olan bilgisayar çağını başlatan Intel, çift çekirdekli sistemi bu yılın ikinci yarısında tanıtacak. Intel'in çift çekirdekli işlemci üretiminin ilk aşamasının tamamlaığı, ikinci çeyrekte Pentium ailesi için iki ayrı çift çekirdekli işlemci ve çift çekirdeği destekleyen chipsetlerin piyasaya süreceği bildirildi. 
+
+
+</TEXT>
+</DOC>

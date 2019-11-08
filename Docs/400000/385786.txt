@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 385786 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/11/son/soneko22.html </URL>
+<DATE> 2005/10/11/ </DATE>
+<TIME> 12.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı 71 puanlık kayıpla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeksi, dünkü kapanışa göre 71.14 puan azalarak, 33,434.82 puandan kapandı. 
+     1. seansta, hisse senetlerinin ortalama değer kaybı yüzde 0.21 oldu. 
+     Dün 33.505.96 puandan kapanan İMKB Ulusal 100 Endeksi, ilk seansa 2.29 puan azalarak 33,503.67 puandan başladı. İlk yarıyı 33,472.69 puandan geçen endeks, en düşük 33,370.83 puana kadar gerilerken, en yüksek 33,616.34 puanı gördü. 
+     Seans sonunda mali endeks 139.99 puan azalarak 51,366.21 puana, sanayi endeksi 5.30 puan azalarak 26,638.60 puana gerilerken, hizmetler endeksi 14.06 puan artarak 16,267.25 puana yükseldi. 
+     Böylece önceki kapanışa göre, mali grup hisseler ortalama yüzde 0.27, sanayi grubu hisseler yüzde 0.02 değer yitirirken, hizmetler grubu hisseler ise yüzde 0.09 oranında değer kazandı. 
+     1. seansta işlem gören toplam 302 hisse senedinden 136'sı değer kazandı, 90'ı değer kaybetti, 76 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta, 504 milyon 452 bin 436 YTL'lik işlem hacmi oluştu. 
+     1. seansta Acıbadem Hastanesi, Tüpraş, Ereğli Demir Çelik, Akbank ve Petkim, en çok işlem gören hisse senetleri olarak belirlendi. 
+     
+</TEXT>
+</DOC>

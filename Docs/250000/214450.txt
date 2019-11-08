@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 214450 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/11/son/sondun09.html </URL>
+<DATE> 2004/02/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Windows'ta yeni ve çok ciddi bir güvenlik kusuru daha... 
+</HEADLINE>
+<TEXT>
+
+     Microsoft, işletim sistemi Windows'ta yeni belirlenen ''olağan dışı ve ciddi düzeydeki bir güvenlik kusurundan'' ötürü kullanıcıları uyardı. 
+     Microsoft yetkilisi Stephen Toulouse dün, bilgisayar korsanlarının dosya çalmalarına, verileri silmelerine, önemli bilgileri ele geçirmelerine olanak verebilecek bu kusur için firmanın Web sitesine yama konduğunu ve bunun acilen yüklenmesi gerektiğini açıkladı. 
+     ''eEye Digital Security'' adlı bilgisayar güvenlik firmasından Marc Maiffret, bu kusurun 6 aydan fazla bir süre önce kendilerince belirlendiğini, ancak Microsoft'un önlem almakta geciktiğini, aradan geçen dönem içerisinde kullanıcıların büyük zararlara uğradıklarını belirtti. 
+     Maiffret'e göre bu gecikmenin nedeni, Microsoft'un, ortaya çıkan bu yeni sorunla ilgili bütün problemleri tek bir yamayla çözümlemeyi amaçlaması, bu tek yamayı üretinceye kadar zaman kaybetmesi. 
+     Windows'un son sürümünde son aylarda sık sık güvenlik kusurları belirleniyor. Beyaz Saray'ın eski sanal güvenlik danışmanı Marcus Sachs, Microsoft-korsan yarışının süreceğini öngörüyor. 
+     
+</TEXT>
+</DOC>

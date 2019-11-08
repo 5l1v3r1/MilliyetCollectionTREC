@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> 259001 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/29/son/soneko11.html </URL>
+<DATE> 2004/07/29/ </DATE>
+<TIME> 10.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İhracatın, ithalata karşı alım gücü düştü... 
+</HEADLINE>
+<TEXT>
+
+     İhracatın, ithalat karşısındaki alım gücü mayıs ayında önceki aya göre yüzde 8.4 geriledi. 
+     Devlet İstatistik Enstitüsü'nün DİE dış ticaret fiyat ve miktar endekslerine göre Türkiye'nin ihracatı, mayıs ayında önceki aya göre yüzde 1.1 pahalandı miktarı ise yüzde 6.2 azaldı. İhracat miktarındaki söz konusu değişim, ihracatta, TL ile diğer dövizler ve özellikle dolar-euro arasındaki parite hareketlerinin etkisinden arındırılmış reel ihracat artışını ifade ediyor. 
+     Mayıs ayında ithalat fiyatlarında da yüzde 3.6 artış yaşanırken, miktarında ise yüzde 1.5 oranında bir düşüş oldu. Bu gelişmeler sonucunda, miktar artışı ve cari fiyata göre oluşan ihracat gelirinin ithalat karşısındaki alım gücünü gösteren "Gelir Ticaret Haddi" mayıs ayında nisana göre yüzde 8.4 oranında 27.1 puan gerileyerek 293.9'a indi. 
+     2003 sonunda 295.8 olan gelir ticaret haddi martta 
+     329.3'e kadar yükseldikten sonra, nisanda 321'e gerilemişti. 
+     Böylece, Gelir Ticaret Haddi'nde bu yılın ilk beş ayı itibariyle yüzde 1 oranında bir gerileme kaydetti. 
+     
+     BİR YIL ÖNCEYE GÖRE YÜZDE 12 DAHA YÜKSEK 
+
+     Gelir Ticaret Haddi 2003'ün mayıs ayı itibariyle ise 261.8 düzeyinde gerçekleşmişti. Buna göre ihracat gelirinin ithalat karşısındaki satın alma gücü, bir yıl öncekine göre yüzde 12.3 daha yüksek düzeyde oluştu. Geçen yılın mayıs ayına göre ihracat fiyatlarının yüzde 18.5, miktarının yüzde 6.8 ithalat fiyatlarının yüzde 12.7, miktarının ise yüzde 32.9 daha yüksek olduğu belirlendi. 
+     
+     ENDEKSİN ANLAMI 
+
+     DİE'nin 1994 bazlı dış ticaret fiyat ve miktar endeksleri kullanılarak oluşturulan Gelir Ticaret Haddi'nin büyümesi, ihracatın ithalat karşısındaki alım gücünün baz yılına göre arttığını gerilemesi ise düştüğünü gösteriyor. 
+     Endeksin 1994 ortalamasında 100 kabul edilen değeri, geçen yıl ekim sonunda 324.7'ye kadar yükselmiş, kasımda 262'ye gerilemiş, aralıkta 295.8, 2003 ortalamasında ise 263.4 olmuştu. Gelir Ticaret Haddi, bu yılın ocak ayında 
+     275.3, şubatta da 228.4 düzeyinde gerçekleşmişti. 
+     
+     KLASİK YÖNTEMLE DIŞ TİCARET HADDİ 
+
+     İhracat ve ithalat fiyatlarının karşılaştırılması şeklindeki klasik yöntemle hesaplanan "dış ticaret haddi" ise mayıs ayında 94'e kadar geriledi. 
+     Devlet İstatistik Enstitüsü'nün ihracat ve ithalat fiyat endekslerine göre hesaplanan dış ticaret haddinin 2003 sonunda 94.6 olan değeri, şubat ayında 97.1'e kadar yükseldikten sonra gerileyerek nisanda 96.3'e gerilemişti. 
+     Dış ticaret haddi geçen yılın mayıs ayı düzeyinin ise 5 puan üzerinde gerçekleşti. Söz konusu had geçen yıl mayısta 89.4 düzeyinde oluşmuştu. 
+     Ancak ihracattaki miktar artışının dikkate alınmadığı ve belli bir ürün sepetinin ihraç ve ithal fiyatlarına göre oluşturulan bu hadde göre, ihracatın ithalat karşısındaki alım gücü baz yılı olan 1994'tekinin altında bulunuyor. Dış ticaret haddinin 1994 itibariyle 100 kabul edilen değerinin bunun altına inmesi fiyat dengesinin ithalat, üzerinde çıkması ise ihracat lehinde olduğunu gösteriyor. Haddin büyümesi ihracat, küçülmesi ithalat lehine bir gelişmeye işaret ediyor. 
+
+     
+</TEXT>
+</DOC>

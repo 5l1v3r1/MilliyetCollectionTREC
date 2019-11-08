@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 239059 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/11/son/soneko38.html </URL>
+<DATE> 2004/05/11/ </DATE>
+<TIME> 15.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+MB Bileşik Öncü Göstergeler Endeksi, Nisan'da hafif azaldı 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası, Nisan ayı verileri ile güncelleşen bileşik öncü göstergeler endeksinin MBÖNCÜ-SÜE , Nisan ayında bir önceki aya göre, hafif azalış gösterdiğini bildirdi. 
+     Merkez Bankası, Nisan ayı verileri ile güncelleşen bileşik öncü göstergeler endeksi sonuçlarını açıkladı. 
+     MBÖNCÜ-SÜE Nisan ayında, Mart ayına göre 0.6 puan azalarak 127.7 seviyesine indi. 
+     Mevsimsellikten arındırılmış mamul mal stok miktarı beklentisindeki artış ve mevsimsellikten arındırılmış iç piyasadan alınan yeni siparişler ile istihdama ilişkin beklentilerde gözlenen azalışların etkisi ile endekste Mart ayına göre hafif bir düşüş gözlendi. 
+     Ekonomik faaliyetteki büyüme ve daralma dönemlerini önceden görebilmek amacıyla Merkez Bankası'nın OECD ile yürüttüğü ortak çalışma sonucunda, ekonomik faaliyet için bileşik öncü göstergeler endeksi oluşturulmuştu. 
+     
+</TEXT>
+</DOC>

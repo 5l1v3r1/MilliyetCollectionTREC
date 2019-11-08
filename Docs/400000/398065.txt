@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 398065 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/25/son/sonyas12.html </URL>
+<DATE> 2005/11/25/ </DATE>
+<TIME> 16.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Aracınız kışa hazır mı 
+</HEADLINE>
+<TEXT>
+
+     Motorlu araçların kışlık bakımının yapılmamasının telafisi güç sorunlara yol açtığı bildirildi. 
+     Erciyes Üniversitesi Mühendislik Fakültesi Makina Mühendisliği Bölümü Öğretim Üyesi ve Makine Mühendisleri Odası Kayseri Şube Başkanvekili Yard. Doç. Dr. Şükrü Su, AA muhabirine yaptığı açıklamada, kış aylarında havaların soğuması ile birlikte motorlu araçlara kışlık bakım yapılması gerektiğini hatırlatarak, bakımları yapılmayan araçların sorunlara yol açabileceğini belirtti. 
+     Tüm motorlarda olduğu gibi araçlarda da motorun soğuk hava koşullarında çalışmasının güçleştiğini kaydeden Su, bu güçlüğün alınacak bazı tedbirlerle aşılabileceğine dikkati çekti. 
+     Sürücüler tarafından çoğu zaman önemsiz zannedilen kışlık bakımın araçlarda soğuk havalarda ortaya çıkabilecek birçok sorunu ortadan kaldıracağını bildiren Su, kış aylarında alınması gerekli bu tedbirlerden bazılarını şöyle sıraladı 
+     "Motorun soğuk havada sağlıklı çalışabilmesi için soğutma suyuna donmamasını sağlayacak seviyede antifriz eklenmelidir. Motorun ilk hareketi zorlaşacağından akü kontrol edilmeli, su seviyesi düşükse tamamlanmalıdır. Ateşleme ve elektrik sistem kontrolü yapılmalıdır, bu sistemlerdeki aksaklıklar soğuk havada yakıt tüketimini yüzde 10 oranında artırır. Buji tırnaklarının ayarsız ve kirli olması soğuk havada her 10 litrede 1 litre daha fazla yakıt tüketimine neden olur. 
+     Soğutma sistemi ve termostat ayarı soğuk hava koşullarına göre yeniden ayarlanmalıdır. Motor yağı eskimişse yenilenmelidir, aksi halde sürtünme artarak motorun gücü düşecek, parçalar daha çabuk aşınacak ve sonuçta yakıt tüketimi artacaktır. Hava filtresinin kirli olması da soğuk motora benzin yönünden zengin karışım gitmesini sağlayacak ve egzozdan çiğ gaz atılmasına yol açacaktır. Kirli hava filtresi her 100 kilometrede yaklaşık 2 litre daha fazla yakıt tüketimine neden olur." 
+     
+     KAZA RİSKİ 
+     Kış şartlarında araçların verimli şekilde kullanılabilmesi için fren ve debriyaj balatalarının kontrol edilmesi ve lastik havalarının iyi ayarlanması gerektiğini de hatırlatan Su, motorlu taşıtların kışlık bakımlarının yapılmasının araç sahiplerine çok fazla maddi yükümlülük getirmeyeceğine dikkati çekti. 
+     Kışlık bakımın masrafından kaçınmanın daha büyük sorunlara yol açacağını bildiren Su, şöyle devam etti 
+     "Araçların kışlık bakımının maliyetinden kaçmak, güvenli sürüşü engeller ve yakıt tüketimini ve kaza riskini artırır. Aracın marka ve modeline göre değişmekle birlikte otomobiller için kış kontrollerinin maliyeti çok fazla miktarlarda değildir. Ancak, bu masraftan kaçmak telafisi güç sorunlara yol açacaktır. Her şeyden önce sabah araç çalışmayacaktır. Zorlukla çalıştırılsa bile verimli çalışmayacak ve yakıt tüketimi artacaktır. Motor düzensiz çalıştığı için yıpranma fazla olacak ve aracın ömrü kısalacaktır. Kışlık bakımı yapılmadığı için sağlıklı çalışmayan motor ve aracın diğer ekipmanları görevlerini tam olarak yerine getiremeyeceği için kaza riski de artacaktır." 
+     
+</TEXT>
+</DOC>

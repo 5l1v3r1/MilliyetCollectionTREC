@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 264425 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/18/son/soneko38.html </URL>
+<DATE> 2004/08/18/ </DATE>
+<TIME> 16.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa günü 191 puanlık kayıpla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Bileşik Endeksi, 2. seansı 81.45 puan azalarak 19,268.05 puandan tamamladı. 
+     Hisse senetleri 2. seansta ortalama yüzde 0.42 oranında değer kaybetti. 
+     İlk seanstaki 110.22 puanlık düşüş dikkate alındığında, Borsa endeksi günün tamamında 191.67 puan geriledi. Hisse senetlerinin günlük ortalama değer kaybı yüzde 0.98 oldu. 
+     Endeks 2. seansa, 29.58 puan azalarak 19,319.92 puan seviyesinde başladı. Seansın ilk yarısını 19,449.60 puandan geçen endeks, seans içinde en düşük 19,190.16, en yüksek 19,539.88 puandan tamamladı. 
+     2. seans kapanışında, mali endeks 185.38 puan azalarak 26,723.25 puana, sanayi endeksi 70.10 puan azalarak 17,282.34 puana indi. Hizmetler endeksi ise 68.45 puan artarak 9,861.81 puana yükseldi. 
+     Böylece ilk seansa göre mali grup hisseler ortalama yüzde 0.69, sanayi grubu hisseler ortalama yüzde 0.40 değer yitirirken, hizmet grubu hisseler ortalama yüzde 0.70 değer kazandı. 
+     2. seansta işlem gören toplam 300 hisse senedinden 48'i değer kazandı, 178'i değer yitirdi, 74 hisse senedinin fiyatında değişiklik kaydedilmedi. 
+     Seansta, 396 trilyon 67 milyar 417 milyon liralık işlem hacmi kaydedildi. Günlük işlem hacmi 735 trilyon 564 milyar 844 milyon lira olarak hesaplandı. 
+     2. seansta, Doğan Holding, Yapı ve Kredi Bankası, ERDEMİR, Turkcell ve KARDEMİR D en çok işlem gören hisse senetleri oldu. 
+     
+</TEXT>
+</DOC>

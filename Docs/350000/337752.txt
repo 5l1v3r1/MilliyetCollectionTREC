@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 337752 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/28/son/soneko23.html </URL>
+<DATE> 2005/04/28/ </DATE>
+<TIME> 12.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+"Virüslerin bilgisyar sektörüne yılda 12 milyar dolarlık zararı var" 
+</HEADLINE>
+<TEXT>
+
+     Antivirüs çözümleri sunan ABD'li Eset Software şirketinin Başkan Yardımcısı Maros Mozola, dünyada bilgisayar endüstrisinde güvenliği tehdit eden uygulamaların yarattığı hasar boyutunun yılda 12 milyar dolar olduğunu söyledi. 
+     Bilişim Sistemlerinde Güvenlik, Denetim ve Kontrol Konferansı ve Fuarı'nın SACIS Expo 2005 açılışında konuşan Mozola, şirketlerin genellikle kendi işyerlerinde güvenliği unuttuklarını belirtti. 
+     Mozola, ''Türkiye'deki şirketler dışarıyla yüksek ticaret hacmi içindeler. Bu yüzden en yüksek teknolojiyi Türkiye'ye getirmişler ve internete bağlanmışlar'' dedi. 
+     En önemli güvenlik tehlikesinin virüsler olduğuna dikkati çeken Mozola, bilgisayardan bilgi çalan casus yazılımların da spyware giderek arttığını vurguladı. 
+     Bir virüs saldırısı olduğunda insanları çalışamaz hale getiren virüsler bulunduğuna dikkati çeken Mozola, ''ABD'de geçen 6 ayda 2 banka, müşteri verilerini çaldırdı. Hırsızlar kasayı değil PC'yi çaldılar, çünkü PC çok daha değerliydi. Bu müşterinin gözündeki imaj için çok önemli. Banka pek çok müşterisini kaybetti'' dedi. 
+     Mozola, şirketlerin, bilgisayarlarına yönelik bir güvenlik ihlalinin yaratacağı zararı, çok daha küçük bir harcama ile antivirüs koruması ile önleyebileceklerini anlattı. 
+     
+     FELAKETE KARŞI ÖNLEM 
+     Netsoft Bilgisayar Sistemleri Genel Müdürü Alain Soria da, İstanbul Büyükşehir Belediyesi ile deprem master planı adı altında Zeytinburnu pilot projesinin teknik altyapısını oluşturduklarını anlattı. 
+     Soria, ''Hangi bölgelerin veya binaların riskli olduğu tespit edilmeye çalışılıyor ve oradan alınan veriler coğrafi bilgi sistemi altında toplanıyor. Herhangi bir felakette belediye hazırlıklı oluyor'' dedi. 
+     Soria, İstanbul'da olası bir depreme karşı bugün birçok firmanın İstanbul dışında felaket kurtarma merkezleri oluşturduğunu belirtti. 
+     Konuya ilişkin AA muhabirinin sorularını da yanıtlayan Soria şunları kaydetti 
+     ''Bankalar, emniyet, askeriye ve kritik görevli şirketler, ana bilgisayarlarının felaket sırasında yok olmasına karşı tedbir olarak daha güvenli bölgelere, ana yerdeki yapının bir küçük kopyasını oluşturmaya başladılar. Bilgi işlem yatırımları genellikle deprem, sel baskınından uzak, yer altında veya güvenli binalarda yapılıyor. 
+     İstanbul'da her işlenen bilgi otomatik olarak anında felaket kurtarma yerindeki bilgi işlem binasına gönderiliyor. İstanbul'da bir çökme olması durumunda İstanbul'a bağlı bütün kullanıcılar, saniye, dakika, saat mertebesinde olabilir, belli bir süre içinde felaket kurtarma bölgesine bağlanıp çalışmaya devam edebiliyorlar.'' Bu işin saniye, dakika, saat mertebesinde olmasının maliyetleri 5 bin dolardan milyon dolarlara kadar etkileyebildiğini ifade eden Soria, İzmir'de IBM'in böyle bir yeri bulunduğunu, Konya'da çeşitli yerler olduğunu söyledi. 
+     11 Eylül olaylarından sonra yurt dışı firmaların bunu zorunlu kıldığını belirten Soria, Türkiye'de holdinglerin de İstanbul'da yaşanan İngiltere Başkonsolosluğu ve HSBC'ye yönelik terörist saldırılardan sonra bu işe hız verdiklerini kaydetti. 
+     Soria, ''Süre tartışmalarından ve teknolojinin gittikçe ilerlemesi beklentisiyle gecikmeler oluyor. Askeriye, emniyet buna çok önem veriyor'' dedi. 
+     
+</TEXT>
+</DOC>

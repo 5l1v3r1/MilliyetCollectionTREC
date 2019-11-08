@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 215096 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/14/tv/ekran.html </URL>
+<DATE> 2004/02/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+TV'DE SİNEMA 
+</HEADLINE>
+<TEXT>
+
+      
+   20.00 Damdaki Süvari CNBC-e 
+   20.10 Cesur Yürek STAR 
+   22.10 Aslan Yürekli Çavuş TRT 2 
+   22.30 Uygunsuzlar CNBC-e 
+   23.15 Tatlı Acılar TV8 
+   01.00 İp STAR 
+   
+   
+   
+   MÜZİK-EĞLENCE-yarIŞMA    20.30 Biz Evleniyoruz-Final SHOW TV 
+   21.00 Sayısal Gece TRT 1 
+   23.00 Hülya Avşar Show KANAL D 
+   23.10 Arto Show STAR 
+   00.30 Zaga KANAL D 
+   01.10 Kerem Görsev'le Caz TV8 
+   
+   
+</TEXT>
+</DOC>

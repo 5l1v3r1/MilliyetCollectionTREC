@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 200816 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/09/son/sondun01.html </URL>
+<DATE> 2003/12/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Uranüs'te karbonmonoksit bulundu... 
+</HEADLINE>
+<TEXT>
+
+     Uranüs'ün atmosferinde karbonmonoksit molekülü bulunduğu bildirildi. 
+     Fransız bilim adamları, Şili'deki Avrupa Güney Gözlemevi'nde bulunan Very Large Telescope VLT adlı teleskop sayesinde saptanan molekülün kökeninin gezegenin dışında olduğunu ve mikro göktaşlarından ileri geldiğini düşündüklerini açıkladı. 
+     Uranüs'te saptanan karbonmonoksit molekülünün, 8 metrelik teleskopun odağına yerleştirilen ve çok yüksek duyarlılığı olan kızılötesi spektrometre sayesinde saptandığı belirtildi. 
+     Bilim adamları, molekülün gezegenin alt stratosfer tabakasında bulunduğunu kaydetti. 
+     
+</TEXT>
+</DOC>

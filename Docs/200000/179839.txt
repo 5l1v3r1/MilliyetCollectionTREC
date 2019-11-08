@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 179839 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/02/son/sontur15.html </URL>
+<DATE> 2003/09/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Meme kanserinin yayılmasına yol açan bir protein bulundu... 
+</HEADLINE>
+<TEXT>
+
+     Bilim adamları, meme kanserinin vücutta başka bölgelere sıçramasını sağlayan bir proteini tespit ettiler. 
+     İngiliz bilim adamları, meme kanseri metastazına neden olan ''uPA'' proteinini ''Endo180'' antikorlarıyla devre dışı bırakarak, kanserli hücrelerin yayılmasını engellediklerini de açıkladılar. 
+     Londra'daki Toby Robbins Kanser Araştırmaları Merkezi'nde görevli bilim adamları, yöntemin geliştirilerek, meme kanseri tedavisinde kullanılabileceğini umduklarını belirttiler. 
+     İngiltere'de yılda 40 bin kadın ve 300 erkeğe meme kanseri teşhisi koyuluyor. Hastaların 14 bini hayatını kaybediyor. 
+     
+</TEXT>
+</DOC>

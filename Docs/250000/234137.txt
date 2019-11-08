@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 234137 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/23/son/soneko06.html </URL>
+<DATE> 2004/04/23/ </DATE>
+<TIME> 09.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tokyo Borsası yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     Tokyo Menkul Kıymetler Borsası yükselişle kapandı. 
+     Nikkei Endeksi, 140.56 puan yüzde 1.17 yükselerek, kapanışta 12,120.66 puana çıktı. 
+     Öte yandan ABD Doları, 0.01 yen değer kaybederek, 109.45 yen düzeyinden işlem gördü. 
+     
+</TEXT>
+</DOC>

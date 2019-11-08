@@ -1,0 +1,45 @@
+<DOC>
+<DOCNO> 246493 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/09/son/soneko12.html </URL>
+<DATE> 2004/06/09/ </DATE>
+<TIME> 11.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Gelirler Genel Müdürlüğü, Yeni Türk Lirası'na hazırlanıyor... 
+</HEADLINE>
+<TEXT>
+
+     Yeni Türk Lirası YTL ile birlikte yarım kuruşun altında kalan vergiler tahsil edilmeyecek. 
+     Gelirler Genel Müdürlüğü, Yeni Türk Lirası'na geçişte özel muhasebe ve vergi alanında karşılaşılabilecek sorunlar ve çözüm önerileri konusunda bir taslak hazırladı. 
+     Yeni Türk Lirası'na ilişkin düzenlemelerin sıralandığı taslakta, daha sonra özel kesimi ilgilendiren muhasebe işlemlerinin nasıl gerçekleştirileceği konusuna yer verildi. 
+     Bu çerçevede 31 Aralık 2004 tarihine kadar tüm belgelerin ve muhasebe kayıtlarının TL üzerinden düzenleneceği, bu belgeler ve muhasebe kayıtlarının da aynen oldukları gibi saklanacağı belirtildi. 
+     1 Ocak 2005 tarihinde ise belirlenen değişim oranları esas alınarak kayıtların Yeni Türk Lirası'na dönüştürüleceği, dönüştürülen tutarların da ilk kayıt maddesi olarak muhasebeleştirileceği vurgulandı. 
+     
+     31 ARALIK'DA NE YAPILACAK 
+     Taslakta 31 Aralık tarihi itibariyle yapılacak işlemler ve karşılaşılabilecek bazı sorunlar ile çözüm önerileri de şu şekilde sıralandı. 
+     -31 Aralık 2004 tarihli bilançonun 1 Ocak 2005 tarihli açılış maddesinin YTL üzerinden yapılması durumunda ortaya çıkabilecek eşitsizlik ne şekilde giderilecek 
+     Yanıt 31 Aralık 2004 tarihli bilanço, 1 Ocak 2005'de YTL para birimine göre düzeltilecek. Düzeltme işlemine muavin hesaplardan başlanacak. Bilançoda ortaya çıkabilecek olumlu veya olumsuz farklar izlenerek, denklik sağlanacak. Banka ve sigorta şirketleri, dönüşüm sonucu lehlerine kalan paralar için banka ve sigorta muamele vergisi hesaplamayacak. 
+     -2004 yılı işlemlerine ilişkin düzenlenen, ancak beyan ve ödemesi 1 Ocak 2005 tarihinden sonra verilmesi gereken vergi beyannamelerinde esas alınacak para birimi ne olacak 
+     Yanıt Söz konusu beyannamelerde gösterilecek toplam tutarların YTL'ye çevrilmesi yeterli olacak. 
+     
+     VERGİ İADELERİ NASIL YAZILACAK 
+     -Ücretlilerin 2004 yılı harcamalarından kaynaklanan vergi indirimi uygulamasında para birimi TL olacak. Bu durumda harcamaya konu belgelerin tek tek YTL'ye çevrilmesi gerekecek mi 
+     Yanıt 2004 yılında yapılan harcamalar karşılığında alınan belgelerde tutarlar ile azami indirim tutarının belirleneceği 2004 yılı vergi matrahı TL üzerinden belirtildiğinden 20 Ocak 2005'e kadar verilecek bildirimlerin TL üzerinden doldurulması gerekecek. Ancak, 21 Ocak 2005'den itibaren ücretlerin YTL olarak ifade edilmesi ve mahsubunun aynı para birimiyle ifade edilen değerler oranında yapılması nedeniyle, TL olarak hesaplanan vergi indirimi tutarının, alan kurum tarafından YTL'ye çevrilerek, muhtasar beyannamede mahsup konusu yapılması gerekmektedir. 
+     
+     YILBAŞINDAN SONRAKİ İŞLEMLER 
+     -Hesap ve mali tabloların Türk Lirası, kısaca TL olarak düzenlenmesine devam edilecek mi Yoksa Yeni Türk Lirası olarak mı belirtilecek 
+     Yanıt 1 Ocak 2005 tarihinden sonra hesaplar ve düzenlenecek mali tablolarda Yeni Türk lirası veya kısaca YTL kısaltmasının kullanılması gerekiyor. 
+     -Tedavüldeki TL banknotlar ile madeni paraların 1 Ocak-31 Aralık 2005 tarihleri arasında Yeni Türk Lirası banknot ve yeni madeni paralarla birlikte tedavül edileceği belirtildi. Buna göre her iki para biriminin aynı anda kasa hesabında izlenmesi nasıl yapılacak 
+     Yanıt Kasa hesabında açılacak YTL ve TL alt hesaplarında her iki para biriminin izlenmesi sağlanacak. 
+     
+     YARIM KURUŞUN ALTINDAKİ VERGİLER ÖDENMEYECEK 
+     -Çok küçük miktardaki işlemler nedeniyle hesaplanacak vergilerin kuruşun altında olması halinde nasıl bir yol izlenecek Örneğin bir banka şubesi tarafından 2 dolar satılması ve 1 doların karşılığının da 1.5 YTL olduğunu varsayalım. Söz konusu işlemde, kambiyo muamelelerindeki banka ve sigorta muamele vergisi yüzde 0.01 üzerinden hesaplanacağı için yarım yeni kuruşun altında olacak. Bu durumda vergi nasıl hesaplanacak 
+     Yanıt En küçük para birimi 1 kuruştur. Dolayısıyla yarım yeni kuruşun altında hesaplanan vergiler dikkate alınmayacak, ancak yarım yeni kuruş ve üzerindeki miktarlar 1 kuruşa tamamlanacak. 
+     -1 Ocak 2005'den itibaren bazı mal ve hizmetler için TL, diğer bazıları için YTL üzerinden fatura düzenlenebilir mi 
+     -Yanıt Fatura ve fatura yerine geçen vesikalarda belirtilen tutarlar 1 Ocak 2005'den itibaren sadece Yeni Türk Lirası üzerinden düzenlenecek. 
+     -31 Aralık 2004 tarihinden önce satılan malların 1 Ocak 2005'den sonra iade edilmesi halinde, iadeye konu mallara ilişkin fatura hangi para biriminden düzenlenecek 
+     Yanıt Faturadaki tutarlar YTL'ye dönüştürülerek hesaplara alınacak ve düzenlenecek iade faturaları YTL para birimi üzerinden muhasebeleştirilecek. 
+     
+</TEXT>
+</DOC>

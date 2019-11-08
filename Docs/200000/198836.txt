@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 198836 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/30/son/soneko09.html </URL>
+<DATE> 2003/11/30/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft Outlook, yenilikleriyle geldi... 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın önde gelen yazılım firması Microsoft, yeni işletim sistemi Office 2003 aracılığıyla elektronik posta akışına da yeni düzenlemeler getirdi. Yenilenen mesajlaşma programı Outlook, mesajları daha hızlı okumaya imkan sağlıyor ve kullanıcılarına, gönderdikleri mesajın üçüncü kişilere iletilmesine engel olma fırsatı veriyor. 
+     Microsoft Türkiye yetkililerinden aldığı bilgiye göre, bir süre önce piyasaya sürülen Microsoft 2003'ün 19 ayrı programından birisi olan mail programı Outlook, birçok yenilikle kullanıcıların karşısına çıktı. 
+     Kullanıcıya hızlı okuma sağlayabilmesi için yeni bir dizayna sahip olan Outlook, mesajları konularına göre sınıflaması, istenmeyen mesajları çöp kutusuna göndermesi ya da engellemesiyle dikkati çekiyor. 
+     Geçen yıl yapılan bir araştırmada elde edilen ve 2006'da günde ortalama 60 milyar mail gönderileceği, bunun yarısının istenmeyen mesajlardan oluşacağı bilgisinden hareket eden Microsoft, SPAM olarak adlandırılan istenmeyen mailler için engelleme yöntemlerini Outlook'a koydu. 
+     Outlook, mesajların üzerine hatırlatma tarih ve saatleri konulabilmesine imkan sağlıyor ve önem sırasına göre çeşitli renklerdeki bayraklarla işaretlenmesine olanak tanıyor. 
+     Yeni mail programı, internete bağlanmak için dail-up ya da başka yöntemlerden hangisinin seçildiğini otomatik olarak algılıyor ve mesajları ön belleğe alıyor. Bu sayede kullanıcılar mesajların öncelikle bir bölümünü, daha sonra tümünü görebiliyor. İnternet bağlantısı kesildiğinde bile, kullanıcı, mailboxundaki işlemlerini sürdürme fırsatı yakalıyor. 
+     
+     GÜVENLİK ÖNLEMLERİ DİKKATİ ÇEKİYOR 
+
+     Outlook, en büyük yeniliği ise güvenlik alanında sunuyor. Bugüne kadar en fazla virüs programlarının Outlook için yazıldığını dikkate alan Microsoft, yeni mail programında virüslerden korunmaya büyük önem verdi. 
+     Yeni programa, özellikle deneyimsiz kullanıcıların mail yoluyla virüs almalarını engellemek üzere elektronik postayla yayılan virüsleri bloke eden kodlar konuldu. Mesajların içine gömülü virüslerin internetten indirilmesini engellemek üzere de programa yeni önlemler eklendi. 
+     Outlook'un kullanıcılardan en fazla ilgi toplaması beklenen kısmı ise mesajların belirli kişilerle sınırlandırılması bölümü. Yeni programla, kullanıcı, artık gönderdiği bir mesajın üçüncü kişilerin eline geçmesine ya da üçüncü kişilere iletilmesine engel olabiliyor. Kullanıcı, gönderdiği mesajın kopyalanmasına, ''forward'' edilmesine ve yazıcılardan çıktı alınmasına izin vermeyebiliyor. Ayrıca, program, uzun süre cevap verilmeyen ve aynı kişiden gelen mailleri de zararlı sayarak, otomatik olarak çöp kutusuna gönderiyor. 
+     
+</TEXT>
+</DOC>

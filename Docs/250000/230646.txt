@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 230646 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/12/son/soneko35.html </URL>
+<DATE> 2004/04/12/ </DATE>
+<TIME> 17.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Serbest piyasada dolar 1 milyon 357 bin lira... 
+</HEADLINE>
+<TEXT>
+
+     İstanbul ve Ankara serbest piyasalarında alınıp satılan döviz türlerinin, Cuma günkü ve bugün itibarıyla alış ve satış kapanış fiyatları şöyle 
+     
+
+İSTANBUL SERBEST PİYASA Cuma Alış Cuma Satış Pzt.Alış Pzt.Satış ABD Doları 1,329,000 1,333,000 1,353,000 1,357,000 Euro 1,609,000 1,613,000 1,633,000 1,637,000 İng. Sterlini 2,432,000 2,450,000 2,470,000 2,485,000 İsviçre Frangı 1,033,000 1,043,000 1,049,000 1,057,000      
+
+ANKARA SERBEST PİYASA Cuma Alış Cuma Satış Pzt.Alış Pzt.Satış ABD Doları 1,329,000 1,339,000 1,347,000 1,362,000 Euro 1,609,000 1,620,000 1,627,000 1,642,000 İng. Sterlini 2,421,000 2,458,000 2,455,000 2,500,000      
+</TEXT>
+</DOC>

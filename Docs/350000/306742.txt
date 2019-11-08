@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 306742 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/15/son/soneko01.html </URL>
+<DATE> 2005/01/15/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükselişle kapandı... 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacminde dünyanın en büyük borsası konumundaki New York Wall Street Borsası, haftanın son işlem günü son seansını yükselerek kapattı. 
+     Wall Street'in Dow Jones Sanayi Endeksi 52.17 puan artarak binde 5 10,558.00 puandan noktalandı. 
+     En ileri teknoloji ortaklıklarının ibresi Nasdaq Birleşik Endeksi de 17.35 puan artarak binde 8.4 2,087.91 puandan kapandı. 
+     ABD'de aralık ayı toptan eşya fiyatları endeksinin yüzde 0.7 gerilediğinin açıklanması, merkez bankası FED'in faiz artırımında ''kararlı davranacağının'' belli olması, borsa endişesinin hafiflemesini sağladı. FED'in faiz artırımını hızlandırması durumunda New York Borsası'ndan çıkacak para hazine tahvillerine kayabiliyor. 
+     
+</TEXT>
+</DOC>

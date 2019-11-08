@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 185000 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/27/son/sontur06.html </URL>
+<DATE> 2003/09/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İlk Türk Araştırma uydusu BİLSAT fırlatıldı 
+</HEADLINE>
+<TEXT>
+
+     TÜBİTAK-BİLTEN tarafından teknoloji transferi yöntemiyle üretilen Türkiye'nin ilk mini gözlem uydusu BİLSAT, Rusya'dan uzaya gönderildi. 
+     BİLTEN'in İngiliz Satellite Teknology Limited SSTL şirketiyle birlikte ürettiği uydu, bu sabah Kuzey Rusya'daki Plesetsk Üssü'nden TSİ 09.11'de Kosmos-3 roketi ile fırlatıldı. 
+     Roket, BİLSAT'ın yanı sıra, Rusya, İngiltere ve Nijerya'nın da mini uydularını uzaya taşıdı. 
+     Cosmos-3'ün BİLSAT'ı 686 kilometre irtifada yörüngeye bırakması bekleniyor. BİLSAT'ın önümüzdeki saatlerde yörüngeye yerleştirilmesi, daha sonra da yer istasyonlarından kontrolünün sağlanması planlanıyor. 
+     
+     BİLSAT UYDUSU 
+
+     BİLSAT uydusunun yapımı için 12 Ağustos 2001 tarihinde proje hazırlandı. Nisan 2002'de tasarımı tamamlanan uydu, 3 Haziran 2003'te uçuşa hazır hale getirildi. 28 Temmuz'da Rusya'nın Plesetsk askeri üssünden fırlatılması planlanan uydu, Rusya Federasyonu'nun bir askeri uydusunun arızalanması ve bu uyduyu yenilemek istemesi üzerine programda değişiklik yapması nedeniyle ertelenmişti. Uydu, dün de fırlatma rampasında ve yakıt sisteminde meydana gelen arızalardan dolayı fırlatılamamıştı. 
+     Türkiye'nin ilk mini uydusu, 12 metre ve 26 metre çözünürlükte dört bantlı kameralar taşıyor. Bu sayede, uydudan şehircilik, kaçak yapılaşmanın tespiti, tarım, çevre, ormancılık, haritacılık ve tabii afetlerin neden olduğu hasarın değerlendirilmesi gibi amaçlarla yararlanılabilecek. Uydudan elde edilecek veriler, TÜBİTAK BİLTEN'de kurulan uydu yer istasyonuna indirilecek. BİLSAT, tamamen Türk mühendislerin tasarladığı Çok Bantlı Kamera ÇOBAN ve Gerçek Zamanda Görüntü İşleyen GEZGİN modülleri de taşıyor. BİLTEN'de üretilen bu iki modül de uyduya yerleştirildi. 
+     
+     14 MİLYON DOLARA MAL OLDU 
+
+     Toplam 129 kilogram ağırlığındaki BİLSAT'ın temel görevi uzaktan algılama ve bir ölçüde haberleşme yeteneği bulunuyor. 
+     BİLSAT, Türkiye'nin yanı sıra İngiltere, Cezayir, Nijerya, Çin ve Tayland uydularının da bulunduğu Uluslararası Afet İzleme Takımuydu Sistemi'nde Disaster Monitoring Constellation yer alacak. Uydu, 12 saatte aynı bölgenin üzerinden geçecek. 15 yıllık ömre göre tasarlanan uydu, 14 milyon dolara mal oldu. 
+     BİLTEN Müdürü Prof. Erol Kocaoğlan ve enstitü çalışanları, fırlatma dolayısıyla Bilten Binası'nda biraraya geldiler. Rusya'dan yapılan canlı yayını izleyen Kocaoğlan, fırlatma işleminin ardından gazetecilere yaptığı açıklamada, BİLSAT'ı uzaya göndermekten duydukları mutluluğu dile getirdi. 
+     Projeye Türkiye'ye uydu teknolojilerini kazandırmak amacıyla başladıklarını belirten Kocaoğlan, teknoloji transferi yöntemiyle gerçekleştirilen BİLSAT'ın yapımında Türk mühendislerinin de görev aldığını ifade etti. 
+     Türkiye'nin bu alanda kendisini yetkinleştirebilmesi için uydunun bir modelinin daha üretildiğini ve bunun 1 ay içerisinde Ankara'ya geleceğini anlatan Kocaoğlan, modelin bundan sonraki uyduların yapımında Türk mühendisler için ilham kaynağı olacağını söyledi. Kocaoğlan, ayrıca uydunun Türk mühendisler tarafından üretilen ''ÇOBAN'' ve ''GEZGİN'' adlı modüllerine de değinerek, Türkiye'nin ilk kez uzayda çalışan elektronik ve optik sistemleri ürettiğini ve bunların uzayda nasıl çalışacağının da deneneceğini kaydetti. Kocaoğlan, ''Bundan sonraki hedefimiz, yüzde yüz yerli, kendi uydularımızı üretmek'' dedi. 
+     TÜBİTAK Başkan Yardımcısı Prof. Dr. Cemal Saydam da, Türk mühendislerin ürettiği GEZGİN'in uydu teknolojileri konusunda çok deneyimli ülkelerin ilgisini çektiğini ve bu işlemciyi pazarlamak istediklerini ifade etti. Saydam, Türkiye'nin uydu için 14 milyon dolar harcadığını, ancak gelecekte yüz milyonlarca dolarlık kazanç sağlayacak bir adım atıldığını kaydetti. 
+     
+</TEXT>
+</DOC>

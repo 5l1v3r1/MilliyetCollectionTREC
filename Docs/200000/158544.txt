@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 158544 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/23/son/sontur09.html </URL>
+<DATE> 2003/05/23/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Akaryakıt alırken cep telefonunu kapatın... 
+</HEADLINE>
+<TEXT>
+
+     Cep telefonlarının yaydığı sinyallerin, statik elektriği harekete geçirip ateşleme işlevi yaptığı belirtilerek, halkın bilinçlendirilmesi ve özellikle akaryakıt istasyonlarında mutlaka kapatılmasının sağlanması gerektiği kaydedildi. 
+     Çukurova Üniversitesi Ç.Ü Tıp Fakültesi Halk Sağlığı Anabilim Dalı Öğretim Üyesi Yrd. Doç. Dr. Ferdi Tanır, gelişen iletişim teknolojilerinin hayatı kolaylaştırmakla birlikte, önlem alınmadığı takdirde üzücü, hatta telafisi mümkün olmayan sonuçlara zemin hazırladığını bildirdi. 
+     Araçlara akaryakıt dolumu yapıldığı süreçte cep telefonuyla konuşulması sırasında yayılan sinyallerin, pompalardaki ''statik elektriği'' harekete geçirerek, ateşleme işlevi yaptığını ve yangınlara yol açtığını belirten Tanır, buna rağmen birçok istasyonda bu konuda önlemler alınmadığını ve gerekli uyarıların yapılmamasının vahim bir durum olduğunu vurguladı. 
+     Cep telefonlarının açılması veya çalması sonucu yaydıkları dalganın, ateşe sebebiyet verecek küçük bir kıvılcımın oluşması için yeterli enerjiyi üretebileceğine dikkati çeken Tanır, ''Akaryakıt istasyonlarında yakıt doldururken cep telefonları kesinlikle kullanılmamalı. Güvenli yakıt dolumu için ayrıca, motor mutlaka kapatılmalı, sigara içilmemeli. Dolum sırasında aracın içinde bulunulmamalı'' uyarısında bulundu. 
+     
+     ARAŞTIRMANIN İLGİNÇ SONUÇLARI 
+
+     Tanır, ABD'deki Petrol Malzemeleri Enstitüsü'nün bu konuda uyarılarda bulunmak üzere kampanya düzenleme kararı aldığını ve elektronik ortamda ''Lütfen güvenliğiniz için okuyun'' başlığı altında uyarı mesajları gönderdiğini bildirerek, şöyle devam etti 
+     ''Enstitünün meydana gelen 150 olay üzerinde yaptığı araştırmada oldukça ilginç sonuçlar elde edilmiş. Bu olayların büyük bir bölümünde kadınların bulunduğu belirlenmiş. 
+     İnternet ortamından yayınlanan mesaja göre, yangınların gazlardan çıkan buharların statik elektrik yükleriyle birleşmesi sonucu meydana geldiği anlaşılmış. Yangınların 29'u araçlara, benzin istasyonuna ve müşteriye zarar vererek sonuçlanmış, 17'si dolum işlemi başlamadan meydana gelmiş.'' Tanır, aynı araştırmada, erkeklerin bu konuda daha dikkatli davranmaları nedeniyle olaylarda daha az yer aldıklarının anlaşıldığını, tüm ülkelerde etkin bir bilinçlenme olmadığı sürece bu tür olayların önüne geçilemeyeceğini sözlerine ekledi. 
+     
+     ''İNTERNET ORTAMINDAN UYARI'' 
+
+     Bu arada, Türkiye Shell de ''Akaryakıt istasyonunda cep telefonu kullanılmasıyla eş zamanlı olarak ufak çaplı yangın ve patlama haberleri''ne dikkati çeken mesajı, bayilere e-mail yoluyla ulaştırdı. 
+     Mesajda, ''kafi derecede risk oluşturduğu düşünülerek'', İngiltere başta olmak üzere bazı ülkelerde cihazların akaryakıt satış istasyonlarında kullanımlarının yasaklandığı ya da müşterilerinin güvenliği için uyarı levhaları asılması şartı getirildiği kaydedildi. Ayrıca, bazı cep telefonu üreticilerinin de ''potansiyel infilak riski bulunan ortamlarda, cep telefonlarının kullanılmamasını tavsiye ettiği'' vurgulandı. 
+     Shell Türkiye'nin, tüm çalışanları, iş ortakları ve faaliyette bulunduğu tüm alanlarda uyguladığı sağlık, emniyet ve çevre politikaları konusuna yer verdiği mesajında, şunlar kaydedildi 
+     ''Akaryakıt satış istasyonunda, özellikle de pompalar, yer altı tanklarının havalandırma boruları ile dolum noktalarının uzağındaki bölgelerde, cep telefonu kullanımının yarattığı risk çok düşük olmasına rağmen, genel iş ve güvenlik prensiplerimiz doğrultusunda bu konuyu tümüyle görmezden gelmemekteyiz. Dolayısıyla bu bilgiler doğrultusunda tedbirli bir yaklaşım uygulamayı tercih etmekteyiz. Shell Grup şirketleri olarak faaliyet gösterdiğimiz tüm akaryakıt istasyonlarında ön satış sahasına asılan uyarı levhaları ile müşterileri yakıt alım alanlarında cep telefonu kullanmamaları konusunda uyarmaktayız.'' 
+
+     
+</TEXT>
+</DOC>

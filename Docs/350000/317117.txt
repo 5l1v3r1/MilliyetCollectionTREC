@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 317117 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/21/yasam/yas02.html </URL>
+<DATE> 2005/02/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Batarya bitiren cep virüsü 
+</HEADLINE>
+<TEXT>
+
+
+Filipinlerde yazılan bir cep telefonu virüsü şu ana kadar 12 ülkede kendini gösterdi. Kablosuz da yayılabilen virüs, bataryayı kısa sürede kurutarak kendini belli ediyor 
+
+DIŞ HABERLER 
+
+ABD'de California eyaletinde bulunan Santa Monica kasabasındaki bir teknoloji mağazasında, biri mağazanın sahibinin olmak üzere aynı marka 2 cep telefonunda virüs tespit edildi. Yapılan araştırmada "Cabir" isimli virüsün 8 ay önce Filipinler'de yazıldığı ve geçen süre içinde 12 ülkedeki birçok cep telefonuna zarar verdiği ortaya çıktı. 
+
+'Bluetooth'la yayılıyor 
+Merkezi Finlandiya'da bulunan anti-virüs araştırma şirketi F-Secure'dan yapılan açıklamada Cabir'in cep telefonu bataryalarını kuruttuğu bildirildi. Cabir, kablosuz veri transferi protokolü 'Bluetooth'u kullanarak kısa mesafelerde yayılabiliyor. Uzmanlar virüsün bu yüzden ancak 8 ayda ABD'ye "ulaşabildiğini" belirtiyor. Birçok cep telefonu üreticisi, yeni çıkardıkları modellere anti-virüs yazılımları da yüklüyor. 
+
+
+</TEXT>
+</DOC>

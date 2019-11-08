@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 197982 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/26/son/soneko01.html </URL>
+<DATE> 2003/11/26/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tokyo Borsası yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     Yatırımcıların teknoloji ve ihracata yönelik diğer sektörlerin hisse senetlerini aktif olarak satın alıp, kar amaçlı alımlara geçmeleri sonucu, Tokyo menkul kıymetler borsası bugünü yükselişle kapadı. 
+     Borsanın bugünkü kapanışında Nikkei Endeksi 184.63 puan yüzde 1.85 oranında kazanarak 10,144.83 puana yükseldi ve 14 Kasım'dan bu yana ilk kez 10,000 puanı aştı. 
+     Tokyo döviz borsasının bugünkü kapanışında da dolar düne göre 0.12 yen değer kazanarak 109.58 yene çıktı. 
+     Borsada, Advantest, Canon ve Tokyo Electron gibi yüksek teknoloji ile Honda Motor, Nissan ve Toyota otomotiv sektörü şirketlerinin hisse senetleri değer kazandı. Daha ayrıntılı bilgi için http www.tse.or.jp 
+     
+</TEXT>
+</DOC>

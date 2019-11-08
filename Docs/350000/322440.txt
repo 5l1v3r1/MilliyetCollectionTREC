@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 322440 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/10/son/sondun09.html </URL>
+<DATE> 2005/03/10/ </DATE>
+<TIME> 07.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD'yi bekleyen tehlike... 
+</HEADLINE>
+<TEXT>
+
+     ABD'de yüksek teknoloji şirketleri adına lobicilik yürüten bir kuruluş, eğitim, araştırma ve geliştirmeye AR-GE yeterli yatırımın yapılmaması halinde ABD'nin diğer ülkeler karşısında artık rekabet edemez hale geleceği uyarısında bulundu. 
+     Amerikan medyasında yer alan haberlere göre, Washington'da Kongre üyeleri nezdinde temaslarda bulunmak üzere yıllık olağan ziyaretlerini gerçekleştiren TechNet isimli yüksek teknoloji lobisinin Başkanı Rick White, acil önlemler alınıp, gerekli yatırımlar yapılmaması durumunda ABD'nin teknoloji alanında mevcut avantajlı konumunu yitirerek, büyük risklerle karşılanacağını söyledi. 
+     Microsoft, Intel, Cisco Systems ve Hewlett Packard dahil yüksek teknolojinin 200 öncü ismini temsil eden TechNet'in bu temasları sırasında, ABD'nin teknoloji alanındaki durumuna dair alarm veren göstergeler sunduğu belirtiliyor. TechNet'in sunduğu bazı göstergeler arasında şunların yer aldığı belirtiliyor 
+     -ABD'deki hanelerin sadece yüzde 7'sinde hızlı broadband Internet erişimi bulunurken, bu oran Güney Kore'de yüzde 30, Japonya'da yüzde 20, Fransa'da yüzde 10'un üzerinde. 
+     -ABD'de araştırma-geliştirmeye yapılan yatırım miktarında son üç yıldır herhangi bir artış olmazken, Brezilya, Hindistan, Çin ve İsrail gibi teknoloji alanındaki rakip ülkelerde araştırma-geliştirmeye yapılan yatırım miktarının radikal şekilde artırıldığına dikkat çekiliyor. 
+     -ABD'deki öğrencilerin diğer ülkelerdeki akranlarına göre matematik ve bilim alanında daha geride olduğuna vurgu yapılırken, bazı Asya ülkelerinin ABD'ye göre beş kat daha fazla mühendis mezun ettiği üzerinde duruluyor. 
+     
+</TEXT>
+</DOC>

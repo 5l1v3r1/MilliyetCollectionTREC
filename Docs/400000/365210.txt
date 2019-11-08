@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 365210 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/28/son/sonyas22.html </URL>
+<DATE> 2005/07/28/ </DATE>
+<TIME> 23.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Japonlar insana en çok benzeyen androidi yaptı... 
+</HEADLINE>
+<TEXT>
+
+     Japon bilim adamları, insana en çok benzeyen bir dişi android yapmayı başardılar. 
+     Osaka Üniversitesi’nden bilim insanlarının eseri olan ve Repliee Q1 adı verilen dişi robotun sert plastik yerine esnek silikondan derisi ve insan gibi hareketler yapmasını sağlayan çok sayıda motor ve duyargası bulunuyor. 
+     Göz kapaklarını açıp kapayabilen, ellerini hareket ettirebilen dişi robot Repliee Q1, nefes bile alabiliyor. 
+     İnsana benzemesi için tasarlanan Japon kadın görünümlü robot üst kısmındaki 31 ayrı hareket sağlayıcısı sayesinde tam bir insan gibi hareket ederek, insanlara tepki verebiliyor. 
+     Daha önce Repliee R1 isimli 5 yaşındaki bir Japon kız çocuğuna benzeyen robotu yapan Profesör Hiroşi İşiguro, bir gün robotların bizi insan olduklarına inandırarak şaşkına çevireceklerini söyledi. 
+     
+</TEXT>
+</DOC>

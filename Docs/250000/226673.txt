@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 226673 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/29/son/sontur12.html </URL>
+<DATE> 2004/03/29/ </DATE>
+<TIME> 18.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Güngören'de bilgisayar arızalanınca sayıma ara verildi 
+</HEADLINE>
+<TEXT>
+
+     Güngören İlçe Seçim Kurulu'ndaki bilgisayarlarda kullanılan programda meydana gelen hata nedeniyle çalışmalara ara verildi. 
+     Seçim Kurulu, dünden bu yana sandık kurullarından gelen tutanaklardaki oyların bilgisayarlara yüklenme işlemini saat 17.00'de tamamladı. Ancak, bilgisayarlarda kullanılan programdaki toplama hatası nedeniyle geçerli oyların sayısı ile oyların partilere dağılımının birbirini tutmaması üzerine çalışmalar durduruldu. 
+     Seçim Kurulu yetkilileri, bilgisayar programındaki hatanın giderilmesi amacıyla çalışmalara yarın sabah 09.00'dan itibaren tekrar başlanacağını bildirdiler. 
+     
+</TEXT>
+</DOC>

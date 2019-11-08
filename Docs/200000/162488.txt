@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 162488 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/11/son/soneko51.html </URL>
+<DATE> 2003/06/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Piyasalarda bugün... 
+</HEADLINE>
+<TEXT>
+
+     Borsa'da işlem gören hisse senetleri bugün ortalama yüzde 0.45 değer kaybetti. 
+     İstanbul Menkul Kıymetler Borsası İMKB Ulusal 100 endeksi, 1. seansta 109.30 puan kayıpla 10,5.44 puana geriledi. 2. seansta ise 61.87 puan yükselen endeks, 10,597.31 puandan günü tamamladı. 
+     Düşük hacimli hareketlerin devam ettiği Borsa'da, endeksin günlük kaybı ise 47.43 puan ve yüzde 0.45 olarak hesaplandı. 
+     Hisse senetleri piyasasında günlük işlem hacmi 284 trilyon 357 milyar 732 milyon lira olarak gerçekleşti. 
+     
+     DÖVİZDEKİ DURUM 
+     Kapalıçarşı'da dün 1 milyon 428 bin liradan kapanan dolar, güne 1 milyon 426 bin liradan, 1 milyon 672 bin liradan kapanan Euro da 1 milyon 669 bin liradan başladı. 
+     Piyasa kapanışında doların satış fiyatı 1 milyon 424 bin lira, Euro'nun satış fiyatı 1 milyon 675 bin lira oldu. 
+     Merkez Bankası, doların bugünkü efektif kurunu alışta 1 milyon 416 bin 251 lira, satışta ise 1 milyon 426 bin 215 lira olarak açıkladı. 
+     Böylece dolar, Merkez Bankası'nın dünkü kurlarına göre, alışta 792 lira, satışta ise 797 lira geriledi. 
+     
+     TAHVİL-REPO 
+     İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda en fazla işlem gören 7 Temmuz 2004 vadeli bugün valörlü tahvilin bileşik faizi dünkü kapanışa göre 0.14 puan yükseldi. 
+     Piyasa kapanışında bu kağıdın aynı gün valörlü işlemlerinin basit getirisi yüzde 49.24, bileşik getirisi ise yüzde 48.48 olarak gerçekleşti. 
+     İMKB Tahvil ve Bono Piyasası Repo Pazarı'nda, gecelik faiz ortalama yüzde 38.75 olarak belirlendi. 
+     Bankalararası TL interbankında da gecelik faiz oranı, ortalama yüzde 38.00 oldu. 
+     
+</TEXT>
+</DOC>

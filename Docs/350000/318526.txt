@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 318526 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/25/son/soneko16.html </URL>
+<DATE> 2005/02/25/ </DATE>
+<TIME> 11.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kaybolan bagajların maliyeti 1.6 milyar dolar... 
+</HEADLINE>
+<TEXT>
+
+     Kaybolan bagajların havayollarına yıllık 1.6 milyar dolarlık maliyet çıkardığı bildirildi. 
+     Havayolu sektörüne güvenlik yazılımları üreten Sita tarafından yapılan açıklamada, artan yolcu sayısıyla yetersiz güvenlik önlemleri, bagajların kaybolmasında en önemli faktörler olarak gösterildi. 
+     Buna göre, her bin uçak yolcusundan 7'si inişte bagajına ulaşamazken, kaybolan bir bagajın havayolu şirketine ortalama 87.50 dolarlık fatura çıkardığı bildiriliyor. 
+     Sita, bagaj etiketlerine eklenecek mikroçiplerle yürüyen bandlarda yanlış yönlendirmelerin önüne geçilebileceğini belirterek, bu sistemin dünyada halen çok az sayıdaki havaalanında uygulanabildiğini kaydediyor. 
+     
+</TEXT>
+</DOC>

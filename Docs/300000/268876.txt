@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 268876 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/03/son/sonyas07.html </URL>
+<DATE> 2004/09/03/ </DATE>
+<TIME> 10.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dayakçı kocalara elektronik kelepçe 
+</HEADLINE>
+<TEXT>
+
+     'Dayakçı kocalar', sübyancılar ve tacizciler için kelepçe dönemi başlıyor. İngiltere, suçlulara uyguladığı elektronik kelepçe yöntemini, aile şiddet şikayeti için de uygulayacak. 
+     Buna göre hafif ceza alan dayakçı koca ya da tacizci ayak bileğine takılacak elektronik kelepçeyle uydudan takip edilecek. 
+     120 mahkum üzerinde denenecek sistemde kelepçenin yanında bir de cep telefonu verecek. 
+     Suçlu cihazlardan birini çıkarırsa alarm çalacak. Sistem, uydudan suçlunun yerini 2 metre farkla belirleyecek. 
+     
+</TEXT>
+</DOC>

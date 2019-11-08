@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 134299 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/01/31/son/soneko23.html </URL>
+<DATE> 2003/01/31/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İMKB de tasarrufa yöneldi... 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası İMKB , seans kapanış ve günlük bültenleri ile günlük değerler tablosunun fakslanması işlemine, 3 Şubat 2003 tarihinden itibaren son verecek. 
+     Hisse Senetleri Piyasası Müdürlüğü duyurusuna göre, üyeler ve basın kuruluşlarına her seans sonrasında fakslanan seans kapanış bültenleri ile günlük bültenler, bundan böyle İMKB'nin web sayfasından elde edilebilecek. 
+     Söz konusu bültenlerin, Borsa'ya ait faks cihazından ''polling'' Faks cihazına bağlanılarak faks işleminin talep eden tarafından başlatılması yöntemiyle sağlanması olanağı da bulunuyor. 
+     Uygulamanın, tasarruf amacıyla yapıldığı öğrenildi. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

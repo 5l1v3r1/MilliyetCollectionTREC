@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 390537 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/28/son/sontur24.html </URL>
+<DATE> 2005/10/28/ </DATE>
+<TIME> 12.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ADSL'de yeni uygulama 1 Kasım'da başlıyor... 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekomünikasyon A.Ş, hızlı internet bağlantısı ADSL’de en düşük bağlantı hızını 1 Kasım 2005 tarihinden itibaren 512 128 Kbps’ye yükseltiyor. 
+     Türk Telekom’dan yapılan açıklamaya göre, Salı gününden itibaren başlanacak uygulamayla 256 64 Kbps hızında 3 GB limitli ADSL kullanan müşterilerin tarifeleri ve kullanım miktarları aynı kalmak kaydıyla bağlantı hızları 512 128 Kbps’ye yükseltilecek. 
+     256 Kbps hızla ADSL’e bağlanan limitli müşteriler, 1 Kasım’dan sonra aynı ücrete mevcut hızlarından daha yüksek hızda internete bağlanacak. 512 128 Kbps 5 GB limitli ADSL müşterilerin tarifeleri ve hızları sabit tutulmak kaydıyla kotaları da 6 Gigabayta çıkacak. Bunun yanı sıra 512 128 Kbps limitli erişime 9 Gigabaytlık yeni bir seçenek eklendi. Bu tarife seçeneğini müşteriler 69 YTL aylık ücretle 
+     kullanabilecekler. 
+     Uygulamanın başlamasıyla birlikte Türk Telekom’un 256 64 Kbps limitsiz ADSL müşterileri mevcut hızlarında hizmet almaya devam edebilecekleri gibi yürürlükteki tarifelerden birine de geçiş yapabilecekler. 1 Kasım 2005’ten itibaren 256 64 Kbps hızında yeni müşteri kaydı yapılmayacak. Yeni dönemde 512 128 Kbps hızında 3 GB ve 6 GB limitli abonelikler yapılacak. 
+     Türk Telekom’un ADSL’de erişim hızları ve tarifeler şöyle oluştu 
+     
+     LİMİTSİZ ADSL ERİŞİM TARİFESİ 
+
+     
+     
+
+Paket Adı Hızı Kbps Bağlantı Ücreti Aylık Ücret .512 Kbps’e kadar 512 128 59 YTL 99 YTL .1 Mbit’e kadar 1024 256 59 YTL 169 YTL .2 Mbit’e kadar 2048 512 59 YTL 269 YTL      
+     LİMİTLİ ADSL ERİŞİM TARİFESİ 
+
+     
+
+Paket Adı Hız Kbps Bağlantı Ücreti Aylık ücret MB İçin Ücret .512 Kbps’e kadar 3 GB limitli 512 128 59 YTL 29 YTL 0.01 YTL .512 Kbps’e kadar 6 GB limitli 512 128 59 YTL 49 YTL 0.01 YTL .512 Kbps’e kadar 9 GB limitli 512 128 59 YTL 69 YTL 0.01 YTL      
+</TEXT>
+</DOC>

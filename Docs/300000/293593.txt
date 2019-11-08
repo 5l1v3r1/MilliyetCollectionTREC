@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 293593 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/30/son/sonyas10.html </URL>
+<DATE> 2004/11/30/ </DATE>
+<TIME> 10.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Artık yalan söylemek imkansız .. 
+</HEADLINE>
+<TEXT>
+
+     Amerikalı bilim adamlarının yeni araştırması, yalan söyleyen insanların beyninin, doğruyu söyleyenlerinkine oranla büyük değişiklik gösterdiğini ortaya koyuyor. 
+     FMRI ya da Fonksiyonel Manyetik Rezonans Imaging görüntüleme yöntemi kullanılarak yapılan araştırma, sadece yalan söylerken beyinde neler olup bittiğini göstermekle kalmıyor, yalan makinası konusunda yeni bir teknoloji sağlıyor. 
+     Philadelphia Ünversitesi Tıp Fakültesi'nde yapılan araştırmayı yürütenlerden Dr. Scott Faro, yalan söylerken beynin bazı özel bölgelerinin değişiklik gösterebileceğini ve bunun da fMRI ile ölçülebileceğini belirterek, ayrıca doğruyu söylerken de yine bazı bölgelerin değişikliğe uğrayabileceğini kaydetti. 
+     Deneyde, gönüllülere oyuncak tabancayla ateş etmeleri ardından da bunu yapmadıklarını söylemeleri, diğer gönüllülerden de gerçeği anlatmaları istendi. 
+     Beynin gerçek zamanlı görüntüsünü veren fMRI teknolojisinin kullanıldığı deneyde, yalan söyleyenlerle doğruyu anlatanların beyinleri arasında açık bir değişiklik saptandı. 
+     Doktorlar, yalan sırasında beynin 7, doğruyu söylerken de 4 bölgesinde faaliyet saptadıklarını belirterek, ayrıca yalan söylemenin doğruyu söylemekten daha çok çaba gerektirdiğini belirlediklerini kaydettiler. 
+     Amerikalı araştırmacılar, yalan söylemenin beynin ön tarafında, orta iç, ön-merkez, ''hippocampus'' ve orta geçici bölge ile limbic bölgelerinde faaliyete yol açtığını belirterek, doğruyu söylerken de beynin ön yuvarlak, geçici yuvarlak ve ''cyngulat gyrus'' bölgelerinin faaliyete geçtiğini söylediler. 
+     Bilim adamları, bu teknolojinin etkin bir yalan makinası olarak kullanılabileceğini, özellikle terör zanlıları ve karmaşık kriminal vakaların çözümünde yararlı olabileceğini belirtiyorlar. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 333147 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/14/ekonomi/eko08.html </URL>
+<DATE> 2005/04/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+12 milyon kaçak telefona tedbir geliyor 
+</HEADLINE>
+<TEXT>
+
+
+ANKARA Milliyet 
+
+Küresel Mobil Haberleşme Sistemi GSM firmalarının kayıtlarında yapılan inceleme sonucunda, kullanımda 12 milyon kayıtdışı cep telefonu bulunduğunu saptayan hükümet, sektördeki kayıtdışılığı ve cep telefonu hırsızlığını önlemek için harekete geçti. Hükümet, söz konusu telefonların "bir defaya mahsus olmak üzere 10 YTL karşılığı affedilmesini" öngören yasa teklifi hazırladı. Buna göre, aftan sonra çalıntı ve kaçak cep telefonlarıyla konuşma yapılamayacak. 
+
+Yasa Meclis'te 
+Çalıntı ve kayıtdışı cep telefonu kullanımını önlemek amacıyla hazırlanan yasa teklifi dün TBMM Başkanlığı'na sunuldu. AKP Muğla Milletvekili Orhan Seyfi Terzibaşıoğlu ve arkadaşları tarafından imzalanan Telsiz Yasası'nda Değişiklik Yapılması Hakkındaki Yasa Teklifi ile GSM telefon cihazları ile daha sonra kullanılabilecek mobil haberleşme cihazlarının ticaretinin, kontrol altına alınması hedefleniyor. 
+Telekomünikasyon Kurumu TK tarafından tutulan kayıtlara göre 12 milyon aboneye ait cihazın kayıtdışı olduğu, bunlardan 500 bin kadarının da IMEI numaralarının değiştirildiği tespit edildi. 
+
+Öneri ne getiriyor 
+Teklife göre, TK tarafından izin verilmedikçe işletmecilerce tedarik edilen abone kimlik ve iletişim bilgilerini taşıyan özel bilgiler veya cihazın teşhisine yarayan elektronik kimlik bilgileri, yeniden oluşturulup değiştirilemeyecek ve kopyalanamayacak. 
+Elektronik kimlik bilgisi değiştirilmiş cihaz, kart, araç veya gereçlerle değişiklik yapılması amacına yönelik yazılım, her türlü araç veya gereçlerin ithalatı, üretimi, dağıtımı veya tanıtımının yapılması, bulundurulması ve aracılık edilmesi yasaklanacak. Abone kimlik ve iletişim bilgilerini taşıyan özel bilgilerle cihazların elektronik kimlik bilgilerini taşıyan her türlü yazılım, kart, araç veya gereçler, yetkisiz ve izinsiz kopyalanamayacak. 
+
+
+</TEXT>
+</DOC>

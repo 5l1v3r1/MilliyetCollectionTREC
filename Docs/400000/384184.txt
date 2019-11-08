@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 384184 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/05/son/soneko24.html </URL>
+<DATE> 2005/10/05/ </DATE>
+<TIME> 10.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Çipli kartların sistemdeki payı artıyor... 
+</HEADLINE>
+<TEXT>
+
+     Fatma Metin AA 
+
+Bankalararası Kart Merkezi BKM Genel Müdürü Sertaç Özinal, daha güvenli olan, Europay, Mastercard ve Visa EMV standardını taşıyan çipli kartların toplam kredi kartlarına oranının yüzde 28-30'lara ulaştığını, yıl sonunda oranın yüzde 50-55'e çıkmasını beklediklerini söyledi. 
+     AA muhabirinin sorularını yanıtlayan Özinal, Türkiye'de son 1-2 yıldır çipli karta geçiş çalışmalarının devam ettiğini, 2006 yılında da kredi kartı işlemlerinde şifre uygulamasının başlayacağını bildirdi. 
+     2004 sonunda EMV uyumlu çipli kartların toplam kredi kartlarına oranının 5 milyon 40 bin adetle yüzde 19 civarındayken, bu yıl Haziran sonu itibariyle 8 milyon 29 bin adetle yüzde 28'ler civarına çıktığını belirten Özinal, ''Toplam kredi kartlarıyla kıyaslandığında EMV uyumlu çipli kartların oranı günümüzde yüzde 28-30'lar civarına geldi'' dedi. 
+     Özinal, ciro oranları ile ilgili olarak da şunları kaydetti 
+     ''Cirolara bakıldığında, 2004 yılında toplam 58 milyar 509 milyon YTL'lik ciro içinde EMV uyumlu çipli kartların payı 2 milyar 121 milyon YTL ile yüzde 4'tü. 2005'in ilk 6 ayında toplam 35 milyar 671 milyon YTL ciro içinde EMV uyumlu çipli kartların payı 5 milyar 410 milyon YTL ile yüzde 15'lere çıktı. 2005 Ağustos sonu itibariyle toplam ciro 49 milyar 146 milyon YTL'ye, EMV uyumlu çipli kart cirosu 7 milyar 973 milyon YTL'ye çıktı ve oran yüzde 16'lara yükseldi.'' Özinal, yıl sonunda EMV uyumlu çipli kartların toplam kredi kartları içindeki payının yüzde 50-55'lere çıkmasını beklediklerini, gelecek yılın Mart ayında bu rakamın yüzde 70'leri bulabileceğini söyledi. 
+     
+     SAHTECİLİĞE KARŞI ŞİFRE DE GELİYOR 
+     Çipli kartın kopyalamayı engellediğini, dolayısıyla kart kopyalamanın getireceği sahtekarlık rakamlarında bir düşüş beklediklerini belirten Özinal, ancak kartta sahtecilik rakamlarında esas düşüşün, şifrenin 2006 yılında kullanıma açılmasından sonra olmasını beklediklerini söyledi. 
+     Özinal, ''Şu anda çipli kartı bulan kişi onun manyetik alanı ile de o işlemi gerçekleştirebilir. Esas önleyecek işlem şifreye geçiş olacak. Burada geçtiğimiz yıl Türkiye'de 17 milyon dolarlık bir sahtekarlık rakamı söz konusuydu. Bu yıl 20 milyon dolar civarı bir rakam bekleniyor. Gelecek yıl bu rakamların bir şekilde artmaması ve daha sonra belki de bir düşüş trendine girmesi beklenmekte'' dedi. 
+     Türkiye'deki tüm bankaların çiple ilgili altyapılarını tamamladığına işaret eden Özinal, ''Kartın tek başına çiplendirilmesi yeterli olmuyor. Şu anda mevcut 1 milyon 100 bin adet POS makinesinin çipi okuyacak altyapıya sahip olması da önemli. Aşağı yukarı POS'ların yüzde 90'a yakını şu anda çip okuyucu sertifikasyonu almış durumda'' diye konuştu. 
+     
+</TEXT>
+</DOC>

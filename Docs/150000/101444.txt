@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 101444 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/08/12/son/soneko06.html </URL>
+<DATE> 2002/08/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+TRLİBOR oranları... 
+</HEADLINE>
+<TEXT>
+
+     Türk Lirası Bankalararası Satış Oranı olarak tespit edilen referans faiz oranları TRLİBOR , gecelik faizde yüzde 47.2143 olarak belirlendi. 
+     TRLİBOR oranları, vadelerine göre şöyle 
+     
+     
+VADE ORAN Gecelik 47.2143 1 Haftalık 47.4286 1 Aylık 48.8571 2 Aylık 50.0000 3 Aylık 51.0714 6 Aylık 59.1429 9 Aylık 64.2143 1 Yıllık 69.2857 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

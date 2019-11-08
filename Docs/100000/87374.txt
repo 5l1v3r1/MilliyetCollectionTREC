@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> 87374 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/06/01/son/sondun12.html </URL>
+<DATE> 2002/06/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Parkinson hastalığına yeni bir tedavi yöntemi 
+</HEADLINE>
+<TEXT>
+
+     Beyindeki birçok hücrede bulunan bir proteinin, Parkinson hastalığıyla ilişkisi saptandı. 
+     Araştırmanın sonucu, Parkinson hastalığıyla ilgili yeni bir tedavi yöntemi ortaya koyarken, dopamine tedavisiyle ilgili soruları gündeme getirdi. 
+     Laboratuvar ortamında yapılan araştırmada, alpha-synuclein proteininin dopamine maddesiyle birleşmesi sonucunda, tepkisel toksin oksijen moleküllerinin salgılandığı belirlendi. Tepktisel toksin oksijen moleküllerinin, beyindeki sinirleri öldürdüğü biliniyor. 
+     Harward Tıp Okulu uzmanlarından Dr. Bruce A. Yankner, hastalığın oluşumunu laboratuvar ortamında aynen görebildiklerine ve saptadıkları durumun bilimsel bir gerçeği ortaya koyduğuna işaret etti. 
+     Sonucun, bugün Parkinson hastaları için uygulanan dopamine tedavisiyle ilgili sorular doğurduğu ve uzun dönem dopamine tedavisinin hastalığın ağırlaşmasına yol açabileceği kaydedildi. 
+     Araştırmayla ilgili yorum yapan Pittsburgh Üniversitesi uzmanlarından Dr. Ronald Lee Hamilton, sonucun bilimsel bir avantaj olduğunu, ancak çok önemli bir aşama olmadığını belirtti. 
+     Dr. Hamilton, araştırmanın, alpha-synuclein proteininin sinir hücrelerinde neden biriktiğinin yanıtını veremediğini, ancak sinir hücrelerinin ölümüyle ilgili olası bir mekanizmanın bulunduğunu ortaya koyduğunu kaydetti. 
+     Beyindeki birçok hücre grubunda bulunduğu bilinen alpha-synuclein proteininin, normal işleviyle ilgili olarak açık bir bilginin bulunmadığı belirtildi. 
+     Uzmanlara göre, protein çeşitli streslere karşı koruyucu görev yapıyor. Alpha-synuclein proteininin mutasyona uğrayan bazı türlerinin, Parkinson hastalığını oluşturmaya meyilli olduğu düşünülüyor. 
+     Bazı uzmanlar ise proteinde oluşan bazı farklılıkların, Parkinson hastalığının oluşumuna yol açabildiğini kaydediyor. 
+     Alpha-synuclein proteinini, Parkinson hastalığına yol açan diğer proteinlerden uzak tutabilmekle hastalık riskinin önlenebileceği bildirildi. 
+     Dopamine terapisinin hastalığın seyrinde kısa dönemde etki ortaya koyabildiğine değinen uzmanlar, uzun dönemde dopamine terapisinin belkide Parkinson hastalığının ağırlaşmasına yol açabileceği görüşünü savunuyor. 
+     Bir milyondan daha fazla Amerikalıda bulunduğu belirtilen Parkinson hastalığının, beyindeki hasar nedeniyle kaslarda katılaşmaya ve vücutta titremeye yol açtığı biliniyor. 
+     Parkinson hastalığına karşı geniş ilginin, bu hastalığın ünlü boksör Muhammet Ali, Amerikan eski Adalet Bakanı Janet Reno ve sinema yıldızı Michael Fox'ta görülmesinden sonra arttığı kaydedildi. 
+     Bundan sonra konuyla ilgili araştırmaların, hayvanlar üzerinde yapılacağı bildirildi. 
+     Araştırma raporu, Journal Nature Medicine adlı dergide yer aldı. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

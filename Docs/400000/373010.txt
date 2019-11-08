@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 373010 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/26/yazar/oztrak.html </URL>
+<DATE> 2005/08/26/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Faik ÖZTRAK  </AUTHOR>
+<HEADLINE>
+Kamu borçlanmasında yeni eğilimler 
+</HEADLINE>
+<TEXT>
+
+
+Temmuz sonunda konsolide bütçenin toplam borç stoku 323,3 milyar YTL'ye ulaşmış. Geçtiğimiz yıl sonuna göre artış yüzde 2,2 olmuş. Aynı dönemde tüketici fiyatları endeksindeki TÜFE artış da yüzde 2,0 olmuş. Borç stoku reel olarak sabit kalmış gibi. Dolar kurunu 2004 sonundaki seviyesinde sabit tutarak hesaplanan borç stokundaki artışların da yer aldığı grafik, kurda yaşanan oynamaların borç stoku üzerinde küçümsenmeyecek etkileri olduğunu gösteriyor. 
+Bu dönemde dış borç stoku azalırken, iç borç stoku TÜFE'nin oldukça üstünde artmış. Bu Hazine'nin, kurun değer kazandığı ortamda yerli para cinsinden borçlanmaya, doğru olarak, ağırlık verdiği izlenimini veriyor. 
+
+İç borç hızla artıyor 
+Ancak buzdağının alt kısmı, iç borca, piyasaya ve kamuya olan borç ayrımında bakıldığında ortaya çıkıyor. Kamuya olan borç, ağırlıklı olarak bankacılık krizinin yükünü zamana yaymak amacıyla verilen ve TCMB, kamu bankaları ve TMSF'nin elindeki k ğıtlardan oluşuyor. Bu borçları, zaman içinde tasfiyesi gereken bir bütçe harcaması olarak da görmek mümkün. Bu nedenle de borç stokundaki eğilimlere, piyasaya ve yurtdışına olan borçlardaki değişim bazında bakmak da mümkün. Bu durumda dış borç azalırken, piyasadan yapılan iç borçlanmanın sene başından bu yana çok hızlı bir artış kaydettiği göze çarpıyor. 
+Piyasa borcunun detayına girdiğimizde ise, bu sene başından itibaren Hazine'nin borçlanma stratejisinde sabit faizli k ğıtlar yerine değişken faizli k ğıtlara ağırlık verdiğini görüyoruz. Geçtiğimiz yıl sonuna göre değişken faizli k ğıt stokundaki artış yüzde 50'ye yaklaşıyor. 
+Bu strateji sonucunda piyasaya olan borç stoku içinde değişken faizli borcun payı 7 ayda 9 puan artıyor. Piyasadan yapılan borçlanmanın içinde sadece TL değil, döviz borçlanması da var. Döviz cinsinden borçlanmaların payındaki 1,5 puanlık gerileme dövize endeksli borçlardan kaynaklanıyor. Dövizle yapılan borçlanmalar ise artıyor. 
+
+Piyasadan borçlanmanın dağılımı pay 2004 Tem. 05 Artış PİYASA 100.0 100.0 Sabit 72.7 63.7 -9.0 Değişken 27.3 36.3 9.0 PİYASA 100.0 100.0 TL 79.7 81.2 1.5 Döviz 20.3 18.8 -1.5 
+
+Yandaki ilk 7 aylık eğilimlerden 
+Sürdürülebilirlik analizleri açısından önemli olan, piyasadan borçlanmaların hızlı artışını sürdürdüğünü,Hazine'nin değişken faizli borçlanmasını hızla artırarak vadeyi uzatmaya çalıştığını, ancak bunun borç stokunun faize karşı duyarlılığını artırdığını,İç piyasadan yapılan dövizli borçlanmaların döviz arzının sterilizasyonuna katkıda bulunduğunu, ancak bunun borç stokunun kur değişmeleri karşısındaki duyarlılığını azaltmayı engellediğini görmekteyiz. 
+Son 3 yıldaki gibi faizler düşmeye ve TL değer kazanmaya devam ederse, Hazine buradan k rlı çıkar. Ancak bu strateji değişikliği piyasadan gelen talebe bağlı ise, Hazine ve piyasaların farklı risk algılamalarına sahip olduğunu gösterir. Uluslararası yatırımcıların son 2 yılda yaşanan likidite patlamasının tepe noktasını sorgulamaya başladığı bir döneme giriyoruz. Piyasaların mı, yoksa Hazine'nin mi haklı çıkacağını göreceğiz. 
+
+
+
+
+</TEXT>
+</DOC>

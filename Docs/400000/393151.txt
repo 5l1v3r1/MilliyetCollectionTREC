@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 393151 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/08/son/sontur01.html </URL>
+<DATE> 2005/11/08/ </DATE>
+<TIME> 10.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Telekom ADSL'de geri adım attı 
+</HEADLINE>
+<TEXT>
+
+     En düşük limitsiz ADSL tarifesini 99 YTL’ye çekerek ADSL abonesi adaylarından büyük tepki gören Türk Telekom, 256 Kbps hızında limitsiz ADSL’i tekrar kullanıma sunacak. Önümüzdeki haftalardan itibaren aboneler 256 Kbps hızındaki ADSL’i eskisi gibi 49 YTL'ye kullanabilecekler. 
+     Bu değişiklik sadece 256 limitsiz yeni abone olmak isteyen müşterileri ilgilendirecek. Telekom, daha önce eski 256 limitsiz kullanıcılarının isterlerse aynı tarifede kalabileceğini açıklamıştı. 
+     Aynı fiyata 512'ye yükselen limitli aboneler için ise yeni tarife aynen geçerli. Yeni tarifeyle açıklanan yeni fiyatlar da aboneler için değişmeksizin geçerli olacak. 
+     
+     İşte ADSL tarifeleri 
+
+     
+
+Erişim hızı Bağlantı ücreti Aylık ücret Limitsiz ADSL 256 64 59 YTL 49 YTL 512 128 59 YTL 99 YTL 1024 256 59 YTL 169 YTL 2048 512 59 YTL 269 YTL Limitli ADSL 512 128 3 GB 59 YTL 29 YTL MB ücreti 0.01 YTL 512 128 6 GB 59 YTL 49 YTL MB ücreti 0.01 YTL 512 128 9 GB 59 YTL 69 YTL MB ücreti 0.01 YTL      
+</TEXT>
+</DOC>

@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 315681 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/16/son/sondun14.html </URL>
+<DATE> 2005/02/16/ </DATE>
+<TIME> 09.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Times ABD, 10 yıl içinde robot orduya geçiyor... 
+</HEADLINE>
+<TEXT>
+
+     ABD ordusunda 10 yıl içerisinde askerlerin yerini savaşçı robotların alacağı bildirildi. 
+     New York Times gazetesinin haberine göre, ABD Savunma Bakanlığı Pentagon , 10 yıl içinde robotların Amerikan ordusunun en önemli savaşçı gücü haline gelmesini planlıyor. 
+     21. yüzyıla uygun olarak yeniden yapılandırılan Amerikan ordusunun en önemli parçasını robotların oluşturacağını yazan gazete, bu amaçla yapılacak ''Geleceğin Savaş Sistemleri'' projesi için çıkılacak 127 milyar dolarlık ihalenin ABD tarihinin en büyük askeri ihalesi olacağını ifade etti. Ordunun kendi başına hareket edebilen silahlı robotlar için milyarlarca dolarlık yatırım yapmayı planladığı belirtilen haberde, ordudaki bu dönüşümün Savunma Bakanlığı bütçesini yüzde 20 oranında artırarak, gelecek yıl için öngörülen 419,3 milyar dolarlık rakamı, savaş giderleri hariç, 2010 yılında 502,3 milyar dolara çıkaracağı kaydedildi. 
+     Proje kapsamında yeni silah alımları için yapılacak yıllık harcamanın yüzde 52 oranında artarak, 78 milyar dolardan 118,6 milyar dolara yükseleceğine dikkat çekildi. 
+     Askeri planlamacıların robot askerlerin zaman içinde tıpkı insanlar gibi düşünerek göreceklerini ve tepki vereceklerini tahmin ettiklerini yazan gazete, ilk etapta bu robotların uzaktan kumanda edileceğine ve bu açıdan ölümcül oyuncaklara benzeyeceklerine işaret etti. 
+     Teknoloji geliştikçe robotların farklı şekiller alacağı kaydedilen haberde, ''zekaları'' arttıkça robotların bağımsız hareket etme kabiliyetlerinin de yükseleceği ifade edildi. 
+     Robot askerlerin Pentagon'un 30 yıllık rüyası olduğu belirtilen haberde, projede yer alan bazı yetkililerin bu rüyanın tam olarak gerçekleşmesinin bir 30 yıl daha alacağını söylediği bildirildi. 
+     Haberde, ordunun önündeki en büyük sorunu ise düşmanla dostu, savaşçıyla sivili ayırt etmek konusunda robotlara ne kadar güvenilebileceğinin oluşturduğu belirtildi. 
+     Birkaç yüz robot askerin Afganistan ve Irak'ta yol kenarına bırakılan bombaların imhasında ya da mağara girişlerinde zaten kullanıldığını yazan gazete, nisan ayında Irak'ta dakikada 1000 kez ateş edebilen robotların göreve başlayacağını ifade etti. 
+     Robotların dizüstü bilgisayar aracılığıyla askerler tarafından kumanda edileceğinin belirtildiği haberde, söz konusu robotların piyadelerle aynı safta düşmana karşı savaşacak ilk robotlar olacağına işaret edildi. 
+     Pentagon'un bugün emeklilik ücretlerini ödeyemediği askerlerine 6 milyar dolarlık borcu bulunduğunu hatırlatan gazete, bakanlığın verdiği rakamlara göre, hayatı boyunca bir askerin Amerikan ordusuna ortalama maliyetinin 4 milyon dolar olduğunu, bir robot askerin orduya maliyetinin ise bunun onda birinden az olacağını yazdı. 
+     Gazete, piyade olarak görev yapacak bazı robot-asker prototiplerinin şimdiden hazır olduğunu kaydetti. 
+
+     
+</TEXT>
+</DOC>

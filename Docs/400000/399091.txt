@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 399091 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/29/son/sonyas14.html </URL>
+<DATE> 2005/11/29/ </DATE>
+<TIME> 13.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Japonya'nın uzaya gönderdiği Hayabusa sondasında teknik sorun 
+</HEADLINE>
+<TEXT>
+
+     Japonya'nın uzaya gönderdiği ve hafta sonunda bir asteroidden örnek toplamayı başaran ''Hayabusa Şahin'' sondası, motorundaki bir arızadan ötürü Dünya'ya dönüşte sorun yaşıyor. 
+     Bu arızanın, şimdiye dek yapılan misyonun başarısızlıkla sonuçlanmasına ve sondanın seyahatinin sona ermesine dahi yol açabileceği belirtiliyor. 
+     Sondayı uzaya gönderen Japon Uzay Keşif Ajansı JAXA yetkilileri, Hayabusa'nın motorlarından birisinde bir hasar tespit ettiklerini belirterek, bu sorundan ötürü Hayabusa'nın antenini Dünya'ya doğru yönlendiremediklerini ve bu sorun çözülmedikçe sondanın Dünya'ya dönüş sürecini başlatamayacaklarını kaydettiler. 
+     JAXA, bu soruna aralık ortasına kadar bir çözüm bulamazsa, sondanın Dünya'ya dönüşünde uygun bir pozisyon ve uzaklık bulunması için 3 yıl kadar beklemesi gerekiyor. 
+     JAXA yetkilileri, 3 yıl içinde bile operasyonu başlatamazlarsa, yine de ümit olduğunu, çünkü sondanın bataryalarının hala çalışır durumda olacağını kaydediyorlar. 
+     Japonya'nın tarihte ilk kez bir göktaşından numune alarak dönmesi beklenen ''Hayabusa Şahin'' sondası, geçen hafta 290 milyon kilometre uzakta indiği İtokava asteroidinden ayrılarak Dünya'ya dönüş yoluna girmişti. 
+     
+</TEXT>
+</DOC>

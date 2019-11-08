@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 234506 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/24/son/sonyas10.html </URL>
+<DATE> 2004/04/24/ </DATE>
+<TIME> 18.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hesap makinası öğrencilere matematik yeteneklerini unutturdu... 
+</HEADLINE>
+<TEXT>
+
+     Yapılan bir araştırmaya göre hesaplamalarını hesap makinasıyla yapmaya alışan öğrencilerin, kendi başlarına herhangi bir matematik işleminin içinden çıkamadığı kaydedildi. 
+     Eğitim politikaları konusunda çalışan Brown Center'dan Tom Loveless'ın yaptığı Eğitimdeki Gelişmeye Dair Ulusal Değerlendirme başlıklı çalışmada, hesap makinası kullanan 9 yaşındaki çocukların kendi başlarına herhangi bir hesap yapma yeteneklerinin oluşmadığı belirtildi. 
+     Amerikan Fox News televizyon kanalının haberine göre, hesap makinası kullandıklarında matematik işlemlerinden ortalama 89,2 puan alan öğrenciler, hesap makinası kullanmadığında sadece ortalama 59,7 puan alabiliyorlar. Bu oran çarpma işlemlerinde hesap makinasıyla ortalama 87,9, hesap makinası olmaksızın ortalama 42,5 olarak gerçekleşirken, bölme işlemlerinde de hesap makinası kullandıklarında ortalama 77,1 puan alan öğrencilerin, hesap makinası kullanmadıklarında aldıkları puanın ortalama 48,3'e düştüğü belirlendi. 
+     Araştırmayı yapan Loveless, ''Öğrencilerin hesaplama yeteneklerini ölçmek için yapılan testlerde hesap makinasına izin verilmesi, bu testleri anlamsız hale getirmektedir'' dedi. 
+     Loveless, çocukların ilk öğretimde gerçek matematik yetenekleri kazanamadan mezun edilmesini de eleştirdi. 
+     Çocukların çalışma yeteneği de kazanamadığını ifade eden Loveless, kız öğrencilerin, matematik gibi zor dersleri çalışmak için disipline olamayan erkek öğrencilere göre muhasebe alanındaki başarılarının her geçen yıl daha da radikal şekilde arttığını ifade etti. 
+     
+</TEXT>
+</DOC>

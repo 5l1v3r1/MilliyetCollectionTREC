@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 120380 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/11/22/son/sondun02.html </URL>
+<DATE> 2002/11/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft "Windows ile Explorer'da güvenlik açıkları var" 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayar yazılım devi Microsoft, dünyada en yaygın şekilde kullanılan işletim sistemi Windows ile en fazla kullanılan internet tarayıcısı Explorer'da ciddi güvenlik açıkları belirlendiğini duyurdu. 
+     Microsoft'tan dün yapılan açıklamaya göre, bu açıktan yararlanacak bilgisayar korsanları, ev ve işyerlerindeki bilgisayarları ele geçirebilirler. Açıklamada, sadece Windows'un en son sürümü olan Windows-XP'de açık bulunmadığı kaydedildi. 
+     Windows ve Explorer'daki güvenlik açıkları, Microsoft'un ''http www.microsoft.com technet'' adresinde bulunan yama indirilerek kapatılabiliyor. 
+     Microsoft'un açıklamasında, ''Bu açık çok ciddidir ve Microsoft firması, tüm kullanıcıların yamayı yüklemek üzere derhal harekete geçmelerini tavsiye etmektedir'' denildi. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

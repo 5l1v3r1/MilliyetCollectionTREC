@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 402740 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/12/son/soneko41.html </URL>
+<DATE> 2005/12/12/ </DATE>
+<TIME> 16.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa günü 706 puanlık artışla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeksi, 2. seansta 13.58 puan azalarak 38,202.19 puandan kapandı. 
+     Hisse senetleri 2. seansta, ortalama yüzde 0.04 oranında değer kaybetti. 
+     İlk seanstaki 719.59 puanlık artış dikkate alındığında, Borsa endeksi günün tamamında 706.01 puan yükseldi. Hisse senetlerinin günlük ortalama değer artışı yüzde 1.88 oldu. 
+     Endeks 2. seansa, 8.99 puan azalarak 38,206.78 puandan başladı. Seansın ilk yarısını 38,123.82 puandan geçen endeks, seans içinde en düşük 38,033.35 puana kadar gerilerken, en yüksek olarak 38,283.48 puanı gördü. 
+     2. seans kapanışında, mali endeks 81.88 puan azalarak 59,447.76 puana geriledi, sanayi endeksi 23.15 puan artarak 29,678.08 puana yükseldi, hizmetler endeksi de 48.25 puan azalarak 18,187.69 puana geriledi. 
+     Böylece ilk seansa göre, mali grup hisseler ortalama yüzde 0.14 geriledi, sanayi grubu hisseler ortalama yüzde 0.08 yükseldi, hizmet grubu hisseler ise ortalama yüzde 0.26 oranında değer kaybetti. 
+     2. seansta işlem gören toplam 309 hisse senedinden 86'sı değer kazandı, 156'sı değer yitirdi, 67 hisse senedinin fiyatında değişiklik olmadı. 
+     2. seansta, 572 milyon 802 bin 540 YTL'lik işlem hacmi kaydedildi. Günlük işlem hacmi, 1 milyar 116 milyon 437 bin 571 YTL olarak hesaplandı. 
+     2. seansta Doğan Gazetecilik, Garanti Bankası, Koza Davetiye, Petkim ve Erbosan en çok işlem gören hisse senetleri oldu. 
+     
+</TEXT>
+</DOC>

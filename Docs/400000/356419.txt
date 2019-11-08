@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 356419 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/28/son/sonyas15.html </URL>
+<DATE> 2005/06/28/ </DATE>
+<TIME> 10.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+'Depresyon şalteri'ni indirmenin yolu bulundu 
+</HEADLINE>
+<TEXT>
+
+     BBC 
+
+Amerikalı bilim adamları, beyne elektrik akımlarının gönderilmesi yoluyla depresyon tedavisi konusunda yeni bir çığır açabileceklerine inanıyorlar. 
+     Kalp atışlarını düzenleyen cihazlar gibi çalışan aygıt, bir süredir Parkinson hastalarında da kullanılıyordu. 
+     Ancak ilk kez depresyon hastalığının tedavisi için adı geçiyor. 
+     Bu tekniğe 'derin beyin uyarımı' adı verilmiş. 
+     Uzmanlar önce beynin depresyonla ilgisi olduğu belirlenen bölgesinde, kafatasına iki delik açarak birer sonda yerleştiriyor. 
+     Ardından bunları göğüse yerleştirilen ve pille çalışan bir elektrik jeneratörüne bağlıyor. 
+     Cihaz, depresyon bölgesi düşünme ve motivasyon bölgesi arasındaki elektirk akımlarını "karıştırıyor". 
+     Yani beyinde depresyona yol açan sinyallerin önünü kesiyor. 
+     Sonuçta, depresyondan sorumlu bölge devredışı bırakılınca, depresyon nedeniyle faaliyet gösteremeyen bölgelerin yeniden "canlandığı" belirlenmiş. 
+     Amerika Birleşik Devletleri'ndeki araştırmacılar, bu aygıtı altı hastanın vücuduna yerleştirdi. 
+     Bir yıl sonra, hastalardan dördü, hiçbir yan etki olmaksızın, ruh hallerinde iyileşme kaydettiklerini söyledi. 
+     Uzmanlar, hala bu yaklaşımın erken aşamalarında olduklarını ve sadece belli durumlarda uygulanabileceğini söylerken, ilk sonuçlardan memnuniyetlerini de gizlemiyorlar. 
+     İngiliz bilim adamları da, ülkedeki beş il on bin depresyon hastasında sonuç elde edebileceklerine inanıyor. 
+     Uzmanların bir sonraki adımı ise bu yöntemin obsesif kompülsif davranış bozukluklarında işe yarayıp yaramadığını araştırmak olacak. 
+     
+</TEXT>
+</DOC>

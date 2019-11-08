@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 161101 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/05/ekonomi/eko01.html </URL>
+<DATE> 2003/06/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Reel faiz yüzde 10.97 
+</HEADLINE>
+<TEXT>
+
+Türk Lirası borçlanmada piyasaya yüzde 27.91 reel faiz veren Hazine, döviz cinsinden borçlanmaya eksi faiz verince, toplam iç borç stoğunun reel faizi yüzde 10.97'de kaldı 
+     EKONOMİ SERVİSİ 
+
+     Merkez Bankası'nın faiz indirim duyurusu ile aynı saatlerde bir açıklama yapan Hazine, iç borç stokunda reel faizin enflasyondan arındırılmış faiz oranı nisan sonu itibariyle yüzde 10.97 olduğunu açıkladı. 
+     Bilindiği gibi Merkez Bankası'na MB faiz indirimi konusunda yapılan tartışmalarda, indirime gidilmeyerek, 'bazı çevrelere' yüksek faiz geliri sağlandığı ileri sürülüyordu. Bu tartışmalara da açıklık getiren Hazine açıklamasına göre Türk Lirası cinsinden borçlanmada piyasaya yüzde 27.91 gibi reel faiz verilmesine karşın, dolar cinsinden borçalanmada reel faizlerin ekside seyretmesi sonucu toplam borç stokunda reel faiz oranı yüzde 10.97'de kaldı. 
+     Açıklamaya göre, 170.1 trilyon liralık toplam borç stoku içinde 86.4 katrilyonluk kısmı ifade eden kamu kesiminin TL borçlanmalardan elde ettiği reel faiz yüzde 15.17. Dolardaki düşüş nedeniyle döviz cinsi ya da dövize endeksli borçlanmalarda getiri eksi yüzde 10.48. Buna göre kamudan yapılan borçlanmadaki reel faiz ortalama yüzde 9.41 olarak hesaplandı. 
+     
+     Dövizde eksi faiz 
+     Toplam borç stokunda 83.6 katrilyonluk payı bulunan piyasanın Türk Lirası borçlanmalarından aldığı reel faiz yüzde 27.91. Ancak döviz cinsi ya da dövize endeksli borçlanmalardaki reel faiz eksi yüzde 14.59. Tartışmalar nedeni ile ortaya çıkan tereddütleri gidermek için bu açıklamanın yapıldığını belirten Hazine, hesaplama yönteminin piyasa yapıcısı bankalarla yürütülen çalışmalar sonucunda ortaya çıktığı ifade etti. 
+     Reel faiz, ihalelerde verilen faizden nominal faiz enflasyon nedeniyle eriyen kısmın indirgenmesiyle bulunuyor. Döviz cinsi ya da dövize endeksli ihaleler için kur farkı da hesaba katılıyor. 
+     
+Hazine yüzde 11 reel faizle borçlandı Borç stoku Nisan reel faiz Toplam iç borç stoku 10.97 Kamu 9.41 - TL 15,17 - D"viz cinsi endeksli -10.48 Piyasa 12.59 - TL 27,91 - D"viz cinsi endeksli -14.59      
+     Yıllık bileşik rel faiz 
+     
+
+</TEXT>
+</DOC>

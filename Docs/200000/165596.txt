@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> 165596 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/26/son/soneko16.html </URL>
+<DATE> 2003/06/26/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilişim devleri açıklandı... Türk Telekom ilk sırada... 
+</HEADLINE>
+<TEXT>
+
+     Türk bilişim sektörünün devleri açıklandı. 
+     İnterpro A.Ş. tarafından gerçekleştirilen Türkiye Bilişim Pazarı araştırmasına göre, 2002 yılı ilk 500 bilişim şirketi sıralamasında Türk Telekom 3.4 milyar dolarlık satış geliriyle birinciliğini korudu. 
+     Türk Telekom'u, 2 GSM şirketi izledi. Turkcell 2.1 milyar dolarlık satış geliriyle ikinci, bir basamak yükselen Telsim 590 milyon dolarlık satış geliriyle üçüncü sırada yer aldı. 
+     İlk 500 Bilişim Şirketi Araştırması'na dayanılarak hazırlanan çalışmaya göre, Türkiye Bilişim Pazarı geçen yıl, 2001 yılına göre yüzde 11.7 büyüyerek 10.2 milyar dolara ulaştı. 
+     Yüzde 17.4 büyüyen bilgi teknolojileri pazarı 2.6 milyar dolar, yüzde 9.8 büyüyen iletişim teknolojileri pazarı ise 7.6 milyar dolar olarak gerçekleşti. 
+     Mobil yazılım pazarı yüzde 29.3 oranında büyüdü. Çalışmada, bu yıl daha hızlı büyümenin gerçekleşeceği öngörülen mobil yazılım pazarında, mobil telefon operatörlerinin vereceği katma değerli hizmetlerin ve mobil pazarlamaya yönelik yapılan yazılımların bu grup gelirlerini daha da büyüteceği kaydedildi. 
+     
+     HOLDİNG DESTEKLİ SERVİS SAĞLAYICILAR 
+     Hizmet gelirleri içerisinde yer alan çağrı merkezi hizmetleri de yüzde 107.9 oranında büyüme gösterdi. 
+     Kriz dönemlerinde hızla büyüyen hizmet pazarının ise, 2002 yılında donanım ve yazılım satışlarının artmasıyla birlikte yüzde 5.6 daraldığı sonucuna varıldı. Çalışmada, şu değerlendirmeler yer aldı 
+     ''Internet erişim hizmetleri önemli gelir kaynağı olmaktan çıktı. Hizmet pazarında önemli bir yeri olan internet ve online hizmetler kategorisinde gelirler, yüzde 16.6 oranında daralma gösterdi. Servis sağlayıcıların arasında gerçekleşen şirket satın almaları sonrasında, pazarda holding destekli servis sağlayıcılar önemli oyuncular haline geldi.'' Mobil telefon pazarının, 2002'de yüzde 38.6 büyüme gösterdiğine işaret edilen çalışmada, kullanıcılara yönelik katma değerli hizmetlerin artması, multimedya mesaj, fotoğraf çekebilme gibi mobil telefonlara eklenen yeni teknolojik özelliklerin, satış gelirlerinin artmasında önemli etken olduğu vurgulandı. 
+     Satış gelirlerine göre ilk 10 bilişim şirketi şöyle 
+     
+     
+ŞİRKET BİN TL BİN USD 01 - Türk Telekom 5,168,904,687,789 3,420,850 02 - Turkcell 3,173,081,804,000 2,099,988 03 - Telsim 1 891,490,000,000 590,000 04 - Ericsson 486,871,635,227 322,218 05 - K.V.K Mobil Telefon 2 479,668,747,910 317,451 06 - Netcell 338,662,935,000 224,132 07 - Hewlett-Packard 306,388,000,000 202,772 08 - IBM Türk 305,785,110,414 202,373 09 - Genpa Telekomünikasyon 303,952,903,000 201,160 10 - Index Bilgisayar 285,366,562,603 188,859 
+     1 Interpro Pazarlama ve Araştırma Merkezi tahminidir. 
+     2 K.V.K. Mobil telefon 2002 yılı sonunda kapandı. Şirket K.V.K. Teknoloji Ürünleri adı altında faaliyet gösteriyor. 
+     
+     BİLGİ VE İLETİŞİM TEKNOLOJİLERİ 
+     Bilgi teknolojilerinde Hewlett-Packard, IBM Türk ve Ericsson, iletişim teknolojilerinde Türk Telekom, Turkcell ve Telsim ilk 3 sırayı alan şirketler oldular. 
+     Bilgi teknolojileri toptancı dağıtıcı şirketi kategorisinde İndex, Arena ve Koyuncu Elektronik, iletişim teknolojileri toptancı dağıtıcı şirketi kategorisinde K.V.K, Netcell ve Genpa Telekomünikasyon ön sıraları aldılar. 
+     Araştırmada, en hızlı yükselen şirket A.S.R Elektronik, ''Anadolu'nun Yıldızı'' Corning Kablo ve Sistemleri olarak belirlendi. 
+     Bilgisayar donanımı birincisi Hewlett-Packard, ofis donanımı birincisi Xerox, veri iletişim donanımı birincisi Cisco Systems, OT VT donanımı birincisi Planet, sistem ve uygulama yazılımları birincisi Microsoft, veri yönetim yazılımı birincisi Oracle, internet yazılımı birincisi Gantek, mobil yazılımı birincisi Oksijen Teknoloji, hizmet birincisi Ericsson, internet hizmetleri birincisi Superonline, telekom donanımı birincisi Ericsson, taşıyıcı hizmetler birincisi Türk Telekom ve tüketim malzemeleri birincisi Hewlett-Packard olarak açıklandı. 
+     
+</TEXT>
+</DOC>

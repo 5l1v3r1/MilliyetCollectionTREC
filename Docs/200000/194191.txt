@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 194191 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/08/son/sondun02.html </URL>
+<DATE> 2003/11/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Satrançta, Kasparov, yeni bir programa karşı oynayacak 
+</HEADLINE>
+<TEXT>
+
+     İnsan-makine arasındaki beyin rekabeti sanal gerçeklik ortamına taşınıyor. 
+     Eski dünya satranç şampiyonu ve halen dünyanın en yüksek kuvvet dereceli satrançcısı Garry Kasparov, X3D Fritz adlı en son geliştirilmiş bilgiyasar programıyla sanal gerçeklik ortamında karşı karşıya geliyor. Kasparov'un özel 3 boyutlu gözlük takacağı ve sanal tahtayı çevirmek için oyun çubuğu kullanacağı maçta, satranç taşları sesle hareket ettirilecek. 
+     Merkezi ABD'nin New York kentindeki Manhattan bölgesinde bulunan X3D Teknologies Corp. şirketinin maddi katkılarıyla yapılacak maçta, halen 40 yaşında olgun bir şampiyon olarak adlandırılan Kasparov kaybetmesi halinde bile 150 bin dolar para ödülü kazanacak. Kazanması halinde 200 bin dolar alacak olan Kasparov, maçın berabere bitmesi durumunda ise 175 bin doların sahibi olacak. Kasparov, ABD'nin New York kentinde 11, 13, 16 ve 18 Kasım tarihlerinde yapılacak maç öncesi basına yaptığı değerlendirmede, ''Makinenin bir avantajı var. Makina kazanıyor mu kaybediyor mu onun farkında bile değil'' diye konuştu. Uzmanlar, makinenin maç sırasında hemen hiçbir şeyden etkilenmemesine karşın bir insanın kişisel heyecanları ve hava durumu gibi şeylerden bile etkilenebildiğine dikkati çekiyor. 
+     Bilgisayarla oynamanın satranç beynini formda tuttuğuna işaret eden Kasparov, ''Makineyla oynamak daha fazla enerji ve bir insanla oynarken gerekli olmayan bir mükemmeliyete sahip olmayı zorunlu kılması dolayısıyla daha fazla dayanıklılık gerektiriyor. Oyun sırasında 2 veya 4 saat içinde beynimin bu duruma isyan ediyor olması mümkün'' dedi. 
+     Dünyada tüm zamanların en iyi satrançcısı olarak görülen Kasparov, 1985-2000 yılları arasında dünya sampiyonluğu unvanının sahibi olmasının yanı sıra turnuvalarda elde ettiği derecelerle de rakipsizdi. 2000 yılında yaptığı maçı kaybederek dünya şampiyonluğu unvanını vatandaşı Vladimir Kramnik'e kaptıran Kasparov, bu maçtan sonra yapılan 10 büyük uluslararası turnuvada birinciliği kimseye kaptırmayarak halen dünyanın tartışmasız en güçlü satrançcısı olduğunu herkese gösterdi. 
+     Daha önce de bilgisayarlar karşı yaptığı maçlarla tanınan Kasparov, 1996 yılında IBM bilgisayarı Deep Blue'ya karşı kazanmasının ardından ertesi yıl söz konusu makinenin yeni sürümüne yenilmekten kurtulamamıştı. 2003 yılında İsrail satranç programı Deep Junior ile yaptığı maçta berabere kalan Kasparov, bu sefer daha iyi bir derece almak arzusunda olduğunu ifade etti. 
+     Satranç meraklılarının söz konusu maçı X3D Technologies http www.X3D.com ve USCF http www.uschess.org adreslerinden canlı olarak izleyebilecekleri bildirildi. 
+     
+</TEXT>
+</DOC>

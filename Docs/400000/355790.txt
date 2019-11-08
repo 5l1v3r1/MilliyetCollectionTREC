@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 355790 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/27/son/sondun03.html </URL>
+<DATE> 2005/06/27/ </DATE>
+<TIME> 03.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD'de 4.8 büyüklüğünde deprem... 
+</HEADLINE>
+<TEXT>
+
+     ABD’nin Kaliforniya Eyaletinde, Richter ölçeğine göre 4.8 büyüklüğünde deprem meydana geldiği bildirildi. 
+     ABD Jeolojik Araştırma kurumundan yapılan açıklamada, depremin merkez üssünün, Truckee kentinin 12 kilometre doğusu olduğu belirtildi. 
+     Polis yetkililer,i deprem nedeniyle hasar veya yaralanmalar meydana geldiğine ilişkin henüz kendilerine bir bilginin ulaşmadığını kaydettiler. 
+     ABD’nin Kaliforniya Eyaleti, yıllar süren sakinliğin ardından bu ay içinde bir dizi önemli depreme sahne oldu. 
+     
+</TEXT>
+</DOC>

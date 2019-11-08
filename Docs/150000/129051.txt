@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 129051 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/01/06/son/sondun13.html </URL>
+<DATE> 2003/01/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İngiltere'de Chat odaları için zorunlu uyarı mesajları 
+</HEADLINE>
+<TEXT>
+
+     İngiltere'de internet servisi veren firmaların, chat odaları için yeni bir güvenlik sistemine geçmek ve bu odaların kullanıcılarına sürekli uyarı mesajları yayınlamak zorunda olacakları belirtildi. 
+     The Guardian gazetesinin konuyla ilgili haberine göre, İçişleri Bakanlığı tarafından hazırlanan yeni düzenlemeler, internet ortamında çocuk ve gençlere yönelik olarak ortaya çıkan tehdit ve tehlikeleri önlemeyi amaçlıyor. 
+     İçişleri Bakanlığı, internet servisi veren firmalardan, özellikle chat odaları kullanıcılarının kimliklerini ortaya koymalarına neden olan ve diğer kullanıcılar tarafından da görülebilen bütün uygulamalarına son vermelerini istiyor. Bunun yanı sıra bu odalarda yayınlanacak uyarı mesajlarıyla çocuk ve gençlere, karşılarındaki kişiye yaşları, isimleri, adresleri ve e-mail adresleri gibi kişisel ayrıntılarını vermemeleri uyarısı da yapılacak. 
+     Bu arada, bir reklam kampanyasıyla ebeveynlerin de internet kullanımını öğrenmeleri özendirilecek. İçişleri Bakanlığı, anne-babanın internet kullanımını öğrenmesiyle çocuğuna doğru yolu göstermesi ve onu internetteki tehlikelerden korumasının mümkün olacağını düşünüyor. 
+     İçişleri Bakan Yardımcısı Hilary Benn, konuyla ilgili açıklamasında, anne-babalara çocuklarını korumak noktasında büyük görev düştüğünü belirtirken, ''Onları karşılarındaki kişinin söylediği kimliği taşımıyor olabileceği yolunda uyarın. Kendilerine ait bilgileri bu yabancılara vermemelerini sağlayın, bundan emin olun ve en önemlisi internet ortamında tanıştıkları kişilerle buluşmaya kalkışmadıklarından emin olun. Çocuk ille de böyle bir tanışma istiyorsa, bunu mutlaka birlikte gerçekleştirin'' dedi. 
+     İngiltere'de geçen yıl bazı üniversiteler tarafından yapılan araştırmalarda, 9-16 yaşları arasındaki her beş çocuk ve gençten birinin chat odalarına girdiği, bunlardan 10'da birinin chat odalarında tanıştıkları kişilerle buluştukları, bunların da yüzde 75'nin buluşmaya yalnız gittikleri ortaya konulmuştu. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

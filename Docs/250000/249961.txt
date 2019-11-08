@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 249961 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/22/son/soneko35.html </URL>
+<DATE> 2004/06/22/ </DATE>
+<TIME> 16.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası dalgalı açıldı... 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacmi bakımından dünyanın en büyük borsası konumunda olan New York'ta endeksler dalgalı açıldı. 
+     Açılıştan kısa bir süre sonda Dow Jones Endeksi 14.82 puan azalarak 10,356.65 puana inerken, teknoloji endeksi Nasdaq 1.30 puan artarak 1,129.72 puana çıktı. 
+     Endekslerde görülen dalgalanmaya neden olarak, ABD Merkez Bankası'nın olası bir faiz artırımına gideceği yolundaki endişeler ve Irak'ta yaşanan gelişmeler ile borsada işlem gören şirketler hakkında olumlu haberler gösterildi. 
+     
+</TEXT>
+</DOC>

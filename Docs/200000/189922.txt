@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 189922 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/20/son/soneko53.html </URL>
+<DATE> 2003/10/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Para piyasalarında bugün... 
+</HEADLINE>
+<TEXT>
+
+     Borsa'da işlem gören hisse senetleri, haftanın ilk işlem gününde ortalama yüzde 0.15 değer kaybetti. 
+     İMKB Ulusal 100 endeksi, 1. seansta 60.05 puan kayıpla 15,321.88 puandan kapandı. Endeks, 2. seansta ise 36.77 puanlık artışla günü 15,358.65 puandan tamamladı. 
+     Endeksin günlük bazdaki kaybı ise 23.28 puan ve yüzde 0.15 olarak hesaplandı. 
+     Hisse senetleri piyasasında günlük bazda 591 trilyon 889 milyar 904 milyon liralık işlem hacmi gerçekleşti. 
+     
+     DOLAR MERKEZ BANKASI KURLARINDA YÜKSELDİ 
+     Dolar, Merkez Bankası'nın açıkladığı kurlarda Cuma gününe göre yükseldi. 
+     Merkez Bankası, doların bugünkü efektif kurunu alışta 1 milyon 450 bin 925 lira, satışta ise 1 milyon 461 bin 132 lira olarak açıkladı. 
+     Böylece dolar, Merkez Bankası'nın Cuma günü açıkladığı kurlara göre, alışta 20 bin 304 lira, satışta ise 20 bin 446 lira yükseldi. 
+     Kapalıçarşı'da Cuma günü 1 milyon 455 bin liradan kapanan dolar, güne 1 milyon 448 bin liradan, 1 milyon 684 bin liradan kapanan Euro da 1 milyon 681 bin liradan başladı. 
+     Serbest piyasada 1 milyon 470 bin lira seviyesine kadar yükselen dolar, piyasa kapanışında 1 milyon 444 bin liraya geriledi. Kapanışta Euro'nun satış fiyatı ise 1 milyon 680 bin lira oldu. 
+     
+     TAHVİL VE BONO PİYASASI 
+     İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda işlem gören 18 Ağustos 2004 vadeli bugün valörlü tahvilin bileşik getirisi 0. puan yükseldi. 
+     Bu kağıdın aynı gün valörlü işlemlerinin basit getirisi yüzde 29.57, bileşik getirisi yüzde 30.27 oldu. Cuma günü, bu kağıdın aynı gün valörlü işlemlerinde basit getiri yüzde 29.10'dan, bileşik getiri yüzde 29.74'den kapanmıştı. 
+     İMKB Tahvil ve Bono Piyasası Repo Pazarı'nda gecelik faiz de ortalama yüzde 25.99 olarak belirlendi. 
+     
+     HAZİNE İHALESİ 
+     Hazine'nin bugünkü 91 gün vadeli Türk Lirası cinsinden iskontolu referans bono ihalesinde, basit faiz yüzde 23.8, bileşik faiz yüzde 26.01 olarak gerçekleşti. 
+     Hazine, yarın da 3 ayda bir değişken faiz ödemeli 2 yıl vadeli Türk Lirası tahvil ve 6 ayda bir yüzde 2.5 kupon ödemeli ABD Doları cinsinden tahvil ihalesi düzenleyecek. 
+     
+</TEXT>
+</DOC>

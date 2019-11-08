@@ -1,0 +1,65 @@
+<DOC>
+<DOCNO> 139093 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/02/26/yasam/yas01.html </URL>
+<DATE> 2003/02/26/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yaya yastıklı’ araçlar geliyor 
+</HEADLINE>
+<TEXT>
+
+Yüksek teknolojinin kullanıldığı yaya yastıklı araçlarda, çarpışma anında ön camın altına ve tamponlara yerleştirilen yastıklar şişerek güvenliği sağlıyor 
+     DIŞ HABERLER SERVİSİ 
+
+     1997’DEN beri yeni otomobilleri hem yolcu hem yaya güvenliği açısından değerlendiren Avrupa Yeni Araba Değerlendirme Programı Euro NCAP , yaya güvenliği konusunda hemen tüm arabalara zayıf notlar verince, üreticiler yaptıkları araştırmalarla bu konunun üstüne gitmeye karar verdiler. 
+     
+     Riski radar hesaplıyor 
+     EN çok ilgi çeken yeniliklerin başında "yaya yastıkları" geliyor. Aralarında Honda grubu ve İngiliz TRL enstitüsünün de bulunduğu birçok kurumun üzerinde çalıştığı yastıklarda, gelişmiş bir teknoloji kullanılıyor. Öncelikle bir nesneye çarpma riskini, arabanın içindeki radar hesaplıyor. 
+     
+     Kızılötesi sensörler 
+     KIZILÖTESİ sensörler ise bilgisayar yardımıyla çarpılacak nesnenin insan olup olmadığını belirliyor. Tamponlara ve ön camın altına yerleştirilen yastıklar, çarpışma gerçekleşmeden hemen önce şişerek yayanın güvenliğini sağlıyor. Otomobilin diğer parçaları da yaya güvenliği için optimize ediliyor. 
+     
+     Her şey yaya güvenliği adına... 
+     Hava yastıkları Tampon ve ön camın altında bulunan hava yastıkları çarpışmadan hemen önce şişerek darbenin şiddetini azaltıyor. 
+     Motor Motorun üstünde bırakılan boşluk, kaportanın içeri doğru esneyerek çarpışma kuvvetinin emilmesine olanak veriyor. 
+     Radar Objelerin uzaklığını ve pozisyonunu belirleyerek, bilgisayar sisteminin yardımı ile çarpışmanın gerçekleşip gerçekleşmeyeceğini belirliyor. 
+     Kızılötesi ışık Aracın önündeki objenin şeklini inceliyor. Bilgisayar belirlenen şeklin insan olup olmadığını anlıyor. 
+     Farlar Yumuşak plastik içine yuvalanan farlar, kırıldıklarında dışarıya zarar vermeden, arabanın içine dağılıyor. 
+     Tampon Yumuşak maddelerden yuvarlak hatlarla üretiliyor ve alçak bir konuma yerleştiriliyor. Böylece kazazedenin bacakları daha az zarar görüyor. 
+     Hava yastıklarına alternatif yükselen kaporta sisteminde de tampondaki sensörler, çarpışmayı algılıyor, kaportanın yükselmesi için uyarıda bulunuyor. 
+     Silecekler Kazazedeyi yaralamaması için ya kaportanın içinde saklanacak ya da kolayca kopacak. 
+     
+
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 199505 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/03/son/sondun43.html </URL>
+<DATE> 2003/12/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft Bilgisayar korsanları arayı açıyor 
+</HEADLINE>
+<TEXT>
+
+     Microsoft firması, güvenlik güçleriyle bilgisayar virüsü yazanlar arasındaki ''savaşı'' korsanların kazanmakta olduğunu açıkladı. 
+     Microsoft'un Avrupa'daki yöneticilerinden David Finn, bugün yaptığı açıklamada, virüs üreticisi korsanların küresel ekonomiye bu yıl içerisinde 13 milyar dolar zarar verdiklerini belirtti. 
+     Finn, ''Güvenlik güçleriyle arayı giderek açıyorlar. Mücadelede açık arayla öndeler. çok az kişi tespit edilebiliyor veya yakalanabiliyor'' dedi. 
+     Finn, birçok ülkede, sahte yazılım kopyalamaya karşı güvenlik güçlerinin yeterince mücadele etmediğini ve bu alanda yol açılan telif hakkı zararlarının da milyarlarca dolar olduğunu kaydetti. 
+     
+</TEXT>
+</DOC>

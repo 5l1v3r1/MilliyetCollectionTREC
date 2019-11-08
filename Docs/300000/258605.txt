@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 258605 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/27/son/sonyas05.html </URL>
+<DATE> 2004/07/27/ </DATE>
+<TIME> 11.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+11 yaşındaki çocuklar internette kumar oynayabiliyor 
+</HEADLINE>
+<TEXT>
+
+     İngiltere'de 11 yaşındaki çocukların internette kumar oynanan siteleri ziyaret edebildiği ortaya çıktı. 
+     Yapılan araştırmalara göre, kumar oynanan internet sitelerinin girişinde yeterli kimlik kontrolü yapılmadığı için 11 yaşındaki çocuklar bile bu sitelerde kumar oynayabiliyor. 
+     Çocukları zararlı alışkanlıklardan korumak için kurulan NCH vakfının bu konuda yaptığı araştırmanın polis yetkililerine verildiği belirtildi. 
+     Araştırma sırasında vakıf çalışanlarının, 11 yaşındaki çocukların kimlikleriyle kumar oynanan sitelere girmeyi denediği ve bunlardan bazılarında başarılı olduğu kaydedildi. 
+     Vakıf, polisten kumar oynanan sitelerin özel bir yazılım kullanmalarının ve bu sayede etkin yaş kontrolü yapmalarının sağlanmasını istiyor. 
+     Bu arada, İçişleri Bakanlığı'nda kumar sektörüyle ilgili çalışmalarda bulunan bakan yardımcısı Andrew McIntosh, bulguların endişe verici olduğunu belirterek, hükümetin mutlaka etkin önlemler alacağı vaadinde bulundu. 
+     
+</TEXT>
+</DOC>

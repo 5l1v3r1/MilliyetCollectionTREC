@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 153956 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/02/son/sondun05.html </URL>
+<DATE> 2003/05/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Depremi 4-6 saniye önceden haber verecek yöntem geliştirildi 
+</HEADLINE>
+<TEXT>
+
+     Güney California deprem kuşağıyla ilgili çalışmalar yapan bilimadamları, zayıf titreşimlerin yorumlanması suretiyle büyük depremleri 4-16 saniye önceden haber verebilecek bir yöntem geliştirdiler. 
+     Bu sayede, örneğin okul öğrencilerinin sıraların altına sığınmalarının sağlanabileceği ya da şehir gazı kesilerek yangınların önlenmesinin mümkün olacağı bildiriliyor. Bilimadamlarının buluşlarının ''Science'' Bilim dergisinin bugünkü sayısında yayınlanacağı belirtildi. 
+     Sistemin, depreme yol açan enerjinin yerkürenin derinliklerinden yüzeye doğru hareket edişinin yorumlanması ilkesine dayandığı kaydedildi. 
+     Uzmanlar bu konuda şu açıklamayı yaptılar ''büyük bir deprem olacağının ilk belirtisi, hızlı hareket eden ancak düşük enerjili bir darbe olmaktadır. Buna 'P dalgası' adı verilir. Bunu, enerji açısından çok daha yüklü, fakat daha yavaş hareket eden S dalgası izler. 'S dalgası', P'ye oranla çok daha şiddetli bir sarsıntı yaratır.'' Wisconsin Üniversitesi profesörlerinden Richard Allen ve California Teknoloji Enstitüsü öğretim üyelerinden Hiro Kanamuri, 'P dalgasını' ölçerek, büyük depremin yeri, kaynağı, zamanı ve şiddetini 4 saniye önceden saptamayı başardılar. Allen, ''P dalgasını farkedebilirsek, asıl deprem yüzeye ulaşmadan uyarıda bulunabiliriz'' diye konuştu. 
+     Uzmanlar ''P ve S dalgalarının, depremin merkez üssünde, hemen hemen ard arda yüzeye çıktığını, dolayısıyla uyarı için zaman kalmayacağına'' dikkat çekiyorlar. Buna karşılık merkez üssünden uzaklaşıldıkça uyarı süresi 16 saniyeye kadar uzayabiliyor. 
+     
+
+
+
+
+</TEXT>
+</DOC>

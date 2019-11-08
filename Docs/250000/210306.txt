@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 210306 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/22/yasam/yas10.html </URL>
+<DATE> 2004/01/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yalanı bir bakışta anlayan gözlük 
+</HEADLINE>
+<TEXT>
+
+   DIŞ HABERLER SERVİSİ 
+   
+   ABD'de V Entertainment şirketi, İsrailli matematikçi Amir Lieberman'ın geliştirdiği bir teknolojiyi kullanarak, güvenlik görevlilerinin gözlüklerine 'mini yalan dedektörleri' yerleştiriyor. Gözlüklere konulan sistem, karşıdaki kişinin sorulara verdiği yanıt doğru olduğu takdirde "yeşil", kuşkulu olması halinde "sarı", yalan söylendiğinde de "kırmızı" renklerle değerlendiriyor. Sistem, 8 binden fazla algoritma kullanarak yanıt veren kişinin sesinin dalga biçimini analiz ederek sonuca varıyor. Şirket yetkilileri, laboratuvar testlerinde sistemin doğruluk oranının yüzde 70 olduğunu söylüyor. 
+   
+   
+   
+</TEXT>
+</DOC>

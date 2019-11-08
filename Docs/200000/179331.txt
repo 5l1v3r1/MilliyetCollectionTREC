@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 179331 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/31/son/soneko01.html </URL>
+<DATE> 2003/08/31/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dış ticaret, e-ticaret ile artacak... 
+</HEADLINE>
+<TEXT>
+
+     Dış Ticaret Müsteşarı Tuncer Kayalar, ticaretin artırılmasında ''e-ticaret''in büyük önem taşıdığını belirterek, Dış Ticaret Müsteşarlığı'nda konuyla ilgili halen 8 projenin devam ettiğini bildirdi. 
+     Konuyla ilgili yapılan çalışmalar konusunda bilgi veren Kayalar, Ekonomik Araştırmalar Genel Müdürlüğü tarafından planlanan, ''BİM Altyapısının Yeniden Yapılandırılması'', ''Dış Ticaret Bilgi Sistemi'', ''Dahilde İşleme İzin Belgelerinin Takibi'', ''Pazara Giriş'', ''e-ticaret'', ''e-birlik'', ''e-belge'' ve ''Türk Cumhuriyetleri Bilgi Teknolojileri'' projeleri ile dış ticaretin çok kolaylaşacağını söyledi. 
+     Müsteşarlık olarak öncelikle Bilgi İşlem Merkezi BİM altyapısının yeniden yapılandırdıklarını belirten Kayalar, proje kapsamında 1965'ten bugüne kadar oluşturulan bütün dış ticaret istatistiklerinin elektronik ortama aktarıldığını söyledi. Kayalar, bu bilgilerin şu anda DTM ve bağlı kuruluşları ile Eximbank tarafından kullanıldığını kaydetti. 
+     Bir diğer projenin de ''Dış Ticaret Bilgi Sistemi'' olduğunu anlatan Kayalar, bu projeyle de elde edilen istatistiki verilere göre yapılan analizler sonucunda, ithalat ve ihracatın gelişiminin izlenerek, bilgiye ulaşmanın hızlandığını ifade etti. 
+     
+     DAHİLDE İŞLEME İZİN BELGELERİNİN TAKİBİ PROJESİ 
+     DTM olarak ''Dahilde İşleme İzin Belgelerinin Takibi Projesi''ne büyük önem verdiklerini belirten Kayalar, bu projele ile Dahilde İşleme Rejimi kapsamında firmalara verilen başvuruların alınmasından başlayarak, geçen süreçteki tüm işlemlerin bilgisayar ortamında yapılmasının hedeflendiğini bildirdi. Kayalar, projeyle ilgili şunları söyledi 
+     ''Geliştirilme aşamasında olan bu projesinin tamamlanması ile firmalar tarafından internet üzerinden yapılan başvuruların güvenli bir şekilde alınması, sayısal sertifika, elektronik imza gibi teknolojilerin kullanımına uygun olması , uzmanların elektronik ortamda belgeleri değerlendirmesi, belge ile ilgili tüm bilgilerin merkezi bir veri tabanında arşivleme mantığı ile saklanmasına imkan sağlanması ve belge ile ilgili tüm hareketlerin izlenmesi mümkün olabilecektir. Bu proje ile rejime göre çeşitli işlemler için yetkili kılınan DTM ve İhracatçı birlikleri on-line olarak kullanabilecek ve gümrük otomasyonu ile entegrasyon sağlanacaktır.'' Başta KOBİ'ler olmak üzere ihracatçıların ihracat pazarlarına giriş konusunda kapsamlı bilgilendirilmesi amacıyla ''Pazara Giriş Projesi''nin uygulanmaya başlayacağını da kaydeden Kayalar, proje ile yurtdışı teşkilatlardan alınan bilgiler, ülkelerin açıkladığı raporlar ve pazara giriş imkanlarının sürekli güncel tutulacağını söyledi. 
+     
+     ''e-ticaret'' ÇALIŞMALARI 
+     İçinde bulunduğumuz yüzyılda ticaretin ve kamu hizmetlerinin elektronik ortamda yürütülmesinin temel amaç olarak görüldüğünü ifade eden Kayalar, bu amaçla DTM'nin yürüttüğünü e-ticaret, e-iş çalışmalarının, bilgi toplumunun oluşturulması amacına yönelik olduğunu kaydetti. 
+     Kayalar, ''e-birlik Projesi'' ile de DTM, Gümrük Müsteşarlığı ve İhracatçı Birlikleri arası işlemlerin bilgisayar ve ağ ortamına alınmasının amaçlandığını bildirdi. 
+     Kayalar, ''Bu proje sayesinde ihracatçılara, gümrük beyannamesini doldurma, elektronik onay alma işlemlerini ofislerinden gerçekleştirme imkanı sunulmuştur'' diye konuştu. 
+     ''e-belge Projesi'' ile gümrük beyan bilgilerinin gümrüklere gönderilebildiğini belirten Kayalar, ''Türk Cumhuriyetleri Bilgi Çalışma Grubu'' ile de Azerbaycan, Kazakistan, Kırgızistan, Özbekistan ve Türkmenistan ile ülkemiz arasında özellikle yazılım ihracatı, elektronik ticaret, karşılıklı yazım üretme kapasitesini yükseltme gibi konularda işbirliği yapma olanağı olduğunu söyledi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 98904 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/07/30/son/soneko35.html </URL>
+<DATE> 2002/07/30/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones düşüşle açıldı... 
+</HEADLINE>
+<TEXT>
+
+     New York Menkul Kıymetler Borsası Wall Street, bugün düşüşle açıldı. 
+     Dow Jones endeksi, ilk işlem saatinde, ortalama 62.17 puanlık değer kaybıyla, 8,649.71 puana geriledi. 
+     Teknoloji hisselerinin işlem gördüğü Nasdaq Bileşik endeksi ise 16.98 puanlık düşüşle, 1,318.27 puana indi. 
+     Borsanın gerilemesinde, teknoloji hisselerinin değer kaybetmesi belirleyici oldu. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

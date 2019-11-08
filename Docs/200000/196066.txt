@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 196066 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/17/son/sondun09.html </URL>
+<DATE> 2003/11/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bravo Kasparov... Bilgisayarı yenip beraberliği sağladı 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın 1 numaralı satranç oyuncusu Garry Kasparov, ''X3D Fritz'' bilgisayar programı ile yaptığı üçüncü maçı kazandı. 
+     İddiasını sürdürebilmek için 4 maç üzerinden oynanan oyunun üçüncüsünü kazanmak zorunda olan Kasparov, bilgisayarı yenerek durumu 1-1 2 - 1-1 2'ye getirdi. 
+     Kasparov, 16. hamlesinde kazanma noktasına getirdiği maçta bilgisayarı, 4 saatten fazla süren çekişmenin ardından, programcıların pes etmesiyle 45. turda yendi. 
+     Kasparov, ilk maçta yenişemediği bilgisayara ikinci maçta yenilmişti. Taraflar, beraberlik için yarım puan, galibiyet için 1 tam puan alıyor. 
+     
+</TEXT>
+</DOC>

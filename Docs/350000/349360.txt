@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 349360 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/06/son/soneko37.html </URL>
+<DATE> 2005/06/06/ </DATE>
+<TIME> 17.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Serbest piyasada avro 1.3670 YTL.. 
+</HEADLINE>
+<TEXT>
+
+     İstanbul ve Ankara serbest piyasalarında alınıp satılan döviz türlerinin, Cuma günü ve bugün itibariyle alış ve satış kapanış fiyatları şöyle 
+     
+
+İSTANBUL SERBEST PİYASA Cuma Alış Cuma Satış Pazartesi Alış Pazartesi Satış ABD Doları 1.3550 1.3590 1.3640 1.3670 Avro 1.6660 1.6700 1.6750 1.6780 İng. Sterlini 2.4570 2.4770 2.4570 2.5000 İsviçre Frangı 1.0780 1.0900 1.0820 1.0990      
+
+ANKARA SERBEST PİYASA Cuma Alış Cuma Satış Pazartesi Alış Pazartesi Satış ABD Doları 1.3550 1.3650 1.3600 1.3700 Avro 1.6640 1.6770 1.6690 1.6820 İng. Sterlini 2.4530 2.4900 2.4620 2.4950      
+</TEXT>
+</DOC>

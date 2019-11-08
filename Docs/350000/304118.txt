@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 304118 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/06/son/sontur05.html </URL>
+<DATE> 2005/01/06/ </DATE>
+<TIME> 02.23 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Uzaktan kumandalı sistemle kaçak elektrik 
+</HEADLINE>
+<TEXT>
+
+     Barış DURAK DHA 
+
+ŞANLIURFA'da Türkiye Elektrik Dağıtım A.Ş. TEDAŞ ekipleri yaptıkları kaçak kontrollerinde, sulama alanlarında elektrik sayacını durduran uzaktan kumandalı bir sistem ele geçirdi. Akıllara durgunluk veren sistem otomobillerin kapılarını açıp kapamak için takılan uzaktan kumanda kitiyle elektrik sayacının dönmesi engelleniyor. 
+     Şanlıurfa'da evlerin yanı sıra sulama alanlarında da ilginç yöntemlerle kaçak elektrik kullanıldığı ortaya çıktı. TEDAŞ Müessese Müdürlüğü kaçak elektrik kullanımının önüne geçmek Ceylanpınar ve Suruç ilçelerini pilot bölge seçerek 82 kişilik ekibiyle denetimlerini sıklaştırdı. Ekipler Ceylanpınar İlçesi'ndeki sulama alanlarında yaptıkları kontrollerde trafonun içine yerleştirilen bir mekanizma ile kaçak elektrik kullanıldığı tespit etti. Trafoya yerleştirilen mekanizmada otomobillerin kapılarını açıp kapamada kullanılan merkezi oto kilit sistemi kullanılıyor. Tarlasını kaçak elektrikle sulamak isteyen kişi uzaktan kumandayla trafodaki bu sistemi çalıştırıyor. Tarla sulanırken elektrik sayacı dönmüyor. Sulama bitince sistem kapatılıyor. Kontrollerde elektrik sayacı normal gözüküyor. 
+     TEDAŞ ekipleri uzaktan kumandalı sistemin 150 milyon liraya mal edildiğini, açık arazide 1 kilomerte uzaklıktan bile kontrol edilebilen sistemin bölgede bir çok köyde de olabileceğini belirtti. TEDAŞ yetkilileri bu mekanizmanın elektrik mühendisi tarafından birkaç ay üstünde çalışılarak yapılmış olabileceğini söyledi. 
+     Şanlıurfa TEDAŞ Müessese Müdürü Hasan Kaşıkçı, kaçak elektirik kullanımının illerinde yüzde 61 olduğunu söyleyerek, "Yapılan sıkı denetimlerle Şanlıurfa şehir merkezinde kaçak elektrik kullanımını yüzde 80 azalttık. Kaçak elektrik kullanımının daha çok köylerdeki evler ile sulama alanlarında yoğunlukta. 2004 yılında kaçak elektrik kullanımından 200 trilyon zarar ettik. Vatandaşlarımızdan kaçak elektrik kullananları bizlere ihbar telefonlarımızdan bildirmelerini istiyoruz'' dedi. 
+     
+</TEXT>
+</DOC>

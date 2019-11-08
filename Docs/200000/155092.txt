@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 155092 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/07/son/soneko21.html </URL>
+<DATE> 2003/05/07/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansta 233 puan azaldı... 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası İMKB Ulusal-100 Endeksi, 1. seansı, 232.87 puan kayıpla 10,730.07 puandan tamamladı. 
+     Hisse senetlerinin ortalama değer kaybı yüzde 2.12 olarak gerçekleşti. 
+     Endeks, 1. seansa 26.48 puan azalışla 10,936.46 puan seviyesinde başladı. Seansın ilk yarısını 201.63 puan kayıpla 10,761.31 puandan geçen endeks, seans içinde en düşük 10,715.87, en yüksek 10,956.85 puanı gördü. 
+     Seans kapanışında mali endeks 283.38 puan kayıpla 12,547.48 puana, sınai endeksi 214.91 puan kayıpla 11,275.96 puana, hizmetler endeksi ise 110.03 puan kayıpla 7,013.53 puana geriledi. 
+     Böylece, önceki kapanışa göre mali grup hisseler ortalama yüzde 2.21, sanayi grubu hisseler ortalama yüzde 1.87, hizmetler grubu hisseler ortalama yüzde 1.54 oranında değer yitirdi. 
+     İşlem gören toplam 284 hissenin 186'sının fiyatı geriledi, 62'si değer kazandı, 36'sının fiyatı değişmedi. 
+     Seansta toplam 218 trilyon 697 milyar 214 milyon liralık işlem hacmi oluştu. 
+     1. seansta, İş Bankası C, Kardemir D , Yapı Kredi Bankası, Tüpraş ve Garanti Bankası ve Sabancı Holding en yoğun işlem gören hisseler oldu. 
+     Uzmanlar, endeksin 10,800 desteğinin üstünde tutunması durumunda bir sorun bulunmadığını savunarak, 10,800 puanın altında kapanış gerçekleşmesi durumunda ise 10,500 puan seviyesindeki desteğin görülebileceğini kaydediyor. 
+     Uzmanlar, Aria ile ilgili haberler ve ABD Savunma Bakan Yardımcısı Paul Wolfowitz'in açıklamaları nedeniyle piyasanın satıcılı seyrettiğini ifade ederek, İş Bankası hisselerinin seyrinin de önemli olabileceğini belirtiyor. 
+     
+</TEXT>
+</DOC>

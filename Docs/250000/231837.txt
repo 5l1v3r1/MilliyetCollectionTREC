@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 231837 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/15/son/sonyas21.html </URL>
+<DATE> 2004/04/15/ </DATE>
+<TIME> 15.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+En büyük teknoloji ödülü "www"nin mucidinin... 
+</HEADLINE>
+<TEXT>
+
+     Finlandiya tarafından konulan ve teknoloji alanında dünyanın en büyük ödülünü oluşturan ''Binyıl Teknoloji Ödülü''nün birincisi, İnternet tarayıcısı World Wide Web'in Dünyayı Saran Ağ-WWW mucidi Tim Berners-Lee'ye verildi. 
+     Finlandiya Teknoloji Ödül Kurumu tarafından konan ve bu yıl ilk kez verilen 1 milyon euro yaklaşık 1.6 trilyon lira tutarındaki ödülün gerekçesi olarak World Wide Web'in ''insan hayatının kalitesini doğrudan doğruya artıran, insani değerlere yaslanan ve sürdürülebilir ekonomik kalkınmayı teşvik eden'' bir buluş olduğu vurgulandı. 
+     Dünyaca ünlü Massachusetts Institute of Technology'de MIT öğretim üyesi olarak çalışan 48 yaşındaki Berners-Lee, dünyayı saran ağı 1991 yılında kurmuş ve birçok kişiyi zengin eden bu icadından hiç para kazanmamıştı. 
+     İcadını paraya tahvil etmekten kaçınan Berners-Lee, halen, İnternet'in küresel işbirliği ve ifade özgürlüğünü güçlendiren bir ortam olarak kullanım olanaklarını genişletmeye çalışan kar amacı gütmeyen bir kuruluş olan World Wide Web Consortium'un W3C başkanlığını yürütüyor. 
+     
+</TEXT>
+</DOC>

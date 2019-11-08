@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 345459 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/24/son/sontur25.html </URL>
+<DATE> 2005/05/24/ </DATE>
+<TIME> 14.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Buğday fiyatı memnun etmedi 
+</HEADLINE>
+<TEXT>
+
+     Başbakan Recep Tayyip Erdoğan’ın açıkladığı buğday fiyatlarına ziraatçılardan tepki geldi. 
+     Türkiye Ziraatçılar Derneği’nden TZD yapılan açıklamada, açıklanan fiyatın beklentilerin oldukça altında kaldığı bildirdi. Yapılan hesaplamalara göre bir kilo buğdayın maliyetinin 400 bin lira olduğu vurgulanan açıklamada, "Bu yıl verilmesi gereken fiyatın 400 bin lira olması gerekirdi. Kilo başına 30 bin liralık prim verilse bile üreticiyi bu rakamlar kurtarmayacaktır" denildi. 
+     Primle birlikte toplam 380 bin lira olan fiyat yüzünden çiftçinin zarar edeceği belirtilen açıklamada, TMO’nun aldığı ürünün parasını peşin ödememesinin de ayrı bir olumsuzluk taşıdığı vurgulandı. Bu fiyat politikasıyla çiftçinin tüccara yönlendirildiğini ileri süren TZD, bu yıl piyasada oluşacak fiyatın çiftçinin aleyhine olacağını savundu. 
+     
+</TEXT>
+</DOC>

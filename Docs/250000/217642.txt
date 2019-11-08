@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 217642 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/25/son/sondun01.html </URL>
+<DATE> 2004/02/25/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dikkat... Mydoom adlı internet virüsünün yeni sürümü ortaya çıktı 
+</HEADLINE>
+<TEXT>
+
+     İnternet virüsü Mydoom'un yeni sürümünün ortaya çıktığı bildirildi. 
+     Solucan tipi virüsün yeni sürümü Mydoom.F'nin, Microsoft şirketinin internet sitelerinin yanı sıra Amerikan müzik yapımcıları derneğini hedef aldığı kaydedildi. 
+     Sophos adlı araştırma kurumunun uzmanlarına göre, 20 Şubat'ta ortaya çıkan yeni sürümde, virüsün Microsoft ve kısa adı RİAA olan müzik yapımcıları derneğinin sitelerine erişimi engelleme ''talimatı'' bulunuyor. 
+     Ocak sonunda ortaya çıkan Mydoom, birkaç gün içinde milyonlarca bilgisayara bulaşmıştı. 
+     ABD'nin önde gelen müzik yapımcıları derneği olan RİAA, Kazaa veya Grokster gibi programlarla internette bedava müzik alışverişi yapanlara karşı geçen yaz ''hukuk taarruzuna'' geçmişti. 
+     Sophos uzmanlarına göre, Mydoom.F virüsü, her ayın 17 ile 22'si arasında faaliyete geçmeye programlanmış bulunuyor. Çeşitli şekillerde posta kutusuna gelen virüs, bulaştığı bilgisayarın grafikleriyle Word, Excel ve Access belgelerinin yüzde 40'ını siliyor. Virüsten korunabilmek için, anti-virüs programlarını güncellemek gerekiyor. 
+     ANTİVİRÜS İTTİFAKI 
+     Yazılım devi Microsoft, bilgisayar virüsleriyle mücadelede yeni önlemler alacağını açıkladı. Önlemler arasında, dünya çapında anti-virüs ittifakı oluşturma da bulunuyor. 
+     Şirket tarafından yapılan açıklamaya göre, virüslere karşı ittifaka katılacak şirketler arasında Fransız Wanadoo, İngiliz BT, Amerikan Earthlink ve Cox Communication, Tayvan Şungwa Telekom ve Japon NTT bulunuyor. 
+     İttifakın amacının, ''150 milyon internet abonesine'' daha fazla güvenlik sağlamak olduğu belirtildi. 
+     Bu bağlamda, Hotmail'de ''spam''ların çöp mektubu tespiti amacıyla yepyeni bir tekniğin de deneneceği kaydedildi. 
+     
+</TEXT>
+</DOC>

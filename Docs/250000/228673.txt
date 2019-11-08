@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 228673 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/05/son/soneko39.html </URL>
+<DATE> 2004/04/05/ </DATE>
+<TIME> 18.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası güne yükselişle başladı... 
+</HEADLINE>
+<TEXT>
+
+     New York Menkul Kıymetler Borsası, açılışta değer kazandı. 
+     Dow Jones Endeksi, ilk işlem saatinde, 5.63 puan yükselerek, 10,476.22 puana ulaştı. 
+     Öte yandan, Nasdaq Bileşik endeksi de, 3.99 puan yüzde 0.2 değer kazanarak 2,061.16 puana yükseldi. 
+     Borsanın artmasında, istihdama ilişkin verilerin olumlu yayınlanması belirleyici oldu. 
+     
+</TEXT>
+</DOC>

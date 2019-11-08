@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 255376 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/14/son/soneko40.html </URL>
+<DATE> 2004/07/14/ </DATE>
+<TIME> 16.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York'ta endeksler düşük açıldı... 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacmi bakımından dünyanın en büyük borsası konumunda olan New York'ta endeksler düşük açıldı. 
+     Açılıştan kısa bir süre sonra Dow Jones Endeksi 50.88 puan azalarak 10,196.71 puana, teknoloji endeksi Nasdaq 21.81 puan gerileyerek 1,909.85 puana indi. 
+     Endekslerde görülen gerilemeye neden olarak, dünyanın en büyük bilgisayar yongası üretici firması olan Intel'in genel görünüşü hakkında yatırımcılar arasında oluşan hayal kırıklığı gösterildi. 
+     
+</TEXT>
+</DOC>

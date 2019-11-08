@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 138899 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/02/25/son/sondun06.html </URL>
+<DATE> 2003/02/25/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD'de her yıl tıp hataları yüzünden 100 bine yakın insan ölüyor... 
+</HEADLINE>
+<TEXT>
+
+     Günlük hayatta yaygın şekilde kullanılan bazı ilaçların, hata sonucu ölüme sebebiyet verdikleri bildirildi. 
+     Bu ilaçlar arasında şeker hastalarının kullandığı insülin, ağrı kesici morfin, amboli geçiren kişilerde kan inceltici olarak kullanılan heparin ve warfarin ile kalp hastalarının kullandığı potasyum klorit de bulunuyor. 
+     Resmi verilere göre, ABD'de her yıl 40-98 bin kişi önlenebilir tıbbi hatalar yüzünden hayatını kaybediyor. Hata ve ölümlerin sağlık sistemine yüklediği mali külfetin ise 38 milyar dolar olduğu belirtildi. 
+     Konuyu inceleyen Alabama Auburn Üniversitesi uzmanları, en tehlikeli ilaçları, muhtemel komplikasyonlarını ve hata oranını açıkladılar. Buna göre en fazla hata, yüzde 9,2 ile şeker hastalarının kullandığı insülinde meydana geliyor. Hata sonucu, hastaların komaya girdiği ve öldüğü bildirildi. 
+     Şiddetli ağrı kesici olarak kullanılan morfinde ise hata oranı yüzde 6'yı buluyor. Bu ilaç da bilinç kaybı ve ölüme yol açabiliyor. Amboli geçirenlere verilen heparinde hata oranı yüzde 5.5, aynı amaçla kullanılan warfarinde Coumadin ise yüzde 3.8. Bu ilaçların yanlış kullanılması sonucu, kanama, felç ve ölüm meydana gelebiliyor. 
+     Kalp hastalıklarında kullanılan potasyum kloritte hata oranının yüzde 2.2 olduğu ve yanlışlık sonucu kalp durması ve ölüm meydana gelebildiği kaydedildi. 
+     
+     HASTANELERDE YANLIŞLIK YÜZDE 20 
+     Hastanelerde hastalara yanlış ilaç verme oranının yüzde 20'ye kadar çıktığını kaydeden araştırmacılar, akıl karıştıran ilaç isimleri, birbirine benzeyen ambalajlar ve karmaşık prosedürlerin yanlış ilaç vermede başlıca rolü oynadığına işaret ettiler. 
+     Buna karşılık Amerikan General Electric firması, ilaç kullanımındaki yanlışlıkları azaltmak amacıyla özel bir bilgisayar geliştirmekte olduğunu açıkladı. Bu bilgisayarın, ilaç kullanımındaki yanlışlıkları yüzde 80 oranında azaltacağı bildiriliyor. 
+     Pfizer ve Abbott ilaç firmaları da ilaç kullanımının daha kolay izlenebilmesi için bunlara barkod konulacağını bildirdiler. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 400682 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/05/son/soneko25.html </URL>
+<DATE> 2005/12/05/ </DATE>
+<TIME> 12.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft, Hindistan'ı kaptırmak istemiyor... 
+</HEADLINE>
+<TEXT>
+
+     Hindistan'ı ''açık kaynak kodlu'' ucuz alternatiflere kaptırmak istemeyen Microsoft'un kurucusu Bill Gates, bu ülkeye 4. ziyaretini gerçekleştirecek. 
+     Gates, Hindistan'da, Linux gibi kopyalamaya, dağıtıma olanak tanıyan, gizli kod içermeyen ve ücretsiz sahip olunabilinen yazılımların giderek daha fazla tercih edilmeye başlaması üzerine, ülke pazarındaki hakimiyetini kaybetmemek için harekete geçti. 
+     Microsoft'un kurucusu Gates, Hindistan'a yapacağı 4. ziyaretle programcılar, iş çevreleri ve yöneticilerle buluşarak, önümüzdeki yıllarda ülkeye yapmayı planladığı yatırımları anlatacak. 
+     
+</TEXT>
+</DOC>

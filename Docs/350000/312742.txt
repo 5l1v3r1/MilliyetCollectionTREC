@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 312742 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/05/son/sonyas02.html </URL>
+<DATE> 2005/02/05/ </DATE>
+<TIME> 11.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayarda Saddam virüsü'ne dikkat 
+</HEADLINE>
+<TEXT>
+
+     
+     İSTANBUL, DHA 
+
+     
+
+DEVRİK Irak lideri Saddam Hüseyin'in öldüğünü gösteren sahte fotoğraflarla birlikte gelen bir bilgisayar virüsün internette yayılmaya başladığı bildirildi. 
+     Anti-virüs firması Sophos'tan yapılan açıklamaya göre, 'Bobax.H' adlı virüs, Saddam Hüseyin'in gözaltından kaçarken öldüğü yönündeki sahte bir bilgiyle kullanıcılarda merak uyandırmaya çalışıyor. Bu fotoğrafları gerçek zannedenler ekteki dosya tıkladığında virüs harekete geçerek kendini kullanıcının adres defterindeki diğer e-posta adreslerine yaymaya çalışıyor. Bilgisayardaki anti-virüs ve güvenlik yazılımını da devre dışı bırakan virüs, bulaştığı bilgisayarı bir spam kullanıcının isteği dışında gönderilen reklam amaçlı e-postalar makinesine dönüştürüyor. 
+     Sophos, henüz salgın hale gelmeyen 'Saddam virüsü'nün yayılma hızının arttığına dikkat çekti. Saddam virüsü, geçen sene tüm dünyada milyonlarca dolarlık zarara yol açan Sasser virüsü ile benzer şekilde Microsoft'un 'LSASS' zaafiyetine kullanarak yayılıyor. Sophos yetkilileri, bilgisayar kullanıcılarını söz konusu açığı kapatan yamayı yüklemeye çağırdı. 
+
+     
+</TEXT>
+</DOC>

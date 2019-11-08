@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 404023 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/16/son/soneko53.html </URL>
+<DATE> 2005/12/16/ </DATE>
+<TIME> 18.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Geçtiğimiz hafta yatırım araçları ne kazandırdı, ne kaybettirdi 
+</HEADLINE>
+<TEXT>
+
+     İMKB'de işlem gören hisse senetleri haftalık bazda ortalama yüzde 0.59 oranında değer kazandı. 
+     İstanbul Menkul Kıymetler Borsası'nda İMKB geçen hafta işlemlerinin sonucunda İMKB Bileşik Endeksi, 220.52 puan artarak 37,496.18 puandan 37,716.70 puana çıktı. 
+     24 ayar külçe altının gram satış fiyatı yüzde 3.51, Cumhuriyet altınının satış fiyatı yüzde 3.27 oranında düştü. 
+     Önceki hafta sonu 22.80 YTL olan 24 ayar külçe altının gram satış fiyatı 22.00 YTL'ye, 1.00 YTL olan Cumhuriyet altınının satış fiyatı 148.00 YTL'ye geriledi. 
+     Bugün kapanışta Amerikan Doları'nın satış fiyatı haftalık bazda yüzde 0.30 oranında düşerek 1.3500 YTL'ye inerken, avronunki yüzde 1.31 artarak 1.6190 YTL'ye yükseldi. 
+     Yatırım fonlarına katılma belgeleri geçen hafta ortalama yüzde 0.05 oranında düşüş kaydetti. A tipi endeks haftalık bazda yüzde 0.70 gerilerken, B tipi endeks yüzde 0.14 yükseldi. 
+     İMKB Tahvil ve Bono Piyasası'nda, ağırlıklı ortalamalara göre çeşitli vadelerdeki bono ve tahvillerin haftalık net getirileri ise yüzde 0.24 ile yüzde 0.28 arasında gerçekleşti. 
+     Önde gelen ve değerlendirmeye alınan 10 kamu ve özel bankanın faiz oranlarına bakıldığında, mevduat faizinin haftalık net getirisi, bir yıllık mevduatta yüzde 0.27 ve 1 aylık mevduatta yüzde 0.25 oldu. 
+     Önceki hafta sonunda ortalama faizleri yüzde 13.8 dolayında olan haftalık reponun net getirisi de yüzde 0.20 olarak gerçekleşti. 
+     
+</TEXT>
+</DOC>

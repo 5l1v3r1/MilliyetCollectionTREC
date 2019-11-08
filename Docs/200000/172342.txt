@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 172342 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/29/son/soneko23.html </URL>
+<DATE> 2003/07/29/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İş Bankası'ndan yeni 'Acil Nakit Sistemi...' 
+</HEADLINE>
+<TEXT>
+
+     İş Bankası, yatırım fonlarında, müşterilerin öngörülemeyen nakit ihtiyaçlarının otomatik olarak karşılanabilmesi için, ''Acil Nakit Sistemi'' geliştirdi. 
+     İş Bankası müşterilerine yaptığı duyuruda, SPK mevzuatı uyarınca İş Bankası B Tipi Likit Fonu dışındaki tüm yatırım fonlarında ileri fiyat uygulaması geçerli olduğu hatırlatıldı. 
+     Bu uygulamanın bir sonucu olarak, satış tutarının, satış talimatının verilmesini takip eden birinci veya ikinci işgününde kullanılabilir hale geldiği, endeks fon satışlarında ise tutarın, ikinci veya üçüncü iş gününde hesaba geçtiği kaydedilen duyuruda, dolayısıyla, yatırımcıların öngörülemeyen nakit ihtiyaçlarının olabileceğini düşünerek Likit Fona veya anında nakde dönüşebilecek diğer finansal enstrümanlara yönelebildiği ve yatırım kararı alırken bu özelliği de göz önüne almakta olduğu belirtildi. 
+     
+     ACİL NAKİT SİSTEMİ 
+     Banka, söz konusu süre dezavantajının ortadan kaldırılması amacıyla, öngörülemeyen nakit ihtiyaçlarının otomatik olarak karşılanabilmesi için, bugünden itibaren yeni bir hizmet geliştirdiğini bildirerek, ''acil nakit sistemi'' adı verilen hizmeti şöyle açıkladı 
+     ''Acil Nakit Sistemi ileri fiyat uygulamasının geçerli olduğu yatırım fonlarımız için verilecek satış talimatlarında, satış bedelinin hesaba geçeceği güne kadar kullanılmak üzere, otomatik ek hesap tahsis edilmesidir. ANS kapsamında ek hesap tahsis edilirken, satış talimatı verilen yatırım fonunun son pay fiyatının belli bir oranı dikkate alınır ve üst limit 10 milyar liradır. Müşterinin isteği doğrultusunda tahsis edilecek ANS kapsamındaki ek hesabın kredi faizi aylık yüzde 4 olarak belirlenmiştir. Bunun günlük ifadesi ise tüm maliyetler dahil yüzde 0,15'dir. ANS kapsamındaki ek hesabın kullanımından doğan maliyetler, fon satış bedelinin hesaba yatmasıyla birlikte otomatik olarak tahsil edilecek, tahsis edilen limit de iptal edilecektir.'' Banka, bu hizmetten yararlanabilmek için herhangi bir başvuru yapılmasına gerek olmadığını, ANS'nin, şubelerin yanı sıra bankamatik ve tüm interaktif bankacılık kanallarından da yatırım fonu satış talimatı verilmesi sırasında kullanılabileceğini bildirdi. 
+     
+</TEXT>
+</DOC>

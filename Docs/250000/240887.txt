@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 240887 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/18/son/sondun17.html </URL>
+<DATE> 2004/05/18/ </DATE>
+<TIME> 11.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Belçika, dünyanın en güvenli pasaportunu hizmete sokuyor 
+</HEADLINE>
+<TEXT>
+
+     Belçika hükümeti, dünyanın en ''modern ve güvenli'' pasaportunun vatandaşlara verilmesine başlanacağını açıkladı. 
+     Dışişleri Bakanı ve Başbakan Yardımcısı Louis Michel, basın toplantısı düzenleyerek yeni pasaportu tanıttı. 
+     Küresel alanda bir ilk oluşturan bu pasaportlarda, banka kartlarındaki gibi, ancak daha küçük boyutta bir elektronik veri cihazı bulunuyor. Pasaport sahibinin fotoğraf, imza ve kimlik bilgilerini içeren bu veriler, gümrüklerde, şüpheli durumlarda pasaport üzerindeki fotoğraf, imza ve bilgilerle mukayese edilebilecek. Elektronik veriler arasında, pasaport sahibinin parmak izleri ve morfolojik vücut yapıları hakkında bilgiler de yer alacak. 
+     Michel, yeni pasaport uygulamasının yıl sonundan itibaren genelleşmiş olacağını bildirdi. 
+     Belçika, 2003 yılında dağıtıma soktuğu pasaportlarda kullanılan ''laser ışınlarıyla işlenmiş fotoğraflar'' sayesinde, ''dünyanın en güvenli seyahat belgesini veren ülke'' olarak ''Interpol ödülü'' elde etmişti. Michel, geliştirilen yeni pasaportlar sayesinde, ülkesinin bu alanda öncü konumunu koruyacağını söyledi. 
+     
+</TEXT>
+</DOC>

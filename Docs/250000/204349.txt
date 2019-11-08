@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 204349 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/25/son/sondun07.html </URL>
+<DATE> 2003/12/25/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+NASA, Beagle-2'den sinyal alamadı 
+</HEADLINE>
+<TEXT>
+
+     Avrupa Uzay Dairesi'nin ESA bugün Mars'a inmesi yüzey sonda aracı Beagle-2'den ilk sinyal alınamadı. 
+     Amerikan Uzay ve Havacılık Dairesi'nin NASA Mars yörüngesindeki Mars Odyssey uzay aracının, Beagle-2'nin üstünden geçerken araçtan herhangi bir sinyal alamadığı bildirildi. 
+     Beagle-2 projesinin Londra bürosu sözcüsü Peter Barratt, ''Odyssey'den bilgiler aldık. Ama bu bilgilerin içinde Beagle'den gelen herhangi bir veri yok'' dedi. 
+     Ancak Barratt, Beagle-2'nin Mars'a indiğinin doğrulanacağından çok emin olduklarını söyledi. 
+     NASA'nın Mars Odyssey aracının Beagle-2'nin üstünden geçişi, araçla bağlantı kurulması için yapılacak kontrollerden ilkiydi. 
+     İngiltere'deki Jodrell Bank Gözlemevi ise, Beagle-2'nin bugün gece yarısından sonra TSİ 00.45'de göndereceği sinyali almaya çalışacak. 
+     
+</TEXT>
+</DOC>

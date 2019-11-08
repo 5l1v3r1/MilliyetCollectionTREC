@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 225625 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/25/son/sonyas03.html </URL>
+<DATE> 2004/03/25/ </DATE>
+<TIME> 08.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sesten 7 kat hızlı X-43 cumartesi denenecek... 
+</HEADLINE>
+<TEXT>
+
+     Amerikalılar, sesten 7 kat hızlı uçacak Mach 7 pilotsuz uçağın örneğini cumartesi günü deneyecekler. 
+     Amerikan Ulusal Havacılık ve Uzay Dairesi NASA yetkilileri, hem uçağa hem de uzay aracına benzeyen X-43 adlı ''hipersonik'' uçağın, atmosferik motorlu araçların dünya hız rekorunu kırmasının beklendiğini bildirdiler. 
+     Yetkililere göre, örnek uçak kağıt üstündeki hesaplara göre saatte 10 bin kilometreden fazla hız yapabilecek. Ancak Kaliforniya'daki Edwars hava üssünde yapılacak denemede bu hıza ulaşmaya çalışılmayacak. 
+     NASA'nın örnek uçakla 2001 yılında Kaliforniya kıyılarında yaptığı ilk deneme başarısız olmuştu. 
+     Cumartesi günkü ikinci deneme başarılı olursa, yeni uçak uzaya çıkışta yeni bir çağın başlangıcı olabilecek, ''hipersonik'' uçuş devri başlayacak. 
+     Atmosferik basınçla çalışan motorla ulaşılan hız rekoru, 3.2 Mach saatte 3500 km hızla uçan ''Blackbird'' SR-71 casus uçağıyla kırılmıştı. X-15 adı verilen deneme uçağı da, 6.7 Mach hızında uçmuştu, ancak X-15, oksijen tankını üzerinde taşıyan ''uçak-füze'' idi. X-43 ise olabildiğince aerodinamik tasarımı, düz çizgileri ve ince profiliyle küçük bir uçak. 
+     3.6 metre boyunda ve 1.5 metre enindeki örnek uçak, ''Scramjet'' Supersonic Combustible Ramjet adı verilen teknoloji araştırmaları kapsamında 20 yıllık çalışmanın ürünü. X-43'ün motorları, itiş için gereken oksijeni doğrudan atmosferden alıyor. Uzay mekikleri ve füzeler ise hidrojenle karıştırarak yaktıkları oksijeni devasa tanklarında taşıyorlar. 
+     
+</TEXT>
+</DOC>

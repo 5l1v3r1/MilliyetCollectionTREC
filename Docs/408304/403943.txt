@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 403943 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/16/son/sondun16.html </URL>
+<DATE> 2005/12/16/ </DATE>
+<TIME> 10.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Times Bush, izinsiz Amerikalıları dinletti 
+</HEADLINE>
+<TEXT>
+
+     ABD'deki 11 Eylül saldırılarından sonra Başkan George Bush'un Ulusal Güvenlik Kurumu'na NSA , mahkeme kararı olmaksızın Amerikalıları dinlemesi talimatını verdiği belirtildi. 
+     New York Times'ın internet sitesindeki habere göre, Bush 2002'de imzaladığı başkanlık kararnamesinde, binlerce kişinin ülkelerarası telefon görüşmelerinin dinlenmesini ve e-posta mesajlarının izlenmesini istedi. 
+     Habere göre NSA, ABD'de mahkeme kararı olmaksızın 500 kadar kişiyi dinledi. Denizaşırı ülkelerde terörizm bağlantıları bulunduğundan şüphelenilen 5 bin ila 7 bin kişi izlendi. 
+     New York Times, ancak bazı NSA yetkililerinin uygulamanın yasallığı konusunda kuşku duyduğu için emri yerine getirmeyi reddettiğini yazdı. Uygulamanın yasallığı hakkındaki kuşkuların, yönetimi programı geçen yıl geçici olarak askıya almaya götürdüğü belirtildi. Gazete, uygulamadan çok az kişinin haberi olduğunu da kaydetti. 
+     Gazete, Beyaz Saray'ın dinleme programı konusundaki haberi yayınlamamasını istediğini, bunun üzerine haberin yayınının bir yıl ertelendiğini ve yetkililerin teröristlerin işine yarayabileceğini bildirdiği bazı bilgileri haberden çıkardığını yazdı. 
+     
+</TEXT>
+</DOC>

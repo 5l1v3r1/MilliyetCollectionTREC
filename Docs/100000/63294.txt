@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 63294 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/01/20/son/sontur01.html </URL>
+<DATE> 2002/01/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ICQ kullanıcılarına tehlike uyarısı.. 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın en çok kullanılan anında mesajlaşma ve sohbet programı ICQ'nun eski versiyonlarına sahip internet kullanıcılarının sanal saldırılara açık olduğu bildirildi. 
+     ZDnet sitesinde yer alan habere göre, dünyanın en büyük internet servis sağlayıcı ISP şirketi olan American Online AOL , geçtiğimiz yıl satın aldığı ICQ yazılımının Windows üzerinden çalışan 2001b beta sürümünden önceki versiyonlarının, yeni geliştirilen scriptlerle saldırılara açık hale gelebileceği uyarısında bulundu. 
+     Gizlenmiş bir kodla gönderilen mesaj, bilgisayar kullanıcısını açık hedef haline getiriyor. 
+     Habere göre, AOL, tehlikenin sesli video ve oyun uygulamaları sırasında ortaya çıktığını ve açığa, internetteki Bugtraq güvenlik posta listesinde yer verildiği açıklandı. Açığı ilk olarak Pennsylvania Üniversitesi bilgisayar bölümü öğrencilerinden Daniel Tan'ın bulduğu ve kullanıcıları uyardığı belirlendi. 
+     AOL yetkililerinden Andrew Weinstein, www.icq.com ya da www.mirabilis.com internet adreslerinden yazılımın ücretsiz yeni sürümlerinin yüklenebileceğini bildirdi. 
+     ICQ için yapılan uyarıların bir benzeri AOL'un ilk anında mesajlaşma programında da yapılmıştı. 2001 yılının basında gerçekleşen olayda AOL Instant Messenger'ın AIM 4.7 ve 4.8 versiyonlarında da benzer güvenlik açıkları bulunmuştu. 
+     Konuyla ilgili olarak yapılan açıklamalarda, gelen herhangi bir mesajla siteme kendini otomatik olarak yükleyen kodun, bilgisayar sahibini açık hedef haline getirdiği kaydedilmişti. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 333045 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/13/son/sontur03.html </URL>
+<DATE> 2005/04/13/ </DATE>
+<TIME> 02.11 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Telekom'un fiber optik hatlarında arıza... 
+</HEADLINE>
+<TEXT>
+
+     Adana'nın Ceyhan İlçesi ile Osmaniye arasındaki fiber optik hatlarda meydana gelen arıza sonucu Hatay il geneli ile Osmaniye ve Gaziantep'in bir bölümüne telefon hizmeti verilemediği bildirildi. 
+     Türk Telekom Adana İl Müdürlüğü yetkililerinden alınan bilgiye göre, her türlü iletişimi sağlayan link çıkışlarının bulunduğu Ceyhan-Osmaniye arasındaki fiber optik hatlarında ''iki yönlü'' olarak henüz belirlenemeyen nedenle arıza meydana geldi. 
+     Sistemdeki uyarı üzerine fark edilen arızaya Telekom yetkililerinin müdahalede bulunarak arıza giderme çalışmalarını sürdürdükleri kaydedildi. Yedek fiberoptik kablosunun da kopması üzerine Hatay il geneli ile Osmaniye ve Gaziantep'in bir bölümüne telefon hizmeti verilemediği belirtildi. 
+     Arıza nedeniyle, bankalarda ve ATM'lerde işlem, kredi kartları ile alışveriş yapılamadığı, GSM şebekelerinin ve ADSL hatlarının çalışmadığı vurgulandı. 
+     Telekom yetkilileri, kesintinin yaşandığı bazı bölgelere telefon hizmetinin tekrar verildiğini, ilerleyen saatlerde sorunun tamamen çözüleceğini bildirdiler. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 248076 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/15/son/soneko27.html </URL>
+<DATE> 2004/06/15/ </DATE>
+<TIME> 16.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükselişle açıldı... 
+</HEADLINE>
+<TEXT>
+
+     New York Menkul Kıymetler Borsası açılışta değer kazandı. 
+     Dow Jones Endeksi, 55 puan yüzde 0. değer kazanarak 10,389.66 puana ulaştı. 
+     Standard and Poor's 500 endeksi yüzde 0.61, Nasdaq Bileşik Endeksi ise yüzde 0.92 oranlarında değer kazandılar. 
+     Borsanın değer kazanmasında, özellikle Mayıs ayı çekirdek enflasyonunun beklentiler çerçevesinde gerçekleşmesi sonucu, ABD Merkez Bankası'nın, faiz oranlarını arttırsa bile bunun yüksek oranlı olmayacağı beklentisi etkili oldu. 
+     
+</TEXT>
+</DOC>

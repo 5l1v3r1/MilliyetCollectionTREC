@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 311995 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/03/son/soneko01.html </URL>
+<DATE> 2005/02/03/ </DATE>
+<TIME> 02.04 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsası yükselişle kapandı... 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası'nda, Dow Jones ve Nasdaq endeksleri günü yükselişle kapadı. 
+     Borsanın temel göstergesi Dow Jones Sanayi endeksi 44.85 puan artarak 10,596.79 puana yükselirken, teknoloji endeksi Nasdaq 6.07 puan artışla 2,074.77 puana yükseldi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 280487 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/15/son/sonyas21.html </URL>
+<DATE> 2004/10/15/ </DATE>
+<TIME> 14.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Starbucks'ta hem kahve iç, hem müzik indir 
+</HEADLINE>
+<TEXT>
+
+     Türkiye'de de şubeler açan Amerikan kahvehane zinciri Starbucks, ABD'deki mağazalarında dijital müzik hizmeti vermeye başlıyor. 
+     Tüm dünyada 8500'den fazla şubesi bulunan Starbucks, başlangıç olarak Seattle ve Austin kentlerindeki 45 mağazasına yerleştireceği ''müzik barı'' ile müşteriler kahvelerini yudumlarken dijital ortamdan şarkı indirme ve bunu CD'ye kaydetme olanağı sunuyor. 
+     Donanımı Hewlett-Packard HP tarafından yapılan ve ''Hear Music Media Bar'' adı verilen sistemde, Starbucks müşterileri, dijital müzik kütüphanesinde arayıp bulacakları şarkıları bizzat kendileri CD'ye kaydedebilecek. 
+     Starbucks, bu hizmeti karşılığında ilk 7 şarkı için 8.99 dolar her ilave şarkı için de 0.99 dolar kazanacak. 
+     Müşteriler ayrıca, Starbucks şubelerinden diğer müzik mağazalarında satılan albümleri de piyasa fiyatıyla satın alabilecek. 
+     150 binden fazla şarkının olacağı müzik barlarının bulunduğu Starbucks şubelerinin ülke çapında yaygınlaşacağı belirtildi. 
+     1971 yılında ABD'nin Seattle kentinde bir dükkanla faaliyete geçen Starbucks, bugün dünya genelinde 8500'ün üzerinde kahvehaneyle hizmet veriyor. 
+     
+</TEXT>
+</DOC>

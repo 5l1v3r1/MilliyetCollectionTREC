@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 359487 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/08/son/sonyas16.html </URL>
+<DATE> 2005/07/08/ </DATE>
+<TIME> 16.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Virüs geliştirdi, 1 yıl 9 ay hapis cezası aldı 
+</HEADLINE>
+<TEXT>
+
+     ''Sasser'' adı verilen bir bilgisayar virüsü geliştirerek dünya çapında çok sayıda bilgisayar sistemine zarar veren Sven J. 19 adlı öğrenci Verden Eyalet Mahkemesi tarafından 1 yıl 9 ay tecilli hapis cezasına çarptırıldı. 
+     Mahkeme sözcüsü Katharina Krützfeldt, Sven J'nin dünyadaki bilgisayar sistemlerinin çökmesi sırasında büyük zevk aldığını itiraf ettiğini ve 1 yıl 9 ay tecilli hapis cezasına çarptırıldığını bildirdi. 
+     Krützfeldt, Sven J'nin ayrıca, bir hastane ya da yaşlılar yurdunda 30 saat zorunlu görev yapacağını, mahkeme kararını kabul ettiği için kararın hemen yürürlüğe girdiğini kaydetti. 
+     Basına kapalı olarak sürdürülen davada Sven J, bilgisayarlara yönelik sabotaj yaparak, kamu işletmelerini zor durumda bırakmak suçundan yargılanmıştı. 
+     
+</TEXT>
+</DOC>

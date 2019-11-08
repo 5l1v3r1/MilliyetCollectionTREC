@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 398981 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/29/son/soneko47.html </URL>
+<DATE> 2005/11/29/ </DATE>
+<TIME> 18.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+BDDK Konut kredileri risklilik açısından sorun arzetmiyor 
+</HEADLINE>
+<TEXT>
+
+     Bankacılık Düzenleme ve Denetleme Kurumu BDDK , bankaların kullandırdığı konut kredilerinin ortalama vadesinin 5.8 yıl olduğunu, teminat yapısında ipoteklerin yer alması ve temerrüt olasılığına karşı sigorta sistemiyle korunması nedeniyle risklilik açısından halihazırda belirgin bir sorun arz etmediğini bildirdi. 
+     BDDK’nın Haziran 2005 dönemi Bankacılık Sektörü Risk Değerlendirme Raporu açıklandı. Raporda, yılın ilk altı ayı için yapılan analizlerin, ekonomide yaşanan gelişmeler paralelinde söz konusu dönemin risklilik açısından olumlu seyrettiği belirtildi. Reel faizlerin düşüş yılının ilk yarısında da devam ettirmesinin, kredi hacmindeki genişleme paralelinde karşılıkların artmasının risk faktörleri bazında risklilik düzeyinin azalmasını da beraberinde getirdiği bildirildi. Enflasyon ve reel faizlerdeki düşüşün sürmesiyle kurlardaki oynaklığın düşük seyretmesi gibi beklentiler doğrultusunda, risk faktörlerinin düşüş trendine devam edeceği öngörüldü. 
+     Sektör kredilerinin Haziran ağırlıklı olarak kısa vadeli YTL kredilerde yoğunlaştığı, orta ve uzun vadeli kredilerde ise yaklaşık 4 puanlık bir artış yaşandığına dikkat çekilen raporda, kredilerin vadesinde görülen bu artışın makro ekonomik açıdan olumlu değerlendirildiği ancak, risklilik açısından yükümlülüklerin vadesinde de görülebilecek uzamayla birlikte anlam ifade edebileceği belirtildi. 
+     Kredi portföyünde, bireysel kredilerin, özellikle de konut kredilerinin toplam krediler içindeki payında 2.4 puanlık artış gürüldüğüne dikkat çekilen raporda şöyle denildi 
+     "Belirli tutarın üzerinde konut kredisi kullanan müşteriler esas alınarak ara dönem geçici verileri üzerinden yapılan incelemede, bu müşterilerin kullanmış olduğu konut kredilerinin ağırlıklı ortalama vadesi yaklaşık 5.8 yıl olarak hesaplanmıştır. Konut kredileri, teminat yapısında ipoteklerin yer alması ve temerrüt olasılığına karşı sigorta sistemi ile korunması nedeniyle risklilik açısından halihazırda belirgin bir sorun arz etmemektedir. Fakat, gayrimenkul piyasasında oluşabilecek ani ve önemli fiyat hareketlerinin dikkatle izlenmesi gerekmektedir. Bu çerçevede, konut değerlemelerinin ekspertizler gerçeği yansıtması, müşterinin ve kredinin kredi değerliliğinin doğru tespit edilmesi ve teminatların yeterli düzeyde alınması önemlidir." Piyasa riski açısından, menkul kıymet portföyünün büyük oranda kamu menkul kıymetlerinden oluşması ve hisse senetleri portföyünün ticari portföy içindeki payının düşük kalmasının riski sınırlayan bir olgu olduğuna dikkat çekildi. DİBS portföyünde değişken faizli menkul kıymetlerin artmasının, faiz oranında meydana gelebilecek değişimlerin etkisinin portföye eş anlı olarak yansıması bakımından olumlu bir gelişme olarak değerlendirildi. 
+     Sektörün açık pozisyonunda yılın ilk yarısında minimal düzeyde artış gözlendiği, özel bankalar grubunun sektörün toplam açık tutarından daha fazla tutarlı yabancı para açığı ile çalıştığının dikkat çektiği vurgulanan raporda, "Dolayısıyla, özel bankalar grubu yılın ilk yarısında kur artışlarına karşı nispeten en kırılgan banka grubu olarak faaliyet göstermiştir" denildi. 
+     Bankaların açık pozisyonlarının ağırlıklı olarak dolar ve euro tutarlı olduğu bu nedenle de karşı karşıya kalınan kur riskinin büyük ölçüde dolar ve euro kurlarında görülebilecek olası değişimlerle açıklanabildiği bildirildi. 
+     
+</TEXT>
+</DOC>

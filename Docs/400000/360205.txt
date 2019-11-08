@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 360205 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/11/son/sonyas12.html </URL>
+<DATE> 2005/07/11/ </DATE>
+<TIME> 11.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+NASA, Discovery'yi fırlatmak için geri sayımı başlattı... 
+</HEADLINE>
+<TEXT>
+
+     Amerikan Havacılık ve Uzay Dairesi NASA , Discovery uzay mekiğinin 2,5 yıl aradan sonra uzaya gönderilmesi için geri sayımı başlattı. 
+     NASA sözcüsü George Diller, Discovery'nin uzaya fırlatılması için geri sayımın TSİ 01.00'de başlatıldığını belirterek, uzay mekiğinin Çarşamba günü saat 03.51'de TSİ 22.51 fırlatılmasının öngörüldüğünü kaydetti. 
+     NASA'nın test direktörü Jeff Spaulding de uzay mekiğinin kalkışa hazır ve son hazırlıkların tamamlanmak üzere olduğunu belirterek, 7 kişilik mürettebatın da Cumartesi Kennedy Uzay Merkezi'ne geldiğini söyledi. 
+     Meteoroloji yetkilileri de Çarşamba günü yüzde 70 olasılıkla hava durumunun kalkışa uygun olacağını bildirdiler. 
+     Discovery mekiğinin daha önce Mayıs ayında fırlatılması planlanmış, ancak mekik, yeni ve daha güvenli bir yakıt tankının takılması için fırlatma rampasından hangara geri götürülmüştü. 
+     Discovery uzay mekiği nisanda fırlatma rampasına getirildikten sonra, uzmanların aşırı soğuk yakıt doldurulduğunda dış yakıt tanklarında buz oluştuğunu ve bunun da 2,5 yıl önce Columbia'nın kalkışı sırasında olduğu gibi köpük yalıtım malzemesinin kırılarak gövdeye zarar verdiğini tespit etmeleri üzerine 26 Mayıs'ta hangara geri taşınmıştı. 
+     NASA mühendisleri, 2,5 yıl önceki Columbia faciasının ardından temmuz ortasında planladıkları ilk mekik uçuşu için hazırlanan Discovery'nin dış yüzeyine buzlanmayı önleyecek bir ısıtıcı da yerleştirdiler. 
+     Mühendisler, hangarda Discovery'nin ET-120 tipi yakıt tankını ve iki yardımcı roketini sökerek yerine ET-121 tipi yeni yakıt tankı monte ettiler. 
+     Uluslararası Uzay İstasyonu'na UUİ götürülecek İtalyan modülü Raffaello yük bölümüne konan uzay mekiği Discovery'nin bu uçuşunda, UUİ'ye 7 astronot ile başka malzemeler de götürmesi planlanıyor. 
+     NASA, Şubat 2003'te Columbia mekiğinin, uzaydan dönüş yolunda atmosferde parçalanması ve 7 astronotun hayatını kaybetmesinden bu yana hiç mekik seferi düzenlemedi. 
+     
+</TEXT>
+</DOC>

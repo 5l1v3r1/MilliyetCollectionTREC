@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 236302 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/30/son/sonyas05.html </URL>
+<DATE> 2004/04/30/ </DATE>
+<TIME> 01.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD'de rastgele reklam ve benzeri e-mail gönderen 2 kişi gözaltına alındı 
+</HEADLINE>
+<TEXT>
+
+     ABD'de, reklam ve benzeri bilgiler içeren e-mail mesajlarını bilgisayar kullanıcılarına rastgele gönderenlere karşı ilk kez önlem alındı. 
+     ''Spam'' adı verilen rastgele mesajlara karşı yasal düzenlemenin yürürlüğe girmesinden sonra, kullanıcılara bu tür mailler dağıtan iki kişi dün gözaltına alındı. İki kişinin de arandığı bildirildi. 
+     Federal Ticaret Komitesi'nden yapılan açıklamaya göre, sanıklar, milyonlarca e-maili kullanıcılara rastgele göndermekle suçlanıyor. 
+     Detroit'te gözaltına alınan ve aranan sanıklar Daniel Lin, Mark Sadek, James Lin ve Christopher Chung'un, beşer yıl hapis cezasına çarptırılabileceği bildirildi. 
+     
+</TEXT>
+</DOC>

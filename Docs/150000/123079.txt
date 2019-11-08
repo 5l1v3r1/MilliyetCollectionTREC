@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> 123079 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/12/07/guncel/gun10.html </URL>
+<DATE> 2002/12/07/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Elektronikçi mucit sunar Deprem saati 
+</HEADLINE>
+<TEXT>
+
+     ERGÜN AYAZ DHA 
+
+     Marmara depreminde arama - kurtarma çalışmalarında görülen aksaklıklardan yola çıkan elektronikçi Recep Metin Yerdelen, geliştirdiği saat sayesinde, enkaz altındakilerin yerinin ve sağ olup olmadıklarının belirlenebileceğini ileri sürdü. Elektirik Elektronik Meslek Yüksekokulu mezunu Yerdelen 38 , saatin, mobil sisteme bağlı çalıştığını, yanılma payının yüzde 5 olduğunu iddia etti. 
+     
+     15 MİLYONA YAPILIR 
+     Seri üretilirse saatin 10-15 milyon liraya mal olacağını dile getiren Yerdelen, "İçinde çip bulunan deprem saatine özel bir kod numarası veriyorum. Mobil elektronik sistemimle saatin kola takılı olup olmadığı sinyalini alıyorum" dedi. 
+     
+
+
+
+ GÜNCEL 
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

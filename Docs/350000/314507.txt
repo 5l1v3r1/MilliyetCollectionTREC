@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 314507 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/11/son/sontur05.html </URL>
+<DATE> 2005/02/11/ </DATE>
+<TIME> 09.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İstanbul'a kuvvetli don ve buzlanma uyarısı... 
+</HEADLINE>
+<TEXT>
+
+     İstanbul'da kar yağışı aralıklarla devam ediyor. Sürücüler, don ve buzlanma konusunda uyarıldı. 
+     Büyükşehir Belediyesi Afet Koordinasyon Merkezi'nden alınan bilgiye göre, ekipler, İstanbul genelindeki kar temizleme ve tuzlama çalışmalarını sürdürüyor. 
+     AKOM yetkilileri, ana arterlerde ve diğer bölgelerde kapalı yol bulunmadığını, sadece Boğaziçi Köprüsü'nde kısa süreli trafik yoğunluğu yaşandığını açıkladı. Atatürk Havalimanı'nda da seferler normal olarak gerçekleştiriliyor. 
+     Meteoroloji İstanbul Bölge Müdürlüğü yetkilileri ise kar yağışının bugün öğle saatlerinden itibaren Avrupa yakasını, yarın da Anadolu yakasını terk edeceğini belirtti. 
+     İstanbul'da hava sıcaklığının gece sıfırın altında 1, gündüz ise 3 derece olmasının beklendiğini kaydeden Meteoroloji yetkilileri, sürücüleri bu gece don ve buzlanma konusunda uyardı. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 174627 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/09/yasam/yas02.html </URL>
+<DATE> 2003/08/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kadının denklemi W t 1 a r1'w t ihw ht - Erkeğin denklemi H t 1 b r2'h t iwh wt 
+</HEADLINE>
+<TEXT>
+   Aşka yürek değil matematik gerek 
+   Prof. James Murray'in 10 yıl boyunca 700 yeni evli çifti inceleyerek kurduğu iki denklem, evliliğin yürüyüp yürümeyeceğini belirliyor 
+      DIŞ HABERLER SERVİSİ 
+   
+   AMERİKALI Prof. James Murray ve bir psikoloğun da bulunduğu mülakatlarda, çiftlere seks, çocuk yetiştirme ve para gibi kritik konulardaki düşünceleri soruldu. Çiftlerin yanıtları ve birbirlerinin yanıtlarına verdikleri tepkiler, kaydedilerek puanlandırıldı. Gülümseme, espri yapma gibi olumlu tepkilere artı puanlar verilirken, alay etme, küçümseme gibi tepkiler eksi puanlar aldı. 
+   ELDE edilen veriler, cebirden yararlanılarak kadın ve erkek için ayrı ayrı oluşturulan denklemlerde kullanıldı. Denklemlerin verdiği sonuçlara göre, çiftlerin evliliklerinin sürüp sürmeyeceği konusunda tahminler yapıldı. Her iki yılda bir, çiftlerle yeniden bağlantı kuruldu ve matematiksel formüle dayanarak boşanacağı tahmin edilen çiftlerin yüzde 94'ünün boşandığı görüldü. 
+   
+   Mutluluğun formülü çok açık...    Kadının denklemi W t 1 a r1'w t ihw ht 
+   W Kadın. h Erkek. t Zaman. a Kadının eşiyle olmadığı zamanki düşüncelerini gösteren sabit sayı. r1'w t Kadının, eşiyle konuşurken düşüncelerinin ne kadar değiştiğini gösteren sayı. ihw Kadının düşünceleri üzerinde eşinin ne kadar etkili olduğunu gösteren değişken. h t Erkeğin görüşme sırasındaki skoru. W t 1 Kadının, eşinin konuşmalarına verdiği tepki. Bu sayı, ne kadar yüksek çıkarsa, boşanma olasılığı da o kadar yüksek oluyor. 
+   
+   Erkeğin denklemi H t 1 b r2'h t iwh wt 
+   b Erkeğin, eşiyle olmadığı zamanki düşüncelerini gösteren sabit sayı. r2'w t Erkeğin, eşiyle konuşurken düşüncelerinin ne kadar değiştiğini gösteren sayı. iwh Etki fonksiyonu, erkeğin düşünceleri üzerinde eşinin ne kadar etkili olduğunu gösteren değişken. W t Kadının görüşme sırasındaki skoru. H T 1 Erkeğin, eşinin konuşmalarına verdiği tepki. Bu sayı ne kadar yüksek çıkarsa, boşanma olasılığı o kadar yüksek oluyor. 
+   
+   
+</TEXT>
+</DOC>

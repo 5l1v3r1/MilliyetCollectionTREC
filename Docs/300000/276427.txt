@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 276427 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/01/yazar/oztrak.html </URL>
+<DATE> 2004/10/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Faik ÖZTRAK  </AUTHOR>
+<HEADLINE>
+Dünyanın Ekonomik Görünümü'nde Türkiye 
+</HEADLINE>
+<TEXT>
+
+
+Uluslararası Para Fonunun Dünyanın Ekonomik Görünümü adlı raporunun Eylül 2004 sayısı yayımlandı. Bu raporda tüm ülkelerin ekonomik göstergelerine ilişkin IMF tahminleri de yer alıyor. Raporda Türkiye'yle ilgili verileri aşağıdaki tabloda görüyoruz. 
+
+Ekonomik Göstergeler 2003 2004 2005 GSYİH Milyon 239.822 312.598 332.546 GSYİH artışı 5.8 7.0 5.0 Fert başına GSYİH 3.451,8 4.428,4 4.636,8 TÜFE artışı 12 Aylık 25.3 11.4 10.8 Cari açık Milyon 6.850 12.504 11.639 Cari açık GSYİH 2.9 4.0 3.5 
+Kaynak World Economic Outlook, Eylül 2004 
+
+Bu tahminlere göre ülkemizde ilk yarıda yüzde 8.5'e ulaşan büyüme hızının yılın tamamında yüzde 7 olması bekleniyor. Yine ilk 7 ayda yaklaşık 4 milyar dolar artarak yıllık bazda 11.6 milyar dolara ulaşan cari işlemler dengesi açığının son beş ayda sadece 1 milyar dolar artarak 12.5 milyar dolar seviyesinde kalması öngörülüyor. Tüketici fiyatlarındaki artışta ise önümüzdeki yıl da tek haneli rakamları göremeyeceğimiz tahmin ediliyor. 
+Bu tahminlerin arkasındaki varsayımları ise rapordan çıkarmak mümkün. Raporda hızlı büyümenin iç talepten kaynaklandığı tespit edilirken, bu gelişmenin uluslararası petrol fiyatlarındaki artışla birlikte cari açığı da sıçrattığının altı çiziliyor. Kısa vadeli sermaye hareketleriyle finanse edilen cari açıktaki artışın Türk lirasındaki son değer kaybı ve turizm gelirlerindeki artışla yavaşlayacağı varsayılıyor. Bunların yanı sıra, hızlı büyümenin etkisiyle 2004 yılının gerçekleşen bölümünde beklenenden daha iyi bir performans gösteren kamu gelirlerine rağmen, yılın geri kalan döneminde programın üstünde harcama artışına gidilmemesi, böylece faiz dışı fazlanın yüzde 6.5'i aşması ve bunun önümüzdeki dönemde iç talep ve cari açık artışını sınırlamasının beklendiği anlaşılıyor. Fiyatlardaki kötümserliğin altında ise petrol fiyatlarındaki artışın ve Türk lirasındaki değer kaybının gecikmeli etkileriyle ilgili beklentiler yatıyor. Ancak mevcut gelişmeler bu yıl hem büyümenin hem de cari açığın IMF tahminlerinin üzerine çıkabileceğini gösteriyor. 
+Raporda önümüzdeki yeni programa ilişkin önemli bir mesaj var. Nisan ve mayıs aylarında yaşanan mali türbülans ve artan cari açığın, ekonomideki kırılganlığın ve dolayısıyla ekonomide disiplinin korunması ihtiyacının göstergesi olduğu belirtiliyor. Bu çerçevede 2005 ve sonrasında yüzde 6.5'lik faiz dışı fazla hedefinden vazgeçilmemesi gereğinin altı çiziliyor. 
+Yapısal reformlarda ise henüz gerçekleştirilemeyen konular olarak kamu bankalarının özelleştirilmesi stratejisinin uygulanması, yeni bankalar kanunu, sınırlı mevduat sigortasına yumuşak geçiş ve özelleştirmenin hızlandırılması ön plana çıkıyor. 
+Türkiye'ye ilişkin verilerde dikkati çeken bir husus da kişi başına GSYİH ile ilgili gelişmeler. Fert başına gelirimiz cari dolar kuruyla 2004 yılında yüzde 28.3 oranında artıyor. Ancak satın alma gücü paritesine göre artış ise sadece yüzde 4.5. Bu, 4428 dolarlık kişi başına gelirin önemli ölçüde paramızın değer kazanmasından kaynaklandığını, satın alma gücündeki artışın daha sınırlı olduğunu gösteriyor. 
+
+Kişi başına GSYİH Bulgaristan 2003 2004 2005 Nominal 2.549,9 3.059,4 3.325,3 Satın alma gücü paritesi 7.730,7 8.278,8 8.908,7 Romanya Nominal 2.553,4 3.012,2 3.277,5 Satın alma gücü paritesi 6.974,0 7.431,4 7.957,4 Türkiye Nominal 3.451,8 4.428,4 4.636,8 Satın alma gücü paritesi 6.646,3 6.948,7 7.301,6 
+Kaynak World Economic Outlook, Eylül 2004 
+
+Bir diğer önemli husus da AB sürecinde gelişmişlik düzeyi bakımından bizimle karşılaştırılan Bulgaristan ve Romanya'nın nominal dolar cinsinden kişi başına gelirleri ile bizimki arasındaki fark bu yıl önemli ölçüde bizim lehimize artarken, satın alma gücü paritesine göre tam tersi bir sonucun ortaya çıkması. Satın alma gücü paritesiyle yapılan hesaplamada ortaya çıkan bu durum Türkiye'nin AB ye üyelik sürecinin uzun bir döneme yayılmasını savunanlar tarafından kullanılabilir. Bunun teknik nedenlerinin ilgili birimler tarafından sorgulanmasının oldukça önemli olduğunu düşünüyorum. 
+
+
+
+</TEXT>
+</DOC>

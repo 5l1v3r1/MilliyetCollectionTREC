@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 230643 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/12/son/soneko32.html </URL>
+<DATE> 2004/04/12/ </DATE>
+<TIME> 16.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Merkez Bankası Bileşik öncü göstergeler endeksi Mart'ta hafif azaldı 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası, Mart ayı verileri ile güncelleşen bileşik öncü göstergeler endeksinin MBÖNCÜ-SÜE , Şubat ayından sonra Mart ayında da, hafif azalış gösterdiğini bildirdi. 
+     Merkez Bankası, Mart ayı verileri ile güncelleşen bileşik öncü göstergeler endeksi sonuçlarını açıkladı. 
+     MBÖNCÜ-SÜE Mart ayında, Şubat ayına göre 0.7 puan azalarak 126.5 seviyesine indi. 
+     MBÖNCÜ-SÜE'yi oluşturan serilerdeki olumlu gelişmelere rağmen, mevsimsellikten arındırılmış elektrik üretim miktarının azalması ve mamul mal stok miktarı beklentisindeki artışın yanı sıra faiz oranlarında gözlenen bir puanlık artışın etkisiyle endeks, Şubat ayına göre hafif bir azalış gösterdi. 
+     Ekonomik faaliyetteki büyüme ve daralma dönemlerini önceden görebilmek amacıyla Merkez Bankası'nın OECD ile yürüttüğü ortak çalışma sonucunda, ekonomik faaliyet için bileşik öncü göstergeler endeksi oluşturulmuştu. 
+     
+</TEXT>
+</DOC>

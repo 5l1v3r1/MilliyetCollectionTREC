@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 230753 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/12/son/sonyas02.html </URL>
+<DATE> 2004/04/12/ </DATE>
+<TIME> 07.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Windows'un yeni sürümü ''Uzun boynuz'' 2006'da piyasaya çıkıyor... 
+</HEADLINE>
+<TEXT>
+
+     Windows bilgisayar işletim sisteminin, kod adıyla ''Longhorn'' Uzun Boynuz olarak bilinen yeni sürümünün 2006 yılı ortasında piyasaya çıkacağı bildirildi. 
+     ''Öngörülen tarihin bu olduğunu'' vurgulayan Longhorn ürün müdürü Greg Sullivan'a göre yeni sistemin 3 büyük özelliği bulunuyor Bunlardan ilki WinFS olarak adlandırılan yeni dosyalama sistemi ikincisi Avalon adı verilen grafik makinesi ve İndigo olarak nitelenen ağ hizmetleri mimarisi. 
+     Microsoft'un kurucusu Bill Gates de bir süre önce Longhorn sistemini 2006 yılında piyasaya çıkarmayı planladıklarını açıklamıştı. 
+     ZDNet adlı internet sitesinde yer alan habere göre Microsoft mühendisleri, ürünü bir an önce piyasaya çıkarabilmek amaciyle Longhorn'un bazı özelliklerinden fedakarlık etmeyi ve bu özellikleri, bir sonraki sürüm olan Blackcomb'a aktarmayı planlıyorlar. Bu husus Microsoft başkan yardımcısı Jim Allchin tarafından da doğrulandı. 
+     Bu arada, Longhorn'la ilgili çalışmaların, önümüzdeki haftalarda piyasaya sunulması beklenen Windows-XP ikinci hizmet paketi SP2 nedeniyle yavaşladığı belirtildi. 
+     
+     OFİS PROGRAMININ YENİ SÜRÜMÜ 
+
+     Microsoft kaynakları, ''Microsoft Office'' programının yeni sürümünün de Longhorn ile eş-zamanlı olarak piyasaya sürüleceğini ifade ettiler. 
+     Microsoft yetkilileri, yeni Office programının Windows'un eski sürümleriyle uyumlu olarak çalışacağını söylediler. 
+
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 258692 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/28/yasam/yas10.html </URL>
+<DATE> 2004/07/28/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Google bile virüs kurbanı 
+</HEADLINE>
+<TEXT>
+
+
+DIŞ HABERLER SERVİSİ 
+
+İnternet üzerinden yayılarak çok sayıda bilgisayarı etkileyen 'MyDoom' virüsünün yeni bir versiyonu, Google arama motorunun bir süreliğine kapanmasına yol açtı. Dünya çapında en popüler arama motorlarından biri olan Google'ın, önceki gün 3.5 saat hizmet verememesine yol açan virüs, Yahoo ve Lycos arama motorlarında da aksaklığa neden oldu. Google yetkilileri, virüsün ağlarının küçük bir bölümünü etkilediğini, önemli bir hasara yol açmadığını duyurdu. Yetkililer, e - posta yoluyla yayılırken farklı bir teknik geliştiren virüsün bu versiyonunun, arama motorlarını kullanarak yayıldığını açıkladı. 
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 242311 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/24/son/sondun19.html </URL>
+<DATE> 2004/05/24/ </DATE>
+<TIME> 15.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD'ye gidecekler dikkat Takip ediliyorsunuz... 
+</HEADLINE>
+<TEXT>
+
+     ABD İç Güvenlik Bakanlığı'nın,. ülkeyi ziyaret eden yabancıların her türlü hareketini henüz ABD'ye ulaşmadan önce başlayarak, daha yakından izlemek üzere bir veri tabanları şebekesi için 15 milyar dolarlık bir kontrat yapmak üzere olduğu kaydedildi. 
+     İhaleye katılan şirketlerden geriye kalan son üç tanesi hakkında kararın birkaç gün içinde verileceğini yazan New York Times gazetesi, böylelikle 300'den fazla kara, deniz ve hava sınır kontrol noktasından giriş yapan yabancıların nereden gelip, nerelere gittiklerinden başlayarak, her türlü hareketleri gözetim altında tutulacak ve bir terörist tehdit oluşturup oluşturmadıkları tespit edilmeye çalışılacak. 
+     Accenture, Computer Sciences ve Lockheed Martin gibi büyük şirketler ihalede yarışırken, yüksek maliyetli projenin son derece karmaşık ve potansiyel komplikasyonlara sahip olduğu kaydedildi. 
+     US-Visit olarak bilinen ve 11 Eylül 2001 terör saldırılarından sonra Pentagon tarafından geliştirilen konsepte göre şekillenen projenin, ABD'nin sınır kapılarında bir bilgisayar veri tabanı sistemi kurmayı ve ABD'yi ziyaret için vize başvurusunda bulunanların yurtdışındaki merkezlerde kimlik tespitlerini yapacak biyometrik sensörleri kapsadığı kaydedildi. 
+     Kredi kartı kullanımı ya da benzer veri tabanlarından da istifade edecek sistemin insanların özel yaşamlarına müdahale etme riskine dikkat çekilirken, sistemin her yıl ABD'yi ziyaret eden 300 milyondan fazla insan hakkında veri toplayan 20'ye yakın federal veri tabanıyla da bağlantılı çalışacağı kaydediliyor. 
+     
+</TEXT>
+</DOC>

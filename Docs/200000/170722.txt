@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 170722 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/21/son/soneko13.html </URL>
+<DATE> 2003/07/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa 1. seansta 10.846 puandan kapandı... 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası İMKB Ulusal-100 Endeksi, 1. seansı, 10.80 puan kayıpla 10,846.05 puandan tamamladı. 
+     Hisse senetlerinin ortalama değer kaybı yüzde 0.10 olarak gerçekleşti. 
+     Endeks, haftanın ilk seansına 6.12 puan artışla 10,862.97 puan seviyesinde başladı. İlk yarıyı 10,866.62 puandan geçen endeks, seansta en düşük 10,830.64, en yüksek 10,925.83 puanı gördü. 
+     Seans kapanışında mali endeks 18.69 puan kayıpla 13,205.98 puana, sanayi endeksi 16.72 puan kayıpla 10,893.94 puana geriledi, hizmetler endeksi ise 25.45 puan artışla 6,853.22 puana yükseldi. 
+     Böylece, önceki kapanışa göre mali grup hisseler ortalama yüzde 0.14, sanayi endeksi yüzde 0.15 değer kaybetti. Hizmetler grubu hisseler ortalama yüzde 0.37 oranında değer kazandı. 
+     İşlem gören toplam 284 hissenin 121'inin fiyatı yükseldi, 77'si değer kaybetti, 86'sının fiyatı değişmedi. 
+     Seansta, toplam 145 trilyon 5 milyar 242 milyon liralık işlem hacmi oluştu. 
+     1. seansta, İş Bankası C , Garanti Bankası, Tüpraş, Koç Holding ve Erdemir en yoğun işlem gören hisseler oldu. 
+     
+</TEXT>
+</DOC>

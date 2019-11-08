@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 89898 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/06/14/son/sontur03.html </URL>
+<DATE> 2002/06/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bu internette bir rekor 
+</HEADLINE>
+<TEXT>
+
+     Türkiye, Dünya Kupası'nda millilerin yaşattığı coşkuyu sanal ortamda Milliyet İnternet'te yaşadı... 
+     Dün, haberlerimiz, galerilerimiz ile 3 milyonu aşkın sayfa görüntülemesine ulaşıp bir rekora imza attık... 
+     Maçın hemen bitiminden sonra evlerinden, işyerlerinden Milliyet'in internet sitesine bağlanan onbinlerce kişi 100 bini aşkın 90 dakikanın heyecanını tekrar tekrar yaşadı... 
+     Log analiz programı ile gerçekçi bir filtreleme ile yapılan ölçümler, Milliyet internet sitesinin dün 3 milyon sayfa görüntülemesini aştığını gösterdi. 
+     Böylece Türkçe içerikli haber siteleri içinde hayal edilmesi bile güç bir rekora daha imza atmış olduk... 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

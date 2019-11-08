@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 382406 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/28/son/sonyas16.html </URL>
+<DATE> 2005/09/28/ </DATE>
+<TIME> 17.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+'Her çocuğa bir laptop' rüyası gerçek oluyor 
+</HEADLINE>
+<TEXT>
+
+     ''Her çocuğa bir laptop'' rüyası gerçek oluyor. Dünyadaki bütün yoksul öğrencilerin eğitim amacıyla bilgisayar kullanabilmesini amaçlayan 100 dolarlık laptop projesi hayata geçiyor. 
+     Massachusetts Teknoloji Enstitüsü'nde MIT yer alan Media Lab'ın kurucusu Nicholas Negroponte'nin geliştirdiği, kendi enerjisini üretebilen 100 dolarlık laptop modelini bugün tanıtması bekleniyor. 
+     Söz konusu laptopun çalışmak için pil ya da elektriğe ihtiyaç duymayacağı, kenarına iliştirilen bir kolun çevrilmesiyle ihtiyaç duyacağı enerjiyi sağlayacağı kaydediliyor. 
+     Üçüncü Dünya'nın yoksul ve uzak bölgelerinde de kullanılabilecek şekilde tasarlanan laptoplar, aynı zamanda acil durumlarda iletişim sağlanabilecek bir araç olarak kullanılacak. Kablosuz internet erişimine sahip olacak laptopların, civarda çalışan aynı model laptoplarla doğrudan bağlantıya geçebileceği ve bunlardan birinin internete girişi varsa diğer laptopların da bu girişten faydalanabileceği ifade ediliyor. 
+     Laptopların seri üretimine geçilip gelişmekte olan ülkelerdeki okullara dağıtılması durumunda milyonlarca öğrencinin başarısının yükseleceğini kaydeden Negroponte, projeye Brezilya, Tayland ve Mısır hükümetlerinin şimdiden büyük ilgi gösterdiklerini söyledi. 
+     Massachusetts Valisi Mitt Romney'in de projeye yakın ilgi göstererek, eyaletteki ortaokul ve lise öğrencilerine dağıtmayı düşündüğü 500 dolarlık laptoplardan vazgeçerek, bu ucuz laptopları beklediği ifade edildi. 
+     Laptopların çalışır durumdaki ilk prototiplerini 2006 yılı başlarında üretmeyi planlayan Negroponte, seri üretimin 2006'nın son çeyreğinde başlayacağını kaydetti. 
+     ''Öğrencilerin 21. yüzyılın gerektirdiği yeteneklere kavuşmalarını ancak bilgisayarlar sağlar'' diyen Negroponte, bu amaçla Media Lab'dan çalışma arkadaşları Joe Jacobson ve Seymour Papert ile birlikte, bilgisayarlar üreterek dağıtımını yapmak amacıyla bir örgüt kurdukları belirtiliyor. 
+     
+</TEXT>
+</DOC>

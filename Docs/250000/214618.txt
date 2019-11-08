@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 214618 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/12/ekonomi/eko09.html </URL>
+<DATE> 2004/02/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft, Windows'a güvenlik yaması yaptı 
+</HEADLINE>
+<TEXT>
+
+   EKONOMİ SERVİSİ 
+   
+   Dünyanın yazılım devlerinden biri olan ve hakkında sayısız dava açılan Microsoft'un, Windows programlarında ciddi bir güvenlik kusuru olduğu ortaya çıktı. 
+   Windows sistemlerindeki NT, Windows 2000, XP ve Server yazılımlarında ortaya çıkan ve hacker'ların bilgisayarlarda istenilen sistemlere girerek kişisel bilgilere ulaşmalarına imk n tanıyan bu güvenlik açığından sonra Microsoft web sitesi üzerinden bedava program indirme şeklinde 'yama' olarak nitelendirilen bir sisteme geçti. Şirket, zarara uğrayan müşterilerinin internetten indirdirleri programların sistemi düzeltmeye yarayacağı açıkladı. Microsoft'un güvenlik işleri sorumlusu Stephen Toulouse, problemin çok ciddi ve Windows sistemlerinde yayılmaya müsait olduğunu da itiraf etti. Microsoft, yazılımların güvenlik kusurlarını kabul ederken son dönemde virüslerin neden olduğu sorunların ise Windows'tan kaynaklanmadığını savundu. 
+   
+   
+</TEXT>
+</DOC>

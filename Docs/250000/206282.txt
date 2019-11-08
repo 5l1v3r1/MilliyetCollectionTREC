@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 206282 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/04/ekonomi/eko01.html </URL>
+<DATE> 2004/01/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+'İhracatçının ilacı olacağız' 
+</HEADLINE>
+<TEXT>
+
+   Mart ayında faaliyete geçecek Vadeli İşlem ve Opsiyon Borsası Genel Müdürü Hamdi Bağcı, vadeli işlemlerle ihracatçıların kur riskinden korunabileceğini söyledi 
+      Deniz Sipahi 
+   
+   Çalışmaları 12 yıl önce başlayan ve Temmuz 2002'de 6 trilyon lira sermaye ile kurulan Vadeli İşlem ve Opsiyon Borsası VOBAŞ faaliyetlerine iddialı başlıyor. 
+   İzmir Ticaret Borsası, TOBB, İMKB, Takasbank, Akbank, Garanti Bankası, Koçbank, Vakıfbank, İş Yatırım Menkul Değerler, Türkiye Sermaye Piyasası Aracı Kuruluşlar Birliği ve TSKB'nin kurucuları arasında yer aldığı VOBAŞ mart ayında işlemlere başlıyor. Bu borsada 'türev araçlar' adı verilen vadeli işlem ve opsiyon sözleşmeleri alınıp satılacak. 
+   İlk etapta pamuk, buğday gibi tarım ürünleri ile faiz, döviz ve İMKB endeksinin işlem göreceği Vadeli İşlemler Borsası'nın bir yılın sonunda İMKB'nin işlem hacmini yakalaması, beş yıl içinde de ikiye katlaması bekleniyor. Sermaye Piyasası Kurulu'nda yaklaşık 14 yıl çalıştıktan sonra VOBAŞ'ın Genel Müdürlüğü'nü üstlenen Hamdi Bağcı, türev araçları ilaca benzeterek şöyle dedi 
+   "Türev araçların deva olacağı hastalıkları ya fark etmiyoruz, ya da bu hastalıkların sonuçlarını görüyoruz ama tedavisi için uygun ilaç kullanmıyoruz. İhracatçılarımızın beklentilerinden daha düşük gerçekleştiğinde döviz kurlarından şik yetçi olduğunu görmekteyiz. Her hangi bir önlem almamış bir ihracatçı için ileride düşük döviz kuru ile karşılaşmak pek arzu edilir bir şey değil. Gerçekten ileride döviz kurlarının ne olacağını bilmek mümkün değil. Ancak, kurlardaki belirsizliğin neden olduğu olumsuz sonuçların giderilmesinde, hükümetlerden yardım istemek dışında bir çözüm daha var. O da türev araçlar." 
+   
+   Kur garantisi sağlayacak    Bağcı, vadeli işlemler sisteminin ihracatçıları nasıl koruyacağını da şöyle açıklıyor "İhracat yapan bir şirketin üç ay sonra döviz geliri elde edeceğini düşünelim. Şirket üç ay sonraki döviz kuru ne olursa olsun, şu an itibariyle k r veya zararını sabitlemek isteyebilir. Bunu vadeli işlem sözleşmeleri kullanarak sağlamak mümkün. İhracat dövizinizi TL'ye çevireceğiniz tarihte size döviz satma hakkı verecek bir vadeli işlem sözleşmesini borsamızda satabilirsiniz. Bunun yapılmasıyla, üç ay sonraki dövizinizin hangi kur üzerinden satılacağı garanti edilir. Bu işlemin karşı tarafı da üç ay sonra dövize ihtiyaç duyacak bir ithalatçı olabilir. İthalatçı da üç ay sonra alacağı dövize ödeyeceği TL tutarını şimdiden belirlemek isteyebilir. Borsamız gelecekteki nakit akımlarını bu şekilde belirleme isteğine cevap vermek amacıyla faaliyet gösteriyor. Türev araçlarını ayrıca yatırım amacıyla da kullanabilirsiniz. Örneğin döviz kurunun ileride artacağını düşünüyorsanız, borsamızda sözleşme satın alabilir, düşeceğini düşünüyorsanız satabilirsiniz." 
+   
+   
+</TEXT>
+</DOC>

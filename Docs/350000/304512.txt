@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 304512 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/07/son/sonyas21.html </URL>
+<DATE> 2005/01/07/ </DATE>
+<TIME> 12.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Fazla sayıda bağışıklık geni AIDS'ten koruyor... 
+</HEADLINE>
+<TEXT>
+
+     Fazla sayıda bağışıklık geni CCL3L1'e sahip olan kişilerin, AİDS virüsüne karşı daha dirençli olduğu belirtildi. 
+     Science dergisinin son sayısında yayımlanan makaleye göre, değişik etnik gruplara mensup 4300 kişiden alınan kan numunelerini inceleyen uzmanlar, bağışıklık proteini üreten CCL3L1 geninin sayısını araştırdılar. 
+     Bu araştırmanın, AIDS virüsüne karşı daha güçlü ya da daha kırılgan olanların genetik özelliklerini belirleme fırsatı sunduğu belirtilen makalede, AİDS virüsü bulaşmayan siyah Amerikalılarda, adı geçen genden ortalama 4 adet bulunduğu kaydedildi. 
+     Araştırmaya göre, bu ortalama gen sayısı, Avrupa kökenli Amerikalılarda 2, İspanyol kökenlilerde ise 3 olarak tespit edildi. 
+     Bu sonuçların, ille de AİDS'e siyahlardan daha açık ve dayanıksız oldukları anlamına gelmediğine dikkat çeken uzmanlar, sadece bu gruplar içinde, zikredilen gene en az sayıda sahip olanların AİDS virüsüne yakalanma riskinin yüksek olduğunu vurguladılar. 
+     
+</TEXT>
+</DOC>

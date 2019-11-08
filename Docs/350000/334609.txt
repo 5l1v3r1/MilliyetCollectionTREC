@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 334609 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/18/son/sonyas20.html </URL>
+<DATE> 2005/04/18/ </DATE>
+<TIME> 22.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Maddenin yeni hali "Kuark-Gluon Plazması" 
+</HEADLINE>
+<TEXT>
+
+     ABD'de, dünyanın en önemli fizik deneylerinin yapıldığı Brookhaven Ulusal Laboratuvarı'ndaki bilimadamları, atomları parçalayarak maddenin yeni halini elde ettiklerini açıkladı. 
+     Araştırmacılar, elde ettikleri sıvı formundaki ''kuark-gluon plazmasının'', evrenin, en erken döneminde neye benzediğini gösterdiğini açıkladı. 
+     Bilimadamları, evrenin meydana geldiği Büyük Patlama'dan sadece bir an sonra tüm maddelerin ''kuark-gluon plazması'' denilen sıvı bir halde olduğunu belirtiyor. 
+     Brookhaven Ulusal Laboratuvarı'ndaki ''Nükleer Fizik'' bölümünün Başkanı Sam Aronson, ''Evrende 13 milyar yıl önce var olan serbest kuark ve gluonların, bugün bildiğimiz partiküllere dönüştüğünü'' belirtti ve yapılan deneyle maddenin yeni bir halini elde ettiklerini kaydetti. 
+     Kuark-gluon plazması, laboratuvardaki Relativistik Ağır İyon Çarpıştırıcısı'nda, altın iyonları ışık hızına yakın süratle çarpıştırılarak elde edildi. Çarpışmanın yarattığı yüksek enerjiyle açığa çıkan kuark-gluon plazmasının, beklenenin aksine gaz formunda değil, ''mükemmel bir kuark sıvısı'' olduğu belirtildi. 
+     Bilimadamları, kuarkların, gaz formunda olduğu gibi serbestçe dolaşmadığını, düzensiz ya da dağınık hareket etmediğini, ''balık sürüsü gibi'' birlikte aktıklarını kaydetti. Aronson bunun, ''mükemmele yakın bir sıvı hal'' olduğunu söyledi. 
+     Evrenle ilgili diğer teorilere de ışık tutacağı belirtilen araştırma sonuçlarının, ''Nuclear Physics'' dergisinde yayımlanacağı belirtildi. 
+     
+     MADDENİN EN KÜÇÜK PARÇASI 
+     Kuarklar, maddenin temel yapıtaşları proton, nötron gibi çekirdek parçalarının içinde, değişik bileşimler halinde bulunuyor. 
+     Bunlar, temel doğa kuvvetlerinden şiddetli çekirdek kuvveti taşıyan gluon adlı sanal parçacıkla birbirlerine bağlanıyorlar. 
+     Bu bağ çok güçlü olduğu için kuarkların, çekirdek dışında bağımsız olarak görülemeyeceği, ancak evreni ortaya çıkaran Büyük Patlama'nın ilk saniyesinin küçük kesirleri içinde kuarkların ve gluonların madde parçacıkları dışında, muazzam sıcaklık ve basınç altında bir plazma halinde var olabildiği düşünülüyordu. 
+     
+</TEXT>
+</DOC>

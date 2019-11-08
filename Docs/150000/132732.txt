@@ -1,0 +1,44 @@
+<DOC>
+<DOCNO> 132732 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/01/23/son/sontur07.html </URL>
+<DATE> 2003/01/23/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Telefon numaranız, internet adresiniz olabilir... 
+</HEADLINE>
+<TEXT>
+
+     Türkiye'de internet alan adı uygulamalarında bir ilk daha gerçekleşiyor. İnternet kullanıcıları, cep ya da ev telefon numaralarını internet adresi olarak alabilecekler. 
+     ODTÜ İnternet Alan Adı Yönetimi'nin, 2 ay içinde kullanıma girecek yeni sistemine göre, avukatlar av.tr, polisler pol.tr uzantılı, şirketler ise com.tr'nin yanı sıra biz.tr ve info.tr uzantılı adreslere sahip olabilecekler. 
+     İnternet Alan Adı Domain Names Sistems-DNS Yöneticisi Atilla Özgit, A.A muhabirine yaptığı açıklamada, yeni yılda internet kullanıcıları için birçok yenilik hazırladıklarını belirtti. 
+     İnternette alan adlarının uluslararası platformda .com, .org, .net, .edu, .mil ve .k12 şeklindeki uzantılar ile yer aldığını, ülkeleri temsil eden tr gibi uzantıların da bulunduğunu ifade eden Özgit, artık Türkiye'de internet kullanıcılarının alan adı almalarının daha da kolaylaştırılacağını kaydetti. 
+     Özgit, DNS sisteminde yenilikler yaptıklarını, sistemin yenilenmiş haliyle 2 ay içinde kullanıcıların hizmetine gireceğini dile getirdi. İnternet kullanımını yaygınlaştırma çabasında olduklarını vurgulayan Özgit, hazırlıkların ardından telefon numaralarının web adresi olarak alınabilmesine imkan veren ''tel.tr'' ile adreslerde sınır koymayan ''web.tr'' uygulamasını kullanıma açacaklarını söyledi. 
+     
+     BELEDİYELERE VE EMNİYETE ÖZEL ALAN ADI 
+     Şirketlerin bugüne kadar com.tr uzantılı adresler alabildiklerini anımsatan Özgit, bu alanı genişleterek, ''biz.tr'' ve ''info.tr'' uzantılı adreslerin de şirketlere verileceğini, bu alan adlarının alımında belge istenmesi konusunda da kolaylıklara gidileceğini kaydetti. 
+     İsteyen internet kullanıcılarının ''name.tr'' uzantısıyla, adı ve soyadına ya da ad-soyad kombinasyonlarıyla internet adresi tescil ettirebileceğini de bildiren Özgit, ayrıca, emniyet teşkilatının ''pol.tr'', belediyelerin ''bel.tr'' uzantılı adresleri alabileceklerini belirtti. 
+     Aynı adreslerin alınmak istenmesi halinde ortaya çıkacak uyuşmazlıkların çözümü için çalışıldığını dile getiren Özgit, mahkeme yolu açık olmak üzere, hukukçu ve uzman teknisyenlerden oluşan mekanizmanın sorunu çözmeye çalışacağını anlattı. 
+     Özgit, ''name.tr'' ve ''tel.tr'' uygulamalarının Türkiye'de internet alan adı tescili konusunda patlama yaşanmasına da neden olabileceğini, tescil fiyatlarının yeniden düzenlendiğini, yeni tarifelerin Mart ayından itibaren geçerli olacağını ifade etti. 
+     
+     TR UZANTILI ADRESLERİN DAĞILIMI 
+     Özgit'in verdiği bilgiye göre, ODTÜ Alan Adı Yönetimi, yeni sistemle internette .com.tr, .net.tr, .info.tr, .biz.tr, .org.tr, .web.tr, .gen.tr, .av.tr, .name.tr, .tel.tr, .gov.tr, .bel.tr, .pol.tr, .mil.tr, .k12.tr ve .edu.tr uzantılı adreslerin tescilini gerçekleştirecek. 
+     ODTÜ alan Adı Yönetimi'nden bugüne kadar tr uzantılı tescil edilmiş adreslerin alanlara göre dağılımı ise şöyle 
+     com.tr ticari kuruluşlar 27000 . 
+     org.tr organizasyonlar 1905 . 
+     edu.tr üniversiteler 158 . 
+     k12.tr ortaöğretim kurum 477 . 
+     gov.tr kamu kurumları 1317 . 
+     net.tr servis sağlayıcılar 151 . 
+     mil.tr askeri kurumlar 8 . 
+     gen.tr genel 65 . 
+     nom.tr kişisel ada kayıt 199 . 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

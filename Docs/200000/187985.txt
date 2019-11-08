@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 187985 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/11/son/soneko02.html </URL>
+<DATE> 2003/10/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsası'nda Dow Jones düştü, nasdaq yükseldi 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası'nın temel göstergesi Dow Jones, 5.18 puan yüzde 0.05 düşerek, haftayı 9,674.83 puandan tamamladı. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq ise 3.41 puanlık yüzde 0.18 bir artışla haftayı 1,915.31 puanla bitirdi. 
+     
+</TEXT>
+</DOC>

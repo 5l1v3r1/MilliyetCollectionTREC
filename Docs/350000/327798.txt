@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 327798 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/28/son/soneko24.html </URL>
+<DATE> 2005/03/28/ </DATE>
+<TIME> 12.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+"Kapıtılan cihazın fişinin prize takılı bırakılması cihaza zarar veriyor" 
+</HEADLINE>
+<TEXT>
+
+     Elektronik cihazların elektrik prizine takılı bırakılmasının cihazların ömrünü kısalttığı, elektrik sarfiyatını artırdığı bildirildi. 
+     Gaziantep Üniversitesi Mühendislik Fakültesi Elektrik ve Elektronik Mühendisliği Bölümü Öğretim Üyesi Yrd. Doç. Dr. Vedat Karslı, AA muhabirine yaptığı açıklamada, ''Kapattığımız elektronik cihazın fişini elektrik prizinden çekerek ömrünü uzatabilir, enerji sarfiyatını azaltabiliriz'' dedi. 
+     Refah düzeyindeki artışa ve teknolojik gelişmeye bağlı olarak ev ve işyerlerinde elektronik cihazların kullanımının arttığını, bu cihazların doğru kullanılmasının ekonomik bakımdan önem kazandığını vurguladı. 
+     Karslı, televizyon, müzik seti gibi bazı elektronik cihazların uzaktan kumanda ile kapatılmasının yaygın ancak yanlış bir davranış olduğunu ifade ederek, sözlerini söyle sürdürdü 
+     ''Özellikle televizyonlar için sergilenen bu davranış cihazın ömrünün kısalmasına ve daha fazla enerji tüketilmesine neden olmaktadır. Cihaz uzun süreli kullanılmayacaksa açıp kapama düğmesi kullanılarak kullanım dışı bırakılmalı ve fişi elektrik prizinden çekilmeli. Çünkü, uzaktan kumanda üzerindeki düğmeden kapatılan cihazın içine elektrik girmesi engellenmemektedir. Cihaz bu durumda yine enerji tüketmektedir. Bu durum aynı zamanda cihazın ömrünün kısalmasına neden olmaktadır.'' Türkiye'nin enerjide dışa bağımlı ülkeler arasında bulunduğuna ve enerji yatırımlarının maliyetinin çok yüksek olduğuna dikkati çeken Karslı, elektrikli ve elektronik cihazları doğru kullanarak önemli miktarlarda enerji tasarrufu sağlanabileceğini vurguladı. 
+     Tasarruf edilen enerjinin en ucuz enerji olduğunu ifade eden Karslı, sözlerini şöyle tamamladı 
+     ''Elektrikle çalışan cihazlarımızı doğru kullanarak aile bütçemiz yanında ülke ekonomimize de katkıda bulunmuş oluruz. Ayrıca, elektrik enerjisini güvenli kullanabilmemiz için elektrik tesisatlarımızda otomotik sigorta ve kaçak akım rölesi bulunmalı.'' 
+     
+</TEXT>
+</DOC>

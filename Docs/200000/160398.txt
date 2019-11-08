@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 160398 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/01/son/sontur02.html </URL>
+<DATE> 2003/06/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Deprem fayına uydu takibi... 
+</HEADLINE>
+<TEXT>
+
+     Boğaziçi Üniversitesi Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü, Kuzey Anadolu Fay Hattı'ndaki hareketleri, 50 noktada uydu aracılığıyla izliyor. 
+     Boğaziçi Üniversitesi Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü, TÜBİTAK, İTÜ ve Harita Genel Komutanlığı'nca Marmara Bölgesi'nde başlatılan ''Marmara Sürekli GPS Gözlem Ağı Projesi'' kapsamında Kuzey Anadolu Fay Hattı'ndaki hareketler uydu aracılığıyla sürekli izleniyor. 
+     Bolu'nun Kıbrısçık İlçesi'nde, arazide uydu aracılığı ile ölçüm yapan BÜ Kandilli Deprem Araştırma Enstitüsü Jeodezi Anabilim Dalı Öğretim Görevlisi Dr. Onur Yılmaz, proje kapsamında 7 ayrı ekibin Marmara Bölgesi'nde GPS Küresel Konumlama Sistemi cihazları ve uydu yardımı ile Kuzey Anadolu Fay Hattı üzerinde ölçümler yaptığını söyledi. 
+     Kuzey Anadolu Fay Hattı'nda, 1999 depreminden sonra batıya kayma olduğunu, çalışmanın amacının bu kayma miktarındaki değişimi belirlemek olduğunu anlatan Dr. Yılmaz, şöyle konuştu 
+     ''Düzce depreminde Kuzey Anadolu Fayı ortalama 1-4 metre arasında batıya doğru kaydı. Bu oran, bazı bölgelerde 1 metre iken, bazı bölgelerde 4 metreye kadar ulaştı. Kuzey Anadolu Fay Hattı'nın batı kesimindeki kayma hareketi 1998 ölçümlerinde yılda 2.5 santimetre iken Düzce depremi ile 40 saniye içerisinde yaklaşık 100 yıla karşılık gelecek şekilde hareket gerçekleşti. Bizim amacımız bölgedeki kayma hareketinin depremden sonra değişimini uydu aracılığı ile tespit etmek. Yaptığımız ölçümlere göre depremden sonra bölgedeki yer hareketleri durdu. Biz hareketlerdeki değişimin 1999 öncesine dönüp dönmediğini saptamaya çalışıyoruz.'' Dr. Onur Yılmaz, kullanılan cihazların, GPS üzerinden aldığı bilgileri anında kayıt cihazına aktardığını belirterek, şunları kaydetti 
+     ''Marmara Bölgesi'nde 50'ye yakın gözlem noktası var. Bunların haricinde 10 adet de sürekli gözlem yapan noktalar var. Bu noktalar aracılığı ile Marmara Bölgesi'nde, Marmara Ada'sından Bolu Kıbrısçık'a kadar bölgedeki depremsel hareketleri belirli periyodlarla izlemek ve takip etmek mümkün. Bu veriler uzun vadede bilimsel çalışmalara ve Kuzey Anadolu Fay Hattı'nın Batı kesiminin özelliklerine dair önemli bulgulara ulaşılmasını sağlayabilir.'' Öte yandan, bugüne kadar İznik, Sabanca, Hendek, Mudurnu, Akyazı, Bolu, Ereğli, Eskişehir, Ankara Nallıhan, Gölcük, Orhangazi, Şile ve Avcılar'da eş zamanlı ölçümler yapıldığı, 7 ekibin ölçümlerine devam ettiği öğrenildi. 
+     
+</TEXT>
+</DOC>

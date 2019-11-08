@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 321125 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/06/ekonomi/eko03.html </URL>
+<DATE> 2005/03/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sikorsky'ye Türk yazılımı 
+</HEADLINE>
+<TEXT>
+
+
+Sikorsky helikopterler için yazılım üreten Milsoft, alanında uluslararası değerlendirmenin en üst derecesine ulaşan ilk Türk firması oldu 
+
+BAHAR ATAKAN Ankara 
+
+Türk mühendislerce kurulan teknoloji ve yazılım firması Milsoft, geleceğin sivil helikopteri adı verilen Sikorsky'nin S - 92 modeli için yazılım üretti. TOBB'un Başbakan Tayyip Erdoğan'a hediye ettiği VIP tipi Sikorsky'nin de hava bakım veri bilgisayarı yazılımını da üstlenen Milsoft, uluslararası değerlendirme metodu CMMI'nın en üst seviyesi 5. dereceye ulaşabilen ilk Türk firması oldu. 
+ODTÜ Teknokent bünyesinde faaliyet gösteren Milsoft, dünya çapında kullanılan bir yazılıma imza attı. Türk mühendislerce Sikorsky için hazırlanan yazılım, havadan oluşan arızaları uçuş ekibine bildiriyor. Bilgiler, helikopterin birçok noktasına yerleştirilen sensörlerle alınıyor. Bilgiler özel yazılım üzerinde işlendikten sonra "ARINC - 429" adı verilen sistem üzerinden rapor ediliyor. 
+Milsoft, TOBB'un Erdoğan'a hediye ettiği 20 milyon dolar değerindeki S - 92 model helikopterin hava bakım veri bilgisayarının da yazılımını gerçekleştirdi. Yazılımın maliyetinin 5 milyon dolar olduğunu ifade eden Milsoft Genel Müdürü İsmail Başyiğit, şunları kaydetti 
+"İhalede Avrupa, ABD ve Hindistan firmaları vardı. Yazılım geliştirme kalite standartlarmız FAA'ya Federal Aviation Administration yakın olduğu için ihaleyi aldık. Yolcu taşıyan hava araçlarının yazılımını ve sistemlerini test eden FAA sertifikası olmadan herhangi bir sistem kullanılamıyor." 
+
+Avrupa'yı solladı 
+CMMI 5'e Avrupa'da erişebilen ilk ve tek firma olan Milsoft'un başarısıyla Türkiye, bu seviyeye erişebilen Avrupa'da ilk, dünyada dokuzuncu ülke oldu. Milsoft, aralarında Northrop Grumman, Boeing, Raytheon, Lockhead Martin gibi yazılım teknolojisi üreten dev kuruluşların bulunduğu 40 firma arasına girdi. 
+
+
+</TEXT>
+</DOC>

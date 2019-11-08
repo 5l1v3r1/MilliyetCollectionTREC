@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 260943 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/05/son/sonyas05.html </URL>
+<DATE> 2004/08/05/ </DATE>
+<TIME> 10.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+TSE'nin standardı, standarda uygun değil iddiası... 
+</HEADLINE>
+<TEXT>
+
+     Türk Dil Kurumu TDK , TSE'yi "standart" sözcüğünün yazımı konusunda uyardı. Enstitünün, "standartları" sözcüğünü "standardları" biçiminde kullandığına işaret eden TDK, "TSE'nin bu sözcüğü 'standartları' şeklinde kullanması gerekir" uyarısında bulundu. 
+     TDK'nın internet sitesinde yer alan sorular ve yanıtlar bölümünde, limitet kelimesinin ingilizce limited olarak yazılması nedeniyle Ltd biçiminde kısaltma kullanıldığı ve bunun gelenekselleştiği belirtildi. 
+     Sitede, Türk Standartları Enstitüsü'nün "standart" sözcüğünü niçin "standard" olarak kullandığı sorusu da yer aldı. TDK'nın soruya verdiği yanıt ise şöyle 
+     "Standart kelimesi yalın halde veya çokluk ekiyle birlikte kullanıldığı zaman son seste yumuşama olmaz, ancak ünlüyle başlayan bir ek alırsa 'standardı' şeklinde son sesi yumuşar. Türk Standartları Enstitüsü'nün bu kelimeyi 'standartları' şeklinde kullanması gerekir." 
+     
+</TEXT>
+</DOC>

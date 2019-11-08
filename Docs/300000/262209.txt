@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 262209 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/10/son/sonyas09.html </URL>
+<DATE> 2004/08/10/ </DATE>
+<TIME> 10.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternette 'kekeleme veri tabanı' 
+</HEADLINE>
+<TEXT>
+
+     İngiliz bilim adamları, kekeleyen ünlülerin kayıtlarını toplayarak, internet ortamında bir veri tabanı oluşturdu. 
+     BBC'nin bilim adamları, veri tabanının, konuşma sorunu çeken kişilerle ilgili araştırmalara yardımcı olacağını söylüyor. 
+     Projenin başkanı olan University College London'dam Profesör Peter Howell, internet ortamında oluşturdukları veri tabanının, kekeleme sorunu olan kişiler için yeni bir umut olduğunu söyledi. 
+     Peter Howell böylece insanların, bu sorunlarını kontrol altına almalarında yardımcı olma yolunda, çok daha iyi bir durumda olacaklarını belirtti. 
+     Howell, konuyla ilgili bilgilerin yetersiz olduğunu fark etmeleri üzerine, veri tabanınını oluşturmayı kararlaştırdıklarını vurguladı. 
+     Ünlü araştırma kuruluşu the Wellcome Trust da, veri tabanı projesine finansal destek sağladı. 
+     Veri tabanında, son 10 yıl içinde kekelerken kaydedilen ünlülerin yaklaşık 150 kaydı bulunuyor. 
+     Kayıtları alınanlar ise farklı etnik gruplar ve yaş katergorilerinden kişiler. 
+     Kekeleme genellikle, üç ila beş yaş arasında ortaya çıkan bir sorun. 
+     İngiltere'de yaklaşık üç milyon kişinin, yaşamlarının en az bir bölümünde, kekeleme sorunuyla yüzleştikleri sanılıyor. 
+     Halen yaşları 5 ila 16 arasındaki 100 binden fazla çocuğun kekelediği belirtiliyor. 
+     Kekeleme sorununa sahip ünlüler arasında, pop yıldızı Gareth Gates de var. 
+     Geçmişte de Aristo, Kral 1. Charles I, Napolyon, Charles Darwin, Isaac Newton, Marylin Monroe ve Winston Churchill gibi kişilerin, zaman zaman kekeleme sorunuyla mücadele ettikleri belirtiliyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 326042 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/22/son/sonyas05.html </URL>
+<DATE> 2005/03/22/ </DATE>
+<TIME> 07.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hackerlar Kalifornia Eyalet Üniversitesi'ni hack'ledi 
+</HEADLINE>
+<TEXT>
+
+     Hackerların, Kaliforniya Eyalet Üniversitesi bilgisayar ağına saldırdığı ve üniversiteyle bağlantısı olan 59 bin kişinin şahsi bilgilerini ele geçirdiği bildirildi. 
+     Kuzey Kaliforniya'nın Chico kentinde bulunan üniversite yetkilileri, mevcut ve eski öğrencilerine, öğrenci adaylarıyla üniversite personeline yönelik bir uyarıda bulunarak, ABD'de kredi kartı numarasından daha önemli olan Sosyal Güvenlik Numaraları da dahil olmak üzere bütün şahsi bilgilerinin bilinmeyen kişilerin eline geçmiş olabileceğini kaydettiler. 
+     Bu arada, saldırının üç hafta önce yapılmış olabileceğine dikkat çekilirken, bilgisayar sisteminde bulunan bazı dosyalara girilmiş, hatta bazı dosyaların indirilmiş olabileceğine işaret edildi. 
+     Bilgisayar sisteminden çalınan şahsi bilgilerin herhangi bir yerde kullanıldığına dair henüz bir bulguya ulaşılmadığını bildiren üniversite yetkilileri, olayın kimler tarafından yapıldığının da bilinmediğini, ancak soruşturmanın devam ettiğini kaydettiler. 
+     
+</TEXT>
+</DOC>

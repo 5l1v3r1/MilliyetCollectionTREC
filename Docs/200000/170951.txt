@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> 170951 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/22/son/soneko36.html </URL>
+<DATE> 2003/07/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Para piyasalarında bugün... 
+</HEADLINE>
+<TEXT>
+
+     Borsa'da işlem gören hisse senetleri bugün ortalama yüzde 2.61 değer kaybetti. 
+     İstanbul Menkul Kıymetler Borsası İMKB Ulusal 100 endeksi, 1. seansta 166.56 puan kayıpla 10,660.70 puandan kapandı. 2. seansta da 116.21 puan kayıp yaşayan endeks, günü 10,544.49 puandan tamamladı. 
+     Endeksin günlük kaybı 282.77 puan olarak hesaplandı. Hisse senetleri piyasasında günlük işlem hacmi 230 trilyon 489 milyar lira oldu. 
+     Borsa uzmanları, endeksteki gerilemede, Irak'a asker yollanmasına ilişkin belirsizliklerin yarattığı tedirginliğin en önemli etken olduğunu kaydettiler. 
+     
+     DÖVİZ 
+     Merkez Bankası doların bugünkü efektif kurunu alışta 1 milyon 383 bin 385 lira, satışta ise 1 milyon 393 bin 118 lira olarak açıkladı. 
+     Böylece dolar, Merkez Bankası'nın dünkü kurlarına göre, alışta 802 lira, satışta ise 809 lira yükseldi. 
+     Serbest piyasada dün 1 milyon 389 bin liradan kapanan dolar, 1 milyon 388 bin liradan, 1 milyon 568 bin liradan kapanan Euro 1 milyon 570 bin liradan açıldı. 
+     Piyasa kapanışında doların satış fiyatı 1 milyon 397 bin liraya, Euro'nun satış fiyatı 1 milyon 584 bin liraya çıktı. 
+     
+     TAHVİL VE BONO PİYASASI 
+     İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda işlem gören, gösterge niteliğindeki 18 Ağustos 2004 vadeli bugün valörlü tahvilin bileşik getirisi 0.89 puan yükseldi. 
+     Bu kağıdın aynı gün valörlü işlemlerinin basit getirisi yüzde 48.57, bileşik getirisi yüzde 47.80'den kapandı. 
+     İMKB Tahvil ve Bono Piyasası Repo Pazarı'nda, gecelik faiz de ortalama yüzde 34.99 olarak belirlendi. 
+     
+     HAZİNE İHALESİ 
+     Hazine tarafından bugün yapılan 91 gün vadeli Türk Lirası cinsinden iskontolu referans bono ihalesinde bileşik faiz yüzde 36.05 olarak gerçekleşti. 
+     Hazine'nin bono ihalesine, 2 katrilyon 187.4 trilyon liralık teklif gelirken, ihalede 1 katrilyon 940.8 trilyon liralık nominal satış yapıldı. İhalenin net satış tutarı ise planlandığı gibi 1 katrilyon 797 trilyon lira oldu. Bono ihalesinde basit faiz yüzde 32 oldu. 
+     
+</TEXT>
+</DOC>

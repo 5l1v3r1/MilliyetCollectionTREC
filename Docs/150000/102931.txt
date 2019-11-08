@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 102931 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/08/20/son/soneko10.html </URL>
+<DATE> 2002/08/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+TRLIBOR uygulaması sorunsuz sürüyor 
+</HEADLINE>
+<TEXT>
+
+     Türkiye Bankalar Birliği TBB Türk Lirası Libor İdare ve Tahkim Kurulu Başkanı Yılmaz Ertürk, TRLIBOR uygulamasının sorunsuz devam ettiğini belirterek, ''Bu piyasa derinlik kazandıkça, uygulama bankalar ile müşteriler arasındaki ilişkilere de yansıyacaktır'' dedi. 
+     Ertürk, test çalışmalarının ardından 1 Ağustos'ta 13 bankanın katılımıyla başlayan Türk Lirası Referans Faiz Oranı TRLIBOR uygulaması hakkında bilgi verdi. 
+     Yılmaz Ertürk, TRLIBOR uygulamasının bankaların kotasyon girdiği ilk aşama, TBB'nin girilen kotasyonların ilgili vadelerde TL referans faizleme oranına dönüştürme olan ikinci aşama ile oranların yayınlandığı son aşamanın sağlıklı bir şekilde yürüdüğünü söyledi. 
+     TRLIBOR sabitleme seansına katılma kriterlerine sahip her bankanın uygulamaya dahil olabileceğine işaret eden Ertürk, ancak bugüne kadar söz konusu 13 banka dışında başvuruda bulunan banka bulunmadığını kaydetti. 
+     Bankaların özellikle Türk Lirası libor ile ilgili fiksing sabitleme yapılırken işlem yaptığını belirten Ertürk, işlem hacminin zaman içinde artacağını söyledi. 
+     Yılmaz Ertürk, uygulamanın sorunsuz devam ettiğini vurgulayarak, şunları kaydetti 
+     ''Bu piyasa derinlik kazandıkça, uygulama bankalar ile müşteriler arasındaki ilişkilere de yansıyacaktır. Pekçok bankanın, geleceği planlamaya dair eminim ki bugünden birtakım çalışmaları vardır. Dünyada değişken faizli borçlanmalarla fiyatlamalar var. TL'ye endeksli değişken faizli enstrümanlar anlamında bankalarımız da birtakım çalışmalar yapmaya başlamışlardır. Hemen bugün başladı mı diye sorarsanız, sanıyorum şu an daha erken. Ama ön çalışmalar başlamıştır diyebiliriz.'' TRLIBOR uygulamasına, aktif büyüklük toplamı 1 milyar doların üzerinde olan bankalardan Akbank, Denizbank, Finansbank, Koçbank, HSBC Bank, Oyakbank, Şekerbank, Türk Ekonomi Bankası, T. Dış Ticaret Bankası, Garanti Bankası, İş Bankası, Vakıflar Bankası ile Yapı ve Kredi Bankası katılıyor. Bu bankaların günlük olarak girdikleri faiz oranlarının ortalaması alınarak Türk Lirası Referans Faiz Oranı belirleniyor. 
+     TRLIBOR, günlük, 1 hafta, 1 ay, 2 ay, 3 ay, 6 ay, 9 ay ve 12 ay oranları olmak üzere 8 ayrı vadede ilan ediliyor. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

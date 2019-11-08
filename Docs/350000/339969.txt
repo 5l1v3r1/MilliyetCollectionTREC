@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 339969 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/05/son/sontur35.html </URL>
+<DATE> 2005/05/05/ </DATE>
+<TIME> 20.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Uydu antenlerine standartlara uyumluluk zorunluğu getiriliyor... 
+</HEADLINE>
+<TEXT>
+
+     Telekomünikasyon Kurumu’ndan yapılan açıklamada, piyasada yer alan tüm uydu alıcı cihazları üzerinde, standartlara uygunluk konusunda ölçümlerin sürdürüldüğü, çıkacak sonuca göre standartlara uygun olmadığı belirlenen cihazların piyasadan toplatılarak ilgililer hakkında yasal işlemler yapılacağı bildirildi. 
+     Telekomünikasyon Kurumu Basın ve Tüketiciler ile İlişkiler Müşavirliği, bazı basın organlarında yer alan "Çanak Antenler Hava Ulaşımını Etkiliyor" yönündeki haberlerle ilgili bir açıklama yaptı. 
+     Açıklamada, söz konusu haberlerde "çanak antenlerin hava ulaşımını etkilediği ve Telekomünikasyon Kurumu tarafından çanak antenlerin uçakların haberleşme sistemini tehdit edip etmediğinin incelemeye alındığı, tehdit belirlenirse çanak antenlerin toplatılacağı yönünde" bilgilere yer verildiği anımsatıldı. 
+     Çanak antenlerin uydu sinyallerini toplayarak alıcı cihaza aktaran pasif bir eleman olduğu, bu nedenle çevreye radyo dalgaları yaymak suretiyle enterferans meydana getirmelerinin söz konusu olmadığı ifade edilen açıklamada, şöyle denildi 
+     "Hava bantlarından enterferansa sebep olabilecek başlıca unsur uydu alıcı cihazlarında yer alan 13,5 MHz’lik lokal osilatörün 9’uncu ve 18’inci harmonikleri olabilecektir ki, söz konusu harmonikler ancak standart dışı cihazlarda meydana gelebilmektedir. 
+     Piyasada yer alan tüm uydu alıcı cihazları üzerinde Kurumumuzun talebi üzerine, TÜBİTAK Ulusal Metroloji Enstitüsü UME tarafından standartlara uygunluk konusunda ölçümler sürdürülmekte olup, sonucuna göre standartlara uygun olmadığı belirlenen cihazlar piyasadan toplatılarak ilgililer hakkında yasal işlemler yapılacaktır." 
+     
+</TEXT>
+</DOC>

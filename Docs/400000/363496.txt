@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 363496 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/22/son/sontur30.html </URL>
+<DATE> 2005/07/22/ </DATE>
+<TIME> 16.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Aylık prim ve hizmet belgelerine e-bildirge zorunluluğu... 
+</HEADLINE>
+<TEXT>
+
+     İşyerlerinde 3 ve üzerinde sigortalı çalıştıran işverenler de aylık prim ve hizmet belgelerini internet üzerinden göndermek zorunda olacak. 
+     Çalışma ve Sosyal Güvenlik Bakanlığı’nın konuya ilişkin tebliği, Resmi Gazete’nin bugünkü sayısında yayımlandı. 
+     "Cari Aya Ait Ek ve İptal Nitelikteki Aylık Prim ve Hizmet Belgelerinin İşverenler Tarafından İnternet Ortamında Sosyal Sigortalar Kurumuna Gönderilmesi e-Bildirge Uygulaması Zorunluluğu Hakkında Tebliğ"e göre, 2005 yılının Haziran ve Temmuz aylarında 5 ve üzerinde sigortalı çalıştıran işverenler, 2005 yılının Ağustos ve takip eden aylarında 3 ve üzerinde sigortalı çalıştıran işverenler, bu aylara ait ek ve iptal nitelikteki aylık prim ve hizmet belgelerini de internet üzerinden e-Bildirge Uygulaması SSK’ya gönderecek. 
+     "e-Bildirge" uygulamasında, zorunlu tutulan işverenlerce, yasal süresi içerisinde SSK’ya internet üzerinden gönderilen cari aya ait asıl nitelikteki aylık prim ve hizmet belgesi ile ilgili olarak daha sonra yine yasal süresi içerisinde aynı aya ait ek veya iptal nitelikte aylık prim ve hizmet belgesi verilmesi gerektiği takdirde, bu belgelerin de internet üzerinden SSK’ya gönderilmesi gerekecek. 
+     Cari aya ait ek nitelikteki aylık prim ve hizmet belgelerini internet üzerinden SSK’ya göndermekle zorunlu tutulan işverenler, ek nitelikteki belgeleri internet ortamında SSK’ya göndermemeleri halinde, kağıt ortamında yasal süresi içerisinde Kuruma verip vermedikleri üzerinde durulmaksızın haklarında idari para cezası uygulanacak. 
+     
+</TEXT>
+</DOC>

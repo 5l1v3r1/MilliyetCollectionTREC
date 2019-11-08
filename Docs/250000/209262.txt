@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 209262 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/17/son/sondun05.html </URL>
+<DATE> 2004/01/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hubble teleskopunun ömrü çabuk bitecek 
+</HEADLINE>
+<TEXT>
+
+     Teleskopların en ünlüsü olan, evrenin milyarlarca yıl önceki halini görüntüleyebilen, Dünya yörüngesindeki Hubble teleskopu erken ölüme terk edilecek. 
+     1990'lı yılların başlarından beri astronomların, astrofizikçilerin, yıldızların nasıl oluşup öldüklerine, evrenin başlangıcı sayılan büyük patlamanın ayrıntılarına ilişkin önemli bilgiler edinmelerini sağlayan Hubble'nin ömrü, 2006-2008 yıllarında dolacak. 
+     NASA'dan yapılan açıklamaya göre bir yıl önceki Columbia uzay mekiği felaketi sonrası uzay mekiği seferlerinin askıya alınmış olması, Hubble'a ölmeden önce, ömrünü uzatacak yardım da götürülemeyecek. 
+     Hubble için 2005 yılında bir tamir seferi düzenlenmesi planlanıyordu. Bu seferde, Hubble'ın bozulan ciroskopları gyroscope , pilleri değiştirilecekti. Hubble'a, ''Wide Field Camera-3'' adlı, yeni bir göz de yerleştirilecek ve böylece evrendeki ''ilk ışığın yandığı ana'' kadar geriye gidilecekti. Bu da, teleskopun ömrünü uzatacaktı. Hubble gibi güçlü teleskoplar, ışığın dünyaya ulaşması zaman aldığı için, evrenin milyarlarca yıl önceki durumunun anlaşılmasını sağlıyor, adeta bir zaman makinası işlevi görüyor. 
+     NASA'nın önde gelen bilimadamı John Grunsfeld, Hubble'a uzay mekiği seferi düzenlenemeyecek olmasının, ABD Başkanı George Bush'un açıkladığı yeni uzay programından da kaynaklandığını söyledi. Bush, yeni kuşak uzay araçları geliştirilmesinin, Ay'da bir üs kurulmasının, bu üs ile de diğer gezegenlere ulaşılmasının planlandığını açıklamıştı. Bush'un planında, uzay mekiklerinin 2010 yılına kadar emekli edilmeleri de yer alıyor. 
+     Hubble, yardım alamayacağı için, NASA'nın tahminlerine göre en çok 2008 yılına kadar çalışmaya devam edecek, daha sonra kullanılamayacak duruma düşeceği için yörüngesinden çıkarılacak ve atmosfere girerek yanacak, parçaları dünyaya düşecek. 
+     NASA, başka bir uzay teleskopunu 2012 yılında fırlatmayı planlıyor. Ama astronomlar, hükümetin bütçe ayırmamasından, bu projenin araştırma döneminin başarısızlıklarla karşılaşmasından kaygı duyuyorlar. 
+     
+</TEXT>
+</DOC>

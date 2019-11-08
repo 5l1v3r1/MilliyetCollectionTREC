@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 208782 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/15/son/sondun28.html </URL>
+<DATE> 2004/01/15/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Alkolizm riskini artıran gen bulundu... 
+</HEADLINE>
+<TEXT>
+
+     Amerikalı bilim adamları, alkolizm riskini artıran bir gen saptadılar. 
+     Alcoholism Clinical and Experimental Research dergisinde yayımlanan habere göre, Washington Üniversitesi Tıp Okulu'nda görevli bilim adamları, GABRG3 isimli genin, alkolizm riskini artırdığını tespit ettiler. 
+     Araştırma başkanı Danielle M. Dick, GABRG3 geninin, GABA'nın gama-aminobütrik asit sinir hücreleri arasındaki hareketini sağlayan bir reseptörle bağlantılı olduğunu belirterek, daha önce yapılan araştırmalarda, GABA reseptörlerinin alkolün davranış üzerindeki etkisinde rol oynadığının belirlendiğini hatırlattı. Dick, bu yüzden, GABA reseptör genleri olan üç gen üzerinde yoğunlaştıklarını ifade etti. 
+     Araştırma çerçevesinde, 262 aileden 2282 kişinin DNA'larını analiz ettiklerini söyleyen Dick, 15. kromozom üzerinde birbirine çok yakın olan GABRA5, GABRB3 ve GABRG3 genlerini izole ettiklerini kaydetti. 
+     Dick, inceleme sonucunda, küçük genetik farklılıkların alkolizm riski üzerinde etki ettiğini belirlediklerini belirterek, özellikle GABRG3 geninin belirleyici olduğunu söyledi. Dick, GABRG3 geninin alkolizm riskini nasıl etkilediğini henüz bilmediklerini kaydetti. 
+     
+</TEXT>
+</DOC>

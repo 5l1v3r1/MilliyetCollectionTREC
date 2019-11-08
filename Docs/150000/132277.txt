@@ -1,0 +1,54 @@
+<DOC>
+<DOCNO> 132277 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/01/22/ekonomi/eko01.html </URL>
+<DATE> 2003/01/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türk şirketlerinin Sırlar Odası’ 
+</HEADLINE>
+<TEXT>
+
+ODTÜ’nün Teknopark binasının alt katını, yedekleme merkezi’ haline getiren KoçSistem, hem Koç şirketlerinin hem de başka şirketlerin bütün gizli bilgilerini koruyor 
+     EVRİM ERGİN 
+
+     Koç Holding şirketlerinden KoçSistem, hem Koç şirketlerinin, hem de Türkiye’nin diğer önemli gruplarının bilgilerini saklıyor. Dünyada 11 Eylül saldırısı, Türkiye’de ise Kocaeli depreminden sonra, şirketlerin bilgilerini güvenli yerlerde yedekleme ihtiyacına yanıt veren KoçSistem, birçok büyük şirketin sırlarının deposu haline geldi. 
+     Üç yıl kadar önce başlatılan programla birlikte Bugün ODTÜ’de bulunan Teknokent Yazılım Teknoparkı’nın altındaki bodrum katı tamamen bilgi yedekleme ve depolama disaster recovery ünitesi haline getiren KoçSistem, bu ünitede olağanüstü güvenlik önlemleri uyguluyor. Sistemin alt yapısından ise 100 büyük, 200’e yakın da orta boy şirket yararlanıyor. 
+     ODTÜ Teknokent Yazılım Teknoparkı Müdürü ve KoçSistem’in Yazılım Geliştirme Grubu Başkanı M. Nuri Öktem binada 35’e yakın yazılım uzmanın çalıştığını ve ihtiyaca dönük olarak projeler ürettiğini belirtti. Yavaş yavaş Türk Silahlı Kuvvetleri’ne yönelik olarak da yazılım geliştirildiğini belirten Öktem, felaket durumlarına karşı verilerinin kopyasının ikincil bir sitede oluşturulduğunu anlattı. 
+     
+     İnsansız uçak yazılımımız var’ 
+     Türkiye’nin yazılım üretmek konusunda son derece geliştiğini belirten Nuri Öktem, "Şu anda insansız bir uçağı uçurabilecek yazılım üretebiliyoruz. Önemli bir alt kadro birikimimiz var. Ancak Türkiye’de uzun süreden bu yana devam eden eşgüdüm problemi nedeniyle bu potansiyeli açığa çıkaramadık" diye konuştu. 
+     
+Gözden tanıyor      İlk yedekleme merkezinin İstanbul’da kurulduğunu, ancak deprem riski nedeniyle ikinci bir yedekleme için Ankara’nın seçildiğini anlatan Öktem’in verdiği bilgiye göre Ankara’daki merkezde disaster recovery olağanüstü güvenlik önlemleri alındı. Girişlere konulan cihazlar, girme yetkisi olanları göz irisinden tanıyor. Bina her türlü doğal afete ve saldırıya karşı korunaklı. Duvarları çelik konstrüksiyonlarla çevrili ve güçlendirilmiş bölüme, herhangi bir yangın anında su ile müdahale edilmiyor. Veri disklerine zarar vermeyecek özel gazlı söndürücüler yerleştirilmiş. 
+     Bölmede çalışanların bilgileri görme imk nı yok. Sadece giriş yapma yetkisine sahipler. Bilgileri ancak sahibi olan kişiler ve yetkili kişiler görebiliyor. 
+     
+
+
+
+ EKONOMİ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

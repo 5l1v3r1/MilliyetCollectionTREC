@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 320093 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/02/son/sontur15.html </URL>
+<DATE> 2005/03/02/ </DATE>
+<TIME> 10.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Apartmanların altındaki su kuyusu tehlikesi... 
+</HEADLINE>
+<TEXT>
+
+     Konya'da yapılan bir araştırma, apartman altı su kuyularından sağlanan suların zeminden ''katı tane'' çekmesi nedeniyle binaların çökmesine neden olabileceği ortaya çıkardı. 
+     Selçuk Üniversitesi Mühendislik-Mimarlık Fakültesi Jeoloji Mühendisliği Bölümü Öğretim Üyesi Yrd. Doç. Dr. Tahir Nalbantçılar, AA muhabirine yaptığı açıklamada, kent merkezlerinde yaşayan vatandaşların bir kısmının içme ve kullanma amaçlı su gereksinimini binalarının bodrum katlarında açılan sondaj kuyuları aracılığı ile yeraltı suyundan temin ettiklerini belirtti. 
+     Kendi suyunu temin alışkanlığının son yıllarda oldukça ileri düzeylere ulaştığını belirten Nalbantçılar, ''Bugün Konya'da 800 sitede bu amaçla kuyu açılmış durumda. Bu kuyulardan her yıl yaklaşık 15 milyon metreküp su çıkarılıyor. Apartmanların sağlamlığı konusundaki endişeleri gidermek için de şehir merkezindeki apartman altı kuyularında bir araştırma yapmaya karar verdik'' dedi. 
+     Bu amaçla su tüketiminin çok yoğun olduğu kent merkezindeki 100 civarında siteye ait kuyuların içindeki kum miktarı üzerine bir çalışmaya başladıklarını ifade eden Nalbantçılar, şunları söyledi 
+     ''Araştırmamızda Konya'nın farklı bölgelerinden 100 apartman altı kuyusundan su çekerek örnekler aldık. Yeraltı su kuyularının kumlu-çakıllı- bloklu seviyelerinde ve jipsli çamurtaşı-kumtaşı düzeylerinde bulunduğunu belirledik. 100 adet su kuyusunda her çekilen 1 ton sudan 1 ile 163 miligram arasında kum ve çakıl gibi katı taneciklerin topraktan alındığını tespit ettik. Yeraltı suyunun yeryüzüne çıkarılması esnasında su ile birlikte çekilen bu katı tanelerin neden olduğu boşlukların, zemin oturması ve yerin taşıma gücünün zayıflamasına neden olduğunu tespit ettik. Bu durum apartman ve benzeri yapıların dayanıklılığını azaltarak çökmelerine neden olabiliyor.'' ABD'de 7 eyalette yapılan bir araştırmada da, yeraltından su ve petrol çıkartılan 31 bölgede oturma meydana geldiğinin belirlendiğine dikkati çeken Nalbantçılar, şunları kaydetti 
+     ''California'da 13 milyon 500 kilometrekare alana sahip San Joaquin Vadisi'ndeki oturma miktarı 9 metreye kadar ulaşmıştır. Türkiye'de de bu oturmanın oluşması, yapılan araştırma ışığında mümkün gözükmekte. Çünkü kuyu için yapılan sondajın yapım tekniği, donatısı, burada kullanılan pompanın gücü gibi birçok faktör, bahsedilen tehlikenin oluşmasında en büyük etken. Bu tehlikenin önlenebilmesi için bir an önce gerekli tedbirler alınarak, yeraltı kuyularının bundan sonra bir jeoloji mühendisi kontrolünde açılması sağlanmalı.'' 
+     
+</TEXT>
+</DOC>

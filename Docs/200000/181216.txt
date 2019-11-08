@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 181216 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/09/son/sondun09.html </URL>
+<DATE> 2003/09/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Farelerde pankreas benzeri organ geliştirildi... 
+</HEADLINE>
+<TEXT>
+
+     Amerikalı araştırmacılar, fare embriyonundan alınan dokuyla, diyabetik farelerde insülin salgılayan yeni bir organ geliştirdiklerini bildirdiler. 
+     St Louis'deki Washington Üniversitesi Tıp Fakültesi'nden Dr. Marc Hammerman, yaptığı açıklamada, çalışmalarında, diyabetik farelere nakledilen dokunun, insülin salgılayan tamamen yeni bir organa dönüştüğünü belirterek, ''Bu insülin salgılayan bir pankreas ancak sindirim enzimleri salgılayacak bileşimlerden yoksun'' dedi. 
+     Hammerman, teorik olarak insanda insülin salgısı yetersizliğinde, domuz gibi hayvanlardan elde edilecek pankreasta insülin salgılayan hücre dokularıyla sorunun çözülebileceğini, ancak bu alanda domuzdan insana nakille ilgili yapılan sınırlı araştırmaların da böyle bir doku naklinin insandaki diyabeti tedavi etmediğini gösterdiğini kaydetti. 
+     Farelerde pankreas benzeri organ geliştirilmesiyle elde edilen bulguların, tip 1 olarak adlandırılan genç diyabetlilerin tedavisinde yeni ancak tartışmalı bir yöntemi gündeme getirebileceği belirtiliyor. 
+     Bağışıklık sisteminin bilinmeyen nedenlerle pankreasta insülin salgılayan hücreleri yok etmesiyle ortaya çıkan birinci tip diyabet hastalarının her gün insülin ilacı alması ve kanlarındaki şeker düzeyini sürekli kontrol etmeleri gerekiyor. 
+     
+</TEXT>
+</DOC>

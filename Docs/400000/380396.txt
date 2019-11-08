@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 380396 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/21/son/sonyas19.html </URL>
+<DATE> 2005/09/21/ </DATE>
+<TIME> 14.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Güvenlik programlarını devre dışı bırakan virüse dikkat 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayarla ilgili güvenlik şirketleri, internet kullanıcılarını yeni bir bilgisayar virüsüne karşı uyardı. 
+     Kimin yazdığı henüz tespit edilemeyen "Bagle" isimli yeni bir virüsün, bilinen bütün güvenlik programlarını devre dışı bıraktığı ve güvenlik hizmeti veren sitelere girişi engellediği bildirildi. 
+     Antivirüs yazılım şirketleri MacAfee tarafından "Bagle.cd" ve Trend Micro tarafından "Bagle.da" olarak isimlendirilen virüsün, kısa sürede çok sayıda bilgisayarı etkilediği ve etkilemeye de devam ettiği kaydedildi. 
+     Elektronik posta yoluyla yayılan virüs, "New Price" başlığı altında sıkıştırılmış olarak "price.zip" ve türevleri olarak kullanıcılara kendini gönderiyor. 
+     Virüs bilgisayara bulaştığı anda güvenlikle ilgili işlemleri devre dışı bırakıyor ve "Symantec, MacAfee, Kaspersky, Panda, Zone Labs ve Agnitum" gibi güvenlik sitelerine erişimi engellemek için Windows kayıt defterini siliyor. Bununla da yetinmeyen virüs, muhtelif sitelerden çeşitli kodları da bulaştığı bilgisayarlara indiriyor. 
+     Güvenlik şirketleri, kullanıcılarından güvenlik yazılımlarını acilen güncellemelerini istedi. 
+     
+</TEXT>
+</DOC>

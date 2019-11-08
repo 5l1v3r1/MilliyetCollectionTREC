@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 167278 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/04/son/soneko02.html </URL>
+<DATE> 2003/07/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bankalardaki mevduat hesapları sigorta güvencesine alındı 
+</HEADLINE>
+<TEXT>
+
+     Bankacılık Düzenleme ve Denetleme Kurulu BDDK kararıyla, 3 Temmuz 2003 tarihinden itibaren uygulanmak üzere, bankalardaki mevduat hesaplarının tamamı, sigorta güvencesine alındı. 
+     1 Ocak 2001 tarihinden bu yana, bankalardaki mevduatın 50 milyar liraya kadar olan kısmı sigorta kapsamında idi. 
+     BDDK'nın konuya ilişkin kararı, 3 Temmuz 2003 tarihli mükerrer Resmi Gazete'de yayımlandı. 
+     Söz konusu güvence, Türkiye'de faaliyet gösteren ve mevduat kabulüne yetkili bulunan bankaların, yurtiçi şubelerinde gerçek kişiler tarafından açılmış olan Türk Lirası cinsinden tasarruf mevduatı ile tasarruf mevduatı niteliğine haiz altın depo ve döviz tevdiat hesapları anapara ve faiz tutarları toplamını kapsıyor. 
+     5 Temmuz 2004 tarihinden itibaren ise garanti kapsamı, önceden olduğu gibi 50 milyar lirayla sınırlı olacak. 
+     
+     BANKACILIK İZNİ KALDIRILIRSA NE OLACAK 
+
+     Bu arada kararda, herhangi bir bankanın bankacılık işlemleri yapma ve mevduat kabul izninin kaldırılması durumunda, sigorta garantisinin nasıl uygulanacağına da yer verildi. 
+     Buna göre, mudilerine Fon'dan ödeme yapılacak bankanın bankacılık işlemleri yapma ve mevduat kabul izninin kaldırıldığı tarih itibariyle mevduat hesaplarına tahakkuk ettirdiği faizlerin, söz konusu tarih itibariyle mevduat toplamları en yüksek beş bankaca uygulanan faiz oranlarının ortalaması ile bankaca kamuya ilan edilen ve Merkez Bankası'na bildirilen azami faiz oranları üzerinden hesaplanacak tutarları aşan kısmı, önceden olduğu gibi sigorta kapsamında olmayacak. 
+     Sigorta kapsamında Türk Lirası olarak yapılacak ödemelerde, bankanın bankacılık işlemleri yapma ve mevduat kabul izninin kaldırıldığı tarihteki Merkez Bankası döviz alış kurları esas alınacak. 
+     Altın depo hesaplarının Türk Lirası karşılıkları ise bankanın bankacılık işlemleri yapma ve mevduat kabul izninin kaldırıldığı tarihteki İstanbul Altın Borsası seans kapanış fiyatına ve Merkez Bankası döviz alış kurlarına göre belirlenecek. 
+     
+     YURTDIŞI ŞUBELERDEKİ GARANTİ KALDIRILDI 
+
+     Kararda, 2000 yılının Kasım ayında mali sistemde yaşanan dalgalanmalar nedeniyle, Hükümetin 6 Aralık 2000 tarihinde, tasurruf sahiplerinin ve diğer kreditörlerin Türkiye'deki mevduat bankalarından olan alacaklarına ilişkin ''geçici tam bir garanti'' duyurusunda bulunduğu belirtildi. Kararda, bu kapsamda BDDK'nın, söz konusu garanti uygulamasıyla ilgili, 15 Ocak 2001 tarihinde 151 sayılı kararı aldığı hatırlatıldı. 
+     Söz konusu karara göre, garantinin, Bankalar Kanununun BDDK ve Fon'a verdiği yetkiler çerçevesinde, Fon tarafından, Bankalar kanununun ilgili maddelerinin ihlal edilmesi sonucunda, ilgili bankaların hisselerinin Fon tarafından devir alınması suretiyle uygulandığı, anılan kararda, tam garanti uygulamasına ihtiyaç duyulduğu sürece devam edileceği ve kamuoyuna önceden haber verilmesi suretiyle kaldırılacağının hükme bağlandığı belirtildi. 
+     BDDK kararında, ''bu itibarla, ilgili bankaların hisselerinin Fon tarafından devir alınması halinde işlerlik kazanan, kayıtlı bilanço dışı yükümlülükler de dahil olmak üzere Türkiye'de kurulmuş mevduat bankalarının ve bu bankaların bilançolarında hesapları konsolide edilen yurtdışı şubelerinin yükümlülüklerinin tamamının garanti kapsamında olması uygulamasının, 5 Temmuz 2004 tarihinden geçerli olmak üzere kaldırılmasına karar verilmiştir'' denildi. 
+     
+</TEXT>
+</DOC>

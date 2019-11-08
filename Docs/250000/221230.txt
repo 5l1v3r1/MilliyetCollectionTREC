@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 221230 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/10/son/soneko03.html </URL>
+<DATE> 2004/03/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Borsası düşüşle başladığı günü düşüşle noktaladı. 
+     Dow Jones Sanayi Endeksi, 72 puan düşüşle binde 6.8 10,457 puandan kapandı. 
+     Wall Street'de teknoloji firmalarının ibresi Nasdaq Endeksi de 12 puan düşüşle binde 5.7 1,997 puandan kapandı. 
+     Borsanın ilk seansında Dow Jones 19.70 puan azalarak 10,509.78 puana, Nasdaq Endeksi de 0.42 puan azalışla 2,008.36 puana indi. 
+     Wall Street'in düşüşünde, dünkü kayıplar kadar, yatırımcılarda son 1 yıllık sürekli yükseliş sonunda hisse senedi fiyatlarının aşırı değerlenmiş olabileceği kuşkusunun canlanması etkili oldu. 
+     
+</TEXT>
+</DOC>

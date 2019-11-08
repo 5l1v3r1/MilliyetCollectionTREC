@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 172267 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/29/yasam/yas04.html </URL>
+<DATE> 2003/07/29/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Uzaktan kumandalı hayat, oh ne rahat 
+</HEADLINE>
+<TEXT>
+
+   Bir üniversite öğrencisinin tez konusu olarak geliştirdiği cihaz sayesinde, ev hanımları uzaktan cep mesajıyla evdeki elektrikli aletleri çalıştırabilecek 
+      SİBEL KAHRAMAN İstanbul 
+   
+   BAHÇEŞEHİR Üniversitesi Bilgisayar Bölümü Başkanı Prof. Dr. Ali Okatan'ın geliştirdiği cihaz sayesinde, cep telefonunuzdan, evinizdeki elektrikli aletleri çalıştırabileceksiniz. Okul birincisi Onur Bay'ın bitirme tezi olarak hazırladığı, Okatan'ın da rehberlik ettiği ev otomasyon cihazını dünyanın neresinde olursanız olun cep telefonunuzla idare edebiliyorsunuz. 
+   
+   SÜRESİNİ BELİRLE, ÇALIŞTIR 
+   İŞTE Okatan'ın ağzından cihazın özellikleri "İşyerindesiniz ve siz eve gidene kadar çamaşırlarınızın yıkanmasını istiyorsunuz. Önce cep telefonuna kullanıcı adınızı ve bunun için programlanmış özel şifrenizi giriyorsunuz. Sonra çamaşır makinesi yazıp çalışmasını istediğiniz süreyi belirtiyor, gönder tuşuna basıyorsunuz. Makineniz çalışmaya başladığında size bir mesaj geliyor." 
+   
+   100 - 150 DOLAR OLACAK 
+   OKATAN, "Cihaz yalnızca elektrikli ev aletlerinde değil, fabrika otomasyonunda veya seralarda sulama yapımında da kullanılabilir. Mesafe hiç sorun değil. Nerede olursanız olun bu sistemi çalıştırabilirsiniz" diyor. Cihazın piyasaya sürülmeye hazır hale geldiğini söyleyen Okatan, ortalama 100 - 150 dolara satılacağını söyledi. 
+   
+   
+</TEXT>
+</DOC>

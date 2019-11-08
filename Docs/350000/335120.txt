@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 335120 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/20/son/soneko01.html </URL>
+<DATE> 2005/04/20/ </DATE>
+<TIME> 02.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones ve Nasdaq yükseldi 
+</HEADLINE>
+<TEXT>
+
+     New York Menkul Kıymetler Borsası'nda Dow Jones ve Nasdaq günü yükselişle kapadı. 
+     Borsanın temel göstergesi Dow Jones 56.75 puan artışla, 10,128.00'a çıkarken, Nasdaq endeksi 19.44 puan kazançla 1,932.36'ya yükseldi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 268997 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/04/son/soneko01.html </URL>
+<DATE> 2004/09/04/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Borsası haftayı düşüşle kapattı. 
+     Borsanın temel göstergesi Dow Jones endeksi 30,08 puan düşüşle 10.260,20 puana inerken, teknoloji endeksi Nasdaq 28,95 puan kayıpla 1.844,48 puana geriledi. 
+     
+</TEXT>
+</DOC>

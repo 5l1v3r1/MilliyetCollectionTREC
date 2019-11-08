@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 295708 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/08/ekonomi/eko01.html </URL>
+<DATE> 2004/12/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kayıp Hazine senedi tartışması 
+</HEADLINE>
+<TEXT>
+
+
+Sayıştay'ın, 'Demirbank ve Etibank'taki Hazine senetleri bulunamıyor' suçlamasına TMSF ve Merkez Bankası, "Siz muhasebe tekniğini bilmiyorsunuz" yanıtını verdi 
+
+Ahmet Erhan Çelik - Ankara 
+
+Sayıştay, Hazine'nin 2001 Şubat krizi döneminde ikrazen Tasarruf Mevduatı Sigorta Fonu'na TMSF verilen 400 trilyon liralık devlet iç borçlanma senedinin DİBS bulunmadığını iddia etti. Bu iddiaya sert tepki gösteren TMSF ve Merkez Bankası, Sayıştay'ı muhasebe tekniğini ve fon transfer kurallarını bilmemekle eleştirdiler. 
+Sayıştay, Hazine'nin 2003 işlemlerini denetlerken, TMSF'ye verilen DİBS'leri inceledi. Hazine İşlemleri Raporu'na ek olarak bu kurumla ilgili, "İkrazlar İzleme Raporu" hazırlayarak, konuyu Meclis Plan ve Bütçe Komisyonu gündemine getirdi. Raporda, "Etibank ve Demirbank tarafından yaklaşık 400 trilyon tutarındaki TRT260702F31 tanımlı senedin bir bankaya satışıyla ilgili olarak bu iki bankanın muhasebe kayıt belgeleri temin edilemedi" denildi. 
+Sayıştay, senetlerin akıbetini bilinmediğine ilişkin iddiasına Merkez Bankası'ndan alınan 15 Haziran 2004 tarihli yazıyı kanıt olarak gösterdi. Merkez Bankası, Elektronik Menkul Kıymet Transferi EMKT sisteminden yapılan senet satışında, "norm" mesajının kullanıldığını, bu yüzden ödemenin kime ve hangi hesaplardan yapıldığının belirlenemediğini bildirdi. Merkez Bankası Başkan Yardımcısı Fatih Özatay, belgelerin arşivde olduğunu bildirdiklerini ve 'temin edilemediği' bilgisinin doğru olmadığını kaydetti. Sayıştay'ı, EMKT sistemini tanımamakla eleştiren Özatay, bankalararası fon transferlerinde, "norm yerine kredi kodunun kullanılması zorunluluğu" olmadığını belirtti. 
+
+TMSF'den eleştiri 
+TMSF Başkan Yardımcısı Ferruh Tunç, Sayıştay'ı "istifam yaratmak ve muhasebe tekniklerini bilmemekle" eleştirdi. Yapı Kredi'ye satılan DİBS karşılığında EFT ile Etibank'a 192.9 trilyon lira, Demirbank'a 200,9 trilyon ödendiğini belirten Tunç, "Raporda senet kaybolmuştur denilemiyor. Sayıştay ödemeyle ilgili belgenin orjinalini görmek istemiştir" dedi. DevletBakanı Ali Babacan da rapor karşısında şaşırarak, "Bu raporu 'biz bunu gördük, bilginiz olsun' diye mi getirdiniz Kanuna göre, TMSF ilgili bakanın oluşturacağı bir komisyon tarafından denetlenebilir" dedi. 
+
+
+</TEXT>
+</DOC>

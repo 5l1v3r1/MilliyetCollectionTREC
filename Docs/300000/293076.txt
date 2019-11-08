@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 293076 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/29/son/soneko37.html </URL>
+<DATE> 2004/11/29/ </DATE>
+<TIME> 16.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa günü 494 puanlık kayıpla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Bileşik Endeksi, 2. seansı 239.86 puan düşüşle 22,799.16 puandan tamamladı. 
+     Hisse senetleri 2. seansta ortalama yüzde 1.04 oranında değer kaybetti. 
+     İlk seanstaki 254.19 puanlık düşüş dikkate alındığında, Borsa endeksi günün tamamında 494.05 puan geriledi. Hisse senetlerinin günlük ortalama değer kaybı yüzde 2.12 oldu. 
+     Endeks 2. seansa, 9.42 puan kayıpla 23,029.60 puan seviyesinde başladı. Seansın ilk yarısını 22,863.40 puandan geçen endeks, seans içinde en düşük 22,648.88 puana kadar gerilerken, en yüksek 23,039.02 puanı gördü. 
+     2. seans kapanışında, mali endeks 355.12 puan azalarak 30,958.82 puana, sanayi endeksi 263.65 puan azalarak 20,496.93 puana, hizmetler endeksi 141.59 puan azalarak 13,245.24 puana geriledi. 
+     Böylece ilk seansa göre mali grup hisseler ortalama yüzde 1.13, sanayi grubu hisseler ortalama yüzde 1.27 oranında, hizmet grubu hisseleri ortalama yüzde 1.06 oranında değer yitirdi. 
+     2. seansta işlem gören toplam 302 hisse senedinden 21'i değer kazandı, 261'i değer yitirdi, 20 hisse senedinin fiyatında değişiklik olmadı. 
+     Seansta, 486 trilyon 340 milyar 535 milyon liralık işlem hacmi kaydedildi. Günlük işlem hacmi, 839 trilyon 91 milyar 219 milyon lira olarak hesaplandı. 
+     2. seansta İzmir Demir Çelik, İş Bankası C , Yapı ve Kredi Bankası, Kardemir D ve Turkcell en çok işlem gören hisse senetleri oldu. 
+     
+</TEXT>
+</DOC>

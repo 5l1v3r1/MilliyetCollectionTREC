@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 203076 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/18/son/sontur33.html </URL>
+<DATE> 2003/12/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ATM dolandırıcılarına dikkat .. 
+</HEADLINE>
+<TEXT>
+
+     Bostancı'daki bir bankanın ATM'sinde, dolandırıcılar tarafından yerleştirilen ve kartları sıkıştırarak geri verilmesini engelleyen alet bulundu. 
+     Alınan bilgiye göre, Kocayol caddesindeki bir bankanın ATM'sini müşterilerin şikayeti üzerine kontrol eden banka yetkilileri, cihazın kart girişi bölümünde yabancı bir cisim fark edince polise ihbarda bulundu. 
+     İlgili bankanın Güvenlik Servisi elemanları ile polis tarafından açılan ATM'nin içinden, dolandırıcılar tarafından yerleştirildiği anlaşılan bir alet çıktı. 
+     Banka yetkilileri, ATM'nin kart giriş bölümüne yerleştirilen plastikten yapılma aletin, kartları sıkıştırarak geri verilmesini engellediğini belirterek, aleti yerleştiren dolandırıcıların yardım etme bahanesiyle gelerek kartı sıkışan müşterilerin şifrelerini öğrendiklerini söyledi. 
+     Yetkililer, kartını kaptıran müşterilerin uzaklaşmasından sonra dolandırıcıların ATM'den hesaptaki paraları çekerek kaçtıklarına işaret etti. Yetkililer, müşterilerin hiç kimseye şifrelerini söylememeleri gerektiğini hatırlattı. 
+     
+</TEXT>
+</DOC>

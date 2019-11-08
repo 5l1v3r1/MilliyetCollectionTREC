@@ -1,0 +1,45 @@
+<DOC>
+<DOCNO> 301888 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/29/son/soneko40.html </URL>
+<DATE> 2004/12/29/ </DATE>
+<TIME> 16.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa yılı rekorla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi 2. seansta, 1. seansa göre 66.80 puan azalarak 24,971.68 puandan yeni bir gün sonu kapanış rekoruyla yılı tamamladı. 
+     2. seansta, hisse senetlerinin ortalama değer kaybı yüzde 0.14 oldu. 
+     Endeks 2. seansa, 7.88 puan düşerek 25.030.60 puan seviyesinde başladı. Seansın ilk yarısını 25,052.46 puandan geçen endeks, en düşük 24,839.21 puana kadar gerilerken, en yüksek değer olarak 25,106.19 puana çıktı. Bu seviye, Endeksin bugüne kadar gördüğü tarihi zirve olarak kaydedildi. 
+     1. seanstaki 102.66 puanlık artış dikkate alındığında, endeks günlük bazda 35.86 puan yükseldi. Hisse senetlerinin günlük ortalama değer artışı yüzde 0.14 olarak belirlendi. 
+     2. seans kapanışında, mali endeks 38.24 puan azalarak 35.487.78 puana, sanayi endeksi 85.51 puan azalarak 20.885.47 puana, hizmetler endeksi 88.29 puan azalarak 13,914.12 puana geriledi. 
+     Böylece ilk seansa göre, mali grup hisseler ortalama yüzde 0.11, sanayi grubu hisseler ortalama yüzde 0.41, hizmet grubu hisseler ortalama yüzde 0.63 oranında değer yitirdi. 
+     2. seansta işlem gören toplam 304 hisse senedinden 91'i değer kazandı, 131'i değer yitirdi, 82 hisse senedinin fiyatında değişiklik olmadı. 
+     2. seansta, 465 trilyon 546 milyar 233 milyon liralık işlem hacmi kaydedildi. Günlük işlem hacmi, 947 trilyon 449 milyar 576 milyon lira olarak hesaplandı. 
+     2. seansta İhlas Holding, Doğan Holding, İş Bankası C , Sabancı Holding ve Kardemir D en çok işlem gören hisse senetleri oldu. 
+     
+     BORSA'DA HİSSE SENETLERİ ORTALAMA YÜZDE 0.14 DEĞER KAZANDI 
+
+     Gün sonu kapanış rekoruyla yılı tamamlayan İstanbul Menkul Kıymetler Borsası'nda İMKB , hisse senetleri ortalama yüzde 0.14 değer kazandı. 
+     İMKB Ulusal 100 Endeksi, 1. seansta 102.66 puan artarak 25,038.48 puandan kapandı. 2. seansta ise 66.80 puan düşüş yaşayan endeks, 24,971.68 puandan günü tamamladı. Endeks, bu kapanış değeriyle, dün ulaşılan 24,935.82 puanlık kapanış rekorunu da yeniledi. 
+     Endeksteki günlük artış 35.86 puan ve yüzde 0.14 olarak hesaplandı. 
+     Hisse senetleri piyasasında toplam 947 trilyon 449 milyar 576 milyon liralık işlem hacmi kaydedildi. 
+     
+     DÖVİZ 
+
+     İstanbul'da serbest piyasada dün 1 milyon 353 bin liradan kapanan dolar güne 1 milyon 355 bin liradan, 1 milyon 843 bin liradan kapanan euro ise 1 milyon 843 bin liradan başladı. 
+     Kapanışta doların satış fiyatı 1 milyon 363 bin lira, euronun satış fiyatı 1 milyon 852 bin lira oldu. 
+     Merkez Bankası, doların bugünkü efektif kurunu alışta 1 milyon 351 bin 600 lira, satışta 1 milyon 361 bin lira olarak açıkladı. 
+     Böylece dolar, Merkez Bankası'nın dünkü kurlarına göre, alışta ve satışta 10 bin lira yükseldi. 
+     
+     TAHVİL-REPO 
+
+     İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda işlem gören 5 Temmuz 2006 vadeli tahvilin bugün valörlü işlemlerinde basit getiri yüzde 21.75, bileşik getiri yüzde 20.68 oldu. 
+     Bu kağıdın bugün valörlü işlemlerinin bileşik getirisi, önceki kapanışa göre 0.02 puan yükseldi. 
+     İMKB Tahvil ve Bono Piyasası Repo-Ters Repo Pazarı'nda gecelik işlemlerde faiz ortalama yüzde 18.00'den gerçekleşti. Gecelik işlemlerde en düşük oran yüzde 17.00, en yüksek oran yüzde 18.10 oldu. 
+
+     
+</TEXT>
+</DOC>

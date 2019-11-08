@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 172772 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/31/son/soneko06.html </URL>
+<DATE> 2003/07/31/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+1.2 milyar insan mobil konuşuyor... 
+</HEADLINE>
+<TEXT>
+
+     Dünyada mobil iletişimden yararlanan abonelerin sayısı 1.2 milyarı aştı. 
+     Dünyanın çeşitli bölgelerinden toplam 709 operatörün üye olduğu GSM Birliği'nin verilerine göre, Mayıs ayı sonu itibariyle, GSM Global System for Mobile Communications abonelerinin sayısı 863.6 milyona yükseldi. 
+     Kablosuz iletişimden yararlanan toplam abone sayısı ise GSM dışındaki iletişim sistemleriyle birlikte 1 milyar 217.9 milyona ulaştı. 
+     Dünyada 2002 Aralık ile 2003 Mayıs döneminde yeni GSM cep telefonu kullanmaya başlayan abonelerin sayısı 72.2 milyon olurken, analog ve dijital diğer mobil sistemler de dikkate alındığında bu dönemdeki abone artışı 84 milyona ulaştı. 
+     GSM abonelerinin 434.5 milyonu GSM 900, 100.5 milyonu GSM 1800 25.7 milyonu GSM 1900, 302.8 milyonu GSM 900 1800 sistemlerinden, kalan küçük bir bölümü de GSM 800 ve GSM 900 1900 gibi sistemlerden yararlanıyor. 
+     
+     2004 YILI SONUNDA GSM ABONE SAYISI 1 MİLYARI AŞACAK 
+     2000 yılı sonunda 455.1 milyon kişi olan GSM abone sayısı, 2001 sonunda 172.6 milyon artışla 627.7 milyona çıkarken, 2002 sonunda ise 791.4 milyona ulaştı. 
+     2000 Aralık ile bu yıl Mayıs sonu dönemi artışı 408.5 milyon olarak hesaplandı. 
+     Mobil iletişim endüstrisi araştırmaları hazırlayan EMC'nin tahminlerine göre dünyadaki GSM abonelerinin sayısı bu yıl sonunda 941.3 milyona çıkacak, 2004 sonunda ise 1 milyar sınırını aşarak 1 milyar 80 milyona erişecek. 
+     Abone sayısının 2005 sonunda 1 milyar 204.1 milyon, 2006 sonunda 1 milyar 309.6 milyon, 2007 sonunda ise 1 milyar 393 milyon olacağı tahmin ediliyor. 
+     
+     GSM ABONELERİNİN YÜZDE 3'Ü TÜRKİYE'DE 
+     2002 sonu itibariyle yaklaşık yüzde 3'ünü Türkler'in oluşturduğu GSM abonelerinin ayda yaklaşık 24 milyar kısa mesaj SMS gönderdiği de belirlendi. 
+     Türkiye'de Turkcell, Telsim, Aria ve Aycell'in hizmet verdiği GSM'deki toplam abone sayısı 2002 sonu itibariyle 23 milyon 323 bin 118 adede yükseldi. 
+     GSM 900 hizmetinin 1994 yılında Türk Telekom ile Turkcell ve Telsim arasında yapılan gelir paylaşımı anlaşması ile başladığı sektörde, 1994'de 81 bin olan abone sayısı, 1995'de 330 bine çıktı. 
+     1996'da 690 bine, 1997'de 1 milyon 480 bine, 1998'de 3 milyon 330 bine, 1999'da 7 milyon 500 bine yükselen abone sayısı, 2000'de 14.7 milyon, 2001'de 19.5 milyon, 2002'de ise 23.3 milyon oldu. 
+     
+</TEXT>
+</DOC>

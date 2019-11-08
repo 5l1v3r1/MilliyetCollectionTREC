@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 186255 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/03/son/soneko50.html </URL>
+<DATE> 2003/10/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Para piyasalarında bugün... 
+</HEADLINE>
+<TEXT>
+
+     Borsa'da işlem gören hisse senetleri, haftanın son işlem gününde ortalama yüzde 2.38 değer kazandı. 
+     İMKB Ulusal 100 endeksi, 1. seansta gelen yoğun alımlarla yükselerek 14,477.23 puana kadar çıktı ve yılın seans içi rekorunu kırdı. Ardından bir miktar gerileyerek 14,300 seviyelerinde kararlı bir seyir izleyen endeks, 473.72 puan artışla 14,354.21 puandan kapandı. 2. seansta gelen kar satışlarıyla gerileyen endeks, 143.99 puan kayıpla 14,210.22 puandan yeni bir yıl içi rekoruyla günü tamamladı. Endeksin günlük bazdaki artışı 329.73 puan ve yüzde 2.38 olarak hesaplandı. 
+     Hisse senetleri piyasasında günlük 1 katrilyon 860 trilyon 501.2 milyar liralık işlem hacmi oluştu. Bu rakam da bu yıl içinde oluşan en yüksek işlem hacmi olarak kaydedildi. 
+     
+     DOLAR 
+     Serbest piyasada ve bankalararası piyasada dolar ve Euro, gün içinde düşüş ağırlıklı bir trend izledi. 
+     Dün 1 milyon 406 bin liradan kapanan dolar, güne 1 milyon 400 bin liradan, 1 milyon 641 bin liradan kapanan Euro da 1 milyon 635 bin liradan başladı. 
+     Serbest piyasada doların kapanıştaki satış fiyatı 1 milyon 391 bin lira, Euro'nunki de 1 milyon 619 bin lira oldu. 
+     Merkez Bankası, doların bugünkü efektif kurunu alışta 1 milyon 388 bin 70 lira, satışta ise 1 milyon 397 bin 836 lira olarak açıkladı. 
+     Böylece dolar, Merkez Bankası'nın dün açıkladığı kurlara göre, alışta 10 bin 356 lira, satışta ise 10 bin 429 lira geriledi. 
+     
+     TAHVİL VE BONO PİYASASI 
+     İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda işlem gören 18 Ağustos 2004 vadeli bugün valörlü tahvilin bileşik getirisi 0.89 puan düştü. 
+     Bu kağıdın aynı gün valörlü işlemlerinin basit getirisi yüzde 34.30, bileşik getirisi yüzde 34.97 oldu. 
+     Dün bu kağıdın aynı gün valörlü işlemlerinde basit getiri yüzde 35.17'den, bileşik getiri yüzde 35.86'tan kapanmıştı. 
+     İMKB Tahvil ve Bono Piyasası Repo Pazarı'nda 3 günlük faiz de ortalama yüzde 28.99 olarak belirlendi. 
+     
+</TEXT>
+</DOC>

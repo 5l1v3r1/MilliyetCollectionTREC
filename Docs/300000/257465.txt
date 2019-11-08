@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 257465 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/22/son/sonyas04.html </URL>
+<DATE> 2004/07/22/ </DATE>
+<TIME> 10.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+"İ, ö, ü, ç, ş, g" geliyor İnternet, İngilizce'ye bağlılıktan kurtulacak 
+</HEADLINE>
+<TEXT>
+
+     İnternet ortamı İngilizce'ye bağlı olmaktan kurtulacak. İnternetin teknik koordinasyonunu yapan kuruluş olan ICANN Corp. for Assigned Names and Numbers , gelecekte her ülkenin kendi alfabesini kullanabilmesine olanak tanıyacak bir internet protokolü üzerinde çalışma başlattı. 
+     İnternette yer alan habere göre, ''IPv6'' olarak adlandırılan yeni protokol içinde olması planlanan çalışma ile Türkçe'deki ''İ, Ö, Ü, Ç, Ş, Ğ'' harflerinin yanı sıra Çince ve sağdan sola doğru yazılan Arapça gibi diller ve yerel sayıları içeren internet siteleri açılabilecek. 
+     Bazı internet analistleri internet adreslerinde Latin harflerinin kullanılmamasının beraberinde çok büyük sorunlar getirebileceğini ifade ederken, karşı görüşteki internet analistleri ise internet ortamının hiçbir dile ya da ülkeye bağımlı olmaması için yeni çalışmanın büyük önem taşıdığını ifade ediyorlar. 
+     
+</TEXT>
+</DOC>

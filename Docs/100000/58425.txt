@@ -1,0 +1,45 @@
+<DOC>
+<DOCNO> 58425 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/12/22/yasam/ayas.html </URL>
+<DATE> 2001/12/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayar devini korsan’ kurtardı 
+</HEADLINE>
+<TEXT>
+
+Microsoft’un son programı Windows XP’deki büyük güvenlik açığını, biri eski bilgisayar korsanı hacker , üç genç ortaya çıkardı.. 
+     DIŞ HABERLER SERVİSİ 
+
+     Dünyanın bilgisayar yazılım devi Microsoft ve dolayısıyla şirketin kurucusu olan dünyanın en zengin adamı Bill Gates, en korktukları düşmanları’ sayesinde büyük bir belayı ucuz atlattı. 
+     Microsoft’un kişisel bilgisayarlar için geliştirdiği ve muazzam bir reklam kampanyasıyla çok güvenilir’ olarak tanıttığı son işletim sistemi Windows XP’de son derece önemli bir güvenlik açığı bulunduğu anlaşıldı. Bu açığı ortaya çıkaranlar ise, biri 21 yaşında eski’ bir bilgisayar korsanı yani hacker’ olan, üç bağımsız bilgisayar güvenliği’ uzmanıydı. Yani, Kaliforniya eyaletinin Aliso Viejo kentindeki eEye Dijital Güvenlik Şirketi’nin kurucuları Marc Maiffret, Ryan Permeh ve Riley Hassell.. 
+     
+Derhal yamanmalı’      Bilgisayar uzmanı üç kafadarın bulduğu ve Microsoft’un da doğruladığı açık, korsanların’ internetten Windows XP’ye rahatça girmesine olanak tanıyor. 
+     Böylece kişisel bilgisayarın kontrolünü kolayca ele alan korsanlar’, kullanıcının tüm gizli ya da açık bilgilerine ulaşabiliyor, bunları istediği gibi kullanabiliyor ya da tamamen silebiliyor. Windows XP kullanıcılarının bu güvenlik açığını yamamak için yapması gereken ise, derhal Microsoft’un internet sitesine www.microsoft.com girip üretilen programı yüklemesi. Dünyada 25 Ekim’de piyasaya çıkan Windows XP, bugüne kadar 7 milyon sattı. 
+     
+İyi yıllar’ diliyor bilgisayarı bitiriyor      Bilgisiyar kullanıcılarının başı bu kez yeni bir virüsle derde girmek üzere. Amerika’da ortaya çıkan "Reezah" adlı virüs, Happy new year İyi yıllar ’ adlı elektronik posta e-mail ile geliyor. Bu mailin eklentisi Christmas.exe’nin içindeki Reezah’, önce klavyedeki bazı harfleri kullanılamaz hale getiriyor. Virüs daha sonra Windows programındaki bütün dosyaları silip süpürüyor. Bu kadarla da sınırlı kalmayan virüs, e-mail adreslerine de girerek kendini bütün adreslere postalıyor. 
+     
+
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

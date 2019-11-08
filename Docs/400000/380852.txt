@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 380852 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/23/son/soneko23.html </URL>
+<DATE> 2005/09/23/ </DATE>
+<TIME> 12.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Garanti'den şüpheli kart işlemlerine mesajlı önlem... 
+</HEADLINE>
+<TEXT>
+
+     Garanti Bankası, şüpheli kredi kartı harcamaları tespit edildiğinde kart sahibinin cep telefonuna otomatik ve ücretsiz kısa mesaj gönderecek sistemi uygulamaya koydu. 
+     Garanti Bankası'ndan yapılan açıklamada, kredi kartıyla birbirinden uzak yerlerde, kısa bir zaman aralığında işlem yapılması, belli bir zaman aralığında alışılagelenden sık veya yüksek miktarda işlem yapılması ve benzeri şüpheli işlemleri takiben kart sahibine kısa mesaj gönderileceği kaydedildi. 
+     Açıklamaya göre, mesajda kart sahibinin adı, soyadı, alışverişin yapıldığı firmanın adı ve alışverişin tutarı yer alacak. Cep telefonuna uyarı mesajı gelen müşteriler, harcamayı kendileri yapmadıysa, bankayı arayarak kartlarının hemen kullanıma kapatılmasını talep edebilecek. 
+     Hizmetten yararlanmak isteyenlerin cep telefonu numaralarını güncellemesi gerekiyor. 
+     Kısa mesajla uyarı sisteminin Garanti'nin internet bankacılığı hizmetlerinde de kullanıldığı kaydedildi. 
+     
+</TEXT>
+</DOC>

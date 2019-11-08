@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 218938 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/01/son/sondun43.html </URL>
+<DATE> 2004/03/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kanserli hücrenin tedaviye direncini zayıflatan yeni yöntem 
+</HEADLINE>
+<TEXT>
+
+     Yunan bilim adamları, kanser hücresinin tedaviye direncini azaltacak bir yöntem bulunduğunu açıkladı. 
+     Avrupa Birliği'nin finanse ettiği Yunan araştırma ekibinin başkanı Stathis Gonos, yaşlanmayla ilgili genetik ve çevresel faktörler üzerinde çalışırlarken, sağlıklı hücrelerde bulunan Apo J Apolipoprotein J proteininin, çevrede bulunan toksik faktörlere karşı bir ''kalkan'' görevini gördüğünü keşfettiklerini söyledi. 
+     Gonos, araştırmanın ikinci adımında, Apo J'nin kanser hücrelerinde de aynı görevi görüp görmediğini araştırdıklarını ve bu proteinin kanser tedavisinde kullanılan kemoterapi gibi yöntemlere karşı hücreleri savunabileceği sonucuna ulaştıklarını belirtti. 
+     RNA Müdahalesi adı verilen yeni bir yöntem kullanarak Apo J'nin etkilerini azaltmayı hedeflediklerini belirten Gonos, bu yolla kanser hücrelerinin zayıfladığını, kanserli hücreleri normal kemoterapi tedavisiyle ortadan kaldırmanın daha kolay hale geldiğini belirtti. Gonos, şu ana kadar yalnızca hayvanlar üzerinde denenen yeni tedavi yönteminin 3-5 yıl içinde insanlarda da denenebileceğini söyledi. 
+     
+     Kemoterapide daha az dozaj, daha az yan etki 
+     Gonos, yeni yöntemle, kemoterapide normalde kullanılan dozajın onda birini kullandıklarında bile ''muhteşem'' sonuçlar elde ettiklerini, dozajın azaltılmasınınsa bu tedavinin yan etkilerini ortadan kaldırabileceğini söyledi. 
+     Kemoterapi tedavisi gören kanser hastalarının çoğunda kansızlık, mide bulantısı, saç dökülmesi, enfeksiyon gibi rahatsızlıklar görülüyor. 
+     Dünya Sağlık Örgütü'nün hazırladığı Dünya Kanser Raporu'nda, yalnızca 2000 yılında dünya çapında yaklaşık 10 milyon kişide kötü huylu tümör görüldüğü, 6 milyondan fazla kişininse bu nedenle öldüğü bildiriliyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 303322 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/04/son/sondun34.html </URL>
+<DATE> 2005/01/04/ </DATE>
+<TIME> 14.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+500 bin yaralı var 
+</HEADLINE>
+<TEXT>
+
+     Dünya Sağlık Örgütü DSÖ , güney Asya'yı vuran deprem ve dev dalgalarda 500 bin kişinin yaralandığını, bölgeye yeterli miktarda içme suyu sağlanmadığı takdirde bir ''sıhhi felaketin'' kapıda olduğunu bildirdi. 
+     DSÖ yetkilisi Fadela Şuayip, gazetecilere yaptığı açıklamada, yaralı sayısını yaklaşık 500 bin olarak tahmin ettiklerini kaydederek, ''içme suyu probleminin çözümlenmemesi durumunda oluşabilecek büyük bir sıhhi felaketi önlemek için, DSÖ'nün gelecek 6 ay için 60 milyon dolarlık bir fon sağlanması çağrısında bulunması gerekeceğini'' belirtti. 
+     Şuayip, BM'nin bölgeye şimdiden yaklaşık iki milyon kişi için yeterli olacak cerrahi malzeme, ishali önleyici ilaç ve su temizleyici haplar gönderdiğini ifade ederek, ''Temizliği sağlayamazsak, bulaşıcı hastalıklara davetiye çıkarılmış olur. Şimdilik kolera ya da benzeri bir bulaşıcı hastalık bilgisi gelmedi. Ancak temiz su sağlanamazsa ishal bile bir çocuğu saatler içinde öldürebilir'' dedi. 
+     Depremin ve dev dalgaların vurduğu bölgede kolera, tifo, ishal gibi bulaşıcı hastalıkların yayılmasından endişe ediliyor. 
+     
+</TEXT>
+</DOC>

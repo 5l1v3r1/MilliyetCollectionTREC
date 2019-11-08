@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 285565 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/02/son/sonyas14.html </URL>
+<DATE> 2004/11/02/ </DATE>
+<TIME> 12.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Intel'den oyun meraklılarına yeni işlemci... 
+</HEADLINE>
+<TEXT>
+
+     Intel, bilgisayarlarının sınırlarını zorlamaktan hoşlanan oyun tutkunları ve multimedya meraklıları için geliştirdiği yeni işlemci ve chipsetleri piyasaya sürdü. 
+     Intel'den yapılan açıklamaya göre, Intel Pentium 4 işlemci 3.46 GHz Extreme Edition, 2MB'lık level 3 önbellek ve HT teknolojisi sayesinde geliştirilmiş performans sunuyor. HT Teknolojisini destekleyen Intel işlemci, kendisini yeni işletim sistemleri ve uygulamalarına iki sanal işlemci gibi tanıtıyor. 
+     HT Teknolojisine ve uygun chipset'e, BIOS'a, işletim sistemine ve uygulamalara sahip bilgisayarlarda yüzde 25'e varan performans artışı sağlanabiliyor. 
+     Yeni Intel 925XE Express chipset platformu, bu yılın ilk aylarında piyasaya sürülen 915 925X Express chipset ailesinin bir uzantısı konumunda bulunuyor. 
+     1066 MHz sistem veri yolu hızı, işlemci ile sistem belleği arasındaki veri çıkışında yüzde 33'e varan bir artış sağlarken, hem oyun hem de video montajı için daha hızlı film kareleri sağlayabiliyor. 
+     
+</TEXT>
+</DOC>

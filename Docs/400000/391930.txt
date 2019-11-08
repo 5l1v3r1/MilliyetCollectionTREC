@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 391930 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/03/son/sondun06.html </URL>
+<DATE> 2005/11/03/ </DATE>
+<TIME> 10.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İngiltere'de sağlık skandalı Her yıl 34 bin kişi hatalar yüzünden ölüyor 
+</HEADLINE>
+<TEXT>
+
+     İngiltere'de her yıl 34 bin kişinin, hastanelerdeki hatalar yüzünden öldüğü tahmin ediliyor. 
+     İngiltere'de faaliyet gösteren Ulusal Denetleme Ofisi NAO raporlarına göre, ülkede sadece geçen bir yıl içinde hastanelerde yapılan hataların ardından ölümlerin önlenebileceği halde kurtarılamayan kişi sayısının 2 bin olduğu tespit edildi. Raporlarda 980 bin kişinin de ölümden kıl payı kurtulduğu açıklandı. 
+     NAO raporlarında, hata sonucu meydana gelen ölüm sayısının 2 binden çok daha fazla olabileceği, ancak hata sonucu meydana gelen her ölümün raporlara yansımaması ya da ölümün bir hata sonucu olduğunun farkına bile varılamaması yüzünden rakamın çok küçük çıktığı kaydedildi. 
+     Bu tür ölümlerin 34 bine yakın olabileceği tahmin edilirken, hastane enfeksiyonları yüzünden meydana gelen ölümlerin bu rakamın içinde bulunmadığı, bunların ayrı bir kalemde değerlendirildiği bildirildi. İngiltere'de her yıl 5 bin kişi hastane enfeksiyonları yüzünden yaşamını yitiriyor. 
+     Hükümet sözcüleri, Milli Sağlık Sistemi NHS içindeki hatalar yüzünden can kayıplarından üzüntü duyulduğunu belirterek, bunun önüne geçmek için gereken derslerin alındığını vurguladı. 
+     Bu iyimser açıklamalara karşı çıkan NAO raportörleri ise, ''aslında sistemin hatalardan ders almadığını'' öne sürerek, ''Öyle olsaydı geçen bir yılda yapılan hataların yarısından kaçınılabilirdi'' dedi. 
+     Bu arada NHS içindeki devlet hastaneleri ve kliniklerde yapılan hataların mali tabloya yansıması da ağır oldu. NHS'nin, hatalar yüzünden yılda 2 milyar sterline yakın kayba uğradığı bildirildi. 
+     
+</TEXT>
+</DOC>

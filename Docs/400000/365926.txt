@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 365926 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/31/son/sonyas02.html </URL>
+<DATE> 2005/07/31/ </DATE>
+<TIME> 00.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İki astronot uzayda 7 saat yürüdü 
+</HEADLINE>
+<TEXT>
+
+     Uzay Mekiği Discovery’nin iki astronotunun, Uluslararası Uzay İstasyonu’ndaki UUİ bir dümen cihazını tamir etmek ve mekiğin ısı kalkanını onarımını test etmek için yaptığı uzay yürüyüşü yaklaşık 7 saat sürdü. 
+     Mekiğin dışına çıkan Japon astronot Soichi Noguchi ve Amerikalı astronot Stephen Robinson, numune mekik ısı kalkanı fayanslarını ve önemli ölçüde zarar gören rüzgar panellerini tamir etme denemeleri için, özel olarak tasarlanmış yüksek teknoloji ürünü macun pompası ve macun spatulası kullandılar. 
+     Sadece mekiğin kargosundaki numune malzeme üzerinde çalışan astronotlar, Discovery’nin kalkışı sırasında ısı kalkanında meydana gelen küçük hasara dokunmadılar. 
+     İlk olarak Robinson, macun pompasıyla NOAX olarak adlandırılan ısıya dayanıklı ürünü numune rüzgar panelindeki çatlak ve oyuklara sıktı, daha sonra bu sıktığı bu maddeyi düzlemek için bir macun spatulası kullandı. Noguchi de, hasar görmüş ısı kalkanı fayansları numuneleri üzerindeki maddeyi kurulamak için ayakkabı cilası aplikatörüne benzer başka bir cihazdan faydalandı. 
+     Noguchi, UUİ’nin bilgisayarlarının istasyonun tam yerini belirlemede kullanılan uzay istasyonundaki kırılan küresel yer belirleme sistemi antenini de değiştirdi. 
+     Ayrıca mart ayında bozulan jiroskopu onarmak için bir güç kablosunu değiştiren astronotların, pazartesi günü yapılması planlanan diğer uzay yürüyüşünde bozulan diğer bir jireskopu da değiştireceği belirtildi. 
+     Uzay yürüyüşünde belirlenen görevleri yerine getiren astronotlar, istasyonun bir hava bölmesi dışındaki iki bilimsel deney malzemesini almak için de zaman harcadılar. 
+     Discovery’nin 7 Ağustos’ta dönmesi planlanırken, NASA yetkilileri uzay mekiğinin görev süresinin UUİ’ye daha fazla ikmal malzemesi nakliyesi için bir gün uzayabileceğini belirtiyor. 
+     
+</TEXT>
+</DOC>

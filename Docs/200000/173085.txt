@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 173085 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/02/ekonomi/eko08.html </URL>
+<DATE> 2003/08/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Erken ödenen tüketici kredisinde indirim 
+</HEADLINE>
+<TEXT>
+
+   Sanayi Bakanlığı, tüketici kredisinde erken ödeme indirimi yapılmasını sağlayacak bir yönetmelik yayımladı 
+   ANKARA Milliyet 
+   
+   Sanayi Bakanlığı'nın Tüketici Kredisi'nde Erken Ödeme İndirimi ve Kredinin Yıllık Maliyet Oranının Hesaplanma Usul ve Esasları Hakkında Yönetmeliği Resmi Gazete'de yayımlandı. Yönetmelik, 3 ay sonra yürürlüğe girecek. 
+   Tüketici, kredi verene borçlandığı toplam miktarı önceden ödeyebileceği gibi, vadesi gelmemiş bir ya da birden çok taksit ödemesinde de bulunabilecek. Bu durumda kredi veren, tüketiciden ek ödemede bulunulmasını isteyemeyecek ve erken ödeme miktarı, asgari ödeme miktarının altında olmayacak. Vadeden önce ödenecek taksit söz konusu olduğunda, erken ödenen taksit tutarı içinde yer alan anapara üzerinden akdi faiz oranı ve erken ödenen gün sayısı dikkate alınarak bulunacak faiz üzerinde hesaplanacak kamusal yükümlülükler toplamı ve komisyon tutarı kadar indirim yapılacak. 
+   Erken ödemenin taksit tarihinde yapılması halinde vadesi gelen taksit ödemesi, kalan taksit tutarı içindeki anapara borcu, o tarihe kadar tahsil edilmemiş faiz ve kamusal yükümlülükler tahsil edilecek. 
+   Erken ödeme, iki taksit arasında yapılıyorsa, ödeme planında yer alan en son ödenmiş taksit tarihiyle, erken kapatma işleminin gerçekleştiği tarih arasında, anaparaya işleyen faiz tutarı, en son ödenmiş taksit tarihi itibariyle geriye kalan taksit tutarları içerisindeki anapara borcu ve varsa o tarihe kadar tahsil edilmemiş faiz tahsil edilecek. 
+   
+   
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 301603 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/28/son/soneko36.html </URL>
+<DATE> 2004/12/28/ </DATE>
+<TIME> 23.42 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones endeksi 10,854.98 puandan kapandı 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası Wall Street'in Dow Jones Sanayi Endeksi, haftanın ikinci işlem gününü 78.85 puan artışla binde 7.3 10,854.98 puandan kapadı. 
+     Teknoloji ortaklıklarının ibresi Nasdaq Birleşik Endeksi de, 22.50 puan artışla binde 10.4 2,176.72 puandan kapandı. 
+     Borsanın yükselişinde, petrol fiyatlarının 42 doların altına gerilemesi, ekonomi sağlığına güven ve internet hisse senetlerinin gücü etkili oldu. 
+     
+</TEXT>
+</DOC>

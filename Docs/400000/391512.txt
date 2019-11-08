@@ -1,0 +1,58 @@
+<DOC>
+<DOCNO> 391512 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/01/son/sontur19.html </URL>
+<DATE> 2005/11/01/ </DATE>
+<TIME> 12.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ADSL hizmeti alarm veriyor .. 
+</HEADLINE>
+<TEXT>
+
+     ADSL tartışması büyüyor. Türk Telekom'un 256 Kbps giriş seviyesini 512 Kbps'ye ücretsiz çıkarma vaadini tutmaması ve fiyatı 49 YTL'den 99 milyon YTL'ye çıkarması kullanıcıları isyan ettirdi. Tüketiciler Derneğine rekor sayıda şikayet geldi. 
+     Tüketiciler Derneği TÜDER Genel Başkanı Engin Başaran, "ADSL tarifesinin tüketicileri çıldırttığını" söyleyerek derneğe dün 10.00-16.00 saatleri arasında e-posta yoluyla iletilen ADSL şikayet sayısının 1278 olduğunu bildirdi. 
+     Türk Telekom yetkililerinin, geçen eylül ayında düzenlenen Bilişim Fuarı’nda "ADSL abone artışında dünyada birinci sırada olduklarını" açıkladıklarını hatırlatan Başaran, şunları kaydetti 
+     "Ancak görülüyor ki, abonelerin teveccühü ve ilgisi Türk Telekom tarafından karşılanamıyor. Günde 5 bin kişinin abone olduğu Türk Telekom’un ADSL hizmeti alarm veriyor. Haberleşme özgürlüğünün bugünkü adı diyebileceğimiz internet hizmetlerine abonelerin ilgi ve ihtiyacı, Türk Telekom’un tekelci anlayışı, servis ve satış sonrası hizmetlerin verilmemesi, tarife ve kapasite ile ilgili çelişkili uygulamalar nedeniyle karşılanamıyor. 2004’te, 454 bin ADSL abonesi bulunan Türk Telekom, 2005 eylül ayı itibariyle 1 milyon abone hedefini geçti". 
+     Engin Başaran, ADSL hizmetleri üzerinden alınan vergileri "internet üzerinde kara bir leke" olarak niteleyerek, satış sonrası hizmet sunulamaması nedeniyle de tüketicilerin telefon hatlarında mağdur edildiğini ileri sürdü. 
+     BAKAN YILDIRIM YÜZDE 100 UCUZLUK GELDİ 
+     Ulaştırma Bakanı Binali Yıldırım, ADSL'de limitli tarifede hızı 256'dan 512 Kbps'ye çıkardıklarını ifade ederek, "Bu, yüzde 100 ucuzluk demektir" dedi. 
+     Yıldırım, Pegasus Havayolları'nın ilk içhat seferine başlaması nedeniyle Sabiha Gökçen Havalimanı'nda düzenlenen törende gazetecilerin sorularını cevaplandırdı. 
+     "ADSL'deki fiyat değişikliği" ile ilgili sorular üzerine Bakan Yıldırım, ADSL'de fiyatlarının ucuzlayan tarafının görülmediğini söyledi. 
+     Türkiye'ye ADSL'yi getirdiklerini ve 1.5 milyon aboneye ulaştıklarını anlatan Yıldırım, Türkiye'nin hızlı geniş bantlı internet kullanımını yakaladığını belirtti. 
+     Yıldırım, bu konuda Türkiye'nin dünyada en hızlı büyüyen ülke olduğunu dile getirerek, 2 yılda yüzde 800 büyüdüğünü belirtti. 
+     Türkiye Cumhuriyeti kurulduğunda önce köy yollarının olduğunu ardından devlet yolları, bölünmüş yollar ve otoyolların geldiğini hatırlatan Yıldırım, internette otoyol döneminin başladığını söyledi. 
+     Yıldırım, "ADSL'de limitli tarifeyi aynen 256'dan 512'ye çıkardık. Bu yüzde 100 ucuzluk demektir" dedi. 
+     
+     'ARKADAŞLARA TALİMAT VERDİM' 
+
+     "Pahalandı" denilen durumun 49 YTL olan 256 Kbps sınırsız uygulamasının kaldırılmasından ve 99 YTL'ye çıkmasından kaynaklandığına dikkat çeken Yıldırım, "Bunun tedbirini de aldık. Arkadaşlara talimat verdim. Şu anda 49 YTL olacak bu ve limitini de 5 GB'ye çıkardık. Bugünden itibaren geçerli. Yani o yanlışlık düzeltilmiş oldu. 512 Kbps, 5 GB kullanıma kadar 49 YTL" şeklinde konuştu. 
+     Limitsiz kullananların sayısının binde 7 olduğunu ve bu oran için hatları meşgul etmeye lüzum bulunmadığını ifade eden Yıldırım, en çok kullananın 3 GB kullandığını, 4 GB kullanan bile olmadığını kaydetti. 
+     Yıldırım, şöyle devam etti 
+     "Ama biz dedik ki 5 GB yapın . Herkes biraz daha fazla kullansın. Film indirmek isteyen varsa onlar da kullansın. Onun için 3 GB'yi 5 GB'ye çıkardık, fiyatını 49 YTL'ye indirdik. Her şey düzeldi. Yani bakan söz verdiyse yapar. Bu bakan öyle bir bakan." 
+     
+     TÜRK TELEKOM'UN DEVRİ 
+
+     Bakan Yıldırım, bir gazetecinin "Türk Telekom, 8 Kasım'da devredilecek mi " sorusu üzerine de yasal sürenin tamamlandığını ve devir konusunda herhangi bir sıkıntı görünmediğini söyledi. 
+     "Devrin firma ile Özelleştirme İdaresi arasında bir işlem olduğunu ve ne zaman toplarlar, hallederlerse devrin o zaman gerçekleşeceğine" dikkat çeken Yıldırım, "İki şeyi bekliyorduk. Biri Danıştay'ın istişari görüşü, diğeri bu konudaki yürütmeyi durdurma talebiyle yürüyen davalardır. İkisi de sonuçlandı. Müspet yönde. Şu anda hisse devri için yasal engel kalmadı" şeklinde konuştu. 
+     Yeni ADSL tarifesi şöyle 
+     
+
+Paket Adı Hızı Kbps Bağlantı Ücreti Aylık Ücret .512 Kbps’e kadar 512 128 59 YTL 99 YTL .1 Mbit’e kadar 1024 256 59 YTL 169 YTL .2 Mbit’e kadar 2048 512 59 YTL 269 YTL      
+     LİMİTLİ ADSL ERİŞİM TARİFESİ 
+
+     
+
+Paket Adı Hız Kbps Bağlantı Ücreti Aylık ücret MB İçin Ücret .512 Kbps’e kadar 3 GB limitli 512 128 59 YTL 29 YTL 0.01 YTL .512 Kbps’e kadar 6 GB limitli 512 128 59 YTL 49 YTL 0.01 YTL .512 Kbps’e kadar 9 GB limitli 512 128 59 YTL 69 YTL 0.01 YTL      
+     CHP, KONUYU MECLİS'E TAŞIDI 
+
+     CHP Denizli Milletvekili Mustafa Gazalcı, Türk Telekom'un uygulamaya koyduğu yeni ADSL ücret tarifesinin, internet kullanımının yaygınlaşmasını engelleyip engellemeyeceğini sordu. 
+     Gazalcı, Ulaştırma Bakanı Binali Yıldırım'ın yanıtlaması istemiyle TBMM Başkanlığı'na sunduğu yazılı soru önergesinde, "Türk Telekom'un uygulamaya koyduğu yeni ADSL ücret tarifesinin internet kullanıcıları için düş kırıklığı" olduğunu kaydetti. Gazalcı, 256 Kbps limitli tarife kullanıcılarının hızlarının iki katına çıkarılmasına karşın, kotalarının sabit tutulduğunu belirterek, önergesinde şu sorulara yer verdi 
+     "Bu uygulama bir anlamda 256 Kbps limitli tarife kullanıcılarını kotalarını aşmaya zorlamamakta mıdır 
+     Yeni tarifede 512 Kbps limitli kullanıcıların kotalarının yükseltilmesini, hız artırımından eski 256 Kbps limitsiz abonelerinin de yararlandırılmasını ve yüksek hızlardaki bağlantıların fiyatlarının düşürülmesini planlıyor musunuz 
+     İnternet kullanıcılarından alınan yüzde 15 oranındaki Özel İletişim Vergisi'nin kaldırılması için bir çalışmanız var mı 
+     Yaklaşık 1.5 milyon internet kullanıcısının bulunduğu ülkemizde, herkesin ucuz, hızlı ve sınırsız internet erişimine kavuşması için yeni bir çalışma yapılacak mıdır 
+     Bu uygulama, ülkemizde internetin yaygınlaşmasını engellemeyecek midir " 
+     
+</TEXT>
+</DOC>

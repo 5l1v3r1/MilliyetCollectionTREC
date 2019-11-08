@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 127011 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/12/26/son/soneko10.html </URL>
+<DATE> 2002/12/26/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternet...5 milyon kullanıcının 4 milyonu işyerlerinden bağlanıyor 
+</HEADLINE>
+<TEXT>
+
+     Kabaran telefon faturaları yüzünden interneti ev yerine işyerinde kullananların artması, patronları, ''istismarcı'' çalışanları yakalayan filtre yazılımlarına yöneltti. 
+     Çalışanlarının sanal ortamda attığı her adımı bu filtre programları sayesinde takip edebilen firma sahipleri, işyerindeki bilgisayarlardan uygunsuz web sitelerine girişten, ''MP3'' adı verilen müzik dosyalarının indirilmesine kadar birçok konuda engelleme getirebiliyor. 
+     Dünyanın önde gelen yazılım şirketlerinden ABD firması ''Websense''in Türkiye Temsilcisi İnfonet'in Genel Müdürü Taner Özdeş, Türkiye'de internet kullanımının her geçen gün arttığını, ancak kullanıcıların büyük bölümünün evlerinden değil, işyerlerinden sanal ortama bağlandığını söyledi. 
+     Ekonomik kriz yüzünden, evden internete bağlanan kişi sayısında bir azalma meydana geldiğini, bunun sonucu olarak da, internetin işyerlerinden kullanımının arttığını ifade eden Özdeş, Türkiye'de evindeki bilgisayardan internete giren kişi sayısının 1 milyon, işyerinden sanal ortama bağlanan kişi sayısının ise 4 milyon olduğunun tahmin edildiğini belirttti. 
+     Özdeş, internetin işyerinden kullanımının yaygınlaşmasının, çalışanların yapabileceği ''istismar'' olaylarını gündeme getirdiğini anlatarak, işyeri sahiplerinin de, bu durum karşısında, filtre yazılımlara yöneldiklerini bildirdi. 
+     
+     İSTİSMAR NASIL GERÇEKLEŞİYOR 
+     Özdeş, istismarın genellikle, internetin, iş yerine, ''sörf yapmak'' için kullanımı, ''chat'' yapılması ve evlerdeki bilgisayarlardan indirilemeyecek büyüklükteki film ve müzik dosyaları ile oyun programlarının işyerinden yüklenmesi şeklinde ortaya çıktığını ifade ederek, özellikle müzik ve film dosyalarının işyerindeki bilgisayardan indirilmesinin, internet olanaklarını kısıtladığı için diğer çalışanların büyük öfkesiyle karşılaştığını bildirdi. 
+     
+     YÜZDE 70'İ İŞ DIŞI KULLANIYOR 
+     İşyeri sahiplerinin, filtre yazılımlar kullanarak, çalışanlarının porno içerikliler başta olmak üzere uygunsuz web sitelerine girmelerine engel olabildiklerini, bazı işyerlerinde ise yine bu yazılımlar sayesinde çalışanların internetteki tüm hareketlerinin izlenip, denetlenebildiğini dile getiren Özdeş, şöyle konuştu 
+     ''Dünyada ve Türkiye'de yapılan araştırmalar, çalışanların işyerindeki bilgisayarda geçirdikleri zamanlarının yüzde 70'ini iş dışı kullandıklarını ortaya koyuyor. Bu durum, verimsizliği de beraberinde getiriyor. İşyeri sahipleri de, çalışanların verimini artırmanın yanı sıra internetten gelebilecek saldırıları engellemek için önlem almak zorunda kalıyor. 
+     Temsilcisi olduğumuz ABD firması Websense'in ürünü olan Premium Group da, bu alandaki en iyi yazılımlardan birisi. Türkiye'de, İstanbul, Ankara ve İzmir ağırlıklı olmak üzere 250'nin üzerinde firma, bu yazılımı kullanıyor. Böylece, hem çalışanların yapabilecekleri istismarın önüne geçilmiş olunuyor, hem de işyerindeki bilgisayarlar, virüs saldırılarına karşı korunmuş oluyor. Şu anda, firmaların filtre yazılımına olan ilgileri, her geçen gün artıyor.'' Taner Özdeş, modüler halde satılan yazılımın fiyatının 50 kullanıcı için bin 270, 400 kullanıcı için de 4 bin 245 dolar olduğunu kaydetti. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 56362 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/12/10/ekonomi/eko02.html </URL>
+<DATE> 2001/12/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sadece konuşma, kullan 
+</HEADLINE>
+<TEXT>
+
+Cep’ten sadece konuşmakla yetinmeyin. Altyapısı tamamlanan ve hızlandırılan teknolojiler sayesinde, artık cep telefonlarından internete bağlanıp her an online olmanız mümkün 
+     ŞÜKRÜ ANDAÇ 
+
+     Her geçen gün gelişen ve değişen teknolojinin başdöndürücü hızına, cep telefonları da ayak uydurdu. Telefonların özelliklerine gün geçmiyor ki bir yenisi eklenmesin. Artık cep’ten sadece konuşmak neredeyse demode oldu. İşte cep’ten konuşmakla yetinmemenizi sağlayacak bu teknolojilerden birisi de GPRS Genel Paket Radyo Servisi . GPRS sayesinde cep telefonunuzun kapsama alanı içindeki her noktadan anında internete bağlanabilir, dosya, bilgi alabilir - gönderebilir, e - postalarınızı okuyabilir ve e - posta gönderebilirsiniz. 
+     
+İnternet için ücret yok      Tüm dünyada 590 milyon kullanıcısı olan GPRS, ülkemizde de GSM operatörlerinin gerekli altyapı yatırımlarını yapması, sistemin bugün ulaştığı hız ve cep telefonu üreticilerinin piyasaya çıkardıkları birbirinden çekici özelliklere sahip cep telefonları sayesinde kullanıcılar tarafından yavaş yavaş ilgi görmeye başladı. 
+     GPRS’in bir diğer çekici tarafı da, kullanırken yalnızca veri alışverişi için ücret ödemeniz yani internet için hiçbir ücret yok. 
+     
+Cep’ten sanal alem pahalı      Nokia 8310 
+
+</TEXT>
+</DOC>

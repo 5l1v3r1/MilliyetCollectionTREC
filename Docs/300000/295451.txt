@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 295451 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/07/yazar/toruner.html </URL>
+<DATE> 2004/12/07/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Yaman TÖRÜNER  </AUTHOR>
+<HEADLINE>
+Mortgage kredisi 
+</HEADLINE>
+<TEXT>
+
+
+Geçen haftaki iki yazımı "mortgage" adı verilen ve son günlerde çok tartışılan gayrimenkul kredisi sistemine ayırmış ve bu işin darboğazlarını anlatmaya çalışmıştım. Bugün işin diğer bazı gereklerini anlatacağım 
+a Bankalarca kredi verilecek konutların sigorta edilmiş olmaları gerekli. Sadece deprem sigortası yapılması yeterli olmuyor. Her durumu kapsayan geniş bir bina sigortası zorunlu. Şimdiki uygulamada bankaların şart koştukları hayat sigortası ise aslında zorunlu değil. Bazı bankaların ek olarak istedikleri "kefil" uygulaması ise, tamamen gereksiz ve zaten sistemin ruhuna aykırı. 
+b Bankalar ve kredi kullanan bakımından en önemli husus, kredinin faizi olacak. Faiz sabit veya değişken olabilir. Faiz değişken olsa bile, "bankalararası para piyasası" gibi bir piyasa faizine endekslenmiş olmalıdır. Bankalar, faizin değişken olması nedeniyle, istedikleri faizi uygulama serbestisi içinde olmamalıdır. Öte yandan, sabit faizli kredilerin değişken faizlilerden daha pahalı olması normal. Yine, vade uzadıkça faiz oranı da artacaktır. Bankacılık Düzenleme ve Denetleme Kurumu BDDK bu kredilerde uygulanacak faiz sistemini düzenlemeli ve denetlemelidir. 
+c Faizlerin düşmesi halinde, kredi kullanınca, tamamen geri ödenip yeniden alınabilir veya yeni faizle uzatılabilir. Ancak, faizlerin ani olarak yükselmesi halinde sabit faizli kredi kullandırmış olan bankaların zor duruma düşmeleri durumuyla karşılaşılabilir. İşte, sadece bu durumdaki risklerin karşılanması amacıyla "mevduat garantisi"ne benzer bir garanti sistemi devreye sokulmalıdır. "Mortgage kredi sigorta fonu" gibi bir kurum bizim gibi dalgalı ekonomilerde mutlaka düşünülmelidir. 
+d Diğer bir husus, bankaların gayrimenkul edinmeleri ve elden çıkarmalarıyla ilgilidir. Yasalar bankalara çok sınırlı gayrimenkul tutma ve hatta zaman içinde iştiraklerinden arınma emri vermektedir. Mortgage kredilerinin geri ödenmemesi nedeniyle bankaların portföylerine giren gayrimenkuller satılıncaya kadar farklı bir uygulamaya tabi olmalıdır. Bunların bankalarca süratle satışı için ortak bir yöntem belirlenmelidir. Bu da, BDDK'nın bir düzenlemesini bekler. 
+e Yapılacak en önemli iş, "bankalararası kredi piyasası"nın oluşturulmasıdır. "Mortgage"lar benzer ve önceden belirlenmiş şartlarla verilen krediler olduğundan, bankalar arasında alınıp satılabilir. Sermaye Piyasası Kurulu bu amaçla bir piyasa oluşturmalıdır. Böylelikle, bankalar bu piyasadan kısa dönemli para ihtiyaçlarını da karşılayabilirler. Yani, "mortgage" kredisi kullandırmış olan banka, dilediğinde bu krediyi satabilmeli veya rehin gösterip para bulabilmelidir. Böylece, krediler donuk kalmaktan kurtulacak ve sistem çalışacaktır. Merkez Bankası da bu oluşuma yardımcı olmalı, bu kredileri teminat olarak kabul etmelidir. 
+En önemli husus, yardım ve denetim dışında bu işe devletin karışmamasıdır. Bankacılık sistemimiz bu işi gayet güzel yapar. Öte yandan, kredilerin prensip olarak Türk lirası üzerinden verilmesi gerekir. Belki, başlangıçta sınırlı olarak döviz kredisine izin verilebilir. 
+Bir diğer önemli husus ise, Hazine arazilerinin "mortgage" sisteminde kullanılmasıdır. Bu konuya başka bir yazımda değineceğim. 
+Sistem için ekonominin hazır olup olmadığı ise, tartışılır. Bence hazırdır. 
+
+
+
+</TEXT>
+</DOC>

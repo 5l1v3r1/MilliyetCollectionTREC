@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 106749 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/09/10/son/sondun31.html </URL>
+<DATE> 2002/09/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İntel, "Güvenlik Fonksiyonu" olan bir işlemci ürettiğini açıkladı 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayar işlemcisi üreticisi İntel şirketi, ''prescott'' güvenlik teknolojisiyle ''LaGrande'' adlı yeni bir Pentium işlemci üreteceğini açıkladı. 
+     İntel'in ürün geliştirme forumunda tanıtılan ''LaGrande'' adlı işlemcinin 3 Gigahertz gücünde olduğu ve 2003 yılı Mayıs ayında piyasaya sürülmesinin planlandığı bildirildi. 
+     İntel şirketinin Başkanı Paul Otellini, yeni işlemcinin ''pentim 4 veya pentium 5'' olarak piyasaya sürülmesi konusunda henüz karar verilmediğini belirtti ve yeni işlemcinin virüs ve hacker saldırılarına karşı koyabilecek ''prescoot'' adlı güvenlik teknolojisine sahip olduğunu, piyasadaki tüm yazılımlarla çalışabileceğini kaydetti. 
+     Otellini, işlemciye yazılımların kopyalanmasını önleyen ve sadece sertifikalı yazılımlara izin veren Digital Rights Management DRM sistemini monte etmeyeceklerini söyledi. 
+     Yazılım devi olarak bilinen Microsoft ise İntel'in üreteceği yeni işlemciye DRM sisteminin monte edilmesini istiyor. İntel ise yeni işlemcinin piyasadaki tüm yazılımlarla çalışabilme özelliğine sahip olmasında ısrar ediyor. 
+     Gözlemciler, ''İntel'in yeni işlemciye DRM sistemini monte etmemekte ısrar etmesinin, Microsoft ile çatışmasına yol açabileceğini'' belirtiyorlar. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

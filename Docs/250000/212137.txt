@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 212137 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/30/son/sondun03.html </URL>
+<DATE> 2004/01/30/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+CTRL-ALT-DELETE komutunun mucidi emekli oldu... 
+</HEADLINE>
+<TEXT>
+
+     Tüm dünyadaki PC kullanıcıları tarafından en iyi bilinen komut olan ''Ctrl-Alt-Delete'' kodunu yazan bilgisayar mühendisi David Bradley, emekliye ayrıldı. 
+     IBM firmasında 28.5 yıl çalıştıktan sonra bugün emekli olan 55 yaşındaki Bradley, bu en çok bilinen ve bilgisayarı yeniden başlatmak için başka bir tuşa basmaya gerek bırakmayan komutu yazmak için sadece 5 dakikasını harcamıştı. 
+     1975'de IBM'de çalışmaya başlayan Bradley, 1980'de IBM PC'yi yaratan 12 mühendisten birisi olarak görev yaptı. ''Bunun sonradan böyle kültürel bir ikon haline geleceğini hiç düşünmemiştim'' diyen Bradley, aslında başka birçok komut yazdığını, ancak bununla ünlü olduğunu belirtti. 
+     IBM PC'nin 20. yıldönümü dolayısıyla düzenlenen, Microsoft'un kurucusu Bill Gates'in de bulunduğu bir panelde Bradley, komutla ilgili olarak, ''Ben yazmış olabilirim, ancak Bill bunu meşhur etti'' diyerek bir espri yapmış, ancak Gates buna hiç gülmemişti. 
+     Ctrl-Alt-Delete kombinasyonu, Microsoft'un Windows işletim sistemi başarısız olduğunda da kullanılıyor. 
+     Bradley, emekli olduktan sonra North Carolina Üniversitesi'nde öğretim üyeliğine devam edecek. 
+     
+</TEXT>
+</DOC>

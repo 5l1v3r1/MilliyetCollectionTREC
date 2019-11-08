@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 244024 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/30/son/sontur11.html </URL>
+<DATE> 2004/05/30/ </DATE>
+<TIME> 11.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türkiye'nin bitki haritası çıkarılıyor... 
+</HEADLINE>
+<TEXT>
+
+     TÜBİTAK ile Abant İzzet Baysal Üniversitesi AİBÜ Fen- Edebiyat Fakültesi Biyoloji Bölümü'nce yürütülen ortak çalışmayla Türkiye'nin ''Bitki Haritası'' çıkarılıyor. Çalışma tamamlandığında Türkiye'ye özgü bitkilerin yurtdışına kaçırılmasını önlemek için ''Bitki Gümrüğü'' oluşturulacak. 
+     AİBÜ Rektör Yardımcısı ve Fen-Edebiyat Fakültesi Dekanı Prof. Dr. Tekin Babaç, Türkiye'nin bitki haritasını çıkarmak için TÜBİTAK'ın başlattığı ''Tehlike Altındaki Bitki ve Hayvan Türlerinin Koruma Altına Alınması'' projesi kapsamında 2 yıldır çalışmalarını sürdürdüklerini söyledi. 
+     Babaç, projenin amacının, tehlike altındaki türlerin uluslararası ticareti kapsamında Türkiye'deki bitki türlerini tespit ederek, bilgisayar ortamına aktarılması olduğunu belirtti. Bugüne kadar Türkiye'de yetişen 13 bin bitkiden 7 binine ait verilerin bilgisayar ortamına aktarıldığını ifade eden Babaç, bu bitkilerden 3 bin 100'ünün dünyada sadece Türkiye'de görüldüğüne dikkati çekti. 
+     TÜBİTAK merkezinde oluşturulan bitki veri tabanına, bitkilerin bulunduğu bölge, özellikleri ve fotoğraflarının da girildiğini anlatan Babaç, şöyle konuştu 
+     ''Bizim tespitlerimize göre Türkiye'de en fazla bitki türü 3 tür ile Antalya'da yetişiyor. Antalya'yı 316 bitki türü ile Erzincan izliyor. Mesela Bolu-Abant'ta yetişen 3 farklı çiğdem türü dünyada sadece Abant'ta yetişiyor. Bu çiğdemlerden biri literatüre crocus abanttensis adı ile girdi. Endemik bitki türleri açısından Türkiye dünyanın en zengin ülkelerinden birisi.'' 
+     
+     BİTKİ GÜMRÜĞÜ OLUŞTURULACAK 
+     Türkiye'ye özgü bitkilerin veri tabanının yıllardır oluşturulamaması nedeniyle zaman zaman yurtdışına çıkarıldığını ifade eden Babaç, bu projenin tamamlanmasının ardından bitkilerin yurtdışına kaçırılmasını önlemek için ''Bitki Gümrüğü'' oluşturulacağını bildirdi. Babaç, şöyle devam etti 
+     ''Oluşturulan bitki veri tabanları bitki gümrüklerindeki bilgisayarlara ağ bağlantısıyla aktarılacak. Gümrükteki görevliler, yurtdışına çıkarılmak istenen bitkilerin özelliklerini bilgisayar ortamında inceleyecek, gerekirse bu bitkilerin veri tabanındaki fotoğraflarıyla karşılaştıracak. Böylelikle, Türkiye'ye özgü bitki türlerinin yıllardır ülkemizden dışarı çıkarılması önlenecek.'' 
+     
+</TEXT>
+</DOC>

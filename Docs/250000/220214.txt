@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 220214 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/06/yasam/yas20.html </URL>
+<DATE> 2004/03/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Philips, cep için dijital göz yaptı 
+</HEADLINE>
+<TEXT>
+
+   DIŞ HABERLER 
+   
+   Philips elektronik şirketi, cep telefonlarındaki minik dijital kameralarda kullanılacak 3 milimetre çapında bir mercek ürettiğini, söz konusu yeni lensin objeleri görüntülerken parlaklık ve odaklanma açısından insan gözü gücünde olduğunu açıkladı. Açıklamaya göre, yeni lens elle herhangi bir ayarlama gerektirmiyor. Şeffaf bir cam tüp içine yerleştirilen iki farklı sıvı madde, elektrik akımı verilerek odaklanma ve parlaklık ayarını kendiliğinden yapıyor. Philips, tamamen yeni bir teknolojiyle geliştirilen lensin patentini aldığını bildirdi. 
+   
+   
+</TEXT>
+</DOC>

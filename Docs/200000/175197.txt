@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 175197 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/12/son/sondun04.html </URL>
+<DATE> 2003/08/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft'un can damarı Explorer ''çalıntı'' mı 
+</HEADLINE>
+<TEXT>
+
+     ABD'de bir mahkeme jürisi, Windows sisteminin ana unsuru olan Internet Explorer tarayıcısının patentinin başka bir şirkete ait olduğu iddiasını benimsedi ve yazılım devi Microsoft'u söz konusu şirketle California üniversitesine 520 milyon dolar tazminat ödemeye mahkum etti. 
+     Microsoft avukatları ise jüri kararına karşı temyize gideceklerini açıkladılar. 
+     Jüri, yaptığı değerlendirme sonucunda, kısaca IE olarak bilinen internet tarayıcısının aslında merkezi Chicago'da bulunan ''Eolas Technologies Inc'' adlı firmayla California üniversitesi tarafından ortaklaşa geliştirildiği sonucuna vardı. 
+     Firmanın avukatı Martin Lueck, karardan sonra yaptığı açıklamada, ''karardan çok memnun olduklarını'' ifade etti, ''Patentler saygı gösterilmek için vardır. Bir firma ne kadar büyük ve güçlü olursa olsun patente saygı duymak zorundadır'' diye konuştu. 
+     İnternet tarayıcısının dayandığı teknolojinin, Eolas firmasının başkanı Michael Doyle tarafından 1994 yılında California üniversitesinde çalıştığı sırada geliştirildiği bildiriliyor. Eolas firması ve California üniversitesi, Microsoft firmasının daha sonra söz konusu teknolojiyi, patenti olmasına rağmen alarak Windows işletim sistemine dahil ettiğini öne sürüyor. 
+     Microsoft avukatları ise IE'ye ait patentin geçersiz olduğu tezini savunuyor. 
+     Jürinin, tazminat miktarını, Microsoft'un Kasım 1998 ile Eylül 2001 arasında 354 milyon adet Windows programı sattığını varsayarak belirlediği açıklandı. Eolas firması ve üniversite, bunun iki mislinden fazla tazminat talebinde bulunmuştu. 
+     
+</TEXT>
+</DOC>

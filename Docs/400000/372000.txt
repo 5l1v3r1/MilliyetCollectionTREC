@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 372000 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/22/son/sonyas13.html </URL>
+<DATE> 2005/08/22/ </DATE>
+<TIME> 17.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Üniversite öğrencileri, güneş enerjisiyle çalışan otomobil yaptı 
+</HEADLINE>
+<TEXT>
+
+     Sakarya Üniversitesi SAÜ öğrencileri güneş enerjisiyle çalışan otomobil yaptı. 
+     SAÜ Araştırma Görevlisi Hüseyin Eski ve Mühendislik Fakültesi'nde okuyan 4 öğrencinin yaptığı güneş enerjisiyle çalışan otomobilin deneme sürüşü, SAÜ helikopter pistinde gerçekleştirildi. 
+     Saguar adı verilen otomobil hakkında bilgi veren Ersin Aslan, aracı Araştırma Görevlisi Hüseyin Eski yönetimindeki, sınıf arkadaşları Kadir Tamkaya, İbrahim Sandal ve Can Kanveroğlu'yla tasarladıklarını, 2 yıl süren araştırma ve çalışma sonucunda gerçekleştirdiklerini kaydetti. 
+     Aracın, 4 metre 60 santimetre uzunluğunda ve 1 metre 80 santimetre genişliğinde olduğunu belirten Aslan, 15 beygir gücündeki güneş enerjisiyle çalışan otomobilin, 100 kilometre hıza ulaşabildiğini ifade etti. 
+     Çalışma sisteminin, güneş panellerinden gelen elektrik enerjisinin, gerilim sabitleyiciyle aküye aktarılması ve oluşan gücün tekerleklere verilmesine dayandığını anlatan Aslan, 10.02 derecelik yokuşa tırmanabilen aracın, 20 bin YTL'ye mal olduğunu söyledi. 
+     Aracın, TÜBİTAK tarafından düzenlenecek ve Formula-1 Pisti'nde 30 Ağustos'ta gerçekleştirilecek Formula-G yarışında, Sakarya Üniversitesi'ni temsil edeceği belirtildi. 
+     Aracın basına ve kamuoyuna tanıtımı yarın 15.00-17.00 saatleri arasında Adapazarı Kültür Merkezi önündeki trafiğe kapalı alanda gerçekleştirilecek. 
+     
+</TEXT>
+</DOC>

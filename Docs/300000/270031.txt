@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 270031 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/08/son/soneko01.html </URL>
+<DATE> 2004/09/08/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Borsası günü yükselişle kapattı. 
+     Borsanın temel göstergesi Dow Jones 80,96 puan kazançla 10.341,16 puana yükselirken, teknoloji endeksi Nasdaq 14,08'lik bir artışla artışla 1.858,56 puana çıktı. 
+     
+</TEXT>
+</DOC>

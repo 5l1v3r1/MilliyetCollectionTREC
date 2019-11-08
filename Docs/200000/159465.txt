@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 159465 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/28/son/soneko05.html </URL>
+<DATE> 2003/05/28/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Eurovision'da, tele oylamada en çok arama Ankara'dan... 
+</HEADLINE>
+<TEXT>
+
+     48. Eurovision Şarkı Yarışması'nda, tele oylama da en çok aramanın Ankara'dan yapıldığı bildirildi. 
+     IMA Press'ten yapılan açıklamada, geçen Cumartesi günü gerçekleştirilen 2003 Eurovision Şarkı Yarışması'nın Türkiye'deki tele oy toplama ve değerlendirmesinin, Telesis santralları ve bu işe özgü geliştirilen yazılımlarla başarı ile gerçekleştirildiği kaydedildi. 
+     Açıklamada, TRT'den anons edilen ücretsiz telefon hatlarına oylama sırasında gelmesi olası onbinlerce çağrı için yüzlerce telefon kanalı tahsis edildiği ifade edirek, şöyle denildi 
+     ''Saatte 360 bin çağrıya cevap verme kapasitesindeki bir Telesis tele-oy toplama ve değerlendirme sistemi, Türk Telekom Kavaklıdere santral binasına kuruldu. Türkiye tele oylaması sonuçları için, oylamanın başladığının TRT 1 ekranlarında belirtildiği andan itibaren beş dakiki boyunca gelen çağrılar dikkate alındı. Yarışma, tele oylama kuralları gereği, aynı telefondan verilen üç oydan fazlası sayılmadı. Oylamaya, tüm Türkiye'den çok yoğun ilgi vardı. Oylamaya 76 ilden katılım oldu ve en çok arama Ankara'dan yapıldı.'' 
+     
+</TEXT>
+</DOC>

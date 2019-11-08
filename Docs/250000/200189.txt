@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 200189 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/06/son/sondun08.html </URL>
+<DATE> 2003/12/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İngiltere'deki hastane enfeksiyonları, dünyanın en yüksek oranı 
+</HEADLINE>
+<TEXT>
+
+     İngiltere'de herhangi bir sebeple hastaneye yatan kişilerin, sağlık merkezlerinde kaptıkları, antibiyotiklere dirençli enfeksiyonlar yüzünden hastalanma ve ölüm oranlarının bütün dünya ülkelerinden daha yüksek olduğu açıklandı. 
+     İngiliz hükümeti, hastane enfeksiyonlarının büyük bölümünün Milli Sağlık Sistemi içinde bulunan devlet hastanelerindeki hijyenik koşulların yetersizliğinden meydana geldiğini belirterek, hastane yönetimlerine, ''Kuruluşlarınızdaki hijyen koşullarına dikkat ederek bu oranları düşürün'' talimatını verdi. 
+     İngiltere'de her 10 hastadan birinin hastanede tedavi gördüğü süre içinde enfeksiyon kaptığı ve her yıl 5 bin kişinin de bu enfeksiyonlar yüzünden yaşamını yitirdiği belirtiliyor. 
+     
+</TEXT>
+</DOC>

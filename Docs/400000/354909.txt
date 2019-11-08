@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 354909 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/23/son/sonyas15.html </URL>
+<DATE> 2005/06/23/ </DATE>
+<TIME> 12.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Birinci tip şeker hastalığına antikorlu tedavi... 
+</HEADLINE>
+<TEXT>
+
+     Avrupalı araştırmacılar, birinci tip şeker hastalığının özel antikor enjeksiyonuyla tedavi edilebileceğini gösterdiler. 
+     New England tıp dergisinde yayınlanan makaleye göre, yaşları 12 ile 39 arasında değişen 80 şeker hastası üzerinde yapılan bağışıklık tedavisi, hastalar için umut ışığı yaktı. 
+     Hastalar iki gruba ayrıldı. Bir gruba İngiltere'de üretilen anti-CD3 adlı özel antikor, diğer gruba ise 6 gün boyunca plasebo verildi. Denemenin anafikri şuydu ''Ensülin salgılayan pankreas hücrelerine taarruz ederek onları mütemadiyen imha eden akyuvarlardaki T hücrelerini faaliyete geçiren CD3 elementini bertaraf edebilir miyiz '' Antikor verilen hastaların yüzde 75'inin ensülin ihtiyacı altı gün sonunda açıkça azaldı. Daha sonra da 18 ay boyunca izlenen hastaların çoğunda günlük ensülin ihtiyacının artmadığı belirlendi. 
+     Araştırmacılar, ''Bu doğal ensülin üretiminin sürmesi, şeker hastalığının retinopati, böbrek yetmezliği, damar rahatsızlıkları gibi dejeneratif komplikasyonlarının önlenebileceğini düşündürüyor'' ifadesini kullandılar. Birinci tip şeker, bağışıklık sistemi hastalığı Organizma, ensülin üreten kendi hücrelerini imha ediyor. Ensülin salgılanmayınca, hücreler enerji kaynağı şekeri kullanamıyor ve şeker kanda fazlasıyla birikiyor. 
+     Uzmanlar, elde ettikleri sonuçların ensülin bağımlısı şeker hastalarının bağışıklık sistemlerinin tedavi edilmesi bakımından yeni açılımlar sunduğunu düşünüyor. 
+     
+</TEXT>
+</DOC>

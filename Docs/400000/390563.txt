@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 390563 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/28/son/sonyas09.html </URL>
+<DATE> 2005/10/28/ </DATE>
+<TIME> 14.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dünyanın en büyük yolcu uçağı, teste giriyor... 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın en büyük yolcu uçağı Airbus 380, günlük kullanıma hazır hale getirilmek için yarın Frankfurt havalanında bir günlük havaalanı testine tabi tutulacak. 
+     Frankfurt havaalanına yarın saat 9.00'da Fransa'nın Toulouse kentinden gelmesi beklenen A 318'le, yarın gün boyunca, uçağın uçuşa hazırlanmasıyla ilgili rutin işlemlerin test edileceği bildirildi. 
+     Yapılacak denemeler arasında, A 380'in pistte hızlı dönüşler yapması, uçağını bakımı, yakıt ikmali, malzeme boşaltılıp yüklenmesi ve itfaiye operasyonları gibi işlemlerin bulunduğu bildirildi. 
+     Daha önce bilgisayar ortamında yapılan denemelerin, ilk kez gerçek ortamlarda yapılacağı bildirildi. 
+     ''A 380'e Frankfurt'ta yarın yapılacak testlerin gösteri amaçlı olmadığı ve son detaylarına kadar belirlenmiş bir iş turu olduğu'' belirtildi. Testin başarıyla tamamlanması halinde, A 380'nin pazar günü Toulouse'ye uçacağı açıklandı. 
+     
+</TEXT>
+</DOC>

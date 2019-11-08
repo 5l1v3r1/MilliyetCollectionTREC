@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 400813 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/05/son/sontur28.html </URL>
+<DATE> 2005/12/05/ </DATE>
+<TIME> 14.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kayıtdışı telefona mesaj gönderilmeye başlandı 
+</HEADLINE>
+<TEXT>
+
+     Telekomünikasyon Kurumu, kayıt dışı cep telefonlarının kayıt altına alınması için bugünden itibaren mesaj göndererek kayıt altına alma işlemini başlattı. Kayıt dışı telefon sahiplerinin 13 Aralık tarihine kadar cihazlarını kayıt altına aldırmaları gerekiyor. 
+     Telekominikasyon Kurumu’ndan yapılan açıklamada, 12 Temmuz tarihli 5392 sayılı yasa uyarınca kayıt dışı telefonların kayıt altına alınmasını sağlamak amacıyla gönderilen kısa mesajlara 13 Aralık’a kadar cevap vermeyen kullanıcıların şebekelerinden hizmet alınamayacağı vurgulandı. 
+     Açıklamada, telefonların ambalajı üzerinde ve arka kapağında yer alan seri numarasının "yıldız, kare,06,kare" tuşlarını kodlayarak telefonların seri numarasının öğrenilebileceği belirtilerek, kullanıcıların telefonlarının kayıtlı olup olmadığını imei.tk.gov.tr adresinden öğrenilebileceği kaydedildi. 
+     Ayrıca, kayıt altına alınan faturalı telefonlardan 5 YTL, kontörlü telefonlardan ise 5 YTL karşılığı kontör kesintisi uygulanacak. 
+     
+</TEXT>
+</DOC>

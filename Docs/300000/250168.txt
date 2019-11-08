@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 250168 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/23/son/sondun01.html </URL>
+<DATE> 2004/06/23/ </DATE>
+<TIME> 09.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD donanması insansız casus tekneler geliştirdi 
+</HEADLINE>
+<TEXT>
+
+     İstihbarat ve askeri amaçlı kullanılan insansız hava araçlarından sonra şimdi de, aynı amaçla deniz ve okyanuslarda kullanılabilecek insansız deniz araçları geliştirildi. 
+     Amerikan ABC televizyonun haberine göre, ABD Donanması tarafından geliştirilen ve ''Deniz Tilkisi'' adı verilen ''insansız yüzey teknesi'', insansız hava araçlarının savaş alanlarında çarpışan askerler için yaptığı görevi yerine getirecek. 
+     Elektronik gözler ve kulaklarla donatılan Deniz Tilkisi, şüpheli gördüğü gemiler, tekneler, nesneler ve hatta düşman dalgıçlara hızla yaklaşarak faaliyetlerini gözetleyebiliyor. Şüpheli bir nesne tespit etmesi durumunda saatte 50 millik bir hızla hedefe yeterince yaklaşarak gerekli gözlemeleri yapabilen insansız deniz aracının, dalgalı denizlerden kıyı şeritlerine, derin denizlerden nehirlere kadar pek çok yerde görev yapabileceği kaydediliyor. 
+     Yaklaşık 4 metre uzunluğundaki botun, tehlikedeki denizci ve pilotların kurtarılmasında ve dar su geçitlerindeki mayınların temizlenmesinde kullanılabileceğine dikkat çekiliyor. Güçlü jet motoru ile Deniz Tilkisi'nin sürat motorlarıyla uyuşturu kaçakçılığı yapan kaçakçıların takibini de yapabileceği ifade ediliyor. 
+     Küresel Yer Belirleme Sistemi GPS uydu sinyallerini kullanan Deniz Tilkisi, belirli bir liman çevresinde kendi başına devriyeye çıkmaya da programlanabiliyor. Güvertesinde bulunan gece görüş kameraları ve duyarlı mikrofonlar gibi algılayıcılarıyla topladığı verileri, standart bir kablosuz bilgisayara başarıyla aktarabiliyor. 
+     ABD Donanması tarafından daha önce denenen daha büyük insansız deniz araçlarının yaklaşık üçte birine mal edilen Deniz Tilkisi'nin değerinin 60 bin ila 80 bin dolar arasında olduğu kaydediliyor. Şu ana kadar iki adet üretilen Deniz Tilkisi'nin savaş alanında henüz test edilmediği belirtilirken, küçük silahlarla donatılabilecek aracın, devriye ve istihbarat dışında, farklı amaçlarla da kullanılabileceğine dikkat çekiliyor. 
+     
+</TEXT>
+</DOC>

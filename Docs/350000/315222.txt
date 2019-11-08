@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 315222 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/14/son/sonyas13.html </URL>
+<DATE> 2005/02/14/ </DATE>
+<TIME> 12.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Robot top, hırsızların karabasanı olacak 
+</HEADLINE>
+<TEXT>
+
+     İsveçli bilim adamlarının Mars'ta kullanılmak üzere tasarladıkları siyah büyükçe bir top hırsızların karabasanı olabilir. 
+     Uppsala Üniversitesi'nde geliştirilen yüksek teknoloji ürünü top, radar ve kızıl ötesi alıcılarıyla davetsiz misafirleri saptayabilecek bir güvenlik robotu olarak hareket edebiliyor. 
+     Hırsızı saptadıktan sonra yardım isteyebilen, sesli alarm verebilen veya davetsiz konuğu izleyebilen top, fotoğraf da çekebiliyor. 
+     Saatte 32 km hızla hareket edebilen ve insandan daha hızlı olan robot top, tespit ettiğini çamur, kar veya suda da kovalayabiliyor. 
+     Hareketlerini kontrol amacıyla içine bir sarkaç yerleştirilen ve buna bağlı olarak çekim merkezi değiştiğinde yuvarlanmaya başlayan robot topun mikrofon, kamera, sıcaklık alıcıları ve duman detektörleri de merkez eksenine yerleştirilmiş. 
+     Topu pazarlayan Rotundus şirketinin kurucularından Nils Hulth, bu topun özellikle çitlerin çevresinde devriye gezmesi için ideal olduğunu belirterek, 60 cm çapında ve 4.5 kg ağırlığındaki robot topun son derece hızlı olduğunu kaydetti. 
+     Hulth, robot topun özel mülkiyeti hırsızlara karşı korumak için etkili bir silah olabileceğini ifade etti. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 190752 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/23/son/soneko50.html </URL>
+<DATE> 2003/10/23/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Para piyasalarında bugün... 
+</HEADLINE>
+<TEXT>
+
+     Borsa'da işlem gören hisse senetleri, ortalama yüzde 3.08 değer yitirdi. 
+     İlk seansta 15,200 bölgesinin altına sarkarak 14,993.33 seviyesini gören endeks buradan gelen alımlarla tekrar 15,000 puanın üzerine çıktı. Endeks ikinci seansın açılışında gelen satışların etkisiyla 15,000 puanın altına inerek minimum 14,691.08 puanı gördü. 
+     Borsa uzmanları, satışların ikinci seans sonlarına doğru hızlanmasıyla endeksin 14,700 seviyesini test ettiğini belirterek, yaşanan gevşemenin ardından endeksin yarın 14,600-14,700 seviyelerinde tutunma çabasında olacağını, bu seviyelerde para girişinin önem taşıdığını ifade etti. 
+     İMKB Ulusal 100 endeksi, 1. seansta 241.93 puan kayıpla 15,058.42 puandan kapandı. Endeks, 2. seansta da 228.93 puanlık kayıpla günü 14,829.49 puandan tamamladı. Endeksin günlük bazdaki kaybı ise 470.86 puan ve yüzde 3.08 olarak hesaplandı. 
+     Hisse senetleri piyasasında günlük bazda 643 trilyon 847 milyar 848 milyon liralık işlem hacmi gerçekleşti. 
+     
+     DOLAR 
+     Dolar, Merkez Bankası'nın açıkladığı kurlarda düne göre geriledi. 
+     Merkez Bankası, doların bugünkü efektif kurunu alışta 1 milyon 466 bin 434 lira, satışta ise 1 milyon 476 bin 751 lira olarak açıkladı. 
+     Böylece dolar, Merkez Bankası'nın dün açıkladığı kurlara göre, alışta 1183 lira, satışta ise 1191 lira düştü. 
+     Kapalıçarşı'da dün 1 milyon 468 bin liradan kapanan dolar, güne 1 milyon 459 bin liradan, 1 milyon 724 bin liradan kapanan euro da 1 milyon 720 bin liradan başladı. 
+     Serbest piyasa kapanışında doların satış fiyatı 1 milyon 478 bin lira, euronun satış fiyatı da 1 milyon 740 bin lira oldu. 
+     
+     TAHVİL VE BONO PİYASASI 
+     İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda işlem gören 18 Ağustos 2004 vadeli bugün valörlü tahvilin bileşik getirisi düne göre değişmedi. 
+     Bu kağıdın aynı gün valörlü işlemlerinin basit getirisi yüzde 29.85, bileşik getirisi yüzde 30.60 oldu. Dün bu kağıdın aynı gün valörlü işlemlerinde basit getiri yüzde 29.86'dan, bileşik getiri de yine yüzde 30.60'dan kapanmıştı. 
+     İMKB Tahvil ve Bono Piyasası Repo Pazarı'nda gecelik faiz de ortalama yüzde 25.99 olarak belirlendi. 
+     
+</TEXT>
+</DOC>

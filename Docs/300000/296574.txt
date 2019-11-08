@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 296574 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/10/son/soneko46.html </URL>
+<DATE> 2004/12/10/ </DATE>
+<TIME> 16.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Avrupa, kendi uydu izleme sistemini kuruyor... 
+</HEADLINE>
+<TEXT>
+
+     Dünya ekonomisinin iki devi ABD ile Avrupa Birliği arasında, havada, karada ve denizde süren kıyasıya rekabet uzaya da taşınıyor. 
+     Avrupa Komisyonu'nun ulaştırmadan sorumlu üyesi Jacques Barrot, ABD'nin tekelindeki uydu izleme sistemi ''Küresel Konumlanma Sistemi''nin GPS Avrupalı karşılığı ''Galileo'' Projesinin hayata geçirilmesine karar verildiğini bildirdi. 
+     AB'nin 25 üyesince onaylanan ve dünya yörüngesine yerleştirilecek 30 uydu ve bunları izleyecek yer istasyonlarının kurulmasını öngören 3.7 milyar euroluk 4.8 milyar ABD Doları Galileo Projesi'nin uygulama aşamasına geldiğini bildiren Barrot, proje kapsamında ilk uydunun gelecek yıl içinde yörüngeye yerleştirileceğini açıkladı. 
+     Barrot, ''Avrupa'nın en büyük projesi'' olarak tanımladığı Galileo projesinin finansmanının üçte ikisinin özel sektörce, kalan üçte birinin de AB üyesi ülkelerce üstlenileceğini belirtirken, sistemin Avrupa çapında en az 150 bin kişiye istihdam alanı açacağı ve 9 milyar euroluk bir gelir getireceğini anlattı. 
+     
+     ABD'NİN MUHALEFETİ SONUÇ VERMEDİ 
+     Galileo projesi, ''müttefik ve rakip'' ABD ile AB arasındaki en önemli görüş ayrılıklarından birini oluşturuyor. 
+     ABD, cep telefonu işletmeciliğinden, meteoroloji tahminlerine uzay gözlemlerinde GPS sistemi sayesinde kurduğu tekele rakip çıkmasından duyduğu rahatsızlığı gizlemezken, GPS sisteminin ABD Savunma Bakanlığı'nın Pentagon denetiminde olması Avrupa'da stratejik kaygılar uyandırıyordu. 
+     Galileo'nun gerçekleşmesi halinde, yayacağı sinyallerin GPS sisteminde karışıklıklara yol açacağını ve bunun savaş durumunda ciddi sonuçlar doğuracağını savunan Pentagon, GPS sisteminden isteyen her ülkeyi yararlandırdığı için ''gereksiz'' olarak nitelediği projeye karşı çıkmıştı. 
+     AB'nin projeyi sürdürmekteki kararlılığını göstermesi üzerine, Haziran ayında varılan anlaşmayla ABD, muhalefetini geri çekerek projeye yeşil ışık yakmak zorunda kalmıştı. 
+     
+</TEXT>
+</DOC>

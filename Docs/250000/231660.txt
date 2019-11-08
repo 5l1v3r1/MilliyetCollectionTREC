@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 231660 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/15/son/soneko23.html </URL>
+<DATE> 2004/04/15/ </DATE>
+<TIME> 12.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansta 28 puan arttı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi, dünkü kapanışa göre 28.74 puan artışla 1. seansı 18,706.96 puandan tamamladı. 
+     1. seansta hisse senetlerinin ortalama değer artışı yüzde 0.15 olarak gerçekleşti. 
+     Dün 18,678.22 puandan kapanan İMKB Ulusal 100 Endeksi, günün ilk seansına 10.15 puan düşüşle 18,668.07 puandan başladı. İlk yarıyı 18,645.15 puandan geçen endeks, en düşük 18,438.71 puana kadar gerilerken, en yüksek 18,789.28 puana yükseldi. 
+     Seans sonunda mali endeks 77.10 puan artışla 24,741.83 puana, sanayi endeksi 10.44 puan artışla 17,352.22 puana yükselirken, hizmetler endeksi 50.64 puan düşüşle 10,540.87 puana geriledi. 
+     Böylece, önceki kapanışa göre mali grup hisseler ortalama yüzde 0.31 oranında, sanayi grubu hisseler de yüzde 0.06 oranında değer kazanırken, hizmetler grubu hisseler ortalama yüzde 0.48 oranında değer yitirdi. 
+     1. seansta işlem gören toplam 301 hisse senedinden 75'i değer kazandı, 162 hisse senedi değer kaybetti, 64 hissenin fiyatında değişiklik olmadı. 
+     Seansta, 328 trilyon 110 milyar 77 milyon liralık işlem hacmi oluştu. 
+     1. seansta, Yapı ve Kredi Bankası, Doğan Holding, Net Holding, Turkcell ve Sabancı Holding en yoğun işlem gören hisseler oldu. 
+     
+</TEXT>
+</DOC>

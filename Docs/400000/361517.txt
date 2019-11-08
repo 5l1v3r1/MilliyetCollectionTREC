@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 361517 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/15/son/sonyas14.html </URL>
+<DATE> 2005/07/15/ </DATE>
+<TIME> 21.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Discovery gelecek haftasonuna kadar fırlatılmayacak... 
+</HEADLINE>
+<TEXT>
+
+     Amerikan Havacılık ve Uzay Dairesi NASA , Discovery uzay mekiğinin gelecek hafta sonuna kadar fırlatılmayacağını açıkladı. 
+     NASA sözcüsü Bruce Buckingham, NASA’nın geri sayımdan vazgeçtiğini ve yakın zamanda Discovery’yi fırlatmaya çalışmayı düşünmediğini söyledi. 
+     Buckingham, uzay mekiğinin fırlatılması çalışmasında görevli yetkililerin, fırlatma işlemiyle ilgili stratejiyi ve fırlatma tarihini belirlemek için daha sonra toplanacağını kaydetti. 
+     Columbia uzay mekiği faciasından 2,5 yıl sonra ilk defa uzaya gidecek Discovery’nin önceki akşam fırlatılacağı açıklanmış, ancak son anda fırlatma teknik bir sorun nedeniyle ertelenmişti. 
+     Discovery mekiğinin daha önce de Mayıs ayında fırlatılması planlanmış, ancak mekik yeni ve daha güvenli bir yakıt tankının takılması için fırlatma rampasından hangara geri götürülmüştü. 
+     NASA, Şubat 2003’te Columbia mekiğinin uzaydan dönüş yolunda atmosferde parçalanması ve 7 astronotun hayatını kaybetmesinden bu yana hiç mekik seferi düzenlemedi. 
+     
+</TEXT>
+</DOC>

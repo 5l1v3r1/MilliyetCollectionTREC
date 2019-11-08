@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 219033 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/01/son/sontur03.html </URL>
+<DATE> 2004/03/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yeni yağış geliyor... 
+</HEADLINE>
+<TEXT>
+
+     Haftasonunda bahar günleri yaşayan Türkiye, Çarşamba'dan itibaren yeni bir yağışlı havanın etkisine giriyor. Hava sıcaklığı Perşembe'den itibaren kuzeybatıdan başlayarak azalacak. 
+     Yağışlı hava bugün yurdun doğu bölgelerinde etkili olurken,İç ve Batı kesimlerde yağışsız birgün ve mevsim normalleri üzerinde sıcaklık değerleri yaşanacak. 
+     Önümüzdeki 3 günün hava raporu şöyle 
+     
+     SALI 
+
+     Trakya, Kıyı Ege ve Doğu Karadeniz yağmurlu, İç Anadolu, Akdeniz, Güneydoğu Anadolu ve Doğu Anadolu'nun güneyi az bulutlu, diğer yerler parçalı bulutlu. 
+     
+     ÇARŞAMBA 
+
+     Yağmur her yerde.. Doğu Akdeniz, Güneydoğu Anadolu ve Doğu Anadolu'nun güneyi çok bulutlu, diğer bölgelerimizin tamamı yağmurlu. Kuzeydoğu Anadolu'da kar yağışı var... 
+     
+     PERŞEMBE 
+
+     Trakya ve Bolu çevresi kar yağışlı, Marmara, Ege, Karadeniz, İç Anadolu ve Batı Akdeniz yağmurlu bir gün geçirecek. Kar yağışı özellikle Bolu dağı çevresinde etkili olacak... 
+     
+</TEXT>
+</DOC>

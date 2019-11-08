@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 235200 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/27/son/soneko01.html </URL>
+<DATE> 2004/04/27/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     New York menkul kıymetler borsası Wall Street, günü düşüşle kapadı. 
+     Dow Jones endeksi 27,68 puan kayıpla 10.445,16'ya, Nasdaq endeksi ise 12,85 puan kayıpla 2.036,92'ye geriledi. 
+     
+</TEXT>
+</DOC>

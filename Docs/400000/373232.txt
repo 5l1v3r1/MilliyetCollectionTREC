@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 373232 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/26/son/sonyas12.html </URL>
+<DATE> 2005/08/26/ </DATE>
+<TIME> 16.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Zotob virüsünü yazdığından şüphelenilen bir Faslı yakalandı... 
+</HEADLINE>
+<TEXT>
+
+     Fas'ta, yaklaşık 2 hafta önce ortaya çıkan ve çok sayıda bilgisayar sistemine zarar veren ''Zotob''' virüsünü yazdığından şüphelenilen bir kişi yakalandı. 
+     Fas polisinin açıklamasında, kimliği açıklanmayan 18 yaşındaki şüphelinin başkent Rabat'ta yakalandığı belirtildi. 
+     Şüphelinin yakalanmasına, Fas istihbarat servisi ve ABD Federal Soruşturma Bürosu'nun FBI da yardımcı olduğu kaydedildi. FBI'ın virüsün nereden yayıldığını araştırdığı ve Fas'tan yayıldığını tespit ettiği belirtildi. 
+     Fas polisi, şüphelinin internet üzerinden kredi kartı hesaplarını ele geçirmek için çalışan bir şebekeyle işbirliği yaptığından şüpheleniyor. 
+     Windows 95, 98, ME, NT, 2000 ve XP işletim sistemlerini etkileyen ''Zotob'' virüsü, aralarında ''CNN'', ''ABC News'' ve ''New York Times'' gazetesinin de bulunduğu çok sayıda kuruluşun internet sitelerini vurmuştu. 
+     
+</TEXT>
+</DOC>

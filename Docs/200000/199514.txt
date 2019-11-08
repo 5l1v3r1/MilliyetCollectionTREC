@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 199514 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/03/son/soneko08.html </URL>
+<DATE> 2003/12/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Turkcell'den yüzde 2.2'lik zam 
+</HEADLINE>
+<TEXT>
+
+     Turkcell, faturalı ve faturasız hatların kullanım ücretlerine ortalama yüzde 2.2 oranında zam yaptı. 
+     Düzenlemeyle, 100 kontörlük kart 9 milyon 750 bin, 250 kontörlük kart 20 milyon, 500 kontörlük kart 38 milyon, 750 kontörlük kart 55 milyon ve 1000 kontörlük kart 70 milyon lira oldu. 
+     Turkcell'den yapılan açıklamada dün itibarıyla gerçekleştirilen fiyat ayarlaması sonrasında kontörlü kartlarda yüzde 2.5 civarında olan artışa rağmen 250 kontörlük kartın, 100 kontörlük karta oranla yüzde 18, 500 kontörlük kartın yüzde 22, 1000 kontörlük kartın ise yüzde 28 oranında avantajlı olmaya devam ettiği kaydedildi. 
+     Açıklamada, faturalı hatların tarifelerinde yüzde 2'nin altında yapılan artış oranının, bireysel ve kurumsal kısa mesaj servis ücretinde ve tarifelerin şebeke içi fiyatları üzerinde etkili olduğu belirtildi. 
+     ProCell, MobilşirketCell, DestekCell, KahramanCell, 1Cebe3Cep tarifeleri, dakika paketleri abonelerin seçtikleri dakika miktarı süresince her yöne doğru tek fiyatla konuşulmasını sağlayan , Eko Mesaj Paketleri, GPRS ve diğer data kullanım ücretleri, Turkcell tarifelerinin Standart Tarife dışındaki aylık sabit ücretleri fiyat düzenlenmesinden etkilenmezken, tarifelerin şebeke dışı görüşme ücretlerinde ve Kampuscell tarifesi grup içi konuşma ve mesajlaşma ücretinde de fiyat değişikliği olmadı. 
+     
+</TEXT>
+</DOC>

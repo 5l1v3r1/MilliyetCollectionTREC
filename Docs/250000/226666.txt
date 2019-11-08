@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 226666 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/29/son/sontur05.html </URL>
+<DATE> 2004/03/29/ </DATE>
+<TIME> 05.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Elektrik kesintisi seçim sonuçlarını geciktirdi 
+</HEADLINE>
+<TEXT>
+
+     Tekirdağ'ın Şarköy İlçesi'nde elektrik kesintisi nedeniyle oy sayımına saat 09.30'a kadar ara verildi. 
+     İlçede son 5 saatten bu yana aralıklarla süren sağanak yağış, elektrik kesintisine neden oldu. 
+     Şarköy İlçe Seçim Kurulu Başkanı Mustafa Akın, sonuçların bilgisayara yüklenememesi nedeniyle, İlçe Seçim Kurulu çalışanlarına saat 09.30'a kadar oyların partilere göre dağılımı çalışmalarına ara verdirdi. 
+     Şarköy'de saat 09.30'dan itibaren elektriğin tekrar verilmesiyle, partilerin il genel meclisi seçiminde aldıkları oyların dağılımı tamamlanacak. 
+     İlçede belediye başkanlığını, AK Parti adayı Can Gürsoy kazanmıştı. 
+     
+</TEXT>
+</DOC>

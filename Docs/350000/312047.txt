@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 312047 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/03/son/sonsiy09.html </URL>
+<DATE> 2005/02/03/ </DATE>
+<TIME> 08.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Adalet Bakanlığı'ndan çalışanlarına porno site uyarısı 
+</HEADLINE>
+<TEXT>
+
+     Adalet Bakanlığı'nca hazırlanan yönetmelikte, bilgisayardan gelecek tehlikelere karşı, çalışanlara uyarılar yer aldı. Bakanlığın virüs tehlikesine dikkat çektiği siteler arasında, özellikle porno, kumar, oyun çözme crack , hack saldırı ve illegal içerikli siteler ve sohbet odaları bulunuyor. 
+     Adalet Bakanlığı'nın teşkilat ve görevleri hakkında KHK'de değişiklik yapan yasa uyarınca hazırlanan, "Bilgi Sistemlerinin İnternet Üzerinden Gelecek Tehlikelerden Korunması ve Veri Güvenliğinin Sağlanmasında Uyulacak Usul ve Esaslar Hakkında Yönetmelik"in önümüzdeki günlerde Resmi Gazete'de yalımlanması bekleniyor. 
+     Yönetmelikte, Adalet Bakanlığı çalışanlarından, "potansiyel olarak virüs, solucan veya bunlara benzer güvenlik açısından tehlikeli programların bulaşması tehlikesi taşıyan bazı internet sitelerine" karşı dikkatli olmaları istendi. Tehlikeli sayılan siteler, yetişkin adult adıyla anılan porno siteler, kumar, oyun, şifre çözme crack , hack saldırı , illegal arama siteleri ve sohbet odaları şeklinde sıralandı. 
+     
+     TANINMAYAN GÖNDERİCİ MAİLLERİNE BAKILAMAYACAK 
+
+     Çalışanlardan ayrıca, göndereni belli olmayan, göndereni bilinse bile konu kısmında yabancı dil kullanılan, mantıksız ifadeler içeren ve ekli dosyası olan mailleri açmamaları istendi. 
+     Yönetmelikte, Bilgi İşlem Dairesi tarafından kurum kullanıcılarına ait bir bilgisayar şifresinin de tahsis edileceği, kullanıcıların şifrelerini kimseyle paylaşmaması gerektiği de bildirildi. 
+     
+</TEXT>
+</DOC>

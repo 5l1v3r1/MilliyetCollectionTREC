@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 248212 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/15/son/sontur40.html </URL>
+<DATE> 2004/06/15/ </DATE>
+<TIME> 16.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+LINUX'tan MEB'e açık kaynak kodlu işletim sistemi önerisi... 
+</HEADLINE>
+<TEXT>
+
+     Milli Eğitim Bakanlığı'na son yıllarda bilişim sektörünün önde gelen firmalarından büyük destek gören açık kaynak kodlu linux işletim sistemi önerildi. 
+     Linux International, milli eğitime destek amacıyla ''Açık Yazılımlar Dünyası'' adı altında Sheraton Oteli'nde bir toplantı düzenledi. 
+     Linux International Yönetim Kurulu Üyesi Siyami Kahyaoğlu, HP, Sun, IBM, Oracle, Intel, BEA, Sybase gibi bilişim sektörünün önde gelen firmalarınca kullanılan ve desteklenen linux işletim sistemine ilişkin bilgi verdi. 
+     Kahyaoğlu, linuxun açık kaynaklı modern bir işletim sistemi olduğunu, ana bilgisayarlardan el bilgisayarlarına kadar bütün platformlarda kullanılabildiğini belirtti. 
+     Linuxun ücretsiz bir yazılım olduğunu ve lisanslandığını ifade eden Kahyaoğlu, bu lisansın ABD ve AB tarafından ''kamu yararına'' tescil edildiğini, kullanıcıların kaynak kodları açık kalmak kaydıyla linux yazılımını kendilerine uygun şekilde geliştirebildiklerini vurguladı. 
+     Türkiye'de linuxun bankalar, üniversiteler ve çeşitli kamu kurumları tarafından yoğun olarak kullanıldığını dile getiren Kahyaoğlu, bu işletim sisteminin daha güvenli, daha az donanım gerektirmesi nedeniyle bütün dünyada devlet kurumlarınca tercih edildiğini kaydetti. Japonya-Çin-Güney Kore'nin bu işletim sistemiyle teknoloji üretmek üzere anlaşma yaptığını anlatan Kahyaoğlu, linuxun dışa bağımlılığı ortadan kaldırdığını ifade etti. 
+     Linuxun nimetlerinden bütün kamu kurumlarının yararlanması gerektiğini belirten Kahyaoğlu, linux kullanımının ülkeye büyük tasarruf sağladığını, kullanıcıları bir ürünün tekelinden kurtardığını kaydetti. 
+     
+     TÜRKÇE OKULINUX 
+     Kahyaoğlu, Milli Eğitim Bakanlığı'nda kullanılmak üzere ''Okulinux'' adı altında bir işletim sistemi hazırlığında olduklarını, CD şeklinde ücretsiz dağıtılacak bu sistemin, istendiğinde bilgisayarlara kolayca kurulabileceğini belirtti. 
+     Bakanlık izin verirse bu sistemi öğretmenlere anlatmak üzere program yapacaklarını anlatan Kahyaoğlu, ücretsiz olacak işletim sisteminde internet bağlantısından ofis uygulamalarına kadar her şeyin bulunduğunu, sistemin F klavye standardında Türkçe olacağını kaydetti. 
+     Kahyaoğlu, sistemin, bu konuda yetkin bir kamu kuruluşunca, ardından öğretmenler tarafından test edildikten sonra Milli Eğitim Bakanlığı'nda dağıtımının yapılacağını sözlerine ekledi. 
+     
+     ''LINUXA AÇIĞIZ'' 
+     Milli Eğitim Bakanlığı Müsteşar Yardımcısı Salih Çelik de eğitimde bilişim teknolojilerinin kullanımına büyük önem verdiklerini, 8 yıllık eğitimi tamamlayan öğrencilerin bilişim teknolojilerini kullanabilir düzeyde mezun olmasını hedeflediklerini kaydetti. 
+     Gelişmiş ülkelerde ortaöğretimde 14 öğrenciye 1 bilgisayar, Türkiye'de ise 140 öğrenciye 1 bilgisayar düştüğünü belirten Çelik, geçen yıl okullara 55 bin adet bilgisayarın dağıtımıyla 90-95 öğrenciye 1 bilgisayar seviyesine gelindiğini belirtti. 
+     İlköğretimde ders programlarının gözden geçirilerek bilgiye ulaşan ve üreten bir neslin yetiştirilmesini arzuladıklarını anlatan Çelik, Bakanlık olarak özel sektöre açık oldukları kadar linux işletim sisteminin kullanımına da açık olduklarını, linuxun kullanımında hiçbir engel bulunmadığını, işbirliği yapabileceklerini kaydetti. 
+     
+</TEXT>
+</DOC>

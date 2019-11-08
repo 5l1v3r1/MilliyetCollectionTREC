@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 200565 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/08/son/sondun25.html </URL>
+<DATE> 2003/12/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tıp hızla ilerliyor... Domuz böbreğini, şebeklere naklettiler... 
+</HEADLINE>
+<TEXT>
+
+     Amerikalı bilim adamları, genetik yapısı değiştirilen domuzlardan alınan böbrekleri şebeklere naklederek, maymunların yaşam süresini uzatmayı başardılar. 
+     Nature dergisindeki habere göre, genetik yapısı değiştirilmiş domuzların böbrekleri nakledilen maymunlar, normal domuz böbreği nakledilen maymunlardan iki kattan daha uzun süre yaşadılar. 
+     ABD'deki Massachusetts Hastanesi'nde görevli bilim adamı David Sachs, gelecekte genetik yapısı değiştirilmiş hayvanlardan alınacak organların insanlara nakledilebileceğini kaydetti. Genetik yapıları değiştirilmiş domuzların ''alfa-1,3-galaktosil-transferaz'' isimli enzimi üretemediğini söyleyen Sachs, bu enzimin şeker moleküllerini hücre zarının dış kısmına yapıştırmakla görevli olduğunu belirtti. Sachs, insanların ve şebeklerin ait olduğu primat türünde, yapışan şeker moleküllerinin birkaç dakika içinde ''yabancı'' olarak algılandığını ve bağışıklık sistemi hücreleri tarafından saldırıya uğradığını ifade etti. 
+     
+     YAŞAM SÜRESİ UZADI 
+     Sachs, genetik yapısı değiştirilmiş domuzların böbrekleri nakledilen şebeklerin 81 güne kadar, normal domuz böbreği nakledilen şebeklerin ise sadece 30 gün yaşadığını söyledi. 
+     Bilim adamları, yaşam süresinin daha da uzatılmasının mümkün olduğunu kaydettiler. 
+     Sachs, şebeklerin bağışıklık sistemini ilaçlarla baskıladıklarını, ayrıca genetik yapısı değiştirilmiş domuzların timüs bezlerinin bir bölümünü de böbrekle birlikle naklettiklerini ifade ettiler. 
+     Şebeklerin timüs bezi, nakledilen timüs bezi parçası sayesinde domuz böbreğine saldırmayan bağışıklık sistemi hücreleri üretti. 
+     Nakledilen böbreklerin bağışıklık sisteminin ilk saldırılarına dayanabildiğini belirten bilim adamları, şebeklerin, daha sonra oluşan kan pıhtıları nedeniyle öldüğünü kaydettiler. Bilim adamları, domuz organlarının insanlara nakledilebilmesi için, bu sorunların çözülmesi ve virüslerin hayvandan insana geçmesinin engellenmesi gerektiğini söylediler. 
+     
+</TEXT>
+</DOC>

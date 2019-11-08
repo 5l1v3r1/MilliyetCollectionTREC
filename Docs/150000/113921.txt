@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 113921 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/10/19/son/sontur02.html </URL>
+<DATE> 2002/10/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+"Akademik ağ" üniversiteleri uçuracak 
+</HEADLINE>
+<TEXT>
+
+     Üniversitelerin elektronik ortamdaki eğitim ve araştırmaları için kurulan Ulusal Akademik Ağ'ın UlakNet altyapısı yenileniyor. Hizmet veremez hale gelen ağın yenilenmesiyle üniversiteler yaklaşık 15 kat daha hızlı bir şekilde internete bağlanma, telekonferans ve uzaktan eğitim imkanlarına kavuşacak. 
+     TÜBİTAK Ulusal Akademik Ağ ve Bilgi Merkezi ULAKBİM Müdürü Doç. Dr. Tuğrul Yılmaz, üniversitelerin bilgiye elektronik ortamda hızlı erişimini sağlamak amacıyla kurulan Akademik Ağ'ın kapasitesinin yetersiz olması nedeniyle ihtiyacı karşılayamaz hale geldiğini belirtti. 
+     Ağın etkin hale getirilmesi için "UlakNet Altyapı Yenileme Projesi"nin başlatıldığını kaydeden Yılmaz, UlakNet'in hem bağlantı kapasitelerinin artırılacağını kaydetti. 
+     Proje kapsamında yeni altyapı için gerekli donanımın satın alındığını ve hat artırımı için Türk Telekom ile görüşmeler yapıldığını belirten Yılmaz, gelecek ayın başında projenin hayata geçirileceğini kaydetti. 
+     Yılmaz, bu proje sayesinde Ulusal Akademik Ağ'ın dünya akademik ağları ile bütünleşmek üzere Avrupa Akademik Ağı'na bağlanacağını, üniversitelerin UlakNet'e bağlantı kapasitelerinin 4 ile 75 kat arasında arttırılacağını belirtti. 
+     
+     ORTALAMA 15 KAT DAHA HIZLI- 
+     Yılmaz, üniversitelerin bağlantı hızlarının ortalama 15 kat hızlanacağını, UlakNet'in halen 124 megabitlik kapasitesinin 1937 megabite yükseltileceğini, yurtdışı bağlantı hızlarının da 64 megabitten 310 megabite çıkarılacağını bildirdi. 
+     Her üniversiteye fiber optik altyapı kurulacağını bildiren Yılmaz, üniversitelerin UlakNet'e bağlantı hızlarındaki artışları sıralarken, Ankara Üniversitesi'nin 6 bin kilobitten 155 bin kilobite, 9 Eylül, Ege, Gazi ve İstanbul Teknik Üniversitelerinin 2 bin 48 kilobitten 155 bin kilobit hıza yükseleceğini kaydetti. Doç. Dr. Yılmaz, diğer üniversitelerin bağlantı hızlarında da minimum 4 kat artış sağlanacağını ifade etti. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

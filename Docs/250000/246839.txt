@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 246839 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/10/son/soneko40.html </URL>
+<DATE> 2004/06/10/ </DATE>
+<TIME> 15.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Repo işlemlerinde artış... 
+</HEADLINE>
+<TEXT>
+
+     Bankaların müşterileriyle yaptığı repo işlemleri, 28 Mayıs-4 Haziran 2004 tarihleri arasında 481.8 trilyon lira arttı. 
+     28 Mayıs'ta 3 katrilyon 75.9 trilyon lira olan repo işlemleri, 4 Haziran'da 3 katrilyon 557.7 trilyon liraya çıktı. 
+     Müşterilerle yapılan ters repo işlemleri de bir haftada yaklaşık 47.5 trilyon lira azalarak 100 trilyon 511 milyar liradan trilyon 44 milyar liraya geriledi. 
+     28 Mayıs'ta 8 katrilyon 788.7 trilyon lira olan mali kuruluşlar arası repo işlemleri, 4 Haziran tarihi itibarıyla 287.6 trilyon lira azalarak 8 katrilyon 501.1 trilyon liraya indi. 
+     Aynı dönemde, mali kuruluşlar arası ters repo işlemleri ise yaklaşık 272.3 trilyon liralık azalış gösterdi. 28 Mayıs tarihinde 8 katrilyon 728.9 trilyon lira olan mali kuruluşlar arası ters repo işlemleri, 4 Haziran'da 8 katrilyon 451.6 trilyon lira seviyesine geriledi. 
+     
+</TEXT>
+</DOC>

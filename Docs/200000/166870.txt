@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 166870 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/02/son/soneko35.html </URL>
+<DATE> 2003/07/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsası güne yükselişle başladı... 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacmi bakımından dünyanın en büyük borsası konumunda olan New York'ta endeksler açılışta yükseldi. 
+     Açılıştan kısa bir süre sonra, Dow Jones Endeksi 16.66 puan artarak 9,057.61 puana, teknoloji endeksi Nasdaq 9.16 puan yükselerek 1,649.29 puana çıktı. 
+     Endekslerde yaşanan yükselmeye neden olarak, danışmanlık firması Merrill Lynch'in ünlü yazılım firması Microsoft ve perakende zinciri Wal-Mart firması hakkındaki olumlu değerlendirilmesi ile deniz aşırı borsalarda endekslerin yükselmesi gösterildi. 
+     
+</TEXT>
+</DOC>

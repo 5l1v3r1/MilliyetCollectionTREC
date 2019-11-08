@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 348011 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/01/son/sonyas14.html </URL>
+<DATE> 2005/06/01/ </DATE>
+<TIME> 11.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yeni teknolojiyle 7 kat alttaki metroda cepten konuşulabilecek 
+</HEADLINE>
+<TEXT>
+
+     İngiltere'de, kullanılacak yeni teknoloji sayesinde yeraltında çalışan metro trenlerinde cep telefonuyla konuşmanın mümkün olabileceği bildirildi. 
+     Belediyenin Londra'nın ulaşımıyla ilgili birimi Transport for London'ın TFL , yeraltına yeni teknolojinin kurulmasıyla ilgili 1 milyar sterlinlik ihale için 70 ayrı firmayla görüşmeler başlattığı açıklandı. 
+     2008 yazından itibaren 275 metro istasyonunun cep telefonu kapsama ağı içine alınacağını belirten TFL yetkilileri, buralara ''microcells'' adı verilen küçük baz istasyonları yerleştirileceğini bildirdi. 
+     Belediye yetkilileri ayrıca, yerin altından bütün kenti baştan başa dolaşan trenlerde cep telefonu kullanılmaya başlanmasıyla bazı yolcuların rahatsızlık duyabilecekleri ihtimalini de dikkate aldıklarını kaydettiler. Bunun için de metro trenlerinde en az bir ya da iki vagonun ''sessiz bölge'' ilan edileceği ve bu vagonlarda cep telefonu kullanımının yasaklanacağı ifade edildi. 
+     
+</TEXT>
+</DOC>

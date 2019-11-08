@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 373485 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/28/guncel/gun03.html </URL>
+<DATE> 2005/08/28/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+'Sadece veri tabanı ürettim' 
+</HEADLINE>
+<TEXT>
+
+
+FBI ve Türk polisinin hacker'lıkla suçladığı Atilla Ekici, "Söz konusu virüsler ürettiğim veri tabanlarından bulaşmış olabilir. İddialarla ilgim yok" dedi 
+
+Gökçer Tahincioğlu 
+
+ABD'deki dev şirketlerin bilgisayar sistemlerini kilitleyen ZOTOB ve MYTOB adlı elektronik virüsü üretip dağıtan 2 hacker'dan birisi olduğu iddia edilen Atilla Ekici, bilgisayarda sadece veri tabanları yaptığını belirterek, iddialarla ilgisinin olmadığını öne sürdü. Atilla Ekici, tutuklanarak cezaevine gönderildi. 
+Ekici, polisteki ifadesinde internette tanıştığı Faslı bilgisayar korsanıyla birlikte sisteme virüs yazılımı yüklediğini anlattı. 
+Savcılıktaki sorgusuyla mahkemede verdiği ifadede ise hacker olmadığını savunan Ekici, "Daha 22 yaşımdayım. Lise mezunuyum. Uzun süredir üniversiteye girmeye çalışıyorum. Bilgisayar kullanmayı, donanımını kendim öğrendim. Ancak bugüne kadar ne hacker'lık yaptım ne de sisteme virüs bulaştırdım" dedi. 
+
+'Kullanmışlardır' 
+İnternet kafelerde amatör olarak program veri tabanları yaptığını, dönem dönem bazı kişilerin de küçük paralar ya da tasarladıkları internet sitesinin yönetimini kendisine verme karşılığında veri tabanı tasarlamasını istediğini anlatan Atilla Ekici, "Bu şekilde veri tabanı tasarladığım kişilerden biri, oluşturduğum sistemi kullanarak virüs yaymış olabilir. Bunun benimle ilgisi yok" iddiasında bulundu. 
+FBI ve Türk polisinin ortak operasyonuyla yakalanan E, bankaların sistemlerini bozarak, hesabına para transfer ettiği iddialarını da yalanladı. 
+Bugüne kadar kendisine ait bir bilgisayarı bile bulunmadığını kaydeden Atilla Ekici ilk kez biriktirdiği parayla bilgisayar aldığını, bir süre sonra da bu iddiayla karşı karşıya kaldığını ifade etti. 
+
+Anne Oğlum suçsuz 
+Atilla Ekici'nin annesi Nafia Ekici 40 , oğlunun suçsuz olduğunu belirterek, "Yurtdışından oğluma iftira atıyorlar" dedi. Anne Ekici, şöyle konuştu "Yapsaydı başkasının hesabından kendi hesabına para aktarırdı. Şu anda varlıklı bir aile olurduk. Bu yıl parasızlık yüzünden dershaneye bile yazılamadı." Nafia Ekici, oğlunun tutuklanmasının ardından eşi Mustafa Kemal Ekici'nin de kalp krizi geçirdiğini söyledi. 
+
+
+</TEXT>
+</DOC>

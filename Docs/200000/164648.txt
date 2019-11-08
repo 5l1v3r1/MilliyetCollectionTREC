@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 164648 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/22/guncel/agun.html </URL>
+<DATE> 2003/06/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türkiye uzaydan fotoğrafınızı çekiyor 
+</HEADLINE>
+<TEXT>
+
+Milliyet, Türkiye'nin ilk çok amaçlı alçak irtifa uydusu "BİLSAT-1"in yapıldığı İngiltere'deki Uzay Merkezi'ne girdi, projedeki Türk mühendislerle görüştü... 
+     NEVSAL ELEVLİ Londra 
+
+     Türkiye'nin ilk çok amaçlı alçak irtifa uydusu "Bilsat - 1" İngiltere'de Surrey Üniversitesi Uzay Merkezi'nde tamamlanarak fırlatılacağı Rusya'daki Plesetsk Uzay Üssü'ne gönderildi. 28 Temmuz'da fırlatılacak olan mikro uydu sayesinde doğal afetlerin neden olacağı hasarlar uzaydan ayrıntılı olarak tespit edilebilecek. 
+     
+     BİZDEN 2 SİSTEM DE VAR 
+     "Bilsat - 1" uydusunda Türk mühendisler tarafından üretilen iki sistem de yer alıyor. Uyduda bulunan ÇOBAN çok bantlı kamera uzaydan dünyayı fotoğraflayabilecek. GEZGİN gerçek zamanlı görüntü işleyen ise JPEG 2000 algoritmasıyla görüntüyü sıkıştırabilecek. 
+     Milliyet'e konuşan projede görevli Türk mühendislerden Cem Özkaptan ve Gökhan Yüksel sonuçtan gurur duyduklarını söylediler. Cem Özkaptan, "Türkiye bu proje ile uydu üretme kapasite ve bilgisine sahip oldu. Bu projenin bir diğer amacı da Türkiye'de sıfırdan mikro uydu yapacak bilgi ve kapasiteye sahip olmaktı. SSTL'in verdiği eğitim ile bunu başardık" dedi. 
+     
+     MÜHENDİSLER BİZİ ZORLADI 
+     Surrey Üniversitesi Uzay Merkezi'nin kurucusu ve SSTL'in başkanı Sir Martin Sweeting, Türk projesine ve mühendislerine övgüler yağdırarak, onlarla müşteri gibi değil ortak gibi çalıştıklarını söyledi. Sweeting şöyle konuştu 
+     "Merkezde üretilen projeler için gelen ekiplerin çoğu öğrenci gibi oluyor. Ancak Türk ekibi çok bilgili ve üstün yetenekliydi. Buraya gelen ekipler içinde kendi tasarladıkları bir sistemi üretip entegre etmiş başka bir ülke olmadı. Üstelik mühendislik modelini de Türk ekibi yaptı. Ekiple ileride ortak çalışmalar yapmak istedigimizi kendilerine bildirdik." 
+     
+30 Türk görev aldı      TÜBİTAK Bilten'in projesi çerçevesinde, Surrey Üniversitesi'nin Surrey Satellite Technology Limited SSTL Şirketi'yle birlikte yapılan uydu 8.7 milyon sterline mal oldu. Yapımında 30'u Türk 90 uzay, elektronik, makine ve fizik mühendisi görev aldı. 
+     
+
+</TEXT>
+</DOC>

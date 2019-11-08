@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 380379 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/21/son/sonyas02.html </URL>
+<DATE> 2005/09/21/ </DATE>
+<TIME> 09.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Google'dan şimdi de kablosuz internet 
+</HEADLINE>
+<TEXT>
+
+     Online aramanın dünya lideri Google, şimdi de kablosuz internet hizmetine hazırlanıyor. 
+     Şirketin web sayfasında belirtildiğine göre, Google Wifi adı verilen yüksek hızlı internet bağlantısı hizmeti, "Google Secure Access" adlı ürünün ücretsiz indirilmesiyle daha güvenli bir internet bağlantısı sağlayacak. 
+     Arama motorlarının lideri şirket böylece diğer internet servis sağlayıcıları ve telekomünikasyon şirketleriyle rekabete girişecek. 
+     Google, Nisan ayında San Francisco’nun Union Meydanı’nda kablosuz internet hizmeti vermeye başlamıştı. 
+     Bu arada, Google’ın Harvard, Michigan ve Stanford üniversitelerinin kütüphanelerindeki milyonlarca kitabı "tarayarak" bir sanal kütüphane oluşturma projesinin de devam etmekte olduğu haber veriliyor. 
+     
+</TEXT>
+</DOC>

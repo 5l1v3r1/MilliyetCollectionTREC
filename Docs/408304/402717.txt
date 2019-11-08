@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 402717 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/12/son/soneko18.html </URL>
+<DATE> 2005/12/12/ </DATE>
+<TIME> 10.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa, Telsim ihalesi ile ilgili gelişmeleri takip edecek... 
+</HEADLINE>
+<TEXT>
+
+     Piyasalar bu hafta, yarın yapılacak Telsim ihalesine yönelik gelişmeleri, FED toplantısı ve açıklanacak ABD verilerini izleyecek. 
+     Gedik Yatırım'ın haftalık değerlendirmesinde, geçtiğimiz hafta endeksin 39,000 seviyelerini test ederek yükselişini sürdürmeye çalıştığını ancak, daha çok dalgalı bir seyir izlediğinin gözlemlendiği aktarıldı. 
+     Olumlu haberlerin satış fırsatı olarak değerlendirildiği haftada, satışların ise çok güçlü olmadığı ve seans içinde karşılandığı kaydedilirken, endeksi bu seviyelere taşıyan banka ve holding hisselerindeki düzeltmelerin tüm piyasaya satış olarak yansıdığı belirtildi. 
+     Fitch'in Türkiye'nin kredi görünümünü durağandan pozitife çevirmesi ve bunun ardından sırada not artırımının olduğu açıklamasının, haftanın en önemli gelişmesi olduğu kaydedilen değerlendirmede, bu gelişmeyle gözlerin IMF İcra Kurulu toplantısına çevrildiği, Sosyal Güvenlik Yasa Tasarısı'nın Meclis'e gönderilmesinin de olumlu beklentileri destekleyen bir gelişme olduğu belirtildi. 
+     Merkez Bankası'nın beklendiği gibi kısa vadeli faiz oranlarını 0.25 puan indirmesi ve bundan sonra yıl sonuna kadar büyük olasılıkla yatay bir seyir beklemesi, cari denge rakamları, Hazine'nin ihalelerde beklenenin üzerinde borçlanması ve faizlerdeki hafif yükseliş, dış piyasalarda yaşanan dalgalanmalar, petrol fiyatlarının hava şartlarına bağlı olarak yükselmesi ve ABD verilerinin diğer önemli gündem maddeleri olarak sıralanırken, bu haftaya ilişkin olarak şu değerlendirmeler yapıldı 
+     ''Telsim ihalesi, FED toplantısı ve açıklanacak ABD verileri önemli gündem maddelerinin başında sayılabilir. Petrol fiyatlarındaki yükseliş piyasalar açısından önemli. 60 doların üzerinde kalması rahatsızlık yaratabilir.'' 
+     
+</TEXT>
+</DOC>

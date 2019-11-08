@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 219196 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/02/son/sondun49.html </URL>
+<DATE> 2004/03/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+NASA ''Mars'ın bazı bölgeleri bir zamanlar sular altındaydı'' 
+</HEADLINE>
+<TEXT>
+
+     ABD Ulusal Havacılık ve Uzay Dairesi NASA , Mars'ta bir zamanlar su bulunmuş olduğu sonucuna ulaştığını, Kızıl Gezegen'de bir zamanlar yaşamın ortaya çıkmasını sağlayacak bu ortamın varlığına karşın, organizma izine rastlanmadığını açıkladı. 
+     NASA'nın önde gelen bilim adamlarından James Garvin, yaptığı yazılı açıklamada, Mars gezegenine yollanan Opportunity adlı robotun, Mars'ın en azından bir bölgesinde yaşamaya olanak sağlayacak kadar su bulunup bulunmadığını araştırdığını ve bugün ellerine ulaşan güçlü kanıtların bu soruya ''evet '' yanıtını verdiğini belirtti. 
+     Cornell Üniversitesi bilim adamlarından Steve Squyres de, yazılı açıklamasında, robotun çalışmasının bölgede bir zamanlar suyun bulunduğunu ve kayaların kimyasını ve bileşimini değiştirdiğini gösterdiğini bildirdi. 
+     NASA uzay bilimi yöneticisi Edward Weiler, düzenlediği basın toplantısında, Opportunity'nin bir zamanlar sularla kaplı olduğu düşünülen bir bölgeye indirilmiş olduğunu söyledi. 
+     Açıklamalara göre Opportunity, üzerinde çalıştığı katmanlı kaya üzerinde, suda bulunan sülfat ve diğer mineraller buldu. 
+     NASA'nın bir sonraki adımı, araştırma yapılan bu alanın geçmişte tuzlu bir göl yatağı mı, yoksa deniz yatağı mı olduğunun belirlenmesi çalışması olacak. 
+     
+</TEXT>
+</DOC>

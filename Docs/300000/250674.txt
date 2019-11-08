@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 250674 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/24/son/sontur74.html </URL>
+<DATE> 2004/06/24/ </DATE>
+<TIME> 20.01 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sabit telefonlara kontör kart geliyor... 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekom'un, vatandaşların kullanımına sunduğu, sabit telefonlara kontör yükleme kartı ''TTkart'' ile görüşmelerin yaklaşık yüzde 17 daha ucuz yapıldığı bildirildi. 
+     Türk Telekom'dan yapılan yazılı açıklamada, TTkart'ın 21 Haziran'dan itibaren kullanıma sunulduğu, 50 ve 100 kontör değerinde satıldığı belirtildi. 
+     Açıklamada, ön ödemeli TTkart'ın, ankesörlü telefonların yanı sıra ev ve işyeri telefonlarından da görüşme yapılabilmesine imkan sağladığı ve görüşmelerin yaklaşık yüzde 17 daha ucuz olduğu kaydedildi. 
+     100 kontörlük TTkart'ın 6 milyon liraya, 50 kontörlük TTkart'ın ise 3 milyon liraya satıldığı belirtilen açıklamada, bu fiyatların promosyon fiyatı olduğu ve 6 ay devam edeceği vurgulandı. 
+     
+     TTKART, NASIL KULLANILIYOR 
+     Mevcut uygulamada 1 kontör 72 bin lira iken, TTkart ile 1 kontör 60 bin lira olarak ücretlendiriliyor. 
+     TTkart şeffaf bir ambalaj içinde kullanım kılavuzuyla birlikte satılıyor. TTkart'ın arka yüzünde bulunan şerit kazınarak özel 12 haneli PIN numarasına ulaşılıyor. 
+     Ücretsiz 0811 2123636 nolu erişim numarası aranarak, PIN numarası giriliyor. PIN numarasının doğrulanmasının ardından konuşma yapılacak telefon numarası giriliyor. Ücretlendirmeyse bağlantı sağlandıktan sonra başlıyor. 
+     TTkart'da yer alan veya kalan kontör miktarı, her aramada sistem tarafından kullanıcıya bildiriliyor. 
+     TTkart ile GSM'den mobil telefonlarından erişim sağlanamıyor, ancak şehirlerarası veya milletlerarası görüşmelere kapatılmış telefonlar kullanılabiliyor. 
+     Arama için kullanılacak telefonun, DTMF ton göndermeli tuşlu telefon özellikli olması gerekiyor. Kullanıcıların bilgi talebineyse 0800 314 34 34 numaralı TTkart Yardım Masası cevap veriyor. 
+     
+</TEXT>
+</DOC>

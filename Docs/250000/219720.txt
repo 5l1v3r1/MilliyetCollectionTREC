@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 219720 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/04/son/sondun06.html </URL>
+<DATE> 2004/03/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD, dünya 'çöp posta' şampiyonu 
+</HEADLINE>
+<TEXT>
+
+     ABD'nin tüm dünyada e-posta ile iletilen ve ''çöp posta'' olarak adlandırılan gönderilerin yüzde 56.74'ünün kaynağı olduğu ortaya çıktı. 
+     İnternet güvenlik firması Sophos tarafından yapılan araştırmaya göre, dünyada en çok çöp posta üreten ülkeler listesinin başında gelen ABD, tek başına tüm Avrupa ülkelerinden bile çok daha fazla çöp posta üretiyor. 
+     Listede, Kanada yüzde 6.8 ile ikinci, Çin Hong Kong dahil de yüzde 6.24 ile üçüncü oldu. 
+     Çöp postanın küresel bir sorun olduğunu ve ülkelerin artık bu konuyu daha ciddiye almalarının gerektiğini belirten Sophos'un üst düzey teknoloji danışmanı Graham Cluley, İngiliz yasalarının bile bilgisayar kullanıcılarını Kuzey Amerika ve Çin'den gelen çöp postalara karşı korumadığını kaydetti. 
+     Cluley, buna karşın ABD'deki bilgisayarların önemli bir bölümünün kullanıcısının bilgisi dışında çöp posta gönderdiğini belirlediklerini belirterek, elde ettikleri verilere göre, bunların önemli bir bölümünün de listede 28. sırada yer alan Rusya'dan kaynaklandığını ifade etti. Cluley, bazı Truva virüslerinin çöp postaların tamamen masum ve kullanıcısının haberi olmayan bilgisayarlarca gönderilmesine olanak tanıdığını belirtirken, çöp postaların yüzde 30'unun bu yolla gönderildiğini sandıklarını söyledi. 
+     Sophos şirketi, özellikle ''Broadband Yüksek Hızlı İnternet Erişim Hizmeti''nden yararlanan ev kullanıcılarına, bu tür çöp postalara aracılık etmemeleri için gerekli önlemleri almaları önerisinde bulunuyor. 
+     Uzmanlar, çöp postalardan korunmak için e-posta adresinin bilinmeyen yerlere verilmemesi, çöp postaların açılmaması ve yanıtlanmaması, ikinci bir e-posta adresi edinilmesi ve bir e-posta filtresi kullanılmasını tavsiye ediyorlar. 
+     Sophos şirketinin çöp posta listesindeki diğer ülkeler şöyle sıralanıyor 
+     4-Güney Kore 5.77. 
+     5-Hollanda 2.13. 
+     6-Brezilya 2.00. 
+     7-Almanya 1.83. 
+     8-Fransa 1.50. 
+     9-İngiltere 1.31. 
+     10-Avustralya 1.21. 
+     11-Meksika 1.19. 
+     12.İspanya 1.05. 
+     Diğer ülkeler 12.23. 
+     
+</TEXT>
+</DOC>

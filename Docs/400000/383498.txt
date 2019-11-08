@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> 383498 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/03/yazar/oztrak.html </URL>
+<DATE> 2005/10/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Faik ÖZTRAK  </AUTHOR>
+<HEADLINE>
+Özelleştirmeden sağlanan finansman ve beklentiler 
+</HEADLINE>
+<TEXT>
+
+
+Bundan önceki yazımda ülkemizin kamu borcunun h l çok yüksek olduğunun altını çizmiştim. Bu çerçevede faiz dışı fazla üzerinde bir çekişme havası yaratmanın riskli olduğunu söylemiştim. 
+Görünürde bu tartışma özelleştirmede sağlanan gelişmeden kaynaklanmışa benziyor. 
+Bir finansman aracı olarak özelleştirme borçlanmadan çok da farklı değil. Birincisinde aktifinizi azaltarak bu gün elde edeceğiniz finansman karşılığında gelecekte elde edeceğiniz gelirden vazgeçiyorsunuz. Borçlanmada ise pasifinizi artırarak sağladığınız finansmanı geri ödemek için gelecekteki gelirlerinizi buraya tahsis ediyorsunuz. 
+Özelleştirmeden sağlanan finansmanı borcu azaltmak için kullandığınızda aktifiniz de pasifiniz de aynı miktarda azalıyor. Gelir tablosunda da geliriniz ve faiz gideriniz özelleştirme nedeniyle uğranan gelir kaybı ile borç için ödenecek faizin aynı olduğu varsayımı ile aynı miktarda düştüğü için değişen bir şey olmuyor. 
+
+Sorun tanımda 
+Sorun faiz dışı fazlanın tanımından çıkıyor. Özelleştirilen kuruluştan elde edilen gelir faiz dışı fazlaya dahil ama borçlanma için ödenen faiz dahil değil. Teknik olarak bakıldığında bu gün faiz dışı fazla hedefinin tutturulmasına katkıda bulunan kuruluşların özelleştirilmeleri sonrasında faiz dışı fazla düşüyor. 
+Faiz dışı fazla hedefi değişmezse, k rlı kurumlar özelleştirildikçe ortaya çıkan gelir kaybı nedeniyle, diğer kurumların daha fazla daralmaları gibi garip bir durum ortaya çıkıyor. Bu durumda teknik bir düzeltme doğrudur. Nitekim bu düzeltme mekanizması, IMF'ye verilen en son niyet mektubunda, F ekinin 14. paragrafında özelleştirme nedeniyle mahrum kalınan faiz dışı fazlanın tamamının KİT'lerin faiz dışı fazla hedefinden düşülmesine imk n verilmiş. 
+
+Düzeltme mekanizması 
+Bu durumda basına yansıyanın neyin tartışması olduğunu ve ekonomi yönetiminin neden sessiz kaldığını anlamak zor. 
+Birincisi IMF cari açığınız çok yüksek o nedenle bu düzeltme mekanizmasını kullanmayın demiş olabilir. Ben ikame etkisi nedeniyle, cari açığın gayri safi milli hasılaya oranının faiz dışı fazlayı daha da artırarak düşürülebileceğini düşünmüyorum. Ama kamu borcunu hızlı düşürmenin gelecekteki kırılganlığı azaltacağına inanıyorum. 
+İkincisi bunun arkasında seçimlerin yaklaşması nedeniyle, iktidarın, bütçenin dar ceketine sığmaması ve faiz dışı fazla hedefini bu mekanizmanın tanımladığının daha ötesinde esnetme çabası olabilir. Bu bizi yukarıda sözü edilen paragrafın son cümlesine götürüyor. Burada düzeltme mekanizmasının sadece KİT faiz dışı dengesine uygulanabileceği, KİT dışında kalan kurumların faiz dışı fazla hedefinin bundan etkilenmeyeceği söyleniyor. 
+
+Problem yok havası 
+Bir başka ifadeyle hükümet önümüzdeki yılın yüzde 6,5'lik faiz dışı fazla hedefini önce Tüpraş ve Telekom'un muhtemel faiz dışı fazlalarını dikkate alarak belirleyecek, sonra bu iki kuruluşa ait büyüklüğü, sadece KİT'lere ait hedeften düşerek toplamda yüzde 6,5'ten daha düşük bir faiz dışı fazla hedefini belirleyebilecek. Ancak özelleştirme nedeniyle ortaya çıkan gelir kaybını bütçenin fazla hedefinden düşmek mümkün değil. Bu, özelleştirme ile gelen finansmanın bütçe açığının artırılmasında kullanılamaması demek. 
+Oysa Hükümet ekonomide hiçbir problem kalmadığı havasını yayıyor. Özelleştirmeden elde edilecek finansmanın devletin kasasına hemen gireceği beklentisi yaygın. Bu durumda memur, işçi, çiftçi, işadamı ve diğer toplum kesimleri ister istemez buradan bize ne düşer beklentisine giriyor. 
+
+Siyasi açıdan zor 
+Bu noktada, kamu borcu sorununu daha çözemedik, bu para milletin malını satarak sağladığımız bir para, bununla tüketim harcaması yapamayız, bunun sonu olmaz, onun için borcumuzu azaltacağız, bu da aslında ekonomiyi zor günlere daha dayanıklı hale getirecek, sorunlarınız biraz daha uzun vadede, ama kalıcı bir şekilde çözülecek demek, Hükümet için siyasi açıdan zor. Tabii bu ortamda kamuda bütçe uyumunun kalitesini artıracak reformları da gerçekleştirmek giderek güçleşiyor. 
+Hükümet, yarattığı beklentiler nedeniyle, önümüzdeki dönemde sadece AB sürecini değil ekonomiyi de halka anlatmakta zorlanacağa benziyor. 
+
+
+
+</TEXT>
+</DOC>

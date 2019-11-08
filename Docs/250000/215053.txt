@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 215053 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/14/ekonomi/eko05.html </URL>
+<DATE> 2004/02/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Windows kodları internette satışta 
+</HEADLINE>
+<TEXT>
+
+   Microsoft, Windows 2000 ve NT yazılımlarının kaynak kodlarının internetten yasadışı yollarla satıldığını açıklayarak mahkemeye başvurdu 
+      EKONOMİ SERVİSİ 
+   
+   Microsoft, perşembe gününden bu yana internet yolu ile Windows yazılım sisteminin gizli olan kaynak kodunun yasal olmayan yollardan internetten ticari amaçlarla kullanıldığının belirlenmesi üzerine mahkemeye başvurdu. 
+   Microsoft'tan yapılan açıklamada Windows 2000 ve Windows NT yazılımlarına ilişkin kodların internet üzerinden satıldığının saptandığı belirtildi. Açıklamada kodların şirket içinden biri tarafından değil Microsoft kodlarına ulaşabilen sayılı isimlerden biri tarafından internete sızdırılmış olabileceği bildirildi. Kaynak kodları Windows gibi software programlar yazılırken oluşturulan ve sadece programcıların anlayabileceği özel bir dili içeriyor. Bu kodlar çok sıkı bir şekilde korunarak yasal koşullar altında şirketin birkaç ortağı tarafından biliniyor. Kodlara ulaşma imk nı olanlar sayılı isimler arasında ABD hükümeti, üniversiteler geliyor. 
+   
+   Rakipler ele geçirebilir 
+   Microsoft'un bu şifrelerinin yayınlanması, rakip firmaların bu kodları ele geçirmesi, firmalara sistemin nasıl çalıştığı ve rekabet yaratacak benzer ürünlerin oluşturulmasında önemli ipuçları veriyor. Kodlar aynı zamanda hackerların da programı kullanan birçok bilgisayarı çökertmesi ya da bilgi çalmasına da imk n sunuyor. Microsoft geçtiğimiz günlerde Windows 2000, XP, NT yazılımlarında güvenlik açıkları olduğunu itiraf etmiş ve kullanıcıların internet üzerinden bedava program indirmeleri konusunda bilgilendirmişti. 
+   
+   
+</TEXT>
+</DOC>

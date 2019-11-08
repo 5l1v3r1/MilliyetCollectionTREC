@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 398547 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/28/yasam/axyas01.html </URL>
+<DATE> 2005/11/28/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kol hareketi şifreyi açığa çıkarabilir 
+</HEADLINE>
+<TEXT>
+
+
+ATM'lere şifre yazarken sadece parmaklar kullanılmalı. Dolandırıcılar kol hareketlerini takip ederek şifreleri çözebiliyor 
+
+
+Emniyet Genel Müdürlüğü Kaçakçılık ve Organize Suçlarla Mücadele Daire Başkanlığı'nın 2004'te hazırladığı raporda, kredi kartı ve internet bankacılığında şifre olarak eş ve çocuklarla, iş arkadaşları, ünlü sanatçılar ve kent isimlerinin kullanılmaması öneriliyor. Rapora göre tavsiye edilmeyen ve önerilen şifre oluşturma modelleri şöyle 
+Doğum tarihleri, adres, doğum yeri, telefon numarası, aile bireylerinin adlarının ters yazılmış şekli, SSK ve TC kimlik numarası, "love, hotel, holiday" gibi çok kullanılan kelimelerle aynı harften aaaaaa , aynı sayıdan 555555 , ardışık sayılardan 123456 , alfabe sırasından abcdef oluşan şifreler kullanmayın.Kol hareketlerinden bile şifreyi çözebilen kişiler bulunduğu için şifre yazılırken sadece parmaklar kullanılmalı. Şifrenin tek kelimeden oluşması isteniyorsa en azından sonuna "zafer18" gibi bazı sembol ya da sayılar yazılmalı. Bir harf sayıyla değiştirilmeli. Örneğin, "a" yerine "6" kullanılarak, "atila" yerine "6til6" yazılmalı. "ç, ğ, ş" gibi Türkçe karakterler de kullanılmalı. 
+
+İşte örnek şifreler 
+"Oğlum Levent 8, kızım Nilüfer 3 yaşında yıl 2004"teki kelimelerin baş harfleri ve rakamlarından oluşan şifre "OL8,KN3YY2004", "Ben 15 senedir Mamak'ta oturuyorum" "B15SMO". 
+
+
+
+</TEXT>
+</DOC>

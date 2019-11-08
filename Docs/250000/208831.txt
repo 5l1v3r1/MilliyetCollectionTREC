@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 208831 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/15/son/soneko47.html </URL>
+<DATE> 2004/01/15/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yapı Kredi internette en güvenilir banka seçildi 
+</HEADLINE>
+<TEXT>
+
+     Yapı Kredi internet bankacılığı sitesi Teleweb, dünyada ilk kez 5 kategoride birden WebTrust sertifikası almaya hak kazandı. 
+     Yapı Kredi Bankası Genel Müdür Yardımcısı Tülay Güngen, bankanın Gebze'de bulunan Bankacılık Üssü'nde düzenlenen basın toplantısında yaptığı konuşmada, Amerika Resmi Mali Müşavirler Birliği AICPA tarafından verilen sertifika sayesinde bankanın WebTrust gibi tüm dünyada kabul gören standartlara uygunluk sağlayarak sistemin güvenliğini belgelediğini söyledi. 
+     Güngen, Teleweb'de Ernst Young Türkiye tarafından yapılan değerlendirme ve denetleme sonucunda hazırlanan raporların AICPA'nın onaylanmasıyla güvenlik, ulaşılabilirlik, online gizlilik, işlem bütünlüğü ve güvenilirlik kategorilerinde gerekliliklerin tümünü karşıladıklarını belgelediklerini ifade etti. 
+     Yapı Kredi Alternatif Dağıtım Kanalları Bölüm Yönetmeni Hüseyin Özdemir de, müşterilerine verdikleri internet bankacılığı hizmetinin ne kadar güvenilir ve sağlıklı olduğunu belgelemek için WebTrust sertifikasına başvurarak tüm kategorilerde birden denetim yapılmasına karar verdiklerini anlattı. 
+     Özdemir, ''WebTrust sertifikasıyla Yapı Kredi, işlemlerin güvenliğini uluslararası standartlarda sağladığını bir kez daha kanıtlamıştır'' dedi. 
+     Ernst Young Türkiye'den Kaya Kazmirci ise AICPA'nın uluslararası güvenlik programı olan WebTrust'ı veren saygın bir kuruluş olduğunu vurgulayarak, Yapı Kredi ile yapılan çalışmanın 2 aylık ön denetim, yapılması gerekenlerin iletildiği ve gerçekleştirildiği dönem ile 4 aylık asıl denetimden oluştuğunu anlattı. 
+     
+     GÜNDE 2.5-3 KATRİLYON LİRALIK İŞLEM 
+     Hüseyin Özdemir, basın mensuplarının sorularını yanıtlarken, Yapı Kredi'de 350 bin müşterinin interneti kullandığını, ayda alternatif dağıtım kanallarından yapılan işlem sayısının ortalama 11 milyon, internet üzerinden yapılan işlem sayısının 5 milyon, finansal işlem sayısının da 3 milyon olduğunu belirtti. 
+     Bankada yapılan aylık toplam işlem sayısının 32 milyon olduğuna işaret eden Özdemir, bu işlemlerin yüzde 70'inin alternatif dağıtım kanallardan, bunun da yüzde 45'inin Teleweb üzerinden yapıldığını kaydetti. Özdemir, Yapı Kredi'de günde yaklaşık 2.5-3 katrilyon liralık işlem yapıldığına dikkat çekti. 
+     Bu arada, Özdemir, toplantının ardından 2000 yılında kurulan Yapı Kredi Bankacılık Üssü'nü basın mensuplarına gezdirerek, bina hakkında bilgi verdi. 
+     Özdemir, 230 dönüm arazi üzerine kurulu Bankacılık Üssü'nün birbirine eklenen 10 kare binadan oluştuğunu ve toplam inşaat alanı 50 bin metrekare olan binanın 9.2 şiddetindeki depreme dayanıklı olduğunu kaydetti. 
+     
+</TEXT>
+</DOC>

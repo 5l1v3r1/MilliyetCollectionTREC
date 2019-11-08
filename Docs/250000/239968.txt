@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 239968 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/14/son/soneko11.html </URL>
+<DATE> 2004/05/14/ </DATE>
+<TIME> 10.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İMKB'de teknik sorun nedeniyle işlemler durdu... 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası'nda İMKB , teknik bir nedenden dolayı işlemlere ara verildi. 
+     Edinilen bilgiye göre, sistem kilitlenmesi nedeniyle saat 10.03 itibariyle işlemler durdu. 
+     
+</TEXT>
+</DOC>

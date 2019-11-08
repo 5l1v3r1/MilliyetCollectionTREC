@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 361516 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/15/son/sonyas13.html </URL>
+<DATE> 2005/07/15/ </DATE>
+<TIME> 20.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Paris'te hava kirliliği alarmı... 
+</HEADLINE>
+<TEXT>
+
+     Fransa’nın başkenti Paris ve bölgesinde, aşırı sıcaklar sonucu hava kirliliğinin önemli ölçüde arttığı bildirildi. 
+     Bir metreküp hava içindeki ozon miktarının 180 mikrograma ulaştığını belirten yetkililer, özellikle yaşlılarla birlikte alerji ve solunum sıkıntısı olanların aşırı faaliyetten kaçınmalarını tavsiye ediyor. 
+     Trafik Müdürlüğü ise yaptığı açıklamada, hava kirliliği artışına engel olmak için sürücülerden araçlarını düşük hızla kullanmaları çağrısında bulundu. 
+     Aşırı sıcak hava dalgasının ülke genelinde hafta sonu da etkili olacağını belirten meteoroloji ise, gelecek hafta pazartesi gününden sonra hava sıcaklığının düşeceğini bildirdi. 
+     Bu arada, Fransa’da son haftalarda etkisini gösteren sıcak hava dalgasının, ülkenin iç bölgelerinde kuraklık tehlikesini artırdığı ve çiftçileri ciddi biçimde endişelendirdiği bildirildi. 
+     
+</TEXT>
+</DOC>

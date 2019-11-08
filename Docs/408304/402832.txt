@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 402832 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/12/son/sontur18.html </URL>
+<DATE> 2005/12/12/ </DATE>
+<TIME> 12.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Erciyes - Fenerbahçe maçındaki elektrik kesintisinin suçlusu bulundu 
+</HEADLINE>
+<TEXT>
+
+     Kayseri Erciyesspor-Fenerbahçe maçı sırasında meydana gelen elektrik kesintisine, trafoya giren kedinin neden olduğu bildirildi. 
+     AA muhabirinin, Kayseri ve Civarı Elektrik T.A.Ş. yetkililerinden aldığı bilgiye göre, Büyükşehir Belediyesi Atatürk Stadı’nda, Kayseri Erciyesspor ile Fenerbahçe arasında dün oynanan maçın 17. dakikasında stat ışıklarının sönmesine, Mimarsinan Mahallesi Fuzuli Caddesi’ndeki PTT binasını besleyen trafoya giren bir kedinin, kısa devre yaptırması yol açtı. 
+     Trafoya 1-2 dakika içinde yeniden akım verildiğini belirten yetkililer, şunları söyledi 
+     "Stat aydınlatılmasında kullanılan ışıklar, teknik olarak söndükten sonra tekrar aydınlatma yapması için projektörlerin soğuması gerekiyor. Arızanın 1-2 dakika içinde giderilmesine rağmen projektörlerin soğuyup tekrar yanması, 15-20 dakika zaman aldı." Bu arada, kesintiye yol açan kedinin, trafo içinde kısa devre nedeniyle telef olduğu bildirildi. 
+
+     
+</TEXT>
+</DOC>

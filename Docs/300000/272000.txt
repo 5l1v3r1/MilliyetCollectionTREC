@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> 272000 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/15/son/soneko19.html </URL>
+<DATE> 2004/09/15/ </DATE>
+<TIME> 13.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Vergide e-beyanname imkanı... 
+</HEADLINE>
+<TEXT>
+
+     İsteyen mükellefler, 1 Ekim 2004'ten itibaren KDV, ÖTV, muhtasar, damga vergisi, banka ve sigorta muameleleri vergisi, Özel İletişim Vergisi ve şans oyunları beyannamelerini 'elektronik ortamda' verebilecek. 
+     Uygulamaya, yıllık gelir ve kurumlar vergisi beyannamelerinde ise 1 Ocak 2005 tarihinden itibaren başlanması hedefleniyor. 
+     Maliye Bakanlığı'nın, konuya açıklık getiren ''Elektronik Beyanname Tebliği'' taslağına göre, beyannamenin elektronik ortamda gönderilmesi halinde, tahakkuk fişi elektronik ortamda düzenlenecek ve iletilecek. Elektronik ortamda iletilecek tahakkuk fişi mükellefe tebliğ yerine geçecek. 
+     Beyannameler, gerek elektronik ortamda doğrudan mükellef, gerekse yetki verilmiş aracılar kanalıyla gönderilsin, her iki durumda da mükellef tarafından verilmiş sayılacak ve mükellefin beyanı olarak değerlendirilecek. 
+     Elektronik ortamda gönderilen beyanname ile kağıt ortamında gönderilen beyanname arasında hukuki sonuçları itibariyle hiçbir fark bulunmayacak. 
+     Bu arada beyannamelerin elektronik ortamda gönderilmesi uygulaması, tam otomasyona geçmiş vergi dairelerine verilecek beyannameleri kapsıyor. 
+     Uygulamanın başlangıç aşamasında, sadece cari döneme ait beyannameler elektronik ortamda gönderilebilecek. Kanuni verilme süresi geçmiş bulunan beyannameler ile düzeltme ek olarak verilenler dahil ve pişmanlık talebi içeren beyannameler, bağlı bulunulan vergi dairelerine kağıt ortamında verilmeye devam edecek. 
+     
+     BEYANNAME TÜRLERİ 
+     Beyannamelerin elektronik ortamda gönderilmesi uygulanmasına, 1 Ekim 2004 tarihinden itibaren başlanacak. Bu kapsamda, Eylül 2004 dönemine ait olup 1 Ekim 2004'ten itibaren verilmesi gereken Katma Değer Vergisi KDV , Özel Tüketim Vergisi ÖTV , muhtasar, Damga Vergisi, Banka ve Sigorta Muameleleri Vergisi, Özel İletişim Vergisi ve Şans Oyunları beyannameleri, elektronik ortamda gönderilebilecek. 
+     Aktif büyüklükleri veya net satış hasılatlarının belli bir tutarın üzerinde olması nedeniyle beyannamelerini meslek mensubuna imzalatmak zorunluluğu bulunmayan mükellefler ise beyannamelerini elektronik ortamda doğrudan kendileri gönderebilecek. 
+     Elektronik beyanname göndermede aracılık yetkisi almak isteyen meslek mensuplarının, ''Elektronik Beyanname Gönderme Aracılık Yetkisi Talep Formu ve Taahhütnamesi''ni doldurarak, bağlı bulundukları vergi dairesine bizzat kendilerinin, tüzel kişilik şeklinde faaliyette bulunanların ise kanuni temsilcilerinin müracaat etmeleri gerekiyor. 
+     
+     UYULACAK ESASLAR 
+     Beyannameyi gönderecek mükellef ile aracılık yetkisi verilen meslek mensupları, her bir beyanname türü için ayrı ayrı hazırlanan ''beyanname doldurma programlarını'', Gelirler Genel Müdürlüğü'nün internet sitesinden ücretsiz olarak yükleyecek. 
+     Mükellefler ve meslek mensuplarının kullanıcı kodu, parola ve şifrelerini kullanarak gönderecekleri beyannameler, sistem tarafından ön kontrolleri yapıldıktan sonra kabul edilecek. Beyannamelerde hata tespit edilmesi halinde, bu hatalar hatanın kaynağı ile birlikte mükellef veya meslek mensubuna elektronik ortamda hemen bildirilecek ve söz konusu hatalar düzeltildikten sonra tekrar aynı şekilde gönderilecek. 
+     Onaylama işlemi tamamlanan beyannamelere ait tahakkuk fişleri aynı anda kesilecek ve ekran görüntüsü olarak mükellefe veya meslek mensubuna gönderilecek. Bu tahakkuk bilgileri, vergi tahsil yetkisi verilmiş bankalara açılacak ve böylece mükellefler tahakkuk eden vergilerini bilgisayar ortamında hesaplarının bulunduğu bankadan ödemeyebilecek. 
+     Beyannamelerin teknik arızalar nedeniyle elektronik ortamda gönderilememesi durumunda, kanuni sürenin son gününe kadar bağlı bulunulan vergi dairesine, posta yoluyla taahhütlü olarak gönderilmesi veya elden verilmesi gerekecek. 
+     Vergi Usul Kanunu ve diğer mevzuatta yer alan sorumluluklar, elektronik ortamda düzenlenen beyannameler için de aynen geçerli olacak. 
+     
+</TEXT>
+</DOC>

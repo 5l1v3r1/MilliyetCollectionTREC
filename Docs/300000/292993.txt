@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> 292993 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/29/yazar/temelkuran.html </URL>
+<DATE> 2004/11/29/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Ece TEMELKURAN  </AUTHOR>
+<HEADLINE>
+Cüzamlı iktidar - yakışıklı muhalefet 
+</HEADLINE>
+<TEXT>
+Muhalefetten iktidar olur mu 
+center b IMG SRC "resim temelkuran.jpg" HSPACE 10 VSPACE 10 BORDER 1 ALIGN "RIGHT" centerfont size "4" color " 0A69C9"b b font center centerfont size "4" color " 0A69C9"b b font center 
+</TEXT>
+</DOC>

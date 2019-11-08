@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 240701 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/17/son/soneko35.html </URL>
+<DATE> 2004/05/17/ </DATE>
+<TIME> 16.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa 16 bin puanın altında yılın en düşük seviyesinde kapandı 
+</HEADLINE>
+<TEXT>
+
+     İMKB Bileşik Endeksi 2. seansı 443.03 puan kayıpla, bu yılın en düşük seviyesi olan, 15,922.44 puandan tamamladı. 
+     Hisse senetleri 2. seansta ortalama yüzde 2.71 oranında değer kaybetti. 
+     İlk seanstaki 165.79 puanlık düşüş dikkate alındığında Borsa endeksi, günün tamamında 608.82 puan geriledi. Hisse senetlerinin günlük değer kaybı yüzde 3.68 oldu. 
+     Endeks, 2. seansa 21.61 puan kayıpla, 16,343.86 puan seviyesinde başladı. Seansın ilk yarısını 16,129.39 puandan geçen endeks, seans içinde en düşük 15,868.52, en yüksek 16,365.56 puanı gördü. 
+     2. seans kapanışında, mali endeks 686.07 puan kayıpla 21,156.95 puana, sanayi endeksi 392.97 puan kayıpla 14,585.84 puana, hizmetler endeksi 1.60 puan kayıpla 9,298.45 puana geriledi. 
+     Böylece ilk seansa göre mali grup hisseler ortalama yüzde 3.14, sanayi grubu hisseler ortalama yüzde 2.62, hizmet grubu hisseler ortalama yüzde 1.60 değer kaybetti. 
+     2. seansta işlem gören toplam 312 hisse senedinden 284'ü değer kaybetti, 14'ü değer kazandı, 14'ünün fiyatında değişiklik olmadı. 
+     Seansta, 274 trilyon 305 milyar 503 milyon liralık işlem hacmi kaydedildi. Günlük işlem hacmi ise 541 trilyon 820 milyar 85 milyon lira olarak hesaplandı. 
+     2. seansta Doğan Holding, Yapı Kredi Bankası, Koç Holding, İş Bankası C ve Turkcell en yoğun işlem gören hisse senetleri olarak belirlendi. 
+     
+</TEXT>
+</DOC>

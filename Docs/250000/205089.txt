@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 205089 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/29/son/sondun21.html </URL>
+<DATE> 2003/12/29/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ESA "Mars'a gönderilen Beagle-2 kratere saplanmış olabilir" 
+</HEADLINE>
+<TEXT>
+
+     Avrupa Uzay Ajansı'nın ESA Mars gezegenin yüzeyine indiği sanılan ve sinyal alınamayan Beagle-2 yüzey sonda aracının, büyük bir kratere saplanmış olabileceğini açıkladı. 
+     Beagle-2'den sorumlu bilim adamı Colin Pillinger, İngiltere'nin başkenti Londra'da düzenlediği basın toplantısında, aracın Mars'ta indiği sanılan bölgenin yeni ve ayrıntılı bir resminin çıkarıldığını belirterek, ''Resimde araç görülmese de, bölgenin tam ortasında 1 kilometre çapındaki bir krater göze çarpıyor. Beagle ile kratere inmiş olması nedeniyle iletişim kurulamıyor olabilir. Bu çok talihsiz bir durum olur'' dedi. 
+     Diğer bir bilim adamı Mark Sims de, Mars'taki hava koşulları ve Beagle'ın gösterge donanımıyla ilgili arızanın, sorunun kaynağı olamayacağını kaydetti. 
+     Sims, Beagle'a gösterge donanımıyla ilgili arızanın giderilmesi için ''yeniden kurulma'' emri göndermeyi planladıklarını belirtti. 
+     İngiltere Bilim Bakanı Lord Sainsbury, hükümetin, Mars'a insansız sefer düzenleme girişimlerinden vazgeçmeyeceğini ifade ederek, Beagle-2 ile ilgili sorunu başarısızlık olarak değerlendirmediklerini söyledi. 
+     Sainsbury, ''Beagle-2 projesinin, yüksek risk taşıdığının her zaman farkındaydık. Gelecekte sadece riski düşük projeler yapmaya yönelik teşviklere karşı durmalıyız'' diyerek, ESA ile benzer projelere imza atmayı sürdüreceklerini bildirdi. 
+     Avrupa Uzay Kurumu'nun ESA Mars'a üç gün önce indirmeyi beklediği 66 santimlik minik uydu Begale-2'den yüzeye iniş işareti alınamamıştı. 
+     İngiltere-Cheshire'daki Jodrell Bank Gözlemevi'nde 19 saatlik heyecanlı bekleyiş sonunda yüzeye iniş anından hiçbir kayıt gelmemiş, güneş panelleri açıkken 1 metre 90 santim genişliğinde şemsiye boyutundaki uydudan, Mars'a iniş yolunu belgeleyecek 9 tonlu ilk işaret de alınamamıştı. 
+     Amerikan Uzay ve Havacılık Dairesi NASA de, Mars gezegenin yüzeyine indiği sanılan Beagle-2'dan faal olduğuna dair bir mesaj alamamıştı. 
+     
+</TEXT>
+</DOC>

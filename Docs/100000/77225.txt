@@ -1,0 +1,54 @@
+<DOC>
+<DOCNO> 77225 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/04/09/guncel/gun05.html </URL>
+<DATE> 2002/04/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Renkli MR yaptı 
+</HEADLINE>
+<TEXT>
+
+Türk bilim adamı Bülent Bayram geliştirdiği bilgisayar yazılımıyla en önemli tanı yöntemi olan MR görüntülerini renklendirdi. Böylece hastalıkların teşhisi kolaylaşacak 
+     Hastalıkların teşhisinde son yıllarda ileri tanı olanağı sağlayan "Manyetik Rezonans" MR yöntemi, bir Türk mühendis tarafından renkli hale getirildi. Tekniği geliştiren Yıldız Teknik Üniversitesi Jeodezi ve Fotogrametri Mühendisliği Bölümü’nden Yard. Doç. Dr. Bülent Bayram, renkli MR filmleriyle rahatsızlıkların daha kolay teşhis edilmesini hedeflediklerini söyledi. 1994’te doktora çalışması için gittiği Almanya’daki bir çocuğun beyin MR’nı incelerken tümörü görünür hale getiren Bayram Türkiye’ye döndükten sonra MR tekniği üzerinde araştırma yapmaya başladı. 
+     
+     Daha fazla bilgi 
+     Bayram, yaklaşık beş yıl önce Prof. Dr. Nevzat Gürmen ve Doç. Dr. Zübeyde Alkış’la çalışmaya başladıklarını belirterek şöyle konuştu "Görüntü işleme yöntemleriyle filmlerini renklendiriyoruz. Bu amaçla bir bilgisayar yazılımı geliştirdik. Filmi bilgisayara veriyorsunuz, kısa süre sonra renklendirilmiş MR’ı elde ediyorsunuz. Görüntüde oluşan farklı bilgileri biraraya getirerek, tek anlamlı bir bilgi, yani renkli MR’ı üretiyoruz." Bayram, renkli görüntüde daha fazla bilgi olduğu için bu yöntemin hastalıkların teşhisini kolaylaştıracağını belirtiyor. 
+     
+
+
+
+ GÜNCEL 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

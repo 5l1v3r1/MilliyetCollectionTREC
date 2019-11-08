@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 176694 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/19/son/sondun20.html </URL>
+<DATE> 2003/08/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Almanya'da el kadar bilgisayar piyasada... 
+</HEADLINE>
+<TEXT>
+
+     Almanya'da ''Slim-PC'' adı verilen el büyüklüğündeki bilgisayar piyasaya sürüldü. 
+     Trekstor şirketi tarafından üretilen ve 850 gram ağırlığında olan ''Slim-PC'', 200 megahertzlik işlemciye, 20 gigabitlik harddiske ve 128 megabitlik belleğe sahip. 
+     Soğutma pervanesi olmadığı için sesiz de olan bilgisayarın fiyatı da 250 euro. Bu yeni bilgisayarın tek eksiğinin, CD ve DVD sürücüsü bulunmayışı olduğu belirtiliyor. 
+     
+</TEXT>
+</DOC>

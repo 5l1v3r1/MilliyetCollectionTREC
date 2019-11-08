@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 395723 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/17/son/sondun32.html </URL>
+<DATE> 2005/11/17/ </DATE>
+<TIME> 20.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İsrail Havaalanı güvenliği için 'Yalan' dedektörü geliştirdi 
+</HEADLINE>
+<TEXT>
+
+     İsrail, havaalanı güvenliğini sağlamak için yeni bir yalan dedektörü geliştirdi. 
+     İsrail'in Nemesysco firması tarafından geliştirilen iki aşamalı ses dedektörü GK-1'e, yolcuların, yasa dışı bir şey planlayıp planlamadıkları sorusuna ''evet'' ya da ''hayır'' yanıtını vermeleri gerekiyor. 
+     İlk denemeleri Rusya'da yapılan GK-1 ile potansiyel hava korsanları ve uyuşturucu kaçakçılarına karşı sıkı tedbirler alınabileceği belirtiliyor. 
+     Dedektördeki bilgisayar yazılımı, yalanları ya da birşey saklandığını ortaya çıkaran sesteki kontrol edilemeyen titremeleri hemen hemen tespit ediyor. 
+     GK-1'in satış bedelinin 10 bin ila 30 bin dolar arasında olması beklenirken, aletin test edildiği Moskova'nın Domodyedevo havaalanı yetkilisi, işe yaradığı kanıtlanan aleti ilke olarak kullanmaya hazır olduklarını söyledi. 
+     
+</TEXT>
+</DOC>

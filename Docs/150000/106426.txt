@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 106426 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/09/09/dunya/tur.html </URL>
+<DATE> 2002/09/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dünya turu 
+</HEADLINE>
+<TEXT>
+
+     Körlük, kamera göz ile tarihe karışacak 
+     DIŞ HABERLER SERVİSİ 
+
+     TÜRK filmlerindeki "Görüyorum" sözü yakın gelecekte, gerçek olacak gibi görünüyor. ABD’li bilim adamları, görmeyen gözlere yerleştirilecek bir kamera ve radyo vericisini hayata geçirmek üzere 9 milyon dolarlık dev bir çalışma başlattı. New Mexico’daki Sandia Ulusal Laboratuvarı ile dört ayrı araştırma merkezinin araştırmacıları, gözbebeğine yerleştirilebilecek kadar küçük bir kamera geliştirdi. 
+     KAMERANIN içine optik aygıtlar ve radyo vericisi yerleştirildi. Radyo vericisi optik aygıtlardan gelen görüntüyü göz yuvarlağının içine yerleştirilen modüllere iletecek. Modüller elektrotlar aracılığıyla retinadaki sinirlere bağlanacak. Kameradan gelen görüntü, elektronik dalgalar halinde retinaya ulaştırılacak ve retinanın da sinyalleri beynin görme merkezine ulaştırmasıyla görme gücü sağlanacak. 
+     
+
+
+
+ DÜNYA 
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

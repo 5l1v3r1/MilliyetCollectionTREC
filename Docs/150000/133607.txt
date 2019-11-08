@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 133607 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/01/28/son/sondun04.html </URL>
+<DATE> 2003/01/28/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnterneti kilitleyen solucan virüsünün zararı sanıldığından çok.. 
+</HEADLINE>
+<TEXT>
+
+     İnternette haftasonu ortaya çıkan solucan virüsün, sanıldığından daha fazla zarar vermiş olabileceği belirtiliyor. 
+     ABD'de solucan virüsün verdiği zararının etkileri devam ederken, birçok kurum ve kuruluş internet üzerinden faaliyetlerini yapamadı. 
+     Seattle'da polis ve itfaiyeciler, kısa kodlu 911 acil yardım telefonunun virüs saldırısından etkilenmesi nedeniyle işlerini kalem ve kağıtla yapmak zorunda kaldı. 
+     Olağanüstü durum nedeniyle birçok firma da müşterilerinin borç öğrenme-ödeme gibi işlemlerini yaptığı siteleri kapattı. 
+     Beyaz Saray ve Kanadalı yetkililer, Cumartesi günü TSİ 07 30'da başlayan ve ATM'lerle diğer ''network''lerin etkilendiği internet saldırısının araştırıldığını açıkladı. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

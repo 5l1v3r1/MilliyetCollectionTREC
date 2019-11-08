@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 288184 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/11/son/sonyas13.html </URL>
+<DATE> 2004/11/11/ </DATE>
+<TIME> 13.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kablosuz internet hizmeti geniş alanlara yayılıyor... 
+</HEADLINE>
+<TEXT>
+
+     BM'nin gelişme hedeflerinden birisi olan kablosuz interneti geniş alanlara yaymak, yavaş yavaş gerçek oluyor. 
+     ABD'nin kuzeybatısındaki Seattle kentinin merkezi, yüksek hızlı kablosuz internet şebekesiyle donatılıyor. 
+     Speakeasy adlı servis sağlayıcısı şirket tarafından kurulacak sistemin gelecek yıl başlarında ticari anlamda faaliyete geçmesi planlanıyor. 
+     Kentin yüksek noktalarına dört baz istasyonu yerleştirerek sistemi faal hale getirecek merkezi Seattle'daki şirket, sistemin denemelerine çok yakında başlıyor. 
+     Speakeasy şirketi yetkilileri, denemelerin başarılı olması durumunda, Wimax adı verilen sistemin kentin başka bölgelerine de yerleştirileceğini belirttiler. 
+     Wimax sisteminin, Wi-Fi gibi kısa mesafe değil, kilometrelerce alanı kapsayacak menzili bulunduğunu belirten şirket yetkilileri, ticari kuruluşlara büyük kolaylık getirecek sistemin internet üzerinden telefon konuşmalarının yapılabildiği Voice Over Internet Protocol VOIP özelliğini de desteklediğini kaydettiler. 
+     Ticari kuruluşlara T-1 adı verilen ve saniyede 1,5 megabit hız sağlayan kablolu internet hizmeti 0 dolar karşılığında satılırken, saniyede 3 megabit hıza ulaşan ve dial-up modemden 60 kez hızlı olan yeni hizmetin 650 dolara verilmesi planlanıyor. 
+     
+</TEXT>
+</DOC>

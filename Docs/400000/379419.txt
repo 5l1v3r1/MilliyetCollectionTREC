@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 379419 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/18/son/soneko05.html </URL>
+<DATE> 2005/09/18/ </DATE>
+<TIME> 12.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hazine bu hafta iki tahvil ihalesi yapacak... 
+</HEADLINE>
+<TEXT>
+
+     Hazine bu hafta, ABD Doları ve Avro cinsinden iki tahvil ihalesi yapacak Hazine, 20 Eylül Salı günü biri dolar diğeri Avro cinsinden olmak üzere 5 yıl vadeli, 6 ayda bir kupon ödemeli, değişken faizli iki devlet tahvili ihalesi gerçekleştirecek. 
+     Buna göre 5 yıl vadeli 6 ayda bir kupon ödemeli değişken faizli dolar ve avro cinsinden tahvil ihalesinde satılacak kağıtlar, 21 Eylül Çarşamba ihraç edilirken geri ödeme tarihi 15 Eylül 2010 olarak belirlendi. 
+     Her iki ihalede satılacak kağıtların ilk kupon ödemesine ait faiz oranı yarın duyurulacak. Söz konusu kağıtların ilk kupon ödeme tarihi 22 Mart 2006 olarak belirlendi. 
+     Dolar cinsinden tahvil, LIBOR 1,60 yıllık 182 günlük kupon ödemeli olacak. Kupon ödemeleri, 6 aylık LIBOR oranına 1,60 puan eklenerek bulunacak, yıllık faiz oranı üzerinden hesaplanacak. 
+     5 yıl vadeli, 6 ayda bir kupon ödemeli, değişken faizli Avro cinsinden devlet tahvil LIBOR 1,80 yıllık 182 günlük kupon ödemeli olacak. 
+     İhalede katılımcılar, 10,000 ABD Doları ve 10,000 Avro üzerinden fiyat teklifinde bulunacak. Söz konusu tahvillerin kupon tarihleri ise 22 Mart 2006, 20 Eylül 2006, 21 Mart 2007, 19 Eylül 2007, 19 Mart 2008, 17 Eylül 2008, 18 Mart 2009, 16 Eylül 2009, 17 Mart 2010 ve 15 Eylül 2010 olacak. 
+     
+     SON DURUM 
+     Hazine en son 13 Eylül tarihinde düzenlediği biri referans bono ve tahvil ihalelerinde, net 4.4 milyar YTL borçlanmıştı. 
+     Hazine'nin düzenlediği YTL cinsinden 91 gün vadeli iskontolu referans bono ihalesinde bileşik faiz yüzde 14.20, 5 yıl vadeli 6 ayda bir değişken kupon ödemeli tahvil ihalesinde dönemsel faiz yüzde 8.74 olmuştu. 
+     İhalelere toplam nominal 3 milyar 507.2 milyon YTL teklif gelirken, nominal 1 milyar 872.7 milyon YTL, net ise 1 milyar 849.6 milyon YTL'lik satış yapılmıştı. 
+     Hazine, piyasa yapıcı bankalar ve kamu kuruluşlarına yapılan satışlarla birlikte, toplam 4 milyar 390 milyon YTL net borçlanmaya gitmişti. 
+     Hazine bu hafta, Eylül ayının en büyük iç borç geri ödemesini olan 3 milyar 582 milyon YTL'si piyasaya ve 95 milyon YTL'si de kamu kurumlarına yapılan satışların geri ödemesi olmak üzere toplam, 3 milyar 676 milyon YTL iç borç ödemesi yapacak. 
+     
+</TEXT>
+</DOC>

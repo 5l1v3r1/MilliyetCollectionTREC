@@ -1,0 +1,44 @@
+<DOC>
+<DOCNO> 80287 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/04/25/yasam/yas04.html </URL>
+<DATE> 2002/04/25/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Normal suyla’ çalışan uçak 
+</HEADLINE>
+<TEXT>
+
+Japon mühendisler inanılmazı başardı Tokyo’da, yalnızca lazer ışını ve musluk suyuyla çalışan motorsuz bir uçak yapıldı 
+     DIŞ HABERLER SERVİSİ 
+
+     Tokyo Teknoloji Enstitüsü mühendisleri, havacılık sanayinde çığır açması beklenen su ve lazerle çalışan’ bir uçak geliştirdi. 8 kişilik bir araştırma ekibine başkanlık yapan Prof. Takaşi Yabe 52 , laboratuvar denemelerinde birkaç gram ağırlığındaki küçük bir model uçağı yeni teknolojiyi kullanarak başarıyla uçurduklarını açıkladı. 
+     Uçuş teknolojisi, uçağın yakıt kullanmadan havada yol almasına dayanıyor. Bunun için önce alüminyum uçak gövdesinin üzerindeki su damlacıkları lazer ışını kullanılarak buharlaştırılıyor. Yerden gönderilen lazer ışını, alüminyum gövdeye çarparak ısıtıyor. Alüminyum tabaka üzerindeki su, yüksek sıcaklıkta buharlaşıp kuyruktaki egzoz borularından geçerek ve yüksek bir basınç yaratarak dışarı atılıyor. 
+     
+     Lazer gücü şart 
+     Hesaba göre, birkaç tonluk, normal büyüklükteki bir uçağı uçurmak için 1 megajül gücünde bir lazer güç istasyonu gerekiyor. Prof. Yabe, yeni uçağın uçması için yerde bir dizi lazer güç istasyonu kurulacağını ve yönlendirme için de uydu kullanılacağını açıkladı. 
+     
+
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

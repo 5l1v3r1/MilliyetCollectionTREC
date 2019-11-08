@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> 400119 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/03/ekonomi/aeko.html </URL>
+<DATE> 2005/12/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+18 milyon kaçak 'cep'in 6 milyonu Uzanlar'dan 
+</HEADLINE>
+<TEXT>
+
+
+18 milyon kayıt dışı cep telefonunun kayıt altına alınmasına 5 Aralık'ta başlanırken, bu telefonların üçte birinin Uzanlar tarafından yurda sokulduğu ortaya çıkartıldı 
+
+TOLGA ŞARDAN Ankara 
+
+Gümrük Muhafaza Genel Müdürlüğü GMGM başkontrolörleri, Uzanlar'ın Telsim üzerinden yaklaşık 6 milyon cep telefonunu kaçak olarak yurda soktuklarını saptadı. 
+Olay, GMGM uzmanlarının, Şişli Cumhuriyet Başsavcılığı'na gönderdikleri raporla ortaya çıkarken, cep telefonlarının Almanya ve İngiltere üzerinden ithal edildiği anlaşıldı. 
+
+Gümrük kayıtları incelendi 
+İstanbul Şişli Cumhuriyet Başsavcılığı'nın başlattığı "Uzan" soruşturması kapsamında, geçen hafta yeni bir gelişme yaşandı. Uzan ailesine ait Telsim Mobil Telekomünikasyon Hizmetleri AŞ'nin gümrük kayıtlarında inceleme yapan GMGM başkontrolörleri, Uzan ailesinin "klonlanmış IMEI numaraları" cep telefonlarının kimliğinin değiştirilmesi kullanarak 6 milyon 200 bin cep telefonu cihazını kaçak olarak yurda soktuklarını belirledi. 
+
+Sim kartı veri tabanı 
+Telsim'in gönderdiği IMEI numara kayıtlarını inceleyen Türk Telekomünikasyon Kurumu TTK , şirketten gönderilen bilgiler içinde kendi kayıtlarında olmayan IMEI numaralarının varlığını saptadı. Sim kart veri tabanına ulaşan TTK GMGM'den yardım istedi. Görevlendirilen uzmanlar, holdinge bağlı 23 ayrı şirketin kayıtlarında ayrıntılı inceleme yaptı. 
+Uzmanlar 1998 - 2002 döneminde Uzanlar'a bağlı Telsim'in yasal ithalatıyla ilgili dört ayrı birimde birbirini tutmayan dört ayrı rakama ulaştı. Aynı dönemde Gümrükler Genel Müdürlüğü'nde 2 milyon 356 bin 317, gümrük müdürlüklerinden gelen beyannamelerde 2 milyon 338 bin 813, Telsim'de 2 milyon 664 bin 652 ve TTK'da ise 2 milyon 41 bin 736 adet telefonun ithal edildiği görüldü. 
+İthalatların Almanya ve İngiltere üzerinden yapıldığı tespit edildi. İngiltere, GMGM uzmanlarının yazılarına yanıt vermezken, Almanya yanıtında teslim şartının "fabrikada teslim" olduğunu belirtti. 
+
+Emir Telsim'den gitti 
+Alman makamları, nakliyecilere taşıma emrinin Telsim tarafından gönderildiğini, Telsim'e satış fiyatının kontrol edilemediğini kaydederek, Motorola FL adlı firmanın bütün sevkiyatlara ait nakliye belgelerine ilişkin kopyaları tutup tutmadıklarından emin olunamadığını ifade etti. 
+Bu incelemeler yapılırken, TTK, Telsim Mobil Telekomünikasyon Hizmetleri AŞ'den istenilen CDR kayıtlarından yapılan deşifre işlemi sonrasında "00000000000000" IMEI numarasından oluşan 6 milyon 193 bin 593 adet telefona ait kullanıcıların GSM numarasını GMGM'ye gönderdi. 
+
+Kimlik numaralarını 'klonladılar' Yaklaşık 20 bin sayfalık dokümanın incelenmesi sonucunda raporunu hazırlayan GMGM uzmanları, "klonlama" olarak nitelendirilen IMEI numaralarının değiştirilmesinde genellikle"000000000000000", "111111111111111" ve "222222222222222" gibi 15 haneden oluşan hayali rakamların kullanıldığını saptadı. 
+Uzmanlar, kaçak cep telefonu bedelinin net olarak tespit edilemediğini belirtirken, "klonlanmış cep telefonlarının önemli bir kısmı ülkemize kaçak getirilen, bir kısmı ise kullanıcılardan gasp, kapkaç veya hırsızlıkla elde edilmiş cep telefonları olup, sonuç itibarıyla tümü kayıt dışıdır" görüşüne raporda yer verdi. 
+Başkontrolörlerin hazırlayıp geçen hafta Şişli Başsavcılığı'na gönderdiği rapor, savcı Mecit Ceylan tarafından işleme konuldu. Soruşturma sonucunda Uzan ailesi hakkında kaçakçılık iddiasıyla soruşturma açılabilecek. 
+Uzan soruşturması kapsamında daha önce Telsim'in devlete bildirimde bulunduğu rakamların dört katı gerçek abone sayısı tespit edilmişti. 
+
+
+</TEXT>
+</DOC>

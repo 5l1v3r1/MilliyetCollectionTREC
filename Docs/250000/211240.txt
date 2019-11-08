@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 211240 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/26/son/soneko11.html </URL>
+<DATE> 2004/01/26/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı yüzde 1.04'lük kayıpla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi, önceki kapanışa göre 193.20 puan kayıpla, 1. seansı 18,324.87 puandan tamamladı. 
+     Haftanın ilk seansında hisse senetlerinin ortalama değer kaybı yüzde 1.04 olarak gerçekleşti. 
+     22 Ocak Perşembe günü 18,518.07 puandan kapanan İMKB Ulusal 100 Endeksi, 1. seansa 28.46 puan kayıpla 18,486.61 puandan başladı. İlk yarıyı 18,341.93 puandan geçen endeks, seans içinde en düşük 18,216.77, en yüksek 18,592.99 puanı gördü. 
+     Seans sonunda mali endeks 364.15 puan kayıpla 24,907.03 puana, sanayi endeksi 90.41 puan kayıpla 16,286.46 puana, hizmetler endeksi 40.28 puan kayıpla 9,924.58 puana geriledi. 
+     Böylece, önceki kapanışa göre mali grup hisseler ortalama yüzde 1.44, sanayi grubu hisseler ortalama yüzde 0.55, hizmet grubu hisseler ortalama yüzde 0.40 değer yitirdi. 
+     1. seansta işlem gören toplam 280 hisse senedinden 163'ü değer kaybederken, 61 hisse senedi değer kazandı, 56 hissenin fiyatında değişiklik olmadı. 
+     Seansta, 210 trilyon 837 milyar 18 milyon liralık işlem hacmi oluştu. 
+     1. seansta, Garanti Bankası, Koç Holding, Doğan Holding, İş Bankası C ve Vestel en yoğun işlem gören hisseler oldu. 
+     
+</TEXT>
+</DOC>

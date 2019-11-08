@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 220674 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/08/son/sondun03.html </URL>
+<DATE> 2004/03/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bill Gates'ten öneri Her e-mail için pul satın alınsın 
+</HEADLINE>
+<TEXT>
+
+     Burak Coşkun bildiriyor 
+
+Microsoft şirketinin Başkanı Bill Gates, istenmeyen çöp postayla spam mücadele için elektronik posta gönderirken ''pul'' satın alınması önerisinde bulundu. 
+     Şirketinin anti-spam stratejisinin ayrıntılarını anlatan Bill Gates, elektronik postanın ücretsiz olması nedeniyle bu kadar çok çöp posta ortaya çıktığını belirterek, normal posta servisini örnek gösterdi. 
+     Gates, ''Eğer posta servisi ücretsiz posta dağıtsaydı, posta kutumuz kesin daha fazla kredi kartı teklifi, piyango, reklam ve süpermarket bildirileriyle dolar taşardı. İşte bu nedenle bu kadar çok çöp posta alıyoruz'' diye konuştu. 
+     Her gönderilen elektronik posta karşılığında çok küçük de olsa bir meblağ ödeyerek, spam yığınlarının önüne geçilebileceğini anlatan Bill Gates, çöp postayla mücadelenin gelecekte daha da önem kazanacağını belirtti. 
+     E-posta başına ödenecek 1 cent ya da daha düşük tutarın ev kullanıcıları için fazla önemli olmadığı, ancak reklam amacıyla her gün binlerce e-posta atanlar için caydırıcı olabileceği savunuluyor. 
+     Çok az da olsa bir ücret ödemek yerine göndericinin iyi niyetini sınamak için çözümü 10 saniye sürecek bir matematik sorusu sorulabileceğini ve böylece ''pul'' satın alınmış kabul edilebileceğini ifade eden Microsoft yetkilileri, bu sayede iletişimde demokrasi ilkesine de saygı gösterilmiş olacağını kaydetti. 
+     İnternet uzmanları, elektronik postayı ekonomik çıkar haline dönüştürmenin iletişim demokrasisine zarar verebileceği uyarısında bulunuyorlar. 
+
+     
+</TEXT>
+</DOC>

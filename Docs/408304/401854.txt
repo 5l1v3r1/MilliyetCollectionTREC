@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 401854 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/08/son/sonyas20.html </URL>
+<DATE> 2005/12/08/ </DATE>
+<TIME> 13.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Güneş ışınlarından daha çok yararlanılacak... 
+</HEADLINE>
+<TEXT>
+
+     Ege Üniversitesi EÜ Güneş Enerjisi Enstitüsü tarafından geliştirilen bir projeyle, güneş ışınlarından maksimum enerji kazanımını sağlayan, çift eksende güneşi izleyen sistem geliştirildiği bildirildi. 
+     EÜ Güneş Enerjisi Enstitüsü Öğretim Üyesi Yard. Doç. Dr. Koray Ülgen, yaptığı yazılı açıklamada, daha önce yurtdışından ithal edilebilen sistemi Türkiye'de geliştirerek daha ucuza mal ettiklerini kaydetti. Yenilenebilir enerji kaynaklarının tükenmez olduğunu ve konvansiyonel kaynaklara göre birçok çevresel kazançlarının bulunduğunu belirten Ülgen, bundan en iyi şekilde yararlanmak gerektiğini ifade etti. 
+     Çift eksende güneşi izleyen sistemin, güneş ışınlarından daha çok yararlanılması yanında birçok kolaylıklar da sağladığına işaret eden Yard. Doç. Dr. Koray Ülgen, açıklamasında şu bilgileri verdi 
+     ''Bu projenin amacı, geniş bir kullanım potansiyeli olan yeni bir, güneşi çift eksende izleme sistemi tasarlamak ve performansını değerlendirmektir. Bu yeni sistemin avantajı, kullanılan elektronik parçaların ekonomikliği, kolay temin edilebilirliği, güneşi çift eksende izlemesi ve her türlü güneş enerjisi sistemiyle bütünleştirilebilir olmasıdır.'' Sistemin elektronik tasarımının İzmir Seyit Şanlı Anadolu Teknik ve Endüstri Meslek Lisesi Elektronik Bölümü'nde gerçekleştirildiğini belirten Ülgen, şu bilgileri verdi 
+     ''Üretilen prototip, panel düzlemine dikey ve yatay olarak gelen güneş ışınları ile hareket etmektedir. Bu hareket, yatay ve dikey eksenlerde bulunan ikişer sensör yardımı ile gerçekleşmektedir. Bu sensörlerden birine gelen ışık yoğunluğu fazla olduğunda mekanizma, o yöne dönmekte, iki göze düşen ışın miktarı eşit olunca sistem durmakta ve sabitlenmektedir. Böylece sistem, güneş ışınları yüzeye dik düşecek ve maksimum oranda yararlanılabilecek şekilde yönlenebilmektedir.'' Türkiye'nin çok çeşitli enerji kaynaklarına sahip olduğu halde bu kaynakların sınırlı olduğunu dile getiren Ülgen, enerji ihtiyacının yüzde 60'tan fazlasının ithal edildiğini ve her yıl bu oranın giderek arttığını belirtti. 
+     Günümüzde sistemin gereksinimlerine bağlı olarak, tek ya da çift eksende güneşi izleyen elektronik sistemlerin mevcut olduğunu dile getiren Yard. Doç. Dr. Ülgen, mevcut izleme sistemlerinin birçoğunun bilgisayar programlarına dayandığını bildirdi. Ülgen, bu sistemlerin Türkiye'de üretilmediğini, gerektiğinde yurtdışından ithal edildiğini belirterek, tüm güneş enerjili sistemlerin performansını ve elde edilen güç miktarını artıran bu sistemlerin yurtdışından getirilmelerinin oldukça pahalıya mal olduğunu kaydetti. 
+     
+</TEXT>
+</DOC>

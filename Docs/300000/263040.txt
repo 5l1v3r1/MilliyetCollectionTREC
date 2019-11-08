@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> 263040 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/13/yazar/akyol.html </URL>
+<DATE> 2004/08/13/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Taha AKYOL  </AUTHOR>
+<HEADLINE>
+Tren kazası 
+</HEADLINE>
+<TEXT>
+
+
+İKİNCİ defa tren kazası... Can kaybı, maddi hasar ve güven hasarı Teknik bilirkişinin raporu tamamlanmadan kaza hakkında bir hükme varmak sağlıklı değildir. Hele bizler ne teknik bilgiye ne de kazayla ilgili bulgulara sahibiz. 
+Bizim gibi uzman olmayanların yapabileceği şey, genel değerlendirmelerdir. Genel değerlendirmelerin tekil olaya uymayabileceği ihtiyatını da elden bırakmamak gerekir. 
+Bu ihtiyatla söyleyebilirim ki, makinistin hata yapması halinde kırmızı ışıkta durmayı sağlayan ATS cihazının bulunmaması, bu kazada en önemli etken gibi gözüküyor. 
+Lokomotiflerimizin ancak yüzde 21'inde otomatik sinyalizasyon varmış ATS cihazını yaygınlaştırma çalışmaları başlamış ama henüz tamamlanmamış. 
+
+KIRMIZI ışıkta durmayarak kazaya sebep olan Başkent Ekspresi'nde iki makinist var. Treni sevk ve idare eden makinist, "Yeşil yanıyordu, tam geçerken kırmızı yandı, duramadım" diyor. Öteki makinist zaten ilgilenmiyormuş 
+"İnsani kusur" önemli gözüküyor. 
+Böyle durumlarda treni durduracak ATS cihazı, çarpışan iki trenden birinde var, öbüründe yok. Kırmızı ışıkta durmayarak kazayı yapan Başkent Ekspresi'nde ATS yok, normal seyrinde devam eden Adapazarı Ekspresi'nde var 
+ATS yetersizliği ve diğer teknik yetersizlikler elbette "yılların ihmalinin sonucudur." 
+Tren kazaları, ATS dahil en ileri teknik donanıma sahip ülkelerde de oluyor. 
+Bizdeki bu kazaya ATS cihazının olmaması ve makinistlerin dikkatsizliği, yani "teknolojik" ve "insani" yetersizlikler sebep olmuş gözüküyor. 
+Çağımızda tren işletmeciliği gibi büyük organizasyonların nasıl bir teknoloji ve nasıl bir insan unsuru gerektirdiğini görüyoruz. 
+Teknoloji, eğitim, bilinç... Çağımızın üç 'sihirli' kavramı 
+
+İDARİ hatanın rolü nedir Bu kazada, şimdilik "idari bir karar"ın etkili olduğuna dair bir bulgu yok Çarpışan trenlerin hızı artırılmış değil, makinistleri işten çıkarıp yerlerine tecrübesiz makinistler konulmuş değil. ATS cihazı olmayan lokomotifler yıllardan beri çalışıyor. 
+Art arda iki tren kazası olmasına bakarak "Bunlar geldi, böyle oluyor" sonucuna varmak aşırı genellemedir. 
+Bazı kurumlar için yeni yöneticileri eleştirmek elbette mümkün. THY'deki tahammül edilmez gecikmelerle karşılaştıkça ben de böyle düşünüyorum mesela... 
+Ama Devlet Demiryolları'nda 45 bin personelden sadece bir genel müdürle bir genel müdür yardımcısı değişmiş. Bunu geçen hafta karşılaştığımızda Ulaştırma Bakan Binali Yıldırım söylemişti. 
+"Hızlandırılmış tren" kazasının bile teknik sebepleri konusundaki çalışmalar tamamlanmadı. Son kazanın bilirkişi çalışmaları yeni başlıyor. 
+Her iki kazada da şimdilik gözüken "insani hata" faktörü ve yıllardan gelen teknoloji noksanlarıdır. 
+Hızlı ve yoğun ulaştırma, modernitenin en önemli göstergelerinden biridir. Demiryollarına yeniden önem vermek zorunda olan Türkiye, bunun gerektirdiği teknolojiyi ve insan unsurunu başarmak zorundadır. 
+
+
+
+</TEXT>
+</DOC>

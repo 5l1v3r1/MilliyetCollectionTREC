@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 329077 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/31/son/sonyas09.html </URL>
+<DATE> 2005/03/31/ </DATE>
+<TIME> 10.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternette sohbet ederken dikkat .. 
+</HEADLINE>
+<TEXT>
+
+     Önemli sayıda bilgisayar kullanıcısının tercih ettiği sohbet programlarına dadanan bilgisayar korsanları, sahte güncelleme linkleri ile kullanıcıların kişisel bilgilerini çalıyor. 
+     Sohbet programı kullanıcılarına, sahte bir siteye yönlendirilmiş linkin de ekli olduğu bir mesaj atan korsanlar, kullanıcıdan, ''gerekli güncelleştirme'' bilgilerini girmesini isteyerek, başta kullanıcı adı olmak üzere, şifrelerini ve diğer kişisel bilgilerini elde etmeye çalışıyor. 
+     Dünyanın en çok tercih edilen sohbet programları Yahoo ve Hotmail'den birer hesap alan korsanlar, hazırladıkları bir yazılımla, kişinin ''arkadaş listesinden gelmiş gibi gözüken'' bir mesajı her şeyden habersiz kullanıcıya gönderiyor ve bilgilerin girilmesini bekliyor. Kişisel bilgilerini güncellediğini zanneden kullanıcı, boşlukları doldurduğunda kişisel bilgilerini de korsanlara vermiş oluyor. 
+     ''Phising'' denilen bu yöntem en çok Yahoo Messenger kullanıcılarını etkiliyor. Çünkü Yahoo, kendisinden e-posta adresi alan kullanıcılarına, yine aynı kullanıcı adı ve şifreyle girilebilen 15 MB Mega Byte web alanı veriyor. E-posta şifresini çaldıran kullanıcılar, web alanlarının giriş kodlarını ve içeriğini de yine korsanlara teslim etmiş oluyor. 
+     Bu tekniklerin, ''çok popüler oldukları için'' özellikle Yahoo ve Hotmail sohbet programlarında kullanıldığını belirten internet analistleri, kullanıcılardan bilgilerini internet üzerinden güncellememelerini öneriyorlar. 
+     
+     PHISING NEDİR 
+     ''Password harvesting fishing'' cümlesinden türetilen Phising sözcüğü kabaca şifre avcılığı anlamında kullanılıyor. 
+     Spam göndericileri tarafından uygulanan bir yöntem olan Phising tekniğinde kullanıcıya gönderilen elektronik posta ile bilgilerini güncellemesi isteniyor ve posta içinde hazırlanmış kutulara ya da tıklanınca açılan gerçek görünümlü sahte sitedeki kutulara kullanıcı adı ve şifre gibi bilgilerini girmesi bekleniyor. 
+     
+</TEXT>
+</DOC>

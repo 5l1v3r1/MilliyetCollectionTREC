@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 380540 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/22/son/soneko04.html </URL>
+<DATE> 2005/09/22/ </DATE>
+<TIME> 10.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tüketicinin güvensizliği büyüyor 
+</HEADLINE>
+<TEXT>
+
+     -100’ün altındayken tüketicinin güvensizliğini gösteren Tüketici Güven Endeksi ağustosta da yüzde 1.78 oranında azalarak 97.5’e kadar geriledi. 
+     -Bu yıl haziran ayında güvensizliğe işaret etmeye başlayan endekte ağustosta yaşanan düşüş, tüketicilerin mevcut dönem ve gelecek dönem satın alma güçlerine, gelecek dönem genel ekonomik duruma ve mevcut dönemin dayanıklı tüketim malı satın almak için uygunluğuna lişkin değerlendirmelerinin kötüleşmesinden kaynaklandı. 
+     
+</TEXT>
+</DOC>

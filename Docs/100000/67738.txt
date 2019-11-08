@@ -1,0 +1,48 @@
+<DOC>
+<DOCNO> 67738 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/02/15/siyaset/siy03.html </URL>
+<DATE> 2002/02/15/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Perinçek Fogg Brüksel’e çekildi 
+</HEADLINE>
+<TEXT>
+
+Olay yaratan e - mail açıklamalarının meyvelerini toplamaya başladıklarını söyleyen Perinçek, Fogg’un Brüksel’e çekildiğini iddia etti 
+     ANKARA Milliyet 
+
+     Ankara ve Brüksel kaynaklarından aldığı bilgiye dayarak Karen Fogg’un Brüksel’e geri çekildiğini söyleyen İşçi Partisi Genel Başkanı Doğu Perinçek, dün düzenlediği basın toplantısında, Dışişleri Bakanı İsmail Cem’i, Fogg’un suç ortağı olmakla suçladı. Perinçek, şöyle konuştu "Cem, Fogg’a bakanlığın kapısını hayalet gibi açtı. Fogg ne yazık ki gizli kapılar arkasında yapılan anlaşmalarla gidiyor. Türkiye 'bu hanımı alın’ deyince onlar da 'ama siz istenmeyen adam ilan etmeyin’ karşılığını vermişler." 
+     
+     Mesajlar yayınlanacak 
+     Perinçek, Karen Fogg imzasıyla AB Temsilciliğinde görevli Özden Engin tarafından AB Merkezi’ndeki Alain Servantie’ye gönderilen e - postada, "Düzenli raporun hazırlanmasında gerekli bilgileri ulusal makamdan almak için anketlerin kullanılmayacağını öğrenince işe yarar bilgi elde etmek için gizli hareket etmek zorunda kaldık" ifadesinin yer aldığını iddia etti. Perinçek, ellerindeki 4 binmesajın özel hayatla ilgili olmayan kısımlarını internette yayınlayacaklarını da sözlerine ekledi. 
+     
+Elektronik posta nasıl hack’ edilir      GÜLAY FIRAT İstanbul 
+
+     İnternet üzerinde kullanıcının e - posta trafiğini elde etmenin çok farklı yöntemleri bulunuyor. PC Net Haber Editörü İlkay Zaman bu konuda şu bilgileri verdi "Eğer kullanıcı e - posta gönderme ve alma işlemi sırasında şifreleme yöntemi kullanmıyorsa, mesaj hedefe ulaşana kadar birçok noktadan geçer. Bunların birincisi kullanıcının kullandığı mail server’ ikincisi, göndericinin kullandığı mail server’ üçüncüsü ise router’ olarak adlandırılan yönlendirici ve network’lerdir. Bu noktaların herhangi bir yerinde bir sistem sorumlusu, geçen trafiği sniff’ ederek mesajları okuyabilir. Diğer olasılık da kullanıcının bilgisayarının doğrudan trojan’ virüsü ya da benzeri virüslerle hack’ edilmesidir." 
+     
+Ecevit’ten Fogg’a Çok üzüldüm      ALTAN BURGUCU 
+
+     Başbakan Bülent Ecevit, AB’nin Genişlemeden Sorumlu Komiseri Günter Verheugen’i dün Konut’ta kabul etti. Ecevit’in görüşmeye katılan AB Türkiye Temsilcisi Karen Fogg’a e-maillerinin kamuoyuna yansıtılmasından dolayı duyduğu üzüntüyü "diplomatik bir dille" ilettiği öğrenildi. 
+     
+MGK Fogg olayıyla hiçbir ilgimiz yok...      ANKARA Milliyet 
+
+     MİT’ten sonra MGK Genel Sekreterliği de yazılı bir açıklamayla Karen Fogg’a ait elektronik posta yazışmalarının ele geçirilmesiyle ilişkisi olmadığını duyurdu. Açıklamada şu ifadeler yer aldı "14 Şubat 2002’de bazı basın - yayın organlarında AB Türkiye Temsilcisi’ne ait elektronik - posta yazışmaları ile ilgili bilginin MGK Genel Sekreterliği’nden alındığını ima eder mahiyette haberlere yer verildiği görülmüştür. Milli Güvenlik Kurulu Genel Sekreterliği hiçbir zaman bu tür faaliyetler içinde olmamıştır, olması da düşünülemez. Bu itibarla haber tamamen asılsız ve yakışıksızdır." 
+     
+
+
+
+ SİYASET 
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

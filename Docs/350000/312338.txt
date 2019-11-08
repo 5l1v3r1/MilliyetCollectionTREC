@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 312338 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/04/son/soneko01.html </URL>
+<DATE> 2005/02/04/ </DATE>
+<TIME> 02.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsası düşüşle kapandı 
+</HEADLINE>
+<TEXT>
+
+     New York borsasında Dow Jones ve Nasdaq endeksleri düştü. 
+     Borsanın temel göstergesi Dow Jones, 4.88 puan düşerek 10,591.91 puana gerilerken, teknoloji endeksi Nasdaq 17.60 puan kayıpla 2,057.46 puandan kapandı. 
+     
+</TEXT>
+</DOC>

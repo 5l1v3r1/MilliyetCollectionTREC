@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 325851 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/22/son/soneko01.html </URL>
+<DATE> 2005/03/22/ </DATE>
+<TIME> 02.03 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsası Dow Jones düştü... 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacminde dünyanın en büyük borsası konumundaki New York Wall Street'in Dow Jones Sanayi Endeksi, haftanın ilk işlem gününü 3.47 puan düşüşle 10,566.20 puandan noktaladı. 
+     İleri teknoloji ortaklıklarının göstergesi Nasdaq Birleşik Endeksi de ikinci seansı 0.31 puan kayıpla 2,007.48 puandan kapadı. 
+     Endekslerin durumunda, yatırımcıların yön belirlemek için ABD Merkez Bankası'nın faiz oranlarıyla ilgili yarınki toplantısını beklemeleri etkili oldu. 
+     
+</TEXT>
+</DOC>

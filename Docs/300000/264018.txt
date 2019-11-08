@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 264018 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/17/yasam/yas10.html </URL>
+<DATE> 2004/08/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Devlet destekli 'hacker' yarışması 
+</HEADLINE>
+<TEXT>
+
+
+
+Singapur hükümetinin de desteklediği bir yarışmada, 6 çift bilgisayar korsanı, rakiplerinin bilgilerini çalmaya çalışacak. 2 kişilik 'hacker' takımlarından biri saldırırken, diğeri bilgisayar sistemlerine yönelik tehditleri bertaraf edecek. Bu yolla, siber korsanların saldırı yöntemleri masaya yatırılacak ve ek güvenlik önlemleri konuşulacak. 
+
+
+</TEXT>
+</DOC>

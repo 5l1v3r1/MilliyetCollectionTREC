@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 324867 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/18/son/sontur17.html </URL>
+<DATE> 2005/03/18/ </DATE>
+<TIME> 10.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Çıplak fotoğraflarla tehdit eden hacker yakalandı 
+</HEADLINE>
+<TEXT>
+
+     Ramazan ÇETİN DENİZLİ, DHA 
+
+      DENİZLİ'de, e-posta şifrelerini çözerek elde ettiği fotoğraflarla internet kullanıcılarını tehdit eden hacker, polis tarafından yakalandı. Gözaltına alınan 32 yaşındaki Nazım Girgin çıkarıldığı mahkemece tutuksuz yargılanmak üzere serbest bırakıldı. 
+     Denizli'de oturan ve işsiz olduğu öğrenilen Nazım Girgin, iddiaya göre, çeşitli kentlerden yaklaşık 150 internet kullanıcısının şifresini çözdü. Bu kişilerin posta hesaplarına erişerek özel fotoğraflarını sitesine indiren Girgin'in daha sonra e-posta mesajı göndererek onlardan çıplak fotoğraflar istediği öne sürüldü. 
+     Aydın Karacasu'da oturan Müjdat Coşkun adlı internet kullanıcısı Aydın Cumhuriyet Savcılığı'na başvurdu. Coşkun, "E-mail şifremi çözen biri beni tehit edip eşimle birlikte çekilen çıplak fotoğrafı istedi. Fotoğrafı vermemem durumunda ise, özel fotoğraflarımı internet sitesinde yayınlamakla tehdit etti'' dedi. Aydın Cumhuriyet Savcılığı başvuru üzerine soruşturma başlattı. 
+     Aydın Emniyet Müdürlüğü ekipleri, IP adresini belirleyerek internet kullanıcılarını e-posta yoluyla tehdit eden kişinin Nazım Girgin olduğunu saptadı. Aydın Polisi, Denizli Emniyet Müdürlüğü'ne bilgi verdi. Polis, Girgin'i Gümüşler beldesine bağlı Yeni Mahalle'deki evinde gözaltına aldı. Polisin bilgisayarına el koyduğu Nazım Girgin, suçlamaları kabul etmedi, Bilgisayarında şikayete konu olan tehdit mailleri bulunan ve evli olduğu belirtilen Nazım Girgin, çıkarıldığı mahkemece tutuksuz yargılanmak üzere serbest bıkarıldı. 
+     
+</TEXT>
+</DOC>

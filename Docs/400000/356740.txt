@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 356740 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/29/son/sontur11.html </URL>
+<DATE> 2005/06/29/ </DATE>
+<TIME> 09.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Gezi teknelerine AB standardı geldi... 
+</HEADLINE>
+<TEXT>
+
+     Gezi teknelerinin, AB’ye uyumu çerçevesinde ulusal standartlar listesi hazırlandı. 
+     Gezi Tekneleri Yönetmeliği’nde yer alan "Uyumlaştırılmış Ulusal Standartlar Listesinin Yayımlanmasına İlişkin Tebliğ", Resmi Gazete’de yayımlandı. 
+     Tebliğde, Gezi Tekneleri Yönetmeliği uyarınca AB direktifi kapsamındaki standartlardan TSE tarafından uyumlaştırılmış olanların listesine yer verildi. 
+     Buna göre, küçük teknelerde şu özellikler bulunacak 
+     "Tuvalet atıkları alıkoyma sistemleri, deniz motorları ve sistemleri, güç ölçümleri ve beyanları, dümen donanımı, kablo ve makara sistemleri, elektrikle çalışan doğru akım sintine pompaları, tekne yüzeyine takılan deniz tipi vanalar ve bağlantı parçaları, yangına karşı koruma, elektrikli vantilatörler, kalıcı olarak yerleştirilen yakıt sistemleri ve sabit yakıt tankları, sıvılaştırılmış petrol gazı LPG ile çalışan sistemler, hidrolik dümen sistemleri, benzinli motor ve veya benzin tankı deposu 
+     bölmesinin havalandırılması, motorlu gezi teknelerinden havaya yayılan sesin ölçülmesi, sıvı yakıtla çalışan mutfak ocakları, azami yük kapasitesi, denize düşmeyi önleme ve kurtarma." 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 175429 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/13/son/sondun05.html </URL>
+<DATE> 2003/08/13/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternette yine virüs kabusu LOVSAN 
+</HEADLINE>
+<TEXT>
+
+     "Lovsan" adlı bir virüsün dünden itibaren internette yayılmaya başladığı ve Microsoft'un Windows işletim programının değişik sürümlerinin yüklü olduğu bilgisayarlara bulaştığı bildirildi. 
+     "Blaster Worm" adıyla da bilinen "Lovsan" virüsünün, ABD'de etkilediği bilgisayarların sayısının 24 saatten kısa bir sürede iki katına çıktığı, virüsün ABD'de 125 binden fazla sisteme bulaştığı belirtildi. 
+     Virüsün Japonya'daki bilgisayarlara da sıçradığı, bunun Japonya'da yılbaşından beri en hızlı yayılan virüs olduğu açıklandı. 
+     Uzmanlar, Windows işletim sistemi kullanan tüm kullanıcılara, Microsoft'un internet sitesinden indirilecek güvenlik yamasını yüklemelerini tavsiye ediyor. 
+     Windows işletim sistemindeki bir açığı kullanan virüsün, bu sistemin NT 4.0, 2000, XP ve Server 2003 versiyonlarına bulaşabildiği belirtiliyor. 
+     Yetkililere göre virüs, kullanıcının hiçbir müdahalesine gerek duymadan bilgisayara bulaşabiliyor. Virüs, tıklanarak açılması gereken ekli bir belge halinde gelmiyor ve çok hızlı yayılıyor. 
+     Sistemin kendi kendine kapanması ve yine kendi kendine açılması virüsün varlığının habercisi olabilirken, Windows sistem dosyalarında "msblast.exe" adlı bir dosyanın bulunması da sisteme virüsünü bulaştığını gösteriyor. 
+     
+</TEXT>
+</DOC>

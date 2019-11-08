@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 104071 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/08/26/son/sontur03.html </URL>
+<DATE> 2002/08/26/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Cehennem.org kapatıldı... 
+</HEADLINE>
+<TEXT>
+
+     İnternet kullanıcılarına tuzak kurarak şifrelerini indiren ''www.cehennem.org'' sitesinin hosting firması tarafından kapatıldığı bildirildi. 
+     Türk İnternet Birliği kurucu üyelerinden Hakan Topuzoğlu, 6 günde yaklaşık 10 bin internet kullanıcısına tuzak kurarak, şifrelerini aldığını belirledikleri sitenin, internette faaliyet göstermesini sağlayan hosting firması tarafından kapatıldığını kaydetti. 
+     Topuzoğlu, yaptıkları araştırmada, binlerce kişinin şifresini alarak e-postalarına ulaşan ve kişilerin e-posta adreslerini kullanan sitenin sahibinin, Kırıkkale'de bulunan Berk Can Domain Pazarlama Ltd. Şirketi görüldüğünü ifade etti. 
+     Topuzoğlu, ''Ancak bu şirketin adından dolayı bir domain pazarlama şirketi olduğunu anlıyoruz. Başka kişi ve kuruluşlar adına bu adresi almış olabilir'' dedi. 
+     Türk İnternet Birliği, hafta içinde açıklama yaparak internet kullanıcılarını cehennem.org adlı sitenin tuzağına karşı uyarmıştı. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

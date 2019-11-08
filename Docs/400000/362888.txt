@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 362888 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/20/son/sonyas23.html </URL>
+<DATE> 2005/07/20/ </DATE>
+<TIME> 20.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Artık tırnaklar da veri dopsu olarak kullanılacak... 
+</HEADLINE>
+<TEXT>
+
+     Japon bilim adamları, tırnaklara lazer ile mikroskobik noktalar biçiminde bilgi depoladılar. 
+     Tokushima Üniversitesi’nde yapılan deneyde, insan tırnağına 800 kilobyte bilgi depolamayı başaran bilim adamları, bunun yüksek çözünürlüklü bir fotoğraf anlamına gelmediğini, ancak temel kimlik bilgilerinin depolanması için yeterli olduğunu belirttiler. 
+     Tırnağa bilgi depolamayı başaran bilim adamları, tırnakların uzaması nedeniyle her altı ayda bir bilgilerin yeniden yerleştirilmesi zorunluluğuna karşın, bunun kredi kartlarının yerini alabileceğini kaydettiler. 
+     Bu işlemin gelecekte canlı parmak ucuna da uygulanabileceğini belirten bilim insanları, böylece daha fazla bilginin depolanabileceğini ifade ediyorlar. 
+     Lazer ışınının tırnağa çok kısa kızılötesi ışınlar vermesiyle ortaya çıkan enerjinin, tırnaktaki keratin moleküllerini açığa çıkardığını ve molekülleri daha floresan yaptığını anlatan bilim adamları, tırnak mavi lazer ışığıyla aydınlatıldığında, kaydedilen bilgilerin görünür hale geldiğini ve mikroskopla okunabildiğini belirttiler. 
+     Bu yeni teknolojinin kredi kartının yerini alabileceği belirtilirken, özellikle casuslar ve ajanların ideal müşteri olabileceği ifade ediliyor. 
+     
+</TEXT>
+</DOC>

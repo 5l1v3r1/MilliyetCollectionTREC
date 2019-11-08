@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 336123 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/23/yasam/axyas01.html </URL>
+<DATE> 2005/04/23/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bir tuşa basıp keyfinize bakın 
+</HEADLINE>
+<TEXT>
+
+
+Microsoft'un geliştirdiği "dijital ev"in oturma odasındaki ana bilgisayar, merkezi ısıtmadan tutun da mutfak alışverişine kadar, evdeki tüm ihtiyaçlarınızı karşılıyor 
+
+DIŞ HABERLER SERVİSİ 
+
+Gelecekte yaşamak gibi 
+BİLGİSAYAR yazılım devi Microsoft tarafından geliştirilen "dijital ev sistemi" kullanıma hazır. Gelecekte yaşıyormuş hissi veren evdeki tüm teknolojik donanımlar, oturma odasındaki ana bilgisayardan yönetiliyor. Dijital evin beyni bilgisayar, televizyon ve video kayıt cihazı işlevleri görmesinin yanı sıra, aydınlatma sistemini, hırsız alarmını, merkezi ısıtmayı ve perdeleri kontrol ediyor. 
+
+Sistemlerin hepsi kablosuz 
+RESİM çerçevesinin içindeki aile fotoğrafı, bir komutla değiştirilebiliyor. İnternet bağlantısı sayesinde, tatilde çektiğiniz fotoğrafları eve dönmeden çerçevenin içine koyabiliyorsunuz. Dijital evi kullanışlı kılan özelliklerinden biri bu sistemlerin kablosuz olması. Microsoft yetkilileri, Londra'da dijital evin rahat yaşam ve lüks tutkunlarının kullanımına hazır olduğunu belirtiyor. 
+
+
+</TEXT>
+</DOC>

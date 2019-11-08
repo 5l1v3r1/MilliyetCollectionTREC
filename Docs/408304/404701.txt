@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 404701 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/19/son/soneko21.html </URL>
+<DATE> 2005/12/19/ </DATE>
+<TIME> 12.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı 76 puanlık artışla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeksi, Cuma günkü 2. seans kapanışına göre 76.56 puan artarak 37,793.26 puandan kapandı. 
+     1. seansta, hisse senetlerinin ortalama değer artışı yüzde 0.20 oldu. 
+     Cuma günü 37,716.70 puandan kapanan İMKB Ulusal 100 Endeksi, ilk seansa 54.23 puan artarak 37,770.34 puandan başladı. İlk yarıyı 38,745.75 puandan geçen endeks en düşük 37,704.38 puana gerilerken, en yüksek olarak da 38,001.54 puanı gördü. 
+     Seans sonunda mali endeks 14.16 puan artarak 58,868.73 puana, sanayi endeksi 248.77 puan artarak 29,934.80 puana ve hizmetler endeksi 47.40 puan artarak 17,916.08 puana yükseldi. 
+     Böylece önceki kapanışa göre, mali grup hisseler ortalama yüzde 0.02, sanayi grubu hisseler ortalama yüzde 0.84 ve hizmetler grubu hisseler ortalama yüzde 0.27 oranında değer kazandı. 
+     1. seansta işlem gören toplam 312 hisse senedinden 162'si değer kazandı, 78'i değer kaybetti, 72 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta 541 milyon 94 bin 440 YTL'lik işlem hacmi oluştu. 
+     1. seansta Doğan Gaztecilik, Vakıfbank, Petrol Ofisi, Global Yatırım Holding, Petkim en çok işlem gören hisse senetleri olarak belirlendi. 
+     
+</TEXT>
+</DOC>

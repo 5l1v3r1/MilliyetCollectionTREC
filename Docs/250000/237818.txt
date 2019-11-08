@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 237818 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/06/son/soneko42.html </URL>
+<DATE> 2004/05/06/ </DATE>
+<TIME> 16.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternette "biri şirketinizi gözetliyor"... 
+</HEADLINE>
+<TEXT>
+
+     Türkiye'de sanal ortamda faaliyet gösteren firmaların yüzde 87'sinin, internet üzerinden gelebilecek tehlikelere karşı önlem almadığı bildirildi. 
+     Koç.net Güvenlik ve Güvenlik Denetimi Yöneticisi Özgür Danışman, Interpro Firması'nca HiltonSA Oteli'nde düzenlenen ''BTVizyon Toplantıları''ndaki ''Biri Sizi Gözetliyor'' başlıklı oturumda, firmaların internet aracılığıyla karşılaşabilecekleri tehlikeler hakkında bilgi verdi. 
+     Danışman, firmaların web sitesi oluşturma ve faaliyetlerini internet üzerinden gerçekleştirme yolunda önemli yol aldıkların, ancak ''şirket güvenliğini'' göz ardı ettiklerini söyledi. 
+     Toplam bin şirketin katılımıyla gerçekleştirdikleri araştırmada, şirketlerin yüzde 87'sinin internetten gelebilecek tehlikelere açık olunduğunu belirlediklerini kaydeden Danışman, şöyle konuştu 
+     ''Bilgi içerikli hazırlanmış web sitelerinin de yüzde 56'sına dışarıdan müdahale etmek, içeriğini değiştirmek, gelen e-postaları farklı bir adrese yönlendirmek olanaklı. Uygulama tabanlı açıkların çok olduğu ve aktif ticari faaliyetlerin yürütüldüğü sitelerde, müşterilere ya da firmalara ilişkin bilgilerin ele geçirilebildiğini görüyoruz.'' Sanal tehlikelere karşı risk taşıyan sektörlerin başında kamunun geldiğini bildiren Danışman, sözlerini şöyle sürdürdü 
+     ''Kamu kurumlarına ait sitelerde güvenlik açığı çok fazla. Eğitim, sağlık ve perakende, listenin üst sırasındaki diğer sektörler. Bilişim teknolojileri sektöründe ise konunun merkezinde yer alması nedeniyle güvenlik uygulamalarının oldukça yaygın ve etkili olduğu görülüyor.'' 
+     
+</TEXT>
+</DOC>

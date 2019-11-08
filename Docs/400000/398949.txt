@@ -1,0 +1,60 @@
+<DOC>
+<DOCNO> 398949 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/29/son/soneko15.html </URL>
+<DATE> 2005/11/29/ </DATE>
+<TIME> 10.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Binaların depreme dayanıklılığı sanal ortamda test edilecek 
+</HEADLINE>
+<TEXT>
+
+     Gökçen Çamlıyurt AA 
+
+Bayındırlık ve İskan Bakanlığı, yapıların depreme karşı güçlendirilmesi amacıyla yönetmelik değişikliğine gidiyor. 
+     Alınan bilgiye göre, Bakanlık yetkilileri ile ODTÜ öğretim üyesi Prof. Dr. Haluk Sucuoğlu, Boğaziçi Üniversitesi'nden Prof. Dr. Nuray Aydınoğlu ve İTÜ'den Prof. Dr. Erkan Özer'in bulunduğu Deprem Yönetmeliği Komisyonu'nun çalışmaları son aşamaya geldi. 
+     Komisyonun yaklaşık 2 yıldır devam eden çalışmaları sonucunda, kamuoyunda Deprem Yönetmeliği olarak bilinen ''Afet Bölgelerinde Yapılacak Yapılar Hakkında Yönetmelik''in çeşitli maddelerinde değişiklik öngören bir taslak hazırlandı. 
+     Taslağın en önemli düzenlemesini de, yönetmeliğin son bölümünde yer alacak ''Mevcut Yapıların Değerlendirilmesi ve Güçlendirilmesi''ne ilişkin esaslar oluşturuyor. 
+     
+     YENİ DÜZENLEME NELER GETİRECEK 
+
+     Taslak, ''deprem karşısında mevcut bir binanın nasıl etkileneceğinin tespitine ilişkin inceleme ve hesap yöntemleri ile güçlendirme esaslarına'' yer veriyor. 
+     Taslağa göre, güçlendirme için, öncelikle binaların mevcut durumu hakkında bilgi toplanacak. Bu çerçevede, binaların yapı projeleri, raporları ve zemini incelenecek. Binada çeşitli gözlem ve ölçümler, malzeme örnekleri üzerinde de testler yapılacak. 
+     Betonarme, çelik, prefabrike ve yığma gibi bina türlerine göre uygulanacak farklı yöntemlerle, yapıların projeye uygunluğu tespit edilecek ve taşıyıcı sistem röleveleri çıkarılacak. Zemin özelliklerinin yanı sıra binada varsa mevcut hasar, onarımlar, eklentiler ve değişiklikler de belirlenecek. 
+     
+     SANAL ORTAMDA TEST 
+
+     Binayla ilgili çıkarılacak bilgiler, bilgisayara yüklenecek ve hazırlanacak simülasyon modeliyle, deprem karşısındaki performansı ortaya konacak. 
+     Taslakta, binada oluşabilecek hasara ilişkin şu tanımlamalar yer alıyor 
+     ''-Hemen Kullanım Durumu Hasarsızlık veya az hasar. Binanın yapısal elemanlarında hasar oluşmamıştır ve dayanım özelliklerini korumaktadır. 
+     -Can Güvenliği Durumu Orta derecede, ancak onarılabilir hasar. Binanın yapısal elemanlarının bir kısmında hasar görülür. Ancak elemanlar dayanımlarının önemli bölümünü korumaktadır. 
+     -Göçmenin Önlenmesi Durumu Ağır hasar, bina göçme durumuna yakındır. Binanın yapısal elemanlarının önemli kısmında hasar görülür, dayanımlarını büyük ölçüde yitirmişlerdir. 
+     -Göçme Durumu Yapı tamamen çökmüştür veya yıkılmanın eşiğindedir.'' 
+     
+     HEDEFLENEN PERFORMANS 
+
+     Taslakta, binaların kullanım amacına göre, güçlendirmede esas alınacak deprem şiddeti ve hedeflenen performanslar ise şöyle sıralandı 
+     ''-Hastane, itfaiye, enerji tesisi gibi deprem sonrası kullanımı gereken binalar Bu binaların şiddetli depremde Hemen Kullanım , çok şiddetli depremlerde ise Can Güvenliği sağlaması hedefleniyor. 
+     -Okul, yurt, cezaevi gibi insanların uzun süreli yoğun biçimde bulundukları binalar Bu binalardaki güçlendirme çalışmalarında orta şiddetli depremlerde Hemen Kullanım ın, çok şiddetli depremlerde Can Güvenliği nin sağlanması amaçlanıyor. 
+     -Sinema, tiyatro, konser salonu gibi insanların kısa süreli yoğun bulundukları binalar Bu binalardaki güçlendirmede de şiddetli depremlerde Can Güvenliği , çok şiddetli depremlerde ise Göçmenin Önlenmesi esas alınıyor. 
+     -Patlayıcı ve parlayıcı maddelerin bulunduğu ya da depolandığı binalar Şiddetli depremlerde Hemen Kullanım , çok şiddetli depremlerde de Göçmenin Önlenmesi hedefleniyor. 
+     -Konutlar, işyerleri, oteller ve diğer binalar Bu binaların şiddetli depremde Can Güvenliği ni sağlayacak şekilde güçlendirilmesi planlanıyor.'' 
+     
+     GÜÇLENDİRME YÖNTEMLERİ 
+
+     Taslak uyarınca, binanın deprem simülasyonundan aldığı sonuç ve hedeflenen performansa göre güçlendirme programı belirlenecek. 
+     Betonarme binaların güçlendirilmesiyle ilgili olarak şu yöntemler uygulanabilecek 
+     ''-Kolonların çelik, betonarme veya lifli polimer ile sargılanması, -Kolon kesitlerinin büyütülmesi, -Kirişlerin sarılması, -Bölme duvarların güçlendirilmesi, -Taşıyıcı sistemlerin dökme betonarme perdelerle güçlendirilmesi, -Betonarme sisteme dıştan yeni çerçeveler eklenmesi, -Betonarme sisteminin kütlesinin azaltılması binanın üst katının kaldırılması, çatının hafif bir çatıyla değiştirilmesi, çatıda bulunan su deposu gibi tesisat ağırlıklarının zemine indirilmesi, vb. '' Bu arada, binalarını güçlendirmek isteyenler için uygun koşullu kredi verilmesi de gündemde bulunuyor. 
+     
+     İSTANBUL'DA 70 BİN BİNA RİSKLİ 
+
+     Komisyon Başkanı Prof. Dr. Haluk Sucuoğlu, yaptığı değerlendirmede, Türkiye'de deprem kuşağında yer alan binaların büyük bölümünün depreme dayanıklı olmadığını belirtti. 
+     Sadece İstanbul'da bulunan yaklaşık 1 milyon binanın yarısının olası Marmara depreminde hasar görmesinin, 70 bininin de ağır hasara uğraması veya yıkılmasının beklendiğini kaydeden Sucuoğlu, ''Yıkılabileceği tahmin edilen binalarda beklenen can kaybı 50-60 bin arasında'' dedi. 
+     Riskli binaların ya yıkılıp yeniden yapılması ya da güçlendirilmesi gerektiğine dikkati çeken Sucuoğlu, sadece İstanbul'daki riskli 70 bin binanın yıkılıp yeniden yapılmasının 100 milyar YTL'nin üzerinde bir maliyet yaratacağını bildirdi. Sucuoğlu, bunun da Türkiye'nin yaklaşık dış borcuna eşit olduğuna işaret etti. 
+     Sucuoğlu, 20 yaşından genç binalarda güçlendirmenin, yıkıp yeniden yapma maliyetinin yarısından az olması halinde tercih edildiğini kaydederek, ''İyi hazırlanmış bir güçlendirme projesi ile bu oran yüzde 25'in altına çekilebiliyor'' dedi. 
+     Yönetmeliğin etkin bir şekilde uygulanabilmesi için hizmetiçi eğitim ve güçlü denetime ihtiyaç duyulduğunu belirten Sucuoğlu, ''Güçlendirme Yönetmeliği''nin yayınlanmasıyla yüksek deprem riskine sahip binaların belirlenmesi ve güçlendirilmesi, bunun sonucunda deprem risklerinin ciddi biçimde azaltılması, özellikle de can kayıplarının önlenmesi mümkün olabilecek'' diye konuştu. 
+
+     
+</TEXT>
+</DOC>

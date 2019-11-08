@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 345029 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/23/son/soneko36.html </URL>
+<DATE> 2005/05/23/ </DATE>
+<TIME> 15.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Petrol fiyatları düştü... 
+</HEADLINE>
+<TEXT>
+
+     Uluslararası piyasalarda petrol fiyatları geriledi. 
+     Londra Borsası’nda Batı Teksas türü petrolün varil fiyatı 36 cent azalarak 48.29 dolara, Brent türü Kuzey Denizi petrolün fiyatı 31 cent gerileyerek 47.12 dolara indi. 
+     Petrol İhraç eden Ülkeler Örgütü OPEC Başkanı ve Kuveyt Petrol Bakanı Şeyh Ahmed el-Fahd el-Sabah, yaptığı açıklamada, Kartel’in petrol fiyatlarının 40-45 dolar arasında seyretmesini istediklerini bildirdi. 
+     El-Sabah, OPEC’in 15 Haziran tarihinde yapacağı Bakanlar toplantısında ise üretimde kısıntıya gitmesine gerek olmadığını söyledi. 
+     Bu arada dünyanın önde gelen petrol firmalarından Total’in, Fransa’da 5 rafinerisinde bir süredir devam eden grevin sona erdiğini bildirmesinin, Avrupa borsalarında petrol fiyatlarının gerilemesinde önemli rol oynadığı belirtiliyor. 
+     
+</TEXT>
+</DOC>

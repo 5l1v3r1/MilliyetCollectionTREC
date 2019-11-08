@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 283576 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/26/son/sonyas05.html </URL>
+<DATE> 2004/10/26/ </DATE>
+<TIME> 10.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Uzay keşfinde yeni adım 
+</HEADLINE>
+<TEXT>
+
+     ABD Ulusal Havacılık ve Uzay Dairesi NASA , uzay keşfinde çığır açabilecek yepyeni bir uzay aracını denemeye hazırlanıyor. Kısaca DART adı verilen robotik uzay aracı, Yer'den 760 km irtifadaki uyduyla tamamen kendi olanaklarıyla buluşacak. 
+     DART'ın bugün fırlatılması öngörülüyordu, ancak kötü hava koşulları yüzünden fırlatma işleminin 4 Kasım'a ertelenebileceği belirtildi. 
+     DART, Stargazer L-1011 adı verilen üç reaktörlü uçakla Pasifik okyanusunun üzerinde 13.300 metreye çıkarılacak, buradan Pegasus füzesiyle fırlatılacak. 
+     NASA yetkililerinin açıklamasına göre, DART uzay gemilerinin birbirleriyle kenetlenmelerini ya da birbirlerinin yakınlarında manevra yapmalarını sağlayacak yeni teknolojiler geliştirmeye yönelik. Bir yetkili, ''DART projesi, Amerikan uzay programına yeni teknolojiler kazandırma yolunda kilit öneme sahip. Bu, uzayın keşfinde yeni ufuklar açabilir'' dedi. 
+     Jim Snoddy adlı NASA yetkilisi, ''Bu proje sayesinde geliştirilecek robotik uzay araçlarıyla uluslararası uzay istasyonuna, Ay'a ve Mars'a daha kolay ve daha ucuza malzeme götürebiliriz'' dedi. 
+     Başkan George Bush, geçen ocak ayında yaptığı konuşmada, 2020'ye kadar Ay'a tekrar gideceklerini, daha uzun vadede ise Mars'a insan gönderebileceklerini açıklamış ve robot teknolojisinin, bugünkü teknolojinin yerini alacağını belirtmişti. 
+     NASA'ya göre, robotik uzay aracı sayesinde, uydular daha kolay ve ucuza onarılacak, uzaydaki astronotların ihtiyaçları da daha ucuza karşılanabilecek. 
+     Tamamen robotlaştırılmış araçların kullanılması, Columbia uzay mekiği 2003 şubatında Dünya'ya dönerken havada parçalandıktan sonra uzay seferleri askıya alındığı için NASA bakımından büyük önem taşıyor. 
+     1,82 m boyunda, 363 kilo ağırlığındaki DART, Pegasus füzesiyle 750 km irtifaya bırakılacak ve tamamen kendi başına hareket ederek 760 km irtifada bulunan askeri uyduyla buluşacak. 
+     Proje 95 milyon dolara mal olacak. 
+     
+</TEXT>
+</DOC>

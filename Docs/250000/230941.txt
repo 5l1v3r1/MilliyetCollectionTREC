@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 230941 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/13/son/soneko13.html </URL>
+<DATE> 2004/04/13/ </DATE>
+<TIME> 10.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+e-Devlet stratejisi Perşembe günü şekilleniyor... 
+</HEADLINE>
+<TEXT>
+
+     Türkiye'nin e-Devlet Stratejisi'nin ne zaman hazırlanacağına ilişkin politika metnine, 15 Nisan Perşembe günü gerçekleştirilecek İcra Kurulu'nda son şeklinin verilmesi bekleniyor. 
+     Edinilen bilgiye göre, e-Devlet İcra Kurulu toplantısı Devlet Bakanı ve Başbakan Yardımcısı Abdüllatif Şener'in başkanlığında ilgili tarafların katılımı ile Perşembe günü gerçekleştirilecek. 
+     Toplantıda e-Türkiye politika metni masaya yatırılırken, bu metnin içeriğinde e-Devlet Stratejisi'nin ne zaman hazırlanacağı da ortaya konacak. 
+     
+     STRATEJİDE NELER OLACAK 
+     Hazırlanacak stratejide öncelikle Türkiye'de yazılım ve donanım konusundaki mevcut durumun detaylı tespiti yer alacak. 
+     Dünyadaki durumunda yer alacağı stratejide, somut hedefler konacak ve vatandaşa hangi hizmetin hangi tarihte elektronik ortamda verilmeye başlanacağı da yer alacak. 
+     Stratejide yapılacak işlemlerin maliyeti ortaya konacak ve elektronik ortama geçişle birlikte oluşacak ekonomik ve sosyal faydalar da sıralanacak. 
+     
+</TEXT>
+</DOC>

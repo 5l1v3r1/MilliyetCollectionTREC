@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 158007 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/21/son/soneko02.html </URL>
+<DATE> 2003/05/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     Borsanın temel göstergesi Dow Jones endeksi, 2.03 puan düşerek, günü 8.491,36 puandan kapadı. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq da, 1.68 puan kayıpla 1.491,09 puana geriledi. 
+     
+     TOKYO BORSASI 
+
+     Tokyo Menkul Kıymetler Borsası, kapanışta değer kaybetti. 
+     Nikkei Endeksi, 40.97 puan yüzde 0.51 oranında değer kaybederek, 8,018.51 puana geriledi. 
+     Öte yandan, ABD Doları, Japon Yeni karşısında, 0.64 yen değer kaybederek, 116.70 yen düzeyine indi. 
+     
+</TEXT>
+</DOC>

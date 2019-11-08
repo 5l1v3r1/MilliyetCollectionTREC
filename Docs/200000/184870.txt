@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 184870 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/27/ekonomi/eko10.html </URL>
+<DATE> 2003/09/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+THY Zarar, muhasebe sisteminden 
+</HEADLINE>
+<TEXT>
+
+   THY'nin, yılın ilk yarısında 12.3 trilyon lira zarar etmesinin, muhasebe sistemindeki değişiklikten kaynaklandığı açıklandı 
+   EKONOMİ SERVİSİ 
+   
+   Geçen yılın ilk altı ayında 76.9 trilyon lira k r açıklayan THY'nin, bu yılın aynı döneminde 12.3 trilyon lira zarar etmesinin, şirketin geçen yıla göre daha kötü yönetilmesinden değil, muhasebe sisteminde yapılan değişiklikten kaynaklandığı öne sürüldü. THY'den yapılan açıklamada, bu yılın ilk altı aylık dönemine ilişkin SPK tebliğlerine uygun olarak hazırlanan karşılaştırmalı mali tablolarda dönem zararının 12.3 trilyon olarak açıklandığı, 2002'ye ilişkin aynı dönem mali tablolarında ise 76.9 trilyon k r gözüktüğü hatırlatıldı. 
+   
+   Zararın gerekçesi 
+   "Kurumun kayıtlarını inceleyen bağımsız denetim kurumu Deloitte Touche'nin raporu göz önüne alınırsa, 2002 ve 2003'ün ilk altı aylık dönemlerinde uygulanan muhasebe yöntemlerinde farklılık olduğu ortaya çıkmaktadır. Bu fark, muhasebe yöntemleri sebebiyle, kurumun geçen yılki gelir tablosunun birbiriyle mukayesesi yanlış yorumların kaynağı olmaktadır. Denetim raporuna göre, iki döneme ilişkin mali tabloları aynı muhasebe sistemine sokarsak ve bu yılın ilk altı aylık önemine ilişkin zararı 12.3 trilyon olarak sabit tutarsak, geçen yılın aynı dönemine ilişkin k rın 76.9 trilyon değil, 0.7 trilyon dikkate alınması gerekecektir." 
+   
+   
+</TEXT>
+</DOC>

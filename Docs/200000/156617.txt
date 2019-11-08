@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 156617 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/14/son/soneko18.html </URL>
+<DATE> 2003/05/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa 1. seansta 102 puan düştü... 
+</HEADLINE>
+<TEXT>
+
+     14.05.2003 - İstanbul Menkul Kıymetler Borsası İMKB Ulusal-100 Endeksi, 1. seansı, 102.02 puan kayıpla 10,488.67 puandan tamamladı. Hisse senetlerinin ortalama değer kaybı yüzde 0.96 olarak gerçekleşti. 
+     Endeks, 1. seansa 7.52 puan azalışla 10,583.17 puan seviyesinde başladı. Seansın ilk yarısını 123.65 puan kayıpla 10,467.04 puandan geçen endeks, seans içinde en düşük 10,441.35, en yüksek 10,591.36 puanı gördü. 
+     Seans kapanışında mali endeks 91.84 puan kayıpla 12,449.01 puana, sınai endeksi 135.37 puan kayıpla 10,946.34 puana, hizmetler endeksi ise 42.20 puan kayıpla 6,730.18 puana geriledi. 
+     Böylece, önceki kapanışa göre mali grup hisseler ortalama yüzde 0.73, sanayi grubu hisseler ortalama yüzde 1.22, hizmetler grubu hisseler ortalama yüzde 0.62 oranında değer yitirdi. 
+     İşlem gören toplam 282 hissenin 192'sinin fiyatı geriledi, 42'si değer kazandı, 48'inin fiyatı değişmedi. 
+     Seansta toplam 160 trilyon 748 milyar 832 milyon liralık işlem hacmi oluştu. 
+     1. seansta, Garanti Bankası, İş Bankası C, Yapı Kredi Bankası, Koç Holding ve Turkcell en yoğun işlem gören hisseler oldu. 
+
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 337542 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/27/son/sonyas14.html </URL>
+<DATE> 2005/04/27/ </DATE>
+<TIME> 10.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+'Uzaktan kumandalı' fareler bomba ve uyuşturucu arayacak 
+</HEADLINE>
+<TEXT>
+
+     NEW YORK, DHA 
+
+      AMERİKALI bilim adamlarının, koklayarak bomba ya da uyuşturucu araması yapacak ’uzaktan kumandalı’ fareler geliştirmekte olduğu bildirildi. 
+     New York Devlet Üniversitesi tarafından yürütülen çalışmalarda, beyinlerine yerleştirilen elektrotlar sayesinde birkaç yüz metre mesafeden kablosuz olarak kontrol edilebilecek hale getirilen farelerin şimdi de polis köpekleri gibi koklayarak aranan maddeyi bulma yeteneğine kavuşturulması planlanıyor. 
+     Ünlü bilim dergisi New Scientist’e bilgi veren üniversite uzmanları, düşman üslerine salınacak bu farelerin ileriki aşamalarda polis ya da ordu için ’görüntü algılayıcı’ vazifesi de görebileceğini belirtti. 
+     
+     İLERİ, SAĞA YA DA SOLA HAREKET ETTİRİLEBİLİYOR 
+
+     Uzaktan kumanda edilecek farelerin beynindeki 2 bölüme elektrotlar yerleştiriliyor. Bunlardan biri, ödül sistemiyle bağlantılı önbeyin bölgesi diğeri de sol ve sağdaki bıyıklarla bağlantılı olan korteks bölgesi. Önbeyinle birlikte diğer bölgedeki elektrotlar da kullanılarak farelerin uzaktan kumanda ile sağa, sola ya da ileri doğru hareket ettirilebildiği kaydedildi. 
+     Gelişmiş koku alma yeteneği bulunan farelere bu yönde bir eğitim verilerek bomba ya da uyuşturucu bulmalarının sağlanabileceği belirtiliyor. 
+     
+</TEXT>
+</DOC>

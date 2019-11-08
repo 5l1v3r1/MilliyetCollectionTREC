@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 365517 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/29/son/sonyas04.html </URL>
+<DATE> 2005/07/29/ </DATE>
+<TIME> 08.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Mars'ta buz tespit edildi 
+</HEADLINE>
+<TEXT>
+
+     Kızıl Gezegen'in yörüngesindeki Avrupa sondası Mars Express, Mars'ın kuzey kutbunda bir kraterin dibinde buz tespit etti. 
+     Avrupa Uzay Ajansı ESA yetkilileri, Mars Express'in yüksek çözünürlüklü stereo kamerası sayesinde çektiği görüntüleri dünyaya gönderdiğini açıkladılar. 
+     Mars Express'in içinde büyük bir buz tabakası tespit ettiği 35 km genişlik ve 2 km derinliğe sahip krater, geniş Vastitas Borealis düzlüğünde bulunuyor. 
+     Kraterin dibinde geniş bir alana yayılmış buz tabakası, Mars Express'in yıl boyunca çektiği fotoğraflarda açıkça görülüyor. 
+     Sıcaklık ve basınç, buzun katı halden gaz haline geçmesine izin vermiyor ve sürekli görülmesini sağlıyor. Bilim adamları, buz tabakasının kalınlığının 200 metre civarında olduğunu ve geniş bir kumul alanı kapladığını tahmin ediyor. 
+     
+</TEXT>
+</DOC>

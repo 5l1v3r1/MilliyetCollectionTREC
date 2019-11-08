@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 247617 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/13/son/sonyas03.html </URL>
+<DATE> 2004/06/13/ </DATE>
+<TIME> 09.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dikiş makinesinden masa lambası yaptı 
+</HEADLINE>
+<TEXT>
+
+     Konya'da ilköğretim okulu öğrencileri, pedallı dikiş makinesinden elektriğini kendisi üreten masa lambası üretti. 
+     İlköğretim 4-B sınıfı öğrencileri Beyza Tıkırdamaz ile Elif Semacan, zaman zaman elektrik kesildiğinde ev ödevlerini yapamadıklarını ve derslerine çalışamadıklarını, Bu durumun kendilerini rahatsız ettiğini ve elektrik kesildiğinde de en azından çalışma masasını aydınlatabilecek bir sistem üzerinde çalışmaya başladıklarını söylediler. 
+     Eski bir dikiş makinesini, elektriğini kendisi üreten bir masa lambası haline getirmeye hedefleyerek, makinenin pedalından ve masasından yararlanıp, dinamo ve kayış gibi çeşitli eklemeler yaparak çalışmaya başladıklarını anlatan öğrenciler, şunları kaydettiler 
+     ''Bir bisiklet dinamosunu dikiş masasının pedalına kayış yardımıyla bağlayarak çalışmalara başladık. Daha sonra masa üzerine bir lamba yerleştirdik. Dinamoyu kablo yardımıyla masa lambasına bağladık. Pedala basıldığında dinamoyla elektrik enerjisi ürettik ve bu şekilde de masa lambası yanmaya başladı.'' 
+     
+</TEXT>
+</DOC>

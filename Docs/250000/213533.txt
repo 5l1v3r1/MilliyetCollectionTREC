@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 213533 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/06/son/soneko17.html </URL>
+<DATE> 2004/02/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı 42 puanlık artışla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi, dünkü kapanışa göre 42.71 puan artışla, 1. seansı 17,075.96 puandan tamamladı. 1. Seansta hisse senetlerinin ortalama değer artışı yüzde 0.25 olarak gerçekleşti. 
+     Dün 17,033.75 puandan kapanan İMKB Ulusal 100 Endeksi, 1. seansa 6.45 puan düşüşle 17,027.30 puandan başladı. İlk yarıyı 17,058.93 puandan geçen endeks, seans içinde en düşük 16,884.89, en yüksek 17,123.74 puanı gördü. 
+     Seans sonunda mali endeks 78.32 puan artışla 23,215.78 puana, sanayi endeksi 24.55 puan artışla 15,231.97 puana ve hizmetler endeksi 34.49 puan artışla 9,367.10 puana yükseldi. 
+     Böylece, önceki kapanışa göre mali grup hisseler ortalama yüzde 0.34, sanayi grubu hisseler ortalama yüzde 0.16 oranında ve hizmet grubu hisseler ortalama yüzde 0.37 oranında değer kazandı. 
+     1. seansta işlem gören toplam 288 hisse senedinden 143'ü değer kazanırken, 64 hisse senedi değer yitirdi, 81 hissenin fiyatında değişiklik olmadı. 
+     Seansta, 176 trilyon 331 milyar 122 milyon liralık işlem hacmi oluştu. 
+     1. seansta, Yapı ve Kredi Bankası, Sabancı Holding, Doğan Holding, İş Bankası C ve Şişe Cam en yoğun işlem gören hisseler oldu. 
+     Borsa, Kıbrıs sorununun çözümüne yönelik görüşmelerin yarattığı belirsizliğin etkisiyle dar bantta hareketini sürdürüyor. Uzmanlar bu durumun satış baskısını artırdığını belirtiyorlar. Piyasasının takip ettiği bir başka konu da IMF görüşmelerin tamamlanması. 7. gözden geçirmeye ilişkin ikinci aşama görüşmelerin de netleşmesi piyasanın önünü açacak. 
+     
+</TEXT>
+</DOC>

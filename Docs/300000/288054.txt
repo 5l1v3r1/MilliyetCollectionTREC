@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 288054 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/11/son/soneko26.html </URL>
+<DATE> 2004/11/11/ </DATE>
+<TIME> 16.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Merkez Bankası reel kesim güven endeksi Ekim'de düştü... 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası tarafından düzenlenen İktisadi Yönelim Anketi Reel Kesim Güven Endeksi MBRKGE , Ekim ayında bir önceki aya göre 0.3 puan, bir önceki yılın aynı dönemine göre ise 0.5 puan gerileyerek 107.9 değerini aldı. 
+     Merkez Bankası, Ekim ayına ilişkin Reel Kesim Güven Endeksinin sonuçlarını açıkladı. 
+     Buna göre, Endeksi oluşturan anket sorularına ait yayılma endeksleri Eylül ayına kıyasla incelendiğinde, üretim hacmi beklentisi yüzde 4.3 oranındaki düşüşle çok uzun bir süreden sonra uzun dönem ortalamasının altına gerilemesine rağmen, mevsimsel etkilerden arındırıldığında bir miktar artışa işaret etti. 
+     Diğer alt kalemlerden ihracat imkanları beklentisi ile toplam sipariş eğilimi sırasıyla yüzde 3.8 ve yüzde 1.0 oranlarındaki düşüşle endeksi azaltıcı yönde etkileyen kalemler oldu. 
+     Öte yandan, hammadde stok eğilimi ve toplam istihdam beklentisi sırasıyla yüzde 3.1 ve yüzde 2.0 oranlarındaki artışlarla endeksi pozitif yönde etkiledi. 
+     Geçen aya göre yüzde 1.3 oranında artan iç pazara satılan mal hacmi eğilimi mevsimsellikten arındırıldığında bir miktar azalışa işaret etti. 
+     Genel gidişat ile yatırım harcaması beklentisinde ise Eylül ayına göre önemli bir değişiklik gözlenmedi. Mamul mal stok eğiliminde görülen yüzde 1.8 oranındaki düşüş, endeksi artış yönünde etkiledi. 
+     Bir önceki yılın Ekim ayına göre karşılaştırma yapıldığında ise genel gidişat, ihracat imkanları beklentisi ve hammadde stok eğilimi geçen seneki değerlerinin altında kalırken, üretim hacmi beklentisi ve iç pazara satılan mal hacmi eğiliminde önemli bir değişiklik gözlenmedi. 
+     Diğer alt kalemler ise geçen seneki seviyelerinin üzerinde değerler aldı. 
+     
+</TEXT>
+</DOC>

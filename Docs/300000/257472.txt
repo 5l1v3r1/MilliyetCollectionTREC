@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 257472 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/22/son/sonyas11.html </URL>
+<DATE> 2004/07/22/ </DATE>
+<TIME> 12.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft'tan hissedarlarına 75 milyar dolar 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayar yazılım şirketi Microsoft, önümüzdeki dört yıl içinde hissedarlarına toplam 75 milyar dolar dağıtmayı planladığını açıkladı. Şirketin Yönetim Kurulu Başkanı Bill Gates'in payına ise 3 milyar dolar düşecek. 
+     Bu miktarın bir kısmı şirket hisslerinden elde edilen temettü, bir kısmı da şirket hisslelerinin yatırımcılardan satın alınmasıyla elde edilen nakit paradan oluşuyor. 
+     Hissedarlara bu yıl içinde ödenmesi planlanan 32 milyar dolar, herhangi bir şirketin hisse sahiplerine yaptığı benzer türdeki en yüksek miktar. 
+     Son birkaç yıldır hukuk sorunlarla uğraşmak zorunda kalan Microsoft'un yaptığı açıklama, şirket yöneticilerinin oldukça rahatlamış olduklarının bir işareti. Beklenmedik durumlara karşı ellerinde nakit para tutmayı bir sigorta olarak gören Microsoft yöneticileri görünür gelecekte herhangi bir sürprizle karşılaşmayacaklarına inanmış görünüyorlar. 
+     Şirketin karşı karşıya olduğu en büyük sorun, teknoloji pazarındaki liderliğini kötüye kullandığı ve tekelcilik yaptığı suçlamalarıyla şirket aleyhine açılan davaydı. 
+     Tüm dünyadaki bilgisayarların yüzde 90'ında Microsoft'un işletim sistemi Windows'un farklı sürümleri kullanılıyor. Bunu tekelcilikle mücadele yasalarına aykırı bulan bir mahkeme, yargı sürecinin bir aşamasında, şirketin ikiye bölünmesi gerektiğine karar vermişti. 
+     Ancak Microsoft, bilgisayar pazarındaki rakipleri tarafından üretilen diğer programların Windows işletim sistemiyle kullanılabilmesinde kolaylık sağlama sözü verince karar değiştirilmişti. 
+     Avrupa Birliği'yle devam eden bir başka dava ise henüz sonuçlanmadı. Yine tekelcilik suçlamasının gündemde olduğu davada Microsoft, 600 milyon dolar ceza ve bazı sınırlamalarla karşı karşıya. 
+     Şirket yetkilileri bu davayı ciddiye aldıklarını belirtse de aleyhte çıkacak bir kararın yaratacağı madd sorunların çok büyük olmayacağını düşünüyor olmalılar. İşte bu nedenle ellerindeki nakit parayı şirket hissedarlarıyla paylaşmaya karar verdiler. 
+     Microsoft'un kurucusu ve Yönetim Kurulu Başkanı Bill Gates'in hissesine yaklaşık 3 milyar dolar düşecek. 
+     Gates, payına düşen parayı kendi adına kurduğu Bill ve Melinda Gates Vakfı'na bağışlayacağını açıkladı. 
+     
+</TEXT>
+</DOC>

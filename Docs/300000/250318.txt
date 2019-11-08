@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 250318 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/23/son/sontur20.html </URL>
+<DATE> 2004/06/23/ </DATE>
+<TIME> 14.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ÖSS'de bu yıl taban puana göre tercih yapılacak 
+</HEADLINE>
+<TEXT>
+
+     Öğrenci Seçme Sınavı ÖSS puan hesaplama sistemindeki değişiklik nedeniyle geçen yıl yüzdelik dilimle tercih yapan adaylar, bu yıl taban puana göre seçim yapacaklar. 
+     Öğrenci Seçme ve Yerleştirme Merkezi ÖSYM , ÖSS'ye giren adaylara, Yükseköğretim Puanları ve Kontenjanları Kılavuzu'nu göndermeye başladı. Kılavuzda, üniversitelerin taban puanları, geçen yıl yerleşen öğrencilerin puanları esas alınarak belirlendi. 
+     Bu puan tablosuna göre, Bilgisayar, Elektrik-Elektronik ve Makine Mühendislikleri ile Mimarlık, Diş Hekimliği, Eczacılık gibi sayısal puan türüyle öğrenci kabul eden bölümlerin taban puanları 330-370 arasında değişiyor. Sayısal puan türünde birkaç bölümün taban puanı 260'a kadar düşüyor. 
+     Eşit Ağırlıklı bölümlerin taban puanları ise 320-360 arasında yoğunlaşıyor. Sözel alanda, devlet üniversitelerinde 310'un altında taban puan bulunmuyor. Bu alanda iyi bir bölüme girebilmek için 350'nin üzerinde puan almak gerekiyor. 
+     Paralı eğitim veren vakıf üniversitelerinde okuyabilecek durumdaki öğrenciler ise puan açısından daha şanslı. Vakıf üniversitelerinin burslu olmayan bölümlerindeki taban puanlarının, devlet üniversitelerine göre oldukça düşük olduğu dikkati çekiyor. 
+     
+</TEXT>
+</DOC>

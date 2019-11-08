@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 180509 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/05/son/soneko14.html </URL>
+<DATE> 2003/09/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansta 32 puan düştü... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi önceki kapanışa göre 31.96 puan düşerek, 1. seansı 11,604.52 puandan tamamladı. 
+     1. seansta, hisse senetlerinin ortalama değer kaybı yüzde 0.27 olarak gerçekleşti. 
+     Dün 11,636.48 puandan kapanan endeks, ilk seansa 3.99 puan düşüşle 11,632.49 puan seviyesinde başladı. Endeks, seansın ilk yarısını 11,622.36 puandan geçti. 
+     Endeks, seans içinde en düşük 11,566.66 puana gerilerken, en yüksek 11,649.35 puanı gördü. 
+     Seans kapanışında mali endeks 1.42 puan artışla 14,287.89 puana çıkarken, sanayi endeksi 39.01 puan düşüşle 11,470.86 puana ve hizmetler endeksi 51.55 puan düşüşle 7,207.46 puana geriledi. 
+     Böylece önceki kapanışa göre mali grup hisseler ortalama yüzde 0.01 oranında değer kazanırken, sanayi grubu hisseler ortalama yüzde 0.34 ve hizmetler grubu hisseler de ortalama yüzde 0.71 oranında değer kaybetti. 
+     1. seansta işlem gören toplam 281 hisse senedinden 78'i değer kazandı, 107 hisse senedi de değer yitirdi, 96 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta, 81 trilyon 652 milyar 341 milyon liralık işlem hacmi oluştu. 
+     1. seansta Sabancı Holding, İş Bankası C , Tansaş, Pınar Et ve Un ve İş Finansal Kiralama, en yoğun işlem gören hisseler oldu. 
+     Borsa uzmanları, ABD kredisi, Irak'a asker gönderilmesi, önümüzdeki hafta Yargıtay'ın vereceği karar ve Devlet Bakanı Ali Babacan'ın ABD'ye ziyareti gibi konularda yaşanacak gelişmelerin piyasa tarafından yakından izlendiğini ifade ederken, borsada bugün de düşük hacimli sıkışık seyrin sürdüğünü, teknik olarak 11,500 destek seviyelerinin önem taşıdığını belirttiler. 
+     
+</TEXT>
+</DOC>

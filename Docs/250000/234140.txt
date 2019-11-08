@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> 234140 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/23/son/soneko09.html </URL>
+<DATE> 2004/04/23/ </DATE>
+<TIME> 09.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hesap değişince, milli gelir artacak... 
+</HEADLINE>
+<TEXT>
+
+     Ekonomideki büyüme ve dolar kurunun düşük seyretmesi ile birlikte artan milli gelirin GSMH , hesaplama yönteminin değişmesiyle birlikte yüzde 20-30 oranında bir artış daha göstermesi bekleniyor. 
+     Edinilen bilgiye göre, ilk olarak 1987 yılı bazlı olarak hesaplanan milli gelirde baz yılı 1996 yılına taşınacak. 
+     Kapsam dışı alanlardan bazılarının kapsama alınmasıyla birlikte milli gelir hesabında yüzde 20 ila 30 civarında bir artış olacağı öngörülüyor. 
+     Daha önceki hesaplamada bulunmayan, üst kurulların yarattığı katma değer hesaba dahil edilecek. Özel finans kurumları, factoring ve leasing kuruluşları da milli gelir hesabı içine alınacak. 
+     Milli gelir hesabında dikkate alınan ortalama kira değeri de 140 milyon liraya çıkarılacak. 
+     
+     MİLLİ GELİR HESABI NASIL YAPILIYOR 
+     Milli gelir hesabı input-output girdi-çıktı tablolarına göre belirleniyor. 
+     Hesaplamada, herhangi bir sektörde üretilen 100 birimlik malın ne kadarının ticarete konu olduğuna bakılıyor. 
+     Örneğin, Türkiye'de bir yılda üretilen domatesin değerinin 50 milyar lira olduğu varsayıldığında, bunun yüzde 90'ının ticarete konu olduğu esas alınıyor ve 45 milyar liralık ticaret yapıldığı sonucuna varılıyor. 
+     Bu üretimin ne kadarlık bölümünün ulaştırma sektörünü etkilediği belirlenerek, buradan çıkan rakam da ulaştırma sektörü içinde gösteriliyor. 
+     Bu ağırlıklar girdi-çıktı tabloları sonucunda ortaya çıkan katsayılardan hesaplanırken, kayıtdışı sektör de marj yöntemiyle belirleniyor. 
+     
+     MİLLİ GELİRDE DE BAZ YILI YENİLENİYOR 
+     Enflasyon hesabında gelecek yıl 2003 bazlı endekse geçiş gibi, milli gelir hesabında da 1987 bazlı endeks yerine 1996 yılı bazlı endekse geçiliyor. 
+     Geçmiş yıllarla kopukluk yaşanmaması için bu yıl sonuna kadar, milli gelir hesaplarının 1987 yılına kadar geriye dönük olarak yeni baz yılı üzerinden hesaplanması da planlanıyor. 
+     
+     YENİ HESAP İLK ÇEYREK SONUÇLARINDA 
+     1996 yılı girdi-çıktı tablosuyla hangi sektörün hangi sektörden girdi aldığının belirlenmesi beklenirken, Temmuz sonunda açıklanması planlanan 2004 yılına ait ilk çeyrek sonuçlarının yeni hesaba göre yapılması ve açıklanması hedefleniyor. 
+     
+</TEXT>
+</DOC>

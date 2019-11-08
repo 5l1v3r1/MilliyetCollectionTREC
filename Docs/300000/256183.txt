@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 256183 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/17/son/sonyas01.html </URL>
+<DATE> 2004/07/17/ </DATE>
+<TIME> 10.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Üniversitelerden yerli tasarım ''insansız hava aracı''... 
+</HEADLINE>
+<TEXT>
+
+     ODTÜ'nün koordinatörlüğünde biraraya gelen üniversiteler ve sanayi kuruluşları, Türkiye'nin yerli tasarım ''insansız hava aracı''nı üretmek için çalışıyor. 
+     İnsansız hava araçları, üzerlerine yerleştirilecek kamerayla ''keşif, gözetleme ve hedef tespiti yapacak.'' Bu araçların, trafik kontrolünden kaçakçılığı önlemeye kadar geniş kapsamlı kullanım alanı bulunuyor. İnsansız hava araçlarının, özellikle doğal afetlerden sonra bölgenin görüntülerini aktararak hasar tespiti yapılmasını sağlamada büyük yarar sağlayacağı bildirildi. 
+     ''İnsansız Hava Aracı Projesi''ni, ODTÜ Havacılık ve Uzay Mühendisliği Bölümü'nün koordinatörlüğünde biraraya gelen Boğaziçi, Konya Selçuk, Trakya ve Gazi üniversiteleri yürütüyor. 
+     Devlet Planlama Teşkilatı'nın kaynak sağladığı projeye, Türk Hava Kurumu, TAI, TUSAŞ, ASELSAN, ROKETSAN ve ODTÜ Teknopark'taki GATE Elektronik gibi kuruluşların yanı sıra bu alanla ilgili KOBİ'ler de destek veriyor. 
+     
+     İNSANSIZ HAVA ARAÇLARI 
+
+     ''İnsansız Hava Araçları'' 2 değişik modelde tasarlanıyor. 
+     Bunlardan birisi 5-10 kilometre menzilli ve yaklaşık 1 saat havada kalış süresine sahip olacak. 
+     Diğeri de daha büyük boyutta ve en az 100 kilometre menzilli olacak. Bu tip ise havada daha fazla süre kalabilecek. 
+     Bu hava araçları, tamamen otonom olarak uçacak ve üzerlerinde takılı olan bir kamera aracılığıyla, uçuş esnasında yerdeki istasyona uçuş bilgileri ile gerçek zamanlı görüntü aktaracak. 
+     Araçlar, pistten kalkış-iniş yapabilecek veya bir fırlatıcıyla atılıp, paraşütle inebilecek şekilde tasarlanacak. 
+     Proje çerçevesinde, hava araçlarını yerden kullanacak ''pilot''un eğitimi için simülatör de üretilecek. 
+     
+     ''3 SENEDE HAZIRLANACAK'' 
+
+     Projenin koordinatörü ODTÜ Havacılık ve Uzay Mühendisliği Bölümü Başkanı Prof. Dr. Nafiz Alemdaroğlu, AA muhabirine yaptığı açıklamada, projeyi bu sene başında hazırlamaya başladıklarını belirterek, ''3 senenin sonunda Türkiye'ye iki ayrı tip insansız hava aracını kazandırmak istiyoruz'' dedi. 
+     İnsansız hava araçlarının kullanım alanlarının çok geniş olduğunu ifade eden Alemdaroğlu, şunları kaydetti 
+     ''Hava araçlarını deprem, sel gibi doğal afetlerden sonra hasar tespiti için görüntü çekmede, iletişim sağlamada, trafik kontrolünde, sınır emniyeti için gözetlemede, nümayişlerde, orman yangınlarında, zirai mücadelede kullanmak mümkün. 
+     Örneğin bir deprem olduğunu düşünün. Deprem bölgesine ulaşmanın, iletişimi sağlamanın zor olduğu durumlarda bu uçaklardan yararlanılabilir. İnsansız hava araçları, üzerindeki kamerayla bölgenin görüntülerini çekip hasarın boyutu hakkında bilgi verebilir.'' 
+     
+</TEXT>
+</DOC>

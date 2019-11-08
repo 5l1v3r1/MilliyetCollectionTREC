@@ -1,0 +1,46 @@
+<DOC>
+<DOCNO> 370306 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/16/son/sonspo18.html </URL>
+<DATE> 2005/08/16/ </DATE>
+<TIME> 11.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Formula 1'de motorsporları teknolojisinin en üst düzey araçları yarışacak 
+</HEADLINE>
+<TEXT>
+
+     Formula 1 Türkiye Grand Prix'sinde yarışseverler, motorsporları teknolojisinin en üst düzeyde kullanıldığı araçları izleme fırsatı bulacaklar. 
+     İstanbul'un 19-21 Ağustos tarihlerinde ev sahipliğini yapacağı yarışlarda kullanılan Formula 1 otomobillerinin 100 kilometre hıza ulaşmaları yaklaşık 3 saniyelik bir zaman dilimine sığarken, pistin durumuna göre seçilen değişik kanat grupları ve ayarlar nedeniyle hız limitleri ise değişebilmekte. 
+     FIA'nın Formula 1 yarışları için belirlediği teknik kurallar çerçevesinde araçların motor hacimleri 3 bin cc.'yi geçemez, silindir sayısı 10 ile sınırlandırılmıştır ve her silindir de en fazla 5 valf bulundurabilir. 
+     Araçlarda motorun beslenmesi için ekstra takviye sağlayan Supercharging ve Turbocharging sistemlerinin kullanımı F1'de yasaklı olurken, motor yapısı ise çelik ile dökme demirden yapılmak zorundadır. 
+     Pistonlar, silindir başı ve silindir yataklarının yapay kimyasal bileşenlerden üretilmesinin yasak olduğu organizasyonda, araçların egzoz sisteminin uzunluğu da değişken olamaz. 
+     
+     OTOMATİK VİTES YASAK 
+     F1'de araçlarda sadece ön tekerlerin direksiyona bağlı olma zorunluluğu bulunurken, otomatik vites kullanımı ise yasaktır. 
+     Otomatik vites kutusu kullanılamadığı için vites değişikliği yalnızca pilotlar tarafından yapılabilen araçlarda, vites sayısı ise en az 4, en fazla da 7 olarak belirlenmiştir ve tüm araçlarda geri vites bulunması da mecburidir. 
+     Spin atmayı engelleyici herhangi bir sistemin kullanılamadığı araçlarda, çekiş kontrol sistemi ise 2001 yılı İspanya Grand Prix'sinden itibaren serbest bırakılmıştır. 
+     
+     YARIŞ SÜRESİNCE LASTİKLER DEĞİŞTİRİLEMİYOR 
+     F1'de bu sezon uygulanmaya başlayan yeni kurallarla birlikte, yarış içinde olağanüstü haller dışında lastik değiştirilmesi yasaklandı. 
+     Araçların yaklaşık 330 kilometre hıza kadar ulaştıkları yarışların en önemli unsuru olarak gösterilen lastiklerin, geride kalan sezonların aksine 2005 sezonunda istenildiği zaman değiştirilme uygulaması kaldırıldı ve ancak yarış sırasında sadece açık bir kusur veya hasarı varsa, ya da lastiğin durumunun tehlikeli sonuçlara yol açabileceği kanaatine varılırsa değiştirilebilme izni yer aldı. Lastik değişimi için pite girildiği zaman içerisinde de araçların yakıt ikmali yapması yasaklandı. 
+     Ancak, yarış esnasında yağış olması durumunda ise bu kuralların aksine takımlar araçlarını pite çağırarak lastik değişimi yapabilmekte ve bu esnada yakıt ikmali de gerçekleştirebilmekte. 
+     Araçlarda teker çapları 66 cm. ile sabitlenirken, jantlar metalden yapılmak zorunda, ön tekerlerin genişliği en fazla 33.5 en az 30.5, arka tekerlerin genişliği ise en fazla 38 en az da 36.5 olmalıdır. 
+     
+     FREN SİSTEMLERİ ÇOK GÜÇLÜ 
+     Ulaştıkları yüksek hızlardan kısa süre içerisinde düşük hızlara inebilme kabiliyetine sahip F1 araçlarında oldukça güçlü fren sistemleri kullanılmakta. 
+     Karbon balata ve karbon disk kullanımı nedeniyle çok kuvvetli frenlere sahip olan F1 araçlarında bu sistem, yaklaşık 700 derece sıcaklığa ulaştığında en yüksek performansı vermekte. 
+     Diğer yandan, otomobilin fren sistemine yardımcı olan bir diğer etken de aerodinamik aksesuarlardır. Kanat gruplarının yere basma etkisinin yanı sıra bir de otomobilin frenleme etkisi bulunmakta. Bu sayede F1 otomobili, pilot ayağını gazdan çektiği anda hiç frene basmasa bile standart bir otomobilin frenine sonuna kadar basılmasına eşit bir frenlemeye uğrar. Söz konusu F1 aracının toplam fren gücü ise yer çekiminin 4 katı olarak kabul edilen 4G civarındadır. 
+     Formula 1 araçlarında sadece hidrolik fren sistemi kullanılabilir ve iki tane hidrolik fren devresi bulundurulabilir. Tekerlerin fren esnasında kilitlenmesini engelleyen ABS ise yasaktır. Her tekerlekte en fazla 6 pistonlu fren kalibresi kullanılabilir ve bu diskin kalınlığı da en fazla 2.8 cm., dış çapı ise en fazla 27.8 cm. olabilir. 
+     
+     ARAÇ AZAMİ AĞIRLIĞI 600 KG. İLE SINIRLI 
+     F1 yarışlarında kullanılan otomobillerin ortalama ağırlığı 550 kg. olarak gösterilirken, araçların azami ağırlığı ise tam teçhizatlı pilotla birlikte en fazla 600 kg. olmak zorundadır. Yapılan tetkiklerde araç ağırlığı 600 kg.'ın üzerinde çıkması durumunda ise spor komiserleri tarafından araç yarıştan ihraç edilir. 
+     Aracın genişliği lastikler ve cantlar da dahil olmak üzere en fazla 180 cm., aracın uzunluğu en fazla 420 cm., yüksekliği en fazla 95 cm. ve iki tekerlek arası da en fazla 140 cm. olabilir. 
+     Ayrıca, şasiye sabitlenmiş ve hava akımlarından hareket etmemesi zorunluluğu bulunan kanat sistemlerinde, arka kanat genişliği en fazla 100 cm., yüksekliği en fazla 30 cm. olabilir. Ön kanatlar ise 50 kg.'ı dayanıklılıkta olmalı ve en fazla 0.5 cm. esneyebilir. 
+     
+     PİLOT GÜVENLİĞİ ÖN PLANDA 
+     Formula 1 araçlarını kullanan pilotların güvenliği organizasyonun en önemli kısımlarından biri olarak dikkat çekerken, darbeleri emen arka çarpma modülleri 1997 sezonu başında her otomobil için zorunlu kılındı. 
+     Ayrıca, her otomobilde olası bir kaza anında ve hemen öncesinde meydan gelen gelişmeleri, bilgileri kaydetmek üzere bir kaza bilgi kayıt cihazı ADR bulundurma zorunluluğu var. 
+     
+</TEXT>
+</DOC>

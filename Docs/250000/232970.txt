@@ -1,0 +1,41 @@
+<DOC>
+<DOCNO> 232970 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/19/son/sonyas18.html </URL>
+<DATE> 2004/04/19/ </DATE>
+<TIME> 14.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+NASA'nın Einstein uydusu rampada 
+</HEADLINE>
+<TEXT>
+
+     ABD Ulusal Havacılık ve Uzay Dairesi'nin NASA ''Yerçekimi Uydusu Gravity Probe B '', California'daki üsten TSİ 20 00'de uzaya gönderiliyor. 
+     Boeing Delta 2 roketi, insanlık tarihinin en yaratıcı bilginlerinden Alman asıllı ABD'li fizikçi Albert Einstein'ın 1879-1955 genel görelilik kuramını irdeleyecek ilk önemli deney uydusunu uzayın derinliğine fırlatacak. Einstein'ın izafiyet kuramlarını ölçmekle görevli Gravity Probe, California Vandenberg Hava Kuvvetleri Üssü'nden yola çıkacak. Böylece, NASA'nın 45 yıl önce başlayan Einstein-uydu çalışması uzayda yürürlüğe girmiş olacak. 
+     
+     BÜTÇE BALTASINDAN 7 KEZ KURTULDU 
+
+     700 milyon dolarlık uydu projesi, ABD yasama organları Temsilciler Meclisi ve Senato'dan kurulu Kongre'nin ''bütçe baltasını'' tam 7 kez aşabilme başarısını göstermiş bir plan. 
+     Einstein'ın 100 yıl önceye dayanan genel ve özel izafiyet kuramları üzerinde çalışmaya başlamasının üzerinden 100 yıl geçtikten sonra Gravity Probe uydusu göreve çıkıyor ve bunun ''ilk somut saptamalarını yapmak üzere'', ilk plandan 45 yıl sonra çalışmaya hazırlanıyor. 
+     
+     4 ''MÜKEMMEL KÜRE'' 
+
+     Uydu, Dünya'nın kütleçekiminin ''uzay ve zamanı nasıl büktüğünü'' belirlemeye çalışacak. Bunun için insanın bugüne dek imal ettiği ''en kusursuza yakın'' 4 küreyi ölçümlerde kullanmak üzere taşıyacak. Eski 273 dereceye yakın soğuk yuvada korunan bu küreler masa tenisi topu büyüklüğünde. 
+     Einstein 1905 yılında kütle-enerji-ışık hızı bağlantılarını kaydederek, enerji eşittir kütle çarpı ışık hızının karesi E m.c formülünün temelini atmış, 1915'e gelindiğinde de bunu zaman ve uzaya uyarlama yolunu pekiştirmişti. Gezegenlerin, yıldızların, kara deliklerin, bükülmüş zamanla ve uzaydaki konumlarıyla ''saatleri yavaşlattığını, yakınlarındaki nesneleri kendi içlerine emdiklerini'' geliştirdiği kuramın kavramlarıyla açıklamaya başlamıştı. Kütle ve enerji, aynı ''şey''in iki değişik biçimde ortaya çıkışını simgeleyen eşdeğerli iki kavramdı. 
+     Elma, bundan düşüyor. Hızla dönen gezegenler bundan güneşlerinin yörüngesinden kaçamıyordu. 
+     
+     1959'DA 
+
+     Einstein'ın kuramı için uydu çalışmaları, ABD'de 45 yıl önce Stanford Üniversitesi'nce başlatıldı. ABD ilk uydusunu SSCB'nin ardından gönderdikten sonra NASA, 40 yıl önce 1964 Einstein uydusu projesine onay verdi. 
+     Stanford Üniversitesi öğretim üyesi ve Gravity Probe başmühendisi Brad Parkinson, bugünkü açıklamasında, ''Deney özünde basit olmakla birlikte teknolojiye uygulandığında en azı ifade etmenin sebatını gerektiriyor'' dedi. 
+     California Teknoloji Enstitüsü'nde adını Nobel ödüllü kuramsal fizikçi Richard Feynman'dan 1918-1988 alan kürsünün başkanı Kip Thorne, ''Çarpılmış uzay-zamanın üç görünümünün ikisini biliyoruz Uzayın çekildiğini hareketini hiçbir zaman gözlemleyemedik'' dedi. NASA'nın Stanford'daki Gravity-B uydusunun baş kuramsal fizikçisi Francis Everitt, uzay-zamanın hızla hareket eden kütlelerce büküldüğünü ve uzayın bir parçasının kopabildiği kuramı üzerine şu görüşü belitti 
+     ''Yörünge yarıçapları, ölçülebilirse tercih ettiğimiz tabirle inçlik sapmaların olacağı saptanabilir.'' Bu ölçümler için mutlak sıfıra eksi 273 derece yakın donmuş 4 pinpon topu büyüklüğünde ''mükemmele yakın'' küre, ''bugüne dek yapılmış en sessiz odada'' Grevity Probe uydu içinde korunarak kürelerin kendi molekül hareketleri en düşük düzeyde tutulacak ve ölçümler yapılacak. 
+     
+     ÖNGÖRÜ YOK 
+
+     Einstein'in haklılığını tanıtlamak, Everitt'e göre öngörülere bağlı değil 
+     ''Hislerden arınmış deney adamları olmalıyız. 
+     Kusursuz deneye girdiğimizi bilmek zorundayız. Böylelikle Gravity Probe'da deneyin genel görelilik kuramı üzerene bugüne dek yapılmış en güvenilir deney olacağını umuyoruz. Kara deliklerde zaman-uzay bükümünü ölçmek olası, ancak Dünya gezegeni çapında gökcisminde bu asgari düzeydedir. Bu yüzden uydunun ölçüm aygıtları en keskin kesin hassas ölçümü yapabilecek şekilde ayarlandılar.'' 
+     
+</TEXT>
+</DOC>

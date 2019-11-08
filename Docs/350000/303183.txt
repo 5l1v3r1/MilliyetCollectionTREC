@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 303183 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/03/son/sonyas02.html </URL>
+<DATE> 2005/01/03/ </DATE>
+<TIME> 02.11 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Son 50 yılın en önemli buluşu 
+</HEADLINE>
+<TEXT>
+
+     LONDRA DHA 
+
+BİLGİSAYARLARDAN tüketici elektroniğine kadar çok geniş bir alanda kullanılan silikon çipler son 50 yılda ortaya çıkan en önemli buluş olarak gösterildi. 
+     ABD'nin önde gelen televizyon kanalı CNN'in internet sitesi üzerinden 3 ayda gerçekleştirdiği ankete katılan 119 bin kişiden 28 bin 500'ü listedeki 24 buluş arasında silikon çipi ilk sıraya oturttu. Günlük yaşamın vazgeçilmezi haline gelen World Wide Web'in WWW yüzde 20'lik oy oranı ile 2'nci sırada geldiği anketin 3'üncüsü ise kişisel bilgisayar yüzde 17 oldu. 140 oy olan Walkman listenin en sonunda yer aldı. 
+     CNN okuyucularının en önemli buluş olarak seçtiği silikon çip, 1961 yılında Jack Kilby ve Robert Noyce adlı 2 Amerikalı elektronik mühendisi tarafından icad edilmişti. Teknoloji dünyasında çığır açan silikon çipler modern bilgisayarın önünü açmıştı. Çipler icad edilmeden önce elektrikli cihazların çoğu daha fazla yer kaplayan, enerji 'düşmanı' vakum tüp teknolojisi kullanılarak üretiliyordu. Transistörlerin gelişimi bu sorunu kısmen çözmüş olsa da bu transistörlerin devre levhasına kablolarla bağlanması gerekiyordu. Kilby ve çip devi Intel'in kurucuları arasında yer alan Noyce bu sorunu, ayrı bileşenleri yarı iletken malzemeden yapılmış tek bir bütünleşik devrede bir araya getirerek çözdü. 
+
+     
+</TEXT>
+</DOC>

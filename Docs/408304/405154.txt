@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 405154 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/20/son/sonyas01.html </URL>
+<DATE> 2005/12/20/ </DATE>
+<TIME> 03.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New Horizons'un Pluton yolculuğu için geri sayım başladı... 
+</HEADLINE>
+<TEXT>
+
+     NASA, New Horizons adlı uzay gemisini Güneş'e en uzak gezegen olan Pluton'a 17 Ocak'ta göndermeye hazır olduğunu bildirdi. 
+     NASA'nın Güneş Sistemi Bölümü Direktörü Andrew Dantzler, düzenlediği basın toplantısında, bir piyano boyutunda ve 454 kilo ağırlığında olan uzay gemisinin, 6.4 milyar kilometrelik bir yolculuktan sonra gezegene 2015 yaz aylarının başında ulaşmasının beklendiğini belirtti. 
+     Pluton'un, kayalık veya gaz halinde olan gezegenlerden farklı olduğunu ifade eden Dantzler, bu gezegenin güneş sisteminin ve muhtemelen diğer güneş sistemlerinin oluşumuyla ilgili birçok ipucu içerdiğini düşündüklerini kaydetti. 
+     Pluton'la ilgili olarak, şimdiye kadar sadece Hubble uzay teleskobuyla flu olan dijital görüntüler elde edilebildiği açıklandı. 
+     Gezegenin atmosferi ve yüzeyi ile ilgili veriler alacak ve birçok görüntü çekecek olan New Horizons'un, gezegenin özellikle Charon uydusunu da inceleyeceği belirtildi. 
+     
+</TEXT>
+</DOC>

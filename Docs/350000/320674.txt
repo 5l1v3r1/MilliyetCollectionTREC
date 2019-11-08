@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 320674 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/04/son/soneko13.html </URL>
+<DATE> 2005/03/04/ </DATE>
+<TIME> 10.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Vergi mükellefleri, doğru beyanda bulunmaları için uyarılıyor 
+</HEADLINE>
+<TEXT>
+
+     Maliye Bakanlığı Gelirler Genel Müdürlüğü, gelir ve kurumlar vergisi beyannameleri konusunda bütün teşkilatı harekete geçirdi. 
+     Edinilen bilgiye göre 1-15 Mart tarihleri arasında verilecek olan 2004 yılı gelirlerine ilişkin gelirler vergisi beyannameleri ile 1-15 Nisan tarihleri arasında verilecek kurumlar vergisi beyannameleri için hem Gelirler Genel Müdürlüğü merkez, hem de taşra teşkilatlarında yoğun bir çalışma içine girildi. 
+     Bu çerçevede, önce meslek odaları ve birliklerle toplantılar düzenlenerek, oda ve birlik mensuplarının gerçeğe uygun vergi beyanında bulunması istendi. Bu toplantıların önümüzdeki günlerde de devam edeceği öğrenildi. 
+     Kısa adı VEDOP olan Vergi Daireleri Otomasyon Projesinin ikinci ayağının da devreye girdiğini hatırlatan Gelir İdaresi, bundan sonra vergi kaçıranların çok daha kolayca yakalanabileceğini belirterek, oda ve birliklerden, kendi mensuplarını bu konuda uyarmalarını talep etti. 
+     Bu yıl, belirli limiti aşan gelir ve kurumlar vergisi mükelleflerinin vergi beyannamelerini elektronik ortamda vermeleri zorunluluğunu da getiren Gelir İdaresi, vergi dairelerine de beyan döneminde mükelleflere kolaylık sağlanması, ancak doğru beyanda bulunmaları için de uyarılması talimatını verdi. 
+     Bu arada Ankara gibi bazı illerde beyan dönemi boyunca vergi dairelerinin öğle tatili yapmadan kesintisiz hizmet vereceği bildirildi. 
+     
+     VERİ AMBARI DA DEVREDE 
+     Geçen yıl vergi beyan döneminde kullanılmaya başlanan ve vergi öncesi karlılık durumunu gösteren favök rasyoları, bu yıl da devrede olacak. 
+     İdare, söz konusu bilgileri bu yıl beyannamelerle birlikte alıyor. Favök verileri ışığında geçen yıl yeni bir denetim başlatan İdare, bu yıl VEDOP-2'nin yardımıyla daha geniş kapsamlı bir inceleme yapacak. 
+     Bu çerçevede bir bölümü zaten elektronik ortamda gönderilecek olan gelir ve kurumlar vergisi beyannameleri, hemen değerlendirmeye alınacak. Bu değerlendirmeler sırasında öncelikle gelir ve kurumlar vergisindeki düşük beyannameler ayrılacak. Aynı şekilde favök rasyoları ve sektör ortalamalarıyla çelişkili olan beyannameler de tek tek ayıklanacak. 
+     Mayıs ayından itibaren de bu beyannameler üzerinde çapraz kontroller başlatılacak. Bu işlem için yine otomasyon projesinin bir parçası olan Veri Ambarı'ndan yararlanılacak. Çapraz kontroller sırasında, mükelleflerin beyan ettiği gelir ile 2004 yılı içindeki harcamaları ve banka hareketleri karşılaştırılacak. Durumu şüpheli olan ve daha detaylı inceleme gerektirenler, bu defa vergi inceleme memurlarına havale edilecek. 
+     
+     EV SAHİPLERİNİN DURUMU 
+     Bu arada vergi kontrolleri sırasında, ev sahiplerinin durumu da ayrıca değerlendirilecek. 
+     2004 yılındaki pilot uygulamalar ile 10 bini aşkın ev sahibinin geçen yıl Mart ayında vergi beyannamesi vermediğini tespit eden Gelir İdaresi, bu yıl VEDOP-2 ile birlikte çok daha kapsamlı bir inceleme gerçekleştirecek. 
+     Bu amaçla belediyelerden emlak vergisi beyanlarına göre birden fazla evi olanların listesini isteyen İdare, bunları Veri Ambarına yüklüyor. 15 Mart'a kadar sürecek beyan döneminin ardından gayrimenkul sermaye iradı beyannameleri ile Veri Ambarındaki bu bilgiler karşılaştırmaya alınacak. Tespit edilen farklılıklar, Defterdarlıklara gönderilecek ve beyan edilmeyen kira gelirleri için işleme geçilecek. 
+     
+</TEXT>
+</DOC>

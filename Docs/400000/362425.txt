@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 362425 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/19/son/soneko48.html </URL>
+<DATE> 2005/07/19/ </DATE>
+<TIME> 17.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ÖSS sonuçları Telsim'le cep telefonlarında... 
+</HEADLINE>
+<TEXT>
+
+     Üniversite adayı Telsim abonelerinin, ÖSS sonuçlarını cep telefonlarından öğrenebilecekleri bildirildi. 
+     Telsim'den yapılan açıklamada, abonelerin, istenen sonuca göre oluşturacakları mesaj metinlerini cep telefonlarının mesaj gönderme alanına yazıp, ''3366''ya gönderebileceği, sonrasında ise, abonenin istediği bilgilerin, kendilerine yine SMS ile iletileceği kaydedildi. 
+     Abonenin, mesajı, sınav sonuçlarının açıklanmasından önce göndermesi durumunda, sistemin abone numarasını kaydedeceği, sonuçların açıklanmasını takiben, otomatik olarak kullanıcıya, sınav sonucunun gönderiminin sağlanacağı belirtildi. 
+     Telsim'in üniversite adaylarına yönelik bu hizmetinde kullanıcılara, sayısal, sözel, eşit ağırlık ve dil puanlarının gönderimi yapılıyor. Kullanıcı bu bilgilerin sadece birini alabileceği gibi tümüne de erişebiliyor. Abone kendine gelen SMS'te ayrıca ilgili puan türünde kaçıncı sırada ve hangi yüzdelik dilimde olduğunu da görebilecek. Söz konusu servisin ücretlendirilmesi, abonelerin kullandıkları paketin SMS tarifesi üzerinden gerçekleşecek. 
+     Aboneler mesajlarına, TC kimlik numaralarını yazıp bir boşluk bırakacak ve OSS yazacaklar. Eğer mesaj bu şekilde yollanırsa tüm alanlardaki sonuç bilgileri aboneye iletilecek. Eğer aboneler OSS yazdıktan sonra bir boşluk bırakıp bilgi türü olarak SOZ, SAY, EA ya da DIL seçeneklerinden sadece birini yazıp yollarlarsa, sadece istedikleri sınav türündeki sonuçlar kendilerine iletilecek. 
+     
+</TEXT>
+</DOC>

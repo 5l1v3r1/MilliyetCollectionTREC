@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 108645 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/09/20/son/sondun05.html </URL>
+<DATE> 2002/09/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternetin gülen yüzü '' '' 20 yaşına bastı... 
+</HEADLINE>
+<TEXT>
+
+     IBM şirketinin araştırma elemanı Scott Fahlman, internette nasıl gülümseneceğini düşüneli tam 20 yıl geçti. 
+     İş yaşamını yapay zekanın gelişimine adayan ve bilgisayarların ''insan gibi düşünmesini'' sağlamaya çalışan Fahlman, 19 Eylül 1982'de gönderdiği bir mesajda tuşlarına basınca ''gülen yüz'' internet dünyasının kendine has işaretlerinden biri oldu. 
+     İnsan beynini taklit eden bilgisayar tasarımı tekniği konusundaki çalışmalarıyla tanınan Fahlman, ayrıca rakamların yerine semboller kullanılan bir bilgisayar dili olan Common Lisp'in geliştirilmesine de katkı sağladı. 
+     Ancak, belki de bu bilgisayarcının en iyi tanınmasını sağlayan, internet kültürüne gramer dışı işaretlerin girmesini sağlaması oldu. 
+     Fahlman'ın bilgisayar ağ sisteminin, üniversitelerin araştırma bölümleri ve hükümetin gizli kurumları dışında çok seyrek bulunan, 1980'lerin başındaki bu yeniliğinden esinlenerek, göz kırpmayı ifade eden - veya şaşkınlığı ifade eden 0 gibi sayısız duygu ifadesi oluşturuldu. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

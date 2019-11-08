@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 388518 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/21/son/sondun30.html </URL>
+<DATE> 2005/10/21/ </DATE>
+<TIME> 17.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Romanya'da yeni kuş gribi 
+</HEADLINE>
+<TEXT>
+
+     Romanya'da yeni bir kuş gribi vakası tespit edildi. 
+     Tarım Bakanlığı sözcüsü Adrian Tibu, ülkenin doğusunda, Moldova sınırında yeni bir kuş gribi vakası tespit ettiklerini açıkladı. 
+     Tibu, Vaslui bölgesindeki Prut nehri kıyısında bulunan bir balıkçıl kuşundan alınan örnekler üzerinde yapılan testlerde kuş gribi H5 virüsü türüne rastlandığını söyledi. 
+     Kuştan alınan örnekler üzerinde ölümcül H5N1 virüsü bulunup bulunmadığını belirlemek için test yapıldığı kaydedildi. 
+     Vaslui bölgesi yerel hükümet yetkilisi Ioan Zaharia, balıkçıl kuşunun Falciu köyü yakınında bulunduğunu belirtti. 
+     Falciu köyü, daha önce Tuna deltasında H5N1 virüsü tespit edilen kuşların bulunduğu Cearmulia de Jos bölgesinin 100 kilometre kuzeyinde bulunuyor. 
+     Romanya, bu ay başında, güneydoğuda bulunan Tuna nehri deltasındaki iki köyde kuşlarda ölümcül kuş gribi virüsü H5N1 tespit edilen ilk Avrupa ülkesi olmuştu. 
+     
+</TEXT>
+</DOC>

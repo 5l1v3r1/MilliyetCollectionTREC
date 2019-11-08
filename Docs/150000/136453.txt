@@ -1,0 +1,41 @@
+<DOC>
+<DOCNO> 136453 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/02/12/son/soneko02.html </URL>
+<DATE> 2003/02/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yasaklı müteahitlere elektronik takip... 
+</HEADLINE>
+<TEXT>
+
+     Türkiye'de halen bin 545 müteahhidin kamu ihalelerine girme yasağı bulunuyor. 
+     Kamu İhale Kurumu, 1 Ocak'ta yürürlüğe giren 4734 sayılı yeni İhale Kanunu uyarınca, kamu ihalelerine katılma yasağı bulunan müteahhitlerin sicillerini tutmaya başladı. 
+     Bu çerçevede, bütün kamu kuruluşlarına birer yazı gönderilerek, son 5 yılda ihalelerden yasaklanan müteahhitlerin isimlerinin bildirilmesi istendi. Kurumlardan gelen bilgilerin yanısıra, Resmi Gazeteler de tek tek tarandı ve halen yasak kapsamında bulunan müteahhitlerin envanteri oluşturuldu. 
+     Yasak listesi, Kamu İhale Kurumu'nun İnternet sayfasına da konularak, ihaleci kuruluşlar ile diğer kişi ve kuruluşların bilgisine sunuldu. 
+     
+     SAVCILIKLARDAN DA BİLGİ BEKLENİYOR 
+     Kurum, envanter çalışması kapsamında haklarında yargı takibatı yapılan müteahhitlerin isimlerini belirlemek için de harekete geçti. 
+     Cumhuriyet Savcılıklarından gelecek bilgiler ışığında, bu durumdaki müteahhitler de ayrıca tespit edilecek. 
+     Bu arada, kurumun yasaklar listesinde yeralan müteahhitlerin tümünü daha önce uygulanan 2886 sayılı Devlet İhale Kanunu'nun 84'üncü maddesi kapsamında haklarında yasak kararı verilenler oluşturuyor. Yeni ihale kanununun 1 aylık uygulama sürecinde henüz hiçbir müteahhit, yasaklama kararı ile karşı karşıya kalmadı. 
+     İdarelerin 2886 sayılı Kanun çerçevesinde aldıkları yasaklama kararları, 4734 sayılı Kamu İhale Kanunu ile 4735 sayılı Kamu İhale Sözleşmeleri Kanunu'nun uygulama döneminde de geçerli oluyor. Bu müteahhitler, yasaklama süreleri bitene kadar kamu ihalelerine katılamıyor. 
+     
+     EN FAZLA CEZAYI MSB VERDİ 
+     Öte yandan Kamu İhale Kurumu'nun yasak listesine giren müteahhitlerin yarısından fazlası, Milli Savunma Bakanlığı'nca yasak kapsamına alındı. 
+     Bu müteahhitlerin yüzde 'ü Milli Savunma tarafından yasaklanırken, Jandarma Genel Komutanlığı da müteahhitlere en fazla yasak kararı çıkartan kuruluşlardan birisi oldu. 
+     İçişleri, Milli Eğitim, Maliye, Enerji ve Tabii Kaynaklar, Bayındırlık ve İskan, Orman ve Sağlık Bakanlıkları ile Vakıflar Genel Müdürlüğü, Karayolları, Devlet Su İşleri, Elektrik Üretim A.Ş, Köy Hizmetleri, SSK, Sahil Güvenlik Komutanlığı, Yurtkur, Emniyet Genel Müdürlüğü, İstanbul Büyükşehir Belediyesi, İTÜ ve Hacettepe Üniversiteleri, Türkiye Taşkömürü Kurumu ve Eti Bor gibi kuruluşlar da müteahhitlerin yasak kararı ile cezalandırıldığı diğer kuruluşlar arasında yeraldı. 
+     Yasaklama kararlarının yüzde 90'ı aşkın bölümünde müteahhitlere 1 yıl süreyle kamu ihalelerinden men cezası verilirken, diğer cezalar 6 ay ve 3 ay olarak sıralandı. 
+     
+     İHALELERE DE ELEKTRONİK İZLEME 
+     Diğer yandan Kamu İhale Kurumu, Türkiye'de daha şeffaf bir ihale altyapısının sağlanmasının yanısıra Dünya Ticaret Örgütü'nün de bu yöndeki istekleri doğrultusunda, kamu ihalelerini elektronik ortamda izlemek için de çalışma yapıyor. 
+     Kurulacak yeni sistem ile belediyeler dahil bütün kamunun elektronik ortamda Kamu İhale Kurumu'na bağlanması öngörülüyor. Bu sistemde, gerekli altyapıyı kuramayacak küçük belediyelerin de ihale bilgilerini manyetik ortamda idareye aktarması planlanıyor. 
+     Kamu İhale Kurumu yetkilileri, Bilgi İşlem Merkezi kanalıyla Türkiye'nin neresinde, ne tür ihale olursa, bunun kurumca izleneceğini, yeni sistemin 1 yıl içinde devreye gireceğini bildirdiler. Kurulacak sistem ile ülkemizdeki kamu ihalelerinin yüzde 99'unun elektronik ortamda takibi mümkün olacak. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

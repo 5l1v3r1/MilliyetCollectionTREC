@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 202963 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/18/son/soneko02.html </URL>
+<DATE> 2003/12/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsasında Dow Jones yükseldi, Nasdaq düştü 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Borsası'nda Dow Jones endeksi günü yükselişle kapatırken, Nasdaq düştü. 
+     Borsanın temel göstergesi Dow Jones endeksi, 15 puan kazanımla günü 10,144.75 puandan kapatırken, teknoloji endeksi Nasdaq 3.26 puan düşerek 1,921.03 puana geriledi. 
+     
+</TEXT>
+</DOC>

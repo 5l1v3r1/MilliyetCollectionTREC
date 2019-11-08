@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 273945 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/22/son/soneko22.html </URL>
+<DATE> 2004/09/22/ </DATE>
+<TIME> 12.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tüketici güven endeksi Ağustos'ta düştü... 
+</HEADLINE>
+<TEXT>
+
+     Tüketici Güven Endeksi Ağustos ayında yüzde 3.93 oranında düşerek, 101.2'ye indi. 
+     Devlet İstatistik Enstitüsü ile Merkez Bankası tarafından her ay ortaklaşa düzenlenen ve tüketicilerin harcama davranış ve beklentilerinin değerlendirildiği, Tüketici Eğilim Anketi'nin Ağustos ayı sonuçları açıklandı. 
+     7 bin 612 kişinin katıldığı anket sonuçlarına göre, 2004 yılı Temmuz ayında 105.4 olan Tüketici Güven Endeksi, Ağustos ayında bir önceki aya göre yüzde 3.93 azalarak 101.2 değerine indi. 
+     Güven endeksindeki düşüş, tüketicilerin mevcut ve gelecek dönem satın alma güçlerine, gelecek dönem genel ekonomik duruma, iş bulma olanaklarına ve mevcut dönemin dayanıklı tüketim malı satın almak için uygunluğuna dair değerlendirmelerinin kötüleşmesinden kaynaklandı. 
+     Tüketici güven endeksinin alt kalemleri ve değişim oranlarına göre, mevcut dönemde satınalma gücü endeksi 94.6'dan 92.7'ye, mevcut dönemin dayanıklı tüketim malı satın alma için uygunluğu endeksi 139.4'den 133.3'e indi. 
+     Gelecek dönem için satın alma gücü endeksi 97.9'dan 94.7'ye, genel ekonomik durum endeksi 105'den 98.9'a, iş bulma olanakları endeksi de 90'dan 86.7'ye düştü. 
+     
+     SATIN ALMA GÜCÜ 
+     Ankete katılanların verdiği yanıtlar çerçevesinde kişinin 6 ay öncesine göre şu andaki satın alma gücü kapsamında, kişilerin geçen aya göre satın alma gücü ''çok daha iyi'' diyenlerin oranı yüzde 1.9'dan yüzde 1.2'ye, ''biraz daha iyi'' diyenlerin oranı yüzde 18.4'den yüzde 18.1'e, ''aynı diyenlerin'' oranı da yüzde 50.1'den yüzde 48.7'ye indi. 
+     Aynı dönemde ''biraz daha kötü'' diyenlerin oranı yüzde 26.2'den yüzde 28.2'ye, ''çok daha kötü'' diyenlerin oranı da yüzde 3.3'den yüzde 3.5'e çıktı. 
+     Kişilerin gelecek 6 aylık dönemdeki satın alma gücüyle ilgili beklentilerinde Ağustos ayında Temmuz ayına göre, ''çok daha iyi olacak'' diyenlerin oranı yüzde 1.6'dan yüzde 1.1'e, ''biraz daha iyi olacak'' diyenlerin oranı yüzde 19.4'den yüzde 18.2'ye, ''aynı kalacak'' diyenlerin oranı yüzde 51.7'den yüzde 50.3'e indi. 
+     ''Biraz daha kötü olacak'' diyenlerin oranı yüzde 21.6'dan yüzde 24.9'a, ''çok daha kötü olacak'' diyenlerin oranı da yüzde 2.7'den yüzde 3'e yükseldi. 
+     Kişinin gelecek 3 aylık dönemde Türkiye'nin genel ekonomik durumuna ilişkin beklentileri çerçevesinde, ''çok daha iyi olacak'' diyenlerin oranı yüzde 2.4'den yüzde 1.6'ya, ''biraz daha iyi olacak'' diyenlerin oranı da yüzde 29'dan yüzde 23.9'a geriledi. 
+     Aynı dönemde ''aynı kalacak'' diyenlerin oranı yüzde 42.7'den yüzde 44'e, ''biraz daha kötü olacak'' diyenlerin oranı yüzde 17.4'den yüzde 22'ye, ''çok daha kötü olacak'' diyenlerin oranı da yüzde 3.1'den yüzde 3.5'e çıktı. 
+     Kişinin 6 aylık dönemde, Türkiye'de iş bulma olanaklarına ilişkin beklentilerinde Ağustos ayında bir önceki aya göre, ''belirgin olarak artacak'', ''biraz artacak diyenlerin'' oranında azalma yaşanırken, ''aynı kalacak, biraz azalacak, belirgin olarak azalacak'' diyenlerin oranında artış yaşandı. 
+     Endeksin 100'den büyük olması tüketici güveninde iyimser durum, 100'den küçük olması tüketici güveninde 'kötümser durum', 100 olması ise tüketici güveninde 'ne iyimser ne de kötümser durum' olduğunu gösteriyor. 
+     
+</TEXT>
+</DOC>

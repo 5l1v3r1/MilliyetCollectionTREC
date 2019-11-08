@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 303502 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/04/son/sonyas14.html </URL>
+<DATE> 2005/01/04/ </DATE>
+<TIME> 11.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Mars'ın keşfi... Spirit ve Opportunity umulmadık şekilde hayatta kaldı 
+</HEADLINE>
+<TEXT>
+
+     ABD'nin Mars'a indirdiği Spirit ve Opportunity adlı robotlar, başlangıçta öngörülen üç aylık görev sürelerini kat be kat aşarak tam bir yıldır araştırma faaliyetlerini sürdürüyor. 
+     ABD Ulusal Havacılık ve Uzay Dairesi NASA yetkilileri, robotların umulmadık şekilde uzun süre ''hayatta kalmasının'', keşif çalışmalarının sürmesini sağladığını belirttiler. 
+     Spirit 3 Ocak 2004'de, Opportunity de bundan üç hafta sonra Mars yüzeyine indirilmişti. 
+     NASA yetkilisi Jim Erickson, ''Robotların ilerleyen yaşlarına rağmen formda olması hem şaşırtıcı, hem de memnuniyet verici. İkiz robotlar, Mars'ın karakışında çalıştılar, artık önümüz bahar. Her ikisinin şu anki konumları da keşif çalışmaları açısından gayet iyi, ancak hiçbir şeyi garanti edemeyiz'' dedi. 
+     Opportunity, birkaç ay önce ''kızıl gezegende'' bir zamanlar tuzlu su bulunduğunu gösteren ipuçları ortaya çıkarmış, Spirit de geçen ay Mars'ta eskiden su olduğuna işaret eden bir mineral tespit etmişti. 
+     Mars'ta bir zamanlar hayat olup olmadığını araştıran ABD, ağustosta Mars'a yeni sefere başlayacak. 
+     
+</TEXT>
+</DOC>

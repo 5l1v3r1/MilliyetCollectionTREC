@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 272458 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/16/son/sonyas03.html </URL>
+<DATE> 2004/09/16/ </DATE>
+<TIME> 10.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+El Kaide virüsü bilgisayarları tehdit ediyor .. 
+</HEADLINE>
+<TEXT>
+
+     İnternet ortamında dolaşan yeni bir virüsün, bilgisayarların ''C'' sürücüsünü tamamen sildiği bildirildi. 
+     İnternette yer alan habere göre, yaklaşık 2 yıl önce ilk defa görülen ve sadece bazı sistem bilgilerini silen virüsün yeni versiyonu olan ve ''Osama Vs Bush'' başlığı ile yayılan virüsün, elektronik posta ile yayıldığı ve çok büyük zararlar verdiği bildirildi. 
+     Açıldığı zaman ''Will this war affect the global economy '' Bu savaş küresel ekonomiyi etkileyecek mi diye soran virüs, eğer herhangi bir tuşa basılırsa ana bellekteki tüm bilgileri silerek sistemi kapatıyor. 
+     Başta ABD olmak üzere bilgisayar dünyası ile ''çok fazla haşır neşir olan'' ülkelerde yayılan virüsün yeni versiyonu için henüz çözüm bulunamadığı belirtiliyor. 
+     İnternet analistleri söz konusu başlıklı elektronik postaların kesinlikle açılmamasını öneriyor. 
+     
+</TEXT>
+</DOC>

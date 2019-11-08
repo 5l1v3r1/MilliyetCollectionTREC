@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 227732 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/01/son/sonyas01.html </URL>
+<DATE> 2004/04/01/ </DATE>
+<TIME> 10.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Google, ücretsiz e-mail servisine başlıyor... 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın önde gelen internet arama motoru Google, bedava posta e-mail servisi başlatıyor. 
+     Google firmasının kurucularından Larry Page yaptığı açıklamada, Google'nın sunacağı bedava posta servisinin, bu konuda piyasanın liderleri konumunda olan Yahoo ve Microsoft'tan daha fazla bilgi depolamaya olanak vereceğini belirtti. 
+     Page, Gmail adını alacak olan posta servisinden yararlanacak kullanıcının her birine, yaklaşık 500 bin sayfa depolama kapasiteli 1 gigabyte büyüklüğünde yer ayrılacağını ifade etti. 
+     Kullanıcının isterse Gmail'in kapasitesini 10 gigabyte yükseltebileceğini ifade eden Page, halihazırda dar bir çevrede yürütülen posta servisinin birkaç hafta içinde tüm bilgisayar kullanıcılarına açılacağını bildirdi. 
+
+     
+</TEXT>
+</DOC>

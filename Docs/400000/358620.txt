@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 358620 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/06/son/soneko05.html </URL>
+<DATE> 2005/07/06/ </DATE>
+<TIME> 09.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Döviz yatırımcısı toparlanamıyor... 
+</HEADLINE>
+<TEXT>
+
+     Dövizde kalmaya devam edenler bir türlü toparlanamıyor. Aralık 2003’teki düzeyi 100 olarak kabul edildiğinde dolar bu yılın haziran ayında 95.5’e, euro 97.2’ye geriledi. İMKB, mevduat ve kamu kağıtları ise getiri sağladı. Borsa’nın 2003 sonunda 100 olan değeri, bu yıl 144’e kadar yükseldi. 
+     ANKA’nın dolar, euro, İMKB endeksi, 3 ay vadeli YTL mevduat ile 3 ay vadeli kamu kağıtlarının nominal ve reel getirilerini dikkate alarak oluşturduğu tasarruf araçlarının getiri endeksine göre, dövize yatırım yapmayı sürdürenler toparlanamıyor. 2003 yılı sonundaki düzeyi 100 olarak kabul edildiğinde doların değeri, bu yılın haziran ayı sonu itibariyle 95.5’e indi. 
+     Doların getiri endeksi son 7 aydır 100’un altında bulunuyor. 2004 yılının mart ayı sonunda 93.7’ye gerileyen doların değeri, izleyen dönemde artarak eylül ayında 107.2’ye ulaşmıştı. Daha sonra yeniden azalan doların değeri, bu yılın şubat ayında 91.6’ya kadar inmişti. Martta 96.5’e, nisanda 99.2’ye ulaşan doların getiri endeksi, son iki aydır ise düşüş eğilimi gösteriyor. 
+     
+     EURO’NUN GETİRİSİ 
+
+     Euronun getiri endeksi de geçen ay 100’ün altında kaldı. 2003 yılı sonundaki düzeyi 100 olarak kabul edildiğinde euronun nominal getiri endeksi, geçen yılın mart ayında 96.5’e indi. İzleyen dönemde genelde artış eğilimi göstererek Kasım 2004’te 114.2’ye ulaşan euronun getiri endeksi, izleyen dönemde azalarak bu yıl şubatta 102.3’e inmişti. Mart ve nisanda artarak 108.3’e çıkan euronun değeri, mayısta 101.1’e, haziranda ise 97.2’ye geriledi. 
+     
+     İMKB’DE YÜKSEK GETİRİ 
+
+     İMKB’ye yatırım yapanlar ise yüksek düzeyde getiri sağladı. Aralık 2003’teki düzeyi 100 olan, Mart 2004’te 96.5’e gerileyen Borsa’nın değeri, izleyen dönemde sürekli artarak bu yılın şubat ayında 151.6’yla en yüksek düzeyine ulaştı. Daha sonra azalarak martta 136.4’e, nisanda 125.9’a gerileyen Borsa’nın değeri, izleyen dönemde artarak mayısta 134.7’ye, haziranda ise 143.9’a çıktı. Borsa’ya yatırım yapanlar 2003 yılı sonundan bu yana yüzde 43.9’luk getiri sağladı. 
+     
+     MEVDUAT VE KAMU KAĞITLARI 
+
+     Mevduat ve kamu kağıtlarına yatırım yapanlar da getiri sağladı. 2003 yılı sonundaki düzeyi 100 olarak kabul edildiğinde 3 ay vadeli mevduatın değeri, izleyen dönemde sürekli artarak bu yıl haziranda 133.1’e çıktı. 3 ay vadeli kamu kağıtlarının değeri de sürekli artış göstererek Haziran 2005 itibariyle 130.2’ye ulaştı. 
+     
+     
+
+     REEL GETİRİ ENDEKSİ Tüketici fiyatlarındaki TÜFE artıştan arındırıldığında ise döviz yatırımcısının kaybı daha da yüksek düzeyde oluştu. 2003 yılı sonundaki düzeyi 100 olarak kabul edildiğinde doların reel getiri endeksi, bu yılın haziran ayında 85.2’ye kadar indi. Euronun düzeyi de aynı dönemde 100’den 86.7’ye geriledi. Başka bir ifadeyle dolara yatırım yapanlar 2003 yılı sonundan bu yana yüzde 14.8, euroya yatırım yapanlar yüzde 13.3 reel kayba uğradı. 
+     İMKB, mevduat ve kamu kağıtları yatırımcısı ise reel bazda getiri sağladı. İMKB’nin Aralık 2003’te 100 olan reel getiri endeksi bu yıl haziranda 128.3’e ulaştı. 3 ay vadeli mevduatın düzeyi 118.7’ye, 3 ay vadeli kamu kağıtlarının getirisi 116.1’e çıktı. 
+     
+</TEXT>
+</DOC>

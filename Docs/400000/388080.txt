@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 388080 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/19/son/sonyas06.html </URL>
+<DATE> 2005/10/19/ </DATE>
+<TIME> 09.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Alzheimer ilaçları ölüm riskini artırıyor 
+</HEADLINE>
+<TEXT>
+
+     ABD’de yapılan bir araştırma, Alzheimer hastalarında saldırganlık gibi belirtileri tedavi etmek için genellikle tavsiye edilen ilaçların ölüm riskini artırabileceğini ortaya koydu. 
+     California Üniversitesi’nden Psikiyatr Dr. Lon Schneider başkanlığındaki araştırmacılar, 5000’den fazla Alzheimer hastası üzerinde 10-12 hafta süren 15 klinik deney yaptı. 
+     Journal of the American Medical Association JAMA adlı tıp dergisinin bugünkü sayısında yayımlanan araştırma sonuçlarına göre, deneylerde kullanılan antipsikotik Risperidone, Aripiprazole, Zyprexa, Olanzapine ve Seroquel adlı ilaçlardan birini alan hastaların ölüm riskinde, tedaviye başlanmasından sonra 3 ay içinde, placebo verilen hastalara göre yüzde 54 oranında artış gözlemlendi. 
+     Bu ilaçlardan birini alan 33 hastanın 118’i hayatını kaybederken, placebo verilen 1757 hastanın 40’ı öldü. Buna göre, ilaçlardan birini alan hastaların ölüm oranı yüzde 3.5, placebo alan hastalarınki ise yüzde 2.3. 
+     Bilim adamları ayrıca, bu ilaçların her birinin riskinin aynı olduğunu belirtti. 
+     Dr. Schneider, "araştırmanın sonuçlarının bu ilaçlara başvururken daha dikkatli olunması gerektiğini gösterdiğini" söyledi. 
+     
+</TEXT>
+</DOC>

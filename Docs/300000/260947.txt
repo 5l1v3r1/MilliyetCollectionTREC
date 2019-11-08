@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 260947 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/05/son/sonyas09.html </URL>
+<DATE> 2004/08/05/ </DATE>
+<TIME> 11.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İşte internetin 'virüs canavarı' 
+</HEADLINE>
+<TEXT>
+
+     Bu yılın ilk yarısında virüs ve solucan yoluyla internette verilen zararın yüzde 70'inden, tek başına 18 yaşındaki bir Alman gencinin sorumlu olduğu belirlendi. 
+     Sven Jaschan adlı genç, Microsoft'un 'başına' 250 bin dolar yaklaşık 360 milyar TL ödül koyması üzerine, geçen mayısta tutuklandı. Jaschan, virüs programlarını arkadaşları arasında saygı ve hayranlık kazanmak için yazdığını söyledi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 155309 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/08/son/sondun26.html </URL>
+<DATE> 2003/05/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+"İstenmeyen mail" gönderenlere karşı zafer... 
+</HEADLINE>
+<TEXT>
+
+     ABD'de, aynı anda binlerce kişiye, özellikle reklam amacı taşıyan, istenmeyen elektronik postalar spam gönderdiği gerekçesiyle yargılanan bir kişi, internet servis sağlayıcısı Earthlink firmasına 16,4 milyon dolar tazminat ödemeye mahkum oldu. 
+     Ülkenin güneyindeki Georgia eyaletindeki federal mahkemenin aldığı bu karar, internet sektöründe ''spam''e karşı zafer olarak nitelendirildi. 
+     Merkezi Atlanta'daki Earthlink şirketinin açıklamasına göre, Mart 2002'den beri, değişik kimlikler kullanarak, yasadışı yollarla ele geçirdiği elektronik posta adreslerine yaklaşık 825 milyon e-posta gönderen Howard Carmack'ın, şirkete 16,4 milyon dolar tazminat ödemesine karar verildi. 
+     ABD'nin en büyük 3. servis sağlayıcısı Earthlink'in bu davayı kazanmasının ardından, AOL, Yahoo ve Microsoft gibi firmaların da Carmack aleyhinde dava açabilecekleri belirtiliyor. 
+     Earthlink yetkilisi Karen Cashion, Carmack gibi ''spam'' yayan bir kişiye karşı kazanılan davanın tüm internet kullanıcılarının yararına olduğunu söyledi. 
+     Davayı kazanan Earthlink, ''spam''leri engelleyici yeni bir programı geliştirmeye uğraşıyor. 
+     
+</TEXT>
+</DOC>

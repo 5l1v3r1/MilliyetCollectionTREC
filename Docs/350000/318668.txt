@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 318668 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/25/son/sonyas07.html </URL>
+<DATE> 2005/02/25/ </DATE>
+<TIME> 10.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hitachi'den müthiş buluş .. "Pil bitme" derdi sona erecek 
+</HEADLINE>
+<TEXT>
+
+     Japonya'nın önde gelen kuruluşlarından Hitachi, sıvı methanol kullanan bir pil icat etti. Yeni pil lithium pillerin 2-3 katı fazla enerji üretebiliyor. Yeni pilin, gelecekte başta dizüstü bilgisayarlar olmak üzere mobil elektronik cihazlarda kullanılması bekleniyor. 
+     Şirketin web sitesinde yer alan habere göre, Hitachi, 2003 yılında üzerinde çalıştığını açıkladığı sıvı methanol ile çalışan yakıt hücresini, Tokyo'daki Nano Tech 2005 fuarında tanıttı. 
+     Normal bir AA kalem pil boyutlarındaki sıvı methanol'u oksijen ile karıştıran ve bu işlem sonucunda bir pil gibi enerji üreten sistemin, önümüzdeki 5-7 yıl içerisinde başta laptoplar olmak üzere birçok elektronik alette kullanılması bekleniyor. Hitachi ürünün ürünün 2006 yılında satışa sunulacağını bildirdi. 
+     Direk Methanol Yakıt Hücresi Direct Methanol Fuel Cell adıyla bilinen yakıt hücrelerinde, bir dizi kimyasal işlem sonucunda karbon dioxid, su buharı ve enerji elde ediliyor. 
+     Hitachi tarafından üretilen yakıt hücresi, 1 cm çapında ve 5 cm ve 6 cm uzunluğunda yakıt hücrelerinden pillerden oluşuyor. Bu da neredeyse bir kalem pil boyutuna denk geliyor. Hitachi ticari kullanım için pil boyutlarını değiştirmeyi düşünmüyor. 
+     Pil ömrü konusunda kesin bir açıklama olmamasına rağmen, ilk etapta lithium pillerin 2-3 katı fazla enerji üretmesi bekleniyor. Yakıt hücrelerinin teknolojik gelişmelerle 8 kat daha fazla enerji üretmesi bekleniyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 254234 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/09/son/sonyas08.html </URL>
+<DATE> 2004/07/09/ </DATE>
+<TIME> 10.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+HP'den hatalı RAM uyarısı... 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın saygın yazılım ve donanım firmalarından Hewlett Packard HP , Compaq ve HP taşınabilir bilgisayarların bazı modellerinin bellek modüllerinde RAM , tasarım hatasına rastlandığını açıkladı. 
+     Tedarikçi firmadan kaynaklanan bu hatanın, kullanıcıların ciddi sorunlar yaşamasına yol açabileceği belirtildi. 
+     İnternette yer alan habere göre, HP, yaptığı ürün testlerinde, tüm dünyada üretilen taşınabilir bilgisayarlarda kullanılan ve belli firmalardan tedarik edilen bellek modüllerinde tasarım hatası tespit etti. Şirket, bu durumdan etkilenme olasılığı bulunan kullanıcılara hızlı bir şekilde hizmet verebilmek için, internet üzerinden ürün testi ve gerekiyorsa bellek değişim olanağını içeren yeni bir program sundu. 
+     Arızalı RAM'ler, sektörde yaygın görülen teknolojik mimariyle birlikte kullanıldığında ekranın kararmasına, zaman zaman bilgisayarın kilitlenmesine ya da belleğin çökmesine neden olabiliyor. 
+     HP, hatalı RAM'lerin Compaq Evo Notebook N800c, Compaq Evo Notebook N800v, Compaq Evo Notebook N800w, Compaq Presario 2800, Compaq Evo Notebook N1000v, Compaq Evo Notebook N1000c ve HP Compaq Business Notebook nx7000 modellerinde bulunabileceğini belirtti ve olası hataları önlemek için, bu modellerin kullanıcılarını ''Sanal RAM Testi''ne çağırdı. Bu test sonucunda arızalı olduğu tespit edilen Compaq ya da HP taşınabilir bilgisayarlardaki RAM'lerin ücretsiz olarak değiştirileceği ifade edildi. 
+     HP, taşınabilir bilgisayarlardaki arızalı RAM'leri 31 Aralık 2004 tarihine kadar değiştirecek. Bilgisayarlardaki sorun hakkında daha fazla bilgi 0 212 444 71 71 numaralı telefondan alınabiliyor. 
+     Habere ilişkin yorumda bulunan internet analistleri ise bu tür bir sorunun varlığını açıklama cesaretini gösterdiği için HP'yi kutlarken diğer yandan iyice test edilmemiş RAM'ları kullanarak, bilgisayar kullanıcılarının vaktini almasından dolayı eleştiriyor. 
+     
+</TEXT>
+</DOC>

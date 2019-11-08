@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 395774 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/17/son/soneko48.html </URL>
+<DATE> 2005/11/17/ </DATE>
+<TIME> 16.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa günü 260 puanlık artışla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeksi, 2. seansta 61.69 puan azalarak 35,127.34 puandan kapandı. 
+     Hisse senetleri 2. seansta, ortalama yüzde 0.18 oranında değer kaybetti. 
+     Böylece Bileşik Endeks 4 Ekim günü gerçekleşen 35,624.79 puanlık kapanışın ardından ilk kez 35,000 puanın üstünde kapanış yapmış oldu. 
+     İlk seanstaki 322.46 puanlık artış dikkate alındığında, Borsa endeksi günün tamamında 260.77 puan yükseldi. Hisse senetlerinin günlük ortalama değer kazancı yüzde 0.75 oldu. 
+     Endeks 2. seansa, 61.66 puan azalarak 34,127.37 puandan başladı. Seansın ilk yarısını 34,932.65 puandan geçen endeks, seans içinde en düşük 34,857.62 puana kadar gerilerken, en yüksek olarak da 35,192.87 puanı gördü. 
+     2. seans kapanışında, mali endeks 19.43 puan azalarak 54,685.69 puana, sanayi endeksi 121.50 puan azalarak 27,186.92 puana geriledi, hizmetler endeksi ise 11.27 puan artarak 16,974.36 puana yükseldi. 
+     Böylece ilk seansa göre, mali grup hisseler ortalama yüzde 0.04, sanayi grubu hisseler yüzde 0.44 değer kaybetti, hizmetler grubu hisseler yüzde 0.07 oranında değer kazandı. 
+     2. seansta işlem gören toplam 306 hisse senedinden 97'si değer kazandı, 127'si değer yitirdi, 82 hisse senedinin fiyatında değişiklik olmadı. 
+     2. seansta, 562 milyon 382 bin 515 YTL'lik işlem hacmi kaydedildi. Günlük işlem hacmi, 1 milyar 141 milyon 349 bin 926 YTL olarak hesaplandı. 
+     2. seansta Yapı ve Kredi Bankası, Turkcell, Ereğli, İş Bankası C ve Garanti Bankası, en çok işlem gören hisse senetleri oldu. 
+     
+</TEXT>
+</DOC>

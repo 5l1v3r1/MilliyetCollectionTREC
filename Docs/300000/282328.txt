@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 282328 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/22/ekonomi/eko08.html </URL>
+<DATE> 2004/10/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ziraat'te, sorun çözüldü 
+</HEADLINE>
+<TEXT>
+
+
+
+Ziraat Bankası Genel Müdürü Can Akın Çağlar, Ziraat Bankası'nın yeni yazılım sistemine geçmesiyle birlikte sistemde oluşan tıkanıklığın, büyük ölçüde giderildiğini kaydetti. Çağlar, şu anda 13 bin 500 ekrandan 8 bin 500'ünün hizmet verir halde olduğunu söyledi. Geriye kalan ekranların da peyderpey açılacağını kaydeden Çağlar, "Sistem yarından bugün itibaren tam kapasite çalışmaya başlayacak" dedi. Sorunun tam olarak nereden kaynaklandığının anlaşılmadığını ifade eden Çağlar, donanım, işletim sistemi ve yazılım üzerinde iyileştirmeler yapıldığını, ancak hangi iyileştirme nedeniyle sorunun çözüldüğünün anlaşılmadığını kaydetti. 
+
+
+</TEXT>
+</DOC>

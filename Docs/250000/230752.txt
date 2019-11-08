@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 230752 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/12/son/sonyas01.html </URL>
+<DATE> 2004/04/12/ </DATE>
+<TIME> 07.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+5000 'lık cihaz, sahte pasaportu hakikisinden ayırt ediyor .. 
+</HEADLINE>
+<TEXT>
+
+     Bir Amerikan firması tarafından geliştirilen ve 5-15 bin dolar arasında satılan tost makinesi büyüklüğündeki bir cihazın, sahte pasaportları anında saptadığı bildirildi. ''Cihazın kullanılmasından başarılı sonuç aldıklarını'' kaydeden Avustralya gümrük idaresi yetkililerinden Tim Chapman, ''amacımız sınırlarda güvenliği artırmak ve ülkeye gelen kişilerin gerçekten kendi kimliklerini verip vermediklerini anlamak'' diye konuştu. Cihazın, merkezi New Hampshire eyaletinin Bedford kentinde bulunan ''Imaging Automation'' firması tarafından geliştirildiği ve ''400 iA-thenticate'' adıyla piyasaya sürüldüğü ifade edildi. 
+     Cihazın, pasaport ve seyahat belgelerinde bulunan yüzlerce güvenlik özelliklerini inceleyerek birkaç saniye içinde belgenin gerçek mi yoksa sahte mi olduğunu ortaya koyduğu kaydedildi. Cihazın incelediği özelliklerden birçoğunun çıplak gözle görülemediği, verilen bilgiler arasında. Yeni sistemi denemeye başlayan ülkeler arasında ABD ve Avustralya'nın yanı sıra Kanada, Macaristan, İsveç, Finlandiya ve Nijerya bulunuyor. Amerika'da ise cihazın, Dallas ve Boston havaalanlarının yanı sıra bazı nükleer tesislerde kullanılmaya başlandığı kaydedildi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 149894 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/04/15/yazar/gunes.html </URL>
+<DATE> 2003/04/15/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Hurşit GÜNEŞ  </AUTHOR>
+<HEADLINE>
+İnternet Haftası kutlu olsun 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayar merkezine ilk gittiğimde hayli zorlanmıştım. Bir sürü koca makine teleks aleti gibi sesli biçimde çalışıyordu. Deste deste delikli kartlar makinelere veriliyor, sonuçlar ancak ertesi gün teslim ediliyordu. Birkaç ziyaretten sonra analizleri tamamlayabilmiştim. Ertesi yıl her bölüme ekranlar gelmişti. Artık bölümden işlerimizi yapıyor, sonuçları da bir yazıcıdan elde edebiliyorduk. 
+     Türkiye'ye döndüğümde üniversitemde basit bir kişisel bilgisayar vardı. Şu andaki kişisel bilgisayarımın kapasite olarak belki 100 binde biri kadar. Oysa o tarihlerde hiç de basit gelmemişti bana. Bir hayli de işe yaramıştı. 
+     İlk dizüstü bilgisayarıma 10 yıl kadar önce kavuştum. Bazı programları eşim Esra'nın yardımıyla, bazılarını da meslektaşım Dr. Göksan Erdoğan'ın yardımıyla öğrenmeye çalıştım. İnternetle tanışmam ise daha yeni. İlk defa 1995'te internet bağlantısına kavuştum. Ve bir daha da kurtulamadım. 
+     İnternet çağımızın en önemli teknolojik gelişmelerinden biri. Öylesine bir gelişme ki, evrenin her tarafındaki insanoğlu en ucuz ve en kolay biçimde bilgiye ulaşabiliyor. 
+     İnternet Kurulu, internet kullanımını Türkiye'de yaygınlaştırmayı amaçlayan on yıllık bir kurum. Altı yıldır da internet haftası düzenliyor. Bu yılki İnternet Haftası ise 7 - 20 Nisan tarihleri arasında. Kurul bu yıl çeşitli hedefleri tartışıyor 
+
+</TEXT>
+</DOC>

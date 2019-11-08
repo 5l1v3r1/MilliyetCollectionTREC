@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 293235 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/30/ekonomi/eko02.html </URL>
+<DATE> 2004/11/30/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ülker'in şirketine kalite vetosu 
+</HEADLINE>
+<TEXT>
+
+
+İhale Kurumu, Ülker'in şirketi Data'nın şik yetiyle, Jandarma'nın ihalesini iptal etti. İki kurul üyesi 'kalite' gerekçesiyle karara katılmadı 
+
+ANKARA ANKA 
+
+Son günlerde Adalet Bakanlığı ve Emniyet Genel Müdürlüğü gibi kamu kurumlarının ihalelerini kazanmasıyla gündeme gelen Ülker Grubu'na ait Data Teknik Bilgisayar, Jandarma İkmal Merkezi Komutanlığı'nın bilgisayar alımı ihalesini iptal ettirdi. 
+Jandarma İkmal Merkez Komutanlığı, kişisel tip bilgisayar alımı için 7 Eylül 2004'te ihaleye çıktı. İhale dışı kalan Data Teknik firması, rekabet ilkesine aykırı davranıldığı gerekçesiyle Jandarma'ya itiraz başvurusunda bulundu. Ancak, itirazı reddedilen Data Teknik, bu kez bir dilekçeyle Kamu İhale Kurumu'na KİK başvurdu. 
+KİK ise ihalede, kalite güvence belgesi kapsamında istenen FCC ve UL belgerinin "herhangi bir kalite standardı olmadığı ve sadece ABD sınırları içerisinde geçerliği olduğunu" tespit ederek, bu yolla yerli firmaların ihaleye katılmalarının engellendiği kanaatine vardı. Bu mevzuata aykırılıkların düzeltici işlemle giderilebilecek nitelikte olmadığını belirleyen KİK, ihale işlemlerinin iptaline karar verdi. 
+Ancak KİK'in bu kararı iki kurul üyesinin tepkisine neden oldu. Karara karşı oy kullanan ve iptal yönündeki karara katılmadıklarını belirten kurul üyeleri, gerekçelerini "Jandarma Teşkilatı'nın ulusal güvenlikle ilgili bir kurum olması ve kaliteli ürün kullanması zorunluluğuna" dayandırdı. 
+
+Karşı oy gerekçesi 
+Kararına katılmayan üyelerin gerekçesi şöyle 
+"Jandarma Teşkilatı'nın tüm il, ilçe ve kırsallarda emniyet ve asayiş hizmetleri yürüttüğü, ulusal güvenlik sistemimizin gerektirdiği bilgi, destek, takip, tarassut ve koordinasyon hizmetlerini yürütme görev ve yetkisine sahip olması göz önüne alındığında, hizmet aksamasına sebep vermeyecek malzeme tercih etmesi hizmet gereğidir. İstenen standartlar tek bir firmayı ya da modeli işaret etmemekte, rekabet sağlanmaktadır. Gerçek rekabet, her malın ve her satıcının her ihaleye katılması değil, belli ihalelere belirli ve yeterli ürünlere sahip satıcıların katılabilmesidir." 
+
+
+</TEXT>
+</DOC>

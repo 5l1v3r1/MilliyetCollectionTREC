@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 373165 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/26/son/sontur12.html </URL>
+<DATE> 2005/08/26/ </DATE>
+<TIME> 10.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ankara Büyükşehir Belediyesi'nde 'parmak izi' krizi... 
+</HEADLINE>
+<TEXT>
+
+     Ankara Büyükşehir Belediyesi'nin personelin işe devamını kontrol için uygulamayı planladığı, ''Personel Devam Kontrol Sistemi'' parmak izi okuyan sistem dava konusu oldu. 
+     Tüm Belediye ve Yerel Yönetim Hizmetleri Emekçileri Sendikası Tüm Bel-Sen , özel bir güvenlik şirketi tarafından yapılan parmak izi alma uygulamasının durdurulması istemiyle dava açtı. 
+     Tüm Bel-Sen 1 Nolu Şube Başkanı Yusuf Şenol, defalarca belediye yetkilileriyle görüşerek anayasaya aykırı olduğunu belirtmelerine rağmen, uygulamadan vazgeçilmediğini söyledi. 
+     Personelin parmak izinin 27 Haziran'dan itibaren alınmaya başlandığını anlatan Şenol, 20 Temmuz'da uygulamanın yürütmesinin durdurulması talebiyle Ankara 12. İdare Mahkemesi'ne dava açtıklarını belirtti. Şenol, konuyla ilgili olarak Ankara Valiliği İnsan Hakları İl Kurul Başkanlığı'na da başvurduklarını söyledi. 
+     ''Bu uygulama insan haklarına aykırıdır'' diyen Şenol, şöyle devam etti 
+     ''Nitekim, anayasamızın 'kişinin dokunulmazlığı, maddi ve manevi varlığı' başlıklı 17. maddesi 'herkes yaşama, maddi ve manevi varlığını koruma ve geliştirme hakkında sahiptir. Tıbbi zorunluluklar ve kanunda yazılı haller dışında kişinin vücut bütünlüğüne dokunulamaz...' maddesine bakarak bu uygulamanın anayasaya aykırı olduğunu rahatça belirleyebiliriz. 
+     Ayrıca, parmak izi özel kuruluşça alınmaya başlanmış olup, denetimi yine bu özel kuruluşa bırakılmıştır. Yine bu konuda daha önceki yıllarda İzmir ilinde sağlık birimlerine bu uygulamanın başlatılması sebebiyle TBMM'de yazılı soru önergesi verilmesi üzerine ilgili bakanlık, bu uygulamanın sona erdirildiğini bildirmiştir.'' Şenol, parmak izi vermeyen sendika üyelerinin ''baskıya maruz kaldığını'' ileri sürerek, sistemin uygulamaya geçmesinin ardından 10 gün parmak iziyle giriş yapmayan memurlara, ''işten atılacaklarının'' söylendiğini savundu. 
+     
+     GÖKÇEK'İN GÖRÜŞLERİ 
+     Ankara Büyükşehir Belediye Başkanı Melih Gökçek, personelden parmak izi almadıklarını, yalnızca parmaktaki bazı noktaların tespitini yaptıklarını ifade etti. 
+     Sistem içinde kullanacakları makinenin parmak izi makinesi olmadığını anlatan Gökçek, şöyle devam etti 
+     ''Bu işe ancak çalışmaktan kaytarmak isteyenler karşı çıkar. Bu işten, geçmişte suç işleyip de bugüne kadar parmak izi vermeyip, bu izle yakalanacağını düşünenler korkar. Kaytarmanın özgürlüğü olmaz. Tatbikatın değiştirilmesi kesinlikle söz konusu değildir. 
+     Tüm Bel-Sen üyeleri dahil herkes mesaiye zamanında gelip gitmeye mecburdur. 
+     Diyelim bir an için parmak izinden vazgeçildi, bu sefer belediyede saat başı imza uygulaması başlayacak. Bu olay sanırım onları daha fazla mutlu eder.'' 
+     
+     SİSTEM NASIL ÇALIŞIYOR 
+     ''Personel Devam Kontrol Sistemi''nin çalışma prensibi çerçevesinde, kullanımı kuruma ait bilgisayara personelin kimlik bilgileri ve parmak izi bilgileri giriliyor. Mesaiye gelen personel, bilgilerin depolandığı bilgisayara bağlı optik okuyucuya parmağını gösteriyor. 
+     Bilgisayar, daha önce yüklenen bilgiyle parmak bilgisini eşleştiriyor ve bilgiler birbirini tutuyorsa personelin kuruma giriş yapmasına izin veriliyor. 
+     
+</TEXT>
+</DOC>

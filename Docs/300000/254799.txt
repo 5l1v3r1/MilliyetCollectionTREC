@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 254799 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/12/son/soneko38.html </URL>
+<DATE> 2004/07/12/ </DATE>
+<TIME> 17.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+MB Reel Kesim Güven Endeksi geçen ayki seviyesini korudu 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası Reel Kesim Güven Endeksi MBRKGE Haziran ayında, bir önceki aydaki seviyesini koruyarak 107.5 değerini aldı. 
+     Endeksin, mevsimsel etkilerden arındırıldığında ise bir önceki aya göre yüzde 1.2 oranında arttığı gözlendi. 
+     Merkez Bankası İktisadi Yönelim Anketi Reel Kesim Güven Endeksi sonuçları açıklandı. 
+     Bir yıl öncesine göre karşılaştırma yapıldığında ise endeksin yüzde 0.6 oranında azaldığı görüldü. Endeksi oluşturan anket sorularına ait yayılma endeksleri Mayıs ayına kıyasla incelendiğinde, ihracat imkanları beklentisi yüzde 5.4 oranındaki düşüşle en fazla gerileyen kalem oldu. 
+     Ancak bu düşüşün, mevsimsel etkilerden kaynaklandığı ve bu etkilerden arındırıldığında Mayıs ayı seviyesini koruduğu söylenebiliceği ifade edildi. 
+     Benzer biçimde geçen aya göre yüzde 0.8 oranında gerileyen toplam istihdam beklentisinin, mevsimsel etkilerden arındırıldığında yüzde 1.1 oranında arttığı gözlendi. 
+     Toplam sipariş eğilimi yüzde 3.2 oranındaki artışla en fazla yükselen kalem olurken, bunu genel gidişat eğilimindeki yüzde 2.2 oranındaki artış izledi. 
+     Endeksi pozitif yönde etkileyen diğer bir kalem olan üretim hacmi beklentisindeki yüzde 1.2 oranındaki artışın, mevsimsel etkilerden arındırıldıktan sonra bir miktar daha güçlendiği görüldü. 
+     Diğer alt kalemlerden yatırım harcaması beklentisi yüzde 0.9 oranında artarken, mamul mal stok miktarı, iç pazara satılan mal hacmi ve hammadde stok eğilimlerinde geçen aya kıyasla önemli bir değişiklik gözlenmedi. 
+     
+</TEXT>
+</DOC>

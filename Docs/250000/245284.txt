@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 245284 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/04/son/soneko24.html </URL>
+<DATE> 2004/06/04/ </DATE>
+<TIME> 12.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bono - tahvil piyasasında faiz yüzde 27.36 seviyesinde... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda 5 Ekim 2005 vadeli, bugün valörlü tahvilin saat 12.00 itibariyle basit getirisi yüzde 28.55, bileşik getirisi yüzde 27.36 seviyesinde bulunuyor. 
+     
+     REPO 
+     İstanbul Menkul Kıymetler Borsası İMKB Tahvil ve Bono Piyasası Repo-Ters Repo Pazarı'nda 3 günlük işlemler ortalama yüzde 22.00'den yapılıyor. 
+     
+</TEXT>
+</DOC>

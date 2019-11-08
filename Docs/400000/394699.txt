@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 394699 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/14/son/sondun06.html </URL>
+<DATE> 2005/11/14/ </DATE>
+<TIME> 08.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD şehirlerini 'ejder gözü' gözetleyecek... 
+</HEADLINE>
+<TEXT>
+
+     Amerikan polisi ve güvenlik birimlerinin ABD şehirlerini artık "Ejder Gözü" adı verilen ve kendi başına uçabilen mikro hava araçları ile gözetleyeceği bildirildi. 
+     CBS’e bağlı KRQE isimli televizyon kanalının verdiği habere göre, ABD’de güvenlik ve alarm cihazları üretimi ile tanınan Honeywell şirketinin geliştirdiği insansız casus uçaklarının Amerikan şehirlerinin güvenlik amaçlı gözetiminde çığır açacağı kaydedildi. 
+     Uçabilen bir robot şeklinde tasarlanan Ejder Gözü’nün üzerinde video kameralar ve benzeri alıcılar taşıyacağı belirtilirken, aracın yapılan testler kapsamında en az 200 başarılı uçuş gerçekleştirdiği ifade edildi. Pille çalışan bu uçan mikro hava araçlarının 50-60 dakika kadar havada kalabildiği ve saate 55 km’ye varan bir hızla hareket edebildiği kaydedildi. 
+     Honeywell şirketi yetkilisi Vaughn Fulton, yaptığı açıklamada, polis ya da diğer iç güvenlik yetkililerinin, niteliği ne olursa olsun bütün acil durumlarda Ejder Gözü’nü kullanabileceklerini belirtirken, Amerikan ordusuna da tanıtılan bu araçların savaş bölgelerindeki sokakların gözetiminde de kullanılabileceği ifade ediliyor. 
+     GPS teknolojisiyle donatılacak olan Ejder Gözü’nün şehir ortamının açık ya da karmaşık bütün şartlarında istihbarat toplama, güvenlik sağlama ve hedef belirlemede kullanılacağı kaydedilirken, Irak’taki Amerikan askerlerinin de bir ya da iki yıl içinde bu araçları kullanır hale gelecekleri bildirildi. 
+     
+</TEXT>
+</DOC>

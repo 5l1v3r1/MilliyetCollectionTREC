@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 159350 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/28/ekonomi/eko06.html </URL>
+<DATE> 2003/05/28/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Batman Barajı şifrelendi 
+</HEADLINE>
+<TEXT>
+
+Alman firması, parasını alamadığı gerekçesiyle bilgisayarları kilitledi 
+     ARİF ARSLAN Batman DHA 
+
+     Batman Barajı Hidroelektrik Santralı'nın yapımını üstlenen Alman Noel Şirketi, 1 milyon dolar alacağını tahsil edemediği gerekçesiyle şirketin bilsayarlarını şifre ile kilitleyip, kenti terketti. Şifreleme nedeniyle santralın üç ünitesinde de enerji üretimi durdu. 
+     Bilgisayarların şifrelenerek kilitlenmesi nedeniyle Batman Barajı'nda enerji üretimi yapılamadığını söyleyen DSİ yetkilileri, bu nedenle Batman'ın bazı ilçeleri ile Şırnak ve Cizre'ye kesintili olarak elektrik verebildiklerini belirttiler. 
+     Barajın yeniden elektrik üretimine başlaması için şifreyi çözmek üzere Türkiye Elektromekanik Sanayi uzmanları da yoğun çalışmalarını sürdürüyor. Uzmanlar bir yandan şifreyi çözmeye, bir yandan da Alman firması yetkililerine ulaşmaya çalışıyor. 
+     
+
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 261365 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/07/son/soneko02.html </URL>
+<DATE> 2004/08/07/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     New York borsası bu yılın en düşük seviyelerinden kapandı. 
+     Borsanın temel göstergesi Dow Jones, 147.63 puan düşerek 9,815.40 puana geriledi. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq da 44.74 puan kayıpla 1,776.89 puana indi. 
+     
+</TEXT>
+</DOC>

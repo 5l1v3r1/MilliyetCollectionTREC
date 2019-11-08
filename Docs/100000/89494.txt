@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 89494 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/06/12/son/sontur11.html </URL>
+<DATE> 2002/06/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternette porno sitelere girerken iki kere düşünün 
+</HEADLINE>
+<TEXT>
+
+     Yüksek telefon faturalarıyla karşılaşmamak için internette nelere yol açabileceği önceden kestirilemeyen dosyaların çalıştırılmasından kaçınılması istendi. 
+     Elektrik Mühendisleri Odası EMO İzmir Şubesi Yönetim Kurulu'ndan yapılan yazılı açıklamada, son zamanlarda internete Türk Telekom'un işlettiği sabit telefon şebekesi üzerinden bağlanan telefon abonelerine milyarlık telefon faturalarının gelmeye başladığı öne sürüldü. 
+     Yüksek telefon faturalarına açıklık getirilen açıklamada, özellikle porno sitelerine girişlerde ücretsiz ya da daha ucuz bir siteye bağlanmak için bilgisayar kullanıcısından bir dosyanın yüklenmesi ya da dosyanın bağlanılan siteden çalıştırılmasının istendiği ve kurulan tuzağın bu noktada devreye girdiği anlatıldı. 
+     Kullanıcının kendisine önerilen işlemlerden birini yapması durumunda, internet üzerinden alınan dosyanın otomatik olarak çalışmaya başladığı, bu dosyanın da uluslararası bir arama yapılmasına neden olduğunun belirtilen açıklamada, ''Ülkemizden erotizme olan merak ve bilgi eksikliği dikkat alındığında bir de saatlerce internette kalınıyorsa, milyarlık telefon faturalarının gelmesi kaçınılmaz olmaktadır'' denildi. 
+     İnternet kullanıcılarına uyarılarda bulunulan açıklamada şu görüşlere yer verildi 
+     ''İnternet üzerinde gezinti yaparken, rastgele program indirmekten ve nelere yol açabileceği önceden kestirilemeyen dosyaların çalıştırılmasından kaçınılmalıdır. İnternet tarayıcı programlarındaki internet servis sağlayıcılarına ulaşmada kullanılan numaraların otomatik olarak aranabilmeleri, bilgisayar üzerindeki arama şeklinin otomatik konumdan çıkarılarak manuel konumuna getirilmesi ile engellenmelidir. 
+     İnternet erişiminde kullanılan telefon eğer Türk Telekom'un sayısal santralına bağlı ise 4 rakamlı bir şifre kullanımıyla telefon istendiğinde uluslararası aramalara kapatılabilir. Eğer Türk Telekom'un sayısal olmayan bir santralına bağlı bir telefon kullanılıyorsa, bu kez şifre kullanımı olanaksız olduğundan, telefon sahibinin başvurusuyla Türk Telekom santralından uluslararası aramalara kapatılması durumunda olumsuzluklar yaşanmayacaktır.'' 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

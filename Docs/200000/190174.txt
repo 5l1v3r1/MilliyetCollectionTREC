@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 190174 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/21/son/soneko32.html </URL>
+<DATE> 2003/10/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Cep telefonuyla vergi ödemek artık mümkün... 
+</HEADLINE>
+<TEXT>
+
+     Cep telefonu, vergide de ödeme aracı olarak kullanılmaya başladı. 
+     Şişli Belediyesi'nin başlattığı uygulamayla ilçe sakinleri emlak ve çevre temizlik vergilerini bugünden itibaren belediye ya da bankaya gitmek zorunda kalmadan cep telefonlarıyla ödeyebilecekler. 
+     Uygulama, Şişli Belediye Başkanı Mustafa Sarıgül, Turkcell Kurumsal Hizmetler Müdürü Hakan Erenoğlu ve MNG Bilgisayar Genel Müdürü Zeki Sagay'ın katıldığı bir basın toplantısıyla kamuoyuna duyuruldu. 
+     Şişli Belediye Başkanı Sarıgül, uygulamanın vergi mükelleflerine büyük kolaylık sağlayacağını belirterek, şöyle konuştu 
+     ''Dünyanın hiçbir ülkesinde devlete vergi yatırmak isteyen yurttaşa zorluk çıkarılmaz ancak bizde vatandaş hem vergisini yatırmak için ayağımıza geliyor hem de kuyruklarda bekliyor. Belediye olarak görevimiz bürokrasinin tıkanan kanallarını açmak. Şimdi cep telefonuyla vergi yatırılabilen yeni bir uygulama başlatıyoruz.'' Turkcell Kurumsal Hizmetler Müdürü Hakan Erenoğlu da, geçmişte sadece konuşma aracı olarak kullanılan cep telefonunun artık bir ödeme aracı olarak kullanılmaya başlandığını duyurdu. 
+     Erenoğlu, bu hizmetler sayesinde kurumların iş süreçlerini sadeleştirmek, değer zincirindeki etkileşimi artırmak, kolaylaştırmak, maliyet duyarlı ve verimli operasyonlar gerçekleştirmek imkanına kavuştuğunu söyledi. 
+     MNG Bilgisayar Genel Müdürü Zeki Sagay da, vergi sicil numarasını bilen vatandaşların cep telefonu aracılığıyla uygulamaya kolaylıkla işlerlik kazandıracaklarını kaydetti. Sagay, sistemin normal bir bankacılık sistemindeki altyapı kadar güvenli olduğunu, işlemlerin bilgisayarlar aracılığıyla yapıldığını söyledi. 
+     Sistemde, vergi borcu, mükellef sicil numarası yazıldıktan sonra kısa mesaj gönderilerek öğrenilebilecek. 
+     Vergi borcu ödemesi ise mükellef sicil numarası, kredi kartı numarası ve kredi kartı güvenlik kodu bilgileri kısa mesaj olarak gönderilerek gerçekleştirebilecek. 
+     
+</TEXT>
+</DOC>

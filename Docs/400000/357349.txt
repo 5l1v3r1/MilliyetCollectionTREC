@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 357349 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/01/son/soneko40.html </URL>
+<DATE> 2005/07/01/ </DATE>
+<TIME> 15.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İstanbul'da enflasyon geriledi 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Ticaret Odası İTO verilerine göre, İstanbul'da haziran ayında perakende fiyatlar binde 4, toptan eşya fiyatları binde 2 azaldı. 
+     İTO'dan yapılan yazılı açıklamaya göre, yıllık ortalama artışlar ise perakende fiyatlarda yüzde 7.9, toptan fiyatlarda yüzde 8 olarak gerçekleşti. 
+     Geçen yılın aynı dönemi ile kıyaslandığında, perakende fiyatları yüzde 6.8, toptan fiyatlar yüzde 4.9 artış gösterdi. 
+     
+     Gıda fiyatları düştü 
+     Haziran ayında gıda harcamaları grubu yüzde 2.5 geriledi. 
+     Bu grupta yer alan yaş kuru sebze ve meyve endeksinde yüzde 12.7, ekmek ve tahıllar endeksinde binde 1, et, balık ve kümes hayvanları endeksinde binde 4, yağlar, süt ve süt mamulleri endeksinde yüzde 1 düşüş görüldü. 
+     Çeşitli ve hazır yiyecek endeksi binde 2 artarken, tütün, alkollü ve alkolsüz içkiler endeksi ile dışarıda yenen yemek endeksinde fiyat değişimi yaşanmadı. 
+     
+     Diğer sektörler 
+     Haziran ayında giyim harcamaları grubunda yüzde 1.7, konut harcamaları grubunda binde 8, ev eşyası harcamaları grubunda binde 2, kültür, eğitim ve eğlence harcamaları grubunda yüzde 1.7, ulaştırma ve haberleşme harcamalarında ise yüzde 1.3 artış görüldü. 
+     Sağlık ve kişisel bakım harcamalarında ve diğer harcamalar grubunda kayda değer artış olmadı. 
+     
+</TEXT>
+</DOC>

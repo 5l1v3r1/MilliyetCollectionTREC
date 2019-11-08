@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> 81601 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/05/02/yasam/yas07.html </URL>
+<DATE> 2002/05/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Canlı hayvana uzaktan kumanda 
+</HEADLINE>
+<TEXT>
+
+     DIŞ HABERLER SERVİSİ 
+
+     Amerikalı bilim adamları, kobayların uzaktan kumandayla mayın temizleme ve deprem sonrası enkaz kaldırma çalışmalarında kullanılabileceği yeni bir sistem geliştirdi. Nature adlı bilim dergisinde yayımlanan habere göre, New York State Üniversitesi araştırmacıları, içinde mikroişlemci tabanlı, uzaktan kumandalı bir uyarıcı bulunan bir "sırt çantasını" kobaylara yükleyerek, denek hayvanlarını 500 metrelik bir mesafe içinde istedikleri yere yönlendirmeyi başardı. Hayvanların beynine elektrotların da yerleştirildiği deneylerde, kobaylar sıçrama ve tırmanma gibi fiziksel hareketleri de verilen komutlara uygun olarak başarıyla gerçekleştirdiler. 
+     
+
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

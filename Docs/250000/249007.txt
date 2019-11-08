@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 249007 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/18/son/soneko45.html </URL>
+<DATE> 2004/06/18/ </DATE>
+<TIME> 16.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa günü 87.17 puanlık artışla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi 2. seansta, 1. seansa göre 87.17 puan artarak, 16,964.08 puandan kapandı. 
+     2. seansta hisse senetlerinin ortalama değer artışı yüzde 0.52 oldu. 
+     Endeks, 2. seansa 17.52 puan gerileyerek 16,859.39 puan seviyesinde başladı. Seansın ilk yarısını 16,952.86 puandan geçen endeks, seans içinde en düşük 16,849.46, en yüksek 16,983.79 puanı gördü. 
+     1. seanstaki 24.47 puanlık düşüş dikkate alındığında, endeks günlük bazda 62.70 puan yükseldi. Hisse senetlerinin günlük ortalama değer artışı yüzde 0.37 olarak belirlendi. 
+     2. seans kapanışında, mali endeks 123.94 puan artarak 22,973.33 puana, sanayi endeksi 60.07 puan artarak 15,050.42 puana, hizmetler endeksi 44.56 puan artarak 9,929.87 puana çıktı. 
+     Böylece ilk seansa göre mali grup hisseler ortalama yüzde 0.54, sanayi grubu hisseler ortalama yüzde 0.40, hizmet grubu hisseler ortalama yüzde 0.45 değer kazandı. 
+     2. seansta işlem gören toplam 305 hisse senedinden 114'ü değer kazandı, 91'i değer yitirdi, 100'ünün fiyatında değişiklik olmadı. 
+     Seansta, 165 trilyon 176 milyar 750 milyon liralık işlem hacmi kaydedildi. Günlük işlem hacmi ise 344 trilyon 607 milyar 575 milyon lira olarak hesaplandı. 
+     2. seansta Yapı ve Kredi Bankası, Kardemir D , Doğan Holding, İzmir Demir Çelik ve Sabancı Holding en yoğun işlem gören hisse senetleri olarak belirlendi. 
+     
+</TEXT>
+</DOC>

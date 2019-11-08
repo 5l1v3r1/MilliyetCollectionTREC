@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 169695 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/16/yasam/yas01.html </URL>
+<DATE> 2003/07/16/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Çalıntı cep 'şıp' diye anlaşılacak 
+</HEADLINE>
+<TEXT>
+
+Cep telefonu hırsızlığı patlayınca Ankara Başsavcılığı çareyi buldu Çalıntı telefon açıldığında, ekranında 'çalıntı maldır' mesajı çıkacak ve silinmeyecek ... 
+     TÜRKER KARAPINAR Ankara 
+
+     Ankara Başsavcılığı, cep telefonu hırsızlığıyla mücadele amacıyla GSM şirketleriyle yeni ve etkin bir yol geliştirdi. Çalıntı cep telefonları bundan böyle alıcılarını 'çalıntı maldır' diye uyaracak. Böylece kimse çalıntı cep telefonlarını alıp satamayacak. 
+     
+     Buna rağmen alan, yanar 
+     Ankara Başsavcılığı'na da son aylarda günde ortalama 200 çalıntı cep telefonu başvurusu yapılıyordu. Bunun üzerine başsavcılık, çalıntı cep telefonlarının IMEI telefon özel güvenlik numarası numaralarından tespit edilmesi uygulamasıyla başa çıkamayınca, GSM operatörlerine cep telefonlarının ekranlarına bir uyarı yazısı gönderilip gönderilmeyeceğini sordu. GSM şirketleri de, bunun mümkün olduğunu bildirince, Başsavcı Fahri Kasırga, 14 Temmuz'da Ankara için başlattıkları uygulamayı şöyle anlattı 
+     "Cep telefonlarını çaldıran vatandaş, IMEI numaralarıyla birlikte başvuruda bulunacak. Biz, hemen ardından ilgili GSM operatörlerine olayı bildireceğiz. GSM operatörleri de çalınan cep telefonuna 'Çalıntı maldır' ibareli kısa mesaj gönderecek ve bu ibare hiçbir zaman ekrandan kaybolmayacak. Telefonu 'çalıntı maldır' uyarısına rağmen alan kişiler tespit edilerek, 'hırsızlık malını bilerek satın almak' hapis istemiyle yargılanacak." Kasırga, uygulamanın geriye doğru da yapılacağını, ancak bunun zaman alacağını söyledi. 
+     
+IMEI numarası nedir      IMEI, cep telefonunun cihaz numarası anlamına geliyor. Cihaz açıldığı anda, IMEI numarasını hemen merkeze aktarıyor. Telefonun çalınması durumda, savcılık aracılığıyla başvurulması halinde, cihazın bulunması için GSM operatörleri devreye giriyor. Cihaz kullanıldığı anda bulunduğu yeri gösteren sinyal alınıyor. Bir başka sim kart takılması durumunda da sonuç değişmiyor. IMEI numarasını öğrenmek için cep telefonunuza kare 06 kare yazılması yeterli. 
+     
+
+</TEXT>
+</DOC>

@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 215102 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/14/yasam/yas05.html </URL>
+<DATE> 2004/02/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Meteoroloji nasıl başardı 
+</HEADLINE>
+<TEXT>
+
+   Meteoroloji, 'beyaz kabusta' gösterdiği başarılı tahminleri teknoloji ve eğitimli insana yatırıma borçlu... 
+      ÖNAY YILMAZ 
+   
+   Yıllarca eleştirilen, hatta zaman zaman alay konusu olan hava tahminleri, artık Türkiye'de de ABD ve Avrupa ülkelerini aratmayacak şekilde yapılıyor. Devlet Meteoroloji İşleri DMİ Genel Müdürlüğü, bu başarıyı eğitimli personeline ve teknolojiye yatırıma borçlu. Özellikle 2003'te gelişmiş radarların devreye girmesiyle hava tahminlerinde başarı üst seviyelere ulaştı. Bu sayede kamu yetkilileri de artık daha güvenli açıklamalarda bulunuyor ve daha radikal kararlar alıyor. 
+   
+   Felaketten çıkan ders 
+   DMİ Analiz ve Tahminler Şube Müdürü Murat Şahin, tüm Türkiye'yi meteorolojik hava radarı ağıyla kaplamaya, Batı Karadeniz'de bir kaç yıl önce büyük can ve mal kaybına yol açan sel felaketi sonrası karar verdiklerini söylüyor. İlk teknoloji ürünü radarın 2000'de Ankara'da hizmete girdiğini belirten Şahin, Zonguldak, İstanbul ve Balıkesir'deki 3 radarın da Mart 2003'te devreye sokulduğunu kaydediyor ve "Bu alanda çok büyük aşama kaydettik" diyor. 
+   
+   Başarının sırrı 'harika radar'    
+   Harika radarı olarak nitelendirilen 'C Band Doppler', şu bilgileri sağlıyor 
+   Herhangi bir noktaya herhangi bir anda ne kadar yağış düştüğü.Yağış başladıktan sonraki 30 - 60 dakikada ne kadar yağış düşeceği.Yağış tipi kar, yağmur vs. , sistemin hareket yönü.Şiddetli rüzg rların büyüklüğünün tespiti.Orman yangınları, sel ve taşkın afetlerinin önceden tahmini.Hava kirliliğinin yoğun olduğu yerlerin tespiti. 
+   
+   Hava tahmini nasıl yapılıyor    GÖZLEM 1. aşama Yer seviyesi gözlemleri, rüzgar yönü, hızı, hava sıcaklığı, nem, su buharı basıncı, toprak üstü sıcaklığı, hava basıncı, bulutluluk, yerin hali, yağış miktarı, denizin hali, deniz suyu sıcaklığı gbi ölçümler yapılır. Bu bilgiler, METEOSAT, GOES, GMS, NOAA gibi meteorolojik uydulardan alınan verilerle karşılaştırılır. 
+   ANALİZ 2. aşama Toplanan veriler analiz edilip Avrupa'daki meteorolojik ajansların verileriyle karşılaştırılır. 
+   RAPOR 3. aşama Günlük, 3 günlük, haftalık aylık, mevsimlik ve yıllık hava tahmin raporları hazırlanır. 
+   
+   
+</TEXT>
+</DOC>

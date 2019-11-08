@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 211012 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/25/son/sondun03.html </URL>
+<DATE> 2004/01/25/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+''Opportunity'' Mars'a indi, ilk fotoğrafı gönderdi... 
+</HEADLINE>
+<TEXT>
+
+     ABD, ''Opportunity'' adlı robotu, bu sabahın erken saatlerinde Mars'a indirdi. 
+     ABD Ulusal Havacılık ve Uzay Dairesi NASA , ''kızıl gezegen'' yörüngesindeki uydudan fırlatılan ''Opportunity'nin, Mars atmosferinden 6 dakikada geçerek başarıyla Mars yüzeyine indiğini ve yeryüzüne mesaj göndermeyi başardığını açıkladı. 
+     Her şeyin yolunda gittiğini bildiren NASA yetkilileri, robotun ''Merdiani Planum'' adı verilen bölgeye indiğini kaydettiler. 
+     NASA, ''Spirit'' adlı ilk robotu 3 Ocak'ta Mars'a indirmişti. Ancak ''Spirit'' çarşambadan beri düzgün çalışmıyor. Sorunun giderilmesine çalışılıyor. Bunun biraz zaman alabileceği belirtildi. 
+     Güneş enerjisiyle çalışan mini golf arabası boyutlarındaki robotlar, üç ay boyunca Mars'ta jeolojik araştırma yaparak yaşam izi arayacak. 
+     
+     İLK FOTOĞRAF GELDİ... 
+
+     Amerikan robotu ''Opportunity'', bu sabah indiği Mars bölgesinin ilk fotoğrafını yolladı. 
+     ABD Ulusal Havacılık ve Uzay Dairesi NASA yetkililerinin açıklamasına göre, resimde kayalık bir alanın yakınlarındaki düzlüğe indirilen robotun bir kısmı da görünüyor. 
+     ''Oportunity'', Meridiani Planum adı verilen bölgeye başarıyla indirilmişti. ''Spirit'' adlı robot ise, 3 Ocak'ta ''Opportunity''nin indiği bölgenin tam ters istikametindeki Gussev kraterine konuşlandırılmıştı. 
+     Güneş enerjisiyle çalışan robotlar, ''kızıl gezegen'' üzerinde yaşam izi arayacak. Ancak ''Spirit'' çarşambadan beri pek iyi çalışmıyor, arızanın giderilmesine çalışılıyor. 
+     
+</TEXT>
+</DOC>

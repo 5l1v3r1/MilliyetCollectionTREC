@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 330876 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/06/son/sonyas05.html </URL>
+<DATE> 2005/04/06/ </DATE>
+<TIME> 09.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Google'un, uydu görüntülü ücretsiz haritası tartışmalara yol açtı 
+</HEADLINE>
+<TEXT>
+
+     Internet'in en bilinen arama motoru durumundaki Google'un, haritada aranan yer ya da binanın en ince ayrıntılarına kadar uydu görüntülerini veren yeni bir hizmet başlatması tartışmalara yol açtı. 
+     Pazartesi akşamından beri http maps.google.com adresinde servise konan uydu görüntülerinin hem güvenlik çevreleri hem de mahremiyete önem veren çevrelerde eleştirilere yol açtığı kaydediliyor. 
+     Keyhole isimli şirket tarafından hazırlanan dijital uydu görüntülerinin daha önce ücret karşılığı görülebildiği belirtilirken, Google'ın ilk defa bu hizmeti parasız olarak kullanıcılara sunduğu ifade edildi. 
+     Google'ın harita hizmetine başvuranlar yine ilk olarak haritaları görüyorlar, ancak istenirse, aranan yer ya da binanın uydu görüntülerini büyüterek daha yakından ve olduğu gibi görebiliyorlar. 
+     Keyhole Genel Müdürü John Hanke, uydu görüntüleri hizmetinin güvenlik endişelerine yol açmasına mahal olmadığını belirterek, ''Bu haritalar konusunda paranoyak olmak için çok az sebep var. Çünkü görüntüler genellikle altı ila on iki aylık. Ayrıca bu görüntülerden bir araç plakası okumak ya da görüntüdeki kişinin ne yaptığını görmek mümkün değil'' dedi. 
+     Google'un bedava uydu görüntülü harita hizmetinin sadece Kuzey Amerika ile sınırlı olduğu ve ABD'nin de yarısını kapsadığı ifade edildi. Google'ın henüz test yayını yaptığı uydu görüntülü harita hizmetinin Time Warner'ın işlettiği ve bugün yol ve yön bulmada en fazla başvurulan Mapquest harita servisine büyük tehdit oluşturacağı kaydediliyor. 
+     
+</TEXT>
+</DOC>

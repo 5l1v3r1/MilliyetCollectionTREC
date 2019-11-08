@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 332746 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/12/son/sonyas16.html </URL>
+<DATE> 2005/04/12/ </DATE>
+<TIME> 11.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+4 bin bilgisayarla şifre kırılır .. 
+</HEADLINE>
+<TEXT>
+
+     Son yıllarda bilgi teknolojilerinin mafya ve terör örgütleri tarafından da yoğun olarak kullanılmaya başlanmasıyla birlikte ipucu toplama ve suç takibi konusunda bilgisayar ve internet de önemli bir kaynak haline geldi. 
+     Bu konuda üstünlüğü kaybetmemek isteyen Amerikan Gizli Servisi, çalışanlarına ait 4 bin bilgisayarı kullanılmadıkları zaman diliminde takip ettiği kişilerin şifrelerini kırmak için kullanıyor. 
+     256 bitlik bir şifrenin tek bir bilgisayarla kırılması yüz yıllar sürebilirken böyle bir bilgisayar kümesinde bu süre çok daha kısalıyor. Kurum tarafından yapılan açıklamaya göre servisin şansına suçlular genellikle çok kolay tahmin edilebilen şifreler kullanıyor. 
+     Uzmanlar sadece hobileri ve sık gezdiği web sitelerini takip ederek şifrelerin yüzde 50'si kırabildiğini söylüyor. 
+     
+</TEXT>
+</DOC>

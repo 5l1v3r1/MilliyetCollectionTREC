@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 221206 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/10/son/sondun26.html </URL>
+<DATE> 2004/03/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Artık günlük hayatta birçok işlem tek bir kartla yapılabilecek 
+</HEADLINE>
+<TEXT>
+
+     Japon elektronik devi Sony ve Alman çip üreticisi İnfineon, metro turnikelerinden geçmeyi, para çekmeyi, ya da lokantada hesap ödemeyi mümkün kılacak çok fonksiyonlu mikroçipe sahip bir kart geliştirdi. 
+     Sony'den yapılan açıklamaya göre, uluslararası kredi kartı firması Visa ve Japonya'nın bir numaralı matbaası Dai Nippon Printing de bu ürünün geliştirilmesi sürecine katkıda bulundu. 
+     Sony sözcüsü, ''Finansal kuruluşlarla kredi kartı firmalarına bu yeni teknolojik kartı benimsemeleri konusunda çağrıda bulunduk'' dedi. 
+     Bu arada Asahi Shimbun gazetesi, Tokyo-Mitsubishi Bankası'nın yeni kartı bu sene onaylamasının beklendiğini belirtti. 
+     Yeni geliştirilen bu kartın, optik okuyucuya okutularak, binalara girişte ve mağazaların kasalarında da kullanılabileceği kaydedildi. 
+     
+</TEXT>
+</DOC>

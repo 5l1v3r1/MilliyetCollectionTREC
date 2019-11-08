@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 183809 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/22/ekonomi/eko08.html </URL>
+<DATE> 2003/09/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Fonların "hedefi" ne olmalı 
+</HEADLINE>
+<TEXT>
+
+   Paranın güvenli adresi 
+   HALİM ÇUN Ak Portföy Yönetimi AŞ Genel Müdürü 
+   
+   Fon yönetiminde temel kavram olan "hedef getiri kriteri benchmark" konusunda uluslararası fon yöneticilerinin ortaya attıkları alternatif önerileri önceki yazımızda ele almıştık. çoğunlukla gelişmiş ülke şirket emeklilik fonlarının içinde bulunduğu sıkıntılı durumdan kaynaklanan bu "varlık dağılımı benchmark"ı konusundaki yeni arayışlar, fon yönetimi şirketlerini yatırım süreçlerini ve ürün tanımlamalarını yeniden gözden geçirmeye itiyor. Tüm bu arayışların hedefi, geleneksel olarak sektörün kullandığı varlık dağılımına dayalı hedef getiri kriterleri yerine farklı bir araç konulabilmesi. Öneriler arasında "sınırlanmamış benchmark", "reel getiri", "mutlak getiri", "simüle edilmiş portföyler" gibi farklı göstergeler sayılıyor. Böylece profesyonel fon yönetiminin sağladığı katkının en yüksek düzeye çıkartılması hedefleniyor. Fon değerlemesi yapan uzmanlarda ise genel olarak, sektörün temeline işlemiş bir yapı olan "endeks benchmark" kriterlerinin kolay kolay reddedilmesinin mümkün olmadığı görüşü ağır basıyor. 
+   Öte yandan bu yeni arayışlara kuşku ile bakanlar da var. Bu kesimin eleştiri noktası, bu arayışların fon yönetimi sektörüne katkı sağlayabilecek yenilikler olmaktan ziyade bazı konjonktürel veya moda trendler olduğu yönünde. Bu yaklaşımların bazı sakıncalarına da dikkat çekiliyor. Endeks benchmarkları gerçek dünya örnekleri ve yatırımcılar için olası alternatifler olduklarından gösterge özelliklerini hep koruyacaklar. 0ysa türetilmiş, sınırsız veya simüle edilmiş bir "bencmark"ın yatırımcı tarafından izlenmesi, tahmin edilmesi ve buna göre yatırım kararları alınması mümkün olmayacak. Uzmanlar portföydeki varlıkların dağılımının limitleri konusunda herhangi bir sınırlama olmadığında bu fonların "mutlak getiri" hedefli alternatif fonlara dönüşebileceği ileri sürüyorlar. 
+   Bu yöndeki arayışların bireysel portföy yönetimi fonlarına belli katkıları olabileceği düşünülse de, geleneksel yatırım fonlarında sakıncaları daha ağır basıyor. Endeks benchmarklar gerek yatırım fonu pay sahipleri gerekse portföy yöneticileri tarafından nesnel değerlendirmenin yegane ölçütü olduklarından yeni arayışlarla fonların getiri kriterlerinin yapay veya şeffaf olmayan şekle dönüştürülmesi sonucu da doğabilir. Fon yöneticileri müşterilerine fonlarının hedeflerini, stratejilerini, getiri beklentisi, risk düzeylerini mümkün olduğunca standard, net ve şeffaf bir şekilde izah edebilmeli. 
+   
+   
+</TEXT>
+</DOC>

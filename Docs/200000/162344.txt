@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 162344 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/11/ekonomi/eko12.html </URL>
+<DATE> 2003/06/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+FBI'dan bankalara virüs uyarısı yapıldı 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayarların korkulu rüyası olan virüsler şimdi de finans kurumlarını alarma geçirdi. Amerikan Federal Soruşturma Bürosu FBI , bulaşıcı ve birleşmiş şifreleri çalmaya yeltenen bir virüsün dünya çapında 1200 bankayı vurabileceği uyarısında bulundu. 
+     J. P. Morgan Chase Co., American Express Co., Wachovia Corp., Bank of America Corp. ve Citibank N.A gibi ünlü kurumları virüsten korumak için çeşitli önlemler üzerinde çalışılıyor. Geçen hafta on binlerce bilgisayarı, elektronik postaları felç eden saldırgan "BugBear.B," virüsünün finans çevrelerini önemli bir şekilde etkilediğine dair henüz bir bulguya ulaşılmadığı belirtildi. 
+     
+
+</TEXT>
+</DOC>

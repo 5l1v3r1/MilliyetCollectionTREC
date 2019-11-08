@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> 282577 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/22/son/sonyas18.html </URL>
+<DATE> 2004/10/22/ </DATE>
+<TIME> 17.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Robotlar, iki yıl sonra aramızda... 
+</HEADLINE>
+<TEXT>
+
+     BBC 
+
+Robotlar 2007 yılından itibaren evlerimizde, gündelik yaşantımızın bir parçası haline gelecek. BM'nin yaptığı son araştırmaya göre robotlar, üç yıl içinde, ev işleri, güvenlik ve eğlence alanlarında insanlara, yedi kat daha fazla yardımcı olmaya başlayacak. 
+     Zamanla fiyatları düşecek ve çok daha gelişmiş modeller piyasaya sürülecek. 
+     Ancak yakın zamanda gösterime giren ve gişe rekorları kıran I, Robot filmindeki gibi insanı andıran robotları görmek için daha uzun süre beklemek gerek. 
+     Bunlar daha çok gelişmiş temizlik gereçlerine benziyor. 
+     Birleşmiş Milletler'in yıllık Dünya Robot üretimi raporu'na göre, 2003 yılında kullanıma sokulan 607 bin ev robotunun üçte ikisi satın alınmış. 
+     Birleşmiş Milletler Avrupa Ekonomi Komisyonu ve Uluslararası Robot Üretim Federasyonu'nun ortaklaşa hazırladığı rapor, 2007 yılı sonunda, 4.1 milyon robotun ev işlerine yardımcı olacağını öngörüyor. 
+     
+     Robotlar insanın en yakın arkadaşı olabilir mi 
+     Robotlar, evi süpürmenin yanısıra, çim biçmek, yerleri cilalamak ve pencereleri silmek gibi görevleri de yerine getirebilecekler. 
+     Will Smith'in I robot filmindeki robotlara daha çok vakit var Yujin Robotics adlı Kore firmasının ürettiği Irobi gibi robotların görevleri artırılabilecek. 
+     Bu robotlar ailenin tüm fertlerine hizmet edebilecek şekilde tasarlanmış. Eğitim, güvenlik, günlük planlama, eğlence ve mesaj iletme gibi pek çok özelliğe sahip olacaklar. 
+     Robotlar aynı zamanda insanların hayatının bir parçası haline gelip onları eğlendirme görevini de üstlenecekler. 
+     Şu anda 137 bin ev robotunun olduğu düşünülürse, 2007'den itibaren, 2.5 milyon evde eğlence robotlarının bulunması öngörülüyor. 
+     Sony, danseden, sesleri ayırt eden ve köpeğe benzeyen Aibo adlı robotların satışının bu sene hızlı biçimde arttığını söylüyor. 
+     Sony, kısa süre önce Aibo'nun yeni modelini piyasaya sürmüştü. 
+     1999 yılından bu yana 692 bin adet Aibo satılmış. 
+     Hatta Aibo sevenler, kendi aralarında toplanıp dans yarışmaları düzenliyor ya da robotlarına futbol oynattırıyor. 
+     Futbol oynamak ve ev işlerini üstlenmek dışında robotlar giderek daha tehlikeli işlerde kullanılmaya başlandı. 
+     Bazı robotlar, bilimsel ve tıbbi araştırmalar, mayın temizleme gibi savunma ve inceleme hizmetlerinde de kullanılabiliyor. 
+     Dünyanın pek çok yerinde uzmanlar, çeşitli işlerde kullanmak amacıyla robotlar geliştiriyor, çoğu Artificial Intelligence yani Yapay Zeka sistemleri üzerinde çalışarak daha akılllı modeller üzerinde çalışıyor. 
+     Araştırma ayrıca sanayi alanında robot kullanımının da küresel anlamda arttığını doğruladı. 
+     İngiltere'de robot sanayine yatırımlar, 2003 yılında yüzde 48 oranında arttı. Ancak İngiltere'de robot kullanımı hala Avrupa'nın gerisinde. 
+     
+</TEXT>
+</DOC>

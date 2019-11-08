@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 184037 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/23/yasam/yas03.html </URL>
+<DATE> 2003/09/23/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+'Sanal trafikte' sürücü eğitimi 
+</HEADLINE>
+<TEXT>
+
+   Türkiye'deki yol koşullarına göre tasarlanan 'trafik simülatörü' sayesinde, sürücü adayının ilk eğitimini daha güvenli olacak... 
+      ÜMRAN AVCI İstanbul 
+   
+   Türkiye'deki koşullar göz önünde bulundurularak hazırlanan ilk yerli trafik simülasyonu, adayların gerçek trafiğe çıkmadan, önce stres ve heyecanlarını atmalarını sağlarken, hatalarını da anında gösteriyor. Kadıköy'deki Bahariye Sürücü Kursu'nda, Meteksan'a bağlı Mobilsoft firmasının ürettiği 'Simülatör', bir otomobilde bulunan tüm sürücü aksamına sahip. Öncelikle kendisine bir senaryo belirleyen kursiyer, değişik hava şartları, trafik yoğunluğu ve araç modelini seçtikten sonra, kontağı çevirerek trafik ortamına giriyor. 
+   
+   Ceza puanı veriliyor 
+   Simülatör, kullanım sırasında ihlal edilen trafik kurallarını sesli ve görsel olarak bildirdiği gibi, kaza anını ya da hatasını da görsel olarak, farklı açılardan sürücünün karşısına getiriyor. 
+   Sürüş sonunda ise, yapılan hatalara göre, 'ceza puanlı' bir rapor sunuyor. Kurs Müdürü Sefer Karakoyunlu, 17 milyar liraya aldığı simülatörün en önemli özelliğinin, Türkiye koşullarına uygun olarak hazırlanması olduğunu söyledi. 
+   
+   
+</TEXT>
+</DOC>

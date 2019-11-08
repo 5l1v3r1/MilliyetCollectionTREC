@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 381882 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/27/son/soneko06.html </URL>
+<DATE> 2005/09/27/ </DATE>
+<TIME> 09.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hazine, vadeyi uzatıp faiz riskini artırdı... 
+</HEADLINE>
+<TEXT>
+
+     Hazine, beş yıl vadeli tahvillerle borçlanarak, borçlanmasının ve nakit iç borç stokunun vadesini önemli ölçüde uzatırken, daha önce açıkladığı iç borçlanma stratejisinin aksine değişken faizli YTL cinsinden borçların hem nakit borçlar hem de toplam stok içerisindeki payını artırdı. 
+     Hazine Müsteşarlığı’nın verilerine göre bu yılın ilk sekiz aylık döneminde iç borç stokunun faiz riski artarken vadesi uzadı. 
+     2004 sonunda yüzde 42.3 olan sabit faizli YTL cinsinden 
+     iç borçların iç borç stoku içerisindeki payı ağustos sonunda yüzde 40.2’ye geriledi. Buna karşılık YTL cinsinden değişken faizli borçların payı yüzde 40.1’den yüzde 43.7’ye kadar yükseldi. Bu yükseliş özellikle nakit borçlardan, diğer bir ifadeyle piyasaya olan borçlardan kalnaklandı. Piyasaya olan YTL cinsinden değişken faizli nakit borçların stok içerisinde yüzde 16.2 olan payı ağustos sonunda yüzde 22.8’e kadar çıktı. Bu gelişme, Hazine’nin son aylarda iç borçlanmada beş yıl vadeli altı ayda bir değişken faiz ödemeli tahvil borçlanmalarına ağırlık vermesinden kaynaklandı. 
+     
+     FAİZE DUYARLILIK ARTIYOR 
+     Oysa Hazine bu yıl başında açıkladığı 2005-2007 yıllarını kapsayan iç borçlanma stratejisinde "nakit iç borçlanmanın büyük ölçüde YTL cinsinden sabit faizli kağıtlarla yapılması, ortalama vadenin de piyasanın elverdiği ölçüde uzatılması" stratejik ölçütler olarak yer almıştı. Hazine’nin, değişken faizli ve döviz ile dövize endeksli borçların stok içerisindeki payını azaltıp YTL cinsinden sabit faizli borçların payını artırmak istemesi, iç borç stokunun faizlerdeki ve kurlardaki ani yükselişlere duyarlılığını azaltma çabasından kaynaklanıyor. 
+     Hazine söz konusu strateji kapsamında iç borç stokunun vadesini uzatırken, bunu değişken faizli tahvillerle gerçekleştirdiği için faiz riskini artırdı. Beş yıl vadeli tahvil borçlanmalarının etkisiyle nakit tahvil borçlanmalarının geçen yılın tümünde 20.6 ay olan vadesi bu yıl 32.4 aya kadar uzarken, nakit bazdaki iç borçların 2004 sonunda 11.8 ay olan ortalama vadesi de 16.3 aya kadar uzadı. 
+     
+     DÖVİZ BORÇLARININ PAYI DEĞİŞMEDİ 
+     Bu arada iç borç stokunun döviz ve faiz kompozisyonunda yaşanan bir diğer önemli değişiklik ise dövize endeksli borçların stok içerisindeki ağırlığının azalması oldu. 
+     IMF’ye borç geri ödemesi yapıldıkça, Hazine’nin 2002 öncesi Merkez Bankası üzerinden kullandığı IMF kredileri nedeniyle Merkez Bankası’na verdiği dövize SDR endeksli kağıtlarda yaşanan azalma dövize endeksli borçların iç borç stoku içerisindeki payını yüzde 4.2’den yüzde 2.4’e indirdi. Ancak döviz cinsinden iç borçların stoku çerisinde yüzde 13.4 olan payı ise değişmedi. 
+     
+     NAKİT DEĞİŞKEN FAİZLİ BORÇLAR YÜZDE 50.7 ARTTI 
+     Hazine’nin verilerine göre iç borç stokunun nakit kısmında yer alan YTL cinsinden sabit faizli borçlar bu yılın ilk sekiz ayında yüzde 1.3 artarak 96.1 milyar YTL olurken, değişken faizli dövize endeksli borçlar yüzde 50.7 büyüdü ve 54.7 milyar YTL’ye kadar çıktı. Döviz cinsinden bonçlar ise 26.6 milyar YTL’den 28.8 milyar YTL’ye yükselirken, dövize endeksli borçlar yüzde 36.4 azalarak 4.9 milyar YTL’ye indi. 
+     Hazinenin tümüyle kamu kurum ve kuruluşlarına olan borçlarından kaynaklanan nakit dışı borçlar kapsamındaki YTL cinsinden değişken faizli borçlar ise yüzde 7.1 azalarak 50 milyar YTL’ye indi. Hazine piyasaya olan YTL cinsinden değişken borçlarını büyütürken, kamuya olanları ise azalttı. 
+     
+</TEXT>
+</DOC>

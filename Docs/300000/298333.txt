@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 298333 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/16/son/sonyas22.html </URL>
+<DATE> 2004/12/16/ </DATE>
+<TIME> 16.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD'nin Mars'a göndereceği araca Rus yapımı "nötron topu" konulacak 
+</HEADLINE>
+<TEXT>
+
+     ABD'nin 2009'da Mars'a göndermeye hazırlandığı yeni ''ağır keşif aracı''na Rusya yapımı ''nötron topu'' yerleştirileceği bildirildi. 
+     Rus Bilimler Akademisi Uzay Araştırmaları Enstitüsü Laboratuvarı Başkanı Igor Mitrofanov, Dukhov Otomasyon Enstitüsü tarafından geliştirilen bu ''tüfek'' ve dedektörlerle gezegenin yüzeyini 1 metre derinliğe kadar tarayabileceklerini belirtti. 
+     Mitrofanov, Mars'ta 2 yıl kalması planlanan ''Mars Science Laboratory'' adlı aracın alt kısmına yerleştirilecek bu nötron jeneratörünün, Mars'ın yüzeyini ''bombardımanı tutacağını'' ve özellikle yüzeye gelen nötronları yakalayacağını ve böylece gezegenin yüzeyinin bileşimiyle, su bulunup bulunmadığının öğrenilmesine olanak tanıyacağını kaydetti. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 360416 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/12/son/soneko26.html </URL>
+<DATE> 2005/07/12/ </DATE>
+<TIME> 14.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sınav sonuçları Avea ile cep telefonunda... 
+</HEADLINE>
+<TEXT>
+
+     GSM operatörü Avea, Ortaöğretim Kurumları Sınavı OKS ve Motorlu Taşıtlar Sınavı MTS sonuçlarını tüm cep telefonu kullanıcılarına anında ulaştıracak. 
+     Avea'dan yapılan açıklamada, Avea'nın, Milli Eğitim Bakanlığı işbirliği ile Mobil Bilgi Projesi'ni hayata geçirdiği kaydedildi. 
+     Projenin ilk aşamasında, Avea'nın, OKS ile MTS sonuçlarını tüm cep telefonu kullanıcılarına anında ulaştıracağı belirtildi. Adayların, sınav sonuçlarını hem Sesli Yanıt Sistemi SYS hem de SMS ile en hızlı biçimde öğrenebileceği, önceden kayıt yaptırmaları halinde ise sonuçların, açıklanır açıklanmaz kısa mesaj ile cep telefonlarına gönderileceği ifade edildi. 
+     Avea mobil bilgi servisi, tüm cep telefonu kullanıcılarına açık. Servisin sesli yanıt sistemi SYS numarası 0555 7575757, SMS numarası 5757 olarak belirlendi. 
+     Servisten yararlanmak isteyen tüm Avea aboneleri, OKS ve MTS resmi sınav sonuçları açıklanıncaya kadar servislere sesli yanıt sistemi ve SMS aracılığı ile kayıt yaptırabilecek böylece sonuçlar belli olduğu anda hiçbir ekstra işlem yapmadan sonuçları kayıt yaptırdıkları cep telefonlarına SMS ile otomatik olarak alabilecek. 
+     Ayrıca, Avea aboneleri resmi sınav sonuçları açıklandıktan sonra SYS'yi arayarak veya kısa numaraya SMS göndererek anlık sorgulama yapabilecek ve sınav sonuçlarını SMS ile anında alabilecek. 
+     SYS'den kayıt yaptırmak için T.C. kimlik numarası yeterli olacak, kısa mesajla kayıt yaptırmak isteyen abonelerin, sınavın kodunu yazıp 5757'ye göndermeleri gerekli. 
+     Avea aboneleri, SYS aramaları için arama başına 4 SMS 8 kontör, SMS ile yapacakları her bir sorgulama için 4 SMS 8 kontör ile ücretlendirilecek. Diğer operatör aboneleri ise bağlı bulundukları tarifeden Avea'ya yapılan arama bedeli karşılığı ödeme yapacak. 
+     Açıklamada, Avea'nın Türkiye'de uygulamaya geçirdiği en geniş kapsamlı bilgi paylaşımı projesi olan Mobil Bilgi Projesi'nin, aynı zamanda M.E.B. bünyesinde gerçekleştirilecek tüm uygulamaları kapsayacağı kaydedildi. 
+     
+</TEXT>
+</DOC>

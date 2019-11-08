@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 358631 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/06/son/soneko16.html </URL>
+<DATE> 2005/07/06/ </DATE>
+<TIME> 12.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı 275 puanlık artışla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeksi, dünkü kapanışa göre 275.09 puan artarak seansı 27,652.64 puandan tamamladı. 
+     1. seansta, hisse senetlerinin ortalama değer artışı yüzde 1.00 oldu. 
+     Dün günü 27,377.55 puandan kapanan İMKB Ulusal 100 Endeksi, ilk seansa 1.97 puan düşüşle 27,375.58 puandan başladı. İlk yarıyı 27,589.23 puandan geçen endeks, seans içinde en düşük 27,374.73 puanı, en yüksek 27,761.02 puanı gördü. 
+     Seans sonunda mali endeks 479.50 puan artarak 41,310.12 puana, sanayi endeksi 181.72 puan artarak 22,289.53 puana, hizmetler endeksi 56.89 puan artarak 14,048.48 puana yükseldi. 
+     Böylece önceki kapanışa göre, mali grup hisseler ortalama yüzde 1.17, sanayi grubu hisseler ortalama yüzde 0.82, hizmetler grubu hisseler ortalama 0.41 oranında değer kazandı. 
+     1. seansta işlem gören toplam 299 hisse senedinden 178'i değer kazandı, 59'ü değer kaybetti, 62 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta, 329 milyon 908 bin 255 YTL'lik işlem hacmi oluştu. 
+     1. seansta, İş Bankası C , Şekerbank, Bosch Fren S., Doğan Holding ve Garanti Bankası en çok işlem gören hisse senetleri oldu. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 256923 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/20/son/sonyas01.html </URL>
+<DATE> 2004/07/20/ </DATE>
+<TIME> 09.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bu bir ilk İşte avuç içi bilgisayarlara 'kibar' virüs 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayar yazılım şirketi Microsoft'un, Windows Pocket PC yazılımıyla çalışan avuç içi Palm bilgisayarlara saldırmak üzere tasarlanmış ilk bilgisayar virüsü belirlendi. 
+     Duts bilgisayar uzmanları tarafından "kibar virüs" olarak tanımlanıyor. 
+     BBC'nin haberine göre, "Duts" adlı virüs, Rus bilgisayar güvenlik şirketi BitDefender tarafından ortaya çıkarıldı. 
+     Şirketten yapılan açıklamada virüsün herhangi bir tehlike oluşturmadığı, sadece avuç içi bilgisayarların da bu tür virüs saldırılarına açık olduğunu kanıtlamak amacıyla tasarlandığı belirtildi. 
+     Duts adlı virüsün, Symbian adlı programı kullanan cep telefonlarında yayılan virüsü tasarlayan grup tarafından hazırlandığı belirtildi. Duts virüsünün kodu, 29A VX adlı bu gruba bağlı Ratter lakaplı kişi tarafından yazılmış. 
+     29A VX adlı grup yaptığı açıklamada, Windows işletim sisteminin sınırlanmış bir versiyonu olan Pocket PC'nin avuç içi bilgisayarlar gibi yeni teknolojilerle kolayca yayılabileceğini göstermeyi amaçladıklarını vurguladı. 
+     Rus güvenlik şirketi BitDefender, tüm dünyada, Windows Pocket PC işletim sistemiyle çalışan yaklaşık 17 milyon avuç içi bilgisayar bulunduğunu tahmin ediyor ve tasarlanan virüsün bu kullanıcılar yerine virüsle mücadele şirketlerine gönderilmiş olmasının büyük bir şans olduğunu kaydediyor. 
+     Virüs, bulaştığı programlar çalıştırıldığında, başka bilgisayarlara yayılmak için izin istiyor bu nedenle Duts bilgisayar uzmanları tarafından "kibar virüs" olarak tanımlanıyor. 
+     Sophos adlı virüsle mücadele işirketinin yetkililerinden Carole Theriault, evinize bir metorun çarpmasının Duts adlı virüsten etkilenmekten daha büyük bir olasılık olduğuna dikkat çekiyor ve Pocket PC yazılımıyla çalışan bilgisayar sahiplerinin, bu ilk "avuç içi virüsü" nedeniyle uykusuz kalmalarına gerek olmadığını belirtiyor. 
+     Ancak uzmanlar bunun, benzer virüs saldırılarının önünün açıldığı yolundaki ilk uyarı olduğuna da dikkat çekiyor. 
+
+     
+</TEXT>
+</DOC>

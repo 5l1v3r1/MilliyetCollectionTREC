@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 314414 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/11/son/soneko10.html </URL>
+<DATE> 2005/02/11/ </DATE>
+<TIME> 10.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Paranın dolaşım oranı piyasalarda canlanmaya işaret ediyor 
+</HEADLINE>
+<TEXT>
+
+     Piyasaların nabzını ölçmekte önemli bir gösterge olan paranın dolaşım oranı ocakta son ayların en yüksek düzeyine yükseldi. Aralık ayı ortalaması 3.07 olan paranın dolaşım oranı, ocak ayında 3.11'e kadar ulaştı. 
+     ANKA'nın Merkez Bankası verilerinden yaptığı belirlemeye göre, ocak ayında Elektronik Fon Transferi EFT -Elektronik Menkul Kıymet Transferi EMKT sisteminden yapılan ödemeler, bir önceki aya göre yüzde 0.3 oranında artarak 467.06 milyar YTL'ye ulaştı. 
+     Merkez Bankası'ndan EFT-EMKT'ye çıkan para miktarı ise yüzde 0.9 azalarak 150.07 milyar YTL olarak gerçekleşti. 
+     
+     PARANIN DOLAŞIM ORANI 
+
+     Aralık ayı ortalaması 3.07'yle son dönemin en yüksek düzeyine yükselen paranın dolaşım oranı, ocak ayı ortalamasında ise 3.11'le yeni bir rekor kırdı. 
+     2004 yılının ocak ayında 2.59 olan sözkonusu oran, 
+     şubat ve martta 2.46, nisanda 2.54, mayısta 2.55, haziranda 2.61, temmuzda 2.67, ağustosta 2.58, eylülde 2.62, ekimde 2.63, kasımda ise 2.67 olarak gerçekleşmişti. 
+     Günlük olarak incelendiğinde paranın dolaşım oranı 13 Ocak'ta 3.88'e kadar yükseldi. Sözkonusu oran, 3 Ocak'ta ise 2.59'la ay içindeki en düşük düzeyinde oluştu. 
+     YÜKSEKLİĞİ CANLANMAYI GÖSTERİYOR EFT-EMKT sisteminden yapılan ortalama ödemelerin, Merkez Bankası'ndan EFT-EMKT'ye çıkan ortalama para miktarına bölünmesiyle bulunan paranın dolaşım oranının düşük olması piyasalardaki durgunluğa, yüksekliği ise canlanmaya işaret ediyor. 
+     1999'da 4.75'le en yüksek düzeyine çıkan paranın 
+     dolaşım oranı, izleyen dönemde hızla azalarak 2000 yılı ortalamasında 4.31, 2001 ortalamasında 2.57, 2002 ortalamasında 2.47, 2003 ortalamasında 2.39 olmuştu. 
+     
+</TEXT>
+</DOC>

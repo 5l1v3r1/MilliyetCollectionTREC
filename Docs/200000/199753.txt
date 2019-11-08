@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 199753 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/04/son/soneko19.html </URL>
+<DATE> 2003/12/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türk Lirası, Kasım'da reel olarak yüzde 1.8 değer kaybetti... 
+</HEADLINE>
+<TEXT>
+
+     Türk Lirası, Kasım ayında reel olarak, bir önceki aya göre Tüketici Fiyat Endeksi TÜFE bazında yüzde 1.8, Toptan Eşya Fiyat Endeksi TEFE bazında ise yüzde 1.6 değer kaybetti. 
+     Merkez Bankası'nın geçici verilerine göre, Ekim ayında 142.9 olan TÜFE bazlı reel efektif döviz kuru, Kasım ayında 140.3'e indi. 
+     Aynı dönemde, TEFE bazlı reel efektif döviz kuru 128.3'den 126.3'e geriledi. 
+     Ocak 2003 tarihinde 119.2 olan TÜFE bazlı reel efektif döviz kuru artış eğilimini Ekim ayına kadar devam ettirerek, Eylül ayında TÜFE bazında yüzde 27.1, TEFE bazında yüzde 20.8 artış gösterdikten sonra Ekim ve Kasım ayında geriledi. 
+     Ocak 2003 tarihinde 119.2 olan TÜFE bazlı reel efektif döviz kuru yüzde 17.7 artarak Kasım ayında 140.3'e, TEFE bazında ise yüzde 11.1 artarak 113.7'den 126.3'e çıktı. 
+     Bir başka ifadeyle, Ocak ayından bu yana Türk Lirası reel olarak TÜFE bazında yüzde 17.7, TEFE bazında ise yüzde 11.1 değer kazandı. 
+     
+</TEXT>
+</DOC>

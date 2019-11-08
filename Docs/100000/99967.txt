@@ -1,0 +1,48 @@
+<DOC>
+<DOCNO> 99967 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/08/04/son/soneko06.html </URL>
+<DATE> 2002/08/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dünya "çevreci" yakıtlara yöneliyor... 
+</HEADLINE>
+<TEXT>
+
+     Otomobillerin egzoz atıklarından yaşanmaz hale gelen şehirler, katalitik konvertörle bir nebze rahatlasa da daha temiz yakıt arayışları nedeniyle dünya doğalgaza yöneliyor. 
+     Avrupa Birliği AB 2020 yılı hedefleri arasında ulaşım sektöründeki yakıt tüketiminin yüzde 23'ünün biyogaz, hidrojen ve doğalgaz gibi alternatif yakıtlardan oluşmasını hedefliyor. Bu hedefe en uygun gelişim doğalgazda yaşanıyor. 
+     AB ülkelerinde toplam 390 bin araç sıkıştırılmış doğalgaz kullanırken, Arjantin'de bu rakam 713 binlere ulaşıyor. 
+     Türkiye'de geçtiğimiz yıllarda ilk olarak otobüslerde doğalgaz kullanımı başlatılsa da uygulama başarısızlıkla sonuçlandı. Arkasından ulaşım araçlarında LPG likit petrol gazı-otogaz kullanımı başladı ve bir çığ gibi büyüdü. 
+     Petrolün kaymağı olarak adlandırılan ve en pahalı ürünü olarak bilinen LPG ithalatında yaşanan patlama sonucu 1990 yılında 894 bin 319 ton düzeyindeki ithalat, 10 yılda yaklaşık 3 kat artarak 2.4 milyon tona ulaştı. 
+     Ancak vergilerin yükseltilmesi, LPG'nin maliyetinin pahalı olması ve büyük LPG ithalatı gibi nedenler araçlarda doğalgaz kullanımına zemin hazırlıyor. Buna bir de doğalgaz arz-talep dengesini sağlayacak depoların bulunmaması ve yıllık tüketimi bir konutun tüketimine denk düşen araçların can simidi gibi görülmesi de eklendiğinde, doğalgazlı araçlara yol açılıyor. 
+     Petrol piyasasını serbestleştirmek için hazırlanarak TBMM'ye sunulan Petrol Piyasası Yasa Tasarısı ile Doğal Gaz Piyasası Kanunu'nun bazı maddelerinde değişiklik yapılacak. 
+     Tasarı ile Doğal Gaz Piyasası Kanunu'nda sıkıştırılmış doğalgaz ticareti konusundaki boşluk doldurularak, bunu kısıtlayan ''iletim şebekelerinin ulaşamadığı yerlerde'' ibaresi çıkarılacak. 
+     Böylece otogazın yerini sıkıştırılmış doğalgazın almasına olanak sağlanacak. Ancak bu alandaki yasal boşluklar nedeniyle şimdiden bazı kişiler istasyon kurarak işletmeye başladı. 
+     Tasarının yasalaşmasının ardından Enerji Piyasası Düzenleme Kurulu'nun piyasanın denetimini ele alması bekleniyor. Kurul, tam anlamıyla piyasanın denetimini ele aldıktan sonra bu konuda gerekli izinleri vererek piyasaya start verecek. 
+     
+     SDG NEDİR NASIL KULLANILIR 
+     Sıkıştırılmış doğalgaz SDG 200-250 bar basınçta sıkıştırılarak mukavemet gücü yüksek tüp şeklindeki araç depolarına doldurularak kullanılıyor. 
+     Bir bakımdan LPG'ye benzeyen bu yakıtın farklı ve maliyeti artıran tarafı basıncı sağlayacak kompresör. Mevcut bir istasyona SDG ünitesi eklemek yaklaşık 260 bin dolara maloluyor. 
+     Maliyet tesisin özelliğine ve ülkelere göre 1 milyon doları aştığı oluyor. 
+     Araçlarda dönüşümün maliyeti ise küçük araçlarda 1500-2500 dolar, ağır tonajlı araçlarda 14 bin-40 bin dolar arasında değişiyor. Ancak bu rakamlar hızla gelişen teknoloji ve kullanımın artması gibi etkenlerle sürekli bir iniş trendinde. 
+     
+     ÇEVRECİ BİR YAKIT 
+     Hava kirliliğinden, insanların kurşun solumasından ve sera etkisi yapan kirletici gazlardan yakınan dünya, bu olumsuzlukları yüzde 99'lara varan oranlarda azaltan doğalgaza büyük önem veriyor. 
+     Doğalgaz, benzin ve motorin gibi kurşun, sülfür oksit ve partikül gibi çevreye zarar veren maddeler içermiyor. 
+     Yapılan bir araştırmaya göre AB ülkelerinde doğalgazın benzine oranla ortalama 4 kat, motorine oranla 2 kat daha ucuz olması da doğalgazı yakıt olarak cazip kılıyor. 
+     Yılda 1500 kilometre yol yapan bir benzinli otomobil 1225 dolarlık yakıt harcarken, dizel otomobil 6 dolar, SDG'li otomobil 278 dolarlık yakıt kullanıyor. 
+     Bunun yanında yağ değişim süresinin uzaması ve aksamlarda daha yavaş yıpranma gibi bakım masrafları da SDG'li otomobillerin getirileri arasında sayılıyor. 
+     
+     AVRUPA DA HEDEFLER 
+     Dünyada SDG ile çalışan otomobil sayısı 1.8 milyona ulaşırken, AB ülkelerinde de bu sayı son yıllarda 390 bini buldu. 
+     En fazla SDG'li aracın 120 bin adetle İtalya'da bulunduğu AB'de ulaşımda kullanılan yakıtların 2020 yılında yüzde 23'ünün biyogaz, doğalgaz ve hidrojen gibi alternatif yakıtlardan oluşması hedefleniyor. 
+     AB 2020 yılında 23 milyon ulaşım aracının SDG ile çalışması ve 46 milyar 950 milyon metreküp doğalgaz tüketmesini planlıyor. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

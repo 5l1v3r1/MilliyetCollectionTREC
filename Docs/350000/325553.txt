@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 325553 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/21/son/soneko37.html </URL>
+<DATE> 2005/03/21/ </DATE>
+<TIME> 14.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Turkcell'den "EDGE" ile hızlı internet... 
+</HEADLINE>
+<TEXT>
+
+     Turkcell, hızlı veri aktarımı ve internet ulaşımı sağlayan ''EDGE'' teknolojisini müşterilerinin hizmetine sundu. 
+     Turkcell Satış ve Pazarlamadan Sorumlu Genel Müdür Yardımcısı Ali Kesan, düzenlenen tanıtım toplantısında, 28 şubat 1994 tarihinde faaliyete geçen Turkcell'in 23.4 milyon abonesiyle Avrupa'da ilk 5 operatör arasında yer aldığını kaydetti. 
+     Turkcell'in, faaliyete geçtiği günden bu yana teknolojiye büyük önem verdiğini anlatan Kesan, 2005 yılı için 500 milyon dolarlık teknoloji yatırımı yapmayı hedeflediklerini kaydetti. 
+     Turkcell'in GPRS teknolojisinin ardından hızlı veri aktarımı ve internete ulaşım sağlayan ''EDGE'' teknolojisini de abonelerine sunmaya başladığını belirten Kesan, yeni teknolojinin bireysel ve kurumsal açıdan çok sayıda avantaj sağlayacağını anlattı. 
+     Turkcell Kablosuz Genişbant Bölüm Yöneticisi Mustafa Aykut ise EDGE'in, GPRS teknolojisinden yüzde 300 oranında hızlı olduğunu kaydetti. 
+     Dünyadaki 600'den fazla cep telefonu operatörünün 131'inin EDGE'i kullanmayı hedeflediğini, bugün bunların sadece 5'inin bu hedefine ulaşabildiğini ifade eden Aykut, Turkcell'in de bu teknolojiyi abonelerine sunan 6. şirket olduğunu söyledi. 
+     Verilen bilgiye göre, Turkcell'in abonelerine sunduğu yeni teknoloji EDGE, farklı cep telefonu markalarının birçok modelini destekliyor. Türkiye'de yaklaşık 1 milyon kişinin EDGE uyumlu cep telefonuna sahip olduğu ve bu sayının kısa sürede artacağı tahmin ediliyor. 
+     EDGE'li cep telefonu veya EDGE destekli modem kartına sahip Turkcell aboneleri, dizüstü veya cep bilgisayarları ile yine standart GPRSCELL tarifelerini kullanarak EDGE'den faydalanabilecek. 
+     Yoğun GPRS trafiği olan bölgelerden başlanarak uyarlanan Turkcell EDGE hizmetinin önümüzdeki dönemde daha geniş bir şekilde yaygınlaştırılması planlanıyor. 
+     
+</TEXT>
+</DOC>

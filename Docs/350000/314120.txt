@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 314120 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/10/son/soneko28.html </URL>
+<DATE> 2005/02/10/ </DATE>
+<TIME> 12.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Vestel'den DMP'li TV... 
+</HEADLINE>
+<TEXT>
+
+     Vestel, Manisa'daki AR-GE ve üretim üssü Vestel City'de Digital Media Player DMP özelliğine sahip yeni televizyon modelini geliştirdi. 
+     Vestel'den yapılan açıklamada, ''Türkiye'de üretilen DMP özelliğine sahip ilk televizyon modeli'' olan Vestel Zeta 87 DMP TV'nin tüketicilerin beğenisine sunulduğu bildirildi. 
+     Açıklamada, dijital hafıza kartına kaydedilmiş resim, video ve ses dosyalarını izlettirip, çalabilen DMP'li Vestel Zeta 87 TV'nin aynı zamanda ''farklı hafıza kart standartlarını destekleyen dünyadaki ilk TV modeli'' olduğu belirtildi. 
+     Dijital video kameralarda, dijital fotoğraf makinelerinde, ses kayıt cihazlarında ve bilgisayarlarda kullanılan dijital hafıza kartları, ses, video ve resimleri dijital ortamda saklamak için kullanılıyor. Son yıllarda yaygınlaşmaya başlayan dijital hafıza kartları, değişik üreticiler tarafından çeşitli standartlarda üretiliyor. 
+     Dijital hafıza kartı kullanan dijital video kamera, dijital fotoğraf makinesi veya ses kayıt cihazları, kaydettikleri görüntü ve sesleri doğrudan bu kart üzerine yazıyor. Dünyada ilk kez Vestel'in ürettiği televizyon modellerinin farklı dijital hafıza kart standartlarını desteklemesi sayesinde, dijital hafıza kartı standardı ne olursa olsun, içerdiği görüntü veya ses dosyalarının Vestel televizyonlardan izleme ve dinlemenin mümkün olduğu bildirildi. 
+     87 cm ekran büyüklüğüne sahip Vestel Zeta 87 100 Hz PIP TV'nin diğer özellikleri arasında 200 program hafızası, virtual dolby stereo, dijital gürültü azaltıcı, PIP ve fastext teletext desteği bulunuyor. 
+     
+</TEXT>
+</DOC>

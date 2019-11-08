@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 256115 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/17/son/soneko01.html </URL>
+<DATE> 2004/07/17/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     New York menkul kıymetler borsası, günü düşüşle kapadı. 
+     Dow Jones endeksi 23,38 puan düşüşle 10.139,78'e, Nasdaq endeksi de 29,56 puan düşüşle 1.893,15'e geriledi. 
+     
+</TEXT>
+</DOC>

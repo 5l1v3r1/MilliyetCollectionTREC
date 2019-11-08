@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 209849 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/20/son/sondun02.html </URL>
+<DATE> 2004/01/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yeni İnternet virüsü, 'Beagle' bilgisayarları tehdit ediyor 
+</HEADLINE>
+<TEXT>
+
+     Yeni internet virüsü ''Beagle'', Asya, Avustralya ve Avrupa ülkelerinde hızla yayılıyor. 
+     Bilgisayar uzmanları, yeni virüsün verebileceği zararın boyutları konusunda farklı görüşler belirtiyorlar. 
+     Bilgisayar kullanıcılarına elektronik posta yoluyla gönderilen virüsün, en çok ev bilgisayarları üzerinde tehdit oluşturacağı kaydediliyor. 
+     Posta adreslerine İngilizce ''Hi'' merhaba başlığıyla gönderilen virüs, mesajın içindeki dosyanın açılmasıyla harekete geçiyor ve kullanıcının adres defterindeki tüm isimlere virüslü mesajı iletmeye başlıyor. 
+     Virüs, sadece Windows sisteminin kullanıldığı bilgisayarlara tesir ediyor. 
+
+     
+</TEXT>
+</DOC>

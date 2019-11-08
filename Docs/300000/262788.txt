@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 262788 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/12/son/soneko47.html </URL>
+<DATE> 2004/08/12/ </DATE>
+<TIME> 17.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Reel kesim güven endeksi düştü... 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası tarafından hazırlanan reel kesim güven endeksi, Temmuz'da, Haziran'a göre 0.5 puan gerileyerek 107.0 değerini aldı. 
+     Merkez Bankası verilerine göre, endeks, geçen yıl Temmuz ayına göre ise değişmedi. 
+     Haziran ayına göre Temmuz'da toplam sipariş eğilimi yüzde 6.6 düşüşle en fazla gerilerken, bu gerilemenin bir kısmının mevsimsel etkilerden kaynaklandığı belirtildi. İç pazara satılan mal hacmi eğiliminde görülen yüzde 5 gerilemenin bir kısmında da mevsimsellik etkili oldu. 
+     Endeks verilerine göre, üretim hacmi beklentisinde yüzde 3.8, toplam istihdam beklentilerinde ise yüzde 0.8 artış gözlendi. Mevsimselliğin üretim hacmi beklentileri üzerinde artırıcı, toplam istihdam beklentileri üzerinde ise azaltıcı etkisi olduğu kaydedildi. 
+     Temmuz ayında, hammadde stok eğilimi yüzde 3.0 artarken, genel gidişat eğilimi yüzde 1 azaldı. İhracat imkanları ve yatırım harcaması beklentileri ile mamul mal stok eğiliminde geçen aya kıyasla önemli bir değişiklik olmadı. 
+     Bir önceki yılın Temmuz ayına göre, ihracat imkanları ve yatırım harcaması beklentileri ile toplam sipariş, mamul mal stok ve hammadde stok eğilimleri, geçen yılki seviyelerinin üstünde değerler aldı. Toplam istihdam beklentileri ise aynı seviyeyi korudu. 
+     
+</TEXT>
+</DOC>

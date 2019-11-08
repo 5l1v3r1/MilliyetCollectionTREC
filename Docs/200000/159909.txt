@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 159909 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/30/son/sondun08.html </URL>
+<DATE> 2003/05/30/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft'tan ofis programları fiyatlarına indirim... 
+</HEADLINE>
+<TEXT>
+
+     Yazılım devi Microsoft, Windows programından sonra en fazla satan ofis programlarının fiyatlarında yüzde 15'e varan indirim yapacağını açıkladı. 
+     Fiyat indiriminin, diğer firmaların ürünlerinin rekabeti yüzünden değil, Microsoft'un ürettiği değişik Ofis sürümlerinin birbiriyle rekabet etmesinden kaynaklandığı ortaya çıktı. 
+     Microsoft'un yüzde 15 indirim yapacağı ürünlerin başında Ofis XP Standart ve Ofis XP Profesyonel geliyor. Ofis programı içinde yer almadan ayrı olarak satılan Word ve Excel gibi programların fiyatlarında ise daha büyük indirimlere gidileceği bildiriliyor. 
+     Fiyat indirimine, yazılım devinin geçen yıl piyasaya sürdüğü ve sadece öğretmen ve öğrencilere satılan özel Ofis XP paketinin fiyatının çok düşük olmasının yol açtığı öne sürüldü. 
+     Söz konusu paket, normal Ofis XP'den 300 dolar düşük fiyatla 149 dolardan satılıyor. Microsoft'un, ürünü alanların gerçekten öğretmen ya da öğrenci olduklarını kontrol etmemesi yüzünden söz konusu paketin satışları adeta patlama yaptı. 
+     Buna karşılık Microsoft'un büyük şirket ve kuruluşlara sattığı Ofis programlarının fiyatında şimdilik indirim yapmayacağı, indirimlerin, bu yılın sonuna doğru piyasaya verilecek Ofis 2003 programı için geçerli olacağı belirtildi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 93311 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/07/02/son/soneko25.html </URL>
+<DATE> 2002/07/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa 2. seansta böyle geçti 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi 2. seansı, 1. seansa göre 130.23 puan kayıpla 9,134.97 puandan tamamladı. 
+     2. Seansta hisse senetleri ortalama yüzde 1.41 oranında değer kaybetti. 
+     Seansa 8.99 puan azalışla 9,256.21 puan seviyesinde başlayan endeks, ilk yarıyı 148.60 puan kayıpla 9,265.20 puandan geçti. 2. seansta endeks, en düşük 9,048.65, en yüksek de 9,265.20 puanı gördü. 
+     Endeks, günlük 430.02 puan düşerken, hisse senetlerinin günlük bazda ortalama değer kaybı da yüzde 4.50 olarak gerçekleşti. 
+     Kapanışta mali endeks 207.97 puan kayıpla 11,621.90 puana, sınai endeks 124.83 puan kayıpla 8,734.30 puana gerilerken, hizmetler endeksi ise 23.96 puan artışla 5,566.71 puana yükseldi. 
+     Böylece ilk seansa göre mali grup hisseler ortalama yüzde 1,76, sınai grubu hisseler ortalama yüzde 1.41 oranında değer yitirdi, hizmetler grubu hisseler ortalama yüzde 0.43 oranında değer kazandı. 
+     2. seansta işlem gören toplam 280 hisse senedinden 175'i değer kaybetti, 35'i değer kazandı. 80 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta, 107 trilyon 776 milyar 755 milyon liralık işlem hacmi kaydedilirken, ikinci seansta işlem hacmi toplamı da 202 trilyon 604 milyar 807 milyon lira oldu. 
+     2. seansta, Yapı ve Kredi Bankası, Turkcell, Doğan Holding, Garanti Bankası ve Doğan Yayın Holding en yoğun işlem gören hisse senetleri oldular. 
+     Endeks 9,134 puandan ve 430 puanlık düşüşle günü tamamladı. Gün sonunda 200 trilyon seviyesinde işlem hacmi gerçekleşirken günün ikinci seansında dolarında yükselmesinin etkisi ile endeks üzerindeki etkin hisselerde satış baskısı gözlemlendi. 
+     Borsa uzmanları, Yapı ve Kredi Bankası üzerinde yoğunlaşan baskının endeksin önemli oranda değer kaybetmesinde etkili olduğunu vurgulayarak, bununla birlikte Turkcell'e de satış geldiğini ancak hissenin daha sonra bir miktar toparlandığını kaydediyorlar. 
+     Liderler zirvesinden gelen açıklamalara piyasanın temkinli yaklaştığının gözlendiğine dikkat çeken uzmanlar, uluslararası piyasalardaki negatif seyirin de endeksin üzerinde olumsuz etki yarattığını, bu etkinin önümüzdeki günlerde de yurtdışı piyasalardaki seyire göre devam edebileceğini belirtiyorlar. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

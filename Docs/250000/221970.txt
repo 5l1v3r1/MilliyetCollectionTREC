@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 221970 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/13/yazar/toruner.html </URL>
+<DATE> 2004/03/13/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Yaman TÖRÜNER  </AUTHOR>
+<HEADLINE>
+Kredi kartı sorunları aşılabilir 
+</HEADLINE>
+<TEXT>
+
+   
+   İnternet ve elektronik haberleşme hizmetlerinin gelişmesiyle kredi kartları kullanılarak yapılan yolsuzluklar da tırmanmaya başladı. Öyle ki, bir mağazada kredi kartınızın bir yerine iki kez kopyasının alınması veya bu olmadı öteki cihazdan da geçirelim denmesi sizin soyulmanıza neden olabiliyor. İnternette kredi kartı numaranızı isteyen sıradan bir satıcının da amacı sizin kredi kartınızı kullanarak başka bir ülkede sizin adınıza ödeme yapmak olabilir. Öte yandan, soyguncuların özel geliştirdikleri bir cihazla kredi kartı ve ilgili bankadaki bütün müşteri bilgilerine ulaşılabildiği anlaşıldı. Bu suretle, kişinin tüm gizli bilgilerine ulaşıp, onun yerine geçilmesi ve bu yolla onun kredisinin kullanılması mümkün olabiliyor. Buna "identity fraud" deniliyor. 
+   "Identity fraud"un önüne geçilebilmesi şimdilik, kredi değerlendirme kuruluşları tarafından sağlanabiliyor. Bunlar Türkiye'de maalesef yok. Bu, özel sektör tarafından geliştirilmiş bir sistem. Kişilerin bütün kredi bilgileri bu şirketlerde toplanıyor. Hem kişisel kredi vermek isteyen banka ve mali kuruluşlar hem de kişiler bu sistemden faydalanıyor. Sisteme girmek veya abone olmak için belli bir ücret ödeniyor. Sisteme girerek, size ait tüm kredi kartı, tüketim kredisi, konut kredisi, vergi borçları ile devlete olan diğer borç ve risklerinizi görebiliyorsunuz. İsterseniz sistemde ön uyarı mekanizmaları da var. Böylece, bir kişi olarak yaşadığınız ülkedeki tüm mali hareketlerinizi ve sizin adınız kullanılarak birisinin işlem yapıp yapmadığını görebiliyorsunuz. 
+   Kredi değerlendirilmesi özel kuruluşlar tarafından yapıldığında, banka çalışanlarının sübjektif ve bankadan bankaya değişen değerlendirmeleri de son buluyor. Tabii, büyük krediler için ayrıca ödeme kabiliyetiniz ve varlık durumunuz da göz önüne alınıyor. 
+   Kredi değerlendirme kuruluşları size 350 ile 850 arasında bir puan veriyor. Ayrıca, o ülkedeki kişiler arasında yapılan gruplamada ödeme kabiliyetiniz bakımından ilk yüzde kaça girdiğiniz belirleniyor. Yüksek kredi puanına sahip olanlara hem daha düşük faizli hem de daha uzun vadeli krediler verilebiliyor. Kredi puanınızın kaç yıldır değerlendirmeye alındığı da çok önemli. 7 yıllık bir değerlendirme, size iyi puan verilmesi için yeterli sayılıyor. Ama, 30 yıla çıkan değerlendirmeler daha da önemli. 4 yıldan az bir süreyi kapsayan kredi değerlendirmeniz varsa, genellikle size kredi kartı teklif edilmiyor. Kredi kullanıp geri ödedikçe de puanınız artıyor. Son 7 yılda mahkeme kararı ile bir mali ceza alıp almadığınız, son 10 yılda iflas edip etmediğiniz, son 7 yıldır tüm vergilerinizi ödeyip ödemediğiniz, yaşamınız boyunca vergi kaçakçısı sayılıp sayılmadığınız puanınızı doğrudan etkiliyor. 
+   
+   Kredi kartları ile ilgili sorunlar katlanarak büyüyor. 
+   Kişiler için ilk tedbir, birinci sınıf bankaların ve bunlarla çalışan mağazaların çıkardıkları kredi kartlarını kullanmak. 
+   İkinci tedbir, kredi kartlarındaki çalınma ve bilgi dışı kullanım hallerini kapsam içine alan bir sigorta sistemini ülkemizde de uygulamaya sokmak ve sigortayı kabul eden bankaların kredi kartlarını kullanmak. 
+   Üçüncü tedbir, kredi derecelendirme kuruluşlarının ülkemizde de bir an önce yerleşmesini sağlamak. 
+   
+      
+   
+</TEXT>
+</DOC>

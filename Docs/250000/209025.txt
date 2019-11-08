@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 209025 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/16/son/sondun08.html </URL>
+<DATE> 2004/01/16/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft, yazılımında değişikliği kabul etti 
+</HEADLINE>
+<TEXT>
+
+     Yazılım devi Microsoft firması, internetten plak satın alınırken İE İnternet Explorer kullanılmasını zorunlu kılan yazılımında değişiklik yapmayı kabul etti. 
+     Şirket üzerinde bu yönde büyük baskı bulunduğu ve özellikle ABD Adalet Bakanlığı'nın uygulamadan şikayetçi olduğu bildiriliyor. 
+     Microsoft'un bu amaçla şubat ya da en geç mart ayında, Windows-XP kullanıcıları için geliştirilmiş bir yazılımı hizmete sunacağı kaydedildi. 
+     Hükümete bağlı olarak çalışan tekelcilikle mücadele avukatları, Microsoft'un uygulamasının 2002 ekim ayında verilmiş bir mahkeme kararına aykırı olduğunu savunuyorlar. 
+     Microsoft sözcüsü Stacy Drake, ''şirketin değişikliğe sadece ticari amaçla razı olduğunu'' söyledi. Sözcü, ''karara, esas yönünden muhalif olmamıza rağmen, yapacağımız değişiklikle hükümet yetkililerinin kaygılarını gidereceğimize inanıyoruz'' diye konuştu. 
+     Tartışmaya yol açan uygulama, Microsoft'un internette açtığı ''Online Müzik Mağazasından'' satın alınacak CD'lerin ısmarlanması aşamasında hangi tarayıcının kullanılacağı meselesinden kaynaklanıyor. 
+     Halen kullanıcılar, CD satın almak için bir bağlantıyı tuşladıklarında, Windows programı ana tarayıcı Netscape ya da Opera olsa bile otomatik olarak İE tarayıcısını devreye sokuyor. İE tarayıcısıysa kullanıcıyı yine otomatik şekilde, Microsoft'un kurup işlettiği ''Windowsmedia.com'' sitesine bağlıyor. Bu sitede, Buy.com ve CDNow gibi plak satıcılarının adreslerinin yer aldığı belirlendi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 324189 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/16/son/sonyas17.html </URL>
+<DATE> 2005/03/16/ </DATE>
+<TIME> 11.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+"Yazılım geliştirme projelerinin yüzde 66'sı başarısız.." 
+</HEADLINE>
+<TEXT>
+
+     IBM Ürün Geliştirme Müdürü Alfredo Gufierrez, dünya çapındaki yazılım geliştirme projelerinin yüzde 66'sının başarısız olduğunu bildirdi. 
+     IBM Yazılım Projelerinde Proses ve Portföy Yönetimi Semineri, Hilton Oteli'nde yapıldı. Kamu ve özel sektör temsilcilerinin katıldığı seminerde, IBM Rational Yazılım Geliştirme Platformu da tanıtıldı. 
+     Gufierrez, seminerde yaptığı konuşmada yazılım geliştirme alanına ciddi paralar yatırılmasına karşın çoğunun başarısızlıkla sonuçlandığını söyledi. 
+     Önceden belirlenemeyen proje koşulları, değişen piyasa şartları ve artan maliyetler ile müşteri memnuniyetsizliklerinin en önemli başarısızlık sebepleri arasında yer aldığını anlatan Gufierrez, bu ve benzer sebeplerden dolayı her 3 projeden 2'sinin başarısız olduğunu kaydetti. 
+     Yöneticilerin teknolojiye olan ilgi ve bilgilerinin de önemli olduğunun altını çizen Gufierrez, şirket yöneticilerinin, şirketin başarısında yazılımın sağlayacağı katma değere inanması ve desteklemesi gerektiğini belirtti. 
+     Dünyada yaklaşık 250 yazılım geliştirme programı olduğunu anımsatan Alfredo Gufierrez, yatırım yapılmadan önce hangi programdan maksimum verim alınacağının iyi araştırılması gerektiğini sözlerine ekledi. 
+     
+</TEXT>
+</DOC>

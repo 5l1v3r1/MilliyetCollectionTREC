@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 86722 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/05/29/son/sondun09.html </URL>
+<DATE> 2002/05/29/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayar işlemcisi fiyatları düşüyor 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayar ve yonga piyasasındaki üretim artışı ve rekabet sonucu, yonga ve işlemci fiyatları hızla düşerken bilgisayarlar da 600 doların altına indi. 
+     Dünyanın en büyük yonga chip ve işlemci üreticisi olan Intel firması, bazı işlemcilerin fiyatlarında yüzde 'e varan oranda indirim yaptığını açıkladı. Bu indirimin dizüstü ve masaüstü bilgisayar fiyatlarında düşmeye neden olacağı bildirilirken, Intel'in en büyük rakibi olan AMD firmasını da zor durumda bırakacağı öne sürülüyor. 
+     Son indirimden sonra 2.4 gigahertz hızındaki Pentium-4 işlemcilerin fiyatları 562 dolardan 400 dolara inerken, hızlı mobil yonga fiyatları da 637 dolardan 348 dolara düşürüldü. 
+     Öte yandan yonga ve işlemci fiyatlarının ucuzlaması sonucu, özellikle internette satış yapan sitelerde, en gelişmiş bilgisayarları 599 dolara satın alma olanağı doğdu. Ancak uzmanlar, bilgisayar 
+     fiyatlarının daha da düşmesini beklediklerini söylediler. 
+     Bilgisayar fiyatları, geçen yıl da Dell firmasının açtığı fiyat kırma savaşı sonunda önemli çapta ucuzlamış, Dell ile rekabet etmek amacıyla Hewlett-Packard ve Gateway firmaları da fiyatlarda indirim yapmıştı. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

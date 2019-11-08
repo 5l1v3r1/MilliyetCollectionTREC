@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 302336 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/01/ekonomi/eko10.html </URL>
+<DATE> 2004/01/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Telekom 2004'e indirimle girdi 
+</HEADLINE>
+<TEXT>
+
+   ANKARA ANKA 
+   
+   Türk Telekom, ISDN - PA aboneliğinden kontör alımlarına kadar çeşitli hizmetlerinde indirime gitti. T. Telekom'dan yapılan açıklamada, ISDN - PA aboneliğinin il içi kademeye tabi bir yerden verilmesi halinde alınacak uzak mesafe aylık kira ücretinde yüzde 75 oranında indirime gidildiği belirtildi. Peşin kontör alımlarında nakit olarak 1200 ve daha üzeri kontör alanlara yüzde 85, kredi kartıyla alımlarda ise yüzde 2 oranında indirim uygulanacak. Ayrıca, uluslararası frame relay tarifesinin bir aylık ücretlerinde de hızlara göre değişen oranlarda indirim sağlandığı bildirildi. 
+   
+   
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 252648 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/03/son/soneko02.html </URL>
+<DATE> 2004/07/03/ </DATE>
+<TIME> 09.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Mevduata sınırsız güvence sona eriyor... 
+</HEADLINE>
+<TEXT>
+
+     Mevduata bir yıl önce getirilen sınırsız güvence, 5 Temmuz Pazartesi gününden itibaren yeniden 50 milyar lirayla sınırlandırılıyor. 
+     Daha önce mevduatta 50 milyar lira olan güvence sınırı, İmar Bankası yönetimine el konulmadan önce çıkan kararla, bankalardaki mevduatın tamamı 'bir yıllığına' tam güvence altına alınmıştı. 
+     Bir yıl önce alınan karara göre 5 Temmuz'da uygulaması başlayacak sınırlı mevduat garantisi, her müşterinin, her bir bankada açacağı '50 milyar liraya kadar' TL ve döviz cinsi mevduatını, Tasarruf Mevduatı Sigorta Fonu'nun TMSF güvencesi altına alıyor. 
+     Buna göre herhangi bir banka tasfiye edilirse TMSF bu bankadaki tasarruf mevduatı sahiplerine, hesaplarının 50 milyar liralık kısmı için ödeme yapacak. Daha fazla mevduatı bulunanlar ise mevduatının kalan kısmını ancak banka tasfiye edilirse, tasfiye ya da iflas masasından alabilecek. 
+     
+     MEVDUATIN YÜZDE 64'Ü GÜVENCE KAPSAMINDA 
+     Yeni dönemde bir kişi adına aynı bankanın farklı şubelerinde açılmış tasarruf mevduatının anapara ve faiz toplamı 50 milyar lirayı aşıyorsa, sadece 50 milyar liralık kısım mevduat sigortası kapsamında değerlendirilecek. 
+     Farklı bankalarda açılan hesaplar için ise 50 milyar liralık sınır ayrı ayrı değerlendirilecek. 
+     Söz gelimi 200 milyar lirası bulunan bir tasarruf sahibi, bunu tek bir bankada tasarruf mevduatı olarak değerlendirirse, bunun sadece 50 milyarı garanti altında olacak. Ancak söz konusu parayı 50'şer milyar liralık dilimler halinde dört ayrı bankaya tasarruf mevduatı olarak yatırırsa, dört bankadaki hesabı da garanti kapsamında olacak. 
+     Öte yandan yapılan açıklamalarda, 50 milyar lira ile sınırlanacak garantinin, tasarruf mevduatı hesabı sayısının yaklaşık yüzde 99'unu, sektördeki tasarruf mevduatı toplamının ise yüzde 64'ünü kapsadığı belirtiliyor. 
+     
+</TEXT>
+</DOC>

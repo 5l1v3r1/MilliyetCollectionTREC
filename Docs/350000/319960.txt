@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 319960 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/02/son/soneko18.html </URL>
+<DATE> 2005/03/02/ </DATE>
+<TIME> 10.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Banka kartlarına SMS'li koruma geliyor... 
+</HEADLINE>
+<TEXT>
+
+     Yaygın kredi kartı kuruluşlarından MasterCard, kartın bağlı olduğu hesaptan yapılacak anormal harcamalara karşı cep telefonu bulunan kullanıcıları, SMS Short Message Service ile uyaran bir sistem geliştirdi. 
+     Strateji halkla ilişkiler şirketinden yapılan yazılı açıklamaya göre, küresel ödeme sistemlerinin önde gelen kuruluşlarından MasterCard ile mobil mesaj ve faturalama uzmanı mBlox firması, kartta sahtecilik ve dolandırıcılığının tespiti için yeni bir projeyi yurtdışında hayata geçirdi. 
+     Dolandırıcılık şüphesi uyandıran ya da kart hamilinin normal uygulamaları dışında bir harcama tespit edildiğinde, sistem cep telefonu bulunan banka müşterisini 30 saniye gibi kısa bir sürede SMS ile uyarıyor. Kullanıcı işlemin kendisine ait olmadığını teyit ettiğinde banka, hesabı bloke ederek daha fazla işlem yapılmasını engelliyor. Bankaların çağrı merkezleri üzerinden yürüttükleri sorgulama işlemlerinden 10 kat daha hızlı olan bu sistem, ayrıca operasyonel maliyetleri de yüzde 20-30 oranında azaltıyor. 
+     Söz konusu sistemin kısa bir süre sonra Türkiye'de de kullanıma sunulması bekleniyor. Aristion Mastercard'ın kart işlemlerinde dolandırıcılıkları önlemeye yarayan sistemi kullanan bankaların bir saat gibi kısa bir sürede geçebileceği bu yeni uygulama, müşteriler için gerçekleştirilecek basit bir kayıt işleminin ardından aktif hale getirilebilecek. 
+
+     
+</TEXT>
+</DOC>

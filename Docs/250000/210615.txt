@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 210615 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/23/son/sondun03.html </URL>
+<DATE> 2004/01/23/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayarlar artık 10 saniyede açılacak 
+</HEADLINE>
+<TEXT>
+
+     Yeni geliştirilen bir teknoloji sayesinde bilgisayarların açılma süresinin 10 saniyeye kadar indiği bildirildi. 
+     Bilgisayarların açılma aşamasında bekleme süresi, hızlarına göre, ortalama 40-90 saniye arasında değişiyor. 
+     ''İnstantON'' adı verilen teknoloji, Microsoft tarafından geliştirilen XP Media Center platformunda çalışan bilgisayarlarda kullanılabiliyor. 
+     Merkezi California'nın Fremont kentinde bulunan İnterVideo İnc. şirketi tarafından geliştirilen teknoloji, bilgisayarların hemen hemen anında açılmasına olanak veriyor. 
+     Programın LinDVD adı verilen sistemle çalıştığı, LinDVD'nin, açık kaynaklı Linux işletim sisteminin bir sürümü olduğu bildiriliyor. 
+     Windows işletim sisteminin LinDVD ile bir arada bulunabildiği ve hatta ''Word'' gibi yazı programlarında bile kullanılabildiği belirtiliyor. 
+     Yeni teknolojinin daha şimdiden bazı Asya ülkelerinde satışa sunulan bilgisayarlarda kullanıldığı, bunlar arasında Japonya'da pazarlanan Sharp dizüstü bilgisayarlar ile bir Çin firması olan ''Legend Group'' tarafından üretilen bilgisayarların yer aldığı bildirildi. 
+     
+</TEXT>
+</DOC>

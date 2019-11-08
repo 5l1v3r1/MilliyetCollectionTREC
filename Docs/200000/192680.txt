@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 192680 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/01/son/soneko03.html </URL>
+<DATE> 2003/11/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası Wall Street, yükselişle başladığı günü, son seansta da yükselişle kapattı. 
+     Dow Jones Sanayi Endeksi 14.50 puan artışla binde 15 9 bin 801 puandan kapandı. 
+     Nasdaq Birleşik Endeksi de günün son seansında binde 20 yükselmeyle 1.937 puan olarak kaydedildi. 
+     Borsanın yükselişinde, bazı şirketlerle ilgili yüksek kar açıklamalarıyla, ABD ekonomisindeki toparlanmaya ilişkin yeni verilerin açıklanacağına ilişkin beklentiler etkili oldu. 
+     
+</TEXT>
+</DOC>

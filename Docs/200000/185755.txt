@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 185755 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/01/son/sondun23.html </URL>
+<DATE> 2003/10/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Korkutan araştırma "Cepler için kurulan UMTS antenleri zararlı" 
+</HEADLINE>
+<TEXT>
+
+     Hollanda'da yapılan bir araştırmada, cep telefonları için kurulan UMTS antenlerinin yaydığı elektromanyetik dalgaların insan sağlığına zarar verdiğinin belirlendiği bildirildi. 
+     Hollanda Araştırma Enstitüsü TNO, UMTS antenlerine yakın yerlerde oturan kişiler üzerinde yaptığı araştırmada, bu kişilerde baş ağrısı, baş dönmesi, karıncalanma ve dikkati toplayamama şeklinde beliren rahatsızlar görüldüğünü tespit etti. 
+     Enstitünün, araştırmayı, UMTS antenlerine yakın noktalarda oturan kişilerle bu antenlerden uzak olan kişileri izleyerek yaptığı belirtildi. 
+     UMTS antenlerinin yaydığı elektromanyetik dalgaların insan sağlığı üzerindeki etkisini belirleyebilmek amacıyla ilk kez yapılan araştırmayla ortaya çıkan bu sonuçların ''kalıcı'' olup olmadığının ise bilinmediği kaydedildi. 
+     TNO'dan yapılan açıklamada, elde edilen sonuçların ''korkutucu'' olduğu bildirildi. 
+     Sağlık Bakanı Hans Hogervorst ise araştırmaya ilişkin ilk değerlendirmesinde, bu sonuçların başka araştırmalarla teyit edilmesinden yana olduğunu belirtti ve bu konuda Yüksek Sağlık Konseyi'nin raporunun bekleneceğini kaydetti. 
+     Hollanda'da, geçen yıldan bu yana, telekom şirketleri, 5 metreyi geçmemek ve konut sakinleri itiraz etmedikçe, önceden izin almaksızın konutların çatılarına UMTS anteni yerleştirebiliyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 203201 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/19/son/soneko07.html </URL>
+<DATE> 2003/12/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın en büyük borsası olan New York Wall Street Borsası'nın Dow Jones Sanayi Endeksi, günün son seansını 102.82 puan yükselmeyle yüzde 1 10 bin 248 puandan noktaladı. 
+     Teknoloji şirketlerinin ibresi Nasdaq Birleşik Endeksi de, 34.85 puan artışla 1,956.18 puana çıktı. 
+     Borsanın ilk seansında Dow Jones 5.49 puan artarak 10 bin 150 puana Nasdaq da 4 puan artışla 1,925 puana yükseldi. 
+     Borsanın yükselişinde haftalık işsizlik sayısının beklenenden düşük çıkmasının yarattığı iyimserlik etkili oldu. 
+     
+</TEXT>
+</DOC>

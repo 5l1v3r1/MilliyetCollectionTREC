@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 358473 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/05/son/sonyas13.html </URL>
+<DATE> 2005/07/05/ </DATE>
+<TIME> 11.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABS'ye güvenmek kaza nedeni... 
+</HEADLINE>
+<TEXT>
+
+     Fren basıncını değiştirerek tekerlek kilitlenmesini önleyen Anti-lock Brake System ABS fren sistemi olan araç ile olmayan arasındaki durma mesafesinin büyük ölçüde aynı olduğu bildirildi. 
+     Türk Mühendis ve Mimarlar Odaları Birliği TMMOB Makine Mühendisleri Odası Konya Şube Başkanı Yrd. Doç. Dr. Mete Kalyoncu, AA muhabirine yaptığı açıklamada, otomotiv firmalarının, daha fazla pazar payına ulaşabilmek için, araçlara sürücü ve yolcuların güvenliğini daha da artırıcı unsurlar eklediklerini belirterek, "ABS, kullanıldığı taşıtın kararlılığını, manevra ve durma yeteneğini artırabilen, oldukça yararlı bir fren sistemidir" dedi. 
+     
+     ABS, DURMA MESAFESİNİ SANILDIĞI KADAR AZALTMIYOR 
+     ABS’nin ana işlevinin tekerleklerin kilitlenmesini önleyerek, sürücülere acil frenleme durumlarında kararlılık ve yön kontrolü sağlamak olduğunu ifade eden Kalyoncu, şunları söyledi 
+     "İlk kez 1936 yılında Almanya’da geliştirilen ve patenti alınan ABS sistemi, güvenliği artırıcı bir etkendir. Ancak Türkiye’de ABS, neredeyse aracın kaza yapmasını imkansız hale getiren bir özellik olarak görülmektedir. Oysa gerçek bu değildir. ABS fren sistemi olan araç ile olmayan arasındaki durma mesafesi, sanılanın aksine büyük ölçüde aynıdır. Bu durum, aynı firmanın ABS sistemi kullanılan modeli ile kullanılmayan modelinin teknik bilgilerinin yazılı olduğu tanıtım kataloglarda da açık bir şekilde görülür. Bu da bize, ABS fren sistemi olan araç ile olmayan arasındaki durma mesafesinin büyük ölçüde aynı olduğunu gösteriyor. Çünkü, bu sistem, fren yapıldığı anda, tekerlerin kilitlenerek aracın kontrolden çıkmasını büyük ölçüde engelleyip sürücünü direksiyon hakimiyeti arttırmakta, ancak duruş mesafesini kayda değer oranda azalmamaktadır." ABS gibi fazladan güvenlik donanımları olmayan bir araçla seyahat etmenin, ABS sistemine sahip bir araçla aşırı hız başta olmak üzere trafik kurallarını ihlal etmekten çok daha güvenli olduğunu anlatan Kalyoncu, "ABS özelliği olmayan bir aracı kullanın deneyimli ve dikkatli bir şoförün durma mesafesi, ABS’li aracın durma mesafesiyle aynıdır. ABS’ye güvenilerek trafikte hız sınırlarını zorlayan sürücüler hayal kırıklığına uğrayabiliyor" diye konuştu. 
+     Kalyoncu, yeni araç kullanımının arttığı son dönemde meydana gelen kazalara ilişkin Emniyet verilerinin de, Türkiye’de ABS’ye aşırı şekilde güvenilmesinin kazaların oluşmasında büyük etkiye sahip olduğunu görüşünü desteklediğini kaydetti. 
+     
+</TEXT>
+</DOC>

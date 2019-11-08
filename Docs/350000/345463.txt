@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 345463 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/24/son/sontur29.html </URL>
+<DATE> 2005/05/24/ </DATE>
+<TIME> 16.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Uşak Devlet Hastanesi'nin "bilgi işlem düzeneği" saldırı sonucu çöktü .. 
+</HEADLINE>
+<TEXT>
+
+     Uşak Devlet Hastanesi Başhekimi Dr. Ömer Faruk Hazal, otomasyon sistemine yapılan saldırıyla hastanenin tüm bilgi işlem düzeneğinin devre dışı kaldığını bildirdi. 
+     Hazal, yaptığı açıklamada, hastanenin bilgisayar sistemine bir saldırı gerçekleştiğini belirtti. Otomasyon sisteminin devre dışı kaldığını bu nedenle hastanede uzun hasta kuyrukları oluştuğunu kaydeden Hazal, şu bilgiyi verdi 
+     "Hastanenin bağlı olduğu otomasyon sistemi dahilinde hiçbir bilgisayar ağımız kullanılamamaktadır. Saldırının hastanedeki bir bilgisayar terminalinden yapıldığını tespit ettik. Teknik ekipteki arkadaşlarımız sorunu gidermek ve yedek sistemi devreye sokmak için son hızla çalışıyorlar. Sisteme yapılan saldırı, iki defa yinelendiği için sistem kendini otomatik olarak kapatmış durumda. Hastanede 150 bilgisayar terminali bulunmakta ve saldırının yapıldığı terminali saptamış bulunuyoruz. Gerekli olan çalışmayı yaparak sorumluları belirleyeceğiz." Uşak İl Sağlık Müdürü Ali Taşçı da Uşak Devlet Hastanesi bilgisayar sisteminden kaynaklanan sorunla ilgili gerekli çalışmayı yaptıklarını ifade ederek, "Bilgisayar sistemi şu anda devre dışı kalmış durumda. Hastanede 60 kişi operatör olarak görev yapıyor. 
+     Kimseyi suçlayamayız" diye konuştu. 
+     Taşçı, gerekli bilgilere ulaşıldığı zaman sorumlu kişiler hakkında işlem başlatacaklarını kaydetti. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 358440 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/05/son/sontur25.html </URL>
+<DATE> 2005/07/05/ </DATE>
+<TIME> 13.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+SSK, devlet hastanelerinde provizyon sistemini başlattı 
+</HEADLINE>
+<TEXT>
+
+     SSK, sağlık yardımlarından yararlanma hakkını on-line sorgulayan provizyon sistemini devlet hastanelerinde uygulamaya başladı. 
+     SSK’dan yapılan yazılı açıklamada, SSK sağlık tesislerinin Sağlık Bakanlığı’na devrinden sonra Sağlık Bakanlığı ile yapılan protokol gereğince 01.07.2005 tarihinde provizyon uygulamasının başlatıldığı kaydedildi. 
+     Bu uygulamayla sigortalılar, aylık ve gelir alanlar ile bunların hak sahiplerinin SSK sağlık yardımlarından yararlanma hakkı olup olmadığının sağlık tesisine başvuru aşamasında on-line olarak SSK bilgi işlem kayıtlarından sorgulandığı anımsatıldı. 
+     Bu sorgulama sırasında yapılan işlemlerden birisinin de sigortalıların sağlık tesisine başvuru tarihinden geriye doğru son bir yıl içinde 90 gün bakmakla yükümlü olduğu eş, çocuk, anne ve babaları için de 120 gün sigorta primi ödenip ödenmediğinin SSK sigortalı hizmet kayıtlarından kontrol edilmesi olduğunu belirtilerek, şöyle denildi 
+     "Sigortalıların kendileri için son bir yıl içinde 90 gün, bakmakla yükümlü oldukları kişiler için 120 gün sigortalı çalışması var ise provizyon alınabilmesi için, bu çalışmaların Aylık Prim ve Hizmet Belgesi ile SSK’ya internet üzerinden veya kağıt ortamında bildirilmesi gerekmektedir. 
+     İşverenlerin çalıştırdıkları sigortalıların hizmetlerini, ait olduğu ayı takip eden ayın sonuna kadar SSK’ya bildirme hakları bulunmasına karşın, sigortalıların ve bakmakla yükümlü oldukları kişilerin SSK sağlık yardımlarından yararlanmalarında mağduriyetlerinin ortaya çıkmaması için bu hizmetlerin ait olduğu ayı takip eden ayın sonunu beklemeden bir an önce SSK’ya internet üzerinden veya kağıt ortamında bildirmeleri önem taşımaktadır. Ayrıca, içinde bulunulan aydaki çalışmaları ile SSK sağlık yardımlarından yararlanma hakkını elde eden sigortalılar için vizite kağıdı düzenlenme aşamasında bu hizmetlerin Aylık Prim ve Hizmet Belgesi ile internet üzerinden veya kağıt ortamında SSK’ya bildirilmesi ve daha sonraki sigortalı hizmetlerine ilişkin olarak Ek Aylık Prim ve Hizmet Belgesi düzenlenerek yine internet üzerinden ya da kağıt ortamında SSK’ya yasal süresi içinde gönderilmesi de mümkün olacaktır." 
+     
+</TEXT>
+</DOC>

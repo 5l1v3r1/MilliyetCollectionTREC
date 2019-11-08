@@ -1,0 +1,64 @@
+<DOC>
+<DOCNO> 75757 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/04/01/yazar/gunes.html </URL>
+<DATE> 2002/04/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Hurşit GÜNEŞ  </AUTHOR>
+<HEADLINE>
+Nash Anlaşmasak da hep birlikte 
+</HEADLINE>
+<TEXT>
+
+     Üniversitede öğrenciyken mikroekonomi derslerinde daha başarılıydım. Ancak makroekonomi daha ilginç gelirdi. Sonunda makroekonominin bir alt dalında, para ekonomisinde uzmanlaştım. Malum makro tüm ekonomiyi, mikroekonomi de birey ya da firmaların davranışlarını inceler. Amaç da bir dengenin oluşup olmadığının gözlenmesidir. 
+     Birey ve firmaların tepki veya davranışları piyasaların işleyiş mekanizmalarını oluşturur. Piyasaları oluşturan tavırların rasyonel olması varsayılır. Herkes rasyonelse gelişmeler kestirilebilir. Ve, aksi müdahale olmadıkça, dengeye ulaşılır. Denge kavramı ekonominin belkemiği olmakla birlikte, matematikçileri ve fizikçileri de ilgilendirmiştir. 
+     Bu ara meslektaşlarımızı Nash merakı sardı. Herkes Nash’i yazıyor. Çünkü "Akıl Oyunları" filmi matematikçi John F. Nash’in yaşamının bir kesitini yanısıtıyor. Nash, Reinhard Selten ve John Harsanyi ile beraber 1994 yılında ekonomi dalında Nobel ödülü almıştı. Matematiğin hayli güçlü olduğu Princeton üniversitesinde doktorasını yapan Nash, o tarihlerde Einstein’dan tutun da, Von Neuman, Morgenstern gibi gurularla tanışmıştı. Matematikçi William Tucker yaşamında çok önemli rolü olmuştu. Üstelik o yıllar Fransa’da ve Amerika’da matematikte önemli çığırlar açılıyordu. 
+     Nash o yıllarda oyun teorisi dediğimiz matematik dalıyla karşılaştı. Oyun toerisi, bireylerin davranışlarını belirlerken tek başlarına değil, diğerlerinin de tavır ve niyetlerinin dikkate alınması sistemidir. Böylesi durumlarda atılan adımlardan çok, varılan denge önemlidir. Bu denge herkesi memnun edebildiği gibi, hiç kimseyi memnun etmeyebilir. 
+     Nash eşgüdümlü oyunlarda bağlayıcı anlaşmaların, eşgüdümsüz - bağlayıcı anlaşmalardan daha uygun olacağını göstermiştir. Üstelik bu denge tek denge de olmayabilir. Örneklemek gerekirse, birkaç firmadan oluşan bir piyasada firmalar karlarını maksimize ederken, diğer firmaları da dikkate alarak bunu gerçekleştiriyorlarsa bu bir Nash dengesidir. Ancak bu ilk 1838 yılında Augustin Cournot tarafından ortaya atıldığından literatürde Cournot - Nash dengesi olarak geçer. Bu denge fiyatla maliyet eşitlendiğinden rekabetçi dengeyi sağlar. Kimse de o dengeden çıkmak istemez. Ancak bu dengede, açık biçimde olmasa da, bir araya gelme collusion vardır. 
+     Reinhard Selten, farklı aktörlerin dinamik stratejik etkileşimini irdeleyerek, Nash dengesini az sayıda satıcının rekabetine uygulamıştır. Bu da teorik olarak mümkün, ama kalıcı olmayan, anlamsız dengelerin göz ardı edilebilmesini sağlamıştır. John Harsanyi ise eksik enformasyon durumundaki oyunları incelemiştir. 
+     Akıl Oyunları filminde John Nash’in aklını nasıl yitirdiğini seyrettik. Nash otobiyografisinde şöyle diyor "Fiziksel özürlü olmaktan sağlığa kavuşmak çok zevkli değildir. Asıl sorun insanın evrenle kosmos olan ilişkisinin kavramsallaşmasına sınır gelmesidir. Mesela Zoroastrian olmayan herkes Zarathustra’yı milyonları ateşe tapma ritüelinin peşine taktığından çılgın sayabilir. Ancak Zarathustra deli olmasaydı, dünyadaki unutulup giden milyonlarca, milyarlarca kişiden biri olacaktı " 
+     Bunu okuduktan sonra anladım ki, Nash aslında hiç tedavi olmamış. Deha ile deliliği hep aynı potada görmüş. 
+     
+     
+
+
+
+
+
+
+
+Mısır notları 
+
+
+Ankara'nın Arafat uyarısı 
+
+
+ABD’nin Ortadoğu çıkmazı 
+
+
+Nash Anlaşmasak da hep birlikte 
+
+
+İsrail savaşmıyor, terör üretiyor 
+
+
+Bankalar denetim kıskacında 
+
+
+Teröre silah, mayın satanlar... 
+
+
+Filistin ve Arafat'ın trajedisi 
+
+
+Gazetecilik bir milliyettir 
+
+
+2001 krizi 1994’ten çok daha ağır ve özel 
+
+
+Üretemedik, küçüldük 
+
+
+</TEXT>
+</DOC>

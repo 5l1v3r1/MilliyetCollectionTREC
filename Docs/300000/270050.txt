@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 270050 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/08/son/soneko20.html </URL>
+<DATE> 2004/09/08/ </DATE>
+<TIME> 12.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsada rekor kapanış... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi, 427.77 puan artışla, 1. seansı 21,546.93 puandan yeni bir seans kapanış rekoruyla tamamladı. 
+     1. seansta hisse senetleri ortalama yüzde 2.03 değer kazandı. 
+     Dün 21,119.16 puandan kapanan İMKB Ulusal 100 Endeksi, 1. seansa, 17.44 puan artışla 21,136.60 puandan başladı. İlk yarıyı 21,317.00 puandan geçen endeks, seans içinde en düşük 21,063.46 puana kadar gerilerken, en yüksek 21,572.01 puanla yeni bir zirve yaptı. 
+     Seans sonunda mali endeks 659.54 puan artışla 29,770.52 puana, sanayi endeksi 160.88 puan artışla 19,162.83 puana ve hizmetler endeksi 401.12 puan artışla 11,095.18 puana yükseldi. 
+     Böylece önceki kapanışa göre, mali grup hisseler ortalama yüzde 2.27, sanayi grubu hisseler ortalama yüzde 0.85 ve hizmet grubu hisseler ortalama yüzde 3.75 değer kazandı. 
+     1. seansta işlem gören toplam 295 hisse senedinden 199'u değer kazandı, 48'i değer kaybetti, 48 hissenin fiyatında değişiklik olmadı. 
+     Seansta, 816 trilyon 968 milyar 578 milyon liralık işlem hacmi oluştu. 
+     1. seansta Yapı ve Kredi Bankası, Turkcell, Kardemir D , İş Bankası C ve Doğan Holding, en fazla işlem gören hisse senetleri oldu. 
+     Güne Merkez Bankası'nın faiz indirimi haberiyle başlayan borsa, kısa sürede 21,314.98 puanlık tarihi zirveyi test etti. Ardından gelen kar satışlarıyla 21,063.46 puana kadar gerileyen endeks, bu satışların karşılanması ve Merkez Bankası'nın faiz indiminin olumlu algılanmasıyla yeniden toparlandı ve 21,500 puan seviyesine yöneldi. Seans genelinde alım ağırlıklı bir seyir izleyen borsada endeks, 21,546.93 puanla TL bazında yeni bir seans kapanış rekoru kırdı. 
+     
+</TEXT>
+</DOC>

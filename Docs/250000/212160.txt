@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 212160 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/30/son/sondun26.html </URL>
+<DATE> 2004/01/30/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Mydoom virüsünün kaynağı Rusya mı 
+</HEADLINE>
+<TEXT>
+
+     Dünya çapında elektronik postaları etkileyen internet virüsü ''Mydoom''un kaynağının Rusya olabileceği bildirildi. 
+     Rus antivirüs şirketi ''Kaspersky Labs'' uzmanlarından Aleksandr Gostiev, basın toplantısında, ''Bu virüs ilk olarak Rusya'da görüldü. Kesin olmamakla birlikte, bu olay bizi virüsün kaynağının Rusya'da olduğunu düşündürüyor'' dedi. 
+     Gostiev, virüsü yaratanların amacının sadece e posta trafiğini felce uğratmak değil, virüs bulaşan bilgisayarlar yoluyla çöp mektup ''spam'' adı verilen mailleri yaymayı amaçladıklarını belirtti. 
+     Gostiev, saldırının ''muhtemelen aylar boyunca çok iyi hazırlandığını ve planlandığını'' ve ''virüsün her şeyden önce 'spam' mailleri yaymaya çalışan suç çetelerinin işine yarayabileceğini'' söyledi. 
+     Şirketin sözcülerinden Denis Zenkine de, dünya çapında internet trafiğini izlemek için özel programları bulunduğunu, bu programların, ''solucan'' tipi bu virüsten ilk kez etkilenen maillerin Rusya'da olduğunu saptadıklarını kaydetti. 
+     ''Mydoom'' virüsü hafta başında ortaya çıkmıştı. Ortaklaşa kullanılan programlar ve elektronik postalarla otomatik olarak yayılan virüs, 168 ülkede binlerce bilgisayara bulaştı. 
+     
+</TEXT>
+</DOC>

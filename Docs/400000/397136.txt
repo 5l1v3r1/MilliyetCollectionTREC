@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 397136 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/22/son/sonyas10.html </URL>
+<DATE> 2005/11/22/ </DATE>
+<TIME> 15.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yeni arama motoru Hakia.com tanıtıldı... 
+</HEADLINE>
+<TEXT>
+
+     Yeni nesil arama teknolojisini kullanarak hazırlanan arama motoru Hakia.com, İstanbul'da tanıtıldı. 
+     2004 yılında nükleer fizikçi Dr. Rıza Can Berkan tarafından kurulan arama motoru Hakia.com, internet kullanıcısına en hızlı, verimli ve kapsamlı arama tecrübesini yaşatmayı amaçlıyor. 
+     Endeksleme teknolojisi yerine, yeni bir altyapıyla dizayn edilen hakia, lisan anlayan, semantik algoritmalarla geliştirildi. 
+     Sorulan soruyu algılama ve komple cevap verme kapasitesine sahip bir arama motoru olmayı amaçlayan Hakia arama motoru ''Baş ağrısını hangi ilaç iyileştirir '' sorusuna, ''Aspirin migrene iyi gelir'' gibi bir cevap getirebilirken, soru ve cevap cümlelerindeki hiçbir kelime aynı olmuyor. 
+     Hakia.com'un tanıtımı nedeniyle düzenlenen toplantıda konuşan Hakia Genel Müdürü Rıza Can Berkan, Hakia'nın Fince ''hakija'' sözcüğünden türediğini belirterek, ''araştırmacı'' anlamına geldiğini söyledi. 
+     Beta versiyonuyla açılışı yapılan arama motorunun, 6 aylık bir evrim sürecinin ardından istenilen analiz kapasitesine ulaşacağını anlatan Berkan, Hakia'nın diğer arama motorlarından birçok farklı yönünün bulunduğunu kaydetti. 
+     Berkan, ''Performans olarak yüzde 10-20 gibi görünür bir avantaj getirirsek başarılı olabileceğimize inanıyorum. Biz pazarı ele geçirmeyi amaçlıyoruz. İlk yıl içinde günde 50 milyon aramaya ulaşabilmeyi hedefliyoruz'' dedi. 
+     Yatırımcı Dr. Pentti Kouri tarafından finans edilen ve 2005 Ağustos ayında bir New York finans grubundan 5 milyon dolarlık yatırım alan Hakia'nın yönetim kurulunda teknoloji yatırımları dünyasından önemli isimler yer aldığını belirten Berkan, Hakia'nın toplam yatırım tutarının ise 7.5 milyon dolar olduğunu bildirdi. 
+     Ontolojik semantik teorisinin fikir babası kabul edilen Purdue Üniversitesi Profesörü Victor Raskin'in de Hakia'nın tasarım grubunda çalıştığını belirten Berkan, çeşitli milletlerden yaklaşık 30 kişilik bir ekiplerinin bulunduğunu anlattı. 
+     Hakia'nın kullanımı arttıkça yeni kavramları ve farklı lisanları daha iyi anlayacağını ve cevapları daha anlaşılır bir formatta verebileceğini belirten Berkan, 2006 yılının ilk yarısında evrimini kısmen tamamlamış olacak Hakia'nın yeni bir BETA versiyonuyla resmi açılışının yapılacağını kaydetti. 
+     
+     ''BENİM ADIM NE SORUSUNUN CEVABI YOK'' 
+     Hakia.com Genel Müdür Yardımcısı Melek Pulatkonak da şu anda en çok merak edilen konular üzerinde evrim çalışması yapıldığını, arama motorunu kullanan kişilerin denemeleriyle Hakia'nın kapsamlı hale geleceğini anlattı. 
+     www.hakia.com'da yapılan aramalarda, ''Benim adım ne '', ''Ben kimim '' gibi soruların da cevabının istendiğini dile getiren Pulatkonak, Hakia'da bu tür soruların cevabının olamayacağını söyledi. 
+     Pulatkonak, Amerikalıların artık ne soracaklarının bilindiğini, özellikle Türkiye'den değişik bir bakış açısıyla sorular beklediklerini kaydetti. 
+     
+</TEXT>
+</DOC>

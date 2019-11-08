@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 270611 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/10/yazar/uras.html </URL>
+<DATE> 2004/09/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Güngör URAS  </AUTHOR>
+<HEADLINE>
+Doğuş 'euro tahvili' çıkardı 'TL' borçlandı 
+</HEADLINE>
+<TEXT>
+
+
+Doğuş'un "Volkswagen Doğuş Tüketici Finansmanı AŞ" isminde bir şirketi var. Bu şirket Doğuş grubu tarafından ithal edilerek satılan otomobilleri satın alanlara taksitli kredi veriyor. Bugüne kadar bu şirket tarafından verilen kredilerle 80 bin araç satılmış. Bugüne kadar ülkede otomobil satışları için toplam 4 katrilyon 185 trilyon lira otomobil kredisi kullandırılmış. Bu kredi stoku içinde Doğuş'un şirketinin payı yüzde 13.5 oranında. 
+Şirketin otomobil satın alacaklara daha çok kredi verebilmesi için, yabancı ortağı, yurtdışında 50 milyon euro değerinde "euro tahvili" çıkardı. Ama şirketin ihtiyacı Türk lirası TL . Çünkü, Türkiye'de otomobil alacaklara TL üzerinden kredi veriliyor. 
+Burada şirketin yapabileceği, 50 milyon euroyu Türkiye'ye getirmek. 1 euro 1.800.000 TL kuruyla Türk lirasına çevirerek kullanmak. Fakat tahviller iki yıl vadeli. İki yıl sonra 1 euronun kaç TL edeceğini tahmin etmek imkansız. Şirket, müşterisine TL verdiği krediyi TL olarak geri alacak ama, tahvil borcunu euro olarak ödeyecek. Açık anlatımıyla kur riski üzerinde kalacak. Euro fiyatı pahalandığında büyük riske girecek. İşte bunu önlemek için şirket, bir yabancı bankayla Türkiye'de de şubesi bulunan Fransız bankası Societe General ile "Swap" anlaşması yaptı. Bankanın Türkiye'de şubesi var ama işlemleri yurtdışındaki merkez yapıyor. Şirketin euro tahvili borcunun karşılığı TL, anlaşmanın yapıldığı günkü döviz kurundan "sabitlendi". 
+Swap denilen bankacılık işlemi bizler için yeni, pek bilinmeyen bir işlem. Basit anlatımıyla "Bir parayı, başka bir parayla, belli bir zaman sonra değiştirmek için bankayla yapılan anlaşma". Veya daha basit ifadeyle "döviz takası". 
+
+Kur risksiz döviz kredisi 
+Ben sayın okuyucularıma bilgi verebilmek için bu gibi işlemleri yabancı bankalarda öğrenip, Türkiye'de uygulamaya çalışan genç bankacılardan neyin ne olduğunu sordum. Onlardan öğrendiklerime göre "swap" işleminin işleyişini özetleyeyim. 
+Şirketin yurtdışındaki yabancı ortağı, Avrupa'da 50 milyon euroluk tahvil satarak, topladığı parayı "swap anlaşması yaparak" karşılığında TL kredi verilmek üzere yurtdışında Societe General adındaki Fransız bankasına yatırdı. Banka bu 50 milyon euroya sanki mevduatmış gibi euro mevduatına verilen faize benzer euro faizi ödeyecek. Anlaşmaya göre banka, yatırılan 50 milyon euronun o günkü kurdan Türk Lirası karşılığını hesapladı. Bu rakam 91 trilyon TL tutuyor. Şirkete, Bankalar Birliği tarafından her gün açıklanan, bankalar arası ortalama faiz oranı "libor faizi"yle şimdilerde yüzde 25 dolayında bir yıllık Türk lirası kredi verildi. Şirket yurtdışındaki bankaya yıl sonunda 91 trilyon TL'nin faizini ödeyecek. Bir yıl sonra aynı anlaşma bir daha yenilenecek. İki yıl sonra euro tahvillerinin vadesi geldiğinde banka yurtdışında 50 milyon euro ödemeyi yapacak. Şirket o gün euro fiyatının ne olduğuna bakmadan, herhangi bir döviz kuru riskiyle karşılaşmadan yurtdışındaki bankadan TL olarak kullandığı kredi hesabını kapatacak. Günümüzde yabancı parayla borçlanmak Türk Lirası'yla borçlanmaktan kolay. Türk Lirası finansman ihtiyacı için dövizle borçlananlar kur riskini taşıyor. Bu da büyük bir risk. İşte "swap" denilen "para takası" işlemi, bu riski ortadan kaldırıyor. İşadamlarımıza kaba bilgi vermek için bunları yazıyorum. 
+
+
+
+</TEXT>
+</DOC>

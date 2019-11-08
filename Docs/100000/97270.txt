@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO> 97270 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/07/22/son/sondun09.html </URL>
+<DATE> 2002/07/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Metrenin on milyarda biri zerreciklari ölçen ışın geliştirildi. 
+</HEADLINE>
+<TEXT>
+
+     ABD'de Colorado Üniversitesi bilim adamları, lasere benzer ancak laserden çok daha güçlü yeni bir ışın demeti geliştirdiklerini açıkladı. 
+     Science dergisindeki habere göre, metrenin on milyarda biri 0,1 nanometre kadar ölçüm yapabilen ışının, güçlü netleştirme özelliği olduğunu belirten uzmanlar, buluşun teknolojide yeni ufuklar açacağını bildirdi. 
+     Gelecek kuşağın bilgisayarları için yeni yongaların geliştirilmesinde de kullanılabilecek sistemle, çok küçük cihazların imal edilebileceği belirtildi. 
+     Kullanılan elektron mikroskop ve diğer tarama cihazlarının en küçük yapıları bile görebildiğini hatırlatan araştırmacılar, bu cihazların optik özelliklerinin dalga uzunluğu açısından sınırlı olduğunu, yeni ışın sisteminin ise bu sınırı ortadan kaldırabildiğini kaydetti. 
+     YERYÜZÜNDEKİ EN KÜÇÜK YAYILMA Yeni bir icat olduğu belirtilen kısa dalga boyu ışın sisteminin, önümüzdeki yıllarda bilim alanında büyük bir etki ortaya koyacağına değinen uzmanlar, geliştirilen sistemle, aşırı derecede yüksek ultraviyole ışın kaynağı EUV elde edilebildiğini bildirdi. 
+     Yeni sistem, nanometrenin metrenin milyarda biri onda biri kadar dalga boyu yayarak, yeryüzündeki en küçük yayılmayı ortaya koyan ışın olarak nitelendirildi. 
+     Işın sisteminin tekli moleküller ve en küçük zerrecikler arasındaki etkilenmeyi ölçebildiği, bu özelliğin, iletişim teknolojisinde gerekli olan avantajı sağlayabileceği kaydedildi. Yeni ışın sistemi, ''high harmonic genaration HHG '' adı verilen bir yöntemle elde edildi. 
+     GAZ KÜMESİNE SALINAN IŞIN ELEKTRONLARI ATOMLARDAN AYIRDI EUV ışınını, gözle görülür sekilde bir gaz kümesine ateşleyen uzmanlar, güçlü elektromanyetik alan meydana getirmeyi başardı. 
+     Etki alanının gazı iyonlaştırdığını gözleyen araştırmacılar, elektronların atom kaynağından ayrıldığını belirledi. 
+     Atom kaynağından ayrıldıktan sonra manyetik alanda sürekli hareket ederek gaz atomlarıyla çarpışmaya başlayan elektronların, yüksek enerji kaynağı doğurduğu saptandı. 
+     DÜNYADAN BİR SANTİMETRE ÇAPINDA SALINACAK IŞIN, AY'A... Doğru bir sistemden salınacak ışının, helyum-neon laser ışınlarından 20-30 kat daha küçük çapta ve yüzlerce kez şiddetli olacağı bildirildi. Yeni ışının çapıyla ilgili örnek veren uzmanlar, Dünya'dan bir santimetre çapında salınacak olan ışının, Ay'a 30 metre çapında yansıyabileceğini belirtti. 
+     Geleneksel lazer ışınlarının ise aynı durumda Ay'a bir kilometre çapında yansıyabildiği biliniyor. 
+     Işının daha küçük çapta yansıyabilmesinin şiddetini yüksek oranda artırdığı kaydedildi. 
+     LASERDEN YÜZLERCE KAT ETKİLİ EUV ışınlarının, bilinen laser ışınlarından yüzlerce kat daha etkili olduğu, geliştirilecek sistemlerle moleküllerin hareketlerinin bile kolaylıkla gözlenebileceği belirtildi. 
+     Yeni ışın sistemiyle yüksek oranda ''biyolojik hologramlar'' elde edilebileceğine değinen araştırmacılar, yakında ışınların imalat teknolojisinde deneneceğini bildirdi. 
+     Hologram, iki laser ışınının çarpıştırılması sonucu meydana gelen ve üç boyutlu resim verebilen negatif. 
+     EUV sisteminin ticari olarak kullanılmasıyla ekonomide büyük kazançların sağlanabileceği ve sistemi kullanacak firmaların, imalat sanayiinde rakip tanımayacakları kaydedildi. Laser benzeri olan yeni ışın sistemi, 5 bin dolara malolabilecek. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

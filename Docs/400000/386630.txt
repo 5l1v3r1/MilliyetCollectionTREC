@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 386630 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/14/son/soneko04.html </URL>
+<DATE> 2005/10/14/ </DATE>
+<TIME> 00.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası'nda Dow Jones endeksi düştü, Nasdaq endeksi yükseldi 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Borsası'nda Dow Jones endeksi düşerken Nasdaq yükseldi. 
+     Borsanın temel göstergesi Dow Jones 0,32 puan düşüşle günü 10.216,59 puandan kapatırken, teknoloji endeksi Nasdaq 9,75 puan artışla 2.047,22 puana çıktı. 
+     
+</TEXT>
+</DOC>

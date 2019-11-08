@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 231113 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/13/son/sonyas10.html </URL>
+<DATE> 2004/04/13/ </DATE>
+<TIME> 12.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dünyanın ilk manyetik hızlı treninin rayları batıyor 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın manyetik kaldırma kuvveti yöntemiyle çalışan ilk hızlı treninin ''batmaya'' başladığı bildirildi. 
+     Shanghai Daily'nin haberinde, Şanghay'ın yeni havalimanını doğudaki ticari bölgeye bağlayan hattaki raylarda batma olduğu belirtildi. Projeyi yürüten şirketin bir yetkilisi, ''Raylar çok hafifçe batıyor'' dedi. 
+     Yetkili, bunun trenin işlemesini engelleyip engellemeyeceği konusundaysa bilgi vermedi. 
+     Gazete, batma ve bunun nedenleriyle ilgili ayrıntılı bilgi vermedi. Şangay yönetiminden bir yetkili ise gazetedeki haberin araştırıldığını söyledi. 
+     Şangay Tünel Mühendisliği ile Demiryolu Transit Tasarımı ve Araştırması Enstitüsü'nden bir uzman, rayların güvenlik seviyesinin altına düşmesi halinde hattaki ulaşımın durdurulmak zorunda olduğunu söyledi. 
+     Bu hızlı trenlerde, vagonları rayların üzerinden milimetrelerce kaldırmasını sağlayan güçlü manyetik alan kullanılıyor ve böylece tren, raylara temas etmeden, çok hızlı gidiyor. 
+     Alman şirketleri ''maglev'' teknolojisini geliştirmek için on yıllar ve milyarlarca dolar harcadılar. 
+     430 kilometre hızla giden tren projesi için 1.2 milyar dolar harcandı. 
+     
+</TEXT>
+</DOC>

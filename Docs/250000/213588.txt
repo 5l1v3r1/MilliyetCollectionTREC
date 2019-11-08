@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 213588 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/06/son/sontur10.html </URL>
+<DATE> 2004/02/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+CEP to SANDIK'a yasak geldi... 
+</HEADLINE>
+<TEXT>
+
+     Telekomünikasyon Kurumu, 3 Kasım genel seçimi öncesinde Genç Parti'nin GP , Telsim üzerinden yürüttüğü ve abonelerin tepkisiyle karşılanan cep telefonundan siyasi propogandayı yaklaşan, 28 Mart yerel seçimleri öncesinde yasakladı. 
+     Telekomünikasyon Kurumu'nun "Telekomünikasyon Sektöründe Kişisel Bilgilerin İşlenmesi ve Gizliliğin Korunması Hakkında Yönetmeliği", Resmi Gazete'de yayımlandı. 
+     Buna göre, işletmeciler kişi müdahalesi olmaksızın çalışan faks, elektronik posta, kısa mesaj gibi otomatik arama sistemlerini, abonenin önceden izni olmadan siyasi propaganda amacıyla kullanamayacak. 
+     Söz konusu otomatik arama sistemlerinin doğrudan pazarlama amacıyla kullanılması durumunda kullanıcılara gelen her bir mesajı, bundan sonrası için almayı reddetme hakkı ücretsiz ve kolay bir yolla sağlanacak. 
+     Doğrudan pazarlama amacıyla gönderilen ve kimin adına haberleşme yapıldığı konusunda göndericinin kimliğini saklayan ya da alıcının bu iletişimin sonlandırılması yönünde talepte bulunacağı bir adresin belirtilmediği elektronik mektupların gönderilmesi, abonenin bu yöndeki talebi halinde engellenecek. 
+     
+     ARAYAN HATTIN KİMLİĞİNİN GİZLİLİĞİ 
+     İşletmeci, aramayı yapan abonesine basit bir yöntemle ve ücretsiz olarak her arama için arayan hattın kimliğinin açıklanmasını engelleme olanağı tanıyacak. İşletmeci, söz konusu olanaktan abonelerini ücretsiz olarak haberdar edecek. 
+     Arayan hattın kimliğinin gizlendiği durumlarda işletmeci, abonenin isteğine bağlı ve ücretsiz olarak gelecek aramaların aboneye ulaşmasını engelleyecek. 
+     
+</TEXT>
+</DOC>

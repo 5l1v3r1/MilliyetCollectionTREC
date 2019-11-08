@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 253123 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/05/son/sontur39.html </URL>
+<DATE> 2004/07/05/ </DATE>
+<TIME> 18.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ADSL tarifesine indirim... 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekom, ADSL üzerinden internet erişiminde indirime gitti. 
+     Türk Telekom'dan yapılan açıklamaya göre, ADSL üzerinden internet erişiminde daha önce 128, 256 ve 512 Kbit sn hızlarına promosyon uygulayan Türk Telekom, bu hızlardaki tarifesini uygulama tarifesi olarak kesinleştirdi. 
+     ADSL tarifesinde 1024 Kbit sn'lik erişim yüzde 28 indirimle 249 milyon liradan 179 milyon liraya, 2048 Kbit sn'lik erişim de yüzde 40 indirimle 465 milyon liradan 279 milyon liraya çekildi. 
+     Açıklamaya göre, 1 Temmuz'da uygulanmaya başlanan, her bir port için indirimli ADSL erişim tarifesi şöyle 
+     
+     
+Hızı kpbs Bağlantı ücreti TL Aylık ücreti TL 128 32 49.000.000 49.000.000 256 64 69.000.000 69.000.000 512 128 109.000.000 109.000.000 1024 256 179.000.000 179.000.000 2048 512 279.000.000 279.000.000 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 407173 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/28/ekonomi/eko04.html </URL>
+<DATE> 2005/12/28/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kayıtsız cepler bayram sonrası kapanıyor 
+</HEADLINE>
+<TEXT>
+
+
+Kayıtdışı cep telefonlarının kapatılmasına bayram sonrası başlanacak. Bugüne kadar 18.5 milyon cep kayıt altına alındı 
+
+ANKARA AA 
+
+Telekomünikasyon Kurumu Başkanı Tayfun Acarer, kayıtdışı cep telefonlarından yaklaşık 18.5 milyonunun kayıt altına alındığını, 1 milyonun üzerinde cep telefonun ise şüpheli kategorisinde 'Gri Liste'de olduğunu açıkladı. 
+Acarer, kayıt altına alınmayan birkaç yüz bin telefonun Kurban Bayramı tatilinden sonra görüşmeye kapatılacağını söyledi. 
+Kayıtdışı yaklaşık 19.5 milyon civarında cep telefonu için Telekomünikasyon Kurumu'ndan GSM işletmecilerine bilgi gönderildiğini ve ardından bu makinelere SMS kısa mesaj atıldığını belirten Acarer, en son bilgilerle yaklaşık 18.5 milyon telefonun kayıt altına alındığını, geriye 1 milyondan biraz fazla telefon kaldığını ifade etti. Acarer, şöyle konuştu "20 milyonda 1 milyon, kayıt dışı makinelerin yüzde 95'inin kayıt altına alındığı anlamına geliyor. Sadece yüzde 5, Gri Liste'de. Bu rakam yüzde 2 veya 3 olarak kapanabilir." 
+
+Hata olursa, açılacak 
+Kayıt işlemleri öncesinde 6 milyona yakın IMEI kimlik numarası kopyalanmış telefonla karşılaşıldığını dile getiren Acarer, şöyle dedi "Bugün 43 milyon GSM abonesi var. 35 - 36 milyon fiili kullanıcı demektir bu. Bu fiili abonenin 20 milyon cep telefonu kayıt dışı görünüyordu." Acarer, kullanılmadığından emin olunan telefonları belirledikten sonra şüphelenilenlerin tekrar sorgulanacağını, son görüşme bilgileri doğrultusunda görüşmeye kapatılıp kapatılmayacağına karar verileceğini belirtti. Acarer, hata olursa bu telefonları tekrar görüşmeye açabileceklerini de ifade etti. 
+
+Kart gibi kapanacak 
+Kurum, cep telefonlarını sıkı şekilde takip edecek İhbar Merkezi'nin de bu hafta sonu bütünüyle faaliyete geçiriyor. Acarer, isteyen abonelerin telefonlarını bu merkeze bir SMS mesajı ile kaydettirebileceklerini söyledi. 
+Atılan mesajla SIM ve IMEI numarası sisteme kaydedilecek. Söz konusu cep telefonu kaybedildiğinde ya da çaldırıldığında bu merkez aranarak makinenin bloke ettirilmesi sağlanacak. Bu yöntemin kredi kartlarındaki kapama gibi yapılması planlanıyor. 
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 275059 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/26/son/soneko07.html </URL>
+<DATE> 2004/09/26/ </DATE>
+<TIME> 10.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kanadalılar internet üzerinden alışverişi sevdi... 
+</HEADLINE>
+<TEXT>
+
+     Kanada'da uçak biletleri ve kitaplar başta olmak üzere internet üzerinden alışveriş yapmayı tercih edenlerin sayısının hızla arttığı bildirildi. 
+     Ulusal istatistik dairesi Statistics Canada'nın açıkladığı verilere göre, ülkede 2002'de 2.8 milyon kişi internet üzerinden alışverişi tercih ederken geçen yıl bu rakam 3.2 milyona yükseldi. 
+     Kanada'da 2002'de 16.6 milyon olan internette verilen sipariş adedi, 2003'te 21.1 milyona yükselirken siparişlerin toplam değeri de yüzde 25 artışla 3 milyar dolara çıktı. 
+     Geçen yıl ülkede 688 milyar dolar olarak gerçekleşen toplam kişisel harcamalar dikkate alındığında internet üzerinden gerçekleşen yaklaşık 3 milyar dolarlık kısmın çok önemli görülemeyeceğini kaydeden İstatistik Dairesi, toplam internet alışverişinin yüzde 30'unu oluşturan kitap, dergi ve gazetelerde ise bu alanda ''kayda değer'' bir noktaya erişildiğini bildirdi. 
+     Kanadalıların internet üzerinden alışverişte uçak biletlerine de ilgi gösterdi. 2002'de ülkede satılan toplam uçak biletlerinin yüzde 18'i internet kanalıyla gerçekleştirilirken, geçen yıl bu oran yüzde 22'ye yükseldi. 
+     İnternette yerli-yabancı ayrımı yapmayan Kanadalıların geçen yılki her 10 dolarlık sanal alışverişinin 3.1 doları yabancı sitelerden gerçekleştirildi. 
+     Sanal ortamda kredi kartını kullanmakla ilgili şüphelerin artması, Kanadalıları geçen yıl çok fazla etkilemiş gözükmedi. 
+     İstatistik Dairesi'nin 2003'de toplam 4.9 milyon olarak tahmin ettiği internet alışverişi yapan her 6 aileden 5'ten fazlası, ödemelerini kredi kartıyla gerçekleştirmede sakınca görmedi. 
+     
+</TEXT>
+</DOC>

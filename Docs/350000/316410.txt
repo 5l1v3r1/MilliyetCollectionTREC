@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 316410 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/18/son/soneko14.html </URL>
+<DATE> 2005/02/18/ </DATE>
+<TIME> 11.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD Gizli Servisi uyardı İnternet sahtekarlığı ekonomiyi tehdit ediyor 
+</HEADLINE>
+<TEXT>
+
+     İnternet üzerinde yaygınlaşan sahtecilik ABD ekonomisine ciddi tehdit oluşturuyor. 
+     ABD Gizli Servis Müdürü Ralph Basham, gelişmiş bilişim teknikleriyle şirketler ve özel kişilerin bilgilerini çalan sahtekarların ABD ekonomi için giderek büyüyen bir tehdit haline geldiğini söyledi. 
+     ''Bu tehdidin gerçekliği hakkında artık şüpheye mahal yok... Sadece bir kaç tuşa dokunmakla ulusal ekonomimizi sarsabilirler'' diyen Basham, Gizli Servis'in ABD Başkanını korumak olarak tanımlanan asli görevinin yanı sıra ABD'nin mali kurumlarının korunmasına da yardım ettiğini belirtti. 
+     ABD Gizli Servis Müdürü, ABD'nin çeşitli güvenlik birimlerinin işbirliğiyle yakın zamanda ABD'nin 8 eyaletiyle 6 yabancı ülkede faaliyet gösteren bir İnternet çetesinin çökertildiğini ve 30 kişinin tutuklandığını da bildirdi. 
+     Basham, söz konusu çetenin 7 milyon kredi kart numarasını çalarak kredi kartı şirketleri ve tüketicilere 4,3 milyon dolar zarara verdiğinin tespit edildiğini, toplam kaybın 1 milyar dolara ulaşabileceğini vurguladı. 
+     Güvenlik uzmanları, eskiden sırf zevk için bilgisayar sistemlerini çökertmekle yetinen ''hacker''lerin artık veri tabanlarını haklamak ve çeşitli yöntemlerle kişisel bilgileri çalmak yoluyla haksız kazanç edinmeyi amaçlayan organize suç örgütleri halinde güç birliği yapmaya başladıkları uyarısında bulunuyorlar. 
+     
+     KİŞİLER VE KÜÇÜK ŞİRKETLER HEDEFTE 
+
+     Uzmanlar, İnternet sahtecilerinin pahalı güvenlik donanımlarıyla korunan büyük şirketlerden çok daha az korunan küçük şirketlerle bireylere musallat olduğunu ve hızla gelişen bilişim teknolojilerini kötüye kullandığını kaydediyorlar. 
+     Sahteciliğe karşı korunma önlemlerinin artırıldığını ve İnternet kullanıcılarının şu an her zamankinden iyi korunduğunu kabul eden uzmanlar, bununla birlikte yeni teknolojileri benimsemekte hızlı davranan sahtekarların yeni açıklar bulabildiğine dikkat çekiyor. 
+
+     
+</TEXT>
+</DOC>

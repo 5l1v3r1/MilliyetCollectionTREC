@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 236768 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/03/ekonomi/eko03.html </URL>
+<DATE> 2004/05/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Uzanlar'a 'kaçak cep' soruşturması 
+</HEADLINE>
+<TEXT>
+
+
+Gümrük Müsteşarlığı, yurda kaçak sokarak dağıttıkları cep telefonlarını piyasaya sürdükleri gerekçesiyle Uzanlar'ın 24 şirketi hakkında soruşturma başlattı 
+
+Nedim Şener 
+
+Banka boşaltma, dolandırıcılık, zimmet ve kara para aklama iddiaları nedeniyle zor günler geçiren Uzanlar hakkında cep telefonu kaçakçılığı ile ilgili olarak soruşturma yapılıyor. 
+Gümrük Müsteşarlığı Gümrük Muhafaza Başkontrolörü İlter Kuşoğlu başkanlığındaki 10 kişilik ekibin yürüttüğü soruşturmada, Uzanlar, kaçak yollardan soktukları ve gazeteleri aracılığı ile kupon karşılığı dağıttıkları cep telefonlarının IMEI International Mobile Equipment Identity - cep telefonu seri numarası numaralarını değiştirerek piyasaya sürmekle suçlanıyor. 
+Gazetesinde kupon karşılığı dağıtılan Motorola ve Sagem marka cep telefonlarının herbirinde bulunan IMEI numaralarını değiştiren Uzanlar'ın, binlerce telefonu da aynı IMEI numarasıyla piyasaya soktukları iddia ediliyor. Bilindiği gibi her bir cep telefonun hafızasında onu tanımlayan bir IMEI numarası bulunuyor. Telefon kaybolursa bu numaraya gönderilen sinyallerle cihazın yeri belirlenebiliyor. Telefon ithal edilirken gümrük beyannamesinde de belirtilen bu numara Telekomünikasyon Üst Kurulu'na da bildiriliyor. 
+
+Bir IMEI 3 bin telefon 
+Uzanlar ise Telekomünikasyon Kurulu'na ödeme yapmamak için binlerce telefona bir IMEI numarası verdikleri iddia ediliyor. Kurulun yaptığı araştırmada da tek bir IMEI numarasına karşılık üç bin telefondan sinyal alındığı öğrenildi. Uzanlar'ın kalan 2 bin 999 cihazı da Türkiye'ye kaçak yollardan soktukları belirlendi. Bu işlemlerin Uzanlar'a bağlı 24 şirkette yürütüldüğüne ilişkin bilgiler üzerine tüm gümrük işlemleri üzerinde araştırma başlatıldı. 
+
+Soruşturma e-postayla başladı Cep telefonu soruşturmasının mali polisin yaptığı baskınlarda ele geçen e - postalardan yola çıkılarak başlatıldığı öğrenildi. Hakan Uzan ile Uzan Grubu telekomünikasyon şirketleri yöneticileri arasında gönderilen e - postalarda telefonların Türkiye'ye sokuluşu ile IMEI numaralarının değiştirilmesine ilişkin bilgiler soruşturmanın derinleştirilmesini sağlıyor. 
+Raporda, 2002 öncesinde Telsim Yönetim Kurulu Üyeliği yapan Genç Parti lideri Cem Uzan'ın da suçlananlar içinde olacağı belirtiliyor. 
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 303494 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/04/son/sonyas06.html </URL>
+<DATE> 2005/01/04/ </DATE>
+<TIME> 10.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+2004'ün en ilginç teknolojik buluşları... 
+</HEADLINE>
+<TEXT>
+
+     Geride bıraktığımız 2004, teknolojide yepyeni buluşların yapıldığı yine hızlı bir yıl oldu. İşte senenin en enteresan buluşları... 
+     Bitmeyen piller Yanımızda taşıdığımız cihazlar arttıkça pil ömrünün önemi de artıyor. Bu alandaki en ilginç gelişme Japon NEC firmasından geldi. Organik radikal pil adı verilen teknolojiyle bir MP3çaların 80 saat kesintisiz müzik çalması sağlandı. Toshiba ise sadece 2 santimetreküpte 20 saat güç sağlayan alkol tabanlı bir pil geliştirdi. 
+     DVD savaşları kızıştı Sony ve Toshiba arasında yaşanan Beta ve VHS savaşının bir benzeri 2004 yılında 25 gigabayt kapasiteye sahip olacak yeni nesil DVD alanında yaşandı. Sony firması blue-ray, Toshiba ise HD-DVD adlı teknolojiyi kabul ettirmek için kıyasıya lobi faaliyetleri yürüttü. İşin galibiyse 2005 senesinde belli olacak gibi. Büyük film stüdyolarıysa şimdiden Toshiba tarafında saf tutmuş durumda. Yeni formatın ticari olarak pazarlanacağı yılsa 2006 olarak belirlendi. Britanya'daki bir çalışmanın sonucundaysa tek CD'ye 118 DVD büyüklüğünde veri yazan bir teknoloji geliştirildi. Bu da yaklaşık 478 saatlik görüntü anlamına geliyor. Yani bir dizinin 18 yıl boyunca tüm bölümlerine tek CD'de sahip olmak mümkün. 
+     Havada uçan mesajlar Cep telefonlarıyla yapmak istediğiniz her şeyi yapabildiğinizi sanıyorsanız yanılıyorsunuz. Telefon üreticilerinin hayal gücünün sınırı yok. Bu alandaki en ilginç telefonsa Nokia'nin 3220 modeli oldu. Üstündeki LED ışıklar sayesinde 12 karakterlik mesajları havaya yazıyor. Kullanım alanlarıysa size kalmış. 
+     Dilin ucundaki şarkı İlk defa Almanya Cebit fuarında tanıtılan Shazam teknolojisi, arşivindeki 1 milyon 600 binden fazla şarkılık arşivini 'dinlediği' melodilerle karşılaştırma yeteneğine sahip. Türkiye'deyse gündeme Turkcell tarafından 'Ne bu çalan' adıyla girdi. İsmini öğrenmek istediğiniz şarkıyı cep telefonunuzdan 7505'i arayıp dinletiyorsunuz. Karşı taraf şarkıyı dinleyip tanıyor ve ismini kısa mesajla yolluyor. Hizmet bedeli 8 SMS, kimi zaman bulamıyor, kimi zaman saatler sonra yolluyor ancak zamanla gelişeceği ve ucuzlayacağı kesin. Arka planda epey karmaşık bir sistem kullanan bu yapı 2004'ün en ilginç teknolojilerinden oldu. 
+     Tescilli vücutlar Temmuz ayında dünyanın en büyük bilişim şirketlerinden Microsoft, vücudun iletkenliğini kullanarak deri üstünden enerji ve veri transferi yapmanın patentini satın aldı. Patent aynı zamanda insanların el sıkışarak ya da dokunarak veri değişimi yapmasını da kapsıyor. Şu an kullanım alanı belli değil. 
+     Polisin koca kulağı ABD'de suç oranının yüksek olduğu mahallelere silah sesine duyarlı mikrofonlar yerleştirilmeye başlandı. Menzili dahilinde silah sesi duyduğunda cihaz sesin geldiği yönün görüntülerini kaydetmeye başlıyor. Böylece suça karışan kişiler de kaydediyor. Bu görüntüler aynı zamanda canlı olarak olay ye- rine ulaşmaya çalışan polis ekiplerinin araçlarındaki internete bağlı monitörlere de yansıtılıyor. 
+     Yüz arayan albüm Fuji'nin elektronik albümü sayısal fotoğraf makineleriyle çektiğiniz fotoğrafları 2 GB'lık belleğinde saklıyor. Ancak esas uzmanlık alanı yüz seçmek. Cihazdaki fotoğraflarda bir yüz seçip listele tuşuna basmanız yeterli. Cihaz içindeki tüm fotoğraflarda o yüzü arayıp fotoğraflarını ekrana sıralıyor. Eski teknikle yeni fikir... 
+     
+</TEXT>
+</DOC>

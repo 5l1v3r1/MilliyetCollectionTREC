@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 228161 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/03/yasam/yas03.html </URL>
+<DATE> 2004/04/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Veriler yükle, sonuca ulaş 
+</HEADLINE>
+<TEXT>
+   Kalp krizi riskini bilgisayardan öğren 
+   HeartScore adlı bilgisayar programına hastaların tansiyon ve kolesterol seviyeleri giriliyor. Program, kalp krizi ve felç geçirme riskini hesaplıyor 
+   DIŞ HABERLER SERVİSİ 
+   
+   AVRUPA Kardiyoloji Birliği ESC , kalp hastalarının 10 yıl içinde kalp krizi ve felç geçirme riskini hesaplayan yeni bir bilgisayar programı geliştirdi."HeartScore" adlı programa, hastaların tansiyon ve kolesterol seviyeleri veri olarak giriliyor. Bu verilere hastanın cinsiyet ve yaşı ile sigara gibi kötü alışkanlığı olup olmadığı ekleniyor. Program, güncelleştirilen veriler ışığında kriz riskini hesaplıyor. 
+   
+   Sigara faktörü etkiliyor 
+   ÖRNEĞİN hasta eskiden içici olmasına karşın eğer sigarayı bırakırsa, bu kriz riskini azaltan bir faktör olarak değerlendiriliyor. Programdaki verilere göre, Avrupa'da kalp hastalığı riskinin en az olduğu ülkeler İspanya, İtalya ve Fransa. Doktorların programı internetteki "www.escardio.org HeartScore" adresinden indirebileceği belirtildi. 
+   
+   
+</TEXT>
+</DOC>

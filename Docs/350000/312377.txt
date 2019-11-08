@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 312377 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/04/son/soneko40.html </URL>
+<DATE> 2005/02/04/ </DATE>
+<TIME> 16.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD'de istihdam artışı beklenen düzeyde olmadı... 
+</HEADLINE>
+<TEXT>
+
+     ABD'de, Ocak ayındaki istihdam artışı 146 bin olarak gerçekleşti. 
+     Çalışma Bakanlığı verilerine göre, işsizlik oranı da yüzde 5.2'ye geriledi. 
+     İstihdam sayısındaki artış, ekonomistlerin beklentilerini karşılayamadı. Ekonomistler, Ocak ayında yaklaşık 200 bin düzeyinde bir istihdam bekliyordu. 
+     İstihdam artışındaki yetersizliğin, yavaş ekonomik büyümeden kaynaklandığı belirtiliyor. 
+     
+</TEXT>
+</DOC>

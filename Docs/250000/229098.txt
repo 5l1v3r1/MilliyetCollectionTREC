@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 229098 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/06/son/sonyas21.html </URL>
+<DATE> 2004/04/06/ </DATE>
+<TIME> 15.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Uzay istasyonunun yeni konukları solucanlar 
+</HEADLINE>
+<TEXT>
+
+     Uluslararası Uzay İstasyonu'nun UUİ bu ayki gündemini solucanlar oluşturacak. 
+     Hollandalı astronot Andre Kuipers, 19 Nisan'da Kazakistan'ın Baykonur Uzay Üssü'nden UUİ'ye hareket edecek. 
+     Kuipers, DELTA Dutch Expedition for Life Sciences, Technology and Atmospheric research misyonu çerçevesinde ''Caenorhabditis elegans'' solucanlarını özel bir kutu içinde uzaya götürecek. 
+     Fransız uzay ajansı Cnes, solucanlarla yapılacak ''Ice First'' deneyinin 24 Nisan'da tamamlanacağını açıkladı. Deneyde, yerçekimsiz ortamın ve kozmik ışınların kaslara ve genlere olan etkisi araştırılacak. 
+
+     
+</TEXT>
+</DOC>

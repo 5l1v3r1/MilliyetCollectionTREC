@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 222899 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/16/son/sonyas04.html </URL>
+<DATE> 2004/03/16/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Toyota'dan insanımsı robot .. 
+</HEADLINE>
+<TEXT>
+
+     Japon otomobil devi Honda'nın ürettiği Asimo isimli insan benzeri robottan sonra, yine bir Japon otomobil üreticisi olan Toyota da insanımsı bir robot üretti. 
+     Amerikan medyasında yer alan haberlere göre, Toyota yürüyebilen, el sallayabilen ve başını eğebilen bir robot imal etti. Yaklaşık 120 santimetre boyundaki robot trampet de çalabiliyor. 
+     Toyota'dan yapılan açıklamaya göre, söz konusu robot yaşlı ve işçilere yardımcı olmak üzere önümüzdeki 20 yıl içinde üretilmesi düşünülen otonom makinaların bir prototipi olarak imal edildi. 
+     Honda yürüyebilen ilk robotunu 1995 yılında tanıtmış, bu robotun son versiyonu olan Asimo ise dans edebilir, aşina yüzleri tanıyabilir ve basit soruları cevaplandırabilir hale getirilmişti. 
+     Sony de geçen yıl küçük bir insanımsı robotun tanıtımını yapmıştı. 
+     Toyota şimdilik kar amaçlı üretimi düşünmediğini açıklarken, Japon Robot Birliği halen 4 milyar dolar civarında olan robot pazarının 2010 yılında 14 milyar dolara çıkacağını ifade etti. 
+     
+</TEXT>
+</DOC>

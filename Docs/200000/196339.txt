@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 196339 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/18/son/soneko01.html </URL>
+<DATE> 2003/11/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düştü, Tokyo Borsası yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     New York menkul kıymetler borsası Wall Street, günü düşüşle kapattı. 
+     Dow Jones Endeksi 57.85 puan kayıpla 9710.83 puana, Nasdaq Endeksi de 20.65 puan düşüşle 1909.61 puana geriledi. 
+     
+     TOKYO BORSASI 
+
+     Tokyo Borsası, günü yükselişle kapattı. 
+     Borsada Nikkei Endeksi kapanışta 110.22 puan artarak 9,897.05 puana çıktı. 
+     Aynı borsada ABD Doları Japon Yeni karşısında 0.62 yen değer kaybederek 108.84 yene indi 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 287586 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/09/son/sonyas14.html </URL>
+<DATE> 2004/11/09/ </DATE>
+<TIME> 10.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Teknolojinin yüzü var mı Artık var... 
+</HEADLINE>
+<TEXT>
+
+     BBC 
+
+Teknolojiye bir yüz kazandırmak, yüksek teknoloji ürünü olan aletler ile ilişkilerimizi ilerletmemizi sağlayabilir. 
+     Nasıl mı 
+     Öyle bir gözlem sistemi hayal edin ki bilgisayarda sanal bir insanın kimliğine bürünmüş olsun, size tepki versin, hatta yeni elektronik postalarınız geldiğinde sizi haberdar etsin. 
+     Avatar adı verilen bu tür sanal yüzlerin basit versiyonları şimdiden yapılmış bile... 
+     Avatar, mitolojide insan ya da hayvan şeklinde yeryüzüne inen Hint tanrılarına verilen ad. 
+     Yakın gelecekte konuşma özelliği kazanmaları ve sesleri ayırt edebilmeleri halinde, bilgisayar klavyesi ile farenin yerini almaları da mümkün. 
+     Bu fikirlerden bazıları, Londra Bilim Müzesi'nde Geleceğin Yüzleri sergisinin bir parçası olarak halkın beğenisine sunuldu. 
+     
+     Dost canlısı Jeremiah 
+
+     Avatarlardan birinin adı Jeremiah. Sanal bir erkek olan Jeremiah, internetten ücretsiz indirilip bilgisayara yüklenebiliyor. 
+     Bu programı geliştiren Richard Bowden, Surrey Üniversitesi Görsel, İşitsel Sinyal İşlem Merkezi'nde çalışıyor. 
+     Profesör Bowden, Jeremiah'ın bir insan gibi algılanması gerektiğini söylüyor ve ekliyor "Jeremiah sanal bir yüz, insan etkinliklerine verdiği tepkilerle insana benzemeye çalışıyor. Çocuklar gibi, görsel uyaranları seviyor. " Bowden'ın söylediğine göre, Jeremiah etrafta koşan, gülüşen çocuklar gördüğünde, onlara gülümsüyor. Görmezden gelindiğinde sinirleniyor. Yalnız bırakılırsa, üzülüyor. Hatta, onu şaşırtmanız bile mümkün. 
+     Jeremiah aslında zeki değil. 
+     İki teknik kullanılarak işliyor, biri başın hareketlerini yöneten grafik sistemi, diğeri de görmesine imkan veren görsel iz sistemi. 
+     Konuşması ya da sizi duyabilmesi mümkün değil, en azından şimdilik. 
+     
+</TEXT>
+</DOC>

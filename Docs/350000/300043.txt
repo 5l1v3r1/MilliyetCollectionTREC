@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 300043 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/22/son/sonyas15.html </URL>
+<DATE> 2004/12/22/ </DATE>
+<TIME> 10.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türk bilimadamları dertli "Asimo'ya verilen destek bize verilse.." 
+</HEADLINE>
+<TEXT>
+
+     ABU Robocon 2004 uluslararası robot yarışmasında Türkiye'yi temsil eden ekibin başkanı, Gazi Üniversitesi Teknik Eğitim Fakültesi, Elektronik ve Bilgisayar bölümü Kontrol Anabilim dalı Öğretim Üyesi Prof. Dr. Ömer Faruk Bay, Türkiye'nin kuramsal bilgiye sahip olduğunu ancak bunu üretime dönüştürebilmek için finansal desteğe ihtiyaç duyduklarını bildirdi. 
+     Bay, dünyanın en ünlü robotu Asimo'yu örnek göstererek, ''Asimo'ya verilen desteğin binde biri bize verilse muhteşem şeyler yapabiliriz'' dedi. 
+     Asya Pasifik Yayın Birliği'nin ABU düzenlediği Robocon 2004 yarışmasında 19 ülke 20 ekip arasında çeyrek finale kalarak 7'nci olan Senay Yıldırım, Ali Uysal ve Serkan Biçer'den oluşan ekibin başkanı Bay, AA muhabirine yaptığı açıklamada, Türkiye'nin kuramsal bilgi açısından zengin olmasına karşılık, projelerin hayata geçirilmesi için ödenek yoksunu olduğunu ifade etti. 
+     Güney Kore'nin başkenti Seul'de, 11 Eylül 2004 tarihinde gerçekleştirilen yarışmada hem Gazi Üniversitesi'ni hem de Türkiye'yi başarıyla temsil ettiklerini anlatan Bay, Akıncı-1 ve Akıncı-2 isimli robotların, teknoloji şirketi LG tarafından firma ödülüne layık görüldüğünü bildirdi. 
+     Prof. Dr. Bay, 2005 yılında Çin'de yapılacak Robocon 2005 yarışmasında, Çin Seddi'ne tırmanan ve oradaki kutsal ateşi yakan robotların yarışacağını, bu amaçla bir proje hazırladıklarını ancak maddi desteğe ihtiyaç duyduklarını ifade etti. 
+     Bay, maddi destek sağlanması halinde bomba imha eden robotlar da yapabileceklerini sözlerine ekledi. 
+     
+     ROBOCON 
+     ABU, tarafından üye ülkeler arasında kültürel ve teknolojik bilgi alışverişine imkan sağlamak amacıyla, ilki 2002 yılında Tokyo'da düzenlenen Robocon yarışmasına bu yıl Çin, Brunei, Mısır, Fiji Adaları, Hong Kong, Hindistan, Endonezya, İran, Japonya, Kore, Macao, Malezya, Moğolistan, Nepal, Pakistan, Sri Lanka, Tayland, Vietnam ve Türkiye olmak üzere 19 ülkeden 20 ekip katıldı. Yarışmada, Vietnam birinci, Çin ikinci, Moğolistan ile Kore ise üçüncü oldu. 
+     
+     ROBOTLARIN AŞK HİKAYESİ 
+     Bu yıl ki yarışmanın konusu eski bir Asya efsanesine dayandırıldı. Hikaye şöyle ''Gyeonwoo ve Jiknyeo'' adlı aşık çift, tembellikleri yüzünden, aralarına giren Samanyolu ile ayrılmaya zorlanırlar. Bu duruma çok üzülen saksağan ve kargalar ise gökyüzüne yükselirler ve ufacık bedenleriyle, çifti biraraya getirmek üzere bir köprü kurarlar. Bu köprüye Karga ve Saksağan Köprüsü Ojak Köprüsü denir. Böylece, Gyeonwoo ve Jiknyeo her yıl ay takvimine göre 7 Temmuz'da bu köprüden bir kez geçebilmek suretiyle birbirlerine kavuşurlar. Her 7 Temmuz günü yağan yağmur ise çiftin kavuşmalarının mutluluk gözyaşları olarak adlandırılır.'' Yarışmacılar, Gyeonwoo ve Jiknyeo'yu biraraya getirmek için yarıştılar. Bunun için manuel robotun tamamlanmamış Ojak Köprüsünü yapması ve otomatik robotun da Gyeonwoo Bölgesindeki Altın Armağanı Jiknyeo Bölgesine taşıması gerekti. 
+     
+     AKINCI 
+     Ekibin ismini de alan Akıncı-1 otomatik, Akıncı-2 ise el kumandalı olarak tasarlandı. Tamamına yakını hurda malzemeden oluşturulan robotlarda, otomobil cam sileceği motoru ve bilgisayar oyun konsolu gibi ilginç parçalar kullanıldı. 
+     Akıncı-2 isimli robotun tekerlek motorları, uçakların kanat uçlarını hareketlendiren motorlardan oluşturuldu. 
+     
+</TEXT>
+</DOC>

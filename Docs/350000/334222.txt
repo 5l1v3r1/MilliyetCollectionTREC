@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 334222 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/17/son/soneko10.html </URL>
+<DATE> 2005/04/17/ </DATE>
+<TIME> 11.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Finansbank'tan "oltaya takılmayın" uyarısı... 
+</HEADLINE>
+<TEXT>
+
+     Bankalar, müşterilerine gönderdikleri çeşitli e-posta mesajlarında, internet üzerinde yapılan dolandırıcılık yöntemlerini anlatarak uyarılarda bulunuyorlar. 
+     Finansbank tarafından müşterilerine gönderilen e-postalarda, banka ve finans kurumları tarafından gönderilmiş acil ve çok önemli konular içeriyormuş gibi görünen sahte e-postaların internette hızla yayıldığına dikkat çekiliyor ve bu yöntemin ''Olta Metodu'' olarak adlandırıldığı belirtiliyor. 
+     Bu e-postalarda verilen linkler aracılığı ile müşterilerden, kart bilgileri, kart şifreleri, internet şubesi şifreleri ve kişisel bilgilerin istendiğinin kaydedildiği açıklamada, şunlar anlatılıyor 
+     ''Olta saldırıları, internet suçları arasında en yaygın ve tehlikeli olanlarından biridir. Bu saldırıların amacı, bireylerin veya kurumların finansal işlem yapmak için kullandıkları bilgileri çalmaktır. Bu eylem açık bir dolandırıcılık girişimidir. Kesinlikle bu tür e-postalara yanıt vermeyin veya istenen bilgileri girmeyin. Finansbank, e-posta yoluyla hiçbir şekilde şifre işlemleri yaptırmamakta, müşterilerinin kişisel bilgilerini istememektedir.'' Finansbank tarafından gönderilen e-postalardaki linklerin, kullanıcıları bilgilendirici ve yönlendirici sayfalara götürdüğü belirtilerek, şu bilgiler veriliyor 
+     ''Her türlü online dolandırıcılık, sahtekarlık ve virüse karşı en büyük korunma aracı, bu konuda bilinçli ve bilgili olmaktır. Kişisel ve finansal bilgilerinizi, hakkında bilgi sahibi olmadığınız hiçbir web sitesine girmeyiniz. ''111.2222.333.4'' gibi rakamlar içeren internet adresleri güvenli değildir. Bankacılık işlemleri gerçekleştirdiğiniz sayfalardaki değişiklikleri devamlı takip ediyor olmanız, sizin bu tür sahte siteleri fark edebilmenizi sağlayacak ve sizi koruyacaktır.'' 
+     
+</TEXT>
+</DOC>

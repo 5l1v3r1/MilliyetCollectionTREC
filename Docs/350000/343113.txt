@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 343113 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/16/son/sonyas02.html </URL>
+<DATE> 2005/05/16/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+10 yıl tükenmeyen pil üretildi 
+</HEADLINE>
+<TEXT>
+
+     Amerikalı bilim adamları, nükleer malzemenin radyoaktif tepkimesi temeline dayanarak en az 10 yıl tükenmeyen ve benzerlerinin 10 katı daha güçlü yeni bir pil geliştirdiler. 
+     Rochester Üniversitesi’nden bilim adamları, şarj etmeden 10 yıl dayanacak bu pilin kalp cihazı veya diğer cerrahi implant cihazları için ideal olduğunu, ayrıca uzay veya derin deniz araçlarında da kullanılabileceğini belirttiler. 
+     Üniversitenin Elektrik Mühendisliği bölümü öğretim üyesi Philippe Fauchet, bu nükleer pillerin birkaç yıl içinde evlerde sensörler ya da diğer küçük cihazlarda da kullanılacağını belirterek, bu tip pillerde kullandıkları teknolojiye "betavolta" adını verdiklerini ve güneş enerjisini elektriğe çeviren güneş paneli mekaniğine benzer bir teknoloji olduğunu kaydetti. 
+     Nükleer pil teknolojisinde, hidrojenin radyoaktif biçimi olan trityumun radyoaktif gazlarının yaydığı elektronlar bir silikon zar tarafından yakalanarak elektrik enerjisine çevriliyor. 
+     Bilim adamları, geliştirdikleri yeni pil teknolojisinin güvenilir olduğunu ve vücuda rahatlıkla yerleştirilebileceğini belirterek, trityumun yaydığı enerji parçacıklarının deriye girmediğini kaydettiler. 
+     
+</TEXT>
+</DOC>

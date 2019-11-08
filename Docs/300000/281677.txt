@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 281677 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/19/son/sonyas28.html </URL>
+<DATE> 2004/10/19/ </DATE>
+<TIME> 13.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Uzayda yeni buluş... Gezegenler ne kadar sürede oluştu 
+</HEADLINE>
+<TEXT>
+
+     Bilim adamları, uzaydaki toz bulutunun yeni gezegenlere dönüşmesini sağlayan şiddetli türbülansın tahmin edilenden daha uzun sürmüş olabileceğini tespit ettiler. 
+     NASA'nın Pasadena'daki Jet Motoru Laboratuvarı'nda görevli bilim adamlarının, Spitzer kızılötesi teleskopu ile yaptıkları son incelemelerin bulguları kamuoyuna açıklandı. 
+     Amerikalı bilim adamları, son gözlemlerine göre, yeryüzü boyutundaki gezegenlerin oluşum sürecindeki şiddetli türbülans ortamının tahmin edildiği gibi 10 milyon yıl yerine yüzlerce milyon yıl sürmüş olabileceğini belirttiler. 
+     Gökbilimciler, genç yıldızların çevresindeki disk biçimli toz bulutlarının 100 ila 200 milyon yıl büyük ve parlak kaldıklarını tespit ettiklerini kaydederek, genç yıldızlar ve dev kaya parçaları arasındaki şiddetli çarpışmalar bu kadar uzun sürmese bu toz bulutlarının bu kadar uzun süre varolamayacaklarını vurguladılar. 
+     Spitzer kızılötesi teleskop programında görevli gökbilimci Jonathan Gardner, yeni bulguyla gökbilim kitaplarında gezegenlerin oluşumu bölümünü yeniden yazmaları gerekeceğini söyledi. 
+     Bilim adamları, gezegenlerin, genç bir yıldızın çevresindeki disk biçimli toz kümelenmeye başlayınca oluştuklarını düşünüyorlar. Bu kümelerden bazıları heybetli dağların boyutuna ulaşırken, dev kaya parçalarının birbirleriyle çarpışmaya başladıkları ve böylece ''cenin gezegenlerin'' oluşmaya başladığı tahmin ediliyor. 
+     Bilim adamları yeni araştırmalarına dek bu şiddetli türbülans dönemini, gökbilim kavramlarına göre göz açıp kapayıncaya dek kısa bir süreç olan 10 milyon yıl olarak hesaplıyorlardı. 
+     Teleskopla elde edilen bulgulara internette, http www.spitzer.caltech.edu Media 041018telecon adresinden ulaşmak mümkün. 
+     
+</TEXT>
+</DOC>

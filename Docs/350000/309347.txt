@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 309347 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/25/son/sonyas20.html </URL>
+<DATE> 2005/01/25/ </DATE>
+<TIME> 18.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bir şirket sigara içen çalışanlarını işten çıkardı 
+</HEADLINE>
+<TEXT>
+
+     ABD'nin Michigan eyaletinde faaliyet gösteren bir sağlık şirketi, sigara içen bütün çalışanlarını işten çıkardı. 
+     Michigan'daki Okemos şehrinde faaliyet gösteren Weyco Inc. isimli şirket, sigara içip içmediklerini tespit etmek için uyguladığı teste girmek istemeyen dört çalışanının işine son verdi. Firmanın 1 Ocak tarihinde, iş yerinden çıktıktan sonra bile olsa sigara içenlerin işten atılacağına dair bir karar aldığı ve bunu daha önceden duyurduğu belirtiliyor. 
+     Şirket kurucusu Howard Weyers, sigara karşıtı bu kararın, şirketin sigara kullanan çalışanlarının buna bağlı rahatsızlıklardan kaynaklanacak sağlık giderlerini karşılamak istemediği için aldığını ifade etti. 
+     Sigara tiryakisi bir şirket çalışanının karar uygulamaya konulmadan önce firmadan ayrıldığı, sigara testine girmek istemeyen dördününse şirket tarafından işten çıkarıldığı belirtildi. 
+     Firmanın 200 çalışanından 18-20'sinin daha önce sigara içtiğinin tahmin edildiği, bunlardan 14'ünün karar sonrasında sigarayı bıraktığı belirtildi. Firmanın, sigarayı bırakmak isteyen çalışanlarına yardımcı olduğu da kaydedildi. 
+     
+</TEXT>
+</DOC>

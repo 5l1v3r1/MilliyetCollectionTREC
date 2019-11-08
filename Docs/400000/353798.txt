@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 353798 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/20/son/sonyas06.html </URL>
+<DATE> 2005/06/20/ </DATE>
+<TIME> 09.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sırada 'cep cüzdan' var 
+</HEADLINE>
+<TEXT>
+
+     AP - WASHINGTON 
+
+      Cep telefonları, yakında kredi kartı olarak da kullanılabilecek. Uygulama Japonya'da hayata geçmiş durumda. 
+     Japon telekomünikasyon firması NTT DoCoMo tarafından geliştirilen sistem, mağaza ya da dükk nlarda kasalarda bulunan terminallere kredi kartı bilgilerini aktarması için cep telefonlarına kısa dalga radyo çipi eklemeyi içeriyor. 
+     Japonya'da 3 milyon kredi kartı kullanıcısının yararlandığı 'Mobile Wallet' cep cüzdanı hizmetiyle 20 bin dükk n ve makineden alışveriş yapılabiliyor. Sistem ABD ve Avrupa'ya da gelmek üzere. 
+     
+</TEXT>
+</DOC>

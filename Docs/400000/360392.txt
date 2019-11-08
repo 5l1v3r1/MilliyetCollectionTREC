@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 360392 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/12/son/soneko01.html </URL>
+<DATE> 2005/07/12/ </DATE>
+<TIME> 01.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Wall Street Borsası yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacminde dünyanın en büyük borsası New York Wall Street’in Dow Jones Sanayi Endeksi, 70.74 puan artışla binde 6,8 10,519.88 puandan noktalandı. 
+     Haftanın ilk işlem gününde Wall Street’in teknoloji göstergesi Nasdaq Birleşik Endeksi 22.55 puan artışla 2,135.43 puandan kapandı. 
+     Endekslerde görülen artışa neden olarak, "petrol fiyatlarında görülen 1 dolardan fazla düşüşle yatırımcıların borsada işlem gören şirketlerin gelirlerinde artış beklentisi gösterildi. 
+     
+</TEXT>
+</DOC>

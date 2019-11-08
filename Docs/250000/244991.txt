@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 244991 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/03/son/soneko16.html </URL>
+<DATE> 2004/06/03/ </DATE>
+<TIME> 10.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilişimin en değerli 15 Türk'ü belirlendi... 
+</HEADLINE>
+<TEXT>
+
+     Microsoft'un kendi alanlarında uzman ve bağımsız bilişim profesyonellerinden oluşan En Değerli Profesyonel MVP Grubu'na, Türkiye'den 15 bilişim profesyoneli seçildi. 
+     Microsoft'tan yapılan açıklamaya göre, Microsoft teknolojileri konusunda bağımsız uzmanlardan oluşan grupta, Türkiye'den Aykut Taşdelen, Oğuz Küçükbarak, Yeliz Korkmaz, Cengiz Han, Osman Şener, Hasan Çolpan, Hakan Ulagan, Kadir Sümerkent, Cavit Önen, Murat Osman Ünalır, Mehmet Nuri Çankaya, Murat Bayraktar, Gökhan Orhan, Alper Önsoy ve Atakan Kesler yer aldı. 
+     Microsoft'un CEO'su Steve Ballmer'dan ödüllerini alarak MVP unvanları tescillenen uzmanlar, dünyanın 63 ülkesinden yaklaşık 2 bin 500 meslektaşının arasına katıldı. 
+     
+</TEXT>
+</DOC>

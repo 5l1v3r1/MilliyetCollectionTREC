@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 113696 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/10/18/son/soneko16.html </URL>
+<DATE> 2002/10/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+TTnet'te 24 saatlik kesinti 
+</HEADLINE>
+<TEXT>
+
+     TTnet'in yurtdışı bağlantılarında 24 saat süreyle kesinti yaşanacak ve bu süre içinde internete erişim de yavaşlayacak. 
+     Türk Telekomünikasyon A.Ş'nin açıklamasına göre, yarın, Alexandria Mısır - Sesimbra Portekiz arasındaki SMW-3 deniz altı fiber optik kablo sisteminin yıllık bakım çalışmaları nedeniyle, TTnet'in yurtdışı bağlantılarında yaklaşık 24 süreyle bir kesinti yaşanacak ve bu süre içinde internette erişim yavaşlayacak. 
+     Bakım çalışmaları, 34 Mbps Teleglobe New York-İstanbul ve 155 Mbps Uydu Paris-Ankara arasındaki bağlantıları etkilemeyecek. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

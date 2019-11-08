@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 326049 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/22/son/sonyas12.html </URL>
+<DATE> 2005/03/22/ </DATE>
+<TIME> 10.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayar cahil bırakıyor 
+</HEADLINE>
+<TEXT>
+
+     DIŞ HABERLER SERVİSİ 
+
+      İngiltere'deki "Royal Economic Society" adlı kuruluş tarafından yapılan bir araştırma, bilgisayarla fazla haşır neşir olan 15 yaş grubundaki öğrencilerin sözel ve sayısal testlerde ortalamanın altında kaldığını ortaya çıkardı. 
+     OECD'nin Ekonomik İşbirliği ve Kalkınma Örgütü 2000 yılında yaptığı PİSA Uluslararası Öğrenci Değerlendirme Programı adlı testin sonuçlarını inceleyen uzmanlar, sınava katılan 31 ülkeden 100 bin kadar öğrencinin sınav notuyla bilgisayar kullanımı arasındaki ilişkiyi araştırdı. Araştırma sonucuna göre, eğitim hayatında bilgisayarın büyük bir yer tuttuğu öğrenciler matematik ve okur yazarlıkta başarılı olamazken tam tersine bilgisayar başında fazla zaman harcamayanlar başarılı oldu. Araştırmacılardan Münih Üniversitesi öğretim üyeleri Thomas Fuchs ve Ludger Wossmann, "Öğrenci ne kadar çok bilgisayar kullanmışsa başarı notu o kadar azaldı" açıklamasını yaptılar. 
+     Araştırma ayrıca, bilgisayar kurdu olmanın iş hayatında da, ücret veya kolay iş bulabilme açısından fazla bir avantaj sağlamadığı, işverenlerin bilgisayar kullanma becerisini kalem veya telefon kullanma becerisiyle aynı düzeyde değerlendirdiklerini gösterdi. 
+     
+</TEXT>
+</DOC>

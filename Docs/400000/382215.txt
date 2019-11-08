@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 382215 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/28/son/soneko05.html </URL>
+<DATE> 2005/09/28/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsasında Dow Jones yükseldi, Nasdaq düştü... 
+</HEADLINE>
+<TEXT>
+
+     Borsanın temel göstergesi Dow Jones, 12.58 puan yükselerek 10,456.21 puana çıktı. 
+     Tekonoloji endeksi Nasdaq ise 5.04 puan kayıpla 2,116.42 puana geriledi. 
+     
+</TEXT>
+</DOC>

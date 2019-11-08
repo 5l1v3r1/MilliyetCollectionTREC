@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 219765 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/04/son/soneko02.html </URL>
+<DATE> 2004/03/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İMKB... İnfo hisseleri işlem görmeye başlıyor... 
+</HEADLINE>
+<TEXT>
+
+     Halka arzı tamamlanan İnfo Menkul Kıymetler Yatırım Ortaklığı A.Ş.'nin hisseleri, Borsa'da bugün işlem görmeye başlıyor. 
+     Borsa Başkanlığı duyurusuna göre, İnfo'nun 1. ve 2. tertip B grubu hamiline yazılı 2 trilyon 972 milyar lira nominal değerli hisse senetleri, 1.000 lira nominal değerdeki beher hisse için 1.160 lira baz fiyatla Ulusal Pazar'da işlem görecek. 
+     ''INFYO.E'' kodlu hisselerde uygulanacak maksimum lot miktarı, 1.000 lot olarak belirlendi. 
+     Bu arada, halka arz işlemleri nedeniyle düzenlenen izahnamede, ortak satışına konu hisse senetleri üzerinde 2003 yılından 2012 yılına kadar kar payı bulunduğu belirtilmesine karşılık sözkonusu hisse senetlerinin İMKB Takasbank'a teslimatının 2003 yılı kar payı kesilmiş olarak gerçekleştirilmesi nedeniyle tüm hisseler satılmasına karşın halka arz işleminin tamamlanamadığı, bu nedenle de işlem sırasının dün açılamadığı kaydedildi. 
+     Borsa'nın talebi üzerine nakit teminat taahhütlerinin yerine getirilerek Borsa hesabına bloke edilmesi ve 2003 yılına ilişkin temettü kuponlarının Takasbank'a teslim edilmesinin ardından, şirket hisselerinin işlem görmesine karar verildiği bildirildi. 
+     
+</TEXT>
+</DOC>

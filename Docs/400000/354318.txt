@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 354318 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/22/son/sondun27.html </URL>
+<DATE> 2005/06/22/ </DATE>
+<TIME> 13.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Aç fare, bir ülkenin haberleşmesini çökertti 
+</HEADLINE>
+<TEXT>
+
+     BBC 
+
+Yeni Zelanda'da iletişim hatlarının çökmesinden aç bir fare sorumlu tutuluyor. Ülkenin büyük bölümünde kaos yaşanmasına yol açan sorunu araştıran yetkililer, fiberoptik kabloyu kemirdiğine inanılan farenin, ülkedeki cep telefonu ve internet servislerinin çökmesine yol açtığını belirtiyor. 
+     BBC Auckland muhabiri Greg Ward'ın bildirdiğine göre, Yeni Zelandalı yetkililer, haberleşme sisteminde yaşanan çöküşün, bir fare ve bir işçi yüzünden, milyonda bir rastanabilecek türde bir tesadüf sonucu gerçekleştiğini söylüyor. 
+     Görünen o ki, bir fare, Yeni Zelanda'nın neredeyse yarısını oluşturan Kuzey Adası'nın başlıca iletişim kablosunu çiğnemekle suçlanıyor. Ülkenin başka bir yerindeki bir işçi ise kazayla fareyle aynı anda, ülkenin ikinci büyük iletişim kablosuna zarar veriyor. 
+     İşte bu kötü zamanlamanın sonucu, ülkede kaos meydana geldi. İletişim şebekelerinin beş saat boyunca felç olması cep telefonu ve internetle iletişimi vurdu. Bu da perakendeciler, mali piyasalar ve bankalarda büyük karışıklığa ve işlerin aksamasına neden oldu. 
+     Hatta Yeni Zelanda borsası bile birkaç saat boyunca kapanmak zorunda kaldı. Teknoloji uzmanları, iletişim sisteminde son yaşanan çöküşün, ileride yaşanabilecek sorunlar için önemli bir uyarı niteliği taşıdığını söylüyor. 
+     Uzmanlar, Yeni Zelanda'daki altyapı sistemlerinin çok kolay zedelenebilir olduğu yönünde daha önceden de uyarıda bulunuyordu. 
+     Ancak hükümet, sorunu hafife alarak iki kazanın inanılmaz bir tesadüf sonucu aynı anda meydana geldiğini söyledi. 
+     Ama bu, Yeni Zelanda'nın utanç verici şekilde karanlığa gömüldüğü ilk olay değil. 1998'de, Auckland kenti, zayıf bir şekilde döşenen elektrik kablolarının diğer ikmal hatlarını da çökertmesi sonucu bir dizi elektrik kesintisi yaşamıştı. 
+     
+</TEXT>
+</DOC>

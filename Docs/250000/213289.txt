@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 213289 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/05/son/soneko01.html </URL>
+<DATE> 2004/02/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası'nın temel göstergesi Dow Jones, 34.44 puan yüzde 0.33 düşerek, günü 10,470.74 puandan kapattı. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq ise 52.07 puanlık bir düşüşle yüzde 2.52 günü 2,014.14 puanla bitirdi. 
+     
+</TEXT>
+</DOC>

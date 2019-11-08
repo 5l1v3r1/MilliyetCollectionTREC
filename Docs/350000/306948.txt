@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 306948 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/16/son/soneko05.html </URL>
+<DATE> 2005/01/16/ </DATE>
+<TIME> 12.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Anadolu'daki otoyollarda "KGS" Mayıs'ta... 
+</HEADLINE>
+<TEXT>
+
+     Karayolları Genel Müdürlüğü'nce, 5. Bölge Müdürlüğü sınırlarında uygulanması planlanan Kartlı Geçiş Sistemi KGS cihazlarının gişelere monte edilmesi çalışmalarının tamamlandığı ve sistemin Mayıs ayında devreye gireceği bildirildi. 
+     Karayolları 5. Bölge Müdürü Mahmut Çelikcan, AA muhabirine yaptığı açıklamada, sistemin bölge müdürlüğüne bağlı 7 ildeki 30 otoyol istasyonunda uygulanacağını belirtti. 
+     Çelikcan, İstanbul'daki Boğaziçi ve Fatih Sultan Mehmet Köprüleri'nde kullanılan Otomatik Geçiş Sistemi'ne ek olarak devreye sokulan KGS'nin, yurt genelinde kullanılacağını söyledi. 
+     Çelikcan, özel olarak tasarlanan ve nakit ödemelere alternatif olarak geliştirilen ''chip''li kartların teknolojik altyapısının Karayolları ile Aselsan tarafından oluşturulduğunu vurguladı. 
+     Kartların banka hesapları veya gişe merkezlerinden kredi yüklenerek kullanılabileceğini ifade eden Çelikcan, şöyle konuştu 
+     ''Araç sürücüleri bunları her geçişte manyetik okuyucuya okutarak, otomatik bariyerin açılmasını sağlayacak. Aselsan A.Ş'nin yapımını üstlendiği proje kapsamında, ilk etapta TEM Otoyolu'nun Pozantı gişelerine KGS cihazları monte edildi. Altyapısı hazırlanan sistemi işletmeye almak için ücretsiz geçiş gişelerinin tamamlanmasını bekliyoruz. Mayıs ayında sistemi devreye sokacağız. Bu sistemle kaçakların önlenmesi ve gişelerde araç yoğunluğunun azaltılması amaçlanıyor.'' Çelikcan, 5. Bölge Müdürlüğü'ne bağlı illerdeki gişelerde KGS'ye geçildikten sonra da yedek olarak eski nakit ödeme gişelerinin de duracağını sözlerine ekledi. 
+     
+</TEXT>
+</DOC>

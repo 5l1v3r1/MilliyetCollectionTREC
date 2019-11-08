@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 363721 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/23/son/sontur23.html </URL>
+<DATE> 2005/07/23/ </DATE>
+<TIME> 16.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+10 bin kişinin banka bilgilerini kopyalayan şebeke yakalandı 
+</HEADLINE>
+<TEXT>
+
+     Antalya’da, internet aracılığıyla vatandaşlara e-mail gönderen ve bu yolla banka hesaplarını öğrenerek para çeken 8 kişilik şebeke yakalandı. Şebekenin 10 binin üzerinde kişinin banka hesabı bilgilerini kopyaladığı ve bu hesaplardan 1 milyon YTL çektikleri belirlendi. 
+     İzmir’deki bir bankada hesabı bulunan bir müşterinin internet şifresinin ele geçirilerek, 96 bin 560 YTL’nin Antalya ve Ankara’da paravan şirketler hesaplarına aktarılarak çekildiğinin belirlenmesi üzerine harekete geçen Emniyet Genel Müdürlüğü Kaçakçılık ve Organize Suçlarla Mücadele Daire Başkanlığı ve Antalya Emniyet Müdürlüğü Kaçakçılık ve Organize Suçlar Şube Müdürlüğü Mali Büro ekipleri ile İstanbul Emniyet Müdürlüğü Mali Şube Müdürlüğü ekipleri, araştırmalar sonucunda, Antalya’da bir kişiye ulaştı ve bu kişiyi gözaltına aldı. 
+     İnternet aracılığıyla dolandırıcılık yapan bir şebeke bulunduğunu belirleyen ekipler, konuyla ilgili İstanbul’da da bir kişiyi yakaladı. 
+     Operasyonu derinleştiren polis, müşterilerin internet bankacılığı hesaplarının, e-mail kullanıcısına gönderilen mesajla kimlik ve banka bilgilerinin sorulması yoluyla elde edilerek, hesaplarındaki paraların, kurulan paravan şirketlerin hesabına aktarıldığını ve buradan çekildiğini ortaya çıkardı. 
+     Polis, bu yolla 10 binin üzerinde kişinin banka hesabının ele geçirildiğini ve bu hesaplardan bugüne kadar 1 milyon YTL’nin çekildiğini tespit etti. 
+     Soruşturma çerçevesinde şebeke üyelerinin İstanbul’dan Antalya’ya geldiğini belirleyen ekipler, bu kişilerin kaldıkları beş yıldızlı bir otele operasyon düzenledi ve 3 hacker ile bankalardan tahsilat yaptıkları belirlenen 3 kişiyi yakaladı. 
+     Otel odasında yapılan aramalarda, internet üzerinden dolandırıcılık işlemlerinde kullanılan iki dizüstü bilgisayar, çeşitli CD’ler, değişik şahıslara ve şirketlere ait çok sayıda hesap numaraları ve dekontlar bulundu. Dizüstü bilgisayarları inceleyen polis, binlerce kişiye ait internet bankacılığı kullanıcı adı ve şifresi, kredi kartı bilgileri, yüzbinlerce e-mail ve onlarca bankaya ait grafik arayüzleri ve bunlara ait kodlar ele geçirdi. 
+     Olayla ilgili yakalanan B.B 18 , O.C.G 17 , B.F.S 21 ve tahsilatçı G.A 47 , K.A 42 , M.D 31 , R.Ç’nin 38 soruşturmasının devam ettiği, İstanbul’da yakalanan S.K’nın 30 ise tutuklanarak cezaevine gönderildiği bildirildi. 
+     
+     YAKALANANLARDAN BİRİ BİLGİSAYAR MÜHENDİSLİĞİ ÖĞRENCİSİ 
+     Yakalananlar arasında yer alan, bir üniversitede bilgisayar mühendisliği bölümünde öğrenci olduğu öğrenilen hacker B.B’nin 18 
+     kendi kurdukları internet siteleri aracılığıyla birçok güvenlik kuruluşunun şifrelerini kırarak dosyalarına girdikleri öğrenildi. Şebekenin en çok "Şifrenizin süresi doldu", "Bilgilerinizi güncelleyin", "Hediye kazandınız", "Banka hesap numarası veya kişisel isim ile hitap ederek" şeklinde elde edilen diğer şahsi bilgileri kullandığına dikkati çeken polis, bankalarda hesabı bulunan ve e-mail kullanan vatandaşları uyardı. 
+     
+     VATANDAŞLARA UYARILAR 
+     Güvenlik algılamaları konusunda daha duyarlı olunmasını isteyen yetkililer, şu uyarılarda bulundular 
+     "Güvenlik uyarıları okunmalı ve dikkate alınmalı. Şifre seçerken tahmin edilmesi zor şifreler kullanılması ve sıklıkla değiştirilmesi bir alışkanlık haline getirilmeli. Bilgisayarınızın işletim sistemi ve üzerinde çalışan diğer yazılımların güvenlik güncellemeleri yapılmalı. 
+     E-mail yoluyla ve çeşitli bahanelerle kişisel bilgi isteyen kişilere karşı hep şüpheci davranılmalı. Hiçbir banka ve banka görevlisine şifreler verilmemeli. 
+     İnternet bankacılığı web sitesini açarken adresi bir yerden kopyalamayın, tarayıcınızın adres sütununa istediğiniz adresi klavye ile yazın. Güvenliğinden emin olmadığınız bilgisayar ve bilgisayar ağlarında kesinlikle elektronik işlem yapmayınız. Bankanızdan gelen kart ekstrelerini, hesabınızı düzenli olarak kontrol etmeyi unutmayınız." 
+     
+</TEXT>
+</DOC>

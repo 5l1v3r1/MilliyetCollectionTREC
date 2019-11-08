@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 260821 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/05/son/soneko38.html </URL>
+<DATE> 2004/08/05/ </DATE>
+<TIME> 14.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ÖTV Uygulama Tebliği yayımlandı... Binek araçların vergi oranı için... 
+</HEADLINE>
+<TEXT>
+
+     Çeşitli vergi kanunlarında değişiklik yapan 5228 sayılı kanunda yer alan Özel Tüketim Vergisi ÖTV düzenlemelerine ait uygulama tebliği Resmi Gazete'nin bugünkü sayısında yayımlandı. 
+     Maliye Bakanlığı'nın konuya ilişkin ''ÖTV Genel Tebliği''nde, malul ve engellilerinin kullanılmamış araç alımında istisna uygulaması, taşıt araçlarında uygulanacak vergi oranları ve eşya taşımaya mahsus araca dönüştürülen araçlar için ÖTV tarhiyatı uygulama ve esasları belirlendi. 
+     Buna göre, bineğe dönüştürülen araçlarda vergi oranları, silindir hacmi 1600 cc'yi geçmeyenlerde yüzde 30, 1600-2000 cc arasında yüzde 52, 2000 cc ve üzerinde yüzde 75 olarak belirlendi. 
+     Düzenlemede, eşya taşımaya mahsus motorlu taşıtların vergi oranları da farklılaştırıldı. Bu taşıtlardan azami yüklü kütlesi 4 bin 700 kilogramı geçen ve geçmeyen ile sürücü sırasından başka oturma yeri veya sürücü sırası dışında yanda pencereleri olmayan araçların yüzde 4'lük vergi oranı değişmedi. 
+     Belirtilen azami yük kütlesini geçmeyip, sürücü sırasından başka oturma yeri veya sürücü sırası dışında yanda pencereleri olan araçların vergi oranları da şöyle belirlendi 
+     -Kapalı kasalı olup silindir hacmi 3 bin cc'yi geçmeyenlerde yüzde 10, 3 bin cc-4 bin cc arasında yüzde 52, 4 bin cc ve üzerinde yüzde 75. 
+     -Açık kasalı veya kasasız çıplak şasi olup silindir hacmi 3 bin 200 cc'yi geçmeyenlerde yüzde 4, 3 bin 200 cc-4 bin cc arasında yüzde 52, 4 bin cc ve üzerinde yüzde 75. 
+     Bu arada eşya taşımaya dönüştürülen araçlarda ÖTV tarhiyatı, aracın ilk alımı tarihinden itibaren 5 yıl içinde kapalı kasa araca dönüştürülmesi halinde ilk alımdaki matrah üzerinden, dönüşüm tarihinde bu araçlar için geçerli olan orana göre ÖTV hesaplanacak ve ilk alımda ödenen vergi mahsup edilmek suretiyle adına kayıt ve tescil işlemi yapılandan tahsil edilecek. 
+     
+     MALUL VE ENGELLİLERE, KULLANILMAMIŞ ARAÇTA VERGİ İSTİSNASI 
+     Düzenlemeyle, malul ve engellilere, kullanılmamış araç alımında vergi istisnası getirildi. 
+     Sakatlık derecesi yüzde 90 ve daha fazla olan ve bizzat kullanma amacıyla sakatlığına uygun hareket ettirici özel tertibat yaptıran malul ve engelliler tarafından yurtdışından getirtilen araçlar, beş yılda bir defaya mahsus olmak üzere ilk alındıklarında vergiden istisna tutulacak. Bu uygulamada, taşıtın motor silindir hacmi 1600 ve 2000 cc'yi aşanlar hariç olacak. 
+     Sakatlık dereceleri yüzde 90 ve daha fazla olan malul ve engelliler adına kayıtlı araçlarda istisna uygulamasında, taşıtın özel tertibatlı olması şartı aranmayacak ve bu sakatlık dereceleri, özürlülere verilecek sağlık kurulu raporları hakkında yönetmelikte belirlenen esaslara göre tespit edilecek. 
+     Bu sağlık kurulu raporu, araçların ilk alımının yapılacağı motorlu araç ticareti yapanlar tarafından vergi dairesine verilirken, 2A numaları ÖTV beyannamesine eklenecek ve beyannamede ÖTV hesaplanmayacak. Vergi dairesince kabul edilen bu beyanname ve ekleri incelenerek, tahakkuk fişi ve istisna uygulandığını gösteren ''ÖTV Ödeme Belgesi'' düzenlenecek ve mükellefe verilecek. 
+     Bizzat sakatlığına uygun kullanmak üzere özel tertibat yaptıran malul ve engelliler için istisna uygulamasında ise ÖTV beyannamesine, alıcının maluliyeti ve özel tertibat yaptırılan aracı kullanabileceğine dair sağlık kurulu raporuyla birlikte aracın sakatlığa uygun tadil edildiğini gösteren teknik belge ve ''H'' sınıfı sürücü belgesi eklenecek, beyannamede ÖTV hesaplanmayacak. 
+     Bu arada, istisnadan yararlanacak malul ve engelliler, 5 yıl süreyle ikinci bir defa bu istisnadan yararlanamayacak. 
+     
+</TEXT>
+</DOC>

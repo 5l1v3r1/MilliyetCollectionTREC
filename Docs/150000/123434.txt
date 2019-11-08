@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 123434 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/12/09/guncel/gun01.html </URL>
+<DATE> 2002/12/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bayram bilançosu 69 ÖLÜ, 235 YARALI 
+</HEADLINE>
+<TEXT>
+
+Trafik canavarı bayramda tatil yapmadı. Arife gününden itibaren meydana gelen kazalarda 69 kişi öldü. Son gün 18 kişi can verdi 
+     DOĞAN HABER AJANSI 
+
+     Tatilin son gününde de yurt genelinde olumsuz hava koşulları, hatalı sollama, dikkatsizlik sonucu meydana gelen kazalarda 18 kişi yaşamını yitirdi, 89 kişi de yaralandı. Böylece bayram tatilinde son kazalarla birlikte toplam 32 ilde, 69 kişi öldü, 235 kişi de yaralandı. 
+
+</TEXT>
+</DOC>

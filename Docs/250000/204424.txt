@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 204424 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/25/son/sontur08.html </URL>
+<DATE> 2003/12/25/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Vergi numaraları ile TC kimlik numaraları bilgileri tutmuyor 
+</HEADLINE>
+<TEXT>
+
+     Maliye Bakanlığı tarafından başlatılan ve şimdiye kadar 30 milyonu aşan Vergi Kimlik Numaraları ile İçişleri Bakanlığı'nın MERNİS projesi kapsamında verdiği Türkiye Cumhuriyeti Kimlik Numaralarındaki bilgilerin birbiriyle uyumlu olmadığı ortaya çıktı. 
+     Maliye Bakanlığı Gelirler Genel Müdürü Osman Arıoğlu, TBMM'de gazetecilere yaptığı açıklamada, vergi kimlik numaralarında 30 milyonu aştıklarını bildirerek, şunları söyledi 
+     "Bu uygulamaya devam etmeyelim, gerçek kişiler bakımından MERNİS'te verilen kimlik numaralarına geçelim istedik. İçişleri Bakanlığı ile temasa geçtik, bizdeki bilgileri nasıl doğrulatabiliriz diye. İçişleri Bakanlığı'na 50 bin örnek gönderdik, sadece 6 bininde bire bir uyum sağlandı." 
+     
+</TEXT>
+</DOC>

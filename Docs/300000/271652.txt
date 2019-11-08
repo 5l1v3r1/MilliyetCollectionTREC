@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 271652 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/14/son/soneko01.html </URL>
+<DATE> 2004/09/14/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     New York menkul kıymetler borsası Wall Street'te Dow Jones endeksi günü 2,29 puan düşüşle, 10.310,78'den kapattı. 
+     Teknoloji endeksi Nasdaq da gün sonu itibariyle 13,20 puan artışla 1.907,51'e yükseldi. 
+     
+</TEXT>
+</DOC>

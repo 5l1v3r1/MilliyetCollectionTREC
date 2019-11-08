@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 308118 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/20/son/sonyas08.html </URL>
+<DATE> 2005/01/20/ </DATE>
+<TIME> 13.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kanserin oluşumunda esas olabilecek yeni bir gen bulundu 
+</HEADLINE>
+<TEXT>
+
+     Amerikalı araştırmacıların, kanserin oluşumunda esas olabilecek yeni bir gen bulduğu bildirildi. 
+     İngiliz bilim dergisi Nature'ın bugünkü sayısında çıkan makalede, Memorial Sloan-Kettering Kanser Merkezi'nden Takeda Maeda ve Pier Paolo Pandolfi'den oluşan New Yorklu ekibin çalışmalarına yer verildi. 
+     Çalışmayı yürüten Profesör Pier Paolo Pandolfi, Pokemon adı verilen bu genle ilgili olarak dergiye yaptığı açıklamada, ''Kansere neden olabilecek ve onkogen adı verilen birçok gen var, ancak diğer onkogenlerin Pokemon genine gereksinim duyması gerçeğinden hareketle Pokemon geni tek'' ifadesini kullandı. 
+     Araştırmacılar, bu önemli rolü dolayısıyla Pokemon geninin yeni ilaçların keşfi için ideal bir hedef olduğu görüşünde birleşiyor. Bu genin faaliyetlerini engellemeyi düşünen uzmanlar, kanserleşme sürecinin düzenini durdurmayı umuyor. 
+     
+</TEXT>
+</DOC>

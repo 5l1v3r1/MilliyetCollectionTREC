@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 304509 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/07/son/sonyas18.html </URL>
+<DATE> 2005/01/07/ </DATE>
+<TIME> 10.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft'tan Windows için casus yazılımlara karşı program 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayarlarda güvenliği sağlamayı amaçlayan Microsoft firması, Windows kullanıcıları için casus yazılımlara karşı yeni bir programı kullanıma sunuyor. 
+     Yeni yazılım, istenmeyen pop-up'ları ek pencere ve bilgisayar kullanıcılarının faaliyetlerini gizlice kaydeden programları engelliyor. Casus yazılımlara karşı Windows AntiSpyware adlı yazılımın beta ya da deneme modeli internetten indirilebiliyor. 
+     Dünyanın en büyük yazılım firmasının, bilgisayardan virüslerle kötü amaçlı yazılımları kaldıran bir aracın kullanımını da gelecek hafta önermesi bekleniyor. 
+     Konuyla ilgili ayrıntılı bilgi ve yeni yazılımın beta versiyonunu indirmek için şu adrese başvurulabiliyor 
+     http www.microsoft.com athome security spyware default.mspx 
+     
+</TEXT>
+</DOC>

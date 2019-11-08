@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 185105 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/28/son/sondun02.html </URL>
+<DATE> 2003/09/28/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Avrupa Ay'a ilk roketini gönderdi... 
+</HEADLINE>
+<TEXT>
+
+     Avrupa'nın, Ay'a ilk roketini gönderdiği bildirildi. 
+     Avrupa Uzay Ajansı'nın AUA Fransız Guyanası'ndaki Kourou uzay merkezinden yetkililer, SMART-1 adlı insansız uzay inceleme aracı ile 2 ticari uydu taşıyan Ariane-5 tipi roketin, Kourou'dan yerel saatle 20.14'te TSİ 02.14 fırlatıldığını belirttiler. 
+     SMART-1'in yerel saatle 20.55'te TSİ 02.55 Ariane-5 roketinden ayrılarak uzaya bırakılacağını kaydeden yetkililer, 370 kilogram ağırlığındaki insansız uzay aracının, ay yörüngesine 15 ayda ulaşacağını ifade ettiler. 
+     Aracın, konduğu yerden ay yüzeyini tarayarak AUA'ya 30 ay boyunca veri göndereceği, ayrıca daha uzun mesafeli uzay yolculuklarında kullanılacak bazı yeni teknolojilerin geliştirilmesine katkı sağlayacağı belirtildi. 
+     AUA Bilimsel Programlar Direktörü David South, Ariane roketinin fırlatılmasından önce düzenlediği basın toplantısında, Ay'dan sonra Mars'a da uzay aracı göndermeyi amaçladıklarını kaydetti. 
+     
+</TEXT>
+</DOC>

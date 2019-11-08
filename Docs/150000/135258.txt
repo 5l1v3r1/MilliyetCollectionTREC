@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 135258 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/02/05/son/soneko34.html </URL>
+<DATE> 2003/02/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa kapanış... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Bileşik Endeksi, 2. seansta 93.21 puan artarak 10,659.85 puandan kapandı. 
+     Hisse senetleri, ikinci seansta ortalama yüzde 0.88 oranında değer kazandı. 
+     İlk seanstaki 91.67 puanlık kayıp dikkate alındığında, borsa endeksi günün tamamında 1.54 puan yükseldi. Hisse senetlerindeki günlük artış ise yüzde 0.01 oldu. 
+     Endeks, seansa 22.10 puan kayıpla, 10,544.54 puan seviyesinde başladı. Seansın ilk yarısı 10.43 puan kayıpla 10,556.21 puandan geçildi. 
+     Endeks, en düşük 10,493.38 puanı, en yüksek de 10,659.85 puanı gördü. 
+     1. seanstaki 91.67 puanlık düşüş dikkate alındığında, endeks, günlük bazda 1.54 puan yükseldi. Hisselerin günlük ortalama değer kazancı ise yüzde 0.01 oldu. 
+     Kapanışta mali endeks 110.66 puan artışla 13,169.43 puana, sanayi endeksi 64.71 puan artışla 10,265.87 puana, hizmetler endeksi 84.80 puan artışla 7,031.46 puana yükseldi. 
+     Böylece ilk seansa göre mali grup hisseler ortalama yüzde 0.85, sanayi grubu hisseler ortalama 0.63, hizmetler grubu hisseler yüzde 1.22 değer kazandı. 
+     İşlem gören toplam 292 hisse senedinden 113'ü değer kazanırken, 74 hisse senedi değer kaybetti. 105 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta, 135 trilyon 564 milyar 871 milyon liralık işlem hacmi kaydedildi. İki seanstaki işlem hacmi toplamı da 270 trilyon 974 milyar 154 milyon lira olarak belirlendi. 
+     Vanet, Garanti Bankası, Yapı Kredi Bankası, Akbank, Kardemir D en yoğun işlem gören hisse senetleri olarak belirlendi. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

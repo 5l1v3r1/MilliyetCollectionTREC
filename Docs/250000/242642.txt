@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 242642 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/25/son/soneko10.html </URL>
+<DATE> 2004/05/25/ </DATE>
+<TIME> 10.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İş Bankası'ndan para yatırılabilen bankamatik 
+</HEADLINE>
+<TEXT>
+
+     İş Bankası, para yatırılabilen yeni bankamatiklerini müşterilerinin hizmetine sundu. 
+     İş Bankası'ndan yapılan açıklamaya göre, yeni bankamatiklerden, diğer bankamatiklerde yapılabilen tüm işlemlere ek olarak 7 gün 24 saat boyunca para yatırılabiliyor ve yatırılan para anında hesaba geçiyor. Ayrıca para yatırmak için zarf kullanılmıyor. 
+     NCR'nin tasarlayarak iki yıl önce piyasaya sürdüğü ''Personas 86 Model'' Duvar Tipi ATM'lerin deste para yatırma fonksiyonu kazandırılmış hali olan yeni bankamatiklerin, üzerlerinde yer alan ''Bankamatik '' ibaresiyle öteki bankamatiklerden ayırt edilebildiği bildirildi. 
+     Türkiye çapında 90 noktada hizmete giren yeni bankamatikler sayesinde İş Bankası müşterilerinin artık hesaplarına para yatırmak için şubeye girmek zorunda kalmayacakları belirtildi. 
+     
+</TEXT>
+</DOC>

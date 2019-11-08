@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 179985 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/03/son/sondun10.html </URL>
+<DATE> 2003/09/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dizüstü bilgisayar teknolojisinde devrim 
+</HEADLINE>
+<TEXT>
+
+     Yakıt hücresiyle donatılacak dizüstü bilgisayarların, şarj edilme ihtiyacı duymadan 10 saat süreyle çalışacağı bildirildi. 
+     Toshiba ve NEC gibi Japon firmaları, bu tür bataryalarla donatacakları bilgisayarları gelecek yıl kullanıcıların hizmetine sunmaya hazırlanıyor. 
+     ''Allied Business Intelligence'' adlı şirketin enerji araştırma bölümü direktörü Atakan Özbek, ''yakıt hücresiyle çalışacak bataryaların başlangıçta 6-8 saat dayanacağını, sonraları ise bu sürenin 12 saate kadar çıkacağını'' söyledi. 
+     Konunun gündeme gelmesinden sonra, bu tür batarya taşıyan dizüstü bilgisayarların uçaklarda kullanılmasının güvenli olup olmayacağı tartışması başladı. 
+     Bilgisayarların yakıt hücrelerinde kullanılan metanolün çok yanıcı bir madde olduğunu savunan çevreler, bu bilgisayarların uçaklarda kullanılmasının faciaya yol açabileceğini iddia ediyorlar. Buna karşılık Entegris firmasının yakıt hücresi bölümü başkanı John Goodman, ''yakıt hücrelerinin sorun yaratmayacağını, uçaklarda içki ve parfüme bile izin verildiğini'' söyledi. 
+     Toshiba ve NEC'in yanı sıra Casio, Sony, Hitachi ve Samsung gibi firmaların da mikro yakıt hücre teknolojisi üzerinde çalıştığı verilen haberler arasında. 
+     Goodman, ''Birkaç yıl içinde, çakmaktan daha büyük olmayan yakıt hücreli bataryalarla donatılmış dizüstü bilgisayarların 10 saat süreyle elektriğe ihtiyaç hissetmeden çalışabileceğini'' sözlerine ekledi. Goodman, ''10 saat sonra çakmak boyundaki bataryayı çıkartıp yenisini taktığınızda bilgisayarınızı 10 saat daha kullanabileceksiniz'' diye ekledi. 
+     
+     NASIL ÇALIŞIYOR 
+     Uzmanların verdiği bilgiye göre yakıt hücreleri, metanolde bulunan hidrojeni, elektro-kimyasal bir reaksiyon yoluyla elektrik enerjisine dönüştürüyor. Bu tür bataryaların şarja da ihtiyacı bulunmuyor ve içlerindeki yakıtın yeniden doldurulması yeterli oluyor. 
+     Yakıt hücreli bataryaların fiyatının başlangıçta 200 dolar civarında olacağı hesaplanıyor. Ancak 2-3 saat dayanan geleneksel bataryaların 180 dolara satıldığı düşünülürse, uzmanlar bu fiyatın fazla olmadığına dikkat çekiyorlar. 
+     
+</TEXT>
+</DOC>

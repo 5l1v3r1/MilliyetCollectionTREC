@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 251583 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/29/yasam/yas04.html </URL>
+<DATE> 2004/06/29/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Felçliler için 'robot kıyafeti' 
+</HEADLINE>
+<TEXT>
+
+
+DIŞ HABERLER SERVİSİ 
+
+21. yüzyıl teknolojisi engellileri tekerlekli sandalyeye mahk m yaşamaktan kurtaracak gibi görünüyor. Japonya'daki Tsukuba Üniversitesi'nde yüksek lisans öğrencisi olan Takeru Sakurai, bu konudaki ilk 'önemli adımı', üniversite tarafından tasarlanan 'robot kıyafetle' denerken görülüyor. Prof. Yoshiyuki Sankai ve ekibinin hazırladığı robot kıyafeti, yaşlı ve fiziksel engellilere yardımcı olması amacıyla geliştirildi. Mekanik metal bacaklar ve sırtta taşınan bir bilgisayar sisteminden oluşan robot kıyafeti, kullanıcının kaslarındaki elektrik sinyallerini tespit ederek bir sonraki hareketi tahmin ediyor ve motorlarını buna uygun şekilde çalıştırarak kullanıcıya destek sağlıyor. Prof. Sankai, şu anda yalnızca üniversite aracılığıyla 8 bin 550 dolara yaklaşık 13 milyar lira satabildiği sistemi ticari amaçlı üretmeyi planlıyor. 
+
+
+
+</TEXT>
+</DOC>

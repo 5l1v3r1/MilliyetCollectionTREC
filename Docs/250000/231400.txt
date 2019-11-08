@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 231400 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/14/son/sontur08.html </URL>
+<DATE> 2004/04/14/ </DATE>
+<TIME> 10.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+''6 sıfır sendromu'' kapıda .. 
+</HEADLINE>
+<TEXT>
+
+     Türk bilişimcileri, Türk Lirası'ndan 6 sıfırın atılacak olması nedeniyle yeni bir sendromun eşiğinde... Bilgisayarların yılın son iki rakamına göre işlem yapması nedeniyle 2000 yılında tüm dünyanın yaşadığı ''Y2K Sendromu''nun benzeri, bu kez Türk bilişimcileri tehdit ediyor. 
+     Yılbaşında paradan sıfır atılacak olması nedeniyle ''6 Sıfır Sendromu''nu yaşamak istemeyen bilişimciler, bilgisayar programlarını Yeni Kuruş ve Yeni Türk Lirası'na uygun hale getirmek için çalışmaya başladı. 
+     AA muhabirinin Merkez Bankası yetkililerinden aldığı bilgiye göre, bilgisayarlarda son iki rakama göre işlem yapılması nedeniyle, 2000 yılında tüm ülkelerde ''Y2K Sendromu'' diye adlandırılan sorun belirdi. Gece gündüz çalışan dünyadaki bilişim personeli, bu sorunu atlatmıştı. 
+     Bu kez Türk bilişimcileri, enflasyondaki düşüşe paralel olarak Türk Lirası'ndan yıl başında 6 sıfırın atılacak olması nedeniyle benzer bir sorunla karşı karşıya kaldı. Merkez Bankası, yeni bir Y2K sendromunun yaşanmaması için çalışmalara erken başladı. İlgili kurumlar ve özel sektör temsilcileriyle koordinasyon toplantıları yapan Merkez Bankası, başta muhasebe, stok, faturalama, demirbaş takibi gibi bilgisayar yazılımlarının elden geçirilmesi için tüm kurumlarda hemen çalışmalara başlanması gerektiğini bildirdi. 
+     Yapılması gerekenleri bir takvime bağlayarak eylem planı hazırlayan Merkez Bankası, 6 milyon satırı bulan bilgisayar programlarının kodlarını da tek tek incelemeye başladı. Merkez Bankası'nın proje bazında sürdüreceği bu çalışmaların ekim ayında tamamlanması, testlerle birlikte çalışmaların yaklaşık 7 ay sürmesi bekleniyor. 
+     
+     YENİ KURUŞ VE YENİ TÜRK LİRASI KODLARI 
+
+     Merkez Bankası'na paralel olarak diğer kurumlar da bilgisayar kodlarını incelemeye başladılar. Bilgi işlem merkezleri, bilgisayar programlarını tek tek inceleyerek yıl sonuna kadar tüm bilgisayar programlarını Yeni Kuruş hanesi eklenmiş Yeni Türk Lirası ile uyumlu hale getirecekler. Programlar, bütün yuvarlamalar 1 Yeni Kuruş'a yapılacak şekilde, küsuratlı sayılarda ise tam sayının ardından en fazla 5 rakam olacak şekilde düzenlenecek. Programlar 1, 5, 10, 25 ve 50 Yeni Kuruş'a 1, 5, 10, 20, 50 ve 100 Yeni Türk Lirası'na uyumlu hale getirilecek. 
+     Merkez Bankası yetkilileri, paradan 6 sıfır atılacak olmasının bütün bilgisayar programlarını etkileyeceği düşüncesiyle kamuda ve özel sektördeki tüm programların gözden geçirilmesi gerektiğine dikkati çekiyor. Çalışmak için henüz zaman bulunduğu ancak düzenlemelerin zaman alacağını vurgulayan yetkililer, programlardaki değişikliklerin yapılmaması halinde milyon kat ödemelerin yapılabileceğine işaret ediyorlar. 
+
+     
+</TEXT>
+</DOC>

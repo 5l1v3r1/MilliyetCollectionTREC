@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 335500 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/21/son/soneko03.html </URL>
+<DATE> 2005/04/21/ </DATE>
+<TIME> 08.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa, uluslararası piyasaları izliyor 
+</HEADLINE>
+<TEXT>
+
+     Dün son bir saate kadar olumlu bir seyir izleyen fakat ABD tüketici enflasyonunun ardından seyrin değiştiği İMKB'de bugün yurtdışındaki gelişmeler izlenmeye devam edilecek. 
+     Dün Dow Jones'a gelen sert satışların açılışta İMKB'yi de etkileyebileceğine dikkat çeken uzmanlar, bu durumda ilk hedefin 24 binli seviyelerin korunması olacağını belirtiyorlar. 
+     Yurtiçi gündem maddelerinin yok sayıldığı ve hareketlerin tamamen yurtdışına göre belirlendiği borsada endeks günü son bir saatte gelen sert satışlara rağmen yükselişle tamamlamayı başardı. 
+     Borsada satış dalgasına, beklentilerin üzerinde gelen ABD tüketici fiyat endeksi neden olurken, aynı veriler ABD borsalarını da olumsuz etkiledi. 
+     ABD'de tüketici fiyatlarındaki TÜFE artış yüzde 0.6 olurken, enerji ve gıda fiyatlarının dahil edilmediği çekirdek enflasyon yüzde 0.4 oranında arttı. 
+     
+     Dow Jones'ta düşüş 
+     Özellikle Dow Jones'ta satışların etkili olduğu izlenirken, endeks yüzde 1.2'ye yakın değer kaybetti ve son beş ayın en düşük seviyesine inerek 10 bin 12 puana geriledi. 
+     
+     İMKB düşüşlerden etkilenebilir 
+     Dow Jones'un 10 bin sınırına gerilemesinin yanında Uzakdoğu borsalarında görülen düşüşe de dikkat çeken uzmanlar, İMKB'nin de bu gelişmelerden etkilenmesinin beklenebileceğini ve açılışın düşüş yönünde olabileceğini ifade ediyorlar. 
+     Bugün için yurtiçinde önemli bir gündem maddesi bulunmazken, alternatif piyasalardaki seyir, euro dolar paritesi, petrol fiyatları ve ABD işsizlik sigortası başvuruları takip edilecek. 
+     
+</TEXT>
+</DOC>

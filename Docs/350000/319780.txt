@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 319780 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/01/son/sonyas16.html </URL>
+<DATE> 2005/03/01/ </DATE>
+<TIME> 11.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kocanızı takip etmeyin 
+</HEADLINE>
+<TEXT>
+
+     ABD'de kocası tarafından aldatıldığından şüphelenen Beverly Ann O'Brien adlı bir kadın bunu ispatlamak için eşinin kullandığı bilgisayara bir casus yazılımı yükledi. 
+     Elde ettiği kayıtlar doğrultusunda adamın Yahoo'nun domino oynanan sitesinde sürekli olarak bir kadınla oynadığını ve yazıştığını öğrenen kadın, bunu mahkemeye delil olarak sununca beklemediği bir sonuçla karşılaştı. 
+     Florida mahkemesi kadının yaptığının elektronik iletişimi yasadışı yollarla takip etme kapsamında bir suç olduğuna karar verdi. 
+     Mahkeme ek olarak Beverly O'Brien'ın elde ettiği yazışma kayıtlarını da boşanma davası için delil olarak kabul etmedi. Kullanılan Spector adlı yazılım benzer amaçlarla şirketler ve FBI tarafından takip için sıklıkla kullanılıyor. 
+     
+</TEXT>
+</DOC>

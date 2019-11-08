@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 338026 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/29/yazar/oztrak.html </URL>
+<DATE> 2005/04/29/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Faik ÖZTRAK  </AUTHOR>
+<HEADLINE>
+Paradigma değişikliği için erken 
+</HEADLINE>
+<TEXT>
+
+
+Bu hafta TCMB, Bakanlar Kurulu'na ekonomi ile ilgili bir sunuş yaptı. Sunuş oldukça iyi hazırlanmış ve Türk ekonomisinin artan içsel dayanıklılığını anlatıyor. Burada iki saptama dikkat çekiyor. Cari açıktaki artış, tahminleri aşan büyümenin doğal sonucu olarak yorumlanırken, dünyada artan ticari ve finansal entegrasyonun eskisine oranla daha yüksek cari açıkların sürdürülebilirliğini sağladığının altı çiziliyor. 
+Her iki tespitin de hemen kabul edilmesi oldukça zor. Birinci tespitle ilgili olarak tahminlerin üzerindeki her hızlı büyüme, cari açığı, GSMH'ye oran olarak artırmayabilir. Örneğin Çin ekonomisi uzunca bir süredir tahminlerin üzerinde büyüyor ama cari işlemler hesabı fazla veriyor. Türkiye'de ise hem büyüme hem de dış açık hızla artıyor. 
+Bunun ardında son dönemdeki büyümeyi aşan iç talep artışı yatıyor. Bu birkaç nedenle olabilir. a Gelirler politikasındaki gevşeme, b Artan güvenle özel kesimin tasarruflarını azaltması ve tüketim ve yatırım artışını dış tasarruflarla destekleyebilmesi, c Üretim kapasitesinin artan talebe cevap verememesi veya d Yabancı malların yerli mallara oranla ucuzlaması nedeniyle talebin yabancı mallara yönelmesi. Türkiye'de son dönemdeki cari açık artışlarını daha çok b ve d faktörleri açıklıyor gibi. 
+Nitekim 2004 yılında kamu tasarrufunun DPT'nin 2005 yılı programında tahmin ettiği seviyede gerçekleştiği varsayımıyla özel tasarrufların GSMH'ye oranı 2004 yılında yüzde 24,7'den yüzde 21,4'e geriliyor. Diğer taraftan cari açıklarla DPT tarafından yayımlanan dolar cinsinden birim ücret endeksini aynı grafikte değerlendirdiğimizde, aralarında özellikle son dönemde çok yakın bir ilişki olduğu dikkati çekiyor. Bir başka ifadeyle bir birim malı üretmek için ödenen dolar cinsinden ücretteki artış da, en az büyüme kadar cari açık üzerinde etkili görünüyor. 
+Birim ücreti aşağı çeken yani rekabet gücünü artıran işgücü verimliliğinin son dönemde oldukça hızlı arttığı DİE verilerinden görülüyor. Rekabet gücünü sınırlayan faktörlerden, TL cinsinden reel ücret artışları son dönemde çok düşük kalırken, doların TL cinsinden değerindeki nominal gerilemenin yerli üretimin dolar cinsinden maliyetini artıran başlıca unsur olduğu anlaşılıyor. Artan iç talebin ithalata yönelmesine yol açan bu durum da cari açıktaki artışa katkıda bulunuyor. Bu durum, büyüme hızı yavaşlasa bile, dışarıdan borçlanma imkanı devam ettiği sürece cari açığın artmaya devam edebileceği riskine işaret ediyor. 
+Dünyadaki ticari- mali entegrasyonun ulaştığı seviyenin daha yüksek cari açıkların sürdürülmesine izin verdiği tespiti konusunda da ihtiyatlı olmak gerekiyor. Grafiğe baktığımızda son sekiz yılda gelişmekte olan ekonomilere yönelen uluslararası sermaye hareketlerinde Asya krizinden sonra önemli bir dalgalanma yaşandığı dikkati çekiyor. 
+2001 krizinden sonra gerçekleştirilen reformların ve AB'ye üyelik sürecinin ekonomide oyunun kurallarını gelişmiş ülkeler normlarına yaklaştırdığı şüphesiz. Bu da ekonominin dış gelişmelere karşı dayanıklılığını önemli ölçüde artırdı. Göstergeleri ve politikaları aynı olan iki ekonomiden daha olumlu beklentilere sahip olanın dengelerinin çok daha iyi bir yerde oluştuğu da genellikle doğrudur. Bunun da ötesinde dünyada son iki yılda yaşanan gelişmeler, sanayileşmiş ülkelerde dahi bazı paradigmaların sorgulanmasına yol açıyor. Ancak ben Türkiye'nin cari açık sorununa ve bunun sürdürülebilirliğine ilişkin paradigma değişikliği için henüz erken olduğunu düşünenlerin tarafındayım. 
+
+Yükselen piyasalara giden özel kesim fonları 1997 198,4 1998 84,8 1999 89,1 2000 60,8 2001 60,9 2002 75,8 2003 149,5 2004 196,6 
+
+Birim ücret endeksi ve 12 aylık cari açık Cari açık milyar dolar Birim ücret 1999 IV 1,3 107,3 2000 4,9 105,0 6,8 99,6 8,3 100,4 9,8 106,9 2001 8,0 96,4 3,5 70,8 0,2 63,4 -3,4 64,8 2002 -3,2 74,0 -1,2 75,0 -0,2 69,9 1,5 73,4 2003 3,9 74,8 5,7 85,7 5,7 93,4 8,0 91,1 2004 10,4 97,5 12,3 91,3 14,0 94,2 15,4 102,0 
+
+
+
+</TEXT>
+</DOC>

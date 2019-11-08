@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 53383 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/11/21/son/sondun07.html </URL>
+<DATE> 2001/11/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Playboyu sanal ortamda soydular, kredi kartı bilgileri çalındı 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın en çok satan erkek dergilerinden Playboy'un internet sitesi, bir grup hacker tarafından saldırıya uğradı. Hackerlar, Playboy müşterilerine ait çok sayıda kredi kartı bilgisini ele geçirdi. 
+     Playboy sözcüsü Laura Sigman olayı, ağ müdürünün, haftasonu sistemde olağandışı hareketlilik görmesiyle farkettiklerini belirterek, kaç müşterinin kredi kartı bilgisinin çalındığını araştırdıklarını kaydetti. Şirket, müşterilerinden, bankalarıyla temasa geçip, usulsüz kullanım olup olmadığını sormalarını da istedi. ''Ingreslock 1524'' adını veren hacker grubu, bilgilerini çaldıkları müşterilere isim, kredi kartı numarası ve son kullanma tarihi olan e-postalar da gönderdi. Müşterilere gönderilen mesajda, ''Kredi kartı ve sigorta şirketlerini 10 milyon dolardan fazla bir miktar dolandırmak için elde ettikleri bilgileri kullanmak gibi büyük bir plan yaptıklarını'' söyleyen grup, ''bunun şimdilik sadece bir test olduğunu, gelecekte bir başka test daha yapacaklarını'' bildirdi. 
+     Haberde, hacker grubunun kullandığı ''ingreslock'' kelimesinin, Internet protokolünün IP 1524 numaralı portunu kullanan bir servisin adı olduğu kaydedildi. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

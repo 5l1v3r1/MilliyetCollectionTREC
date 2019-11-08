@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 169991 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/17/son/soneko16.html </URL>
+<DATE> 2003/07/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Boing'ten elektrikli uçak için ilk adım... 
+</HEADLINE>
+<TEXT>
+
+     Boeing'in AR-GE birimi Phantom Works Hayalet İşler uçaklarda elektrik enerjisi üreten kimyasal motorlar kullanmaya yönelik araştırmalarını hızlandırdı. 
+     Boeing'in Madrid'teki Araştırma ve Teknoloji Merkezi, 2004 yılının başında tamamen elektrik enerjisiyle çalışan tek motorlu bir uçağın test uçuşlarına başlayacak. 
+     Boeing'den yapılan açıklamaya göre, Boeing'in üzerinde çalıştığı yakıt pili teknolojisi sayesinde konvansiyonel motorlara oranla aynı miktarda yakıttan iki misli fazla elektrik enerjisi üretilebilecek. 
+     Yakıt olarak ise hidrojen gibi yan ürünü sadece saf su olan çevre dostu maddeler kullanılabilecek. 
+     Açıklamada, hedefin çevreye daha az atık bırakan temiz yakıt teknolojileri olduğu bildirildi. 
+     NASA'nın yanı sıra çeşitli otomobil üreticileri ve Avrupa'nın önde gelen üniversitelerinin desteklediği araştırmanın orta vadede amacının, ticari uçakların yerde ve havada ihtiyaç duydukları elektriği üreten ve benzinle çalışan yardımcı güç motorlarını, Yakıt Pili Teknolojisiyle çalışan elektrik motorlarıyla değiştirmek olduğu kaydedildi. 
+     
+</TEXT>
+</DOC>

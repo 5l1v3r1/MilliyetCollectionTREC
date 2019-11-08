@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 352922 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/17/son/soneko22.html </URL>
+<DATE> 2005/06/17/ </DATE>
+<TIME> 12.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansta 172 puan arttı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeksi, dünkü kapanışa göre 172.37 puan artarak, seansı 26,752.09 puandan tamamladı. 
+     1. seansta, hisse senetlerinin ortalama değer kazancı yüzde 0.65 oldu. 
+     Dün 26,579.72 puandan kapanan İMKB Ulusal 100 Endeksi, ilk seansa 18.15 puan artışla 26,597.87 puandan başladı. İlk yarıyı 26,714.02 puandan geçen endeks, seans içinde önceki kapanış değeri olan 26,579.72 puanın altına düşmezken, en yüksek 26,755.36 puanı gördü. 
+     Seans sonunda mali endeks 243.44 puan artarak 39,550.35 puana, sanayi endeksi 107.11 puan artarak 21,555.37 puana ve hizmetler endeksi 125.03 puan artarak 14,381.41 puana yükseldi. 
+     Böylece önceki kapanışa göre, mali grup hisseler ortalama yüzde 0.62, sanayi grubu hisseler ortalama yüzde 0.50 ve hizmetler grubu hisseler ortalama 0.88 oranında değer kazandı. 
+     1. seansta işlem gören toplam 299 hisse senedinden 161'i değer kazandı, 63'ü değer kaybetti, 75 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta, 496 milyon 109 bin 758 YTL'lik işlem hacmi oluştu. 
+     1. seansta, Turkcell, Tofaş Otomobil Fabrikaları, Doğan Holding, İş Bankası C ve Sabancı Holding, en çok işlem gören hisse senetleri oldu. 
+     
+</TEXT>
+</DOC>

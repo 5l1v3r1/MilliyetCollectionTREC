@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 278069 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/07/son/soneko37.html </URL>
+<DATE> 2004/10/07/ </DATE>
+<TIME> 16.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düşüşle açıldı 
+</HEADLINE>
+<TEXT>
+
+     New York Menkul Kıymetler Borsası düşüşle açıldı. 
+     Borsanın önde gelen göstergesi olan Dow Jones endeksi, 10.40 puan yüzde 0.10 azalarak, 10,229.52 puandan açıldı. 
+     Standard and Poor's 500 endeksi yüzde 0.14, Nasdaq Bileşik Endeksi de yüzde 0.23 oranlarında değer kaybettiler. 
+     İşsizlik başvurularındaki azalma gibi olumlu haberlere rağmen, borsanın değer kaybetmesinde, perakende satışların gerilemesine ilişkin veriler belirleyici oldu. 
+     
+</TEXT>
+</DOC>

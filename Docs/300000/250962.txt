@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 250962 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/25/son/sonyas01.html </URL>
+<DATE> 2004/06/25/ </DATE>
+<TIME> 07.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Uzay yürüyüşü yarım kaldı... 
+</HEADLINE>
+<TEXT>
+
+     Uluslararası Uzay İstasyonu'ndan çıkan 2 astronotun yapacakları uzay yürüyüşünün, astronotlardan birinin elbisesindeki sızıntı nedeniyle tamamlanamadığı bildirildi. 
+     Amerikan Ulusal Havacılık ve Uzay Dairesi'nden NASA yapılan açıklamada, Görev Kontrol Ünitesi'nin astronotların birinin oksijen tankındaki basınç düşmesini tespit etmesinin ardından astronotlara, ''hemen geri dönmeleri'' talimatının verildiği duyuruldu. 
+     Açıklamada, uzay yürüyüşüne katılan ABD'li astronot Mike Fincke ile Rus kozmonot Gennady Palka'nın hayatlarının hiçbir şekilde tehlikeye girmediği ve Rus Görev Kontrol Ünitesi'nin uyarısı üzerine birkaç dakika içinde güvenli şekilde basınç odalarına geri döndükleri belirtildi. 
+     Uzay yürüyüşünün amacının, bozuk çıkan bir kablo kesicinin yenisiyle değiştirilmesi olduğu ve görevin, sorunun nereden kaynaklandığı belirlenene kadar ertelendiği kaydedildi. 
+     
+</TEXT>
+</DOC>

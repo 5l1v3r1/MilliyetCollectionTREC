@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 233159 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/20/son/soneko41.html </URL>
+<DATE> 2004/04/20/ </DATE>
+<TIME> 14.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft, bilgi güvenliği konusunda muazzam yatırımlar yapıyor... 
+</HEADLINE>
+<TEXT>
+
+     Microsoft Türkiye Genel Müdürü Çağlayan Arkan, bilgi güvenliği konusunda muazzam yatırımlar yaptıklarını ve bu konuyu çözme yolunda çok önemli adımlar attıklarını bildirdi. 
+     Microsoft'un, güvenilir bilgi işlem girişimi kapsamında projeleri ve gerçekleştirilen iyileştirmelerin kurumsal müşterilerine anlatıldığı Güvenlik Zirvesi'nde konuşan Arkan, bilgi güvenliğinin bilgisayar endüstrisinin en önemli problemlerinden biri olduğuna dikkati çekti. 
+     Microsoft'un bu konunun üstesinden gelecek birikim ve kaynağa sahip olduğunu belirten Arkan, ''Güvenlik, Microsoft'un birinci önceliğidir. Bu konuyu fevkalede önemsemiş, muazzam yatırımlar yapmış ve bu konuyu çözme yolunda çok önemli adımlar atmış durumdayız'' diye konuştu. 
+     Güvenilir bilgi işlem konsepti altında güvenlik, gizlilik, güvenirlilik ve iş bütünlüğü konularını çözmeye ve bunları bütün teknolojileri ve geliştirdikleri proseslerin içine gömmeye gayret gösterdiklerini anlatan Arkan, şunları söyledi 
+     ''Bunu yaparken çok önemli bir güvenlik altyapısı ve yatırımı yaptık. Bu konuda 4 ana adım tespit ettik. Birincisi, güvenli kod geliştirme. 2003 yılında, 200 milyon doların üzerinde para harcayarak 13 bin çalışanımızı güvenli kod geliştirme konusunda eğittik.'' Güvenli kurulum, güvenlik kullanım çalışmalarından bahseden Arkan, güvenlik iletişimi kapsamında tüm bilgi birikimlerini şeffaf biçimde pazarla paylaştıklarını söyledi. Arkan, ''Bu bilgileri Güvenli Yazılım Geliştirme adlı kitapta toplayıp, satışa sunduk. Bununla bir ödül kazandık. Şu anda Microsoft dünyada en üst güvenlik sertifikasına sahip belki de tek kuruluş'' dedi. 
+     
+     BİLGİ GÜVENLİĞİ TAKIMI 
+     Microsoft Türkiye Sunucu Ürün Müdürü Tolga Keser de, güvenilir bilgi işlemin büyük faydasını gördüklerini vurgulayarak, piyasaya sundukları Windows Server 2003'teki güvenlik açıklarının Windows 2000 Server'a göre altıda bir seviyelere düştüğünü bildirdi. 
+     Keser, temel güvenliği sağlayacak teknolojileri ürünlerine dahil ettiklerini ifade ederek, şunları kaydetti 
+     ''Biz, her ne kadar uğraşırsak uğraşalım istenmeyen bir durumla karşılaşma riskleri taşıyoruz. Bu, siber saldırı veya virüs olabilir. Böyle riskleri önlemek, yarattığı tahribatı azaltmak için Microsoft bünyesinde acil durum planı ve Microsoft Türkiye'de bilgi güvenliği takımı oluşturduk. Bir saldırı olduğu zaman, kendi içimizde savaş odamızda saldırıya karşı müşterimizi korumak amacıyla çalışıyoruz. Müşterilerimizi bilgilendiriyoruz. Yakın zamanda SMS ile bu tip acil durumlarda müşterilerimize ulaşma imkanına sahip olacağız.'' Temmuz ayında gelişmiş güvenlik teknolojilerini içeren Windows XP Service Pack2'yi yayınlayacaklarını, bu sayede müşterilerinin internette daha güvenli gezinebileceğini, e-posta güvenliğinin artacağını belirten Keser, sohbaharda çıkartılması planlanan Windows Server 2003 SP1 ile de sunucuların uzaktan erişimleri ayırt ederek farklı güvenlik politikaları uygulayabileceğini söyledi. 
+     
+     YAMA EN KISA ZAMANDA SİSTEME YÜKLENMELİ 
+     Microsoft Türkiye Güvenlik ve Yönetim Ürünlerinden Sorumlu Sistem Mühendisi Murat Eraydın da, bilgisayar korsanlarının hackers çalışma metodlarından ve korunma yöntemlerinden bahsetti. 
+     Bilgisayar sistemlerine yapılan saldırıların maliyetinin çok hızlı bir şekilde arttığına dikkati çeken Eraydın, ''Hackers için karşısındaki sistemin ne olduğu önemli değil. Zevk veya para için yapabilirler, daha çok egoyla ilgili yazdığım virüs ne kadar yayıldı gibi. Bunu kendi alemlerinde referans olarak gösterebilirler'' dedi. 
+     Bir üründe güvenlik açığı çıkması durumunda, bu problemi ortadan kaldırmak için ürün üzerinde yama adını verdikleri küçük düzeltmeler yapıldığını anlatan Eraydın, ''Burada müşteriye çok büyük sorumluluk düşüyor. Yamayı alıp, en kısa sürede sistemine yüklemeli'' diye konuştu. 
+     Eraydın, Türkiye'deki kurumların büyük bölümünün güvenlik politikaları olmadığını kaydetti. 
+     
+</TEXT>
+</DOC>

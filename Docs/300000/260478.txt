@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 260478 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/04/son/soneko01.html </URL>
+<DATE> 2004/08/04/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası'nda düşüş... 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Borsası günü düşüşle kapattı. 
+     Borsanın temel göstergesi Dow Jones endeksi 58,92 puan düşerek 10.120,24 puana gerilerken, teknoloji endeksi Nasdaq 32,67 puan kayıpla 1859,42 puana indi. 
+     
+</TEXT>
+</DOC>

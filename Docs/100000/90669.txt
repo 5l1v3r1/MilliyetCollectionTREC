@@ -1,0 +1,51 @@
+<DOC>
+<DOCNO> 90669 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/06/19/yasam/yas04.html </URL>
+<DATE> 2002/06/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Eski Türk filmleri gerçek oluyor 
+</HEADLINE>
+<TEXT>
+Aman Allahım GÖRÜYORUM 
+     DIŞ HABERLER SERVİSİ 
+
+     Yüzyıllardır yapay uzuvlar geliştirmek için uğraşan bilim adamları sonunda başarılı oldu. Newsweek dergisinin haberine göre, Amerikalı bilim adamları, çok yakında körlük ve sağırlığı tarihe gömecek 
+     DOKTORLAR kol, bacak gibi organlarını savaşlarda ve kazalarda kaybedenler için yüzyıllar boyunca yapay uzuvlar geliştirmenin yolunu aradılar, zaman zaman da başarılı oldular. 21’inci yüzyılda teknolojinin geldiği nokta ise körlere yapay göz sayesinde görme, işitme engellilere de yapay salyangoz aracılığıyla duyma imk nı tanıyor. Newsweek dergisinin haberine göre, ABD’deki Massachusetts Göz ve Kulak Enstitüsü bilim adamları, bu konuda çığır açacak buluşlara imza atarak körlük ve sağırlığı tarihe gömmeye hazırlanıyor. 
+     
+     İşte biyonik göz 
+     1- Gözlükler Gözlükteki minyatür bir kamera görüntüyü yakalayarak radyo dalgaları aracılığıyla gözün arkasında yer alan bir çipe iletiyor. 
+     2- Çip Bir bilgisayar çipi gelen sinyali deşifre ediyor. Çip deşifre ettiği görüntülere dayanarak bir elektrot yumağını uyarıyor. 
+     3- Retina Elektrotlar, orijinal görüntüden yola çıkarak sinir uçlarını harekete geçiriyor. Sinirler görüntüyü beyindeki optik merkeze iletiyor. 
+     
+     Bu da biyonik kulak 
+     1- Mikrofon Kulağın yanına yerleştirilen bir mikrofon 80 desibelden yüksek sesleri algılayabiliyor. 
+     2 - İşlemci Kulak içindeki bir mikrobilgisayar mikrofonun yakaladığı sesleri analiz edip dijital sinyallere dönüştürüyor. 
+     3- Çip Sinyaller önce kulağın üstündeki çipe, sonra radyo dalgaları aracılığıyla deri altındaki alıcıya tel yoluyla da salyangozdaki elektrotlara iletiliyor. 
+     4- Salyangoz Salyangozdaki elektrotlar, sesi beyine taşıyacak olan sinirleri uyarıyor. 
+     
+
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

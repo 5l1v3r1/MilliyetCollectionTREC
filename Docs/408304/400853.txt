@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> 400853 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/06/ekonomi/eko01.html </URL>
+<DATE> 2005/12/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kaçak cep'te 'hediye puan' fırsatı 
+</HEADLINE>
+<TEXT>
+
+
+Kayıt dışı cep telefonları SMS ile kayıt altına alınıyor. Kayıt için Turkcell ve Telsim hediye puandan 5 YTL'yi düşüyor. Avea, 5 YTL'lik bedeli abonenin ödemesi yolunu tercih ediyor 
+
+ŞÜKRÜ ANDAÇ 
+
+Kayıt dışı ve klonlanmış cep telefonlarının kayıt altına alınmasıyla ilgili 'SMS kısa mesaj yollu kayıt altına alınma' süreci dün başladı. Turkcell, Telsim ve Avea, kayıt dışı cihaz kullanan abonelerine mesaj gönderimini başlattılar. 
+Kayıt dışı cep telefonları, 5 YTL karşılığında kayıt altına alınıyor. Bunun için Avea, abonelerinin iletişim merkezlerine 5 YTL yatırması veya kendilerine gönderilen mesajı onaylamaları halinde bu bedelin fatura veya kontör hesabından düşülmesi yolunu tercih ederken, Turkcell ve Telsim farklı bir uygulamaya gitti. 
+
+Puandan düşülüyor... 
+Turkcell, kayıt dışı olduğunu tespit ettiği aboneye gönderdiği mesajda, kayıt için 5 YTL bedelin 'Hediyecell' puanlarından düşülebileceğini bildiriyor. Kayıt işleminin tamamlanması için gelen mesajın onaylanması yeterli. Telsim 7046'ya SMS gönderen kayıt dışı abonelerin hediye puanlarından, 5 YTL'yi aboneleri adına ödüyor. Turkcell, faturalı hatlarda 2 bin puan, faturasız hatlarda 50 hediye kontör düşüyor. 
+Böylelikle, Turkcell ve Telsim, abonelerinden, devlete ödenecek 5 YTL bedeli tahsil etmeyerek, puanlarından düşüyor. 5 YTL'lik puanı olmayan abonelerin ödemesi Turkcell tarafından yapılarak, bu bedel gelecekte abonenin kazanacağı puanlardan düşülecek. 
+Telsim ise eksik kalan hediye puan bedelini faturaya ekliyor veya kontörden düşüyor. Hediye puan uygulaması yapılan görüşme karşılığında verilen hediye programından oluşuyor. 
+Pazarda, kayıt dışı ve klonlanmış cihazların toplamı 18 milyonu buluyor. Kayıt altına alınmamış cihazlar, 13 Aralık itibariyle iletişime kapatılacak. 
+
+Cep telefonum sisteme kayıtlı mı Cep telefonlarının kayıt dışı veya klonlanmış olup olmadığını internet üzerinden öğrenmek isteyen aboneler öncelikle 06 tuşlayarak cihazın seri numarasını öğrenip, ardından http imei.tk.gov.tr adresinde bu numarayı sorgulayabilecekler. 
+Kayıt dışı cep telefonu Ülkeye girerken kayıt altına alınmamış olan cihazlar.Klonlanmış cep telefonu Yasal olarak yeniden düzenlenmesi gereken, kimlik numarası değiştirilmiş cihazlar. 
+
+Turkcell Turkcell, dün bilgilendirme mesajı göndermeye başladı. Turkcell, cihazı kayıt dışı olan abonelerine SMS göndererek, 5 YTL'yi Hazır Kart'lı abonelerinin KontörBizden'deki hediye kontörlerinden, faturalı abonelerinin HediyeCell puanlarından düşerek, aboneleri adına ödüyor. 
+
+Telsim Telsim aboneleri, 7046'yı arayarak veya boş SMS göndererek, telefonlarının kayıt altında olup olmadığı öğrenebiliyor. Ardından, abonenin onayıyla kayıt dışı telefon için 5 YTL, faturalı hatlarda hediye birikim, ön ödemeli kartlarda ise hediye kontör puanlarından düşülüyor. 
+
+Avea Avea aboneleri SMS yoluyla bilgilendiriliyor. Ardından kayıt dışı olanlar, şirketin iletişim merkezlerine giderek 5 YTL yatırmanın yanı sıra 9858'e SMS atarak veya arayarak sisteme kayıt olabiliyor. 9858 arandığında sesli yanıt sistemi kullanıcının karşısına çıkıp aboneyi yönlendiriyor. 
+
+
+</TEXT>
+</DOC>

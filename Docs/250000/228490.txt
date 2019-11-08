@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 228490 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/04/son/sonyas10.html </URL>
+<DATE> 2004/04/04/ </DATE>
+<TIME> 12.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Virüslere karşı bilgisayarınızı koruyun... 
+</HEADLINE>
+<TEXT>
+
+     Son günlerde çoğalan virüslere karşı, gelen postaların oku-sil yöntemiyle okunmaması ve başlıklarında ''hello, stolen, fake, hi'' yazan e-postaların açılmaması öneriliyor. 
+     Hür Türkiye Teknoloji Platformu Kurucusu Hakan Topuzoğlu, AA muhabirine yaptığı açıklamada, virüslerin e-posta yoluyla bilgisayarlara çok sık gelmeye başladığını belirtti. 
+     Bu virüslerin tamamına yakınının bilgisayarları çökertecek derecede ciddi olduğuna işaret eden Topuzoğlu, ''Virüsün aktif hale geldiği bilgisayarlar, uzaktan yönetilip, çökertilebiliyor. İnternet için kullanılan modemlerden uluslararası görüşme yapılabiliyor'' dedi. 
+     Hızla yeni virüslerin ortaya çıktığını ve antivirüs programlarının bu hıza yetişemediğini vurgulayan Topuzoğlu, virüslere karşı anti-virüs programlarının bazen yeterli olmadığını bildirdi. 
+     Bu nedenle bilgisayarların virüslerden korunabilmesi için bazı basit noktalara dikkat edilmesi gerektiğini ifade eden Topuzoğlu, öncelikle konu başlıklarında ''hello, fake, hi, stolen, unknown, read it immediately'' yazan e-postaların kesinlikle silinmesini önerdi. 
+     Topuzoğlu, e-postaları açarken de özen gösterilmesinin daha iyi olacağını belirterek şunları söyledi 
+     ''Genellikle bilgisayar kullanıcıları, gelen e-postalarını oku-sil yöntemiyle açıyorlar. Bu şekilde açılan e-postaların hangisinde virüs olduğunu görmek olanaksızdır. Zaten virüs, e-postanın açılmasıyla aktif hale geliyor ve bilgisayar uzaktan ele geçiriliyor. Bu nedenle oku-sil yönteminin artık unutulması gerekiyor. Eğer bilgisayara virüs bulaşmış ise bazı özel bilgiler mail yoluyla internete dağıtılabilir. Bunun önlenmesi için e-posta adres defterine aaa aaa.com, kkk kkk.com ve yyy yyy.com gibi uydurma adreslerin girilmesi gerekir. Virüs adres defterine girdiğinde uydurma adres ile karşılaşınca kitlenecektir.'' Topuzoğlu, bazen de virüslerin kişinin kendi adresinden ya da çok yakın tanıdıklarından gelebileceğini ifade ederek, ilginç konu başlıkları olan e-postaların da hemen silinmesini önerdi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> 331101 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/07/son/soneko27.html </URL>
+<DATE> 2005/04/07/ </DATE>
+<TIME> 13.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternet güvenliği... En yüksek güvenlik açığı ADSL bağlantılarda... 
+</HEADLINE>
+<TEXT>
+
+     Bilgi teknolojileri sektöründe faaliyet gösteren Koç.Net tarafından yapılan ''Türkiye İnternet Güvenliği Araştırması''na göre, Türkiye'deki şirketlerin yüzde 27'sinin bilişim sistemlerinde çok yüksek seviyede güvenlik açıkları gözlendi. 
+     Koç.Net, Kasım-Aralık 2004 tarihleri arasında düzenlediği web üzerinden online güvenlik denetimi, ''Rizikometre Kampanyası'' ile 800 civarında ADSL abonesi ve 500'ün üzerinde şirketin güvenlik sistemlerini denetleyerek, ''Türkiye'de İnternet Güvenliği'' konulu bir araştırma yaptı. 
+     Araştırma sonuçlarına göre, şirketlerin bilişim güvenliğine verdikleri önem bir önceki yıla oranla artsa da, 2003 yılında tespit edilen birçok risk faktörünün 2004 yılında hala devam ettiği belirlendi. 
+     Özellikle ADSL geniş bant erişimlerinde, şirket kullanıcıları ve KOBİ'leri tehdit eden güvenlik açıklarının taşıdığı risk oranı yüzde 70 olarak ölçüldü. 
+     Şirketlerin yüzde 27'sinin bilişim sistemlerinde çok yüksek seviyede açıklar gözlenirken, bu sonuç internete açık her 3 sistemden birinde çok ciddi güvenlik açığı ihtimali olduğunu gösterdi. 
+     Şirketlerin yüzde 48'inin web sunucu bilgilerinin kolaylıkla çalınabileceği, ana sayfalarının değiştirilebileceği veya bir başka adrese yönlendirilebileceği tespit edilirken, şirketlerin yüzde 29'unda isim çözmek için kullanılan DNS Domain Name System sunucularındaki açıklar nedeniyle, şirket e-postalarının ele geçirilmesi ve çalışanların internet üzerinden eriştiği bankacılık gibi işlemlerde kullandıkları şifrelerin çalınması riski saptandı. 
+     
+     EN YÜKSEK GÜVENLİK AÇIĞI ADSL'DE 
+     Araştırmaya göre, yüksek seviyeli güvenlik açıklarının yüzde 76 oranıyla, yarısından çoğu ADSL bağlantılarında görüldü. 
+     ADSL bağlantılarındaki güvenlik açıkları dolayısıyla solucanlar worm çok daha hızlı yayılma özelliği gösterirken, kötü niyetli kişiler tarafından ADSL bağlantıları üzerinden bilgisayarlara küçük programcıklar yerleştirilerek elektronik ticareti engelleyen servis kesintisi atakları gerçekleştirilebiliyor. 
+     Tüm sistemler için ciddi risk yaratan ''solucanlar, virüsler ve korsanlar'', ADSL kullanıcılarının korumasız bağlantıları üzerinden daha geniş kitlelerin sistemlerini tehdit ediyor. 
+     ADSL'nin hız ve fiyat avantajından dolayı kullanıcıların güvenlik önlemlerini yeterince araştırmadan kullanması, internet bağlantısındaki bu risk oranının yüksekliğindeki en önemli neden olarak ortaya çıkıyor. 
+     
+     EN FAZLA TEHDİDİ KAMU, EĞİTİM VE GIDA SEKTÖRÜ ALIYOR 
+     Araştırmanın sektörel sonuçlarına göre, teknoloji sektörü yüzde 2 ile en az tehdidi alırken, gıda yüzde 13, kamu yüzde 11 ve eğitim de yüzde 8 ile en fazla tehdit alan sektörler arasında yer aldı. 
+     Bu güvenlik açıklarının, güvenlik yamalarının düzenli takip edilmemesi, internet güvenliğinde ilk adım olan güvenlik duvarları ayarlarının doğru yapılmaması ve internete açılması sakıncalı servislerin filtrelenmemesinden kaynaklandığı belirtiliyor. 
+     Solucan trafiği genellikle önceden herhangi bir hedef belirlemeden, rasgele yapılırken, web portu seviyesine yönelik saldırılar direkt olarak e-ticareti hedef alıyor. 
+     En fazla atak yüzde 55 oranıyla çalışanların olmadığı hafta sonlarında yapılırken, hafta içinde yapılan atakların oranı ise yüzde 45. Ataklar, hafta içinde yüzde 26 oranıyla en fazla 8.00-12.00 saatleri arasında ve mesai saatlerinde yoğunlaşıyor. 
+     
+     EN FAZLA SALDIRI TÜRKİYE İÇİNDEN... 
+     Türk firmaları yüzde 67 oran ile en çok saldırıyı, Türkiye içinden alıyor. Bunu sırasıyla yüzde 19 oranı ile ABD ve yüzde 10 oranıyla İngiltere izliyor. 
+     ABD ve İngiltere kaynaklı saldırılar, daha çok e-ticaret sistemlerine yönelik yapılırken, bu durum, Türkiye'nin sadece global ticarette değil, aynı zamanda sanal ortamda da cazibe merkezi haline geldiğini gösterdi. 
+     Saldırılar daha çok korunmasız ADSL bağlantılarından kaynaklanan solucan trafiği ile gerçekleşirken, bu durum geniş bant kullanan bireysel kullanıcıları ve KOBİ'leri tehdit altında bırakmanın ötesinde tüm internet kullanımını tehdit ediyor. 
+     
+</TEXT>
+</DOC>

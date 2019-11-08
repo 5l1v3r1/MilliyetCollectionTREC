@@ -1,0 +1,45 @@
+<DOC>
+<DOCNO> 76336 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/04/04/yasam/yas07a.html </URL>
+<DATE> 2002/04/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Biracılara müjde 
+</HEADLINE>
+<TEXT>
+
+Japonlar, "Servisi tazele" sinyali veren bardak yaptı 
+     DIŞ HABERLER 
+
+     Japonlar’ın yeni icadıyla, "Garson lütfen bardağımı doldur" sözü artık tarihe karışacak. Buna en çok sevinecek olanlar da, herhalde akşamcılar olacak. Japonlar, yaptıkları çalışmaların ardından, boşaldığı zaman garsona sinyal gönderen bir bardak geliştirdi. Massachusettes’teki Mitsubishi elektrik araştırma loboratuvarlarında geliştirilen bardağın dibine bir mikroçip ve ince bir radyo frekans bobini yerleştiriliyor, çevresi de şeffaf iletken bir zarla kaplanıyor. Böylece bardak bir kondansatör gibi görev yapıyor. İçindeki sıvı boşaldığı zaman bardaktaki donanım, masadaki küçük radyo göndericisiyle, garsonların bulunduğu noktaya sinyal gönderiyor. 
+     
+
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

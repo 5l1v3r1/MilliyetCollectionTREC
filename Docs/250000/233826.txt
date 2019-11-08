@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 233826 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/22/son/soneko21.html </URL>
+<DATE> 2004/04/22/ </DATE>
+<TIME> 11.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tüketici güven endeksi düştü, iş bulma umudu giderek azalıyor 
+</HEADLINE>
+<TEXT>
+
+     Tüketici Eğilim Anketi sonuçlarına göre tüketici güven endeksi Mart ayında önceki aya oranla yüzde 0.8 oranında azalarak 111 olarak gerçekleşti. 
+     Devlet İstatistik Enstitüsü ile Merkez Bankası'nın ortaklaşa düzenlediği anket sonuçlarına göre, güven endeksindeki düşüş, tüketicilerin ''gelecek dönem satın alma güçlerine, genel ekonomik duruma ve iş bulma olanaklarına dair değerlendirmelerinin kötüleşmesinden'' kaynaklanıyor. 
+     Mevcut dönemde satınalma gücü endeksinde yüzde 0,30 artarak 99.8, mevcut dönemin dayanıklı tüketim malı satın alma için uygunluğu endeksi ise yüzde 1,67 artarak 137.9'a ulaştı. 
+     Gelecek dönem için satın alma gücü endeksi yüzde 0.38 azalışla 16.1, gelecek dönem genel ekonomik durum endeksi yüzde 1.74 azalmayla 113.1, gelecek dönemlerde iş bulma olanakları endeksi ise yüzde 4.78 azalmayla 95.6'ya geriledi. 
+     Endeksin 100'den büyük olması tüketici güveninde 'iyimser durum', 100'den küçük olması tüketici güveninde 'kötümser durum', 100 olması ise tüketici güveninde 'ne iyimser ne de kötümser durum' olduğunu gösteriyor. 
+
+     
+</TEXT>
+</DOC>

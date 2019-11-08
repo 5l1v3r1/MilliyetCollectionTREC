@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 362212 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/18/son/sonyas05.html </URL>
+<DATE> 2005/07/18/ </DATE>
+<TIME> 09.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hızla büyüyen Google, güvenlik endişelerine yol açıyor 
+</HEADLINE>
+<TEXT>
+
+     İnternet arama motoru denildiğinde akla gelen ilk isim olan Google’ın hızla büyüyerek değişik alanlarda hizmet vermeye başlaması, güvenlikle ilgili endişeleri de beraberinde getirdi. 
+     Google’ın hizmet verdiği kişilerin ne tür kitaplar okuduğu, nerelere seyahat ettiği ve kimlere elektronik posta gönderdiği gibi çok fazla kişisel bilgiye sahip olması nedeniyle güvenlikle ilgili endişelerin ortaya çıktığı bildirildi. 
+     Durumu "Pek çok kişisel bilginin tek bir sepette toplanması" şeklinde değerlendiren Elektronik Özel Alan Bilgi Merkezi danışmanlarından Chris Hoofnagle, "Google, özel alanla ilgili internetteki en büyük risk olmaya başladı" dedi. 
+     Hoofnagle, Google’ın "para kazanmak uğruna her yolu deneyebileceğini" kastetmediğini vurguladı. 
+     Google’ın özel alan korumasının Microsoft, Yahoo, Amazon.com ve diğer internet devlerine kıyasla daha iyi olduğunun kaydedilmesine rağmen, Hoofnagle tüm bu firmaların Google’ın sahip olduğu kadar kişisel bilgiye sahip olmadığını söyledi. 
+     Endişeler Google’ın büyümesiyle birlikte artarken, Google özel alan koruması konusunda ciddiyetle çalıştığını belirtti. 
+     Google sözcüsü Nicole Wong, şirket olarak özel alan sorununu dikkatli ele aldıklarını, Demokrasi ve Teknoloji Merkezi ve Elektronik Öncü Derneği gibi sivil özgürlükçü gruplardan bu konuda sürekli fikir aldıklarını ifade etti. 
+     
+</TEXT>
+</DOC>

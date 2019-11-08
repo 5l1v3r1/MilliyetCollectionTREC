@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 156339 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/13/son/sondun06.html </URL>
+<DATE> 2003/05/13/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dikkat... Fizzer virüsü internette büyük hızla yayılıyor.. 
+</HEADLINE>
+<TEXT>
+
+     ''Fizzer'' adı verilen yeni ve karmaşık bir virüsün internet aracılığıyla büyük hızla yayıldığı bildirildi. 
+     Virüs özellikle Kazaa programı gibi, dosya paylaşımı yoluyla müzik alışverişi yapanlar ile e-mail kullanıcılarını tehdit ediyor. 
+     Kullanıcıların şüpheli gördükleri .exe, .pif, .com, ve .scr uzantılı e-posta eklerini açmamaları isteniyor. 
+     İlk kez geçen perşembe günü ortaya çıkan virüs, kısa sürede dünyanın çeşitli kesimlerinde bilgisayarları etkiledi. Virüsle ilgili ilk uyarılar, Asya ülkelerindeki işyerlerinden geldi, bunu Avrupa ülkelerinden yapılan onbinlerce uyarı izledi. 
+     Uzmanlar, virüsün kısa sürede kuzey Amerika'yı da etkileyeceğini belirtiyor. İngiliz virüs izleme kuruluşu MessageLab, son 24 saatte 17 bin 765 vaka saptandığını ve ''virüsün yüksek riskli ilan edildiğini'' açıkladı. 
+     Virüs hakkında bilgi veren Network Ass. İnc. adlı şirketin antivirüs ekibinin başı Vincent Gullotto, ''Fizzer'in, çeşitli virüslerin bilinen taktiklerini bünyesinde toplayan karmaşık bir virüs olduğunu'' söyledi. 
+     Virüs, Microsoft'un Outlook programını kullanarak, e-mail yoluyla başka bilgisayarlara da atlıyor. 
+     Uzmanlar, yeni virüsün antivirüs programları ile bilgisayarı dış saldırılardan koruyan ''ateş duvarı'' firewall programlarını etkisiz hale getirdiğine de dikkat çektiler. 
+     
+</TEXT>
+</DOC>

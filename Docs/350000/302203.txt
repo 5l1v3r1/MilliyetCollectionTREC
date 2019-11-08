@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 302203 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/30/son/soneko52.html </URL>
+<DATE> 2004/12/30/ </DATE>
+<TIME> 17.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+BKM Genel Müdürü Yarın gece 5 dakika süreyle sistemi kapatacağız 
+</HEADLINE>
+<TEXT>
+
+     Türkiye'deki kartlı ödeme sistemlerinin kalbi konumundaki Bankalararası Kart Merkezi BKM , Yeni Türk Lirası'na YTL geçiş nedeniyle, yarın gece yarısı 5 dakika süreyle sistemini kapatacak. 
+     BKM Genel Müdürü Sertaç Özinal, YTL konusundaki çalışmaların önemli bir bölümünü son 3 aydır gerçekleştirdiklerini, hazırlıklar kapsamında geçişe ilişkin testler yapıldığını ve bütün çalışmaların başarılı şekilde sonuçlandığını anlattı. 
+     Yılbaşı gecesi saat 23.58 ile 00.03 arasında, 5 dakika süreyle yaptıkları testlere paralel olarak BKM'nin sistemini kapatacaklarını belirten Özinal, şunları kaydetti 
+     ''5 dakikanın sonunda sistemimizi açacağız. BKM'nin sistemi YTL'ye geçmiş durumda olacak. O andan itibaren bankaların bize olan bağlantısını bekleyeceğiz. Saat 00.30'a kadar bankaların aşağı yukarı yüzde 70-80'inin bize bağlantısının tamamlanmış olmasını bekliyoruz. 
+     Saat 01.00 gibi, yani 1 saate yakın bir sürede, tamamına yakınının POS altyapısını hazır duruma getirmesini bekliyoruz. Yani kartların çok önemli bir bölümü 00.30'dan itibaren kullanılabiliyor durumda olacak.'' Sertaç Özinal, kendisinin de aralarında bulunduğu bir ekibin, sistemin bütünü devreye girene kadar BKM'de görev yapacağını kaydetti. 
+     
+     BKM 
+     BKM, kartlı ödeme sistemi içinde ortak sorunlara çözüm bulmak, Türkiye'deki banka ve kredi kartları kural ve standartlarını geliştirmek amacıyla 1990 yılında kuruldu. 
+     Kart sahiplerinin yaptıkları alışverişlerden kaynaklanan borç ve alacaklarının bankalar arasındaki takası, BKM bünyesinde, yurtiçi takas ve hesaplaşma aracılığı ile gerçekleşiyor. 
+     BKM'nin ana faaliyetleri arasında, bankalar arasındaki otorizasyon işlemini yürütmek, kredi kartı ve banka kartı sektöründe yer alan bankalar arasında uygulanacak prosedürleri geliştirmek, yurtiçi kuralları oluşturmak, standardizasyonu sağlamaya yönelik çalışmalar yaparak kararlar almak, yurtdışı kuruluş ve komisyonlar ile ilişkiler kurmak ve gerektiğinde üyelerini bu kuruluşlarda temsil etmek, işlemleri daha güvenli, süratli ve daha az maliyetli tek bir merkezden yürütmek bulunuyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 378060 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/13/son/soneko26.html </URL>
+<DATE> 2005/09/13/ </DATE>
+<TIME> 11.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Fujitsu'nun yeni robotu, insanların yardımına koşacak... 
+</HEADLINE>
+<TEXT>
+
+     Japon elektronik firması Fujitsu'nun geliştirdiği ''enon'' isimli robot, ofiste, dükkanda veya yolda insanların yardımına koşacak, sorunları çözecek. 
+     Firma yetkilileri, ses algılayabilen, kamera ve sensörlerle donatılmış robotun, toplum içinde özellikle yaşı ilerlemiş kişilere yardımı dokunabileceğini ifade ediyorlar. 
+     Kasım ayında Japonya'da 54,000-44,000 dolar fiyatla piyasaya sürülmesi düşünülen 130 santimetre boyundaki robot, 10 komutu algılayabiliyor, yarım kilogram ağırlığındaki eşyaları kaldırabiliyor, yüklenen programlarla yönünü bulabiliyor. 
+     Robot pazarının, 2010 yılında 907 milyon dolar olacağını öngören Fujitsu yetkililer, robotun seri üretimine geçilmesiyle fiyatının 18,000 dolara çekilebileceğini söylediler. 
+     
+</TEXT>
+</DOC>

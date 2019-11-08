@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 372761 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/25/son/soneko01.html </URL>
+<DATE> 2005/08/25/ </DATE>
+<TIME> 01.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacminde dünyanın en büyük borsası New York Wall Street’in Dow Jones Sanayi Endeksi, düşüşle başladığı günü düşüşle bitirdi. 
+     Dow Jones, 84.63 puan azalmayla binde 8 10,434.95 puandan noktalandı. 
+     Teknoloji ortaklıkları ibresi Nasdaq Bileşik Erdeksi de 8.34 puan düşüşle binde 3,9 2,128.91 puandan kapandı. 
+     Borsanın düşüşünde, ABD’de temmuz ayında dayanıklı tüketim malları siparişlerinin beklenenin altında artış gösterdiğinin açıklanması ve petrol fiyatlarında yükselişin sürmesi etkili oldu. 
+     
+</TEXT>
+</DOC>

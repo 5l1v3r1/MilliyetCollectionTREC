@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 214981 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/13/son/soneko10.html </URL>
+<DATE> 2004/02/13/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa 1 saat erken kapanacak... 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası Hisse Senetleri Piyasası'nın açılış ve kapanış saatleri, olumsuz hava koşulları nedeniyle değiştirildi. 
+     Bugün 1. Seansa 1 saat rötarlı olarak saat 10.30'da başlayan Borsa'nın birinci seansı 12.30'da tamamlanacak. 
+     2. Seans açılışı ise normal saatinde başlayıp 1 saat erken kapanacak. Buna göre saat 14.00'te işlemlere başlayacak olan Hisse Senetleri Piyasası, 15.30'da işlemlere son verecek. 2. seans elektronik emir iletimi 14 00-14 10 saatleri arasında gerçekleştirilecek. 
+     Bu arada, İMKB Tahvil ve Bono Piyasası'nda saat 12.00-13.00 arasında uygulanmakta olan öğlen arası kaldırılarak, aynı gün valörlü işlemlerin son işlem saatinin 14.00 yerine 13.00 olarak uygulanmasına karar verildi. 
+     İleri valorlü işlemlerin son işlem saati 17.00 yerine 14.00, buna bağlı olarak repo işlemine konu menkul kıymet bildirimlerinin son bildirim saati 15.00 yerine 13.30 olarak belirlendi. Takas yükümlülüklerinin de son yerine getirilme saati 16.30 yerine 15.00 olarak düzenlendi. 
+
+     
+</TEXT>
+</DOC>

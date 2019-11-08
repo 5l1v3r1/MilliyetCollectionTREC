@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 404139 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/16/son/sonyas05.html </URL>
+<DATE> 2005/12/16/ </DATE>
+<TIME> 08.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ten rengini belirleyen gen bulundu 
+</HEADLINE>
+<TEXT>
+
+     Kanser araştırması yapan Amerikalı genetikçiler, ten rengini belirleyen geni tesadüfen buldu. Buluş sayesinde cilt kanserlerine yeni tedavi yöntemleri geliştirilebilir. 
+     Science dergisinin yarın çıkacak sayısına konuşan Pennsylvania Üniversitesi genetikçilerinden Keith Cheng'e göre, gendeki tek bir aminoasitteki değişiklik, ten renginde büyük bir rol oynuyor ve Avrupalıların neden Afrikalılara göre çok daha açık renk tene sahip olduklarını açıklıyor. 
+     
+     Kanser tedavisinde kullanılabilir 
+     Bilim adamları, yeni bulunan gene SLC24A5 ismini verdi. Araştırmacılar, genin en tehlikeli cilt kanserlerini tedavisinde kullanılabileceğini belirtiyorlar. 
+     
+     Solaryumun yerini alabilir 
+     Yeni gen gelecekte, solaryumların mor ötesi ışınları vasıtasıyla bronzlaşmak ya da kimyasal maddeler kullanarak ten rengini açmak yerine de değerlendirilebilir. 
+     Genetikçiler, ırklar arasındaki ten rengi farklarını belirleyen genlerin birçoğunun ise hala gizemini koruduğunu belirtiyorlar. 
+     
+</TEXT>
+</DOC>

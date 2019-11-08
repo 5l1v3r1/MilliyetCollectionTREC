@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 108246 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/09/18/son/sondun08.html </URL>
+<DATE> 2002/09/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Word ve Excel programlarını yazan uzman Microsoft'tan ayrılıyor 
+</HEADLINE>
+<TEXT>
+
+     Microsoft'un, Windows programından sonra en çok tutulan yazılım programları Word ve Excel'in mimarı Macar asıllı uzman Charles Simonyi, Microsoft'tan ayrılarak kendi firmasını kuracağını açıkladı. 
+     Dev kuruluşta 21 yıldır çalışan Simonyi, Microsoft'un ilk programcılarından biriydi. ''İntentional Software Corp.'' adını verdiği kendi firmasını oluşturmaya hazırlanan Simonyi önderliğindeki kuruluşun, özellikle grafik, resim, tablo ve metin yazılımını kolaylaştıracak programlar geliştireceği ifade edildi. Simonyi, konuyla ilgili açıklamasında, ''amacımız programlamayı daha etkin hale getirmek ve programcıların ihtiyacına cevap vermek'' dedi. 
+     Günümüzde bilgisayar programları, uzun metin kodları yazılmak suretiyle oluşturuluyor. Programların kullanıcılara sunduğu olanaklar genişledikçe programların hacimleri de büyüyor ve yazılmaları zorlaşıyor. 
+     Bill Gates'in başında bulunduğu Microsoft firmasının, Simonyi'nin girişimine olumlu baktığı ve yeşil ışık yaktığı kaydedildi. Gates, bu konudaki açıklamasında, ''Charles'in çalışması, beni çok heyecanlandırdı. Ayrıca, ilişkimizin devam edecek olmasına çok sevindim'' dedi. 
+     Simonyi, ''hazırlayacakları ilk programların 6 ay içinde deneme aşamasına gelebileceğini, gelir getirecek satışların ise 2 yıl içinde gerçekleşmesini beklediklerini'' ifade etti. 
+     Microsoft firmasına, 1981 yılında California üniversitesinden mezun olduktan sonra katılan Simonyi, daha önce Xerox firmasının Palo Alto'daki efsanevi araştırma merkezinde çalışmıştı. Uzmanın, burada geliştirdiği grafik metin programı, sonuçta Microsoft patenti altında ''Word'' programı olarak piyasaya çıktı. 
+     FORBES dergisi, Simonyi'nin servetini 1 milyar dolar olarak tahmin ediyor. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

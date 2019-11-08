@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 263125 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/13/son/soneko28.html </URL>
+<DATE> 2004/08/13/ </DATE>
+<TIME> 14.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bono - tahvil piyasasında faiz yüzde 25.28 oldu 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda işlem gören 22 Şubat 2006 vadeli, bugün valörlü tahvilin basit getirisi yüzde 26.91'den, bileşik getirisi yüzde 25.28'den kapandı. 
+     Bu kağıdın aynı gün valörlü işlemlerinin bileşik getirisi, dünkü kapanışa göre 0.17 puan arttı. 
+     
+     REPO 
+
+     İMKB Tahvil ve Bono Piyasası Repo-Ters Repo Pazarı'nda üç günlük işlemlerde faiz ortalama yüzde 22.00 oldu. Üç günlük işlemlerde faiz en düşük yüzde 22.00, en yüksek yüzde 22.10 olarak gerçekleşti. 
+     
+</TEXT>
+</DOC>

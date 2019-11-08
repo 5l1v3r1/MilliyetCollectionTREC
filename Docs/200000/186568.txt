@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 186568 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/05/yasam/yas11.html </URL>
+<DATE> 2003/10/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Explorer'da yeni 'açık' 
+</HEADLINE>
+<TEXT>
+
+   
+   Microsoft'un internet tarayıcısı Explorer'ın yeni bir 'açığı' ortaya çıktı. Bu açık sayesinde, Alta Vista, Google, Lycos, MSN ve Yahoo gibi çok sayıda sık kullanılan web sitesini, kendi belirlediği bir IP adresine yönlendiren saldırganın hacker , eylül ayı başında çıkan 'Delude Trojan' virüsünü yazan kişi olduğu sanılıyor. Açığın, Microsoft'un, 20 Ağustos'ta çıkardığı yama ile tamir edilebileceği ve Windows Kaydı'nın, manüel olarak düzeltilmesiyle tekrar işlev kazanabileceği belirtildi. 
+   
+   
+</TEXT>
+</DOC>

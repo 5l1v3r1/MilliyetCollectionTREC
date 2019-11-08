@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 370262 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/16/son/soneko31.html </URL>
+<DATE> 2005/08/16/ </DATE>
+<TIME> 14.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türkçe internet adresine büyük ilgi 
+</HEADLINE>
+<TEXT>
+
+     Güney Kore merkezli Netpia'nın kısa bir süre önce deneme aşamasını başlattığı Türkçe İnternet Adresi TİA sistemine başvuru sayısının 10 bini geçtiği bildirildi. 
+     Netpia'dan yapılan açıklamaya göre, TİA sistemi için ön kayıt aşaması Ağustos sonunda başlayacak. 
+     Netpia Genel Müdürü Koray Kocagöncü, sistemin gördüğü ilginin, yeni nesil İnternet adresi için büyük bir ihtiyaç olduğunu gösterdiğini belirtti. 
+     Kocagöncü, ''TİA'ya öncülük ederek, İnternet kullanıcılarının bekledikleri bir teknolojiyi Türkiye'ye sunmaktan mutluluk duyuyoruz. TİA, Türkiye'de İnternet dünyasında çok şeyi değiştirecek'' dedi. 
+     TİA sisteminde gerçek ve tüzel kişiler, herhangi bir ön ya da son eke gerek kalmadan, Türkçe karakterleri ğ, ı, ü, ş, ö, ç ve boşluğu da kapsayacak şekilde, gerçek isimleri, Türkçe internet adresi olarak alabiliyor. 
+     Deneme aşamasında katılımcılar birçok web sitesine doğrudan Türkçe internet adreslerini kullanarak, sitelerin gerçek isimleriyle ulaşabiliyorlar. 
+     Ek olarak katılımcılar arzu ettikleri Türkçe internet adreslerini geçici bir süre için ücretsiz edinebiliyorlar. Türkçe internet adresi almak için http www.netpia.com.tr web sitesine üye olup kayıt yaptırmak yeterli oluyor. 
+     
+</TEXT>
+</DOC>

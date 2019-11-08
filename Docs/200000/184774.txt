@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 184774 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/26/son/soneko01.html </URL>
+<DATE> 2003/09/26/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street menkul kıymetler borsası perşembe gününü düşüşle kapadı. 
+     Dow Jones endeksi 81,55 puan kayıpla 9343,96'ya, Nasdaq endeksi de 26,50 puan kayıpla 1817,20'ye düştü. 
+     
+     TOKYO BORSASI 
+
+     Tokyo Borsası ise günü yükselişle tamamladı. 
+     Borsanın temel göstergesi Nikkei Endeksi, kapanışta düne göre 8.4 puan artışla 10,318.44 puana çıktı. 
+     Aynı borsada ABD Doları ise Japon Yeni karşısında düne göre 0.12 yen gerileyip 112.06 yenden işlem gördü. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 201125 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/10/son/soneko02.html </URL>
+<DATE> 2003/12/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tokyo Borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     Tokyo Borsası'nda Nikkei Endeksi geriledi. Endeks, kapanışta 213.72 puan azalarak 9,910.56 puana indi. 
+     Aynı borsada, ABD Doları Japon Yeni karşısında 0.21 yen değer kazanarak 107.40 yene çıktı. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 379084 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/16/son/sonyas10.html </URL>
+<DATE> 2005/09/16/ </DATE>
+<TIME> 10.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternet adresleri Türkçe de yazılabilecek 
+</HEADLINE>
+<TEXT>
+
+     Kore’de başlatılan internette bütün diller için adres bulma hizmeti sayesinde Türkçe karakterlerin internet adreslerinde de kullanımının önünün açıldığı bildirildi. 
+     Türkiye Bilişim Derneği’nin yanı sıra Türkiye’deki ilk bilgisayar mühendisliği bölümünü Hacettepe Üniversitesi’nde kuran Prof. Dr. Aydın Köksal, sanal ortamda dil kullanımı konusundaki uzun yıllara dayanan çalışmalarıyla ilgili olarak AA muhabirine bilgi verdi. 
+     Latin alfabesi kullanan dillerde, her dile özgü sesleri ve vurguları belirtmek için bazı özel damgaların ve imlerin kullanıldığını belirten Köksal, Türkçe’de de ç, ı, ğ, ö, ü ve ş gibi yazı damgalarının yer aldığını kaydetti. 
+     Latin abecesinin anası sayılan İtalyanca başta olmak üzere, İspanyolca, Fransızca, Almanca gibi birçok dünya dilinde de özel damga ve imlerin kullanıldığına işaret eden Köksal, bilgisayar ortamında kullanılan dillerin İngilizce’den ibaret olmadığını vurguladı. 
+     Latin alfabesini kullanan diller içinde Türkçe alfabenin en yalın, dilin seslerini hiçbir karışıklığa yer bırakmaksızın bire bir gösteren, en çabuk öğrenilir, en kolay kullanılır örneği oluşturduğunu belirten Köksal, bu durumun dille özel olarak ilgilenen, Dil Devrimi’nde Türkçenin gelişmesi için alınan kararlar sırasında derinlemesine incelemeler yaptıran Atatürk’ün çabalarından kaynaklandığını vurguladı. 
+     
+     "İSTEMEK YETERLİ..." 
+     Türkçe’nin internette kullanımı konusunda ise iki ayrı kavramdan söz edildiğini, öncelikle internet üzerinden gönderilen belgelerin içeriğinde kullanılan "damga" ya da karakterlerin Türkçe olmasının önemli olduğunu anlatan Köksal, internette bir ileti yazarken Türkçe harfleri kullanmayı istemenin yeterli olduğunu ifade etti. 
+     Dünyanın her tarafında üretilen bilgisayarlarda, isteyen herkesin bilgisayarında Türkçe kullanmasının olanaklı olduğunu vurgulayan Köksal, istenilmesi halinde Türkçe’ye göre hazırlanmış F tuş düzenli klavyenin de edinilebileceğini belirtti. Köksal, şöyle devam etti 
+     "İnternette Türkçe kullanmak demek, iletinizi, mektubunuzu Türkçe harflerle yazmak demektir. İnternet iletilerinizi dünyanın her yanında Türkçe yazabilirsiniz. Dil olarak Türkçe tanımlandıktan sonra, yazınızı F klavyede mi, Q klavyede mi yazacağınıza kendiniz karar verebilirsiniz. 
+     Öte yandan, internette Türkçe kullanmak, adreslerde Türkçe kullanmak anlamına da gelir. Adım Aydın Köksal. Adımı internet adresi olarak yazmak için bunu ı ve ö ile mi yazacağım, yoksa İngilizce’deki sınırlı harfleri mi kullanacağım İnternette adresler yakın zamana kadar hep İngilizce yazıldı. Aslında bu durum çok büyük bir zorluk getirmiyor. Yine de internet adreslerinde de Türkçe kullanmak isteriz... Şimdi bu sorun da aşılmış durumda. Örneğin Kore’deki bir firma, yalnız Türkçe değil, Latin harfleriyle yazılan bütün dillerdeki özel damgaları da tanıyan bir arama motoru geliştirdi ve bütün bu dillerde adres bulma hizmetini başlattı. Sitenizin adını, e-posta adresinizi oradan alırsanız, adınız kendi dilinizde nasılsa öyle aranarak bulunabilecektir. Bu uygulama çok yakın bir zamanda yaygınlaşacaktır." Türklerin birçok konuda pratik ve hoşgörülü davrandığını oysa İspanyol, Fransız, İtalyan, Alman, Macar, Çek, Polonyalı gibi birçoklarının ulusal dilleri, adları söz konusu olduğunda hiçbir ödün vermediklerini kaydeden Köksal, bu nedenle söz konusu uygulamanın önümüzdeki dönemde hızla yaygınlaşmasının beklendiğini ifade etti. 
+     Köksal, yabancı dille öğretim yapıldığında bunun "Türkçe’de iş yok" gibi değerlendirildiğini, gençlerin yanlış düşüncelere kapıldığını ifade etti. 
+     Türkçe’nin internet üzerinde ve yazınsal birikim bakımından yetersiz bir dil olmadığını vurgulayan Köksal, "internette Türkçe kullanımı konusunda aşırı alçak gönüllülük, giderek ’kendini aşağılama’ duygusuyla Türkçe’nin sorunları varmış gibi düşünülüyor. 
+     Bütün bu düşünceler, yabancı dille öğretim yanılgısının doğurduğu bir sonuçtur. Türkçe’nin hiçbir sorunu yoktur. Türkçe dünyanın en sağlam, en gelişmiş dillerinden biridir" dedi. 
+     Bir dilin yaygınlaşması için o dili kullananların öncelikle kendilerine saygı ve güven duymaları gerektiğine dikkati çeken Köksal, "İnternetin varlığı Türkçe’yi zedelemeyecek, tam tersine Türkçenin hızla dünya dili olmasına, gelişmesine büyük katkı verecektir. Bu süreç ne zaman başlayacak ve yoğunlaşacak derseniz Atatürk’ün izinde, üniversitelerimizde Türkçe ile öğretim yapmaya yeniden başlayıp bilim ve sanatla daha yoğun ve daha kapsamlı biçimde uğraşmaya başlayınca olacaktır" diye konuştu. 
+     
+</TEXT>
+</DOC>

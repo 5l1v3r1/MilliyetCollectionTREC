@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 258860 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/28/son/sonyas11.html </URL>
+<DATE> 2004/07/28/ </DATE>
+<TIME> 11.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Müzik çalan ceket 
+</HEADLINE>
+<TEXT>
+
+     Almanya'da bir giyim firması MP3 formatında müzik çalan ceket üretti. 
+     Infenion Technologies ve Rosner GmbH'in ortaklaşa ürettiği ve 'mp3blue' adı verilen erkek ceketi, üzerine monte edilmiş bir MP3 çalar ve bluetooth teknolojisiyle çalışan bir cep telefonu içeriyor. 
+     Kollardaki kumanda panelinden tüm elektronik özellikler kontrol ediliyor. 
+     Önümüzdeki ay 'www.mp3blue.de' adresinden satışa sunulacak olan ceketin içinde elektrik ileten bir tür dokuma var. 
+     
+</TEXT>
+</DOC>

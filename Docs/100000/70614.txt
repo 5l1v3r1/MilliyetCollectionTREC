@@ -1,0 +1,62 @@
+<DOC>
+<DOCNO> 70614 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/03/04/ekonomi/eko05.html </URL>
+<DATE> 2002/03/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kıbrıs’ta hacker savaşları 
+</HEADLINE>
+<TEXT>
+
+Kıbrıs Rum Kesimi’nden bilgisayar korsanları, Türkiye’yi hedef seçti. Hacker’lar Türkiye’deki bazı internet sitelerinin içerisine sızıp zarar veriyor ve bunu kurdukları sitede yayımlıyorlar 
+     ŞÜKRÜ ANDAÇ 
+
+     ıbrıs Rum Kesimi’nden bilgisayar korsanları hacker , Türkiye’deki internet sitelerini ardı ardına hack’leyip, bunları kurdukları internet sitesi aracılığıyla duyuruyorlar. Cyhackportal.com’ adlı internet sitesi, bilgisayar dünyası ile ilgili genel bilgiler ve internet haberlerini içermenin yanı sıra bilgisayar korsanlarının hack’lediklerini iddia ettikleri Türk internet siteleriyle ilgili özel bölümlere de sahip. 
+     
+     Skor, 21’e sıfır 
+     Her bir hacker’ın hangi Türk internet sitesini nasıl ve ne zaman hack’lediği bu bölümde açıkça bildiriliyor. Yine bu bölümde, Rum hacker - Türk hacker’ adlı bir skor tabelası da bulunuyor ve tabela şu an 21 - 0 sonucunu gösteriyor. Ayrıca sitede hacker’larca bugüne kadar kırılmış hack edilmiş olduğu iddia edilen tr’ uzantılı web sitelerinin ayrıntılı listesi veriliyor. Hacker’ların sloganı ise Kıbrıslı Rum hacker’lar Türkiye’ye karşı’ şeklinde. 
+     
+     Üniversitelere saldırı 
+     Bilgisayar korsanlarının bugüne kadar içerisine sızdığı ve zarar verdiği internet siteleri arasında, Toplu Konut İdaresi’ne ait www.toki.gov.tr, Kocaeli Üniversitesi’ne ait www.kou.edu.tr, Darphane’ye ait www.mint.gov.tr, İTÜ’ye ait www.pym.itu.edu.tr siteleri ve bunun yanı sıra 17 değişik site daha yer alıyor. 
+     
+     İz bırakıyorlar 
+     Hacker’lar tarafından Türkiye’de hedef alınan siteler, genellikle kamuya ait kurumlar ya da üniversiteler olarak gözüküyor. Hacker’lar ayrıca, siteyi hack’lediklerinde bıraktıkları izi ve tarihi, yine sitede açılan ayrı bir ekran vasıtasıyla gösteriyorlar. 
+     Türkiye’de bilisimcumhuriyeti.com sitesi’nin tanıttığı bu siteye, Türk hacker’lardan cevap gelip gelmeyeceği ise merak konusu. Bu site ayrıca, Türk internet sitelerinin yanı sıra Kuzey Kıbrıs Türk Cumhuriyeti’ndeki siteleri de hedef olarak gösteriyor. 
+     
+Dijital oyuncaklar      Hem en ince, hem de radyo 
+     Motorola’nın piyasaya çıkardığı en ince cep telefonu olarak tanıtılan V.60, aynı zamanda radyo özelliğine de sahip. Üç bantlı Motorola V.60, GPRS özelliğiyle de kullanıcının internet ile uyum içerisinde olmasını sağlıyor. 109 gram ağırlığındaki yeni model cep telefonunun diğer özellikleri arasında şunlar var Ses kaydı yapabilme, sesli arama, titreşim ve 750 isim saklayabilen telefon defteri. www.motorola.com 
+     
+     Rengarenk palm’ler geliyor 
+     Palm firmasının yeni model el bilgisayarları geçtiğimiz hafta tanıtıldı. Palm m130, m515 olmak üzere iki farklı model çıkaran firmanın her iki ürünü de, 33 Mhz işlemciye sahip. Palm m130, hem yeni dizaynı hem de geliştirilmiş ekran ve şarj edilebilir batarya özellikleriyle dikkat çekici. Mavi ve gümüş renkte tasarlanan m130, LCD ekrana sahip. www.palm.com 
+     
+     Bilgisayar kalemi parmak ucunda 
+     ABD’li Exclamation Point firmasının tasarladığı, Stylus adlı parmak ucuna takılarak kullanılan kalem, el bilgisayralarına uyumlu olarak çalışıyor. Plastik bir aksama sahip olan yeni ürün, kullanıcının el bilgisayarları gibi küçük bir ürünü kullanırken daha rahat çalışabilmesi için tasarlanmış. Yeni ürünün satış fiyatı 30 dolar. www.exclamationpen.com stylus 
+     
+     Playstation’ı gözlükten oyna 
+     Playstation’da oyun oynarken televizyon yerine bir gözlük kullanmaya ne dersiniz Olympus tarafından üretilen eye - trek adlı gözlüklerle, Playstation 2’ye bağlanınca gözlerinizin önünde beliren dev bir ekran içerisinde oyun oynayabiliyorsunuz. Yeni ürünün satış fiyatı ise şimdilik biraz pahalı, 550 euro civarında. www.olympus.co.jp 
+     
+Teknoloji vizyonerleri İstanbul’da buluşuyor      Teknolojinin geldiği son nokta, 30 kuruluş ile birlikte 5 - 6 Mart tarihlerinde İstanbul’da BTvizyon Toplantıları’nda tartışılacak. Toplam 30 kuruluş, teknolojinin iş yapış biçimlerine getirdiği son gelişmeleri, kendi hedef kitlesine, bu özel toplantılar ile aktaracak. 
+     Toplantılar, 48 ayrı oturumda gerçekleşecek ve oturumlarda e - iş, e - ticaret, mobil uygulamalar, müşteri ilişkileri Yönetimi CRM , kurumsal güvenlik uygulamaları konularıyla ilgili en son gelişme ve yenilikler tanıtılacak. 
+     BTvizyon Toplantıları’nda ayrıca Digital yaşam’, Gerçek kredi kartı kullanmadan güvenli alışveriş’ gibi özel konular, Türk ve yabancı uzmanlar ile birlikte tartışılacak. 
+     
+
+
+
+ EKONOMİ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

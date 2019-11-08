@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 232139 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/16/son/sonyas13.html </URL>
+<DATE> 2004/04/16/ </DATE>
+<TIME> 15.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Teknolojiden özel hayata bir darbe daha... 
+</HEADLINE>
+<TEXT>
+
+     Özel hayatın en ince ayrıntısına kadar izlenebilmesine olanak tanıyan yeni bir teknoloji, mahremiyeti savunan grupları alarma geçirdi. 
+     Radyo Frekansı Tanımlama RFID çipi denilen ve günlük yaşamda kullanılan herhangi bir ürünün üzerine monte edilen yeni teknolojiyle, bir insanın ne zaman ne yaptığının bilinmesinin mümkün olduğu kaydedildi. 
+     ''İnsanların daha çok hangi diş macununu ya da tıraş bıçağını kullanmayı tercih ettiğinin bilinmesinin, bazı firmalar için milyonlarca dolar değerinde bir bilgi olduğunun'' altı çizilirken, insanların çoğunun, hayatlarının en mahrem alanlarına kadar giren bu çipten haberdar olmadığı kaydediliyor. 
+     Diş macunu tüpüne ya da elbise dokumaları arasına monte edilen bu çiplerin, bir nevi küçük radyo vericileri olduğu belirtiliyor. Ancak klasik radyolar gibi yayın yapmayan bu çiplerin sağladığı tek bilgi, bir seri numarasından ibaret. Bu çipler, belirli bir radyo sinyali aldığında, RFID çipi üzerindeki seri numarasını bir veri bankasında kaydedilmek üzere ana radyoya gönderiyor. 
+     Ürünlerin üzerinde bulunan barkodlardan çok daha karmaşık olan RFID çiplerinin, potansiyel olarak farklı amaçlarla kullanılabileceği de ifade ediliyor. Şu an için radyoların RFID datasını okuyabileceği menzilin çok kısa olduğu kaydedilirken, ileride bu menzilin büyümesiyle bir mağazadaki tek bir radyonun bütün envanteri izleyebilmesinin mümkün olacağı belirtiliyor. 
+     Bu teknolojinin ''müşterilerin iyiliği için'' kullanılacağından bahsedilse de, bu teknolojiyi istismar eden birilerinin müşterilerin sokağına gelerek, kıyıya köşeye sakladıkları dahil, müşterinin evinde ne tür ürünler kullandığını tespit etmesinin mümkün olduğu ifade ediliyor. Bu durum da özel hayata müdahale olarak algılanıyor. Özel hayat savunucuları bu yüzden, bu tür çiplerin herhangi bir giysi ya da üründe kullanılmadan önce bazı yasal düzenlemelerin yapılmasını talep ediyor. 
+     Yapılan protestolara rağmen, çiplerin ABD başta olmak üzere günlük hayata girmeye başladığı ifade edilirken, ülkenin en büyük perakende satış şirketi Wal-Mart, ürünlerini en fazla sattığı 100 firmanın bu çipleri kullanmasına şimdiden yetki vermiş durumda. Amerikan ordusunun da RFID çiplerinden istifade ettiği belirtiliyor. 
+     
+</TEXT>
+</DOC>

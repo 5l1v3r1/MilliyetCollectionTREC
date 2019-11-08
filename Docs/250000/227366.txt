@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 227366 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/31/son/sonyas07.html </URL>
+<DATE> 2004/03/31/ </DATE>
+<TIME> 09.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Şifre unutma derdine son, sorun kökten çözüldü... 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayar ve internetle birlikte günlük yaşamımıza giren ''şifreleri'' unutmayanımız yok gibidir. Teknoloji şimdi bu soruna kökten çözüm getirmiş bulunuyor. 
+     ''APC Biometric'' adlı şirket tarafından piyasaya çıkartılan ''Password Manager'' şifre kelime yönetmeni adlı minik cihaz sorunu kökten çözümlüyor. Kullanıcıyı parmak izinden tanıyan alet sonsuz sayıda şifre kelimeyi hafızasında tutuyor. Windows XP'nin yanı sıra ME, 2000 ve 98 sürümleriyle de uyumlu olan cihaz bilgisayara USB girişinden bağlanıyor. 
+     Cihaz şifrenin yanı sıra onunla birlikte ''kullanıcı adını'' da hafızasına kaydediyor. Cihazın bir başka ilginç özelliği ise aynı aleti 20 değişik kişinin kullanmasına olanak vermesi. 
+     Uzmanlar, kullanıcıların cildinin yağlı ya da kuru olması, elinin kirli ya da temiz bulunmasının hiçbir önem taşımadığını ve cihazın hatasız çalıştığını kaydettiler. 
+     
+
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 393569 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/09/son/sonyas21.html </URL>
+<DATE> 2005/11/09/ </DATE>
+<TIME> 16.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Windows'da yeni güvenlik açıkları... 
+</HEADLINE>
+<TEXT>
+
+     Yazılım devi Microsoft, Windows işletim sisteminin son versiyonlarında 3 güvenlik açığı daha bulunduğunu duyurdu. 
+     Microsoft'un açıklamasında, olası saldırılara karşı bilgisayarı korumak için Windows XP, Windows Server ve Windows 2000'in gelişmiş versiyonunu kullananlara, bu güvenlik açıkları için üretilen yamaları internet sitesinden indirmeleri tavsiye edildi. 
+     Bilgisayar korsanlarının yazılım kodundaki açık nedeniyle dijital görüntü aracılığıyla sistemi ele geçirebildiği belirtiliyor. Bu açıklar için üretilen yamalar, www.microsoft.com security adresinden indirilebiliyor. 
+     
+</TEXT>
+</DOC>

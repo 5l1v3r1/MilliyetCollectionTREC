@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 398638 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/28/son/soneko21.html </URL>
+<DATE> 2005/11/28/ </DATE>
+<TIME> 11.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Geleceğin araçlarının yakıtı da farklı... 
+</HEADLINE>
+<TEXT>
+
+     Durmuş Ali Başkan AA 
+
+''Geleceğin enerjisi'' olarak adlandırılan ve özellikle sudan elde edildiği takdirde sonsuz bir enerji kaynağı olduğu bildirilen hidrojenin, içten yanmalı motorlar için alternatif yakıt olarak değerlendirildiği belirtildi. 
+     Çukurova Üniversitesi Mühendislik Mimarlık Fakültesi Makine Mühendisliği Otomotiv Anabilim Dalı Başkanı Prof. Dr. Kadir Aydın, günümüzde petrol rezervlerinin giderek azalmasının alternatif yakıt arayışını ön plana çıkardığını söyledi. 
+     Doğadan, özellikle sudan elde edildiği takdirde sonsuz bir enerji kaynağı olan hidrojenin, içten yanmalı motorlarda yakıt olarak kullanılabildiğini belirten Aydın, ''Hidrojen, çevreci olmasından ve fosil kökenli yakıtlara göre avantajlarının bulunmasından dolayı, birincil enerji kaynağı olarak düşünülmektedir'' dedi. 
+     Aydın, hidrojenin dağıtım, kullanım ve güvenlik bakımından benzinle karşılaştırıldığından bazı avantajlara sahip bulunduğunu, bunların başında da temiz ve yenilenebilir olmasının geldiğini bildirdi. 
+     Hidrojenin, benzinin 3-4 katı daha fazla enerji içeren mükemmel bir yakıt olduğuna dikkati çeken Aydın, ''Hidrojen birçok başka enerji kaynağı ile üretilebilmekte, birçok endüstriyel işlemin yan ürünü olarak değerlendirilebilmektedir'' dedi. 
+     Aydın, günümüzde yakıt seçiminde ölçüt olarak alınan değerlendirmelerin alternatifler arasında hidrojen lehine sonuçlar verdiğini ifade ederek, ''Hidrojenin yakıt olarak kullanılması konusundaki çalışmalarda, benzine göre tasarlanmış motorlar, gerekli modifikasyonlar yapılmak suretiyle kullanılıyor'' diye konuştu. 
+     Yakıt olarak hidrojenin kullanıldığı, oksijen ile elektro-kimyasal reaksiyon sonucunda enerji üreten yakıt pillerinin geliştirilmesi yönünde otomotiv sektörünün çalışmalara yoğunluk kazandırdığını anlatan Aydın, şöyle konuştu 
+     ''Metan, doğalgaz, etanol, metanol ve son dönemlerde benzin kullanabilen yakıt pilleri denemelerinden de olumlu sonuç alındı. Batarya ile güçlendirilen elektrikli taşıtların gelişmesi, bunların kullanım sınmırlamalarının anlaşılmasını da kolaylaştırdı. 
+     Enerji üretimi ve otomotivle ilgili birçok firma, 21. yüzyılın ulaşım ihtiyacını karşılamak üzere çevre basıncında çalışan yakıt türüne karşı esnek, tasarımı basit, imalatı ve kullanımı kolay yakıt pili sistemlerinin geliştirilmesi amacıyla çalışmalarını sürdürüyor. 
+     Yüksek verimleri sayesinde enerji tasarrufu sağlayan bir güç kaynağı olarak yakıt pilleri, gelecekteki otomotiv kullanımı için ümit vermektedir. Benzin motorlarının 2-3 katı olan ve yüzde 60'ın üzerindeki termik verimlerine ek olarak, düşük gürültü düzeyi, egzoz emisyonu ve ısı atma seviyesiyle avantajlar yaratmaktadır.'' 
+     
+     HİDROJEN 
+     Hidrojen 1500'lü yıllarda keşfedilmiş, 1700'lü yıllarda yanabilme özelliğinin farkına varılmış, evrenin en basit ve en çok bulunan elementi, renksiz, kokusuz, havadan 14.4 kez daha hafif ve tamamen zehirsiz bir gaz. 
+     Hidrojen bilinen tüm yakıtlar içinde birim kütle başına en yüksek enerji içeriğine sahip. 1 kilogram hidrojen, 2.1 kilogram doğal gaz veya 2.8 kilogram petrolün sahip olduğu enerjiyi içeriyor. Hidrojen doğada serbest halde bulunmuyor. En çok bilinen bileşiği ise su. 
+     Isı ve patlama enerjisi gerektiren her alanda kullanımı temiz ve kolay olan hidrojenin yakıt olarak kullanıldığı enerji sistemlerinde, atmosfere atılan ürün sadece su veya su buharı oluyor. Hidrojenin petrol yakıtlarına göre ortalama 1.33 kat daha verimli bir yakıt olduğu belirtiliyor. 
+     Araştırmalar, mevcut koşullarda hidrojenin diğer yakıtlardan yaklaşık 3 kat pahalı olduğunu ve yaygın bir enerji kaynağı olarak kullanımının hidrojen üretiminde maliyet düşürücü teknolojik gelişmelere bağlı olacağını gösteriyor. Hidrojenden yakıt pili teknolojisi ile elektrik elde ediliyor. 
+     
+</TEXT>
+</DOC>

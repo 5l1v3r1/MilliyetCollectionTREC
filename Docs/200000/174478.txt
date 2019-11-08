@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 174478 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/08/son/soneko16.html </URL>
+<DATE> 2003/08/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kredi kartı sahteciliğinde yeni çözümler... 
+</HEADLINE>
+<TEXT>
+
+     Visa'nın çip kartların küresel olarak geçerliliğini sağlamak amacıyla Europay ve MasterCard ile birlikte oluşturduğu Europay-MasterCard-Visa EMV standardı sayesinde kartta sahtecilik riski azalıyor. 
+     EMV standardı, çip kartlar ile çip kart kabul eden terminallerde işlem yapılabilmesini olanaklı kılan sistemin çerçevesini oluşturuyor. 
+     Çip kart terminale yerleştirildiğinde önceden programlanmış belirli komutlar yerine getiriliyor. Bu, çip kartın kopyalanmasını imkansız hale getirirken, kart kaybolduğunda veya çalındığında kartı tahsis eden bankanın çipi kilitlemesi sağlanıyor. Özellikle kartların PIN numarası ile birlikte kullanıldığı durumlarda sahtecilik riski azalıyor. 
+     Visa Türkiye Yeni Teknolojilerden Sorumlu Genel Müdür Yardımcısı Nur Öztin Kurak, Avrupa'da çok yoğun EMV uyumlu çip karta geçiş hazırlığı olduğunu belirterek, ''Avrupa'da EMV'ye geçiş oldukça kart sahteciliğinin bizim ülkemize kayma riski var'' dedi. Geçen yıl Visa AB bölgesinde 500 bin terminalin EMV uyumlu hale geldiğini ve 35 milyonun üzerinde EMV uyumlu Visa kartının kullanımdaki yerini aldığını söyleyen Kurak, Türkiye'deki bankaların EMV uyumlu çipli karta geçmelerini önerdi. 
+     ''Türkiye'deki bankaların EMV'ye hazırlanmasını öneriyoruz, AB ülkeleri içerisindeki harekete Türkiye'nin de katılmasını istiyoruz'' diyen Kurak, ''EMV'li çipli karta geçince mevcut sahteciliklerin önlenmesinde kazancınız olacak. Dalga etkisi dediğimiz sahteciliğin Türkiye'deki kartlara kaymasını engelleyeceksiniz. Avrupa'daki ülkeler EMV'ye geçince sahtecilik doğal olarak en zayıf noktaya gelmek isteyecektir, bizim korunmamız lazım'' dedi. 
+     Türkiye'de Denizbank'ın EMV uyumlu çip kart teknolojisine geçiş sürecini tamamlayarak Visa markalı katları ve ödeme terminallerini EMV standardına uyumlu hale getirmeye başladığını ifade eden Kurak, önümüzdeki günlerde başka bankaların da tanıtımlarını yapacaklarını duyurdu. 
+     Nur Öztin Kurak, bugün Visa Türkiye kredi kartı portföyünün yüzde 65'ini oluşturan bankaların EMV altyapısını hazır ettiklerini kaydetti. 
+     
+     2005 YILINA KADAR EMV'YE UYUM 
+     Gerek Türkiye gerek AB bölgesinde kartların kritik çoğunluğunun 2005 yılına dek EMV uyumlu çipli kartlar haline gelmesinin öngörüldüğünü dile getiren Kurak, bir sahtecilik veya itiraz durumunda sorumluluğun çipli taraftan çipsiz tarafa geçeceğini söyledi. 
+     EMV'ye geçişi sahteciliğin gün be gün artıyor olmasına bağlayan Kurak, ''Sahtecilikle mücadele etmek için en iyi yöntem çipli kartlar ve bu kartlara verilecek şifre. Çip, kartın kopyalanmasını, şifre de çalıntı kartlara karşı sahteciliği engelliyor. Alışverişlerde de şifre kullanılacak. EMV'ye geçiş planının arkasındaki temel neden sahtecilikle mücadele'' dedi. Visa International'ın, Avrupa genelindeki üye bankaların çip kart tahsis etmelerine ve üye işyerlerine çip kart okuyan terminaller yerleştirmelerine katkıda bulunmak amacıyla Şubat 2001'de yürürlüğe koyduğu 168 milyon Euro tutarındaki teşvik programından Türkiye'nin de faydalandığını belirten Kurak, ayrıca EMV standardı konusunda bankalara eğitim destekleri verdiklerini anlattı. 
+     Kurak, çipli karta geçince kayıp çalıntı kartlardaki durum ve postada kaybolan kartların kopyalanmasıyla gerçekleştirilen sahteciliklerin ortadan kalkacağını belirtti. 
+     Kurak, Türkiye pazarında alınan önlemler sonrasında 2001 yılında Avrupa ortalamasının üzerinde seyreden sahtecilik oranlarının geçen yıl AB ortalamasının altına düştüğünü, bu oranların 2002 yılında Türkiye'de yüzde 0.10 dolayında seyrederken, Avrupa'da yüzde 0.12 olarak gerçekleştiğini ifade etti. 
+     
+</TEXT>
+</DOC>

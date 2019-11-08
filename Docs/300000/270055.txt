@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 270055 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/08/son/soneko25.html </URL>
+<DATE> 2004/09/08/ </DATE>
+<TIME> 12.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Cep telefonu altyapısında yeni teknoloji... 
+</HEADLINE>
+<TEXT>
+
+     Avrupa'nın önde gelen cep telefonu operatörlerinden Alman T-Mobile tarafından test kullanımına açılan 'Flash OFDM' teknolojisinin, '3G' diye adlandırılan üçüncü nesil cep telefonu teknolojisine göre daha hızlı ve ucuz veri transferi yapabildiği bildirildi. 
+     T-Mobile'nin Hollanda'nın tarihi kenti Lahey'de test kullanımına açtığı Flash OFDM altyapısının, cep telefonu kullanıcılarına 10 kat daha hızlı internet erişimi olanağı sağladığı kaydedildi. 
+     Lucent Technologies iştiraklerinden Florian tarafından geliştirilen ve uzun adıyla ''Flash Orthogonal Frequency Division Multiplexing'' olarak bilinen Flash OFDM teknolojisiyle büyük boyutlu resim, şarkı ve görüntü dosyalarının cep telefonlarına indirilebilmesi hedefleniyor. 
+     İngiliz Vodafone'un daha önce Japonya'da denediği yeni teknolojiyle Avustralyalı Telstra ve ABD'li Nextel gibi cep telefonu operatörleri de ilgileniyor. 
+     
+     FLASH OFDM TEKNOLOJİSİ 
+     Diz üstü bilgisayarlara hızlı ve kesintisiz internet bağlantısı sağlamak amacıyla geliştirilen Flash OFDM, büyük boyutlu dosyaların küçük paketler halinde ve veri kayıplarını azaltarak iletimini sağlıyor. 
+     Radyo vericileriyle çalışan sistemin cep telefonlarında 3G teknolojisinin yanında tamamlayıcı unsur olarak hızlı internet erişimi sağlayabileceği bildiriliyor. Bu durumda ses iletimi mevcut 3G ve GSM teknolojileriyle sürdürülebilecek. 
+     Cep telefonu operatörlerinin imzaladıkları lisans sözleşmeleri şu an için 2 teknolojinin bir arada kullanımına izin vermiyor. Flash OFDM'in üreticisi Florian ise operatörlerin lisans şartlarının esnetilmesi için lobi yapmayı sürdürüyor. 
+     
+</TEXT>
+</DOC>

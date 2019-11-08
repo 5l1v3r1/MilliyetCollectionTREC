@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 215699 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/17/son/sondun38.html </URL>
+<DATE> 2004/02/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bagle virüsünün yeni versiyonu yayılıyor... 
+</HEADLINE>
+<TEXT>
+
+     ''Solucan'' tipi Bagle virüsünün yeni bir versiyonu olan ve Bagle B adı verilen virüsün, bugün itibariyle e-posta aracılığıyla dünyadaki internet bağlantılı binlerce bilgisayara hızla yayıldığı bildirildi. 
+     Finlandiya bilgisayar güvenlik şirketi F-Secure'den Mikael Albrech, virüsün önce çöp mektup ''spam'' adı verilen mailler yoluyla yayılmaya başladığını ve şu anda, virüsten etkilenen bilgisayarların e-posta adres bölümlerini kontrol altına alarak hız kazandığını açıkladı. 
+     Virüsü ''yok etmek'' için yapısını incelemeye ve anti-virüs programı bulmaya çalışan uzmanlar, Bagle B'nin, 18 Ocak'ta saptanan ilk versiyonunun tasarlayıcıları tarafından geliştirilmiş olabileceğini düşünüyorlar. 
+     Kendini 25 Şubat'ta etkisiz hale getirmesi için programlanan Bagle B'nin, önce Almanya'da ortaya çıktığının sanıldığı, ardından özellikle Polonya, İtalya ve İngiltere'de hızla yayıldığı belirtildi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 395281 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/15/son/sonyas16.html </URL>
+<DATE> 2005/11/15/ </DATE>
+<TIME> 16.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+AB'den internette uluslararası kontrol için bastıracak 
+</HEADLINE>
+<TEXT>
+
+     İnternetin kontrolünü ABD'ye bırakmak istemeyen AB, Tunus'ta yarın başlayacak ve 3 gün sürecek Birleşmiş Milletler Bilgi Toplumu Zirvesi'nde ''uluslararası kontrol'' için bastıracak. 
+     AB Komisyonu'ndan yapılan açıklamada, BM zirvesinde ''temel hak ve özgürlükleri ihlal etmeden ve ekonomik büyümeye zarar vermeden internetin nasıl işletileceğinin'' tartışılacağı hatırlatılarak, ''özgür, istikrarlı, demokratik ve dünyaya açık bir internetin'' desteklendiği bildirildi. 
+     Halen kar amacı taşımadan internet üzerinde kontrol sağlayan ve merkezi California'da bulunan ABD Ticaret Bakanlığı denetimindeki Tahsis Edilmiş İsimler ve Sayılar İçin İnternet Şirketi'nin ICANN ''hükümet kontrolünden çıkarılmasını'' isteyen komisyon, ABD yönetiminin de uzun yıllar boyunca aynı görüşü paylaştığını hatırlattı. 
+     İnternette son yıllarda artan reklam içerikli zararlı elektronik postalar spam ve siber suçlarla mücadele yanında internetin özgürlüklerinden herkesin yararlandırılması dikkate alındığında, kontrol için ''yeni bir ortaklık modelinin'' gerekli olduğunu savunan AB Komisyonu, ''hiçbir toplumun dışlanmadığı bir masada'' bir araya gelinerek ifade özgürlüğünün yaygınlaştırılmasına katkı sağlayacak bir uzlaşma sağlanması için tartışılmasını istedi. 
+     İran, Küba ve Venezuela gibi ülkelerce ortaya atılan ve gelişmekte olan ülkelerin önemli bir kısmının desteğini alan ''internet denetiminin BM'ye bağlı çalışacak bir örgüte devredilmesi'' fikrine de mesafeli yaklaşan AB, ''gerekli'' görmediği böyle bir adım yerine mevcut yapılar ICANN içinde yapılacak reformlarla çözüm üretilebileceğine inanıyor. 
+     AB Komisyonu'nun bilgi toplumu ve medyadan sorumlu üyesi Viviane Reding ise beklentisini, ''Umarım Tunus'taki zirve, internetin hükümet kontrolünden, tam olarak uluslararası kontrolüne giden uzun evrim sürecinde önemli bir adım oluşturur'' sözleriyle ortaya koydu. 
+     
+     İNTERNETİN KONTROLÜ 
+     Halen internet üzerinde kontrolü sağlayan tek kuruluş olan ICANN, internet adreslerinin koordinasyonunu sağlıyor. Alan domain adları ve karşılığında eşleştirilen sayısal adresler olarak özetlenebilecek bu sistemde internet kullanan tüm bilgisayarlar sayısal kodlarla erişime uygun hale getiriliyor. 1998 yılında kurulan ve sistemin kontrolünü yürüten ICANN Türkiye'yi temsil eden ''.tr'' gibi ülke uzantıları yanında ticari kuruluşları gösteren ''.com'', eğitim kuruluşlarını gösteren ''.edu'' ya da kamu kuruluşlarını gösteren ''.gov'' gibi ana alan adlarını da belirleyebiliyor. 
+     Birçok ülke, internet üzerinde bu kadar etkili bir mekanizma olan ICANN'in sadece ABD'nin kontrolünde kalmasına sıcak bakmadığını defalarca ortaya koyarken, ''alternatif internet'' önerileri de gündeme getiriliyor. 
+     ABD ise ''isteyen her ülkeyle işbirliğine açık olduğunu'' belirterek internetin kontrolü için getirilen önerilere kapalı tutumunu sürdürüyor. ''Zayıf BM denetiminin, ifade özgürlüğünden yana olmayan ülkeler için bir fırsat oluşturabileceğini'' savunan ABD, çok uluslu kontrol modelinin ise ''bazı dillerde bazı ülkelerin kontrolüne dönüşebileceğini'' iddia ediyor. 
+     Avrupalı büyük şirketlerin de, ticari kaygılarla ABD'yle bir internet savaşına şimdilik sıcak bakmadığı ifade ediliyor. 
+     
+</TEXT>
+</DOC>

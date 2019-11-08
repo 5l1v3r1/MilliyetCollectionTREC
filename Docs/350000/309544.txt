@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 309544 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/26/son/soneko32.html </URL>
+<DATE> 2005/01/26/ </DATE>
+<TIME> 13.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Merkez Bankası'ndan elektronik posta uyarısı... 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası, banka ismi kullanılarak gönderilen elektronik posta mesajı konusunda ilgililere uyarıda bulundu. 
+     Banka'nın internet sitesinde yer alan duyurusunda, Merkez Bankası ismi kullanılarak gönderilen bir elektronik posta mesajında, alıcıların bankalar nezdinde bulunan müşteri hesaplarından YTL işlemlerini otomatik olarak yapabilmeleri için, ''mesaj içinde yer alan linklerden giriş yapmalarının istendiği ve Bankayla hiç bir ilgisi olmayan bir web adresine yönlendirildiği'' hatırlatıldı. 
+     Duyuruda, buna karşılık banka uygulamaları arasında, elektronik posta yoluyla işlem yaptırmak ya da bilgi toplamak gibi bir uygulamanın kesinlikle bulunmadığı belirtildi. 
+     Duyuruda, ''bilmediğiniz kişilerden gelen elektronik postalarda yer alan bir internet linkini tıkladığınızda açılacak bir web sayfasına, kişisel bilgilerinizi girmemeniz gerektiğini önemle hatırlatırız'' denildi. 
+     
+</TEXT>
+</DOC>

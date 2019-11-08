@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 188979 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/16/son/sondun02.html </URL>
+<DATE> 2003/10/16/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft Windows'ta 4 yeni açık uyarısı... 
+</HEADLINE>
+<TEXT>
+
+     Yazılım devi Microsoft firması, Windows işletim sisteminin çeşitli sürümlerinde 4 yeni açık saptandığını, kullanıcıların derhal bu açıkları kapatacak yamaları indirerek yerleştirmeleri gerektiğini bildirdi. 
+     Açıkların, Windows Millennium Edition'dan Windows XP'ye ve Windows 2000'e kadar hemen hemen her sürümde görüldüğü belirtildi. Microsoft, açıkları, ''çok ciddi ve kritik'' olarak değerlendirdi ve ''hacker'' denilen bilgisayar korsanlarının bu açıklardan yararlanarak kullanıcıların bilgisayarlarını ele geçirmeleri tehlikesi bulunduğunu kaydetti. Açıklamada, ''hacker''ların henüz bu açıkları farkederek harekete geçtiklerinin sanılmadığı da vurgulandı. 
+     Microsoft firması geçen hafta, aylık olarak güvenlikle ilgili uyarılar yayınlayacağını ve ücretsiz yamaları servise koyacağını açıklamıştı. Ancak bu husus, her hafta birkaç yamayı şirketlerinin bilgisayarlarına yerleştirmeye çalışan bilgisayar uzmanlarının hoşuna gitmiyor. 
+     Bu arada, Microsoft, Windows-XP kullanıcıları için, şimdiye kadar yayınlanmış 22 yamayı da içeren bir paketi hizmete soktu. 
+     Yeni açıkların özellikle dev firmalar tarafından yaygın şekilde kullanılan Windows-2000 programını etkilediği bildiriliyor. Ancak etkilenen sistemler arasında Windows-XP ve Windows Server 2003'ler de bulunuyor. 
+     Microsoft'un güvenlik yamaları http www.microsoft.com security adresinden indirilebiliyor. 
+     
+</TEXT>
+</DOC>

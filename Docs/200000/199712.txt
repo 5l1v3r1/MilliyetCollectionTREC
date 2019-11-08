@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 199712 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/04/son/sondun08.html </URL>
+<DATE> 2003/12/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+"Yüzyılın buluşu" Segway ordunun hizmetine giriyor .. 
+</HEADLINE>
+<TEXT>
+
+     ABD'de yüzyılın en önemli buluşlarından birisi olarak açıklanan, ancak tanıtımından sonra satış rakamları itibarıyla hayal kırıklığı yaratan ''Segway'', Amerikan ordusuna hizmet edecek. 
+     Amerikan Savunma Bakanlığı'nın Pentagon , üniversite uzmanlarıyla ortaklaşa yürüttüğü programda 2 tekerlekli araç, kendi kendine hareket edebilen ve askerlerle iletişim kurabilen bir savaş robotu olarak geliştiriliyor. 
+     Program henüz araştırma safhasında olmasına ve yakın zamanda kendi kendine hareket edebilen Segwayler'in ordunun hizmetine girmesinin beklenmemesine karşın, insan kontrolü olmaksızın kapıları açabilen, engellerden kaçan ve futbol topunu yakalayabilen Segway robotların programlandığı belirtiliyor. 
+     Araştırmacılar, Segway robotların savaş alanında arama, yaralı askerlerin güvenli taşınması veya levazım malzemelerinin taşınması gibi görevleri yerine getirebileceklerini kaydediyorlar. 
+     Segway'in yaratıcısı Dean Kamen, buluşunun askeri amaçlı kullanımının kendisi için sorun olmadığını belirterek, ''Bir otomobil üretirsiniz, cankurtaran olarak da kullanılır, askeri personel taşıyıcı olarak da'' diye konuşuyor. 
+     Kamen, bu programda hoşuna giden tarafın üniversitelerin de araştırmaya dahil olması olduğunu belirterek, teknoloji dünyasında daha çok tanındıkça özellikle genç beyinlerin bu araca daha çok ilgi duyacaklarını kaydediyor. 
+     Perakende satış fiyatı 4 bin ila 4 bin 500 dolar olan Segway, şimdiye dek sadece 6 bin adetten biraz fazla satıldı. 
+     Askeri program için 15 adet Segway kullanan Pentagon'un kendi kendine hareket eden robot sistemlerinin yazılımının geliştirilmesi için bu yıl 26 milyon dolar harcadığı belirtiliyor. 
+     
+     GELECEĞİN TAŞITI 
+     İki tekerlekli ve aküyle çalışan tek kişilik aracın en önemli özelliği, ''jiroskopik'' mekanizmasıyla sürücüsünün nereye gitmek istediğini sezerek oraya yönelmesi. Segway, saatte en fazla 20 kilometre hız yapabiliyor ve freni bulunmuyor. Aracın hızı ve yönetimi sadece kullanıcının değişken ağırlığına bağlı bulunuyor ve elle idare edilebilen bir mekanizmayla kontrol ediliyor. 
+     Ortalama hızı saatte 13 km olan Ginger, 6 saat şarj edilen aküyle 24 km yol katedebiliyor. Yaklaşık 30 kilogram ağırlığındaki araçla merdiven inip çıkılabiliyor, katlanarak asansöre veya ofise götürülebiliyor. 
+     Segway'in üretimi için, Silikon Vadisi'ndeki Kleiner Perkins Byers şirketi 38 milyon dolarlık bir yatırım yapmış, Kamen, başka yatırımcılardan da aldığı mali destekle projeye 90 milyon dolarla başlamıştı. 
+     Kamen, ''İnternet veya naylon gibi önemli bir icat''olarak gördüğü aracının kaldırımlarda kullanılacağını, araç yaygınlaşırsa kentlerin buna göre yeniden düzenlenmesi gerektiğini düşünüyor. 
+     
+</TEXT>
+</DOC>

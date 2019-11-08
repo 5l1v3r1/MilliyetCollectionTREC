@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 320341 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/03/son/soneko31.html </URL>
+<DATE> 2005/03/03/ </DATE>
+<TIME> 15.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bankalar Birliği, dolandırıcılık amaçlı e-posta uyarısı... 
+</HEADLINE>
+<TEXT>
+
+     Türkiye Bankalar Birliği TBB , dolandırıcılık amaçlı elektronik posta e-posta mesajları hakkında banka müşterilerini yeniden uyardı. 
+     TBB web sitesinde yer alan açıklamada, Türkiye Bankalar Birliği ve bazı bankaların adı kullanılarak banka müşterilerine gönderilen bir e-posta mesajında, ''Bankalar Birliği'nin kararı ile bazı bankaların kabul ettikleri sözleşmeye göre kredi faiz oranlarının tekrar düzenlenmesine ve bilgi güncellemesi yapılmasına karar verildiği''nin bildirildiği ve e-posta mesajı içerisindeki linke tıklanarak kişisel bilgilerin girilmesinin talep edildiği belirtildi. 
+     Açıklamada, ''Dolandırıcılık amaçlı olan söz konusu e-posta ile Türkiye Bankalar Birliği'nin ve bankaların bir ilgisi bulunmamaktadır. Kişisel bilgilerin veya kredi kartı bilgilerinin elde edilmesine yönelik olarak gönderilen bu tür kötü niyetli mesajlara itibar edilmemesi, olası dolandırıcılık eylemlerine maruz kalınmaması için büyük önem arz etmektedir'' denildi. 
+     Türkiye Bankalar Birliği 18 Şubat 2005 tarihinde yaptığı açıklamada da, YTL'ye geçiş sürecini fırsat bilerek bankaların logo ve isimlerini içeren çeşitli içeriklerde gönderilen e-posta mesajlarında talep edilen bilgilerin verilmemesi konusunda banka müşterilerini uyarmıştı. 
+     
+</TEXT>
+</DOC>

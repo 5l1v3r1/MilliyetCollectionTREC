@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 72348 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/03/13/son/sondun23.html </URL>
+<DATE> 2002/03/13/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft kablosuz monitör "Mira"yı tanıttı 
+</HEADLINE>
+<TEXT>
+
+     Amerikan yazılım devi Microsoft, Hannover'deki CeBIT bilgisayar fuarında üretimine başlayacağı seyyar monitör ''Mira''yı tanıttı. 
+     Microsoft firmasının, Philips ve LG Electronics firmalarıyla birlikte üreteceği seyyar monitör, bu yılın sonuna doğru piyasaya sunulacak. 
+     Seyyar monitör Mira, kablo bağlantısı olmadan 150 metrekare alanda taşınabilecek. Kullanıcılar, böylece çalışma masasına bağlı kalmadan, internette dolaşabilecek. 
+     Mira'nın prototipleri 10,4 ile 15 inç büyüklüğünde. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

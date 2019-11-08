@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 300755 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/25/ekonomi/eko07.html </URL>
+<DATE> 2004/12/25/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternet dört saat karardı 
+</HEADLINE>
+<TEXT>
+
+
+ŞÜKRÜ ANDAÇ 
+
+Türkiye'nin tüm bölgelerindeki internet bağlantılarında dün saat 13.00 - 17.00 arasında kesintiler yaşandı. Sorun, internet altyapısını sağlayan Türk Telekom'daki teknik bir arızadan kaynaklandı. Telekom, yurtdışından da teknik destek alarak sorunu dört saatte giderdi. Telekom yetkilileri, arıza nedeninin bir - iki gün içinde ortaya çıkacağını belirtiyor. İnternet servis sağlayıcı firmalar ise sorunu abonelerine yansıtmamak için Telekom'a ödedikleri kullanma bedelinin 4 katından fazla bir maliyetle uydu üzerinden servis verdiler. Bu işlem için yüzbinlerce dolar ödendiği belirtiliyor. 
+
+
+</TEXT>
+</DOC>

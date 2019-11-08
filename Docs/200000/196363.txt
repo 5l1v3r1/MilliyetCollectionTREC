@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 196363 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/18/son/soneko26.html </URL>
+<DATE> 2003/11/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kredi kartı bilgisi çalan bilgisayar virüsüne dikkat 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayar ağ güvenliği ve atak önleme sistemleri pazarında faaliyet gösteren Network Associates, bilgisayar kullanıcılarından kredi kartı bilgisi çalan Mimail.i virüsüne karşı uyardı. 
+     Network Associates'ten yapılan açıklamada, virüsün ''PayPal.com'' donotreply paypal.com detaylı ve www.paypal.com.scr ya da paypal.asp.scr olan ekli ileti olarak mesaj kutusuna geldiği belirtilerek, kullanıcıların http vil.nai.com vil content v100822.htm. adresinden virüs korumalarını güncelleyip, temizleme için 4304 DAT ve 4.2.40 dosyalarını kullanabilecekleri kaydedildi. 
+     
+</TEXT>
+</DOC>

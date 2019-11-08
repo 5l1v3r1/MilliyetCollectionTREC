@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 234485 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/24/son/sontur20.html </URL>
+<DATE> 2004/04/24/ </DATE>
+<TIME> 17.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Çernobil virüsü uyarısı... 
+</HEADLINE>
+<TEXT>
+
+     Konya Bilişim Derneği KOBİD , bilgisayar kullanıcılarını, Çernobil Virüsü'ne karşı uyardı. 
+     KOBİD'den yapılan yazılı açıklamada, her yıl 26 Nisan'da aktif hale gelen Çernobil virüsünün bilgisayarlara zarar verdiği ve bilgi kaybına neden olduğu bildirildi. 
+     Bu yıl 26 Nisan'ın Pazartesi gününe rastlamasının, virüse karşı alınacak önemlerin unutulmasına neden olabileceği belirtilen açıklamada, bilgisayar kullanıcılarının hizmet aldığı firmalarla görüşüp sorunun çözümü için önlemleri vaktinde almaları gerektiği ifade edildi. 
+     Açıklamada, kullanıcıların, bilgisayarlarının tarihini bugünden itibaren 30 Nisan gibi ileri bir tarihe almaları gerektiği de vurgulandı. 
+     
+</TEXT>
+</DOC>

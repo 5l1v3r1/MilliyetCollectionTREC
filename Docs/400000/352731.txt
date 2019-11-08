@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 352731 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/16/son/sonyas12.html </URL>
+<DATE> 2005/06/16/ </DATE>
+<TIME> 11.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bebekler kaçırılmasın diye elektronik pranga takılıyor 
+</HEADLINE>
+<TEXT>
+
+     İngiltere'de, Medway adlı kentte yeni doğan bebeklere, kaçırılmalarını önlemek için elektronik pranga takılmaya başlandığı bildirildi. 
+     Medway Sağlık Müdürlüğü tarafından başlatılan ve kentteki hastanelerde yeni doğan bebeklere pranga takılması uygulaması, ülkede ilk kez deneniyor. 
+     Bütün amaçlarının güvenliği artırmak olduğunu belirten il sağlık müdürlüğü yetkilileri, her doğan bebeğin bilgilerinin yüklendiği elektronik pranganın, doğumun hemen ardından kullanılmaya başlandığını belirtti. 
+     Böylece her bebeğin merkezdeki monitör aracılığıyla izlenebildiğine dikkat çeken yetkililer, bebeğin izinsiz olarak bulunduğu bölümden çıkartılmaya çalışılması halinde sirenlerin çalmaya başladığını ve kapıların kendiliğinden kilitlendiğini kaydetti. 
+     Pranganın izinsiz çıkartılmaya çalışılması halinde de aynı uyarıların devreye girdiğini belirten yetkililer, bu sistemi, gerek aile içi çatışmalar, ayrılıklar ve gerekse organ mafyasının bebek kaçırma girişimlerine karşı önlem olarak geliştirdiklerini bildirdi. 
+     
+</TEXT>
+</DOC>

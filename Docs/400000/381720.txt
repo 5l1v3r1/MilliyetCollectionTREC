@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> 381720 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/26/son/sonyas08.html </URL>
+<DATE> 2005/09/26/ </DATE>
+<TIME> 09.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Şifrenizi sessiz yazın... 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayar kullanıcılarının en büyük korkusu şifrelerin başka ellere geçmesi. Bunun için antivirüs yazılımı ve benzeri güvenlik önlemleri kullanıyor olsanız dahi korsanlar yeni bir teknikle yine de şifrenize ulaşmayı başarıyor. ABD Kaliforniya Üniversitesi'nden bir grup, geliştirdiği bir cihazla klavye tuşlarından çıkan sesi dinleyerek yazılanı tespit edebiliyor. Yapılan testlerde şifreler yüzde 96 oranında bir yaklaşımla bulundu. Çalışma grubunun iddiasına göre sistem geliştikçe kusursuz çalışacak. Tek sorun boşluk ve silme tuşundaki başarısızlığı. Geleceğin güvenli bilgisayar listesine bir de ses çıkarmayan klavye eklemek gerekecek gibi görünüyor. 
+     
+</TEXT>
+</DOC>

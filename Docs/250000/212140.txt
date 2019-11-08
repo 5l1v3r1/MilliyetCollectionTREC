@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 212140 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/30/son/sondun06.html </URL>
+<DATE> 2004/01/30/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Mydoom virüsünün ihbarcısına 250 bin dolar ödül .. 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayar yazılımı devi Microsoft şirketi, son günlerin internet virüsü ''Mydoom''u yazanı ihbar edene 250 bin dolar ödül vaat etti. 
+     Şirketin hukuk danışmanı Brad Smith, ''Bu solucan tipi virüs, cezalandırılması gereken bir suç'' dedi ve virüsü internet dünyasına salan kişi ya da kişilerin yakalanmasını sağlayacak bilgi getirene 250 bin dolar ödül vereceklerini açıkladı. 
+     ''Mydoom'' virüsü hafta başında ortaya çıkmıştı. Ortaklaşa kullanılan programlar ve e-postalarla otomatik olarak yayılan virüs, 168 ülkede binlerce bilgisayara bulaştı. 
+     
+</TEXT>
+</DOC>

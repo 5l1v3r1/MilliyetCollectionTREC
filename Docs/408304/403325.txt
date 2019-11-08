@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 403325 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/14/son/sondun31.html </URL>
+<DATE> 2005/12/14/ </DATE>
+<TIME> 14.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Avrupa Parlamentosu, 'tele kulak'a onay verdi 
+</HEADLINE>
+<TEXT>
+
+     Avrupa Parlamentosu, terör ve organize suçla mücadele çerçevesinde telefon, kısa mesaj ve elektronik posta kayıtlarının telekomunikasyon şirketleri tarafından tutulmasına ilişkin yasa tasarısını kabul etti. 
+     Avrupa Parlamentosu'nda bugün yapılan oylamada, 378 ''Evet'', 204 ''Hayır'' ve 29 ''Çekimser'' oyu kullanıldı. 
+     Gelecek yıl yürürlüğe girecek yasa, AB üyesi ülkelere, şüpheli kayıtların 6 ile 24 ay arasında değişen sürelerde saklanmasına ilişkin karar verme yetkisi tanıyor. 
+     AB üyesi ülkeler, gerektiği takdirde bu sürenin uzatılması için AB Komisyonu'na başvurarak izin isteme hakkına sahip olacaklar. 
+     Yasa, kayıtların içeriğinin değil, telefon, kısa mesaj ve elektronik posta görüşmelerinin hangi saatlerde, nerede ve kimler arasında yapıldığına ilişkin bilgilerin saklanmasını öngörüyor. 
+     AB üyesi ülkelerde kurulacak bağımsız komisyonlar, olası bir usulsüzlüğün önüne geçebilmek için kayıtların kullanılma biçimini denetleme hakkına sahip olacak. 
+     Yasa teklifi ilk kez, Londra'daki bombalı saldırılardan sonra AB'nin gündemine getirilmişti. Tasarı ilk hazırlandığında, ''bireylerin özel yaşam ve özgürlüklerine darbe vuracağı'' gerekçesiyle eleştirilmişti. 
+     AB ülkelerinin, kayıtların tutulmasıyla ilgili masrafları telekomünikasyon şirketlerine nasıl ödeyeceği konusu, yasayla ilgili diğer bir tartışma konusunu oluşturuyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 328708 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/30/son/sonyas11.html </URL>
+<DATE> 2005/03/30/ </DATE>
+<TIME> 11.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Beynin şekil ve boyutlarını belirleyen molekül... 
+</HEADLINE>
+<TEXT>
+
+     Beynin şekil ve boyutlarının belirlenmesinde kilit rolü oynayan bir molekül tespit edildi. 
+     Nature Neuroscience dergisinin son sayısında çıkan makaleye göre, CPG15 adı verilen molekül, hastalık ya da yaşlılıktan zarar gören beyin hücrelerinin onarılmasına yönelik tedavi yöntemleri geliştirilmesinin yolunu açabilecek. 
+     Araştırma ekibinden Elly Nevidi, CGP15 molekülü ve çok sayıda genin, beynin ilk gelişim aşamalarında nöron kök hücrelerinin hayatiyeti bakımından çok önemli işlev gördüğünü belirlediklerini vurguladı. 
+     Araştırmacıların, korteks nöronlarını ''apoptoz'' adı verilen hücre yıkımı sürecinden koruyan CPG15'in bir çeşidini ayrıştırmayı başardıkları belirtildi. 
+     Uzmanlar, kök hücrelerin azalmasının, hafıza sorunlarını ve diğer beyin rahatsızlıklarını açıklayabileceğini düşünüyor. 
+     
+</TEXT>
+</DOC>

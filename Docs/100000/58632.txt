@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 58632 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/12/23/son/sontur07.html </URL>
+<DATE> 2001/12/23/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ders kitapları bilgisayara giriyor... 
+</HEADLINE>
+<TEXT>
+
+     Milli Eğitim Bakanlığı MEB , ders kitapları ile öğrenci çalışma ve öğretmen kılavuz kitaplarının teknolojik gelişmelere uyarlanması amacıyla çalışma başlattı. 
+     MEB'in, ders kitapları ile diğer yazılı eğitim araç gereçlerine ilişkin planları, ''2001-2005 Milli Eğitim Bakanlığı Çalışma Programı''nda yer aldı. 
+     Konuya ilişkin çalışmaları yürütecek MEB Talim ve Terbiye Kurulu Başkanlığı, Yayımlar Dairesi Başkanlığı, Eğitim Teknolojileri Genel Müdürlüğü ve Eğitimi Araştırma ve Geliştirme Dairesi, ders, öğretmen kılavuz ve öğrenci çalışma kitapları ile diğer yazılı öğretim materyallerini ''aktif öğrenme süreçlerine'' göre hazırlayacak. 
+     Ders, öğretmen kılavuz ve öğrenci çalışma kitaplarından, mevcut müfredat programlarına göre yazılmış olanlar, ''aktif öğrenme yöntemleri'' ve ''öğrenci merkezli eğitim'' yaklaşımlarıyla incelenerek, raporlaştırılacak. İnceleme sonucunda, söz konusu kitapların, alanla ilgili teknolojik gelişimlere uyarlanması sağlanacak. 
+     Ders kitapları, ''dil ve anlatım'', ''bilimsel bulgulara uygunluk'', ''eğitsel tasarım ve ölçme-değerlendirme'' ilkeleri ile ''öğretim yöntemleri'' açısından geliştirilecek. Kitaplar hazırlanırken, öğrencilerin gelişim düzeyleri göz önünde bulundurulacak. 
+     Ayrıca, ders kitapları ve diğer yazılı eğitim-öğretim materyalleri bilgisayar ortamına aktarılacak. Böylece, ders kitaplarının iletişim teknolojisi içinde yer alması sağlanacak. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

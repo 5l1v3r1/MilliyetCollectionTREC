@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 223081 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/17/son/sondun50.html </URL>
+<DATE> 2004/03/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Beyindeki bir enzimin, iştah ve kiloyu düzenlediği ortaya çıktı 
+</HEADLINE>
+<TEXT>
+
+     Beyinde hücrelerdeki enerjiyi denetleyen bir enzimin, aynı zamanda iştah ve kiloyu düzenlediği ortaya çıktı. 
+     Harvard Üniversitesi'nde görevli bilimadamları, fareler üzerinde yaptıkları araştırmada, faaliyeti iştahın bastırılmasıyla ilişkili leptin hormonunca düzenlenen AMKP enzimi dizginlendiğinde, hayvanların daha az yediğini ve daha iştahsız hale geldiklerini gördü. 
+     Farelerin, enzim seviyesinin yükselmesiyle iştahlandığı ve daha çok yediği ortaya çıktığı araştırmanın yazarı Barbara Kahn, hedefi obez insanlar olan buluşun, yeni tedavi yöntemleri için umut vaat ettiğini söyledi. 
+     Nature dergisinin internet sitesinde yayınlanan araştırma, leptin hormonuna oranla iştah üzerinde daha doğrudan etkili olan AKMP enziminin, kilo denetimi için daha faydalı olabileceğini gösterdi. 
+     
+</TEXT>
+</DOC>

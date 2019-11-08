@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 76648 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/04/05/son/soneko23.html </URL>
+<DATE> 2002/04/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+BDDK'dan bankalara "yeniden değerleme" yazısı... 
+</HEADLINE>
+<TEXT>
+
+     Bankacılık Düzenleme ve Denetleme Kurulu BDDK , bankaların devlet iç borçlanma senetlerinin değerlemesinin ''basit faiz usulü ile iskonto edilerek yapılması'' talebini uygun bulmadı. 
+     Yeniden değerlemeye ilişkin BDDK Başkanı Engin Akçakoca imzasıyla bankalara ve Türkiye Bankalar Birliği'ne gönderilen yazı, Birliğin web sitesinde de yayınlandı. 
+     Bankalardan alınan yazılarda, 4389 sayılı Bankalar Kanunu'nun geçici 4'üncü maddesi uyarınca yapılacak Özel Bağımsız Denetimin Esas ve Usulleri Hakkında Yönetmeliğin, Hazine Müsteşarlığı'nca 2001 yılı içinde borç takası ihalesi kapsamında ihraç edilen menkul kıymetlerin değerlemesine ilişkin 21'inci maddesinde yer alan hükümlere atfen, ''bu tür menkul kıymetlerin, basit faiz yöntemi kullanılmak suretiyle hesaplamaya dahil edilerek değerlemesine izin verilmesinin'' talep edildiği belirtilen açıklamada, şöyle denildi 
+     '''Kurumumuzca yapılan değerlendirmede, değerlemenin basit faiz usulü ile iskonto edilmek suretiyle yapılmasının, uluslararası genel kabul görmüş finansman uygulamaları çerçevesinde mümkün olmadığı sonucuna ulaşılmıştır. Bahse konu Devlet İç Borçlanma Senetlerinin değerlemesinin, yönetmeliğin 21'inci maddesi ve buna ilişkin açıklamalarımız dikkate alınarak ve bileşik faiz ile iskonto edilmek suretiyle yapılması gerekmektedir.'' BDDK yazısında, yönetmeliğin 18'inci maddesinin, bağımsız denetim raporlarının, bilanço döneminden sonra bankanın mali durumunu etkileyebilecek önemli değişiklik ve gelişmeleri içeren bilgiler ile bunların mali tablolar üzerindeki etkilerini de kapsayacağı hükmüne amir olduğuna işaret edilirken, yapılacak değerleme işleminin, yönetmelikte öngörülen özel denetim süreci dahilinde 31 Mart 2002 tarihine kadar meydana gelen değişiklik ve gelişmeler dikkate alınarak yapılması gereğine dikkat çekildi. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

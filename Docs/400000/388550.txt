@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 388550 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/21/son/soneko28.html </URL>
+<DATE> 2005/10/21/ </DATE>
+<TIME> 15.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Intel'in 3. çeyrek geliri 9.9 milyar dolar... 
+</HEADLINE>
+<TEXT>
+
+     Intel, yılın üçüncü çeyreği için 9.9 milyar dolar gelir açıkladı. 
+     Intel’den yapılan açıklamaya göre, şirketin 3. çeyrek operasyon karı 3.1 milyar dolar olarak gerçekleşti, yıllık olarak yüzde 31’lik önceki döneme göre ise yüzde 17’lik bir artış oldu. Net kar 2 milyar dolar olarak belirlenirken, yıllık bazda yüzde 5’lik artış, önceki döneme göre ise yüzde 2’lik bir düşüş gerçekleşti. 
+     Intel Üst Yöneticisi Paul Otellini, 3. çeyrekte şirketin gelirleri ve tüm önemli ürün serilerinde, pazara sürülen ürün adedi açısından, tüm zamanların rekorunu gerçekleştirdiklerini kaydetti. 
+     Öte yandan Intel, Belçika’da son yenilikçi teknolojilerin sergilendiği bir dijital ofis açtığını duyurdu. 
+     Ofis, kurumların, teknoloji firmalarının ve kanal bünyesindeki şirketlerin Intel’in dijital ofis vizyonunu denemeleri için hazırlandı. 
+     Dijital ofis teknolojileri, gelişmiş güvenlik, kolay ve geniş bağlantı, uzaktan bilgi işlem yönetimi ve etkin veri yönetimi sağlamayı hedefliyor. 
+     
+</TEXT>
+</DOC>

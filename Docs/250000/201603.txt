@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 201603 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/12/son/soneko19.html </URL>
+<DATE> 2003/12/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Turkcell, gecikme faizini 2 puan düşürdü... 
+</HEADLINE>
+<TEXT>
+
+     Turkcell, abonelerine kolaylık sağlamak amacıyla, faturalara uyguladığı aylık gecikme faizini yüzde 8'den yüzde 6'ya düşürdü. 
+     Turkcell'den yapılan açıklamaya göre, son ödeme tarihinde ödenmeyen fatura tutarlarına aylık yüzde 6 oranında gecikme faizi uygulanacak. 
+     Turkcell'in yeni faiz oranı uygulaması, yarından itibaren düzenlenen faturalar için geçerli olacak. 
+     
+</TEXT>
+</DOC>

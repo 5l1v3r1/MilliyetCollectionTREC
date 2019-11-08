@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 251073 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/26/son/soneko03.html </URL>
+<DATE> 2004/06/26/ </DATE>
+<TIME> 10.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Trafik sigortasında yeni dönem... 
+</HEADLINE>
+<TEXT>
+
+     Trafik sigortasına ilişkin tüm bilgileri biraraya getiren bilişim altyapı çalışmasının tamamlandığı bildirildi. 
+     Bilişim Komitesi kanalıyla hazırlanan ''TRAMER Veri Yapısı'' ile sigorta şirketleri, 1 Temmuz tarihinden itibaren, trafik sigortasına ilişkin tüm verileri, Trafik Sigortası Bilgi Merkezi'ne TRAMER aktaracak ve veriler sürekli güncellenecek. 
+     Hazine Müsteşarlığı ise söz konusu yükümlülüğü yerine getirmeyen sigorta şirketleri hakkında gerekli her türlü tedbiri alacak. 
+     TRAMER Müdürü Mehmet Üst konuyla ilgili yaptığı açıklamada, merkezin, Türkiye'de prim üretimi açısından önemli bir büyüklüğe ve geniş bir uygulama alanına sahip olan Karayolları Motorlu Araçlar Zorunlu Mali Sorumluluk Sigortası'nın Trafik Sigortası daha sağlıklı bir altyapıya kavuşturulması için Resmi Gazete'de yayımlanan ''Trafik Sigortası Bilgi Merkezi Yönetmeliği'' ile kurulduğunu belirtti. 
+     Amaçlarının, trafik sigortasında denetim etkinliğinin sağlanması, sigorta kaçaklarının önlenmesi, sahtekarlığa karşı önlem alınması, toplumda sigorta sistemine olan güvenin artırılması, daha sağlıklı fiyatlandırma yapılması ve haksız rekabetin önlenmesi gibi hususlar olduğunu vurgulayan Üst, merkezin bu görevi en iyi şekilde yerine getirmek amacıyla, sigorta şirketlerinin trafik sigortasına ilişkin tüm bilgileri biraraya getiren bilişim altyapı çalışmasını tamamlandığını kaydetti. 
+     Söz konusu çalışmada, öncelikle 1 Nisan 2004 tarihi itibariyle sigorta şirketlerinden Merkez'e aktarılan verilerin analiz edildiği ve sonrasında sektör yetkililerin de görev aldığı bir bilişim komitesi kanalıyla ''Tramer Veri Yapısı''nın hazırlandığını bildiren Üst, böylece sigorta şirketlerinin 1 Temmuz'dan itibaren hasar verileri dahil olmak üzere trafik sigortasına ilişkin tüm verileri yeni veri yapısı üzerinden Merkez'e aktaracaklarını ve bu verilerin sürekli bir şekilde güncelleneceğini belirtti. 
+     
+     ELLE POLİÇE KESMEYE SON 
+     Bunun sonucu olarak trafik sigortalarında yeni bir dönemin başladığını ifade eden Üst, sigorta şirketlerinin, zamanında Trafik Sigortası Bilgi Merkezi'ne veri transferinde bulunabilmek için elle poliçe kesme işlemine son vereceğini bildirdi. 
+     Poliçe düzenlemesinde temel belgelerden biri olan hasar durumu belgesinin ise yine 1 Temmuz tarihinden itibaren web üzerinden merkezi ve zorunlu olarak TRAMER tarafından verilmeye başlanacağını kaydeden Üst, şunları kaydetti 
+     ''Bu nedenle her acente web üzerinden TRAMER'e ulaşmak için gerekli tedbiri alması gerekecek. Merkezi veri tabanı, Hazine Müsteşarlığı'nın bağlı bulunduğu Devlet Bakanı tarafından tespit edilen Trafik Sigortası Tarife ve Talimatına uygun fiyatlama yapmayan sigorta şirketleri anında tespit edilecek. 
+     Bilişim sistemimiz kullanıcı tanımına göre farklı düzeylerde olmak üzere ilgili tarafların ortak kullanımına da sunulacaktır. Böylece, doğru ve güncel verilerle beslenecek olan TRAMER veri havuzu, hizmet kalitesini artıracak ve Hazine Müsteşarlığı, Emniyet Genel Müdürlüğü, T, Sigorta ve Reasürans Şirketleri Birliği ve doğal üyelerimiz olan sigorta şirketleri ile sigorta aracılık kurumları ve eksperlere Trafik Sigortaları ile ilgili çalışmalarında hizmet verecektir. Aynı zamanda, sigorta ettirenler de işleteni bulundukları motorlu araçlarla ilgili sigorta ve hasar kayıtlarına internet ortamında erişim olanağına sahip olacaklar.'' 
+     
+</TEXT>
+</DOC>

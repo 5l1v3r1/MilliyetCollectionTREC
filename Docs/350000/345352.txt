@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 345352 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/24/son/soneko39.html </URL>
+<DATE> 2005/05/24/ </DATE>
+<TIME> 16.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Boeing, yeni kargo uçağını tanıttı... 
+</HEADLINE>
+<TEXT>
+
+     Boeing, 777 modelinden geliştirdiği, dünyanın en uzun menzilli çift motorlu uçağını tanıttı. 
+     Boeing’den yapılan açıklamada, Air France’ın 5’i kesin 3’ü opsiyonel toplam 8 adet sipariş verdiği uçakları, 2008’in son çeyreğinde teslim edeceği belirtildi. 
+     Boeing Ticari Uçaklar Başkanı Alan Mulally, kargo pazarının ticari havacılık sektörünün en hızlı büyüyen segmenti olmasının yanı sıra küresel ekonomide de önemli bir role sahip olduğunu, 777’nin kargo versiyonu olan 777F’in farklı özellikleriyle operatörlere verimlilik sunacağını bildirdi. 
+     Açıklamada, Boeing’in, dünyanın en uzun menzilli uçağı 777-200LR’dan geliştireceği 777F’yi, halen hizmet veren 747-400 kargo 
+     uçağının tamamlayıcısı olarak konumlandıracağı belirtildi. 
+     2008’de piyasaya sürülecek 777F’nin menzili 9 bin 195 kilometre, 
+     yük kapasitesi ise 103 ton olacak. 
+     
+</TEXT>
+</DOC>

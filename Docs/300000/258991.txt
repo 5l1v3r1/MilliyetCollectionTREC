@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 258991 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/29/son/soneko01.html </URL>
+<DATE> 2004/07/29/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası'nda Dow Jones yükselirken, Nasdaq düştü... 
+</HEADLINE>
+<TEXT>
+
+     New York Menkul Kıymetler Borsası'nın temel göstergesi Dow Jones Endeksi, 31.93 puan yükselerek günü 10,117.07 puandan kapadı. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq Endeksi ise 10.84 puan düşerek 1,858.26 puana indi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,46 @@
+<DOC>
+<DOCNO> 225506 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/25/son/soneko43.html </URL>
+<DATE> 2004/03/25/ </DATE>
+<TIME> 17.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+"TL'den 6 sıfır atılması hisse senedi piyasasında sorunlar yaratabilir" 
+</HEADLINE>
+<TEXT>
+
+     TL'den 6 sıfır atılması sonrası Yeni Türk Lirası YTL uygulamasının, hisse senedi fiyatlarında ve yatırım fonlarının pay değerlerinin ifade edilmesinde sorunlar yaratabileceği bildirildi. 
+     Türkiye Sermaye Piyasası Aracı Kuruluşları Birliği'nin TSPAKB aylık bülteninde, TBMM tarafından 28 Ocak 2004 tarihinde kabul edilen 5083 sayılı kanun ile 1 Ocak 2005 tarihinden itibaren Türkiye Cumhuriyeti devletinin para biriminin Yeni Türk Lirası olmasının öngörüldüğü, YTL'nin alt birimi Yeni Kuruş YKr olarak belirlendiği hatırlatıldı. 
+     Bültende, Sermaye Piyasası Kurulu'nun SPK , hisse senetlerinin değerleri konusunda uyum çalışmalarından sorumlu kılındığı, bu çalışmaların 30 Kasım 2004'e kadar bitirileceğinin tahmin edildiği belirtildi. 
+     Bültendeki bilgilere göre, Yeni Lira Kanunu, sermaye piyasasında hizmet veren aracı kuruluşlar ile İMKB ve Takasbank'ın, ülkedeki tüm diğer özel ve kamu kuruluşlarında olduğu gibi, teknik altyapılarını ve muhasebe sistemlerini yeniden düzenlemelerini gerektiriyor. 
+     1 Ocak 2005'ten itibaren tüm kayıtlar ve muhasebe sistemi YTL cinsinden tutulmaya başlanacak. Dolaşımda olan TL banknotlar 2005 yılı boyunca tedavül edecek, ama işlemlerin kaydı YTL üzerinden yapılacak. Bu bağlamda, çalışanların da bilgilendirilmesi gerekiyor. 
+     Geçiş döneminde hem TL, hem de YTL'nin beraber kullanılması teknik zorluklar ve maddi hatalara yol açabilecek. Sermaye piyasası kurumlarıyla beraber TSPAKB, yatırımcılar, sektör çalışanları ve aracı kuruluşlar yeni yasanın sermaye piyasasında yaratacağı değişiklikler konusunda bilgilendirme çalışmalarını yürütecek. 
+     
+     YUVARLAMA UYGULANACAK 
+     Bültene göre, Yeni Türk Lirası Kanunu, sermaye piyasasında radikal değişikliklere yol açabilecek. Bunlardan birinin hisse senetlerinin nominal değerinin kaldırılması olabileceği bildirildi. 
+     YTL Kanunu'nda, ''Kanunlarda ve diğer mevzuatta, idari işlemlerde, yargı kararlarında, her türlü hukuki muamelelerde, kıymetli evrak ve hukuki sonuç doğuran diğer belgeler ile ödeme ve değişim araçlarında Türk Lirası'na veya liraya yapılan atıflar''ın Yeni Türk Lirası'na yapılmış sayılacağı belirtiliyor. Diğer bir deyişle, hisse senetleri için de yuvarlama uygulanacak. 
+     Mevcut fiyat seviyeleri açısından bakıldığında, 0,5 Yeni Kuruş'un üzerindeki değerlerin 1 Yeni Kuruş'a tamamlanması 0,5 Yeni Kuruş ve altındaki değerlerin dikkate alınmaması uygulaması İMKB tarafında sorunlar yaratabilecek. 
+     
+     192 HİSSE YARIM YENİ KURUŞ'UN ALTINDA 
+     11 Şubat 2004 tarihi itibariyle İMKB'de işlem gören 277 hisse senedinden 192'sinin fiyatı 0,5 Yeni Kuruş'un YKr altında bulunuyor. 
+     Hisse senedi fiyatlarında 0,5 YKr'un altında kalan fiyatların alta, 0,5 YKr'un üzerindeki rakamların ise üste yuvarlanması halinde ise, aynı tarih itibariyle hisse fiyatlarında artı eksi yüzde 100 gibi geniş bir bantta fiyat değişimleri meydana gelebilecek. 
+     Lot olarak bakıldığında ise bu tarih itibariyle fiyatı lot değeri 1 YKr'un altında kalan hisse senedi bulunmuyor. 
+     TSPAKB bültenine göre, piyasa fiyatlarının dışında, hisse senetlerinin nominal değeri konusunda bir sorun yaşanabilecek. Türk Ticaret Kanunu'nda her payın, en az 500 TL olmak üzere, belirli bir birim nominal itibari değer taşıyacağı öngörülüyor. 
+     İMKB'deki şirketlerin hisse senetleri genelde 1.000 TL nominal değerde bulunuyor. Bu nominal değer YTL cinsinden 0,1 Yeni Kuruş'a denk gelmekte ve YTL Kanunu'na göre değerinin ''sıfıra'' yuvarlanması gerekiyor. 
+     
+     AB'DE NASIL ÇÖZÜMLENDİ 
+     YTL'ye geçiş sürecinde yaşanabilecek sorunlara çözüm önerileri geliştirmek için, AB'de euroya geçiş sürecinde sermaye piyasası ile ilgili geliştirilen öneriler de incelendi. euroya geçiş sürecinde, her ülke kendi para birimindeki nominal hisse senedi değerlerini, şirket sermayelerini, hisse senedi fiyatlarını, benzer değişkenleri her ülke için farklı olan sabit bir kura bölerek euroya göre ayarlamak durumunda kaldılar. 
+     Avrupa Komisyonu'nun kurduğu, AB sermaye piyasalarını temsil eden uzmanlardan oluşan bir çalışma grubu euroya geçişin olası etkileri hakkında 1997 tarihli bir rapor hazırladı. Raporda, geçiş süreci için, ''Şirket sermayesinin en yakın cente yuvarlanarak euroya dönüşümü ve bu rakamın hisse senedi sayısına bölünerek, yuvarlanmamış bir hisse senedi nominal fiyatı belirlenmesi'', ''sermayenin değiştirilmeyerek işlemlerin kesirli paylar üzerinden yapılması'' , ''Hisse senedi nominal değerinin euro kuruna çevrilerek, en yakın cente yuvarlanması'' ve ''İtibari değerden yoksun hisse senetlerine geçilmesi'' önerileri getirildi. 
+     TSPAKB bülteninde öneri olarak, ''Bunlardan biri hisse senetlerinin nominal değerinin kaldırılması olabilir'' dedi. 
+     Bültene göre, Yeni Lira'ya geçişte, AB raporunda belirtildiği üzere öncelikle temel ilkelerin belirlenmesi, gerekli uygulama kararlarını alırken yol gösterici olacak. 
+     Bu ilkelerin başında, yeni sisteme geçilirken hissedarların ortaklık haklarının olumsuz yönde değiştirilmemesi ve buna bağlı olarak hissedarların ellerindeki senetlerini kısmen de olsa satmaya mecbur edilmemeleri geliyor. 
+     Hem yatırımcı hem de ihraççı şirket açısından yük getirebilecek olan yeni hisse senedi basımı gerekliliğinin de önüne geçilmesinin uygun olacağı vurgulandı. 
+     
+     YILIN SON 2 GÜNÜ İÇİN TATİL ÖNERİSİ 
+     Türkiye Sermaye Piyasası Aracı Kuruluşları Birliği bültenine göre, YTL uygulamasının hisse senedi fiyatlarında yaratacağı sorunlara benzer şekilde, yatırım fonlarının pay değerlerinin ifade edilmesinde de sorunlar yaşanabilecek. 
+     Kaydi işlemlerin 2005 başından itibaren YTL cinsinden yapılacağı gözönüne alınarak, takas işlemlerinin güvenliği açısından bir sorun olmaması amacıyla yılın son 2 işlem gününün takasının yeni yıla sarkmayacak şekilde T artı 1 ve T artı 0 olarak belirlenebileceği ya da bu günlerde işlemlerin tatil edilmesinin düşünülebileceği belirtildi. 
+     Bu durumun, hem hisse senedi işlemlerinin takasının 2004 yılı içinde TL bazında tamamlanmasına, hem de yılın son günü müşteri hesapları ve aracı kurum kayıtlarının testlerine olanak sağlayacağı kaydedildi. 
+     
+</TEXT>
+</DOC>

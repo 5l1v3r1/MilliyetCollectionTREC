@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 219996 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/05/son/sondun24.html </URL>
+<DATE> 2004/03/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yaşlılara elektrikli "akıllı" mini otomobil... 
+</HEADLINE>
+<TEXT>
+
+     Japonya'da yaşlılar için elektrikle çalışan ve dikkat kaybını algılayabilen elektrikli mini otomobil üretiliyor. 
+     Autech Japan İnc şirketince yapılan açıklamaya göre, iki yıl sonra piyasaya sürülmesi planlanan mini otomobil projesinde, Tokyo üniversitesi ve diğer kurumlarla işbirliği yapılıyor. 
+     Otomobilin ön-örneği hazırlandı. Araç, saatte azami 60 km hız yapabiliyor. 
+     Ön tekerleklerin üzerine yerleştirilen iki motor, aracın çok daha kolay kullanılmasını sağlıyor. 
+     Müstakbel araca yerleştirilecek algılayıcı ve kameralar da, sürücünün el, kol ve göz hareketlerini izleyerek olası sürüş hatalarını saptayabilecek. 
+     Şirket, mini otomobilin, özellikle yaşlılara sosyal hayatlarını dolu dolu yaşama olanağı vereceğini bildirdi. 
+     
+</TEXT>
+</DOC>

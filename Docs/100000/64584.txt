@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 64584 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/01/28/son/sondun21.html </URL>
+<DATE> 2002/01/28/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayarda yeni virüs ''My Party''... 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayar uzmanları, yeni bilgisayar virüsü ''My Party''nin Avrupa ülkelerinde yayılmaya başladığını bildirdiler. 
+     Uzmanların verdiği bilgiye göre, Asya ülkelerinde bu sabah görülen virüs, Microsoft Windows adres defterine ve Outlook Express'in veri tabanına sızarak yayılıyor. 
+     ''My Party'' virüsü, bulaştığı internet kullanıcısının e-mail adres defterindeki isimlere kendini göndererek, e-mail'in bir arkadaştan ya da meslektaşdan geldiği izlenimi yaratıyor. 
+     Bilgisayar güvenlik şirketleri, bu virüsün Nimda ve Sircam kadar tehlikeli olmadığını bildirdiler. 
+     Virüs, ''new photos from my party '' konu başlığıyla geliyor ve eklentiler açılmak istendiğinde bulaşıyor. 
+     Sophos Anti-Virüs danışma şirketinin, http www.sophos.com virusinfo analyses w32mypartya.html. adresinde bir yama programının bulunduğu kaydedildi. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

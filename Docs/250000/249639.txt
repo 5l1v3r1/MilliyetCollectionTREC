@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 249639 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/21/son/soneko18.html </URL>
+<DATE> 2004/06/21/ </DATE>
+<TIME> 12.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı 86 puanlık kayıpla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi, önceki kapanışa göre 86.20 puan gerileyerek, 1. seansı 16,877.88 puandan tamamladı. 
+     1. seansta hisse senetlerinin ortalama değer kaybı yüzde 0.51 olarak gerçekleşti. 
+     Cuma günü 16,964.08 puandan kapanan İMKB Ulusal 100 Endeksi, 1. seansa, 1.88 puan gerileyerek 16,962.20 puandan başladı. İlk yarıyı 16,896.80 puandan geçen endeks, seans içinde en düşük 16,817.72, en yüksek 17,000.47 puanı gördü. 
+     Seans sonunda mali endeks 158.40 puan gerileyerek 22,814.93 puan, sanayi endeksi 11.13 puan gerileyerek 15,039.29 puan, hizmetler endeksi 78.35 puan gerileyerek 9,851.52 puan oldu. 
+     Böylece, önceki kapanışa göre, mali grup hisseler ortalama yüzde 0.69, sanayi grubu hisseler ortalama yüzde 0.07, hizmet grubu hisseler ortalama yüzde 0.79 değer kaybetti. 
+     1. seansta işlem gören toplam 299 hisse senedinden 148'i değer yitirdi, 84'ü değer kazandı, 67 hissenin fiyatında değişiklik olmadı. 
+     Seansta, 86 trilyon 50 milyar 519 milyon liralık işlem hacmi oluştu. 
+     1. seansta, Yapı Kredi Bankası, Doğan Holding, Tüpraş, Akbank ve Garanti Bankası en yoğun işlem gören hisseler oldu. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 266567 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/26/son/soneko25.html </URL>
+<DATE> 2004/08/26/ </DATE>
+<TIME> 12.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansta 90 puan kaybetti... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi, 90.58 puan düşerek, 1. seansı 19,467.43 puandan tamamladı. 
+     1. seansta hisse senetlerindeki ortalama kayıp yüzde 0.46 oldu. 
+     Dün 19,558.01 puandan kapanan İMKB Ulusal 100 Endeksi, 1. seansa, 1.13 puan artarak 19,559.14 puan seviyesinden başladı. İlk yarıyı 19,552.78 puandan geçen endeks, seans içinde en düşük 19,461.47, en yüksek 19,675.42 puanı gördü. 
+     Seans sonunda mali endeks 151.70 puan düşerek 26,833.41 puana, sanayi endeksi 38.81 puan düşerek 17,626.31 puana, hizmetler endeksi de 50.75 puan düşerek 9,916.34 puana indi. 
+     Böylece, önceki kapanışa göre, mali grup hisseler ortalama yüzde 0.56, sanayi grup hisseler ortalama yüzde 0.22, hizmet grubu hisseler ortalama yüzde 0.51 oranında değer yitirdi. 
+     1. seansta işlem gören toplam 295 hisse senedinden 98'i değer kazandı, 86'sı değer kaybetti, 111 hissenin fiyatında değişiklik olmadı. 
+     Seansta, 208 trilyon 655 milyar 769 milyon liralık işlem hacmi oluştu. 
+     1. seansta, Erdemir, Doğan Holding, Kardemir D , Arsan Tekstil ve İzdemir en fazla işlem gören hisse senetleri oldu. 
+     
+</TEXT>
+</DOC>

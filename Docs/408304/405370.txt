@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 405370 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/21/son/soneko47.html </URL>
+<DATE> 2005/12/21/ </DATE>
+<TIME> 16.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Oracle Türkiye Bu yıl yüzde 42 oranında büyüdük 
+</HEADLINE>
+<TEXT>
+
+     Kurumsal yazılım şirketi Oracle Türkiye'nin Genel Müdürü Atilla Kıral, bu yıl yüzde 42'lik bir büyüme gösterdiklerini belirterek, ''2005, krizin etkilerini attığımız bir yıl oldu'' dedi. 
+     Oracle Türkiye'den yapılan açıklamaya göre, Kıral, 2005 faaliyetleri ve 2006 yılı hedeflerine ilişkin değerlendirmesinde, 2005'in hem Türk bilişim sektörü, hem de Oracle Türkiye açısından son derece dinamik ve verimli bir yıl olduğunu anlattı. 
+     Genel olarak bilişim sektörüne bakıldığında yüzde 20 oranında bir büyüme olduğunu dile getiren Kıral, şunları kaydetti 
+     ''Biz Oracle Türkiye olarak bu yıl yüzde 42 gibi ciddi bir büyüme gösterdik. 2005, krizin etkilerini attığımız bir yıl oldu. Oracle'ın Türkiye'deki toplam gelirlerinin içinde iş ortakları kanalı oranını ilk kez bu yıl yüzde 50'yi aştı.'' Kıral, 2006'da da toplam bilişim pazarının büyümesinin yüzde 16 olacağının öngörüldüğüne işaret ederek, Oracle olarak oranın üzerinde büyümeyi hedeflediklerini bildirdi. 
+     
+</TEXT>
+</DOC>

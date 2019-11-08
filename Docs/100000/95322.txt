@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 95322 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/07/12/son/soneko13.html </URL>
+<DATE> 2002/07/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yazılım korsanlığının zarar bilançosu 10 milyar dolar 
+</HEADLINE>
+<TEXT>
+
+     Dünya çapında bilgisayar yazılım kaçakçılığının üretici firmalara verdiği zararın 10.1 milyar dolar olduğu belirlendi. 
+     İş Yazılım İttifakı BSA adlı kuruluş tarafından yapılan açıklamaya göre, söz konusu zarar özellikle satış kaybından kaynaklanıyor. 
+     Amerikan hükümet kaynakları dünyada bilgisayar yazılım kaçakçılığının yaklaşık 1500 kişiyle yürütüldüğünü, bunların dışında bir de dağıtım şebekeleri bulunduğunu saptadılar. Korsanların ''DrinkorDie'' iç ya da öl adını verdikleri bir örgütlenme içinde olduklarını belirten kaynaklar yazılım korsanlarının özellikle ABD, İngiltere, Avustralya, Finlandiya, İsveç ve Norveç'te faaliyet gösterdiklerini de belirlediler. 
+     Kendi aralarında gruplaşan bu kişiler adlarını, güvenlik kodlarını kırdıkları değerli yazılım ya da film, oyun, müzik gibi fikir ürünlerini internet aracılığıyla ücretsiz dağıtarak duyuruyorlar ve kendilerine bu yoldan ün sağlıyorlar. Yazılım korsanlığının 1990'li yılların başında ortaya çıktığı ve son 5 yıl içinde iyice yaygınlaştığı belirtildi. 
+     
+     WINDOWS-95'İN KODUNU KIRMIŞLARDI 
+     ''DrinkorDie'' grubu adını ilk olarak Microsoft'un ünlü ürünü Windows-95'in kodunu, ürün piyasaya çıkmadan haftalar önce kırarak duyurdu. Grubun son olarak kod kırma çabasını çok pahalı ve özel bir yazılım olan ''Vold's mühendislik programı'' üzerinde yoğunlaştırdığı bildiriliyor. Söz konusu yazılımın piyasa fiyatı 18000 dolar. 
+     
+     CEHENNEM ATEŞİ 
+     Yazılım korsanlarına savaş açan Amerikan federal polisi, ''DrinkorDie'' grubunun 2 liderinden biri olduğu bildirilen John Sankus Jr. adlı kişiyi deşifre etmeyi ve tutuklamayı başardı. Sankus'un şimdi Philadelphia'nın Allenwood kenti hapishanesinde bulunduğu bildirildi. Sankus'la birlikte 5 kişi daha hapse mahkum oldu. 
+     Yetkililerin milyonlarca dolar değerindeki yazılımı çalarak internet aracılığıyla dağıttığını öne sürdükleri Sankus'un internet adı ''Eriflleh'' idi. Bu isim İngilizce cehennem ateşi anlamına gelen ''hellfire''in tersten okunuşu. İnternet adı ''Bandido'' olan grubun öteki liderinin ise Avustralya'da yaşadığı ve henüz kendisine yönelik herhangi bir suç duyurusunda bulunulmadığı Amerikan adli makamları tarafından ifade edildi. 
+     
+     SIRF REKABET İÇİN 
+     Yazılım korsanları ifadelerinde bu işi para kazanmaktan çok rekabet, prestij sağlamak ve başkalarından üstün olduklarını kanıtlamak amacıyla yaptıklarını söylediler. Korsanların önemli kısmının çevresindekilerle fazla konuşmayan, içine kapanık ve utangaç kişiler oldukları ve bu işi hobi olarak yaptıkları bildiriliyor. 
+     Korsan yazılımların dağıtılmasında ise yaklaşık 3500 kişinin görev aldığı ve bu grupların en tanınmışlarının RISC ve Moonshine ay ışığı olduğu belirtildi. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> 180267 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/04/son/soneko12.html </URL>
+<DATE> 2003/09/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Enflasyon nasıl hesaplanıyor 
+</HEADLINE>
+<TEXT>
+
+     DİE, tüketici fiyatları endeksinin TÜFE hesaplanmasında, 410 kalem için aldığı ''90 bin 713 fiyat ile bu maddelerin ağırlıklarını'' alarak enflasyon rakamına ulaşıyor. 
+     Enflasyon özellikle son aylarda eksilere inerken ya da düşük artarken, bu rakamlara nasıl ulaşıldığı konusuna yanıt olarak, hesaplama yöntemi ilginç ayrıntıları içeriyor. 
+     DİE, TÜFE'nin hesaplanmasında, ekmekten benzine, otomobilden doğalgaza, peynirden süte kadar 410 ana maddeyi kullanıyor. 
+     DİE'nin Toptan Eşya Fiyat Endeksi TEFE , üretilen ürünün niteliği ve alıcısına bakılmaksızın ''yurtiçi satışa konu'' olan maddeleri kapsama alırken, TÜFE sadece, hane halkları tarafından tüketilen mal ve hizmetleri kapsıyor. 
+     
+     TÜFE NASIL HESAPLANIYOR 
+
+     TÜFE'nin hesaplanması için temel yıl bilgileri 1994 esas alınarak, her ay 410 maddenin fiyatları, toplam 9 bin 908 işyerinden ve 3 bin 106 haneden derleniyor. 
+     Hesaplamalarda ''ağırlıklı'' fiyat konusu ise önem taşıyor. Bundan dolaylı söz gelimi temel ihtiyaç maddelerindeki yüksek oranlı artışlar, endeks içindeki ağırlıklarından dolayı bire bir TÜFE'ye yansımıyor. 
+     Bir başka deyişle hanelerin harcamaları içinde ekmek, peynir, et ve süt gibi mal ve hizmet fiyatlarında meydana gelen değişim, ağırlıkları ölçüsünde endeksi etkiliyor. 
+     
+     ÖRNEKLER 
+
+     Söz gelimi, ekmeğin Türkiye endeksi içindeki ağırlığı yüzde 3.938 olarak belirlenirken, sadece ekmeğin fiyatı yüzde 100 arttığında ve tüm maddelerin fiyatı sabit kaldığında, Türkiye endeksi yüzde 3.9 yükseliyor. 
+     Temel tüketim maddeleri grubundan benzinin endeks içindeki ağırlığı ise yüzde 2.243 olarak hesaplanıyor. Söz gelimi benzin fiyatlarında yapılacak yüzde 50'lik bir indirim, enflasyon rakamında yüzde 1.1'lik bir düşüşü beraberinde getiriyor. 
+     
+     YAZ DÖNEMİNDE SEBZE-MEYVENİN ETKİSİ OLUMLU 
+
+     Yaz döneminde önem arz eden meyve sebze fiyatlarındaki düşüş de, enflasyonu olumlu yönde etkiliyor. Karpuzun endeks içindeki ağırlığı yüzde 0.525 olarak belirlenirken, yüzde 50'lik fiyat düşüşü enflasyonu 0.26 oranında düşürüyor. 
+     Endeks kapsamındaki temel tüketim maddeleri dışında konut, kültür, eğitim ve eğlence için yapılan harcamaların da bulunduğu göz önüne alındığında, temel tüketim maddelerindeki fiyat artışları tek başına enflasyon göstergesi olmuyor. 
+     Bazı maddelerin enflasyon endeksi içindeki ağırlıkları şöyle 
+     
+
+Ekmek 3.938 Otomobil 3.050 Elektrik 2.480 Dana eti 2.334 Benzin 2.243 Peynir 1.247 Tüp 1.125 Süt 1.089 Ayçiçek yağı 1.004 Zeytin 0.758 Karpuz 0.525 Kola 0.425 Sucuk 0.258 Doğalgaz 0.230      
+
+     
+</TEXT>
+</DOC>

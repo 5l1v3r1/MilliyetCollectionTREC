@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 326559 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/24/yazar/gunes.html </URL>
+<DATE> 2005/03/24/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Hurşit GÜNEŞ  </AUTHOR>
+<HEADLINE>
+Borç dinamiklerinde durum yavaş düzeliyor 
+</HEADLINE>
+<TEXT>
+
+
+Konsolide borç stoku dün yine açıklandı. Rakamlar pek iç açıcı değil. Sıcak paranın oluk oluk girdiği ve nominal faizlerin hızla düştüğü bir ortamda ne yazık ki borçlar düşemiyor. Üstelik çok ciddi bir mali disipline rağmen. Yani bir yandan reel faizler düşüyor, diğer yandan hedeflenen faiz dışı fazlanın ilk iki ayda yüzde 25'i elde ediliyor, ama istenen sonuçlar ortaya çıkmıyor. 
+Aşağıdaki ilk tabloda net kamu borcunun bulunduğu düzey gösteriliyor. Önceki yılın sonunda 282.9 milyar YTL olan kamu borcu 320.5 milyar YTL olmuş. Geçen süre ise 14 ay. Burada artış oranının yüzde 13 olduğu gözleniyor. Yani enflasyondan biraz fazla. Demek ki, az da olsa reel bir artış var. Hem de onca mali disipline rağmen. 
+
+
+
+Dolar bazında borcun artış oranına bakarsak, kurdaki reel değerlenme nedeniyle borcun elbette daha hızlı arttığı gözleniyor. Bu kısa sürede dolar bazında neredeyse kamu borcu yüzde 20 kadar artmış. Ancak bu doğru bir bakış açısı değil. Çünkü sıcak paranın çıkmasıyla kur yeniden bir düzeltme yaparsa bu borç küçülecek. Doğru bakış ise, borcun ödeneceği kaynağın para cinsinden ölçülmesi. Malum, bütçe TL bazında yapılır. Ve tasarruflar, yani faiz dışı fazla da o cinsten elde edilir. 
+Aşağıdaki grafikte toplam kamu borcunun milli gelire oranı görülüyor. Dikkat edilirse, 2000 kriziyle birlikte şeffaflaşan kamu bankalarının görev zararlarıyla kamu borcu birdenbire artmış. Daha sonra ise yavaş yavaş kamu borcu milli gelire oranla küçülmüş. Ancak yanlış anlaşılmasın aslında hızla azalan borç değil, milli gelir arttığı için borç oranı azalıyor görünüyor. 
+
+
+
+Bununla beraber, şunu belirtmekte yarar var 2001 yılında ortaya çıkan kamu borcunun yanı sıra bir de devletin sırtına batık bankaların yükü eklendi. Hatta bu batıkların tahsil edilemeyeceği düşüncesiyle borcun bir kısmının tahsilinden cayıldı. Sonunda da borç dinamiğinin düzelmesi için aşırı mali disiplin kaçınılmaz oldu. Kısacası, eğitimden, sağlıktan, yani dişten tırnaktan keserek borcu ödemeye devam ediyoruz. 
+
+
+
+</TEXT>
+</DOC>

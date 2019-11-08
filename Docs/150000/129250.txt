@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 129250 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/01/07/son/sondun03.html </URL>
+<DATE> 2003/01/07/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft'un MSN Messenger'da sıkıntı... 
+</HEADLINE>
+<TEXT>
+
+     Bütün dünyada yaklaşık 75 milyon kullanıcısı olan ve internet üzerinden anında yazılı haberleşme imkanı tanıyan Microsoft'un MSN Messenger servisinin hizmeti dün aksadı. 
+     Microsoft, en az beş saat sürdüğü belirtilen sistemdeki sıkıntı yüzünden, birçok kullanıcının yanlışlıkla sistem dışında kaldığını bildirdi. Sistemin, çok sayıda kullanıcıyı taşıyabilecek kapasitede geliştirildiği savunuluyordu. 
+     MSN Pazarlama Direktörü Bob Visse, ''Yeni yıla bu şekilde başlamak istemiyorduk. Ancak bu, zaten çok ender rastlanan bir sıkıntı'' dedi. 
+     Bir hafta içinde MSN Messenger servisinde ikinci kez ortaya çıkan ulaşım zorluğu, şirketin tüketici servisini vurdu. Birçok kullanıcı, saatler boyunca Messenger'a ulaşamadı. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

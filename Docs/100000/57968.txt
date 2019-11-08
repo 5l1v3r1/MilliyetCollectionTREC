@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 57968 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/12/19/son/sontur03.html </URL>
+<DATE> 2001/12/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Virüste 2001'in Top 10'i... 
+</HEADLINE>
+<TEXT>
+
+     İnternet analistleri tarafından ''saygın'' olarak gösterilen antivirüs şirketi Sophos, 2001 yılının en popüler virüsünün Nimda olduğunu açıkladı. 
+     http www.sophos.com pressoffice pressrel uk internet adresinde yeralan bilgiye göre, Sophos'un ''destek masalarına'' en çok Nimda virüsü ile ilgili şikayet geldi. Tüm şikayetlerin yüzde 27'si Nimda'ya ait olurken, Sircam virüsü yüzde 20 oranında şikayet aldı. Söz konusu sitede, Sophos kıdemli teknoloji danışmanı Graham Cluley'in, ''Eylül ayında ortaya çıkan Nimda hala destek masamızı en fazla meşgul eden virüslerin başını çekmekte. Nimda'nın bu kadar etkili olmasının nedeni, bilgisayarları birçok yoldan enfekte edebilmesi. Gelecek günlerde de ortaya çıkacak virüslerin Nimda gibi birçok alternatifi kullanabilecek kapasitede olacağına inanıyoruz.'' sözlerine de yer verildi. Sophos'un en çok şikayet alan virüs sıralaması şöyle 1. W32 Nimda, yüzde 27.2 2. W32 Sircam-A, yüzde 20.3 3. W32 Magistr, yüzde 12.0 4. W32 Hybris, yüzde 6.2 5. W32 Apology, yüzde 3.8 6. VBS VBSWG-X, yüzde 3.6 7. VBS Kakworm, yüzde 3.1 8. VBS SST-A, yüzde 2.0 9. W32 Badtrans yüzde 1.8 BadTrans 10.W32 Navidad yüzde 1.8 Navidad Yıl içinde birçok büyük antivirüs yazılım firması tarafından ''çok tehlikeli'' olarak nitelenen Kırmızı Kod Code Red adlı virüs ise ilk 10 şikayet arasına giremeyerek internet analistlerini şaşırttı. 
+     
+     GOner virüsü 
+     Sophos'un haberinin internet ortamında yer aldığı saatlerde, yeni bir virüs alarmı verildi. 
+     İnternet analistleri tarafından Goner adı verilen ve ''çok tehlikeli'' olarak ifade edilen virüsün, bilgisayarlardaki ''.exe'' uzantılı tüm dosyaları silmeye çalıştığı bildirildi. 
+     Microsoft Outlook ile yayılan yeni virüs Goner, kendisini ICQ ve IRC gibi sohbet programlarıyla da dağıtmaya çalışıyor. Konu kısmında ''Hi'' Selam yazan mesajda, ilişikte gönderilen ''.scr'' uzantılı dosyanın bir ekran koruyucu olduğu söylenerek kullanıcı yanıltılmaya çalışılıyor. Virüs bu işlemleri gerçekleştirirken, kendisini gizleyebilmek amacıyla ekrana bir hata mesajı kutusu çıkarıyor. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

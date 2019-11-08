@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO> 245120 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/03/son/sonyas03.html </URL>
+<DATE> 2004/06/03/ </DATE>
+<TIME> 09.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayar çöktü, uçuşlar askıya alındı 
+</HEADLINE>
+<TEXT>
+
+     İngiltere'nin güneyindeki Swanwick'te bulunan ''Ulusal Hava Trafik Servisi''nin bilgisayar sisteminin çökmesi sonucu, ülke genelindeki birçok seferin ertelendiği bildirildi. 
+     İngiliz Havayolları sözcüsü, Swanwick'teki bilgisayar sisteminin TSİ 09.00 civarında arızalandığını ve uçak seferlerinin ertelendiğini söyledi. 
+     Londra'da uluslararası Heathrow havaalanındaki uçuşların da ertelendiğini belirten Reuters muhabiri, yapılan anonslarda, uçakların en az 2 saat daha havalnamayacağının duyurulduğunu bildirdi. 
+     İngiliz basınında çıkan haberlerde, bazı havayollarının tüm iç ve dış seferlerini askıya aldığı belirtildi. 
+     Hava Trafik Servisi'den konuyla ilgili açıklama yapılmadı. 484 milyon dolara mal olan Hava Trafik Servisi'nde açıldığı günden bu yana çıkan arızalar, büyük bir sorun çıkacağının işaretini veriyordu. 
+     
+     ARIZA GİDERİLDİ 
+
+     İngiltere'de, hava kontrol sistemi bilgisayarlarında meydana gelen merkezi arıza tümüyle giderildi. 
+     Ulusal televizyon kanallarından yapılan duyurularda, yolculara normal uçuş saatlerine uygun biniş işlemlerini yaptırmaları çağrısı yapılırken, uçuşlarda bazı gecikmeler meydana gelebileceği uyarısında bulunuldu. 
+     Bu arada Manchester, Newcastle ve Birmingham uluslararası havaalanlarındaki uçuşlara yeniden başlandığı duyuruldu. 
+     Havaalanlarında bilgisayar sistemlerindeki arıza sırasında meydana gelen yığılmaların eritilmesine çalışıldığına dikkat çeken havacılık sektörü yetkilileri, yolculardan herhangi bir güvenlik endişesi taşımamasını istedi. 
+     Havacılık uzmanları, bilgisayarlardaki bir-iki saatlik arızanın gelecek hafta sonunda da bazı gecikmeler ve yolcu yığılmalarına yol açabileceği uyarısında bulunuyor. 
+     
+     SABOTAJ İHTİMALİ YOK 
+
+     İngiltere hava kontrol sistemi yetkilileri, Swanwick'de bulunan merkezi bilgisayar sisteminin çökmesinde ''sabotaj'' ihtimalinin bulunmadığını açıkladı. 
+     Sistemin yeniden devreye girmesi ve havaalanlarındaki durumun normale dönmeye başlamasının ardından açıklama yapan yetkililer, önceliklerinin iniş yapan uçakların güvenliğini sağlamak olduğunu bildirdi. 
+     Sorunun ''uçuş verilerini toplayan'' birimde meydana gelen bir arızadan kaynaklandığını belirten yetkililer, arızanın giderilmesinin ardından hiçbir yolcunun ''güvenlik kaygısı taşımaması gerektiğini'' vurguladı. 
+     Halen sistem arızası yüzünden sadece Heathrow'daki uçuşların normal uçuş planlarının iki saat gerisinden gittiği, uçuşların tümüyle normale dönmesinin zaman alacağı belirtiliyor. 
+     Bu arada, çeşitli televizyon kanallarında tümüyle bu konuya ayrılan yayınlarda, daha önce de arıza yapan hava kontrol sisteminin yeterince güvenilir olup olmadığı tartışılmaya başlandı. 
+     Bazı yetkililer, arızanın ''normal olduğunu'' savunurken, sivil havacılık uzmanlarının büyük bölümü ise ''daha önce de birkaç kez arızalanan sistemin yeniden ve daha ağır biçimde çökmeyeceğinin garantisi verilemez. Bu da sistemin güvenilirliğini tartışılır hale getiriyor'' görüşünü dile getirdi. 
+     
+</TEXT>
+</DOC>

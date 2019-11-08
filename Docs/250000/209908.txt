@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 209908 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/20/son/soneko31.html </URL>
+<DATE> 2004/01/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bankalardan, müşterilere "internet" uyarısı... 
+</HEADLINE>
+<TEXT>
+
+     Bazı bankalar, işlemlerini internet aracılığıyla yapan müşterilerine mesaj göndererek, ''Banka adı kullanılarak kullanıcı bilgileri ve şifre istenen e-maillere cevap verilmemesi'' uyarısında bulundu. 
+     Banka genel müdürlükleri tarafından müşterilere gönderilen elektronik postada, banka ismi kullanılarak, ''İnternet Şubesi kullanıcı adı'', ''şifre'' ve ''müşteri bilgileri'' istenen e-maillerin gönderildiğini öğrendikleri belirtildi. 
+     Mesajda, şu uyarılara yer verildi 
+     ''Banka ismi ve görselini kullanarak, kişisel bilgilerinizi isteyen e-mailleri ve siteleri cevaplamayınız. Bankamız, hiç bir zaman size İnternet Şubesine giriş ya da başka bir konu nedeniyle, şifrenizin ya da size özel müşteri bilgilerinizin istendiği e-mail'ler göndermemektedir. E-mail ile gelebilecek herhangi bir linki tıklayarak bankaların İnternet Şubesine giriş yapmayınız. İnternet Şubemize en güvenli giriş için her zaman girdiğiniz adresi kullanınız.'' Mesajda ayrıca, bankanın internet şubesine girişte, ilk ekranda mutlaka ''VeriSign'' ikonunun bulunması ve bu ikon tıklandığında bankanın geçerli sertifikasının görüntülenmesi gerektiğini belirtilerek, bu konulara dikkat edilmesi istendi. 
+     
+</TEXT>
+</DOC>

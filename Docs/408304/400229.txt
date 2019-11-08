@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 400229 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/03/son/sondun12.html </URL>
+<DATE> 2005/12/03/ </DATE>
+<TIME> 12.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ukrayna'da kuş gribine rastlandı... 
+</HEADLINE>
+<TEXT>
+
+     Ukrayna'nın Kırım yarımadasında bulunan ölü kuşlarda H5 virüsüne rastlandığı bildirildi. 
+     Tarım Bakanlığı sözcüsü, çoğunluğunu bölgedeki tavuk ve kazların oluşturduğu kuşlara yapılan testlerde, hayvanların kuş gribine yol açan H5 türü virüs taşıdığının saptandığını açıkladı. 
+     Kuşların, Sovetski ve Nizhnegorski bölgelerinde bulunduğu belirtildi. 
+     Ukrayna Tarım Bakanı Oleksander Baranivsky, dün Kırım yarımadasında 1621 ölü kuş bulunduğunu bildirmişti. 
+     Kuş gribinin ölümcül H5N1 virüsünün 133 insana bulaştığı Asya'da şimdiye kadar 68 kişi öldü. Vietnam'da ise kuş gribine yakalanan 93 kişiden 42'si hayatını kaybetti. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 333113 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/13/son/sonyas05.html </URL>
+<DATE> 2005/04/13/ </DATE>
+<TIME> 07.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Saç telinden yüzlerce kat küçük bir motor yapıldı 
+</HEADLINE>
+<TEXT>
+
+     Amerikalı bilim adamlarının dünyanın en küçük motorunu yaptıkları ve bu motorun ilerleyen yıllarda insan vücudunda seyahat ederek zarar görmüş hücreleri tedavi edecek küçük mekanik doktorlara enerji sağlayabileceği bildirildi. 
+     LiveScience.com isimli internet sitesinde yer alan bir habere göre, California Üniversitesi'nden araştırmacıların icat ettiği dünyanın en küçük motorunun nanomotor çalışma mantığının küçük bir karbon cücetüp nanotüp içinde erimiş iki metal damlacığının birbirleriyle yer değiştirmesi esasına dayandığı ifade edildi. 
+     Söz konusu motorun tekniğinin, atomların ya da moleküllerin ayrılmaya direnç göstermesi esasına dayalı yüzey gerilimini kullandığı ve bu yüzey geriliminin ölçek küçüldükçe çok daha önemli hale geldiği belirtildi. 
+     Bilim adamları söz konusu yüzey geriliminin bazı böceklerin su yüzünde yürümesini sağlayanınkiyle aynı olduğunu kaydediyorlar. 
+     Yüzey gerilimi tarafından harekete geçirilen ve nanoelektromekanik rahatlama osilatörü olarak tanımlanan motorun, 20 microwatt enerji ürettiği ve motorun boyutuna göre bu miktarın son derece etkileyici olduğuna dikkat çekildi. 
+     Motorun tüm büyüklüğünün 200 nanometerdan daha az, yani bir insan saçının kalınlığından yüzlerce kat daha küçük olduğu belirtildi. 
+     Bu motorun ölçeğine oranla ürettiği enerji miktarıyla bir otomobil motoru haline getirilmesi durumunda, söz konusu motorun 225 beygir gücündeki Toyota Camry'nin V6 motorundan 100 milyon kat daha güçlü olacağı ifade ediliyor. 
+     Üretilen söz konusu nanomotorun geniş bir kullanım alanına sahip olacağına dikkat çeken bilim adamları, bu teknolojinin öncelikli olarak Mikro-Elektro-Mekanik Sistemlerde MEMS kullanılacağını kaydediyorlar. Ancak söz konusu teknolojinin ilerleyen yıllarda tahrip olmuş hücrelerin tedavisi için vücutta seyahat edebilecek mekanik doktorlara enerji sağlamada da kullanılabileceğine işaret ediliyor. 
+     
+</TEXT>
+</DOC>

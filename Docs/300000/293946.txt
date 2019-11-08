@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 293946 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/01/son/sonyas05.html </URL>
+<DATE> 2004/12/01/ </DATE>
+<TIME> 09.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Memelilerin ortak atasının gen haritası çıkarılıyor... 
+</HEADLINE>
+<TEXT>
+
+     Bilim adamları, bilgisayar programları kullanılarak, memelilerin ortak atasının gen haritasının çıkarılabileceğini düşünüyor. 
+     Bir ekibe başkanlık eden California Üniversitesi'nden Profesör David Hausser, ''Genome Research'' adlı dergide yayınlanan makalesinde, en az 75 milyon yıl önce yaşamış insan dahil bütün memelilerin ortak atası sayılan küçük yaratığın DNA özelliklerinin yüzde 98'inin bilgisayar ortamında yeniden üretilebileceğini kaydetti. 
+     Böyle bir araştırmanın amacının, insanın ve memelilerin moleküler evrimini anlamak olduğunu belirten profesör, ''Böylece gen yapımızın 75 milyon yıllık evrimini molekül düzeyinde anlayabilecek ve nasıl evrimleştiğimizi gösterecek bir çeşit genetik arkeoloji ortaya çıkaracağız'' ifadesini kullandı. 
+     Hausser, bu çalışmaları, ''karşılaştırmalı gen araştırmacılığı'' bağlamında yürüttüklerini kaydederek, bu karşılaştırmalar sayesinde maymun, fare ve şempanze gibi bugün de yaşamakta olan memelilerle insanı mukayese ederek genetik alanda daha fazla bilgiye sahip olmak istediklerini belirtti. 
+     
+</TEXT>
+</DOC>

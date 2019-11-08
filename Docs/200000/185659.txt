@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 185659 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/01/ekonomi/eko16.html </URL>
+<DATE> 2003/10/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Telekomdan yüzde 1.6 zam 
+</HEADLINE>
+<TEXT>
+
+   
+   Türk Telekom bazı özel servis hizmetlerine yüzde 1.6 oranında zam yaptı. Türk Telekom'dan yapılan yazılı açıklamaya göre, özel servis numaraları, 800'lü hatlar, 900'lü hatlar, centrex, devre anahtarlamalı data, paket anahtarlamalı data, kablo TV üzerinden verilen ek hizmetler, özel devreler, ADSL, Frame Relay gibi özel servis hizmetlerine ait bağlantı ücretleri ile aylık ücretleri yüzde 1.6 oranında artırıldı. Zamlı tarifelerin bugünden itibaren geçerli olacağı bildirildi. 
+   
+   
+</TEXT>
+</DOC>

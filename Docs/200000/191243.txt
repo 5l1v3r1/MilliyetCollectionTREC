@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 191243 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/25/son/sontur24.html </URL>
+<DATE> 2003/10/25/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternette "matrix virüsü" uyarısı 
+</HEADLINE>
+<TEXT>
+
+     İnternette e-posta ile yayılan yeni bir tür virüsün, bulaştığı bilgisayarın belleğini 10 saniyede sildiği ve e-posta adreslerini ele geçirdiği bildirildi. 
+     Türk İnternet Birliği Başkanı Hakan Topuzoğlu, "Welcome to the matrix" konu başlığıyla gelen "pps" uzantılı e-postaların, yeni bir tür virüs taşıdığını söyledi. 
+     Bu e-postaların açılması halinde bilgisayarın ekranına 10 saniye süren bir animasyon geldiğini belirten Topuzoğlu, virüsün bu sürede bilgisayarın belleğini sildiğini ve e-posta adreslerini ele geçirdiğini kaydetti. 
+     Topuzoğlu, Microsoft, Mcaffee, Norton gibi firmalarının antivirüs yazılımlarının da virüse karşı koruma sağlayamadığını savunarak, bu başlıkla gelen e-postaların kesinlikle açılmaması gerektiğini bildirdi. 
+     
+</TEXT>
+</DOC>

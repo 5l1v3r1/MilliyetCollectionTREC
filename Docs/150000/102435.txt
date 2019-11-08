@@ -1,0 +1,48 @@
+<DOC>
+<DOCNO> 102435 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/08/18/dunya/adun.html </URL>
+<DATE> 2002/08/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+NASA beyin okuyacak 
+</HEADLINE>
+<TEXT>
+
+Amerikan Uzay ve Havacılık Dairesi havaalanlarında teröristleri yaydıkları beyin dalgalarından saptayacak bir cihaz geliştiriyor. Bilim çevrelerinde tartışılan girişim, insan hakları savunucuları tarafından da eleştiriliyor 
+     DIŞ HABERLER SERVİSİ 
+
+     Amerikan Uzay ve Havacılık Dairesi NASA, insan beyninin yaydığı elektrik dalgalarından yararlanarak düşünce okuyabilecek bir cihaz geliştirme aşamasında olduğunu açıkladı. 
+     NASA yetkilileri, temasa geçtikleri "Northwest Airlines" adlı havayolu şirketine, söz konusu cihazın havaalanlarında güvenlik amacıyla kullanılabileceğini, çok yakın bir gelecekte yolcular arasına gizlenen olası teröristlerin bu cihazla yapılacak taramalarda tespit edilebileceğini bildirdi. 
+     The Washington Times gazetesinin haberine göre, 11 Eylül saldırılarından sonra uzay teknolojisini sivil güvenlik alanında kullanma kararı alan NASA, özel bir firmanın da katkısıyla, bir tür süper yalan makinesi geliştirdi. 
+     Washington Times’a konuyla ilgili olarak bilgi veren NASA Uzay Araştırma Bölümü Müdürü Herb Schlickenmaier, Northwest Havayolu’na teklif ettikleri bu projenin geliştirdikleri 4 projeden biri olduğunu belirterek, çalışmaların henüz tamamlanmadığını kaydetti. 
+     
+     İtirazlar var 
+     Ancak NASA’nın bu inanılmaz projesi bazı bilim adamları tarafından uygulanabilirliği çok şüpheli bir tasarım olarak nitelendirildi. Beyin dalgalarını beyin elektrosunda EEG olduğu gibi, insan kafasına kablo bağlayarak dahi ölçmenin çok güvenilir bir sonuç vermediğini vurgulayan bilim adamları, kalabalık bir yolcu grubundan gelen sinyalleri sağlıklı olarak değerlendirmenin mümkün olmayacağını savundular. 
+     Buna karşın bazı fizikçiler ise mevcut bilgi birikimi ve teknolojiyle beyin dalgalarını ölçerek kişinin ne düşündüğünün belli bir yanılma payı ile anlaşılabileceğini belirttiler. Proje hukuksal açıdan da sorunlu olarak gösterildi. Özel hayatın dokunulmazlığını savunan çevreler böyle bir uygulamanın haberleşme ve seyahat özgürlüğünü ihlal edeceğini vurguladılar. 
+     
+Nasıl çalışıyor      Havaalanlarında kontrol kapılarına yerleştirilmesi planlanan beyin okuma cihazı, nöro elektrik algılayıcıları vasıtasıyla insan beyni ve kalbinin yaydığı elektrik dalgalarını insanın gövdesiyle hiç temas kurmadan, uzaktan algılayabilecek. 
+     Algılayıcıların saptadığı bu sinyaller çok gelişmiş bir bilgisayara veri olarak girecek. Bilgisayar ise bu verileri, hafızasında bulunan suçlu kişilerin psikolojik profili ile karşılaştıracak. 
+     Yolcuların kişisel dosyaları ve sabıka kayıtları da veri olarak hafızada bulunacak. Sonuçta bilgisayar, algılayıcıları tarafından gönderilen nabız atışı, vücut sıcaklığı, göz kırpmaları ve öteki biyoritmsel tepkilerle ilgili sinyalleri değerlendirerek yolcunun potansiyel bir terörist olup olmadığını saptayabilecek. 
+     
+Büyük Birader sizi gözetliyor      11 Eylül saldırılarından sonra ABD’de havalanı ve uçuş güvenliği adına bireysel özgürlüklerin kısıtlanmasını da içeren önlemler devreye girdi. İş sonunda romancı Orwell’in "Büyük Birader"ini çağrıştıran "beyin okuma makinesi"ne kadar vardırıldı. 
+     
+
+
+
+ DÜNYA 
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

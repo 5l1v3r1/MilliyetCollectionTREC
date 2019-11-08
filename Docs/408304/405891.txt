@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 405891 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/23/yasam/axyas02.html </URL>
+<DATE> 2005/12/23/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Geleceğini de 'hack'ledi 
+</HEADLINE>
+<TEXT>
+
+
+ODTÜ öğrencisi Cumhur Onat, 'yeteneğinin sınırlarını ölçmek için' internette en çok okunan haber sitelerinden 'internethaber'i çökertti. Yakalanan Onat, site yöneticilerinin kendisini affetmesine rağmen cezaevine gönderildi 
+
+Şükran Pakkan 
+
+Türkiye'nin en çok tıklanan haber portallarından biri olan 'internethaber. com'u 'hack'leyen, sitenin domain şifresini kıran ODTÜ öğrencisi 20 yaşındaki Cumhur Onat, yeni TCK'ya göre, 7 yıla kadar hapis cezası istemiyle yargılanmak üzere cezaevine gönderildi. 
+
+'Tüm haklarımı almış' 
+İnternethaber sitesinin imtiyaz sahibi ve Star gazetesi yazarı Hadi Özışık, bilgisayar korsanını cezaevine gönderen süreci şöyle anlattı "19 Aralık akşamı, sitenin yayınını sağlayan Ankara'daki servis sağlayıcı beni arayıp sitenin hack'lendiğini söyledi. Siteyi hack'lemek çok kolay. Ama çocuk, ancak bir d hinin yapabileceğini yapmış, benim şifremi kırıp domain'imi internet kimliği almış. Tüm haklarımı ele geçirmiş." 
+
+Ve polis baskını... 
+Servis sağlayıcının altı kişilik bir ekip kurduğunu ve hacker'ın yerini gece yarısı IP numarası sayesinde belirlediğini kaydeden Özışık şöyle devam etti 
+"'Ankara Dikmen'de oturuyor, ODTÜ İnşaat Mühendisliği ikinci sınıf öğrencisi' dediler. Baktık, o saatte bilgisayarın başında. Telefon numarasını aradım, ev olduğunu anlayınca kapattım. Sabah ilk uçakla Ankara'ya gittim. Cumhuriyet Savcısı Adil Kubat, konuyu biliyordu hemen duruma el koydu. Organize Şube'den polislerle eve baskına gittik. Bilgisayarlarına ve hard disklerine el konuldu." 
+Eve baskın sırasında çocuğun okulda olduğunu söyleyen Özışık, emekli polis babasının, taksi şoförlüğü yaptığını belirterek "Babası oğlunun önemli bir sınavda olduğunu söyledi. Sınav çıkışına kadar bekleyip yakaladık" dedi. 
+İfadesinde Onat'ın 'pişman olduğunu, sadece yeteneğinin sınırlarını ölçmeye çalıştığını' anlattığını söyleyen Özışık, şöyle konuştu 
+
+'Bu olay bir mesaj' 
+"Siteyi Almanya'daki bir siteye yönlendirmiş, satılık listesinde adımız geçiyor. Savcı talimatıyla siteyi geri aldık. Cumhur tam bir bilgisayar dehası. Geleceği çok parlak. Çok ağladı, özür diledi. Abisi, Harp Okulu'nda öğrenciymiş. Babası da yıkıldı. Zaten kötü niyet yok, yoksa neden evinden yapsın. Şik yetten vazgeçtim ama kamu davası açıldı. Ankara 5. Sulh ve Hukuk Mahkemesi'nde davası görüldü, önceki gece Ulucanlar Cezaevi'ne gönderildi. 243 ve 244. maddelerden, 3 ile 7 yıl arası hapis istemiyle yargılanacak." 
+Bu olayın örnek olduğuna dikkat çeken Özışık, "Gençler kendini yakmasın. Bu olay Türkiye'ye çok önemli bir mesaj" dedi. 
+
+
+</TEXT>
+</DOC>

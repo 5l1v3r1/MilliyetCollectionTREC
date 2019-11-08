@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 170448 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/19/son/sontur19.html </URL>
+<DATE> 2003/07/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ÖSS şampiyonu "Elektronik mühendisliğini tercih edeceğim" 
+</HEADLINE>
+<TEXT>
+
+     ÖSS Sınavı'nda 300 tam puan alarak şampiyon olan Emre Kacar, bir üniversitenin elektronik mühendisliği bölümünü tercih etmeyi düşündüğünü söyledi. 
+     Kacar, Konya Final Dergisi Dershaneleri'nde, dershane yetkilileriyle düzenlediği basın toplantısında, yoğun çalışma temposu nedeniyle ilk yarı yıl sonuna doğru pes etme noktasına geldiğini, ancak sınavlara birlikte hazırlandığı 9 kişilik arkadaş grubu tarafından ikna edildiğini kaydetti. 
+     Soruların tamamını doğru yaptığını sonuçlar daha açıklanmadan önce bildiğini ifade eden Kacar, ''Ancak kodlamada bir hata olabileceği endişesiyle, bunu en yakınıma bile söylememiştim. Ancak sonuçlar açıklandıktan sonra rahat bir nefes aldım'' dedi. 
+     Defalarca deneme sınavlarına girmesine karşın ÖSS sınavında tahmininden daha fazla stres yaşadığını kaydeden Kacar, ''Gideceğim okulu, verilecek eğitimin kalitesine göre belirlemek istiyorum. Tabi bana sunulacak koşullar da tercihimi belirlememde yardımcı olacak. Ancak, Ankara ya da İstanbul'daki bir üniversitenin elektronik mühendisliği bölümünü tercih etmeyi düşünüyorum'' diye konuştu. 
+     
+</TEXT>
+</DOC>

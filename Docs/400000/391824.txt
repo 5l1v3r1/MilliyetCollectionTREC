@@ -1,0 +1,64 @@
+<DOC>
+<DOCNO> 391824 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/02/son/sonyas13.html </URL>
+<DATE> 2005/11/02/ </DATE>
+<TIME> 12.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+10 soruda yeni ADSL 
+</HEADLINE>
+<TEXT>
+
+     cnnturk.com 
+
+Türk Telekom'un yeni ADSL tarifeleri kullanıcılar tarafından büyük tepki gördü. Peki Türk Telekom ne yapmak istiyor ve eski tarifeye ne oldu 
+     
+     ADSL nedir 
+
+     Geniş bant komünikasyon teknolojisi ADSL, Asymetrical Digital Subscriber Line'ın kısaltması. Yani DSL teknolojisinin asimetrik versiyonu. Asimetrik kelimesi yükleme ve indirme hızlarının birbirinden farklı olmasını anlatıyor. Örneğin 512 128 Kbps bağlantı hızı, 512 Kbps indirme teoride 64 KB s , 128 Kbps de yükleme teoride 16 KB s hızı anlamına geliyor. 
+     
+     Yeni tarife neler getiriyor 
+
+     ADSL erişiminde limitli ve limitsiz olmak üzere iki tarife uygulanıyor. Limitsiz abonelikte sabit aylık ücretle sınırsız internet kullanımı olanağı veriliyor. Limitli abonelik sisteminde ise aylık 3 ve 5 GB bağlantı kotası uygulanıyor. Bu kota aşıldığı zaman, her 1 GB için ek ödeme yapılıyor. Ulaştırma Bakanı Binali Yıldırım'ın mart ayında yaptığı açıklamaya göre, 256 Kbps limitli erişim, fiyatı değişmeden 512 Kbps'ye çıkarılacak ve limitsiz 512 erişimin fiyatı 99 YTL'den 49 YTL'ye düşürülecekti. Oysa bugünkü ADSL tarifelerinde limitsiz kullanım ücreti 99 YTL'den başlıyor. 
+     
+     Limitli ADSL'de durum ne 
+
+     256 bağlantı hızında 3 GB limitli ADSL tarifesinin, kullanım hakkı aynı kalarak bağlantı hızı 512 Kbps'ye yükseltildi. 512 Kbps 5 GB limitli ADSL tarifesi ise hızı sabit kalmak kaydıyla kotası 6 GB'ye çıkarıldı. Bunun yanı sıra 512 limitli erişime 9 GB'lik yeni bir seçenek eklendi. Bu tarife seçeneğinin aylık fiyatı 69 YTL. 
+     
+     256 limitli kullananların durumu ne olacak 
+
+     Yeni tarifelerin uygulamaya konmasıyla 256 limitsiz ADSL müşterileri aynı tarifede mevcut hızlarında hizmet almaya devam edebilecek veya yeni tarifelerden birine geçiş yapabilecekler. 1 kasım itibarı ile 256 Kbps hızında, limitli veya limitsiz erişimde, yeni müşteri kaydı yapılmayacak. 
+     
+     256 limitsiz kullananların durumu ne olacak 
+
+     Yeni tarifede en büyük sorunu 256 limitsiz kullanıcıları yaşıyor. Daha önceki tarife uygulamaya girdiğinde fiyat artırılmamış, sadece hız yükseltilmişti. Yeni tarifede ise genel hız artırılırken 256 limitsiz kullanıcılarının hızı aynı kaldı. Bu durumda 512 limitsiz erişime geçmek isteyen 256 limitsiz kullanıcıları, aylık ödedikleri rakamı 49'dan 99 TL'ye çıkarmak zorunda. Bu da, 256 limitsiz kullanıcılarının mağduriyeti anlamına geliyor. 
+     
+     Yeni ADSL tarifeleri nedir 
+
+     
+
+Erişim hızı Bağlantı ücreti Aylık ücret Limitsiz ADSL 512 128 59 YTL 99 YTL 1024 256 59 YTL 169 YTL 2048 512 59 YTL 269 YTL Limitli ADSL 512 128 3 GB 59 YTL 29 YTL MB ücreti 0.01 YTL 512 128 6 GB 59 YTL 49 YTL MB ücreti 0.01 YTL 512 128 9 GB 59 YTL 69 YTL MB ücreti 0.01 YTL      
+     Türk Telekom ne yapmak istiyor 
+
+     Türk Telekom, limitli kullanıcıların sayısını artırmak istiyor. Ancak bu stratejideki fikir kullanıcılar açısından çok yanlış. Çünkü Telekom, "internet kafe işletmiyorsanız ya da apartmana dağıtmıyorsanız limitsiz ADSL'e ne ihtiyacınız var" gibi bir mantık güdüyor. Yani Türk Telekom kullanıcıların sınırsız indirme yapmasını istemiyor, çünkü bu ekstra trafik anlamına geliyor. Oysa kullanıcıları limitsiz tarife almaya iten en önemli sebeplerden internetten sürekli olarak bir şeyler indirmek. 
+     
+     Limitli-limitsiz ADSL oranları ne 
+
+     256 limitsiz kullanıyorsanız, günde 24 saat ve bir ay boyunca sürekli dosya indirme işlemi yaparak indirebileceğiniz maksimum dosya büyüklüğü 78 GB'a ulaşıyor. 512 limitsizde aynı işlemi yaptığınızda ise 156 GB'a kadar çıkıyorsunuz. 256 limitsiz tarifenin fiyatı 49 YTL, 512 limitsiz tarifenin fiyatı ise 99 YTL. Bu durumda aylık ödemesi 49 YTL olan 512 hızla 6 GB sınırlı erişim sahibi bir kişinin, 156 GB dosya indirdiğinde ödemesi gereken rakam 1,500 YTL'ye ulaşıyor 1,500,000,000 lira . 
+     
+     Dünyada limitsiz erişim rakamları ne 
+
+     Türk Telekom Genel Müdürü Mehmet Ekianalan, Türk Telekom'un fiyatlarının makul olduğunu ve fiyatların Avrupa ile aynı standartlarda olduğunu savunuyor. Aşağıdaki rakamlar dünya ile birkaç karşılaştırma... 
+     Finlandiya 1 Mbps 35 dolar. 
+     Fransa 20 Mbps 35 dolar. 
+     Japonya 47 Mbps 38 dolar. 
+     Türkiye 2 Mbps 202 dolar. 
+     Türkiye 0.5 Mbps 75 dolar. 
+     
+     Bağlantı hızları ne zaman yükseltilecek 
+
+     Türkiye'de, dünya standartlarına göre çok düşük olan ADSL erişim hızı artırma planları elbette var. Dün CNN TÜRK'te canlı yayına katılan Türk Telekom Genel Müdürü Mehmet Ekinalan da bu yönde çalışmaların sürdüğünü söyledi, ancak tarih vermekten ısrarla kaçındı. 
+     
+</TEXT>
+</DOC>

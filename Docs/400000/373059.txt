@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 373059 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/26/son/sondun46.html </URL>
+<DATE> 2005/08/26/ </DATE>
+<TIME> 22.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+FBI'dan "Hacker Operasyonu" açıklaması... 
+</HEADLINE>
+<TEXT>
+
+     Amerikan federal soruşturma bürosu FBI, yaklaşık iki hafta önce internet üzerinden yayılan Zotob ve Mytob virüslerini yazmak ve yaymakla suçlanan biri Türk, diğeri Fas vatandaşı iki kişiyle ilgili açıklama yaptı. 
+     FBI yetkilisi Louis Reigel, yayımladığı basın açıklamasında, Faslı Farid Essebar ve Türk vatandaşı Atilla E.’nin, bilgisayar solucanı tipi bu iki virüsü yazıp yaydıklarının sanıldığını belirtti. 
+     Her iki virüs, CNN, New York Times, ABD News dahil 100’den fazla Amerikan şirketinin bilgisayarlarında sorun yaratmıştı. 
+     Reigel, açıklamasında, birlikte davranıldığında nelerin başarılabileceğinin ortaya konduğunu, etkin bir işbirliği sayesinde bu sorunun kısa süre içerisinde çözümlendiğini belirtti. 
+     
+</TEXT>
+</DOC>

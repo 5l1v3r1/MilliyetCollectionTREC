@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 144202 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/03/21/son/sondun50.html </URL>
+<DATE> 2003/03/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Almanya'da yeni bilgisayar virüsü... 
+</HEADLINE>
+<TEXT>
+
+     Almanya'da yeni bir bilgisayar virüsünün yayıldığı bildirildi. 
+     F-Secure adlı güvenlik şirketi tarafından yapılan açıklamada, ''Ganda'' adı verilen virüsün İsveç'ten geldiğinin tahmin edildiği ve ''G.W. Bush animation'', ''Is USA always number one'' ABD her zaman 1 numara mı ya da ''Spy pics'' Ajan fotoğrafları gibi isimler altında gönderilen e-mailler ile yayıldığı belirtildi. 
+     Gönderilen e-maillerde, Amerikan Federal Soruşturma Dairesi FBI'nin piyasadan toplatmaya çalıştığı sözde gizli casusluk fotoğraflarının bulunduğunun bildirildiği, bu e-mailleri açanların ''Ganda'' virüsünün yayılmasını sağladıkları ifade edildi. 
+     Tüm bu gelişmelere rağmen ''Ganda'' virüsünün ciddi boyutlarda zarar vermediği kaydedildi. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

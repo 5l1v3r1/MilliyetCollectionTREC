@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 178221 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/26/son/soneko26.html </URL>
+<DATE> 2003/08/26/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı 36 puanlık kayıpla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi, önceki kapanışa göre 36.58 puan düşerek, 1. seansı 11,761.39 puandan tamamladı. 
+     1. seansta, hisse senetlerinin ortalama değer kaybı yüzde 0.31 olarak gerçekleşti. 
+     Dün 11,797.97 puandan kapanan Endeks, ilk seansa 4.27 puan düşüşle 11,793.70 puan seviyesinde başladı. Endeks, seansın ilk yarısını 11,720.92 puandan geçti. 
+     Endeks, seans içinde en düşük 11,664.93 puana gerilerken, en yüksek de 11,793.70 puanı gördü. 
+     Seans kapanışında mali endeks 49.84 puan azalışla 14,369.71 puana, sanayi endeksi 32.73 puan azalışla 11,617.32 puana ve hizmetler endeksi 3.82 puan azalışla 7,382.93 puana geriledi. 
+     Böylece, önceki kapanışa göre mali grup hisseler ortalama yüzde 0.35, sanayi grubu hisseler ortalama yüzde 0.28 ve hizmetler grubu hisseler ortalama yüzde 0.05 değer kaybetti. 
+     1. seansta işlem gören toplam 285 hisse senedinden 126'sı değer kaybederken, 73 hisse senedi değer kazandı, 86 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta, 147 trilyon 394 milyar 82 milyon liralık işlem hacmi oluştu. 
+     1. seansta, Garanti Bankası, Sabancı Holding, Tüpraş, İş Bankası C ve Doğan Holding en yoğun işlem gören hisseler oldu. 
+     
+</TEXT>
+</DOC>

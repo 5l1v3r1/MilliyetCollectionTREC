@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 159434 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/28/son/sondun11.html </URL>
+<DATE> 2003/05/28/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayar hırsızlarının işi artık zor... 
+</HEADLINE>
+<TEXT>
+
+     İki Amerikan firması tarafından geliştirilen ''TheftGuard'' adlı yazılım, çalıntı bilgisayarları kullanılmaz hale getiriyor. 
+     Phoenix Technologies ve Softex adlı firmalar, yazılımın bu işlevi yerine getirebilmesi için, hırsızın çaldığı bilgisayarla internete girmesinin şart olduğunu belirttiler. 
+     Phoenix firmasının başkan yardımcısı Timothy Eades, ''Yazılımın, bilgisayarın internete bağlanmak için kullandığı ve kısaca ISP olarak adlandırılan internet hizmeti sağlayan kuruluşu merkeze bildirdiğini ve polisin olaya müdahale edebildiğini'' söyledi. 
+     ''TheftGuard'' adlı program, bilgisayarın işletim programından bağımsız olarak hareket ediyor. Programın, bilgisayarın ''firstBIOS'' olarak adlandırılan temel giris-çıkış kademesine yerleştiği kaydedildi. Bu koruyucu programın yüklenmiş olduğu bilgisayar internete bağlandığı anda, program, derhal TheftGuard adlı siteye gerekli bilgileri iletiyor. Bu durumda bilgisayarın asıl sahibi isterse bilgisayarın ana belleğindeki tüm verileri silebiliyor ya da bilgisayarı işlemez hale getirebiliyor. Ayrıca bilgisayarın nereden internete bağlandığı saptanarak, gerektiğinde yasal müdahalede bulunuluyor. 
+     Phoenix'in geliştirdiği programın her yıl 100 milyon bilgisayarın BIOS'una yüklendiği bildirildi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO> 369750 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/14/son/sonspo02.html </URL>
+<DATE> 2005/08/14/ </DATE>
+<TIME> 09.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Anelka derman olmadı 
+</HEADLINE>
+<TEXT>
+
+     47 gün sonra formasına kavuşan Anelka, 45 dakika boyunca çabaladı durdu ama etkili olamadı, sonra sakatlandığını söyleyip, oyundan çıktı. 
+     Önce sezon başı hazırlıklarında yaşadığı sakatlık, ardından Newcastle United’a transfer haberleriyle gündemi meşgul etti. Bu konulara yönetim tarafından bir nokta konuldu ve Nicolas Anelka, 47 gün sonra Fenerbahçe formasıyla sahaya çıktı. Geçen sezonun son haftasında gol attığı Konyaspor müsabakasından sonra, boş tribünler önünde oynanan Diyarbakır maçıyla yeni sezona merhaba diyen Fransız futbolcu, oyunda 45 dakika kalırken, birşeyler yapabilmek için uğraş verdi. 
+     
+     Yerini arar gibiydi 
+     Takım arkadaşları sinekkaydı traş olurken, bir tek kendisi sakallı olarak sahaya çıkan yıldız oyuncu, maç içinde de herkesten ayrı gibiydi. Zaman zaman Nobre’ye yaklaşan, bazen sağ kanattan akınlara katılan Serkan ile oynamaya çalışan Anelka, pozisyon bulamazken, uzaktan sert şutlarla şansını denedi ama başarılı olamadı. Fransız futbolcu, devre biterken, kenar yönetimine sakatlığının nüksettiğini işaret etti. Bunun üzerine ikinci yarıda Anelka’nın yerine Mehmet Yozgatlı görev yaptı. 
+     
+     Anelka Ne Yaptı 
+     Gol 0 
+Asist 0 
+Gol pozisyonu 0 
+Şut 2 
+İsabetli şut 0 
+Pas 25 
+İsabetli pas 19 
+Orta 1 
+İsabetli orta 1 
+İkili mücadelede top çalma 0 
+İkili mücadelede top kaybetme 2 
+Ofsayt 4 
+Yaptığı faul 1 Yapılan faul 0 
+Topla buluşma sayısı 32 
+Topla oynama süresi 01 20 
+     
+</TEXT>
+</DOC>

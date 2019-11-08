@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 322673 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/10/son/sonyas16.html </URL>
+<DATE> 2005/03/10/ </DATE>
+<TIME> 11.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Laftan anlayan robot 
+</HEADLINE>
+<TEXT>
+
+     DIŞ HABERLER SERVİSİ 
+
+      Japon robot üreticisi Kokoro firması tarafından üretilen insansı robot "Actroid", Nagkute kentinde düzenlenen 2005 Aichi Uluslararası Fuarı'nda tanıtıldı. 
+     Japonca, Korece, Çince ve İngilizce'de toplam 40 bin cümleyi anlayabilen Actroid, sorulan sorulara vücut hareketleri ve mimiklerle birlikte cevap veriyor. 
+     
+</TEXT>
+</DOC>

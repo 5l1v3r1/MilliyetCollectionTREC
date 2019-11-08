@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 374214 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/30/son/sonyas12.html </URL>
+<DATE> 2005/08/30/ </DATE>
+<TIME> 17.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Müzik çalan cep telefonları piyasaya çıkıyor 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayar firması Apple ile cep telefonu firması Motorola'nın, Apple'ın iTunes yazılımını kullanacak ''müzik çalan cep telefonunu'' gelecek hafta piyasaya süreceği bildirildi. 
+     Bu gelişmenin, dijital çağın en popüler iki aracı olan cep telefonu ile internetten müzik indirilerek ya da CD'lerden kayıt yapılarak müzik dinlenebilen iPod'u artık tek bir araç haline getireceği kaydedildi. 
+     Apple'ın iTunes yazılımıyla iPod özelliği de taşıyacak yeni cep telefonlarının Motorola firması tarafından üretileceği ve ABD'de cep telefonu hizmeti veren Cingular Wireless tarafından pazarlanacağı ifade edildi. iTunes sayesinde kullanıcılar, artık bilgisayarlarından cep telefonlarına müzik indirebilecek ve yüksek kalitedeki bu müziği kulaklıklarla dinleyebilecek. 
+     Apple, Motorola ve Cingular, bu haberleri resmen doğrulamaya ya da yalanlamaya yanaşmazken, Apple'ın müzik alanında bir gelişmeyle ilgili olarak San Francisco'da 7 Eylül'de basın toplantısı düzenleyeceğini duyurduğu kaydedildi. 
+     Motorola firması da 2004 temmuzunda iTunes yazılımı içeren bir cep telefonu geliştirme planları yaptığını açıklamış, geçen temmuz ayında da bu konudaki çalışmaların yolunda olduğunu ve cihazın eylül ayında tanıtılacağını duyurmuştu. 
+     Cep telefonu hizmeti sunan Sprint ve Verizon firmaları da yaptıkları açıklamalarla yakın gelecekte kablosuz müzik indirme işlemi yapabilecek cep telefonlarını piyasaya süreceklerini kaydetti. 
+     
+</TEXT>
+</DOC>

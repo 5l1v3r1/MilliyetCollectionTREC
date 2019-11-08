@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 314338 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/11/yasam/yas08.html </URL>
+<DATE> 2005/02/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yanlış komut uzayda facia yaratacaktı 
+</HEADLINE>
+<TEXT>
+
+
+CENK BAŞLAMIŞ Moskova 
+
+Uluslararası Uzay İstasyonu UUİ , ABD'nin verdiği yanlış bir komut sonucu düşme tehlikesi atlattı. UUİ'nin Rusya'ya ait bölümündeki motorların çalıştırılmasıyla facia son anda önlendi. Rusya Uzay Kontrol Merkezi'nden yapılan açıklamada, yanlış komutun, istasyonun yörüngedeki konumu belirleyen mekanizmaların devre dışı kalmasına yol açtığı bildirildi. Houston'daki ABD Kontrol Merkezi'nden verilen komutun yanlış olması nedeniyle istasyon 5.5 saat uzayda sürüklendi. Rus bir yetkili, "ABD'lilerin hatası nedeniyle istasyon fazla yakıt harcamak zorunda da kaldı. UUİ'yi biz kontrolümüzde tuttuk" dedi. İstasyonun yörüngede kalmasını sağlayan 4 mekanizmadan biri 2.5 yıl önce bozulmuş, ABD'nin uzay mekiği faciasının ardından uçuşları durdurması nedeniyle yenisi gönderilememişti. 
+
+
+</TEXT>
+</DOC>

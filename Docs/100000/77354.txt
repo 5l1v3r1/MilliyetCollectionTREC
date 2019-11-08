@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 77354 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/04/09/son/soneko01.html </URL>
+<DATE> 2002/04/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones düştü, Nasdaq yükseldi 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası'nda, Dow Jones düştü, Nasdaq yükseldi. 
+     Dow Jones endeksi, 22.56 puan yüzde 0.22 düşerek günü 10,249.08 puandan kapattı. 
+     Teknoloji hisse senetlerinin izlendiği Nasdaq endeksi ise 15.75 puan yüzde 0.89 yükselerek 1,785.78 puandan kapandı. 
+     Irak'ın petrol ihracatını durdurması nedeniyle New York Menkul kıymetler borsası düşüşle açılmıştı. 
+     Dow Jones endeksi, Irak'ın Filistinlilere destek amacıyla petrol ihracatını bir aylığına durdurması nedeniyle açılışta 148 puanlık değer kaybıyla 10,123.00 puana gerilemişti. 
+     Borsanın düşmesinde, bilgisayar şirketi IBM'in karının düşeceği tahminleri de etkili oldu. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

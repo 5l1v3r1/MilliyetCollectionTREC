@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 60023 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/12/31/son/soneko34.html </URL>
+<DATE> 2002/12/31/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa kapanış... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Bileşik Endeksi, 2. seansta 80.51 puan artarak 10,369.92 puandan kapandı. 
+     Hisse senetleri, ikinci seansta ortalama yüzde 0.78 oranında değer kazandı. 
+     İlk seanstaki 1.29 puanlık artış dikkate alındığında, borsa endeksi günün tamamında 81.80 puan yükseldi. Hisse senetlerindeki günlük artış ise yüzde 0.80 oldu. 
+     Endeks seansa, 20.67 puan düşüşle 10,268.74 puan seviyesinde başladı. İlk yarıyı 8.70 puan ekside 10,280.71 puandan geçen Endeks, günü seans içinde gördüğü en yüksek değer olan 10,369.92 puandan tamamladı. 
+     1. seanstaki 1.29 puanlık artış dikkate alındığında, endeks, günlük bazda 81.80 puan yükseldi. Hisselerin günlük ortalama değer artışı da yüzde 0.80 oldu. 
+     Kapanışta mali endeks 109.46 puan artışla 12,902.34 puana, sanayi endeksi 69.98 puan artışla 9,888.71 puana, hizmetler endeksi 49.31 puan artışla 6,897.30 puana yükseldi. 
+     Böylece ilk seansa göre mali grup hisseler ortalama yüzde 0.86, sanayi endeksi ortalama 0.71, hizmetler grubu hisseler de yüzde 0.72 değer kazandılar. 
+     İşlem gören toplam 292 hisse senedinden 126'sı değer kazanırken, 74 hisse senedi değer yitirdi. 92 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta, 87 trilyon 843 milyar liralık işlem hacmi kaydedildi. İki seanstaki işlem hacmi toplamı da, 192 trilyon 661 milyar 43 milyon lira olarak belirlendi. 
+     Tüpraş, İş Bankası C, Garanti Bankası, Yapı ve Kredi Bankası ve Sabancı Holding, en yoğun işlem gören hisse senetleri oldu. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

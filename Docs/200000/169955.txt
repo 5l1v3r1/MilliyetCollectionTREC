@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 169955 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/17/son/sondun02.html </URL>
+<DATE> 2003/07/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Windows'da şimdiye kadarki en büyük güvenlik açığı.. 
+</HEADLINE>
+<TEXT>
+
+     Yazılım devi Microsoft'un en önemli ürünü olan ve dünyadaki bilgisayarların yüzde 90'ında kullanılan Windows işletim sisteminde şimdiye kadar bulunan en ''vahim'' güvenlik açığı ortaya çıkarıldı. 
+     Polonyalı bir grup bilgisayar uzmanı tarafından saptanan güvenlik açığının, Microsoft tarafından da kabul edildi. Hatanın Windows'un tüm sürümlerinde bulunduğu belirtiliyor. 
+     Microsoft tarafından konuyla ilgili olarak yapılan açıklamada, hackerların bu açıktan yararlanarak, internet aracılığıyla kullanıcıların bilgisayarlarını ''ele geçirebilecekleri'', içindeki verileri çalabilecekleri, dosyaları silebilecekleri ve e-mailleri okuyabilecekleri uyarısında bulunuldu. 
+     Microsoft açığı gidermek üzere internete bir güvenlik yaması konulduğunu duyurdu ve tüm Windows kullanıcılarının bu yamayı indirerek, uygulamalarını da istedi. 
+     Microsoft, ürünlerini daha güvenli hale getirebilmek için her yıl milyonlarca dolar harcıyor. 
+     Hatanın, ''Last Stage of Delirium Research Group'' adlı Polonyalı araştırmacılar grubu tarafından ortaya çıkarıldığı, ancak bu uzmanların, hata çok vahim olduğu için olayı son derece gizli tuttukları belirtildi. 
+     Grup adına konuşan Tomasz Ostwald adlı uzman, ''Güvenlik açığının öğrenilmesi halinde etkisinin çok büyük olacağının bilincindeyiz. Bu nedenle hata kodunu bu aşamada açıklamayı düşünmüyoruz. Bu çok tehlikeli olur'' diye konuştu. 
+     
+</TEXT>
+</DOC>

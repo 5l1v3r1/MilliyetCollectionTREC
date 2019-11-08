@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 205148 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/29/son/soneko38.html </URL>
+<DATE> 2003/12/29/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İMKB Vadeli işlemler Piyasası yeniden düzenlendi... 
+</HEADLINE>
+<TEXT>
+
+     Açıldığı 2001 yılından bu yana pek ilgi görmeyen İstanbul Menkul Kıymetler Borsası İMKB Vadeli İşlemler Piyasası'nın işleyişinde yapılan değişikliklerle sözleşme büyüklükleri 100 bin dolardan 10 bin dolara indirildi. 
+     İMKB Yönetim Kurulu, kur riskinden kaynaklanan olumsuzlukların giderilmesine katkıda bulunulması ve dövizin gelecekteki fiyatına ilişkin ekonomi aktörlerine yön verecek bir piyasanın oluşturulması amacıyla İMKB bünyesinde açılmış olan Vadeli İşlemler Piyasa'nın işleyişinde değişiklikler yaptı. 
+     Borsa'dan yapılan açıklamaya göre, yeni düzenlemeyle halen işlem görmekte olan TL Dolar sözleşmelerinin büyüklükleri 100 bin dolardan 10 bin dolara indirildi. 
+     Döviz piyasasının volatilitesinde bir süredir gözlemlenen düşüş dolayısıyla sözleşme başına yüzde 20 oranı baz alınarak hesaplanan işlem teminatları, yüzde 12 oranı baz alınarak hesaplanacak. Böylece piyasada işlem yapmanın teminat maliyeti, piyasa koşulları da dikkate alınarak önemli ölçüde düşürüldü. 
+     Bugüne kadar işlem teminatı olarak kabul edilen nakit, döviz ve dövize endeksli tahvillere ek olarak, TL ödemeli hazine bonosu ve devlet tahvilleri de teminata kabul edilecek. 
+     
+     TL EURO KONTRATLARI İŞLEME AÇILACAK 
+     Türkiye'nin dış ticaret hacminin önemli bir bölümünün AB üyesi ülkelerle yapıldığı dikkate alınarak, TL Dolar kontratları yanında aynı özellikleri taşıyan TL Euro vadeli işlem sözleşmeleri de işleme açılacak. 
+     Açıklamaya göre, Sermaye Piyasası Kurulu tarafından onaylanan değişiklikler, yarın itibarıyla yürürlüğe girecek. 
+     Yeni düzenlemenin, Vadeli İşlemler Piyasası'na yönelik ilginin canlandırılması açısından yararlı olmasının beklendiği bildirildi. 
+     İMKB Vadeli İşlemler Piyasası'nda işlem yapmak isteyen yatırımcılar, üye bankalardan ABN Amro, Alternatifbank, BNP Ak Dresder Bank, Denizbank, Finansbank, HSBC, Koçbank, Pamukbank, Tekstilbank, Türkiye Dış Ticaret Bankası, Türkiye Ekonomi Bankası, Garanti Bankası, İş Bankası ve Vakıflar Bankası ile Yapı ve Kredi Bankası'na başvurabilecekler. 
+     
+     İLGİ GÖRMEDİ 
+     Türkiye'de kur riskinden kaynaklanan olumsuzlukların giderilmesine katkıda bulunulması ve dövizin gelecekteki fiyatına ilişkin ekonomi aktörlerine yön gösterecek bir piyasanın oluşturulması amacıyla 15 Ağustos 2001 tarihinde açılan İMKB Vadeli İşlemler Piyasası, ilgi görmedi. Yaklaşık 2.5 yılda sadece 22 işlem kaydedildi. 
+     İşleme açılan ilk sözleşme, Amerikan Doları üzerine düzenlenen, fiyatların Türk Lirası TL olarak girildiği ve takas işlemlerinin de Türk Lirası üzerinden yapıldığı 27 Eylül 2001 vadeli işlem futures sözleşmesi oldu. 
+     Dövizde yaşanan dalgalanmalardan olumsuz etkilenen piyasada, 2001 yılında, 20 işlemde TL bazında 4 trilyon 31 milyar 600 milyon liralık, dolar bazında 2.6 milyon dolarlık işlem hacmi gerçekleşti. 
+     2002 yılında daha da gerileyen piyasada, işlem sayısı 2'ye, TL bazındaki işlem hacmi 560 milyar liraya, dolar bazında 400 bin dolara geriledi. 
+     İMKB verilerine göre, Vadeli İşlemler Piyasası'nda bu yıl hiç işlem gerçekleşmedi. 
+     
+</TEXT>
+</DOC>

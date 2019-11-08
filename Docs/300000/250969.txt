@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 250969 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/25/son/sonyas08.html </URL>
+<DATE> 2004/06/25/ </DATE>
+<TIME> 13.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kanser'in neden yayıldığı çözülüyor... 
+</HEADLINE>
+<TEXT>
+
+     Amerikalı bilim adamları, bazı kanser türlerinin neden yayıldığını ortaya çıkardılar. 
+     ''Cell'' dergisinin bugün yayımlanan sayısındaki habere göre, Cambridge'deki Whitehead Enstitüsü'nde görevli bilim adamı Robert Weinberg ve ekibi, ''Twist'' isimli bir proteinin kanserin yayılmasında kilit rol oynadığını tespit etti. Bu proteini üreten tümör hücrelerinin, ana tümörden ayrılarak, vücudun başka bölgelerinde tümör oluşturabildiği belirtildi. 
+     Metastaz oluşmasına neden olan ''Twist'' proteinini üreten genin normalde sadece embriyonal dönemde aktif olduğunu kaydeden bilim adamları, Twist üreten hücrelerin, bulundukları bölgeden ayrılıp başka yerlerde doku oluşturabildiğini ifade ettiler. 
+     Twist geninin kısa bir süre aktif halde olduğunu ve daha sonra ömür boyu devre dışı kaldığını söyleyen bilim adamları, kanser hücrelerinin Twist genini aktif hale getirebildiğini, Twist proteinini ürettikten sonra da ''gezintiye çıktığını'' kaydettiler. Bilim adamları, kanser hücrelerinin bu geni nasıl aktif hale getirdiğini henüz bilmediklerini ifade ettiler. 
+     Araştırma başkanı Weinberg, metastaz hücrelerinde hangi genlerin aktif olduğunu araştırdıklarını belirterek, Twist geninin bu hücrelerde aktif olduğunu, yayılmayan tümörlerde ise aktif olmadığını tespit ettiklerini söyledi. 
+     Daha sonra meme kanseri olan farelerden metastaz hücrelerini alarak, buradaki Twist genini devre dışı bıraktıklarını anlatan Weinberg, tekrar farelere yerleştirilen bu kanser hücrelerinin vücutta yayılmadığını belirtti. 
+     Weinberg, Twist geninin insanlardaki metastaz oluşumunda da rol oynadığını belirlediklerini kaydetti. 
+     Bilim adamları, bu buluş sayesinde kanserin yayılmasını önleyecek ilaçlar geliştirmeyi planlıyorlar. 
+     
+</TEXT>
+</DOC>

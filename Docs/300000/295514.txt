@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 295514 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/07/son/soneko01.html </URL>
+<DATE> 2004/12/07/ </DATE>
+<TIME> 02.06 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones sanayi endeksi 10,547.95 puandan kapandı 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacminde dünyanın en büyük borsası New York Wall Street'in Dow Jones Sanayi Endeksi, haftanın ilk işlem gününün son seansını 44.26 puan düşüşle binde 4,2 10,547.95 puandan noktaladı. 
+     Teknoloji ortaklıklarının ibresi Nasdaq Birleşik Endeksi ise 3.09 puan artışla binde 1,4 2,151.05 puandan kapandı. 
+     Petrol fiyatları nispeten yükselirken, Wall Street'de yüksek değerdeki hisse senetleri az değer kaybetti ilaç firması Pfizer ile alüminyum üreticisi Alcoa'nın hisse senetleri borsa simsarlarının hareketiyle değer yitirdi. 
+     New York Borsası, haftanın ilk işlem gününe düşüşle başladı. 
+     Borsanın ilk seans dakikalarında Dow Jones Sanayi Endeksi 10,575.44 puana, Nasdaq endeksi ise 2,147.61 puana indi. 
+     ABD Doları'nın gerilemeyi sürdürmesi yanında petrol fiyatlarının tekrar yükselişe geçmesi, borsanın düşüşle açılmasında etkili oldu. 
+     
+</TEXT>
+</DOC>

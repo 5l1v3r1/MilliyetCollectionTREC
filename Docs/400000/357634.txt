@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> 357634 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/02/son/soneko09.html </URL>
+<DATE> 2005/07/02/ </DATE>
+<TIME> 13.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İlk ayda ayda yatırım araçları ne kazandırdı .. 
+</HEADLINE>
+<TEXT>
+
+     Yılın ilk yarısında borsa, yatırım fonları, banka faizi ve repo ile tahvil ve bonoya yatırım yapanlar sınırlı da olsa kazançlı çıktı. 
+     Altın-döviz yatırımcısı ise yılın ilk yarısını kayıpla tamamladı. Tahvil-bono, banka faizi ve repoda parasını değerlendirenler ilk 6 ay sonunda 6-11 aralığında değişen oranlarda getiri sağladılar. 
+     Ocak ayında ortalama yüzde 9.45'lik artışla 2005 yılına başlayan Borsa, Şubat ayında da ortalama yüzde 3.90 oranında yükseldi. Mart ayında yüzde 10.00 oranında değer gerileyen borsada Nisan ayında da yüzde 7.69'luk kayıp yaşandı. İlk yarının son iki ayında yükselişe geçen Borsa'da Mayıs ayının getirisi yüzde 6.97, Haziran ayının getirisi de yüzde 6.82 oldu. 
+     İlk 6 ay boyunca İMKB Ulusal-100 Endeksi 1,985.64 puan artarak 24,971.68 puandan 26,957.32 puana çıttı. Hisse senetlerinin ilk 6 aydaki ortalama değer artışı yüzde 7.95 oldu. 
+     Altın ve dövize baktığımızda ise, 24 ayar külçe altının gram satış fiyatı 2005 yılının ilk 6 ayında yüzde 1.57, Cumhuriyet altınının satış fiyatı da yüzde 1.92 oranında düştü. Dövizde ABD Doları'nın 6 aylık düşüşü yüzde 1.33'te kalırken, avro Türk Lirası karşısında yüzde 12.45 değer yitirdi. 
+     Bankalar ve aracı kurumlar tarafından oluşturulan yatırım fonlarına katılma belgelerine yatırım yapanlar da 6 ay sonunda ortalama yüzde 6.07 oranında kazanç sağladılar. A tipi fonlardaki 6 aylık ortalama artış yüzde 3.03'te kalırken, B tipi fonlardaki ortalama artış yüzde 6.78'i buldu. 
+     
+     TAHVİL-BONO 
+     İMKB Tahvil ve Bono Piyasası'nda 2004 sonunda yüzde 16-21 dolayında olan ortalama faizler 2005 yılı Haziran sonunda yüzde 12-17 seviyelerine geriledi. 
+     İMKB Tahvil ve Bono Piyasası'nda 6 aya kadar vadeli kağıtların ortalama getirisi 2004 sonunda yüzde 19.0 seviyelerinde bulunuyordu. İlk 6 ayın sonuda ise bu oran yüzde ortalamada yüzde 15.0'in altına geriledi. 2004 sonundaki bu orandan yola çıkılarak yapılan hesaplamada tahvil-bononun 6 aylık getirisi yüzde 9.54 dolayında gerçekleşti. 
+     31 Aralık 2003 bazlı İMKB DİBS Devlet İç Borçlanma Senetleri Endeksleri dikkate alınarak yapılan hesaplamalarda bunun biraz üstünde gerçekleşen sonuçlara ulaşılıyor. 
+     İskontolu DİBS'lerden oluşan portföyün eşit ağırlıklı ortalama getirisini yansıtan Eşit Ağırlıklı Genel Endeks 2005 yılı ilk 6 ayı boyunca yüzde 10.71 oranında arttı. 
+     İskontolu DİBS'lerden oluşan portföyün piyasa değeri ağırlıklı ortalama getirisini yansıtan Piyasa Değeri Ağırlıklı Genel Endeks ise 6 ay boyunca yüzde 11.02 oranında artış gösterdi. 
+     
+     FAİZ, REPO 
+     İlk 6 ay boyunca, mevduat faizlerine baktığımızda düşüş eğiliminin sürdüğü gözlendi. 2004 yılı sonunda 6 aylık vadede yüzde 18-22 aralığında seyreden oranlar 2005 Haziran sonunda 15-18 aralığına geriledi. 
+     Yatırımcıların parasını 6 ay vadeli mevduat faizinde değerlendirdiklerini varsaydığımızda 6 ay sonunda elde edilen net getiri yüzde 8.85 dolayında oldu. 1 yıl vadeli mevduat faizinin 6 aya düşen net getirisi de yüzde 8.9 ile bunun biraz üzerinde gerçekleşti. 
+     İMKB Repo Ters Repo Pazarında oluşan ortalama oranlar üzerinden 2005 yılının ilk 6 ayı boyunca parasını sürekli repoda değerlendiren yatırımcının kazancı yüzde 6'nın biraz üzerinde gerçekleşti. 
+     31 Aralık 2003 bazlı İMKB DİBS Devlet İç Borçlanma Senetleri Endeksleri kapsamında hesaplanan Repo Endeksi'ndeki 6 aylık artış yüzde 6.28'de kaldı. Haftalık repoda gerçekleşen net getirilerden yola çıkılarak hesaplanan ilk 6 aylık birikimli repo getirisi ise yüzde 6.32 ile buna yakın bir oranda gerçekleşti. 
+     
+</TEXT>
+</DOC>

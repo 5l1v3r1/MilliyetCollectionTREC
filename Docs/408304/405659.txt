@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 405659 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/22/son/soneko12.html </URL>
+<DATE> 2005/12/22/ </DATE>
+<TIME> 10.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tüketici Güven Endeksi arttı... 
+</HEADLINE>
+<TEXT>
+
+     Tüketici Güven Endeksi, bu yılın Kasım ayında, bir önceki aya göre 1.4 puan yüzde 1.51 artarak 99.5'e çıktı. Endeks, Ekim ayında 98.1 düzeyindeydi. 
+     Güven endeksindeki artış, ''tüketicilerin mevcut dönem ve gelecek dönem satın alma güçlerine, gelecek dönem iş bulma olanakları ile mevcut dönemin dayanıklı tüketim malı satın almak için uygunluğuna dair değerlendirmelerinin iyileşmesinden'' kaynaklandı. 
+     Türkiye İstatistik Kurumu TÜİK ile Merkez Bankası tarafından her ay ortaklaşa düzenlenen ve tüketicilerin harcama davranış ve beklentilerinin değerlendirildiği ''Tüketici Eğilim Anketi''nin, Kasım ayı sonuçları açıklandı. 
+     Endeksin alt kalemleri ve değişim oranlarına bakıldığında ise mevcut dönemde satınalma gücü endeksi, Ekim ayına göre artarak 88'den 88.8'e çıktı. 
+     Gelecek dönem satın alma gücü endeksi ise 91.3'den 92.5'e, mevcut dönemin dayanıklı tüketim malı satın alma için uygunluğu endeksi 126.6'dan 131'e, gelecek dönem iş bulma olanakları endeksi de 88.5'den 89.7'ye yükseldi. Gelecek dönem genel ekonomik durum endeksi ise 96'dan 95.7'ye geriledi. 
+     Endeksin 100'den büyük olması tüketici güveninde iyimser durum, 100'den küçük olması tüketici güveninde kötümser durum, 100 olması ise tüketici güveninde ne iyimser ne de kötümser durum olduğunu gösteriyor. 
+     
+</TEXT>
+</DOC>

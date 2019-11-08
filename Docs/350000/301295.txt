@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 301295 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/27/son/soneko42.html </URL>
+<DATE> 2004/12/27/ </DATE>
+<TIME> 16.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft Türkiye'den Merkez'e atama... 
+</HEADLINE>
+<TEXT>
+
+     Microsoft Türkiye Yazılım Geliştirme Grup Müdürü Murat Özturan, Microsoft Uluslararası İş Ortağı takımına Teknoloji Geliştirme Müdürü olarak atandı. 
+     Microsoft Türkiye'den yapılan açıklamada, 11 yıldır Microsoft bünyesindeki tüm teknik kademelerde görev yapan Özturan'ın, şirketin ABD Redmond'da bulunan merkezindeki yeni görevine Ocak 2005'te başlayacağı bildirildi. 
+     Özturan'ın yeni görevi olan Teknoloji Geliştirme Müdürlüğü Technology Development Manager-TDM , şirketin stratejik iş ortaklarından Accenture ile çözüm üretme ve ürün grupları çalışmalarının dünya çapında teknik koordinasyonunu kapsıyor. 
+     Microsoft Türkiye'nin kuruluş yılı olan 1993'te Kuzey Afrika ve Türkiye bölge ofisinde yazılım teknolojilerinden sorumlu satış mühendisi olarak göreve başlayan Özturan, bir yıl sonra tayin olduğu Güney Afrika'da 5 yıl süresince çeşitli destek, satış ve danışmanlık görevlerinde bulundu. 
+     1999'da Microsoft Türkiye Danışmanlık Organizasyonu'na dönen Özturan, Microsoft Türkiye Çözüm Geliştirme Grubu Müdürü olarak da çalıştı. 
+     Murat Özturan, Indiana University of PA'de Bilgisayar Bilimleri Bölümü'nden mezun olduktan sonra 1991 yılına kadar Paris Renault'da, 1993'te Microsoft'a katılmadan önce de Pamukbank Bilgi İşlem Bölümü'nde analist programcı olarak çalıştı. 
+     
+</TEXT>
+</DOC>

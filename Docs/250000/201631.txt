@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 201631 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/12/son/soneko47.html </URL>
+<DATE> 2003/12/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Küreselleşen internet, beklenmedik sorunları da getiriyor 
+</HEADLINE>
+<TEXT>
+
+     Küreselleşen internet beklenmedik sorunları da beraberinde getirirken, Birleşmiş Milletler'in BM kalkınmakta olan dünyayı teknolojiye hazır ülkelere dönüştürme gayreti kısmen geri tepebilecek. 
+     BM'in dijital bölünmenin giderilmesini hedefler enformasyon teknoloji zirvesi katılımcılarına göre, bu işin öngörülemez sonuçlarının da kaal'e alınması gerekiyor. 
+     Konunun uzmanları, dijital bölünmenin aşılması hususundaki sorunlar arasında, mesela, bilgisayar virüsleri ya da diğer çeşitli sahtekarlık, hilekarlık biçimlerinin kalkınmakta olan ülkelere hiç engelsiz gelmekte oluşunu saydı. 
+     Teknolojiye sahip olanlar ile olmayanlar arasındaki uçurumu kapamak için 1990'ların sonlarında başlatılan seferberlik yavaş, fakat devamlı, istikrarlı ilerliyor. 
+     BM'in hedefi hayati enformasyona erişimi geliştirip yeni teknolojiler kullanarak yoksulluğun kökünü kazımak ve istikrarlı devlet demokrasileri yaratımına katkıda bulunmak. 
+     Hindistan ve Nepal'deki yoksul topluluklar interneti etkin, verimli kullanarak tarımcılık, eğitim ve sağlıkta başarı öyküleri yazdı. Fakat, teknolojideki ilerlemenin bazı tahmin edilmeyen sosyal sonuçları da var, mesela, herkes için anlaşılmaz dillerde yazılan haberlerden pek az kişinin haberdar oluşu gibi. 
+     Kimi çevreler de, İngilizcenin hakim olduğu interneti, şayet gezegenimizin çeşitliliğini yansıtamazsa potansiyel bir tehdit olarak görüyor. Gezegenimizin zengin dil ve kültür çeşitliliğinin devamı için enformasyon toplumunun kullanımının önemine değinmeden geçmek mümkün değil. 
+     Bilgisayar yazılımcılarından spesifik ihtiyaçlar için biçimlendirilebilecek halde yerel dile aktarılabilecek açık-kaynak yazılım programları ya da müşteriye uygun bilgisayar uygulamalarını benimsemeleri isteniyor. Açık-kaynak yazılım programları kalkınmakta olan ülkelerdeki bazı okullar için işletimi son derece karmaşık ve birşey yanlış giderse, yardım alınabilecek destek elemanları yok ortada. Daha ayrıntılı bilgi için 
+     rm bernhard.warner.reuters.com reuters.net Email Bernhard.Warner Reuters.com SchoolNetAfrica www.schoolnetafrica.net 
+     
+</TEXT>
+</DOC>

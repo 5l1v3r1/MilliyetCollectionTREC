@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 403491 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/14/son/sontur44.html </URL>
+<DATE> 2005/12/14/ </DATE>
+<TIME> 18.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Çalıntı cep telefonları yarın susuyor 
+</HEADLINE>
+<TEXT>
+
+     Telekomünikasyon Kurumu, kaçak ve kayıt dışı cep telefonlarının çok büyük bir kısmının kayıt altına alındığını açıkladı. Kara listeye alınan çalıntı ve kayıp cep telefonlarının yarından itibaren kullanıma kapatılacağı bildirildi. 
+     Telekomünikasyon Kurumu tarafından yapılan açıklamada, yasal yollarla ithal edilmediği yada elektronik kimlik bilgisinin kopyalanmış olduğu tespit edilen kayıt dışı telefonların, kayıt altına alınma işleminin dün bittiği hatırlatıldı. Açıklamada, kayıt altına alma süresinin bitiminde Telekomünikasyon Kurumu Başkanı Tayfun Acarer, Kurul 2’nci Başkanı Galip Zerey, yetkililer ve GSM işletmecilerinin bir araya gelerek durum değerlendirmesi yaptığı kaydedildi. 
+     
+     ÇALINTI TELEFONLAR YARINDAN İTİBAREN KULLANIM DIŞI 
+
+     Savcılıklara ve Telekomünikasyon Kurumu’na yapılan kayıp ve çalıntı ihbarları doğrultusunda bir kara listenin oluşturulduğu kaydedilen açıklamada, listede yer alan telefonların yarından itibaren kullanıma kapatılmaya başlanacağı belirtildi. 
+     GSM işletmecilerinden alınan bilgilere göre kayıt dışı telefonların büyük kısmının kayıt altına alındığı belirtilen açıklamada, mesaj yoluyla ve işletmelere doğrudan yapılan başvuruların değerlendirmesine devam edildiği kaydedildi. 
+     Açıklamada, kayıt altına alınmayan telefonların toplam cep telefonları içinde düşük bir orana sahip olduğu belirtilerek, bunların da çoğunun eski ve kullanılmayan telefonlar olduğu bildirildi. 
+     Açıklamada, kayıt altına alma işlemi için SMS ve doğrudan yapılan başvuruların değerlendirilmesinin sürdüğü belirtildi. 
+     
+     İNTERNETTE KAYIT GÜNCELLENDİ 
+
+     Mobil İletişim Sistemleri ve Araçları İş Adamları Derneği MOBİSAD ise yaptığı bir açıklamayla, imei kayıt hatalarından ve ithalatçılar tarafından eksik bilgilendirmeden kaynaklanan problemlerin giderildiği kaydedildi. Açıklamada, önemli sorunlar yaşanmasına neden olan www.imei.tk.tr internet adresinin güncellendiği kaydedilerek, 1 Ekim’den itibaren resmi yollarla ithal edilen cep telefonu bilgilerinin sisteme kaydedildiği belirtildi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 326184 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/23/son/sondun13.html </URL>
+<DATE> 2005/03/23/ </DATE>
+<TIME> 08.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tayvan'da deprem 
+</HEADLINE>
+<TEXT>
+
+     Tayvan'da, Richter ölçeğine göre 4.8 büyüklüğünde deprem meydana geldiği bildirildi. 
+     Tayvan'ın kuzeydoğusunu sallayan depremde can veya mal kaybı olup olmadığına ilişkin henüz bir bilgi bulunmuyor. 
+     Depremin merkez üssünün, başkent Taipei'ye 90 kilometre uzaklıktaki Nanao kenti olduğu bildirildi. 
+     Tayvan'da 1999 yılının eylül ayında meydana gelen 7.6 büyüklüğündeki depremde 2300'den fazla insan ölmüştü. 
+     
+</TEXT>
+</DOC>

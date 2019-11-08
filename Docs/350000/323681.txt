@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 323681 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/14/son/soneko38.html </URL>
+<DATE> 2005/03/14/ </DATE>
+<TIME> 17.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dolar yükseldi 1.2940 YTL 
+</HEADLINE>
+<TEXT>
+
+     Dolar, serbest piyasada haftanın ilk işlem gününde yükseldi. 
+     Kapalıçarşı'da Cuma günü 1,2620 YTL alış, 1,2670 YTL satış fiyatıyla kapanan dolar, bugün 1,2650 YTL alış, 1,2750 YTL satış fiyatıyla açıldı. 
+     Amerikan Doları'nın satış fiyatı, kapanış itibariyle alışta 1,2880 YTL, satışta ise 1,2940 YTL'den işlem gördü. 
+     İstanbul ve Ankara serbest piyasalarında alınıp satılan döviz türlerinin, Cuma ve bugün itibariyle alış ve satış kapanış fiyatları şöyle 
+     
+
+İSTANBUL SERBEST PİYASA Cuma Alış Cuma Satış Pazartesi Alış Pazartesi Satış ABD Doları 1.2620 1.2670 1.2880 1.2940 Avro 1.6940 1.7000 1.7230 1.7300 İng. Sterlini 2.4120 2.4400 2.4500 2.4850 İsviçre Frangı 1.0850 1.0950 1.1000 1.1150      
+
+ANKARA SERBEST PİYASA Cuma Alış Cuma Satış Pazartesi Alış Pazartesi Satış ABD Doları 1.2630 1.2730 1.2840 1.2960 Avro 1.6940 1.7070 1.7200 1.7330 İng. Sterlini 2.4100 2.4500 2.4460 2.4820      
+</TEXT>
+</DOC>

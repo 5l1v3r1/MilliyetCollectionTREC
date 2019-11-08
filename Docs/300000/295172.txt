@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 295172 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/06/son/soneko30.html </URL>
+<DATE> 2004/12/06/ </DATE>
+<TIME> 11.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Apple'ın yeni ürünü Türkiye pazarında... 
+</HEADLINE>
+<TEXT>
+
+     Apple'ın Türkiye distribütörü Bilkom, kişisel bilgisayar Power Mac G5'i Türkiye pazarına sundu. 
+     Bilkom'dan yapılan açıklamada, Apple tarafından üretilen çift işlemcili Power Mac G5'in tasarımcılar, video ve ses yapımcıları, bilim adamları, araştırmacılar, oyun geliştiricileri gibi yoğun işlemci kullanımına ihtiyaç duyan kişiler ve şirketler için bir çözüm olabileceği kaydedildi. 
+     Power Mac G5 ürün grubu, çift işlemcili olmak üzere 1.8GHz, 2.0 GHz ve 2.5 GHz kapasiteli üç konfigürasyondan oluşuyor. Fiyatlar, işlemcilerine göre 2.449, 2.899 ve 3.449 Euro artı KDV olarak belirlendi. 
+     Tüm modellerde, DVD yazabilen SuperDrive DVD-R CD-RW , bir adet FireWire 800, üç adet FireWire 400 portu, üç adet PCI genişleme yuvası, ADC çıkışı, DVI çıkışı, analog ses girişi, analog ses çıkışı, optik S PDIF giriş, optik S PDIF çıkış, ön kulaklık çıkışı, hoparlör çıkışı ve yerleşik Gigabit Ethernet bulunuyor ve modellere, AirPort Extreme ve Bluetooth eklenebiliyor. 
+     
+</TEXT>
+</DOC>

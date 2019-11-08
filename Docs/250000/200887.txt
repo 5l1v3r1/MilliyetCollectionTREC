@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 200887 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/09/son/soneko36.html </URL>
+<DATE> 2003/12/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones 10 bin puan sınırını aştı 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası'nın temel göstergelerinden Dow Jones Endeksi 18 ay sonra yeniden psikolojik önem taşıyan 10 bin puan sınırını aştı. 
+     Borsanın açılışından itibaren yükselişe geçen endeks, ilk saat dolmadan düne göre 37.85 puan artarak 10,003.12 puana ulaştı. 
+     Endeks daha sonra yeniden 9,986.38 puana indiyse de 31 Mayıs 2002'den buyana ilk kez psikolojik 10.000 puan sınırını aşması simgesel bir önem taşıyor. 
+     Dow Jones Endeksi, ulaşılamaz sınır gibi görülen 10,000 puan sınırını tarihinde ilk kez 1999 Mart ayında aşmış ve tarini 11 Eylül 2001 saldırılarına dek genellikle bu düzeyin üzerinde seyretmişti. 
+     11 Eylül saldırılarından sonra bu sınırın altına inen endeks, daha sonra zaman zaman bu sınırı aşmışsa da uzun süre bu noktada duramamış ve 10.000 puan seviyesinin üzerine en son 31 Mayıs 2002'de çıkmıştı. 
+     
+</TEXT>
+</DOC>

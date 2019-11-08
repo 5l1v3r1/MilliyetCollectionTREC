@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 60544 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/01/04/son/sondun01.html </URL>
+<DATE> 2002/01/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hacker'lar gözünü ev bilgisayarlarına dikti 
+</HEADLINE>
+<TEXT>
+
+     Büyük şirketlerin bilgisayar sistemleri üzerinde yeteneklerini test etmekten tatmin olan şifre kırıcıların hacker , şimdi de gözlerini ev bilgisayarlarına çevirdikleri belirtiliyor. 
+     Helsinki'deki virüslerle mücadele şirketi F-Secure'dan Mikko Hypponen, birkaç yıl önce ev bilgisayarlarının ilgi çeken hedefler arasında olmadığını, ancak artık bunun değiştiğini söyledi. 
+     Carneige Mellon Üniversitesi Bilgisayar Acil Durum Cevap Ekibi CERT Koordinasyon Merkezi de, ev bilgisayar kullanıcılarının bu tür saldırılara karşı en az hazırlıklı kesim olduğunu belirtti. 
+     Böylece ''hacker''ların, insanların kişisel bilgisayarlarında kayıtlı bilgiyi tahrip edebilecekleri ve bu bilgisayarları Web sitelerine ya da sahiplerinin arkadaşlarına saldırmakta kullanabileceklerine dikkat çekiliyor. 
+     Uzmanlar, ''hacker''ların ev bilgisayarlarına göz dikmelerini çeşitli faktörlere bağlıyorlar. Bunlar arasında, artık çoğu ev bilgisayarının işyerlerindekiler gibi güçlü olması, giderek daha çok bilgisayarın internete bağlanması, pek çok kullanıcının internet tehditlerinden haberdar olmaması gösteriliyor. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

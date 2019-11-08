@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 362867 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/20/son/sonyas02.html </URL>
+<DATE> 2005/07/20/ </DATE>
+<TIME> 08.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayar satışları yılın ikinci çeyreğinde yüzde 16,6 arttı... 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayar şirketleri arasındaki pazar kapma savaşının düşürdüğü fiyatlar yüzünden artan taleple, 2005 yılının ikinci çeyreğinde satışların geçen yılın aynı dönemine göre yüzde 16,6 arttığı bildirildi. 
+     Enformasyon teknolojileri piyasasına dair yaptığı analizlerle bilinen Uluslararası Veri Şirketi’nin IDC araştırmasına göre, bilgisayar sektörünün lideri durumundaki Dell’in aynı dönemdeki satış rakamı yüzde 23,7 artarken, Dell’i yüzde 16,3’lük artışla Hewlett Packard HP takip etti. Toplamda ise söz konusu artışın son 5 yılda kaydedilen en büyük artış olduğu belirtildi. 
+     IDC’den farklı değerlendirme kıstasları uygulayan diğer bir teknoloji piyasası araştırma şirketi olan Gartner ise Nisan-Haziran ayları arasında bilgisayar satışındaki artışın yüzde 14,8 olduğunu açıkladı. 
+     IDC, bilgisayar satışlarının 2000 yılının üçüncü çeyreğinde kaydedilen yüzde 18,9’luk artıştan bu yana gerçekleşen en büyük artış olduğuna dikkat çekti. IDC’nin daha önce yaptığı tahminlerde yılın ikinci çeyreği için öngördüğü büyüme oranının yüzde 12,3 olduğu, ancak bu oranın aşıldığı belirtildi. 
+     IDC, artıştaki temel faktörleri masa üstü bilgisayarların düşük maliyetli olması ve diz üstü bilgisayarların artık daha alınabilir fiyatlara ulaşması olarak saydı. Bu arada, ABD’deki bilgisayar satış rakamları yüzde 11,7 artarken, Avrupa, Ortadoğu ve Afrika’ya yapılan satışlardaki artışın ise yüzde 20’yi bulduğu ifade edildi. 
+     Sektörün lideri konumunda olan ve merkezi Texas’ta bulunan Dell’in pazar payının yüzde 19,3, Kaliforniya merkezli Hewlett Packard’ın yüzde 15,6, IBM’in yüzde 7,6, Acer’ın yüzde 4,4, Fujitsu Siemens’in ise yüzde 3,7 olduğu kaydediliyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 233981 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/22/son/sonyas17.html </URL>
+<DATE> 2004/04/22/ </DATE>
+<TIME> 11.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+''Söz dinleyen'' kredi kartı... 
+</HEADLINE>
+<TEXT>
+
+     Kullanıcısının sesini tanıyan yeni bir kredi kartı geliştirildi. 
+     ''New Scientist'' dergisinde yayımlanan habere göre, ABD'nin Santa Monica kentindeki ''Beepcard'' şirketinde görevli mühendisler, içinde hoparlör, mikrofon, pil ve ses tanıma çipi olan kredi kartı üretmeyi başardılar. 
+     Ses tanıma çipi sayesinde kredi kartının başkaları tarafından kullanılmasının engelleneceği belirtilen haberde, kredi kartının kullanıcısı tarafından söylenen şifreyle çalıştığı kaydedildi. 
+     Haberde, böylece dolandırıcıların şifreyi bilseler dahi kartı kullanamayacakları ifade edildi. 
+     Kartın içindeki pilin ömrünün, günde 10 kullanım ile 2 yıl olduğu belirtildi. 
+     Haberde, kartın normal bir kredi kartı büyüklüğünde, fakat 3 kat daha kalın olduğu kaydedildi. 
+     Beepcard şirketinin yöneticisi Alan Sege, ileride daha incelerini geliştirmeyi hedeflediklerini söyledi. 
+     
+</TEXT>
+</DOC>

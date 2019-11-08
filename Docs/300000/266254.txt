@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 266254 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/25/son/soneko01.html </URL>
+<DATE> 2004/08/25/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones yükseldi, Nasdaq düştü... 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacminde dünyanın en büyük borsası New York Wall Street, sanayi endeksinde yükselişle başladığı günü yükselişle noktaladı. 
+     Wall Street'in Dow Jones Sanayi Endeksi günün son seansını 241.48 puan artışla 10,097.60 puandan teknoloji şirketleri ibresi Nasdaq Birleşik Endeksi de 1.81 puan düşüşle 1,836.89 puandan kapadı. 
+     Dow Jones'un yükselişinde Caterpillar firmasının hisseleri etkili oldu. 
+     Wall Street Borsası yükselişinde, geçen haftalarda rekor artışlar gösteren petrol fiyatlarının bir ölçüde gerileme göstermesinin getirdiği iyimserlik de etki gösterdi. 
+     
+</TEXT>
+</DOC>

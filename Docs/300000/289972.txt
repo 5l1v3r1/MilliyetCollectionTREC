@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 289972 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/18/son/sonyas17.html </URL>
+<DATE> 2004/11/18/ </DATE>
+<TIME> 10.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Beyindeki pıhtıyı ultrasonla çözdüler 
+</HEADLINE>
+<TEXT>
+
+     Amerikalı uzmanlar, beyin damarlarındaki pıhtıları ilaç destekli ultrasonla çözmeyi başardı. 
+     Houston üniversitesinden nöroloji profesörü Andrei Alexandrov başkanlığındaki doktor ekibi, beyin damarlarında rahatsızlık olan 126 kişiyi t-PA adlı ilaç ve ultrasonla tedavi etti. 
+     Alexandrov, ''Beyindeki pıhtı yüzünden rahatsızlananlarda ultrason ve t-PA ile tedavinin yararını ilk kez tıbben gösterdik'' dedi. 
+     T-PA'nın, damar cidarına yapışan pıhtının çözülmesine katkıda bulunan ''plasminojen'' proteinini harekete geçirdiğini belirten profesör, ''Bu yöntemle beyindeki kan akışının düzeldiğini ve hastanın iyileştiğini'' makalesinde belirtti. 
+     Profesöre göre ses dalgaları, pıhtılaşmış yapıların iç ve dış yüzeyindeki molekülleri titreştirerek, t-PA'nın çözücü etkisini artırıyor. 
+     Alexandrov, bu yöntemle tedavi edilen hastaların yarısında, tedaviden sonraki iki saat içinde pıhtının hemen hemen tamamen yok olduğunu ve iyileşme kaydedildiğini vurguladı. Sadece t-PA ile tedavi edilen hastalarda ise bu oran yüzde 30'da kaldı. Her iki grupta beyin kanaması geçirenlerin oranı ise yüzde 4,8 oldu. 
+     
+</TEXT>
+</DOC>

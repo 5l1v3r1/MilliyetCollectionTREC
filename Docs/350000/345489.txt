@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 345489 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/24/son/sonyas13.html </URL>
+<DATE> 2005/05/24/ </DATE>
+<TIME> 12.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Anne babaları rahatlatacak cep telefonu... 
+</HEADLINE>
+<TEXT>
+
+     Japonya’nın ikinci büyük cep telefonu operatörü KDDI, televizyon ile aileler için çocuklarının nerede olduklarını gösteren GPS sistemini bir araya getiren ve müzik parçalarını otomatik olarak tanıyan yeni bir hizmet başlatıyor. 
+     KDDI’den yapılan açıklamada, yeni hizmetlerden GPS Global Positioning System-Küresel Konumlandırma Sistemi verileri temelinde çalışan uygulamayla anne ve babaların çocuklarının nerede olduğunu öğrenebilecekleri belirtildi. 
+     Çocuklarda da bu sisteme uyumlu cep telefonu bulunmasını gerektiren yeni hizmette, aileler çocuklarının kentin neresinde bulunduğunu ekranlarındaki haritadan gerçek zaman içinde görebilecekler. 
+     Sistem ayrıca annne ve babalara tren istasyonu ve okul çıkışı gibi kilit noktalardan otomatik olarak kısa mesaj da gönderebilecek. 
+     İki numaralı Japon GSM şirketi KDDI ayrıca, mobil telefonlar için dijital televizyon yayını başlamadan önce interaktif verilere uyumlu analog TV alıcıya sahip yeni cep telefonu modellerini de sunacağını açıkladı. 
+     KDDI, radyo ya da televizyondan yayınlanacak bir müzik parçasını on saniye dinleme süresinden sonra otomatik olarak tanıyacak üçüncü yeni hizmetini de yakında başlatacağını duyurdu. İstenen müzik parçasının ücret karşılığında cep telefonuna yükleme işlemi de olanak dahilinde olacak. 
+     
+</TEXT>
+</DOC>

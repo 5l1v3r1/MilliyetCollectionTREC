@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 158675 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/24/son/soneko01.html </URL>
+<DATE> 2003/05/24/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi 
+</HEADLINE>
+<TEXT>
+
+     New York borsası, haftanın son gününü yükselişle kapadı. 
+     İlk hesaplamalara göre Dow Jones endeksi 7 puan yüzde 0,1 yükselerek 8601,38 puandan kapandı. Nasdaq endeksi de günü 2,54 puan artışla yüzde 0,2 1510,09'dan tamamladı. 
+     New York Borsası güne düşüşle başlamıştı. 
+     
+</TEXT>
+</DOC>

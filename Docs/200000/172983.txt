@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 172983 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/01/son/soneko01.html </URL>
+<DATE> 2003/08/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası'nda Dow Jones ve Nasdaq yükseldi 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Borsası'nda Dow Jones Sanayi Endeksi, 33.75 puan yükselerek günün son seansını 9,233.45 puandan kapadı. 
+     En ileri teknoloji ortaklıklarının ibresi Nasdaq Bileşik Endeksi de, 14.23 puan yükselerek 1,757.37 puandan kapandı. 
+     
+</TEXT>
+</DOC>

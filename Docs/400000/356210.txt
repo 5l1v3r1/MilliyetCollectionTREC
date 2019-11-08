@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 356210 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/28/son/soneko14.html </URL>
+<DATE> 2005/06/28/ </DATE>
+<TIME> 11.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İmar Bankası resmen iflas etti 
+</HEADLINE>
+<TEXT>
+
+     BDDK tarafından bankacılık yapma ve mevduat kabul etme izni 3 Temmuz 2003’te kaldırılarak Tasarruf Mevduatı Sigorta Fonu’da devredilen İmar Bankası’nın iflası resmen kararlaştırıldı. 
+     TMSF’nin, İmar Bankası’nın mevduatları için yaptığı ödeme üzerinden iflası istemiyle açtığı davaya bakan İstanbul İkinci Asliye Ticaret Mahkemesi, Bankanın iflasına karar verdi. 
+     TMSF, BDDK’nın bilançosunda çok daha az mevduat gözüktüğü için doğrudan tasfiye etmek yerine, bankacılık ve mevduat kabul etme yetkisini kaldırdığı, İmar Bankası’nın kayıt dışı olarak topladığı mevduatın tümünü ödemek zorunda kalmıştı. İmar Bankası’nda, geliştirilen bir bilgisayar yazılımıyla toplanan her 100 liralık mevduatın 20’sinin kayıtlarda gözüküp 80 lirasının ise kayıt dışı olduğu ortaya çıkmıştı. 
+     
+     8 KATRİLYON ÖDENDİ 
+     Söz konusu mevduatlar için 2004 sonuna kadar yapılan ödemeler 8 katrilyon lirayı bulurken, bu tutar bankaya el konulmadan bir ay önce off-shore’dan dönen hesaplar için ödeme yapılmayacağına yönelik yasa maddesiyle ilgili olarak Anayasa Mahkemesi’nin aldığı iptal kararının uygulanmasıyla daha da artacak. 
+     İmar Bankası, TMSF tarafından toplam 10 katrilyon 13 trilyon liralık zararla devralınmıştı. Ancak Maliye’nin çıkardığı vergi borçlarıyla birlikte zarar 16 katrilyon 822 trilyon liraya yükselmişti. 
+     İstanbul İkinci Asliye Ticaret Mahkemesi’nin TMSF’nin açtığı davada aldığı kararla birlikte İmar Bankası’nın iflası da açıldı. İmar Bankası’nın tasfiye işlemlerini, Bankalar Kanunu’nun 16 4’üncü maddesine dayanarak, Tasarruf Mevduatı Sigorta Fonu Tasfiye Dairesi Başkanlığı yürütecek. 
+     Başkanlık bu görevini, iflas dairesi sıfatıyla yapacak. 
+     
+</TEXT>
+</DOC>

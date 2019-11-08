@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 133664 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/01/28/son/soneko39.html </URL>
+<DATE> 2003/01/28/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+"Solucan" virüsü Türkiye'yi de etkiledi... 
+</HEADLINE>
+<TEXT>
+
+     Internette ortaya çıkan ''solucan'' virüsünün, Türkiye'nin ana internet omurgasında da yavaşlamalara yol açtığı bildirildi. 
+     Güvenlik firmalarından alınan bilgiye göre, çıkış kaynağı belirlenemeyen solucan, internet trafiğini yer yer durma noktasına getirdi. Kullanıcılar virüsün etkisini, web sitelerine bağlanamama, e-postalarını çok geç alma gibi biçimlerde yaşadılar. 
+     Sunucuların çalışma performansını etkileyen solucan, sunucuya bağlı Web servisleri, stok, muhasebe, müşteri bilgileri, sipariş, sevkıyat ve buna benzer her tür veritabanı bilgisine erişimde problem yaşanmasına neden oldu. 
+     Teknik olarak sunucunun çalışması tamamen durmamış olsa da bu virüsün bulaştığı sistem, kendisini başka sistemlere bulaştırmak için o kadar yoğun bir trafik üretmeye başladı ki sistem başka bir iş yapamaz hale geldi. 
+     Üretilen bu trafik, firmaların internet çıkışlarını çok fazla işgal ettiği için, e-posta uygulamaları veya diğer her tür internet çıkışı da dolaylı olarak etkilendi. 
+     Virüs, bulaştığı firmaların sistemlerinden rasgele adreslere yayılmayı denediği için, tüm internet trafiğinde ciddi bir yoğunluk yaşandı. Bu da dolaylı olarak internet kullanıcılarının tamamına sunulan servis kalitesinde düşüşe neden oldu. 
+     Solucanın, hafızada kalan bir virüs olduğu için, virüs yazılım firmalarının özel ürettiği program parçalarıyla temizlenebileceği bildirildi. 
+     Uzmanlar, gerekmiyorsa güvenlik duvarı sistemlerindeki UDP 1434 port'unun, güvenilmeyen sistemlere kapatılmasının gerekli olduğu ikazını yaptılar. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

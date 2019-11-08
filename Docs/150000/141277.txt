@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 141277 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/03/07/son/soneko43.html </URL>
+<DATE> 2003/03/07/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsaya iletilen emirlerde müşteri numaraları da kullanılacak... 
+</HEADLINE>
+<TEXT>
+
+     Sermaye Piyasası Kurulu SPK , borsaya iletilen emirlerde müşteri numaralarının girilmesini zorunlu hale getirdi. 
+     SPK'dan yapılan yazılı açıklamaya göre, uygulamayla İMKB ve SPK, borsada işlem yapıldığı anda o işlemin hangi şahsa ait olduğunu görecek. 
+     ''Borsa işlemlerinden kaynaklanan uyuşmazlıkların çözümünde büyük kolaylık sağlayacak bu uygulama, artık manipülatörlere göz açtırmayacak'' denilen açıklamaya göre, müşteri numarası ile bir şahsın bütün aracı kurumlardaki hesapları ile yapılan işlemler de kolayca tespit edilebilecek. 
+     Müşteri numarası uygulamasına İMKB'de 3 Mart 2003 Pazartesi günü başlanırken, SPK'nın dün yapılan toplantısında karara bağladığı iki yeni tebliğ değişikliğiyle, aracı kurumların müşterilerine hesap açmaları, hesap numarası vermeleri, müşteriler hesabına işlem gerçekleştirilecek vekillerin kimlik bilgilerinin tespit edilmesi, hesap numaralarının ve kimlik bilgilerinin Takasbank'a bildirilmesine ilişkin esaslar da tebliğlere eklendi. 
+     Bu değişiklikle yabancı kurumlar da, yerli aracı kurumlar gibi müşterilerinin kimlik bilgilerini gerektiğinde SPK'ya ibraz etmek zorunda kalacaklar. 
+     Ayrıca SPK'nın yaptığı yeni düzenlemeyle, bundan böyle vekaletler noterden verilmek zorunda olacak. Artık kişiler arasında, gayri resmi şekilde bir vekaletname düzenleyerek işlem yapma dönemi kapanacak. Bankalarda olduğu gibi noterde düzenlenmiş vekaletname olmadıkça hiçbir kimse başkasının hesabından işlem yapamayacak. 
+     Açıklamada, bu düzenlemelerin sermaye piyasalarında güveni artıracağı da kaydedildi. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

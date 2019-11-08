@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 250859 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/25/son/soneko35.html </URL>
+<DATE> 2004/06/25/ </DATE>
+<TIME> 17.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası'nda endeksler durgun açıldı... 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacmi bakımından dünyanın en büyük borsası konumunda olan New York'ta endeksler durgun açıldı. 
+     Açılıştan kısa bir süre sonra, Dow Jones Endeksi 2.51 puan azalarak 10,441.30 puana inerken, teknoloji endeksi Nasdaq 1.43 puan artarak 2,017 puana çıktı. 
+     Endekslerde görülen küçük değişimlere neden olarak ABD'de ekonomik büyümenin öngörülenin altında gerçekleşmesi ile ABD Merkez Bankası'nın gelecek hafta yapacağı ve faiz hadlerini gözden geçireceği toplantısı gösterildi. 
+     ABD Ticaret Bakanlığı tarafından hazırlanan bir rapora göre, ABD ekonomisi yılın ilk çeyreğinde öngörülenin altında çok yavaş büyürken enflasyon yükseldi. 
+     Raporda, ABD ekonomisinin 2004 yılının ilk çeyreği için daha önce yüzde 4.1 olarak açıklanan büyüme oranı, gözden geçirilerek yüzde 3.9 olarak belirlendi. 
+     
+</TEXT>
+</DOC>

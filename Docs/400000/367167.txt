@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 367167 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/04/son/sonyas12.html </URL>
+<DATE> 2005/08/04/ </DATE>
+<TIME> 10.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternette "şifre avcılarına" dikkat 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayar kullanıcılarının banka hesaplarının şifrelerini ele geçirme yöntemi olan "Phising", her geçen gün yayılıyor. Temmuz ayında yaklaşık 16 bin kişi, sanal korsanların hedefi oldu. 
+     AA muhabirinin derlediği bilgilere göre, sanal dünya için "Password Harvesting Fishing" cümlesinden türetilen ve şifre avcılığı anlamında kullanılan Phising yönteminden Temmuz ayı raporlarına göre yaklaşık 6 bin kişi zarar gördü. 
+     Spam göndericileri tarafından uygulanan bir yöntem olan Phising tekniğinde kullanıcıya gönderilen elektronik posta ile bilgilerini güncellemesi isteniyor ve posta içinde hazırlanmış kutulara ya da tıklanınca açılan gerçek görünümlü sahte sitedeki kutulara kullanıcı adı ve şifre gibi bilgilerini girmesi bekleniyor. 
+     Tecrübesiz bilgisayar kullanıcılarının hesaplarını ele geçiren sanal dünya korsanları, bu hesaplardan yüz binlerce doları değişik yöntemlerle kendi hesaplarına aktardılar. 
+     Phising Karşıtı Çalışma Grubu’nun yayınladığı raporda, "Phising" saldırılarının en çok ABD, Çin ve Kore’den yapıldığı belirtildi. 
+     
+</TEXT>
+</DOC>

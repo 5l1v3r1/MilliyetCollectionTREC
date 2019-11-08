@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 134676 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/02/03/ekonomi/eko08.html </URL>
+<DATE> 2003/02/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Aktif yönetim stratejileri 
+</HEADLINE>
+<TEXT>
+
+     DİDEM GORDON Koç Portföy Yönetimi AŞ Genel Müdürü 
+
+     Aktif yönetilen fonlar, piyasadaki kısa ve uzun vadeli beklentilere paralel olarak yönetilen, portföy yapısı sürekli revize edilen ve portföylerin verimini artırmak için piyasadaki dalgalanmalardan maksimum yararlanmaya çalışan fonlardır. Son yıllarda yüksek getirili aktif yönetilen fonların yanında düşük getirili aktif yönetilen fonların da bulunması ve pasif yönetilen fonların komisyonlarının daha düşük olması bu tip fonlara talebi artırmıştır. Aktif Yönetimi gerçekleştirilirken h kim olan görüş, piyasalarda yatırım yapılırken portföy yöneticisinin fiyatı düşük kaldığına inandığı hisse senetlerini, sektörleri veya diğer yatırım araçlarını seçebilme potansiyelinin ve dolayısıyla katma değerinin yüksek olduğu yolundadır. Bu konuda en başarılı örnekler arasında Warren Buffett, George Soros ve Peter Lynch’in yatırım tarzlarını gösterebiliriz. 
+     Aktif portföy yöneticileri iki ana süreçte yatırım kararlarını alırlar. Topdown ve bottomup . Topdown bakış açısında, yatırım kararı verirken birinci aşamada dünya piyasalarını etkileyebilecek global trendler ve makroekonomik göstergeler göz önüne alır. 
+     İkinci aşamada bu göstergelerden yola çıkarak, örneğin belirli bir ülkenin ekonomik göstergeleri analiz edilir, kur riskleri göz önüne alınır ve yatırım yüzdeleri belirlenir. Üçüncü aşamada ise yatırım yapılacak sektörler ve bu sektörler içerisindeki hisseler belirlenir. Bottomup bakış açısında ise öncelik spesifik enstrüman seçimindedir, sektörel, makroekonomik ve global trendler daha sonradan göz önüne alınır. 
+     Aktif portföy yöneticileri yukarıdaki bakış açıları ile yatırım kararları verirken, yatırım stilleri açısından üç gruba ayrılır. 
+
+</TEXT>
+</DOC>

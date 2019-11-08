@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 224793 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/23/son/soneko12.html </URL>
+<DATE> 2004/03/23/ </DATE>
+<TIME> 10.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Vatandaş e-devlete "tek kapıdan" girecek... 
+</HEADLINE>
+<TEXT>
+
+     Vatandaş, e-devlete 'tek kapıdan' girecek. 2005 yılı başında ihale edilecek projeyle, vatandaşın kamu ile ilgili işlerinin tümünü 'elektronik ortamda, tek sayfada' yapabilmesi hedefleniyor. 
+     e-devlet çalışmaları şimdiki durumda daha çok e-kurum şeklinde sürüyor, yani her kurum kendi alanı ile ilgili faaliyet gösteriyor. Bunun yanında, gümrük otomasyonu, VEDOP 1, TAKBİS ve MERNİS gibi projeler de tamamlanmış bulunuyor. 
+     Birbirinden bağımsız yürüyen projelere arasında kopukluk bulunurken, projeler gerçekleştirilirken kurumların birbirinden haberdar olması gerektiği vurgulanıyor. 
+     e-Devlet sisteminin standartları ile hukuki ve teknik güvenliğinin sağlanmasının da gerektiği ifade edilirken, bu konuyla ilgili koordinasyon görevini Devlet Planlama Teşkilatı DPT yürütüyor. 
+     
+     e-DEVLET CAS KAPSAMINDA 
+     e-Devlet çalışmaları Dünya Bankası ile yürütülen Ülke Yardım Stratejisi CAS kapsamına alınırken, Banka uzmanları ile yürütülen görüşmeler sırasında bu konuda neler yapılacağı da netleşti. 
+     Buna göre, vatandaşın, elektronik ortamda tek kapıdan bütün kamu işlemlerini yapmasını içeren projenin ihalesi 2005 başında gerçekleştirilecek. Gelecek yıl içinde projenin peyderpey hayata geçmesi beklenirken, projenin 30-35 milyon dolara mal olması bekleniyor. 
+     
+     YÜRÜYEN PROJELER 
+     Bu arada, e-devlet çalışmaları kapsamında şu anda yürüyen 206 adet irili ufaklı proje bulunurken, bunların proje maliyeti 938 milyon dolar olarak hesaplanıyor. Bu yıl için söz konusu projelere 272 milyon dolarlık ödenek ayrılmış durumda. 
+     Bu projeler için 2002 yılında 190 milyon dolar, 2003 yılında da 247 milyon dolar harcandı. 
+     
+</TEXT>
+</DOC>

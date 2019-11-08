@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 210661 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/23/son/soneko22.html </URL>
+<DATE> 2004/01/23/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Turkcell İstanbul'un bazı bölgelerinde aksaklık olabilir 
+</HEADLINE>
+<TEXT>
+
+     Turkcell, elektrik kesintilerinin yaşandığı İstanbul'un bazı bölgelerinde, cep telefonu abonelerinin iletişiminde aksaklıklar olabileceğini bildirdi. 
+     Turkcell'den yapılan açıklamada, yurt genelinde süren yoğun kar yağışı ve uzun süreli elektrik kesintilerine rağmen Turkcell abonelerinin iletişiminde önemli aksaklıklar veya kesilmeler yaşanmadığı belirtildi. 
+     Dünden beri devam eden elektrik kesintilerine karşın, santralların jeneratör desteğiyle, baz istasyonlarının ise aküler yettiği müddetçe hizmet verdiği kaydedilen açıklamada, devamla şöyle denildi 
+     ''Elektrik kesintilerinin dünden beri sürdüğü İstanbul'un Eminönü, Şile, Büyükçekmece, Çatalca ve Kağıthane semtlerinde iletişimde aksaklıklar olabilecektir. 
+     İstanbul'un Sarıyer, Büyükada, Kartal, Sultanbeyli, Ümraniye, Esenler, Gaziosmanpaşa ve Silivri bölgelerinde gün içerisinde elektrik kesintisinin devam etmesi nedeniyle de zaman zaman kesintiler yaşanabilecektir.'' İletişimin kesintisiz devam etmesiyle ilgili çalışmaların Turkcell tarafından yoğun bir şekilde sürdürüldüğü belirtilen açıklamada, bu bölgelerdeki iletişimi sağlamak amacıyla gezici jeneratörlerle destek verildiği duyuruldu. 
+     
+</TEXT>
+</DOC>

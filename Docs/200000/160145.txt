@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 160145 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/31/son/sondun01.html </URL>
+<DATE> 2003/05/31/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Pekin'de SARS'la mücadelede başarı sağlandı... 
+</HEADLINE>
+<TEXT>
+
+     Akut solunum yetmezliği sendromunun SARS ilk ortaya çıktığı Çin'in başkenti Pekin'de hastalıkla mücadelede başarı sağlandığı bildirildi. 
+     Pekin Belediyesi halkla ilişkiler yetkilisi Cai Fuchao, gösterilen başarıya rağmen, gevşemeyeceklerini ve hastalıkla mücadeleyi ara vermeksizin devam ettireceklerini söyledi. 
+     Cai, Mayıs ayının ilk haftasında 666 SARS vakası görüldüğünü, bu hafta ise 5 gün içinde rastlanan vaka sayısının sadece 65 olduğunu ifade etti. 
+     Pekin'deki Sağlık Bakanlığı yetkilisi Liang Wannian ise SARS vakalarında azalmanın, hükümetin hastalıkla mücadele için aldığı önlemler ve sttatejinin ne kadar doğuru, etkili ve zamanında olduğunu gösterdiğini belirtti. 
+     Pekin'de 30 Mayıs itibarıyla SARS'tan ölenlerin sayısı 177'ye vaka sayısı ise 2520'ye yükselmişti. 
+     
+</TEXT>
+</DOC>

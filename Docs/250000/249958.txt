@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 249958 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/22/son/soneko32.html </URL>
+<DATE> 2004/06/22/ </DATE>
+<TIME> 16.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa günü 32 puanlık kayıpla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Bileşik Endeksi 2. seansı 279.91 puan gerileyerek, 16,752.76 puandan tamamladı. 
+     Hisse senetleri 2. seansta ortalama yüzde 1.64 oranında değer kaybetti. 
+     İlk seanstaki 247.28 puanlık artış dikkate alındığında, Borsa endeksi, günün tamamında 32.63 puan geriledi. Hisse senetlerinin günlük ortalama değer kaybı yüzde 0.19 oldu. 
+     Endeks, 2. seansa 4.81 puan artarak 17,037.48 puan seviyesinde başladı. Seansın ilk yarısını 16,804.66 puandan geçen endeks, seans içinde en düşük 16,663.97, en yüksek 17,037.48 puanı gördü. 
+     2. seans kapanışında, mali endeks 366.78 puan gerileyerek 22,713.92 puan, sanayi endeksi 211.67 puan gerileyerek 14,898.74 puan, hizmetler endeksi 217.86 puan gerileyerek 9,723.76 puan oldu. 
+     Böylece ilk seansa göre mali grup hisseler ortalama yüzde 1.59, sanayi grubu hisseler ortalama yüzde 1.40, hizmet grubu hisseler ortalama yüzde 2.19 değer yitirdi. 
+     2. seansta işlem gören toplam 305 hisse senedinden 235'i değer kaybetti, 32'si değer kazandı, 38'inin fiyatında değişiklik olmadı. 
+     Seansta, 157 trilyon 777 milyar 107 milyon liralık işlem hacmi kaydedildi. Günlük işlem hacminde 317 trilyon 169 milyar 323 milyon lira oldu. 
+     2. seansta Doğan Holding, İş Bankası C , Yapı ve Kredi Bankası, Tofaş ve Garanti Bankası en yoğun işlem gören hisse senetleri olarak belirlendi. 
+     
+</TEXT>
+</DOC>

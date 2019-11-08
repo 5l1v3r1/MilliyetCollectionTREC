@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 87387 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/06/01/son/soneko01.html </URL>
+<DATE> 2002/06/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası'nda Dow Jones yükseldi, Nasdaq düştü 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası'nda Dow Jones endeksi günü yükselişle Nasdaq endeksi ise düşüşle kapattı. 
+     Borsa'nın temel göstergesi Dow Jones, 13.56 puan yükselerek 9,925.25 puandan kapandı. 
+     Teknoloji şirketlerinin hisse senetlerinin işlem gördüğü Nasdaq ise 16.19 düşerek günü 1,615.73 puanla kapadı. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

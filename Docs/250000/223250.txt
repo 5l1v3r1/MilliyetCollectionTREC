@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 223250 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/17/son/sonyas21.html </URL>
+<DATE> 2004/03/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Açıköğretimden artık internet ortamında hizmet... 
+</HEADLINE>
+<TEXT>
+
+     Anadolu Üniversitesi AÜ İktisat, İşletme ve Açıköğretim fakülteleri öğrencilerinin, bilgilerini pekiştirmesini amaçlayan Alıştırma Yazılımları Uygulaması internet ortamında yayınlanıyor. 
+     AÜ Rektörü Prof. Dr. Engin Ataç, yazılı açıklamasında, Açıköğretim Sistemi'nin, bilgi ve iletişim teknolojilerindeki gelişmeler doğrultusunda ''Alıştırma Yazılımları Uygulaması'' adıyla yeni bir öğretim ortamını daha öğrencilerin hizmetine sunduğunu belirtti. 
+     Uygulamanın İktisat, İşletme ve Açıköğretim fakülteleri öğrencilerine yönelik internet ortamında etkileşimli olarak yürütüldüğünü bildiren Ataç, şunları kaydetti 
+     ''Uzaktan öğretim sistemi ile öğrenim gören öğrencilerin derslerle ilgili konu ve kavramları öğrenmesi ve örnek sorularla etkileşimli olarak öğrendikleri bilgileri pekiştirmesini amaçlayan alıştırma yazılımları uygulaması, internet ortamında yayınlanıyor. Geleneksel iletişim ortamlarıyla yeni iletişim ortamlarını bütünleştiren ve etkileşimli olan alıştırma yazılımlarında öğrenciler, kitaplardaki ve televizyon programlarındaki bilgiler doğrultusunda hem konuları daha iyi kavrayıp daha iyi öğreniyor hem de çok sayıda soru örneği çözerek sınavlara hazırlanıyor.'' Ataç, 10 dersin alıştırma yazılımının yer aldığı uygulama sayısının gelecek yıllarda artırılması için çalışmaların devam ettiğini belirterek, sistemde, animasyon ve grafiklerle zenginleştirilmiş alıştırma yazılımlarında yaklaşık 4 bin çözümlü ve çözümsüz soru örneğinin sesli olarak yer aldığını kaydetti. 
+     Sistemde 2003-2004 öğretim yılında birinci sınıflar için Genel Matematik, Genel Muhasebe, İktisada Giriş, Temel Bilgi Teknolojileri ikinci sınıflar için, İktisat Teorisi, İstatistik ve Türk Dili, üçüncü sınıflar için Finansal Yönetim, Maliyet Muhasebesi, Türk Vergi Sistemi ve dördüncü sınıflar için Türk Dili derslerinin bulunduğu bildiren Ataç, bu derslere kayıtlı öğrenci sayısının 50 bin ile 275 bin arasında değiştiğini ifade etti. 
+     Prof. Dr. Ataç, öğrencilerin, www.aof.anadolu.edu.tr adresinde bulunan web sayfasından TC Kimlik Numarası ile yazılımlara ulaşabildiklerini kaydetti. 
+     
+</TEXT>
+</DOC>

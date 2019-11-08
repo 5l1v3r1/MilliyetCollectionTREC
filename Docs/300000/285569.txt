@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 285569 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/02/son/sonyas18.html </URL>
+<DATE> 2004/11/02/ </DATE>
+<TIME> 13.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Cep telefonuyla otobüs bileti ödenecek .. 
+</HEADLINE>
+<TEXT>
+
+     Cep telefonları artık toplu taşıma araçlarında bilet ödemek için de kullanılacak. 
+     Almanya'nın Hamburg kenti yakınlarındaki Hanau belediyesinde yılbaşından itibaren, Nokia 3220 cep telefonu sahipleri, telefonlarına yerleştirilen bir cihazla elektronik olarak toplu taşıma bileti depolayacak ve bilet fiyatını ödeyebilecek. 
+     Cep telefonlarına yerleştirilecek cihazı ise Philips firması geliştirdi. 
+     Nokia'dan yapılan açıklamaya göre, kullanıcıların turnikelerden geçerken veya otobüslere binerken telefonlarını okuyucuya göstermeleri yetecek. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 154107 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/02/son/sontur38.html </URL>
+<DATE> 2003/05/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+AİDS virüsünün bağışıklık sistemini nasıl kandırdığı bulundu 
+</HEADLINE>
+<TEXT>
+
+     AIDS hastalığına neden olan HI-virüsünün, bağışıklık sistemini kullanarak nasıl çoğaldığı tespit edildi. 
+     Chicago'daki Illinois Üniversitesi'nde görevli bilim adamları Thomas Hope ve David McDonald tarafından yapılan araştırma, normalde araştırmaları uzmanlara incelettikten aylar sonra yayımlayan Science dergisi tarafından uzman onayından sadece 2 hafta sonra yayımlandı. Araştırma, derginin internetteki ''Science-Express'' sayfasında yer aldı. 
+     Hope ve McDonald, HIV'in, normalde virüslere karşı savaşan bağışıklık sistemini çoğalmak için nasıl kullandığını ortaya çıkardılar. 
+     Bilim adamları, virüsün hücrelere girişinin görüntüsünü çekerek, kullandığı yöntemi keşfettiler. 
+     Hope'un ''vücudun çöpçüleri'' dediği, 1973 yılında bulunan dendritik hücreler, vücuda giren herhangi bir virüsü tespit ederek parçalıyor. 
+     Dendritik hücreler, T-hücrelerinin dikkatini çekmek için virüsten kalan parçaları, hücre yüzeyinde ''gösteriyor''. 
+     T-hücreleri de buradan aldıkları bilgiyle bağışıklık sistemini harekete geçirip, virüsle mücadeleyi başlatıyor. 
+     T-hücreleri bilgiyi alırken dendritik hücrelere o kadar yaklaşıyor ki, az miktarda transmitter maddeyle taşıyıcı kimyasal madde bile haberleşebiliyor. 
+     AİDS virüsünün bu süreci kendi çıkarına kullanarak daha hızlı yayıldığını belirten Hope, çekilen görüntüde, virüsün dendritik hücrelerden T-hücrelerine nasıl sıçradığını tespit ettiklerini söyledi. 
+     Buna göre, HIV, dendritik hücrelerle T-hücreleri birbirine yaklaştığında, normalde T-hücrelerinin yüzeyinde yayılmış durumda bulunan, fakat yaklaşma sırasında hücrelerin temas noktasına biriken yapışma molekülleri sayesinde T-hücrelerine atlıyor. 
+     Hope, böylece, aslında enfeksiyonları engellemesi gereken bu sürecin, virüsün yayılmasına yardım eder hale geldiğini kaydetti. 
+     Hope, ''Virüsler bağışıklık sisteminin zayıf noktalarını kullanmaya çalışırlar. Bu milyarlarca yıldır süren bir savaş. Vücut virüslere karşı savunma stratejileri geliştirir, virüsler de bunları alt etmeye çalışırlar'' dedi. 
+     Elde edilen bilginin diğer virüslerin nasıl çoğaldığının da açıklanmasında yardımcı olabileceğini ifade ederek, ebola virüsünün ve tüberküloz bakterisinin de savunma sisteminin zayıf noktasını kullanıyor olabileceğini kaydetti. 
+     Hope, ''Eğer bu doğruysa, sadece AİDS değil, birçok enfeksiyon hastalığı için yeni tedavi yöntemleri geliştirebiliriz'' dedi. 
+     
+
+
+
+
+</TEXT>
+</DOC>

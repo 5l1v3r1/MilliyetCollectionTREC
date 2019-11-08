@@ -1,0 +1,42 @@
+<DOC>
+<DOCNO> 85760 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/05/23/son/sontur25.html </URL>
+<DATE> 2002/05/23/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+TBMM Tele Kulak Raporu "Telefonlar işte böyle dinleniyor" 
+</HEADLINE>
+<TEXT>
+
+     Usulsüz telefon dinlemelerde, cep telefonlarının mikrofon görevi yapabildiği bildirildi. 
+     TBMM İnsan Hakları İnceleme Komisyonu, bünyesinde oluşturulan alt komisyonun ''telefon dinleme'' konusunda hazırladığı raporu benimsedi. 
+     Komisyon Başkanı Hüseyin Akgül, toplantının ardından rapor hakkında gazetecilere bilgi verirken, altkomisyon üyelerinin Emniyet Genel Müdürlüğü, Türk Telekom, MİT ve Ankara İl Jandarma Alay Komutanlığı'nda görüşme ve incelemelerde bulunduğunu belirtti. 
+     Kamu kurumlarının yasal dinleme için mahkemelerden karar aldığını kaydeden Akgül, çıkar amaçlı suç örgütlerinin yasal olmayan dinleme yapabildiğini söyledi. 
+     Konuyla ilgili yasal boşluk olduğunu savunan Akgül, bunun giderilmesi gerektiğini ve kendilerinin de bir hazırlık içinde olacaklarını bildirdi. 
+     Raporda, Emniyet Genel Müdürü Kemal Önal'ın, ''Emniyette, yasal ve fiziki şartların izin verdiği ölçüde dinleme yapıldığı, yasal olmayan hiçbir dinlemenin yapılmadığı, işlenen bazı suç türlerinin dinlemesiz yakalanamayacağı, dinlemenin bu açıdan parmak izi gibi bir işlem olduğu'' görüşüne yer verildi. 
+     Emniyet Genel Müdürlüğü İstihbarat Daire Başkanı Sabri Uzun'un, ''dinleme yapmak için acil durumlarda sulh ceza mahkemelerinden alınan kararları özel GSM şirketlerinin uygulamadığı ve mutlaka DGM kararı istedikleri, GSM telefon hatlarının işletici şirketler tarafından kolaylıkla takip edilip dinlenebileceğini, hatta kullanılan ithal cep telefonu yazılımları sayesinde tüm görüşmelerin kolaylıkla dinlenebileceği, ticari rekabet nedeniyle özel şirketlerin müşterilerinin görüşmelerini takip edebileceği, organize suç çetelerinin açıktan geçen telefon hatları, sokak ve apartman girişlerinde bulunan kutulara müdahale ederek hedef aldıkları şahıs ve firmaları dinleyebilecekleri'' görüşü de raporda yer aldı. 
+     Telekom Genel Müdürü İbrahim Hakkı Alptürk ise son 5 yıllık dönemde mahkeme kararı olmayan hiçbir dinleme olmadığı ama daha önceki dönemler için olabileceğini belirtti. Alptürk, ''Cep telefonları için güven ortamının olduğunu söyleyemeyiz. Usulsüz dinleme olduğunda GSM telefonları aynı zamanda mikrofon görevi görmektedir. Uygun bir donanımla telefon hattının kullanımı dışında cep telefonundan alıcı gibi faydalanmaktadır. Santrallerde sağladığımız güveni, telefon kutularında veya binalarda döşenen kablolarda sağlamamız mümkün değildir'' görüşünü savundu. 
+     
+     TAKİP NASIL YAPILIYOR 
+     Raporun ''tespit ve değerlendirme'' başlığını taşıyan bölümünde, dinlemenin görüntülü takip, algılayıcılarla takip ve veri takibi olarak görüldüğü belirtilerek, dinlemenin nasıl yapıldığı şöyle anlatıldı 
+     ''Dinleme telefon dinleme aygıtları, taşınabilir minyatür vericiler, gizli mikrofonlar ve kaset kaydediciler gibi araçlar kullanılarak yapılabilmektedir. 
+     Görüntülü takip ise fotoğraf makineleri, kapalı devre ve kablolu televizyon, gece görüş araçları veya uydular kullanılarak yapılmaktadır. 
+     Algılayıcılarla yapılan takipte ise manyetik algılayıcılar ve elektromanyetik algılayıcılar kullanılmaktadır. 
+     Veri takibi işlemi ise bilgisayarlar, casus yazılımlar veya aranan telefon numarasını kaydedici sistemler aracılığıyla yapılıyor. Veri takibi yoluyla bir kişinin faaliyetleri, yaptığı işlemler, ödediği faturalar, telefon görüşmesi yaptığı kişiler ve görüşmelerin süresine ilişkin veri tabanlarının takip edilmesi de kişinin faaliyetleri ve ilişki içerisinde olduğu kişiler hakkında bilgi edinmeyi sağlayabilmektedir. Elektronik posta yoluyla yapılan haberleşmeler de bu kategoridedir.'' Avrupa İnsan Hakları Sözleşmesi ve AİHM içtihatları incelendiğinde, Sözleşme'ye uygun bir teknik takibin yapılabilmesi için hakkında teknik takip yapılan kişiye sonradan bu konuda bilgi verilmesi şartı öngörüldüğüne işaret edildi. Teknik takip yapmaya izin veren tek yasa olan ''Çıkar amaçlı Suç örgütleriyle Mücadele Kanunu''nun AİHM içtihatlarıyla uyumlu olmadığı kaydedildi. Raporda, ''Bildirim yükümlülüğünün olmaması, teknik takibe, yasalarda öngörülen şartlara uygun olarak başvurulup başvurulmadığının denetimini imkansız hale getirmektedir'' denildi. 
+     
+     ''MAHKEME KARARI OLMADAN 963 TELEFON DİNLENDİ'' 
+     İç denetim ve cezalandırma konusunda MİT'in, elde edilen bilgilerin amacı dışında kullanılmasını engellemek için tatmin edici güvenlik önlemlerini aldığı kaydedildi. 
+     Telekom'a bağlı santrallerde çalışan teknisyenlerin dış etkenlerin baskısına karşı herhangi bir koruyucu sisteme sahip olmadıkları ifade edilerek, ''Burada çalışan personelin kanun dışı örgüt veya kişilerin baskısına açık olduğu izlenimi uyanmış, buralarda çalışan bir teknisyeninin elde edilmesinin, her türlü istismarı da beraberinde getireceği'' görüşüne yer verildi. 
+     Raporda, Emniyet Genel Müdürlüğü ile ilgili şu değerlendirmede bulunuldu 
+     ''Emniyetteki incelemelerde, başkan tarafından bu tür birimlerde çalışan elemanların çok güvenilir kişilerden seçildiği, ekonomik olarak hiçbir avantajı olmadığı halde özveriyle, mesai sürelerini de aşan miktarlarda görev yaptıkları, ayrıca 3 kişilik bir ekibin yurdun her yerinde bu tür birimlere ani denetlemeler yaparak kontrolü sağladıkları ifade edilmiştir. 1999'da aynı birimde görev yaparken mahkeme kararı olmaksızın 963 telefonu dinledikleri için bugün yargılanmakta olan 38 emniyet görevlisinin çalıştığı bir birimde varolan iç denetim yetersiz bulunmuştur.'' Kamu görevinin icrası dışında özel çıkar gruplarının ticari çıkar elde etmek veya şantaj yapmak için bir takım yöntemler geliştirerek özel telefon görüşmelerini kaydettiği ve bunları kullandığının tespit edildiği belirtilen raporda, bu tür suç örgütü mensuplarının işledikleri suça karşılık aldıkları cezanın caydırıcı olmadığı, yeni bir yasa hazırlanması gerektiği görüşüne yer verildi. 
+     Komisyon Başkanı Akgül, 16 Mayıs'ta TBMM Başkanı Ömer İzgi'yi ziyaret eden Türk-İş heyetinin polis kamerasıyla izlendiği ve bunun insan hakları ihlali olduğunu belirterek komisyonun konuyu incelemesini isteyen ANAP İstanbul Milletvekili Emre Kocaoğlu'ndan daha geniş bir çalışma yaparak komisyona vermesini istediklerini de bildirdi. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 210143 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/21/son/soneko16.html </URL>
+<DATE> 2004/01/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hazine, yarın değişim ihalesi yapacak... 
+</HEADLINE>
+<TEXT>
+
+     Hazine Müsteşarlığı yarın, 16 Haziran vadeli ve TRT160604F16 ISIN kodlu senede ilişkin değişim ihalesi yapacak. 
+     İhalede değişim işlemi karşılığında, 16 Kasım 2005 vadeli ve TRT161105T12 ISIN kodlu senet, 110 bin 39 lira birim fiyattan ihraç edilecek. 
+     Yatırımcılar ihalede, 110 bin 39 lira birim fiyat üzerinden satılacak senet karşılığında, değişim amacıyla geri getirecekleri 16 Haziran 2004 vadeli senet için fiyat teklifinde bulunacaklar. 
+     İhalede net 750 trilyon liraya kadar değişim yapılacak, rekabetçi olmayan teklif ROT ve ihale sonrası teklif opsiyon satışları yapılmayacak. 
+     Piyasa Yapıcılığı Sözleşmesi gereği değişim ihalesine, Piyasa Yapıcı bankaların yanı sıra diğer yatırımcılar da katılabilecek. 
+     Bu arada yarın yapılacak değişim ihalesinde ABD Dolar kuru, 1 milyon 350 bin 21 bin lira olarak belirlendi. 
+     Söz konusu dolar kuru, değişim işlemi tarihinden 2 iş günü önce sabitlenen ve bu tarihten önceki 10 günlük Merkez Bankası döviz satış kurlarının basit aritmetik ortalamasını oluşturuyor. 
+     
+</TEXT>
+</DOC>

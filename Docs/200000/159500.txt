@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 159500 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/28/son/soneko40.html </URL>
+<DATE> 2003/05/28/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Para piyasalarında bugün... 
+</HEADLINE>
+<TEXT>
+
+     Faiz indirimi beklentisi ve IMF ile görüşmelerin genel olarak olumlu devam ediyor olması nedeniyle Borsa günü yüzde 3.14'lük artışla tamamladı. 
+     İstanbul Menkul Kıymetler Borsası İMKB Ulusal 100 Endeksi, 1. seansta 123.52 puan ve yüzde 1.11 oranında değer kazandı. 
+     2. seansta da para girişi ve alımların hızlanmasıyla artışa geçen endeks 11,450 puanı aştı. Günü 11,437.40 puandan tamamlayan endeks, ikinci seansta ortalama yüzde 2.01 oranında yükseldi. Endeks günlük bazda ise 348.55 puan ve yüzde 3.14 oranında artış kaydetti. 
+     Endeks seans içinde en düşük 10,200.80 puanı, en yüksek 11,457.11 puanı gördü. 
+     Hisse senetleri piyasasında günlük işlem hacmi 989 trilyon 25 milyar 275 milyon lira olarak gerçekleşti. 
+     Borsa uzmanları, teknik olarak bakıldığında borsada yukarı hareketin devam ettiğini vurgulayarak, 11,500 ve 11,700 seviyelerinde önemli direnç noktaları bulunduğunu, ilk aşamada bu direnç bölgesinin denenmesi ihtimalinin yüksek olduğunu kaydediyor. 
+     
+     DÖVİZ 
+     Kapalıçarşı'da dünü 1 milyon 456 bin liradan tamamlayan dolar, güne 1 milyon 455 bin liradan, 1 milyon 733 bin liradan tamamlayan Euro da 1 milyon 721 bin liradan başladı. Piyasa kapanışında doların satış fiyatı 1 milyon 448 bin liraya, Euro'nun ise 1 milyon 702 bin liraya geriledi. 
+     Merkez Bankası, doların bugünkü efektif kurunu alışta 1 milyon 441 bin 473 lira, satışta ise 1 milyon 451 bin 614 lira olarak açıkladı. 
+     Böylece dolar, Merkez Bankası'nın dünkü kurlarına göre, alışta 6 bin 876 lira, satışta ise 6 bin 925 lira düştü. 
+     
+     TAHVİL-REPO 
+     İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda en fazla işlem gören 7 Temmuz 2004 vadeli bugün valörlü tahvilin bileşik faizi düne göre 1.39 puan geriledi. 
+     Piyasa kapanışında bu kağıdın basit getirisi yüzde 49.94, bileşik getirisi ise yüzde 48.76 olarak gerçekleşti. 
+     İMKB Tahvil ve Bono Piyasası Repo Pazarı'nda gecelik faiz ortalama yüzde 41.00 olarak belirlendi. 
+     Bankalararası TL interbankında gecelik faiz oranı, ortalama yüzde 41.00 oldu. 
+     
+</TEXT>
+</DOC>

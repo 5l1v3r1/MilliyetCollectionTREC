@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 175627 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/14/yasam/yas02.html </URL>
+<DATE> 2003/08/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft'tan iki yeni virüs alarmı 
+</HEADLINE>
+<TEXT>
+
+      PINAR AKTAŞ İstanbul 
+   
+   Microsoft Türkiye, Windows kullanıcılarını yeni bir virüse karşı uyardı. Yeni virüs 'W32.Blaster.worm' adlı solucan, etkilediği sistemin belirsizce yeniden başlatılmasına neden oluyor. 'Blaster' adlı solucan, bilgisayarınızı görmek, belgelerinize zarar vermek veya yok etmek isteyen bir tanıdığınız tarafından gönderiliyor. Eğer Windows'unuz son versiyon değilse veya son güncellemeler yapılmadıysa, tehdit altındasınız demektir. Yapmanız gereken ise, www.microsoft.com sayfasında yer alan güncellemeyi tıklayarak, bilgisayarınızdaki açığı kapatmak. 
+   
+   'Lovsan' virüsü, Bill Gates'e karşı 
+   İnternette yayılan 'Lovsan' adlı diğer virüs ise, tüm dünyada on binlerce bilgisayara bulaştı. Kendi kendine yayıldığı için "çok tehlikeli" olan virüsün birlikte geldiği dosyada, "Sana sadece seni seviyorum Sen demek istiyorum. Bill Gates böyle bir şey nasıl mümkün olabilir Para kazanmayı durdur ve yazılımını onar" ifadeleri bulunuyor. Kullanıcılara, www.microsoft.com security sitesinden indirilecek güvenlik yamasını yüklemelerini tavsiye eden uzmanlar, Linux ya da MacIntosh kullanıcılarının bu virüsten zarar görmeyeceğini söylüyorlar. 
+   
+   
+   
+   
+</TEXT>
+</DOC>

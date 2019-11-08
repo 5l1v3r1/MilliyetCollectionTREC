@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 359353 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/08/son/soneko58.html </URL>
+<DATE> 2005/07/08/ </DATE>
+<TIME> 17.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hazine haftaya, dolar cinsinden devlet tahvili ihalesi yapacak... 
+</HEADLINE>
+<TEXT>
+
+     Hazine gelecek hafta 3 yıl vadeli, 6 ayda bir kupon ödemeli, değişken faizli ''ABD Doları cinsinden'' devlet tahvili ihalesi yapacak. 
+     Hazine Müsteşarlığı'ndan yapılan açıklamaya göre, 12 Temmuz Salı günü, 13 Temmuz Çarşamba ihraç tarihli, geri ödemesi ise 9 Temmuz 2008'de gerçekleştirilecek, 3 yıl vadeli, 6 ayda bir kupon ödemeli, değişken faizli ABD Doları cinsinden tahvil ihalesi düzenlenecek. 
+     Söz konusu tahvil, LIBOR 1,60 yıllık 182 günlük kupon ödemeli olup, ilk kupon ödeme tarihi 11 Ocak 2006 olarak belirlendi. 
+     Kupon ödemeleri, 6 aylık LIBOR oranına 1,60 puan eklenerek bulunacak yıllık faiz oranı üzerinden hesaplanacak. 
+     Hesaplama yöntemi 6 ay LIBOR yüzde 1,60 182 360 şeklinde olacak ve bu hesaplamada bulunacak faiz oranında virgülden sonra 2 hane kullanılacak. 
+     Kupon ödemesine esas LIBOR oranı, kupon vade başlangıç tarihinden 2 iş günü önce, yayınlanan 6 aylık ABD Dolar LIBOR'u esas alınarak hesaplanacak ve ilk kupon ödemesine ait faiz oranı 11 Temmuz 2005 Pazartesi günü duyurulacak. 
+     İhalede katılımcılar, 10,000 ABD Doları üzerinden fiyat teklifinde bulunacak. Söz konusu tahvilin kupon ödeme tarihleri ise 11 Ocak 2006, 12 Temmuz 2006, 10 Ocak 2007, 11 Temmuz 2007, 9 Ocak 2008 ve 9 Temmuz 2008 olarak belirlendi. 
+     Bu arada Hazine gelecek hafta, toplam 1 milyar 351 milyon YTL iç borç ödemesi yapacak. 
+     
+</TEXT>
+</DOC>

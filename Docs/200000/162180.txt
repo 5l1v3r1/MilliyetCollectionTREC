@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 162180 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/10/yasam/yas12.html </URL>
+<DATE> 2003/06/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bu bilgisayar beyin okuyor 
+</HEADLINE>
+<TEXT>
+
+     Alman bilim adamları, düşünceleri okuyarak işlem yapabilen bir bilgisayar geliştirmeyi başardı. Henüz deneme aşamasında olan sistemde, denek olarak bilgisayarın karşısına oturan kişi, beyin dalgalarının yardımıyla ekrandaki curser’ı hareket ettirebiliyor. Berlin’de bulunan Frauenhof Enstitüsü’deki araştırmacılar, beyin dalgalarından yararlanarak, bilgisayar kullanan, protez organları çalıştıran ya da beyin ile kaslar arasındaki bağlantı bozukluklarında devreye sokulabilen sistemi daha da geliştirmek için çalışıyor. 
+     
+     
+
+</TEXT>
+</DOC>

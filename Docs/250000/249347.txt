@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 249347 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/20/guncel/gun02.html </URL>
+<DATE> 2004/06/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Model uçaklı saldırı planı 
+</HEADLINE>
+<TEXT>
+
+
+Eylem hazırlığında yakalanan iki mühendis kardeşin üzerinde bulunan malzemeler inceleniyor 
+
+GÜRKAN AKGÜNEŞ İstanbul 
+
+Ensar El İsl m örgütü üyesi oldukları iddiasıyla, İstanbul'da eylem hazırlığında yakalanıp tutuklanan iki mühendis kardeşle birlikte ele geçirilen malzemelerin model uçaklı saldırıda kullanılabileceği ortaya çıktı. 
+Boğaziçi Üniversitesi Elektrik-Elektronik Bölümü mezunu Mithat Şen ve Marmara Üniversitesi Bilgisayar Mühendisliği Bölümü mezunu abisi Sedat Şen'le birlikte ele geçirilen malzemeler incelemeye alındı. 
+
+Kötü niyet frekansla belli oluyor 
+Uzmanlar, bombada anahtar sistemi olarak kullanılmak üzere uzaktan kumanda alıcıları, uzaktan kumanda göndericileri, sıralayıcı açma kapama anahtarlı sistemin de aralarında bulunduğu malzemelerle ilgili şu değerlendirmeyi yaptı "Bu uzaktan kumandaların frekansları içine, C-4 patlayıcısı yerleştirilebilen model uçak veya helikopterlerin kontrolü için kullanılabilir. Çok gelişmiş model uçak ve helikopterler var. Kullanılması ciddi tahribatlara yol açabilir. Kolay bulunabilecek malzemeler, ancak önemli olan kumandaların frekanslarında bir güç yükseltmesi yapılıp yapılmadığı. Eğer yapılmışsa kötü niyet vardır." 
+Bombanın ateşleme mekanizmasını başlatmak için de bu çeşit kumandalardan yararlanılabileceğini belirten uzmanlar, bunu önlemek için elektromanyetik kalkan ve bariyer uygulamak gerektiğini söyledi. 
+
+
+</TEXT>
+</DOC>

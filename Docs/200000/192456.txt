@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 192456 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/31/son/soneko01.html </URL>
+<DATE> 2003/10/31/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası'nda Dow Jones yükseldi, Nasdaq düştü 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası'nda Dow Jones endeksi yükseldi, Nasdaq endeksi ise düştü. 
+     Borsanın temel göstergesi Dow Jones endeksi 11.56 puan yüzde 0.12 artarak, 9,786.09 puana yükseldi. 
+     Teknoloji endeksi Nasdaq ise 3.87 puan yüzde 0.20 düşüşle 1.932.69 puandan kapandı. 
+     
+</TEXT>
+</DOC>

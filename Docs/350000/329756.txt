@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 329756 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/02/son/sonyas08.html </URL>
+<DATE> 2005/04/02/ </DATE>
+<TIME> 11.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Görme engelliler için 'biyonik göz' 
+</HEADLINE>
+<TEXT>
+
+     NEW YORK, DHA 
+
+      Amerikalı bilim adamları, görme engellilerde retinanın arkasına 3 milimetre genişliğinde bir çip yerleştirerek bu kişilere görme yeteneği kazandırılabileceğini belirtti. Stanford Üniversitesi uzmanlarının fareler üzerindeki deneylerde başarılı sonuçlar aldığı cihaz şu şekilde çalışıyor 
+     
+     İLK GÖRÜNTÜ KAMERALI GÖZLÜĞE GELİYOR 
+     Minik çip ameliyatla gözdeki retina tabakasının arkasına yerleştirildikten sonra, hastaya üzerinde küçük bir video kamera bulunan bir gözlük takılıyor. Kameraya giren ışık yine kamera tarafından, cüzdan büyüklüğündeki kablosuz bir bilgisayara gönderiliyor. Işık burada 'işlendikten' sonra gözlükteki kızılötesi ekrana gönderiyor. Bu görüntü daha sonra retinanın arkasındaki çipe yansıtılıyor. Çipteki mikroskobik parçalar tıpkı retina hücreleri gibi ışığı elektrik sinyaline çevirerek bunların sinirler tarafından beyne iletilmesini sağlıyor ve görme gerçekleşiyor. 
+     
+     BÜYÜK PUNTOLU YAZILARI OKUYABİLECEKLER 
+     Bilim adamları, bu yöntem sayesinde daha önce göremeyen kişilerin büyük puntolu yazıları okuyup, yardım almadan yaşayabileceğini söyledi. 
+     Uzmanlar insanlar üzerindeki denemelere başlamadan önce, daha iri hayvanlar üzerinde, daha büyük çipler kullanılarak testler yapılması gerektiğini söyledi. 
+     
+</TEXT>
+</DOC>

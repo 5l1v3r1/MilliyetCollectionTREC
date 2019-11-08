@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 235862 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/29/son/soneko09.html </URL>
+<DATE> 2004/04/29/ </DATE>
+<TIME> 10.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa 1 saatte 3.04 değer kaybetti... Endeks 18 bin puanın altında 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası İMKB Ulusal 100 Endeksi, 1. seansın, ilk bir saatlik bölümünde yüzde 3.04 geriledi. 
+     Dün 18,229.71 puandan kapanan endeks, bugün 1. seansa 195.69 puan kayıpla 18,034.02 puan seviyesinde açıldı. 
+     Seansın ilk yarım saatlik bölümünü 17,763.19 puandan geçen endeks, saat 10.30 itibariyle 5.38 puanlık kayıpla 17,676.33 puana düştü. 
+     Hisse senetlerinin ortalama değer kaybı, bu seviyede yüzde 3.04 olarak belirlendi. 
+     
+     ''HAREKET DIŞ PİYASALARA BAĞLI BİR GELİŞME'' 
+
+     Şeker Yatırım Portföy Yönetim Müdürü Edmon Nergizyan, Borsa'nın yanı sıra bono ve Eurobond piyasalarında da satış olduğunu belirterek, ''ABD'deki faiz artırım haberleri gelişmekte olan piyasalardan para çıkışına neden oluyor'' dedi. 
+     Nergizyan, ABD Merkez Bankası'nın FED 4 Mayıs tarihindeki açıklamasına kadar bunun sürebileceğini ifade ederek, şöyle dedi 
+     ''Kıbrıs'ta gelinen noktada iş rölantiye girdi. AB'ye ilişkin Türkiye İlerleme Raporu açıklanıncaya kadar Kıbrıs gündemdeki yerini koruyacak. Kıbrıs sorunu çözüme kavuşmadığı için bir moral bozukluğu da yarattı. Ancak, bugünkü hareket dış piyasalara bağlı bir gelişme.'' 
+     
+</TEXT>
+</DOC>

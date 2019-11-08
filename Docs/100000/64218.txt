@@ -1,0 +1,48 @@
+<DOC>
+<DOCNO> 64218 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/01/26/guncel/gun03.html </URL>
+<DATE> 2002/01/26/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Şimdi de basınç kazığı 
+</HEADLINE>
+<TEXT>
+Doğal’ bir fatura daha 
+İGDAŞ’ın "Basınç düşüklüğü nedeniyle kullanılmayan doğalgazın parasını da kullanılmış gibi vatandaşa fatura ettiği" saptandı... 
+     ŞÜKRAN ÖZÇAKMAK 
+
+     Doğalgazda haksız k r payı ve zam tartışmalarına, bir de basınç kazığı eklendi. Elektronik mühendisi Mehmet Can, sık sık sönen kombi üzerinde yaptığı araştırmada İGDAŞ’ın, basınç düşüklüğü nedeniyle kullanılmayan doğalgazın parasını da kullanılmış gibi vatandaşa fatura ettiğini’ tespit etti. Can, "İGDAŞ halktan haksız yere fazladan ücret alıyor" dedi. 
+     İGDAŞ’ın sıcaklığı, hacmi ve basınç yoğunluğunu hesaba katmadan ölçüm yaptığını öne süren Can, şu iddialarda bulundu 
+     "Gaz yoğunluğu düştükçe, birim hacminden geçen yoğun gaz miktarı da azalıyor. Düşük yoğunluktaki gaz da sayaçlardan aynı volümde geçiyor. Gazın yoğunluğu düşük de olsa, yüksek de olsa vatandaş aynı parayı ödüyor. İGDAŞ ise yüksek basınçta aldığı gazı düşük basınçta satıyor." 
+     Binasında doğalgaz ölçümü yaptıran Can, 21 mbar olması gereken basıncın 16-17 mbar olduğunu tespit edince başvurduğu İGDAŞ, bina kapısındaki regülatörü değiştirmiş. 
+     İTÜ Doğalgaz Mühendisliği Ana Bilim Dalı Başkanı Prof. Dr. Abdurrahman Satman ise basınçtan daha çok sıcaklığın fiyatı etkilediğini, sıcaklık için faturada düzeltme yapan İGDAŞ’ın basınçta düzeltme yapmadığını söyledi. Satman, şöyle dedi 
+     "İGDAŞ faturalarına dikkat ederseniz üzerinde düzeltme faktörü var. Sayaçtan okunanı, düzeltme faktörüyle çarpıyorlar. Düzeltme faktörü, sıcaklık düşük olduğu zaman devreye giriyor. Konutlarda standart basınç 21 mbar, sıcaklık 15 derece olur. Merkezi sistemde standart 200 mbar’dır. O günkü sıcaklık 15 değil de 5 dereceyse sayaçtan geçen gaz az görünür. Bu nedenle düzeltme faktörüyle çarpıp miktarı 15 dereceye göre ayarlarlar. Basınç 21 değil 15 mbar ise düzeltme yapmaları gerekir. Düzeltme faktörü devreye girmezse, soğuk havada tüketici, sıcak havada İGDAŞ k rlıdır. " 
+     Basınç ve sıcaklık farkını kabul eden İGDAŞ ise, bunun tesisatta kullanılan boru ve malzemelerden kaynaklandığını ileri sürdü. 
+     
+     Gürtuna, inceleme yapacak 
+     İstanbul Büyükşehir Belediye Başkanı Ali Müfit Gürtuna, İGDAŞ’ın konutlara taktığı deprem vanalarının, incelendikten sonra tavsiye edildiğini söyledi. İGDAŞ, 13 firmanın deprem vanaları konusunda ken-dilerine müracaat ettiğini, kararın ise henüz verilmediğini belirtirken, Gürtuna, kalite belgesi olmayan deprem vanalarının takılması sonucu İGDAŞ’ın 750 milyar lira zarara uğratılmasıyla ilgili şöyle konuştu "Vanalar konusunda çalışmalar yapıldı. En uygun olanlar tavsiye edildi. İGDAŞ’ın taktığı deprem vanaları konusunu inceleyeceğim." 
+     
+
+
+
+ GÜNCEL 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

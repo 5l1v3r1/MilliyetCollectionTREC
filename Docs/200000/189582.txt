@@ -1,0 +1,44 @@
+<DOC>
+<DOCNO> 189582 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/19/ekonomi/aeko.html </URL>
+<DATE> 2003/10/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kitap gibi yolsuzluk 
+</HEADLINE>
+<TEXT>
+
+   BDDK, Uzanlar'ın İmar Bankası'ndaki tüm yolsuzluklarını kitap gibi bir rapor haline getirdi. Uzanlar'ın nasıl çifte kayıt yaparak devleti dolandırdığı şemalarla anlatıldı 
+      EKONOMİ SERVİSİ 
+   
+   Bankacılık Düzenleme ve Denetleme Kurumu BDDK İmar Bankası yolsuzluğunu 'İmar Bankası'na ilişkin tarihçe' adlı bir raporla özetledi ve çifte kayıt sistemi şablonlarla anlattı. 
+   
+   7 katrilyondan fazla fark çıktı 
+   İmar Bankası'nda resmi mevduat 753 trilyon lira gösterilirken, el koymadan sonra yapılan tespitte gerçek mevduatın bonolar hariç 8.5 katrilyon olduğu tespit edilmişti. 
+   BDDK'nın raporunda, kayıt dışı mevduat soygununun sadece bir kaç kişinin kullanım yetkisi bulunan GMO4 programı kullanılarak gerçekleştirildiği açıklandı. GM04 adlı program kullanılarak, mevduat rakamı skont bazında 310 - vadeli tasarruf mevduatı azaltıldı, istenilen tarih, tutar, skont ve şube için ters kayıtlar verildi. 
+   
+   Çifte kayıt sistemi 
+   Genel müdürlükçe şubelere gönderilen muavin defterlere GM04 ile oluşturulan kayıtlar için "hesap kapama", "ödenen" gibi kayıtlar düşüldü veya hiçbir açıklama yapılmadı. Ters kayıtlar için 290 numaralı şubeler cari hesabı kullanıldı. Bu işlemin muhasebesel anlamda karşı bacağının ne şekilde oluşturulduğu tespit edilemedi. 290 numaralı hesabın banka bilançosunda bakiye vermemesi, bankacılık tekniği açısından ancak karşı şubenin yapacağı ters kayıtla mümkün . 
+   
+   5 ayda 125 trilyon gizlendi 
+   Çifte kayıtla vergi kaçırıldığı ifade edilen rapora göre Uzanlar müşterilerden yapılan Gelir Vergisi stopaj kesintilerinin yalnızca yüzde 3 - 10'luk kısmını devlete ödedi. Sadece 2003 yılının ilk beş ayına ilişkin hesaplamalarda, bankaca vergi dairelerine beyan edilmeyerek kamudan gizlenen tutarın 125 trilyon lira olduğu tespit edildi. 
+   BDDK'nın raporunda off - shore'daki mevduatların bir kısmının yurtiçi mevduata dönüştürüldüğüne de dikkat çekildi. Off - Shore'daki mevduatların bir kısmının yurtiçi mevduata dönüştürüldü. 
+   
+   Off shore'dan 616 trilyon 
+   Son olarak, 2003 yılı Haziran ayında banka yönetimine "off - shore mevduatın yurtiçi mevduata dönüştürülmemesi ve karşılığında off - shore'a depo yapılmaması" talimatı verildi. 
+   Bu uyarıları dikkate alınmadığı gibi 12 Haziran'dan sonra 616 trilyon lira, 17.5 milyon dolar ve 9.4 milyon euro off - shore'dan mevduata dönüştürüldü. 
+   
+   İki programla manipülasyon    BDDK raporunda, İmar'daki şube müdürlerine en az düzeyde yetki devri yapıldığı, mudilerin ise çok düşük miktardaki tasarruflarını dahi alabilmeleri için önceden talepte bulunmaları gerektiği anlatıldı. 
+   Rapora göre şubelerdeki sistemden genel raporlama alınamamıyordu. Şubelerdeki bilgi işlem sisteminden hesap skontu bazında bakiyelere ulaşılamamazken, yasal defterlere esas teşkil edecek veriler, genel müdürlük tarafından hazırlanıyordu. Bu verilerle oluşturulan defterler ise hesap bakiyelerini doğru yansıtmamaktan uzaktı. Şubelerde gerçekleştirilen tüm işlemler genel müdürlükteki dolayısıyla Merkez Yatırım AŞ'deki ana belleğe transfer edilmekte, her bir şubenin ve bankanın finansal tabloları, şubelerden transfer edilen verilerin yazılım programları aracılığıyla manipüle edilmesiyle türetilmekteydi. Veriler iki programla manipüle edildi. Birisi mevduatı, ödenecek vergileri ve gider hesaplarını fiktif borç alacak kayıtları vererek az göstermek için, diğeri müşterilerle yapılan bono işlemlerini muavin kayıtlardan silmek için kullanıldı. Şubelere, manipüle edilmiş verilerle hazırlanan muavin defter, mizan, defter - i kebir gibi defter örnekleri gönderildi. Şubelerdeki gerçek verileri yansıtan tüm kayıtlar genel müdürlükteki ana belleğe transfer edildi. 
+   
+   Dünyadaki örnekleri solladılar...    BDDK raporunda dünyada bankacılık konusundaki yolsuzluk örneklerinde anlatıldı. BDDK'nın örnek verdiği BCCI, Barings, Allied Irish Bank Baninter yşolsuzluklarının her biri 6 milyar doları bulan yolsuzluğun gerisinde kaldı. 1991 yılında yaşanan Bank of Credit and Commerce International BCCI bankası yolsuzluğunda 600 milyon dolar tutarında mevduatın kayıt dışı olduğu tespit edilirken banka ortaklarına 2 milyar dolardan fazla usulsüz kredi kullandığı belirlendi. 1995 yılında yaşanan Barings yolsuzluğunda ise zararı 1.4 milyar dolara ulaşan Barings'in faaliyetleri 24 şubat 1995 tarihinde durduruldu. Geçen yıl yaşanan Allied Irish Bank AIB yolsuzluğunda ise 1997 yılındaki bir dizi forward işlemi Allfirst bünyesinde bazı kayıplara neden oldu. Banka 691 milyon dolar seviyesinde bir kayba uğradı. 
+   Bu yıl başanan Banco Intercontinental Baninter yolsuzluğunda ise mevduatın usulsüz kredilere kanalize edilmesi ve kredilere ilişkin bilgisayar kayıtlarının silinmesi olayı ortaya çıkarıldı. Hesaplardan usulsüz para çekilirken, mudi hücumu karşısında Merkez Bankasınca bankaya el konuldu. 
+   
+   İzinsiz 728 trilyon liralık bono satıldı    31 Ekim 1989'dan itibaren iMKB'de aracılık faaliyetlerini bütünüyle durduran İmar Bankası'nın temsilcisi geri çağırırken bürosunu kapatıldı. Bunun üzerine, SPK, 25 Ekim 1990'da bankanın aracılık faaliyetlerinin durdurulmasına ve iMKB üyelik belgesinin iptaline karar verdi. Ancak, banka, aracılık faaliyetini sürdürdü. İmar Bankası, 2002 yılının Ekim ayından itibaren, sistematik şekilde önemli miktarda açığa Devlet İç Borçlanma Senedi DiBS satışı gerçekleştirdi. 30 Haziran 2003 itibariyle, DiBS portföyü 15 milyar lira olan Bankanın DiBS satışı yapıyor gibi göstermek suretiyle müşterilerinden 728,4 trilyon lira tutarında para toplamış olduğu ortaya çıktı. 
+   
+   
+   
+</TEXT>
+</DOC>

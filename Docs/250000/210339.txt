@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 210339 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/22/son/sondun05.html </URL>
+<DATE> 2004/01/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Internet'ten korsan şarkı indiren 532 kişiye dava 
+</HEADLINE>
+<TEXT>
+
+     ABD'deki müzik şirketleri, İnternet'ten telif haklarına aykırı olarak şarkı dosyası indiren ve paylaşan 2 kişiye daha dava açtı. 
+     ABD'deki plak şirketlerini çatısı altında toplayan Amerika Albüm Endüstrisi Birliği RIAA , internet üzerinden müzik korsanlığıyla mücadele çerçevesinde geçen Eylül'de 261 kişiye açtığı davanın ardından dün de 2 kişiyi mahkemeye verdi. 
+     RIAA, Eylül'de giriştiği hukuk mücadelesinden farklı olarak bu kez şahıslara değil, bilgisayarların sayısal ya da Internet Protokol IP adreslerine dava açtı. 
+     RIAA Başkanı Cary Sherman, ''yasadışı dosya paylaşanlara bununla mücadeleye ne kadar kararlı oldukları mesajını verdiklerini'' belirtti. 
+     RIAA'nın açtığı davalardan sonra yapılan bir araştırmada, 1,4 milyon kullanıcının telif hakları davalarından çekinerek bilgisayarlarındaki müzik parçalarını sildikleri ortaya çıkmıştı. 
+     
+</TEXT>
+</DOC>

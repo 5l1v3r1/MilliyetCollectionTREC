@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 260791 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/05/son/soneko08.html </URL>
+<DATE> 2004/08/05/ </DATE>
+<TIME> 10.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tarımdan sanayiye kaynak aktarımı... 
+</HEADLINE>
+<TEXT>
+
+     Tarım ve sanayii arasındaki fiyat dengesi, son üç ayda hızla sanayi lehine gelişti, tarımdan sanayiye kaynak aktarımı yaşandı. 
+     Devlet İstatistik Enstitüsü'nün DİE verilerine göre, mayıs-temmuz döneminde fiyatlar tarımda yüzde 20.3 gerilerken, sanayide yüzde 4.5 artış gösterdi. Bunun sonucunda iki sektör arasındaki fiyat dengesini gösteren iç ticaret haddi yaklaşık 33 puan düşerek 104.2'ye indi. Diğer bir deyişle son üç ayda tarımdan sanayiye kaynak transferi yaşandı. Ancak bu gerilemeye rağmen iç ticaret haddi hala tarım lehinde kaldı. 
+     DİE'nin toptan eşya fiyat endeksi TEFE kapsamındaki tarım fiyatları endeksinin sanayi fiyatları endeksine oranlanmasıyla bulunan iç ticaret haddinin büyümesi tarım küçülmesi sanayi lehine bir fiyat gelişmesine işaret ediyor. 
+     İç ticaret haddinin 100'ün üzerinde olması, baz yılına göre tarım ürünlerinin altında olması ise sanayi fiyatlarının daha çok arttığını gösteriyor. 
+     
+     İLK DÖRT AYDA HIZLA BÜYÜMÜŞTÜ 
+     İki temel sektör arasında 2003 sonu itibariyle zaten tarım lehinde var olan fiyat marjı, bu yılın ilk dört ayında hızla büyümüştü. Ocak-nisan döneminde tarımdaki fiyat artışı yüzde 27.6'ya ulaşırken, sanayide yalnızca yüzde 4 oranında bir artış yaşanmıştı. 
+     2003'ün aralık ayı sonunda 111.5'le tarım lehine 
+     bulunan had, bu yıl ocak sonunda 121.1'e, şubat sonunda 127.2'ye, mart sonunda 129.4'e, nisan sonunda da 136.8'e kadar yükselmişti. İç ticaret haddi, dört aylık dönemde 25 puan artmıştı. İzleyen dönemde tarımda yaşanan hızlı fiyat düşüşlerinin etkisiyle had, mayıs sonunda 127, haziranda 115.3 ve temmuzda 104.2'ye indi. Mayıs-temmuz dönemindeki gelişmeyle birlikte ilk yedi aylık dönem itibariyle tarımdaki fiyat artışı yüzde 4.7'ye gerilerken, sanayideki artış yüzde 11.7'ye ulaştı. Temmuz sonu itibariyle 104.2'ye gerileyen iç ticaret haddi de tarımın hala sanayiye karşı bir miktar fiyat avantajına sahip olduğunu gösteriyor. Haddin, tarımda fiyatların gerilemeye devam edeceği ağustos ayında tamamen sanayi lehine dönmesi bekleniyor. 
+     
+</TEXT>
+</DOC>

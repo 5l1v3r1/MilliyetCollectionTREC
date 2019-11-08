@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 266265 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/25/son/soneko12.html </URL>
+<DATE> 2004/08/25/ </DATE>
+<TIME> 10.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kredi kartlarına getirilecek yeni düzenlemeler neler 
+</HEADLINE>
+<TEXT>
+
+     Banka ve kredi kartları kullanımına çeki düzen verilmesine dönük hazırlanan taslak ortaya çıktı. Buna göre kart çıkaran kuruluşlar, yazılı talepte bulunmayan kimseler adına kart çıkaramayacak, belirleyecekleri usuller çerçevesinde kullanım sınırı tespit edecek. 
+     BDDK'nın hazırladığı Banka ve Kredi Kartları Kanun taslağına göre, kart sahipleri ile yapılacak sözleşme hükümleri açık, anlaşılır bir şekilde ve kolaylıkla okunabilir puntolarla düzenlenecek. 
+     Sözleşmelerde, temerrüt gecikme dahil her türlü faiz oranı, faiz benzeri diğer oranlar, vergi, ceza, ücret ve komisyon gibi parasal yükümlülüklere ilişkin hükümler, sözleşmenin yenilenmesi ve feshine ilişkin hususlar kolayca anlaşılır şekilde belirli esaslar bağlanacak. 
+     
+     KART LİMİTLERİ 
+
+     Taslak uyarınca, herhangi bir hesap bakiyesi ile sınırlı olmaksızın kart çıkaran kuruluşlar, bu kartlar için kendi tespit edecekleri usuller çerçevesinde yapacakları değerlendirmeye istinaden bir kullanım sınırı tespit etmek zorunda olacak. 
+     Bankalar için ise Bankalar Kanunu hükümleri saklı kalmak üzere Kurul, kart çıkaran kuruluşların genel ve bireysel risk sınır ve oranlarını bir yönetmelikle belirleyecek. 
+     Kartın ya da şifre ve kimlik belirleyici başka yöntemler gibi bilgilerin kaybolması ya da çalınması halinde, kart hamili yazı ile de teyit edilen sözlü bildirimden sonraki kullanımlardan sorumlu olmayacak. Sorumluluk kart çıkaran kuruluşa ait olacak. 
+     Banka kartı ile yapılan işlemlere, işlem tarihinden itibaren 30 gün içinde itiraz edilmediği takdirde, işlem kesinleşmiş sayılacak. 
+     Kart hamili adres değişikliklerini, değişiklik tarihinden itibaren 15 gün içerisinde yazılı olarak bildirmekle yükümlü olacak. 
+
+     
+</TEXT>
+</DOC>

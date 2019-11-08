@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 303040 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/03/son/soneko24.html </URL>
+<DATE> 2005/01/03/ </DATE>
+<TIME> 12.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yazar kasa teknik servislerinde YTL yoğunluğu... 
+</HEADLINE>
+<TEXT>
+
+     Yeni yılda kullanılmaya başlayan YTL, ilk iş gününde yazar kasa teknik servislerinde yoğunluk yaşanmasına neden oldu. 
+     Kasalarını YTL'ye ayarlamakta zorluk çeken esnaf, ilk müşterilerin gelmesinin ardından, teknik servisleri aramaya başladı. 
+     Profilo Elektronik Servis Adana Bölge Müdürü Şenol Yenilmez, AA muhabirine yaptığı açıklamada, kasaların YTL'ye uyumlu olduğunu, ancak bu kapsamda hizmet verebilmesi için gerekli birkaç işlemin sırasıyla yapılması gerektiğini söyledi. 
+     Geçiş öncesi müşterilerine, gerekli işlemlerin nasıl yapılacağını anlatan doküman dağıttıklarını ifade eden Yenilmez, buna rağmen gelen telefonlara cevap vermekte güçlük çektiklerini söyledi. 
+     YTL'li ilk iş gününde benzer bir yoğunluk yaşanabileceğini tahmin ettiklerini ve tüm personeli bu yönde hazırladıklarını kaydeden Yenilmez, şöyle konuştu 
+     ''Sabahın erken saatlerinden itibaren telefonlarımız hiç susmadı. İlk uygulamayı yapacaklar, hata yapmaktan endişe duydukları için bizi arıyorlar. Gerek telefonda, gerekse işyerlerine giderek, tüm sorulara cevap vermeye çalışıyoruz. Müşterilerimiz ayarlamaları yapmakta bazı güçlükler yaşıyorlar. Ayrıca, el alışkanlığından yaşanan zorluklar da var. Bu bir uyum süreci, en kısa sürede atlatılabilmesi için biz de tüm personelimizle çalışıyoruz.'' 
+
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 161847 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/08/son/soneko07.html </URL>
+<DATE> 2003/06/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kartılı Geçiş sistemi yakında boğaziçi köprülerinde... 
+</HEADLINE>
+<TEXT>
+
+     Otoyol ve boğaziçi köprülerinde 1999 yılında uygulamaya başlanılan ''Otomatik Geçiş Sistemi''nin OGS yanı sıra, bir süredir üzerinde çalışılan Kartlı Geçiş Sistemi de KGS uygulamaya alınacak. 
+     Kullanıcılara sunulan geçiş ücreti ödeme yöntemlerindeki çeşitliliği arttırmak, entegre ödeme yöntemlerini yaygınlaştırmak ve idarenin ücretli yollardaki işletme hizmetinde karşılaştığı güçlüklerin azaltılmasına katkıda bulumak amacıyla, yakın tarihte KGS de devreye girecek. 
+     Karayolları Genel Müdürlüğü'nce yapılan çalışmaya göre KGS ile geçiş işlemlerinde araç sahipleri, idare veya anlaşmalı bir bankadan temin edecekleri kredi kartı büyüklüğündeki ''akıllı kartı'' gişelerde kurulacak elektronik geçiş turnikelerine temas ettirmek sureti ile geçiş işlemi yapabilecekler. 
+     Karayolları Genel Müdürlüğünün uygulamasına bu yıl başlamayı planladığı ''KGS'' sistemleri, ilk olarak OGS'lerde olduğu gibi İstanbul Birinci Boğaziçi köprüsünün bazı güzergahlarında devreye sokulacak. İkinci aşamada Fatih Sultan Mehmet köprüsüne daha sonra ise diğer paralı otoyollara yaygınlaştırılacak sistemle, Boğaziçi köprü trafiği büyük ölçüde rahatlamış olacak. 
+     Avrupa'nın birçok ülkesinde yaygın olarak kullanılan Kartlı Geçiş Sistemi kartları yerli olarak üretilecek. 
+     
+</TEXT>
+</DOC>

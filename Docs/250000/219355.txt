@@ -1,0 +1,51 @@
+<DOC>
+<DOCNO> 219355 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/03/guncel/gun02.html </URL>
+<DATE> 2004/03/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kolonları tıraşlamışlar 
+</HEADLINE>
+<TEXT>
+
+   Rapora göre betonda toprak, kum ve çakıl kullanılması, kiriş eksikliği, kolonlar tıraşlanmasa bile çökmeyi kaçınılmaz kıldı 
+      AYDIN HASAN Ankara 
+   
+   Konya'da 92 kişiye mezar olan Zümrüt Apartmanı'nın zemin katındaki mağazaların bulunduğu bölümde bir kolonun ve arka tarafta bazı kolonların tadilatlar sırasında tıraşlandığı ortaya çıktı. Bu durum binanın çöküşünü tetiklerken, alt kattaki iki mağazadan Vakko'daki tadilat iddiaları da yeniden gündeme geldi. 
+   Doç. Dr. Can Balkaya başkanlığındaki Ortadoğu Teknik Üniversitesi ODTÜ teknik ekibi raporunu tamamladı. Binadan alınan numunelerin test sonuçlarını içeren rapor, Konya Başsavcılığı'na gönderildi. Balkaya, yapısal sistemi zayıf olan binanın çökmesindeki tetikleyici etken konusunda şu değerlendirmede bulundu 
+   
+   Arka tarafta da bulgular var 
+   "Enkazda kolon küçültmesiyle ilgili bulguya rastladık. Mağazaların olduğu bölümdeki kolonlardan biri tıraşlanarak inceltilmiş. Tetikleyici nedenin bu olma ihtimali oldukça yüksek. Kolon parçaları, savcılık tarafından emanete alındı. Binanın arka bölümünde de, tıraşlandığından ve sıyırma yapıldığından şüphelendiğimiz kolon parçaları gözlemledik. Tahminimiz tadilatlar sırasında kolanlarla oynanmış." 
+   Binanın normal olması durumunda kısmi çökme yaşanabileceğini ancak yapısal sistemdeki sorunlar nedeniyle tümüyle çöktüğünü ifade eden Balkaya, "Kolonlarla oynanmasa bina bir süre daha giderdi, ancak yine çökme ihtimali yüksek olurdu" dedi. 
+   
+   İMALAT KUSURLARI 
+   Beton kalitesi düşük 
+   İnce malzeme kum oranı yüksek 
+   Çakıl oranı az 
+   Standart dışı agregalar iri çakıl 
+   Beton üniform dağılımı ve kalitesi değil 
+   Betonun toprak ihtiva etmesi 
+   Dere kumu kullanılması 
+   Kötü işçilik 
+   Aderans demir-beton uyumu eksikliği 
+   
+   PROJE KUSURLARI 
+   Yapısal sistemde zayıflık ve süreksizlikler 
+   Binanın dışında çepeçevre çıkmalar 
+   Kirişlerin dış tarafa alınması sebebiyle taşıyıcı çerçeve sistemi oluşturulamaması 
+   Kolon aralarında, dış çerçevede kiriş olmaması ve binanın köşe kolonlarının zorlanır durumda olması. Bu durum özellikle sistemin yatay yükler ya da dengesi bozulduğunda oluşacak burulmada önemlidir 
+   Bodrum ve zemin kat kolonlarının standarttan küçük olması 20 50 santimetrelik kirişler zorlanır durumda 
+   
+   PROJE DIŞI TADİLATLAR 
+   Zemin katta yapılan ara katlarla zorlanan bodrum ve zemin kat kolonlarına yüzde 15 mertebesinde ilave yük gelmektedir. 
+   Sınırda dengede duran binanın çökmesinde tetikleyici durumun proje dışı yapılan imalatlar ve zemin kattaki tadilatlardan meydana geldiği ihtimali yüksektir. 
+   
+   DENETİM EKSİKLİĞİ 
+   İmalat ve projeyle ilgili belediyenin denetim mekanizmaları bir formaliteden ibaret kalmıştır. 
+   
+   
+   
+</TEXT>
+</DOC>

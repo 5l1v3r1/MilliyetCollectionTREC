@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO> 156159 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/12/son/soneko12.html </URL>
+<DATE> 2003/05/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İkinci vergi paketi yolda... 
+</HEADLINE>
+<TEXT>
+
+     Türkiye'de yıllardır tartışma konusu olan enflasyon muhasebesi, yeni vergi düzenlemeleriyle 1 Ocak 2004 tarihinde uygulamaya girecek. 
+     Edindiği bilgiye göre, Gelirler Genel Müdürlüğü, ikinci vergi paketine ilişkin çalışmalarını sürdürüyor. 
+     Paketin ana düzenlemesi, enflasyon muhasebesi olacak. Önümüzdeki hafta nihai şekli verilmesi beklenen taslakta, enflasyon düzeltmesinin kapsamı, ''Kazançlarını bilanço esasına göre tespit eden gelir veya kurumlar vergisi mükellefleri son 36 ayda fiyat endeksinde meydana gelen artışın yüzde 100'ü aşması halinde, içinde bulunulan dönemin mali tablolarını enflasyon düzeltmesine tabi tutarlar'' şeklinde çizildi. 
+     Buna göre, baz alınan toptan eşya fiyat endeksindeki TEFE artışın yüzde 100'üı aşmaması durumunda enflasyon düzeltmesi yapılmayacak. Bakanlar Kurulu, bu oranı yüzde 35'e kadar indirmeye ya da tekrar kanuni seviyesine yükseltmeye yetkili olacak. 
+     Geçici bir maddeyle de yüzde 100 oranının hesaplanmasında, uygulamanın başladığı yıldan önceki 2 yılın fiyat endeksindeki artışlar dikkate alınacak. 
+     Enflasyon düzeltmesi, kayıtlara dayanak teşkil eden belgelerin düzenleme tarihleri esas alınarak yapılacak. Ancak düzeltme işlemine tabi tutulacak kalemlerin türüne göre, satın alma, ödeme, tahsil, belge, tescil ve mülkiyetin intikali gibi tarihler Maliye Bakanlığı'nca belirlenecek. 
+     
+     KURUMLAR VE GELİR VERGİSİ MÜKELLEFLERİ 
+     Düzeltme farkları, kurumlar vergisi mükelleflerince sermayeye ilave dışında herhangi bir nedenle başka bir hesaba nakledildiğinde ya da çekildiğinde, bu dönemin kazancı ile ilişkilendirilmeksizin, vergi matrahının tespitinde dikkate alınacak. Bu farkların, sermayeye ilave edilmesi kar dağıtımı sayılmayacak. 
+     Maliye Bakanlığı, mükellef ve meslek grupları ya da aktif toplamlar ve cirolar itibarıyle toplulaştırılmış yöntemler uygulayabilecek. Bilanço dışındaki diğer mali tabloların enflasyon düzeltmesine tabi tutulup tutulmayacağına karar verebilecek. 
+     Enflasyon düzeltmesine göre matrah tespitinde, kanunen kabul edilmeyen giderler, istisnalar ve indirimler, tahakkuk ettikleri tarih, geçmiş yıl mali zararları ve ilgili hesap dönemi gözönünde tutularak dikkate alınacak. 
+     Satın alınan ya da imal edilen emtia, maliyet bedeliyle değerlenecek. Emtianın maliyet bedeline nazaran değerleme günündeki satış bedelleri, yüzde 10 ve daha fazla bir düşüş göstermediği durumlarda, emsal bedeli ölçüsü tatbik edilecek. 
+     
+     DÜZELTME KATSAYILARI İLAN EDİLECEK 
+     Yeni düzenleme uyarınca, Maliye Bakanlığı 1 Ocak 2004 tarihinden önceki takvim yıllarına ait olmak üzere, Türkiye geneli için TEFE endeksini gözönünde tutarak, parasal olmayan kalemler için düzeltme katsayıları hesaplayarak ilan edecek. 
+     1 Ocak 2004 öncesi dönemler için maddi duran varlıklar, mali duran varlıklar ve özel tükenmeye tabi varlıklar ile stokların maliyet ya da alış bedelleri içindeki reel olmayan finansman giderleri, belgelendirmeleri halinde ilgili varlığın maliyet bedelinden düşülecek. 
+     Belgelenememe durumunda ise önceki 5 yıl içinde aktife giren kalemlerin maliyet bedeline dahil olan finansal giderlerinin reel olmayan kısımları, oranlar dahilinde bedelden indirilecek. 
+     
+     DİĞER KONULAR 
+     Bu arada istihdam teşviklerine ilişkin hazırlanan taslağın da yeni vergi paketine konulması düşünülüyor. Bu düzenleme ile işe bu yıl işe alınacak personelin ücret stopajının yüzde 90'ının, 2004'de ise yüzde 80'inin tahsilinden vazgeçiliyor. 
+     Böylece asgari ücretle işe başlayan bir işçiden, her ay şu anki asgari ücretle 32 bin 265 bin lira yerine 3 milyon 225 bin lira gelir vergisi alınacak. Brüt maaşı 500 milyon lira olan bir işçiden yüzde 15'lik vergi tarifesi ile 68 milyon 250 bin lira yerine 6 milyon 825 bin lira vergi kesilecek. 
+     Serbest bölgelerle ilgili vergi muafiyetlerinin azaltılması konusunda ise son sözü, hükümetin söyleyeceği belirtiliyor. Gelirler Genel Müdürlüğü, serbest bölgelerdeki istisna ve muafiyetlerin büyük bir vergi kaçağına yolaçtığını ve istismar konusu olduğunu belirterek, bu konuda kısıtlamaya gidilmesini istiyor. Ancak Devlet Bakanı Kürşad Tüzmen buna karşı çıkıyor. 
+     
+</TEXT>
+</DOC>

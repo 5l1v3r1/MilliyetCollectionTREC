@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 360692 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/13/son/sondun50.html </URL>
+<DATE> 2005/07/13/ </DATE>
+<TIME> 22.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Discovery uzay mekiğinin fırlatılışı teknik bir sorun nedeniyle ertelendi 
+</HEADLINE>
+<TEXT>
+
+     Discovery uzay mekiğinin fırlatılışının, teknik bir sorun nedeniyle ertelendiği bildirildi. 
+     Amerikan Havacılık ve Uzay Dairesi’nden NASA yapılan açıklamada, yakıt tankında meydana gelen bir sorun nedeniyle, 2,5 yıl önce meydana gelen Columbia faciasından sonra uzaya gönderilmesi planlanan ilk uzay mekiği olan Discovery’nin fırlatılmasını ertelediğini belirtildi. 
+     Yakıt tankındaki sorunun hızlı bir şekilde giderilerek, uçuşun Perşembe günü yapılmasının imkansız olduğu vurgulanan açıklamada, sorunun uzay aracının dört motorundan birinde bulunan ve uzay aracının motorlarının uygun noktada durdurulmasını temin eden kapatma duyargalarında sensors olduğu ifade edildi. Duyargaların, tam dolu olmasına rağmen yakıt tanklarındaki yakıt seviyesini düşük gösterdiği kaydedildi. 
+     Bu sorun yüzünden yükselmesi esnasında mekiğin güç kaybına uğrayabileceğinden dolayı NASA’nın böyle bir karar aldığı belirtildi. 
+     Yüksek hızda seyrederken yakıtlarının bitmesi durumunda uzay aracının motorlarının büyük bir felakete yol açabileceğini belirten uzmanlar, sorun giderilmeden uçuşun yapılamayacağını ifade ettiler. 
+     Nisan ayında yapılan yakıt testlerinde de Discovery’nin orijinal yakıt tanklarında sorun bulunmuş ve NASA arızayı onarmak yerine yakıt tankını tamamen değiştirmeyi tercih etmişti. 
+     Açıklamada, ertelemenin ne kadar süreceği konusunda henüz bir karara varılmadığı, ancak sorunun giderilmesine bağlı olarak bu sürenin günler alabileceği kaydedildi. 
+     NASA yetkilileri, yaptıkları toplantının ardından hava şartlarının mekiğin TSİ 22.51’de kalkışına uygun olduğu kararına vararak, Discovery’nin dış yakıt tanklarına oksijen ve hidrojen doldurulması talimatı vermişlerdi. 
+     
+</TEXT>
+</DOC>

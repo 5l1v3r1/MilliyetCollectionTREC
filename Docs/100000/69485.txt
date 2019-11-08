@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 69485 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/02/25/son/sontur16.html </URL>
+<DATE> 2002/02/25/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternette tuzaklara dikkat 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekom, internet kullanıcılarını, internetteki tuzaklara karşı uyardı. 
+     Türk Telekom, resmi internet sitesi ''www.telekom.gov.tr''de, internet kullanıcılarına, bazı sitelere girildiğinde tuzaklarla karşılaşıldığı, bu nedenle normal bağlantılarının otomatik kesilerek uluslararası bağlantıya geçildiği yolunda uyardı. 
+     Türk Telekom duyurusunda, internette özellikle porno sitelerinde bulunan bu tuzaklarla, bilgisayar programı sayesinde, kullanıcıların bilgisi olmadan bazı ülkelerin paralı hatlarına telefon bağlantısı yaptırdığına dikkat çekildi. Duyuruda, son günlerde bazı abonelerden çok yüksek telefon faturası geldiği yönündeki şikayetler üzerine bu olayın ortaya çıkarıldığı anlatıldı. 
+     Söz konusu sitelerin bağlantı numaralarının, dünyanın en pahalı hatlarına sahip ülkelere ait olduğu ve bu ülkelerin başında Şili ve Yeni Hebri'nin geldiği vurgulanan duyuruda şöyle denildi 
+     ''İnternette surf yaparken, ücretsiz siteye bağlanmak için bilgisayara bir dosyanın yüklenmesi istenir. Tıklanan dosyanın bilgisayara download edilerek çalıştırılması ya da bulunduğu yerden web sitesinden yüklenilmesiyle, mevcut internet bağlantısı kesilir. 
+     Bu bağlantı ekranda kullanıcıya gösterilmeden Şili, Yeni Hebri vb. 
+     ülkelerin pahalı hatlarıyla uluslararası telefon bağlantısı yaptırılmaktadır.'' Böyle bir bağlantıda kullanıcının normal internet tarifesiyle surf yapmadığı, aslında uluslararası bir arama yaptığı vurgulanan duyuruda, bu gibi sitelerde para tuzağına düşülmemesi için tüm internet kullanıcılarının daha dikkatli olması gerektiği ifade edildi. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 385151 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/08/son/sonyas02.html </URL>
+<DATE> 2005/10/08/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Rusya'dan mini uzay aracı denemesi 
+</HEADLINE>
+<TEXT>
+
+     Rusya, Uluslararası Uzay İstasyonu’ndan UUİ Dünya’ya yük ve yolcu taşıyabilecek yeni bir mini uzay aracının denemesini yaptı. 
+     İnterfax ajansının bildirdiğine göre, Rusya uzay tasarım bürosu, yeni mini uzay aracının bugün Barents Denizi’nde nükleer bir denizaltıdan balistik Volna füzesiyle fırlatıldığını açıkladı. 
+     Kullanımdaki Soyuz uzay araçlarına düşük maliyetli alternatif olarak tasarlanan yeni uzay aracının daha sonra planlandığı gibi Rusya’nın uzakdoğusundaki Kamçatka yarımadasında bulunan Kura test sahasına indiği belirtildi. 
+     Ancak tüm aramalara karşın, mini uzay aracının test sahasında henüz bulunamadığı ve temasın kurulamadığı kaydedildi. 
+     Yeni mini uzay aracının Rus yük gemisi Progress ile UUİ’ye taşınması ve buradan Dünya’ya yük ve yolcu getirmesi planlanıyor. 
+     
+</TEXT>
+</DOC>

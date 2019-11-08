@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 217696 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/25/son/soneko02.html </URL>
+<DATE> 2004/02/25/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsası düşüşle kapandı... 
+</HEADLINE>
+<TEXT>
+
+     New York borsasında Dow Jones ve Nasdaq endeksleri günü düşüşle tamamladı. 
+     Borsanın temel göstergesi Dow Jones, 43.25 puan düşerek günü 10,566.37 puandan kapattı. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq da, 2.08 puan kayıpla 2,005.44 puana geriledi. 
+     
+</TEXT>
+</DOC>

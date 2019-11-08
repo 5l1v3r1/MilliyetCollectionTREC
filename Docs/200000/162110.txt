@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 162110 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/09/son/sontur34.html </URL>
+<DATE> 2003/06/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+'Sanal imza' yasalara giriyor... 
+</HEADLINE>
+<TEXT>
+
+     Elektronik imzanın hukuki ve teknik yönleri ile kullanımını düzenleyen yasa tasarısı, TBMM Başkanlığı'na sunuldu. 
+     ''Elektronik İmza Kanunu Tasarısı'', güvenli elektronik imzayı tanımlanırken, bunun hukuki sonucu ve uygulama alanını da belirtiyor. Buna göre, güvenli elektronik imza, elle atılan imzayla aynı hukuki sonucu doğuracak. Kanunların resmi şekle veya özel bir törene tabi tuttuğu hukuki işlemler ile teminat sözleşmeleri güvenli elektronik imza ile gerçekleştirilemeyecek. 
+     Güvenli elektronik imzayı oluşturan araçlar ''ürettiği elektronik imza oluşturma verilerinin kendi aralarında bir eşi daha bulunmaması, üzerinde kayıtlı olan elektronik imza oluşturma verilerinin araç dışına hiçbir biçimde çıkarılamaması ve gizliliği, ürettiği elektronik imza verilerinin üçüncü kişilerce elde edilmemesi, kullanılamaması ve elektronik imzanın sahteciliğe karşı korunması, imzalanacak verilerin imza sahibi dışında değiştirilememesini ve bu verinin imza sahibi tarafından imzanın oluşturulmasından önce görülebilmesi'' olarak düzenleniyor. 
+     Tasarıda, güvenli elektronik imzayı doğuran araçlar da tanımlanıyor. 
+     
+     ELEKTRONİK SERTİFİKA 
+     Tasarıda, imza sahibinin imza doğrulama verisini kimlik bilgilerini birbirine bağlayan elektronik kaydı, ''elektronik sertifika'' olarak tanımlanıyor. 
+     Tasarıda, elektronik sertifika hizmet sağlayıcıları, nitelikli elektronik sertifika, elektronik sertifika hizmet sağlayıcısının yükümlülükleri ve nitelikli elektronik sertifikanın iptal edilmesine ilişkin şartlar da belirtilirken, bilginin korunmasına ilişkin hükümlere de yer veriliyor. Buna göre, elektronik sertifika hizmet sağlayıcıları, elektronik sertifika vermek için gerekli bilgiler hariç bilgi talep edemeyecek ve bu bilgileri kişinin rızası dışında elde edemeyecek. 
+     Elektronik sertifika hizmet sağlayıcısının elektronik sertifika sahibine karşı sorumluluğu genel hükümlere tabi kılınıyor. 
+     Elektronik sertifika hizmet sağlayıcısı, kanundan doğan yükümlülüklerini yerine getirmemesi sonucunda oluşacak zararların karşılanması amacıyla ''Sertifika mali sorumluluk sigortası'' yaptıracak. Bu sigorta, Türkiye'de ilgili branşta çalışmaya yetkili olan sigorta şirketleri tarafından yapılacak. 
+     Yabancı bir ülkede kurulu bir elektronik sertifika hizmet sağlayıcısı tarafından verilen nitelikli elektronik sertifikaların hukuki sonuç doğurabilmeleri, milletlerarası anlaşmalarla bağlı olacak. 
+     Elektronik sertifika hizmet sağlayıcılarının faaliyetlerini ve işlemlerinin denetimini Telekomünikasyon Kurumu yerine getirecek. Kurum, gerekli gördüğünde elektronik sertifika hizmet sağlayıcılarını denetleyebilecek ve denetim sırasında görevliler tarafından her türlü defter, belge ve kayıtların verilmesi, yönetim yerleri, bina ve eklentilerine girme, yazılı ve sözlü bilgi alma, örnek alma ve hesapları incelenebilecek. 
+     
+     ELEKTRONİK İMZADA SAHTECİLİK 
+     Tasarı, elektronik sertifikalarda sahtecilik yapanlara da cezalar getiriyor. Buna göre, sahte elektronik sertifika oluşturanlara 2 yıldan 5 yıla kadar hapis ve 1 milyar liradan aşağı olmamak üzere ağır para cezası verilebilecek. 
+     Yükümlülüklerini yerine getirmeyen elektronik sertifika hizmet sağlayıcılarına 8 milyar liradan 20 milyar liraya kadar para cezası öngörülürken, suçların tekrarı halinde para cezaları 2 kat olarak uygulanacak. 
+     
+     ELLE ATILAN İMZA GİBİ 
+     Tasarı, ilgili kanunlarda da paralel düzenlemeler içeriyor. Güvenli elektronik imza, elle atılan imzayla aynı ispat gücüne sahip olacak. Güvenli elektronik imzayla oluşturulan elektronik veriler senet hükmünde olacak, bu veriler, aksi ispat edilinceye kadar kesin delil sayılacak. Dava sırasında bir taraf kendisine karşı ileri sürülen ve güvenli elektronik imzayla oluşturulmuş veriyi inkar ederse, Hukuk Usulu Muhakemeleri Kanunu'nun imza inkarına ilişkin hükümleri kıyas yoluyla uygulanacak. 
+     Tasarı yasalaştıktan 6 ay sonra yürürlüğe girecek. 
+     
+</TEXT>
+</DOC>

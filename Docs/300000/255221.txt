@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 255221 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/13/son/sonyas15.html </URL>
+<DATE> 2004/07/13/ </DATE>
+<TIME> 15.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft, 'XP Servis Paketi 2' Ağustos'ta çıkıyor... 
+</HEADLINE>
+<TEXT>
+
+     Microsoft firması, işletim sistemindeki açıkları gidererek güvenliği artıran yeni Windows XP Servis Paketi 2'yi SP2 , 2 ay gecikmeyle Ağustos ayında çıkarıyor. 
+     İşletim sistemi açıklarını gideren yamalardan ziyade tamamen yeni uygulamalar içeren SP2, güvenlik konularında radikal değişikleri öngörüyor. 
+     Microsoft müşteri ilişkileri başkan yardımcısı Will Poole, Toronto'da düzenlediği basın toplantısında, SP2'yi anlatırken, amaçlarının tüm saldırı noktalarına karşı kalkan kurmak ve izolasyon sağlamak olduğunu söyledi. 
+     Yeni paket için güvenlik sorunuyla ilgili kuralları radikal olarak değiştirmeleri gerektiğini belirten Poole, sonuçta SP2'nin Ağustos'ta çıkarılacağını söyledi. 
+     Poole, ayrıca XP SP2'ye daha önce açıklanmayan bazı ilaveler daha yapıldığını kaydetti. 
+     
+</TEXT>
+</DOC>

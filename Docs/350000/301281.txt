@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 301281 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/27/son/soneko28.html </URL>
+<DATE> 2004/12/27/ </DATE>
+<TIME> 12.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı 54 puanlık düşüşle tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeks, Cuma günkü kapanışa göre 54.87 puan azalarak, 1. seansı 24,482.85 puandan tamamladı. 
+     1. seansta, hisse senetleri ortalama yüzde 0.22 değer kaybetti. 
+     Cuma günü 24,537.72 puandan kapanan İMKB Ulusal 100 Endeksi, ilk seansa 9.45 puan artarak 24,547.17 puandan başladı. İlk yarıyı 24,481.06 puandan geçen endeks, seans içinde 24,409.85 puana kadar gerilerken, en yüksek 24,601.06 puanı gördü. 
+     Seans sonunda mali endeks 94.31 puan azalarak 34,887.88 puana, sanayi endeksi 14.63 puan azalarak 20,452.81 puana ve hizmetler endeksi 12.49 puan azalarak 13,587.40 puana geriledi. 
+     Böylece önceki kapanışa göre, mali grup hisseler ortalama yüzde 0.27 oranında, sanayi grubu hisseler ortalama yüzde 0.07 oranında ve hizmet grubu hisseler ortalama yüzde 0.09 oranında değer kaybetti. 
+     1. seansta işlem gören toplam 297 hisse senedinden 102'si değer kazandı, 129'u değer kaybetti, 66 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta, 229 trilyon 945 milyar 398 milyon liralık işlem hacmi oluştu. 
+     1. seansta Park Madencilik, Ceytaş Madencilik, Finansbank, Dışbank ve Şekerbank, en çok işlem gören hisse senetleri oldu. 
+     
+</TEXT>
+</DOC>

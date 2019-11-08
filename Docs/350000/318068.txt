@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 318068 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/24/guncel/axgun02.html </URL>
+<DATE> 2005/02/24/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kırmızı ışık İlaç yok 
+</HEADLINE>
+<TEXT>
+
+
+Eczacının kullandığı SSK programında, bilgisayar kırmızı ışıklı uyarı verirse bu, "İlaç ödenmez" demek 
+
+
+SSK çalışanı ve emeklilerin serbest eczanelerden ilaç alımında eczacıyı, tıpkı trafik lambaları gibi renkli fonlar yönlendiriyor. 
+SSK'liye ait sağlık karnesini alan eczacı, internetten SSK İlaç Programı'na girip ilgili kişiye ait bilgileri bilgisayara kaydediyor. 
+
+Yeşil yanarsa sorun yok 
+Reçetede yazılan ilaçlar kaydediliyor. Hasta, doktor ve ilaç bilgilerinin yüklenip merkeze gönderilmesinden sonra yanıt bekleniyor. SSK Bilgi İşlem Merkezi'nin geri dönüşünde, bilgisayar ekranında görülen, trafik ışıkları gibi 3 renk eczacıyı yönlendiriyor. 
+İlaç isminin geri fonunda çerçeve içinde yeşil renk yandığında, o ilaç sorun çıkmadan hastaya veriliyor. Sarı yandığında eczacı uyarılıyor. İlacın fiyatında, dozunda, ilacın muadilinin benzer ve ucuz olanı verilmesi için yeni ilaç isimleri öneriliyor. Kırmızı yandığında ise "ilaç ödenmez" uyarısı yapılıyor. Reçetedeki ilacın ya uzman hekim tarafından yazılması veya rapor alınması isteniyor. 
+SSK'nin ödeme yapabileceği ilaçların listesinde yer almayan ilaçlar için de kırmızı ışık yanıyor. 
+
+
+
+</TEXT>
+</DOC>

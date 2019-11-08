@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 316396 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/18/son/sondun54.html </URL>
+<DATE> 2005/02/18/ </DATE>
+<TIME> 23.38 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsası Dow Jones yükseldi 
+</HEADLINE>
+<TEXT>
+
+     New York menkul kıymetler borsasında Dow Jones endeksi 29.56 puan artarak 10,783.82 puandan kapandı. 
+     Nasdaq teknoloji endeksi ise 2.67 puan düşerek 2,058.67 puana geriledi. 
+     
+</TEXT>
+</DOC>

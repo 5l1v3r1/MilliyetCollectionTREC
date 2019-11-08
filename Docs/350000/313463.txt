@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 313463 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/08/son/soneko24.html </URL>
+<DATE> 2005/02/08/ </DATE>
+<TIME> 12.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Serbest piyasada dolar 1.3250 YTL 
+</HEADLINE>
+<TEXT>
+
+     İstanbul ve Ankara'da dolar, avro ve sterlinin alış-satış fiyatları, saat 12.00 itibariyle YTL olarak şöyle 
+     
+
+İSTANBUL SERBEST PİYASA ALIŞ SATIŞ ABD Doları 1.3200 1.3250 Avro 1.6840 1.6900 İngiliz Sterlini 2.4350 2.4600      
+
+ANKARA SERBEST PİYASA ALIŞ SATIŞ ABD Doları 1.3170 1.3270 Avro 1.6800 1.6930 İngiliz Sterlini 2.4300 2.4650      
+</TEXT>
+</DOC>

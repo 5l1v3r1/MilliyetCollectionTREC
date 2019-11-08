@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 164927 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/23/son/soneko10.html </URL>
+<DATE> 2003/06/23/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa haftanın ilk seansında 38 puan düştü... 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası İMKB Ulusal-100 Endeksi, 1. seansı, 37.88 puan kayıpla 10,746.03 puandan tamamladı. 
+     Hisse senetlerinin ortalama değer kaybı yüzde 0.35 olarak gerçekleşti. 
+     Endeks, haftanın ilk seansına 5.34 puan artışla 10,789.25 puan seviyesinde başladı. İşlem hacminin düşük olduğu seansta, endeks ilk yarıyı 10,753.95 puandan geçti. 
+     Endeks, seansta en düşük 10,717.42, en yüksek 10,838.83 puanı gördü. 
+     Seans kapanışında mali endeks 54.76 puan kayıpla 12,830.22 puana, sanayi endeksi 30.20 puan kayıpla 11,034.04 puana, hizmetler endeksi 18.58 puan kayıpla 6,935.78 puana geriledi. 
+     Böylece, önceki kapanışa göre mali grup hisseler ortalama yüzde 0.42, sanayi endeksi yüzde 0.27, hizmetler grubu hisseler ortalama yüzde 0.27 oranında değer kaybetti. 
+     İşlem gören toplam 282 hissenin 133'ünün fiyatı geriledi, 78'i değer kazandı, 71'inin fiyatı değişmedi. 
+     Seansta, toplam 88 trilyon 729 milyar 949 milyon liralık işlem hacmi oluştu. 
+     1. seansta, Van Et, Garanti Bankası, Sabancı Holding, İş Bankası C , Yapı Kredi Bankası en yoğun işlem gören hisseler oldu. 
+     
+</TEXT>
+</DOC>

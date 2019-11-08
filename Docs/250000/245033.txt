@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 245033 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/03/son/soneko58.html </URL>
+<DATE> 2004/06/03/ </DATE>
+<TIME> 23.48 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Wall Street Borsası'nda endeksler düştü 
+</HEADLINE>
+<TEXT>
+
+     New York menkul kıymetler borsasında Dow Jones endeksi günü 67.06 puan düşüşle 10.195.91 puandan kapadı. 
+     Nasdaq endeksi ise 28.72 puan düşüşle, 1.960.26 puandan kapandı. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 306248 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/13/son/sontur53.html </URL>
+<DATE> 2005/01/13/ </DATE>
+<TIME> 21.32 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Deniz suyunun seviyesinin değişimi atmosferik şartlardan... 
+</HEADLINE>
+<TEXT>
+
+     Marmara Denizi sahillerinde son günlerde gözlenen deniz suyu seviyesindeki düşüşlerin ''günlük atmosferik, astronomik ve oşinografik parametrelerdeki değişimlerden kaynaklandığı'' bildirildi. 
+     Boğaziçi Üniversitesi BÜ Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü'nde, bilim adamları ve ilgili birimlerin katılımıyla, Marmara Denizi sahillerinde gözlenen su seviyesindeki değişimlere ilişkin toplantı yapıldı. 
+     Kandilli Rasathanesi'nin yanı sıra Deniz Kuvvetleri Komutanlığı Seyir Hidrografi ve Oşinografi Dairesi Başkanlığı, İstanbul Büyükşehir Belediyesi Zemin ve Deprem İnceleme Müdürlüğü, İstanbul Teknik Üniversitesi Meteoroloji Mühendisliği Bölümü, TÜBİTAK Marmara Araştırma Merkezi ve Ulusal Deprem Konseyi'nden yetkililerin katıldığı toplantının sonunda yazılı bir açıklama yapıldı. 
+     BÜ Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü Müdürü Prof. Dr. Gülay Barbarosoğlu'nun okuduğu açıklamada, son günlerde özellikle Marmara Denizi sahillerinde gözlenen su seviyesindeki değişimlerin, ''günlük atmosferik, astronomik ve oşinografik parametrelerdeki değişimlerden kaynaklandığı'' belirtildi. 
+     Bu nedenlerin kısaca, atmosfer basıncındaki değişimler, ayın ve güneşin çekim etkilerinden oluşan astronomik nedenler ve rüzgarın etkileri şeklinde özetlenebileceği ifade edilen açıklamada, şöyle denildi 
+     ''Bölgede ölçülen yüksek basınç değerleri deniz suyu seviyesinde 40-50 santimetrelik bir düşey değişime karşılık gelebilmektedir. 9 Ocak 2005 Pazar gecesi Saroz Körfezi'nde 1036 milibar, Çanakkale'de ise 1032 milibarlık yüksek hava basıncı değerleri takip eden günlerde düşme eğilimine girmiştir. Ülkemiz genelinde çeşitli istasyonlarda deniz su seviyesi ölçümleri saatlik olarak Harita Genel Komutanlığı tarafından yapılmakta ve www.hgk.mil.tr adresli web sayfasında yayınlanmaktadır. 
+     Genel olarak ülkemizdeki astronomik gel-git olayları deniz seviyesinde yarım günlük karakterde 10-15 santimetrelik deniz suyu seviyesi değişimine neden olabilmektedir. Son günlerde ayın yeni ay durumunda olması astronomik gel-gitin etkisini de artırmıştır.'' 
+     
+     ASTRONOMİK VE ATMOSFERİK ŞARTLAR 
+     Rüzgarın, Marmara bölgesinde poyraz yönünde estiğinde kuzey sahillerinde deniz suyu seviyesinde alçalmalara neden olduğu belirtilen açıklamada, özellikle bu mevsimde de görülen kuraklık dönemlerinde dere ağızlarında su seviye düşümlerine neden olduğu kaydedildi. 
+     Açıklamada şu hususlara yer verildi 
+     ''Yukarıdaki gözlem ve incelemeler, son günlerde Marmara Denizi sahillerinde kuzey ve batı sahilleri gözlenen deniz suyu seviyesindeki düşüşlerin astronomik ve atmosferik basınç, rüzgar yönü, yağışla ilgili şartlar nedeniyle oluştuğunu göstermektedir. Deniz seviyesinde düşey olarak meydana gelen 40-50 santimetrelik bir düşüş miktarı, düşük eğimli kıyılarda, su hattının, birkaç metre çekilmesine neden olabilmektedir. Bu da son derece doğaldır. 
+     Ancak Türkiye'nin bir deprem ülkesi olduğu göz önüne alınarak tüm bu verilerden bağımsız olarak ülkemizde her an deprem riski olduğu gözardı edilmemelidir. Ülkemizin çok büyük bir bölümünde büyüklüğünü ve zamanını önceden bilemeyeceğimiz, hasar verici bir depremin meydana gelmesi olasılığı her zaman vardır.'' 
+     
+</TEXT>
+</DOC>

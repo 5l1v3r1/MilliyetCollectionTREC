@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 318536 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/25/son/soneko26.html </URL>
+<DATE> 2005/02/25/ </DATE>
+<TIME> 12.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Merkez Bankası repo ihalesinde piyasaya 800 milyon YTL verildi 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası, bugün düzenlediği bir haftalık repo ihalesi ile piyasaya 800 milyon YTL verdi. 
+     Toplam 3 milyar 233 milyon YTL teklifin geldiği ihalede, ortalama basit faiz yüzde 17.38, minimum basit faiz yüzde 17.23, maksimum basit faiz ise yüzde 17.51 oldu. 
+     Merkez Bankası bugün yaptığı açıklamada, ''likiditenin bankalar arasında homojen bir biçimde dağılmaması nedeniyle, likidite eksiye dönmese bile, belli bir düzeyin altına indiğinde para piyasası faiz oranlarında dalgalanmalar gözlenmekte olduğunu'' ifade etmiş ve geçici nitelikteki bu likidite sıkışıklığının ''para piyasası faiz oranlarında yarattığı baskıyı azaltmak amacıyla'' bugün 1 haftalık repo ihalesi açılmasına karar verildiğini bildirmişti. 
+     Açıklamada, Merkez Bankası'nın, önümüzdeki dönemde de ''geçici de olsa'' belirgin likidite sıkışıklığı olduğunda, repo ihalesi açmaya devam edeceğine de dikkat çekilmişti. 
+     
+</TEXT>
+</DOC>

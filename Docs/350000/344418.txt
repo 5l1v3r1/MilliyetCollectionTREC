@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 344418 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/20/son/sonyas22.html </URL>
+<DATE> 2005/05/20/ </DATE>
+<TIME> 14.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yaşlılara bakan, çocukları gözetleyen yardımcı robotlar geliyor 
+</HEADLINE>
+<TEXT>
+
+     Japon Toshiba firması, yaşlılara yardım edebilecek veya çocukları gözetleyebilecek iki robot üreteceğini bildirdi. 
+     Şirket yönetimince yapılan yazılı açıklamaya göre, AppriAttenda ve ApriAlfa adı verilen robotların prototipleri üretildi. 
+     Robotlar, sadece evde değil, kamuya açık yerlerde de insanlara yardımcı olabilecek. 
+     AppriAttenda, sahibini giysilerinin renginden tanıyarak, özel bir algoritma yazılımı sayesinde kalabalıkların arasında izleyebiliyor. 
+     Sahibi durduğunda, mesafeyi ve hızı ölçerek yakınlarda bir yerde duran robot, yolunun üzerindeki engelleri ise ultrason alıcılarıyla saptıyor. 
+     AppriAlfa ise özel bir sesi ayırt edebiliyor ve sesli komutları anlıyor. Sesin hangi yönden geldiğini de anlayabilen robot, biriyle konuşurken arkasından seslenildiğinde, nezaketen geriye dönerek cevap veriyor. 
+     Robot, ayrıca çeşitli aletleri açıp kapayabiliyor, internete girerek elektronik postaları okuyabiliyor, hava durumunu veya haberleri aktarabiliyor. 
+     Toshiba, insanın yerini gerçekten alabilecek yardımcı robotları 5-6 yıla kadar piyasaya sürmek istediğini bildirdi. 
+     
+</TEXT>
+</DOC>

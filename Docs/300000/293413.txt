@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 293413 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/30/son/soneko37.html </URL>
+<DATE> 2004/11/30/ </DATE>
+<TIME> 13.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hazine'nin dolar cinsinden tahvil ihalesi sonuçlandı... Faiz yüzde 5.16 
+</HEADLINE>
+<TEXT>
+
+     Hazine'nin 3 yıl vadeli, 6 ayda bir kupon ödemeli, değişken faizli ABD Doları cinsinden devlet tahvili ihalesinde bileşik faiz yüzde 5.16 oldu. 
+     İhaleye, toplam nominal 2 milyar 149.5 milyon dolar teklif geldi. Nominal 1 milyar 177.8 milyon dolarlık satış gerçekleşen ihalede, net satış miktarı 1 milyar 151.3 milyon dolar oldu. Tahvil ihalesinde bileşik faiz yüzde 5.16, basit faiz yüzde 5.10 olarak belirlendi. 
+     Bu arada, ihale öncesinde piyasa yapıcı bankalara 1 milyar 59.4 milyon dolar net satış yapıldı. 
+     Tahvil ihalesinin ihraç tarihi 1 Aralık Çarşamba, geri ödeme tarihi ise 28 Kasım 2007 oldu. 
+     Söz konusu tahvil, LIBOR 1,60 yıllık 182 günlük kupon ödemeli olup, ilk kupon ödeme tarihi 1 Haziran 2005 olarak öngörüldü. 
+     Kupon ödemeleri 6 aylık LIBOR oranına 1,60 puan eklenerek bulunacak yıllık faiz oranı üzerinden hesaplanacak. Söz konusu tahvilin kupon tarihleri 1 Haziran 2005, 30 Kasım 2005, 31 Mayıs 2006, 29 Kasım 2006, 30 Mayıs 2007 ve 28 Kasım 2007 olacak. 
+     
+     SON DURUM 
+     Hazine, 23 Kasım tarihinde düzenlediği 217 gün vadeli bono ve 546 gün vadeli Türk Lirası cinsinden iskontolu tahvil ihalesinde net 4.9 katrilyon lira borçlanmıştı. 
+     217 gün vadeli bono ihalesinde bileşik faiz yüzde 23.01, 546 gün vadeli Türk Lirası cinsinden iskontolu tahvil ihalesinde de yüzde 23.24 olmuştu. 
+     İhalelere toplam nominal 6 katrilyon 471.7 trilyon liralık teklif gelirken, 2 katrilyon 733.9 trilyon liralık net satış yapılmıştı. 
+     Hazine, piyasa yapıcı bankalar ve kamu kuruluşlarına yapılan satışlarla birlikte, toplam 4 katrilyon 963.3 trilyon lira net borçlanmaya gitmişti. 
+     Hazine'nin bu hafta 3.3 katrilyon lira karşılığı döviz cinsinden iç borç ödemesi bulunuyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 361515 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/15/son/sonyas12.html </URL>
+<DATE> 2005/07/15/ </DATE>
+<TIME> 16.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+BM'de internetin geleceği tartışıldı... 
+</HEADLINE>
+<TEXT>
+
+     BM'de düzenlenen, internetin gelecekte işletilmesiyle ilgili tavsiye ve görüşlerin tartışıldığı panelde somut bir neticeye varılmazken, internet üzerinde bir tek ülkenin söz sahibi olmaması konusunda uzlaşma sağlandı. 
+     Panele değişik ülkelerden, aralarında iş dünyası, akademi ve bürokrasiden temsilcilerin bulunduğu 40 kişi katıldı. Panelde, dünya liderlerinin ele almaları amacıyla, internet yönetiminin geleceğine yönelik bazı seçenekler belirlendi. 
+     Seçeneklerden biri, merkezi ABD'de olan, kar amacı gütmeyen bir kuruluşun eşliğinde mevcut sistemin büyük ölçüde korunmasını öngörüyor. 
+     İkinci seçenek ise mevcut sistemin tamamen devre dışı bırakılmasını ve BM himayesinde yeni uluslararası kuruluşların oluşturulmasını tavsiye ediyor. 
+     BM İnternet Yönetimi Çalışma Grubu Yönetim Kurulu Başkanı Markus Kummer, panelin raporunu açıklarken, ''Sonunda, sistemde herhangi bir değişiklik yapılıp yapılmayacağı hükümetlerin kararına kalacak'' dedi. 
+     Panelin internet idaresiyle ilgili yapılacak anlaşmalar için daha kapsamlı bir uluslararası rol önerdiğini kaydeden Kummer, bu kararın Aralık 2003'teki Cenevre zirvesine dayandığını ve ABD'ye yönelik bir tavır içermediğini kaydetti. 
+     Kummer, ABD'nin geçmiş yıllarda üstlendiği rolün internetin gelişme döneminde yaptığı maddi katkılara dayandığını ve panele katılan herkesin ABD'nin oynadığı rolün faydalı olduğunu kabul ettiğini belirtti. 
+     Mevcut sistemde tek yetkili olan ''Kayıtlı İsimler ve Numaralar İçin İnternet Firması'' ICANN İdare Şefi Paul Twomey de, panel tarafından yayımlanan raporun ICANN'nin rolünü teyit ettiğini belirterek, ''Eğer internet bir posta sistemiyse biz bu sistemde teknik koordinatörlük görevi yapıyoruz, düzenleyici değiliz'' dedi. 
+     ICANN'e karşı olanlar, kuruluşun faaliyetlerinin teknik koordinasyonla sınırlı kalmaması ve ABD hükümetine yakınlığından dolayı endişe duyduklarını ifade ediyor. 
+     
+</TEXT>
+</DOC>

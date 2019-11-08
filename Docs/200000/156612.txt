@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 156612 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/14/son/soneko13.html </URL>
+<DATE> 2003/05/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+IBM'in en güçlü bilgisayar ana çerçevesinin adı T-Rex 
+</HEADLINE>
+<TEXT>
+
+     Amerikan sermayeli International Business Machines IBM şirketi, bilgisayar ana çerçevesinin en güçlüsünün kod adını bir dinozor türü olan T-Rex olarak belirledi. 
+     Resmi adı IBM eServer zSeries 990, kod adı T-Rex olan yeni tip ana çerçeve bilgisayar, güvenlik, itimat ve bilgisayar hesaplamalarında büyük güç gerektiren mali hizmetler ve diğer sektörler için geliştirildi. 
+     Müşterilere bu iş için ayrı bir makine almak gerekmeksizin bilgisayar işlemleri kaynaklarına erişim şansı sunan yeni tip ana çerçeve bilgisayar sisteminin fiyatı 1 milyon dolardan başlıyor. 
+     IBM'nin 1,200 uzmanın emeği, 1 milyar dolarlık yatırımla dört yılda geliştirdiği z990 ya da diğer adıyla dinozor T-Rex gelecek ay satışa sunulacak. 
+     Sun Microsystems şirketi, ana çerçeve bilgisayarları ve bağlantılı işleri daha önce dinozor ilan etmişti, IBM ise faaliyet gelirlerinin yüzde 40'ını bu tip işlerden sağlıyor. Daha ayrıntılı bilgi için IBM http www.ibm.com 
+     
+</TEXT>
+</DOC>

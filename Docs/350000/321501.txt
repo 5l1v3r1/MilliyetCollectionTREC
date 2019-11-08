@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 321501 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/07/son/soneko35.html </URL>
+<DATE> 2005/03/07/ </DATE>
+<TIME> 17.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Serbest piyasada dolar 1.2620 YTL 
+</HEADLINE>
+<TEXT>
+
+     Yeni Türk Lirası karşısında gerilemesi devam eden dolar, serbest piyasada haftanın ilk işlem gününü 1.2620 YTL'den tamamladı. 
+     Kapalıçarşı'da Cuma günü 1.2680 YTL'den kapanan dolar, bugün 1.2500 YTL alış, 1.2570 YTL satış fiyatıyla açıldı. 
+     Gün içinde açılışa göre bir miktar yükselen dolar, 1.2570 YTL alış, 1.2620 YTL satış fiyatıyla kapandı. 
+     İstanbul ve Ankara serbest piyasalarında alınıp satılan döviz türlerinin, Cuma günü ve bugün itibariyle alış ve satış kapanış fiyatları şöyle 
+     
+
+İSTANBUL SERBEST PİYASA Cuma Alış Cuma Satış Pazartesi Alış Pazartesi Satış ABD Doları 1.2630 1.2680 1.2570 1.2620 Avro 1.6660 1.6780 1.6570 1.6620 İng. Sterlini 2.4150 2.4250 2.3900 2.4200 İsviçre Frangı 1.0750 1.0850 1.0600 1.0700      
+
+ANKARA SERBEST PİYASA Cuma Alış Cuma Satış Pazartesi Alış Pazartesi Satış ABD Doları 1.2640 1.2740 1.2570 1.2660 Avro 1.6680 1.6810 1.6570 1.6690 İng. Sterlini 2.4140 2.4450 2.3930 2.4300      
+</TEXT>
+</DOC>

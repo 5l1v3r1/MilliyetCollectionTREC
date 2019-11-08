@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 190095 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/21/son/sondun07.html </URL>
+<DATE> 2003/10/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft "Ofis-2003" bugün piyasaya çıkıyor 
+</HEADLINE>
+<TEXT>
+
+     Yazılım devi Microsoft'un son ürünü ''Ofis-2003'', bugün New York'ta piyasaya çıkacak. 
+     Microsoft'un kurucusu Bill Gates ve başkan yardımcısı Jeff Raikes, bu akşam New York Broadway Millenium Hotel'de düzenlenecek toplantıda ürünü bizzat tanıtacak. 
+     ''Ofis-2003'' programı çöp-mektupları spam mail durdurma özelliğinin yanı sıra şirket görevlilerinin, birbirlerinden çok uzak yerlerde bulunsalar dahi, aynı doküman üzerinde aynı anda çalışmalarına imkan tanıyor. 
+     Görevliler, internet üzerinden yapacakları bu işbirliği sırasında bilgi ve veri alışverişinde bulunabilecekler. 
+     Microsoft'un ''verimliliği artıran sistem'' olarak tanıttığı ''Ofis-2003'' programının profesyonel sürümü 500 dolardan satışa sunulacak. Yükseltme sürümü 329 dolardan satışa çıkacak olan ürünün standart sürümünün satış fiyatı ise 399 dolar. 
+     
+     YENİ ALT ÜRÜNLER 
+     Microsoft ''Ofis-2003'' programı Word, Excel, Power Point, Access ve Outlook gibi geleneksel alt ürünlerin yanı sıra verimliliği artıracak ''One Note'', bilgi toplamayı kolaylaştıracak ''İnfo Path'', web sayfası hazırlamaya yarayan ''FrontPage'' ve iletişimi hızlandıracak ''Visio'' gibi yeni yan ürünlere sahip. 
+     ''Ofis-2003''ü kullanabilmek için en az 233 MHZ gücünde İntel pentium-III veya dengi işlemciye sahip bir bilgisayar, Windows 2000 veya XP işletim sistemi ve asgari 128 MB RAM gerek. 
+     Programın standart sürümü hard diskte yaklaşık 250 MB, profesyonel sürümü ise 400 MB yer tutuyor. 
+     
+</TEXT>
+</DOC>

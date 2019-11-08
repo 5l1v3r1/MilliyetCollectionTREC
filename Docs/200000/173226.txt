@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> 173226 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/03/ekonomi/eko02.html </URL>
+<DATE> 2003/08/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ankara'dan bakıp İpsala'daki gümrük kaçağını yakalıyorlar 
+</HEADLINE>
+<TEXT>
+
+   Gümrük Müsteşarlığı kurduğu güvenlik sistemi ile Ankara'daki merkez ofisten, İpsala, Habur gibi kapılardan çıkış yapan araçların röntgenini çekiyor. Kaçak varsa anında müdahale ediliyor 
+      NEDİM ŞENER 
+   
+   Gümrük Müsteşarlığı'nın iki yıldır üzerinde çalıştığı ve kısa süre önce hayata geçen Gümrük Kapıları Güvenlik Sistemi GÜMSİS projesiyle, Müsteşarlığın Ankara Ulus'taki binasının 14'üncü katından Habur, Gürbulak, Sarp, İpsala ve Kapıkule'deki kaçakçılık olayları belirleniyor. Sistemi daha yeni devreye sokan Gümrük Müsteşarlığı, 32 trilyonluk kaçak yakaladı. 
+   Gümrüklerde giriş ve çıkış noktalarına yerleştirilen ve Ulus'taki GÜMSİS merkezinden de kumanda edilebilen kameralar yanında X - ray cihazları ile yakalanan kaçak eşya, insan ve araçlar anında takibe alınıyor. 
+   GÜMSİS projesi kapsamında Kapıkule, İpsala ve Habur'a yerleştirilen X - ray cihazları sayesinde, yılbaşından bu yana TIR'lara saklanarak kaçma teşebbüsünde bulunan 42 kişi yakalandı. 
+   
+   32 trilyonluk kaçak 
+   Toplam 5 milyon dolara mal olan cihazların yılbaşından beri yakaladığı kaçak eşyanın parasal tutarı 32 trilyona yaklaştı. Gümrük Müsteşarı Nevzat Saygılıoğlu, 5 milyon dolara mal olan X - ray projesinin yakaladığı kaçak eşya ile kendini fazlasıyla amorti ettiğini söyledi. Aynı yolla yakalanan eşya arasında 144 kilogram ve 220 kilogram olarak iki parti halinde eroin ve 2 bin 476 karton sigara, iki adet tüfek, 7 adet tarihi eser 39 bin 915 kilogram altın, 810 bin plastik, 200 bin adet porselen diş ile oto yedek parçaları da bulunuyor. 
+   
+   Sabıkalı plakaya takip 
+   GÜMSİS projesi kapsamında gümrük kapılarına yerleştirilen kameralarla Türkiye'ye giriş yapan her aracın plakası anında bilgisayara geçiyor. Aynı saniye içinde plaka numarası Ulus'taki merkezi bilgisayarlarda tanınıp, söz konusu araç ile ilgili herhangi bir ihbarın olup olmadığı araştırılıyor. Araç hakkında bir ihbar varsa bilgi aynı anda gümrük memurunun önündeki bilgisayara geçiliyor ve araç hemen bağlanıyor. 
+   
+   Elektronik haritadan izleme 
+   Kısa süre içinde transit geçiş yapan Türkiye'ye giriş yapan ve transit mal taşıyan TIR'ların elektronik harita üzerinden kontrolünün sağlanacağı 'araç takip sistemi' de hayata geçirelecek. Kapıkule'den girip Gürbulak'tan çıkacak bir TIR'a yerleştirilecek bir alet ile aracın hareketleri Ankara'dan izlenecek. Belirlenen güzerg h dışına çıkan araca yerleştirilen cihaz anında alarm vererek merkezi uyaracak, olası kaçakçılık olaylarına yerel güvenlik güçleri ile müdahale edilecek. 
+   
+   Kriptolu yazışma 
+   Saygılıoğlu, sistemin yazılımının tamamen TÜBİTAK gözeteminde ODTÜ ile gerçekleştirildiğini belirtirken, 'Gümrük konusunda yazılımı dışarıdan alırsak bu güvenli olmazdı. Onun için yazılımın yerli olması gerekiyordu. Ayrıca gümrüklerle merkez arasındaki yazışmalar da özel kripto proglamlarıyla yapılmaktadır' dedi. 
+   
+   
+</TEXT>
+</DOC>

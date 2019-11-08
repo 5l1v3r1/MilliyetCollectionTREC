@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 396404 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/20/dunya/dun04.html </URL>
+<DATE> 2005/11/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Uçak korsanlarına karşı yalan makinesi 
+</HEADLINE>
+<TEXT>
+
+
+
+İsrailli mühendisler, havaalanlarında potansiyel uçak korsanları ve uyuşturucu kaçakçılarını yakalayabilecek bir yalan makinesi geliştirdi. Rusya'da denemeleri yapılan ve GK-1 adı verilen cihaz, içinden geçen kulaklık takılı yolcuya, "yasadışı bir şey planlayıp planlamadığını " soruyor ve mikrofona, "evet" ya da "hayır" yanıtı vermesini istiyor. Nemesysco firması tarafından geliştirilen cihaz, yalan söylendiğinde veya bir şey saklandığında seste meydana gelen kontrol edilemeyen titreşimleri büyük çoğunlukla saptıyor. Denemeler sırasında 500 yolcu içinde sadece birinde hata yaptığı belirtilen GK-1 cihazı, 10 bin ile 30 bin dolar arasında bir fiyata satılacak. 
+
+
+</TEXT>
+</DOC>

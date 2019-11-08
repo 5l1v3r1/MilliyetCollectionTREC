@@ -1,0 +1,47 @@
+<DOC>
+<DOCNO> 90477 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/06/18/yasam/yas04.html </URL>
+<DATE> 2002/06/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilim şimdilik ses’ ışınladı 
+</HEADLINE>
+<TEXT>
+
+Radyo dalgalarını bir metre öteye ışınlamayı başaran uzmanlar, bu teknik sayesinde bilgisayarların hızını milyarlarca kez artıracak 
+     DIŞ HABERLER SERVİSİ 
+
+     Bir dönemin unutulmaz dizisi Uzay Yolu’nun en sık kullanılan repliklerden "Scotty ışınla beni" artık günlük hayatımızda da kendine yer bulacak. Çünkü Avustralyalı bilim adamları "şifreli bir mesajı" laboratuvar ortamında bir yerden bir yere ışınlamayı başardı. Yapılan deneyde, lazer ışınına yüklenen şifreli radyo dalgası bir metre öteye anında taşınarak ışınlandı. 
+     Canberra’daki Avustralya Ulusal Üniversitesi ANU araştırmacılarından Çin asıllı Dr. Ping Koy Lam başkanlığındaki bir ekip tarafından gerçekleştirilen deneyde, şifreli mesaj içeren bir radyo dalgası lazer ışını üzerine bindirildi ve bir metre ötedeki hedefe gönderildi. 
+     
+     Cisimler ışınlanamıyor ama... 
+     Lazer ışını havada dağılırken mesaj taşıyan radyo dalgası hedef noktada yeniden toparlandı. Mesajın saniyenin milyarda birinden çok daha kısa bir sürede hedefe ulaştığı ve bozulmadığı saptandı. Dr. Lam, deneyde "quantum dolaşımı" denilen bir teknik kullandığını söyledi. 
+     Bilim dünyasında heyecan uyandıran deney şimdilik herhangi bir cismin veya insanın bir yerden bir yere ışınlanmasını mümkün kılmıyor. Çünkü lazer ışını atom kadar büyük bir kütleyi taşıyacak kapasitede değil, sadece foton şeklindeki enerji parçacığını taşıyabiliyor. Ancak bu haliyle bile ışınlama tekniğinin dünyadaki en hızlı bilgisayarın hızını milyarlarca kez artırabileceği ve dinlenmesi imkansız olan yeni iletişim sistemleri geliştirilmesinde kullanılabileceği belirtildi. 
+     
+
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

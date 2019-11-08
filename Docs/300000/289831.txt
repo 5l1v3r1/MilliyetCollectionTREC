@@ -1,0 +1,57 @@
+<DOC>
+<DOCNO> 289831 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/18/son/soneko27.html </URL>
+<DATE> 2004/11/18/ </DATE>
+<TIME> 13.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+YTL, İMKB'de neleri değiştirecek 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası İMKB endekslerinde YTL'ye geçişten kaynaklanan bir değer değişikliğinin söz konusu olmayacağı bildirildi. 
+     İMKB, Türk Lirası TL değerlerin 1 Ocak 2005 tarihinden itibaren Yeni Türk Lirası YTL para birimine dönüştürülmesi sürecinde Borsa bünyesinde faaliyet gösteren piyasalarda yapılması gereken değişiklikler ve diğer düzenlemelere ilişkin YTL Yatırımcı Bilgilendirme Kılavuzu yayınladı. 
+     Piyasalardaki değişiklikler ve dikkat edilmesi gereken önemli hususların soru cevap yöntemiyle anlatıldığı kılavuza göre, Yeni Türk Lirası ile birlikte İMKB bünyesindeki piyasalarda da önemli değişimler söz konusu olacak. 
+     YTL, ana başlıklarıyla Hisse Senetleri Piyasası'nda şunları değiştirecek 
+     ''Fiyat ilanı 1000 TL nominal değer bazında ilan edilen piyasa fiyatları, 1 YTL nominal değerli hisse senedi için ilan edilmeye başlanacak. 
+     İşlem birimi 1000 TL nominal değerli 1000 adet 1 milyon TL nominal hisse senedinden oluşan işlem birimi 'lot', yeni yapıda 1 YTL nominal değerli 1 adet hisse senedinden oluşacak. 
+     Emir tipleri Küsurat emir tipi kaldırılacak. Diğer emir tiplerinde herhangi bir değişiklik olmayacak.'' 
+     
+     FİYAT GÖSTERİMİNDE YENİ KURUŞ HANESİ 
+     Hisse senedi fiyatlarının YTL'ye çevriminde ise yeni yapıda ilan edilecek piyasa fiyatı, hisse senedinin 1 YTL nominal değeri için oluşan piyasa fiyatı olacak. Bu fiyat, TL yapısındaki 1 milyon TL nominal değerli 1 lot hisse senedinin piyasa fiyatına karşılık geliyor. Kuruşla ifade edilebilen fiyat adımlarının gerekliliği nedeniyle fiyat gösteriminde iki de Yeni Kuruş hanesi bulunacak. 
+     Örneğin TL yapısında 5 bin 850 lira olarak ilan edilen 1.000 lira nominal değerli hissenin piyasa fiyatı, 1 YTL nominal değer için 5,85 YTL olarak, yani 5 Yeni Lira 85 Yeni Kuruş olarak ilan edilecek. 
+     YTL yapısında ilan edilecek piyasa fiyatının TL yapısındaki 1 lot hisse senedinin fiyatına eşit olduğu görülüyor. Hisse senedinin YTL yapısında ilan edilecek fiyatı, pratik olarak, TL fiyatının 1000'e bölünmesi suretiyle bulunabilecek. 
+     Fiyat adımlarının TL yapısındaki oransallığı YTL yapısında da korunacak. 25 TL'lik fiyat adımı 1 Ekim 2004 tarihinden itibaren 20 TL olarak değiştirildi. 
+     
+     1 LOT YTL'YE GEÇİŞLE 1 ADET OLARAK TANIMLANACAK 
+     Mevcut yapıda 1000 TL nominal değerli 1000 adet hisse senedinden oluşan ve ''lot'' olarak tanımlanmış olan işlem birimi, YTL yapısında da lot olarak tanımlanıyor, ancak YTL yapısında 1 lot, 1 YTL nominal değerli 1 adet hisse senedinden oluşuyor. Bir başka ifadeyle, YTL'ye geçişle birlikte ''adet'' kavramı değişecek, TL yapısındaki 1000 adet hisse senedi YTL yapısında 1 adet olarak tanımlanacak. 
+     Örneğin TL yapısında sahip olunan 11 bin adet, 11 milyon TL nominal değerdeki hisse senedi, YTL yapısında 11 YTL nominal değerli, 11 adet hisse senedine dönüşecek. 
+     YTL'li yapıda Borsa dahilinde tüm Hisse Senetleri Piyasası pazar ve piyasalarında küsurat işlemlerine son verilecek. 
+     İMKB kılavuzunda, ''YTL'ye çevrildiğinde 1 adetten daha küçük miktarlara dönüşecek mevcut küsuratlar yeni yapıda nasıl işlem görecektir '' sorusuna da şu yanıt veriliyor 
+     ''Mevcut yapıda 1 lot ve katlarından farklı miktarlar küsurat emri olarak işlem görmektedir. YTL yapısında 1 adetten 1 YTL daha küçük miktarlara dönüşecek küsuratlar Borsa'da işlem göremeyecektir. Küsurat işlemleri sadece Borsa dışı lot altı işlemleri kapsamında, yetkili aracı kurumlar vasıtasıyla yürütülecektir. Bu nedenle, yatırımcıların YTL geçişi öncesinde hesaplarında bulunan küsurat miktarlı hisse senetlerini lota tamamlamaları ya da satmaları, hesapların YTL geçişi sonrasında işlem göremeyecek miktarlardan arındırılması açısından faydalı olacaktır. 
+     Örneğin TL yapısında, bir şirkete ait 23 bin 460 adet hisse senedi bulunan bir yatırımcının YTL'ye geçiş sonrası hesabında işlem görebilir nitelikli 23 adet 23 lot hisse senedi olacaktır. 460 adetlik küsurat miktar 0,46 YTL nominal değerinde küsurat hisse senedi olarak aracı kurumdaki hesabında izlenebilecek, ancak Borsa'da işlem göremeyecektir.'' Kılavuzda, mevcut yapıda 1 lotu 1.000.000 TL nominalden farklı Petrokent, İş Bankası Kurucu ve İş Bankası A Tertibi hisse senetlerinin YTL yapısındaki durumlarına da açıklık getiriliyor. 
+     
+     YILIN SON 2 GÜNÜ BORSA'DA İŞLEM YOK 
+     Yılın son iki işgünü olan 30 Aralık Perşembe ve 31 Aralık Cuma günlerinde Hisse Senetleri Piyasası'nda işlem yapılmayacak. Takasbank açık olacak. 28 ve 29 Aralık tarihlerinde gerçekleşen işlemlerin takası 30 ve 31 Aralık 2004'te gerçekleştirilecek. 
+     Yatırımcıların özellikle dikkat etmesi gereken hususlar da şöyle sıralanıyor. 
+     ''-Fiyat Okuma YTL yapısında ilan edilen fiyatların TL yapısındaki 1 lot hisse senedinin fiyatı olduğuna dikkat edilmelidir. 
+     Emir Verme Adet ve miktar kavramının değişmiş olması nedeniyle emirlerde yer alan fiyat ve miktar bilgilerinin YTL yapısındaki kavramlara göre oluşturulması gerekmektedir. Emirlerde miktar olarak TL yapısında sahip olunan hisse senedi adedinin kullanılması büyük hatalara yol açabilecektir. Emirlerin fiyat bilgilerinin belirlenmesinde ilgili hisse senedinin hangi baz fiyat aralığında olduğuna ve ilgili fiyat adımına dikkat edilmeli, fiyatlarda kuruşlu değerlerin de yer alacağı göz önünde bulundurulmalıdır. Örneğin TL yapısında 3000 adet 3 lot hisse senedi olan bir yatırımcı YTL yapısında satış yaparken emrini 3 adet 3 lot olarak ve uygun fiyat adımlarında vermelidir. 
+     Emir Girişinde Kullanılan Önyüzün Özelliklerini Tanıma YTL yapısında verilecek emirlerin fiyatlarında kuruş hanelerinin kullanılması gerekebileceğinden aracı kurumlarca emir girişi için kullanılan sistemin kullanıcı önyüzünün özellikleri ve kuruşlu fiyatlarla emir girişi yöntemi hakkında yatırımcıların yeterli bilgiye sahip olmaları hatalı emir girişinin önlenmesi açısından önem taşıyor. 
+     Küsurat Miktarlar Küsurat olarak tanımlanan, bir lottan küçük miktarlardaki hisse senetlerinin bu yıl sona ermeden alım satımının yapılarak miktarların lot haline getirilmesi yatırımcıların portföylerini YTL'ye geçiş sonrası Borsa'da işlem göremeyecek miktarlardan arındırmaları açısından önem taşımaktadır.'' 
+     
+     ENDEKSLERDE DEĞER DEĞİŞİKLİĞİ OLMAYACAK 
+     YTL'ye geçiş ile birlikte İMKB endekslerinde geçişten kaynaklanan bir değer değişikliği söz konusu olmayacak. 
+     Endekslerin hesaplama formüllerinde yer alan değerler hem payda hem de paydada yer aldığından YTL'ye göre yapılacak düzeltme sonucunda YTL'deki ilk işlem günü endeks değerlerinin değişmeden TL'deki son işlem günü değerlerinin devamı olarak hesaplanması mümkün olacak ve süreklilik sağlanacak. 
+     Yeni Türk Lirası'nın YTL kullanılması ile beraber devlet tahvili ve hazine bonosunun fiyatları, anapara değeri 100 YTL olacak şekilde ve virgülden sonra 3 hane olarak hesaplanacak. Halen anapara değeri 100.000TL olacak şekilde ve virgülsüz olarak hesaplanıyor 
+     YTL kullanılması ile beraber oranların gösteriminde herhangi bir değişiklik olmayacak, YTL sonrasında oranlar mevcut sistemde olduğu gibi virgülden sonra 2 hane olarak kullanılacak. Örneğin TRT071205T12 kodlu, vadesi 7 Aralık 2005 tarihinde dolacak olan menkul kıymetten, 3 Ocak 2005 tarihinde almak istenmesi durumunda 26,20 orana karşılık gelen 100.000 nominal bedelli menkul kıymetin fiyatı 80.475 TL iken, YTL'ye geçiş sonrasında 26,20 orana karşılık gelen 100 nominal bedelli menkul kıymetin fiyat 80,475 YTL 80YTL ve 47,5 yeni kuruş olacak. Bu menkul kıymetin vade sonunda yani 7 Aralık 2005 tarihinde yatırımcının eline geçecek tutar ise 100 YTL olacak. 
+     Döviz ödemeli menkul kıymetlerde ise piyasa fiyatları döviz üzerinden olduğundan YTL etkisi olmamakla bereber piyasa fiyatlarının ilanında yeknesaklık sağlanması açısından halen 100.000 dolar ve 100.000 euro üzerinden ilan edilen piyasa fiyatları 100 dolar ve 100 euro ve virgülden sonra üç hane olacak şekilde ilan edilecek. 
+     Repo işlemlerinde oranların gösteriminde ve hesaplanmasında herhangi bir değişiklik olmayacak. 
+     
+     2005'DE ÖDEMELER YTL ÜZERİNDEN OLACAK 
+     İMKB Tahvil ve Bono Piyasası emir büyüklükleri mevcut tutarların milyona bölünmüş haliyle uygulanacak. Buna göre minimum 1.000.000.000 TL tutarındaki bir emir YTL'ye geçişten sonra 1.000 YTL olarak iletilecek, maksimum ise 10.000.000.000.000 TL tutarındaki bir emir YTL'ye geçiş ile 10.000.000 YTL olarak iletilecek. 
+     Aracı kurum ve bankalar aracılığıyla İMKB Tahvil ve Bono Piyasası'nda 1 Ocak 2005 tarihinden önce TL üzerinden yatırımcılar tarafından yapılan tüm işlemler, 1 Ocak 2005 tarihinden itibaren YTL'ye dönüştürülerek Yeni Türk Lirası olarak virgülden sonra 2 hane Yeni Kuruş ile birlikte takip edilecek. 1 Ocak 2005 tarihinden önce TL üzerinden yapılmış olmakla birlikte vadesi 1 Ocak 2005 tarihinden sonra dolan işlemlerin ödemeleri YTL üzerinden yapılacak. 
+     Vadesi 1 Ocak 2005'den sonra dolacak tüm menkul kıymetlerin ödemesi YTL üzerinden gerçekleştirilecek. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 245216 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/04/yasam/axyas01.html </URL>
+<DATE> 2004/06/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+'Havaya' yazan 'cep' geliyor 
+</HEADLINE>
+<TEXT>
+
+
+Nokia'nın yeni cep telefonuyla, 15 karaktere kadar istediğiniz mesajı 'havaya' yazabileceksiniz 
+
+DIŞ HABERLER SERVİSİ 
+
+Finlandiyalı mobil iletişim şirketi Nokia, havaya yazı yazabilen cep telefonu çıkarmaya hazırlanıyor. 
+Yaz aylarında piyasada olması beklenen 'Nokia 3220'nin arka kapağında bulunan LED'ler Light Emitting Diode - ışık yayan diod sayesinde, telefonun sallanmasıyla havada harfler oluşuyor. Telefondaki hareket algılayıcılar, kapaktaki 12 küçük lambayı yakarak harflerin art arda görünmesini sağlıyor. Sinema filmlerinde kullanılan, aslında tek tek resimleri hareketli gibi gösteren teknolojiyle, yazılan harfler havada asılıymış gibi algılanıyor. 
+
+'Menzili', geceleri 6 metre 
+Nokia yetkilileri, havaya yazılan yazıların, gündüz saatlerinde 6 metre, gece çok daha uzaktan görülebileceğini belirtti. 
+Ancak yazılanlar, normal bir kısa mesajdan çok daha kısa olmak durumunda. Çünkü 'havaya yazı yazma sistemi'yle yalnızca 15 karakterlik bir metin yazılabiliyor. 'Nokia 3220'nin, özellikle açık hava konserleri gibi kalabalık alanlarda mesajlaşmak için kullanılabileceği belirtiliyor. 
+
+
+</TEXT>
+</DOC>

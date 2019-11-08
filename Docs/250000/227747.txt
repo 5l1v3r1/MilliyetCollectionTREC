@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 227747 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/01/son/sonyas17.html </URL>
+<DATE> 2004/04/01/ </DATE>
+<TIME> 16.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+SARS aşısı farelerde başarılı oldu... 
+</HEADLINE>
+<TEXT>
+
+     Amerikalı bilim adamlarının geliştirdiği SARS akut solunum yetmezliği sendromu aşısı, farelerin akciğerlerindeki virüs miktarını önemli ölçüde azalttı. 
+     ''Nature'' dergisinde yayımlanan habere göre, ABD'nin Bethesda kentindeki Alerji ve Enfeksiyon Hastalıkları Enstitüsü'nde NIAID görevli bilim adamları, farelerde başarılı olan aşıyı yakında insanlarda denemeyi planlıyor. 
+     Bilim adamları, aşıyı, SARS virüsünün yüzeyindeki bir proteini kodlayan DNA parçasıyla hazırladıklarını kaydettiler. Bu proteinin virüsün sağlıklı hücrelere girmesini kolaylaştırdığını belirten bilim adamları, aşıdaki DNA parçacığının, bu proteinin sadece kodunu içerdiği için enfeksiyona neden olmadığını ifade ettiler. 
+     Vücudun, aşı sayesinde virüsün yüzeyinde bulunan proteinlere benzer proteinler ürettiği, bu proteinlerin de bağışıklık sisteminin SARS virüsüne karşı güçlenmesini sağladığı kaydedildi. 
+     Aşıyı 6 hafta içinde üç doz halinde farelere enjekte eden bilim adamları, bir ay sonra farelere SARS virüsü bulaştırdılar. Bundan 2 gün sonra aşılanan farelerin akciğerlerdeki virüs miktarının önemli ölçüde azaldığı tespit edildi. 
+     Bilim adamları, aşının, virüsü zararsız hale getiren antikorların üretimini sağladığını kaydettiler. 
+     Dünya Sağlık Örgütü'nün DSÖ verilerine göre, Kasım 2002 ve Temmuz 2003 arasında 8098 kişi SARS hastalığına yakalandı. Aynı dönemde 774 kişi bu hastalıktan hayatını kaybetti. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> 360746 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/13/son/sonsiy02.html </URL>
+<DATE> 2005/07/13/ </DATE>
+<TIME> 09.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Cep telefonları kayıt altına alınıyor... 
+</HEADLINE>
+<TEXT>
+
+     Cep telefonu kullanımı ve ticaretine ilişkin düzenlemeler getiren kanun Resmi Gazete’nin bugünkü sayısında yayımlandı. Kanuna göre, cep telefonları kayıt altına alıyor. 
+     92 sayılı "Telsiz Kanununda Değişiklik Yapılması Hakkında 
+     Kanun" cep telefonu kullanımı ve ticaretine ilişkin düzenlemeler getiriyor. Cep telefonlarının ticaretinin kontrol altına alınması, tüketici ve abonelerin hırsızlığa ve gaspa karşı korunması yönünde düzenlemeler getiren Kanun, kaçak ve hırsızlık malı cep telefonlarının kullanım dışı bırakılmasını öngörüyor. 
+     Telekomünikasyon Kurumu tarafından izin verilmedikçe, işletmecilerce tedarik edilen abone kimlik ve iletişim bilgilerini taşıyan özel bilgiler veya cihazın teşhisine yarayan elektronik kimlik bilgileri yeniden oluşturulamayacak, değiştirilemeyecek, kopyalanarak çoğaltılamayacak veya herhangi bir amaçla dağıtılamayacak. 
+     Kurum düzenlemelerine aykırı olarak elektronik kimlik bilgisine haiz yeni veya kullanılmış cihazların her türlü devri ve ticareti yapılamayacak, bu cihazlar kullanılamayacak. 
+     
+     KAYIT ALTINA ALINMASI 
+
+     Telekomünikasyon kayıtlarında yer almadığı belirlenen elektronik kimlik bilgisine haiz cihaz kullanıcıları, kanun yürürlüğe girdiği tarihten itibaren 5 ay içinde gerekli belgelerle birlikte kuruma veya kurumun göstereceği yerlere başvurarak, cihazlarını kayıt ettirecekler. Belgesi olmayan her bir kayıt dışı cihazın kayıt edilmesi için 5 YTL kayıt ücreti alınacak. 
+     Başvuru süresi sonunda kurum kayıtlarında yer almayan cihazlar, bir daha kullanıma sokulmamak üzere elektronik haberleşme şebekesi bağlantıları kesilmek suretiyle devre dışı bırakılacak. Haklı bir mazereti olanlardan başvuru süresini geçirenlerin, kayıt ücretini ödemeleri halinde elektronik haberleşme şebekesi bağlantıları kullanıma açılacak. 
+     
+     BİLGİ VE İHBAR MERKEZİ 
+
+     Telekomünikasyon Kurumu, elektronik kimlik bilgisine haiz cihazlar için bilgi ve ihbar merkezi kuracak veya kurduracak. 
+     Kanun yürürlüğe girdiği tarihten itibaren Telekomünikasyon tarafından 45 gün içinde merkezi mobil cihaz kimlik tanımı veri tabanı ile bilgi ve ihbar merkezinin kurulması ve işletilmesine yönelik her türlü yazılım, donanım ve yardımcı gereçler sağlanacak. 
+     Cep telefonu kaybolan, çalınan ya da kendi rızası dışında elinden çıkan aboneler, öncelikle bağlantının kesilmesi için bilgi ve ihbar merkezine başvuracak. 
+     
+     KOLLUK KUVVETİ, CEZA VEREBİLECEK 
+
+     Kurum tarafından izin verilmedikçe işletmelerce tedarik edilen abone kimlik ve iletişim bilgilerini taşıyan özel bilgiler veya cihazın teşhisine yarayan elektronik kimlik bilgilerini yeniden oluşturan, değiştiren, çoğaltan veya herhangi bir amaçla dağıtanlar ile elektronik kimlik bilgisi değiştirilmiş cihaz, kart, araç veya gereçlerle değişiklik yapılması amacına yönelik yazılım, her türlü araç ve gereçlerin ithalatı, üretimi, dağıtımı veya tanıtımını yapanlar, bulunduranlar veya aracılık edenler, bir yıldan beş yıla kadar hapis ve yüz günden beş bin güne kadar adli para cezasına çarptırılacak. 
+     Kurum düzenlemelerine aykırı elektronik kimlik bilgisine haiz veya kullanılmış cihazların ticaretini yapanlara kolluk kuvveti tarafından 100 YTL’den 10 bin YTL’ye kadar idari para cezası verilecek. 
+     Tanımlanan suçların bir örgütün faaliyeti çerçevesinde işlenmesi halinde, verilecek cezalar yarı oranında artırılacak. 
+     Kayıp, kaçak veya çalıntı cihazlara, elektronik kimlik bilgileri değiştirilmiş cihazlara haberleşme hizmeti veren işletmecilere, 20 bin YTL’den 40 bin YTL’ye kadar idari para cezası verilecek. 
+
+     
+</TEXT>
+</DOC>

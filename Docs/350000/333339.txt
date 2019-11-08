@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 333339 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/14/son/soneko45.html </URL>
+<DATE> 2005/04/14/ </DATE>
+<TIME> 13.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Petrol fiyatlarında yön tekrar yukarıya döndü... 
+</HEADLINE>
+<TEXT>
+
+     ABD'de haftalık stoklarda artış olduğunun açıklanmasıyla uluslararası borsalarda dün 50 dolar seviyesine kadar gerileyen fiyatlar, bugün yönünü tekrar yukarı çevirdi. 
+     New York Borsası'nda 15 sent değer kazanan Mayıs teslimi ABD hafif petrolünün varili, 50.37 dolardan satılıyor. Borsada dün 1.64 dolarlık gerilemenin ardından kapanış, 50.22 dolardan gerçekleşmişti. 
+     Londra Borsası'nda işlem gören Brent petrolü ise aylar sonra ABD hafif petrolünü geride bıraktı. Dün 50.48 dolardan kapanan Brent'in varili, gün içinde 37 sent değer kazanarak 50.85 dolara ulaştı. 
+     Üye ülke petrollerinin ortalaması alınarak hesaplanan OPEC'in sepet fiyatı da, borsalardaki son gerilemenin ardından 47.84 dolarda bulunuyor. 
+     ABD Enerji Bakanlığı'nın dün açıkladığı veriler, ticari ham petrol stoklarının geçen hafta 3.6 milyon varil artarak 320.7 milyon varile yükseldiğini ortaya koymuştu. Mevcut stoklar, geçen yılın aynı döneminin yüzde 8.7 üzerinde bulunuyor. 
+     ABD stoklarındaki artışa rağmen petrol fiyatlarının 50 dolar seviyesinin altına gerilememesi, Asya'dan kaynaklanan talep artışına bağlanıyor. 
+     Bu arada uzun süredir tartışılan petrol ihraç eden ülkeler örgütü OPEC'in resmi üretim kotasını günlük 500 bin varillik artışla 28 milyon varile çıkarması kararıyla ilgili belirsizlik sürüyor. 
+     İran Petrol Bakanı Bican Zengene, Tahran'da petrol fuarının açılışında gazetecileri yaptığı açıklamada, ''Müzakereler henüz başlamadı. OPEC Başkanı bir öneride bulunduğu zaman konuyu tartışırız'' dedi. 
+     Aynı zamanda Kuveyt Enerji Bakanı da olan OPEC Başkanı Şeyh Ahmed Fahd el-Sabah, daha önce, üretim kotasının artırılmasıyla ilgili görüşmelerin başladığını bildirmişti. 
+     OPEC üyelerinden Venezüella, Nijerya ve Cezayir, üretim kotasının artırılmasına karşı çıkıyor. Katar ve Kuveyt ise üçüncü çeyrekte hızlanacak talep artışının karşılanması için üretim artışı kararını destekliyor. 
+     
+</TEXT>
+</DOC>

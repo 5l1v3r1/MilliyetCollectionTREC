@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 317213 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/21/son/soneko17.html </URL>
+<DATE> 2005/02/21/ </DATE>
+<TIME> 12.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Google'ın e-posta servisi halka açılıyor... 
+</HEADLINE>
+<TEXT>
+
+     Popüler internet arama motoru Google, daha önce test kullanımı için kısıtlı sayıda insanın kullanımına açtığı 1 Gb'lik 1.000 Mb elektronik posta hizmeti Gmail'i genişletiyor. 
+     Gmail için daha önce ''gmail.google.com'' internet adresinden kayıt yaptıranları da elektronik posta hizmetinden yararlanmaya davet eden Google, geliştirmeyi sürdürdüğü Gmail'in ne zaman hizmete gireceği konusunda ise tarih bildirmedi. Google'ın kullanıcılara 1 Gb'lik kapasite sunarak elektronik posta alanında da büyümek istemesi, Yahoo ve Hotmail gibi bu sektörde güçlü şirketleri telaşlandırmıştı. 
+     Google'ın girişiminin ardından kullanıcılarının elektronik posta depolama kapasitelerini kademeli olarak artıran Yahoo, en son 250 Mb, Microsoft'un yan kuruluşu Hotmail ise sadece ABD'lilere 250 Mb Türkiye'den üye olanlara 2 Mb depolama kapasitesi sunuyor. 
+     Gmail'i kullananlara sağlanan diğer bir kolaylık ise elektronik postalar içinde arama yapılabilmesi. Bu sayede kullanıcılar anahtar kelimeleri yazarak elektronik posta hesaplarında istedikleri maili vakit kaybetmeden bulabiliyor. 
+     Ancak Google'ın rakiplerini bile hayrete düşüren avantajları, kullanıcıların kafasında bazı soru işaretlerinin doğmasına yol açıyor. 
+     Gmail'in en tartışmalı özelliklerinden birisi, bir yazılımın e-postalarda geçen konuyu tarayarak, ilgili reklam linklerini elektronik postaya ekleyebilecek olması. Google yetkilileri, bunun otomatik anahtar kelime sistemiyle, kişinin özel hayatının gizliliğini koruyarak gerçekleştireceklerini belirtse de, bu konuda itirazlarla karşılaşılıyor. 
+     Gmail'le ilgili diğer bir eleştiri konusu da kullanıcıların sildiği e-postaların Google tarafından silinmeme hakkının saklı tutulması. Bunun ticari ya da istihbarat amaçlı kullanılmasından endişe ediliyor. 
+     
+</TEXT>
+</DOC>

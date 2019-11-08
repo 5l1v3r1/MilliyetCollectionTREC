@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> 275602 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/28/son/soneko18.html </URL>
+<DATE> 2004/09/28/ </DATE>
+<TIME> 11.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Vergide elektronik beyan dönemi... 
+</HEADLINE>
+<TEXT>
+
+     Vergide de elektronik ortamda beyanname verme E-beyan dönemi başlıyor. Gelir idaresi, elektronik ortamda beyanda bulunanların, tahakkuk bilgilerini de, vergi tahsilatı yapan bankalara açıyor. 
+     Maliye Bakanlığı Gelirler Genel Müdürlüğü'nün konuyla ilgili düzenlemesine göre, beyannamelerin elektronik ortamda gönderilmesi uygulamasına 1 Ekim'de başlanacak. 
+     Bu çerçevede Eylül 2004 dönemine ait olup, 1 Ekim'den itibaren verilmesi vereken katma değer vergisi 1 ve 2 no'lu , özel tüketim vergisi 2a beyannamesi hariç , damga vergisi, banka ve sigorta muameleleri, özel iletişim ve şans oyunları vergisi beyannameleri ile muhtasar beyanname, elektronik ortamda gönderilebilecek. 
+     Uygulamanın başlangıç aşamasında, sadece cari döneme ait beyannameler, elektronik ortamda gönderilebilecek. Bu nedenle kanuni süresi geçirilmiş beyannameler ile düzeltme ve pişmanlık talebi içeren beyannameler, eskiden olduğu gibi, bağlı olunan vergi dairesine kağıt ortamında verilecek. Ancak sonraki aşamada bu tür beyannameler de, elektronik ortamda verilmeye başlanacak. 
+     
+     ÖNCE İSTEĞE BAĞLI OLACAK 
+
+     Vergi beyannamelerinin elektronik ortamda verilmesi uygulaması, ilk aşamada isteğe bağlı olacak. Mükellefler, kendileri ya da aracılık yetkisi verilen gerçek ve tüzel kişiler kanalıyla elektronik ortamda beyanda bulunabilecek. 
+     Aktif büyüklükleri veya net satış hasılatlarının belli bir tutarın üzerinde olması nedeniyle, beyannamelerini meslek mensubuna imzalatmak zorunluluğunda bulunmayan mükellefler, istemeleri halinde beyannamelerini elektronik ortamda doğrudan kendileri gönderebilecek. 
+     Bu mükelleflerin söz konusu uygulamadan yararlanabilmesi için, Elektronik Beyanname Gönderme Talep Formu ve Taahhütnamesini'ni doldurarak, müracaatları gerekecek. 
+     
+     MÜKELLEFLER HANGİ ESASLARA UYACAK 
+
+     Elektronik ortamda gönderilecek beyanlar için mükellefler ya da aracılık yetkisi verilen meslek mensupları, her bir beyanname türü için hazırlanan beyanname doldurma programlarını, Gelirler Genel Müdürlüğü internet sitesine bağlanarak, bilgisayarlarına ücretsiz olarak yükleyecek. 
+     Sürekli güncellenecek bu programlar, birkaç bilgi girişiyle beyannamenin ilgili satırlarını otomatik olarak hesaplayıp dolduracak şekilde hazırlandı. 
+     Mükelleflerin veya meslek mensuplarının kullanıcı kodu, parola ve şifrelerini kullanarak gönderecekleri beyannameler, sistem tarafından ön kontrolleri yapıldıktan sonra kabul edilecek. Hata halinde bu hemen elektronik ortamda bildirilecek ve düzeltme yaptırılacak. Beyannamenin geçerliliği ve hata içermediği saptandıktan sonra, mükelleften onay istenecek. Onaylama ile birlikte beyanname idareye verilmiş sayılacak. 
+     Beyannamenin kanuni sürede verilen beyanname olarak kabulü için onaylama işleminin en geç beyannamenin verilmesi gereken son gün saat 24.00'den önce tamamlanması zorunlu olacak. 
+     Beyannamelerin teknik arıza nedeniyle, elektronik ortamda gönderilmesinin mümkün olmaması halinde, kanuni sürenin son gününe kadar bağlı bulunulan vergi dairesine posta yoluyla taahhütlü olarak gönderilmesi veya elden verilmesi gerekecek. 
+     Beyannamelerini kendileri gönderecek mükellefler ile aracılık yetkisi verilen meslek mensupları, e-beyanname göndermek üzere kendilerine verilmiş bulunan kullanıcı kodu, parola ve şifreleri başka amaçla kullanamayacak, bir başkasının kullanmasına da izin veremeyecek. Kod, parola ve şifrenin yetkisiz kişilerce kullanıldığının öğrenilmesi halinde de, durum hemen Gelirler genel Müdürlüğü'nün Çağrı Merkezi ya da ilgili vergi dairesine bildirilecek. 
+     
+     TAHAKKUK BİLGİLERİ BANKALARA GÖNDERİLECEK 
+
+     Elektronik ortamda gönderilen beyannamelere ait tahakkuk bilgileri, vergi tahsil yetkisi verilmiş olan bankalara da açılacak. Böylece, mükelleflerin tahakkuk eden vergilerini, bilgisayar ortamında, hesaplarının bulunduğu bankadan ödemeleri mümkün olabilecek. 
+     Bu arada yapılan çalışmaların bitmesi halinde, yıllık gelir ve kurumlar vergisi beyannamelerinin de 2005 yılından itibaren elektronik ortamda verilmesi sağlanacak. 
+
+     
+</TEXT>
+</DOC>

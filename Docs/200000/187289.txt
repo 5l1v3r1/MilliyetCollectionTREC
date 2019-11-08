@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 187289 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/08/son/soneko37.html </URL>
+<DATE> 2003/10/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa günü 335 puanlık kayıpla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Bileşik Endeksi 2. seansta 220.48 puan düşüşle 15,147.76 puandan kapandı. 
+     Hisse senetleri 2. seansta ortalama yüzde 1.43 oranında değer kaybetti. 
+     İlk seanstaki 114.42 puanlık düşüş dikkate alındığında Borsa endeksi, günün tamamında 334.90 puan geriledi. Hisse senetlerindeki günlük değer kaybı ise yüzde 2.16 oldu. 
+     Endeks, seansa 30.81 puan düşüşle 15,337.43 puan seviyesinde başladı. Seansın ilk yarısı da 99.63 puan düşüşle 15,269.11 puandan geçildi. Endeks seans içinde en düşük 15,069.63, en yüksek 15,585.71 puanı gördü. 
+     Kapanışta mali endeks 441.62 puan düşüşle 20,029.77 puana, sanayi endeksi 140.13 puan düşüşle 13,836.61 puana, hizmetler endeksi 0.89 puan düşüşle 8,461.06 puana geriledi. 
+     Böylece, ilk seansa göre mali grup hisseler ortalama yüzde 2.16, sanayi grubu hisseler ortalama 1.00, hizmetler grubu hisseler de yüzde 0.01 değer yitirdiler. 
+     2. seansta işlem gören toplam 291 hisse senedinden 223'ü değer yitirirken, 33 hisse senedi değer kazandı. 35 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta 676 trilyon 234 milyar 395 milyon liralık işlem hacmi kaydedildi. İki seanstaki işlem hacmi toplamı da 1 katrilyon 494 trilyon 474 milyar 892 milyon lira olarak belirlendi. 
+     2. seansta, Yapı Kredi Bankası, Doğan Holding, İş Bankası C, İhlas Holding ve Sabancı Holding en yoğun işlem gören hisse senetleri olarak belirlendi. 
+     Asker göndermeye yönelik tezkerinin Meclis'ten dün geçmesinin piyasalarda bir rahatlama yarattığını savunan borsa uzmanları, beklentinin gerçekleşmesinin borsada kar satışlarını getirdiğini, gün boyunca satıcılı seyir izleyen endeksin bir ara tepki alımlarıyla yükseliş denediğini ancak bunda başarılı olamadığını kaydediyor. 
+     Uzmanlar, ikinci seansta endeksin 15,100-15,200 seviyesinde tutunma çabasında olduğuna işaret ederek, üç-dört gün içinde yüzde 20'yi aşan getirinin cazibesinin, kısa vadeli beklentileri tükenen borsada satışların devam etmesine neden olduğunu, endeksin 14,650 desteğine doğru gevşemeyi sürdürmesinin beklenebileceğini tahmin ediyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 350815 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/10/son/sontur32.html </URL>
+<DATE> 2005/06/10/ </DATE>
+<TIME> 13.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hollanda uçağı İstanbul'da arızalandı 
+</HEADLINE>
+<TEXT>
+
+     Hollanda Kraliyet Hava Yolları'nın KLM İstanbul-Amsterdam seferini yapacak olan yolcu uçağında, kalkışa hazırlandığı sırada uçuş kumanda arızası meydana geldi. 
+     Atatürk Havalimanı'ndan saat 05.00'te Amsterdam'a hareket etmesi gereken yolcu uçağının uçuş kumandası, kalkışa hazırlandığı sırada arızalandı. 
+     Bunun üzerine Sivil Havacılık Genel Müdürlüğü yetkilileri, arıza yapan uçağa giderek incelemelerde bulundu. 
+     Havada kalmasını ve manevra yapmasını sağlayan uçuş kumandası sistemindeki arızanın giderilmesi için uçak, THY Teknik Hangarı'nda bakıma alındı. 
+     Yetkililer, arızanın uçuş güvenliğini tehlikeye atacak kadar önemli olmadığını, ancak uçağın otomatik kumanda ile kullanılmasını engellediğini bildirdiler. 
+     Bu arada, uçaktaki arızanın bugün öğleden sonra giderilmesinin beklendiği kaydedildi. 
+     
+</TEXT>
+</DOC>

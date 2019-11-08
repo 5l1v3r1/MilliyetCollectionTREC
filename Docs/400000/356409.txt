@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 356409 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/28/son/sonyas05.html </URL>
+<DATE> 2005/06/28/ </DATE>
+<TIME> 09.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Google'dan, "video" atağı... 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın en büyük medya kuruluşu haline gelen internet arama motoru Google, kullanıcılarına video izleme hizmeti sunmaya başladı. 
+     10 ay önce hisseleri 85 dolardan halka açılan ve bu sürede hisse 
+     değerleri üç kat artarak 300 dolara ulaşan Google’un yeni hizmetinden faydalanabilmek için http video.google.com adresinden ücretsiz bir program indirmek gerekiyor. Bu program Google dışındaki videoların gösteriminde ise kullanılamıyor. İkinci büyük internet arama motoru durumundaki Yahoo’nun da gösterim programları Microsoft ve RealNetworks tarafından sağlanan bir video servisi bulunuyor. Google’un şu an verdiği video hizmetinin tamamen ücretsiz olduğu ancak ileride video sağlayıcı firmalarla yapacağı ortaklıklardan sonra bu hizmetin bir kısmının ücretli hale gelebileceği ifade edildi. Google’un video hizmetlerini ücretli hale getirmesiyle gelir için sadece reklama bağlı kalmaktan da kurtulacağı kaydedildi. Google’ın 2005 yılının ilk çeyreğinde elde ettiği 369 milyon dolarlık gelirin tamamının reklamlardan kazanıldığı belirtilirken, video hizmetinin Google’a daha fazla reklam verilmesini de sağlayacağı ifade edildi. Google yedi yıl önce genç girişimcilerden Larry Page ve Sergey Brin tarafından bir garajda kurulmuştu. Temel ağırlığını internet aramalarına veren ve kullanıcıya arama sonuçlarını vermeden önce aldığı reklamları göstermek suretiyle karlılığını artıran Google, web dünyasında çığır açmıştı. 
+     
+</TEXT>
+</DOC>

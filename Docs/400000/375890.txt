@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 375890 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/05/son/sonyas19.html </URL>
+<DATE> 2005/09/05/ </DATE>
+<TIME> 15.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İsrailli 'hackerlar', Ürdün Hazinesi'nin internet sitesine saldırdı 
+</HEADLINE>
+<TEXT>
+
+     İsrailli bir grup ''hacker'' bilgisayar korsanı , Ürdün Hazinesi'nin web sitesine girerek, sitenin ana sayfasına İsrail milli marşının sözlerini yazdı. 
+     Kendilerini ''k4hOL4V4N'' Mavi-Beyaz Ekip olarak tanımlayan korsanların, sayfaya bazı küfürlü sözler yazdıkları da kaydedildi. 
+     Haaretz gazetesinde yayımlanan habere göre, saldırının, İsrail'de 200'den fazla web sitesine yapılan saldırıya karşı bir cevap olduğu sanılıyor. 
+     İsrailli siteler, kendilerini ''Şer Takımı'' olarak adlandıran ve ''Faslı'' olarak tanıtan bir grup tarafından saldırıya uğramıştı. 
+     Haberde, Faslı grubun son saldırısına kadar, İsrail web sitelerinin en fazla Türk bilgisayar korsanlarının saldırısına uğradığı da iddia edildi. 
+     Türk bilgisayar korsanlarının, geçen günlerde 17 İsrail web sitesine saldırdığı öne sürülen haberde, bu saldırılardan birinde ABD Başkanı George Bush'un gövdesinin üzerine İsrail Başbakanı Ariel Şaron'un kafasının monte edildiği kaydedildi. 
+     
+</TEXT>
+</DOC>

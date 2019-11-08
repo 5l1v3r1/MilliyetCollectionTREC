@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 150147 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/04/16/son/sondun08.html </URL>
+<DATE> 2003/04/16/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+AOL, gereksiz e-mail atanları mahkemeye verdi.. 
+</HEADLINE>
+<TEXT>
+
+     Abonelerine gereksiz e-mail yollayarak hatları meşgul edenlere savaş açan, dünyanın en büyük internet servis sağlayıcısı America on Line AOL , konuyla ilgili olarak 5 ayrı dava açtığını bildirdi. 
+     AOL, davalılardan 10 milyon doların üzerinde tazminat talep etti. 
+     AOL yöneticileri, haklarında dava açılan kişi ve kuruluşların 1 milyar gereksiz e-mail yolladıklarının saptandığını bildirdiler. 
+     AOL, kısa süre önce hizmete sunduğu AOL 8.0 sürümüyle gereksiz e-mail'leri önleyecek bir yöntem geliştirmişti. Bu yöntem sayesinde kullanıcılar, mektup almak istemedikleri kişilerin adreslerini bir klikle AOL'e bildiriyor, böylece mesaj kutularının gereksiz yere dolmasını önlüyorlar. 
+     AOL'in, abonelerinden şimdiye kadar gereksiz mesajlarla ilgili olarak 8 milyon şikayet aldığı belirtildi. AOL yetkilileri, ''mesajları gönderenlerin abone oldukları firmalarla da işbirliğine giderek, gereksiz mesaj salgınına darbe indireceklerini'' söylediler. 
+     Bu firmaların başında Comcast ve RoadRunner'ın geldiği bildiriliyor. AOL'in uygulamaya koyduğu bloke etme yöntemi sayesinde bu kuruluşlardan yollanan gereksiz mesaj sayısının yüzde 90 azaldığı belirtildi. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

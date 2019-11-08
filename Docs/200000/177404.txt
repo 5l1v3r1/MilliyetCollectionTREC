@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> 177404 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/22/son/sondun04.html </URL>
+<DATE> 2003/08/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+''Sobig.F internette trafik tıkadı 
+</HEADLINE>
+<TEXT>
+
+     ''Sobig.F'' virüsünün yayılma hızı karşısında hayrete düşen uzmanlar ''internetin kuşatma altında olduğunu ve trafiğin tıkandığını'' söylediler. 
+     E-mail yoluyla en hızlı yayılan virüs olarak nitelenen Sobig.F, tüm dünyada birçok işyeri, üniversite ve diğer kuruluşlarda hayatın durmasına neden oldu. 
+     E-mail virüslerini denetleyen ''MessageLabs'' adlı kuruluş son 24 saat içersinde virüsün bir milyondan fazla kopyasına rastlandığını bildirdi. Diğer bir deyişle ''her 17 e-mail'den birinin virüslü olduğunu'' kaydeden kuruluş başkanı Paul Wood yaptığı açıklamada, ''Bu gerçekten korkutucu bir istatistik. Ancak bundan sonrakilerin daha da korkunç olacağı anlaşılıyor'' dedi. Sobig.F'den önceki rekor ''Klez'' adlı virüse aitti ve 24 saat içinde virüsün 250.000 kopyası saptanmıştı. 
+     
+     YENİLERİ GELİYOR 
+
+     ''Sobig.F'', aynı kuşak virüsün 5. sürümünü oluşturuyor ve her sürümün ayrı bir sona erme tarihi bulunuyor. Virüslerden bazılarının süresi geçen ay dolmuştu. Sobig.F'in süresinin ise 10 Eylül'de dolacağı saptandı. Ancak uzmanlar ''Sobig.G''nin 11 Eylül'de ortaya çıkmasına kesin gözüyle bakıyorlar. 
+     Uzmanların verdiği bilgiye göre Sobig.F bilgisayarlara ya da içindeki verilere zarar vermiyor ancak bilgisayar ve ağ kaynaklarını işgal ederek bir anlamda ''trafik tıkanıklığı'' yaratıyor. Yetkililer ''virüsün dünya çapında e-mail trafiğinin yüzde 60'ını tek başına oluşturabileceğini, böylece trafiği son derece yavaşlatabileceğini'' belirtiyorlar. 
+     
+     MICROSOFT, ''IE''NİN AÇIKLARINI KAPATTI 
+
+     Öte yandan, Microsoft firması, ''internet kurdu'' saldırısı yüzünden baskı altında bulunan Windows-XP ve 2000 sürümü internet tarayıcısındaki IE açıkları kapatmak üzere bir yama yayımladı. http www.microsoft.com security adresinden ücretsiz indirilebilen yama, IE'de görülen 2 ciddi açığı kapatmayı amaçlıyor. 
+     İnternet aracılığıyla yayılan söz konusu kurtlardan tüm dünyada yüz binlerce bilgisayar etkilenmiş, ağ şebekeleri çökmüştü. 
+     ÇİN'İ MAHVETTİ 
+     ''Sobig.F'' virüsü, Çin'de elektronik posta kullanan kişisel bilgisayarların yüzde 30'unu mahvetti. ''Beijing Rising Technology Shareholding Co Ltd Pekin Yükselen Teknoloji Hissedarları Limited Şirketi''nin yetkilisi Hao Ting, Reuters'a demecinde, ''Bunun gibi hızlı yayılanını görmedik. Daha da kötü yayılacak çünkü Çin'de virüs bilinci ve önlemleri eksik'' dedi. Hao, 1 milyon abonenin taranmasıyla 68 milyon bilgisayar sahibinin bulunduğu ülkede 20 milyonu aşkın kullanıcıya bu virüsün bulaştığının kaydedildiğini bildirdi. 
+     
+     TİENCİN ACİL MÜDAHALE MERKEZİ- 
+
+     Çin'in Şanghay ve Pekin'den sonra üçüncü büyük sanayi kenti olan Tiencin'deki ''Ulusal Bilgisayar Virüsü Acil Müdahale Merkezi'', Pekin'deki özel şirketin saptamalarının tamamen doğrulanamadığını bildirdi. 
+     ''Çok Büyük'' anlamına gelen Sobig virüsü, sunucuları felç ediyor. Güney Kore dahil uzmanlara göre virüsün eylülde kendini yok etmesi olası. 
+     Sobig virüsü, ''Thank you'', ''Movies'', ''Details'' veya ''Applications'' sözcükleriyle postada araç çubuklarında görünüyor. 
+     1 milyar 300 milyon nüfuslu dünyanın en kalabalık ülkesi Çin'e de musallat olan Sobig, şirket yetkilisi Hao'nun belirttiğine göre, 3 saat içinde bir posta hesabına 5 bin kez girdi. 
+     Çin'de antivirüs programı kullananların yarısı zamanında gerekli güncellemeyi yapmıyor. 
+     
+</TEXT>
+</DOC>

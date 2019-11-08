@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 407456 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/28/son/sonyas08.html </URL>
+<DATE> 2005/12/28/ </DATE>
+<TIME> 10.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Avrupa 'Galileo' çağını açtı 
+</HEADLINE>
+<TEXT>
+
+     ABD’nin GPS küresel yer belirleme 
+     uydu sistemine Avrupa’nın yanıtı olan "Galileo konumlandırma programının" ilk uydusu fırlatıldı. Avrupa Uzay Ajansı’nın yürüttüğü ve henüz test aşamasında olan programa dahil olan "Giove A" adlı uydu, Kazakistan’daki Baykonur uzay merkezinden bugün TSİ 07 19’de, Soyuz roketi ile yörüngesine gönderildi. 3,6 milyar Avroluk proje kapsamında yörüngeye 30 uydu yerleştirilecek ve sistem, ABD ordusu tarafından kontrol edilen GPS’e Avrupa’nın bağımlılığını sona erdirecek. Sistem, sivil kontrol altında olacak. GPS’e göre iki kat daha geniş kapsama olanağına sahip olacak olan Galileo sistemi, otomobil kullanıcılarından denizlerde seyahat edenlere veya haritacılara kadar geniş bir kesime, uydu aracılığıyla yer belirleme imkanı sağlayacak. ABD, ilk aşamada Galileo’yu eleştiriyordu. Ancak taraflar geçen yıl, her iki sistemi birbiriyle uyumlu hale getirecek bir anlaşma sağlayarak, bu alandaki gerilimi ortadan kaldırmışlardı. ABD Savunma Bakanlığı, bu anlaşmadan önce, "Galileo’nun gereksiz olduğu" eleştirisini yapıyordu. Pentagon ayrıca, ABD ordusunun uygulamayı planladığı yeni kuşak GPS sinyallerinin, Galileo’nun sinyalleriyle karışacağını ve bu durumun, savaş zamanında güvenlik tehditlerine yol açacağını savunuyordu. Avrupa Uzay Ajansı, baştan öngörülemeyecek derecede acil durumlar dışında sistemin kesintisiz çalışmasını garanti edecek. Kullanıcılar, olası bir uydu aksaklığını önceden haber alabilecek. Sistemin ikinci uydusu olan Giove-B Galileo In-Orbit Validation Element , 2006’nın ilk yarısında yörüngeye yerleştirilecek. 2008 yılında ise iki uydu daha fırlatılacak ve toplam 4 uydu ile, sistemin test aşaması tamamlanacak. Yeryüzünde herhangi bir noktanın ve o anki zamanının tam olarak belirlenmesi için en az 4 uydu gerekiyor. Çin, Hindistan, İsrail, Fas, Suudi Arabistan ve Ukrayna’nın da dahil olduğu sisteme diğer ülkelerin de katılımı konusunda görüşmeler devam ediyor. 
+     
+</TEXT>
+</DOC>

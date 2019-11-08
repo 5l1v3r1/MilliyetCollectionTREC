@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 238971 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/11/yasam/yas08.html </URL>
+<DATE> 2004/05/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Boyna takılan 'kara kutu' 
+</HEADLINE>
+<TEXT>
+
+
+NEVSAL ELEVLİ Londra 
+
+Jim Carrey'nin başrolünde oynadığı 'Truman Show' filmi gerçek oluyor. İngiliz bilim adamları, boyna takılan ve gün boyu yapılan her hareketi kaydeden bir fotoğraf makinesi geliştirdi. 'Truman Show' filminde tüm hareketleri kamerayla izlenen Carrey'nin yaşamı, Cambridge'deki Microsoft uzmanları tarafından gerçeğe dönüştürüldü. 'SenseCam' adı verilen dijital fotoğraf makinesi, tuşuna dokunmaya gerek kalmadan 12 saat boyunca her anı görüntüleyip hafızasına kaydediyor. Daha sonra bilgisayara aktarılabilen görüntülerle insan hayatının tümünü içeren bir 'kara kutu' oluşturmak mümkün oluyor. Ayrıca makine, kendini ışığa ve ani harekete göre ayarlayabiliyor. 
+
+
+</TEXT>
+</DOC>

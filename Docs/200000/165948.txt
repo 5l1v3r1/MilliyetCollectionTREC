@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 165948 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/28/ekonomi/eko10.html </URL>
+<DATE> 2003/06/28/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+e-kolay’dan kişiselleştirilmiş browser 
+</HEADLINE>
+<TEXT>
+
+     e - kolay.net Türkiye’nin ilk kişiselleştirilmiş browser’ını internet kullanıcılarının hizmetine sundu. Abonelerine internette geçirdikleri süreyi daha verimli kullanmalarını sağlayacak ve zaman kazandıracak olan my e - kolay’ sayesinde haber, spor, kadın, sağlık, finans, araba, sinema, gezi ve TV rehberi kanallarını diledikleri gibi kişiselleştirebilecekler. Sayfalar açıldığında öncelikle kullanıcının kendi ilgi alanına giren konular görüntülenecek. e-kolay browser’in içeriğinde şu imkanlar yer alıyor kişisel alanım, junk mesaj koruması, tek tıkla giriş, fotoğraf albümü ve herkese aynı internet. 
+     
+
+</TEXT>
+</DOC>

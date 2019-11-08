@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 341356 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/10/son/sonyas18.html </URL>
+<DATE> 2005/05/10/ </DATE>
+<TIME> 17.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+46 hacker, sorgulandı 
+</HEADLINE>
+<TEXT>
+
+     Fransa’da bilgisayar korsanlarına karşı operasyonlarda, 18’i başkent Paris’te olmak üzere 46 kişi gözaltına alınarak, sorgulandı. 
+     Jandarma tarafından yapılan açıklamada, operasyonların Belçika polisi ile ortak düzenlendiği belirtildi. 
+     Sorgulananlar arasında küçük yaştakilerin de bulunduğu ifade edilen açıklamada, korsanların, ticari şirketlerin ve üniversitelerin bilgisayar ağlarına sızdıkları ve koruma sistemlerini çökerttikleri kaydedildi. 
+     Korsanlar ayrıca, çeşitli bilgisayar ürünlerinin sahtesini yapıp dağıtmakla suçlanıyor. 
+     Fransa’da bir mahkeme, Ocak ayında, bilgisayar ürünlerinin sahtelerini üreten ve dağıtan çetenin 5 üyesini 2 ila 6 ay tecilli hapis cezalarına çarptırmıştı. 
+     
+</TEXT>
+</DOC>

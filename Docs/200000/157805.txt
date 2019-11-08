@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 157805 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/20/son/soneko01.html </URL>
+<DATE> 2003/05/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası'nda Dow Jones ve Nasdaq geriledi 
+</HEADLINE>
+<TEXT>
+
+     New York menkul kıymetler borsası Wall Street'te, Dow Jones ve Nasdaq Endeksleri düştü. 
+     Borsanın temel göstergesi Dow Jones 185.58 puan yüzde 2.14 düşerek, günü 8,493.39 puandan kapattı. 
+     Teknoloji endeksi Nasdaq da 45.76 puan yüzde 2.97 azalarak, 1,492.77 puana indi. 
+     
+     TOKYO BORSASI 
+
+     Tokyo Menkul Kıymetler Borsası, kapanışta değer kazandı. 
+     Nikkei Endeksi, 20.35 puanlık yüzde 0.25 yükselişle, 8,059.48 puana çıktı. 
+     Öte yandan ABD Doları, Japon Yeni karşısında 1.93 yen değer kazanarak 117.13 yen düzeyine ulaştı. 
+     
+</TEXT>
+</DOC>

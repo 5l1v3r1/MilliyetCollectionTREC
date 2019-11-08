@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 303844 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/05/son/sonyas16.html </URL>
+<DATE> 2005/01/05/ </DATE>
+<TIME> 19.51 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Pasif içici çocukların matematik va okuma yetenekleri düşüyor 
+</HEADLINE>
+<TEXT>
+
+     ABD'de yapılan bir araştırma tiryakilerin sigara dumanından etkilenen pasif içici durumundaki çocukların matematik, hafıza ve okuma yeteneklerinin düştüğünü ortaya koydu. 
+     6-16 yaş arasında 4 bin 400 Amerikalı çocuk üzerinde yapılan ve sonuçları ''Environmental Health Perspectives Çevre Sağlık Boyutları '' isimli bilimsel derginin Ocak saysında yayınlanan araştırma sonuçlarına göre sadece ABD'de 22 milyon çocuk bu yüzden risk altında bulunuyor. 
+     Sigarada bulunan ''cotinine'' isimli kimyasal maddenin çocukların sağlığını ve zihinsel yeteneklerini olumsuz etkilediğini ortaya koyan araştırmaya göre, ailesinde sigara içen çocukların test başarılarının düştüğü ve çocukların kanlarındaki ''cotinine'' miktarı arttıkça başarılarnın azaldığının gözlemlendiği kaydedildi. 
+     Araştırma sonuçları, çok az miktarda içilen sigara dumanına maruz kalan çocukların bile bundan son derece olumsuz etkilendiğini gösterirken, kandaki ''cotinine'' miktarı ile çocukların başarısı arasında ters orantı bulunduğu ifade edildi. 
+     
+</TEXT>
+</DOC>

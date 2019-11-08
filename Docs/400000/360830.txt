@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 360830 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/13/son/sontur40.html </URL>
+<DATE> 2005/07/13/ </DATE>
+<TIME> 17.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternet bankacılığına açık hesabın şifresini kırdılar 
+</HEADLINE>
+<TEXT>
+
+     Gaziantep’te internet bankacılığına açık 2 ayrı hesaptan toplam 12 bin 800 YTL çektikleri iddia edilen 2 kişi tutuklandı. 
+     Gaziantep Emniyet Müdürlüğü’nden yapılan yazılı açıklamaya göre, Gaziantep Cumhuriyet Başsavcılığı’na başvuran Adem Atak, bir bankanın Şırnak Şubesi’ndeki internet bankacılığına açık hesabından şifresi kırılarak 8 bin 300 YTL’sinin alındığını öne sürdü. 
+     Hesabındaki 8 bin 300 YTL’nin Adana’dan tahsil edildiğini belirten Atak’ın başvurusu üzerine Gaziantep Emniyet Müdürlüğü Kaçakçılık ve Organize Suçlar Şubesi Mali Büro Amirliği ekiplerinin yürüttüğü soruşturma sonucu, Atak’ın hesabından para çeken kişilerin aynı yöntemle Erzurum’da yaşayan Mustafa Ünaldı’nın da 4 bin 500 YTL’sini tahsil ettikleri belirlendi. 
+     Soruşturma kapsamında Gaziantep’te yakalanan ve kimlikleri açıklanmayan 2 kişi, "bilişim suçu suretiyle nitelikli dolandırıcılık" suçlamasıyla çıkarıldıkları mahkemece tutuklandı. 
+     Dolandırıcılık olaylarına karıştıkları belirlenen 2 kişinin daha arandığı kaydedildi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 205829 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/31/son/sontur17.html </URL>
+<DATE> 2004/12/31/ </DATE>
+<TIME> 12.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Telekom Kesintiye neden olan anonsların kaynağı tespit edilemedi 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekomünikasyon A.Ş, internet şebekesi TTnet'te 24 Aralık Cuma günü meydana gelen kesintiye neden olan anonsların kaynağının tespit edilemediğini bildirdi. 
+     Türk Telekom'dan yapılan konuya ilişkin açıklamada, Cuma günü öğle saatlerinde Türk Telekom IP şebekesinde yaşanan kesinti sırasında TTnet Otonom Sistemi AS üzerinden şebeke ve müşterilere ait IP adreslerinin yanı sıra kaynağı belirlenemeyen ve şirkete ait olmayan adres ve rota bilgilerinin diğer Otonom sistemlere gönderilmeye anons başlandığı belirtildi. Açıklamada, şu bilgilere yer verildi 
+     ''İnternetin doğası gereği peering farklı otonom sistemleri arasında bilgi alışverişi ilişkisi olan tüm Otonom Sistemleri birbirlerinin anonslarını aldığı ve kendi peeringlerine bunları anons ettiği için TTnet Otonom Sistemi'ne ait olmayan IP adreslerinin anons edilmesi, yurtdışı bağlantılarımızın yapıldığı ve peering ilişkimiz olan Telekom operatörlerini ve onlara bağlı diğer internet servis sağlayıcılarını olumsuz yönde etkilemiş, kesintiye neden olmuştur. Kesintiye neden olan bu anonsların kaynağı tespit edilememiştir. 
+     Tüm dünyadaki servis sağlayıcılarda olduğu gibi, Türk Telekom bünyesinde bulunan bütün altyapı cihazları ve sistemler tamamen yedekli şekilde tasarlanmış olup tüm şebekelerimiz için altyapı, kapasite, erişim, güvenlik ve yurtdışı bağlantı yatırımları bu tür problemlerin yaşanmasına neden olabilecek ihtimalleri ortadan kaldıracak şekilde, programlarımız doğrultusunda artırılarak devam etmektedir.'' 
+     
+</TEXT>
+</DOC>

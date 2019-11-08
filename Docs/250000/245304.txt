@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 245304 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/04/son/soneko44.html </URL>
+<DATE> 2004/06/04/ </DATE>
+<TIME> 17.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası güne yükselişle başladı... 
+</HEADLINE>
+<TEXT>
+
+     New York Menkul Kıymetler Borsası, açılışta değer kazandı. 
+     Dow Jones Endeksi, 68.84 puan yüzde 0.68 yükselerek, 10,264.75 puana ulaştı. 
+     Standard and Poor's 500 endeksi, 6.73 puan yüzde 0.60 , Nasdaq Bileşik Endeksi de, yüzde 1.23 oranında değer kazandılar. 
+     Borsanın yükselişle açılmasında, ABD'de, Mayıs ayında 248 bin kişilik yeni istihdamın yaratılması ve işsizliğin yüzde 5.6 oranında seyretmesi sonucu, ekonomik büyümenin yolunda olduğu mesajı belirleyici oldu. 
+     
+</TEXT>
+</DOC>

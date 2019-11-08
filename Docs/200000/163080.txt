@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 163080 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/14/ekonomi/eko08.html </URL>
+<DATE> 2003/06/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Elektrikte kaçağa Güney Afrika modeli önerisi 
+</HEADLINE>
+<TEXT>
+
+Schneider Electric Ortadoğu Bölgesi Başkanı Başkanı Billiard, elektrikteki kaçakların önlenmesi için G. Afrika'daki gibi ön ödemeli sistemi önerdi 
+     EVRİM ERGİN İzmir 
+
+     Enerji dağıtım endüstriyel kontrol ve otomosyon alanlarında İzmir Kemalpaşa'da üretim yapan Fransız Şirket Schneider Electric Ortadoğu Bölgesi Başkanı Jacques Billiard, elektrik kayıp kaçağının önlenmesi için ilginç bir öneride bulundu. Schneider Electric'in Türkiye'de 5 bininci modüler hücre ve 50 bininci orta gerilim kesicisini üretmesi nedeniyle düzenlenen basın toplantısında konuşan Billiard, "Kaçakların önlenebilmesi için Güney Afrika'dan ön ödemeli bir sistem geliştirildi. Böylece daha önceden ödediğiniz kadar elektrik tüketebiliyorsuruz. Bu tür yöntemler Türkiye'de de kullanılabilir" dedi. Billard, iletim hatlarındaki kayıp için ise bunların ciddi anlamda iyileştirilmesi gerekiyor ancak ne kadar bir yatırım yapılması gerektiği konusunda ciddi araştırmalar gerekiyor" diye konuştu. 
+     
+
+</TEXT>
+</DOC>

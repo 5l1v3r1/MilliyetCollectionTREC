@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 150724 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/04/18/son/soneko18.html </URL>
+<DATE> 2003/04/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansta 11 puan arttı... 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası İMKB Ulusal-100 Endeksi, 1. seansı, 10.66 puan artışla 11,229.90 puandan tamamladı. 
+     Hisse senetlerinin ortalama değer kazancı yüzde 0.10 oldu. 
+     Seansa, 4.58 puan düşüşle 11,214.66 puan seviyesinde başlayan endeks, seansın ilk yarısını 36.56 puan artışla 11,255.80 puandan geçti. 
+     Endeks, en düşük olarak 11,173.43 puana kadar gerilerken, en yüksek değer olarak da 11,341.03 puana ulaştı. 
+     Seans kapanışında mali endeks 23.16 puan artışla 13,171.55 puana, hizmetler endeksi 75.21 puan artışla 7,406.39 puana yükselirken, sanayi endeksi 20.79 puan düşüşle 11,664.49 puana geriledi. 
+     Böylece, önceki kapanışa göre mali grup hisseler ortalama yüzde 0.18, hizmetler grubu hisseler ortalama yüzde 1.03 oranında değer kazanırken, sanayi grubu hisseler ortalama yüzde 0.18 oranında değer yitirdi. 
+     İşlem gören toplam 286 hissenin 144'ü değer kazandı, 68'i değer kaybetti, 74'ünün fiyatı değişmedi. 
+     1. seansta, Garanti Bankası, İhlas Holding, İş Bankası C , Tüpraş ve Enka İnşaat en yoğun işlem gören hisseler oldu. 
+
+     
+</TEXT>
+</DOC>

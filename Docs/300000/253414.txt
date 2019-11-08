@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 253414 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/06/son/sonyas08.html </URL>
+<DATE> 2004/07/06/ </DATE>
+<TIME> 11.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Giriş çıkışlar kontrol altında Öğrencilere takip yongası.. 
+</HEADLINE>
+<TEXT>
+
+     Japonya'da bir şirket, okulu kırmayı zorlaştıran bir bilgisayar yongası yaptı. 
+     Öğrenciler okula girerken ve çıkarken kimliklerini bir tarayıcıya okutuyor ve kimliklerine eklenen yonga, öğrencinin giriş-çıkış saatleriyle ilgili bilgiyi velilerin bilgisayarı veya cep telefonuna elektronik posta olarak gönderiyor. 
+     Böylece anne-babalar çocuklarının okula gidip gitmediğini ve okuldan ne zaman çıktığını öğreniyor. 
+     Sistemi geliştiren Japon yazılım firması NAJ'ın sözcüsü Toru Hasegawa, yeni sistemin gelecek ay satışa çıkacağını söyledi. 
+     Öğrencileri kontrol etmeye yönelik bu sistemin, suç ve şiddet yaşının giderek düşmesinin yarattığı kaygılara yanıt vermek amacıyla geliştirildiği belirtildi. 
+     Japonya'da eğitim saplantılı birçok aile, güvenlik sorunlarına rağmen, küçük çocuklarını geç saatlere kadar sınav hazırlık sınıflarına göndermekten kaçınmıyor. 
+     Bu nedenle ilk ve orta okul öğrencilerinin saat 22.00'de eve dönmesinin ''çok alışılmadık bir durum olmadığına'' dikkat çeken Hasegawa, ''Çocuklarının okuldan çıkmakta oldukları haberini erkenden almanın birçok aile için bir rahatlama kaynağı olduğunu'' söyledi. 
+     
+</TEXT>
+</DOC>

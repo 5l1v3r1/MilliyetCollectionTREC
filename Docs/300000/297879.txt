@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 297879 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/15/son/soneko16.html </URL>
+<DATE> 2004/12/15/ </DATE>
+<TIME> 11.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Asimo koşmayı da öğrendi... Bundan sonra neler öğrenecek 
+</HEADLINE>
+<TEXT>
+
+     Honda'nın yürüyen ve çocuk sesiyle konuşan robotu Asimo, sürekli geliştirilerek insanın yaptığı hareketleri daha iyi taklit edebilir hale getiriliyor. 
+     130 santimetre uzunluğundaki robot, son olarak basit adımlarla koşmayı başardı. Geliştiricilerinin iki kızılötesi kamerayla bir algılayıcı eklediği Asimo, artık sarsıntılara karşı da daha güçlü hale geldi. 
+     Saatte 1.6 kilometre hız yapabilen önceki modelinin aksine Honda merkezindeki gösteride saatte 3 kilometre gibi düşük bir hızda koşmayı başaran Asimo, yön değiştirme özelliği eklenen esnek bacaklarıyla koşarken yerden havalanıp geri indiğinde dengesini koruyabiliyor. 
+     5 kişisel bilgisayar gücüne eşit işlemciye sahip olan Asimo, programlanan hedefe yöneldiğinde önüne çıkan insanlardan ve diğer engellere çarpmamak için manevra yapabiliyor. Komut algılama kapasitesiyle merdivenden tırmanabilen ve inebilen insansı robot, koştuğu sırada önüne çıkan küçük engellerin üzerinden geçmeyi ve meyilli alanda koşmayı henüz başaramıyor. 
+     Asimo'ya kazandırılan en büyük özelliğin dengesini koruyarak hızlı adım atabilmesi olduğunu belirten Honda mühendislerinden Masato Hirose, bu sayede yolda yalpalama olduğunda kayma ve yere düşmenin engellenebildiğini kaydediyor. 
+     Daha önce devlet başkanlarıyla tokalaşan ve New York Borsası'nın açılış ziline basan Asimo'nun, Japonya'nın bir elçisi gibi hareket ederek ülkesinin tanıtımına büyük katkı sağladığı belirtiliyor. 
+     Honda'nın Asimo'yu geliştirmeyi sürdürerek 2010'lu yıllarda ofislerde çalışanlara evrak taşıyabilen, insanların hasta ve yaşlı insanların ihtiyaçlarının karşılanmasında yardımcı olabilen bir robot haline getirmeyi hedeflediği, fabrika ortamında işçilerin yerine kullanmayı ise şimdilik düşünmediği ifade ediliyor. 
+     Asimo adını, Japonca'da bacak anlamına gelen ''ashi'' ve hareket anlamına gelen ''mo'' kelimelerinin birleştirilmesinden alıyor. 
+
+     
+</TEXT>
+</DOC>

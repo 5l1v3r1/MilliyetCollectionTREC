@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 310060 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/27/son/sonyas14.html </URL>
+<DATE> 2005/01/27/ </DATE>
+<TIME> 11.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sırlar Kuantum düdüğünde mi saklı 
+</HEADLINE>
+<TEXT>
+
+     BBC 
+
+Ünlü fizikçi Albert Einstein'ın terorileri üzerine tasarlanan yeni bir aygıt, jeologların depremleri ölçmesinde, astronomların 'günün süresini' ölçmesinde ve belki de denizaltıların daha rahat seyretmesinde önemli bir adım olabilir. 
+     'Süper akışkan' olarak adlandırılan madde türü üzerine kurulu bu aygıtın garip bir de düdük sesi var. 
+     Albert Einstein, bilim dünyasında ilk kez bundan 100 yıl önce boy gösterdi. 
+     Teorileriyle bilim dünyasını sarsan Einstein'ın en önemli keşiflerinden birisi atomların davranışlarını inceleyen bilim dalı Kuantum'un temellerini atan çalışmalarıydı. 
+     Yeni aygıt, 1920'lerde Einstein tarafından dünyaya tanıtılan Kuantum teorisinin sonuçlarından yararlanarak tasarlanmış. 
+     Tasarımın temeli, 'süper akışkanlar' olarak adlandırılan çok soğuk sıvıların hiçbir engel tanımadan hareket edebilmesi prensibine dayanıyor. 
+     California'daki araştırmacılar, 'süper akışkan' helyumun, saç telinin binde biri inceliğinde, küçük deliklerden oluşan bir ortamda sıkıştırılması sonucu garip bir düdük sesi çıkardığını belirlediler. 
+     Bilim adamlar eğlence için, bu sesi kullanarak bir 'kuantum müziği' oluşturmayı planlıyorlar. 
+     Ancak asıl önemli plan, bir halkanın iki farklı noktasına yerleştirilecek iki aygıttan gelecek düdük sesleri karşılaştırılarak, hareket edebilen çok hassas detektörler kurulması. 
+     Eğer planlandığı gibi çalışırsa, bu detektörler, yerküredeki en ufak hareketliliği kaydedip, depremlerin önceden tahmin edilmesini sağlayabilir. 
+     Astronomlar, okyanusların hareketleri ve rüzg rlar nedeniyle 'gün süresindeki' küçük değişiklikleri belirleyebilirler. 
+     Ve bu hassas detektörler, Einstein'ın en önemli teorisi olan, izafiyet teorisinin doğruluğunun kanıtlanmasına da yardımcı olabilirler. 
+     İzafiyet teorisi, birbirine göre sabit hızda hareket eden sistemlerdeki olayları açıklar. 
+     Einstein teorisinde, dünya gibi büyük cisimlerin kendi eksenleri etrafında dönerken zaman ve uzayı büktüklerini savunmuştu. 
+
+     
+</TEXT>
+</DOC>

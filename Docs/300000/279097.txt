@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> 279097 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/11/son/soneko15.html </URL>
+<DATE> 2004/10/11/ </DATE>
+<TIME> 10.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Vergide elektronik takip... 
+</HEADLINE>
+<TEXT>
+
+     Maliye Bakanlığı, elektronik beyandan sonra vergide 'elektronik takip' dönemini de başlatıyor. Vergi Daireleri Otomasyon Projesi'nin VEDOP ikinci ayağının oluşturulmasının ardından, vergi kayıp ve kaçağı ile artık elektronik ortamda mücadele edilecek. 
+     Edinilen bilgiye göre, daha önce uygulamaya giren VEDOP-1'in ardından VEDOP-2 de devreye sokuluyor. VEDOP'un birinci ayağında 22 ildeki 155 vergi dairesi otomasyona geçirilmiş ve böylece vergi işlemlerinin yüzde 75-80'lik bölümünün elektronik ortamda yapılması sağlanmıştı. 
+     Türkiye çapında kuruluş çalışmaları devam eden VEDOP-2 ile birlikte ise sadece vergi daireleri otomasyona geçirilmeyecek. Aynı zamanda vergi kayıp ve kaçağı ile elektronik ortamda mücadelenin altyapısı da kurulacak. 
+     Her ilde en az 1 vergi dairesinin tam otomasyona geçirilmesini hedefleyen ve şu ana kadar 35 ilde 73 vergi dairesinde devreye giren VEDOP-2 ile Türkiye çapındaki 450'ye yakın vergi dairesinin 292'si tam otomasyona geçmiş olacak. Bu şekilde vergi işlemlerinin yüzde 95'i, otomasyonlu vergi daireleri kanalıyla yürütülür hale gelecek. 
+     
+     PARA HAREKETLERİ DE İZLEMEYE ALINACAK 
+     VEDOP-2 ile sadece vergi dairelerinde iş ve işlemlerin elektronik ortamda yapılması sağlanmayacak. Aynı zamanda Veri-A adı verilen Veri Ambarı da kurulacak. 
+     Vergi İstihbarat Merkezinin çok daha geniş bilgilerle ve fonksiyonlarla donatılmış hali niteliğindeki Veri Ambarı, vergi mükelleflerinin beyanları ile mal ve para hareketlerinin otomatik olarak izlenmesini de sağlayacak. 
+     Veri ambarı ile birlikte, mükelleflerin vergi kimlik numarası aracılığıyla tam anlamıyla izlenmesi mümkün olacak. Tapu ve motorlu taşıt alım-satımlarını vergi kimlik numarası ile takip eden Gelir İdaresi, bundan böyle parasal hareketleri büyüteç altına alacak. 
+     Belli limitin üzerindeki para hareketlerinin bankalar ve özel finans kuruluşları üzerinden geçirilmesi zorunluluğunu getiren, ancak altyapı kurulmadığı için bu bilgileri bankalar ve diğer finans kuruluşlarından alamayan Gelir İdaresi, VEDOP-2 ile birlikte para hareketlerine ilişkin verileri de vergi ambarında toplayacak. 
+     Borsadaki alım-satım bilgileri de vergi kimlik numarası sayesinde veri ambarına akacak. 
+     
+     OTOMATİK KONTROLLER BAŞLIYOR 
+     Emlak ve motorlu taşıt alım satımlarının yanı sıra para hareketleri ve borsa işlemlerinin de toplanacağı veri ambarı, bu bilgileri vergi numarası yardımıyla kişi ve kuruluş bazında arşivleyecek. 
+     Başta gelir ve kurumlar vergisi olmak üzere, mükelleflerin vergi beyanları ile vergi ambarındaki bilgiler, elektronik ortamda çapraz kontrole tabi tutulacak. 
+     Bu kontrollerde durumları şüpheli bulunanlar ya da beyanları çelişkili olarak görülenler, hemen vergi denetim elemanlarına havale edilecek. Vergi denetim elemanları da, bu mükellefleri incelemeye alacak. 
+     VEDOP-2 ile birlikte, daha önce maliye müfettişleri, hesap uzmanları ve gelirler kontrolörlerinin kullanımına açılan bilgisayarlar, vergi denetmenlerine de tahsis edilecek. Böylece vergi denetmenleri de, elektronik ortamda vergi takibatı yapabilecek. 
+     Vergide şu ana kadar otomasyona geçen iller ile tam otomasyonlu vergi daireleri sayıları şöyle 
+     ''Adana 5 , Adıyaman 1 , Ağrı 1 , Amasya 1 , Ankara 25 , Antalya 7 , Artvin 1 , Aydın 5 , Balıkesir 3 , Bitlis 1 , Bolu 1 , Burdur 1 , Bursa 9 , Çanakkale 1 , Çankırı 1 , Çorum 1 , Denizli 3 , Diyarbakır 2 , Edirne 2 , Erzurum 2 , Eskişehir 3 , Gaziantep 5 , Hakkari 1 , Hatay 4 , Isparta 2 , Mersin 6 , İstanbul 61 , İzmir 15 , Kars 1 , Kastamonu 1 , Kayseri 3 , Kırşehir 1 , Kocaeli 6 , Konya 3 , Kütahya 3 , Malatya 2 , Manisa 5 , Mardin 1 , Muğla 2 , Sakarya 1 , Samsun 3 , Sinop 1 , Sivas 2 , Tekirdağ 4 , Tokat 2 , Trabzon 2 , Tunceli 1 , Şanlıurfa 2 , Van 1 , Yozgat 1 , Kırıkkale 1 , Şırnak 3 , Ardahan 1 , Iğdır 1 , Yalova 1 , Karabük 1 , Osmaniye 2 .'' 
+     
+</TEXT>
+</DOC>

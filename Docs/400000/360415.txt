@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> 360415 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/12/son/soneko25.html </URL>
+<DATE> 2005/07/12/ </DATE>
+<TIME> 14.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türkiye'de 27 bankanın 13 bin 968 ATM cihazı var... 
+</HEADLINE>
+<TEXT>
+
+     Türkiye'de halen 27 bankanın 13 bin 968 ATM cihazı bulunuyor. 
+     34 banka, internet bankacılığı hizmeti verirken, bankaların tamamı antivirüs sistemleri kullanıyor. 
+     Ayrıca POS hizmetini 23 banka yerine getirirken, Türkiye'de 71 bin 112 yazarkası POS cihazı bulunuyor. 
+     Bankacılık Düzenleme ve Denetleme Kurumu BDDK tarafından yaptırılan ''Bankalar Bilgi Teknolojileri Envanteri'' Anketi sonuçlandı. 
+     48'i banka ve 5'i özel finans kurumu olmak üzere toplam bankanın katıldığı ankete ilişkin veriler, Kasım 2004-Şubat 2005 dönemini kapsıyor. 
+     Verilere göre, 20 banka ATM'leri üzerinde dış kaynaklı yazılım kullanıyorken 7 tanesi kullanmıyor. 
+     
+     İMPRİNTER CİHAZI 
+     Türkiye'de toplam 62 bin 552 imprinter cihazı bulunuyor. 13 bankanın sistemine dahil imprinter cihazı varken 40 bankanın sisteminde bulunmuyor. 
+     Ankete göre, Türkiye'de 13 bankada kiosk cihazları varken 40'ında bulunmuyor. Türkiye'de toplam kiosk cihazı sayısı 911 olarak belirlendi. 
+     Pos hizmetini halen bankadan 23'ü sağlıyor. Türkiye'de halen 71 bin 112 yazarkasa pos cihazı bulunuyor. 9 bankanın yazarkasa pos cihazı varken 44'nün yok. 
+     POS cihazların bakım, onarım ve yönetimi konusunda pos cihazlarına sahip 23 bankadan 22'si, bu işlem için dış kaynak kullanım yoluna gidiyor Cihazların yönetimi genelde banka tarafından yerine getiriliyorken, bakım ve onarım için dış kaynak kullanılıyor. 
+     Türkiye'de halen iki banka televizyon bankacılığı, üç banka wap gprs bankacılığı hizmeti veriyor. 
+     Türkiye'de halen 34 banka internet bankacılığı hizmeti verirken, 19 bankanın bu tür bir hizmeti bulunmuyor. İnternet bankacılığında dış kaynak kullananlarının sayısı 12, kullanmayanların sayısıda 22 olarak belirlendi. 
+     Telefon bankacılığı hizmetini bankadan 23'ü verirken, bu çerçevede dış kaynak kullananların sayısı 15 olarak tespit edildi. 
+     
+     UYGULAMALARIN ÇALIŞMA SİSTEMİ 
+     Şubesi olduğunu bildiren bankalardan 33'ü merkezi ve çevrim içi- gerçek zamanlı bir yapı kullanıyor. Sadecei bir banka gün sonu aktarımı ile bilgilerini merkeze aktarıyor. 
+     Merkezdeki uygulamalar çalıştırılarak çok katmanlı mimari , istemci-sunucu mimarisi veya bilgisayar yapısı ile merkezi veri tabanına ulaşılarak işlemler gerçekleştiriliyor. 
+     Ankete katılanların 48'i merkezi ve 5'i ''dağıtık yarı dağıtık'' şekilde bulunuyor. 
+     14 bankanın şubeleri arasında bağlantı bulunmazken, iletişim merkez üzerinden gerçekleştiriyor. 
+     Banka ve finans kuruluşlarının en fazla etkileşim halinde olduğu kuruluşlar arasında, Türk Telekom, Telsim, Avea, Bağ-Kur, SSK, İGDAŞ, Turkcell, İSKİ, TEDAŞ, ASKİ, Maliye Bakanlığı, Kredi Kayıt Bürosu, Visa, Bankalararası Kart Merkezi, Takasbank, Merkez Bankası, Swift, Reuters yer alıyor. 
+     bankadan 45'i, değişik işlemler için dış kaynak kullanımına gidiyor. 
+     Bankaların 36'sı saldırı tespit sistemi kullanırken, bunu kullanmayanların sayısı 17 olarak belirlendi. Ayrıca bankaların tamamı antivirüs programını kullandığı tespit edildi. 
+     Bu arada anketin amacı, ''banka ve özel finans kurumlarının bilgi teknolojilerinden yararlanma oranları ve yöntemlerini görmek, bazı bilinen risklere karşı gerekli önlemleri alıp almadıklarını tespit etmek, gerektiğinde ve bilgi teknolojileri denetiminde kullanılmak üzere, bankalara ilişkin bilgi teknolojileri envanterini oluşturmak'' olarak sıralandı. 
+     
+</TEXT>
+</DOC>

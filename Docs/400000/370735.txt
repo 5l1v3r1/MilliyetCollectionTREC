@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 370735 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/17/son/sonyas16.html </URL>
+<DATE> 2005/08/17/ </DATE>
+<TIME> 12.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+123 kişiyi öldüren mikrop bulundu 
+</HEADLINE>
+<TEXT>
+
+     Avustralya'nın Victoria eyaletinde tespit edilen bir mikrobun, eyalet hastanelerinde 123 kişinin ölümüne yol açtığı ortaya çıktı. 
+     İnsan Hizmetleri Bakanlığı'nın verilerine göre, Haziran 2004 ile Mayıs 2005 tarihleri arasında 1654 kişiye MRSA adlı mikrop bulaştı, bunlardan 123'ü hayatını kaybetti. 
+     Yetkililer, güçlü ilaçlara karşı dayanıklı olmasıyla tanınan MRSA'nın hastanelerde bulaştığını, yapılan araştırmada 30'dan fazla hastanede izine rastlandığını söylediler. 
+     Melburn Austin Hastanesi Bulaşıcı Hastalıklar Bölüm Başkanı Lindsay Grayson, birçok hastanenin böyle bir problemin varlığını kabul etmek istemediğini açıkladı. 
+     Ellerini yıkamayan hastane görevlilerinden hastalara bulaştığı belirtilen mikrobun hastaların bağışıklık sistemini olumsuz yönde etkilediği kaydedildi. 
+     
+</TEXT>
+</DOC>

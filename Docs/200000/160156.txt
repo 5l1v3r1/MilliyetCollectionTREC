@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 160156 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/31/son/sondun12.html </URL>
+<DATE> 2003/05/31/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Çin'de SARS'a 4 kurban daha... 
+</HEADLINE>
+<TEXT>
+
+     Çin'de akut solunum yetmezliği sendromundan SARS son 24 saat içinde 4 kişinin daha öldüğü açıklandı. 
+     Çin Sağlık Bakanlığı, ülkede bir yeni SARS vakası görüldüğünü belirtti. 
+     Bakanlık, ölümler ile yeni vakanın başkent Pekin'de olduğunu bildirdi. 
+     Böylece Çin'de SARS'tan ölenlerin sayısı 332'e, vaka sayısı da 28'e çıktı. 
+     
+</TEXT>
+</DOC>

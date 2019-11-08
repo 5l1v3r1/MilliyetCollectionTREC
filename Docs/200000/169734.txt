@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 169734 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/16/son/sondun04.html </URL>
+<DATE> 2003/07/16/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türkiye "Enformasyon Toplumu" endeksinde son sıralarda... 
+</HEADLINE>
+<TEXT>
+
+     Türkiye ''enformasyon toplumu endeksinde'' ISI son sıralarda yer aldı. 
+     Türkiye ile birlikte sonlarda yer alan diğer ülkeler arasında Vietnam, Endonezya, Çin ve Hindistan bulunuyor. 
+     Merkezi Massachussets eyaleti Framingham kentinde bulunan IDC adlı kuruluş tarafından 4 yıldır yayınlanan ''Enformasyon Toplumu Endeksi'' ülkeyi kapsıyor ve ülkelerin enformasyon devrimine katılma paylarını tespit ediyor. 
+     Bu yıl endeksin ilk sırasına İsveç yerleşirken, Danimarka, Hollanda, Norveç ve Finlandiya ilk 5'e girdiler. Endekste ABD 8. sırada yer aldı. 
+     IDC'nin endeksi 15 değişken gözönüne alınarak hazırlanıyor. Bunlar arasında ülkelerin veri ve enformasyona ulaşım yetenekleri, bilgiyi kullanma ve enformasyon teknolojisi alanındaki konumları bulunuyor. Yetkililer, ''nasıl GSMH bir ülkenin ekonomik zenginliğini ortaya koyuyorsa, ISI endeksinin de bir ülkenin enformasyon kapasitesi ve zenginliğini ortaya çıkardığını'' ifade ettiler. 
+     
+     HANGİ KRİTERLER KULLANILIYOR 
+     IDC'nin ISI endeksini hazırlarken gözönüne aldığı kriterler şunlar 
+     1- Ülkedeki toplam bilgisayar sayısı ile bilgisayar bulunan 
+     evlerin sayısı. 
+     2- Enformasyon teknolojisine ulusal gelirin yüzde kaçı harcanıyor Bunun yüzde kaçı yazılımlara software gidiyor 
+     3- Ülkedeki internet kullanıcıların sayısı, internet bağlantısı olan ev sayısı, seyyar internet olanaklarının genişliği. 
+     4- İnternet aracılığıyla yapılan ticaretin hacmi. 
+     5- Ülkede hızlı bağlantı ve kablosuz bağlantı hizmetlerinin oranı, el bilgisayarları satış hacmi. 
+     6- Toplumun enformasyon teknolojisini eğitim, özgürlükler ve hükümet içindeki yolsuzluklarla mücadele alanlarında kullanma şekli. 
+     IDC Araştırma Direktörü Stephen Minton son kriterle ilgili olarak, ''özgürlükler ve eğitimin, bilgisayar sayısı kadar önemli olduğunu'' ifade etti ve ''özgür enformasyon akışını engelleyen hükümetlerin, ülkelerinin tam kapasitede gelişmesini engellediklerini'' söyledi. 
+     IDC raporu gelecek ay yayınlanacak. 
+     
+</TEXT>
+</DOC>

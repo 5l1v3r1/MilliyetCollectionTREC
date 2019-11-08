@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 220205 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/06/yasam/yas11.html </URL>
+<DATE> 2004/03/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tam otomatik yaşlı yıkama makinesi 
+</HEADLINE>
+<TEXT>
+
+      DIŞ HABERLER 
+   
+   Japonlar, şimdi de yaşlı insanlar için robot üretimine koyuldu. Sanyo Electric tarafından geliştirilen makinenin içine oturan kişi isteğine uygun sıcaklıktaki suyla yıkanıyor. Vücut şampuanının istenilen oranda suya katılmasını sağlayan makine, yine istenilen süre yıkamadan sonra durulama faslına geçiyor. 
+   
+   
+</TEXT>
+</DOC>

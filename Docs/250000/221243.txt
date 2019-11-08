@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 221243 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/10/son/soneko16.html </URL>
+<DATE> 2004/03/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansta yatay hareket etti, 37 puan arttı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi, önceki kapanışa göre 36.91 puan artışla, 1. seansı 19,525.38 puandan tamamladı. 
+     1. seansta hisse senetlerinin ortalama değer kazancı yüzde 0.19 olarak gerçekleşti. 
+     Dün 19,488.47 puandan kapanan İMKB Ulusal 100 Endeksi, 1. seansa 30.67 puan kayıpla 19,457.80 puandan başladı. İlk yarıyı 19,460.45 puandan geçen endeks, seans içinde en düşük 19,418.11, en yüksek 19,683.65 puanı gördü. 
+     Seans sonunda mali endeks 68.37 puan artışla 26,698.62 puana, sanayi endeksi 38.57 puan artışla 17,242.32 puana yükseldi, hizmetler endeksi 2.65 puan kayıpla 10,464.69 puana geriledi. 
+     Böylece, önceki kapanışa göre mali grup hisseler ortalama yüzde 0.26, sanayi grubu hisseler ortalama yüzde 0.22 değer kazandı, hizmet grubu hisseler ortalama yüzde 0.03 değer yitirdi. 
+     1. seansta işlem gören toplam 293 hisse senedinden 137'si değer kazandı, 84 hisse senedi değer kaybetti, 72 hissenin fiyatında değişiklik olmadı. 
+     Seansta, 445 trilyon 557 milyar 351 milyon liralık işlem hacmi oluştu. 
+     1. seansta, Garanti Bankası, Yapı Kredi Bankası, Doğan Holding, İş Bankası C ve Kardemir D en yoğun işlem gören hisseler oldu. 
+     
+</TEXT>
+</DOC>

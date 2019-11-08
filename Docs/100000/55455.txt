@@ -1,0 +1,47 @@
+<DOC>
+<DOCNO> 55455 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/12/04/yasam/ayas.html </URL>
+<DATE> 2001/12/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ŞEY’ FOS’ çıktı 
+</HEADLINE>
+<TEXT>
+
+Tüm dünyada ne olduğu tartışılan, Başkan Bush’un Çok etkilendim’ dediği akıllı binek aracı şey’, şarjlı kaykaymış.. 
+     Sema EMİROĞLU - NEW YORK 
+
+     Amerika Birleşik Devletleri Başkan Yardımcısı Dick Cheney’nin de kullandığı kalp cihazından, basamak tırmanan tekerlekli sandalye robotuna kadar ödül kazanmış pek çok ilginç buluşa imza atan David Kamen, on yıldır gizlice geliştirdiği, bilgisayarla yönlendirilip pille çalışan bireysel taşıt aracını, ABC televizyonunda yayınlanan Good Morning America programında tanıttı. 
+     Kamen, şimdiye kadar Ginger zencefil ’ ya da It şey ’ kod adıyla bilinen ve artık Segway’ adını koyduğu iki tekerlekli kaydırağa benzeyen araç için, "Otomobilin icadı, at ve at arabaları için ne anlama geldiyse, Segway da otomobiller için o anlama gelecek ve ulaşımda devrim yaratacak" dedi. 
+     
+     Tek şarjda 25 kilometre 
+     Bütün büyük kentlerdeki trafik sıkışıklığının 70 kiloluk insanların ikişer tonluk araçlarla bir yerden diğerine gitmek istemelerinden’ kaynaklandığını savunan Kamen, Segway’in bu sorunu yok edeceğini, insanların işlerine, evlerine en çabuk, rahat ve güvenli biçimde gidebileceğini iddia etti. 
+     Segway’, tek kişinin ayakta durarak kullandığı iki tekerlekli bir araç. İçine yerleştirilmiş ve insan hareketine duyarlı özel alıcılar ve yönlendirici bilgisayar chipleri sayesinde hareket edip yönünü buluyor. Elektrik şarjı ile depolanan pille çalışan araç, saatte ortalama 8 - 12 mil 13 - 20 kilometre hız yapıyor ve altı saatlik şarjla 15 mil 25 kilometre yol katedebiliyor. 
+     
+     Postacılar için birebir 
+     Segway’in piyasaya sunuş fiyatı 3 bin dolar yaklaşık 4.5 milyar TL olarak belirlendi. Aracın mucidi David Kamen, buluşuna saygınlık’ kazandırmak için önce büyük şirketler tarafından denenmesini ve halka satışın bir yıl bekletilmesini istedi. İlk planda Amerikan Posta Hizmetleri ile, Ulusal Park Servisi, Atlanta Belediyesi ve Fed Ex kargo şirketi, tanesi 8500 doları bulan araçları deneme amacıyla kullanmaya başladı. 
+     
+Nasıl çalışıyor      İleriye gitmeyi "düşünen" binicisinin hafifçe öne doğru eğilmesiyle ileriye giden araç, yine hafifçe geriye yaslanan binicinin hareketini sezip geriye gidiyor. Araçta "gyroscope" olarak adlandırılan mekanizma da, binicinin dengesini sağlıyor ve düşmesini engelliyor. Freni bulunmayan araç, sürücünün durmayı istemesiyle duruyor, çünkü araçtaki elektronik duyargalar, sürücünün bedenindeki duruş hareketini hassas biçimde kavrayıp aldıkları "sessiz talimatı" uyguluyorlar. 
+     
+
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

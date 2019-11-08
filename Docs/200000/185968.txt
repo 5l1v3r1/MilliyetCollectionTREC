@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 185968 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/02/son/sondun12.html </URL>
+<DATE> 2003/10/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Antivirüs yapımcısından itiraf "Virüsler giderek karmaşıklaşıyor" 
+</HEADLINE>
+<TEXT>
+
+     Antivirüs programı üreticisi Symantec, ''virüslerin giderek daha hızlı ve karmaşık hale geldiğini'' itiraf etti. 
+     Symantec'ten yapılan açıklamada, ''son zamanlarda, çok karışık bilgisayar virüslerinin büyük bir hızla ortaya çıktığı ve kullanıcıların bilgisayarlarını bu virüslere karşı korumasının giderek güçleştiği'' kaydedildi. 
+     Açıklamada, ''bilgisayar korsanlarının, değişik tipteki virüsleri bir araya getirerek saldırılarını öyle yaptıkları'' da vurgulandı. 
+     Bu tür saldırılara ''karışık tehdit'' adı veriliyor. 2003 yılının ilk yarısında ortaya çıkan virüslerin yüzde 60'ının bu türden olduğu kaydedildi. 
+     Uzmanların belirttiğine göre, bilgisayar virüslerinin büyük kısmı, yazılım devi Microsoft'un yazılımlarını hedef alıyor. Dünyadaki bilgisayarların tamamına yakın kısmında kullanılan bu yazılımlar, virüslerin büyük bir hızla yayılmasına yardımcı oluyor. Symantec güvenlik mimarı Tony Vincent, ''korsanların, Microsoft web server'leri ile internet tarayıcısındaki boşlukları sürekli araştırdıklarını ve bunlardan yararlanma yoluna gittiklerini'' ifade etti. 
+     Bu virüslerden olan Blaster böceği, tüm dünyada yüz binlerce bilgisayarı devre dışı bırakmıştı. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 400686 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/05/son/soneko29.html </URL>
+<DATE> 2005/12/05/ </DATE>
+<TIME> 13.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Akbank ve Yapı Kredi, "POS"ta ortak 
+</HEADLINE>
+<TEXT>
+
+     Akbank ve Yapı Kredi Bankası arasında, kartlı ödemeler için, satış noktası terminallerinin POS ortak kullanımına yönelik işbirliği anlaşması imzalandı. 
+     İşbirliği ile yıl sonuna kadar 2 bin, 2006 sonuna kadar da her iki bankanın sahip olduğu 30 binin üzerinde POS ortak kullanılacak. Bu işbirliğinden 7 milyon dolarlık tasarruf sağlanması hedefleniyor. 
+     Uygulamada hem Akbank hem de Yapı Kredi'nin kart hizmetleri tek bir POS cihazı üzerinden gerçekleştirilecek. 
+     Akbank Perakende Bankacılıktan Sorumlu Genel Müdür Yardımcısı Hakan Binbaşgil, işbirliğine ilişkin düzenlenen basın toplantısında yaptığı konuşmada, toplam 360 bin 636 adet POS adeti ile her iki bankanın pazarın üçte birini oluşturduğunu kaydetti. 
+     Binbaşgil, faiz marjlarının daraldığı, faiz dışı gelirlerin öneminin arttığı ve faiz dışı giderlerin kontrolünün önem kazandığı günümüzde, bankaların karlılığını koruyabilmesi için hizmet kalitesi ve operasyonel verimliğini artırması gerektiğini söyledi. 
+     POS cihazlarının, bunların kurulması ve bakımının bankalara ciddi maliyet getirdiğine dikkat çeken Binbaşgil, her bankanın kendi POS cihazını kullanmasının kaynak israfına neden olduğunu ve bunun rekabetçi olmadığını vurguladı. 
+     Hakan Binbaşgil, bu kaynak israfını en aza indirmek için böyle bir işbirliğine gittiklerini dile getirerek, anlaşma ile yıl sonuna kadar 2 bin, 2006 sonuna kadar da her iki bankanın sahip olduğu 30 binin üzerinde POS cihazının ortak kullanılacağını bildirdi. 
+     Bu işbirliğinden her iki bankanın toplam 7 milyon dolarlık tasarruf sağlamasının hedeflendiğini belirten Binbaşgil, uygulamada yeni POS cihazları yatırımına gerek duyulmadan sadece iki bankanın ortak sistem ve yazılım yatırımı ile cihazların yeni bir yazılıma kavuşturulacağını anlattı. 
+     Soruları da yanıtlayan Binbaşgil, 30 bin rakamını ilk aşamada tespit ettiklerini, daha sonra ne kadar ortak işyeri varsa buralarda POS cihazlarını bire indireceklerini belirtti. 
+     Hakan Binbaşgil, 2006 sonuna kadar ortak kullanıma geçilecek 30 bin cihazın, her iki bankanın toplam POS cihazı cirosunun yüzde 20'sini oluşturduğuna işaret etti. 
+     
+     ''FAZLA POS CİHAZI REKABET AVANTAJI GETİRMİYOR'' 
+     Yapı Kredi Bankası Bireysel Bankacılık Genel Müdür Yardımcısı Nazan Somer ise, kredi kartı kullanımı ve bununla ilgili taleplerin artmasıyla bankaların üye işyerlerine sundukları POS cihazlarına yatırımlarının çoğaldığını ve bugün toplam cihaz sayısının 1 milyon 105 bin adete ulaştığını kaydetti. 
+     Somer, artan POS sayısının mağazalarda yer sorunları ve operasyonel sıkıntılara neden olduğuna dikkat çekerek, kasa önündeki kalabalığı azaltmada etkisi olacak uygulamada öncelikle işyerlerinin kullandıkları POS cihazlarının üzerindeki programın güncelleneceğini söyledi. 
+     Proje altyapı çalışmaları yaklaşık 6 ay süren uygulamanın 2 aydır 10 yerde sorunsuz çalıştığını bildiren Somer, talep gelmesi halinde POS cihazlarının kapasitesinin aldığı kadar başka bankaların da bu uygulamaya dahil olabileceğini kaydetti. 
+     Somer, ilk aşamada tespit edilen işyerlerinin en çok ciro getirenler olduğuna dikkat çekerek, ''Ne POS, ne ATM farkı bankalar arasında önemli bir rekabet avantajı taşımıyor. Dolayısıyla paylaşıma açık, ekonomik anlamda taraflara katkı sağlayacak her türlü işbirliğine hazırız. Buna POS'ta başladık, başka paylaşımlar üzerinde de çalışabiliriz'' diye konuştu. 
+     
+</TEXT>
+</DOC>

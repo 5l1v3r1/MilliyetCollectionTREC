@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 344419 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/20/son/sonyas23.html </URL>
+<DATE> 2005/05/20/ </DATE>
+<TIME> 15.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yeni bir virüs uyarısı 
+</HEADLINE>
+<TEXT>
+
+     Almanya’da yeni bir bilgisayar virüsüne karşı uyarıda bulunuldu. 
+     Federal Enformasyon Tekniği Güvenlik Dairesi BSI tarafından yapılan açıklamada, "Sober.P" adlı bilgisayar virüsünün gelecek hafta başından itibaren internetteki bazı programlara girebileceği bildirildi. 
+     Virüslerle mücadele programlarının yenilenmesi tavsiyesinde bulunulan açıklamada, "Sober.Q" adı verilen diğer bir bilgisayar virüsünün programları nasıl etkileyeceğinin ise henüz bilinmediği kaydedildi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 398975 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/29/son/soneko41.html </URL>
+<DATE> 2005/11/29/ </DATE>
+<TIME> 16.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hisse senetlerinde kaydi sisteme geçildi... 
+</HEADLINE>
+<TEXT>
+
+     Sermaye Piyasası Kurulu SPK Başkanı Doğan Cansızlar, borsada işlem gören hisse senetleri için 28 Kasım Pazartesi gününden itibaren Merkezi Kaydi Sistem MKS uygulanmaya başlandığını bildirdi. 
+     Cansızlar, yaptığı yazılı açıklamada, MKS'nin hukuki altyapısının SPK, bilgi işlem altyapısının ise Merkezi Kayıt Kuruluşu MKK tarafından hazırlandığını belirterek, şimdilik hisse senetleri ve yatırım fonu katılma belgelerini içeren sisteme, 2006 yılında devlet iç borç borçlanma senetlerinin de DİBS dahil edilmesi için çalışmaların sürdüğünü kaydetti. 
+     Açıklamaya göre, SPK'nın bundan sonra kayda alacağı yeni hisse senedi ihraçları, sadece MKS'de kayden ve hak sahibi hesapları itibariyle yaratılacak. Değerli kağıt ithalatı, basım ve sirkülasyonuna son verilmiş olacak. 
+     İhraççılar, hisse senedi basımı ve saklama maliyetinden tasarruf etmek yanında, aksi yönde talebini MKK'ya iletmeyen yatırımcılara ilişkin MKS'deki ortaklık bilgilerine de ulaşabilecek. 
+     Cansızlar, yeni sistemin, şirketler ve küçük ortakları arasındaki iletişimin sağlıklı bir şekilde kurulmasına da hizmet edeceğini belirtti. 
+     
+     İLK GÜNKÜ İŞLEMLER 
+     Açıklamaya göre, yeni sistemle Takasbank'ta tutulmakta olan 1 milyon 11 bin 495 adedi bakiyeli toplam 2 milyon 296 bin 735 adet yatırımcı hesabı ve bu hesaplardaki 11.3 milyar YTL nominal değerli mislen saklamadaki hisse senetleri, 26-27 Kasım'da MKK sistemine aktarıldı. Pazartesi gününden itibaren aracı kuruluşlar, ihraççılar ve yatırımcılar, hisse senetleri ile ilgili saklama, transfer, rehin ve benzeri işlemleri ile bilgi alma işlemlerini yeni merkezi sistem üzerinden yürütmeye başladılar. 
+     Sistemin ilk gününde, 8 bin 700 adet normal, 936 adet de şartlı virman gerçekleştirildi. Kullanıcılar sistemden 9 bin 500 rapor çekti. Takas amaçlı işlemler başta olmak üzere MKK ile Takasbank arasında 23 bin 400 adet elektronik mesaj alışverişi gerçekleşti. İlk gün, MKS'de yatırımcılar adına 60 bin yeni hesap açıldı. 
+     
+     ÖDÜNÇ PARA PİYASASI KAYIT MODÜLÜ DE DEVREDE 
+     SPK Başkanı Cansızlar, MKS ile birlikte Takasbank tarafından işletilecek ödünç para piyasası ve buna entegre şekilde gerçek zamanlı ödünç piyasanın takasına hizmet veren kaydi sistem modülünün de devreye alındığını bildirdi. 
+     
+     MERNİS SİSTEMİ İLE BAĞLANTILI EN KAPSAMLI UYGULAMA 
+     Açıklamaya göre, sistemde, tüm işlemler karşılıklı elektronik imzalar ile teyit ediliyor ve hesap açma işlemleri MERNİS sistemi ile gerçek zamanlı bağlantılı olarak yürütülüyor. 
+     Böylece, elektronik imza ve MERNİS kimlik bilgisi paylaşımı açısından hacim olarak Türkiye'nin en kapsamlı uygulaması da devreye alınmış oldu. 
+     Yeni sistemde yatırımcılar, önceden Takasbank'tan aldıkları hesap durumlarını sorgulama ve blokaj uygulama hizmetlerini, MKS'den almaya başladılar. Ayrıca yatırımcılar, taleplerini ilettikleri takdirde, başvurmalarına gerek kalmaksızın, hesap hareketleri hakkında elektronik posta ve SMS mesajları ile anlık olarak bilgilendirilebilecek. 
+     
+     SAKLAMA VE TRANSFER MALİYETLERİNDE YÜZDE 50 AZALMA 
+     SPK Başkanı Doğan Cansızlar, SPK'nın uygun gördüğü yeni fiyat tarifesi ile aracı kuruluşların, saklama ve transfer işlemlerine ilişkin maliyetlerinde de ortalama yüzde 50, aylık 1 milyon YTL civarında tasarruf sağladığını da açıkladı. Cansızlar, sermaye piyasalarının modernizasyonunda, AB'ye uyum ve rekabet sürecinde önemli bir aşama olarak değerlendirdiği kaydi sistem ve ödünç piyasası uygulamalarını, herhangi bir dış bağımlılık yaratmadan hazırlayan ve uygulama öncesi analiz ve testleri gerçekleştiren MKK, Takasbank, aracı kurumlar, bankalar ve hisse senetleri borsada işlem gören şirketlerin örnek işbirliğinin de devam etmesini diledi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 210504 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/22/son/sontur50.html </URL>
+<DATE> 2004/01/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İstanbul'da elektrikler niye kesiliyor .. 
+</HEADLINE>
+<TEXT>
+
+     İstanbul'da kış şartları nedeniyle yüksek gerilim hatlarındaki aşırı buzlanma yükü, elektrik kesintilerine neden oluyor. 
+     TEDAŞ İstanbul Anadolu Yakası Elektrik Dağıtım İşletmesi Koordinatörü Fikret Akbaş, AA muhabirine yaptığı açıklamada, Anadolu Yakası'nda Türkiye Elektrik İletim A.Ş.'ye TEİAŞ ait 14 ana indirici merkezinden 154 kilowatt gücündeki Dudullu'nun devre dışı olduğunu, Küçükbakkalköy ana indirici merkezinin de bir süre devre dışı kaldığını söyledi. 
+     Bu ana indirici merkezlerden beslenen bölgeleri yedek hatlarla beslemeye çalıştıklarını anlatan Akbaş, ancak havai hatlarda zaman zaman ağaç ve direk devrilmesi nedeniyle arızalar oluştuğunu ve kırsal kesimlere elektrik sağlamakta güçlük çektiklerini ifade etti. 
+     Kendi sistemlerinde arıza bulunmadığını kaydeden Akbaş, ''Ekiplerimiz teyakkuz halinde. Takviye ekiplerimiz de sahada çalışmalarını aralıksız sürdürüyor. Hava şartları kötüye gidiyor. Bu şartların ağırlaşmamasını diliyoruz'' diye konuştu. 
+     TEİAŞ yetkilileri de Küçükbakkalköy ana indirici merkezinin devrede olduğunu, Dudullu'nun ise halen devre dışı konumda bulunduğunu belirterek, yüksek gerilim hatlarındaki tellerde aşırı buzlanma yükü olduğunu bildirdiler. 
+     Yetkililer, buz yükü nedeniyle tellerin ağırlaştığını ve yere yaklaştığını ifade ederek, birbirlerine yaklaşın tellerin arızaya neden olduğunu kaydettiler. 
+     Ekiplerin arazide çalışmalarını sürdürdüklerini, ancak olumsuz hava şartları nedeniyle yüksek gerilim hatlarında çalışmanın güç olduğunu ifade eden yetkililer, ark oluşmaması için tellerdeki buz yükünün kaldırılması gerektiğini söylediler. 
+     
+</TEXT>
+</DOC>

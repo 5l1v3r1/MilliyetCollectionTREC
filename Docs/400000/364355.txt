@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 364355 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/26/son/soneko01.html </URL>
+<DATE> 2005/07/26/ </DATE>
+<TIME> 01.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası günü düşüşle kapattı... 
+</HEADLINE>
+<TEXT>
+
+     New York borsasında Dow Jones ve Nasdaq endeksleri günü düşüşle kapattı. 
+     Dow Jones, 55.01 puan düşerek 10,596.17 puana inerken, teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq 13.00 puan kayıpla 2,166.74 puana geriledi. 
+     
+</TEXT>
+</DOC>

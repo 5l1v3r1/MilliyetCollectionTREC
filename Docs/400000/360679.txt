@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 360679 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/13/son/sondun37.html </URL>
+<DATE> 2005/07/13/ </DATE>
+<TIME> 17.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hint Okyanusu'ndaki tsunami... Bin kilometre uzunluğunda kırık oluştu 
+</HEADLINE>
+<TEXT>
+
+     Asya'nın güneyinde geçen Aralık'ta 215 bin kişinin öldüğü tsunamiye neden olan depremin, Hint Okyanusu'nun tabanında en az bin kilometre uzunluğunda bir kırığın oluşmasına yol açtığı bildirildi. 
+     Paris'teki ENS-CNRS Jeoloji Laboratuvarı tarafından GPS Global Positioning System verilerine göre yapılan bir araştırmada, Tayland'ın Puket adası 27 santimetre, Malezya'nın Langkawi adası 17 santimetre ve Endonezya'nın Sampali bölgesinin de 15 santimetre kaydıkları tespit edildi. 
+     İngiliz Nature dergisinde sonuçları yarın yayımlanacak araştırmaya göre, bin kilometrelik kırığın kuzeye doğru ilerlediği ve Tayland'daki GPS istasyonlarının depremin başlangıcından sonra en az 10 dakika süreyle yer değiştiği belirlendi. 
+     Fransız bilimadamları, bölgeye yeni GPS istasyonları yerleştirilmesinin de önemine işaret ederek, böylece bu korkunç depreme bağlı yer kabuğundaki değişimlerin daha iyi gözlemlenebileceğini kaydettiler. 
+     
+</TEXT>
+</DOC>

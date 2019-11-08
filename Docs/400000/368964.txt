@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 368964 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/11/son/sonsiy02.html </URL>
+<DATE> 2005/08/11/ </DATE>
+<TIME> 09.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Konya uçağının düşmesi ders oldu... 
+</HEADLINE>
+<TEXT>
+
+     THY’nin, Diyarbakır’da 8 Ocak 2003’te düşen "Konya" isimli uçağında toplam 70 kişi yaşamını yitirmişti. Birkaç metreye kadar daralan görüş alanının kazada en büyük etken olduğu kaza tahkikat raporuna da geçmişti. 47 gün sonra Diyarbakır Havaalanı’na, pilotların meteorolojik bilgileri anında almasını sağlayacak Otomatik Hava Gözlem Sistemi’nin kurulduğu, ayrıca kazadan 10 ay sonra tüm THY uçaklarının tanesi 50-80 bin dolar arasında değişen Arazi Duyarlılığı ve Uyarı Sistemi ile donatıldığı öğrenildi. 
+     CHP Antalya Milletvekili Feridun Baloğlu, Istanbul- Diyarbakır tarifeli RJ-100 tipi THY uçağının inişe geçtiği sırada düşerek 10’u yabancı 70 kişinin yaşamını yitirmesiyle ilgili kazanın Tahkik Raporu’nda yer alan önerilerin yerine getirilip getirilmediğini önergeyle Ulaştırma Bakanı Binali Yıldırım’a sordu. 
+     
+     47 GÜN SONRA KURULDU 
+     Önergeyi yanıtlayan Ulaştırma Bakanı Yıldırım, meteorolojik sistemlerin temin ve tesis yetkisinin Devlet Meteoroloji İşleri Genel Müdürlüğü’ne ait olduğunu anımsattı. Yıldırım, Diyarbakır Askeri Havaalanı’na, raporda gerekliliği vurgulanan Otomatik Hava Gözlem Sistemi’nin AWOS 24.2.2003 tarihinde kurulduğunu bildirdi. Sistem sayesinde meteorolojik durumdaki ani değişikler anında uçuş ekibine iletilebilecek. Böylece kazadan 47 gün sonra, daha önce kurulması halinde büyük olasılıkla bu üzücü olayın yaşanmasını önleyebilecek bir sistem burada yaşama geçirilmiş oldu. 
+     Kaza Tahkik Raporu’nda, Diyarbakır Askeri Havaalanı’nda pistte görüş alanı birkaç metreye kadar düşmesine rağmen, kaza anındaki gerçek meteorolojik duruma ait güncel bilgi uçuş ekibine inişin hiçbir aşamasında iletilmediği saptanmıştı. 
+     Ayrıca, Rapor’un "Tavsiyeler" bölümünde, Avrupa Hava Havası’nda, Arazi Duyarlılığı ve Uyarı Sistemi’nin TAWS 1 Ocak 2005’ten itibaren zorunlu hale geleceği de anımsatılmıştı. Bu konuyla ilgili soruyu da yanıtlayan Ulaştırma Bakanı Binali Yıldırım, THY envanterinde yer alan RJ tipi uçakların tamamına Honeywell tarafından imal edilen TAWS EGPWS sisteminin, zorunluluk tarihinden önce 18.2.2003 itibarıyla takıldığını bildirdi. THY filosundaki 
+     B737-400, B737-800, A340 ve A319 20 21 uçaklarında bu sistemin mevcut ve faal durumda olduğunu açıklayan Yıldırım, A310 uçaklarına ise planlama sıkıntısı nedeniyle uygulama için bakanlıktan talep edilen süre uzatımı içinde montaj işlemlerinin tamamlandığını bildirdi. Böylece THY’nin tüm uçaklarına bu sistemin takılı hale geldiğini kaydeden Yıldırım, bazı uçaklarda sistemin takılı olarak geldiğini, modifikasyonu THY tarafından yapılan sistemlerin ise uçak tiplerine göre 50 bin ile 80 bin dolar arasında değiştiğini açıkladı. 
+     
+     HİÇBİR HAVAALANINDA "MİNİMUM İRTİFA UYARI SİSTEMİ" YOK 
+     Kaza raporunda ayrıca Hava Kuvvetleri Komutanlığı’ndan malulen emekli olan ve düşen Konya uçağını kullanan Kaptan Pilot Alaaddin Yunak’ın da 2800 feet irtifada MDA’ya Minimum Alçalma İrtifası gelinmesine ve yaklaşma ışıkları ve pistin görülmemesine rağmen inişte ısrarcı davrandığı belirtiliyordu. Bu gibi durumlarda, hava trafik kontrolörlerine radar ekranında emniyet irtifasının altına inen hava aracı konusunda görsel olarak uyarılarda bulunabilen Minimum Emniyet İrtifası Uyarısı MSAW 
+     sisteminin havaalanlarında bulunması hayati önem taşıyor. 
+     Ancak Bakan yıldırım, kazanın üzerinden 2.5 yıl geçmesine ve raporun tavsiyeler bölümünde de yer almasına karşın, Türkiye’de halen sivil hava trafiğine açık hiçbir havaalanı limanında MSAW sisteminin bulunmadığını bildirdi. 
+     MSAW’nin, Hava Trafik Kontrol ATC sisteminin bir fonkrsiyonu olduğunu belirten Yıldırım, ATC sistemlerinin ihalesinin yapıldığını, İstanbul, Ankara, İzmir, Antalya, dalaman ve Bodrum havalimanlarında "önümüzdeki yıllarda" hizmete verilmesinin planlandığını ifade etti. Ancak Yıldırım, Türkiye’deki tüm aletli yaklaşma, kalkış ve geliş usullerinde blirtilen uçakların alçalabileceği minimum irtifa değrlerinin, yeterli koruma payları eklenerek ilan edildiğini, bu irtifa değerlerinin altına inilmedikçe tehlikeli bir biçimde yaklaşmanın söz konusu olmayacağını da vurguladı. 
+
+ANKA 
+     
+</TEXT>
+</DOC>

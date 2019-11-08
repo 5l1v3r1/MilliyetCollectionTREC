@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 206440 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/04/son/sontur38.html </URL>
+<DATE> 2004/01/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türk Telekom, internette yaşanan sorunu gidermeye çalışıyor 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekom'un, denizaltı fiberoptik kabloların bu sabah kopmasından kaynaklanan yurtdışı internet çıkışlarında yaşanan sorunun çözümü için çalışmalarını sürdürdüğü bildirildi. 
+     Türk Telekom Genel Müdürlüğü'nden yapılan açıklamaya göre, saat 08.20'den itibaren Türk Telekom'a ait sea-me-we3 denizaltı fiberoptik kablolarda meydana gelen kopmadan dolayı, Türkiye'nin yurtdışı internet bağlantılarında aksamalar yaşanıyor. 
+     Problemin kaynağının tespiti ve kısa sürede giderilmesi için çalışmalarını sürdüren Türk Telekom, varolan kapasitesinin yaklaşık yarısını oluşturan 800 megabit'lik kapasiteyi devreye soktu. 
+     Gece boyunca sürecek çalışmalarda kapasitenin parça parça hizmete verileceği, yarın akşama kadar da sorunun tamamıyla çözüleceği belirtildi. Yarım kalan kapasitenin karşılanması için hizmet şu anda alternatif yollardan veriliyor. 
+     
+</TEXT>
+</DOC>

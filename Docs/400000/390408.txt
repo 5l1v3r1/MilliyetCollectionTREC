@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 390408 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/28/son/soneko01.html </URL>
+<DATE> 2005/10/28/ </DATE>
+<TIME> 04.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası, günü düşüşle kapadı 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Borsası günü düşüşle kapattı. 
+     Borsanın temel göstergesi Dow Jones 115,03 puan düşüşle 10.229,95 puana gerilerken, teknoloji endeksi Nasdaq 36,24 puan kayıpla 2.063,81 puana indi. 
+     
+</TEXT>
+</DOC>

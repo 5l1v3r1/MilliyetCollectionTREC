@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 206006 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/02/son/soneko14.html </URL>
+<DATE> 2004/01/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı 19 bin puan sınırında tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi, önceki kapanışa göre 301.97 puan artışla 1. seansı 18,926.99 puandan tamamladı. 
+     Günün ilk seansında hisse senetlerinin ortalama değer artışı yüzde 1.62 olarak gerçekleşti. 
+     Çarşamba günü 18,625.02 puandan kapanan Borsa, 1. seansa 129.41 puan artışla 18,754.43 puandan başladı. İlk yarıyı 18,864.57 puandan geçen endeks, seans içinde önceki kapanış değerinin altına düşmezken, en yüksek olarak 19,064.46 puanı gördü. 
+     Seans sonunda mali endeks 479.33 puan artışla 26,074.10 puana, sanayi endeksi 222.62 puan artışla 16,521.85 puana, hizmetler endeksi 101.85 puan artışla 10,024.87 puana yükseldi. 
+     Böylece, önceki kapanışa göre mali grup hisseler ortalama yüzde 1.87, sanayi grubu hisseler ortalama yüzde 1.37, hizmetler grubu hisseler de ortalama yüzde 1.03 değer kazandı. 
+     1. seansta işlem gören toplam 283 hisse senedinden 191'i değer kazanırken, 40 hisse senedi değer kaybetti, 52 hissenin fiyatında değişiklik olmadı. 
+     Seansta, 437 trilyon 476 milyar 829 milyon liralık işlem hacmi oluştu. 
+     1. seansta, Yapı Kredi Bankası, Doğan Holding, İhlas Holding, Tüpraş ve Turkcell en yoğun işlem gören hisseler oldu. 
+     Çukurova Grubu borçlarının erken ödenmesi konusunda yeni anlaşma teklifinin etkisiyle Yapı Kredi ve Turkcell başta olmak üzere gelen hızlı alımlarla güne başlayan piyasa, maksimum 19,064 puan seviyesini gördükten sonra seans içi düzetlmesini yaptı ve yatay seyirle seansı tamamladı. 
+     
+</TEXT>
+</DOC>

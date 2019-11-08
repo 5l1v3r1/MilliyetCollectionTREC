@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 229086 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/06/son/sonyas09.html </URL>
+<DATE> 2004/04/06/ </DATE>
+<TIME> 09.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Linux'un Windows'u tahtından indirme olasılığı yok 
+</HEADLINE>
+<TEXT>
+
+     Ücretsiz dağıtıldığı için hızla yayılan Linux bilgisayar işletim sisteminin yakın gelecekte Windows'u tahtından indirmesinin mümkün olmadığı belirtildi. 
+     Merkezi Boston'da bulunan ''Yankee Group'' adlı kuruluş tarafından yapılan bir araştırma, işletim sistemi için para ödeyen asıl büyük kaynak olan dev şirketlerin, Windows'u bırakarak, Linux'a geçmelerinin son derecede karmaşık, vakit alıcı ve kendileri açısından çok masraflı olacağını ortaya koydu. 
+     Araştırmanın, 10 binden fazla personel çalıştıran 300 dolayında şirket arasında yapıldığı kaydedildi. 
+     Sonuçlar, bedava temin edilebilen Linux sistemine geçişin dev şirketler açısından elle tutulur bir avantaj sağlamayacağını da gün ışığına çıkardı. Bu durumun özellikle server'ler açısından geçerli olduğu bildiriliyor. 
+     Microsoft tarafından geliştirilen Windows işletim sistemi, dünyadaki bilgisayarların yüzde 94'ünden fazlasında kullanılıyor. 
+
+     
+</TEXT>
+</DOC>

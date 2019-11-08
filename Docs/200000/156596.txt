@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 156596 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/14/son/sondun41.html </URL>
+<DATE> 2003/05/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türk bilimadamından deprem uyarı sistemine katkıda bunalacak icat 
+</HEADLINE>
+<TEXT>
+
+     Türk bilim adamı Dr. Ali Behçet Alpat, depremde erken uyarı sisteminin oluşmasına katkıda bulunabilecek icadını İtalyan Meclisi'nde sergiledi. 
+     Yüksek uzay teknoloji endüstrisinin ürünlerinin sunulduğu sergiye Alpat, kendi icadı 2 projeyle katıldı. 21 yıldır İtalya'da yaşayan ve Perugia kentindeki İtalyan Ulusal Nükleer Fizik Enstitüsü'ne INFN bağlı olarak görev yapan Alpat, depremde erken uyarı sisteminin oluşmasına katkıda bulunabilecek bir cihaz icat etti. 
+     INFN bünyesinde oluşturulan ve Site Technology adlı endüstri firması tarafından finansmanı karşılanan ''Terradex'' adlı icadın patentine sahip olan Alpat, AB'deki bilimsel araştırmalar fonunun ekim ayı sonunda yapacağı seçimle bu projeyi onaylaması halinde, 2004 yılının ilk yarısından itibaren fay hatlarına ''Terradex''in yerleştirilebileceğini söyledi. 
+     Marmara Araştırma Merkezi'ni ve TÜBİTAK'ı da projeye dahil etmeye çalıştığını ifade eden Türk bilim adamı, ''Terradex''in mikrokırılmalarda çıkan radon gazını şimdiye kadar olabilecek azami hassasiyette ölçtüğünü belirtti. 
+     A.A muhabirine açıklama yapan Alpat, şunları söyledi 
+     ''Bu cihaz radon gazını olabilecek en hassas düzeyde ölçüyor. Örneğin 600 kilometrelik kuzey Anadolu fayını ele alırsak, buralara her 50'şer kilometrede bir Terradex yerleştirdiğimizde yerin altından radon gazını çekip, sürekli olarak dataları bilgilendirebiliriz. Jeofizikçiler, bu sistemle 1-1,5 yıl içinde topladıkları verilerle radon gazlarının oranlarının depremlerin büyüklüklerini nasıl etkilediğini, neye haberci olabildiklerini ortaya çıkarabilirler. Yani erken uyarı sisteminin gelişmesine yardımcı olabilecek bir cihaz diyebiliriz.'' Eksi 30 ile artı 40 derece sıcaklıklar arasında her yere konulabilen Terradex'in herhangi bir bakım sorununun bulunmadığını, 6 ayda bir kontrollerin yeterli olduğunu kaydeden Alpat, cihazın hem karada hem suda çalıştığını ifade etti. 
+     ''Türkiye, deprem konusunda doğal laboratuvar'' diyen Türk bilim adamı, Terradex projesinin patentinin kendisinde olmasından dolayı TÜBİTAK ve Marmara Araştırma Merkezi'nin de buna dahil olmaları için aracılık ettiğini belirtti. Alpat, cihazın tamamlanıp yaşama geçirilmesi halinde satışının 8-9 bin Euro dolayında olacağının hesaplandığını kaydetti. 
+     Bilim adamı Alpat, 2. icadının da lazerle çiplerin radyasyona dayanıklılığını ölçen bir cihaz olduğunu ve çalışmaya hazır halde bulunduğunu bildirdi. 
+     
+</TEXT>
+</DOC>

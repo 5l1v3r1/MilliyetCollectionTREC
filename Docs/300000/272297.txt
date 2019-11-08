@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 272297 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/16/son/soneko02.html </URL>
+<DATE> 2004/09/16/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacminde dünyanın en büyük borsası olan New York borsası, günü düşüşle kapadı. 
+     Dow Jones endeksi 86,80 puan kayıpla 10.312,99 puana, teknoloji endeksi Nasdaq da 18,88 puanlık kayıpla 1.896,52 puana geriledi. 
+     
+</TEXT>
+</DOC>

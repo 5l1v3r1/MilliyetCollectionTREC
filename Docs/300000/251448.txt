@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 251448 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/28/son/soneko33.html </URL>
+<DATE> 2004/06/28/ </DATE>
+<TIME> 17.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hisse senetleri ortalama yüzde 2.05 değer kazandı... 
+</HEADLINE>
+<TEXT>
+
+     Borsa'da işlem gören hisse senetleri, haftanın ilk işlem gününde ortalama yüzde 2.05 değer kazandı. 
+     İstanbul Menkul Kıymetler Borsası İMKB Ulusal 100 Endeksi, 1. seansta, 134.60 puan artışla 17,489.76 puandan, 2. seansta 220.61 puan artışla 17,710.37 puandan kapandı. Endeks günlük bazda 355.21 puan ve yüzde 2.05 yükseldi. 
+     Hisse senetleri piyasasında günlük bazda 519.3 trilyon liralık işlem hacmi oluştu. 
+     
+     DÖVİZ 
+     İstanbul'da serbest piyasada Cuma günü 1 milyon 493 bin liradan kapanan dolar, güne 1 milyon 492 bin liradan, 1 milyon 811 bin liradan kapanan euro 1 milyon 812 bin liradan başladı. 
+     Kapanışta doların satış fiyatı 1 milyon 494 bin lira, euronun satış fiyatı 1 milyon 825 bin lira oldu. 
+     Merkez Bankası, doların bugünkü efektif kurunu alışta 1 milyon 485 bin 444 lira, satışta 1 milyon 495 bin 895 lira olarak açıkladı. 
+     Böylece dolar, Merkez Bankası'nın Cuma günkü kurlarına göre, TL karşısında alışta 2 bin 315 lira, satışta 2 bin 332 lira değer kazandı. 
+     
+     TAHVİL-REPO 
+     İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda işlem gören 5 Ekim 2005 vadeli tahvilin bugün valörlü işlemlerinde basit getiri yüzde 28.50, bileşik getiri yüzde 27. oldu. 
+     Bu kağıdın bugün valörlü işlemlerinin bileşik getirisi, Cuma günkü kapanışa göre 0.29 puan yükseldi. 
+     İMKB Tahvil ve Bono Piyasası Repo Pazarı'nda gecelik faiz ortalama yüzde 22.00 olarak gerçekleşti. 
+     
+</TEXT>
+</DOC>

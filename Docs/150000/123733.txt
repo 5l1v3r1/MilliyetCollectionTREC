@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 123733 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/12/10/son/soneko01.html </URL>
+<DATE> 2002/12/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     New York borsasında Dow Jones ve Nasdaq endeksleri, haftanın ilk işlem gününü düşüşle kapattı. 
+     New York Wall Street Borsası'nda Dow Jones Sanayi Endeksi 172.36 puan düşüşle yüzde 2 , günü 8,473.41 puandan kapattı. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq Birleşik Endeksi de 55.33 puan inişle yüzde 3.9 , gün sonunda 1,367.11 puana düştü. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

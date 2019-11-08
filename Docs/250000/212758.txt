@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 212758 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/02/son/sontur17.html </URL>
+<DATE> 2004/02/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Cep bilgisayarı gibi cep telefonu... 
+</HEADLINE>
+<TEXT>
+
+     Siemens Mobile, video oynatabilen, fotoğraf çekebilen, MP3 ve radyo çalabilen Siemens SX1 cep telefonunu piyasaya sürüdü. 
+     Strateji tanıtım şirketinden yapılan yazılı açıklamaya göre, Siemens Mobile, smartphone olarak ilk ürettiği ürün olan SX1'i Ocak ayı itibariyle Türkiye'de pazara sundu. 
+     Diğer telefonlardan farklı olarak tuş takımı telefon ekranın yanına dikey olarak yerleştirilen SX1, 65 bin 6 renk ile yüksek çözünürlüklü bir ekrana sahip. Ekranda görüntü kalitesi bozulmadan video izlemek mümkün. 
+     SX1 pek çok fonksiyonu birarada sunuyor video oynatıcı, MP3 çalar ve FM radyo, entegre kamera, MMS, Seri 60 veya Java J2ME tarafından desteklenen zengin oyun ve uygulama içeriğini yükleyebilme, normal bir avuçiçi bilgisayarda bulanan iş uygulamaları bunlardan en ilgi çekici olanları. 
+     SX1, alışılagelmiş cep telefonu tuş takımlarının yerine telefona farklı bir görünüm tuş takımına sahip. Telefonun merkezinde bulunan 65 bin 6 renkli ve yüksek çözünürlüklü ekranı, telefonun boyutlarını etkilemeyecek şekilde tasarlandı. 
+     Ürün, 608 euro fiyatla satılıyor. 
+     
+</TEXT>
+</DOC>

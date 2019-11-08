@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 83927 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/05/14/son/soneko09.html </URL>
+<DATE> 2002/05/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayar yazılımında Hindistan ve Çin'e rakip çıktı Vietnam 
+</HEADLINE>
+<TEXT>
+
+     Vietnam, bilgisayar yazılımında ucuz, eğitimli, becerili ve bol işgücüyle, Hindistan ve Çin'e rakip çıktı. 
+     Vietnam'ın Quantic Software şirketi, Nortel Networks, Japon NTT ve Cisco Systems gibi yabancı dev bilgisayar, telekomünikasyon ve bağlantılı şirketlerden geçen yıl siparişler aldı. 
+     Yabancı ülkelerde bilgisayar ve yazılım sektöründe çalışan Vietnamlılardan da destek alınıyor. 
+     Bu ülkede daha iki yıl öncesine kadar ''bir avuç'' olarak nitelenen enformasyon teknolojisi IT şirketlerinin sayısı ise 250'yi aştı. Buna göre Vietnam'ın IT alanında tam bir bölgesel güce dönüşmesi pek fazla zaman almayacak. 
+     IBM, HP, NTT, Vietnamlı yazılım programcılarının kalitesini kabul ederken, IBM, Cisco, Nortel, Hewlett-Packard, Sony ve Fuji işlerini Vietnam'a kaydırdı. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

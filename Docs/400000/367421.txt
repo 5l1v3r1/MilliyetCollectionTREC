@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 367421 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/05/son/sontur13.html </URL>
+<DATE> 2005/08/05/ </DATE>
+<TIME> 10.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Trenlere bombaları önceden belirleyen akıllı sistem kurulacak 
+</HEADLINE>
+<TEXT>
+
+     TCDD Genel Müdürlüğü, trenlere yönelik bombalı saldırıların ardından, raylara döşenen bombaların önceden saptanması ve imhası için lokomotiflere sistem kurma kararı aldı. 
+     AA muhabirinin TCDD Genel Müdürlüğü yetkililerinden aldığı bilgiye göre, özellikle son dönemde Elazığ merkezli seferler sırasında trenlere düzenlenen bombalı saldırıların ardından TCDD Genel Müdürlüğü, güvenlik tedbirlerini yeniden masaya yatırdı. 
+     Genel Müdürlük, öncelikle bir genel müdür yardımcısının başkanlığında ekip oluşturarak, doğu hattının geçtiği illere araştırma yapmak üzere gönderdi. Bir haftadır bölgedeki hatta inceleme yapan ekip, güvenlik yetkilileriyle de toplantılar düzenleyerek, alınabilecek önlemleri görüşüyor. 
+     TCDD yönetimi diğer yandan bombalı saldırılarda, uzaktan kumandayla patlatma yönteminin kullanılması nedeniyle raylara döşenen bomba ve patlayıcı maddeleri önceden saptayabilecek bir sistem kurmak üzere harekete geçti. Lokomotiflere monte edilmesi öngörülen bu sistem, raylara döşenen patlayıcıları önceden belirleyerek makinisti sesli ve ışıkla uyarabilecek. Bu sayede, trenin patlama gerçekleşmeden durdurularak can kaybı ve maddi zararın önlenmesi hedefleniyor. 
+     TCDD Genel Müdürlüğü, istediği sisteme benzer sistemler üzerinde çalışan bazı üniversitelerden öğretim üyesi ve akademisyenlerle temasa geçti. Konuyla ilgili görüşmeleri sürdüren Genel Müdürlük, öte yandan kurulması planlanan sistem konusunda ayrıntılı bir araştırmaya girişti. 
+     
+     SİSTEM NASIL ÇALIŞACAK 
+     TCDD yönetimi, lokomotiflere kurulacak sistemin öncelikle patlayıcıları algılamasını istiyor. Sistemin daha sonra nasıl çalışması gerektiği konusunda ise henüz bir sonuca ulaşılamadı. 
+     Genel Müdürlük, sistemin raylardaki patlayıcıları algılamasının ardından özellikle uzaktan kumandalı patlatma yöntemlerine karşı "karıştırıcı" bir işlev yürütmesini, böylece patlamanın önlenmesi seçeneği üzerinde duruyor. 
+     Değerlendirilen diğer seçeneğe göre, lokomotifteki sistem patlayıcıyı algılamasının ardından patlayıcıyı "imha" edecek. Ancak bu durumda demiryolunda oluşabilecek zararlar nedeniyle tren yolunun ulaşıma kapanabileceği düşünülüyor. TCDD yönetimi, bu nedenle patlayıcının saptanması ve patlamanın önlenmesi seçeneği üzerinde daha ağırlıklı duruyor. 
+     TCDD Genel Müdürlüğü’nün, sistemin nasıl çalışacağı konusunda önümüzdeki günlerde bölgeden dönecek ekibin elde ettiği sonuçları da dikkate alarak karar vermesi ve ardından da buna göre sistemi kurması bekleniyor. 
+     
+</TEXT>
+</DOC>

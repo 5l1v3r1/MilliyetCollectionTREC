@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 116140 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/10/31/son/sondun13.html </URL>
+<DATE> 2002/10/31/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İngiliz ordusu pilot bulamayınca helikopterleri hangara kaldırdı 
+</HEADLINE>
+<TEXT>
+
+     İngiliz Savunma Bakanlığı tarafından ordu için alınan yeni Apache helikopterlerinin, pilotların henüz eğitilmemiş olması nedeniyle 4 yıl boyunca hangarlarda yatacağı belirtildi. 
+     Ulusal Hesapları Kontrol Ofisi NAO , yaklaşık 9 milyar sterlin ödenerek satın alınan helikopterlerin kullanılamamasının önemli bir askeri kapasite açığı yaratacağına işaret etti. Ofis, çağdışı kalan Lynx helikopterlerinin üzerindeki füze sisteminin de yenilenemediğine dikkat çekti. 
+     67 Apache helikopterinin alınması konusunda pek çok eleştiriye yer verilen NAO'nun raporunda, 1995 yılındaki satın alma anlaşmasının da, ayrı bir firmayla yapılan eğitim anlaşmasının da yanlış bulunduğuna işaret edildi. Raporda, Amerikan helikopterlerinin İngiliz standartlarına uyumu konusunda hiçbir öngörüde bulunulmaması eleştirildi. 
+     İngiliz basını, alınan helikopterlerden 25'inin hangarlarda bekletildiğini, bunlarla ilgili 2001 yılı için programlanmış pilot eğitiminin yapılamadığını ve 2003 yılına kadar da yapılamayacağını yazdı. Haberlerde, "her şey yapılmış, ancak bir eğitim simulatörü alınmamış" denildi. 
+     Helikopterlerin 16'sının Şubat 2005'te teslim alınacağı, bunlarla ilgili pilot eğitim programının ise Nisan 2004'ten Şubat 2007'ye ertelendiği belirtilen haberlerde, "yani bu partiyi kullanacak pilot da olmayacak, onlar da hangarlarda eskiyecek" ifadesi kullanıldı. 
+     NAO ise 2002 ile 2006 arasında Apache'lerin yarısından fazlasının Shropshire'daki hangarlarına girmiş olacaklarını ve bunların toplam değerlerinin 6 milyar sterlin civarında olacağını bildirdi. 
+     NAO raporunda, bu kadar masraf edilerek alınmış helikopterlerle ilgili bütün sorunlar halledilse bile, bu helikopterlerin pilotlarının yerdeki askeri güçler ve diğer helikopterlerle haberleşemeyecekleri, zira bunlara takılması gereken Bowman telsiz sistemlerinin de henüz alınmadığı bildirildi. Raporda, "kendi askerleriyle konuşamayacak İngiliz askerlerinin ABD askeriyle konuşması ise mümkün olabilecek." 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

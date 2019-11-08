@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 287448 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/09/son/soneko45.html </URL>
+<DATE> 2004/11/09/ </DATE>
+<TIME> 16.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası durgun açıldı... 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacmi bakımından dünyanın en büyük borsası konumunda olan New York'ta açılışta endeksler durgun bir seyir izledi. 
+     Açılıştan kısa bir süre sonra Dow Jones Endeksi 0.51 puan artarak 10,391.82 puana, teknoloji endeksi Nasdaq 0.05 puan azalarak 2,039.20 puana indi. 
+     Endekslerde görülen durgunluğa neden olarak, endekslerde geçen hafta yaşanan yükselişlerin ardından yatırımcıların bir sonraki adım için bir süre beklemeyi tercih etmeleri ile ABD Merkez Bankası'nın yarınki toplantısında faiz hadlerini 0.25 puan artırma beklentisi gösterildi. 
+     
+</TEXT>
+</DOC>

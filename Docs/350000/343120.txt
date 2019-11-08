@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 343120 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/16/son/sonyas09.html </URL>
+<DATE> 2005/05/16/ </DATE>
+<TIME> 10.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft'tan yahoo ve google'a rakip 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın en büyük yazılım firması Microsoft, Google ve Yahoo gibi rakipleriyle yarıştığı arama motoru pazarında yeni geliştirdiği masaüstü arama çubuğunun nihai versiyonunu yayınladı. 
+     Yaklaşık 5 ay önce test edilen "MSN Search Toolbar", Windows’ta mevcut olan "bul" komutundan çok daha etkili ve hızlı bir şekilde e-postalar, belgeler ve sabit sürücüde depolanan diğer veriler için arama yapma olanağı sağlıyor. 
+     Microsoft’un yeni masaüstü arama programı internetten http desktop.msn.com adresinden indirilebiliyor. 
+     Microsoft gibi Google ve Yahoo da masaüstü arama çubukları için geliştirdikleri programları internetten ücretsiz dağıtıyorlar. 
+     Firmalar, böylece kendi çevrim içi hizmetlerini kullananlara çekici gelebilecek olanaklar sunmayı hedefliyorlar. 
+     
+</TEXT>
+</DOC>

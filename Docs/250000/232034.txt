@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 232034 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/16/son/soneko46.html </URL>
+<DATE> 2004/04/16/ </DATE>
+<TIME> 17.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası güne düşüşle başladı... 
+</HEADLINE>
+<TEXT>
+
+     New York Menkul Kıymetler Borsası, haftanın son işlem gününde düşüşle açıldı. 
+     Dow Jones endeksi, 17.88 puan yüzde 0.17 değer kaybederek, 10,379.58 puana geriledi. 
+     Nasdaq Bileşik Endeksi, 17.29 puanlık yüzde 0.86 düşüşle 1,984.88 puana, Standard and Poor's 500 endeksi de 1.5 puan yüzde 0.13 değer kaybıyla 1,127.34 puana gerilediler. 
+     Borsadaki endekslerin değer kaybetmesinde, bazı şirketlerin kazançları ve ekonomik raporların olumsuz çıkması etkili oldu. 
+     
+</TEXT>
+</DOC>

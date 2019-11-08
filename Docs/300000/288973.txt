@@ -1,0 +1,63 @@
+<DOC>
+<DOCNO> 288973 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/15/son/soneko02.html </URL>
+<DATE> 2004/11/15/ </DATE>
+<TIME> 10.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bankalar YTL'ye hazırlanıyor... İşte projeler... 
+</HEADLINE>
+<TEXT>
+
+     Bankalar, milyonlarca dolarlık bütçeli Yeni Türk Lirası'na YTL geçiş projelerini arka arkaya tamamlayarak, 1 Ocak'ta başlayacak yeni döneme hazırlanmaya çalışıyorlar. 
+     Eğitim çalışmaları ve kurum içi televizyonlarda filmler yayınlayarak çalışanlarını eğiten bankalar, müşterilerini de gönderdikleri mektuplar, telefon bankacılığı ve internet yardımıyla üzerinden bilgilendiriyor. 
+     Garanti Bankası'nda YTL'ye geçiş çalışmaları kapsamında proje ekipleri Ocak ayından bu yana çalışıyor. 
+     Garanti Bankası'nın tüm bilgisayar sistemleri 29 Ekim tarihinde YTL'ye uyumlu hale getirildi. Kanun gereği 31 Aralık gecesi yapılması gereken tüm parasal değerlerin YTL'ye dönüştürülmesi işlemi dışında bankanın sistemi tamamen YTL'ye hazır durumda bulunuyor. 
+     Bankada, YTL'ye geçiş projesi için 1 milyon 250 bin dolarlık bir bütçe kullanıldı. 
+     YTL'ye geçişle ilgili olarak '''www.garanti.com.tr'' internet sayfasında bilgilendirme sayfası hazırlayan banka, e-mail kaydı bulunan tüm müşterilerine elektronik ortamda bilgilendirme mektubu da gönderdi. 
+     22 Ekim'de bankayı ziyaret eden IMF ekibine Garanti'nin YTL hazırlıkları ve geçiş planını anlatan bir sunum da gerçekleştiren banka, çalışanlarını banka içi yayınlanan bildiriler, eğitim ve sunumlar aracılığıyla sürekli bilgilendiriyor. 
+     
+     YAPI KREDİ BANKASI 
+     Yapı ve Kredi Bankası da tüm yazılım geliştirme çalışmalarını tamamladı ve testlerini de Aralık ayının sonuna kadar bitirecek. 
+     Merkez Bankası, Bankalar Birliği, Bankalararası Kart Merkezi, Takasbank, İMKB ve SPK gibi kuruluşlarla da ayrıca çalışmalar yürütülüyor. 
+     YTL projesinde 200 uzmanın görev yaptığı bankada, tüm çalışanlar Mayıs ayı itibariyle kurum içi haberleşme kanalıyla bilgilendirilmeye başlandı. 
+     Bu ay içerisinde, hazırlanan eğitim filmi kurum içi televizyon yayını BİZ TV aracılığıyla bankanın şubelerine ulaştırılacak. Aralık ayında genel olarak ve bankaya özel uygulama değişikliklerini anlatan bilgisayar destekli eğitim hazırlanarak çalışanlarla paylaşılacak. 
+     Yıl sonuna kadar web tabanlı uzaktan sınav anket sistemiyle herkese belli aralıklarla kendilerini ve bilgilerini sınayabilecekleri testler gönderilecek. 
+     Müşterilere yönelik de şubelerde, ''www.ykb.com'' adresinde ve telefon bankacılığı Teletel'de bilgilendirme, e-mail gönderimi yapılıyor. 
+     
+     İŞ BANKASI 
+     T. İş Bankası bünyesinde de, YTL'ye geçiş sürecine ilişkin çalışmaların sağlıklı şekilde yürütülebilmesi amacıyla Yeni Türk Lirası Çalışma Grubu oluşturuldu. 
+     Bu yılın başından beri sürdürülen çalışmalar sonucunda, Türkiye İş Bankası'nın tüm sistem altyapısı 1 Ocak 2005 tarihi itibariyle YTL geçiş süreci ile oluşturulacak yeni ortama uyumlu hale getirilecek. 
+     İş Bankası'nda YTL geçiş sürecine uyum kapsamında yürütülen analiz ve geliştirme çalışmaları 20 Kasım, test çalışmalarının ise 30 Kasım tarihine kadar sonuçlandırılması hedefleniyor. 
+     Yıl sonunda bankanın tüm uygulamalarının YTL'ye uyum sağlamasının ve bankamatik, internet, telefon bankacılığı gibi şube dışı hizmet kanalları ile POS uygulamasında minimum kesinti süresiyle YTL'ye geçiş sürecinin tamamlanması amaçlanıyor. 
+     İş Bankası yetkilileri, planlara uygun yürütülen YTL'ye geçiş çalışmalarının zamanında sonuçlanması ve yeni sistemde işlemlerin başarıyla yürütülmesi konusunda bir risk bulunmadığını kaydettiler. 
+     
+     AKBANK 
+     Akbank Teknolojiden Sorumlu Genel Müdür Yardımcısı Haluk Erdoğan da, kanunun açıklanmasıyla birlikte yoğun bir şekilde çalışmalara başladıklarını söyledi. 
+     Test çalışmalarını Temmuz ayında başlattıklarını ifade eden Erdoğan, şunları söyledi 
+     ''Şu aşamada kritik uygulamalarımızın tamamı, tüm uygulamalarımızın da çok büyük bir kısmı kabul testinde. Entegrasyonumuz olan dış kurumlarla ve ödemelerine aracılık ettiğimiz firmalarla da test çalışmalarımız sürüyor. 
+     Testler başarılı şekilde devam etmekte olup, sonuçlara baktığımızda kritik bir durumun bulunmadığını söyleyebiliriz. Test çalışmalarının Kasım sonu itibariyle sonuçlanması ve Aralık ayında entegre test ve kuruluş çalışmalarının gerçekleştirilmesini planlıyoruz. 1 Ocak 2005 tarihinde saat 00.10'da Akbank'ın sistemleri YTL'yi kullanıyor hale gelecek.'' Haluk Erdoğan, ATM, sahte para tanıma makineleri gibi çeşitli donanımların YTL'ye uyumlu hale getirilmesine yönelik koordinasyon çalışmalarının da yürütüldüğünü kaydetti. 
+     
+     FİNANSBANK 
+     Finansbank Operasyon Merkezi Grup Başkanı Hayati Ateş, bankanın tüm bilgisayar programlarının ve teknik altyapısının YTL'ye uyumlu hale getirildiğini ve testlerin büyük ölçüde tamamlandığını söyledi. 
+     Ateş, bankacılık sektörünün ve büyük kuruluşların 1 Ocak 2005 tarihinde YTL'ye hazır olacağını düşündüklerini ifade ederek, şöyle dedi 
+     ''YTL geçişinin bankacılık sistemi açısından çok yararlı olacağını düşünüyoruz. Sektör açısından YTL geçiş hazırlıkları önemli maliyetlere katlanmayı ve uzun çabaları gerektirse de, beklenen faydaları gözönüne alındığında gerekli bir operasyon olduğu görülmektedir. 
+     Ancak, bu geçiş bazı riskleri de beraberinde getirmektedir. Bunlardan en önemlisi sahtecilik olaylarıdır. Bu tür girişimlere karşı şubelerde çalışan personelimiz için eğitim programları hazırlanmakta ve diğer gerekli önlemler alınmaktadır. Ülke genelinde, banknot ve madeni paraların güvenlik özelliklerinin tanıtımının iyi yapılması sahtecilik olaylarını azaltacaktır.'' 
+     
+     HSBC 
+     HSBC Bank da, YTL Uyum Projesi kapsamında tüm sistemlerini YTL ile uyumlu çalışacak hale getirirken, YTL Dönüşüm Projesi kapsamında ise sistemlerde bulunan verilerin YTL'ye dönüştürülmesi ve YTL'ye geçiş için yapılacak geçiş çalışmalarını gerçekleştiriyor. 
+     HSBC Bank'ın YTL'ye geçiş için yürütülen her iki projesi de planlandığı şekilde ilerliyor ve çalışmalar Kasım sonu itibariyle tamamlanacak. 
+     Banka, müşterilerini bilgilendirmek amacıyla, web sitesine soru-cevaplar ekledi, elektronik postayla bilgilendirme mesajları gönderdi. 
+     
+     ANADOLUBANK 
+     Anadolubank Operasyon ve Risk Yönetiminden Sorumlu Genel Müdür Yardımcısı Cengiz Doğru, YTL'ye geçiş çalışmalarını bu ay sonuna kadar bitirmeyi ve Aralık ayında da personeli eğitmeyi hedeflediklerini söyledi. 
+     Yüksek enflasyon nedeniyle ekonomik değerlerin ifadesinde problemler yaşandığına dikkat çeken Doğru, ''Bu operasyonun yapılmaması durumunda 50 milyonluk ve 100 milyonluk kupürlerin çıkartılması kaçınılmazdı. Bu durum paramızın itibarı, değeri açısından psikolojik sorunlar yaratmaktaydı. YTL operasyonu kaçınılmazdı'' diye konuştu. 
+     
+     BKM 
+     Bankalararası Kart Merkezi Genel Müdürü Sertaç Özinal da YTL'ye geçiş için yaptıkları çalışmaların başarıyla devam ettiğini açıkladı. 
+     Özinal, ''Kart sahiplerinin ve ödeme noktalarındaki kasiyerlerin iyi eğitilmesinin ardından, kartlı ödeme sistemlerinde bir sorun yaşanması beklenmemektedir. Bankalarımız bu konuda üye işyerleri ve kart sahiplerini eğitmekte ve bilgilendirmektedirler'' dedi. 
+     YTL'ye geçişle birlikte kart kullanım alışkanlıklarının artacağını ifade eden Özinal, bol sıfırlı rakamların sebep olduğu operasyonel ve teknik sorunlar ortadan kalkacağını, enflasyonun tek haneli rakamlara düşürülmesiyle birlikte Türk parasının itibarının yükseleceğini kaydetti. 
+     
+</TEXT>
+</DOC>

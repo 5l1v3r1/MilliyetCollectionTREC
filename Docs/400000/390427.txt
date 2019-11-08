@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 390427 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/28/son/soneko20.html </URL>
+<DATE> 2005/10/28/ </DATE>
+<TIME> 12.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Fitch, iki Türk bankasının kredi notlarını teyit etti 
+</HEADLINE>
+<TEXT>
+
+     Uluslararası kredi derecelendirme reyting kuruluşlarından FitchRatings, Türkiye'den Koçbank ve Yapı Kredi Bankalarının kredi notlarını teyit etti. 
+     Kuruluştan yapılan açıklamada, Koçbank ve Yapı ve Kredi bankalarının uzun dönem kredi notlarının BB-, kısa dönem notlarının B, yerel para cinsinden uzun dönem notlarının BB , uzun dönem ulusal notlarının AA- tur , Destek notlarının 3 olarak teyit edildiği bildirildi. 
+     Her iki bankanın görünümleri de durağan olarak teyit edildi. 
+     
+</TEXT>
+</DOC>

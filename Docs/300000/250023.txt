@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 250023 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/22/son/sontur05.html </URL>
+<DATE> 2004/06/22/ </DATE>
+<TIME> 10.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Her üç bilgisayardan birinde casus yazılım bulundu 
+</HEADLINE>
+<TEXT>
+
+     Tarama yapılan her üç bilgisayardan birinde casus yazılım bulunduğu bildirildi. 
+     İnternet Servis Sağlayıcı şirketlerden EarthLink ile güvenlik yazılımları üreten Webroot firması, Nisan ayına ait ortak raporlarında, tarama yapılan her üç bilgisayardan birinde casus yazılım Trojen - Spyware tespit ettiklerini açıkladı. 
+     İnternette yer alan habere göre, taranan 421 bin bilgisayarın yaklaşık 134 bininde casus yazılım tespit edildi. 
+     Söz konusu yazılımlar, bilgisayarlardaki online yapılan her türlü aktiviteyi izliyor ve kayıt edebiliyor. Bu yazılımlar özellikle siber korsanlar tarafından, kişilere ait bilgilerin toplanması amacıyla kullanılıyor. Casus yazılımlar, kullanıcı internete girdiği zaman, siber korsana, kullanıcının bilgisayarına girmek için ''gizli bir yol'' açabiliyor. 
+     İnternet analistleri, bu tür casuslardan korunmak için güvenlik yazılımlarının kullanımını öneriyorlar. 
+     
+</TEXT>
+</DOC>

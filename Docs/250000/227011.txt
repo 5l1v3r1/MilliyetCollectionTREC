@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 227011 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/30/son/sonyas12.html </URL>
+<DATE> 2004/03/30/ </DATE>
+<TIME> 12.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Korsanlar, sahte sanal mağazadan kredi kartı numarasına ulaşıyor 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayarları virüs yazarak çökertmek suretiyle haksız kazanç sağlayan bilgisayar korsanlarının, son olarak, virüs bulaşan bilgisayarları sahte sanal mağaza açmak için kullandıkları bildirildi. 
+     Virüslerle savaşan Finlandiyalı bilgisayar güvenliği şirketi F-Secure'un araştırma sorumlusu Mikko Hyppoenen, AFP'ye yaptığı açıklamada, bilgisayar korsanlarının kullanıcıların kredi kartı numaralarını almak için, kendileri tarafından kontrol edilen virüs bulaşan bilgisayarlar aracılığıyla internet üzerinde gerçekte var olmayan mağazalar açtıklarını belirtti. 
+     Hyppoenen, ''Polis soruşturmaları devam ediyor, biz de hangi virüsü kullandıklarını tespit etmeye çalışıyoruz. En son virüslerden 'Bagle' ya da 'Mydoom' kullanmaları söz konusu olabilir'' dedi. 
+     Uzmanların önce bu gizli girişimlerin sadece virüs bulaşan bilgisayarlar aracılığıyla, genellikle reklam içerikli ''spam'' gönderme amacını hedef aldığını sandığını kaydeden Hyppoenen, ancak bunun, yolsuzluk dahil olmak üzere kötü niyetli kullanıma açık olabileceği sonucuna varıldığını bildirdi. 
+     ''Bu işte kullanılan virüs bulaşmış yüzlerce bilgisayar var ve internetteki bu düzmece mağazalar, ortalama her 10 dakikada bir üs değiştiriyor'' diyen Hyppoenen, her adresin arkasında bir kişisel bilgisayar olduğunu, bunun da bu siteleri açan kişilere ulaşmayı imkansız hale getirdiğini vurguladı. 
+     Norveç'in başkenti Oslo'da bulunan Norman firmasından Snorre Fagerland da, ''İnternette açılan düzmece mağaza, hileli bir programla yapılabilecek eylemlerden biri'' ifadesini kullandı. 
+     Düzmece sitelerin çoğunun, kullanıcıda güvenli bir izlenim yarattığını, fazla şüpheci olmayan kullanıcıların bu tuzağa kolayca düştüklerini kaydeden Fagerland, internet üzerinden alışveriş yapmak isteyenlerin, satın alacakları malın fiyatını sorgulamaları, söz konusu malların bu kadar ucuza satılmasından kuşku duymaları ve satıcıyla telefon ya da bir adres aracılığıyla bağlantı kurma olanağını araştırmaları gerektiğini sözlerine ekledi. 
+     Böyle düzmece bir siteden alışveriş yaptığını ''sanan'' bir kullanıcı, kredi kartı ekstresinde yaptığı ''alışverişi'' gördüğü halde, ısmarladığı mal eline geçmeyince dolandırıldığını anlıyor. 
+     
+</TEXT>
+</DOC>

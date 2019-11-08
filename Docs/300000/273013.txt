@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 273013 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/19/guncel/axgun02.html </URL>
+<DATE> 2004/09/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türk bilim adamından çığır açacak bir buluş 
+</HEADLINE>
+<TEXT>
+
+
+Connecticut Üniversitesi öğretim üyesi Prof. Nejat Olgaç, mantık kurallarını tersine çeviren önemli bir buluşa imza attı 
+
+
+ABD'nin Connecticut Üniversitesi Makine Mühendisliği Bölümü öğretim üyelerinden Prof. Nejat Olgaç, klasik mantık kurallarını altüst eden, ancak teknoloji ve üretim alanında paradigmaları değiştirerek, çığır açacak bir buluşa imza attı. İTÜ kökenli Olgaç'ın doktora öğrencisi Rıfat Sipahi ile çalışmaları sonucunda yaptığı "gecikmeli sistemlerin stabilizasyonu"nun bilgisayar, savunma ve üretim makineleri teknolojilerinde büyük yeniliklere yol açacağı kaydedildi. 
+Kavramın pratik yaşamda son derece etkileyici sonuçlar çıkardığını belirten Olgaç, şunları kaydetti 
+"GPS yardımıyla bir roket bir uçağı kovalarken, hedefin hareketinin gecikmesiz olarak bilinmesi halinde, hedefle buluşması başarılı oluyor. Mantığın gerektirdiği şekilde büyük gecikmelerde buluşma başarısız oluyor. Klasik kontrol metotları 'stabilitede gecikme marjını' aşmamaya çalışırken, biz tersini yapmaya çalıştık." 
+Olgaç, "Eski verilerle daha başarılı kontrol uygulamamız mümkün olabiliyor. Bu sonucu matematiksel olarak çok rahat açıklayabilmemize rağmen klasik mantık kurallarına aykırı düşüyoruz" dedi. 
+
+
+
+
+</TEXT>
+</DOC>

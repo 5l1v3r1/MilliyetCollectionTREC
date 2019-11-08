@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 272472 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/16/son/sonyas17.html </URL>
+<DATE> 2004/09/16/ </DATE>
+<TIME> 13.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Elleri kullanmadan internette sörf artık mümkün... 
+</HEADLINE>
+<TEXT>
+
+     Artık ellerinizi kullanmadan internette sörf yapmanız mümkün... 
+     New Scientist dergisinin haberine göre, Kanadalı bir bilim adamının geliştirdiği sistem sayesinde insan gözü ve burnu bilgisayar faresi mouse olarak kullanılabilecek. 
+     Merkezi Kanada'nın başkenti Ottowa'da bulunan Bilgisayar Teknolojisi Enstitüsü'nde görevli Rus asıllı Dmitry Gorodnichy'nin icat ettiği sistem, bir kamera webcam yardımıyla gözün ve burnun hareketlerinin algılanıp bir USB port aracılığıyla bilgisayara komut olarak iletilmesi ilkesine dayanıyor. 
+     Gorodnichy'nin sisteminde, kullanıcı burnunu imleç cursor gibi kullanabilirken, sol gözünü kırptığında, farenin sol tuşuna tıklamakla aynı işlevi görüyor. Sağ göz kırpıldığında da sağ tuş tıklanmış oluyor. 
+     Geliştirdiği sistem sayesinde sakatların ve oyun tutkunlarının bilgisayar kullanmalarının çok kolaylaşacağını belirten mucit Gorodnichy, burun imleçli icadına ''Nouse'' Burnun İngilizce karşılığı ''Nose'' ve farenin İngilizce karşılığı ''Mouse''un karışımı adını verdi. 
+     Teknoloji analistleri ise yeni sistemin kullanılabilirliği konusunda çeşitli görüşler dile getiriyorlar. Bazıları, sistemin klavye ve fare ile birlikte kullanılabileceğini savunurken, bazıları ise sistemin kullanılabilirliğinden emin olmadıklarını söylüyorlar. 
+     Kimi uzmanlar, icadı ahmakça bulduklarını belirterek, insanların bunu kullanamayacaklarını kaydediyor. 
+     
+</TEXT>
+</DOC>

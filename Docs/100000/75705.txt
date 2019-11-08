@@ -1,0 +1,44 @@
+<DOC>
+<DOCNO> 75705 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/04/01/ekonomi/eko05.html </URL>
+<DATE> 2002/04/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Suçluyu cep’ ele verecek 
+</HEADLINE>
+<TEXT>
+
+Suçluların tanımlamasında cep telefonları kullanılmaya başlıyor. Bu uygulamayla polis cep telefonundan karşısındaki kişinin aranıp aranmadığını öğrenebilecek 
+     Teknonet ŞÜKRÜ ANDAÇ 
+
+     Polis artık cep telefonlarını suçluları tanımlamada kullanacak. Cep telefonu üreticisi Motorola, yüz tanımlama teknolojileri geliştiren Visionics ve yazılım geliştirici Wirehound güçlerini birleştirerek cep telefonlarında gerçek zamanlı yüz tanımlama teknolojisi geliştireceklerini duyurdular. 
+     Böylelikle artık yüz tanıma kabiliyeti olan Java teknolojisine sahip cep telefonları suçluları yakalamada kullanılabilecek. Sistemin işleyişi ise şöyle 
+     Polis, cep telefonu aracılığıyla FaceIt ARGUS sistemi üzerinden yüzleri otomatik olarak görünüm alanından buluyor, veri tabanında araştırıyor ve veritabanında o yüz ile eş görünümü buluyor. Bu işlemlerin tümü birkaç dakika içerisinde cep telefonu sinyalleri üzerinden gerçekleştiriliyor. 
+     Bu uygulama, polislerin suçluları tanımasına yardımcı olmaları için, kamu güvenlik sektöründen gelen ve giderek artan talebe cevap olarak geliştirildi. 
+     
+Yüz tanımlamayı başka cepler de destekleyecek      Motorola firması yüz tanımlama teknolojisini cep telefonlarında uygulayacağını duyurmasına rağmen, bir diğer cep telefonu üreticisi Nokia da piyasaya çıkarmaya hazırlandığı yeni modeli Nokia 7210’da Java teknolojisini destekleyen bir içerik sunuyor. Böylelikle bu yeni model cep telefonu da bu tip bir uygulamada kullanılabilecek. 
+     
+     
+
+
+
+ EKONOMİ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

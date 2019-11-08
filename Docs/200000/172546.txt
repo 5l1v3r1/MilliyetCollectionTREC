@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 172546 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/30/son/soneko12.html </URL>
+<DATE> 2003/07/30/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Japonya 420 bin enformasyon teknolojisi mühendisi arıyor... 
+</HEADLINE>
+<TEXT>
+
+     Japonya'nın geniş bant Internet iletişim kullanımında ilerlemesi için 420 bin daha enformasyon teknolojisi IT alanında uzmanlaşmış mühendislere gerek var. 
+     Kamu Yönetimi, İçişleri Telekomünikasyon Bakanlığı'na danışmanlık eden telekomünikasyon yazılım inceleme grubu kurulunun ara raporuna göre, sadece Japon iş dünyasında bilgisayar sistemlerini ve IT altyapısını koruyucu güvenlik önlemlerinin tasarımıyla görevlendirilecek 120 bin daha mühendise ihtiyaç var. 
+     Bunun yanı sıra, Japon şirketlerinin, bilgisayar sistemlerini işletip, idare edebilecek, veri tabanlarını kuracak ve bilgisayar programlarını geliştirecek IT mühendislerini istihdam etmesi gerekecek. 
+     Japon Telekom Bakanlığı, bu alandaki yetişmiş eleman sıkıntısını ortadan kaldırıcı tedbirler için 2004 mali yılından itibaren fon teminine çabalıyor. 
+     
+</TEXT>
+</DOC>

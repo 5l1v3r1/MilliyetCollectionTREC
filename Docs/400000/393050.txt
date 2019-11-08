@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 393050 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/08/son/soneko01.html </URL>
+<DATE> 2005/11/08/ </DATE>
+<TIME> 03.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones düştü... 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street menkul kıymetler borsası, yükselişle açıldığı haftanın ilk işlem gününü yükselişle noktaladı. 
+     Temel gösterge olarak bakılan Dow Jones Sanayi Endeksi, 55.47 puan artışla binde 5.3 10,586.23 puandan kapandı. 
+     Wall Street'in teknoloji ortaklıkları ibresi Nasdaq Bileşik Endeksi de 8.81 puan artarak binde 4.1 günün ikinci seansını 2,178.24 puandan kapadı. 
+     Wall Street endekslerinin değer kazanmasında, uluslararası ham petrolün varil fiyatının 60 doların altına düşmesi etkili oldu. 
+     
+</TEXT>
+</DOC>

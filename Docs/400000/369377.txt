@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 369377 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/12/son/sonyas02.html </URL>
+<DATE> 2005/08/12/ </DATE>
+<TIME> 08.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Çocuklarda löseminin suçlusu bulundu Araçların yaydığı gaz 
+</HEADLINE>
+<TEXT>
+
+     İngiltere’de yapılan bir araştırma, çocuklarda görülen kanserin büyük ölçüde, otomobil, kamyon ve diğer araçların egzozlarından yayılan gazların neden olduğu hava kirliliğinden kaynaklandığını ortaya koydu. 
+     İngiliz Journal of Epidemiology and Community Health dergisinde yayımlanan araştırmada, özellikle dizel motorlu araçların yaydığı karbon monoksit ve bütadien 1,3 gazlarının çocuklarda görülen kanserin başlıca "sorumlularından" olduğu belirtildi. 
+     Birmingham Üniversitesi’nden George Knox’un başkanlığındaki ekibin yaptığı araştırma sonucunda, bu gazlardan birine maruz kalmanın ve bir istasyona en az 500 metre uzaklıkta yaşamanın bir çocuğun kanserden ölme riskini 12 kat artırdığı ortaya çıktı. 
+     İngiltere’de 19-1980 yılları arasında kanser ya da lösemi nedeniyle ölen yaklaşık 22 bin 500 çocuk üzerinde daha önce de araştırmalar yapan Knox, 1954’den sonra doğan bu çocuklardan 12 bininden fazlasının eski adreslerine ulaştı. 
+     Bu çocukların evleriyle atmosferdeki kirlilik oranını karşılaştıran araştırmacılar, istasyon, diğer ulaşım merkezleri, hastaneler gibi "kirlilik kaynaklarına" en az bir kilometre uzaklıkta yaşayan çocukların kanserden ölme riskinin daha fazla olduğu sonucuna vardılar. 
+     Fransa’nın Nancy, Lille, Lyon ve Paris kentlerinde geçen yıl yapılan bir araştırma, garaj ya da benzin istasyonu yakınında yaşamanın çocukların lösemiye yakalanma riskini 4 kat artırdığını ortaya koymuştu. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 223235 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/17/son/sonyas06.html </URL>
+<DATE> 2004/03/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft, Windows-XP'yi yeniden yüklüyor 
+</HEADLINE>
+<TEXT>
+
+     Yazılım devi Microsoft firmasının, ''Longhorn'' kod adını verdiği Windows işletim sisteminin yeni sürümü ile Windows-XP'nin 2. hizmet paketinden Service Pack-2 önce, piyasaya bir ara sürüm çıkarmaya hazırlandığı bildirildi. 
+     İnternete yansıyan haberlere göre XP'nin yeni sürümüne ''XP Reloaded'' adı verildi. Yeni sürümde, Service Pack-2'nin işlevselliğinin yanı sıra Longhorn'a has bazı özelliklerin de yer alması bekleniyor. 
+     ''Beta News'' adlı internet sitesinin haberine göre, bir Microsoft sözcüsü, ''firmanın, Windows-XP platformuna yeni değerler katma yollarını aradığını'' ifade etti. 
+     Microsoft'un Windows-XP SP-2'yi bu yılın ilk yarısında piyasaya sürmesi bekleniyor. 
+     Bu pakette işletim sisteminin güvenlik kanadının önemli çapta takviye edileceği ve bilgisayar korsanlarının yararlandıkları boşlukların kapatılacağı kaydedildi. 
+     SP-2 ile ayrıca internet tarayıcısı IE'nin yeni bir sürümü de tüketiciye ulaşacak. SP-2'nin diğer özellikleri arasında çok daha işlevsel bir ateş duvarı ile e-mail ve hafıza koruması da yer alıyor. Microsoft'un tüm bu konularla ilgilenmek üzere bir ''Windows-XP Güvenlik Merkezi'' oluşturduğu da sitenin haberinde yer aldı. 
+     Sanayi çevreleri Microsoft'un, Windows-XP'deki iyileştirmelerin yanı sıra Windows Media Center ve Tablet PC sürümlerini de bu yılın sonuna doğru ''terfi'' ettireceğini söylediler. 
+     
+</TEXT>
+</DOC>

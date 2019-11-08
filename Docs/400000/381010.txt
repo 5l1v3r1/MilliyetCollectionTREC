@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 381010 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/23/son/sonyas12.html </URL>
+<DATE> 2005/09/23/ </DATE>
+<TIME> 13.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnsan kromozomu fareye başarıyla nakledildi 
+</HEADLINE>
+<TEXT>
+
+     İngiliz bilimadamları, genetik hastalıkların nedeninin ortaya çıkarılmasında önemli bir adım kabul edilen bir deneyde, insan kromozomlarını fareye başarıyla nakletti. 
+     Science dergisinde bugün yayımlanan ve İngiliz The Guardian gazetesinde de yer alan deney ilk kez yapılırken, bunun beynin gelişimi ve kalbin oluşumunda anomalilere yol açan ''down sendromu'' mongolluk hastalığı için tedavi umudu yaratabileceği belirtiliyor. 
+     13 yıl sarf edilen çalışmalar sonucu yapılan deneyde, bilimadamları, 3 günlük bir fare embriyosuna 250 genlik bir diziden oluşan 21 numaralı insan kromozomunu ekledi. Her bin insandan birinin down sendromuna yol açan kromozomun ekstra kopyasıyla doğduğunu hatırlatan bilimadamları, kromozumun eklenmesiyle, farenin down sendromuna sahip bir insanın tüm karakteristik özelliklerini göstererek doğacağını belirtti. 
+     Bilimadamları, böylece fare üzerinde yapılan bu deneyle, hangi gen veya genlerin down sendromuna yol açtığının saptanabileceğini kaydetti. 
+     Fareyi inceleyerek down sendromunun nedenlerini bulmaya çalışacaklarını belirten bilimadamları, bu deneyi genetik hastalıkların tedavisi yolunda bir ''dönüm noktası'' olarak değerlendirirken, bazı çevreler deneyi genetik tıbbın sınırlarını zorlamak olarak eleştiriyor. 
+     ''Genetik Alarm'' adlı bir sivil toplu örgütünün başkanı David King, The Guardian'a yaptığı açıklamada, deneyi eleştirerek, başka bir canlı türünün kromozomunu alıp yeni bir canlı türüne aktarmanın, genetik mühendisliğini istenmeyen alanlara taşıdığını savundu. 
+     
+</TEXT>
+</DOC>

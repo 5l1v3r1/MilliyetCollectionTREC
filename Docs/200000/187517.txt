@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 187517 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/09/son/soneko20.html </URL>
+<DATE> 2003/10/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı 15 bin puanın altında tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi, dünkü kapanışa göre 303.58 puan düşüşle 1. seansı 14,844.18 puandan tamamladı. 
+     1. seansta hisse senetlerinin ortalama değer kaybı 2.00 olarak gerçekleşti. 
+     Dün 15,147.76 puandan kapanan endeks, ilk seansa 23.21 puan düşüşle 15,124.55 puan seviyesinde başladı. Düşüş ağırlıklı bir seyir izleyen endeks seansın ilk yarısını 14,976.30 puandan geçti. 
+     Seans içinde en düşük 14,834.94, en yüksek 15,215.49 puanı gören endeks, 14,844.18 puandan kapandı. 
+     Seans kapanışında mali endeks 601.90 puan düşüşle 19,427.87 puana, sanayi endeksi 112.01 puan düşüşle 13,724.60 puana, hizmetler endeksi 106.74 puan düşüşle 8,354.32 puana geriledi. 
+     Böylece, önceki kapanışa göre mali grup hisseler ortalama yüzde 3.01, sanayi grubu hisseler ortalama yüzde 0.81, hizmetler grubu hisseler ortalama yüzde 1.26 değer yitirdi. 
+     1. seansta işlem gören toplam 287 hisse senedinden 185'i değer yitirirken, 46 hisse senedi değer kazandı, 56 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta, 625 trilyon 142 milyar 653 milyon liralık işlem hacmi oluştu. 
+     1. seansta, Yapı Kredi Bankası, Doğan Holding, İş Bankası C , Garanti Bankası ve Sabancı Holding en yoğun işlem gören hisseler oldu. 
+     Borsa uzmanları, endeksin kar satışlarıyla 14,834 puana kadar gerilediğine işaret ederek, tezkerinin kabul edilmesinin ardından ayrıntıların netleşmemesi ve kar realizasyonlarının artmasının piyasaya satış getirdiğini, gelen tepki alımlarıyla endeksin 15,000 puan civarında tutunmaya çalıştığını belirtiyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> 304016 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/06/son/soneko18.html </URL>
+<DATE> 2005/01/06/ </DATE>
+<TIME> 10.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kalitesiz akaryakıt yolda bırakıyor... 
+</HEADLINE>
+<TEXT>
+
+     Mazottaki kükürt oranının Avrupa standartlarının 3-4 kat üzerinde olması ve bazı akaryakıt istasyonları ile dağıtıcılarının benzinde katkı maddesi kullanmasının özellikle üst model araçlarda sık sık arızaya neden olduğu bildirildi. 
+     Yaptığı araştırmaya göre, özellikle dizel araçlarda yaşanan sıkıntı yüksek boyutlara ulaşıyor. Bu nedenle Adana'da ayda yaklaşık 200 araç akaryakıttan kaynaklanan arıza nedeniyle servislere başvuruyor. 
+     Araçların çeşitli aksamlarında meydana gelen arızalar nedeniyle otomobil kullanıcıları, 250 YTL'den 5-6 bin YTL'ye kadar servislere ücret ödemek zorunda kalıyor. 
+     Toyota satış sonrası servis yetkililerinden alınan bilgiye göre, mazottaki kükürt oranı Avrupa'da 450 ppm iken Türkiye'de bu oranın yaklaşık 11 bin ppm olması dizel araçlarda önemli teknik sorunlara neden oluyor. 
+     Gelen benzin ve motorinde ciddi araştırmalar yapılamadığı için üst model ve yurtdışından ithal edilen araçlarda injeksiyon sisteminden egzoz geri besleme sistemine kadar çeşitli arızalar meydana geliyor. Kalitesiz akaryakıt ayrıca, aracın ataklığını düşürüyor, yakıt kullanımını artırıyor ve çevre kirliliğine neden oluyor. 
+     Opel yetkilileri ise akaryakıtta kullanılan katkı maddelerinin mekanik parçaların tıkanmasına, hatta elektronik devrelerin hasar görmesine kadar çok çeşitli sorunlara neden olduğunu vurguladı. Benzinde ise oktan sayısındaki farkın önemli bir unsur olduğu ifade edildi. 
+     Otomobillerinde 95 oktan benzin kullanılmasını tavsiye ettiklerini vurgulayan Opel yetkilileri, şunları kaydetti 
+     ''Motordaki piston zamanla kurum bağlıyor. Kurum, kömür gibi oluyor. Bilgisayardaki elektronik ünite arabayı çalıştırmak istiyor ancak, kullanılan benzinin egzoz geri besleme sistemine verdiği zarar nedeniyle araba çalışmıyor. Bu sorun özellikle soğuk havalarda daha belirgin oluyor. 
+     Bunda oktan sayısının düşük olması kadar kullanılan katkı maddelerinin oranı ve türü de önemli rol oynuyor. Avrupa standartlarına göre kalitesiz akaryakıt kullanıyoruz.'' Dizel araçlardaki akaryakıt pompa sisteminde meydana gelebilecek bir arıza ise tüketiciye yaklaşık 5 bin YTL'ye mal oluyor. 
+     Ford servis mühendisleri de özellikle üstün teknolojik özelliklere sahip son model dizel araçlarda mazot kalitesinden kaynaklanan sorunlar yaşandığını vurguluyor. 
+     Mühendisler, Ford'un dizel araçlarda yakıtı daha verimli kullanabilmek için çıkarttığı yüksek basınçlı püskürtme sistemine sahip motorların, kalitesiz akaryakıtlar nedeniyle çabuk zarar görebileceği konusunda uyarıda bulunuyor. 
+     Yüksek basınçlı püskürtme nedeniyle mazottaki kükürdün sülfirik aside dönüştüğünü ifade eden mühendisler, bin 600 bar basınçlı sülfirik asidin ise injeksiyonlara önemli zarar vereceğine dikkati çekiyor. 
+     
+     ''TÜKETİCİLER HAKKINI ARAMALI'' 
+     Tüketici Dernekleri Federasyonu Başkanı Turan Çakar, tüketicinin akaryakıttan doğan zararlarda hakkını araması gerektiğini vurguladı. 
+     Akaryakıt istasyonlarından mutlaka fatura alınması gerektiğini ifade eden Çakar, şunları söyledi 
+     ''Faturayı alırken üzerine araçlarında kilometreyi de yazmalılar. Böylece hangi kilometrede yakıt aldığı ve ne zaman arıza gerçekleştiği hesaplanabilir. Sorunun yaşandığı gün elindeki belgelerle Sanayi ve Ticaret İl Müdürlüklerine müracaatta bulunmalılar. 
+     Bazen bu sorunlardan kaynaklanan arıza şikayetiyle başvurular gelebiliyor. Ancak, otomobil kullanıcıları hakkını arama konusunda henüz yeterince bilinçli değil.'' 
+     
+     ''OTOMOBİL SATICILARI DA HATALI'' 
+     Adana Akaryakıt Bayileri Derneği Başkanı Hasan Sevilir de tüketicilerin aldıkları otomobil konusunda yeterince bilinçlendirilmediğini savundu. 
+     Sevilir, yakıtta kullanım hatası yapıldığını belirterek, şöyle devam etti 
+     ''Otomobil satıcıları da hatalı. Tüketici kaç oktan benzin kullanması gerektiği konusunda yeterince bilgilendirilmiyor. Ayrıca, teknik servis raporuyla sorunun akaryakıttan kaynaklandığı belirlenirse ilgili bayi anında kontrol edilir. Gerekirse bayi veya ana dağıtım kuruluşları masrafı karşılar.'' Sevilir, otomobil kullanıcılarının tanıdıkları ve güvendikleri bayilerden yakıt almalarını da istedi. 
+     
+</TEXT>
+</DOC>

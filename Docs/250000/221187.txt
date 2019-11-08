@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 221187 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/10/son/sondun07.html </URL>
+<DATE> 2004/03/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kullanılmış bilgisayar al, çevreyi ve keseni koru .. 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayarların da cep telefonları gibi bir parça eskiyince atılmaya başladığı, oysa kullanılmış bilgisayar almak ya da eski bilgisayarı güncelleştirmek tasarrufa ve çevrenin korunmasına büyük katkı sağlıyor. 
+     Merkezi Massachussetts'te bulunan IDC adlı firmanın uzmanlarından Shane Rau, satın alındıktan kısa süre sonra iade edilmiş bir bilgisayarı almanın, hiç kullanılmamış bilgisayar almaktan en az 100-200 dolar ucuza mal olduğuna dikkat çekti. 
+     Bu cihazların da yeni bilgisayarlar gibi garanti kapsamında oldukları belirtiliyor. 
+     Aynı şekilde e-Bay gibi açık artırma sitelerinde de az kullanılmış bilgisayarlar yenilerine oranla yüzde 30-80 daha ucuz fiyata satılıyor. Bazı üretici firmalar ise kendi ürettikleri bilgisayarları monitor hariç 149 dolara satıyorlar. 
+     Uzmanlar, bir bilgisayarın atılmasının sağlık ve çevre açısından çeşitli riskler doğurduğuna işaret ediyorlar. 
+     Uzmanlara göre, bilgisayarla sadece e-posta gönderip internette araştırma yapıyorsanız çoğu zaman yeni bir bilgisayara değil, cihazınızı güncelleştirmeye ihtiyacınız var demektir. 
+     ''Yeni bir işletim sistemi piyasaya çıktığında derhal yeni bir bilgisayar almaya gerek olmadığına'' dikkat çeken uzmanlar, ''Yazılım software ve donanımın hardware bir üst düzeye çıkartılmasıyla upgrade birçok sorunun çözümlendiğini'' kaydettiler. 
+     Bilgisayar uzmanı Rau, ''Önemli olanın en yeni ve güçlü bilgisayara sahip olmak değil, bilgisayarınızı rahat kullanıp kullanmadığınızdır'' dedi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 380569 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/22/son/soneko33.html </URL>
+<DATE> 2005/09/22/ </DATE>
+<TIME> 14.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İstanbul ve Ankara’da dolar, avro ve sterlinin alış-satış fiyatları 
+</HEADLINE>
+<TEXT>
+
+     İstanbul ve Ankara'da dolar, avro ve sterlinin alış-satış fiyatları, saat 14.00 itibariyle YTL olarak şöyle 
+     
+     
+İSTANBUL SERBEST PİYASA ALIŞ SATIŞ ABD Doları 1.3360 1.3390 Avro 1.6340 1.6370 İngiliz Sterlini 2.4000 2.4250 
+     
+     
+ANKARA SERBEST PİYASA ALIŞ SATIŞ ABD Doları 1.3340 1.34320 Avro 1.6290 1.6420 İngiliz Sterlini 2.3920 2.4300 
+     
+</TEXT>
+</DOC>

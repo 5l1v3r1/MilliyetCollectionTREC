@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 385780 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/11/son/soneko16.html </URL>
+<DATE> 2005/10/11/ </DATE>
+<TIME> 10.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yatırım araçlarının gözdesi yine borsa... 
+</HEADLINE>
+<TEXT>
+
+     Finansal yatırım araçları arasında bu yıl Eylül ayında, aylık ve yıllık bazda en yüksek reel getiriyi borsa sağladı. 
+     Devlet İstatistik Enstitüsü DİE , seçilmiş finansal yatırım araçlarının Eylül ayı itibarıyla gerçekleşen reel getiri oranlarını açıkladı. 
+     Buna göre tüketici fiyatları endeksi TÜFE bazında borsa, mevduat faizi brüt ve külçe altın, bir önceki aya göre reel getiri sağlarken, avro ve dolar yatırımcılarını üzdü. 
+     Eylül'de borsa yüzde 10.67, mevduat faizi brüt yüzde 0.36, külçe altın yüzde 2.85 reel getiri sağlarken, dolarda yüzde 1.31 ve avroda yüzde 1.60 getiri kaybı oldu. 
+     
+     YILLIK GETİRİ 
+     Bu yıl Eylül ayı itibariyle son bir yıla bakıldığında ise borsa endeksi ile mevduat faizine yatırım yapanlar reel bazda kazanırken, avro, dolar ve altına yatırım yapanlar zarar etti. 
+     Söz konusu dönemde, borsa endeksi yüzde 41.96, mevduat faizi brüt yüzde 12.05 oranında yıllık bazda getiri sağlarken, avroda yüzde 17.31, dolarda yüzde 17.58, külçe altında da yüzde 9.16 reel getiri kaybı oldu. 
+     
+</TEXT>
+</DOC>

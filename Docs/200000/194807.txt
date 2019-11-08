@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> 194807 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/11/son/soneko29.html </URL>
+<DATE> 2003/11/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dijital ihalede ilk adım atıldı 
+</HEADLINE>
+<TEXT>
+
+     Kamu İhale Kurumu'nun ''İhale Uygulamaları Elektronik Eğitim ve Destek Projesi'' kapsamında, yeni ihale yasası dijital ortama taşındı. 
+     Siemens Business Services Türkiye, Dünya Bankası hibesiyle finanse edilen, yeni ihale yasasının ''e-Öğrenme'' platformuna taşınması çalışmasının önemli bir aşamasını tamamladı. 
+     Projeyle, tüm ihale sürecinin elektronik ortama taşınması, dünya ile entegrasyon bağlamında alıcı ve satıcının bilgisayarda buluşturulması, yerli ve yabancı isteklilerin bürokratik engellerle karşılaşmadan ihalelere girebilmesinin önü açılıyor. 
+     Siemens Business Services Türkiye tarafından yükleniciliği üstlenilen projede kamu ihale uzmanları, eğitim teknolojisi uzmanları, içerik tasarımcıları, grafik tasarımcıları, multimedya programcıları, ses ve yazılım mühendisleri görev aldı. 
+     Talep edenler web tabanlı, 335 adet seslendirmeli animasyonla konu anlatımlarının desteklendiği, her bölümün sonunda test modülü bulunan, bu modüle soru ekleme olanağı veren, toplam 600 adet konu başlığının işlendiği ve tüm bilgilerin ''idare'' ve ''istekli'' açısından izlendiği eğitim CD'sine sahip olacak. 
+     Projeyle uygulayıcılara zaman, mekan boyutu gözetmeksizin sürekli, düşük maliyetli, standart eğitim verilmesi ve uygulama birliğinin gerçekleştirilmesi sağlanacak. 
+     
+     E-DEVLET'E GEÇİŞTE ÖNEMLİ ADIM 
+     Projenin kamuoyuna duyurulması amacıyla düzenlenen basın toplantısında konuşan Siemens Business Services SBS Türkiye Genel Müdürü Mustafa Çağan, Türkiye'de ilk defa bir yasa ve ilgili mevzuatın elektronik ortama taşındığını belirterek, ''Devlet daha önceleri hep kanun çıkarır ve bu kanunu anlamak vatandaşa düşerdi. Şimdi ilk kez devlet kanunun anlaşılması için çalışma yaptı. Bu aynı zamanda e-Devlet'e geçişte de çok önemli bir adım'' dedi. 
+     Çağan, kullanıcıların kendilerine bir bilgisayar uzaklığındaki bilgi dağarcığına hızlı ve sınırsız bir şekilde ulaşabilmelerini sağlayan projenin, bireyin kendini eğitme yeteneklerini, bilgisayar okuryazarlığını, dönüşümün bireyde başlamasını teşvik etmesi yönüyle de e-Türkiye hedefinin önemli yapıtaşlarından birini oluşturduğunu ifade etti. 
+     Çağan, projenin ihalelerin açık ve şeffaf ortamda yapılmasını sağlayacak e-İhale'ye geçişte de hayati önem taşıdığını söyledi. 
+     Toplantıya katılan Kamu İhale Kurulu Üyesi Arif Şimşek, Türkiye'de aralarında okullar, hastaneler, belediyeler, bakanlıkların da bulunduğu yaklaşık 100 bin civarında ihale düzenleyen birim olduğunu, buna ek olarak da 200 bin kayıtlı müteahhit, 300 bin civarında da kamuya mal satan girişimci olduğunu aktardı. 
+     
+     DÜNYA BANKASI HİBESİYLE FİNANSE EDİLDİ 
+     Bu insanların coğrafi dağınıklık ve fiziki imkansızlıkların da gözönüne alınması durumunda ihalelere ilişkin yeni düzenleme hakkında tam olarak bilgilendirilmesinin maliyetli ve uzun zaman alabilecek bir uğraş olduğunu anlatan Arif Şimşek, projenin Dünya Bankası hibesiyle finanse edildiğini kaydetti. 
+     Şimşek, Kamu İhale Kurumu'nun, 4734 sayılı Kamu İhale Kanunu'nda belirtilen görev ve yetkileri çerçevesinde başlattığı ''e-Öğrenme Projesi'' ile tüm ihale sürecinin elektronik ortama taşınmasının, ihalelerin bilgisayar desteği ile gerçekleştirilme bilincinin oluşturulması ve ihale uygulamalarının dijitalleştirilmesi hedefinin ilk adımını oluşturduğunu dile getirdi. 
+     Yeni sistemin sadece Türkiye değil uluslararası kamuoyuna da açık olacak bir yapı olduğunu anlatan Şimşek, elektronik imza konusunda çalışmaların tamamlanmasıyla ileride ihale tekliflerinin de dijital ortamda verilmesinin söz konusu olabileceğini belirtti. 
+     Şimşek, sistemin, yolsuzlukları engellemenin tek yolu olduğunu kaydederek, şeffaflık ve açıklığın bu şekilde sağlanacağını kaydetti. 
+     ''Kayırmalar, adres göstermeler, menfaat sağlamalar, bu tip olaylar, sıfıra inecek. Çünkü her şey herkesin gözü önünde olacak'' diyen Arif Şimşek, sistem sayesinde ilgililerin istediği saatte elektronik ortamdan bilgi alabileceğini, bu şekilde eğitim masraflarının azalacağını dile getirdi. 
+     
+</TEXT>
+</DOC>

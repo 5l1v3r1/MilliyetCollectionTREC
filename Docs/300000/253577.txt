@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 253577 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/07/son/soneko28.html </URL>
+<DATE> 2004/07/07/ </DATE>
+<TIME> 16.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düşüşle başladı... 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacmi bakımından dünyanın en büyük borsası konumunda olan New York'ta bugün endeksler düşük açıldı. 
+     Açılıştan kısa bir süre sonra Dow Jones Endeksi 16.22 puan azalarak 10,203.12 puana, teknoloji endeksi Nasdaq 0.01 puan gerileyerek 1,963.44 puana indi. 
+     Endekslerde görülen gerilemeye neden olarak yatırımcıların ekonomi, petrol fiyatları hakkındaki endişeleri gösterildi. 
+     
+</TEXT>
+</DOC>

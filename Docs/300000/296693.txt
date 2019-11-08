@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 296693 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/10/son/sonyas20.html </URL>
+<DATE> 2004/12/10/ </DATE>
+<TIME> 12.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dünyanın toz bulutundan oluştuğu teorisi kuvvetleniyor... 
+</HEADLINE>
+<TEXT>
+
+     Bilim adamları, gezegen doğuran yıldızların etrafında toz halkaları gözlemledi. Bu keşif, gezegenlerin nasıl oluştuğuyla ilgili teorilere önemli katkı sağlayacak. 
+     NASA, Spitzer Uzay Teleskopu'nun, 5 milyar yaşında, yani yaklaşık olarak güneşle aynı yaşta ve büyüklükte 5 yıldızın çevresinde toz diskleri tespit ettiğini açıkladı. 
+     Teleskopun, sadece birkaç yüz milyon yaşındaki bir başka yıldızın çevresinde de toz halkası saptadığını, tüm yıldızların çevresinde gaz halinde gezegenler olduğu belirtildi. 
+     Washington'daki Carnegie Enstitüsü uzay bilimcisi Alycia Weinberger, bu tespitin gezegenlerin toz bulutlarından oluştuğuna ilişkin teoriyi desteklediğini, Spitzer'in, görüntülerinin ''bir evin inşaatından arta kalan tuğlaları'' andırdığını söyledi. 
+     Weinberger, ''Bizim güneş sistemimiz dışında, gezegenler ve toz diski içeren başka bir yıldız sistemi tespit edilmemişti'' dedi. 
+     Spitzer'in daha önce gözlemlediği, çevresinde gezegen olan 20 yıldızın etrafında toz disklerinin tespit edilmediği, bunun da toz disklerinin teleskopun tespit edemeyeceği kadar ince olmasından kaynaklanmış olabileceği belirtildi. 
+     NASA'nın Spitzer teleskopuyla çalışan ekipten Charles Beichman, bu keşfin araştırmacılara kendi güneş sistemimiz dışında bir gezegen keşfetmeleri için ''nereye bakmaları gerektiği konusunda yardımcı olacağını'' belirtti. 
+     Yaklaşık 50 yıl önce, bilim adamları Kenneth Edgeworth ve Gerard Kuiper, birbirlerinden bağımsız olarak, Plüton'un yörüngesi dışında gezegenleri oluşturan maddeden artakalan bir kuşak bulunması gerektiğini öngördü. 
+     Son yıllarda yapılan teleskoplu gözlemler Kuiper Kuşağı denilen bu halkanın varlığını kanıtlamıştı. 
+     
+</TEXT>
+</DOC>

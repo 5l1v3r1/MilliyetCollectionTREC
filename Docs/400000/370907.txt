@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 370907 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/18/son/soneko41.html </URL>
+<DATE> 2005/08/18/ </DATE>
+<TIME> 18.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Piyasalarda bugün... 
+</HEADLINE>
+<TEXT>
+
+     Borsa'da işlem gören hisse senetleri bugün ortalama yüzde 0.34 değer kazandı. 
+     İstanbul Menkul Kıymetler Borsası İMKB Ulusal 100 Endeksi, 1. seansta 359. puan artarak 28,265.81 puandan kapandı. 2. seansta ise 265.81 puan azalan endeks, günü 28,000.00 puandan tamamladı. 
+     Endeks, günlük bazda 93.72 puan ve yüzde 0.34 yükseldi. 
+     Hisse senetleri piyasasında, toplam 793 milyon 404 bin 705 YTL'lik işlem hacmi kaydedildi. 
+     
+     DÖVİZ 
+     İstanbul'da serbest piyasada dün 1.3730 YTL'den kapanan dolar güne 1.3700 YTL'den, 1.6850 YTL'den kapanan avro 1.6780 YTL'den başladı. 
+     Kapanışta doların satış fiyatı 1.3710 YTL, avronun satış fiyatı 1.6700 YTL oldu. 
+     Merkez Bankası, doların bugünkü efektif kurunu alışta 1.3596 YTL, satışta 1.3693 YTL olarak açıkladı. 
+     
+     TAHVİL-REPO 
+     İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda işlem gören 7 Mart 2007 vadeli, bugün valörlü tahvilin basit getirisi yüzde 17.17, bileşik getirisi yüzde 16.44'ten kapandı. 
+     Bu kağıdın bugün valörlü işlemlerinin bileşik getirisi, dünkü kapanışa göre 0.01 puan yükseldi. 
+     İMKB Tahvil ve Bono Piyasası Repo-Ters Repo Pazarı'nda gecelik işlemlerde faiz ortalama yüzde 14.27'den gerçekleşti. Gecelik işlemlerde en düşük oran yüzde 14.20, en yüksek oran yüzde 14.40 oldu. 
+     
+</TEXT>
+</DOC>

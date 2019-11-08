@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 198707 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/29/son/sontur43.html </URL>
+<DATE> 2003/11/29/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+HP'den dijital kağıt, kalem... 
+</HEADLINE>
+<TEXT>
+
+     HP, dünyanın ilk dijital kağıt ve kalemini üretti. 
+     HP Form Otomasyon Sistemi adı altında geliştirilen dijital kağıt ve kalem, çeşitli nedenlerle formlarla çalışmak zorundaki firmaların iş yükünü azaltılmasını, işlerin hızlandırılmasını ve maliyetlerin aşağı çekilmesini hedefliyor. HP Form Otomasyon Sistemi HP Dijital Kalem 200, HP Workflow Connect 200 yazılımı ve HP Transaction Pack 200'den oluşuyor. 
+     HP Dijital Kalem 200, yazıları kamerasıyla kaydediyor ve dahili belleğinde saklıyor. Daha sonra ana bilgisayara bir USB bağlantısı aracılığıyla transfer ediyor. 
+     Kalemin ergonomik tasarımı ve kısa ısınma süresi mobil kullanıcılar için büyük rahatlık anlamına geliyor. Kartuş, güç algılayıcısı, kamera ve işlemciden meydana gelen karmaşık bir mimariye sahip olan Dijital Kalem, basılmış olan ve akıllı zemine sahip eski formları da tanıyabiliyor. 
+     Dijital Kalem, belleğinde 50 adede kadar form saklayabiliyor. Saklanan bilgiler şifrelenerek tutulduğu için maksimum güvenlik altında bulunuyor. üzerindeki göstergeler yardımıyla da ne kadar batarya ömrünün kaldığını gösterebiliyor. Batarya, kalemin bir iş günü boyunca bilgisayarla senkronize edilmeden çalışmasını sağlayacak güce sahip. 
+     HP Transaction Pack 200 ise Dijital Kalem'den bilgisayara aktarılan formların hesabını tutma görevini üstleniyor. Yapılan bir araştırmaya göre klasik anlamda kağıt formlar ve bunları tarama masrafları form başına 90 cent tutuyor. HP Form Otomasyon Sistemi'nde form başına maliyet ise 20 cent'e kadar düşüyor. 
+     www.hp.com internet adresinden ayrıntılı bilgi alınabiliyor. 
+     
+</TEXT>
+</DOC>

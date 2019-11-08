@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 276761 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/02/son/soneko02.html </URL>
+<DATE> 2004/10/02/ </DATE>
+<TIME> 00.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones ve Nasdaq yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     New York borsasında Dow Jones ve Nasdaq endeksleri yükseldi. 
+     Borsanın temel göstergesi Dow Jones 112.38 puan yükselerek 10,192.65 puandan kapandı. Teknoloji endeksi Nasdaq ise 45.36 puan kazanımla 1.942.20 puana çıktı. 
+     
+</TEXT>
+</DOC>

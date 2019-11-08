@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 325848 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/22/son/sondun45.html </URL>
+<DATE> 2005/03/22/ </DATE>
+<TIME> 21.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ağır uykuculara, "yürüyen saat" 
+</HEADLINE>
+<TEXT>
+
+     Kurdukları saate rağmen sabahları uyanamayanlar için ''yürüyen saat'' icad edildi. 
+     Massachusetts Institute of Technology'nin MIT ABD'deki medya laboratuarında üretilen saat, alarm çaldığında biraz daha fazla uyuyabilme şansı tanıyan düğmeye defalarca basan ve sonunda uyanmaları gereken saati kaçıranların işine yarayacak. 
+     New Scientist dergisinde çıkan habere göre, bu düğmeye basıldığında, saat, kurulan tekerlekli sistem sayesinde masanın üzerinden odanın bir başka köşesine ilerliyor. Alarm yeniden çaldığındaysa uyanan kişinin tekrar aynı düğmeye basmak için saati bulması, dolayısıyla yeniden yatağına dönmesi güçleşiyor. 
+     Bilim adamları, yeni icatlarına ''Clocky'' adını vermiş. 
+     
+</TEXT>
+</DOC>

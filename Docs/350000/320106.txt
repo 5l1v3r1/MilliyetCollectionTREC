@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 320106 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/02/son/sontur28.html </URL>
+<DATE> 2005/03/02/ </DATE>
+<TIME> 12.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Eczanelerde kuyruklara neden olan provizyon sorunu çözüldü 
+</HEADLINE>
+<TEXT>
+
+     Çalışma ve Sosyal Güvenlik Bakanlığı'nın aldığı önlemlerin ardından, SSK'lıların serbest eczanelerden ilaç alımında eczanelerin provizyon sistemine girememesi nedeniyle yaşanan sorunlar çözüldü. 
+     Alınan bilgiye göre, SSK'lıların serbest eczanelerde oluşturdukları kuyruklar, bilgisayar sisteminde yürütülen çalışmalar sonucunda bitirildi. 
+     SSK'lıların serbest eczanelerden yararlanması uygulaması, 10 Şubat günü, 7 bin serbest eczane anlaşma yapılarak başlandı. 
+     Uygulamanın ilk gününde, bilgisayar sistemindeki aksaklıklar ve hastaların yoğun talebi nedeniyle sistemde kilitlenmeler yaşandı. Bu sıkıntılara, SSK hastanelerinin Sağlık Bakanlığı'na devrinin ardından SSK eczanelerinin kapanması da eklenince yoğunluk arttı ve eczanelerin önünde uzun kuyruklar oluştu. 
+     Uygulamanın başladığı 10 Şubat günü, yalnızca 79 bin 761 reçeteye provizyon verilerek, 285 bin 71 kutu ilaç için işlem yapılabildi. Yaşanan sıkıntıların ardından Çalışma ve Sosyal Güvenlik Bakanlığı, Türk Telekom aracılığıyla SSK'nın internet bağlantı hızını 34 megabitten 100 megabite çıkararak, eczanelerin SSK sistemine erişiminin önündeki sorunları ortadan kaldırdı. 
+     Anlaşmalı eczanelerin sisteme sorunsuz ve kolay ulaşmalarıyla birlikte yapılan işlemlerin sayısında da artış gözlendi. 
+     Buna göre, 28 Şubat günü yaklaşık 16 bin anlaşmalı eczane, 345 bin 414 reçetenin işlemini yaparak, 1 milyon 345 bin 949 ilacı hastalara verdi. 
+     Uygulamanın 10-28 Şubat günlerini kapsayan döneminde, toplam 3 milyon 238 bin 160 reçete işlem gördü. Bu reçetelerle toplam 110 milyon 388 bin 260 YTL değerinde, 11 milyon 695 bin 21 ilaç verildi. 
+     Uygulamanın başladığı günden bu yana geçen 19 günde, provizyon sisteminden kaynaklı aksaklıkların giderilmesiyle işlem gören reçete sayısında gün gün artış olduğu gözlendi. 
+     Bu arada, Ankara Eczacı Odası yetkilileri, dün itibariye provizyon sistemine girme konusunda 2 örnek dışında, kendilerine herhangi bir şikayet gelemediğini belirttiler. 
+     Ankara Eczacı Odası, bilgisayar sistemindeki aksaklığın giderilmesinin yeterli olmayacağını belirterek, SSK ile yapılan anlaşmadaki bazı prosedürler nedeniyle zorluk yaşadıklarını, bunların kaldırılmasını istediler. 
+     
+</TEXT>
+</DOC>

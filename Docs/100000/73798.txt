@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 73798 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/03/21/son/soneko01.html </URL>
+<DATE> 2002/03/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Wall Street düştü... 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Borsası'nın Dow Jones Sanayi Endeksi günü 133.68 puan düşüşle yüzde 1.26 10,501.57 puandan kapadı. 
+     Teknoloji sektörü ortaklıklarının ibresi Nasdaq Birleşik Endeksi de 47.91 puün düşüşle yüzde 2.55 1,832.96 puandan günü kapattı. 
+     Yatırımcıların kar amaçlı satışlarının yanı sıra, Intel ve Juniper Networks şirketlerinin zayıf durumu, New York menkul kıymetler borsası Wall Street'in bugünkü açılışında düşüşe neden oldu. 
+     Wall Street'in bugünkü açılışından bir saat sonra Dow Jones Endeksi 63.10 puan kayıpla binde 6 10,572.15 puana indi. Endeks, dün bu yılın en yüksek düzeyinde 10,635.25 puandan kapanmıştı. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

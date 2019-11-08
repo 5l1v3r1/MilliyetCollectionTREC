@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 227749 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/01/son/sonyas19.html </URL>
+<DATE> 2004/04/01/ </DATE>
+<TIME> 17.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kalp krizi riskini tahmin eden bilgisayar programı... 
+</HEADLINE>
+<TEXT>
+
+     Avrupa Kardiyoloji Derneği'nin ESC , kişilerin 10 yıl içindeki kalp krizi ve inme riskini tahmin etmeye yardımcı olabilecek yeni bir bilgisayar programı geliştirdiği bildirildi. 
+     ESC'nin geliştirdiği ''HeartScore'' isimli programın, tansiyon, kolesterol, yaş, cinsiyet, sigara kullanımı gibi kişisel verileri değerlendirerek, risk tahmini yapabildiği belirtildi. 
+     Program, toplam riski gösteren yazılı risk kartlarının aksine, doktorun ve hastanın değişen risk faktörlerini görmesine imkan tanıyor. Örneğin, bir hasta sigarayı bırakırsa bu değişiklik programa yansıtılıyor. 
+     ESC Başkanı Profesör Jean-Pierre Bassand, ''HeartScore, doktorların hastalarıyla risk faktörlerini tahmin etmeleri ve tartışmalarına yardım eden çok iyi bir araç'' dedi. 
+     Bassand, kardiyovasküler hastalıkların Avrupa'da en yaygın ölüm nedeni olduğunu söyleyerek, geliştirilen programın hastalığın önlenmesi ya da en azından ertelenmesi için yararlı olabileceğini belirtti. 
+     Doktorların bu programı, ESC'nin internet sitesi ''www.escardio.org HeartScore'' adresinden ücretsiz indirebileceği kaydedildi. 
+     
+</TEXT>
+</DOC>

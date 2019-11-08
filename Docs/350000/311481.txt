@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 311481 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/01/son/sontur58.html </URL>
+<DATE> 2005/02/01/ </DATE>
+<TIME> 21.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Uluslararası İnternet kablosundaki arıza giderildi 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekom'un yurtdışı internet erişimini sağlayan alternatif kablolarından birisi olan, İstanbul-İtalya arasındaki MEDTÜRK denizaltı kablo arızasının giderilerek hizmete girdiği bildirildi. 
+     Türk Telekom'dan yapılan yazılı açıklamada, İstanbul-İtalya arasındaki MEDTÜRK denizaltı kablo sisteminde 16 Ocak'ta kopma meydana geldiği hatırlatıldı. 
+     Açıklamada, daha önce hizmete verilen kapasitelerle birlikte Türk Telekom kapasitesinin yedekleri ile hizmet vermeye devam edeceği belirtildi. 
+     Telekom, daha önce, MEDTÜRK kablosundaki onarım çalışmalarının denizdeki olumsuz hava koşulları nedeniyle uzadığını açıklamıştı. 
+     
+</TEXT>
+</DOC>

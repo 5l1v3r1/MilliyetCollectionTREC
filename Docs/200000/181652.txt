@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 181652 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/11/son/sondun08.html </URL>
+<DATE> 2003/09/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Windows'ta tehlikeli bir açık daha... 
+</HEADLINE>
+<TEXT>
+
+     Microsoft'un Windows işletim sisteminin son sürümleri olan XP, 2000, Server 2003 ve NT 4.0'da ciddi bir açık daha ortaya çıkarıldı. 
+     Bu programlarda, bilgisayarların aynı şebeke üzerinde birlikte çalışmalarına imkan veren özellikte bulunan açıktan yararlanan bilgisayar korsanlarının, kullanıcıların bilgisayarını ele geçirmesinin mümkün olduğu belirtildi. Windows'un eski sürümleri olan ME, 98 ve 95 ise bu açıktan etkilenmiyor. 
+     Bilgisayar korsanlarının ele geçirdikleri bilgisayarların içindeki verileri silebilecekleri ya da bilgisayara istenmeyen programlar yerleştirebilecekleri ifade edildi. 
+     Microsoft, temmuz ayında da Windows işletim sisteminde benzeri bir açık daha olduğunu duyurmuş bu yoldaki açıklamanın ardından ortaya çıkan Blaster böceği yüz binlerce bilgisayarı etkilemişti. Yeni açığın bulunmasından sonra ne gibi gelişmeler olacağı şimdilik bilinmiyor. 
+     Microsoft yetkilileri son bulunan açığı kapatmak için hazırlanan yamanın www.microsoft.com security sitesinden ücretsiz olarak indirilebileceğini duyurdular. Microsoft yöneticileri, ayrıca kullanıcıların Windows iyileştirmelerini düzenli olarak yapmalarını ve bilgisayarlarına etkili bir ''ateş duvarı'' koymalarını da istediler. 
+     
+</TEXT>
+</DOC>

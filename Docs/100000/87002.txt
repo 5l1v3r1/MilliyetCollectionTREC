@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 87002 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/05/30/son/soneko22.html </URL>
+<DATE> 2002/05/30/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa yılın en düşük seviyesinde 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeksi, bugün 2. seansta 10,508.09 puandan kapanarak, yılın en düşük seviyesine geriledi. 
+     Başbakan Bülent Ecevit'in Milli Güvenlik Kurulu MGK toplantısına katılamayacağının açıklanmasının ardından ilk seansı 10,669.26 puandan kapatan endeks, 2. seansta da kaybını sürdürdü. 
+     2. seansta en düşük 10,323.71, en yüksek de 10,669.26 puanı gören 
+     endeks, günlük bazda 298.45 puan kayıpla 10,508.09 puandan günü kapattı. Hisse senetlerinin günlük değer kaybı ise yüzde 2.76 oldu. Bu yıl içinde endekste en düşük değer 13 Mart'ta 10,594.02 puan olarak kaydedilmişti. 
+
+     
+</TEXT>
+</DOC>

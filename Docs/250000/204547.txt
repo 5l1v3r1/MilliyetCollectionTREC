@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> 204547 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/26/son/sondun11.html </URL>
+<DATE> 2003/12/26/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+2003'ün en önemli 10 bilimsel buluşu... 
+</HEADLINE>
+<TEXT>
+
+     Ünlü Amerikan Science Bilim dergisi, 2003'ün en önemli 10 bilimsel buluşunu seçti. 
+     Dergi, bilim alanında önemli ilerleme olarak görülen bu buluşları şöyle sıraladı 
+     1- Evrendeki bütün galaksiler ve her şeyin, astronomların deyişiyle ''kara enerji'' tarafından artan bir hızla birbirinden uzağa itilmekte olduklarının kanıtlanması. 
+     Büyük Patlama'dan hemen sonraki dönemden kalan ışık ve ışınımları radyasyon inceleyen iki araştırma, evrenin genişlediğinin gerçek olduğunu kanıtladı. Bu çalışmalardan biri, evrenin yaşının 13.7 milyar yıl olduğunu bile hesapladı. 
+     2- Aile üyelerine genetik olarak geçen şizofreni, depresyon ve diğer sinir hastalıklarının riskini artıran belirli gen değişkenlerinin nasıl çalıştıklarının tanımlanması. 
+     Araştırmacılar bir genin depresyon riskini artırdığını, ancak bunun o kişi ağır stres yaşarsa gerçekleştiğini belirlediler. 
+     3- Küresel ısınmanın iklimi, okyanus akıntılarını, hayvanları ve bitkileri etkilemeye başladığını gösteren kanıtların artması. 
+     Küresel ısınmayı buzulların erimesi, kuraklık, bitki üretimindeki düşüş ile bitki ve hayvan davranışlarındaki değişimlere bağlayan yeni kanıtlar ortaya çıktı. 
+     4- RNA'nın bitki ve hayvanlarda da etkili olduğunun belirlenmesi. 
+     Eskiden RNA'nın sadece, hücre içinde aminoasitlerin oluşturulmasında DNA'nın emirlerini taşıyıcı rolü olduğu düşünülürdü. 
+     Ancak yeni çalışmalar RNA formlarının, kök hücre ve embriyo gelişmelerini etkileyerek gen biçimleri ve embriyonik gelişmeyi belirleyip değiştirebildiğini ortaya çıkardı. 
+     5- Tek bir molekülü izleme ve yönlendirme yeteneğinin artması. Yeni güçlü görüntüleme sistemleri bilim adamlarının tek bir protein molekülünün hücre ve hücre zarları içindeki hareketlerini gözleme imkanlarını artırdı. 
+     6- Evrendeki en güçlü enerji oluşumlarından biri olan Gama ışını patlamalarının büyük yıldızların patlamalarıyla oluşan süper novalarla ilişkili olduğunun doğrulanması. Gözlemciler, bir süpernova patlamasının bir parlak gama ışını patlamasıyla ilişkisini tespit ettiler. 
+     7- Bir farenin embriyonik kök hücresinin ya sperm ya da yumurta hücresine dönüşmeye sevk edilebileceğinin keşfedilmesi. Bu keşif kısırlık sorununun bazı türlerinin anlaşılmasına yardımcı olabileceği belirtiliyor. 
+     Ancak bu buluş, insanın embriyonik kök hücrelerinin de ileride bir gün kopyalama ve diğer çalışmalarda kullanılmak üzere insan yumurtası kaynağı olarak kullanılabilme ihtimalini doğurdu ve geniş çevrelerde kök hücre çalışmalarının ve kopyalamanın insani olup olmadığını sorgulayan etik tartışmalarını başlattı. 
+     8- Bazı yüksek teknoloji ürünü maddelerinin ışığı normal olarak görüldüğü yönün tersine döndürebileceğinin belirlenmesi. 
+     Bu buluş yüksek kaliteli lenslerin yapılmasına yol açabilir. 
+     9- İnsan kromozomlarının en küçüğü ve erkek cinsini belirleyen Y kromozomunun, kopya gerektiğinde kullanılabilecek genleri yeniden ürettiği ortaya çıktı. Bunu diğer kromozomlar yapamıyor. 
+     10- Kanserin nihai tedavisi olarak gösterilen bir tedavi şekli 2003'de ilk kez başarısını kanıtladı. Antiangiogenesis denen bir ilaç, tümörlerin kanserin büyümesini beslemek için gerekli olan kan taşıyıcıları yapmasını engelliyor. İlacın kolon kanseri hastalarının yaşam süresini uzattığı belirlendi. Antiangiogenesis ilacının 60 kadar değişik çeşidi şimdi kliniklerde deneniyor. 
+     
+</TEXT>
+</DOC>

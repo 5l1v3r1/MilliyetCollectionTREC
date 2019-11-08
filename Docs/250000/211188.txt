@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 211188 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/26/yazar/oztrak.html </URL>
+<DATE> 2004/01/26/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> FAİK ÖZTRAK  </AUTHOR>
+<HEADLINE>
+Döviz kurunun borca azizliği 
+</HEADLINE>
+<TEXT>
+
+   
+   Hazine geçtiğimiz hafta 2003 yılının borçlanma rakamlarını yayımladı. Borcun sürdürülebilir olması, ekonomi politikalarında radikal bir değişimi gerektirmemesi demektir. Göstergesi ise borcun gayri safi milli hasılaya GSMH oranının artmamasıdır. Kamu borcu yüksek ülkelerde, bu oranın azalması beklenir. AB ye üyelik süreci de dikkate alındığında ülkemizin bu oranı düşürmesi şarttır. 
+   
+      Açıklanan dolar cinsinden borç stokunu 2004 yılı programında yer alan dolar cinsinden 2003 yılı GSMH tahminine oranlayarak yukarıdaki tablo hazırlanmıştır. Bu rakamlar 2003 yılında Hazine'nin borcunun GSMH içindeki payının arttığını göstermektedir. Bu durum, ilk bakışta bir sürdürülebilirlik sorunu olarak değerlendirilebilir. 
+   
+      Ancak, TL cinsinden iç ve dış borç rakamlarını kullanarak elde ettiğimiz aşağıdaki tablo ise tam tersi bir sonuca işaret ediyor. Toplam borcun GSMH içindeki payı önemli ölçüde düşmektedir. 
+   Yıl sonu borç stoku rakamları yıl sonu kuru kullanılarak hesaplanır. Buna karşılık GSMH hesaplarında kurun o yıl içinde ortaya çıkan ortalama değeri kullanılır. Ortalama kur ile yıl sonu kurunun birbirine yakın bir yıllık değişme kaydetmesi halinde dolar veya TL cinsinden hesaplanan borç rakamlarında bu boyutta bir faklılık olması beklenmez. 
+   
+      2003 yılında doların TL karşısında nominal olarak yılın ikinci yarısında hızla değer yitirmesi aşağıdaki tabloda görüldüğü gibi ortalama ve yıl sonu kurlarındaki nominal değişimin çok farklılaşmasına yol açtı. Bir diğer deyişle, kurun GSMH'nin dolar değeri üzerindeki etkisi iç borcun dolar değeri üzerindeki etkisine oranla daha sınırlı kaldı. Bu da dolar cinsinden borç GSMH oranının yüksek gözükmesine neden oldu. Hesabı TL cinsinden yaptığımızda ise dolar cinsinden dış borcun TL karşılığı düştüğü için tam tersi bir sonuçla karşılaştık. 
+   Bu göstergeler yerli ve yabancı yatırımcıların ileriye dönük değerlendirmelerinde önemlidir. Ortaya çıkan bu iginç durumun iç ve dış kamuoyuna iyi izah edilmesi geleceğe dönük değerlendirmelerin sağlıklı olması bakımından önem taşıyor. 
+   Döviz kurunun sene içindeki dalgalanmasından kaynaklanan bu ilginç durumu bir yana bırakırsak, TL'nin dolar karşısında reel değer kazanmasının borç dinamikleri üzerindeki olumlu etkisi olmuştur. Aşağıdaki tablo mevcut durum ile 2003 yılında ortalama ve yıl sonu kurunun sırasıyla TEFE'nin yıllık ortalama ve 12 aylık artışları kadar artması, bir diğer deyişle TL'nin reel değer kazanmaması, halinde ortaya çıkabilecek durumu karşılaştırmaktadır. 
+   
+      TL'nin dolar karşısında reel olarak değerlenmesi Borç GSMH oranını yaklaşık 8 puan aşağı çekmektedir. Pek de kendi irademizle ortaya çıkmayan reel kurdaki gelişme borç dinamiklerindeki iyiye gidişe rağmen kırılganlığın devam ettiğini ortaya koymaktadır. TL'nin reel olarak değer kazanmasının verimlilik artışları ile desteklenmemesi halinde ne ölçüde sürdürülebilir olacağı tartışmalıdır. 
+   Önümüzdeki dönemde yabancı yatırımcıların yükselen piyasa ekonomilerine mevcut ilgisinin süreceğine dair şüpheler vardır. Bu durum 2004 yılında da mali disiplinin korunması ve yapısal reform takviminin tavizsiz uygulanması ile ekonominin içsel dayanıklılığının artırılmasının önemini bir defa daha ortaya koymaktadır. 
+   
+   NOT 1. Bu çalışmada Hazine borcundan Merkez Bankası'nın net varlıkları ve kamu mevduatının düşülmesi ve merkezi idare dışında kalan kurumların borcunun ilavesi suretiyle hesaplanan net kamu borcu kavramı kullanılmamıştır. 
+   
+   2. Veriler Hazine Müsteşarlığı web sayfasından ve Devlet Planlama Teşkilatı'nın hazırladığı 2004 yılı programından alınmıştır. 2003 yılı GSMH ve ortalama kur rakamları programda açıklanan gerçekleşme tahminleridir. 
+   
+      
+   
+</TEXT>
+</DOC>

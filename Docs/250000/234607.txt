@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 234607 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/25/son/sondun08.html </URL>
+<DATE> 2004/04/25/ </DATE>
+<TIME> 10.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+KKTC'de resmi sonuçlar açıklandı... 
+</HEADLINE>
+<TEXT>
+
+     KKTC Yüksek Seçim Kurulu YSK , dün yapılan referandumun resmi sonuçlarını ilan etti. 
+     Kurul'un ilan ettiği sonuçlar bugün Resmi Gazete'de yayımlanmak üzere Devlet Basımevi'ne gönderildi. 
+     YSK'nın ilan ettiği sonuçlar şöyle 
+     Seçmen sayısı 143.639. 
+     Oy kullanan seçmen Sayısı 121.162. 
+     Geçerli oy sayısı 119.618. 
+     Seçime katılma oranı yüzde 84.35. 
+     Evet oylarının toplamı 77.702. 
+     Hayır oylarının toplamı 41.916. 
+
+     
+</TEXT>
+</DOC>

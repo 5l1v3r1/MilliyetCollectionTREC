@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 183982 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/22/son/sontur30.html </URL>
+<DATE> 2003/09/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İstiklal caddesi'nde kablosuz internet... 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Büyükşehir Belediyesi'nin bağlı şirketlerinden İGDAŞ'ın öncülüğünde, Koç.net ve Cisco Systems'in teknolojik desteğiyle Türkiye'de ilk kez İstiklal Caddesi'nde kablosuz internet erişimi hizmete sokuldu. 
+     İstiklal Caddesi'nin Taksim girişinden, Galatasaray Lisesi'ne kadar olan bölümü kapsayan kablosuz internet erişim projesinin tanıtımı amacıyla Taksim Meydanı'nda düzenlenen törende konuşan İstanbul Büyükşehir Belediye Başkanı Ali Müfit Gürtuna, bugün birçok insan için bilgisayar ve internetin vazgeçilmezler arasına girdiğini belirterek, ''artık dünyada bilgi ve teknolojinin es geçilemeyeceğini'' söyledi. 
+     Türkiye'de ilk defa gerçekleştirdikleri bu uygulama ile İstiklal Caddesi'nde kablosuz olarak internete bağlanabilmenin mümkün olacağını ifade eden Gürtuna, ''Bu büyük bir kolaylık. Dizüstü bilgisayarınız veya mobil cihazınız yanınızda ise cadde boyunca açık alanda veya bir kafede oturup internet bağlantınızı yapabilirsiniz'' dedi. 
+     Gürtuna, İstanbul Büyükşehir Belediyesi'nin e-belediyecilikte öncü olduğunu ve belediye içinde bilgisayar kullanımının her alanda yaygınlaştığını belirterek, belediyede beyaz yakalılar arasında yapılan bir ankette, bilgisayar kullanım oranının yüzde 63 ile İspanya, İtalya, Portekiz ve Japonya gibi ülkeleri geride bıraktığını söyledi. 
+     Gürtuna, ''E-İstanbul projesini geliştirdik. E-uygulamayı İstanbullu'nun hayatına yerleştirmeyi amaçlıyoruz. E-ulaşım dünyada öncü olduğumuz bir proje. Çağın gerisinde değil ilerisindeyiz. Teknoloji üretmeye de başladık. Ürettiğimiz teknolojiyi İsrail'den Kolombiya'ya kadar bir çok ülkeye satıyoruz. Hedefimiz İstanbul'u bir teknokent haline getirmek. Aksi halde geri kalmış ülke oluruz ve dünyada hakettiğimiz saygın yere ulaşamayız'' diye konuştu. 
+     
+     ''ÜCRETSİZ UYGULAMADAN HERKES YARARLANABİLECEK'' 
+     İGDAŞ Genel Müdürü Süreyya Polat da şirketin teknolojik hizmetleri sadece müşterileriyle sınırlı tutmayarak bütün İstanbullular'a taşımayı hedeflediğini ve bu çerçevede New York, Paris ve Londra'da uygulanmakta olan ''kablosuz internet cadde'' uygulamasını, İstanbul halkına sunmak için harekete geçtiklerini söyledi. 
+     Türkiye'de ilk olan bu uygulamayla bilişimi sokağa taşıdıklarını ifade eden Polat, tarihi ve kültürel dokusu, hareketli yaşamı ve dinamizmi ile bilgi teknolojilerine yatkın insanları barındırması nedeniyle İstiklal Caddesi'nin seçildiğini kaydetti. 
+     Polat, Bu nedenle projeye ''Tarihle internetin buluşması'' adını verdiklerini belirtti. 
+     Kablosuz internet erişim altyapısının 11 MB gibi oldukça yüksek bir erişim hızı sunduğunu ve uygulamadan abonelik bedeli ve kullanım ücreti olmadan herkesin yararlanabileceğini belirten Polat, projenin sınırsız hareket imkanı, zaman ve maliyetten tasarruf sağlayarak verimlilik artışı sağlayacağını söyledi. 
+     
+     ''E-BELEDİYECİLİK ÇALIŞMALARINA ÖRNEK'' 
+     Koç.Net Genel Müdürü Bülent Yıldırım da projenin, Türkiye'nin bilgi toplumu olma yolunda kamu-özel sektör işbirliğiyle gerçekleştirilen örnek bir proje olduğunu ve e-belediyecilik çalışmalarına da örnek teşkil etmesi açısından önemli olduğunu anlattı. 
+     Cisco Systems Türkiye Genel Müdürü Suat Baysan da Türkiye'ye yurtdışından gelen 10 milyon ziyaretçinin yüzde yarımında dizüstü bilgisayar bulunduğu varsayılırsa, 50 bin potansiyel kullanıcının bulunduğunu ve her ziyaretçinin 20 dolarlık internet bağlantısı gerçekleştirmesi halinde kısa sürede 1 milyon dolarlık pazar yaratabileceğini kaydetti. Baysan, yerli kullanıcı sayısıyla birlikte bu oranın toplam 2 milyon dolarlık bir gelire ulaşabileceğini sözlerine ekledi. 
+     Törende daha sonra Gürtuna, Polat, Yıldırım ve Baysan, dizüstü bilgisayarlardan kablosuz olarak internete bağlandılar. 
+     
+</TEXT>
+</DOC>

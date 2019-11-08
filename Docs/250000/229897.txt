@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 229897 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/09/son/soneko02.html </URL>
+<DATE> 2004/04/09/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones düştü... 
+</HEADLINE>
+<TEXT>
+
+     New York menkul kıymetler borsasında Dow Jones endeksi günü düşüşle, Nasdaq endeksi yükselişle kapadı. 
+     Dow Jones 38,12 puan düşüşle 10.442,03'e gerilerken, Nasdaq 2,62 puan artışla 2.052,86'ya yükseldi. 
+     
+</TEXT>
+</DOC>

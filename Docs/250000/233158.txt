@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 233158 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/20/son/soneko40.html </URL>
+<DATE> 2004/04/20/ </DATE>
+<TIME> 14.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilişim Zirvesi'nde geri sayım başladı... 
+</HEADLINE>
+<TEXT>
+
+     Bilişim Zirvesi'04, 31 Ağustos-2 Eylül tarihleri arasında Lütfi Kırdar Kongre ve Sergi Sarayı'nda gerçekleştirilecek. 
+     Türkiye Bilişim Derneği TBD , Türkiye Bilişim Vakfı TBV , Türkiye Bilişim Sanayici ve İşadamları Derneği TÜBİSAD , Türkiye Teknoloji Geliştirme Vakfı TTGV , Türkiye Zeka Vakfı'nın TZV işbirliği ve İnterpro A.Ş.'nin yönetimiyle gerçekleşecek zirvenin sloganı, ''Küresel Rekabette Bilgi Gücü'' olarak belirlendi. 
+     Bilişim Zirvesi'ne, iş süreçlerinde teknolojiye gereksinim duyan her sektörden kuruluşların üst düzey yöneticileri, karar vericileri ve uluslararası katılımcılardan oluşan 5 bin kişinin katılması bekleniyor. 
+     Bilişim Zirvesi'04 bilgilendirme toplantısında konuşan Zirve Yürütme Kurulu Başkanı Zafer Kurdakul, geçen yılki zirveye yüzde 73'ünü erkeklerin oluşturduğu 4 bin 854 kişinin katıldığını, yaş ortalamasının da 35 olduğunu söyledi. 
+     Katılımın niteliksel olarak üst düzeyde bulunduğunu ifade eden Kurdakul, bu yıl 3 güne yayılan zirvede 3-4 parelel oturum olacağını, daha yoğun ve büyük toplantılar yapacaklarını belirtti. 
+     Soruları da yanıtlayan Kurdakul, çoğu bilişim ağırlıklı 12 sivil toplum kuruluşunun zirveyi desteklemesini arzu ettiklerini, bunlardan 3'ünün olumlu cevapla kendilerine geri döndüğünü, diğerlerinin ise henüz resmileşmediğini kaydetti. 
+     
+     ''TRENİ KAÇIRMADIK'' 
+     TBD Başkanı Rahmi Aktepe de, geçen yıl bu etkinlik kapsamında yer almadıklarını hatırlatarak, ''Basından önemli eleştiriler gelmişti. Bu dönemi yarış değil birlikteliğin oluşturduğu dönem olarak algılıyoruz ve etkinliğe katılıyoruz'' dedi. 
+     Türkiye'nin bilgisayar olan hane sayısı bakımından 22 ülke arasında 21. sırada, internet kullanıcı sayısı bakımından da 28 ülke arasında 26. sırada yer aldığını bildiren Aktepe,''Acaba biz bu treni kaçırdık mı Hayır. Bardağın dolu tarafını değerlendirdiğimizde Türkiye'nin bir eşik noktasında olduğunu görüyoruz. Tek partili hükümet, e-dönüşüm icra kurulunun olması ve burada sivil toplum örgütlerinin yer alması... Türkiye'yi bilişim toplumuna taşıyan o eşiği atlatma görevinin bizlerde olduğunu düşünüyoruz'' diye konuştu. 
+     Soruları da yanıtlayan Aktepe, hükümetin kabul gören, öncelikli projeleri destekleyeceğini söyledi. 
+     Aktepe, OECD rakamlarına göre gelişmiş ülkelerin istihdamlarının yüzde 80'e varan kısmının bilişim teknolojileri konusunda olacağını ifade ederek, Türkiye'de bu alanda gerekli yatırım yapıldığı takdirde istihdam konusuna da çözüm getirilmiş olacağını kaydetti. 
+     
+     FARUK ECZACIBAŞI 
+     TBV Başkanı Faruk Eczacıbaşı da, bir dönüşüm ortamında olunduğunu belirterek, ''Bütün dünya dönüşüm ortamı içinde. At değiştirirken düşme tehlikesiyle karşı karşıyayız'' dedi. 
+     Türkiye'nin bu toplumsal, ekonomik değişimi şimdiye kadar doğru dürüst beceremediğini ifade eden Eczacıbaşı, ''Bu değişimi gerçekleştirmek için elimizde çok büyük imkanlar var. Ankara'da e-dönüşüm kurulu oluşturuldu. Şimdiye kadar söylediklerimizi pratiğe geçirme zamanı geldi'' dedi. 
+     TÜBİSAD Başkanı Erol Bilecik de, Türkiye'nin yeni bir vizyona ihtiyacı olduğunu, bunun da Türkye'nin bilişimle kalkınması şeklinde adlandırılması gerektiğini belirtti. 
+     Hizmet alanında markalaşmanın hedeflenmesini isteyen Bilecik, ''Kendi teknolojimizi, kendi yazılımımızı ihraç etmekten başka çare yok'' diye konuştu. 
+     Bir soru üzerine de Bilecik, IT sektörünün bu seneki büyüklüğünü 2-2.5 milyar dolar olarak beklediklerini, bu konudaki 300 milyon dolarlık bütçenin yetersiz olduğunu belirterek, ''Hükümet inşallah bütçe içinde yer almayan yapıyla IT hacmini yüzde 15-20 artırır'' dedi. 
+     Türkiye Zeka Vakfı Başkanı Emrehan Halıcı da, hükümetin şu anda bilişim sektörüne bakışını olumlu bulduğunu dile getirdi. 
+     
+</TEXT>
+</DOC>

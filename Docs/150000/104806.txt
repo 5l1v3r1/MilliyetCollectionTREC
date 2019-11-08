@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 104806 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/08/30/son/sondun10.html </URL>
+<DATE> 2002/08/30/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Belçika'da "anti - radar" sorunu 
+</HEADLINE>
+<TEXT>
+
+     Hollanda'da faaliyet gösteren bir firmanın, internet kanalıyla, Belçika polisinin, taşıtların süratini ölçmek için kullandığı tüm radar sistemlerini etkisiz hale getiren bir cihazı pazarlaması adli sorun yarattı. 
+     ''Yuco Technologies'' isimli firma, ''yıllar süren bilimsel araştırmalar sayesinde üretilen'' sistemle, polis radarlarının, taşıtların süratini yüzde 30 ila yüzde 100 düşük belirlemesini sağlıyor. 
+     Taşıtlara yerleştirilen cihaz, radara sürat tespiti anında bir ''FM sinyali'' göndererek, sistemi yanıltmayı ve kayıtları değiştirmeyi başarıyor. 
+     Satıcı firma, 6 dilde yayın yaptığı internet sitesinde, alıcılara bir yıl radara yakalanmama güvencesi veriyor ve aksi halde, cezaları ödemeyi taahhüt ediyor. 
+     Cihazın satış fiyatı 1000 euro olarak gösteriliyor. 
+     Belçika polisi, yüzlerce sürücünün bu sistemi arabalarına yerleştirttiklerini belirlediğini açıklayarak, söz konusu yasadışı cihazı kullanan şoförlere 500 ila 5000 euro para cezası verileceğini, ehliyetlerinin geçici olarak iptal edileceğini duyurdu. 
+     ''Anti-radar'' sisteminin satışının Hollanda'da yasal olduğu, Belçika'nın adli açıdan tepki gösteremediği ifade ediliyor. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

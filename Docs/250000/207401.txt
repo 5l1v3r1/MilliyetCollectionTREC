@@ -1,0 +1,53 @@
+<DOC>
+<DOCNO> 207401 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/09/ekonomi/eko06.html </URL>
+<DATE> 2004/01/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Eurobond yatırımında ciddi riskler de var 
+</HEADLINE>
+<TEXT>
+
+   Finans atölyesi SONGÜL HATISARU 
+   
+   Şu anda Amerika'da ve Avrupa'da faizlerin çok düşük olması - ortalama yüzde 1.7 civarında - gelişmekte olan ülkeler kategorisinde yer alan Türkiye'nin uluslararası tahvillerine ilgiyi artırıyor. Önceki gün ihraç edilen 2034 vadeli Türk tahvili, aynı vadeli ABD tahvillerine göre yaklaşık 300 baz puan daha fazla getiri sağlıyor. Genellikle eurobond yatırımında yabancılar ön plana çıktığı için küçük yatırımcı bu enstrümanla ilgili olarak daha düşük risk algılamasına giriyor. 
+   Ancak her şeyden önce eurobond alan yatırımcı almış olduğu tahvilin ait olduğu ülkenin uzun vadeli riskini de üstlenmiş oluyor. Dolayısıyla ülkenin olası bir borç ödeme güçlüğüne düşmesi durumunda eurobond sahiplerine yapılacak ödemelerde iptal edilebiliyor veya dondurulabiliyor. 
+   
+   Rusya örneği 
+   Hatırlanacağı gibi 1998 yılında Rusya borç ödeme güçlüğüne düşüp moratoryum ilan etmişti. Dolayısıyla 30 - 35 yıllık vadede ülke riskini alan yatırımcı yatırım yaptığı ülkenin bu süreç içerisine herhangi bir borç ödeme güçlüğü içine girmeyeceğini düşünüyor. Zaten ülkeler arasındaki eurobond faiz farklılıkları da bu risk algılamasının bir sonucu olarak karşımıza çıkıyor. Bu nedenle eurobond yatırımı yapacak yatırımcının yatırım yaptığı ülkeyi yakından takip etmesi ve olumsuz sinyaller alındığında pozisyonunu kapatması gerekiyor. 
+   
+   1- Eurobond nedir 
+   Hazine'nin dış piyasalardan borçlanmada kullandığı ve yabancı yatırım bankalarının aracılık yaptığı ihraçlarda satılan tahvillere eurobond deniyor. 
+   
+   2- Türkler yatırım yapabilir mi 
+   Eurobondlara isteyen herkes yatırım yapabilir. 
+   
+   3- Nereden alınabilir 
+   Eurobond tüm bankalardan alınabiliyor. 
+   
+   4- Ne kadarla alınabilir 
+   Birçok banka asgari yatırım tutarını düşürdü. Şu anda birçok banka 1.000 dolar ve katlarına eurobond satışı yapıyor. 
+   
+   5- Kazanç nasıl oluşuyor 
+   Eurobond, fiyatın yükselmesi faizin düşmesine bağlı olarak değer kazanıyor. 100 birim nominal değerle alınan bir eurobondun fiyatı, 140 dolar seviyesine yükseldiğinde yatırımcı bonosunu sattığında aradaki 40 doları kazanıyor. Yatırımcı bir de bu kağıtların üzerindeki kupon faizini alıyor. 
+   
+   6- Kupon faizi nasıl ödeniyor 
+   Mesela, yeni tahvil için kupon faizi altı ayda bir olmak üzere yılda iki kere dünkü fiyattan alındığı varsayımıyla yüzde 7.85 olarak ödeniyor. Yani 10.000 dolarlık bir yatırımın dünkü fiyatlarla yıllık kupon getirisi 785 dolar oluyor. 
+   
+   7- Tahvil - kur ilişkisi nasıl işler 
+   Dün itibariyle 10.000 dolarlık yatırım yapmak için 13 milyar 670 milyona sahip olmanız gerekiyor. Daha net görülmesi amacıyla bononun hiç prim yapmadığı varsayımıyla hesaplama yapıldığında bononuzu elden çıkardığınızda kur 1.300 bine gerilmiş ise 10.000 dolarlık yatırımın TL karşılığı 13 milyar oluyor. Tabii kur değer kazandığında bu kez kazançlı çıkıyorsunuz. Yine bono iyi prim yaptığı taktirde düşük kura karşın sermaye kazancı ve kupon getirisi nedeniyle eurobond karlı bir yatırım oluyor. 
+   
+   8- İhraçtan alsam nasıl olurdu 
+   Yeni kağıt piyasaya 8.23'lik getiriyle çıktı. Yani ihaleden bu kağıdı alan yatırımcı yıllık vadede 10.000 dolarlık yatırım için 823 dolar getiri alacak. 
+   
+   9- Eurobondda risk nedir 
+   Eurobond yatırımlarında uluslararası konjonktür çok önemli. Gelişmekte olan ülkelere bakış olumsuza dönerse bonolara satış gelebilir. 
+   
+   10- Başka riskler de var mı 
+   Yine konjonktürün olumsuza döndüğü durumlarda bu piyasada vadeler uzun olduğu için faiz değişimlerinin fiyata etkisi büyük oranlı oluyor. Ve bononun elden çıkarılması zorlaşabiliyor. Yine ilk iki çeyrekte beklenmemekle birlikte FED şu anda ABD'de yüzde 1'ler civarında olan kısa vadeli faizleri yükseltirse bu maliyetleri etkileyeceğinden Türk tahvilleri de bundan olumsuz etkilenir. 
+   
+   
+</TEXT>
+</DOC>

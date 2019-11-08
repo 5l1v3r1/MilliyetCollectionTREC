@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> 133492 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/01/27/son/sontur15.html </URL>
+<DATE> 2003/01/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İstanbul'da deprem projesine para engeli... 
+</HEADLINE>
+<TEXT>
+
+     İstanbul'daki tarihi camilerin depreme dayanıklılıklarının belirlenmesi amacıyla oluşturulan proje, sismik kayıt cihazının alınamaması nedeniyle yaşama geçirilemiyor. 
+     Yıldız Teknik Üniversitesi YTÜ Mimarlık Fakültesi Yapı Anabilim Dalı Başkanı Prof. Dr. Görün Arun, A.A muhabirine yaptığı açıklamada, İstanbul'da olası büyük depremde yıkılma riski taşıyan tarihi yapıların belirlenmesi amacıyla bir proje oluşturduklarını söyledi. 
+     Proje kapsamında incelemek üzere, tarihi değeri yüksek ve risk taşıyabilecek 8 yapı seçtiklerini bildiren Prof. Dr. Arun, şöyle konuştu 
+     ''Bu yapılar, İstanbul'da 6-16. yüzyıllar arasında inşa edilmiş, Cankurtaran'daki Küçükayasofya, Laleli'deki Bodrum, Saraçhane'deki Molla Zeyrek, Karaköy'deki Arap, Eminönü'deki Ahi Çelebi, Üsküdar'daki İskele, Edirnekapı'daki Mihrimah Sultan ve Fatih camileri. Bunlardan Küçükayasofya, Bodrum ve Molla Zeyrek camileri, Bizans yapıları ve kiliseden camiye çevrilmişler.'' Prof. Dr. Arun, bu yapıların yığma, yani taş, tuğla ve harç gibi farklı malzemeler kullanılarak inşa edildiklerini hatırlatarak, şunları kaydetti 
+     ''Yapıların deprem karşısındaki davranışlarının belirlenmesi için en uygun yöntem, bilgisayar ortamında modellenerek analiz yapılmasıdır. Ancak yığma yapıların farklı malzemelerden oluşan taşıyıcı sistemleri, her türlü malzeme deneyine rağmen istediğimiz hassaslıkta modellenemiyor. Modellemede gerçeğe yakın sonuçlar alabilmek için, yerinde yapılacak deneylerle yapının dinamik özellikleri belirlenmeli. Bu amaçla, sismik kayıt cihazıyla serbest titreşim deneyi uygulanmalı.'' 
+     
+     DÖVİZDEKİ ARTIŞ, ÖDENEĞİ ERİTTİ 
+     Sismik kayıt cihazı için 2001 yılında DPT'ye başvurduklarını dile getiren Prof. Dr. Arun, cihazın 19 bin dolar olan fiyatının o dönemde 14 milyar liraya karşılık geldiğini, mevzuat gereğince para talebini Türk Lirası üzerinden yaptıklarını anlattı. 
+     DPT'den ''2002 yılı Mali Bütçesi açıldığında ödeneği alabileceklerine'' ilişkin yazı geldiğini belirten Prof. Dr. Arun, ancak ödenek açılana kadar geçen sürede döviz kurundaki değişim dolayısıyla ellerine geçen paranın değerinin 10 bin dolar seviyesine indiğini bildirdi. 
+     Prof. Dr. Arun, üniversitenin araştırma fonuna müracaat ederek ek bütçe talebinde bulunduklarını, ancak henüz bir cevap alamadıklarını kaydetti. 
+     
+     SİSMİK KAYIT CİHAZI 
+     Sismik kayıt cihazıyla yapıların deprem gibi bir darbeyle karşılaştıklarında gösterecekleri salınım süresinin, yani periyodunun ölçümünün yapılabildiğini ifade eden Prof. Dr. Arun, bu süre ile zeminin salınım süresi karşılaştırılarak yapının risk taşıyıp taşımadığının anlaşılacağını söyledi. 
+     Salınım süresinin yapının cinsi, malzemesi ve yüksekliğine göre değiştiğine dikkati çeken Prof. Dr. Arun, şunları söyledi 
+     ''Bu süre ile zeminin periyodu aynı olursa, bina rezonansa girerek hasar meydana geliyor. Yapı ve zemininin periyodlarının karşılaştırılması için, yapılarda sismik kayıt cihazıyla ölçüm yapılarak bilgisayarda modellemelerinin tamamlanması gerekli. Bu şekilde büyük bir depremde bu yapıların hangilerinde hasar riskinin fazla, hangilerinde az olduğu, nasıl bir güçlendirme gerektiği anlaşılacak. İlgili kurumlara güçlendirmenin öncelikle hangi yapılarda yapılması gerektiği yönünde rapor sunulacak. 
+     Büyük bir deprem olmadan bu yapılarla ilgili çalışmaların ve gerekli güçlendirmelerin tamamlanması lazım. Yoksa elimizde korunacak fazla bir şey kalmayacak.'' 
+     
+     MAKEDONYA ÜNİVERSİTESİ İLE İŞBİRLİĞİ... 
+     Prof. Dr. Görün Arun, projenin hiç olmazsa bir kısmını hayata geçirebilmek için sismik kayıt cihazının bulunduğu Makedonya Üniversitesi ile işbirliği yapacaklarını belirterek, sözlerini şöyle tamamladı 
+     ''Çalışma çerçevesinde Makedonya'da 3 yapı ile kritik durumda olan Mihrimah Sultan, Fındıklı ve Ahi Çelebi camileri incelenecek. Çünkü Mihrimah Sultan Camii bir depremi kaldırmaz. Fındıklı Camii'nin minaresinde eğrilme var. Ahi Çelebi Camii de çok kötü durumda, kubbenin yarığından dışarısı görülüyor. Sismik kayıt cihazını Makedonya Üniversitesi sağlayacak. Ama bu çalışma bizim için tabii ki yeterli değil.'' 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

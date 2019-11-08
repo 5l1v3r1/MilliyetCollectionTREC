@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 167979 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/08/son/sondun01.html </URL>
+<DATE> 2003/07/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+NASA'nın, "Opportunity" uzay aracı nihayet Mars yolunda... 
+</HEADLINE>
+<TEXT>
+
+     Amerikan Havacılık ve Uzay Dairesi NASA , Mars'ta hayat olup olmadığını araştıracak ''Opportunity'' adlı uzay aracını nihayet fırlattı. 
+     Uzay aracının bugün ilk planlanan fırlatılışında da sorun yaşanmış ve fırlatma işlemi geriye sayım sırasında 7. saniyede durdurulmuştu. Ancak sorunun giderilmesinden sonra, fırlatma işlemi gerçekleştirildi. 
+     Uzay aracını taşıyan Delta II Heavy roketi, son aksaklık nedeniyle planlanandan 43 dakika sonra TSİ 06.18'de hareket etti. 
+     İki haftalık bir gecikmeyle fırlatılan ''Opportunity'' de geçen ay başında fırlatılan ''Spirit'' uzay aracı gibi, Mars'ta hayat bulunup bulunmadığını tespit etmek için kullanılacak bir robot taşıyor. 
+     ''Opportunity''nin 7 aylık yolculuğun ardından, yaklaşık 491 milyon kilometre yol kat ederek, gelecek yılın başlarında Mars'a ulaşması bekleniyor. 
+     Geçen 10 Haziran'da fırlatılan Spirit'in ise yaklaşık 500 milyon km. yol kat ederek, 3 Ocak 2004'te ''kızıl gezegen''e ulaşması planlanıyor. 
+     Bu uzay araçlarıyla Mars'a gönderilen iki robot sayesinde, gezegende su ve hayat olup olmadığı araştırılacak. İki robotun Mars'a gönderilmesinin NASA'ya maliyeti yaklaşık 800 milyon dolar. 
+     
+</TEXT>
+</DOC>

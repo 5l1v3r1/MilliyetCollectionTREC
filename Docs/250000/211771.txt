@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 211771 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/28/son/sontur02.html </URL>
+<DATE> 2004/01/28/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+TEM otoyolundaki trafik yoğunluğu sistem arızasından... 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Emniyet Müdürlüğü, TEM Otoyolu'nda akşam saatlerindeki trafik yoğunluğunun, Halkalı Gümrük Müdürlüğü bilgisayar sistemindeki arızadan kaynaklandığını bildirdi. 
+     Basın Protokol ve Halkla İlişkiler Şube Müdürlüğü'nden yapılan yazılı açıklamada, akşam saatlerinde A bölgesindeki trafik yoğunluğuna, gümrükteki bilgisayar sisteminde son 3 gündür meydana gelen arızanın neden olduğu ve çok sayıda TIR'ın bölgede bekletildiği kaydedildi. 
+     Akşam saatlerinde bilgisayar arızasının giderilerek geçiş işlemlerine başlandığı ifade edilen açıklamada, şöyle denildi 
+     ''Araç yoğunluğu giderilip trafik normale dönene kadar gümrük çalışanları çalışmalarına aralıksız devam edeceklerdir. Trafik yoğunluğunun oluşmasında Trafik Denetleme Şube Müdürlüğü'nün sorumluluğu bulunmamaktadır. Trafiğin normale dönmesi için İstanbul Emniyet Müdürlüğü olarak çalışmalarımız aralıksız devam etmektedir.'' 
+     
+</TEXT>
+</DOC>

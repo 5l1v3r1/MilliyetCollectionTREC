@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> 110920 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/10/03/yasam/yas08.html </URL>
+<DATE> 2002/10/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yakında atomik hafızamız olacak 
+</HEADLINE>
+<TEXT>
+
+     Amerikalı bilim adamı Franz Himpsel, elektronik cihazların mevcut bilgi depolama kapasitesini 1 milyon kez artırmanın yolunu açtı. 650 megabitlik bir CD’nin bilgi stoklama kapasitesini 650 milyon megabite çıkaran Himpsel, bu işlemi bir silikon plakanın yüzeyinden bir atomu kopararak yarattığı boşluğa dijital olarak bilgi yerleştirerek gerçekleştirdi. Henüz seri üretim yapılabilecek aşamada olmadığı belirtilen yeni teknolojinin elde ettiği hafıza yoğunluğunun doğanın milyonlarca yılda geliştirdiği DNA’yla yarışabilecek ölçüde olduğu ifade ediliyor. DNA, bilgi depolamak için 32 atom kullanıyor. 
+     
+
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

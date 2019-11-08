@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 289641 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/17/son/sonyas17.html </URL>
+<DATE> 2004/11/17/ </DATE>
+<TIME> 10.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Laboratuvarda ilk yapay deprem 
+</HEADLINE>
+<TEXT>
+
+     Bilim adamları ilk kez deprem simülasyonu yarattı. Yaygın olarak kullanılan inşaat ve altyapı malzemelerinin güvenilirliğini test etmek için ABD'nin dört büyük laboratuvarı bir araya geldi. 
+     Cornwell Üniversitesi laboratuvarında gerçekleştirilen simülasyonda güçlü hidrolik basınç ve altı metre beton duvar kullanılarak gerçekleştirilen yapay depremin şimdiye kadar kaydedilmiş en büyük sarsıntıyı bile aştığı bildirildi. 
+     Bundan böyle bilim adamları toprak altındaki borulardan, köprüler gibi yerüstü yapılarına kadar pek çok malzeme ve yapıyı bu yöntemle test edebilecek. İlk test bilinen doğalgaz borusu malzemesi üzerinde yapıldı ve bu malzeme, yaratılan depreme karşı beklenenden dayanıksız çıktı. Testler, ABD Bilim Vakfı'nın 'Deprem Mühendislik Simülasyonu Ağı' adlı projesi çerçevesinde gerçekleşiyor. 
+     Ağ sayesinde çeşitli laboratuvarlarda sürdürülecek deneylerin sonuçları paylaşılacak ve çözüm aranacak. 
+     
+</TEXT>
+</DOC>

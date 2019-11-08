@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 315215 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/14/son/sonyas06.html </URL>
+<DATE> 2005/02/14/ </DATE>
+<TIME> 10.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yeni Playstation, bir devrimin habercisi... 
+</HEADLINE>
+<TEXT>
+
+     Japonya'nın teknoloji devi Sony, 3. kuşak Playstation oyun konsoluyla, bilgisayar dünyasında bir devrime hazırlanıyor. 
+     Bu yıl sonunda ya da en geç 2006'nın ilk aylarında piyasaya sürülmesi beklenen konsolda, tek bir işlemci de 9 ayrı işlem birimi Cell bulunacak. Teknolojiyi geliştiren Sony ve destekçileri IBM ve Toshiba, bölünmüş işlemciye, Cell ismini verdi. 
+     Bilişim dünyası son zamanlarda bu teknoloji üzerine yoğun tartışmalar yaşarken, A.A muhabirinin sorularını yanıtlayan, Uluslararası Stratejik Araştırmalar Kurumu USAK IT Sorumlusu Barış Sanlı, Cell tarzı çoklu çekirdekli işlemci kullanan bilgisayarların, aynı hızda tekli çekirdek kullanan cihazlara göre bir kaç kat hızlı olacağını bildirdi. 
+     İşlemcilerin sadece hızına bakılarak daha iyi olup olmadığını belirlemenin yanlış olduğunu ifade eden Sanlı, şunları kaydetti 
+     ''Playstation 3 için kullanılacak olan Cell işlemcileri bilgisayara bakış açımızı önemli miktarda değiştirecektir. 
+     Mesela şu anda önemli miktarda insan, işlemcilerin hızlarına bakıp daha iyi olup olmadığına karar veriyorlar. Oysa aslolan hız, örneğin 2.4 Ghz ve performans birim saat dilimde yapılan işlem adedi çarpımıdır. 2005 sonunda çıkacak olan Cell işlemcisi 4Ghz'de çalışacak deniyor. O sırada Intel'in piyasaya sunacağı Pentium 4 ise muhtemelen 5 Ghz'e yakın bir hızda çalışacaktır. Buna rağmen Cell işlemcisi Pentium 4 tabanlı işlemcinin 5-6 katı performans verecektir. 
+     Tahminimce, yakın gelecekte yüksek hızlı işlemcilerin yerine Playstation 3 de kullanılacak Cell tarzı çoklu çekirdekli işlemciler alacaktır. 2012 gibi ise şu andaki süper bilgisayarlar ayarında PC'lere sahip olabileceğiz.'' 
+     
+     BİLİMSEL VE ASKERİ UYGULAMALAR 
+     Cell işlemcisinin ilk serisi 4 Gigahertz'de çalışacak. Yeni teknoloji, oyun meraklılarını daha iyi grafik ve sanal gerçekliğe sahip oyunlara kavuştururken aynı zamanda yüksek hıza ihtiyaç duyan bilimsel simulasyon modellemeleri ve askeri elektronik alanlarında yepyeni bir dönemi başlatacak. 
+     
+</TEXT>
+</DOC>

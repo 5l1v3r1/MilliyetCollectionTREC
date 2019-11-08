@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 128534 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/01/03/son/soneko26.html </URL>
+<DATE> 2003/01/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Elektronik Algılama Teknolojisi'yle kazalar tarihe karışacak... 
+</HEADLINE>
+<TEXT>
+
+     Elektronik Algılama Teknolojisi sayesinde artık küçük çocuğunuz yalnızken de emniyette olacak, kazalar tarihe karışacak. 
+     www.canesta.com sitesinde yer alan bilgiye göre, yakın objelerin üç-boyutlu olarak izlenmesini sağlayan Elektronik Algılama Teknolojisi ile çocuğunuzun bulunduğu yeri monitörden işaretleyerek, ayrı mekanlardayken bile çalan bir alarm sayesinde onu kontrol edebileceksiniz. 
+     Elektronik Algılama Teknolojisi, çocuğu izleyerek hareketlerini algılayabilecek. Çocuk, işaretli alanı terk ettiğinde alarm sesi ile sizi uyaracak. 
+     Teknoloji, otomotiv sektöründe de kullanılabilecek. Otomobilin dışında yolu ve diğer araçları algılayan bu teknoloji, belirlenen mesafenin altındaki yaklaşmada sürücüyü uyararak oluşabilecek kazaları önleyecek. 
+     
+     SANAL KLAVYE 
+     Elektronik Algılama Teknolojisi ile geliştirilen sanal klavye de klasik klavyeleri tarihe karıştıracak. 
+     PDA'lar, tablet PC'ler ve cep telefonları gibi mobil araçların bağlanması amacıyla tasarlanan sanal klavye, lazer aracılığıyla kullanılıyor. 
+     Bir lazer ışını, masa ya da düz bir zemin üzerine kırmızı ışıkla bir klavye resmi çiziyor. Dijital kameralarda kullanılanlara benzer bir sensör, aynı noktaya gönderilen kızıl ötesi ışının yansımasını takip ediyor. Bu sayede hangi tuşlara basmaya çalıştığınızı algılıyor. 
+     Sanal klavyenin üretimine bu yıl geçilmesi düşünülüyor. 
+     Elektronik Algılama Teknolojisi, endüstri ve imalat sistemleri, ordu, yiyecek servisi, oyuncak ya da dijital aletlerde kullanılabiliyor. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

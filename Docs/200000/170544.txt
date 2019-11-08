@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 170544 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/20/son/sondun06.html </URL>
+<DATE> 2003/07/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kalp hastalıkları riskini belirleyen kan testine onay... 
+</HEADLINE>
+<TEXT>
+
+     ABD'nin federal kurumu Gıda ve İlaç Dairesi FDA , düşük kolesterol bulunanlarda kalp hastalıkları riskini belirleyebilen bir kan testinin kullanımına onay verdi. 
+     PLAC adı verilen test, iltihap oluşumuna yol açan bir enzimin oranını belirleyerek, kimlerin kalp hastalıkları riski altında bulunduğunu ortaya koyabiliyor. 
+     Test, 1300 orta yaş denek üzerinde 9 yıl süreyle yapıldı. Araştırma sırasında, kötü kolesterolü LDL 130'un altında olan, ancak iltihaplanmaya yol açabilen Lp-PLA2 enzimi yüksek bulunan deneklerde, kalp hastalıkları riskinin de yüksek olduğu saptandı. 
+     Baylor Koleji bilim adamlarından Dr. Christie Ballantyne, iltihaplanmaya yol açan C reaktif proteini ve Lp-PLA2 enzimi birlikte yüksek bulunanlarda kalp hastalıkları riskinin üçe katlanabildiğini belirtti. 
+     Kan testini merkezi San Francisco kentinde bulunan diaDexus firması üretiyor. 
+     
+</TEXT>
+</DOC>

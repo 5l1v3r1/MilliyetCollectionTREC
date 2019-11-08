@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 235222 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/27/son/soneko23.html </URL>
+<DATE> 2004/04/27/ </DATE>
+<TIME> 12.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı 17 bin 924 puanda tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi, önceki kapanışa göre 661.51 puan kayıpla, 1. seansı 17,924.95 puandan tamamladı. 
+     1. seansta hisse senetlerinin ortalama değer kaybı yüzde 3.56 olarak gerçekleşti. Böylece endeksin son 3 seanstaki toplam kaybı 1,506.55 puan ve yüzde 7.75'e ulaştı. 
+     Dün 18,586.46 puandan kapanan İMKB Ulusal 100 Endeksi, 1. seansa 26.48 puan düşüşle 18,559.98 puan seviyesinde başladı. Seansın ilk yarısı tamamlanırken endeks 18,000 puanın altına geriledi. Seansın ilk yarısını 17.979.09 puandan geçen endeks, seans içinde en düşük 17,920.53, en yüksek 18,569.60 puanı gördü. 
+     Seans sonunda mali endeks 876.13 puan kayıpla 23,926.56 puana, sanayi endeksi 535.99 puan kayıpla 16,807.26 puana, hizmetler endeksi 391.42 puan kayıpla 9,673.35 puana geriledi. 
+     Böylece, önceki kapanışa göre mali grup hisseler ortalama yüzde 3.53, sanayi grubu hisseler yüzde 3.09, hizmet grubu hisseler ortalama yüzde 3.89 değer yitirdi. 
+     1. seansta işlem gören toplam 301 hisse senedinden 266'sı değer kaybetti, 25 hisse senedi değer kazandı, 10 hissenin fiyatında değişiklik olmadı. 
+     Seansta, 473 trilyon 368 milyar 651 milyon liralık işlem hacmi oluştu. 
+     1. seansta, Doğan Holding, Yapı ve Kredi Bankası, Koç Holding, Kardemir D ve Sabancı Holding en yoğun işlem gören hisseler oldu. 
+     Endeks seans kapanışı itibariyle en son 11 Şubat günü 1. Seansta 18,000 puanın altına gerileyerek 17,905.63 puandan kapanmıştı. 22 Nisan'da 19,431.50 puandan günü tamamlayan endeks, dün 1. Seansta 19,097.22 puana, gün sonunda da 18,586.46 puana gerilemiş ve günlük olarak 845.04 puan ve yüzde 4.35'lik kayıp yaşamıştı. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 162457 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/11/son/soneko20.html </URL>
+<DATE> 2003/06/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansta 109 puan kaybetti... 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası İMKB Ulusal-100 Endeksi, 1. seansı, 109.30 puan kayıpla 10,535.44 puandan tamamladı. 
+     Hisse senetlerinin ortalama değer kaybı yüzde 1.03 olarak gerçekleşti. 
+     Endeks, bugünkü ilk seansa 7.48 puan artışla 10,652.23 puan seviyesinde başladı. Seansın ilk yarısını 83.17 puan gerileyerek 10,561.57 puandan geçen endeks, en düşük 10,484.33, en yüksek 10,658.41 puanı gördü. 
+     Borsa uzmanları, yatırımcılar açısından kısa vadeli beklentilerin azalması ve daralan işlem hacminin yarattığı satış baskısının sürdüğünü kaydettiler. 
+     Seans kapanışında mali endeks 108.74 puan kayıpla 12,405.31 puana, sanayi endeksi 132.32 puan kayıpla 11,043.92 puana, hizmetler endeksi 50.11 puan kayıpla 6,689.34 puana geriledi. 
+     Böylece, önceki kapanışa göre mali grup hisseler ortalama yüzde 0.87, sanayi grubu hisseler ortalama yüzde 1.18, hizmetler grubu hisseler ortalama yüzde 0.74 oranında değer kaybetti. 
+     İşlem gören toplam 282 hissenin 169'unun fiyatı geriledi, 55'i değer kazandı, 58'inin fiyatı değişmedi. 
+     Seansta, toplam 126 trilyon 179 milyar 292 milyon liralık işlem hacmi oluştu. 
+     1. seansta, Tüpraş, Yapı Kredi Bankası, Ereğli D. Ç., İş Bankası C ve Turkcell en yoğun işlem gören hisseler oldu. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,48 @@
+<DOC>
+<DOCNO> 59555 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/01/guncel/gun07.html </URL>
+<DATE> 2001/01/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hacker’ın var mı derdin var 
+</HEADLINE>
+<TEXT>
+
+Bilgisayar korsanları "hackerölara ne Microsoft karşı durabildi ne de NASA... Başbakanlık ve TRT siteleri saldırıya uğrayan Türkiye’de de durum umutsuz 
+     İHSAN YILMAZ İstanbul 
+
+     Microsoft’tan NASA’ya, American Online’dan OPEC’e kadar dünyanın en büyük kuruluşlarının korkulu rüyası olan "hackerölar, Türkiye’yi de tehdit etmeye başladı. 
+     Son dönemde önce Başbakanlığın sitesi saldırıya uğrarken, ardından Kredi ve Yurtlar Kurumu hedef seçildi. TRT de Türk "hackeröların saldırısından nasibini aldı. Bu olaylarının failleri bellirlenemezken, kritik kurumlarının hacker’lara karşı ne kadar korunduğu ve bu saldırıları kimin yaptığı sorusu gündeme geldi. 
+     
+Kötü kovboylar      Uzmanlara göre, bu saldırıları yapanlar "Black Had Hackerölar. Yani isimlerini ABD’nin vahşi batısındaki siyah şapkalı kötü kovboylardan alan, zarar vermeyi ve menfaat sağlamayı hedefleyen hackerlar. Eğer gerekli önlemler alınmazsa, Türkiye’nin güvenlikle ilgili sırları kolaylıkla kötü niyetli hacker’ların eline geçebilir. Gerçi önlem alınsa bile dışarıyla bağlantısı olan bir sistemde hacker’lara karşı koymak neredeyse imkansız. 
+     Türkiye’de son günlerde yaşanan "hacking" olaylarını Siyah Şapkalılar’ın "script guy" kolunun yaptığını bildiren Doruk Net Güvenlik Yöneticisi Diam Göksu İlhan, şöyle konuştu "Hacker ankesörlü telefondan bile bağlanabilir. Bir bilgisayarı birden fazla kişi kullanabiliyor. İnternet Cafe’lerde sorumluluğu kime yükleyeceksiniz. Bir hacker bu cafelerden istediğini yapabilir. Yurtdışından internet cafeye girerseniz sizden kimlik istenir, oturduğunuz bilgisayara göre kayıt tutulur." 
+     Dünya devleri bile hacker’larla mücadelede çaresiz kaldı. U.S. Business’ın yaptığı araştırmaya göre de, hacker’ların verdiği zarar yılda 300 milyar dolar. Batı ülkeleri ve büyük firmalar hacker’lara karşı anti - hacker timleri kurmaya başladı. 
+     
+Beyaz’ ve siyah’lar      Hackerlar, White Had Hacker Beyaz Şapkalı Hacker ve Black Had Hacker diye ikiye ayrılırlar. Black Had’ler, kendi aralarında "script guy" ve "real hacker" diye adlandırılıyor. 
+     Script guy’lar, sistem açıklarını bulanların internet üzerinden dağıttığı programları kullanarak sistemlere zarar veren şahıslar. Real hacker’lar ise istediği bilgileri alıp, kendinin sisteme girdiğini belli edecek sistem dosyalarını tamamen siliyor. 
+     White Had Hacker’lar daha çok sistemdeki açıkları bulup, sahibiyle paylaşan, ne yapması gerektiğini bildiren kişiler. Para kabul etmiyor ve çok iyi iş ve burs teklifleri alıyorlar. 
+     
+
+
+ GÜNCEL 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

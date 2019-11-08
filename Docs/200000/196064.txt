@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 196064 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/17/son/sondun07.html </URL>
+<DATE> 2003/11/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dünyanın en hızlı bilgisayarı yapılıyor... 
+</HEADLINE>
+<TEXT>
+
+     ABD'de dünyanın en hızlı bilgisayarı yapılıyor. 
+     Merkezi ABD'nin Columbus kentinde bulunan, dünyanın kar amacı gütmeyen en büyük araştırma kuruluşu Battelle Memorial Enstitüsü, 2008 yılında yapımı tamamlanacak bilgisayarın, saniyede bin trilyon işlem yapmasının planlandığını, dakikada 35.8 trilyon işlem yapan Japonya'daki benzerinden 300 kat daha hızlı olacağını bildirdi. 
+     Battelle Memorial Enstitüsü'ne bağlı Oak Ridge Ulusal Laboratuvarı'ndaki yapım çalışmalarından sorumlu başkan yardımcısı William Madia, 500 milyon dolarlık bilgisayarın, ABD'de gelecek 20 yılda bilimsel alandaki gelişmeyi temsil edeceğini söyledi. 
+     Ohio Üniversitesi ve Ensititü'nün, bilgisayarı güçlerini birleştirmek için kullanacağı, üniversitenin yeni teknoloji ürünü için ticari başvurular bulmak ve tıp alanındaki araştırmalar yapmak istediği belirtildi. 
+     Bilgisayarın, hava değişikliklerinin görüntülenmesi veya kara delikler konusunda araştırma yapılmasını sağlayacağı kaydedildi. 
+     
+</TEXT>
+</DOC>

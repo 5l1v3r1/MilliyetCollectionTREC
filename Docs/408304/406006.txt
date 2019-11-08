@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 406006 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/23/son/soneko45.html </URL>
+<DATE> 2005/12/23/ </DATE>
+<TIME> 17.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Serbest piyasada dolar 1.3510 YTL 
+</HEADLINE>
+<TEXT>
+
+     İstanbul ve Ankara serbest piyasalarında alınıp satılan döviz türlerinin, dün ve bugün itibariyle alış ve satış kapanış fiyatları şöyle 
+     
+
+İSTANBUL SERBEST PİYASA Perşembe alış Perşembe Satış Cuma Alış Cuma Satış ABD Doları 1.3500 1.3530 1.3480 1.3510 Avro 1.6000 1.6030 1.5960 1.6000 İng. Sterlini 2.3450 2.3700 2.3250 2.3400 İsviçre Frangı 1.0250 1.0350 1.0200 1.0300      
+
+ANKARA SERBEST PİYASA Perşembe alış Perşembe Satış Cuma Alış Cuma Satış ABD Doları 1.3480 1.3580 1.3460 1.3560 Avro 1.5940 1.6060 1.5950 1.6070 İng. Sterlini 2.3340 2.3700 2.3220 2.3550      
+</TEXT>
+</DOC>

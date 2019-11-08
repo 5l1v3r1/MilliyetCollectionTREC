@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 238118 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/07/son/soneko29.html </URL>
+<DATE> 2004/05/07/ </DATE>
+<TIME> 18.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Piyasalarda bugün... Borsa düştü, dolar fırladı 
+</HEADLINE>
+<TEXT>
+
+     Borsa'da işlem gören hisse senetleri, haftanın son gününde ortalama yüzde 3. değer kaybetti. 
+     İMKB Ulusal 100 Endeksi, 1. seansı yüzde 1.29 kayıpla 17,396.08 puandan tamamladı. 
+     2. seansta da gerilemesini sürdüren endeks, 16,899.32 puana kadar düştükten sonra toparlandı. Endeks 2. seansta yüzde 2.27 kayıpla 17,001.97 puandan kapandı. 
+     1. seanstaki 227.97 puanlık kayıp dikkate alındığında, endeks günlük bazda 622.08 puan ve yüzde 3. geriledi. 
+     Hisse senetleri piyasasında toplam 694.2 trilyon liralık işlem hacmi kaydedildi. 
+     
+     DOLAR 1.5 MİLYON LİRA 
+     Kapalıçarşı'da dün 1 milyon 465 bin liradan kapanan dolar, güne 1 milyon 490 bin liradan, 1 milyon 770 bin liradan kapanan Euro, 1 milyon 790 bin liradan başladı. 
+     Kapanışta doların satış fiyatı 1 milyon 500 bin lira, Euro'nun satış fiyatı 1 milyon 795 bin lira olarak belirlendi. 
+     Merkez Bankası, doların bugünkü efektif kurunu alışta 1 milyon 475 bin 510 lira, satışta 1 milyon 485 bin 891 lira olarak açıkladı. 
+     Böylece dolar, Merkez Bankası'nın dün açıkladığı kura göre, alışta 30 bin 379 lira, satışta 30 bin 593 lira yükseldi. 
+     
+     FAİZ DE YÜKSELDİ 
+     İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda işlem gören 5 Ekim 2005 vadeli tahvilin bugün valörlü işlemlerinde basit getiri yüzde 27.61, bileşik getiri yüzde 26.25 oldu. 
+     Bu kağıdın aynı gün valörlü işlemlerinin bileşik getirisi, dünkü kapanışa göre 1.19 puan yükseldi. 
+     5 Ekim 2005 vadeli tahvilin 10 Ekim Pazartesi valörlü işlemlerinde de basit getiri yüzde 28.55'e, bileşik getiri yüzde 27.13'e çıktı. 
+     İMKB Tahvil ve Bono Piyasası Repo Pazarı'nda üç günlük faiz ortalama yüzde 22.00 olarak belirlendi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 208070 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/12/son/sondun23.html </URL>
+<DATE> 2004/01/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Biri İngilizler'i gözetliyor... 4 milyon kamera 24 saat çekiyor 
+</HEADLINE>
+<TEXT>
+
+     İngiltere'de halkın, metro istasyonlarında, karayollarında, kaldırım kenarlarında bulunan yaklaşık 4 milyon kamera tarafından 24 saat boyunca izlendiği açıklandı. 
+     The Independent gazetesi, bu durum için, ''İngiltere 2004 yılında Big Brother'ın gözetimi altında'' ifadesini kullanırken, İngiltere'nin tarihi boyunca ilk kez bu kadar yüksek bir ''izleme noktasına'' ulaştığını bildirdi. 
+     Gazete, kameraların sayısının her geçen gün arttığını ve halkın adeta her hareketinin izlenir olduğunu belirtirken, ''Kamera sayısı son 3 yılda 3 katına çıkarıldı'' iddiasında bulundu. 
+     İngiltere'de halen her 14 kişiye bir kamera düştüğünü belirten gazete, ''Kamera sayısındaki artış, uzmanların tahminlerinin iki katı civarında seyrediyor. İngiltere şu anda dünyadaki bütün kapalı devre sistemlerin 5'te 1'ine sahip'' diye yazdı. 
+     Uzmanların her bir Londralının günde en az 300 kez kameralara yakalandığını ve görüntülerinin kaydedildiğini tahmin ettiklerini belirten Independent gazetesi, bu çekimlerin büyük bölümünün de ''veri toplama yasasına'' uygun olmayan yer ve biçimlerde yapıldığını öne sürdü. 
+     
+</TEXT>
+</DOC>

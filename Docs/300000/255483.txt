@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 255483 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/14/son/sonyas04.html </URL>
+<DATE> 2004/07/14/ </DATE>
+<TIME> 09.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ispanaktan elektrik üretildi... 
+</HEADLINE>
+<TEXT>
+
+     Amerikalı bilim adamlarının, çizgi film kahramanı Temel Reis'in enerji kaynağı ıspanaktan elektrik enerjisi elde etmek için yaptığı araştırmalarda, önemli ilerlemeler kaydedildiği bildirildi. 
+     Amerikan ABC televizyonunda çıkan habere göre, Masssachusetts Teknoloji Enstitüsü MIT ve Tennessee Üniversitesi'nden araştırmacılar, yeşil yapraklı sebzelerde doğal olarak bulunan bir proteini kullanmak suretiyle güneş ışığını elektrik enerjisine dönüştürecek yeni bir tür fotovoltaik pil geliştirmeye çalışıyor. 
+     MIT'de elektrik mühendisliği profesörü ve projede yer alan bilim adamlarından biri olan Marc Baldo, araştırmanın amacının daha iyi ve daha esnek bir güneş pili üretmek olduğunu söyledi. Konvansiyonel güneş pili yapmanın, çoğu silikon ya da silikon çipler benzeri yapay malzeme kullanılarak elde edilen birkaç yolu bulunduğunu kaydeden Baldo, yüksek enerji ve yüksek ısının hafif ve eğilebilir plastiklerle elde edilemediğini, bu yüzden de tabiattan bazı malzemeleri ''ödünç alma'' yoluna gittiklerini kaydetti. 
+     Yoğun şekilde bitkilerin büyümeyi sağlamak için güneş enerjisini nasıl dönüştürdüğüyle ilgilendiklerini söyleyen Baldo, fotosentez sürecini incelerken, sebzelerde bulunan proteinin, güneş ışığını büyüme için gereken bitki enerjisine doğal bir şekilde dönüştürdüğünü ve bu süreçte ölçülebilir düzeyde elektrik enerjisi ürettiğini keşfettiklerini kaydetti. 
+     Daha sonra bu proteinler üzerine yoğunlaşan bilim adamları, bazı bilimsel yöntemleri kullanarak, proteinlerin yer aldığı bir düzenekle güneş ışığından az miktarda elektrik akımı üretmeyi başardı. Araştırma ekibinin bu keşfe dair araştırma makalesi ise Nano Letters'ın son sayısında yayımlandı. 
+     ''Biz sadece bitki yapısını kullanarak elektrik üretilebileceğini ispatladık'' diyen Baldo, bu çalışmanın bir saç teli küçüklüğünde enerji santralleri kurulmasına öncülük edebileceğine dikkat çekti. 
+     Bu arada Amerikan ordusunun da özellikle küçük casus robotlara enerji sağlamak için, asker üniformalarına iliştirilecek enerji kaynakları olarak kullanmak üzere, biyolojik esaslı küçük güneş pilleri geliştirmek amacıyla İleri Savunma Araştırma Projeleri Ajansı ve Donanma Araştırma Laboratuvarları'nda araştırmalar yaptırdığı kaydedildi. 
+     
+</TEXT>
+</DOC>

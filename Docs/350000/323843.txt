@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 323843 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/14/son/sonyas29.html </URL>
+<DATE> 2005/03/14/ </DATE>
+<TIME> 18.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yıldız Teknik Üniversitesi'nden ödüllü robot Startech 
+</HEADLINE>
+<TEXT>
+
+     YTÜ Elektrik-Elektronik Fakültesi Dekanı Prof. Dr. Galip Cansever tarafından geliştirilen robot ''Startech'' projesi, 300 endüstriyel proje arasında ilk 5'e girdi. 
+     YTÜ'den yapılan yazılı açıklamaya göre, Elektrik-Elektronik Fakültesi Elektrik Mühendisliği Bölümü Kontrol ve Kumanda Sistemleri Anabilim Dalı Robotik ve Otomasyon Laboratuarı'nda gerçekleştirilen ''A Novel Robotic Automation System'' adlı proje, ''Xplore the New Automation Award 2005'' adlı, merkezi Almanya'da olan Phoenix Contact firmasının düzenlediği uluslararası proje yarışmasında 300 endüstriyel projeden ''Factory Automation'' kategorisinde ödüle aday ilk 5 proje arasına girerek, Almanya'daki finallere katılmaya hak kazandı. 
+     YTÜ Bilimsel Araştırma Projeleri Koordinatörlüğü'ne bağlı olarak yürütülen ve yürütücülüğünü Prof. Dr. Galip Cansever'in yaptığı robot projesinde araştırma görevlileri Akın Delibaşı ve Türker Türker ile Robotik ve Otomasyon Kulübü öğrencileri Onur Akbatı, Emre Günaşan, Yüksek Lisans öğrencisi Hüseyin Altıntaş ekip çalışması gerçekleştirdi. 
+     Robotun çalışma sistemi ise şöyle Robot Görevlendirme Merkezi, robotların yapacakları işleri radyo frekanslarıyla digital ortamda gönderiyor. Bu talimatları mikrodenetleyicili akıllı sistemlerle algılayan robotlar, ilgili ürün üretim merkezlerinin adreslerini bularak bu yerlere gidiyor. Buradan ürünleri aldıktan sonra depodaki adresleri barkod kodlama tekniğiyle bularak depolardaki raflara yerleştiriyor ve daha sonra da yine almış olduğu talimatlarla buralardan alarak ürün nakliyat araçlarına yüklüyor. 
+     İleri teknoloji cihazlarıyla donatılarak gerçekleştirilen ''Startech'' adlı robotun, büyük fabrikalardaki depolama işlerinde önemli kolaylıklar sağlamasının beklendiği kaydedildi. 
+     
+</TEXT>
+</DOC>

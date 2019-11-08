@@ -1,0 +1,49 @@
+<DOC>
+<DOCNO> 114537 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/10/23/ekonomi/eko04.html </URL>
+<DATE> 2002/10/23/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kendi vergini kendin hesapla 
+</HEADLINE>
+<TEXT>
+
+     Mayısta ödenen Emlak Vergisi ilk taksidi vergiye konu mülk değerinin matrah yeniden değerleme oranı yüzde 53.2 kadar artırılmasıyla hesaplandı ve verginin yarısı ödendi. Örneğin, 100 milyarlık mülkün matrahı 153.2 milyara çıkarken bunun binde 2’sinin büyükşehirler için meskenlerde Emlak Vergisi oranı yarısı 153.2 milyon lira ilk taksit olarak ödendi. 
+     Şimdi yeni rayiçle yapılacak hesaplamada matrah 140 milyar çıkarsa ödenmesi gereken toplam vergi 280 milyon lira demektir. Bunun 153.2 milyonu daha önce ödendiği için mükellef kasımda 126.8 milyon lira vergi yatıracak. 
+     
+     Hesaplama yöntemi 
+     Büyükşehirde bir konutun vergisi arsa değeri ve bina maliyetinin toplamından bulunacak matrahın binde 2 ile çarpımıyla hesaplanır. Diyelim ki 1000 metrekare üzerinde kurulu 10 daireli apatmanda 100 metrekarelik bir daireniz var. Arsa değeri binaya isabet eden arsanın, arsa metrekare birim değeri 600 milyon lira ile çarpılarak bulunur 100 x 600.000.000 60.000.000.000 . Bina maliyeti de metrekare maliyeti ikinci sınıf betonarme inşaatsa 105 milyon 66 bin lira ile konut büyüklüğü çarpımı ile bulunur 100x105.066 10.506.600.000 lira . Bina maliyeti ve arsa bedeli toplanarak 70.506.600.000 matrah hesaplanır. Ödenecek vergi bunun binde 2’sidir 70.506.600.000 x 0.002 141.013.200 TL . 
+     Bu yıl çıkarılan kanunla Emlak Vergisi’nde beyanname verme işlemi sona erdirilirken, vatandaşlar tespit edilen yeni değerler üzerinden meskenler için binde 1, arsalar için binde 3, araziler için binde 1 oranında vergi verecek. 
+     Bu tutarlar, büyükşehirlerde iki kat uygulanacak. Böylece Maliye Bakanlığı, büyükşehirlerde 300 - 350 trilyon ek vergi alınmış olacak. 
+     
+Konutların asgari metrekare maliyeti bin TL İnşaat sınıfı Bet. karkas Yığma kagir Ahşap Lüks inşaat 251.987 197.794 333.421 1. Sınıf inşaat 157.362 128.129 216.333 2. sınıf inşaat 105.066 83.521 141.322 3. sınıf inşaat 74.410 62.168 70.804 Basit inşaat 41.666 19.742 24.676      
+     
+Ticarethane asgari metrekare maliyeti bin TL İnşaat sınıfı Bet. karkas Yığma kagir Ahşap Lüks inşaat 316.716 252.937 344.904 1. sınıf inşaat 221.522 164.955 241.262 2. sınıf inşaat 139.707 99.087 152.141 3. sınıf inşaat 101.650 66.058 110.667 Basit inşaat 36.256 25.910 27.620      
+     
+
+
+
+ EKONOMİ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

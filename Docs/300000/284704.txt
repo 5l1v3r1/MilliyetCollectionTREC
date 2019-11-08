@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 284704 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/30/son/sonyas06.html </URL>
+<DATE> 2004/10/30/ </DATE>
+<TIME> 09.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sahte web sitelerine dikkat .. 
+</HEADLINE>
+<TEXT>
+
+     Spam detektörlerinin son derece etkili bir şekilde, ''Bunu satın al'', ''Ucuz Kredi'' ve ''...'nin Daha Önce Görülmemiş Çıplak Videoları'' gibi elektronik postaları engelleyebilmesinin ardından spam postalar, Phising denilen yeni bir yöntemle, ''saf tecrübesiz'' kullanıcıları avlıyor. 
+     A.A muhabirinin derlediği bilgilere göre Online dolandırıcılık, 2004 yılında yaklaşık yüzde 80 oranında arttı. ''Bilgisayar kurdu'' dolandırıcılar bir süredir sahte web siteleri ile kullanıcının bilgilerine ulaşarak çok büyük zararlar veriyor. 
+     
+     PHISING NEDİR 
+
+     ''Password harvesting fishing'' cümlesinden türetilen Phising sözcüğü kabaca şifre avcılığı anlamında kullanılıyor. 
+     Spam göndericileri tarafından uygulanan bir yöntem olan Phising tekniğinde kullanıcıya gönderilen elektronik posta ile bilgilerini güncellemesi isteniyor ve posta içinde hazırlanmış kutulara ya da tıklanınca açılan gerçek görünümlü sahte sitedeki kutulara kullanıcı adı ve şifre gibi bilgilerini girmesi bekleniyor. 
+     
+     KULANICILAR BİLİNÇSİZ 
+
+     Norton firmasının yaptığı bir anket araştırmaya göre, internet kullanıcılarının yüzde 45.8'i dolandırıcılığa karşı nasıl korunacağına dair hiçbir bilgiye sahip değil. Buna rağmen yüzde 75.7'si casus yazılımların varlığından haberdar. 
+     Ancak şifre avcılığı konusunda bilgi sahibi olanların oranı sadece yüzde 27.9'da kalıyor. Ankete katılanların neredeyse yarısı günde en az bir kere kişisel bilgilerini isteyen e-mektuplar aldığını belirtiyor. Her beş kullanıcıdan biri de her gün en az bir sahte siteye rastladığını söylüyor. İnternete güvenmeyenlerin oranıysa yüzde 15'e ulaşıyor. 
+     Bu tür postalarda, ''Güncellemeyi yapmazsanız hesabınız kapatılacaktır'' tarzı ifadelerin yer aldığı da belirtiliyor. 
+
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 376961 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/09/yasam/yas01.html </URL>
+<DATE> 2005/09/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bu makineyi görmek için mikroskop şart 
+</HEADLINE>
+<TEXT>
+
+
+DIŞ HABERLER 
+
+İNGİLTERE'NİN Edinburg Üniversitesi'nde milimetrenin milyonda biri büyüklüğünde bir makine geliştirildi. Altın bir yüzeyi kaplayan, üzeri aşağı yukarı hareket eden halkalarla örtülü çubuklardan oluşan makine, kendinden milyonlarca kat büyük olan su damlalarını istenilen yönde hareket ettirebiliyor. 
+
+İlacı yönlendirecek 
+'SON nanoteknoloji harikası' olan buluş sayesinde ilaçların vücuttaki hareketleri kontrol altına alınarak istenilen noktaya etki etmeleri sağlanacak. Ayrıca fotosentez ve DNA replikasyonu gibi tam olarak açıklanamayan biyolojik süreçlerde moleküler düzeydeki hareketler kontrol edilebilecek. 
+
+
+
+</TEXT>
+</DOC>

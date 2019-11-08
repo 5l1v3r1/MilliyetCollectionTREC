@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 376431 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/07/son/soneko51.html </URL>
+<DATE> 2005/09/07/ </DATE>
+<TIME> 17.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft, AB'yi mahkemeye verdi... 
+</HEADLINE>
+<TEXT>
+
+     Tekelleşmeyi önleme mevzuatı kapsamında Avrupa Birliği tarafından yaptırımlara uğrayan bilgisayar yazılım devi Microsoft, kararın iptali için Avrupa Komisyonu aleyhine dava açtı. 
+     Avrupa Birliği, 2004 yılı Mart ayında aldığı kararla geliştirdiği programlarıyla sektörde tekel yarattığı gerekçesiyle Microsoft'u 497 milyon avro ceza ödemeye mahkum etmiş ve ''ticari sır'' olarak kendine sakladığı programlarını kamuya açmaya ve rakip firmalarla paylaşmaya zorlamıştı. 
+     Para cezasını ödeyen Microsoft, bazı programlarını paylaşmayı da kabul etmiş, ancak AB'nin tüm isteklerini yerine getirmesinin kendisini haksız yere zarara uğratacağını açıklamıştı. 
+     
+</TEXT>
+</DOC>

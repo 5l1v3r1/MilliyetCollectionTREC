@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 182034 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/13/guncel/gun06.html </URL>
+<DATE> 2003/09/13/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Nikotin bağımlısına bilgisayar programı 
+</HEADLINE>
+<TEXT>
+
+      DIŞ HABERLER 
+
+   
+   Bilim adamları, sigarayı bırakmaya yardımcı olacak bir bilgisayar programı geliştiriyor. İngiltere'deki Sheffield Üniversitesi tarafından avuç içi bilgisayarlar için hazırlanan program, bilgisayar görüntüleriyle nikotin bağımlılarına sigara isteğini unutturmayı hedefliyor. Programı geliştiren ekipten bağımlılık uzmanı John May, sürekli olarak renk değiştiren kareler ve hafifçe yanıp sönen noktacıklar sayesinde, beyindeki zevk merkezlerine müdahale etmeyi ve beyindeki nikotin isteğini yenmeyi amaçladıklarını söyledi. Programı kullanan sigara tiryakisi, canları sigara içmek istediğinde avuç içi bilgisayarlarını ellerine alıp programı çalıştıracak. Bilgisayar ekranındaki görüntüleri dikkatlice takip eden sigara tiryakisi, sigara istediğini unutacak. 
+   
+   
+</TEXT>
+</DOC>

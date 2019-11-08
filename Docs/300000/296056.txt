@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 296056 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/08/son/sonyas21.html </URL>
+<DATE> 2004/12/08/ </DATE>
+<TIME> 12.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kuş gribini birkaç saatte teşhis 
+</HEADLINE>
+<TEXT>
+
+     Hong Konglu ve Çinli bilim adamları, kuş gribini birkaç saat içinde teşhis edebilen bir test geliştirdi. 
+     Çin'in Şantau ve Ziamen üniversiteleriyle Hong Kong Üniversitesi'nde görevli bilim adamları, düzenledikleri basın toplantısında, test sayesinde insanlar ya da hayvanlarda H5N1 virüsünün bulunup bulunmadığının iki saatte teşhis edilebildiğini söylediler. 
+     Bilim adamları, ölümcül kuş gribi virüsünün bulunduğu kanda antikor ve antijenler sayesinde hastalığı teşhis eden testin doğruluk payının yüzde 90 olduğunu belirttiler. 
+     Ne kadara mal olacağı henüz açıklanmayan yeni testin uzman olmayan kişilerce bir salgın sırasında kullanılabileceği kaydedildi. 
+     Kuş gribi, bu yıl Tayland ve Vietnam'da 32 kişinin ölümüne, Asya'da milyonlarca tavuğun telef olmasına yol açmıştı. 
+     
+</TEXT>
+</DOC>

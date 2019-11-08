@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 223131 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/17/son/soneko46.html </URL>
+<DATE> 2004/03/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa günü 27 puanlık kayıpla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Bileşik Endeksi 2. seansta 78.28 puan kayıpla 19,294.50 puandan kapandı. 
+     Hisse senetleri 2. seansta ortalama yüzde 0.40 oranında değer kaybetti. 
+     İlk seanstaki 51.18 puanlık artış dikkate alındığında Borsa endeksi, günün tamamında 27.10 puan geriledi. Hisse senetlerindeki günlük değer kaybı yüzde 0.14 oldu. 
+     Endeks, 2. seansa 10.95 puan artışla 19,383.73 puan seviyesinde başladı. İlk yarıyı 19,238.04 puan seviyesinde geçen endeks, seans içinde en düşük 19,207.30, en yüksek 19,383.73 puanı gördü. 
+     2. seans kapanışında mali endeks 115.46 puan kayıpla 26.277.99 puana, sanayi endeksi 57.34 puan kayıpla 17,249.65 puana, hizmetler endeksi 41.97 puan kayıpla 10,363.68 puana geriledi. 
+     Böylece ilk seansa göre mali grup hisseler ortalama yüzde 0.44, sanayi grubu hisseler ortalama yüzde 0.33, hizmet grubu hisseler ortalama yüzde 0.40 değer yitirdi. 
+     2. seansta işlem gören toplam 300 hisse senedinden 177'si değer kaybetti, 55'i değer kazandı, 68'inin fiyatında değişiklik olmadı. 
+     Seansta, 309 trilyon 31 milyar 808 milyon liralık işlem hacmi kaydedildi. Günlük işlem hacmi ise 584 trilyon 562 milyar 464 milyon lira olarak hesaplandı. 
+     2. seansta İhlas Holding, Park Elektrik, Ceytaş Madencilik, Doğan Holding ve Garanti Bankası en yoğun işlem gören hisse senetleri olarak belirlendi. 
+     
+</TEXT>
+</DOC>

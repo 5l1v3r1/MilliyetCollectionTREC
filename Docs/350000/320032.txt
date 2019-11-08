@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 320032 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/02/son/sonsiy47.html </URL>
+<DATE> 2005/03/02/ </DATE>
+<TIME> 19.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Cumhurbaşkanı Sezer, kadastro yasa tasarısını onayladı 
+</HEADLINE>
+<TEXT>
+
+     Cumhurbaşkanı Ahmet Necdet Sezer, Türkiye'deki taşınmazların kadastro çalışmalarının 3 yıl içinde tamamlanmasına yönelik düzenlemeler içeren 04 sayılı ''Kadastro Kanunu'nda Değişiklik Yapılması Hakkında Kanun''u onayladı. 
+     Cumhurbaşkanlığı Basın Merkezi'nden yapılan açıklamaya göre, kanun, yayımlanmak üzere Başbakanlığa gönderildi. 
+     04 sayılı ''Kadastro Kanunu'nda Değişiklik Yapılması Hakkında Kanun'', ülke koordinat sistemine göre memleketin kadastral veya topografik haritasına dayalı olarak taşınmaz malların sınırlarını arazi ve harita üzerinde belirterek hukuk durumlarını tespit etmeyi, Türk Medeni Kanunu'nun öngördüğü tapu sicilini kurmayı ve mekansal bilgi sisteminin altyapısını oluşturmayı amaçlıyor. 
+     Kanun, kadastro teknisyeni veya kontrol memurunun da katılımı koşuluyla kadastronun fenni işlerinin ihale edilebilmesine imkan tanınıyor. 
+     Kanuna göre, çalışma alanında bulunan ve kadastrosuna başlanmamış ormanların kadastrosu, Orman Genel Müdürlüğü mühendislerinin katılımıyla Tapu ve Kadastro Genel Müdürlüğü tarafından yapılacak. 
+     Kadastro komisyonlarında veya kadastro hizmetlerinde görev yapan personele, arazide fiilen çalıştıkları süreler için hizmetin ağırlığı ve sorumluluğuna göre tespit edilebilecek miktarda aylık ödenek verilecek. 
+     İmar planı bulunmayan yerlerde kadastrodan önce hissedarlar veya mirasçılar tarafından ayırma veya birleştirme suretiyle taksim edilmiş ve sınırları belirlenmiş taşınmaz malların fiilen oluşan sınırlarına göre tespiti yapılacak. 
+     Tespit, tescil veya sınırlandırma suretiyle kadastro veya tapulaştırması daha önce yapılmış yerlerde yeniden kadastro yapılamayacak, yapılsa bile hükümsüz sayılacak. 
+     Tapulama ve kadastro çalışmalarında tespit dışı bırakılan kamu kurum ve kuruluşlarına ait yerlerin tespiti yapılacak. 
+     Kadastro sırasında veya sonrasındaki işlemlerle geometrik durumları kesinleşmiş olan taşınmazlarla ilgili hatalar, ilgilinin başvurusu üzerine veya kadastro müdürlüğünce resen düzeltilecek. 
+     Düzeltme işleminin ilgilisine tebliğ edilmesinden itibaren 1 ay içinde dava açılmadığı takdirde yapılan düzenleme kesinleşecek. 
+     Kadastro veya tapulama haritaları, arazi kontrolü yapılmak suretiyle sayısal hale getirilecek. Sayısallaştırma çalışmalarının sonucu ilan edilecek ve ilan süresi içerisinde dava açılmayan taşınmaz malların kayıtlarında gerekli düzeltme yapılacak. 
+     Tapu kayıtlarında sorunlu gözüken ve vakıf şerhi bulunan arazilerle ilgili hak sınırlandırma ve tespitlere ait itiraz ve dava açılması için öngörülen 10 yıllık zaman aşımı süresi uygulanmayacak. 
+     
+</TEXT>
+</DOC>

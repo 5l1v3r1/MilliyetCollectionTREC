@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 156807 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/15/son/sondun12.html </URL>
+<DATE> 2003/05/15/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+SARS, Hong Kong'ta internetten alışverişi artırdı 
+</HEADLINE>
+<TEXT>
+
+     Hong Kong'ta akut solunum yetmezliği sendromu SARS nedeniyle sokağa çıkmaya korkan insanlar, artık internetten daha çok faydalanıyor. 
+     İnternet izleme kuruluşu Nielsen NetRatings, alışveriş, eğitim, haber, sağlık ve banka sitelerinin artık daha fazla ziyaret edildiğini bildirdi. 
+     Kuruluş, Hong Kong'ta geçen ay Şubat ayına göre, aktif internet kullanıcılarının sayısındaki artışın çift basamaklı rakamlara ulaştığını açıkladı. 
+     Haber sitelerini ziyaret edenlerin sayısı yüzde 40 artarken, bu artışın eğitim portallarında yüzde 36, banka sitelerinde yüzde 27, alışveriş sitelerinde de yüzde 15 olduğu kaydedildi. 
+     Hong Kong'ta şu ana kadar SARS'tan 227 kişi öldü. 
+     
+</TEXT>
+</DOC>

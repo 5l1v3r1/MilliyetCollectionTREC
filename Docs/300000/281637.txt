@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> 281637 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/19/son/sontur27.html </URL>
+<DATE> 2004/10/19/ </DATE>
+<TIME> 13.15 </TIME>
+<AUTHOR> var Page Validators new Array document.all "regexpVal" , document.all "fvRequired"  </AUTHOR>
+<HEADLINE>
+Üniversite için 2. şans... ÖSYS ek yerleştirme sonuçlandı... 
+</HEADLINE>
+<TEXT>
+
+     Numaranızı yazıp "Gönder"i tıklayınız. 
+     ValidatorOnLoad function ValidatorOnSubmit if Page ValidationActive ValidatorCommonOnSubmit -- 
+</TEXT>
+</DOC>

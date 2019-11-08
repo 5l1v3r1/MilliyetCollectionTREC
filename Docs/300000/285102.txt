@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 285102 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/01/son/soneko33.html </URL>
+<DATE> 2004/11/01/ </DATE>
+<TIME> 16.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Petrol fiyatları haftaya yükselişle başladı... 
+</HEADLINE>
+<TEXT>
+
+     Uluslararası borsalarda petrol fiyatları, haftanın ilk işlem gününde yükseliş eğilimini korudu. 
+     New York Borsası'nda 55 sent yükselen ABD hafif petrolünün varili, 52.31 dolardan satılıyor. ABD'de başkanlık seçimi yanında iyice yaklaşan kış mevsimi için rafineri ürün stokları, borsada merakla beklenen konular arasında bulunuyor. 
+     Londra Borsası'nda işlem gören Brent petrolünün varili ise 40 sentlik yükselişle 49.38 dolardan satılıyor. 
+     ''ABD'de başkanlığı Bush'un ya da Kerry'nin kazanması petrol piyasasında çok şey değiştirmez'' diyen Mitsui Bussan vadeli işlemler analistlerinden Tetsu Emori, başkanlık seçiminde oluşabilecek karışıklık veya ertelemenin piyasalarda endişeleri körükleyerek fiyat artışlarına yol açacabileceğini kaydetti. 
+     Nijerya'daki genel grev kararının bu ülkenin petrol sevkıyatını pek etkilemeyeceğini kaydeden uzmanlar, Çin'in geçen hafta beklenmedik bir şekilde faiz artırımı kararı almasının ekonomiyi bir miktar soğutabileceğini, fakat devlet destekli perakende fiyatları üzerinde fazla etkili olamayacağı için ülkenin petrol talebininin önemli bir yavaşlama göstermeyeceğini ifade ediyorlar. 
+     
+</TEXT>
+</DOC>

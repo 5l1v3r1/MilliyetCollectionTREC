@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 99332 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/08/01/son/sondun11.html </URL>
+<DATE> 2002/08/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+BMW'nin iki modelinde üretim hatası çıktı... 
+</HEADLINE>
+<TEXT>
+
+     BMW'nin ürettiği mini one, mini cooper ve arazi tipi X5 modeli otomobillerinde üretim hatası olduğu açıklandı. 
+     BMW'den yapılan açıklamada, araç sahiplerinin haberdar edildiği ve yaklaşık 95 bin mini one, mini cooper ile X5 modeli otomobilin yetkili servislere getirilmesi gerektiği bildirildi. 
+     BMW yetkilileri, mini one ile mini cooper modellerinde vites bağlantı kayışının hatalı monte edildiği, arazi tipi X5 modelinde ise fren pedalında hata olduğunun saptandığını belirttiler. 
+     BMW'nin Haziran ayı sonuna kadar dünya genelinde 38 bin 700 mini one ile mini cooper ve 56 bin X5 sattığını ifade eden yetkililer, otomobillerdeki üretim hatasının giderilmesinin BMW'ye 6,3 milyon euroya malolacağını söylediler. 
+     
+</TEXT>
+</DOC>

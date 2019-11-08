@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 302446 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/01/son/sontur08.html </URL>
+<DATE> 2004/01/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+SSK-Sağlık Bakanlığı hastaneleri ortak kullanımı başladı... 
+</HEADLINE>
+<TEXT>
+
+     SSK-Sağlık Bakanlığı hastanelerinin ortak kullanımı protokolü, bugünden itibaren 81 ilde uygulanmaya başlandı. 
+     Ankara, İzmir, İstanbul, Yalova, Sivas, Rize, Bolu, Düzce, Sakarya, Bingöl ve Kocaeli illerinde uygulanmakta olan ortak kullanım, bugünden itibaren Türkiye geneline yaygınlaştırılıyor. 
+     Uygulamanın sorunsuz yürütülebilmesi için gerekli protokol metni ve genelgeler, 70 ildeki tüm sağlık kuruluşlarına gönderildi. 
+     Ortak kullanım protokolünde, sevk zorunluluğu kalktı. SSK'lı hastalar, 81 ilde sağlık ocaklarından sevk almak zorunda kalmadan doğrudan devlet hastanelerine başvurabilecek. 
+     Protokolde yapılan yeni düzenlemeyle, 65 yaş üzerinde yaşlılık ve malullük aylığı alanlar da ortak kullanımdan yararlanacak. 
+     
+     SSK'LININ İLAÇ SORUNU ÇÖZÜMLENEMEDİ 
+     Bu arada, SSK ve devlet hastanelerinin ortak kullanımına ilişkin uygulamanın üzerinden 5 ay geçmesine rağmen, SSK'lıların ilaç sorunu çözümlenemedi. 
+     1 Temmuz 2003'te uygulamaya konulan Ortak Kullanım Protokolü ile SSK'lı hastaların ilaçlarının karşılanabilmesi için devlet hastanelerine SSK eczaneleri açıldı. 
+     Ancak, sağlık ocaklarından hizmet alan SSK'lıların ilaçlarını temin etmek için sağlık ocağına yakın eczanelerle sözleşme hala yapılamadı. 
+     Çalışma ve Sosyal Güvenlik Bakanlığı, ilaç sektörüyle bu meselenin görüşmelerini yapıyor ve belli bir ortak noktaya gelinerek ayaktan hasta reçetelerinin tamamen eczanelere yönlendirilmesi çalışmaları sürdürülüyor. 
+     
+</TEXT>
+</DOC>

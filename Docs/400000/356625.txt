@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 356625 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/29/son/soneko44.html </URL>
+<DATE> 2005/06/29/ </DATE>
+<TIME> 16.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Akbank'tan ''tuzak site'' uyarısı... 
+</HEADLINE>
+<TEXT>
+
+     Akbank, müşterilerini tuzak e-posta ve internet sitelerine karşı uyardı. 
+     Alınan bilgiye göre, Akbank müşterilerine gönderdiği e-postada, son günlerde internet üzerinde, bankaları adına gönderilmiş gibi görünen ve Akbank İnternet Şubesi'ne benzer şekilde tasarlanmış ''www.akbank-online.com'' adresli tuzak bir siteye link veren bir e-postanın dolaştığını bildirdi. 
+     Dolandırıcılık amaçlı bu e-postada Akbank logosu altında uyarı yapıldığına dikkat çekilen açıklamada, şöyle denildi 
+     ''İnternet şubemize benzer görüntüdeki bu siteden şifre bilgileri istenmektedir. Lütfen bu ve benzeri e-postalardaki linklere tıklamayınız ve hemen siliniz. Akbank e-postalarından hiçbir zaman İnternet Şubesi'ne doğrudan link vermemekte ve kesinlikle şifre ve kişisel bilgiler talep etmemektedir. Eğer böyle bir e-postayı açarak verilen linkteki sayfaya şifre bilgilerinizi girdiyseniz, 444 25 25 numaralı telefonu arayarak şifrenizi yenileyiniz.'' E-postada, Akbank'ın web adreslerinin ''www.akbank.com ve www.akbank.com.tr' olduğu belirtilerek, müşterilerin Akbank İnternet Şubesi'ne girmek için internet tarayıcısının adres alanına bankanın web adreslerini kendilerinin yazması önerildi. 
+     
+</TEXT>
+</DOC>

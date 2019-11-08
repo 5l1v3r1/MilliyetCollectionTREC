@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 362059 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/18/son/soneko12.html </URL>
+<DATE> 2005/07/18/ </DATE>
+<TIME> 10.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+"Sanayi bilgi sistemi" oluşturuluyor... 
+</HEADLINE>
+<TEXT>
+
+     Devlet İstatistik Enstitüsü DİE , Türkiye Elektrik Dağıtım A.Ş TEDAŞ , Türkiye Odalar ve Borsalar Birliği TOBB , Maliye Bakanlığı, SSK gibi kuruluşların elindeki bilgiler tek bir havuzda toplanarak, ''Sanayi Bilgi Sistemi'' oluşturulacak. 
+     Devlet Planlama Teşkilatı DPT ve DİE yetkililerinden edinilen bilgiye göre, özellikle elektrik tüketimi, istihdam verileri, vergi bilgileri ve buradan hareketle cirolar ile kapasite ve üretime ilişkin bilgilerin tek bir havuzda toplanarak DİE tarafından işlenmesi gündeme geldi. 
+     
+     ÖNCÜ GÖSTERGE OLACAK 
+     Buradan elde edilecek bilgilerin, alt sektör bazında ve bölgesel olarak işlenip açıklanması hedeflenirken, bu bilgilere bakarak yeni yatırımcıların veya mevcut işletmelerin faaliyetlerini ayarlayabileceği ifade ediliyor. 
+     Bu verilerin ''canlı bilgiler'' olacağı ve ekonomide öncü gösterge rolü oynayacağına da işaret ediliyor. 
+     
+     HANGİ KURULUŞ NE YAPIYOR 
+     DİE'nin sanayi sayımı ve üretime ilişkin bilgileri takip ettiği ancak bunun ihtiyaca tam olarak cevap veremediği belirtilirken, TOBB'un elinde de kapasiteye ilişkin bilgiler bulunduğu, ancak bunun da güncel olarak sürdürülemediği vurgulanıyor. 
+     Maliye'nin matrahlardan hareketle ciroları ortaya çıkardığı, ancak bunu işleyemediği, TEDAŞ'ın ise sadece abone bazında bilgiye sahip olduğu hatırlatılıyor. 
+     Diğer kuruluşlar ile birlikte SSK'dan alınacak bilgilerin de derlenerek, bunların birbirini doğrulayarak biçimde şekillendirilmesi ve kamuoyuna sunulması hedefleniyor. 
+     
+     GELİNEN AŞAMA 
+     Tüm bilgilerin DİE'de toplanarak, Enstitünün bunları işlemesi konusunda bir konsensüs oluşurken, kuruluşların yazılı olarak konuya ilişkin görüşlerini vermesi bekleniyor. 
+     Sistemin işleyişinde ilgili kurumların veri havuzuna giriş yaparak bilgileri aktarması, DİE'nin de elindeki verilerle bunları birleştirerek göstergeleri yayınlaması düşünülüyor. 
+     Burada sorunun, bilgilerin karşılaştırılabilir ve eşleştirilebilir olması için ilgili kuruluşlarının vergi numarası veya vatandaşlık numarası ile bilgileri sisteme aktarmasında olduğu ifade edilirken, kuruluşların bunu ne kadar kısa sürede sağlayabilirse, sistemin de o kadar kısa sürede oluşturulabileceğine vurgu yapılıyor. 
+     
+</TEXT>
+</DOC>

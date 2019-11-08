@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 201239 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/11/ekonomi/eko01.html </URL>
+<DATE> 2003/12/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İflas yerine uzlaşma dönemi 
+</HEADLINE>
+<TEXT>
+
+   İcra İflas Yasası'ndaki değişiklik ödeme güçlüğü içindeki sermaye şirketleri ve kooperatiflerin iflası yerine borçlarını yeniden yapılandırmasını sağlayacak 
+   ANKARA Milliyet 
+   
+   İcra ve İflas Yasası'nda değişiklik yapılmasına dair taslak, "sermaye şirketleri ve kooperatiflerin uzlaşma yoluyla yeniden yapılandırılması" adıyla yeni bir kurum getiriyor. 
+   Bu kurum, ödeme güçlüğü içine düşen sermaye şirketleri ve kooperatiflerin iflasına karar verme yerine, bunların kurtarılmalarının mümkün olması durumunda faaliyetlerine devam etmeleri için borçlarının yeniden yapılandırılmasını sağlayacak. Vadesi gelen borçlarını ödeyemeyecek durumda olan, alacakları borçlarını karşılamaya yetmeyen sermaye şirketleri veya kooperatifler, alacaklıları ile borçlarının yeniden yapılandırılması konusunda uzlaşabilecek. Bir proje üzerinde anlaşılırsa, asliye ticaret mahkemesine uzlaşma yoluyla yeniden yapılandırma için başvurabilecekler. Borçlunun sadece projeden etkilenen alacaklılarla uzlaşması yeterli olacak. 
+   Mahkeme, başvuru hakkındaki karar kesinleşinceye kadar borçlunun malvarlığını korumaya yönelik tedbirleri alabilecek. Ara dönemde borçlu, kredi gibi finansman araçlarına başvurabilecek. Mahkeme, borçlunun yeniden yapılandırmaya iyi niyetle başvurduğunu, gerekli şartların yerine geldiğini ve projeyi reddetmiş olan her alacaklının projeyle eline geçecek miktarın en az iflas tasfiyesi sonunda eline geçecek miktara eşit olduğunu tespit ettiği takdirde, en geç 30 gün içinde başvurunun tasdikine, aksi halde reddine karar verecek. Karar tebliğinden itibaren 10 gün içinde temyize gidilebilecek. 
+   
+   Kusur iflas nedeni 
+   Borçlunun projeden doğan yükümlülüklerini yerine getirmemesi halinde, durum, mahkemeye bildirilecek. Mahkeme, borçlunun yükümlülüklerini yerine getirmediğini, projenin uygulanmayıp tadilinin de söz konusu olmadığını veya finansman alacaklısının alacağını elde edemediğini tespit edince derhal borçlunun iflasına hükmedecek. 
+   Konkordatoda veya sermaye şirketleri ile kooperatiflerin uzlaşma yoluyla yeniden yapılandırılmasında yetkili kimseleri hataya düşüren ya da konkordato veya uzlaşma yoluyla yeniden yapılandırma koşullarına uymayan borçlu, altı aydan bir yıla kadar hapis ile cezalandırılacak. 
+   Taslağın yasalaşma tarihinden itibaren iki ay içinde Adalet Bakanlığı'nca sermaye şirketleri ve kooperatiflerin uzlaşma yoluyla yeniden yapılandırılmasının uygulanmasına ilişkin yönetmelik yürürlüğe konulacak. 
+   
+   Enflasyon muhasebesinde uzlaşma    Türkiye Odalar ve Borsalar Birliği'nde TOBB düzenlenen ve Maliye, Sanayi, Tarım Bakanlarının da katıldığı ticaret odaları konsey toplantısında, enflasyon muhasebesine 2004'te geçilmesi konusunda uzlaşma sağlandı. Bu konudaki yasa tasarısı bugün Plan ve Bütçe Komisyonu'nda görüşülecek. Buna göre üç hesap döneminde toptan eşya fiyat artışının yüzde 100'ü aşması, hesap dönemindeki artışın ise yüzde 10'dan fazla olması halinde mali tablolar enflasyon düzeltmesine tabi tutulacak. 
+   Ayrıca gayrimenkul ile iştirak hisselerinin satışından sağlanan kazancın sermayeye eklenmesiyle doğan kazançların Kurumlar Vergisi'nden istisna edilme uygulamasının süresi uzatılacak. Kamu kuruluşlarına yapılan mal ve hizmet satış bedellerinin mükellefin vergi ile diğer borçlarından mahsup edilmesi için Maliye Bakanlığı sistem geliştirecek. 
+   
+   
+</TEXT>
+</DOC>

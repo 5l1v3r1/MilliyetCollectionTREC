@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 196127 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/17/son/soneko28.html </URL>
+<DATE> 2003/11/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Cezaevi ve mahkemelere bilgisayar ağı kurulacak... 
+</HEADLINE>
+<TEXT>
+
+     Cezaevleri, adliye merkezleri ve bölge idare mahkemelerinin merkez ve taşra birimlerindeki günlük çalışmaların bilgisayar yardımıyla yapılması ve tüm verilerin merkezi veri tabanlarında tutularak izlenmeye başlanması için gerekli yerel iletişim ağının kurulmasını amaçlayan Adalet Bakanlığı Ulusal Yargı Ağı Projesi UYAP -II projesi ihalesini, Oyak Teknoloji Oytek kazandı. 
+     Oyak Teknoloji'den yapılan yazılı açıklamaya göre, Projenin Taşra Birimleri Yapısal Kablolama İşi ihalesine ait sözleşme, Adalet Bakanı Cemil Çiçek ile OYAK Teknoloji Yönetim Kurulu Başkanı Caner Öner ve Genel Müdürü Altay Elbek tarafından imzalandı. 
+     Yaklaşık 2 trilyon liraya mal olacak projenin 70 günlük süre içinde tamamlanması öngörülüyor. Proje kapsamında 67 ilde yerleşik 75 adliye binası, 9 bölge idari mahkemesi ile 97 cezaevinde toplam 9 bin 180 kullanıcının yararlanabileceği data ve elektrik altyapısı tesis edilecek. 
+     OYAK Teknoloji, sözleşme kapsamında Yerel Alan Ağı'nın kurulması için gerekli iletişim cihazlarını da sağlayarak bu ürünlerin kurulumu ve entegrasyonu ile 3 yıllık garanti süresince bakım hizmetini verecek. 
+     OYAK Teknoloji Genel Müdürü Altay Elbek, ihaleyle ilgili yaptığı açıklamada, Anayasa'nın 141'inci maddesinde adalet hizmetlerinin hızlı, güvenilir, etkin ve ekonomik olarak yürütülmesinin yargının görevi olarak belirtildiğine işaret ederek, şunları kaydetti 
+     ''Adalet Bakanlığımız da bu görevin ancak teknolojik imkanların kullanılmasıyla tam olarak yerine getirilebileceğinin farkında. Bu bağlamda Ulusal Yargı Ağı Projesi UYAP fiilen başlatılmıştır. Proje, yüksek yargı organları ve yargı için bilgi temininde vazgeçilmez özellikte bulunan kurumları da sisteme dahil ederek, Adalet Bakanlığı merkez teşkilatı ile birlikte tüm mahkemeler, Cumhuriyet Başsavcılıkları ve icra dairelerini içine alacak şekilde bilgisayar ağı kurma ve uygulama yazılımı geliştirme çalışmalarını kapsamaktadır.'' Elbek, OYAK Teknoloji olarak projenin 2. fazı için açılan ihaleyi kazanmış olmaktan mutlu olduklarını bildirdi. 
+     
+</TEXT>
+</DOC>

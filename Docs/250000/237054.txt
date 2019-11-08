@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 237054 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/04/guncel/gun04.html </URL>
+<DATE> 2004/05/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Emniyet'te 'e-kulak' skandalı 
+</HEADLINE>
+<TEXT>
+
+
+ANKARA ANKA 
+
+Emniyet'in kişisel elektronik posta adreslerini izlediği, yine Emniyet'in yaptığı yanlışlıkla ortaya çıktı. Sanat ve Hayat dergisine görüşlerini mail yoluyla aktarmak isteyen okuyucuların adreslerine İstanbul Emniyeti'nden uyarı e - postaları gönderildi. Bu mesajlarda, "Mail göndermek istediğiniz kullanıcının mail kutusunda yeterli boş alan kalmamıştır. Kullanıcıyla irtibata geçerek mail kutusunu boşaltmasını öneriniz" ifadesi yer aldı. Türkiye'nin en büyük bilgi işlem ağına sahip Emniyet Genel Müdürlüğü'nün bazı e - posta adreslerini kendisine yönlendirerek izlemeye aldığı, böylece bu adreslerden yapılan yazışmaların bir kopyasının Bilgi İşlem Merkezi'nin sistemine kaydedildiği belirtildi. 
+Bilgi İşlem Müdürlüğü yetkilileri, mail adresinin kendilerine ait olduğunu belirtirken, e - postaların "spam" olarak gönderildiğini bildirdi. Yetkililer, e - postaların Emniyetçe izlendiğini kabul etmezken, olayı 'virüs olabilir" diye değerlendirdi. 
+
+
+
+
+</TEXT>
+</DOC>

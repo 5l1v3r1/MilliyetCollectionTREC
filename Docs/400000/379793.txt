@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 379793 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/19/son/sonyas13.html </URL>
+<DATE> 2005/09/19/ </DATE>
+<TIME> 14.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Siber saldırılar, masaüstü bilgisayarlara kayıyor... 
+</HEADLINE>
+<TEXT>
+
+     Siber saldırıların, ağlardan masa üstü bilgisayarlara kaydığı bildirildi. 
+     Symantec, İnternet Güvenlik Tehditleri Raporu'nun sekizincisini yayınladı. 1 Ocak-30 Haziran 2005 tarihleri arasındaki altı aylık dönemi kapsayan rapor, son dönemdeki saldırıların para kazanma amacına yönelik olduğu ve masaüstü bilgisayarlara yönelik tehditlerin kurumsal saldırıların önüne geçtiğini ortaya koydu. 
+     Raporda ayrıca, kişisel bilgilerin ele geçirilmesindeki artışa dikkat çekilirken, bu tür tehditlerin özellikle kredi kartı veya banka bilgileri ele geçirilmiş ise ciddi miktarlarda finansal kayba yol açtığı kaydedildi. 2005'in ilk yarısında, Symantec'in tespit ettiği en yaygın ve etkili 50 kötü amaçlı programın yüzde 74'ünü bu tür kişisel bilgileri elde etmeye yönelik programlar oluşturuyor. Bir önceki 6 aylık dönemde ise bu oran yüzde 54'tü. 
+     Rapora göre, saldırganlar ağlara yönelik geniş ve çok amaçlı saldırılardan, web ve kullanıcı bazlı ve daha hedefli saldırılara kayıyor. 
+     Symantec, tehditlerin sürekli değişmekte olduğundan kullanıcıların sistemlerinin güvenlik yamalarını aksatmamalarını ve güvenlik yazılımlarını güncel tutmalarını öneriyor. 
+     
+     KİMLİK HIRSIZLIĞI SALDIRILARI ARTIYOR 
+     Raporda ayrıca, bir banka veya benzeri bir finansal kuruluşun sitesinin ön yüzü taklit edilerek, kullanıcının bu siteye yönlendirilmesiyle kimlik bilgilerinin çalınması olarak adlandırılan ''phishing'' saldırılarındaki artışın sürdüğü de belirtiliyor. 
+     Phishing amaçlı mesajların sayısı günlük 2.99 milyondan 5.7 milyona çıktı. Symantec Brightmail AntiSpam tarafından taranan her 125 mesajdan biri phishing amaçlı. Bu rakam bir önceki döneme göre yüzde 100 artış gösterdi. 
+     Yılın ilk yarısında Symantec 1,862 yeni güvenlik açığı tespit etti. Bu, bugüne kadar tespit edilen en yüksek rakam. Söz konusu açıkların yüzde 97'si orta veya yüksek düzeyde risk taşıyan açıklar ve yüzde 59'u web uygulamalarından kaynaklanıyor. 2004'ün aynı dönemiyle karşılaştırılınca yüzde 109'luk bir artış gözlendi. 
+     Ayrıca ilk yarıda Win32 virüs ve solucan türevlerinde dikkat çekici bir artış belirlendi. Symantec, bu dönemde 10,866 yeni Win32 virüs ve solucan türevi tespit etti. Bir önceki döneme göre bu rakam yüzde 48 artarken, 2004'ün ilk yarısı ile karşılaştırıldığında bu artış yüzde 142 oldu. 
+     Reklam, casus yazılımlar ve spam de artmaya devam ediyor. Her 10 reklam yazılımının 8'i web tarayıcılar kanalıyla yükleniyor. En yaygın 10 reklam yazılımının 5'i tarayıcıları ele geçirerek, bilgi sızdırıyor. En yaygın 10 casus yazılımından 6'sı diğer programlarla geliyor ve 6'sı web tarayıcılarla yükleniyor. Tüm e-posta trafiğinin yüzde 61'inin spam olduğu ve tüm spam mesajların yüzde 51'inin de ABD kaynaklı olduğu da rapordaki bir diğer önemli veri. 
+     İleriye yönelik tehditler ve saldırılara bakıldığında ise özellikle kablosuz ağların tehdit altında olduğu bildiriliyor. Ayrıca kurumların veri ve ses ağlarını entegre etmesiyle Voice over İnternet protocol VoIP tehditlerde de artış olması bekleniyor. 
+     
+</TEXT>
+</DOC>

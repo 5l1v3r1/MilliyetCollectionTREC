@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 58101 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/12/20/son/sondun12.html </URL>
+<DATE> 2001/12/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Aman dikkat... Her "yeni yılınız kutlu olsun" mailini açmayın 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayar kullanıcıları, yıl sonundan yararlanılarak kutlama mesaji şeklinde gönderilen yeni bilgisayar virüsüne karşı uyarıldı. 
+     Amerikan Virüs Programı Derneği Computer Associates International tarafından yapılan açıklamada, kullanıcılar uyarılırken, ''Happy New Year'' Yeni Yılınız Kutlu Olsun başlığıyla yeni yıl tebriği şeklinde gelen elektronik postanın metninde, ''Selam, hislerimi tarif edemem, ama tek söyleyebileceğim Mutlu yıllar, hoşçakal'' ifadesinin kullanıldığı belirtildi. 
+     Açıklamada, mesaj açıldığında bilgisayarın klavyesindeki bazı tuşların kitlendiği ve Windows işletim sistemindeki dosyaların silindiği, mesajların dünyanın en yaygın elektronik posta programı olan Microsoft Outlook'unda kayıtlı bütün kullanıcılara gönderildiği kaydedildi. 
+     Computer Associates, henüz kaç kişinin ''yeni yıl virüsü'' yüzünden zarara uğradığının bilinmediğini de açıkladı. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

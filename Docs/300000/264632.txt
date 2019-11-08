@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 264632 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/19/yasam/yas18.html </URL>
+<DATE> 2004/08/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+En küçük helikopter 
+</HEADLINE>
+<TEXT>
+
+
+DIŞ HABERLER SERVİSİ 
+
+SEIKO Epson Corp.'un geliştirdiği helikopter benzeri uçan robotun yakında güvenlik ve arama kurtarma, hatta uzay operasyonlarında rol oynaması bekleniyor. 12.3 gram ağırlığındaki "Mikro Uçan Robot"a bilgisayarla kumanda ediliyor. 
+ROBOT, sahip olduğu dijital kamera sayesinde girdiği kovuklardan çektiği fotoğrafları kumanda merkezine gönderebiliyor. Tokyo'da tanıtımı yapılan robot, kısıtlı pil ömrü yüzünden şimdilik sadece 3 dakika uçabiliyor. 
+
+
+</TEXT>
+</DOC>

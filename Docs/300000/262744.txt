@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 262744 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/12/son/soneko03.html </URL>
+<DATE> 2004/08/12/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     New York Menkul Kıymetler Borsası'nda endeksler günü düşüşle kapattı. 
+     Dow Jones endeksi 6.35 puan düşüşle 9.938.32'ye, Nasdaq endeksi ise 26.28 puan azalarak 1.782.42'ye indi. 
+     
+</TEXT>
+</DOC>

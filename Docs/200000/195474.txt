@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 195474 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/14/son/sondun09.html </URL>
+<DATE> 2003/11/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft, AB'ye sert çıktı Standardı düşük Windows kullanırsınız 
+</HEADLINE>
+<TEXT>
+
+     Yazılım devi Microsoft firması, kendisine karşı savaş açan AB ülkelerini, ''taleplerinde ısrar etmeleri halinde, standardı düşük Windows işletim sistemi kullanmak zorunda kalabilecekleri'' konusunda uyardı. 
+     AB ülkeleri, Microsoft'un Windows işletim programını Avrupa için baştan yazmasını ve Windows Media Player WMP gibi müzik programlarını işletim sisteminden ayırmasını istiyorlar. Bu ülkeler, Microsoft'u, Windows sisteminin dünyadaki bilgisayarların yüzde 95'inde kullanılmasından kaynaklanan pozisyonunu koz olarak kullanmakla da suçluyorlar. 
+     Konuyla ilgili olarak taraflar arasında yapılan toplantıdan sonra gazetecilere açıklamada bulunan Microsoft genel danışmanı Brad Smith, ''sorunun dostane şekilde çözümleneceğine inandığını'' söyledi. 
+     Smith, ''Microsoft'un, Avrupa Komisyonu'nun sorularını yanıtlamak ve kaygılarını gidermek için her yolu deneyeceğini'' de sözlerine ekledi. 
+     
+     KOMİSYON NE İSTİYOR 
+
+     AB Komisyonu, bilgisayarlara hangi programların yerleştirileceğine Microsoft'un değil, bilgisayar üreticilerinin karar vermesini istiyor. 
+     Ancak toplantıya katılan kaynaklar, ''Microsoft'un Komisyonla anlaşmaya varmak için WMP'i Windows sisteminin dışında bırakmaya yanaşmayacağını açıkça ifade ettiğini'' söylediler. 
+     Microsoft'un müzik çalar yazılımı olan WMP'in en büyük rakipleri, RealNetworks tarafından üretilen Real Player ile Apple tarafından üretilen Quicktime. 
+     Microsoft, 1999'dan sonra WMP'yi Windows sisteminin içine dahil etmiş ve bu tarihten itibaren WMP'in pazar payı hızla genişlemişti. AB Komisyonu, WMP Windows ile birlikte geldiği için, kimsenin fazladan para ödeyerek Real Player ya da Quicktime programlarını satın almayacağını düşünüyor. Komisyon, WMP'nin ayrı bir ürün olduğunu savunurken, Microsoft bunun, Windows'un bir fonksiyonu olduğunu iddia ediyor. 
+     Microsoft, 1990'lı yıllarda internet tarayıcısı IE'nin de Windows'un fonksiyonu olduğunu öne sürmüş ve bu yüzden ABD Adalet Bakanlığı ile mahkemelik olmuştu. Davaya bakan yargıç, Microsoft'a IE'yi Windows'tan ayırmasını emredince, kuruluş düşük standartlı bir Windows programı hazırlamıştı. Daha sonra oluşturulan bilirkişi heyeti, ''IE ayrıldığı takdirde, Windows'un gerektiği gibi çalışmayacağı'' yönünde rapor vermiş ve dava kapanmıştı. 
+     AB Komisyonu'nun konuyla ilgili kararını en geç 2004 haziranında vereceği bildiriliyor. O tarihe kadar taraflar anlaşmaya varamadıkları takdirde, konu mahkemeye intikal edecek. 
+     
+</TEXT>
+</DOC>

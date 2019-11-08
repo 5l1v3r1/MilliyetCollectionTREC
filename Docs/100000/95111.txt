@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 95111 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/07/11/son/soneko01.html </URL>
+<DATE> 2002/07/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düştü 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası'nda Dow Jones ve Nasdaq endeksleri düştü. 
+     Borsanın temel göstergesi Dow Jones endeksi, 280 puandan fazla düşerek,Ekim ayından bu yana ilk kez 9000 puan seviyelerinin altına indi. 
+     Dow Jones endeksi 282.59 puan yüzde 3.1 düşerek, günü 8,813.50 puandan tamamladı. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq endeksi de 35.11 puan yüzde 2.5 düşerek, günü 1,346.01 puandan kapattı. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

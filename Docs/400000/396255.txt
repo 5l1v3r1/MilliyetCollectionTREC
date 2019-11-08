@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 396255 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/19/yasam/yas08.html </URL>
+<DATE> 2005/11/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternetten koku indir 
+</HEADLINE>
+<TEXT>
+
+
+
+Japonya'nın NTT Communications adlı telekom firması, ekrandan seçilen kokunun internetten 'indirilmesine' imk n veren bir hizmet başlattı. Kullanıcılar, bu hizmete her bilgisayarla ulaşabilecek. Ancak bunun için, bilgisayara koku esansları içeren 900 YTL'lik özel bir kutu bağlanması gerekiyor. Kullanıcı, istediği koku için firmanın internet sitesine girecek. Kokunun kompozisyonuna ilişkin veriler, internet üzerinden PC'ye bağlı esans kutusuna iletilince oluşacak koku kutudan yayılacak. 
+
+
+</TEXT>
+</DOC>

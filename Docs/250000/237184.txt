@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 237184 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/04/son/soneko22.html </URL>
+<DATE> 2004/05/04/ </DATE>
+<TIME> 13.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yeni Türk Lirası çalışmaları internetten izlenebilecek... 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası, paradan altı sıfır atılmasına ilişkin olarak sürdürülen çalışmalar konusunda kamuoyunu bilgilendirmek amacıyla internette bir site açıldığını bildirdi. 
+     Merkez Bankası'ndan yapılan açıklamaya göre, Yeni Türk Lirası paradan altı sıfır atılması çalışmaları ile ilgili gelişmeler konusunda hem kamuoyunu bilgilendirmek hem de ilgililere çeşitli ayrıntılarda çözüm yöntemleri sunmak amacıyla http www.ytl.gen.tr adresi altında bir internet sitesi açıldı. 
+     Açıklamada, sitenin içeriğinin, konuyla ilgili çalışmaları kendi kurumlarının yanı sıra sektörleri açısından da koordine etmekte olan Maliye Bakanlığı, Sanayi ve Ticaret Bakanlığı, Hazine, Merkez Bankası, DİE, SPK, BDDK tarafından ortak sahiplik ilkesi çerçevesinde oluşturulduğu belirtildi. 
+     Siteyle, Yeni Türk Lirası YTL çalışmaları ve gelişmelerle ilgili bilgi almak isteyenlerin çok sayıda kaynaktan araştırma yapmalarına gerek kalmaması ve e-kapı portal yapısında bir bilgi bankasının oluşturulmasının hedeflendiği ifade edilen açıklamada, şöyle denildi 
+     ''Sitede kamuoyuna yönelik olarak YTL ile ilgili yasa, yönetmelik, genelge ve tebliğler bağlamındaki resmi belgelerin yanı sıra, sektörel koordinasyonu yürüten kurumların kendi sektörlerinde gerçekleştirdiği çalışmalara ilişkin bilgiler, toplantılara ait tutanaklar, gerekli gördükleri dokümanlar, sunumlar ve bildiriler yer alacaktır. Sitedeki içerik kurumsal ve sektörel bazda incelenebileceği gibi, site ana sayfasından tüm yeni haberlere ve içeriğe de ulaşmak mümkün olacaktır. 
+     Diğer yandan, YTL ile ilgili pek çok sorunun cevabı ile daha ayrıntılı bilgi almak isteyenler için koordinatör kurumların sağladıkları e-posta adresleri de sitede yer almaktadır.'' 
+     
+</TEXT>
+</DOC>

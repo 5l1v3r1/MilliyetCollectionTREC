@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 277963 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/07/yasam/yas01.html </URL>
+<DATE> 2004/10/07/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hangi 'cep' ne kadar radyasyon yayıyor 
+</HEADLINE>
+<TEXT>
+
+
+Cep telefonu üreticileri, ürünlerinin yaydığı radyasyonu internet üzerinde yayımlıyor. İyi haber, hiçbir telefon 'tehlikeli' değil 
+
+DIŞ HABERLER SERVİSİ 
+
+Avrupa'da yaygın kullanılan cep telefonlarının yaydığı radyasyon değerleri önceki günden itibaren internet üzerinden açıklanmaya başlandı. 
+Dünyanın belli başlı büyük cep telefonu üreticilerini biraraya getiren Cep Telefonu Üreticileri Forumu'nun MMF hazırladığı web sayfası, 300'den fazla cep telefonu için SAR adı verilen radyasyon değerlerine yer vermeye başladı. Telefonların yaydığı radyasyonun vücut tarafından emilme hızını gösteren radyasyon miktarlarının 0.12 watt kg değeri ile 1.5 watt kg değeri arasında değiştiği, ancak en büyük değerin dahi insan sağlığı için tehdit oluşturacak 2 watt kg düzeyine çıkmadığı görüldü. 
+
+Kitapçıkta yazacak 
+Bu konudaki kabul edilebilir değerleri belirleyen Uluslararası İyonize Olmayan Radyasyondan Koruma Komisyonu, 2 watt kg'ın üzerindeki radyasyonu tehlikeli buluyor. Bundan böyle, ürünlerinin yaydığı radyasyon değerlerini kitapçıklarda da göstermeye hazırlanan üreticilerin, radyasyon değerlerini cihazın ekranında da gösterilmesi taleplerini incelediği, ancak bazı firmaların böyle bir uygulamanın haksız rekabete yol açması endişesi taşıdığı bildirildi. 
+
+İşte o değerler Bazı cep telefonlarının yaydığı radyasyon değerleri şöyle Nokia 1100 0.67 Nokia 6230 0.59 Sony Ericsson T610 0.8 Nokia 6610 0.73 Motorola V525 0.9 Motorola MPx200 0.12 Sony Ericsson 2600 0.16 Samsung SGH E800 0.32 Nokia 9210 9210i 0.34. 
+Not Siteye www.sarvalues.com adresinden ulaşılabilir. 
+
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 400104 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/02/son/sonyas12.html </URL>
+<DATE> 2005/12/02/ </DATE>
+<TIME> 14.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Popüler internet telefonu Skype artık görüntülü... 
+</HEADLINE>
+<TEXT>
+
+     Kolaylığı sayesinde milyonlarca kullanıcısı bulunan internetin popüler telefon servisi Skype, hizmetlerine görüntülü telefonu da ekledi. 
+     Skype’ın ilk versiyonu gibi "www.skype.com" adresinden yeni hizmeti indirme olanağına sahip kullanıcılar, bilgisayarlarına ekledikleri bir web kamerası ile kolayca görüntülü konuşma imkanına kavuşacak. 
+     Skype’ın yeni hizmetinde görüntülü konuşma da tıpkı sesli konuşma gibi yapılıyor. Arayan kişi, listesindekilerden arayacağı kişiyi buluyor ve ekranın altındaki yeşil düğmeyi klikliyor. Aranan kişinin bilgisayarı bir web kamerasına bağlıysa görüntülü konuşma hemen başlıyor. 
+     En az diğer web temelli görüntülü konuşma hizmetleri kadar iyi olan Skype’ın görüntülü konuşma servisinde, görüntü ekranı genişletilebiliyor ve Skype ekranından ayrılarak, desktopun köşesine yerleştirilebiliyor. 
+     Yeni donanım kullanıcılarına diğerlerinin hangi saat diliminde olduklarını göstererek kolaylık sağlarken, muhataplarının konuşmaya müsait olup olmadıklarını da gösteriyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 123022 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/12/06/son/sontur07.html </URL>
+<DATE> 2002/12/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayar çocukların gelişimini hızlandırıyor... 
+</HEADLINE>
+<TEXT>
+
+     Erciyes Üniversitesi Mühendislik Fakültesi Bilgisayar Mühendisliği Öğretim Üyesi Doç. Dr. Şeref Sağıroğlu, yapılan araştırmalarda, haftada 18 saatini bilgisayar başında geçiren çocukların, kavrama, analiz ve koordinasyon yeteneklerinin astronotlar kadar geliştiğinin ortaya çıktığını söyledi. 
+     Sağıroğlu, yaptığı açıklamada, bilişim teknolojilerinin farklı yerlerdeki bilgiye ulaşma yollarını bilen, bunları kullanabilen ve karşılaştığı sorunlar karşısında bu bilgiyi kullanarak çözüm yollarını bulan bireylerin çoğalmasını sağladığını kaydetti. 
+     Bilişim teknolojileri ile desteklenen eğitimde, gerçekleşmesi zor olan deneylerin ve aktivitelerin kolaylıkla yapılabileceğine işaret eden Sağıroğlu, şunları anlattı 
+     ''Kişiler okuduklarının yüzde 10'unu, duyduklarının yüzde 20'sini, gördüklerinin yüzde 30'unu, hem gördüklerinin hem de duyduklarının yüzde 50'sini, söylediklerinin ya da anlattıklarının yüzde 70'ini, uygulayıp söylediklerinin yüzde 90'ını hatırladıkları düşünülürse, bilişim teknolojilerinin önemi bir kat daha iyi anlaşılmış olur. Bu noktada öğretmenlere önemli görevler düşmektedir. Bilişim teknolojilerinin gelişmesi, hayatı kolaylaştırsa da öğretmenlerin eğitim ortamındaki etkinliği ve sorumluluğunu daha da artırmıştır. Bilgisayar ve internetin eğitim alanında kullanılmasının yaygınlaşmasıyla, öğretmenlerin ders materyali hazırlama ve geliştirme konusundaki çabaları ve görevleri önemli hale gelmiştir.'' 
+     
+     "KAVRAMA, ANALİZ VE KOORDİNASYON YETENEKLERİ GELİŞİYOR" 
+     Bilgisayarın çocukların gelişimini hızlandırdığına işaret eden Sağıroğlu, şöyle devam etti 
+     ''İngiltere Ekonomi ve Sosyal Araştırma Konseyi'nin bilgisayar oyunlarına düşkün 100 çocuk üzerinde yaptığı araştırmada, haftada 18 saatini bilgisayar başında geçiren ve bir bu kadar saati de kitap okumaya ya da sosyal aktivitelere ayıran çocukların, kavrama, analiz ve koordinasyon yeteneklerinin astronotlar kadar geliştiği tespit edilmiştir. Bu çocukların bilgisayarla tanışmayan çocuklara oranla daha geniş bir arkadaş çevresi edindiği ve derslerinde daha başarılı oldukları da ortaya çıkmıştır. Ülkemizde yeni bir kavram olan bilişim teknolojilerinin yaygınlaşmasıyla, ezbercilikten uzak, hayatının her aşamasında 'neden, nasıl, niçin' sorularına cevap arayan ve hazır bir bilgi kaynağını kullanmaktan çok, her alanda doğru ve etkin bilgi kaynağına ulaşarak sorgulama yapabilen kişilerin sayısı artacaktır'' 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 347748 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/01/son/sondun10.html </URL>
+<DATE> 2005/06/01/ </DATE>
+<TIME> 08.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD, 'yalan haberlerle mücadele' için site kurdu... 
+</HEADLINE>
+<TEXT>
+
+     ABD Dışişleri Bakanlığı, ABD'deki olaylar, Irak operasyonu ve İslamiyet gibi konularda özellikle internette bazı sitelerde ortaya atılan yalan haber ve olumsuz söylentilerle mücadele amacıyla bir internet sitesi kurdu. 
+     Dışişleri Bakanlığı'nın yeni oluşturduğu bu sitede, ABD'yi özellikle Müslümanların gözünde küçük düşürmeyi amaçladığı ifade edilen birçok haber ve söylenti, kaynaklarıyla birlikte yayımlandı ve beraberinde ''doğru'' versiyonları verildi. 
+     Sitede, bu tür haberler arasında, Lübnan'ın eski başbakanı Refik Hariri'yi aslında ABD'nin öldürttüğü iddiasına yer verildi. Wayne Madsen adlı Amerikalı araştırmacı gazetecinin, söz konusu iddiayı 11 Mart'ta ortaya attığı belirtilerek, bu haber kesin dille yalanlandı. ABD Dışişleri Bakanlığı'nın sitesinde, ABD yasalarına göre yabancı liderleri öldürtmenin yasak olduğu, bu mevzuatın halen geçerli olduğu ve buna aykırı davranmanın suç oluşturacağı vurgulandı. 
+     İngilizce ve Arapça yayımlanan bu sitede yalanlanan haberler arasında, eski Irak Devlet Başkanı Saddam Huseyin'in aslında kahramanca savaşırken yakalandığı ve ABD kuvvetlerinin Irak'ta hardal gazı ve başka yasadışı silahlar kullandığı iddiaları da yer aldı. 
+     
+</TEXT>
+</DOC>

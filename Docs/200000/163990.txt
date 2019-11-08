@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 163990 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/18/son/sontur20.html </URL>
+<DATE> 2003/06/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternetteki sorun çözüldü... 
+</HEADLINE>
+<TEXT>
+
+     Cezayir'de meydana gelen depremin ardından sekteye uğrayan yurtdışı internet çıkış problemi, yeni kapasitelerin devreye verilmesiyle aşıldı. 
+     Türk Telekomünikasyon Anonim Şirketi'nden yapılan yazılı açıklamaya göre, büyük hasar gören SMW3 denizaltı fiber kablosunda restorasyon çalışmaları devam etmesine rağmen Türk Telekom, dün servise verilen 155 ve 622 Mbps'lik devreler sayesinde eskisinden yüksek bir kapasiteye sahip oldu. 
+     Arıza giderildikten sonra çözüm amaçlı servise verilen hatların devrede kalmaya devam edeceği ve internet yurtdışı çıkış kapasitesinin 2132 Mbps'ye ulaşacağı bildirildi. 
+     Deprem nedeniyle meydana gelen arıza öncesi çıkış kapasitesi, toplam 1132 Mbps idi. 
+     
+</TEXT>
+</DOC>

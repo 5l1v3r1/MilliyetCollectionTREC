@@ -1,0 +1,55 @@
+<DOC>
+<DOCNO> 137591 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/02/19/ekonomi/eko01.html </URL>
+<DATE> 2003/02/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Beş milyon kredi kartı hack’lendi 
+</HEADLINE>
+<TEXT>
+
+Bilgisayar korsanları hackerlar dünyanın en büyük iki kredi kartı şirketi Visa ve Mastercard’a ait 5 milyon kredi kartı bilgisini ele geçirdi. Şirketler alarma geçti 
+     EKONOMİ SERVİSİ 
+
+     ABD’de bir hacker bilgisayar korsanı 5 milyon Visa ve Mastercard müşteri bilgisini ele geçirdi. Visa ve Mastercard tarafından yapılan açıklamada hackerın kredi kartı bilgilerini ticari bir işlem sırasında şirketin güvenlik sistemini kırarak ele geçirdiği açıklandı. 
+     Analistler beş milyon kartın tümünün değiştirilene kadar hesap sahiplerinin risk altında bulunduğunu belirtirken, her iki şirket tarafından yapılan açıklamada, henüz bilgilerin kötü bir amaç için kullanıldığının tespit edilemediği’ belirtildi. 
+     
+     Kartlar değişmeli’ 
+     5 milyon kart bilgisinin ele geçirilmesi ile şoke olan dünyanın en büyük iki kart şirketi, kredi kartlarının güvenliğini nasıl sağlayacağını düşünüyor. Uzmanlar ise tekrar güvenlik sağlayabilmek için beş milyon kartın da değiştirilmesi gerektiği kaydediyor. 
+     
+     Risk altındalar’ 
+     Kredi kartı numaraları ödeme yaparken, uçak bileti alırken veya otomobil kiralarken kolaylıkla kullanılabildiği için haber tüketicileri de endişelendirdi. İngiliz kriminal uzmanı Peter Lilley, bazı hackerların bilgisayar sistemlerine sadece bu sistemlerin güvenli olmadığını ispatlamak amacıyla saldırdığını belirtiyor. 
+     Ancak yine de kart sahiplerinin risk altında olduğunu dile getiren Rilley, bilgisayar saldırılarının tüm zamanların en alt düzeyinde olmasına karşın yüksek profilli şirketlerin her zaman için hedef olduğunu söylüyor. 
+     
+Şirketler alarmda tüketiciler uyarıldı      Bu arada Visa sözcüsü tarafından yapılan açıklamada, "Kesin bir ifadeyle belirtmek gerekir ki bu riski ortadan kaldırmanın tek yolu beş milyon kartı değiştirerek sahiplerine yenilerinin verilmesidir. Bu da kolay değil. Birçok lojistik problem çıkabilir" denildi. 560 milyon Visa ve Mastercard’ın bulunduğu ABD’de her iki şirket de kendi müşterilerine uyarılar gönderiyor. 
+     Mastercard 2 milyon üyesinin hack edildiğini Visa ise yaklaşık 3.4 milyon kart sahibinin bilgilerine ulaşıldığını üyelerine haber veriyor. Bankalar da uyarılmış durumda. Öte yandan Visa’nın oluşturduğu bir ekip, çalışamlar yürütüyor ve kurumlarla görüşüyor. Visa ve Mastercard, müşterilerine güven vermek için, gerçekleştirmedikleri işlemlere karşı haklarını garanti ediyor. 
+     
+
+
+
+ EKONOMİ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

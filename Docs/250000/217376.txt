@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 217376 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/24/son/sondun11.html </URL>
+<DATE> 2004/02/24/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+En güvenilir işletim sistemi hangisi 
+</HEADLINE>
+<TEXT>
+
+     Yapılan bir araştırma, en güvenilir bilgisayar işletim sisteminin OS , sanıldığı gibi Windows ya da Linux değil, şimdiye kadar adı pek duyulmamış bir sistem olan Berkeley Software Distribution BSD ve Apple'ın en son geliştirdiği Mac OSX olduğunu ortaya koydu. 
+     Bilgisayar korsanlarının saldırıları baz alınarak yapılan araştırmanın sonuçlarına göre, Linux ''server''lerin saldırılara Windows'tan dayanıksız olduğu gün ışığına çıktı. 
+     Deneme amacıyla yapılan hacker saldırılarında Linux'un yüzde 80 oranında açık verdiği ve 13 bin 654 kere ''isabet aldığı'' belirtildi. Windows'un saldırılara karşı çok daha dayanıklı olduğu ve sadece 2 bin 5 isabet aldığı da uzmanlar tarafından saptandı. 
+     Resmi makamlarca yapılan denemelerde ise Linux'un, saldırıların yüzde 57'sine karşı koyamadığı belirlendi. 
+     Buna karşılık tüm işletim sistemleri içinde en güvenlikli olanların, BSD ve Mac OSX olduğu anlaşıldı. 
+     Uzmanlar, araştırmanın sadece hacker saldırısı açısından yapıldığını ve işletim sistemlerinin virüs ve böceklere dayanıklılığının araştırılmadığını ifade ettiler. 
+     
+</TEXT>
+</DOC>

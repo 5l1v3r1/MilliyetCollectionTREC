@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 358465 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/05/son/sonyas05.html </URL>
+<DATE> 2005/07/05/ </DATE>
+<TIME> 09.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yalancı tokluk cihazı 
+</HEADLINE>
+<TEXT>
+
+     BBC 
+
+      Britanya'da geliştirilen bir cihaz, beyni kandırıp, tokluk hissi yaratılıyor. 
+     Cihazla mide sinirleri tetikleniyor ve sindirim başlatılıyor. Böylece beyne, kişi yemek yemediği halde yemiş mesajı yollanıyor. Transneuronix firmasının geliştirdiği cihaz Aberdeen Üniversitesi'nde bir kişinin vücuduna yerleştirildi. Karın bölgesine yerleştirilen cihaz, elektrotlarla mide duvarına bağlanıyor. 
+     Klinik deneme kapsamında üç hastaya daha yerleştirilecek olan kibrit kutusu büyüklüğündeki tokluk cihazı, daha sonra satışa çıkacak. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 101826 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/08/14/son/sondun07.html </URL>
+<DATE> 2002/08/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD'de üniversite savaşları öğretim üyesinin başını yedi 
+</HEADLINE>
+<TEXT>
+
+     Büyük rakipleri Yale Üniversitesi'nin bilgisayar sistemine korsan giriş yapan Princeton Üniversitesi'nden bir dekan yardımcısı, görevden alındı. 
+     Princeton Üniversitesi Başkanı Shirley Tilghman, yaptığı açıklamada, Dekan Yardımcısı ve Kayıt Bölümü Başkanı Stephen LeMenager'in bu görevden alındığını, kendisine önerilen başka bir görevi kabul edinceye kadar haberleşme bölümünde çalışacağını söyledi. 
+     Kayıt bölümündeki bazı görevlilere karşı da disiplin işlemi uygulayacaklarını belirten Tilghman, ''Kayıt görevlilerimizin yaptıklarının etik kuralları ve gizlilik ilkelerini ihlal ettiğini düşünüyorum'' dedi. 
+     Yale Üniversitesi bilgisayar sistemine izinsiz girildiğinin tespit edilmesinden sonra ücretli idari izne gönderilen LeMenager, bunu Yale Üniversitesi bilgisayar sisteminin güvenliğini denemek için yaptığını ileri sürmüştü. 
+     ABD'nin gözde ve ünlü üniversitelerinden Yale, rakibi Princeton'ı, geçen ay sonlarında bilgisayar korsanlığıyla suçlayarak, Federal Soruşturma Bürosu'na şikayet etmişti. 
+     Yale Üniversitesi'nin yetkilileri, web sitelerinde öğrencilere ait bilgilerin bulunduğu sistemin şifrelerinin Princeton Üniversitesi'ndeki bilgisayarlar kullanılarak kırıldığını ve sitede 18 adet izinsiz giriş tespit edildiğini söylemişlerdi. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

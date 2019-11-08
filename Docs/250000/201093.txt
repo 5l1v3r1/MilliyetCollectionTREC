@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 201093 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/10/son/sondun18.html </URL>
+<DATE> 2003/12/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İşyeri geyiği interneti yordu 
+</HEADLINE>
+<TEXT>
+
+     İnternette oldukça popüler olan, komik e-posta yollama çılgınlığı, işyeri sahipleriyle teknik servisleri bezdirdi. 
+     Hitachi araştırma şirketinin açıklamasına göre, günlük mesajların kayıtlarını saklamakla görevli teknik servisler bu işin mağdurları arasında. Veri depolama uzmanları işyerlerinde saklamakla yükümlü oldukları materyalin yaklaşık yüzde 40'ının e-posta mesajları olduğunu söylüyor. Bu mesajların içinde sırf komik bir şey göstermek için yollanan e-postalar azımsanmayacak ağırlıkta. 
+     Dünyada günde ortalama 30 milyar e-posta gönderiliyor. Bu rakamın 2005'te 35 milyara ulaşacağı belirtiliyor. 
+     
+</TEXT>
+</DOC>

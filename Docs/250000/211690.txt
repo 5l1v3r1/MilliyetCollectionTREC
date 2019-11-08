@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 211690 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/28/son/sondun33.html </URL>
+<DATE> 2004/01/28/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Mydoom virüsünün yeni versiyonu bulundu 
+</HEADLINE>
+<TEXT>
+
+     Finlandiya bilgisayar güvenlik şirketi F-Secure, uzmanların Mydoom virüsünün yeni versiyonu olan Mydoom B adlı yeni bir virüs saptadığını açıkladı. 
+     F-Secure'dan Mikko Hyppoenen, ''Yeni virüs, Mydoom'a karşı geliştirilen orijinal anti virüs korumasından etkilenmeyecek şekilde ve Misrosoft'un bir internet sitesine de saldırabilmek için değişikliğe uğratılmış'' dedi. 
+     Mydoom.B adlı virüsün, Amerikan bilgisayar devi Microsoft'un www.microsoft.com adlı sitesine saldırdığı belirtiliyor. 
+     Bu arada Hyppoenen, Avrupa'da gönderilen elektronik postaların üçte birine Mydoom virüsü bulaştığını açıkladı. 
+     Hyppoenen, Mydoom virüsünün bugün de Avrupa'da dolaşmaya devam ettiğini belirterek, ''Şu anda e-maillerin yüzde 33'ünden fazlasına virüs bulaşmış durumda'' dedi ve pazartesi akşamı başlayan virüs saldırılarının bu sabah saatlerinde e-maillerin yüzde 21'ine bulaştığının altını çizdi. 
+     
+</TEXT>
+</DOC>

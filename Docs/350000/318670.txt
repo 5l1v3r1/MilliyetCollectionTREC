@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 318670 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/25/son/sonyas09.html </URL>
+<DATE> 2005/02/25/ </DATE>
+<TIME> 11.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+En çok korsan yazılım Doğu Avrupa'da... 
+</HEADLINE>
+<TEXT>
+
+     Dünyada en fazla yasadışı yazılıma yüzde 71'lik oran ile Doğu Avrupa'da rastlanıldığı, bunu yüzde 63 ile Latin Amerika'nın izlediği, Türkiye'deki korsan yazılım oranının ise yüzde 58 civarında olduğu bildirildi. 
+     İş Yazılımcıları Birliği BSA Türkiye Genel Koordinatörü Tolunay Tomruk, AA muhabirine yaptığı açıklamada, BSA'nın online dünyanın güvenli ve yasal bir yer olması için çalışan uluslararası bir birliktelik olduğunu kaydetti. 
+     BSA olarak dünyada korsan yazılıma karşı büyük mücadele verdiklerini anlatan Tomruk, dünyada en fazla yasadışı yazılıma yüzde 71'lik oran ile Doğu Avrupa'da rastlandığını söyledi. 
+     Doğu Avrupa'yı yüzde 63 ile Latin Amerika'nın izlediğini belirten Tomruk, korsan yazılım kullanımında başı çeken Vietnam, Çin ve Endonezya gibi ülkelerin bulunduğu Asya Pasifik bölgesinin ise Japonya ve Avustralya'nın ortalamayı düşürücü etkisi nedeniyle bölgeler arası sıralamada gerilerde yer aldığını söyledi. 
+     Yazılım korsanlığının Batı Avrupa'da 9.6 milyar dolarlık maddi kayba yol açtığını ifade eden Tomruk, şunları kaydetti 
+     ''Batı Avrupa'da yazılım korsanlığı oranları çok düşük olmasına karşın yazılım pazarının büyüklüğü nedeniyle küçük oranlardaki kayıplar bile büyük rakamsal zararlara yol açıyor. Korsan yazılım Asya Pasifik bölgesinde 7,5 milyar dolar, ABD Kanada'da ise 7,2 milyar dolar tutarında maddi kayba neden oluyor. Buna karşılık kullanılan her 10 yazılımdan 7'sinin korsan olduğu Doğu Avrupa'da ise yazılım pazarının diğer bölgelere göre küçüklüğü nedeniyle korsanlığın yol açtığı toplam maddi kayıp 2,1 milyar dolar seviyesinde kalıyor.'' 
+     
+     TÜRKİYE'DE YÜZDE 58'LER SEVİYESİNDE 
+     Türkiye'deki korsan yazılım oranının ise yüzde 58'ler seviyesinde olduğunu ifade eden Tomruk, şöyle konuştu 
+     ''Korsan yazılım kullanımıyla ilgili olarak geçen yıllarda başlattığımız mücadeleyi sürdürüyoruz. Fikir ve Sanat Eserleri Kanunu'nda yazılım korsanlığına karşı yaptırımların ağırlaştırılmasının etkisiyle yasadışı yazılım kullanımının önümüzdeki yıllarda daha da gerilemesini bekliyoruz. Yenilenen yasa ve bilinçlendirme çalışmalarıyla birlikte Türkiye'de korsan yazılımı yüzde 50'lere düşürmeyi hedefliyoruz.'' 
+     
+</TEXT>
+</DOC>

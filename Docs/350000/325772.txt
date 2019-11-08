@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 325772 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/22/yasam/axyas01.html </URL>
+<DATE> 2005/03/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Öpüşerek veri aktar 
+</HEADLINE>
+<TEXT>
+
+
+'RedTacton' adlı yöntemle, veri transferinde kablo yerine insan vücudu kullanılacak. Dijital makinedeki fotoğrafları, parmağınızın ucuyla bilgisayara aktarabileceksiniz 
+
+DIŞ HABERLER SERVİSİ 
+
+Japon bilim adamları, veri transferinde kablolara bağımlılığı ortadan kaldıracak yeni bir teknik geliştiriyor. Japon NTT firmasının geliştirdiği ve "RedTacton" adı verilen teknolojiyle, insan vücudunun bir kişisel "geniş bant veri ağı" gibi kullanılması mümkün olacak. Bunun anlamı şu ki, cep telefonu ya da MP3 çalar kablosuz kulaklığa, dijital fotoğraf makinesi de PC'ye insan vücudu aracılığıyla bağlanabilecek. 
+NTT'nin "RedTacton"u, insan derisi üzerinden saniyede 2 megabayt hızında veri aktarımı sağlayacak. Bunun olması içinse tek gereken, "RedTacton" uyumlu cihazlar kullanmak. Bu sayede cebinizdeki bir MP3 çaları vücudunuzu bir geniş bant ağ gibi kullanarak kablosuz kulaklıkla dinlemeniz, boynunuzdaki dijital fotoğraf makinenizde bulunan resimleri bir kablo yerine parmağınızı PC'ye dokunarak iletmeniz yeterli olacak. 
+
+Neler yapılabilecek 
+Ayrıca, veri bir vücuttan diğerine geçebildiğine göre el sıkarak elektronik kartvizit değişimi yapmanız, yanak yanağa dans ederken müzik dosyaları değiş tokuşu yapabilmeniz veya sadece öpüşerek telefon numarası alabilmeniz olası hale gelebilecek. 
+Benzer teknoloji, IBM ve Microsoft tarafından da daha önce geliştirilmişti. Buna karşın RedTacton, 'deriyle doğrudan temas gerektiren vericiye ihtiyaç duymuyor. RedTacton, cihazlara yerleştirilerek, cepte ya da çantada taşınarak, vücuda 20 cm uzaklıktan veri transferini olanaklı kılıyor. 
+NTT'nin teknolojisi, insan vücudunda doğal olarak ortaya çıkan anlık elektrik alanından veri iletiminde faydalanıyor MP3 çalar gibi bir cihaza takılan bir verici, insan vücudundaki bu alanı bir geniş bant bağlantı gibi kullanıyor. 
+
+
+
+</TEXT>
+</DOC>

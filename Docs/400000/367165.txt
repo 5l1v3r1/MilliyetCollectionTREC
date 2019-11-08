@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 367165 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/04/son/sonyas10.html </URL>
+<DATE> 2005/08/04/ </DATE>
+<TIME> 09.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Herkese bedava bira 
+</HEADLINE>
+<TEXT>
+
+     Bilişim sektöründe geliştiricileri tarafından kaynak kodları açık olarak dağıtılan ve isteyen herkesin derleyip kullanmasına ve ihtiyacına göre değişiklik yapmasına izin veren yapı için kullanılan 'açık kaynak' terimi bir bira projesine de ilham kaynağı oldu. 
+     Danimarka'nın başkenti Kopenhag'daki IT Üniversitesi öğrencisi bir grup, geliştirdikleri bir bira türünün formülünü internetten 'creative commons' lisansıyla paylaşıma açtı. Siteyi ziyaret eden herkes formülü uygulayarak birayı üretebiliyor. 
+     Vores Ol adını verdikleri bira iddialarına göre son derece lezzetli ve içindeki guarana sayesinde enerji verici. Yüzde 6 alkol oranına sahip ilk açık kaynaklı biranın ticari firmaların izin almadan üretmelerine de izin veriliyor. Logoları bile hazırlanmış. 
+     
+</TEXT>
+</DOC>

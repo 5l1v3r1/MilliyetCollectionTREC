@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> 153631 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/01/guncel/gun03.html </URL>
+<DATE> 2003/05/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Baz istasyonları uçaklar için tehdit mi 
+</HEADLINE>
+<TEXT>
+
+Uzmanlar uyarıyor "Baz istasyonları, gerekli şartlar yerine getirilmezse uçuş sistemlerini olumsuz etkileyebilir" 
+     Atatürk Havalimanı'nda, Turkcell, Telsim ve Aria'nın ardından, Aycell de mobil baz istasyonu ile test çalışmaları yürütürken, uzmanlar baz istasyonlarına karşı uyarıyor. 
+     Boğaziçi Üniversitesi Elektrik Elektronik Mühendisliği Bölümü öğretim üyesi Prof. Dr. Selim Şeker, uçakların iniş-kalkış sırasında baz istasyonlarının kapsama alanına girdiğini belirtiyor. Şeker, "Baz istasyonlarının interferon kaynağı olarak çok büyük etkileri oluyor. Uçaklarda telefon açılmamasının bir sebebi budur" diyor. 
+     Baz istasyonlarının, hava trafik kontrol kulesinin uzağına konulması gerektiğini belirten Şeker, personelin sağlığını tehdit eden etkenleri de şöyle anlatıyor 
+     "Radarları kullanan kişilerden şiddetli bir baş ağrısı şik yeti geliyor. Bu yüzden burada görevli personelin 1-2 saatte bir yerleri değiştiriliyor. Dünya Sağlık Teşkilatı WHO başkanlığındaki 46 ülke, baz istasyonlarının kanser riskini sürekli olarak denetliyor. Çevre Bakanlığı Çevre Kirliliği Önleme ve Kontrol Genel Müdürlüğü de, istasyonların radyasyon yaydığına dikkat çekiyor." 
+     İTÜ Elektrik - Elektronik Fakültesi öğretim görevlisi Dr. Berk Üstündağ ise "Baz istasyonlarının kurulduğu doğrultu önemli. Uçuş sistemini etkilemeyecek yöndeyse problem olmaz" diye konuştu. 
+     
+
+
+GÜNCEL 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 370867 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/18/son/soneko01.html </URL>
+<DATE> 2005/08/18/ </DATE>
+<TIME> 01.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası’nda, Dow Jones ve Nasdaq endeksleri günü yükselişle kapattı. 
+     Borsanın temel göstergesi Dow Jones, 37.26 puanlık yükselişle 10,550.71 puana, teknoloji endeksi Nasdaq da 8.09 puan artışla 
+     2,145.15 puana çıktı. 
+     
+</TEXT>
+</DOC>

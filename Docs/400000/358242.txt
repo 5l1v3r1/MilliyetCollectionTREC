@@ -1,0 +1,45 @@
+<DOC>
+<DOCNO> 358242 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/05/yasam/ayas.html </URL>
+<DATE> 2005/07/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Eski 'hacker'dan güvenlik önerileri 
+</HEADLINE>
+<TEXT>
+
+
+Dünyanın hapse giren ilk bilgisayar korsanı ABD'li Kevin Mitnick, tecrübelerini 'Aldatma Sanatı' adlı kitapla aktarıyor 
+
+Serhat Oğuz 
+
+Bilgisayar korsanlığı hacker suçundan yargılanarak hapse giren, dünyanın ilk dijital suçlularından ABD'li Kevin Mitnick, hem tecrübelerini, hem de korsanla mücadele etmek isteyen kurumlara öğütlerini 'Aldatma Sanatı' adlı kitapta topladı. 
+Korsanlığa veda eden Mitnick, ODTÜ Yayınları'ndan çıkan kitabında, bilgi ve tecrübesini, kötü huylu hırsızların devlete, işletmelere ve bireylere zarar vermesine engel olmak için kullandığını söylüyor. 
+
+Yeni işe girenler 'maden' 
+Mitnick'e göre, 'toplum mühendisi' adını verdiği zeki suçlular, kurumlarda bilgi ararken, daha kolay av oldukları için işe yeni girenleri ya da hiyerarşik yapıda alt sıralarda olan çalışanları tercih ediyor. Açgözlü çalışanlar ve arkadaş canlısı personel de gizli bilgilerin sağlanmasında anahtar rol oynuyor. 
+
+İşte altın öğütler 
+Hacker ve toplum mühendislerine karşı uyanık olmak için, şu uyarılara dikkat etmek gerekiyor 
+Saldırının uyarı sinyalleri 
+- Bir geri arama numarası vermekten kaçınır, 
+- Sıradışı taleplerde bulunur, 
+- Yetkili olduğunu öne sürer, 
+- Soru sorulduğunda rahatsız olur, 
+- Aciliyet üzerine vurgu yapar, 
+- İltifat eder. 
+Şirketleri saldırılara açık duruma getiren unsurlar ise şunlar 
+- Çok sayıda çalışan olması, 
+- Veri sınıflandırma sisteminin bulunmaması, 
+- Birden fazla tesis olması, 
+- Bir olayı bildirme ya da karşı eylem planlama. 
+
+En iyi bilgi çöpten çıkar 
+
+Mitnick, zor ama getirisi iyi bir yöntemi şöyle anlatıyor "Çöp dalışı terimi, işe yarar bilgi için hedefin çöpünü karıştırma işi için kullanılır. Eğlenceli değildir ama getirisi inanılmazdır Şirketin dahili telefon rehberleri, bilgisayar kılavuzları, çalışan listeleri ve daha fazlası... Bir kere karıştırırken minnacık parçalara ayrılmış k ğıtlar bulduk. Birleştirdiğimizde şirketin kritik bilgisayar sistemlerinden birine ait tüm kullanıcı adları ve parolalarının bulunduğu bir liste ortaya çıktı." 
+
+
+</TEXT>
+</DOC>

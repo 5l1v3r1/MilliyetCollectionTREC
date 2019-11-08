@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 271934 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/15/son/sondun02.html </URL>
+<DATE> 2004/09/15/ </DATE>
+<TIME> 08.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD teknoloji sektöründe son üç yılda 403 bin kişi işini kaybetti... 
+</HEADLINE>
+<TEXT>
+
+     ABD'de teknoloji sektöründe çalışanların sayısında son üç yılda Mart 2001- Nisan 2004 403 bin kişilik bir düşüş kaydedildiği bildirildi. Sektördeki iş kaybının devam etmesi durumunda ABD'nin tarihin ilk yüksek teknoloji işçi hareketi ile karşı karşıya kalabileceği kaydedildi. 
+     Chicago Üniversitesi'nden araştırmacıların hazırladığı bir rapora göre, bu iş kaybının 206 bin 300'ü uzmanların teknoloji sektöründeki durgunluğun aşıldığını açıkladıkları Kasım 2001'den sonra oldu. Raporda, yüksek teknoloji işlerinde çalışanların sayısının yüzde 18.8 oranında gerileyerek 1 milyon 743 bin 500'e düştüğü ifade edildi. 
+     Ford Vakfı tarafından finanse edilen ve istihdam istatistikleri ile nüfus araştırması verilerini incelemek suretiyle yapılan araştırma, iş kayıplarının önemli bir sebebi olarak, bu tür işlerin artık yurdışına kaydırılmasını gösteriyor. Sektördeki iş kaybından kaynaklanan endişeler yüzünden yüksek teknoloji çalışanları arasında bir işçi hareketine şahit olunabileceğine dikkat çekiliyor. 
+     ABD'deki teknoloji sektöründe yüzde 49'la en büyük iş kaybının San Francisco'da olduğu, Boston'un ise yüzde 34,1'lik kayıpla ikinci sırada yer aldığı kaydedildi. Seattle metropolitan bölgesindeki kayıplar ise yüzde 10.8'ü buluyor. 
+     
+</TEXT>
+</DOC>

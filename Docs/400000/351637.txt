@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 351637 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/13/son/sonyas11.html </URL>
+<DATE> 2005/06/13/ </DATE>
+<TIME> 12.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ericsson'dan uçakta cep telefonuyla konuşma sağlayan istasyon 
+</HEADLINE>
+<TEXT>
+
+     Cep telefonu üreticisi Ericsson, cep telefonlarının uçaklarda kullanılmasını sağlayacak yeni bir baz istasyonunun tanıtımını yaptı. 
+     Ericsson'un sözcüsü Peter Olofsson, uçaklara koyulacak, GSM teknolojisine dayalı baz istasyonunun, iletişimin sağlanması için cep telefonu sinyallerini bir uyduya taşıyacağını açıkladı. 
+     Yeni teknolojinin, uçaklardaki elektronik sistemi etkilemeyeceğini belirten Olofsson, ''Tüketicilerin nerede olurlarsa olsunlar cep telefonlarını kullanma beklentisi içinde olduklarını görüyoruz. Ve şimdi birkaç saatliğine uçaktayken telefonla arama yapmanızı mümkün kılıyoruz'' dedi. 
+     Ericsson, baz istasyonunun, uçak başına yaklaşık 131 bin dolar değerinde olacağını bildirdi. 
+     
+</TEXT>
+</DOC>

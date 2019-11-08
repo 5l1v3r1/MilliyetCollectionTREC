@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 164110 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/19/son/sondun30.html </URL>
+<DATE> 2003/06/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+WHO "SARS virüsü mutasyona uğruyor" 
+</HEADLINE>
+<TEXT>
+
+     Dünya Sağlık Örgütü WHO , daha önce durağan olduğu yönündeki açıklamaların aksine akut solunum yolu yetmezliği sendromuna SARS yol açan virüsün mutasyona uğradığı uyarısında bulundu. 
+     WHO'nun Aşı Araştırma Programı başkanı Marie-Paule Kieny, araştırmaların, değişikliğe uğrayan virüs ve virüsün nasıl gizlendiği üzerine yoğunlaşması gerektiğini ifade ederek, hükümetleri virüsün hastalığı tetiklemesini engellemek için aşı geliştirilmesi konusunda büyük yatırımlar yapmaya çağırdı. 
+     Kieny, SARS görülen ülkelere, hastalığa çare bulunması konusunda ilaç firmalarına bel bağlamamaları uyarısında bulunarak, "Aşı imalatçıları, kar sağlamak zorunda. SARS ekonomik güncelliğini yitirdiğinde, firmaların konuya ilgisi de doğal olarak azalır" diye konuştu. 
+     WHO Genel Müdürü Gro Harlem Brundtland ise, SARS salgınının dünya çapında yavaşlamasına rağmen her an yeni bir salgın hastalığın başlayabileceği uyarısında bulundu. 
+     Öte yandan Tayvan'da ardı ardına dört gündür yeni SARS vakası tespit edilmediği belirtildi. Çin'de de son 24 saatte yeni SARS vakasına ve ölümüne rastlanmadığı bildirildi. 
+     
+</TEXT>
+</DOC>

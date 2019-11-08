@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 355113 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/24/son/soneko29.html </URL>
+<DATE> 2005/06/24/ </DATE>
+<TIME> 14.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Intel'den çift çekirdekli Pentium D işlemcisi... 
+</HEADLINE>
+<TEXT>
+
+     Intel, yeni çift çekirdekli Intel Pentium D işlemcisine dayanan dijital ev ve yeni ofis platformlarını tanıttı. 
+     Acer, Aidata, Casper, Crea, Exper, Fujitsu-Siemens, HP ve Vestel marka çift çekirdekli Intel Pentium D işlemcisine sahip bilgisayarların tanıtıldığı toplantıda, yeni platformlar ünlü komedyen Beyazıt Öztürk'ün tiplemeleri ile rol aldığı filmle anlatıldı. 
+     Toplantıda konuşan Intel Türkiye Genel Müdürü Ege Ertem, geçtiğimiz 4 yıl boyunca bilgisayarların 3 kat performans artışına sahne olduğunu söyledi. 
+     Ertem, ''Çoklu çekirdekle 4 yılda sistem performansı 10 kat artacak'' dedi. 
+     Ertem, Pentium D işlemcilerin herkesin sahip olabileceği bir maliyet yapısında bulunacağını kaydetti. 
+     Intel Başkan Yardımcısı Anand Chandrasekher da çift çekirdek pazar uygulamalarına 2003 ve 2004 yıllarında geçtiklerini belirterek, ''2006 yılında Intel ürünleriyle hep çift çekirdek kullanılmaya başlanacak'' dedi. 
+     Intel'in 15'den fazla çoklu çekirdekli işlemci projesi bulunduğunu anlatan Chandrasekher, çift çekirdekli işlemci ile bilgi teknolojileri ortamlarının yazılım saldırılarına, virüslere karşı koruma sağlandığını, çift çekirdek teknolojisinde işlemde görülen problemin bir kenara atıldığını ve işleme devam edildiğini söyledi. 
+     Intel'in hem ev hem de ofis için geliştirdiği yeni platformları, yüksek hızlı bellek kullanımı ve daha fazla performans sağlayabilen 667 MHz hızında çift kanallı DDR2, daha fazla enerji tasarrufu ve daha sessiz bilgisayarları mümkün kılan Intel Speedstep teknolojisi, virüslerin sebep olduğu etkileri azaltmayı sağlayabilen Execute Disable Bit güvenlik özelliği ve daha fazla bellek adreslemesini mümkün kılan Intel Extended Memory 64 teknolojisine sahip bulunuyor. 
+     
+</TEXT>
+</DOC>

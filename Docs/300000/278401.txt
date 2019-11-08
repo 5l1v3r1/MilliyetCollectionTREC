@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 278401 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/08/son/soneko46.html </URL>
+<DATE> 2004/10/08/ </DATE>
+<TIME> 18.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hisse senetleri ortalama yüzde 2.31 değer kazandı... 
+</HEADLINE>
+<TEXT>
+
+     Borsa tarihi rekora ulaşırken, işlem gören hisse senetleri ortalama yüzde 2.31 değer kazandı. 
+     İstanbul Menkul Kıymetler Borsası İMKB Ulusal 100 Endeksi, 1. Seansı 335.36 puan artışla 22,767.58 puandan, 2. Seansı da 183.78 puan artışla TL bazında yeni bir tarihi rekorla 22,951.36 puandan tamamladı. 
+     Endeks, bu kapanış değeriyle dün 22,432.22 puanla kırılan tarihi rekoru yeniledi. 
+     Endeksin günlük bazdaki yükselişi 519.14 puan ve yüzde 2.31 olarak hesaplandı. 
+     
+     DÖVİZ 
+     İstanbul'da serbest piyasada dün 1 milyon 506 bin liradan kapanan dolar güne 1 milyon 505 bin liradan, 1 milyon 8 bin liradan kapanan euro yine aynı fiyattan başladı. 
+     Kapanışta doların satış fiyatı 1 milyon 497 bin lira, euronun satış fiyatı 1 milyon 854 bin lira oldu. 
+     Merkez Bankası, doların bugünkü efektif kurunu alışta 1 milyon 489 bin 256 lira, satışta 1 milyon 499 bin 733 lira olarak açıkladı. 
+     Böylece dolar, Merkez Bankası'nın dünkü kurlarına göre, TL karşısında alışta 6 bin 77 lira, satışta 6 bin 116 lira değer kaybetti. 
+     
+     TAHVİL-REPO 
+     İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda işlem gören 12 Nisan 2006 vadeli tahvilin bugün valörlü işlemlerinde basit getiri yüzde 24.68, bileşik getiri yüzde 23.34 oldu. 
+     Bu kağıdın bugün valörlü işlemlerinin bileşik getirisi, önceki kapanışa göre 0.49 puan geriledi. 
+     İMKB Tahvil ve Bono Piyasası Repo Pazarı'nda 3 günlük işlemlerde faiz ortalama yüzde 20.30'dan gerçekleşti. 
+     
+</TEXT>
+</DOC>

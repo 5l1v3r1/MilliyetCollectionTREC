@@ -1,0 +1,53 @@
+<DOC>
+<DOCNO> 373198 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/26/son/sontur46.html </URL>
+<DATE> 2005/08/26/ </DATE>
+<TIME> 16.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+'Zotob' virüsünü yayan Türk hacker tutuklandı 
+</HEADLINE>
+<TEXT>
+
+     Microsoft başta olmak üzere 110 ülkede, bilgisayar, medya ve finans şirketlerine ait internet sitelerine virüs bulaştırdığı ve interaktif dolandırıcılık yaptığı öne sürülen 23 yaşındaki lise mezunu Atilla E. adlı Türk hacker tutuklandı. Microsoft, FBI ile işbirliğine giden ve başarıyla operasyon yapan Türk Emniyeti'ne teşekkür etti. 
+     Emniyet Genel Müdürlüğü Kaçakçılık ve Organize Suçlar Daire Başkanlığı ile Ankara Emniyet Müdürlüğü ekiplerinin yürüttüğü soruşturma kapsamında, yaklaşık 1 ay süren takip sonucu Atilla E, dün gece Adana'da yakalandı. 
+     Ankara'ya götürülen ve emniyetteki sorgusu tamamlanan Atilla E, bugün Ankara Adalet Sarayı'na getirildi. 
+     Atilla E, Suçüstü Savcılığı'ndaki sorgusunun ardından ''interaktif dolandırıcılık yapma'' suçlamasıyla sevk edildiği Nöbetçi Ankara 10. Sulh Ceza Mahkemesi'nce tutuklandı. 
+     Dünyaca şirket Microsoft'un yanı sıra, CNN İnternational, The New York Times ve ABC gibi basın kuruluşlarının da sitelerine virüs bulaştırdığı öne sürülen Atilla E'nin, bankaların internet sitelerine girerek müşteri hesapları üzerinde oynama yaptığı, para transferleri gerçekleştirdiği iddia edildi. 
+     Amerikan güvenlik birimi FBI'nın, Atilla E'nin yakalanması için Dışişleri Bakanlığı kanalıyla Emniyet Genel Müdürlüğü'nden yardım istemesi üzerine, hakkında arama kararı çıkarıldı. Atilla E, Ankara ve Adana mali büro ekiplerince düzenlenen operasyonla dün gece Adana'da gözaltına alınırken, bilgisayarı ile çok sayıda CD'ye el konuldu. 
+     Atilla E'nin, işbirliği yaptığı öne sürülen Faslı bir kişinin yakalanması için FBI'nın çalışma yürüttüğü bildirildi. 
+     
+     MICROSOFT'TAN TEŞEKKÜR GELDİ 
+
+     Microsoft EMEA Bölge Müdürlüğü, Türk ve Fas Emniyet Teşkilatları ile FBI’ın Zotob, Rbot ve Mytob adlı zararlı bilgisayar yazılımlarını dağıttıkları iddia edilen kişilerin hızlı bir şekilde yakalamasını memnuniyet verici olarak nitelendirerek, operasyonu gerçekleştiren kurumlara teşekkür etti. 
+     Microsoft’tan yapılan yazılı açıklamada, kuruluşun, Zotob, Rbot ve Mytob solucanlarının dağıtıcılarını arama çalışmalarında ABD ve dünya üzerindeki diğer emniyet teşkilatlarına araştırma ve teknik destek sağladığı kaydedildi. 
+     Açıklamada, Fas’ta Rabat ve Türkiye’de Ankara ve Adana’da güvenlik güçlerinin yaptığı operasyonlarla, solucanların ilk ortaya çıkış tarihi olan 13 Ağustos’tan 12 gün sonra, solucanları dağıttığı iddia edilen kişilerin yakalandığı aktarıldı. 
+     Microsoft’un Yazılım Güvenlik Vakaları Yanıt Süreci’nin bir parçası olan İnternet Suçları Araştırma Takımı’nın, araştırma sürecinde emniyet teşkilatlarının iki solucan dağıtımını hızla takip etmesine yardımcı olduğu ifade edilen açıklamada, Microsoft’un, konuyla ilgili olarak FBI’a teknik bilgi ve analitik destek sağladığı, FBI’ın da bu bilgileri Fas ve Türk güvenlik güçleriyle paylaştığı belirtildi. 
+     
+     ÇOK KISA SÜREDE YAKALANDI 
+
+     Microsoft Ortadoğu ve Afrika Hukuk Direktörü Laurent Masson, şirketin küresel ölçekte emniyet güçleriyle devam eden işbirliği kapsamında, Zotob, Rbot ve Mytob gibi kötü niyetli kodlar yayınlandığında, bilgilerin kısa süre içinde emniyet güçleriyle paylaşıldığı ve bu durumun onlara siber suçluların kimliklerinin tespiti ve yakalanmasında yardımcı olduğunu kaydetti. 
+     Masson, Zotob, Rbot ve Mytob solucanlarının dağıtıcısı oldukları iddia edilen kişilerin kısa süre içinde bulunup göz altına aldıkları için adı geçen emniyet birimlerini kutladı. 
+     Masson, açıklamada şunları kaydetti 
+     "Bu tutuklama bize kamu ve özel sektör işbirliğinin değerini gösteriyor. Bu sonucun alınmasında emniyet güçleri tarafından sergilenen birinci sınıf araştırma çalışması ile onlara gece gündüz durmaksızın araştırma ve teknik destek sağlayan Microsoft bünyesindeki Internet Suç Araştırmaları Takımı’nın işbirliği büyük önem taşıyor. 
+     Elde ettiğimiz bu sonuç bizlere siber suçluların kimliklerinin tespit edilebileceğini açıkça gösteriyor" Microsoft Türkiye Genel Müdürü Çağlayan Arkan da, siber suçlara karşı verilen mücadele için önemli bir adım atıldığını ifade ederek, bu başarının, günümüzde niteliği değişebilen suç çeşitlerine karşı yasa uygulayıcılarının gösterdiği kararlılığın bir ifadesi olduğunu belirterek, Türk polisinin çok kısa sayılabilecek bir süre içinde sonuca ulaşarak gerekli işlemleri yapmış olmasını memnuniyetle karşıladıklarını kaydetti. 
+     
+     ZARARLI KODLAR 
+
+     Zotob ve Rbot solucanlarının en görünür etkisi, Windows 2000 işletim sistemine sahip bazı bilgisayarları otomatik olarak kapatmaları. Bundan daha da önemli olan ise Zotob, Rbot ve Mytob solucanlarını kötü yazılımlarla alan bilgisayarlar, yetkisi bulunmayan kişiler tarafından kontrol altına alınabiliyor. 
+     Söz konusu kişi, bilgisayarlara internet üzerindeki herhangi bir yerden giriş yaparak uzaktan kumanda edebiliyor. Bu işlemle karşı karşıya kalan bilgisayarlar "bots", "infected" ve "zombie" bilgisayarlar olarak tanımlanıyor. 
+     Microsoft’un Windows 2000 işletim sistemini istismar ederek zarar verebilen Zotob ve Rbot solucanları, Microsoft’un 9 Ağustos’ta yayınladığı MS05-039 güvenlik güncellemesi ile düzeltilmişti. Mytob solucanının yol açtığı zararlar 13 Nisan 2005 tarihindeki MS04-011 güvenlik güncellemesiyle, RPC ara yüzündeki Buffer Overflow ise MS-03-26 güvenlik güncellemesiyle giderilmişti. 
+     Microsoft yetkilileri, Zotob ve önceki çeşitleri olan Rbot ve Mytob solucanlarının diğer ağ solucanlarına nazaran daha az zarar verdiğini, bunda birçok müşterinin güvenlik alanında kurdukları internet güvenlik duvarları, yaptıkları güvenlik ve anti virüs programlarını güncellemeleri ile en yeni ve daha güvenli yazılımlar kullanarak aldıkları önlemlerin etkili olduğunu bildirdi. 
+     
+     OPERASYONUN PERDE ARKASI 
+
+     Emniyet Genel Müdürlüğü, dünya çapındaki bazı büyük ticari ve medya şirketlerinin bilgisayarlarına büyük zarar veren "Zotop" virüsünün yazılımı ve yayılmasını sağlayan kişilerin, FBI ve Fas güvenlik görevlileri ile yapılan işbirliği sonucunda yakalandığını bildirdi. 
+     Emniyet Genel Müdürlüğü Basın Merkezi'nden yapılan yazılı açıklamada, "Zotop" virüsünün, programlarının yazılım platformlarındaki güvenlik açıklarını kullanarak bulaştığı bilgisayarların, "korsanlar" tarafından uzaktan erişilmesine neden olduğu kaydedildi. 
+     Virüsün, sistem kullanıcılarını hedef aldığı, bilgisayarları uzaktan kontrol edilebilir hale getirdiği belirtilen açıklamada, güvenlik ve antivirüs sitelerine ulaşmasını da engellediği belirtildi. Açıklamada, şöyle devam edildi 
+     "Yapılan araştırmalar ve elde edilen bilgilerin değerlendirilmesi neticesinde, Emniyet Genel Müdürlüğü, FBI ve Fas güvenlik görevlilerinin yaptıkları uluslararası işbirliği neticesinde gerçekleştirilen eş zamanlı operasyonla virüsün yazılımını ve yayılmasını sağlayan kişiler yakalanmıştır. Ülkemizde yakalanan şahıs, hakkında yasal işlem yapılmak üzere Cumhuriyet Savcılığı'na intikal ettirilmiştir. 
+     Bu operasyon, Türk polisinin uluslararası işbirliğine verdiği önemin güzel bir göstergesi olup, aynı zamanda bilişim suçları konusunda gerçekleştirilen uluslararası örnek bir operasyondur." 
+
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 332008 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/10/son/sontur05.html </URL>
+<DATE> 2005/04/10/ </DATE>
+<TIME> 10.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Çelik İlk ve orta eğitim kurumlarında 246 bin 251 bilgisayar var... 
+</HEADLINE>
+<TEXT>
+
+     Milli Eğitim Bakanı Hüseyin Çelik, ilk ve orta eğitim kurumlarında, 2004 yılı sonu itibarıyla 246 bin 251 bilgisayar bulunduğunu bildirdi. 
+     Çelik, CHP Denizli Milletvekili Mustafa Gazalcı'nın yazılı soru önergesine verdiği yanıtta, 31 Ekim 2004 tarihi itibarıyla bu kurumlarda 246 bin 251 bilgisayar bulunduğunu, bu bilgisayarlarda kullanılan işletim sistemlerin ise DOS, Windows, Linux ve Macintosh için MACOS olduğunu belirtti. 
+     İlköğretim okullarının donatım ihtiyacının il özel idareleri tarafından karşılandığını, Milli Eğitim Bakanlığı'nca 2004 yılında lise ve dengi okullar için toplam 37 bin 728 bilgisayar alındığını ifade eden Bakan Çelik, bu bilgisayarlar için 41.208.184,06 YTL ödendiğini kaydetti. 
+     Alınan bilgisayarlarda, Windows XP Professional Türkçe İşletim Sistemi ve Microsoft Office Professional Türkçe Programı yüklü olduğunu belirten Bakan Çelik, bilgisayar fiyatı içinde olması sebebiyle ihaleyi kazanan istekli firmalar tarafından yazılım için ne kadar para ödendiğinin bilinmediğini ifade etti. 
+     Hüseyin Çelik, Milli Eğitim Bakanlığı merkez ve taşra teşkilatlarında, diğer bazı işletim sistemlerinin yanı sıra Linux işletim sisteminin de kullanıldığını kaydetti. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 145795 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/03/27/son/sontur04.html </URL>
+<DATE> 2003/03/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türk Telekom'un hızlı internet ihalesinde sona doğru... 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekom, internet bağlantısına hız kazandırmak amacıyla başlattığı hızlı internet erişimi Asimetrik Sayısal Abone Hattı-ADSL projesi ihalesinde, katılımcı firmaların ürünlerini teste başladı. 
+     A.A muhabirinin aldığı bilgiye göre, daha önce iptal edilen ancak yeniden çıkılan 60 bin portluk abone hattı ADSL ihalesinde UTStarcom Netpa , Alcatel, Siemens, ZTE Koçsistem , Ericsson, Nec Meteksan ve Lucent Gate adlı 7 firmanın teklifi geçerli sayıldı. Türk Telekom, katılımcı firmaların sunduğu ürünleri test etmeye başladı. Test işlemlerinin nisan sonuna kadar tamamlanması, 2 ay sonrasında da portların montajına başlanması hedefleniyor. 
+     Telekom, halen daha önce montajını tamamladığı yaklaşık 3 bin adet portla Ankara, İstanbul, İzmir ve Çanakkale'de ADSL hizmeti veriyor. Yeni ihaleyle port sayısı artırılmış olacak. 
+     ADSL projesi, internet erişim kapasitesini 2 ila 10 kat artıracak. 
+     Projenin uygulamaya başlanmasıyla, evlerindeki bilgisayarlardan modem aracılığıyla internete bağlanan abonelerin erişim hızları, 56 kilobayttan yukarıya çıkacak. Proje ile internet erişim hızının 8 megabite kadar yükseltilmesi hedefleniyor. Böylece, kurumsal internet kullanıcıları da yüksek hızda internet erişimi sağlayacak. 
+     Projenin hayata geçirilmesiyle aboneler, aynı anda hem internet hem de telefon bağlantısı kurabilecek. Ayrıca, aboneler, hızlı erişim sayesinde, büyük boyuttaki dosyaları kısa sürede bilgisayarlarına indirebilecek, video görüntülerine daha kısa sürede erişebilecek. 
+     Kullanıcıların, bağlantı kuramama ve hattan düşme gibi sorunlarını ortadan kaldıracak proje, kullanıcıların video konferans, işlerini evden yürütme, tele eğitim, interaktif oyun, on-line alışveriş gibi hizmetlerden yararlanmasına olanak verecek. 
+     Bu arada, ADSL, mevcut telefonlar için kullanılan bakır teller üzerinden yüksek hızla veri, ses ve görüntü iletişimini sağlayabilen bir modem teknolojisi olarak nitelendiriliyor. 
+     
+     ABONELİK 49 MİLYON LİRA 
+     Abonelere internete erişim sağlayan diğer sistemlere göre daha pahalıya malolacak sistem için, 128 megabit veri alımı ve 32 megabit veri gönderimini kapsayan 1 aylık abonelik ücreti olarak 49 milyon lira ödenecek. Aboneler, halen, modem aracılığıyla Türk Telekom'un şebekesi üzerinden internete erişim için aylık 9 milyon 500 bin lira ödüyor. 
+     Öte yandan, Türk Telekom, projenin uygulanması için büyük şehirlerden başlayarak tüm Türkiye'de, ADSL santralleri kuracak ve halen 3 bin adet olan port sayısını 500 bin adede yükseltecek. Projenin hayata geçirilmesiyle, mevcut internet erişim sisteminden farklı olarak, her kullanıcı, bir port üzerinden internet bağlantısı kurabilecek. 
+     
+
+
+
+
+</TEXT>
+</DOC>

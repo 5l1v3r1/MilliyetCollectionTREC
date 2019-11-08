@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 223773 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/19/son/soneko47.html </URL>
+<DATE> 2004/03/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Para piyasalarında bugün... 
+</HEADLINE>
+<TEXT>
+
+     Borsa'da işlem gören hisse senetleri bugün ortalama yüzde 2.10 değer kazandı. 
+     İMKB Ulusal 100 Endeksi 1. seansı, yüzde 0.35 artışla 19,679.31 puandan tamamladı. 
+     Endeks, 2. seansta da yüzde 1.75 artışla, günü 20,023.77 puandan tarihi rekorla kapattı. 
+     Endeks, günlük bazda 412.64 puan ve yüzde 2.10 yükseldi. 
+     Hisse senetleri piyasasında, toplam 1 katrilyon 144.1 trilyon liralık işlem hacmi kaydedildi. 
+     
+     DÖVİZ 
+     Kapalıçarşı'da dün 1 milyon 325 bin liradan kapanan dolar güne 1 milyon 324 bin liradan, 1 milyon 633 bin liradan kapanan euro ise 1 milyon 640 bin liradan başladı. 
+     Kapanışta, doların satış fiyatı 1 milyon 320 bin lira, euro'nun satış fiyatı 1 milyon 629 bin lira oldu. 
+     Merkez Bankası, doların bugünkü efektif kurunu alışta 1 milyon 311 bin 287 lira, satışta 1 milyon 320 bin 513 lira olarak açıkladı. 
+     Böylece dolar, Merkez Bankası'nın dün açıkladığı kurlara göre, alışta 9 bin 88 lira, satışta 9 bin 152 lira geriledi. 
+     
+     TAHVİL VE BONO PİYASASI 
+     İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda işlem gören 24 Ağustos 2005 vadeli tahvilin, bugün valörlü işlemlerinde basit getiri yüzde 24.04, bileşik getiri yüzde 22.95 oldu. 
+     Bu kağıdın aynı gün valörlü işlemlerinin bileşik getirisi, dünkü kapanışa göre 0.43 puan geriledi. 
+     İMKB Tahvil ve Bono Piyasası Repo Pazarı'nda 3 günlük faiz ise ortalama yüzde 22 olarak belirlendi. 
+     
+</TEXT>
+</DOC>

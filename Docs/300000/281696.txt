@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 281696 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/20/ekonomi/eko05.html </URL>
+<DATE> 2004/10/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternet artık daha güvenli 
+</HEADLINE>
+<TEXT>
+
+
+EKONOMİ SERVİSİ 
+
+İnternet servis sağlayıcı e - kolay.net, Finlandiyalı güvenlik çözümleri sağlayıcı F - Secure ile işbirliğine gittiğini açıkladı. Ortaklık ile geliştirilen yeni nesil güvenlik çözümlerinden e - kolay.net aboneleri yararlanabilecek. 
+'e - kolay.net Güvenlik Paketi' adlı çözüm paketi içinde virüslerin saptanabilmesi ve istenmeyen e - posta olarak adlandırılan 'spam'lerin ayrı bir dosyada değerlendirilmesi mümkün oluyor. Kullanıcılar ayrıca antivirüs, güvenlik duvarı ve iletişim ağı şifreleme çözümleri sayesinde artık internette çok daha güvenli dolaşabilecek. e - kolay.net Genel Müdürü Tanju Erkoç, internette güvenlik önlemleri almanın artık bir zorunluluk olduğunu belirterek, bu yeni ürünle, hem bireysel, hem de küçük ve orta ölçekli kullanıcıların iletişim ağlarını, virüs ve internet kaynaklı diğer risklere karış koruyacaklarını söyledi. 
+
+
+</TEXT>
+</DOC>

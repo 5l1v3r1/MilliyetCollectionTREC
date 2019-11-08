@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 275928 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/29/son/soneko40.html </URL>
+<DATE> 2004/09/29/ </DATE>
+<TIME> 16.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa günü 74 puanlık kayıpla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Bileşik Endeksi, 2. seansı 124.25 puan azalarak 22,219.88 puandan tamamladı. 
+     Hisse senetleri 2. seansta ortalama yüzde 0.56 oranında değer kaybetti. 
+     İlk seanstaki 50.35 puanlık artış dikkate alındığında, Borsa endeksi günün tamamında 73.90 puan düştü. Hisse senetlerinin günlük ortalama değer kaybı yüzde 0.33 oldu. 
+     Endeks 2. seansa, 36.22 puan azalarak 22,307.91 puan seviyesinde başladı. Seansın ilk yarısını 22,333.22 puandan geçen endeks, seans içinde en düşük 22,136.86 en yüksek 22,409.88 puanı gördü. 
+     2. seans kapanışında, mali endeks 147,16 puan azalarak 30,661.50 puana, sanayi endeksi 102.75 puan azalarak 19,899.62 puana ve hizmetler endeksi 87.06 puan azalarak 11,447.75 puana indi. 
+     Böylece ilk seansa göre mali grup hisseler ortalama yüzde 0.48, sanayi grubu hisseler ortalama yüzde 0.51 ve hizmet grubu hisseler ortalama yüzde 0.75 değer yitirdi. 
+     2. seansta işlem gören toplam 301 hisse senedinden 80'i değer kazandı, 159'u değer yitirdi, 62 hisse senedinin fiyatında değişiklik olmadı. 
+     Seansta, 458 trilyon 944 milyar 528 milyon liralık işlem hacmi kaydedildi. Günlük işlem hacmi 919 trilyon 394 milyar 943 milyon lira olarak hesaplandı. 
+     2. seansta İhlas Holding, Yapı ve Kredi Bankası, Doğan Holding, Turkcell ve İş GYO en çok işlem gören hisse senetleri oldular. 
+     
+     FENERBAHÇE HİSSELERİ YÜZDE 1.69 DEĞER KAYBETTİ... 
+
+     Manchester United takımına deplasmanda 6-2 yenilen Fenerbahçe'nin hisseleri günü yüzde 1.69 değer kaybıyla tamamladı. 
+     Avrupa Şampiyonlar Ligi D Grubu'nda 2. maç sonrası 3. sıraya inen Fenerbahçe'nin Borsa'daki şirketi Fenerbahçe Sportif Hizmetler San. ve Tic. A.Ş.'nin hisseleri, ilk seansta 200 lira azalarak 11 bin 600 liraya indi. Hisselerdeki değer kaybı yüzde 1.69 oldu. 
+     Fenerbahçe hisselerinin fiyatı 2. Seans'ta değişmeyerek, günü yüzde 1.69 değer kaybıyla bitirdi. 
+     
+</TEXT>
+</DOC>

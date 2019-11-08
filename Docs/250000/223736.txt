@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 223736 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/19/son/soneko09.html </URL>
+<DATE> 2004/03/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+AB Komisyonu - Microsoft görüşmeleri çözümsüz sona erdi 
+</HEADLINE>
+<TEXT>
+
+     Microsoft, Avrupa Birliği Komisyonu'nun soruşturması kapsamında yürütülen görüşmelerde anlaşmaya varılamadığını açıkladı. 
+     Microsoft CEO'su Steve Ballmer, konuyla ilgili yaptığı açıklamada, davanın ana meseleleri üzerinde fikir birliğine vardıklarını, ancak gelecekte ortaya çıkabilecek yeni konuların prensipleri üzerinde anlaşamadıklarını bildirdi. 
+     İhtilafa yol açmadan tüm sorunları çözmek amacıyla yoğun bir şekilde çalıştıklarını belirten Ballmer, ''Avrupa'daki hükümetlerle olan değerli ilişkimiz adına her türlü gayreti gösterdik. Umuyoruz, davanın daha sonraki aşamalarında bir anlaşmaya varmamız mümkün olur'' dedi. 
+     Microsoft yetkililerinin son birkaç ay içinde aralıksız bir şekilde Komisyon üyeleriyle görüşmelere katıldıkları ve görüşmelerde Komisyon'un Media Player teknolojisi ve farklı teknolojilerin birlikte çalışabilirliği konusundaki endişelerini giderecek çok sayıda teklifte bulundukları kaydedildi. 
+     
+</TEXT>
+</DOC>

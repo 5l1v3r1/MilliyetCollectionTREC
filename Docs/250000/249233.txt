@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 249233 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/19/son/soneko01.html </URL>
+<DATE> 2004/06/19/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     New York menkul kıymetler borsası, günü yükselişle kapadı. 
+     Dow Jones endeksi 38.89 puan artışla 10.416,41'e, Nasdaq endeksi de 3,06 puan artışla 1.986,73'e yükseldi. 
+     
+</TEXT>
+</DOC>

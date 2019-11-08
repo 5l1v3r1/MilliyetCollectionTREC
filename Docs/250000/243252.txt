@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 243252 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/27/son/soneko13.html </URL>
+<DATE> 2004/05/27/ </DATE>
+<TIME> 11.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+IranCell'in lisans bedeli için Akbank'dan kredi kullanılacak... 
+</HEADLINE>
+<TEXT>
+
+     Turkcell, IranCell'in lisans bedeli için Akbank'dan kredi kullanılacağını bildirdi. 
+     Turkcell'den Borsa'ya gönderilen açıklamada, İran'da yapılan GSM900 1800 lisansı ihalesinin, lisans bedelinin ödenmesi ve lisans anlaşmasının imzalanması sonucunda, İran yetkilileri tarafından, Turkcell liderliğindeki IranCell konsorsiyumuna verileceğinin daha önce açıklandığı anımsatıldı. Açıklamada, bu konuda Turkcell Yönetim Kurulu'nun dünkü toplantısında, şirketin hissedarı olduğu ve İran'da yapacağı yatırımlar ile ilgili olarak Hollanda'da kurulumu tamamlanan East Asian Consortium B.V.'nin 13.5 milyon Euro tutarındaki sermayesinin 91 milyon Euro'ya çıkarılmasına ve bu sermayenin nakit olarak karşılanmasına karar verildiği bildirildi. 
+     Turkcell Yönetim Kurulu ayrıca, IranCell GSM900 1800 lisans bedelinin 300 milyon Euro tutarının finansmanı amacıyla, East Asian Consortium B.V.'nin Akbank'dan kullanacağı 100 milyon Euro tutarındaki kredinin tamamına da kefalet verilmesini kararlaştırdı. 
+     
+</TEXT>
+</DOC>

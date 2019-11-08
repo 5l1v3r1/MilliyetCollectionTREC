@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 123200 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/12/07/son/sontur15.html </URL>
+<DATE> 2002/12/07/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kar geliyor... 
+</HEADLINE>
+<TEXT>
+
+     Meteoroloji Genel Müdürlüğü, hava sıcaklığının yarından itibaren tüm yurtta 8 ile 10 derece azalacağını, pazar ve pazartesi günleri yağış beklendiğini bildirdi. 
+     Meteoroloji Genel Müdürlüğü'nden, ''Meteorolojik Uyarı'' başlığıyla yapılan yazılı açıklamada, Orta Akdeniz üzerinden gelen ve halen yurdun batı kesimlerinde etkili olan yağışlı havaya ilave olarak, bu geceden itibaren Karadeniz üzerinden gelen yeni bir soğuk ve yağışlı havanın etkisine girileceği belirtildi. 
+     Hava sıcaklığının yarından itibaren tüm yurtta 8 ile 10 derece azalacağı ifade edilen açıklamada, pazar ve pazartesi günleri yağış beklendiği kaydedildi. Yağışların, Akdeniz Bölgesi'nde yer yer etkili olmak üzere yağmur ve sağanak, hava sıcaklığının azalması ile birlikte bu gece Trakya'dan başlamak üzere yurdun kuzey, iç ve doğu kesimlerinde karla karışık yağmur ve kar şeklinde olacağı bildirilen açıklamada, salı günü yurdun doğu kesimlerine hareket edecek olan soğuk ve yağışlı havanın, bu bölgede yoğun olmak üzere kar yağışlarına neden olacağı bildirildi. 
+     Rüzgarın, kuzey yönlerinden pazar ve pazartesi günü batı bölgelerinde fırtına şeklinde eseceğine işaret edilen açıklamada, ''Fırtına, kar yağışı, buzlanma ve etkili yağış nedeniyle ilgililerin ve vatandaşların tedbirli olmaları gerekmektedir'' denildi. 
+
+     
+</TEXT>
+</DOC>

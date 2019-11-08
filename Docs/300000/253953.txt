@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 253953 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/08/son/sonyas11.html </URL>
+<DATE> 2004/07/08/ </DATE>
+<TIME> 10.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayarlarda ''akıllı'' casus tehlikesi .. 
+</HEADLINE>
+<TEXT>
+
+     İnternet sitelerinde bulunan Pop Up Açılır Pencere aracılığıyla kendisini kullanıcı bilgisayarına kopyalayan bazı ''akıllı'' casus trojan yazılımların, tüm kripto işlemlerine rağmen daha önceden tanımlanmış sitelere girişte kullanıcı şifrelerini topladığı bildirildi. 
+     İnternette yer alan habere göre, internet analistleri tarafından ''akıllı casus'' olarak nitelendirilen yazılımlar, açılır pencere ile bilgisayara kendini kopyaladıktan sonra kullanıcı, para işlemleri yapılan bir banka sitesi gibi daha önceden belirlenmiş 50 siteye girdiği an şifreleri çalıyor. 
+     
+     KRİPTO KORUMA SAĞLAMIYOR 
+
+     Müşterilerine internet bankacılığı sağlayan bir çok finans kuruluşu, klavye hareketlerini takip eden yazılımlardan korunmak için bir süredir mouse kullanımını şart koşan arayüzler interface ile kullanıcılara hizmet veriyor. İnternet bankacılığı yapmak isteyen kişiler, kullanıcı adını klavye ile yazdıktan sonra genelde sayılardan oluşan şifreler için arayüzde çıkan ve sadece mouse ile ''tık''lanarak çalışan bir sistem kullanıyor. 
+     Kullanıcı ''gönder'' tuşuna bastığı zaman, tarayıcı browser , 128 bit şifreleme kripto yaparak bankadaki ana sunucuya server bağlanıyor ve işlemi gerçekleştiriyor. 
+     Açılır pencereler ile yayılmaya başlayan casus yazılımlar ise kullanıcı ''gönder'' tuşuna basmadan yani tarayıcı kriptoya başlamadan önce şifrelerin yer aldığı bir günlük log oluşturuyor. İnternete bir sonraki bağlanmada da bu günlüğü, virüsü gönderen kişi ya da kişilere ulaştırıyor. 
+     
+     GÜVENLİK AYARLARINI YÜKSELTİN 
+
+     Habere göre adı açıklanmayan ''büyük bir ticaret sitesindeki bilgisayara'', Internet Explorer'ın yardım sunucusuna bağlandıktan sonra sızmaya çalışan casus yazılım, internet güvenlik ayarlarının yüksek olması sebebiyle başarısız oldu ve ilk defa farkedildi. 
+     Microsoft firması ise kullanıcılardan, söz konusu casus yazılımı engelleyecek yama patch çıkarılana kadar güvenlik ayarlarını en yüksek seviyede tutması istedi. 
+     
+</TEXT>
+</DOC>

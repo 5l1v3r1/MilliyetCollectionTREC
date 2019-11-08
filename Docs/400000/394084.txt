@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 394084 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/11/son/soneko38.html </URL>
+<DATE> 2005/11/11/ </DATE>
+<TIME> 15.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Diyarbakır'a 5 milyon avroluk hibe... 
+</HEADLINE>
+<TEXT>
+
+     Alman Kalkınma Bankası'nın KFW , Diyarbakır Su ve Kanalizasyon İdaresi'ne DİSKİ Denetim ve Bilgi Toplama Sistemi'nin SCADA kurulumu ile su ve kanalizasyon şebekeleri için 5 milyon Avro hibe ettiği bildirildi. 
+     DİSKİ Genel Müdürü Veysi Ayus, AA muhabirine yaptığı açıklamada, Alman Kalkınma Bankası, Hazine Müsteşarlığı ve Diyarbakır Büyükşehir Belediyesi arasında imzalanan anlaşma gereğince 5 milyon Avro'nun kendilerine hibe edildiğini belirtti. 
+     Su kayıplarının önlenmesi için kurulacak Denetim ve Bilgi Toplama Sistemi SCADA ile su ve kanalizasyon şebekeleri için 8 milyon Avro'ya ihtiyaç duyduklarını belirten Ayus, bunun 3 milyon Avro'luk kısmını da öz kaynaklarıyla karşılayacaklarını kaydetti. 
+     Yaklaşık 2 milyon Avro'nun harcanacağı SCADA sistemiyle depo ve şebeke faaliyetlerinin kumandalı sisteme bağlanacağını belirten Ayus, şunları söyledi 
+     ''Türkiye'de İstanbul, Ankara, Konya ve Kayseri'de uygulanan bu sistem için merkezi bir bilgisayar sistemi kuracağız. Kumanda odamız olacak. Şu anda 4 depo ve 25 vana odamız var. Buralara ölçüm cihazları konulacak. Su ve pompa ölçümleri sürekli yapılacak. Örneğin depolardaki su seviyesi, klor miktarı, gerekli olan su ihtiyacı otomatik olarak merkeze iletilecek. Bu nedenle arıtma tesisine gitmemize gerek kalmayacak. Merkezdeki kumanda odasından her şeye müdahale edilecek. Bununla hızlı müdahale imkanına kavuşacağız. Gezici personel sayısında azalma olacak. Yakıt konusunda tasarrufumuz olacak. Yani hizmetin maliyeti düşecek.'' Daha önce Avrupa Yatırım Bankası tarafından finansmanı sağlanan Diyarbakır Kanalizasyon Projesi'nin eksik kalan kısımlarının da tamamlanacağını anlatan Ayus, 5 milyon Avro'nun kullanım alanlarını şöyle sıraladı 
+     ''Kayapınar Beldesi'nde çapları 200 ile 1200 mm olan 8 kilometrelik kanalizasyon ve kolektör şebekesi yapılacak. Bağlar Beldesi'nde ise 7 kilometrelik kanalizasyon şebekesi ile 11 kilometrelik temiz su şebekesi döşenecek. Asbest borular yenilenecek 2 bin civarında binanın ana sayaçları satın alınıp monte edilecek. Su kayıplarını azaltmak için farklı basınç ve beslenme bölgeleri ayrıştırılacak.'' Proje müşavirinin çalışmaya başlayarak ihtiyaçların belirlenmekte olduğunu belirten Ayus, 2006 yılı Nisan ayında işe başlanacağını sözlerine ekledi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 335329 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/20/son/sonyas09.html </URL>
+<DATE> 2005/04/20/ </DATE>
+<TIME> 11.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Lise öğrencileri, koç boynuzundan kanser ilacı üretti 
+</HEADLINE>
+<TEXT>
+
+     Bilimsel çalışmaların öneminin her geçen arttığı günümüzde, fen liselerinde eğitimlerini sürdüren 3 öğrenci, birbirinden önemli bilimsel çalışmalara imza attılar. 
+     TÜBİTAK'ın düzenlediği Orta Öğretim Öğrencilerinin Araştırma Projesi sergisi birbirinden ilginç ve önemli bilimsel çalışmalar Atatürk Üniversitesi Fen-Edebiyat Fakültesi'nde sergileniyor. 
+     Sergide yer alan bilimsel çalışmalardan biri kanser hastaları için büyük önem taşırken, diğeri de akıllı ev teknolojileri için yeni bir çığır açacak cinsten. 
+     
+     KANSER HASTALARININ KULLANDIĞI İLAÇ 
+     Erzurum İbrahim Hakkı Fen Lisesi öğrencilerinden Ahmet Çağrı Büyükkasap, kanser hastalıklarının tedavisinde kullanılan Taksol ilacının üretimiyle ilgili buluşunu sergileyerek, katılımcılara bilgi veriyor. 
+     Kanser hastalıklarının tedavisinde kullanılan Taksol ilacının dünyada tek firma tarafından üretildiğini ve 5 mililitresinin 7.8 milyar lira satıldığına dikkat çeken Büyükkasap, geliştirdiği yöntemle bu ilacın daha ucuz üretiminin mümkün olduğunu kanıtladı. 
+     Taksol ilacının porsuk ağacından üretildiğini ifade eden Büyükkasap, ilacın üretiminde B5 medyum adı verilen kültür ortamının kullanıldığını kaydetti. 
+     Kanser hastalarına haftada bir verilen 5 mililitre ilacın 7.8 milyar lira olduğu için büyük külfet getirdiğini anlatan Büyükkasap, AA muhabirine, geliştirdiği yöntemi şöyle anlattı 
+     ''Antikanser ilacı olan Taksol üretimi için koç boynuzu kullanılabilirliğini araştırdığım bilimsel çalışmamda ortaya koydu. Taksol üretiminde kullanılan B5 medyumu patentli ve pahalı bir madde. İçeriği de tam olarak bilinmiyor. B5 medyumunu yurtdışından ithal etmek zorundayız. Taksol üretiminde B5 medyumunun yerine koç boynuzu hedrolizatına kullandım. Böylece hem ilacın maliyeti düşüyor hem de koç boynuzundan elde edilen verim B5'den daha yüksek olduğu için bir seferde elde edilen Taksol miktarı fazla oluyor. Geliştirdiğim yöntemle kanser ilacının seri üretimi yapılabilir. Hem kanser hastaları daha düşük fiyatla ilaç tedavisi görebilir hem de ülke ekonomisine büyük katkı sağlanır.'' 
+     
+     İNTERNETE TIKLA FIRINI ÇALIŞTIR 
+     Trabzon Yomra Lisesi son sınıf öğrencileri Eser Dülger ve İsa Çalış, akıllı ev teknolojine katkı sağlayacak ''ısıtan buzdolabı-soğutan fırın'' geliştirdiler. 
+     İnternet üzerinden kontrol edilebilen, enerji tasarrufu sağlayan, hem ısıtıcı hem de soğutucu olarak kullanılabilen ev aleti geliştiren öğrenciler, ''Akıllı ev teknolojilerinin gelişimi insan yaşamını gitgide rahatlatırken, biz de bu bilimsel mirasa bir katkıda bulunmak istedik'' diye konuştular. 
+     Geliştirdikleri ev aletinin denemelerde 75 dereceye kadar ısısını yükselttiklerini, eksi 4 dereceye kadar da ısıyı düşürdüklerini anlatan Dülger, ''Aletin ısısı 150 dereceye kadar çıkartılabiliyor'' diye konuştu. 
+     Akıllı ev aletinin 37 voltluk gerilimle çalışabildiğini ve bunun içinde önemli enerji tasarrufu sağladığını kaydeden Çalış ise, şunları söyledi 
+     ''Geliştirdiğimiz alet havadaki ısı enerjisini bir yerden başka bir yere aktararak çalışıyor. Biz bu aktarmayı ısıtmak veya soğutmak için kullanıyoruz. Herhangi bir bilgisayara bağlı olan alet, internet ortamında verilen bir talimatla istenilen dereceye ulaşarak hem ısıtma hem de soğutma görevi yapabiliyor. İş kadınları evlerine gelmeden bu aleti internete girerek çalıştırıp, eve gelmeden yemekleri ısıtabilir.'' 
+     
+</TEXT>
+</DOC>

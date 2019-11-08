@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 264120 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/17/son/soneko44.html </URL>
+<DATE> 2004/08/17/ </DATE>
+<TIME> 18.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsada işlem gören hisse senetleri ortalama yüzde 3.33 değer kazandı 
+</HEADLINE>
+<TEXT>
+
+     Borsa'da işlem gören hisse senetleri, bugün ortalama yüzde 3.33 değer kazandı. 
+     İstanbul Menkul Kıymetler Borsası İMKB Ulusal 100 Endeksi, 1. seansta, 184.85 puan artarak 19,017.00 puandan, 2. seansta ise 442.72 puan artarak 19.459.72 puandan kapandı. 
+     Endeksin günlük artışı 627.57 puan ve yüzde 3.33 olarak hesaplandı. 
+     Kredi derecelendirme kuruluşu Standard And Poor's'un Türkiye'nin uzun vadeli döviz cinsinden kredi notunu B 'dan BB -'ye yükseltmesi, ilk seansda 19 bin puanı aşan endeksdeki yükselişi 19.400 puan seviyesinin üzerine taşıdı. 
+     Hisse senetleri piyasasında toplam 783.2 trilyon liralık işlem hacmi oluştu. 
+     
+     DÖVİZ 
+     İstanbul'da serbest piyasada dün 1 milyon 463 bin liradan kapanan dolar, güne 1 milyon 465 bin liradan, 1 milyon 805 bin liradan kapanan euro 1 milyon 808 bin liradan başladı. 
+     Kapanışta doların satış fiyatı 1 milyon 456 bin lira, Euro'nun satış fiyatı 1 milyon 793 bin lira oldu. 
+     Merkez Bankası, doların bugünkü efektif kurunu alışta 1 milyon 452 bin 88 lira, satışta 1 milyon 462 bin 304 lira olarak açıkladı. 
+     Böylece dolar, Merkez Bankası'nın dünkü kurlarına göre, TL karşısında alışta 712 lira, satışta 717 lira değer kazandı. 
+     
+     HAZİNE İHALESİ 
+     Hazine, bugün gerçekleştirdiği 189 gün vadeli Türk Lirası cinsinden iskontolu bono ihalesinde 1 katrilyon 543.6 trilyon liralık net satış yaparken, ortalama bileşik faiz oranı yüzde 24.28 oldu. 
+     5 gün vadeli Türk lirası cinsinden iskontolu devlet tahvili ihalesinde ise 1 katrilyon 559.3 trilyon liralık net satış gerçekleştirildi. İhalede, ortalama bileşik faiz yüzde 24.88 olarak belirlendi. 
+     
+     TAHVİL-REPO 
+     İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda işlem gören 22 Şubat 2006 vadeli tahvilin bugün valörlü işlemlerinde basit getiri yüzde 26.57, bileşik getiri yüzde 25.01 oldu. 
+     Bu kağıdın bugün valörlü işlemlerinin bileşik getirisi, dünkü kapanışa göre 0.06 puan geriledi. 
+     İMKB Tahvil ve Bono Piyasası Repo Pazarı'nda gecelik faiz tek oran yüzde 22.00'den gerçekleşti. 
+     
+</TEXT>
+</DOC>

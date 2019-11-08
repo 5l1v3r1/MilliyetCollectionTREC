@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 251979 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/30/son/sontur10.html </URL>
+<DATE> 2004/06/30/ </DATE>
+<TIME> 10.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+118, yeni yüzüyle hizmete girdi... 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekomünikasyon A.Ş, köklü sistem değişikliği ile modernleştirdiği 118 Bilinmeyen Numaralar Servisi'ni yeni yüzüyle Ankara'da hizmete verdi. 
+     A.A muhabirinin aldığı bilgiye göre, yeni sistemin tam anlamıyla devreye alınmasıyla vatandaşlar, öğrenmek istedikleri numarayla 118 aracılığı ile de bağlantı kurabilecekler. 
+     Bilinmeyen Numaralar Servisi'ni modern ve katma değerli hizmetler verilebilecek şekilde yenileme çalışmalarını bir süredir sürdüren Türk Telekom, çalışmaları kısmen tamamladı. Servis, yenilenen yüzüyle Ankara'da hizmet vermeye başladı. 
+     Türk Telekom'un ''call center'' şeklinde hizmet verecek Bilinmeyen Numaralar Servisi 118, bir süre eski sistemle paralel hizmetine devam edecek. Türk Telekom, eski sistemi zaman içinde devre dışı bırakarak, tüm çağrıları yeni sisteme yönlendirecek. Ankara'da başlatılan uygulamada, 118'e gelen çağrıların sadece bir bölümü yeni sisteme aktarılarak, buradan yanıtlanıyor. Yeni sistem için eğitilen 60 personel çağrıları yanıtlıyor. Bir kısım çağrılar ise eski sistem içinde sonuçlandırılıyor. 
+     Türk Telekom yetkilileri, yaklaşık 18 milyon dolayındaki sabit telefon abonesini toplu şekilde yeni sisteme aktarmanın zorluklarını dikkate alarak, zaman içinde tüm abonelerin yeni sisteme yönlendirileceğini ifade ettiler. 
+     
+     KATMA DEĞERLİ HİZMETLER DE VERİLECEK 
+     Eski sistemde 12 merkezden çağrılara yanıt veren Türk Telekom, bu kez gelişmiş sistem sayesinde Ankara ve İstanbul'daki merkezlerden hizmet verecek. İlk etapta Ankara'da hizmet veren Bilinmeyen Numaralar Servisi'nin, daha sonra İstanbul'da da merkezi olacak. Türk Telekom Bilinmeyen Numaralar Servisi'nin daha önce 64 kilobit düzeyinde olan bant genişliğini de 30 kat artırarak 2 megabit düzeyine çıkardı. Bu sayede vatandaşlar 118'i aradıklarında daha kısa sürede servis alabilecekler. 
+     Öte yandan, yeni sistem Türk Telekom'un katma değerli hizmetleri verebileceği şekilde tasarlandı. Sistem tam olarak uygulamaya geçirildiğinde, vatandaşlar elektronik posta yoluyla da hizmet alabilecekler. Eski sistemde sadece telefon numarası kayıtları sorgulanabilirken, yeni sistemde vatandaşlar hava durumu, finans bilgileri, borç kayıtlarına ulaşma, rezervasyon yaptırmak gibi çeşitli ihtiyaçlarına yönelik hizmetler için de 118'i kullanabilecekler. Geniş bant özelliği sayesinde 118'i herhangi bir numarayı öğrenmek üzere arayan vatandaşlar, eğer kağıt kalemleri yoksa istediği numara ile bağlantı kurulmasını da isteyebilecekler. 
+     
+</TEXT>
+</DOC>

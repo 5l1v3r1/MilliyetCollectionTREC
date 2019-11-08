@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 161318 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/05/son/sontur24.html </URL>
+<DATE> 2003/06/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Liselere giriş sınavı için önlemler alındı... 
+</HEADLINE>
+<TEXT>
+
+     Milli Eğitim Bakanlığı'nca MEB 8 Haziran Pazar günü gerçekleştirilecek Ortaöğretim Kurumları Öğrenci Seçme ve Yerleştirme Sınavı'nda OKÖSYS , öğrenim gördüğü okul bilgisayar kayıtlarında bulunmayan öğrencilerin sınava kendi okullarında girmemeleri için önlem alındı. 
+     MEB Eğitim Teknolojileri Genel Müdürlüğü'nce valiliklere önceki gün gönderilen genelgede, başvuran öğrencilerin sınava girecekleri bina ve salonlara yerleştirilmesi işlemlerinin bilgisayarla yapıldığı belirtildi. 
+     Öğrencilerin halen öğrenim gördükleri okullar ile aynı okul öğrencilerinin peş peşe yerleştirilmelerinin önlenmesi için programda yeterli kontroller bulunduğu kaydedilen genelgede, buna karşın kurum kodunu yanlış kodlayan veya boş bırakan öğrenciler ile yer değiştiren öğrencilerin halen öğrenim gördükleri okulların bilinmediği ifade edildi. 
+     Yazıda, öğrenim gördüğü okulları bilinmeyen öğrencilerden bazılarının kendi okullarına yerleştirilme, aynı okul öğrencilerinin peş peşe oturma ihtimaline karşılık şu önlemlerin alındığı bildirildi 
+     - Sınav yapılan okul müdürlükleri, salon yoklama listelerini kontrol edecekler. Listelerde kendi okulunun öğrencisi olması durumunda, bu öğrencilerin bilgilerini il ilçe milli eğitim müdürlüklerine bildirecekler, - Okulda görev yapan yönetici, öğretmen ve diğer personelin çocuklarının bu okulda girip girmedikleri kontrol edilecek, bu durumda olan adaylar da il ilçe milli eğitim müdürlüklerine bildirilecek, - İl ilçe milli eğitim müdürlükleri, okul müdürlüklerince bildirilen adayları sınav yapılan başka bir okulun yedek salonunda, yedek sınav evrakı kullandırarak sınava alacaklar. Yedek salonda sınava alınan adayların giriş kimlik kartlarının fotokopisi cevap kağıdına eklenecek, - Sınav yapılan okulların salonlarında aynı okulda öğrenim gören öğrencilerin peş peşe geldiğinin tespit edilmesi durumunda, salon görevlileri salon içinde bu öğrencilerin yerlerini değiştirecekler. 
+     
+     VELİLERDEN TEPKİ 
+     Öte yandan, bazı veliler, genelgenin okullara geç gönderildiğini belirterek, çocuklarının sınav günü böyle bir durumla karşılaşması halinde sıkıntı yaşayacaklarını, sınava saatinde yetişememe korkusu duyacaklarını dile getirerek tepki gösterdiler. 
+     Veliler, böyle bir sorunla karşılaşan öğrencilerin sınava girseler bile konsantrasyonlarının bozulacağına işaret ettiler. 
+     MEB yetkilileri ise bu uygulamanın önlem amacı taşıdığını ifade ederek, sorun yaşanmaması için görevlilerin ellerinden geleni yapacaklarını bildirdiler. 
+     
+</TEXT>
+</DOC>

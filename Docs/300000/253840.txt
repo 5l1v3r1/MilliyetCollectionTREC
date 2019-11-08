@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 253840 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/08/son/soneko42.html </URL>
+<DATE> 2004/07/08/ </DATE>
+<TIME> 16.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Haziran'da en yüksek getiriyi mevduat faizi sağladı... 
+</HEADLINE>
+<TEXT>
+
+     Devlet İstatistik Enstitüsü DİE , Tüketici Fiyatları Endeksine TÜFE göre, Haziran ayında en yüksek reel getiriyi, yüzde 1.9 ile mevduat faizinin sağladığı bildirildi. 
+     DİE, seçilmiş finansal yatırım araçlarının Haziran ayı itibarıyla gerçekleşen reel getiri oranlarını açıkladı. 
+     Buna göre, Haziran ayında seçilmiş finansal yatırım araçları 1994 100 Temel Yılı Kentsel Yerler TÜFE ile indirgendiğinde, bir aylık sürede, banka mevduatı brüt yüzde 1,9, borsa endeksi yüzde 1,4 ve külçe altın yüzde 0,9 oranında reel getiri sağladı. 
+     Aynı dönemde dolar yüzde 1,0 oranında reel düşüş ile tasarrufçusunu zarara uğratırken euro'da ise bir değişim olmadı. 
+     Tasarruf sahiplerinin yatırımları bir yıllık süre ile değerlendirildiğinde, banka mevduatı brüt yüzde 30,3, borsa endeksi yüzde 45,2, euro yüzde 0,2 ve külçe altın yüzde 4,9 oranında reel getiri sağlarken, dolar yüzde 3,7 oranında reel düşüş ile tasarrufçusunu zarara uğrattı. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 363049 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/21/son/soneko01.html </URL>
+<DATE> 2005/07/21/ </DATE>
+<TIME> 01.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Borsası, günü yükselişle kapattı. 
+     Borsanın temel göstergesi Dow Jones 42.59 puan artışla 10,689.15 puandan kapanırken, teknoloji endeksi Nasdaq da 15.39 puan yükselerek 2,188.57 puana çıktı. 
+     
+</TEXT>
+</DOC>

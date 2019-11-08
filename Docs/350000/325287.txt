@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 325287 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/20/son/soneko02.html </URL>
+<DATE> 2005/03/20/ </DATE>
+<TIME> 09.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yasa dışı yazılım korsanlığı artıyor... 
+</HEADLINE>
+<TEXT>
+
+     Türkiye'de, 2003 yılında yüzde 58 olan yasa dışı yazılım kullanım oranının geçen yıl yüzde 66'ya tırmandığı bildirildi. 
+     İş Yazılımcıları Birliği ''Business Software Alliance'' BSA Avrupa Bölgesi Başkan Yardımcısı Beth Scott, AA muhabirine yaptığı açıklamada, AB uyum sürecinde fikri mülkiyet alanında Türkiye'ye destekte bulunmanın çabası içinde olduklarını söyledi. 
+     Geçtiğimiz günlerde Türk yetkililerle bu konuda görüşmeler yaptığını hatırlatan Scott, Türkiye'nin genç nüfusu ile bilişim alanında büyük potansiyel taşıdığını ifade etti. 
+     Bu alanda yaratıcılığın teşvik edilmesi gerektiğini belirten Scott, bilişimde yaratıcılığın gelişmesinin fikri mülkiyet haklarının korunmasından geçtiğini, yazılım korsanlığının ise fikri hakların önünde ciddi bir engel teşkil ettiğini kaydetti. 
+     Scott, Türkiye'de 2003'te yüzde 58 düzeyinde bulunan yasa dışı yazılım kullanım oranının, geçen yıl yüzde 66'ya tırmandığını belirterek, bu gelişmenin, Türkiye'de Teknokent kurma hazırlıklarının yapıldığı bir dönemde fikri hakların korunması konusunda yeni önlemler alma ihtiyacını güçlendirdiğini vurguladı. 
+     ''Sokakta satılan korsan CD'ler, yazılım ürünlerinin değeriyle ilgili yanlış bir algılamaya neden oluyor'' diyen Scott, şunları kaydetti 
+     ''Oysa üretilmesi için harcanan emek ve birikim bir yana, şirketler ve kişiler bu yazılımları kullanarak üretim yapıyor, para kazanıyorlar. 
+     Yazılım ürünlerinin taşıdığı değeri gösterebilmemiz için sokaktaki yasal olmayan satışların durdurulması önem taşıyor. Yaratıcılığın teşvik edilmesi anlamında önümüzdeki dönemde Türkiye'de önemli gelişmeler olacağına inanıyoruz.'' 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 128223 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/01/02/spor/yguven.html </URL>
+<DATE> 2003/01/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> ERCAN GÜVEN  </AUTHOR>
+<HEADLINE>
+Bir kitap bir anı 
+</HEADLINE>
+<TEXT>
+
+     -Nereden çıktı gazeteci olmak şimdi evladım 
+     Demişti rahmetli dayım... 
+     Ve yaşam eskizini - ezile büzüle - örnek aldığı adama açıklayan bana, en büyük çekincesini söylemişti 
+     -Bak ben müdürüm, aybaşını zor getiriyorum. 
+     Bugün, pijamaları bile "Lacoste" timsahlı medya mensuplarını izlerken inanmak güçtür ama, çeyrek yüzyıl önce, şartlar "öyle"ydi. 
+     Baktı ki ısrarlıyım zamanın demode edemeyeceği üç nasihat verdi 
+
+</TEXT>
+</DOC>

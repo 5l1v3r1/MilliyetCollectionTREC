@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 269433 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/06/son/soneko16.html </URL>
+<DATE> 2004/09/06/ </DATE>
+<TIME> 11.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türk Lirası, Ağustos'ta değer yitirdi... 
+</HEADLINE>
+<TEXT>
+
+     Türk Lirası'nın reel efektif döviz kuru Ağustos ayında, bir önceki aya göre geriledi. 
+     Merkez Bankası'nın verilerine göre, 1995 100 bazlı TÜFE bazlı reel efektif döviz kuru Ağustos ayında, bir önceki aya göre yüzde 0.3 azalarak 140.3'den 139.9'a indi. 
+     Aynı dönemde, 1995 100 bazlı TEFE bazlı reel efektif döviz kuru 0.1 puan gerileyerek 128.9'dan 128.8'e düştü. 
+     Bir başka deyişle Türk Lirası Ağustos ayında TÜFE'de yüzde 0.3, TEFE'de ise yüzde 0.07 değer kaybetti. 
+     TÜFE bazında, bir yıllık süre içinde Türk Lirası yüzde 4.9, sekiz ayda yüzde 4.8, TEFE bazında ise sırasıyla yüzde 5.2, yüzde 4 değer yitirdi. 
+     
+</TEXT>
+</DOC>

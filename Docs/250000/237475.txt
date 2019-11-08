@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 237475 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/05/son/soneko07.html </URL>
+<DATE> 2004/05/05/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     ABD Merkez Bankası Serbest Pazar Kurulu'nun faiz hadlerini sabit gecelik yüzde 1'de tutma kararının ardından New York Wall Street Borsası'nda Dow Jones Sanayi Endeksi yükselişe geçerek günün son seansını 2.77 puan artışla 10,316.77 puandan noktaladı. 
+     Merkez Bankası'nın bugünkü toplantısında ''46 yıldır en düşük düzeyinde tutulan faiz oranlarını artırmada kapıyı açık bırakma'' açıklamasının yanında faiz oranlarındaki artışın ekonomideki büyümeyi boğacağı endişesinin giderilmesiyle, teknoloji şirketlerinin ibresi Nasdaq Birleşik Endeksi de Wall Street'de 11.76 puan artarak binde 6.1 1,950.48 puanla seansı kapadı. 
+     
+</TEXT>
+</DOC>

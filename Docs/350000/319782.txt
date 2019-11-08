@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 319782 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/01/son/sonyas18.html </URL>
+<DATE> 2005/03/01/ </DATE>
+<TIME> 13.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayar oyunu arası pizza 
+</HEADLINE>
+<TEXT>
+
+     Sony'nin son oyunu ''Everquest 2''yi oynayanlar, istedikleri zaman bir komutla Pizza Hut'a bağlanarak pizza sipariş edebilecek. 
+     Sony yetkilileri, 330 bin kişinin aynı anda oynayabildiği son online fantazi oyunu Everquest 2'ye '' pizza'' komutu yazıldığında, Pizza Hut'un web sitesine bağlanarak, eve teslim pizza sipariş etmenin mümkün olduğunu belirtti. 
+     Sony Online Entertainment şirketinin yetkilisi Chris Kramer, bunun ''gerçek dünya ürünlerinin siparişini kabul eden ilk oyun'' olduğunu belirterek, yakında pizza faturasının da aylık oyun ödeme faturasına eklenmesiyle bu işlemin daha kolaylaşacağını kaydetti. 
+     İlerideki amaçlarının insanlara bu tip kolaylıkların sağlanmasının önünü açmak olduğunu belirten Kramer, ''Örneğin harry potter yazdığınızda yeni bir Harry Potter kitabının ya da star wars yazdığınızda yeni bir Star Wars DVD'sini eve teslim için sipariş edebilesiniz'' dedi. 
+     
+</TEXT>
+</DOC>

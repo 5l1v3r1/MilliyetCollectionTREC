@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 241399 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/20/son/soneko34.html </URL>
+<DATE> 2004/05/20/ </DATE>
+<TIME> 14.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Uzak mesafede kazı-konuş dönemi... 
+</HEADLINE>
+<TEXT>
+
+     Telekomünikasyon Kurumu'nun uzak mesafeli telefon hizmet lisansını UMTH alan şirketlerden INKO, ilk aşamada konuşma kartı bazlı hizmet verecek. 
+     INKO Genel Müdürü Hakan Koçer, yaptığı açıklamada, asıl hedefledikleri yöntemin, konuşma kartı bazlı yönteme göre daha kolay kullanılabilecek ''çağrı yönlendirmeli'' sistem olduğunu, ancak Türk Telekom'un mevcut altyapısı henüz bu sistemi desteklemediğinden başlangıç aşamasında bunu kullanamayacaklarını kaydetti. 
+     Koçer, 2-3 ay sonra bu hizmeti vermeyi amaçladıklarını, ilk aşamada konuşma kartı bazlı hizmet vereceklerini bildirdi. 
+     INKO'nun en büyük ortağı Index Bilgisayar'ın Yönetim Kurulu Başkanı Erol Bilecek de, 2004'ü atılım yılı ilan ettiklerini, telekom alanındaki atılımlarını INKO ile gerçekleştirmeyi hedeflediklerini söyledi. 
+     Bilecik, lojistik ve ev elektroniği alanlarında da yeni yatırımlar yapmayı planladıklarını belirtti. 
+     
+     KAZI KONUŞ SİSTEMİ 
+     Açıklamaya göre, ''Kazı-konuş-at'' hizmetinde kullanıcı, evindeki, işyerindeki sabit telefondan veya herhangi bir ankesörlü telefondan kartın üzerinde yeralan erişim numarasını 811 275 0 275 çevirecek. Daha sonra, kartın üzerindeki PIN numarasını tuşlayacak ve gelen çevir sesi sonrasında aramak istediği şehirlerarası, milletlerarası veya cep telefonu numarasını çevirip görüşmesini yapacak. 
+     ''Kazı-Konuş-Yükle-Konuş'' hizmetinde, kullanıcı aynı şekilde görüşmelerini yapacak, kartının kontörü bittiğinde ise kartına kontör yükletebilecek. 
+     ''Kazı-Konuş-Sonra Öde'' hizmetinde ise kullanıcı, 10 haneli erişim numarasını arayacak. Hat aldıktan sonra görüşmek istediği abonenin telefonunu çevirecek. 
+     Kullanıcı, her ay INKO tarafından postayla gönderilen faturayı, bankaya vereceği otomatik ödeme talimatı veya kredi kartıyla ödeyebilecek. 
+     
+</TEXT>
+</DOC>

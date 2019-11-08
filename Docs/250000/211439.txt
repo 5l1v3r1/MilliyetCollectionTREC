@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 211439 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/27/son/sondun31.html </URL>
+<DATE> 2004/01/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternette yeni virüs MYDOOM 
+</HEADLINE>
+<TEXT>
+
+     İnternette dünden beri yeni virüs dolaşıyor. ''Mydoom'' ya da ''Novarg'' adlı virüsün, büyük hızla yayıldığı ve çok tehlikeli olabileceği bildirildi. 
+     Anti-virüs programı yazılımcılarının bildirdiğine göre, virüs dün ilk kez görüldü. 24 saat geçmeden virüsün 168 ülkede ortaya çıktığı kaydedildi. 
+     Message Labs şirketine göre, virüs e-postalar ve Kazaa benzeri ortak paylaşıma yarayan programlarla yayılıyor. 
+     Virüsün ilkin Rusya'da görüldüğü, tespit edilen 600 bine yakın virüslü dosyanın yüzde 60'nın ABD'de olduğu belirtildi. 
+     ''Solucan'' tipi yeni virüsün ekli mesajlarla gönderildiği ve geçen ağustos ayında ortaya çıkan ''Sobig'' virüsü gibi çok hızlı yayıldığı bildirildi. 
+     
+</TEXT>
+</DOC>

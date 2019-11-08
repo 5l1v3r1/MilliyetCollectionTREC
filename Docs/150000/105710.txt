@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 105710 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/09/04/son/soneko12.html </URL>
+<DATE> 2002/09/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa olduğu yerde saydı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi, önceki kapanışa göre 2.09 puan artarak, 1. seansı 9,309.09 puandan tamamladı. Hisse senetlerinin ortalama değer artışı yüzde 0.02 olarak gerçekleşti. 
+     Günün ilk seansına 89.19 puan kayıpla 9,217.81 puan seviyesinde başlayan endeks, seansın ilk yarısını 42.59 puan aşağıda 9,264.41 puandan geçti. Endeksin gördüğü en düşük seviye 9,187.64 puan, en yüksek seviye ise 9,312.77 puan oldu. 
+     Seans kapanışında mali endeks 28.48 puan düşüşle 11,051.61 puana, hizmetler endeksi de 33.35 puan düşüşle 6,433.61 puana gerilerken, sanayi endeksi 51.28 puan artışla 9,244.16 puana yükseldi. 
+     Böylece önceki kapanışa göre mali grup hisseler ortalama yüzde 0.26, hizmet grubu hisseler ortalama yüzde 0.52 oranında değer yitirirken, sanayi grubu hisseler ortalama yüzde 0.56 oranında değer kazandı. 
+     İşlem gören toplam 279 hisse senedinden 101'i değer kazanırken, 77 hisse senedi değer yitirdi. 101 hissenin fiyatında ise değişiklik olmadı. Seansta, 80 trilyon 69 milyar 257 milyon liralık işlem hacmi oluştu. 
+     Akbank, Favori Dinlenme Yerleri, Garanti Bankası, Yapı ve Kredi Bankası ve Petrol Ofisi en yoğun işlem gören hisseler oldu. 
+     Uzmanlar, dün açıklanan Ağustos ayı enflasyon rakamlarının beklenenden biraz daha iyi çıkmış olmasına rağmen ABD ve Asya-Pasifik bölgesindeki piyasaların negatif kapanışlarının İMKB'de de satış baskısı yarattığını savunarak, 9,100-9,500 aralığında hareket eden endeksin önemli bir gelişme olmadığı sürece bu banttaki hareketini sürdüreceğini kaydediyorlar. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

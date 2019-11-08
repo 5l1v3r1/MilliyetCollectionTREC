@@ -1,0 +1,44 @@
+<DOC>
+<DOCNO> 231657 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/15/son/soneko20.html </URL>
+<DATE> 2004/04/15/ </DATE>
+<TIME> 11.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bankalar risk yönetimini ciddiye alıyor... 
+</HEADLINE>
+<TEXT>
+
+     Türkiye Bankalar Birliği'nce gerçekleştirilen anket, çağdaş risk yönetimi tekniklerinin ve sistemlerinin uygulanmaya başlanmasının yasal düzenlemelerin dayatmasıyla başladığını, ancak süreç içerisinde çoğu banka açısından risk ölçümünde ulaşılan seviyenin, mevzuatın öngördüğü çerçevenin ötesine geçtiğini ortaya koydu. 
+     Türkiye Bankalar Birliği, Risk Yönetim Sistemleri ve Uygulama Esasları Çalışma Grubu tarafından Türk bankalarındaki risk yönetimi uygulamaları hakkında hazırlanan çalışmanın sonuçlarını yayınladı. 
+     Ülkede son yıllarda yaşanan finansal krizlerin, ekonominin tümünü etkilediği, en büyük olumsuz etkiye de bankacılık sisteminin maruz kaldığına işaret edilen çalışmada, uluslararası boyuttaki gelişmelerin de aynı zaman dilimlerinde ortaya çıktığı, küreselleşmenin boyutlanması ve teknolojiye olan bağımlılığın giderek artmasının uluslararası finans kesiminin temel gündemini oluşturduğu, bu gelişmelerin bankacılıktaki risk yönetiminin artan öneminin başlıca nedenleri olduğu vurgulandı. 
+     Türkiye'deki somut gelişmelerin, risk yönetiminin kavram olarak mevzuata girmesiyle başladığı, ilk defa Bankalar Kanunu'nda ifadesini bulan düzenlemelerin 8 Şubat 2001 tarihinde yayımlanan yönetmelik ile ayrıntılandırıldığı kaydedilen çalışmada, 2001 yılındaki uyum süresinin ardından, ''2002 yılından itibaren bankaların, mevzuatın öngördüğü çerçevede çağdaş risk yönetimi sistemleri kurma yolunda önemli bir mesafe katettikleri görülmektedir'' denildi. 
+     Çalışmaya göre, risk yönetimi uygulamalarının yönetişimsel boyutu ve teknik yeterlilikleri bakımından ne aşamada olduğunun saptanmasının yararlı olacağı düşüncesinden hareketle bankalara yönelik düzenlenen ankete, 12'si özel, 7'si yabancı, 3'ü kamu sermayeli, 3'ü de mevduat kabul etmeyen banka olmak üzere 25 banka katıldı. 
+     Söz konusu bankaların 30 Eylül 2003 tarihi itibariyle 175,7 katrilyon düzeyinde olan aktif toplamı, sektörün aynı tarihteki aktif toplamı olan 225 katrilyon liranın yüzde 78'ini oluşturuyor. 
+     Risk yönetimi fonksiyonunun nasıl bir organizasyonel yapıda icra edildiğine ilişkin anket sorusuna, kamu sermayeli bankaların tümü, özel sermayeli bankaların yüzde 75'i, yabancı bankaların yüzde 57'si ve mevduat kabul etmeyen bankaların yüzde 33'ü olmak üzere, tüm katılımcı bankaların yüzde 68'i bağımsız bir risk yönetimi birimi veya bağımsız birer piyasa, kredi, operasyonel risk birimleri bulunduğu yönünde yanıt verdi. 
+     
+     İÇ DENETİM VE RİSK YÖNETİMİNDE 2051 KİŞİ ÇALIŞIYOR 
+     Katılımcı bankaların iç denetim ve risk yönetiminde toplam 2051 kişi görev yapıyor. 
+     Yanıtlar değerlendirildiğinde, özel sermayeli bankalarda teftiş kurullarının, kamu bankalarında iç kontrol merkezlerinin, yabancı bankalarda ise risk yönetimi birimlerinin daha fazla çalışanı olduğu ortaya çıkıyor. 
+     Katılımcı bankaların yüzde 96'sı teftiş kurulundan bağımsız bir iç kontrol fonksiyonunun bulunduğunu belirtti. 
+     Türk bankalarının Basel II'ye uyum çerçevesinde başlatmış oldukları risklerin daha duyarlı hesaplanmasına yönelik faaliyetler halen devam ediyor. Anket yanıtlarının incelenmesinden, sistem genelindeki genel durumun Basel-II'ye yönelik öğrenme ve algılama evresinde olduğu anlaşılıyor. 
+     ''Risk komiteleri toplantılarında icracı birimlerin uygulamalarını etkileyen kararlar alınmakta mıdır '' sorusuna yüzde 68 oranında ''Evet'' yanıtı verildi. 
+     Anket sonuçları, 8 Şubat 2001 tarihli Risk Yönetimi Yönetmeliği'nden sonra Türk bankacılık sisteminin piyasa riski ölçüm sistemlerini kurmakta oldukça hızlı davrandığını gösteriyor. Katılımcı bankaların tamamı, yasal sermaye yeterliliği hesabı için gerekli olan piyasa riskine maruz tutarın belirlenmesinde Standart Metodu kullanıyor. Bunun yanı sıra, bankaların yüzde 76'sı daha hassas risk ölçümünü sağlamak için banka dahilinde Riske Maruz Değer RMD modelleri oluşturdu, ticari yazılım satın aldı ya da danışmanlık firmalarından bu konuda yardım sağladı. 
+     Piyasa riski modeli kullanan bankalar, modellerinin etkinliğini geriye dönük testlerle gözden geçiriyor. 
+     Kredi riski, bankaların risk ölçme, izleme ve raporlama süreçleri konusunda en çok hassasiyet gösterdikleri risk kategorisini oluştururken, bankaların büyük çoğunluğunda kredi riski ölçüm sonuçlarının bankanın kredi politikalarının oluşturulmasında kullanıldığı görüldü. 
+     Anket sonuçları, bankalarca operasyonel risk yönetiminin, piyasa riski ve kredi riskine göre geri planda tutulduğu yolundaki genel kanıyı destekler nitelikte çıktı. 
+     
+     MEVZUATIN ÖNGÖRDÜĞÜNÜN ÖTESİNE GEÇİLDİ 
+     Anketten çıkan en önemli sonuçlardan birisi, bankalarda çağdaş risk yönetimi tekniklerinin ve sistemlerinin uygulanmaya başlanmasının yasal düzenlemelerin dayatmasıyla başladığı, ancak, süreç içerisinde sistemdeki çoğu banka açısından risk yönetiminde ulaşılan seviyenin mevzuatın öngördüğü çerçevenin ötesine geçtiği bulgusu oldu. 
+     Örneğin, istisnasız tüm bankalar, piyasa risklerini denetim otoritesine ''Standart Yöntemi'' kullanarak raporluyor. Diğer taraftan bankaların önemli bir bölümü, aynı zamanda hassas risk ölçümü yapan ''Riske Maruz Değer'' modelleri ile de ölçüm yaparak banka dahilinde raporluyor ve piyasa risklerini günlük olarak izliyor. 
+     Bir başka örnek ise kredi riski açısından yasal bir zorlama henüz bulunmamakla birlikte, birçok bankada kredi portföyüne ilişkin zarar olasılığı rakamları istatistik modellerle hesaplanarak izleniyor. 
+     
+     RİSK YÖNETİMİNDE CİDDİ YATIRIMLAR YAPILDI 
+     Türk bankalarında risk yönetimi sürecinin evrilerek, salt yasal gereklilikleri karşılamaktan, bankanın faaliyetlerine ve yapısına göre ihtiyaç duyulanların yapılmaya çalışıldığı bir noktaya geldiği tespiti yapılan çalışmada, şu değerlendirmelere yer verildi 
+     ''Risk yönetimi uygulamalarının ortaya koyduğu bir başka önemli husus ise Türk bankacılık sisteminin önemli bir bölümünde bağımsız bir risk yönetimi, teftiş ve iç kontrol işlevlerinin bağımsız birimlerce yerine getirildiği bankaların insan kaynağının yanı sıra, Basel II uyum faaliyetleri de dahil olmak üzere, çağdaş risk yönetimi sistem ve teknikleri konularında ciddi yatırımlar yaptıkları gerçeğidir. 
+     Genel olarak, risk yönetiminin Türk bankacılık sisteminde geldiği nokta, risklerin belirlendiği, tanımlandığı, ölçüldüğü ve kısmen de izlendiği aşamalardır. Anket sonuçları, risk ölçüm sonuçlarının ve risk yönetimi fonksiyonlarının öngörülerinin bankaların karar alma süreçlerinde henüz etkin olarak yer alamadığı gerçeğini göstermektedir. 
+     Risk yönetimi fonksiyonunun bankaların hayatlarında vazgeçilmez konuma gelmesi, hayatlarının bir parçası olması, bu fonksiyonun başta üst yönetimler olmak üzere tüm çalışanlarca tam olarak algılanması ve benimsenmesi ve bu yoldan risk kültürünün örgüt kültürüne uyarlanmasıyla olanaklı olacaktır.'' 
+     
+</TEXT>
+</DOC>

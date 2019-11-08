@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 384804 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/07/son/soneko39.html </URL>
+<DATE> 2005/10/07/ </DATE>
+<TIME> 14.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Symantec, WholeSecurity'i satın aldı... 
+</HEADLINE>
+<TEXT>
+
+     Bilgi güvenliği alanında faaliyet gösteren Symantec, WholeSecurity şirketinin satın alımını tamamladığını açıkladı. 
+     Symantec'ten yapılan açıklamaya göre, WholeSecurity çözümleri, kimlik hırsızlığı phishing saldırıları, tuş vuruş kaydedicileri, Truva atları ve solucanlar gibi suça yönelik yazılımlara karşı PC'leri koruyor. 
+     WholeSecurity'nin ürünleri, davranışsal teknolojiyi kullanarak PC'lerde bilinen, bilinmeyen tehlikelere karşı kullanıcılara koruma sağlıyor. 
+     Symantec'in, WholeSecurity'nin davranışa dayalı teknolojisiyle oluşturduğu kombinasyon sayesinde bütünlüklü ve kullanılabilinir çözümler sunarak, kurumsal ve bireysel kullanıcıların masaüstlerine gerçek zamanlı koruma sağlayabileceği bildirildi. 
+     
+</TEXT>
+</DOC>

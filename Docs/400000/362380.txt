@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 362380 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/19/son/soneko03.html </URL>
+<DATE> 2005/07/19/ </DATE>
+<TIME> 09.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bankalar kur riskinden uzak duruyor 
+</HEADLINE>
+<TEXT>
+
+     YTL’deki değerlenme ve yüksek reel faizlere rağmen bankacılık sektörü kur riski almaktan uzak duruyor. 
+     Sektör bilanço içi döviz pozisyonundaki açığını 500 milyon dolara kadar daralttı. 
+     ANKA’nın Bankacılık Düzenleme ve Denetleme Kurumu’ndan BDDK edindiği verilere göre, bankalar temmuzun ilk haftasında bilanço içi yabancı para pozisyonlarını 708 milyon dolar daraltarak, 1 Temmuz itibariyle 1 milyar 204 milyon dolar olan açıklarını 8 Temmuz itibariyle 496 milyon dolara kadar düşürdüler. Bu bankacılık sektörünün bu yıl şubat ayından bu yanaki endüşük döviz açığına işaret ediyor. 
+     Sektörün bu yıl başında 1.4 milyar dolar düzeyinde bulunan bilanço içi yabancı para pozisyonundaki açık şubat sonunda 300 milyon dolara kadar düşmüş, ancak izleyen aylarda büyüme 
+     eğilimini sürdürmüştü. Mart sonunda 1.8 milyar dolara kadar yükselen bankacılık sektörünün döviz açığı, mart’tan sonra 1 milyar dolarla 1.5 milyar dolar arasında dalgalandı. 
+     
+     ÖZEL BANKALARIN AÇIĞI SEKTÖRDEN BÜYÜK 
+     Sektörün toplam açığının 496 milyon dolara kadar gerilemesine rağmen, özel sermayeli bankaların döviz açığı 1.1 milyar dolardan 1.3 milyar dolara kadar yükseldi. Dövizç 
+     açığınan azalması ise kamu bankalarının döviz pozisyonlarındaki fazlayı 295 milyonz dolardan 447 milyon dolara çıkarmaları, yabancı bankaların ise 1 Temmuz itibariyle 333 milyon dolar olan döviz açığını kapatarak pozisyonlarını 389 milyon dolarla fazlaya dönüştürmeleri belirleyici oldu. Kalkınma ve yatırım bankalarının ise 7 milyon dolar olan döviz fazlası 18 milyon dolarlık açığa dönüştü. 
+     
+     BİLANÇO DIŞINDA FAZLA AZALDI 
+     Sektörün bilanço içi döviz açığının azaldığı bu dönemde vadeli döviz işlemlerini kapsayan bilanço dışı yabancı para pozisyonlarındaki fazla ise 870 milyon dolardan 186 milyon dolara geriledi. 
+     Bu nedenle bilanço içi ve dışı yabancı para pozislonlarının toplamından oluşan ve yabancı para net genel pozisyonunda önemli bir değişiklik yaşanmadı. Sektörün 1 Temmuz’da 334 milyon dolar olan net genel pozisyon açığı 8 Temmuz’da 309 milyon dolar olarak gerçekleşti. 
+     YTL’deki değerlenmeye rağmen kur riski almaktan uzak duran bankacılık sektörü, bilanço içinde aldıkları kur riskini de vadali işlemlerle azaltıyorlar. Bu nedenle de bilanço içi yabancı para pozisyonunda fazlası bulunan kamu ve yabancvı sermayeli bankalar, bilanço dışı pozisyonlarında açık, bilanço içinde açığı bulunan özel bankalar ise bilanço dışı pozisyonunu fazlada tutuyorlar. 
+     
+</TEXT>
+</DOC>

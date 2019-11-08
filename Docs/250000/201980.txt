@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 201980 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/14/son/sondun08.html </URL>
+<DATE> 2003/12/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Şok Öldürücü virüs ev hayvanlarına bulaştı... 
+</HEADLINE>
+<TEXT>
+
+     İngiltere'de her yıl hastanelerde yaklaşık 5 bin hastanın ölümüne yol açan MRSA virüsünün ülkede çok sayıda ev hayvanına da bulaştığı açıklandı. 
+     İngiltere Kamu Sağlığı'nı Koruma Kurumu HPA tarafından The Observer gazetesine yapılan açıklamada, İngiltere çapında yüzlerce ev hayvanında bu virüsün tespit edildiği bildirildi. 
+     Virüsün ev hayvanlarına bulaşmasının MRSA'nın yayılmasını önlemeyi imkansız hale getireceğini vurgulayan HPA uzmanları, virüsü taşıdığı belirlenen ev hayvanlarının sahiplerine de ''bu konuda uyanık olun ama virüsü taşıyor diye hemen hayvanlarınızı da gözden çıkarmayın'' uyarısında bulundu. 
+     Virüsün her üç insandan birinde bulunduğunu, ancak bu kişilere bir zarar vermediğini hatırlatan uzmanlar, ''virüs sadece yaşlılar, hastalar, bebekler ya da ameliyat sonrası nekahat dönemini geçiren kişiler, yani bağışıklık sistemi zayıf düşenlerde ölüme yol açabiliyor'' dedi. 
+     Özellikle kedi, köpek ve tavşanlarda geçen yıl boyunca MRSA virüsünün tespit edildiğine dikkat çeken HPA uzmanları, ''virüsün insanlardan ev hayvanlarına mı geçtiği, yoksa onların mı virüsün kaynağını oluşturdukları ise en kısa zamanda yanıtlanması gereken çok önemli bir soru olduğunu'' bildirdi. 
+     
+</TEXT>
+</DOC>

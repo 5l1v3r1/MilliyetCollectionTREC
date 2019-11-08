@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 101844 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/08/14/son/soneko08.html </URL>
+<DATE> 2002/08/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa güne başladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Bileşik Endeksi, dünkü kapanışa göre 1.91 puan azalarak, seansın ilk dakikalarını 10,249.81 puandan geçti. 
+     Hisse senetleri, ortalama yüzde 0.02 oranında değer kaybetti. 
+     
+     BEKLENTİLER 
+
+     Piyasada dünkü zayıf hacimli toparlanmanın ardından, aracılar genel olarak yukarı yönlü sınırlı görmeyi sürdürürken, sıkışık bir seyir beklentisinde olduklarını söylüyorlar. 
+     Uzmanlar, YTP Başkanı İsmail Cem'in basında yer alan ittifak arayışlarına ilişkin umutlu olmadığını belirten açıklamalarının açılışta negatif etki getirebileceğini belirtiyorlar. Öte yandan dün ikinci seanstaki toparlanmanın açılışta da devam edebileceğini söyleyenler de var. 
+     Piyasanın genel olarak siyasi gelişmeleri, Kemal Derviş'in alacağı kararlar ve ittifak çalışmalarını beklediğini kaydeden uzmanlar, bu konudaki gelişmelerin belirleyici olmasını beklediklerini söylüyorlar. 
+     Öte yandan ABD Merkez Bankası'nın faiz oranlarını değiştirmemesi ardından piyasalardaki düşük kapanışların da yukarı yönü sınırlayıcı bir faktör olarak görüldüğü belirtiliyor. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 405041 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/20/son/soneko43.html </URL>
+<DATE> 2005/12/20/ </DATE>
+<TIME> 14.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Novell Türkiye, 2005'te yüzde 30 büyüdü... 
+</HEADLINE>
+<TEXT>
+
+     Yazılım altyapısı ve servis alanında faaliyet gösteren Novell Türkiye'nin, bu yıl yüzde 30 büyüme gösterdiği bildirildi. 
+     Novell'den yapılan yazılı açıklamada, şirketin, Linux'tan kimlik yönetimine, kaynak yönetiminden veri merkezi çözümlerine kadar Türkiye pazarında hızlı bir ivmeyle büyüdüğü ifade edildi. 
+     Novell Türkiye Müdürü Gamze Aydın, 2006 yılını Novell'in Türkiye'deki atılım yılı olarak değerlendirirken, yatırımların karşılığını 2005 sonu itibarıyla almaya başladıklarını kaydetti. 
+     
+</TEXT>
+</DOC>

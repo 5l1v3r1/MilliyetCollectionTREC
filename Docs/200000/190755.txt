@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 190755 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/23/son/soneko53.html </URL>
+<DATE> 2003/10/23/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+eTR ödülleri sahiplerini buldu... 
+</HEADLINE>
+<TEXT>
+
+     Bu yıl ilk kez verilen ''eTR Ödülleri''nde Büyük Ödülü, eDevlet kategorisinde Emniyet Genel Müdürlüğü, eYerel Yönetim Hizmetleri kategorisinde Kadıköy Belediyesi kazandı. 
+     Türk Sanayicileri ve İşadamları Derneği TÜSİAD ve Türkiye Bilişim Vakfı'nın TBV ortaklaşa düzenlediği ''eTR Ödülleri''nde, Emniyet Genel Müdürlüğü ''Polnet'', Kadıköy Belediyesi de ''E-Belediyeye Dönüşüm'' projeleri ile büyük ödüle layık görüldüler. 
+     Başarı Ödülü ise, eDevlet kategorisinde ''Sağlık Harcamaları Denetim Projesi'' ile Emekli Sandığı'nın, eYerel Yönetim Hizmetleri kategorisinde ''Internet Şubesi Projesi'' ile İstanbul Su ve Kanalizasyon İdaresi İSKİ Genel Müdürlüğü'nün oldu. 
+     TÜSİAD ve TBV tarafından ''Vatandaş Odaklı e-Devlet'' dönüşümünü sağlayacak ''eTürkiye projeleri''ni ülke gündeminin ön sıralarına taşımak amacıyla ortaklaşa olarak düzenlenen eTR Ödülleri, eTR Kongresi'nin ardından yapılan törenle sahiplerini buldu. 
+     
+     POLNET 
+     Bilgi çağı polisinin ve vatandaşının ihtiyaç duyduğu her türden bilgiye, istenilen yerde ve zamanda, hızlı ve güvenilir şekilde ulaşmayı sağlayan sistem, günün ihtiyaçlarına değişen mevzuata ve teknolojiye göre kendini güncelleyebiliyor. 
+     
+     EMEKLİ SANDIĞI 
+     Sandıkla ve sağlık yardım haksahipleriyle bağlantılı tüm sağlık kuruluşlarının online olarak özellikle internet ortamıyla bilgilerinin ana sisteme alınması, şahıs bazında kaydedilmesini ve işlemin yapıldığı an itibarıyla denetim yapılmasını amaçlıyor. 
+     
+     E-BELEDİYEYE DÖNÜŞÜM PROJESİ 
+     Projeyle, tüm yerel yönetim hizmetlerinin ayrıntılı olarak açıklandığı sorgulama, eleştiri, öneri, değerlendirme, bilgi alma ve başvuralar web ortamında yapılabiliyor. 
+     
+     İSKİ 
+     Projeyle, vatandaşlar internet üzerinden tahsilat, fatura, arıza, kaçak su, fatura hesaplama ve itiraz imkanına sahip olacak. 
+     
+</TEXT>
+</DOC>

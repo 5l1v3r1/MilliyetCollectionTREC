@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 129044 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/01/06/son/sondun06.html </URL>
+<DATE> 2003/01/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+2003'te yıldırım virüs saldırılarından endişe ediliyor... 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayar virüsleri açısından 2002 yılının fazla hareketli geçmemesini ''fırtınadan önceki sessizlik'' olarak niteleyen uzmanlar, 2003 yılında ortaya çıkacak yeni kuşak virüslerden endişe ediyor. 
+     ''F-Secure'' adlı virüsle mücadele şirketi müdürü Mikko Hypponen, yeni tekniklerin virüs programı yazan kişilere büyük olanaklar sağladığına dikkat çekti ve ''bazı kişilerin bu teknikleri kullanmaya kalkmaları, zaman meselesi'' diye konuştu. 
+     Hypponen'e göre ''Warhol kurdu'' gibi virüsler 15 dakika içinde, ''Flash kurdu'' gibi virüsler 15 saniye içinde milyonlarca bilgisayarı etkileyebilecek. 
+     ''Bir virüse karşı savunma düzeni hazırlayabilmek için en az 2-3 saate ihtiyaç olduğunu'' vurgulayan Hypponen, ''15 dakika içinde etkisini gösteren bir virüse karşı hiçbir şey yapılamayacağını'' sözlerine ekledi. 
+     Bu arada, bilgisayar virüsleri açısından 2001'in en kötü yıl olduğunu belirten uzmanlar, 2001 yılında 1. dereceden 9 saldırı, 2. dereceden ise 43 saldırı saptandığını kaydettiler. Uzmanlar en tehlikeli 10 virüsten 7'sinin de yine 2001 yılında ortaya çıktığını ifade ettiler. 
+     Uzmanlar, şimdiye kadar bir virüsün bilgisayara bulaşması için bir programın çalıştırılmasının şart olduğunu anımsattılar, ancak yeni kuşak virüsler açısından böyle bir zorunluluk bulunmadığını söylediler. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

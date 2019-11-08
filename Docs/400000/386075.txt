@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 386075 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/12/son/soneko40.html </URL>
+<DATE> 2005/10/12/ </DATE>
+<TIME> 16.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa günü 921 puanlık kayıpla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeksi, 2. seansta 657.42 puan azalarak 33,118.44 puandan kapandı. 
+     Hisse senetleri 2. seansta, ortalama yüzde 1.95 oranında değer kaybetti. 
+     İlk seanstaki 264.35 puanlık düşüş dikkate alındığında, Borsa endeksi günün tamamında 921.77 puan geriledi. Hisse senetlerinin günlük ortalama değer kaybı yüzde 2.71 oldu. 
+     Endeks 2. seansa, 35.20 puan azalarak 33,740.66 puandan başladı. Seansın ilk yarısını 33,299.19 puandan geçen endeks, seans içinde en düşük 32,969.81 puana kadar gerilerken, en yüksek olarak 33,740.66 puanı gördü. 
+     2. seans kapanışında, mali endeks 1.207.46 puan azalarak 51,003.14 puana, sanayi endeksi ise 396.68 puan azalarak 26,266.55 puana, hizmetler endeksi 151.12 puan azalarak 16,082.42 puana geriledi. 
+     Böylece ilk seansa göre, mali grup hisseler ortalama yüzde 2.31, sanayi grubu hisseler ise yüzde 1.49, hizmetler grubu hisseler ise yüzde 0.93 değer kaybetti. 
+     2. seansta işlem gören toplam 307 hisse senedinden 20'si değer kazandı, 248'i değer yitirdi, 39 hisse senedinin fiyatında değişiklik olmadı. 
+     2. seansta, 574 milyon 613 bin 71 YTL'lik işlem hacmi kaydedildi. Günlük işlem hacmi, 1 milyar 51 milyon 50 bin 459 YTL olarak hesaplandı. 
+     2. seansta İş Bankası C , Doğan Holding, Yapı ve Kredi Bankası, Ereğli Demir Çelik ve Akbank, en çok işlem gören hisse senetleri oldu. 
+     
+     GÖRÜNÜM 
+
+     İlk seansta 33,800 civarında tutunan Ulusal 100 Endeksi, öğle saatlerinde Standard and Poors'un, petrol fiyatlarının Türkiye'nin kredi notunu etkileme potansiyeline sahip olduğunu açıklaması üzerine 33,500 puanın altına sarktı. 
+     Endekste, 2. seansla birlikte satış baskısının da güçlendiğinin görüldüğünü kaydeden uzmanlar, endeksin kritik 34,000 puan direncini yukarı kırmayı başaramamasıyla birlikte kısa vadeli teknik görünümün önemli ölçüde zayıfladığını belirterek, 34,000 puan seviyesi aşılmadığı sürece düşüş eğiliminin gözleneceğini, 33,400 ve 33,000 puan seviyelerinin destek, 33,800 puanın ise direnç seviyesi olacağını savunuyor. 
+     
+
+     
+</TEXT>
+</DOC>

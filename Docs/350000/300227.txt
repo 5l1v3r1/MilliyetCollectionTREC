@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 300227 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/23/son/soneko30.html </URL>
+<DATE> 2004/12/23/ </DATE>
+<TIME> 15.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+MB döviz alım ihalesinde ortalama fiyat 1.379.452 TL oldu... 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası, bugün düzenlediği 15 milyon dolar tutarındaki döviz alım ihalesinde ortalama fiyat 1 milyon 379 bin 452 lira oldu. 
+     Merkez Bankası'nın döviz alım ihalesine 105 milyon dolar teklif gelirken, maksimum fiyat 1 milyon 380 bin lira, minimum fiyat 1 milyon 377 bin 975 lira olarak belirlendi. 
+     İhaleye gelen tekliflerin ortalaması 1 milyon 380 bin 729 lira oldu. 
+     Merkez Bankası günlük döviz alım ihalesi ardından ihalede oluşan ortalama fiyattan maksimum 13.1 milyon dolar tutarında opsiyon kullandı. Bu durumda günlük olarak piyasadan 28.1 milyon dolar çekildi. 
+     Merkez Bankası, sadece ihalede kazanan kuruluşlara banka ve özel finans kurumu ihalede gerçekleşen ortalama fiyat üzerinden ek satım opsiyonu tanıyor. Bu şekilde her kuruluş, ihalede sattığı tutarın yüzde 200'ü kadar opsiyon alımı yapabiliyor. 
+     Merkez Bankası önümüzdeki 3 yıllık dönemin, döviz arzının döviz talebine kıyasla giderek artacağı bir dönem olacağı öngörüsüyle döviz alım ihalelerine dün yeniden başlamıştı. 
+     
+</TEXT>
+</DOC>

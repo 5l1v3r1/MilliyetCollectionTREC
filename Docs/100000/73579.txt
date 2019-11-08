@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 73579 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/03/20/son/sondun07.html </URL>
+<DATE> 2002/03/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sony dünyanın en geniş ekranlı dizüstü bilgisayarını üretti 
+</HEADLINE>
+<TEXT>
+
+     Japon Sony firması, dünyanın en geniş ekranlı dizüstü bilgisayarını üretti. 
+     ''Vaio GRX'' modeli bilgisayarın ekran boyutu 16.1 inç. Bu genişlikteki bir ekranın 17 inçlik tüplü ekranlara eşit alanı kapsadığı belirtildi. Dünyada ilk kez bu genişlikte ekranı olan bir dizüstü bilgisayar üretiliyor. 
+     Intel Pentium-4 işlemcisiyle çalışan yeni bilgisayarların aynı zamanda normalden geniş bir sabit diski bulunuyor. Yeni bilgisayarların, grafik programlarıyla çalışanların yanı sıra multimedya programlarını çok kullanan kişiler için ideal olduğu belirtildi. 
+     Şimdiye kadar piyasaya çıkan en geniş ekranlı dizüstü bilgisayar, Gateway firmasının ürettiği Solo-9550 modeliydi. Bu bilgisayarın ekranı 15.7 inç genişliğinde. 
+     Sony piyasaya 3 tip ''Vaio GRX'' sürüyor. Temel model olan ''GRX550'' 15 inçlik bir ekrana sahip. 1.6 GHZ gücündeki bilgisayarın 512 MB RAM'i ve 30 GB depolama kapasitesi var. CD-RW-DVD kombo sürücüsüne de sahip olan alet 2 bin 99 dolardan satılıyor. Bu fiyata, yüzde 8.25 oranındaki vergi dahil değil. 
+     16.1 inçlik ekrana sahip olan GRX570 modelinin fiyatının 400 dolar daha pahalı olduğunu kaydeden Sony yetkilileri, aletin depolama kapasitesinin de 40 GB olduğuna dikkat çektiler. 
+     2 bin 999 dolardan satılan GRX590 ise 16.1 inçlik ekrana sahip, hızı ise 1.7 GHZ. Bu bilgisayarın depolama kapasitesi de 40 GB. 
+     Sony'nin yeni bilgisayarlarının satışına bu ayın sonunda başlanacağı bildirildi. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

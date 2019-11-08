@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 167868 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/07/son/sontur08.html </URL>
+<DATE> 2003/07/07/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternette Yahoo kullanıcılarına tuzak... 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın en büyük ücretsiz elektronik posta adresi veren kuruluşlarından Yahoo'da posta hesabı bulunan Türk kullanıcıları tehdit altında... Çünkü, kim tarafından hazırlandığı belli olmayan bir sahte posta ile kullanıcı şifreleri toplanıyor. 
+     A.A muhabirinin, kendisine gönderilen ''Hesabınızın Silinmemesi İçin Yahoo ID ve Şifrenizle Giriş Yapmalısınız'' başlıklı posta ile fark ettiği ''tuzak'' uyarıda, Türk kullanıcılardan, gönderilen postada yer alan Yahoo kullanıcı adı Yahoo ID ve şifre Password alanlarını doldurmaları isteniyor. 
+     Postada, şu bilgiler yer alıyor 
+     ''Önemli uyarı 31.06.2003 tarihinden itibaren Türkçe Yahoo e-mail kayıt işlemini yaptırmayan tüm Türkiye kullanıcılarının Yahoo hesapları silinecektir. Yahoo mail hesabınızı sürdürmek istiyorsanız, bu Türkçe kayıt sayfasını kullanarak yahoo ID ve şifrenizle giriş yaparak kayıt işleminizi tamamlamanız gerekmektedir.'' Hesabının kapanmaması için kullanıcı adı ve şifresini giren Türk kullanıcılar, farkında olmadan posta adreslerini ve şifrelerini ''siber korsan korsanlara'' teslim ediyor. Oysa Yahoo'nun, 3 ayda bir kez posta adresine giriş yapan kullanıcıların kayıtlarını silmediği biliniyor. 
+     İnternet analistleri, söz konusu sahte postaları alan kullanıcılardan gönderilen formları kesinlikle doldurmamalarını istediler. 
+     
+</TEXT>
+</DOC>

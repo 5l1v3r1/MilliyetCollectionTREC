@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 309745 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/27/guncel/gun01.html </URL>
+<DATE> 2005/01/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternet fiyaskosu 
+</HEADLINE>
+<TEXT>
+
+
+OKS başvuruları okul müdürlükleri aracılığıyla internetten yapılıyordu. Site yığılmadan dolayı kilitlendiği için, çok sayıda öğrenci kaydolamadı 
+
+Burcum Devrez 
+
+Milli Eğitim Bakanlığı, bu yıl Ortaöğretim Kurumları Öğrenci Seçme Sınavı OKS başvurularını, okul müdürlükleri aracılığıyla internetten almaya karar verdi. Ancak başvuruların yapılacağı internet adresine aşırı yığılma olunca, site kilitlendi, tam bir çile başladı. Okul müdürleri siteye giremeyince de başvurular yapılamadı. Veli, müdürün onayı olmadan başvuru yapamadığı için, bakanlığını sınavı kolaylaştırma projesi bürokrasiye takıldı. 
+OKS başvuruları 11 Ocak'ta başladı. Uygulamaya göre, veliler okula gelecek, müdür de internete bağlanarak öğrencinin başvurusunu yapacaktı. Ancak teknoloji planlar işlemedi. Türkiye'nin dörtbir yanından okullardan başvurular girilmek istenince site yükü kaldıramadı. Bazı müdürlerin verdiği bilgiye göre, 11 Şubat'ta bitecek başvurular için hafta başından bu yana hiç kayıt yaptırılamadı. 
+
+'Başvuru yapamıyoruz' 
+Yoğunluk nedeniyle başvuru yapamadıklarını söyleyen Bahçelievler Altınyıldız İlköğretim Okulu Müdürü Adnan Hakan, "Sayfa açılıyor ama başvurunun yapılacağı bölüme girilmiyor. Milli Eğitim Bakanlığı Bilgi İşlem Merkezi'nden yetkililerle görüştük İstanbul'da çok büyük bir yığılma olduğunu, sayfanın kitlendiğini, kullanılamaz hale geldiğini söylediler. İnternet üzerinden başvuru sistemi çok güzel. Ancak kapasite yetersiz, artırılmalı. En azından alternatif bir kaç sayfadan daha giriş yapılabilmeli" dedi. Avni Başman İlköğretim Okulu Müdürü Fuat Baş ise, "Hafta başından beri siteye giremiyoruz. Sayfa açılıyor ama işlem yapamıyoruz." diye konuştu. 
+
+Hiç başvuru yapamayan okullar var 
+
+Şemsipaşa İlköğretim Okulu 90 öğrenci sınava girecek. Hiçbir öğrencinin başvurusu yapılamadı. 12 öğrencinin evrak bilgileri alındı. 
+Selimali İlköğretim Okulu Sınava 150 öğrenci girecek. Bayramdan önce 40 öğrencinin başvurusu yapıldı, diğerleri bekliyor. 
+Anafartalar İlköğretim Okulu Sınava 100 öğrenci girecek. Başvuruları yapılamadı. 
+Cengiz Topel İlköğretim Okulu 100 öğrenciden 14 kişinin başvurusu yapılabildi. 
+Cevatpaşa İlköğretim Okulu Sınava 50 öğrenci girecek. Müdürlük kayıtları bayram sonrasına bıraktı. Sistem kitlendiğinden başvuru yapılamıyor. 
+Altınyıldız İlköğretim Okulu 200 öğrenci sınava girecek. Başvuruları yapılmadı. 40 kişi form doldurdu. 
+
+
+</TEXT>
+</DOC>

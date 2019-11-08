@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 133115 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/01/25/son/sondun18.html </URL>
+<DATE> 2003/01/25/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternet erişiminde sorunlu gün... 
+</HEADLINE>
+<TEXT>
+
+     Birçok Asya ülkesinde bugün internete erişilemediği, erişim hızının yavaşladığı ve uzmanların yeni bir virüs saldırısından endişe ettiği bildirildi. 
+     İnternetteki virüs Türkiye'deki kullanıcıları da etkiledi. Yurt dışındaki serverlardan yayın yapan pek çok Türk sitesine ulaşmak mümkün olmadı. 
+     İnternet servis sağlayıcılarına göre, Tayland, Japonya, Malezya, Filipinler, Güney Kore ve Hindistan'daki çok sayıda bilgisayar kullanıcısı internet bağlantı hızının bugün çok düştüğünü bildirdi. 
+     Tayland'da internet desteği sağlayan bir firmanın açıklamasında, bir virüs ya da ''kurt''un Microsoft yazılımlarındaki bir açığa ''saldırdığı'' belirtildi. 
+     Tayland'da ülkedeki sunucularla bağlantıda sorun olmadığı, ancak uluslararası sunuculara bağlanırken bağlantı hızının yavaşladığı ve öğleden sonra bir süre bağlantının tamamen kesildiği belirtildi. Bazı sunucular, kesintiden etkilenmedi. 
+     Güney Kore'de de çok sayıda internet kullanıcısını etkileyen bu ''elektronik saldırı'', ülke tarihindeki elektronik alanda en büyük arızaya yol açtı. Güney Kore telefon şirketini de etkileyen saldırının ardından internet erişiminin düşük hızda da olsa yeniden sağlandığı belirtildi. 
+     İnternetteki hareketi gözlemleyen uzmanlar da, dünya genelinde internet erişim hızının önemli ölçüde azaldığını açıkladılar. 
+     Uzmanlara göre, bu elektronik saldırı 2001 yılının yaz aylarında ''kırmızı kod'' virüsüyle yapılan saldırıyla benzerlikler gösteriyor. 
+     Antivirüs yazılımı üreticisi Symantec firmasından yapılan açıklamada ise dünya genelinde en az 22 bin sistemin etkilendiğinin tahmin edildiği kaydedildi. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 227376 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/31/son/sonyas17.html </URL>
+<DATE> 2004/03/31/ </DATE>
+<TIME> 11.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+NASA'nın ultrason cihazı, dünya da kullanılacak 
+</HEADLINE>
+<TEXT>
+
+     Amerikan astronotlarını uzayda muayene etmekte kullanılan ultrason yönteminin, Yer'de de kullanılacağı bildirildi. 
+     Amerikan Ulusal Havacılık ve Uzay Dairesi'nin NASA , astronotları sağlık muayenesinden geçirmek amacıyla geliştirdiği özel ultrason aygıtı, Yer'de de acil durumlarda kullanılabilecek. Detroit hokey takımının oyuncuları, bu sistemi başarıyla denediler bile. 
+     Kullanana tıp bilgisi gerektirmeyen aygıt, telefon ya da internet hattına bağlanıyor ve hastayla ilgili verileri doktorun ekranına aktarıyor. Doktor da ekranına gelen bilgi ve görüntüleri değerlendirerek hastalığı teşhis ediyor. 
+     Detroit oyuncuları, yaralanan arkadaşlarının hastaneye sevk edilmesine gerek olup olmadığını, yaralıya neler yapabileceklerini soyunma odasına yerleştirilen 76 kiloluk aygıt sayesinde öğreniyorlar. Cihaz hastaneye bağlı. 
+     Ultrason cihazı, Uluslararası Uzay İstasyonu'nda röntgen veya ''scanner'' eksikliğini gidermek amacıyla NASA tarafından geliştirildi. Cihazdaki teknoloji, yüksek çözünürlüğe sahip görüntü elde etme imkanı veriyor. Çok çok uzaklardaki uzman, bu yöntemle örneğin böbrek taşını tespit edebiliyor. 
+     Henry Ford hastanesi doktoru Scott Dulchavsky, ''Ultrason teknikleri hem uzayda, hem de yeryüzünde acil sağlık sorunlarının tedavi şansını artıracak'' dedi. 
+     Uzmanlar, bu yöntemin ambulanslarda ve kaza bölgelerinde de kullanılabilmesi amacıyla cep telefonu teknolojisinden nasıl yararlanabileceklerini araştırıyorlar. 
+     Ultrason, insan kulağının duyamayacağı kadar yüksek frekansa sahip ses dalgası. Tıp alanında 500 khz ile 6 mhz arasındaki dalgalar kullanılıyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 213090 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/04/son/soneko19.html </URL>
+<DATE> 2004/02/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Wall Street günü düşüşle açtı 
+</HEADLINE>
+<TEXT>
+
+     ABD'de teknoloji şirketlerinin durumunu gösterir öncülerinden Cisco Systems şirketi baş yöneticisi John Chambers'ın ''şirket üst düzey yöneticilerinin yeni harcamalar ve eleman alımlarında hala ihtiyatlı tutum takındıklarını'' söylemesi, Wall Street'in bugünü düşüşle açmasına neden oldu. 
+     Borsanın bugünkü açılışında Dow Jones Endeksi 25.92 puan binde 2.5 puan kayıpla 10,479.26 puana, Nasdaq Bileşik Endeksi de 24.47 puan yüzde 1.18 kayıpla 2,041.74 puana indi. Standard Poor's 500 endeksi de 4.6 puan binde 4 puan kayıpla 1,131.43 puana geriledi. 
+     Dünyanın en büyük Internet trafiğini yönlendirici ekipman üreticisi olan Cisco Systems'in geçen yılın son çeyreğinde düşük çıkması, gelirlerinin yaklaşık yüzde 75'ini şirketler ve kamudan sağlayan bu sektör hakkında soru işaretleri yarattı. 
+     Telekomünikasyon ekipmanları imalatçısı Ciena şirketinin de karı azalınca, hisse senetleri değer kaybetti. 
+     
+</TEXT>
+</DOC>

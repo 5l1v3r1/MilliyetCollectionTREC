@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 160629 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/02/son/sontur24.html </URL>
+<DATE> 2003/06/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yurtdışı internet bağlantısında sorun gideriliyor... 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekom Genel Müdürü Mehmet Celalettin Ekinalan, ''Cezayir depremi nedeniyle yurtdışı bağlantılarında büyük sorun yaşayan internette, çözüme doğru önemli çalışmalar yapılıyor'' dedi. 
+     Ekinalan, Türk Telekom Genel Müdürlüğü brifing salonunda düzenlediği basın toplantısında, internette yaşanan sorunlar ve yapılan çalışmalar konusunda bilgi verdi. 
+     Türk Telekom'un internetin yurtdışı bağlantılarında tekel konumunda olmadığını belirten Ekinalan, ''Mevcut 300 bin üyemiz zarar görmeden hizmet alabilirdi. Ama biz tüm servis üyelerine aynı ilgiyi göstererek mağdur olmamalarını istedik. Ama kurumumuza karşı haksız eleştiriler yapıldı'' diye konuştu. 
+     İnternetin uluslararası trafiğini taşıyan SMW3 denizaltı fiberoptik kablo ağında Cezayir depremi nedeniyle yaşanan arızanın giderilmesi çalışmalarının devam ettiğini söyleyen Mehmet Celalettin Ekinalan, bunun dışında Türk Telekom'un alternatif çözüm yollarını da hayata geçirmeye çalıştığını belirtti. 
+     Ekinalan, Türkiye'nin internet bağlantısının yüzde 85'ini kaybettiğini ifade ederek, şöyle konuştu 
+     ''Deprem sonrasında, uydu üzerinden 155 Mbps'lik bir kapasiteyi 30 Mayıs'ta devreye sokarak, internet yurtdışı bağlantılarında büyük bir rahatlama sağladık. Böylece deprem sonrası aktif halde kalabilen yurtdışı internet çıkış kapasitesini yüzde 100 oranında artırdık. 
+     Sorunun temelden çözümü için yaptığımız çalışmalar Kamu İhale Yasası'na takıldı. Biz de Kamu İhale Yasası'ndan çıkmak için gerekli girişimlerimizi sürdürüyoruz.'' Göreve geldikten sonra yurtdışı internet hatlarına alternatif olabilecek yeni devrelerin uydu ve fiberoptik kablolar üzerinden verilmesi için çalışmalar yaptığını söyleyen Ekinalan, bu kapsamda çok sayıda telekom idaresi ve şirketle görüştüklerini kaydetti. 
+     
+     ''ÖZELLEŞTİRMENİN YAPILMASINA DESTEK VERİYORUZ" 
+
+     Türk Telekom Genel Müdürü Ekinalan, bir soru üzerine, Türk Telekom'un özelleştirilmesine destek verdiklerini belirtti. 
+     Özelleştirmenin Türk Telekom için çok iyi olacağını ifade eden Ekinalan, ''Türkiye'deki tüm gruplar Türk Telekom'un özelleştirmesine taraf. Bu IMF ile ilgili sorun değil. Kendimizle ilgili sorun. Özelleştirme çalışmalarına katılıyoruz'' dedi. 
+     
+</TEXT>
+</DOC>

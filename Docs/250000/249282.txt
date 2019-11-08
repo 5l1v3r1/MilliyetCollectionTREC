@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 249282 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/19/son/sontur02.html </URL>
+<DATE> 2004/06/19/ </DATE>
+<TIME> 09.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Uyuşturucu tacirlerinin yeni pazarı internet... 
+</HEADLINE>
+<TEXT>
+
+     Uyuşturucu tacirleri, madde bağımlılarına artık sanal ortamdan da ulaşmaya çalışıyor. 
+     Emniyet Genel Müdürlüğü Kaçakçılık ve Organize Suçlarla Mücadele Daire Başkanlığı KOM tarafından hazırlanan 2003 yılı raporu, uyuşturucu kaçakçılarının, mal teslimatı ve para tahsilatında artık interneti de kullandıklarını ortaya koydu. 
+     Zehir tüccarları, uyuşturucu dağıtımını etkili hale getirmek, güvenli yöntemler bulmak, hızlı iletişim imkanlarından yararlanmak, kanundan kaçabilmek amacıya yeni teknolojileri ve interneti tercih ediyorlar. 
+     Aralarındaki elektronik mesajları kriptolayabilecek kadar teknolojiye hakim olan kaçakçılar, kanun uygulayıcı birimlerin istihbarat faaliyetlerine karşı siber saldırılar da düzenliyorlar. 
+     Uyuşturucu tacirlerinin, yakalanma riskinin az olması nedeniyle özel programlar tarafından korunan chat odalarında birbirleriyle haberleştiklerinin belirtildiği raporda, bazı ülkelerde, internetin başta sentetik uyuşturucuların pazarlanmasında yaygın şekilde kullanıldığı, çeşitli sitelerde reklamı yapılan uyuşturucu maddelerin kullanımının özendirildiği ve sipariş alındığı bilgisine yer veriliyor. 
+     AA muhabirine konuyla ilgili değerlendirme yapan Emniyet yetkilileri, zaman zaman meydana gelen laboratuar patlamaları ve yakalanan sanıkların ifadelerinden yola çıkarak, bilgisayar teknolojisi sayesinde uyuşturucunun üretim şeklinin artık internet kullanıcılarına açık olduğunu ifade ettiler. 
+     Türkiye'de sık görülmemekle birlikte uyuşturucunun zaman zaman internet üzerinden dağıtımının yapıldığının, düzenlenen operasyonlarda ortaya çıktığını kaydeden emniyet yetkilileri, internet kullanımının yaygınlaşmasıyla birlikte sanal ortamda yapılan uyuşturucu ticaretinin de artacağını vurguladılar. 
+     
+     ''SİBER SUÇLARLA MÜCADELE İÇİN...'' 
+     Dünya ülkelerinde görülen 'siber narkotik suçların' Türkiye'de yaygınlaşmadan önlem alınması gerektiğini ifade eden yetkililer, bunun için KOM Daire Başkanlığı bünyesinde Yüksek Teknoloji Suçları ve Bilişim Sistemleri Şube Müdürlüğü'nün kurulduğunu belirttiler. 
+     Emniyet yetkililerine göre, siber suçlarla etkin mücadele edilmesi için yasal düzenleme yapılmasının yanı sıra polis ve adli makamlara maddi imkan sağlanması da gerekiyor. Söz konusu imkanların, bilgisayar yazılımları ve bunları kullanacak eğitimli personel olduğu belirtiliyor. 
+     
+</TEXT>
+</DOC>

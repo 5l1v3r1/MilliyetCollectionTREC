@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 253300 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/06/son/soneko22.html </URL>
+<DATE> 2004/07/06/ </DATE>
+<TIME> 12.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+"Basel II ile Türk bankalarının sermaye ihtiyacı olacak" 
+</HEADLINE>
+<TEXT>
+
+     Fitch Ratings Bankacılık Bölümü Ortadoğu, Afrika, Türkiye, Hollanda ve İngiltere Sorumlusu Gordon Scott, Basel II'nin 2007 başında yürürlüğe girmesinin ardından, Türk bankalarının sermaye ihtiyacı olacağını bildirdi. 
+     Hacattepe Üniversitesi Finansal Araştırmalar Merkezi tarafından düzenlenen finansal piyasalara ilişkin konferansta konuşan Scott, Basel II ile ilgili, ülkelere ne kadar taviz verileceğinin şu anda belli olmadığını ifade etti. 
+     2007 yılı başında yürürlüğe girecek söz konusu bankacılık uygulaması kapsamında, 'yatırım yapılabilir ülkelerin altında derecelendirmesi olan ülkelerin yabancı para cinsinden bonolarını alan bankalar için risk ağırlığı verileceğine' dikkati çeken Scott, şöyle devam etti 
+     ''Örneğin Türkiye için üç BBB'nin altında olduğundan, Türk hazine kağıtlarına yapılan yatırımların sermaye hesabında risk ağırlığı verilmesi öngörülüyor. Bu, Türkiye'de bazı bankaların, sermaye yeterlilik rasyolarının risk ağırlıklarının artmasından dolayı yüzde 8'in altında kalacağını gösteriyor. Dolayısıyla Basel II'den sonra Türk bankalarının sermaye ihtiyacı olacak. 
+     Uygulamayla kredi ve piyasa riskinin yanı sıra bankaların operasyonel risklerinin de hesaplanması gerekiyor. Bu nedenle, bankaların bu geçiş döneminde risk yönetim bölümlerini geliştirmeleri gerekiyor.'' Gordon Scott, Basel II uygulamasından sonra bankacılık sektörünün daha da şeffaflaşacağını vurguladı. 
+     BDDK'nın izlediği yol haritasına da değinen Scott, Fitch Ratings olarak bu yol haritasını birçok ülkedeki regülatörlere göre daha yapıcı olarak değerlendirdiklerini söyledi. 
+     
+     ''ÖNÜMÜZDEKİ YIL İÇİN BAZI RİSKLER DE VAR'' 
+     Merkez Bankası Araştırma Genel Müdürlüğü'nden Eray Yücel ise konuşmasında, Türkiye ekonomisinde 2002 ve 2003'teki gelişmelere değindi. 
+     Makro ekonomik ve siyasi alanda olumlu gelişmelerin olduğu dönemlerde Merkez Bankası'nın bekleyişleri ve uzun vadeli faiz oranlarını etkileyebilme gücünün arttığının gözlendiğini kaydeden Yücel, şöyle devam etti 
+     ''2004 yılında enflasyon hedefine ulaşabileceği yönündeki bekleyişler güçlenmiş olmakla birlikte, önümüzdeki yıl için enflasyon açısından altı çizilmesi gereken bazı riskler de bulunmaktadır. 
+     Örneğin kamu borcunun milli gelire oranındaki çarpıcı azalmaya karşın, borç dinamikleri henüz arzulanan düzeyde değildir. Böyle bir yapı, ekonomideki istikrarsızlıkların uzun süreli olması veya ekonomik programdan sapmaya yönelik sinyaller alınması durumunda, beklentileri olumsuz yönde etkileyebilecektir.'' 
+     
+</TEXT>
+</DOC>

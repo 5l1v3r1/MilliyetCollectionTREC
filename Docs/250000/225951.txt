@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 225951 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/26/son/sontur45.html </URL>
+<DATE> 2004/03/26/ </DATE>
+<TIME> 18.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+AIDS'i saptayan tükürük testine ABDden onay 
+</HEADLINE>
+<TEXT>
+
+     ABD'de, AIDS hastalığının teşhis edilmesini sağlayan tükürük testine onay verildi. 
+     ABD Gıda ve İlaç Dairesi FDA , OraSure Technologies şirketinin ürünü olan, 20 dakikada AIDS'e yol açan HIV'ı teşhis eden testi onayladı. 
+     FDA sözcüsü Tommy Thompson, yaptığı açıklamada, ''OraQuick Rapid HIV-1 2'' adı verilen tükürük testinin kan testlerinden korkan kişilere büyük kolaylık sağlayacağını söyledi. 
+     AIDS hastalığı şimdiye kadar kan testleriyle teşhis ediliyordu. 
+     
+</TEXT>
+</DOC>

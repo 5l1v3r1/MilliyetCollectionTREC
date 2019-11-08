@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 292021 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/25/son/soneko20.html </URL>
+<DATE> 2004/11/25/ </DATE>
+<TIME> 11.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Banka kartlarına yeni yıl sürprizi... Kartlar bir süre kullanılamayacak 
+</HEADLINE>
+<TEXT>
+
+     1 Ocak 2005 tarihinde yürürlüğe girecek YTL hazırlıkları devam ederken, dönüşüm nedeniyle banka kartlarıyla, yeni yıla girişle birlikte 5-20 dakika arasında işlem yapılamayacağı bildirildi. 
+     Merkez Bankası MB Bilişim Teknolojileri Genel Müdürü Sedat Eroğul, POS cihazlarının 31 Aralık 23.58 - 1 Ocak 00.03 saatleri arasında cevap vermeyeceğini söyledi. 
+     Bu süre içinde kredi kartlarının POS cihazından geçirilemeyeceğini belirten Eroğul, ''Çünkü, POS cihazlarının bu süre içinde bağlı olduğu yerdeki mikrokodu değişecek'' dedi. 
+     Eroğul, 5 dakikadan sonra bankaların kendi işlemlerini yapacağını belirterek, şunları kaydetti 
+     ''Banka bu arada hesaplardaki parayı milyona bölüp YTL'ye çevirmek durumunda ve bu sırada ATM'ler en az 20 dakika ile en fazla 4-5 saat arasında kesintiye uğrayabilir. 
+     Bütün bankalar, aynı teknolojiyi kullanmıyor. Hepsinde programlar, veri tabanları ve bilgisayarlar aynı değil. Dolayısıyla bankalar arasında farklılıklar var. Bu konuda Bankalar Birliği, bankalardan bilgi derlemeye çalıştı ve bir miktar da derledi. Bazı bankalar emniyetli olsun diye daha uzun süre söylemek istediler. Bu durumda gereksiz yere TL'nin emisyon ihtiyacının artırılacağı konuşuldu. Onun için bunları revize edip daha da hızlandırmak için ne tür şeyler yapılabilirizin çalışmaları yapılıyor. 
+     10-15 gün içinde Bankalar Birliği bu konuda genel açıklama yapabilir düzeye gelir. Biz de büyük bir ihtimalle önümüzdeki hafta sonuna doğru bir değerlendirme toplantısı daha yaparak, Bankalar Birliği ile bankaların bu alanlarındaki grubu ile bir araya geleceğiz.'' 
+     Eroğul, bugüne kadar 24.00-05.00 saatleri arası şimdiye kadar ATM'lere kaç kere gidildiğinin de düşünülmesi gerektiğini ifade ederek, şöyle devam etti 
+     ''Bu saatler arasında kaç kişi ATM'lere gidip para çekmiş Geçen yıl ne kadar kullanılmış Vatandaşların bu saatler arasında ne kadar paraya ihtiyacı varsa o kadarlık işlem yapması lazım. Bankalarda bu konuda çalışmalar yapılıyor. Bankalar bu kesintiyi en azda tutabilmek için ortak çalışma sürdürüyor. Bankalararası Kredi Kartları Merkezi BKM çalışmalar yapıyor. Bankalar Birliği çatısı altında bunu en az hiç kimseyi rahatsız etmeyecek boyuta getirilmesi yönünde arayışlar sürdürülüyor.'' Eroğul, yılbaşı gecesi vatandaşın eğlence yerindeyken kredi kartı ile hesap ödemek istediğinde işlem yapılamaması durumunda zorda kalabileceğini de dikkate aldıklarını ifade etti. 
+
+     
+</TEXT>
+</DOC>

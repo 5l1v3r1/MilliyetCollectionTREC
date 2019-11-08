@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 233325 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/21/ekonomi/eko16.html </URL>
+<DATE> 2004/04/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft savaş odası hazırlıyor 
+</HEADLINE>
+<TEXT>
+
+   
+   Microsoft, bilgi teknolojisindeki güvenlik problemi karşısında yeni yatırımlara hazırlanıyor. 
+   Microsoft'un, güvenilir bilgi işlem girişimi kapsamında projelerinin anlatıldığı Güvenlik Zirvesi'nde konuşan Microsoft Ürün Müdürü Tolga Keser, bilgisayar kullanıcılarının her an siber saldırı ya da virüse hazır olmaları gerektiğini belirtti. Keser, Microsoft'un bunun için bilgi güvenliği takımı oluşturduğunu söyleyerek "Bir saldırı olduğu zaman hazırladıkları savaş odasında müşterimizi saldırıya karşı koruyacağız" dedi. Keser yakın zamanda SMS yolu ile de müşteriye ulaşmayı hedeflediklerini belirtti. 
+   
+   
+</TEXT>
+</DOC>

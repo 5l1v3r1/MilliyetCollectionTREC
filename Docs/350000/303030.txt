@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 303030 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/03/son/soneko14.html </URL>
+<DATE> 2005/01/03/ </DATE>
+<TIME> 12.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı yeni bir rekorla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Bileşik Endeksi 1. seansta, 29 Aralık 2004 günü 2. seans kapanışına göre 316.70 puan artarak 25,288.38 puandan kapandı. Hisse senetlerinin ortalama değer artışı yüzde 1.27 oldu. 
+     Endeksin kapanışta ulaştığı bu seviye en yüksek seans kapanışı oldu. Ayrıca seans içinde görülen 25,289.28 puanlık seviye de endeksin yeni tarihi zirvesi olarak kaydedildi. 
+     29 Aralık 2004 Çarşamba günü 24,971.68 puandan kapanan İMKB Ulusal 100 Endeksi, ilk seansa 35.51 puan artarak 25,007.19 puandan başladı. İlk yarıyı 25,079.58 puandan geçen endeks, seans içinde 24,918.24 puana kadar gerilerken, en yüksek 25,289.28 puana yükselerek TL bazında tarihi zirve değerine ulaştı. 
+     Seans sonunda mali endeks 401.86 puan artarak 35,889.64 puana, sanayi endeksi 130.71 puan artarak 20,016.18 puana ve hizmetler endeksi 554.57 puan artarak 14,468.69 puana yükseldi. 
+     Böylece önceki kapanışa göre, mali grup hisseler ortalama yüzde 1.13, sanayi grubu hisseler ortalama yüzde 0.63 ve hizmet grubu hisseler ortalama yüzde 3.99 oranında değer kazandı. 
+     1. seansta işlem gören toplam 298 hisse senedinden 181'i değer kazandı, 59'u değer kaybetti, 58 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta, 374 milyon 762 bin 478 YTL'lik işlem hacmi oluştu. 
+     1. seansta Doğan Holding, İhlas Holding, Koç Holding, Migros ve Doğan Yayıncılık en çok işlem gören hisse senetleri oldu. 
+     
+</TEXT>
+</DOC>

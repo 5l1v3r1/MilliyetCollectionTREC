@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 256305 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/18/son/soneko08.html </URL>
+<DATE> 2004/07/18/ </DATE>
+<TIME> 12.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+''A400M'' dev nakliye uçağına adım adım... 
+</HEADLINE>
+<TEXT>
+
+     ABD'nin ''Herkül'' uçaklarına alternatif olarak üretimi öngörülen A400M uçaklarıyla ilgili çalışmalar Türk Havacılık ve Uzay Sanayii TAI tesislerinde bütün hızıyla devam ediyor. 
+     Günümüzde görevlerini yerine getirmekte yetersiz kalan ve miadlarını dolduran ''C-130 Hercules'' ile ''C-160 Transall'' uçaklarının yerini alacak olan A400M uçakları, yüksek seyir hızı ve kıtalararası menzili ile dünyanın en gelişmiş nakliye uçakları arasında gösteriliyor. 
+     Aralarında Türkiye'nin de bulunduğu 7 ülkenin ilgili havacılık şirketlerinin ortak üretim çalışmaları geçen yıl Temmuz ayında yürürlüğe giren sözleşmesi çerçevesinde yürütülüyor. Proje kapsamında zirve noktada TAI'de yaklaşık 140 tasarım mühendisinin çalışacağı bu dev program kapsamında TAI tasarım çalışmalarını üç ana grup halinde yürütecek. 
+     
+     ÖN-ORTA GÖVDE ÜRETİMİ 
+
+     Birinci gövde grubu kapsamında ön-orta gövde tasarım çalışmaları yapılacak. 2003 yılı Aralık ayında başlanılan tasarım çalışmalarının ardından ön tasarım fazına geçildiği bildirildi. Arka gövde parçaları kapsamında arka gövde parçalarının tasarım çalışmaları doğrultusunda, tasarım kavramının dondurulması için konulan kilometre taşı M5'in başarıyla geçilmesiyle M6 ön tasarım fazına geçildi. 
+     Tasarım çalışmalarının üçüncü grubunda TAI'nın sorumluluğunda iç ve dış ışıklandırma çalışmaları da yer alıyor. İç ışıklandırma kapsamında ışıkların yerleşimi, kontrolü ve gece görüş uyumlu aydınlatmaya yönelik tasarım faaliyetleri bulunuyor. 
+     Dış ışıklandırma çalışmaları ise seyrüsefer iniş, kanat ucu taxi, pist dönüş, tanker aydınlatma, havadan havaya yakıt ikmal, kanat ve motor muayene, kalkış ve taxi, buluşma çarpışma önleme ve kol uçuşu ışıklarından oluşuyor. Söz konusu ışıkların uçağın gövde, kanat,sponson ve kuyruk kısmına dağılmış olup, yerleşim anahtarlama ve gece görüş uyumlu aydınlatma işlevine yönelik tasarım faaliyetleri de bu program çerçevesinde yürütülüyor. 
+     Diğer bir grupta yapılan çalışmalarla da uçağın su atık, temiz su, kirli su tahliye ve tuvaletin oluşturduğu üç ayrı sistemle katkı sağlayacak. Sistem mimarisi, yerleşim sisteminin buzlanmasını engelleyici monitör ve kontrolüne yönelik tasarım çalışmaları da bu program içinde bulunuyor. 
+     
+     TÜRKİYE 10 ADET UÇAK ALACAK 
+
+     TAI'nın başlangıcından itibaren ''Milli Sanayi Kuruluşu'' olarak ülkemizi temsilen fizibilite ve tasarım çalışmalarına katıldığı toplam 180 adetlik A400M projesine ilişkin sözleşme Mayıs 2003 tarihinde yürürlüğe girmişti. Sözleşme ile kurucu müşteri ülkelerin hava kuvvetlerine teslim edilecek uçak sayıları Almanya 60, Belçika 7, Fransa 50, İngiltere 25, İspanya 27, Lüksemburg 1 ve Türkiye 10 adet olacak şekilde belirlenmişti. 
+     Sözleşme uyarınca ilk uçağın 2007 yılında uçurulması planlanmış olup A400 sanayi grubunda Almanya'dan Airbus-Germany, İngiltere'den Airbus-UK firması, Fransa'dan Airbus-France, Belçika'dan Flabe, İspanya'dan Eads-Casa ve Türkiye'den TAI ''ana yüklenici'' olarak tasarım ve üretim görevi yapacak. 
+     
+</TEXT>
+</DOC>

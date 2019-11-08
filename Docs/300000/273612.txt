@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 273612 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/21/son/sondun37.html </URL>
+<DATE> 2004/09/21/ </DATE>
+<TIME> 19.52 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ağız kokusunu cep telefonları haber verecek 
+</HEADLINE>
+<TEXT>
+
+     Ağız kokusunu belirleyerek sahibini uyaran cep telefonları geliyor. 
+     Alman Siemens şirketinin sözcüsü, telefonlara yerleştirilecek bir milimetreden küçük bir çip sayesinde istenmeyen kokuları tespit etmenin mümkün olacağını söyledi. 
+     Münih'teki bir araştırma ekibinin, aleti, yeni bir algılama teknolojisi kullanarak geliştirmekte olduğu belirtildi. 
+     Yeni aletin, kötü nefes kokusundan alkole ve hatta atmosferdeki gaz seviyelerine kadar havayı inceleyebileceği kaydedildi. 
+     
+</TEXT>
+</DOC>

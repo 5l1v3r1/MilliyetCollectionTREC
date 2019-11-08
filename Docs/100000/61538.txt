@@ -1,0 +1,43 @@
+<DOC>
+<DOCNO> 61538 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/01/10/yasam/yas06.html </URL>
+<DATE> 2002/01/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Önce üfle’ sonra sür 
+</HEADLINE>
+<TEXT>
+
+     GÜVEN ÖZALP Brüksel 
+
+     Belçika, alkollü araç kullanımına karşı hayli ilginç bir uygulamaya geçti. 'Alco - lock alkol kilidi ' adı verilen sistem, sürücünün nefesinde yasal oranı aşan miktarda alkol belirlemesi halinde otomobilin çalışmasını engelleyen bir mekanizmaya dayanıyor. Doğrudan kontak sistemine bağlı olacak 'alco - lock', sürücünün bu mekanizmaya bağlı cihaza 'üflemesi' ile devreye giriyor. Ve sürücünün nefesindeki alkol oranı belirleniyor. 
+     
+     Uyanıklara önlem 
+     Bu oran normal düzeyde ise sistem otomobilin çalışmasına izin veriyor. Alkol oranı yasal limitin üzerindeyse, mekanizma elektrik devrelerini bloke ederek aracın trafiğe çıkmasını engelliyor. 
+     'Alco - lock' birtakım 'uyanıkları' da düşünerek tasarlanmış. Alkolsüz birinin alete üfleyip aracı çalıştırdıktan sonra yerini alkollü sürücüye bırakma olasılığı, alco - lock’ belli bir süre sonra ikinci kontrolü yaptığı için engelleniyor ve bu yola başvuran 'uyanık sarhoşlar' da yolda kalıyor. 
+     
+
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 297168 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/13/yazar/toruner.html </URL>
+<DATE> 2004/12/13/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Yaman TÖRÜNER  </AUTHOR>
+<HEADLINE>
+İpotekli emlak kredisi senedi mortgage 
+</HEADLINE>
+<TEXT>
+
+
+"Mortgage" aslında bir kredi değil, hukuki bir dokümandır. Türkçeye "ipotekli emlak kredisi senedi" olarak çevrilebilir. "İpotek karşılığı kredi" ise, "deed of trust" denilen farklı bir kredi şeklidir. Bazı ülkelerde veya Amerikan eyaletlerinde mortgage'un yerini bu krediler almıştır. Aslında, kendinden küçük ve durumu kötü bir banka olan Anadolu Bankası ile birleştirilerek yok edilen "Emlak Kredi Bankası" bu çeşit kredilerin geliştirilmesi amacıyla kurulmuştu. Yeni oluşturulan bankaya "Emlak Bankası" değil de "Anadolu Bankası" denilmesinin nedeni, yeni bankanın başına Anadolu Bankası'nın mevcut genel müdürünün getirilmesiydi. Yani, küçük ve başarısız, büyük ve başarılıyı yutmuş yönetim, küçük ve başarısıza verilmişti. Sonuçta, hep birlikte yok oldular. 
+"İpotekli emlak kredisi senedi" borçlusu, bu krediyi almakla kredinin anaparasını, faizini, sigortasını emlakin vergisini, kapsamlı afet sigortasını ödemek ve emlaki bakımlı bir biçimde tutmak sözü vermektedir. Bu nedenlerle, teminat gösterilen emlak ve borç üzerinde sürekli bir kontrol gerekmektedir. 
+İpotekli emlak kredisi senetleri ya doğrudan banka ve bankerlere satılabilir ya da karşılığında "mortgage backed securities" adı verilen "ipotekli emlak kredisi senedi karşılıklı sertifika" çıkarılarak yatırımcıya ulaşılabilir. İşin bu yanı borsayı ilgilendirmektedir. Bu enstrüman sayesinde devlet yardımı olmadan sistemin kendi kendisini finanse etmesi sağlanır. İşte, Sermaye Piyasası Kurulu'nun görevi burada başlamaktadır. Öte yandan, sistem çalıştırıldıktan sonra büyük gayrimenkul sahibi firmalar isterlerse "ipotekli emlak kredi bonosu mortgage bond " çıkararak firmalarına finansman da bulabileceklerdir. 
+Birçok uygulamada devlet, vergisini ve kredisini zamanında ödeyen "ipotekli emlak kredisi senedi mortgage " borçlularına ödedikleri verginin bir bölümünü kredi borcuna sayma kolaylığı getirmiştir. Mortgage uygulamasında, devletten beklenen budur. Doğal olarak, mortgage kredisi verilmek amacıyla toplanan mevduat üzerinden alınan vergi ve giderlerin kaldırılması da devletin diğer bir görevidir. Maliye Bakanlığı, "ipotekli emlak kredisi vergi müfettişliği mortgage tax examiner " adıyla yeni bir denetim elemanı kadrosu oluşturmak zorundadır. Bu müfettişler hem kredileri, vergilerini ve muafiyetleri takip edecek hem de ödenmeyen kredilerin üzerine gideceklerdir. 
+Bu bağlamda, sistemin en önemli sorunu geri ödenmeyen krediler karşılığında rehin alınan emlakin satılmasıdır. Borç verenin parasını geri alabilmesi için çok süratli bir tahsil mekanizması kurulmalıdır. Bu süratli tahsil sistemine "foreclosure" deniliyor. Bu uygulamada borç, anapara, faiz ve hukuki giderleriyle tahsil edilip kalanı borçluya nakit olarak verilir. Bu özel sistem, bizde yasa değişikliği gerektirmektedir ve bu değişiklik yapılmadan "mortgage" sistemi başlatılamaz. 
+"İpotekli emlak kredisi senedi" ülkemizde olmayan yeni sigorta biçimlerini de beraberinde getiriyor. "İpotekli emlak kredisi senedi sigortası", borç vereni borcunu tahsil edememeye karşı sigortalıyor. Emlak değerinin en az 20'sini karşılayan borçlular için bu sigorta genellikle istenmiyor. "İpotekli emlak kredisi senedi hayat sigortası" ise, borçlunun ölümü halinde mortgage borcunun geri ödenmesini sağlıyor. Bizde kredi verilirken aranılan hayat sigortası tamamen farklı ve gereksiz. 
+
+
+
+</TEXT>
+</DOC>

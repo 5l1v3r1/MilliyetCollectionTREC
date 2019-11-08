@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 398573 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/28/son/sondun08.html </URL>
+<DATE> 2005/11/28/ </DATE>
+<TIME> 09.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Singapurlular "sanal kucak" yapmayı planlıyor 
+</HEADLINE>
+<TEXT>
+
+     Singapurlu araştırmacılar, internet üzerinden ''dokunma duygusu'' transfer edecek çocuk pijamaları üzerinde çalışıyor. 
+     Nanyang Teknoloji Üniversitesi'nde NTU yapılan araştırmalar sonucunda, evcil hayvanlara bilgisayar kontrolünde kablosuz bir ceket giydirilerek, sahipleri tarafından okşandıkları hissinin yaratılabildiği belirtildi. 
+     The Straits Times gazetesinde yayımlanan habere göre, araştırmacılar şimdi de, çocuklara ebeveynlerinin dokunma duygusunu internet üzerinden aktarabilecek ''sanal kucak'' üretmeye çalışıyor. 
+     NTU'da çalışan Profesör Adrian David Cheok, günümüzde ebeveynlerin sıklıkla iş nedeniyle evden uzak kaldığını, ancak çocuklar için kucaklanma ve dokunmanın çok önemli olduğunu söyledi. 
+     Bu nedenle, çocukların ve ebeveynlerin giyeceği elektronik donanımlı pijamalardaki, internet üzerinden yönlendirilecek basınç ve ısı değişimleriyle, karşılıklı dokunma ve kucaklama hissinin aktarılması hedefleniyor. 
+     
+</TEXT>
+</DOC>

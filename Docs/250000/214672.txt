@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 214672 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/12/yasam/yas08.html </URL>
+<DATE> 2004/02/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+'Sahibine' ateş etmiyor 
+</HEADLINE>
+<TEXT>
+
+   GÜVEN ÖZALP Brüksel 
+   
+   Belçika kuruluşu Fabrique Nationale FN , sahibini tanıyan silah üretti. ABD'nin talebi ile geliştirilen akıllı silah projesi, sahibinin el yapısı ve anatomi verilerini tanımaya dayalı elektronik bir sisteme dayanıyor. Kabzalarına yerleştirilen elektronik sistemlerle 'sahiplerini tanıyan' tabanca ve tüfeklerin ateşleme düzenekleri, bir başka kişinin kullanmaya kalkışması halinde bloke oluyor. Aynı sistem, silahın sahibine doğrultulduğunda ateş almamasını da sağlıyor. Silahlar, sadece hafta sonları, geceleri veya günün belirli saatlerinde çalışmak üzere de programlanabiliyor. 
+   
+   
+</TEXT>
+</DOC>

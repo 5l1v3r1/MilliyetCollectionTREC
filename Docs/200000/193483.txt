@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 193483 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/05/son/sondun40.html </URL>
+<DATE> 2003/11/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft'tan virüs yazanları yakalatanlara 5 milyon dolar ödül 
+</HEADLINE>
+<TEXT>
+
+     Microsoft firması, bilgisayar virüsü programlarını yazanların belirlenmesi ve cezalandırılması için güvenlik makamlarına yardımcı olacakların ödüllendirilmesinde kullanılmak üzere, 5 milyon dolar ayırdı. 
+     Microsoft tarafından yapılan açıklamada, bu paradan ilk iki ödülün, ''solucan'' olarak adlandırılan ''MSBlast.A'' ile, ''SoBig'' virüs programlarını yazanların tutuklanmalarına yardımcı olacaklara verileceği belirtildi. Bu iki virüs için 250 biner dolar ödül kondu. 
+     İnternet üzerinden yayılan her iki virüs, ''Microsoft's Windows'' işletim sistemi kullanan bilgisayarlarda bu yıl dünya çapında büyük sorunlara yol açmıştı. 
+     
+</TEXT>
+</DOC>

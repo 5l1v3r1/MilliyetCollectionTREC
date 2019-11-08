@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 291670 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/24/son/sondun01.html </URL>
+<DATE> 2004/11/24/ </DATE>
+<TIME> 02.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsası günü yükselişle kapattı 
+</HEADLINE>
+<TEXT>
+
+     New York Menkul Kıymetler Borsası'nın temel göstergesi Dow Jones endeksi, günü 3.18 puan yükselişle 10,492.60'dan kapattı. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq ise 0.91 puanlık düşüşle günü 2,084.28'den noktaladı. 
+     
+</TEXT>
+</DOC>

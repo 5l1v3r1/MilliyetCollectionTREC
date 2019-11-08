@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 194338 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/09/yasam/yas03.html </URL>
+<DATE> 2003/11/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Satrançtaki makine-insan rekabeti sanal ortamda 
+</HEADLINE>
+<TEXT>
+
+      
+   Kasparov, X3D'ye karşı 
+   DÜNYANIN en iyi satranç oyuncusu olarak görülen eski dünya satranç şampiyonu Garry Kasparov, X3D Fritz adlı bilgiyasar programıyla sanal ortamda karşı karşıya geliyor. Kasparov'un 3 boyutlu gözlük takacağı ve sanal tahtayı çevirmek için joystick kullanacağı maçta, taşlar sesle hareket ettirilecek. 
+   
+   İnternette yayımlanacak 
+   KARŞILAŞMAYI kazanırsa 200 bin dolar alacak olan Kasparov, maçın berabere bitmesi durumunda ise 175 bin doların sahibi olacak. New York'ta 11, 13, 16 ve 18 Kasım günlerinde yapılacak karşılaşma, http www.X3D.com ve USCF http www.uschess.org adreslerinden canlı olarak izlenebilecek. 
+   
+   
+</TEXT>
+</DOC>

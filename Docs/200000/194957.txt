@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 194957 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/12/yasam/yas13.html </URL>
+<DATE> 2003/11/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Olmak ya da... 
+</HEADLINE>
+<TEXT>
+
+   DIŞ HABERLER 
+   
+   Dünya edebiyatının en önemli isimlerinden İngiliz şair ve oyun yazarı William Shakespeare'in sırrını aydınlatabilmek için bir bilgisayar programı geliştirildi. Avustralyalı ve Amerikalı araştırmacılar, program sayesinde ünlü yazarın eserlerinin hangilerinin gerçekten kendisine ait olduğunu belirlemeye çalışacaklar. Yazarın kullandığı belirli kelimeleri de araştıracak program, Shakespeare'in eserlerini kaleme alırken neler okuduğunu ortaya çıkarabilecek. 
+   
+   
+</TEXT>
+</DOC>

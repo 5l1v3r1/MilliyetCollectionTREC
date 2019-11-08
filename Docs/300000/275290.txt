@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 275290 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/27/son/soneko07.html </URL>
+<DATE> 2004/09/27/ </DATE>
+<TIME> 09.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İş Bankası'ndan internet dolandırıcılığı uyarısı... 
+</HEADLINE>
+<TEXT>
+
+     İş Bankası, müşterilerini internet dolandırıcılığı konusunda uyarırken, gönderilen bazı e- maillerdeki linklere itibar edilmemesi ve Banka'nın web adresine ulaşırken sadece adres çubuğunun kullanılması önerisinde bulundu. 
+     İş Bankası Genel Müdürlüğü'nden yapılan açıklamada, bazı müşterilere "kimden" bilgisinde "isbank" adı yer alan, Banka'nın adının kullanıldığı e-mailler gönderildiği bildirildi. Açıklamaya göre, dolandırıcılık amaçlı bu e- mailler, "İnternet üzerinden gerçekleşmekte olan illegal olaylardan dolayı bankamız, siz değerli müşterilerimize daha iyi hizmet verebilmek ve sizlerin güvenliğini sağlayabilmek amacıyla bir çok önlemler almaktadır" şeklindeki ifadelerle başlıyor. "Yeni bir sertifikalı güvenlik uygulamasına geçildiği" anlatılan e-mailde, müşterilerden "uygulamanın hesaplarda etkin olmasının sağlanması amacıyla verilen linke tıklayarak bir defaya özgü olmak üzere internet şubesi hesabına giriş yapması" isteniyor. Verilen linkin baş kısmında da "www.isbank.com.tr" bilgisi yazıyor ancak tıklandığında ulaşılan sitenin İş Bankası'yla bir ilgisi bulunmuyor. 
+     
+     "HER ZAMAN ADRES ÇUBUĞUNU KULLANIN" 
+
+     İş Bankası'nın bu dolandırıcılık girişimleriyle ilgili banka müşterilerine yaptığı duyuru şöyle 
+     "Bankamız uygulamaları arasında, müşterilerimizi elektronik posta yoluyla yönlendirerek işlem yaptırmak ya da bilgi toplamak gibi bir uygulama kesinlikle bulunmamaktadır. 
+     Bankamız internet şubesine sadece bilinen web sayfamız olan "www.isbank.com.tr" yazarak ulaşmanız gerektiğini bilgilerinize sunar, bilmediğiniz kişilerden gelen elektronik postalarda yer alan bir web linkini tıkladığınızda açılacak bir web sayfasına kişisel bilgilerinizi girmemeniz gerektiğini önemle hatırlatırız." 
+
+     
+</TEXT>
+</DOC>

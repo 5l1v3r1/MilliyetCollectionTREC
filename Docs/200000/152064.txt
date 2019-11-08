@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 152064 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/04/24/son/sondun30.html </URL>
+<DATE> 2003/04/24/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Şarjı hiç bitmeyen cep telefonu için geri sayım... 
+</HEADLINE>
+<TEXT>
+
+     İtalya'nın güneyindeki Katanya kentindeki Ulusal Araştırma Merkezi'nin CNR , STM electronics adlı şirketle birlikte, şarjı hiç bitmeyen cep telefonu geliştirmeye çalıştığı bildirildi. 
+     CNR'den verilen bilgiye göre, çalışmalarla ''özel bir mikroçip yerleştirilerek, telefonun içindeki elektronik devrelerin kontrol edilmesi ve güç üretilmesi'' amaçlanıyor. 
+     Araştırmaların kısa sürede tamamlanacağı belirtilirken, böylece cep telefonlarının enerji sorununun ortadan kalkacağı ifade ediliyor. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

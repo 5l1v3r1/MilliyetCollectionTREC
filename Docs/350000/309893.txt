@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 309893 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/27/son/soneko32.html </URL>
+<DATE> 2005/01/27/ </DATE>
+<TIME> 14.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Turkcell, "Blackberry" servisinde test aşamasına geldi... 
+</HEADLINE>
+<TEXT>
+
+     Turkcell, Türkiye'de ''BlackBerry'' ürününü diğer e-posta çözümleri arasına dahil etmek üzere Kanada merkezli mobil iletişim şirketi Research in Motion RIM ile anlaştı. 
+     E-posta hesaplarına sürekli olarak ve güvenli bir şekilde erişim sağlayan RIM'ın geliştirdiği ''BlackBerry'', ayrıca telefon, SMS, internet tarayıcı, entegre bir platform üzerinde veri uygulamaları, takvim gibi işlevler de sunuyor. 
+     Test aşamasında olan BlackBerry servisinden Türkiye'de Turkcell'in GSM GPRS şebekesi üzerinden, yurtdışında da Turkcell'in GPRS dolaşım anlaşması olan yabancı operatörler üzerinden yararlanılabilecek. 
+     Turkcell Satış ve Pazarlamadan Sorumlu Genel Müdür Yardımcısı Ali Kesan düzenlediği basın toplantısında, OfisMobil, e-mailCELL, UnimesajCELL gibi ürünlere şimdi de BlackBerry'i ekleyeceklerini, BalckBerry servisinin, 'push' e-posta teknolojisi ile abonelerin verimliliğini ve etkinliğini daha da artıracağını belirtti. 
+     Kesan, ''BlackBerry teknolojisini Turkcell abonelerine sumak için artık teknik test aşamasına geldik. Minimum 3-4 aylık bir süreç başlıyor'' dedi. 
+     Turkcell'in faaliyetleri hakkında da bilgi veren Kesan, Turkcell'in 2004 sonu itibariyle 23.4 milyon aboneye ulaştığını, iştirakleri ile birlikte bu sayının 27 milyona çıktığına işaret etti. 
+     Ali Kesan, Turkcell'in ciddi bir abone portföyü bulunduğunu, Avrupa'daki en büyük 5 operatörden biri olduğunu belirtti. Dünyada en büyük roaming anlaşması yapan ve GPRS konusunda en geniş kapsama alanına sahip olan Turkcell'in 2004'te yurtdışı yatırımlara ağırlık verdiğini ifade eden Kesan, ''Uluslararası yatırımlarımızın sonucunu yakın zamanda alacağız. İran'da da bekleme dönemindeyiz, ama Turkcell 2004'te önemli büyüyecek pazarlara yatırım yaptı'' dedi. 
+     Soruları da yanıtlayan Kesan, BlackBerry cihazlarının yaz aylarında geleceğini, bu servisle ilgili hedef kitlelerinin de şirket yöneticileri, işadamları, çok seyahat edenler, genç girişimciler ve gençler olduğunu belirtti. 
+     
+     ''DÜNYADA 2 MİLYON BLACKBARRY ABONESİ VAR'' 
+     RIM Kurumsal Pazarlama Direktörü Sarah West de, kablosuz iletişim çözümleri sunan RIM'ın geliştirdiği BlackBerry'nin ilk 1999'da Kuzey Amerika'da piyasaya çıktığını, 2001 yılında da Avrupa'da hizmete girdiğini anlattı. 
+     Şu anda dünyada 2 milyon BlackBarry abonesi bulunduğunu belirten West, ''BlackBarry, kullanımı çok kolay olan bir sistem. Masanızda yaptığınız neyse cebinizde de aynı şeyi yapıyorsunuz'' dedi. 
+     Soruları da yanıtlayan West, Turkcell dışında diğer operatörlerle işbirliği yapıp yapmayacaklarının sorulması üzerine, 30 ülkede 80 operatörle çalıştıklarını ifade ederek, ''Turkcell'le çalışmayı dört gözle bekliyoruz çünkü o pazar lideri. Sadece Turkcell'le çalışacağız onlar da bizle çalışacak diye bir şey yok'' diye konuştu. 
+     
+</TEXT>
+</DOC>

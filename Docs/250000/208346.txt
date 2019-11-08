@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 208346 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/13/son/soneko12.html </URL>
+<DATE> 2004/01/13/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa ihaleye kilitlendi... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi, önceki kapanışa göre 9.42 puan kayıpla, 1. seansı 19,549.39 puandan tamamladı. 
+     Hisse senetlerinin ortalama değer kaybı yüzde 0.05 olarak gerçekleşti. 
+     Dünü 19,558.81 puandan kapanan İMKB Ulusal 100 Endeksi,1. seansa 25.91 puan düşüşle 19,532.90 puandan başladı. İlk yarıyı 19,611.42 puandan geçen endeks, seans içinde en düşük 19,515.77, en yüksek 19,689.63 puanı gördü. 
+     Seans sonunda mali endeks 25.15 puan kayıpla 27,023.81 puana gerilerken, sanayi endeksi 6.89 puan artışla 17,016.09 puana, hizmetler endeksi 87.21 puan artışla 10,348.80 puana yükseldi. 
+     Böylece, önceki kapanışa göre mali grup hisseler ortalama yüzde 0.09 oranında değer yitirirken, sanayi grubu hisseler ortalama yüzde 0.04, hizmetler grubu hisseler ortalama yüzde 0.85 değer kazandı. 
+     1. seansta işlem gören toplam 282 hisse senedinden 145'i değer kazanırken, 68 hisse senedi değer kazandı, 69 hissenin fiyatında değişiklik olmadı. 
+     Seansta, 369 trilyon 556 milyar 657 milyon liralık işlem hacmi oluştu. 
+     1. seansta, Yapı Kredi Bankası, Doğan Holding, Vestel, İhlas Holding ve İş Gayrimenkul Yatırım Ortaklığı en yoğun işlem gören hisseler oldu. 
+     Borsa uzmanları, Tüpraş ihalesinin akşam açıklanacak olması ve düşük işlem hacminin piyasanın yatay seyrinde etkili olduğunu ifade ederek, 19,600 desteğinin güçlü göründüğünü, gelecek alımlarla bu bölgeden yukarı yönde bir hareket başlayabileceğini savunuyor. 
+
+     
+</TEXT>
+</DOC>

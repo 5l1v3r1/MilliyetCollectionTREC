@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> 287557 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/09/son/sontur48.html </URL>
+<DATE> 2004/11/09/ </DATE>
+<TIME> 16.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tren faciası raporu ''Hız limitine uyulmadığı tespit edildi'' 
+</HEADLINE>
+<TEXT>
+
+     Pamukova'daki tren kazasını soruşturmak için görevlendirilen Bağımsız Bilim Kurulu Başkanı Prof. Dr. Sıddık Yarman, kazaya karışan katarın bölgede saatte 80 kilometre olan hız limitine uymadığının tespit edildiğini bildirdi. 
+     Kazayla ilgili olarak Bakanlar Kurulu'nca görevlendirilen ve bilim adamlarından oluşan Bağımsız Bilim Kurulu'nun yaklaşık 3 ay süren çalışması sonucunda hazırlanan 400 sayfalık rapor, Fenerbahçe TCDD Tesisleri'nde düzenlenen basın toplantısıyla açıklandı. 
+     Toplantıda raporu açıklayan Yarman, ''Kazanın oluşumundaki etkenlerin saptanması evresinde öncelikle belirlenen husus, kazaya karışan katarın hızının, İstanbul-Ankara gidişi yönünde, Mekece İstasyonu'nu geçtikten sonra livredeki belirmeye uyulmayarak 345 metre yarıçaplı dönemece girmeden, saatte 80 kilometre değerine düşürülmemiş olduğudur'' dedi. 
+     Yarman, katarın, Mekece İstasyonu'nu geçip belirgin bir özellik ve önem taşıyan 345 metre yarıçaplı dönemece girdikten sonra hızı saatte 132 kilometre iken raydan çıkarak derayman kazaya karıştığının saptandığını söyledi. 
+     MPV-7 yol muayene makinesinin ölçümlerine göre üst yapıda, saatte 80 kilometre hız için kaza kesiminde uyulması gereken geometrik ve fiziksel standartlardan bir miktar sapmalar bulunduğunu dile getiren Yarman, ancak söz konusu sapmaların saatte 80 kilometre hızla bu kaza kesimini geçmeye bugün bir engel teşkil etmediğini, fakat gelecekte üst yapının ihmal edilmesi durumunda bu hızdaki bir katar seyrinin kaza riski taşıyabileceğinin düşünülmesi gerektiğini anlattı. 
+     Sıddık Yarman, ''Kaza mahallinde bir burkulmanın mevcudiyeti görülmektedir. Yolun burkulması derayman için yeterli bir nedendir'' dedi. 
+     Kazanın oluş şeklinin, demiryolcuların kullandığı ''Adams Rail'' adlı bilgisayar destekli simülasyon paketi ile canlandırıldığını ifade eden Yarman, ''Makinistler ifadelerinde, kaza öncesi fren yaptıklarını ileri sürmüşlerse de, hız bandı incelemelerinde raydan çıkma yerine kadar fren belirtisine rastlanmadığından, bu konunun kazaya oluşumuna etkisi dikkate alınmamıştır'' dedi. 
+     Yarman, derayman esnasında ve hemen sonrasında bir frenleme teşebbüsünde bulunulmasının, kaza şiddetini artırabilen bir etken olarak düşünüldüğünü vurguladı. 
+     Pamukova'daki tren kazasını soruşturmak için görevlendirilen Bağımsız Bilim Kurulu Başkanı Prof. Dr. Sıddık Yarman, TCDD tarifeli tren seferlerinin orta düzeyde, yüzde 63 performansla çalıştığını belirterek, TCDD'nin her yüzbin seferde bir, böyle bir kaza yaşadığını söyledi. 
+     Kazayla ilgili olarak Bakanlar Kurulu'nca görevlendirilen ve bilim adamlarından oluşan Bağımsız Bilim Kurulu'nun yaklaşık 3 ay süren çalışması sonucunda hazırlanan 400 sayfalık raporu Fenerbahçe TCDD Tesisleri'ndeki basın toplantısında açıklayan Prof. Dr. Yarman, standartlara göre, saatte 140 kilometre olan tren hızlarına kadar sistem tasarımında tren seyrinin güvenliğini temin etmek için elektronik emniyet sistemleri olan ATS veya ATP gibi araç ve gereçlerin kullanılmadığını bildirdi. 
+     Prof. Dr. Yarman, TCDD'nin son 50 yılı tren işletmeciliği kurgusu ve teknik tasarım açısından incelendiğinde, hattın makinist tarafından izlenmesinde, katarın denetim ve yönetim fonksiyonlarının yerine getirilmesinde insan faktörünün yüksek olduğunun görüldüğünü dile getirerek, ''Türkiye'de tren sisteminin güvenilirliği neredeyse tamamen makinistlere bağlı kılınmaktadır'' dedi. 
+     
+     HIZLANDIRILMIŞ TREN SEFERLERİNİN SÜRESİ 
+
+     Hızlandırılmış tren seferlerinin İstanbul-Ankara demiryolu güzergahı için livrede belirtilen 5 saat 15 dakikalık sürede gerçekleştirilmesinin mümkün olmadığına dikkat çeken Prof. Dr. Yarman, ''Yapılan hesaplar sonucunda hızlandırılmış trenin, Ankara-İstanbul güzergahını 6 saatte tamamlayabileceği belirlenmiştir'' diye konuştu. 
+     Prof. Dr. Yarman, kurulun yaptığı deneme seferinde yolun sağında ve solunda her kilometrede bir dikilmiş olan levhaların çoğunun görülmediği, görülenlerin de de zor okunduğunun tespit edildiğini anlatarak, şunları kaydetti 
+     ''TCDD tarifeli yolcu seferleri, orta düzeyde, yüzde 63 performansla çalışıyor. Orta düzeyde çalışma diliminde sistemin yol, taşıt ve işletme öğelerindeki yetersizliklere ilave olarak insanda meydana gelebilecek dalgınlık, yorgunluk, ani hastalık gibi geçici fiziksel özellikler de beklenmedik sistem hatalarına neden olabilir. Kanaatimize göre, Pamukova tren kazası, böylesi talihsiz bir kazadır. Yüzde 63 performansla çalışan TCDD tarifeli seferler, her yüzbin seferde bir, böyle bir kaza yaşıyor. Avrupa'da bu rakam milyarda bir, Norveç'te ise sıfır.'' 
+     
+     ''PROJE YARARLI, ANCAK GÜVENLİK TEDBİRİ GEREKLİ'' 
+
+     Prof. Dr. Yarman, yolcu taşımacılığında ülke ihtiyaçları dikkate alındığında İstanbul-Ankara güzergahında hızlandırılmış tren uygulamasının yararlı olacağını vurgulayarak, ''Ancak bu projenin devam edebilmesi için güvenliğe dönük detaylı tüm teknik ve işletme tedbirlerinin alınması ve buna bağlı olarak yapılacak uygulamaların, bilimsel ve teknik yönden ağırlığı kabul edilmiş TCDD'nin dışında oluşturulacak bir sertifikasyon kurulu tarafından onaylanması ve sürekli olarak denetlenmesi gerektiği düşüncesindeyiz'' şeklinde konuştu. 
+     Toplantıda daha sonra gazetecilerin soruların yanıtlayan Prof. Dr. Yarman, ''Bu rapora göre yüzde 50 makinist, yüzde 50 sistem suçlu diye bir sonuç çıkar mı '' sorusu üzerine, böyle bir suç dağılımı yapmanın doğru olmadığını ifade ederek, bilim camiasında olaylara spekülatif bakılamayacağını ve kendilerinin bilimsel olarak gerçekleri ortaya koyduklarını söyledi. 
+     Prof. Dr. Yarman, bir gazetecinin ''Kazaya karışan tren hız limitine uysaydı, kaza yaşanmayacak mıydı '' sorusu üzerine de ''80 kilometre ile gitseydi, o kaza olmazdı'' dedi. 
+     Bir gazetecinin, ''Kazayla ilgili raporun hazırlanması için herhangi bir ödeme yapıldı mı '' sorusu üzerine de Prof. Dr. Yarman, bu çalışmanın bir bütçesi olduğunu ve maliyet üzerinden ödeme yapılacağını belirtti. 
+     Basın toplantısına, Kurul Başkanı Prof. Dr. Sıddık Yarman'ın yanı sıra Bağımsız Bilim Kurulu üyeleri Prof. Dr. İnal Seçkin, Prof. Dr. Aydın Erel, Prof. Dr. Mustafa Karaşahin ve Doç. Dr. Metin Başaran da katıldı. 
+     
+</TEXT>
+</DOC>

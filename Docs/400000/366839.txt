@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 366839 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/03/son/sonyas18.html </URL>
+<DATE> 2005/08/03/ </DATE>
+<TIME> 18.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Discovery'de onarım tamamlandı 
+</HEADLINE>
+<TEXT>
+
+     Amerikan Havacılık ve Uzay Dairesi NASA , fırlatılışı sırasında gövdesinin altında hasar oluşan Discovery uzay mekiğinde onarımın başarılı bir şekilde tamamlandığını açıkladı. 
+     Yer’den 400 kilometre yükseltide yörüngede yapımı süren Uluslararası Uzay İstasyonu’na UUİ kenetlenen Discovery’nin astronotu Stephen Robinson, mekik gövdesinin altında seramik ısı kalkanında oluşan 2 santim boyunda iki çıkıntıyı elektrikli testere kullanmadan eldivenli eliyle çekti, aldı. Uzayda bir mekikte ilk kez böyle bir onarım yapıldı. 
+     Columbia uzay mekiğinin 1 Şubat 2003’te Yer’e dönerken Teksas eyaleti semalarında 63 kilometre yükseltide 7 astronotuyla parçalanmasının nedeni mekiğin seramik karolarının zarar görmesi olduğundan, bugünkü onarım büyük önem taşıyordu. Discovery, biri Hintli, biri İsrailli 7 mekik astronotunun öldüğü Columbia kazasından beri sefere çıkan ilk uzay mekiği oldu. 
+     Columbia’nın Şubat 2003’te Florida Cape Canaveral uzay üssü rampasından fırlatılırken, yüzlerce ton sıvı hidrojen yakıtının kanat altı sıcaklık yalıtım malzemesi köpük katmanından bavul büyüklüğünde parçayı kopardığı saptanmıştı. Bu parça mekiğin seramik karolarını parçaladı ve Yer’e dönüşte atmosfere girişte 2000 derecelik sürtünme sıcaklığı mekiği üç parçaya ayırdı. 
+     
+     20 BİN KM HIZ 
+     NASA, UUİ mürettebatının çektiği fotoğrafları inceleyerek, mekiğin gövdesinin altından 2 adet 2.25 cm uzunluğunda contanın sarktığını tespit etmişti. NASA mühendisleri, bu 2 contanın mekiğin saatte 20 bin kilometreyi aşan hızla atmosfere girişi sırasında sıcaklığın çok tehlikeli biçimde yükselmesine yol açabileceğini düşündü. 
+     Bu onarım için görevlendirilen astronot Stephen Robinson, UUİ’nin robot kollu cihazıyla Discovery’nin gövdesinin altına indi. Robot kollu cihazı diğer astronotlardan James Kelly kontrol etti. 
+     Houston’daki NASA yetkililerinden Wayne Hale, bugünkü işlem başarısız olduğu taktdirde yarın yeniden yapılacağını söylemişti. 
+     Görevin kolay olduğunu, ama titizlik gerektirdiğini belirten astronot Stephen Robinson ise mekiğin altındaki ısıya dayanıklı esnek seramiklerin çok hassas olduğunu söyledi. 
+     Astronot, ısıya dayanıklı seramiklerin tamiratı konusunda eğitim aldıklarını belirtti. 
+     NASA yetkilileri de en çok bir aletin seramiklere zarar vermesinden çekiniyordu. Bu nedenle astronot alet çantasını sırtında taşıdı. 
+     Discovery’nin Cumartesi günü UUİ’den ayrılarak Pazartesi günü Florida’daki üsse dönmesi bekleniyor. 
+     
+</TEXT>
+</DOC>

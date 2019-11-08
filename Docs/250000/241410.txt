@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> 241410 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/20/son/soneko45.html </URL>
+<DATE> 2004/05/20/ </DATE>
+<TIME> 18.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Para piyasalarında bugün... 
+</HEADLINE>
+<TEXT>
+
+     Borsa'da işlem gören hisse senetleri bugün ortalama yüzde 1.30 değer kazandı. 
+     İMKB Ulusal 100 Endeksi, 1. seansı yüzde 1.01 artışla 16,287.74 puandan tamamladı. Endeks, 2. seansta da yüzde 0.29 yükselerek, 16,334.21 puandan kapandı. 
+     1. seanstaki 163.44 puanlık artış dikkate alındığında, endeks günlük bazda 209.91 puan ve yüzde 1.30 arttı. 
+     Hisse senetleri piyasasında toplam 495.4 trilyon liralık işlem hacmi kaydedildi. 
+     
+     DÖVİZ 
+     Kapalıçarşı'da Salı günü 1 milyon 560 bin liradan kapanan dolar, güne 1 milyon 552 bin liradan, 1 milyon 868 bin liradan kapanan euro, 1 milyon 854 bin liradan başladı. 
+     Kapanışta doların satış fiyatı 1 milyon 560 bin lira, euronun satış fiyatı 1 milyon 860 bin lira olarak belirlendi. 
+     Merkez Bankası, doların bugünkü efektif kurunu alışta 1 milyon 548 bin 621 lira, satışta 1 milyon 559 bin 516 lira olarak açıkladı. 
+     Böylece dolar, Merkez Bankası'nın Salı günü açıkladığı kura göre, alışta 4 bin 978 lira, satışta 5 bin 14 lira yükseldi. 
+     
+     HAZİNE'NİN DEĞİŞİM İHALESİ 
+     Hazine'nin 2001 yılı Haziran ayında ihraç edilmiş dövize endeksli 3 yıllık takas senetlerine ilişkin bugün yaptığı değişim ihalesinde, değişim karşılığında 22 Haziran 2005 vadeli senet ihraç edildi. 
+     İhraç tarihi 21 Mayıs olarak belirlenen değişim ihalesinde değişim karşılığında geri ödeme tarihi 22 Haziran 2005 olarak öngörülen 397 gün vadeli ABD Doları cinsinden iskontolu devlet tahvili verildi. Değişim ihalesinde faiz yüzde 5.95 olarak belirlenirken 1 milyar lira nominal değerli takas senedi 877.27 dolar olarak kabul edildi. Değişim ihalesine nominal toplam 1 milyar 91.5 milyon dolar teklif gelirken, nominal toplam 1 katrilyon 102.3 trilyon liralık geri alım yapıldı. Senetten yapılan yeniden ihraç tutarı nominal 1 milyar 29.9 milyon dolar oldu. 
+     
+     TAHVİL-REPO 
+     İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda işlem gören 5 Ekim 2005 vadeli tahvilin bugün valörlü işlemlerinde basit getiri yüzde 31.03, bileşik getiri yüzde 29.48 oldu. 
+     Bu kağıdın bugün valörlü işlemlerinin bileşik getirisi, Salı günkü kapanışa göre 0.68 puan yükseldi. 
+     İMKB Tahvil ve Bono Piyasası Repo Pazarı'nda gecelik faiz ortalama yüzde 21.99 olarak gerçekleşti. 
+     
+</TEXT>
+</DOC>

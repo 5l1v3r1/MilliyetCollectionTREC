@@ -1,0 +1,62 @@
+<DOC>
+<DOCNO> 74403 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/03/25/ekonomi/eko01.html </URL>
+<DATE> 2002/03/25/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Cepte striptiz’ başlıyor 
+</HEADLINE>
+<TEXT>
+
+Karikatür ve erotik resimler artık cebe giriyor. Turkcell’in MMS server’ını devreye sokmasıyla cep telefonlarına internetten erotik resim indirilebilecek 
+     ŞÜKRÜ ANDAÇ 
+
+     Cep telefonlarına karikatür ve erotik resim yükleme dönemi yakında Türkiye’de de başlıyor. SMS’in ileri versiyonu olan MMS MultiMedia Message Service - görüntülü mesajlaşma teknolojisi Türkiye’de de yakın zamanda faaliyete geçiyor. Bu teknolojinin en çok ilgi gören uygulamaları ise cep telefonlarına karikatür ve erotik resim yüklemek. İlk olarak Japon cep telefonu operatörü NTT Docomo’nun başlattığı ve ülkede yoğun ilgi gören bu uygulamalar Avrupa’nın ardından yaz aylarında Türkiye’de de faaliyete geçiyor. 
+     
+     Japonya’da yoğun ilgi 
+     Japon cep telefonu operatörü NTT Docomo, teknoloji fuarı CeBIT 2002’de, Alman cep operatörü E - plus ile işbirliğine giderek MMS teknolojisini Avrupa’da başlattığını duyurmuştu. 
+     NTT Docomo diğer Avrupa ülkeleri ve özellikle de nüfusun çokluğundan dolayı Türkiye pazarına da ilgi duyuyor. 
+     NTT Docomo’nun Japonya’da en çok gelir elde ettiği alanlardan birisi olan MMS teknolojisiyle, kullancılar cep telefonlarına karikatür ve erotik resim yükleyebiliyorlar. Halen Japonya’da 50 bine yakın internet sitesi NTT Docomo ile içerik ortağı olarak çalışıyor ve bu resimlerin yüklenmesine aracılık ediyor. Bunlar içerisinde en çok ilgi gören uygulamalar, bir kutup ayısının her gün değişen bir pozisyondaki görüntüsü ve de erotik resimler. 
+     NTT Docomo Türkiye’de bir partner arayışında olmasına rağmen Turkcell ve Aria’da bu teknolojiyi geliştirmek için çalışma başlattılar bile. Turkcell MMS server’ını bu yazın başında faaliyete geçirmeyi ve isteyen üçüncü parti şirketlerin erotik içerik de dahil olmak üzere, içerik geliştirdikleri taktirde kendileriyle beraber çalışacaklarını belirtiyor. Turkcell buna örnek olarak da GPRSLand projesindeki çalışma şeklini gösteriyor. 
+     
+     MMS’li telefon gerekiyor 
+     Aria ise geçtiğimiz hafta birinci yılı dolayısıyla düzenlediği toplantıda MMS teknolojisinin prototipini tanıtmıştı. Elbette kullanıcının bu uygulamadan yararlanabilmesi için MMS sistemini destekleyen bir de telefona sahip olması gerekiyor. 
+     Bugünlerde gündemde olan ve yalnızca 2 milyon kullanıcıyı ilgilendiren internette porno siteleri filtreleme ve sansür konusu, yakın zamanda 20 milyon kullanıcının üstelik her an ve her yerde elindeki cihazdan erotik resim indirmesiyle ne gibi bir boyut kazanacak, bu ise merak konusu. 
+     
+PC kalitesinde oyunlar da cepte      Digital Bridges dünyanın ilk cep telefonundan oynanabilen renkli macera oyununu geliştirdi. Steve Jakson’s Sorcery’ adlı macera oyunu, cep telefonu üzerinden oynanabiliyor. Yeni oyun, PC oyunlarında bulunan geniş ve kapsamlı bir içeriğe sahip. Firma bu oyunun ardından yakında futbol ve araba yarışı oyunlarını da piyasaya çıkaracağının duyurusunu yaptı. 
+     www.digitalbridges.com 
+     
+Dijital oyuncaklar      At cebine klavyeni... 
+     Elektronik aksesuarları üreten Logitech, el bilgisayarları için elektroniğe duyarlı kumaştan, katlanabilir, cüzdan boyutunda yeni bir klavye geliştirdi. KeyCase adı verilen yeni ürün kolaylıkla katlanıyor ve birlikte kullanıldığı el bilgisayarını da bir çanta gibi muhafaza edebiliyor. Klavyenin üzerinde seçme, kesme, kopyalama ve yapıştırma gibi sık kullanılan özelliklerin kolay uygulanması için tuşlar var. Ürünün satış fiyatı 99.95 dolar. 
+     www.logitech.com 
+     
+     Sopa mı, cep mi 
+     Cep telefonu üreticisi Trium, değişik bir dizayna sahip olan yeni bir telefonu geliştirdiğini duyurdu. Yeni model cep telefonu yan tarafındaki döndürülebilir tuşlarla idare ediliyor. Adeta bir sopa görünü-müne sahip olan cihaz, kullanıcıya taşıma rahatlığı da sunuyor. Diğer cep telefonlarının aksine değişik bir görünüm ve ekrana sahip olan yeni model cihazın üretiminin yapılıp yapılmayacağı ise açıklanmadı. 
+     www.trium.com 
+     
+     Çift ekran lüksü... 
+     Motorola yeni model cep telefonu V60i’nin tanıtımını yaptı. Bütün V serisinde olduğu gibi kapaklı olan bu telefonun en ilgi çekici özelliği içerisindeki ekran haricinde kapağının üzerinde de yeni bir ekrana sahip olması. Çift ekranlı V60i, internetten yüklenebilir J2ME’li oyunları destekliyor. Üç bantlı V60i, GPRS özelliği sayesinde de internete bağlanılmasını sağlıyor. Motorola firması bu yeni modeli 2002 yılının son çeyreğinde piyasaya çıkaracak. 
+     www.motorola.com 
+     
+
+
+
+ EKONOMİ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

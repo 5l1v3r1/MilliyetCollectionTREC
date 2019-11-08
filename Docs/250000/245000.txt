@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 245000 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/03/son/soneko25.html </URL>
+<DATE> 2004/06/03/ </DATE>
+<TIME> 12.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seasta 29 puan arttı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi, önceki kapanışa göre 29.76 puan artışla, 1. seansı 16,897.28 puandan tamamladı. 
+     1. seansta hisse senetlerinin ortalama değer kazancı yüzde 0.18 olarak gerçekleşti. 
+     Dün 16,867.52 puandan kapanan İMKB Ulusal 100 Endeksi, 1. seansa, 50.35 puan artışla 16,917.87 puandan başladı. 
+     Endeks, Petrol İş Sendikası'nın, Ankara 10. Bölge İdare Mahkemesi tarafından, şirketin hisselerinin blok satışıyla ilgili ihale komisyon kararının iptal edildiği yönündeki açıklamasıyla birlikte gerilemeye başladı. 
+     Seansın ilk yarısını 63.33 puan kayıpla 16,804.19 puandan geçen endeks, seansın 2. yarısında yükselerek, 16,897.28 puandan kapandı. 
+     Endeks, seans içinde en düşük 16,753.13, en yüksek 16,987.46 puanı gördü. 
+     Seans sonunda mali endeks 84.20 puan artışla 22,535.68 puana, hizmetler endeksi 48.96 puan artışla 9,719.42 puana yükseldi, sanayi endeksi 29.78 puan kayıpla 15,408.74 puana geriledi. 
+     Böylece, önceki kapanışa göre, mali grup hisseler ortalama yüzde 0.38, hizmet grubu hisseler ortalama yüzde 0.51 değer kazandı, sanayi grubu hisseler ortalama yüzde 0.19 değer kaybetti. 
+     1. seansta işlem gören toplam 297 hisse senedinden 105'i değer kazandı, 100'ü değer kaybetti, 92 hissenin fiyatında değişiklik olmadı. 
+     Seansta, 300 trilyon 330 milyar 976 milyon liralık işlem hacmi oluştu. 
+     1. seansta, Yapı Kredi Bankası, Doğan Holding, Garanti Bankası, Turkcell ve Park Elektrik Madencilik en yoğun işlem gören hisseler oldu. 
+
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 181915 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/12/son/soneko14.html </URL>
+<DATE> 2003/09/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa 13 bin puana gidiyor... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi önceki kapanışa göre 232.59 puan artışla, 1. seansı 12,739.61 puandan tamamladı. 
+     1. seansta, hisse senetlerinin ortalama değer artışı yüzde 1.86 olarak gerçekleşti. 
+     Dün 12,507.02 puandan kapanan endeks, ilk seansa 13.92 puan artışla 12,520.94 puan seviyesinde başladı. Endeks, seansın ilk yarısını ise 12,626.96 puandan geçti. 
+     Endeks, seans içinde en düşük 12,520.94 puana kadar gerilerken, en yüksek olarak 12,774.05 puanı gördü. 
+     Seans kapanışında mali endeks 360.50 puan artışla 16,092.57 puana, sanayi endeksi 144.77 puan artışla 12,307.41 puana ve hizmetler endeksi 153.28 puan artışla 7,496.49 puana yükseldi. 
+     Böylece, önceki kapanışa göre mali grup hisseler ortalama yüzde 2.29, sanayi grubu hisseler ortalama yüzde 1.19, hizmetler grubu hisseler de ortalama yüzde 2.09 oranında değer kazandı. 
+     1. seansta işlem gören toplam 284 hisse senedinden 226'sı değer kazanırken, 23 hisse senedi değer kaybetti, 35 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta, 563 trilyon 193 milyar 478 milyon liralık işlem hacmi oluştu. 
+     1. seansta, İş Bankası C , Doğan Holding, Garanti Bankası, Sabancı Holding ve Yapı ve Kredi Bankası, en yoğun işlem gören hisseler oldu. 
+     Borsa uzmanları, ana hedefin 13,000-13,500 aralığı olduğunu belirterek, ana destek seviyesinin de 12,250-12,100 puan seviyelerinde bulunduğunu kaydettiler. 
+     Uzmanlar, ABD'den gelecek 8,5 milyar dolarlık kredi, DEHAP davasının ertelenmesi ve Merkez Bankası'ndan beklenen kotasyon indiriminin, piyasalarda iyimserlik havası yarattığını vurguladılar. 
+     Kısa vadeli hareketlere de dikkat etmek gerekebileceğine dikkat çeken uzmanlar, son üç günde hızlı bir çıkış yaşayan endekse kar realizasyonlarının yansıması halinde satış baskısının da sert olabileceğini, eğer alıcılar güçlerini koruyabilirse sert satış ihtimalinin da en aza indirilebileceğini belirttiler. 
+     
+</TEXT>
+</DOC>

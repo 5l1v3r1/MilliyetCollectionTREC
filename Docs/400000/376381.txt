@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 376381 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/07/son/soneko01.html </URL>
+<DATE> 2005/09/07/ </DATE>
+<TIME> 01.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Borsası’nda temel gösterge Dow Jones Sanayi Endeksi, günün son seansını 144.50 puan artışla yüzde 1.38 10,591.87 puandan noktaladı. 
+     Teknoloji şirketlerinin ibresi Nasdaq Bileşik Endeksi de 25.88 puan artarak yüzde 1.21 2,166.95 puandan kapandı. 
+     İşçi Bayramı tatili nedeniyle dün pazartesi işlem yapılmayan New York Borsası, haftaya yükselişle girdi. 
+     Petrol fiyatlarındaki gerilemeyle moral bulan borsanın ilk seansında geçen haftaki kapanışına göre 67 puan artan Dow Jones sanayi endeksi 10,514.00 puana, 6.24 puan artan Nasdaq teknoloji endeksi de 2,147.31 puana çıktı. 
+     New Orleans kentini mahveden Katrina Kasırgası’nın ardından ABD merkez bankası FED’in faiz artışı politikasında esneklik olacağı söylentileri de borsadaki yükselişte etkili oldu. 
+     
+</TEXT>
+</DOC>

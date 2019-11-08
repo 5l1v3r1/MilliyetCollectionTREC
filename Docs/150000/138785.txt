@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 138785 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/02/24/son/sontur17.html </URL>
+<DATE> 2003/02/24/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dikkat.. İnternette virüsler bilgi çalıyor... 
+</HEADLINE>
+<TEXT>
+
+     Uzmanlar, internette her gün 25 yeni virüsün ortaya çıktığını ve yeni virüslerin bilgilerin peşine, onları çalmak için düştüklerini belirtiyor. 
+     Türk İnternet Birliği TEB Kurucu Üyesi Hakan Topuzoğlu, teknolojinin birçok şey gibi bilgisayar virüslerinin niteliklerini de değiştirdiğini, geçen 1-2 yılda ortaya çıkan ''Sircam, Klez, Nimda'' gibi virüslerin giderek gelişen yeni kuşak virüslere örnek olarak gösterildiğini kaydetti. 
+     Yeni virüslerin hedefledikleri sistemde ne kadar süre hareketsiz kalacaklarını kendileri belirlerken, diğer sistemlere bulaşmak için birçok farklı yöntem kullandıklarına işaret eden Topuzoğlu, şunları anlattı 
+     ''Sophos Anti-Virüs Şirketi uzmanları, geçen yıl 7 bin 189 yeni virüs tespit ettiklerini ve her gün 25 yeni virüsün ortaya çıktığını söylüyorlar. Virüslerden etkilenenlerin yüzde 78'ini ise Windows kullanıcıları oluşturuyor. Giderek daha karmaşık hale gelen ve megavirüs olarak adlandırılan virüslerin, yakın gelecekte sistemlere daha fazla zarar verebileceği tahmin ediliyor.'' Birkaç yıl öncesine kadar virüslerin daha çok bilgileri silmek, dosyalara zarar vermek amacı taşıdığını belirten Topuzoğlu, ''Oysa yeni virüsler bilgilerin peşine, onları çalmak için düşüyor. Kullanıcının Belgelerim klasöründen dosya çalmak üzere Sircam gibi virüsler tasarlanıyor ve artık sistemlerdeki zayıf nokta hedefleniyor'' dedi. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

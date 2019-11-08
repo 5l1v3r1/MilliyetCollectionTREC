@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 261058 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/06/son/sondun09.html </URL>
+<DATE> 2004/08/06/ </DATE>
+<TIME> 09.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dijital teknoloji Kennedy suikastini çözebilecek mi 
+</HEADLINE>
+<TEXT>
+
+     ABD'nin 35'inci başkanı John F. Kennedy'ye düzenlenen suikastle ilgili sır perdesini aralamak için bilimadamları teknolojiden yararlanıyor. 
+     BBC'nin haberien göre, Kennedy, 22 Kasım 1963 günü, Dallas'ta vurulduğunda bir koruma polisinin telsizinden elde edilen ses kaydı dijital teknolojiyle temizleniyor ve güçlendiriliyor. 
+     Kennedy'nin öldürülmesi ardından, kaç el ateş edildiği, katil olarak tutuklanan Lee Harvey Oswald'ın tek başına mı hareket ettiği yoksa bir suç ortağı mı olduğu tartışılmış ancak tartışmalar kesin bir sonuca ulaşamamıştı. 
+     1979 lında Amerikan Kongresi'nin Suikastleri Araştırma Komitesi, ses kaydında dört el silah sesi duyulduğunu ve bunların iki farklı noktadan geldiği izlenimi edindiklerini açıklamıştı. 
+     Komite, katil zanlısı olarak tutuklanan ancak yargılanamadan öldürülen Lee Harvey Oswald'ın, büyük olasılıkla tek başına hareket etmediğine karar verdi. 
+     Suikasti araştırmak üzere oluşturulan Warren Komisyonu'nun çalışmaları sırasında bu s kullanılmamış, ve Komisyon, Oswald'ın suikasti tek başına düzenlediğini belirtmişti. 
+     Kennedy suikastinden 41 yıl sonra, Lawrence Berkeley Ulusal Laboratuvarı'ndaki bilimadamları, bir polis telsizinden gelen ve polis merkezinde bir diktafona kaydedilen suikast anının ses kayıtlarını dijital olarak kopyalamaya başladılar. 
+     Kennedy suikastinin çözümü için hayat öneme sahip olsa da, diktafon kaydının orijinali, çok hassas ve bozulmaya elverişli olduğu için 1990'dan beri ne çalındı ne de kopyalandı. 
+     Uzmanlar, dijital teknoloji kullanılarak, orijinal kayıttaki gürültüleri, arka plandaki sesleri ortadan kaldırarak, gerçekten kaç el ateş edildiğini ve bunların aynı noktadan mı yoksa farklı noktalardan mı geldiğini belirlemeyi umuyorlar. 
+     Bu çalışmaların yaklaşık bir yıl sürmesi bekleniyor. 
+     
+</TEXT>
+</DOC>

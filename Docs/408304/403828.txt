@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 403828 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/15/son/sonyas16.html </URL>
+<DATE> 2005/12/15/ </DATE>
+<TIME> 13.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Mona Lisa'nın gülüşünün sırrı çözüldü 
+</HEADLINE>
+<TEXT>
+
+     Leonardo da Vinci'nin ünlü Mona Lisa'sının gülümsemesi ''çözümlendi''. Bilim adamları, gülücüğün yüzde 83 oranında mutluluk, yüzde 9 küçümseme içerdiği sonucuna vardı. 
+     Amsterdam üniversitesi uzmanları, 500 yıldır sırrını koruyan Mona Lisa'yı duyguları, analiz edebilen bir bilgisayar yazılımıyla inceledi. 
+     New Scientist dergisinin haberine göre, yazılımda kullanılan algoritma, Mona Lisa'nın yüzündeki ifadede yüzde 6 korku, yüzde 2 de öfke tespit etti. 
+     Yazılım dudak kıvrımı, göz kenarındaki kırışıklıklar gibi ana yüz hatlarını insandaki temel 6 duyguyla harmanlayarak sonuç üretiyor. 
+     
+</TEXT>
+</DOC>

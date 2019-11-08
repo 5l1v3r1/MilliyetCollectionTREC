@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 166640 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/01/son/soneko40.html </URL>
+<DATE> 2003/07/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsası güne düşüşle başladı 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacmi bakımından dünyanın en büyük borsası konumunda olan New York'ta endeksler düşüyle açıldı. 
+     Dow Jones Endeksi açılıştan kısa süre sonra, 32.1 puan azalarak 8,9.34 puana, teknoloji endeksi Nasdaq 7.4 puan gerileyerek 1,615.40 puana indi. 
+     Endekslerin açılışta gerilemesine neden olarak, yatırımcıların imalat sektörü ve aylık inşaat harcamalarına ilişkin raporların açıklanması öncesinde ihtiyatlı bir tutum sergilemeleri gösterildi. 
+     
+</TEXT>
+</DOC>

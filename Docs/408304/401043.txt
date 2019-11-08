@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 401043 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/06/son/soneko53.html </URL>
+<DATE> 2005/12/06/ </DATE>
+<TIME> 18.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+BDDK Enflasyon ve faizdeki düşüş, riskliliği önemli ölçüde azalttı 
+</HEADLINE>
+<TEXT>
+
+     Bankacılık Düzenleme ve Denetleme Kurumu BDDK , enflasyon ve faiz oranlarındaki düşüşler ve mali piyasalarda oynaklıkların azalmasının, bankacılık sektöründeki riskliliği önemli ölçüde azalttığını bildirdi. 
+     BDDK'nın Temmuz ayı Bankacılık Sektörü Risk Değerlendirme Raporu'na göre, buna karşın olumlu ekonomik gelişmeler paralelinde sektörde gözlenen büyüme ise bankaların maruz kaldıkları risklerin matrahı konumunda olan portföylerin büyümesini de beraberinde getirdi. 
+     Aralık-Temmuz 2005 döneminde kredi riskinde ortaya çıkan gelişmeler incelendiğinde, bu riskin en önemli matrahı konumunda olan krediler portföyünün hem tutar olarak hem de aktife oranla artış gösterdiği görülüyor. Bu husus diğer koşullar aynı iken maruz kalınan kredi riskini artırıcı bir gelişme olarak niteleniyor. 
+     BDDK'ya göre, krediler portföyünde vadeler uzarken, Türk Parası TP kredilerin oransal payı arttı ve çeşitli açılardan görülen yoğunlaşmalar vade, para cinsi vb. azaldı. 
+     Ayrıca, portföyde ortalama takibe dönüşüm oranlarının azalması kredi riski açısından olumlu gelişmeler olarak değerlendiriliyor. 
+     İncelenen dönemde nakdi krediler önemli ölçüde artarken gayri nakdi kredilerdeki artış oldukça sınırlı kaldı. 
+     Piyasa riski açısından matrah konumunda olan ticari portföy, türev işlemler ve yabancı para net genel pozisyonu iki dönem arasında artış gösterdi. 
+     
+     PİYASADA OYNAKLIĞIN AZALMASI RİSK AZALTICI 
+     Piyasa riskini artırıcı etkide bulunan bu gelişmeye karşın, faiz oranları, hisse senedi fiyatları ve kurlardaki oynaklıkların azalması risk azaltıcı etkide bulunuyor. Sonuçta, sektörün genel risklilik düzeyi, 'Riske Maruz Değer' yaklaşımı ile yapılan hesaplamalara göre, incelenen dönem içerisinde azaldı. 
+     Ayrıca ticari portföydeki sabit faizli Eurobond tutarının azalmış ve özkaynakların da artmış olması sebebiyle, sektörün Eurobond fiyat değişimlerine duyarlılığı Aralık 2004 dönemine göre düştü. 
+     Sektörün kur değişimleri karşısındaki durumu, sadece bilanço içi pozisyon üzerinden analiz edildiğinde ise duyarlılığın Aralık 2004 dönemine göre arttığı görülüyor. 
+     
+     YAPISAL FAİZ ORANI RİSKİ 
+     Sektörün maruz kaldığı yapısal faiz oranı riski, Aralık 2004 dönemine kıyasla arttı. Bu konuda faiz oranlarındaki düşüşler olumlu etkiler yapmakla birlikte, faiz açıklarındaki artışlar ve aktifte sabit faizli kıymetlerin, pasifte ise değişken faizli kıymetlerin payının artması yapısal faiz oranı riskini artırıcı gelişmeler olarak değerlendiriliyor. 
+     Faiz oranlarındaki olası değişimlerin sektörün karlılığına etkileri hususunda yapılan senaryo analizleri de sektörün risklilik düzeyinin iki dönem arasında arttığını gösteriyor. 
+     
+     LİKİDİTE RİSKİ 
+     Likidite riskinde ortaya çıkan gelişmelerin de incelendiği belirtilen ''Temmuz ayı Bankacılık Sektörü Risk Değerlendirme Raporu''nda, sektörün likidite açıklarının hem tutar olarak hem de toplam yükümlülüklere oranla arttığının görüldüğü bildirildi. Bu husus, likidite riskini artırıcı bir gelişme olarak değerlendirildi. 
+     Diğer taraftan, likidite açıklarının belirlenmesinde önem arz eden kalemlerden mevduat kaleminde kısa vadedeki yoğunlaşmalar, menkul kıymetler kaleminde de uzun vadedeki yoğunlaşmalar arttı. Yine bu gelişmeler de diğer koşullar aynıyken likidite riskini artırıcı faktörler olarak değerlendiriliyor. 
+     
+</TEXT>
+</DOC>

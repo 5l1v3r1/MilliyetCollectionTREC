@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 339831 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/05/son/soneko02.html </URL>
+<DATE> 2005/05/05/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası, günü yükselişle noktaladı. 
+     Dow Jones Sanayi Endeksi 127.69 puan artarak 10,384.64 puana teknoloji ibresi Nasdaq Birleşik Endeksi de 29.16 puan artışla 1,962.23 puana çıktı. 
+     
+</TEXT>
+</DOC>

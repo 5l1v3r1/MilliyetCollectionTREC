@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 100745 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/08/08/son/soneko07.html </URL>
+<DATE> 2002/08/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones Endeksi yükselişle kapandı... 
+</HEADLINE>
+<TEXT>
+
+     ABD Borsası geç başlayan geç saatlerde yaşanan çıkış, endekslerin ikinci gününde de yükselişle kapanmasını sağladı. 
+     Cisco System Inc.'nın açıkladığı çeyrek sonuçlarının olumlu bulunması teknoloji hisselerinde yoğun alımlara yol açtı. 
+     Gün sonunda Dow Jones Endeksi yüzde 2.20, Nastaq teknoloji endeksi ise yüzde 1.70 yükseldi. Brezilya borsasında ise yüzde 1.17 yükseliş oldu. 
+     Döviz piyasalarında belirgin bir yön gözlenmezken önemli pariteler yaklaşık ABD kapanış seviyelerinde koruyorlar. Euro 0.9754 dolar, dolar ise 120.10 yen üzerinden işlem görüyordu. 
+
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 174463 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/08/son/soneko01.html </URL>
+<DATE> 2003/08/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası'nda Dow Jones yükseldi, Nasdaq düştü 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Borsası'nda Dow Jones Sanayi Endeksi, 64.71 puan yükselerek günü 9,126.45 puandan kapadı. 
+     İleri teknoloji ortaklıklarının göstergesi Nasdaq Bileşik Endeksi ise 0.47 puan düşüşle 1,652.21 puandan kapandı. 
+     
+</TEXT>
+</DOC>

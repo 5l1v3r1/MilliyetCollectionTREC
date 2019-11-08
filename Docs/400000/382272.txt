@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 382272 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/28/son/soneko63.html </URL>
+<DATE> 2005/09/28/ </DATE>
+<TIME> 18.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+AB'nin Galileo Projesi'ne, S.Arabistan da katılacak... 
+</HEADLINE>
+<TEXT>
+
+     Avrupa Birliği'nin AB uydu üzerinden global konum belirleme projesi Galileo'ya, Suudi Arabistan da katılacak. 
+     Avrupa Komisyonu ile Avrupa Uzay Ajansı'ndan yetkililerin Suudi Arabistan'a gerçekleştirdikleri ziyarette, Galileo projesine katılım için resmi teklif aldıkları bildirildi. 
+     Komisyon, teklifi uygun bularak onayladı. Üye ülkelerin de onayıyla projeye Suudi Arabistan'ın katılımı kesinlik kazanacak. AB, milyarlarca avroluk Galileo projesi için bugüne kadar Çin, İsrail, Ukrayna ve Hindistan gibi ülkelerle de anlaşma sağlamıştı. 
+     ABD ile AB'nin birçok alandaki süregelen rekabetini uzaya taşıması beklenen Galileo projesiyle dünya yörüngesine yerleştirilecek 30 uydu yanında kurulacak yer istasyonlarının maliyetinin 3.7 milyar avro olacağı hesaplanıyor. 
+     ''Avrupa'nın en büyük projesi'' olarak tanımlanan Galileo'nun finansmanının üçte ikisinin özel sektörce, kalan üçte birinin de AB üyesi ülkelerce üstlenileceği, sistemin Avrupa çapında en az 150 bin kişiye istihdam alanı açacağı ve 9 milyar avroluk bir gelir getireceği belirtiliyor. 
+     ABD, cep telefonu işletmeciliğinden, meteoroloji tahminlerine ve uzay gözlemlerine kadar birçok alanda kullanılan GPS sistemi sayesinde dünyada tekel konumunda bulunuyor. 
+     Kendisine rakip çıkmasından duyduğu rahatsızlığı gizlemeyen ABD, Galileo'nun gerçekleşmesi halinde, yayacağı sinyallerin GPS sisteminde karışıklıklara yol açacağını ve bunun savaş durumunda ciddi sonuçlar doğuracağını savunuyor. 
+     Pentagon ise, denetiminde tuttuğu için başka ülkelerin ''stratejik kaygılar'' duymasına neden olduğu GPS sisteminden isteyen her ülkeyi yararlandırdığını savunarak ''gereksiz'' olarak nitelediği Galileo projesine karşı çıkıyor. 
+     
+     GPS NEDİR 
+     ''Global Positioning System''in kısaltılmışı olan GPS global konum belirleme sistemi, düzenli olarak kodlanmış bilgi yollayan bir uydu ağı. Uydularla aramızdaki mesafeyi ölçerek dünya üzerindeki kesin yerimizi tespit etmeyi mümkün kılıyor. 
+     Bu sistem, yörüngede sürekli olarak dönen ABD Savunma Bakanlığı'na ait 24 uydudan oluşuyor. Bu uyduların yaydığı düşük radyo sinyallerini yeryüzündeki GPS alıcısı alıyor ve böylece konum belirlenmesi mümkün oluyor. 
+     GPS projesi, ilk uydunun 1978'de fırlatılmasıyla başladı. 24 uyduluk ağ 1994'de tamamlandı. Projenin devamlılığı ve geliştirilmesi ile ilgili bütçe, ABD Savunma Bakanlığı'nca sağlanıyor. 
+     
+</TEXT>
+</DOC>

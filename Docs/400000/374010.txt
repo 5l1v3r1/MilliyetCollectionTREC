@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 374010 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/30/yasam/yas02.html </URL>
+<DATE> 2005/08/30/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kansere atom bombası 
+</HEADLINE>
+<TEXT>
+
+
+Bilim adamları sağlıklı hücrelere zarar vermeden kanserli hücreleri yok etmeyi başardı 
+
+DIŞ HABERLER SERVİSİ 
+
+Melbourne'de geliştirildi 
+AVUSTRALYALI araştırmacılar, geliştirdikleri yeni bir teknikle radyasyon yoluyla sağlıklı hücrelere zarar vermeden, sadece kanserli hücreleri yok etmeyi başardıklarını açıkladılar. Melbourne'deki Peter MacCalcum Kanser Merkezi'nde görevli bilim adamları tarafından geliştirilen bu yeni teknik, tıp çevrelerinde büyük ilgi uyandırdı. 
+
+İki kez kontrol ediyor 
+YENİ teknikte radyoaktive edilmiş bir atoma iliştirilen antikorlar ve DNA molekülü, kanserli hücreleri önce belirleyip daha sonra yok ediyor. Kanser Merkezi'nden yapılan açıklamaya göre, teknikte kullanılan radyoaktif atomlar hücreyi yok etmeden önce 2 defa kanserli olup olmadığını kontrol ediyor ve böylece yanlışlıkla sağlıklı hücrelerin vurulması engelleniyor. 
+
+5 yıl içinde başlayacak 
+ARAŞTIRMACILAR, geliştirilen bu tekniğin laboratuvarda yapılan tüm testlerde son derece olumlu sonuçlar verdiğini ve tahminen 5 yıl içerisinde klinik tedavilerde hastalara uygulanmaya başlanabileceğini belirttiler. Araştırmacıların bu açıklaması, milyonlarca kanser hastası için büyük bir umut ışığı oldu. 
+
+
+
+</TEXT>
+</DOC>

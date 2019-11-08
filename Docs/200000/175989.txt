@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 175989 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/15/son/sontur14.html </URL>
+<DATE> 2003/08/15/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Elektromanyetik kirliliğe dikkat .. Nelerde bulunuyor 
+</HEADLINE>
+<TEXT>
+
+     Sıklıkla kullanılan veya karşılaşılan çeşitli araç ve cihazların çalışması sırasında ortaya çıkan elektromanyetik dalgaların insan vücuduna olumsuz etkileri olabileceği, bundan korunmak için en etkili önlemin, bu dalgaların kaynaklarına yakın bulunmamak ve dalgalara uzun süre maruz kalmamak olduğu bildirildi. 
+     Yıldız Teknik Üniversitesi YTÜ Elektrik Elektronik Fakültesi Elektromanyetik Alanlar ve Mikrodalga Tekniği Anabilim Dalı Öğretim Üyesi Prof. Dr. Taner Şengör, günlük hayatta kullanılan birçok cihaz ve aracın elektromanyetik dalgalar ürettiğini, insan vücudunun bile bir elektromanyetik dalga kaynağı olarak modellenebileceğini kaydetti. 
+     Elektromanyetik dalgaların karakteristik yapıları nedeniyle basit biçimde ifade edilmeye elverişli olmadıklarını belirten Prof. Dr. Şengör, şunları kaydetti 
+     ''Elektromanyetik olaylar, üretildikleri ve etkiledikleri yer ile büyüklüğü, etki doğrultusu, etki süresi, etki mesafesi, frekansı, bileşenleri, gücü, emilme miktarı ve bunların zaman içindeki değişim derecelerinin, ayrıca etki altında kalanın yapısal özelliklerinin şekillendirdiği olaylardır. Bunlar da hem kaynaktan kaynağa, hem de insandan insana değişir.'' 
+     
+     ELEKTROMANYETİK DALGA KAYNAKLARI 
+
+     Mikrodalga fırınlar, yüksek gerilim hatları, bilgisayar, televizyon ve radyo verici istasyonları, baz istasyonları, cep telefonları, telsiz telefonlar, halojen ve floresan lambalar ile diğer elektrikli araçların günlük hayatta sıklıkla karşılaşılan elektromanyetik dalga kaynakları olduğunu dile getiren Prof. Dr Şengör, ''Cep telefonları, kullanılış şekilleri itibariyle beyne çok yakın konumdaki bir elektromanyetik kaynak durumundadır. Sayıca az olmakla birlikte, bu durumun zararlarının ortaya konulduğu bilimsel yayınlar mevcuttur. Ancak her elektromanyetik dalga kaynağını zararlı olarak algılamamak gerekir'' dedi. 
+     Prof. Dr. Şengör, elektromanyetik dalgaların etkilerinin, çoğunlukla sanıldığının aksine yalnızca bir ısı etkisiyle sınırlı olmadığını vurgulayarak, şunları kaydetti 
+     ''Elektromanyetik dalgaların, vücut içindeki yaşamsal öneme sahip bazı maddelerin organizma tarafından tutulması ve işlenmesi ile ilgili olumsuz etkilerine rastlanmaktadır. Bu tür etkiyi yaratan frekanslardaki elektromanyetik dalgalar da örneğin cep telefonlarının temel yayın frekansında olmamakla birlikte, bunların harmonik frekansları içerisinde bulunmaktadır. Bir diğer etki ise beyin çapı ile ilgili olarak söylenebilir. Beynin çapı ne kadar küçükse, elektromanyetik dalgaların beyin üzerindeki etkisi o kadar artmaktadır.'' 
+     
+     OLUMSUZ ETKİLENME BELİRTİLERİ 
+
+     Elektromanyetik dalga kaynağının yakınında bulunan ve olumsuz etkilenen bir insanda çeşitli belirtilerin ortaya çıkabileceğini anlatan Prof. Dr. Şengör, şöyle devam etti 
+     ''Öncelikle dudaklarınız adeta birbirine yapışır, dilinizde tuz tadı belirir, dudak uçlarınız ile parmak uçlarınız çok hafif seğirmeye başlar, düşünme hızınızda çok az gibi görünen ya da fark edilemeyen ama belirli bir gecikme ortaya çıkar. Genellikle bu etkiler kaynaktan uzaklaşıldığında ya da kaynak kapalı konuma getirildiğinde çabucak ortadan kalkmakla birlikte, bunun uzun zaman aldığı durumlar da mevcuttur.'' Prof. Dr. Taner Şengör, elektromanyetik kirlilik kaynaklarından korunmak için alınabilecek önlemlere de değinerek, ''Elektromanyetik dalgalardan korunmak için en etkili önlem, olabildiğince kaynaktan uzaklaşmak ya da kaynağı makul sürelerle dinlendirmektir'' dedi. 
+     Prof. Dr. Şengör, elektromanyetik dalga kaynaklarının, vücuda ve özellikle baş bölgesine uzun süre yakın tutulmaması gerektiğini de sözlerine ekledi. 
+     
+</TEXT>
+</DOC>

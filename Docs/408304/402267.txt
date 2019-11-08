@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 402267 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/10/yasam/yas13.html </URL>
+<DATE> 2005/12/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Cep telefonuyla kanser teşhisi 
+</HEADLINE>
+<TEXT>
+
+
+DIŞ HABERLER SERVİSİ 
+
+İSRAİLLİ psikolog Dr. Nitzan Yaniv, geliştirdiği yeni bir yöntemle göğüs kanseri ve kalp hastalıklarını cep telefonu aracılığıyla teşhis ediyor. İsrail'de yayımlanan Haaretz gazetesinin haberine göre, bir bilgisayar programı ve kızılötesi bir kameranın cep telefonuna eklenmesiyle oluşturulan yeni teknoloji sayesinde, kameranın iki temel fonksiyonuyla, göğsün değişik bölgelerindeki ısı ve buralara ulaşan oksijen analiz edilerek göğüs kanseri belirlenecek. 
+
+
+</TEXT>
+</DOC>

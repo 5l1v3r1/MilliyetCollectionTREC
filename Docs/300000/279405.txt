@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 279405 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/12/son/soneko06.html </URL>
+<DATE> 2004/10/12/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi, Tokyo Borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacminde dünyanın en büyük borsası New York Wall Street Borsası, Dow Jones Sanayi Endeksi'nde günün son seansını 26.77 puan artışla binde 2,7 10,081.97 puandan noktaladı. 
+     Teknoloji ortaklıklarının ibresi Nasdaq Birleşik Endeksi de 9.11 puan artışla binde 4,7 son seansı 1,929.08 puandan kapadı. 
+     New York Borsası, haftanın ilk işlem gününe hafif yükselişle başladı. Petrol fiyatlarının varilde 54 dolar gibi rekor seviyelerde gezinmesi piyasalarda endişe yaratırken bilançoların açıklandığı haftada yüksek kar beklenen şirket hisselerine talep görüldü. 
+     
+     TOKYO BORSASI DÜŞÜŞLE KAPANDI 
+
+     Öte yandan Tokyo Borsası'nda Nikkei Endeksi, Cuma gününe göre 147.54 puan yüzde 1.30 gerileyerek 11,201.81 puandan kapandı. 
+     Tokyo döviz piyasasında ise Japon Yeni ABD Dolarına karşı değer kazandı. Cuma'ya göre 0.61 yen değer kaybeden dolar, günü 109.78 yenden noktaladı. 
+     Petrol fiyatlarının rekor seviyelerden gerilememesi, Tokyo Borsası'nda satışların artmasına neden oldu. 
+     Japon sermaye piyasaları, ulusal tatil nedeniyle dün açılmamıştı. 
+     
+</TEXT>
+</DOC>

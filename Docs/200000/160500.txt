@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 160500 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/02/son/sondun11.html </URL>
+<DATE> 2003/06/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kanser için umut... Tümörleri küçülten ilaç geliştiriliyor 
+</HEADLINE>
+<TEXT>
+
+     İlk klinik denemeleri yapılan bir ilacın, birden fazla kanser türünde, kanser tümörlerini küçültebildiği saptandı. 
+     Kanserin nasıl oluştuğunun daha fazla anlaşılabilmesiyle, kanseri tedavi edici ilaçların daha az yan etkiyle geliştirilebildiğine değinen Cedars Sinai Tıp Merkezi uzmanları, erken klinik denemeleri yapılan Omnitarg 2C4 ilacının, kanser tümörlerinin tedavisinde yeni bir yol çizdiğini bildirdiler. 
+     İleri derecede prostat, akciğer, yumurtalık, kalın bağırsak, pankreas kanseri ve sarkoma bulunan 21 hasta üzerinde araştırma yapıldı. Hastaların damarlarına her vücut kilosu için üç haftada bir, 0.5 ila 15 miligram 2C4 ilacı zerkedildi. 2 dönem halinde 6 hafta süren araştırmada, iki hastanın başka nedenlerden öldüğü belirlendi. Diğer 19 hastanın 8'inde yüzde 42 tümörlerin yüzde 50 den fazla küçüldüğü gözlendi. 
+     Dr. David Agus, deneklerde ileri derecede kanser bulunduğu için başka bir tedavi şansları bulunmadığını bildirdi. 
+     Araştırmada, ilacın çok az yan etkiye sahip olduğu kaydedildi. 
+     Ayrıca beş denekte hastalığın üç ay boyunca aynı seviyede kaldığı belirlendi. Bu hastalardan üçünün prostat, birinin yumurtalık, diğerinin ise küçük olmayan hücreli akciğer kanseri hastası olduğu bildirildi. 
+     İlaç tümörü değil, tümörün büyümesini sağlayan kanser hücreleri arasındaki iletişimi hedef alarak farklı bir etki ortaya koyabiliyor. 
+     İlacın ikinci klinik denemelerinin Mayıs ayında prostat kanseri hastalarında başladığını açıklayan araştırmacılar, Haziran ayı içinde ise yumurtalık kanseri hastalarında ikinci klinik denemelerin başlayacağını bildirdi. 
+     Araştırmayla ilgili rapor, Chicago'da yapılan Amerikan Kliniksel Onkoloji Kuruluşu genel kurulunda açıklandı. 
+     
+</TEXT>
+</DOC>

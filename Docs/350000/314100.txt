@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 314100 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/10/son/soneko08.html </URL>
+<DATE> 2005/02/10/ </DATE>
+<TIME> 09.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İMKB, kurumsay yönetim endeksi oluşturuyor 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası İMKB , kurumsal yönetim ilkelerine uyum sağlayan şirketlerden Kurumsal Yönetim Endeksi oluşturacak. Endekse, kurumsal yönetim ilkelerine uyum derecelendirme notu 6 olan şirketler alınacak. 
+     Sermaye Piyasasa Kurulu, İMKB'nin oluşturduğu Kurumsal Yönetim Endeksi Temel Kurallarını onayladı. 
+     SPK, Enron ve benzeri şirket skandallarıyla uluslar arası finansal krizleri de dikkate alarak şirketler için Kurumsal Yönetim İlkeleri belirlemişti. Belirlenen kurumsal yönetim ilkelerine uyumun açıklatılması amacıyla da hisse senetleri İMKB'de işlem gören şirketlerin bu yıl yayımlayacakları 2004'e ilişkin faaliyet raporlarından başlayarak, faaliyet raporlarında ve internet sitelerinde, Kurumsal Yönetim İlkeleri'ne uyumuları konusundaki bilgilerin bulunacağı Kurumsal Yönetim Uyum Raporu'na yer vermeleri zorululuğu getirildi. 
+     SPK, şirketlerin, Kurumsal Yönetim Endeksi'ne dahil olabilmeleri için İMKB tarafından 5 olarak önerilen kurumsal yönetim ilkelerine uyum derecelendirme notunu, Kurumsal Yönetim İlkeleri'nin amaca uygun olarak uygulanmasını sağlamak amacıyla 6'ya çıkardı. Buna göre söz konusu notu en az 6 olan, diğer bir deyişle kurumsal yönetim ilkelerine uyumu yüksek olan şirketler endekse alınacaklar. SPK, borsa kotunda ya da kaydında bulunan hisse senetlerinin toplam nominal tutarı üzerinden hesaplanan kotta ya da kayıtta kalma ücretlerinin "İMKB Kurumsal Yönetim İlkeleri Endeksi" kapsamında bulunan şirketler için yüzde 50 indirim yapılmasına yönelik İMKB önerisini de onayladı. 
+     Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi'nde, bölümler itibarıyla ağırlıklandırmanın "pay sahipleri bölümü için yüzde 25", "kamuyu aydınlatma ve şeffaflık bölümü için yüzde 35", "menfaat sahipleri bölümü için yüzde 15" ve "yönetim kurulu bölümü için yüzde 25" olarak yapılmasını kararlaştırdı. Ayrıca, derecelendirme sonuçlarının bir bütün olarak "tüm ilkelere uyum" ile "pay sahipleri", "kamuyu aydınlatma ve şeffaflık", "menfaat sahipleri" ve "yönetim kurulu" ana bölümleri itibarıyla ayrı ayrı olmak üzere ağırlıklarıyla birlikte kamuya açıklanmasına karar verdi. 
+     
+</TEXT>
+</DOC>

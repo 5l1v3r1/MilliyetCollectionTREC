@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 115110 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/10/25/son/sontur04.html </URL>
+<DATE> 2002/10/25/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+TÜBİTAK'tan dünyanın en iyi balistik sistemi 
+</HEADLINE>
+<TEXT>
+
+     Türkiye Bilimsel ve Teknik Araştırma Kurumu TÜBİTAK , ''dünyada en iyi olduğu'' iddia edilen yeni balistik analiz sistemini geliştirdi. 
+     TÜBİTAK Bilgi Teknolojileri ve Elektronik Araştırma Enstitüsü'nde BİLTEN sistemin geliştirilmesinde çalışan Elektrik Elektronik Yüksek Mühendisi Erol Tunalı'nın verdiği bilgiye göre, silah kullanılan olaylarda, hangi tür silah kullanıldığı ve kime ait silahla ateş edildiğini balistik uzmanları kovanlardan yola çıkarak saptayabiliyor. 
+     Kovanlar üzerinde yapılan incelemeler, özellikle silah kullanılan faili meçhul olayların aydınlatılmasında önemli bir ipucunu oluştururken, bir silahın birden fazla olayda kullanılıp kullanılmadığı da kovanların balistik laboratuvarlarda karşılaştırılmasıyla belirlenebiliyor. 
+     Balistik inceleme için geliştirilen sistemler her ülkenin güvenlik teşkilatları tarafından kullanılırken, bu sistemler sadece teknolojide önde gelen birkaç ülke tarafından geliştiriliyor. Güvenlik teşkilatlarında ağırlıklı olarak Kanadalı bir şirket tarafından üretilen IBIS adı verilen balistik analiz sistemi kullanılıyor. 
+     TÜBİTAK, öncelikle Türk güvenlik teşkilatlarının ihtiyacını karşılamak, daha sonra da gerektiğinde ticari olarak satışını yapmak üzere yeni bir balistik analiz sistemi geliştirdi. TÜBİTAK BİLTEN yetkilileri, "Balistika" adı verilen sistemde, benzer sistemlere göre daha hızlı şekilde sonuç alındığını ve şu an "dünyanın en iyi balistik analiz yazılımı" olduğunu söylediler. 
+     Balistika sistemi, silah kullanılan olaylardan elde edilen mermi kovanlarının 3 boyutlu olarak karşılaştırmasını çok hızlı bir şekilde yapabilirken, daha önce sisteme kaydedilen kovanlarla da benzerliğini ortaya koyuyor. Bu sayede, herhangi bir olayda kullanılan silahın daha önce başka olaylar kullanılıp kullanılmadığı sistem tarafından belirleniyor. 
+     
+     EN KÜÇÜK İPUCUNU TESPİT EDİYOR 
+     Sistem, mermi kovanlarını bilgisayar ekranında 35 ile 55 katına kadar büyülterek 3 boyutlu görüntüler veriyor. Kovanlar üzerindeki 3 boyutlu görüntülerle yapılan balistik incelemede, kovanların hangi silaha ait olduğuna ilişkin en küçük ipuçları saptanabiliyor. Sistem "kapsül izi", "iğne izi" ve "çıkarıcı izi" alanlarında, daha önce sisteme kaydedilen kovanlarla da karşılaştırma yapıyor. 
+     Kovanlardan elde edilen bilgilerden yola çıkarak kayıtlı verilerle kişi ve olay benzerliklerini saptayan Balistika sistemi sayesinde silahlı olaylarda silahın kullanıcısına daha hızlı bir şekilde ulaşılabiliyor. 
+     TÜBİTAK BİLTEN'in 1999 yılından bu yana üzerinde çalıştığı sistem, sürekli güncellenerek, daha da geliştirilmeye çalışılıyor. Jandarma Genel Komutanlığı tarafından kullanılmaya başlanan balistik analiz sistemin, yabancı firmalar tarafından üretilen sistemlerle test karşılaştırmalarında daha hızlı ve daha iyi sonuçlar verdiği belirtildi. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

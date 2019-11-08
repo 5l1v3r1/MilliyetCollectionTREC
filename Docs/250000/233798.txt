@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 233798 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/22/son/sondun44.html </URL>
+<DATE> 2004/04/22/ </DATE>
+<TIME> 20.31 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İsrail yolcu uçakları füzelere karşı koruma sistemş kullanacak 
+</HEADLINE>
+<TEXT>
+
+     İsrail havayolları şirketi El Al'ın, yolcu uçaklarını füzelere karşı koruma sistemleri ile donatacağı bildirildi. 
+     İsrail Ulaştırma Bakanlığı'ndan yapılan açıklamada, bir El Al uçağının İsrail yapımı ''Uçuş Koruma'' sistemi ile donatıldığı belirtildi. 
+     Bu sistem, uçağa yerleştirilmiş algılayıcılar aracılığı ile, uçağa karşı ısıya duyarlı herhangi bir roket fırlatıldığını belirlediğinde, otomatik olarak roketi saptırmayı ve uçağa isabet etmesini engellemeyi amaçlayan ''ateş topları'' fırlatıyor. 
+     İsrail 2002'de Kenya'da bir İsrail yolcu uçağına füze saldırısı düzenlenmesinden sonra yolcu uçaklarındaki güvenlik önlemlerini geliştirme çalışmalarını hızlandırmıştı. 
+     Terör örgütü El Kaide ile bağlantılı olduğu sanılan militanların fırlattığı roket, uçağa isabet etmemişti. 
+     Bakanlık sözcüsü yeni füze koruma sistemi ile donatılmış ilk uçağın Haziran ayında sefere başlamasını planladıklarını söyledi. 
+     Havayolu uzmanları sivil uçaklara bu tür askeri sistemler yerleştirmenin maliyetleri büyük ölçüde artıracağını savunuyor. 
+     İsrail Ulaştırma Bakanlığı sözcüsü sistemin maliyeti konusunda açıklama yapmayı reddederken, hava ulaşımı kaynakları El Al'ın uçağına yerleştirilecek füzesavar sisteminin maliyetinin yaklaşık 1 milyon dolar olduğunu belirtiyor. 
+     Ayrıca bu sistemin ısı-güdümlü roketlere karşı etkili olsa da radar-güdümlü roketlere karşı bir koruma sağlamayacağı kaydediliyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> 168747 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/11/son/soneko22.html </URL>
+<DATE> 2003/07/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+BDDK, İmar Bankası'nda kayıtlar olmadan ödeme yapmayacak 
+</HEADLINE>
+<TEXT>
+
+     İmar Bankası'nda hesabı bulunan tasarruf sahiplerine ödemelerin başlayabilmesi için, öncelikle banka ortaklarının yasal defter ve belgelerini Fon yetkililerine teslimi ve sonraki aşamada ise yeni banka yönetiminin gerekli incelemelerini tamamlaması gerektiği bildirildi. 
+     Belgelerin tesliminden sonra yapılacak inceleme ve tespitlerin ise 15 günden fazla sürmesi beklenmiyor. 
+     Bankacılık Düzenleme ve Denetleme Kurumu BDDK ile Tasarruf Mevduatı Sigorta Fonu TMSF , yaptıkları ortak açıklamayla, İmar Bankası mudilerinin merak ettikleri konulara açıklık getirdiler. 
+     Açıklamada, İmar Bankası nezdindeki tasarruf mevduatının tamamının hesap sahiplerine ödeneceği, ödemelerin peşin olarak yapılacağı, ilgili bankanın şubelerinde yapılacak duyurularda, mudilere ödenecek tutarlar, ödemenin yapılacağı yer ve ödeme gününün ilan edileceği vurgulandı. 
+     
+     KAYITLAR BULUNAMAZSA... 
+     Açıklamada, bankanın resmi muhasebe kayıtlarının hesap cüzdanları ile uyumlu olması gerektiğine işaret edilirken, öncelikle tasarruf sahiplerinin haklarının kaybolmaması için, banka kayıtları ile mutabakat sağlanmaya çalışılacağı kaydedildi. 
+     Tasarruf sahiplerinin haklarının tamamını alabilmeleri için gerekli tüm çalışmaların yapılacağı bildirilen açıklamada, mevduat sahiplerinin sorularına yönelik şu bilgiler verildi 
+     -Bankanın fona alınış tarihi itibarıyla tüm hesaplar dondurulmuştur. Bu çerçevede ödenecek faizde, en son gerçekleşmiş vade tarihi ile Fona alınma arasındaki süre için, bankanın bankacılık işlemleri yapma izninin kaldırıldığı tarih itibarıyla, mevduat toplamları en yüksek 5 bankaca uygulanan faiz oranlarının ortalaması üzerinden hesaplanacak faiz tutarı geçerli olacak. 
+     -Fona devir tarihinden sonrası için faiz ödenmesi söz konusu değildir. 
+     -İflasın gerçekleşmesi halinde, KMSF'nin Banka'ya el koyma tarihinden ödemenin yapılacağı tarihe kadar geçen sürede oluşan faiz kayıpları, iflas masasından talep edilebilecek. 
+     -Döviz tevdiat hesapları bankanın bankacılık yapma yetkisinin kaldırıldığı tarihteki Merkez Bankası döviz alış kuru üzerinden TL olarak yapılacak. 
+     -TMSF'ce, İmar Bank Off-Shore Ltd.'de mevduatı olanlara sigorta kapsamında ödeme yapması mümkün değil. 
+     
+     HAZİNE BONOLORI, TAHVİL VE REPOR HESAPLARI 
+     -Hazine bonoları ve repo hesaplarına ilişkin olarak, Hazine bonosunun veya repo hesabı karşılığındaki menkul kıymetin bankanın emanetteki kıymetlerinde mevcut olup-olmamasına göre işlem tesis edilmesi gerekiyor. Bankanın lisansının iptal edildiği tarihten önce vadesi dolmuş olup da bedeli yatırımcıya ödenmemiş tutarlar, vade dolduğunda bankanın yapmış olduğu işleme bağlı olarak değerlendirilecek. 
+     -Banka vade sonunda yetirimcisinin parasını vadesiz hesabına yatırmış ama fiziken ödeyememiş ise bu tutar mevduat kapsamında değerlendirilecek. Vade sonunda menkulung geri alımı bankaca gerçekleştirilmiş ancak tutar hesap sahibine ödenmemiş ise, iflas masası tarafından ilgili mevzuatın öngördüğü sıraya göre nakit durumuna göre ödenecek. 
+     -Açığa repo yapılması ile hazine bonolarının karşılığı olmaması halinde, hak sahiplerine herhangi bir ödeme yapılmayacak, bu alacaklar iflas masası tarafından ilgili mevzuatın öngördüğü sıraya göre nakit durumuna göre ödenebilecek. 
+     -Açığa satış durumu ile karşı karşıya kalan tasarruf sahiplerinin ise iflas masasına alacak kaydı yaptırmaları gerekecek. 
+     -Hazine bonolarının faizi, bononun üzerinde belirlenmiş miktardır. Bu konuda Kurumun bir müdahalesi ve katkısı olmayacak. 
+     -İmar Bankası'ndan bir başka bankaya EFT yapılması durumunda İmar Bankası kayıtlarının incelenmesinden sonra durum netleşecek. 
+     
+     TEMİNAT MEKTUPLARI VE BANKRA ÇALIŞANLARININ DURUMU 
+     -Bankanın gayrinakdi yükümlülükleri konusunda sorun yok. İflasın kesinleşmesi halinde, Bankanın verdiği teminat mektuplarının geçerliliği iflason kapanmasına kadar devam etmekle birlikte, bunların nakde çevrilmesi gerektiğinde iflas masasına alacak kaydı yaptırılması gerekiyor. 
+     -Banka personeli ve emekliler konusunda, SSK mevzuatı çerçevesinde kalan işlem sınırları içinde sorun ki bu durum, hemen hemen tüm erdişeleri giderecek nitelikte bir kapsama sahip yok. 
+     
+</TEXT>
+</DOC>

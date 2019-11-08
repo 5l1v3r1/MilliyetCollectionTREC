@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 316412 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/18/son/soneko16.html </URL>
+<DATE> 2005/02/18/ </DATE>
+<TIME> 10.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bankalar Birliği'nden dolandırıcılık uyarısı... 
+</HEADLINE>
+<TEXT>
+
+     Türkiye Bankalar Birliği TBB , banka müşterilerini, dolandırıcılık amaçlı gönderilen e-posta mesajlarına karşı uyardı. 
+     TBB'den yapılan açıklamada, son günlerde, YTL'ye geçiş sürecini fırsat bilerek, banka müşterilerine bankaların logo ve isimlerini içeren çeşitli içeriklerde e-posta mesajları gönderildiği belirtildi. 
+     Bu mesajlarda, bazı bankacılık işlemlerinin ücretsiz ve hızlı bir şekilde gerçekleştirilmesi için müşterilerden, kredi kartı şifre ve numaraları, CVC2 numaraları, internet şubesi şifre ve parolaları, anne kızlık soyadı, nüfus bilgileri gibi gizli ve özel müşteri bilgilerinin, ekte bulunan linkte yer alan tablonun doldurulması suretiyle kendilerine gönderilmesinin istendiği kaydedilen açıklamada, bu mesajların görüntüsünün ve kullanılan söylemin, bunların bankalar tarafından gönderildiği izlenimi verdiğine işaret edildi. 
+     Banka müşterilerinin dolandırılması niyet ve amacıyla hazırlanan bu mesajları gönderen kişi ya da kişilerin yakalanması için bankalar tarafından hukuki süreç başlatıldığı vurgulanan açıklamada, şöyle denildi 
+     ''Dikkat edilmesi gereken en önemli husus, bankaların elektronik postalar aracılığıyla hiçbir şekilde müşterilerine ait bilgileri talep etmediği ve bu yollarla sistem veya veri güncellemesi yapmadığıdır. 
+     Konuyla ilgili olarak bankaların internet sitelerindeki güvenlikle ilgili açıklamaların dikkatle okunması ve uygulanması tavsiye edilmektedir. Müşterilerin kendilerine gönderilen elektronik postalarda talep edilen bilgileri kesinlikle doldurmaması, olası dolandırıcılık eylemlerine maruz kalınmaması için büyük önem arz etmektedir.' 
+
+     
+</TEXT>
+</DOC>

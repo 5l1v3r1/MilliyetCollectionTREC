@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 399058 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/29/son/sontur15.html </URL>
+<DATE> 2005/11/29/ </DATE>
+<TIME> 12.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kayıt dışı cep telefonları yönetmeliğinde değişiklik... 
+</HEADLINE>
+<TEXT>
+
+     Kayıt dışı cep telefonu sahipleri, başvuru süresinde yurtdışında bulunmaları, tedavi görmeleri, cezaevinde olmaları gibi mücbir sebeplerin yanı sıra teknik yetersizlikler nedeniyle kayıt yaptıramamaları halinde, durumlarını belgelendirmek şartıyla 5 YTL karşılığında cihazlarını kaydettirebilecekler. 
+     Telekomünikasyon Kurumu’nun, Elektronik Kimlik Bilgisini Haiz Cihazlara Dair Yönetmelikte Değişiklik Yapan Yönetmeliği Resmi Gazete’nin bugünkü sayısında yayımlandı. 
+     Yönetmelik, eski yönetmelikteki hükümlere, kanunun yürürlüğe girdiği 13 Temmuz 2005 tarihinden sonra satın alınan cihazları da ekleyerek, bu cihazların faturalarıyla birlikte kayıt altına alınabileceğini hükme bağlıyor. 
+     Yönetmelik, işletmecilerin, kayıt dışı cep telefonlarına, eski yönetmeliğin yayımından itibaren 15 gün içinde en az iki defa kısa mesaj göndermesi zorunluluğunu da kaldırdı. 
+     Kanunun yürürlük tarihi öncesinde Telekomünikasyon Kurumu kayıtlarında yer almadığı belirlenen elektronik kimlik bilgisini haiz cihazların sahipleri, başvuru süresinde yurtdışında bulunmaları, tedavi görmeleri, cezaevinde bulunmaları gibi mücbir sebeplerle kayıtlarını yaptıramamaları halinde, durumlarını belgelendirerek 5 YTL karşılığında cihazlarını beyaz listeye kaydettirebilecekler. 
+     Elektronik kimlik bilgisi değiştirilmiş cihaz kullanıcılarından Kurumun belirleyeceği teknik yetersizliklerden dolayı başvuru süresini geçirenlerin de 5 YTL ödemeleri halinde elektronik haberleşme şebekesi bağlantıları açılacak. 
+     Kurum kayıtlarında yer almadığı belirlenen ve gönderilen kısa mesajı gösterme özelliği olmayan alarm, araç takip sistemleri ve benzeri GSM terminal sahiplerinden veya kullanıcılarından başvuru süresini geçirenler aynı miktarı ödeyerek haberleşme hizmetinden yararlanabilecekler. 
+     
+</TEXT>
+</DOC>

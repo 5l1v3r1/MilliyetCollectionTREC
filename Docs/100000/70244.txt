@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> 70244 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/03/01/son/soneko39.html </URL>
+<DATE> 2002/03/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Para piyasalarında günün özeti 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası İMKB Ulusal 100 Endeksi günü yüzde 3,76 yükselişle tamamladı. 
+     İMKB Ulusal 100 Endeksi, günlük bazda 415,19 puan artarak, 11.470,86 puana çıktı. 
+     İlk seansta 256,10 puan artışla 11.311,77 puandan kapanan Endeks, ikinci seansta da 159,09 puan yükseldi. Hisse senetlerinin 2. seanstaki değer artışı yüzde 1,41 oldu. 
+     Borsa'da günlük işlem hacmi ise 319 trilyon 396 milyar 265 milyon lira olarak gerçekleşti. 
+     
+     Dolar düştü 
+     Merkez Bankası doların bugünkü efektif kurunu alışta 1 milyon 382 bin 2 lira satışta ise 1 milyon 391 bin 724 lira olarak açıkladı. 
+     Böylece Merkez Bankası'nın dün açıkladığı kurlara göre, dolar alışta 3 bin 79 lira, satışta ise 3 bin 101 lira düştü. 
+     Kapalıçarşı'da dün 1 milyon 394 bin liradan kapanan dolar, güne 1 milyon 395 bin liradan, 1 milyon 206 bin liradan kapanan Euro da 1 milyon 210 bin liradan başladı. 
+     Piyasa kapanışında dolar satış fiyatı düne göre değişmeyerek 1 milyon 394 bin lirada kaldı. Euro'nun satış fiyatı ise 5 bin lira artarak 1 milyon 211 bin lira oldu. 
+     
+     Bono ve repo faizleri 
+     İstanbul Menkul Kıymetler Borsası İMKB Tahvil ve Bono Piyasası Repo Pazarı'nda 3 günlük faiz ortalama 57,06'dan kapandı. 
+     İMKB Tahvil ve Bono Piyasası verilerine göre, 3 günlük faizde en düşük oran yüzde 56,00, en yüksek oran ise yüzde 57,20 olarak belirlendi. 
+     Bankalararası TL interbankında da gecelik faiz oranı yüzde 57,00'den gerçekleşti. 
+     İstanbul Menkul Kıymetler Borsası İMKB tahvil ve bono piyasasında 8 Mayıs 2002 vadeli, bugün valörlü bononun basit getirisi yüzde 51,00, bileşik getirisi yüzde 62,78 olarak belirlendi. 
+     Bu bononun düne göre kaybı yüzde 1,01 olarak gerçekleşti. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

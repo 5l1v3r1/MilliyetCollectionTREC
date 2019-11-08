@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 239058 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/11/son/soneko37.html </URL>
+<DATE> 2004/05/11/ </DATE>
+<TIME> 15.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+MB Reel Kesim Güven Endeksi Nisan'da yüzde 2.1 arttı 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası tarafından düzenlenen İktisadi Yönelim Anketi Reel Kesim Güven Endeksi MBRKGE , Nisan ayında bir önceki aya göre yüzde 2.1 oranında artarak 110.3 seviyesine ulaştı. 
+     Merkez Bankası, Reel Kesim Güven Endeksi Nisan ayı genel değerlendirme sonuçlarını açıkladı. 
+     Buna göre, Mart ayında yükselişe geçen endeks, Nisan ayında da bu eğilimini sürdürerek, yüzde 2.1 oranında artarak 110.3 seviyesine ulaştı. Endeks, 2004 yılının Nisan ayında geçen yılın aynı dönemine göre yüzde 6.4 arttı. 2003 yılının Nisan ayında endeks 103.7 idi. 
+     Ekonomik faaliyetlerdeki dönüş noktalarını öncüleme özelliğine de sahip olan endeks, önümüzdeki dönemlerde sanayi üretim endeksi artış eğiliminin devam edeceğine işaret etti. 
+     Endeksi oluşturan anket sorularına ait yayılma endeksleri Mart ayına kıyasla incelendiğinde, iç pazara satılan mal hacmi eğilimi yüzde 9.2 oranındaki artışla en fazla yükselen kalem olurken, bu artışı toplam sipariş eğiliminde yüzde 5.5 oranındaki yükseliş takip etti. 
+     Ancak her iki kalemde görülen artışların bir kısmının mevsimsel etkilerden kaynaklandığının söylenebileceği ifade edildi. 
+     Diğer alt kalemlerden yatırım harcaması beklentisi, Mart ayında başladığı yükseliş eğilimine Nisan ayında da devam etti ve yüzde 2.6 oranında arttı. 
+     Mamul mal stok eğilimindeki azalmanın ise mevsimsel etkilerden kaynaklandığı ve bu etkilerden arındırıldığında bir miktar artış olduğu gözlendi. 
+     Genel gidişat ve hammadde stok eğilimleri ile ihracat imkanları beklentisinde ise sınırlı miktarda artışlar gözlendi. 
+     Öte yandan toplam istihdam ile üretim hacmi beklentileri endeksi azaltıcı yönde etkileyen kalemler oldu. 
+     Bir önceki yılın Nisan ayına göre karşılaştırma yapıldığında, ihracat imkanları ve toplam istihdam beklentileri ile mamul mal stok eğilimi haricindeki tüm kalemlerin geçen seneki seviyelerinin üstünde değerler aldığı görüldü. 
+     Güven endeksi, üst düzey yöneticilerin bugünkü iş durumlarını nasıl değerlendirdiklerini ve geleceğe ilişkin beklentilerinin bir fonksiyonu olan toplulaştırılmış gösterge niteliğini taşıyor. 
+     Bu kapsamda 100 değeri, ekonomik faaliyetlere ilişkin istikrarlı görünümü ifade ederken, bunun altındaki değer ''güvenin azaldığı'', üstündeki değer ise ''güvenin arttığı'' anlamına geliyor. 
+     
+</TEXT>
+</DOC>

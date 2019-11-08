@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> 202429 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/16/son/sondun12.html </URL>
+<DATE> 2003/12/16/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Işığı durdurdular 
+</HEADLINE>
+<TEXT>
+
+     Amerikalı fizikçiler, saniyenin kısa bir dilimi için de olsa, ışığı durdurmayı başardıklarını açıkladı. Işık partiküllerinin hareketinin kontrol edilmesi, kusursuz olacağı söylenen kuantum bilgisayarların yolunun açıldığına işaret ediyor. Işık normalde saniyede 299 bin km. hızla hareket ediyor. Ancak cam gibi bazı materyallerin içinden geçerken hızı kesiliyor. Harvard Üniversitesi araştırmacıları, cam silindir içinde ışığın bir duraksama yaşamasını ve sonra yoluna devam etmesini sağladı. İlk kez ışık, enerjisiyle birlikte saklanabilmiş oldu. 
+     
+</TEXT>
+</DOC>

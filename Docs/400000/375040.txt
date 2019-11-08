@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 375040 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/02/son/soneko01.html </URL>
+<DATE> 2005/09/02/ </DATE>
+<TIME> 01.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası Wall Street, düşüşle başladığı günün ilk seansından sonra son seansı da düşüşle kapadı. 
+     Wall Street’in Dow Jones Sanayi Endeksi, 22.92 puan düşüşle binde 2.2 10,458.68 puandan kapandı. 
+     Nasdaq Bileşik Teknoloji Endeksi de 4.13 puan azalışla binde 1.9 
+     2,147.96 puandan noktalandı. 
+     Borsanın düşüşünde, yatırımcıların yön belirlemek için imalat sanayisinin durumunu gösteren raporun açıklanmasını beklemesi ve Katrina kasırgasının benzin ve dizel yakıtı fiyatlarını yükseltişini görmek için beklemesi etkili oldu. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 155043 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/07/son/sondun13.html </URL>
+<DATE> 2003/05/07/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternette sahte uyarı salgını.. 
+</HEADLINE>
+<TEXT>
+
+     İnternette sahte uyarı salgını başladığı belirlendi. 
+     Son günlerde özellikle Amerika'da bilgisayarları başına oturanlar, ''Dikkatli olun SARS virüsü bazı büyük Amerikan şehirlerindeki lokanta ve süpermarket işçilerine sıçramış bulunuyor'' gibi kaygı verici mesajlarla karşılaşıyorlar. 
+     Diğer bazı mesajlarda ise, ''mektupla gönderilen eşantiyon parfümleri koklayan kadınların öldüğü, hükümetin yeni bir terör saldırısından şüphelenmekle birlikte halk arasında panik yaratmamak için bunu açıklamadığı'' ileri sürülüyor. 
+     Başka elektronik postalarda ise ''çocukların kullandığı güneş yağlarının körlüğe sebep olduğu ya da muzlarda et yiyen bakteri bulunduğu'' gibi iddialar yer alıyor. 
+     Konuyla ilgili bilgi veren uzmanlar, bazı kişilerin yanlış bilgi yoluyla çevreye korku saçmak istediğine dikkat çekiyor ve her elektronik postaya inanılmaması gerektiğini söylüyorlar. Uzmanlar bu postalardan hangilerinin sahte olabileceği konusunda şu ipuçlarını da veriyor 
+     ''Size de bu tür bir uyarı mesajı yollanmışsa, öncelikle mesajı kimin yazdığına bakın. Yazan ve yollayan aynı kişi değilse, işin içinde iş var demektir. 
+     Mesajda çok miktarda ünlem işareti, noktalar ya da büyük harf kullanılmışsa, bu, mesajın bilgi vermekten çok korku yaratmayı hedeflediği anlamına gelir. 
+     Mesajlarda kullanılan teknik terimler ya da hükmedici ifadeler sizi yanıltmasın. Referans için başka kaynaklara da başvurun. Konu hakkında daha ayrıntılı bilgi almak için web sitelerini dolaşın. 
+     Mesajın sahte olduğunu saptarsanız, gönderen kişiyi uyarabilirsiniz. Ama her şeyden önce, ''Bu mesajı tanıdığınız herkese gönderin'' gibi emirlere kulak asmayın. Aksi halde siz de yanlış bir söylentinin yayılmasına aracılık etmiş olursunuz.'' 
+     
+</TEXT>
+</DOC>

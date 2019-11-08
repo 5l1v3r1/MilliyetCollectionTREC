@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 72013 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/03/11/son/sontur08.html </URL>
+<DATE> 2002/03/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dikkat.. Bilgisayarınıza gizlenmiş casus var... 
+</HEADLINE>
+<TEXT>
+
+     İnternet üzerinden tamamı ya da bir bölümü, süresiz ya da süreli olarak yüklenebilen programlar içine gizlenmiş casus SpyWare programlar, kullanıcı hakkındaki bilgileri toplayarak, belirlenmiş adreslere gönderiyor. 
+     Yazılım geliştiren firmaların bazıları, ürünlerinin kullanım yerlerini araştırmak ve yeni eklentiler yapmak için casus program kullanırken, bazı firmalar da söz konusu ek programla elde ettiği bilgileri, bazı özel ya da özerk kurumlara gönderiyor. 
+     Özellikle internet üzerinden yüklenebilen programlarda yer alan gizli yazılımların, antivirüs programları tarafından farkedilmesi mümkün değil. Çünkü, antivirüs programları ağırlıklı olarak bilgisayarlardaki .dat, .exe, .bat, .com ve .vbs uzantılı dosyaları incelerken, casus programların uzantılarını, program yazarları istedikleri herhangi bir şekilde kaydedebiliyorlar. 
+     İnternet analistleri, casus programların internet üzerinden indirilebilen programlarda ağırlıklı olarak bulunması konusunda, şu görüşleri belirtiyorlar 
+     ''İnternetin varlığı şart. Çünkü casus program gerekli bilgileri topladıktan sonra, bunu, kullanıcı internete tekrar bağlandığında küçük parçalar halinde ve gizlice gönderiyor. 
+     Bunu anlamanın yollarından biri, internete girdikten sonra hiçbir klavye ya da mouse hareketi yapılmadığı halde bilgisayarın disklerinin hızlı bir şekilde çalışması. Bu, komut vermeden bilgisayarın bir şeyleri okuduğu, belki de gönderdiği anlamına gelebilir. 
+     Öte yandan, genellikle bilgisayarın sağ alt köşesinde yer alan ve internetin hızını gösteren ikonun da kendiliğinden yaptığı hareket, bilgisayarınızın, sizin isteminiz dışında internet ortamı ile haberleştiği anlamına gelebilir.'' Almanya ordusu, geçen yıllarda Microsoft NetMeeting programında casus yazılım bulunduğu ve görüşmelerin üçüncü kişiler tarafından izlenebildiğini ileri sürerek, ordu içinde bu programın kullanımını yasaklamış ve Alman yazılımcılara yeni bir program yazdırmıştı. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

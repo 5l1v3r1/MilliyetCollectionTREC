@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 401042 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/06/son/soneko52.html </URL>
+<DATE> 2005/12/06/ </DATE>
+<TIME> 18.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+GSM operatörlerinin "kayıt" çalışmaları sorunsuz sürüyor... 
+</HEADLINE>
+<TEXT>
+
+     Turkcell, Avea ve Telsim, kısa mesaj yoluyla abonelerin kayıt altına alınmamış cep telefonlarıyla ilgili çalışmaların sorunsuz devam ettiğini duyurdu. 
+     Turkcell, kayıt dışı ve klonlanmış telefonların kayıt altına alınmasıyla ilgili abonelerine bugün de bilgilendirme mesajı göndermeye devam ediyor. 
+     Aboneler ağırlıklı olarak hem kısa mesaj göndermeyi hem de Müşteri Hizmetleri'ni aramayı tercih ettiği için bu noktada beklenilen bir yoğunluk yaşandığı belirtilirken, çalışmaların olağan haliyle devam ettiği kaydedildi. 
+     Avea'dan yapılan açıklamada da, SMS gönderimi ve uyarılara ilişkin hiçbir sıkıntının yaşanmadığı duyuruldu. 
+     Sistemin öngörüldüğü gibi problem yaşanmadan devam ettiği ve abonelerin, seri numaralarının durumuna ilişkin bilgilendirilmesinin sürdüğü kaydedildi. 
+     Cihazların kayıt altına alınmaya devam edildiği belirtilirken, çalışmanın sistematik bir şekilde ilerlediği ve sürecin kontrol altında olduğu duyuruldu. 
+     Telsim, IMEI bildirim sürecinde abonelerine kolaylık sağlamak amacıyla ücretsiz olarak 7046 servis numarasını arayan veya bu numaraya boş SMS gönderenlere ait cep telefonlarının yasal olarak kayıtlı olup olmadığını tespit etti. 
+     Telsim'in çalışmalarında, bu servis dolayısıyla herhangi bir yoğunluk veya aksama yaşanmadığı bildirildi. 
+     
+</TEXT>
+</DOC>

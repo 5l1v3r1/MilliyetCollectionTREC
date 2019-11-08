@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 369270 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/12/son/soneko37.html </URL>
+<DATE> 2005/08/12/ </DATE>
+<TIME> 18.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hisse senetleri geçen haftada yüzde 5.91 oranında değer kaybetti... 
+</HEADLINE>
+<TEXT>
+
+     İMKB'de işlem gören hisse senetleri haftalık bazda ortalama yüzde 5.91 oranında değer yitirdi. 
+     İstanbul Menkul Kıymetler Borsası İMKB Bileşik Endeksi, haftalık bazda 1,769.51 puan düşerek 29,945.44 puandan 28,175.93 puana geriledi. 
+     24 ayar külçe altının gram satış fiyatı yüzde 4.30, Cumhuriyet altınının satış fiyatı yüzde 3.98 oranında değer kazandı. 
+     Önceki hafta sonu 18.60 YTL olan 24 ayar külçe altının gram satış fiyatı 19.40 YTL'ye, 125.50 YTL olan Cumhuriyet altınının satış fiyatı 130.50 YTL'ye yükseldi. 
+     ABD Doları'nın bugün kapanışta satış fiyatı haftalık bazda yüzde 2.28 oranında artarak 1.3450 YTL'ye, Avronunki yüzde 3.09 oranında artarak 1.6700 YTL'ye çıktı. 
+     Yatırım fonlarına katılma belgeleri geçen hafta ortalama yüzde 0.26 oranında düşüş kaydetti. A tipi endeks haftalık bazda yüzde 1.86 gerilerken, B tipi endeks yüzde 0.16 arttı. 
+     İMKB Tahvil ve Bono Piyasası'nda, ağırlıklı ortalamalara göre çeşitli vadelerdeki bono ve tahvillerin haftalık net getirileri ise yüzde 0.24 ile yüzde 0.32 arasında gerçekleşti. 
+     Önde gelen ve değerlendirmeye alınan 10 kamu ve özel bankanın faiz oranlarına bakıldığında, mevduat faizinin haftalık net getirisi, bir yıllık mevduatta yüzde 0.28 ve 1 aylık mevduatta yüzde 0.25 oldu. 
+     Önceki hafta sonunda ortalama faizleri yüzde 14.4 dolayında olan haftalık reponun net getirisi de yüzde 0.21 olarak gerçekleşti. 
+     
+</TEXT>
+</DOC>

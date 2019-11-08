@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 322887 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/11/son/soneko52.html </URL>
+<DATE> 2005/03/11/ </DATE>
+<TIME> 16.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası kararsız açıldı... 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası haftanın son işlem gününe kararsız başladı. 
+     Borsada ilk dakikalar içinde Dow Jones sanayi endeksi, dünkü kapanışına göre 7.69 puan gerileyerek 10,843.82 puana inerken, 3.24 puan yükselen Nasdaq teknoloji endeksi 2,062.96 puana çıktı. 
+     ABD'de Ocak ayı dış ticaret açığının 58.3 milyar dolar olarak açıklanması, piyasalarda karamsarlık yarattı. Beklentilerin üzerinde gelen açık, Dow Jones endeksini açılışta geriletti. İşlemci üreticisi Intel'in kar tahminini yükseltmesi ise teknoloji endeksi Nasdaq'ı olumlu etkiledi. 
+     
+</TEXT>
+</DOC>

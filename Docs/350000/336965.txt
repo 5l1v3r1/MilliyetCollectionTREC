@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 336965 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/26/son/sondun51.html </URL>
+<DATE> 2005/04/26/ </DATE>
+<TIME> 20.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilim sınır tanımıyor... "Hidrojen süngeri" yapıldı 
+</HEADLINE>
+<TEXT>
+
+     İsviçreli araştırmacılar, bol miktarda hidrojeni emebilen madeni alaşım ürettiler. 
+     Cenevre'deki Bilimsel Araştırma Fonu tarafından yapılan açıklamaya göre, ''hidrojen süngeri'' olarak tanımlanan alaşım, bu ekolojik yakıtın depolanmasını kolaylaştıracak. 
+     Lantan, magnezyum ve nikelden oluşan alaşımın, gerek basınç altında gerekse ortam sıcaklığındayken hidrojeni depolayabildiği belirtildi. Elektriksel özelliklere de sahip olan yeni ürünün, fazla hidrojen yüklenmediğinde iletken görevi gördüğü, soğurduğu hidrojen miktarı artınca yalıtkan hale geldiği kaydedildi. 
+     Bu özelliklerin, yeni alaşımın mükemmel bir hidrojen dedektörü olarak kullanılmasını sağlayabileceği bildirildi. Alaşımın, ilerde yakıt pillerinde de kullanılabileceği kaydedildi. 
+     
+</TEXT>
+</DOC>

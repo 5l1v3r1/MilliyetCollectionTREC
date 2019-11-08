@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 224385 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/22/yasam/yas13.html </URL>
+<DATE> 2004/03/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Artık yaşlılara robotlar bakacak 
+</HEADLINE>
+<TEXT>
+
+      DIŞ HABERLER 
+   
+   ABD'li bilimadamları, yaşlılara bakmak üzere programlanmış 'bakıcı robot' geliştirdi. Pittsburgh'daki Carnegie Mellon Üniversitesi'nde geliştirilen 'Pearl' İnci adlı robot, radar ve hafızasına yüklenen iç mek n haritaları sayesinde yaşlıyı takip ederek, nerede olduğunu belirliyor. Günün her saatinde yapılması gerekenleri hafızasında tutan robot, yaşlıya, ilaçlarını içmesini, yemek yemesini hatırlatıyor ve ev içinde dolaşmasına yardımcı oluyor. Kadın sesi çıkaran ve 100 bin dolara mal olan 'Pearl birkaç yıl sonra piyasaya sunulacak. 
+   
+   
+</TEXT>
+</DOC>

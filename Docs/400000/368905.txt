@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 368905 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/11/son/soneko01.html </URL>
+<DATE> 2005/08/11/ </DATE>
+<TIME> 01.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düşüşle kapandı... 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Borsası’nda Dow Jones ve Nasdaq endeksleri günü düşüşle kapattı. 
+     Borsanın temel göstergesi Dow Jones 21,26 puan kayıpla 10.594,41 puana gerilerken, teknoloji endeksi Nasdaq 16,38 düşüşle 2.157,81 puana indi. 
+     
+</TEXT>
+</DOC>

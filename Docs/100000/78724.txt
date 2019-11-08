@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 78724 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/04/16/son/sontur04.html </URL>
+<DATE> 2002/04/16/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dikkat, e-card diye gelen virüsler ana belleği siliyor... 
+</HEADLINE>
+<TEXT>
+
+     Kaynağı belirlenemeyen yeni bir virüsün hızla yayılmaya başladığı bilidirildi. Yeni virüs, anabellek içindeki tüm bilgileri sildikten sonra kullanılamaz hale getiriyor. 
+     İnternette yer alan habere göre, bilişim çevrelerince ''e-Card Virus'' olarak adlandırılan virüs, ilk olarak anti-virüs yazılım şirketi McAfee tarafından tespit edildi. 
+     ''A virtual card for you'' başlığıyla yayılan virüsün, kullanıcılar tarafından kendilerine elektronik kart e-card geldiği düşüncesiyle kolayca açıldığı ve bilgisayara girdiği belirtildi. 
+     Virüs, anabellek içerisindeki fonksiyon verilerini de sildiği için bilgisayarı kullanılamaz hale getiriyor. 
+     Uzmanlar, kullanıcıları, ''a virtual card for you'' başlıklı postalara şüphe ile yaklaşmalarını ve gerekirse silmeleri konusunda uyarıyorlar. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

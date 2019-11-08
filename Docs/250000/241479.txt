@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 241479 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/20/son/sontur05.html </URL>
+<DATE> 2004/05/20/ </DATE>
+<TIME> 10.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+NATO'ya Türk teknolojisi... TÜBİTAK, kriptoloji devleriyle yarışıyor 
+</HEADLINE>
+<TEXT>
+
+     İleri teknoloji üreten ülkeler arasında artık Türkiye de var. TÜBİTAK, NATO'nun ''çok gizli'' haberleşmesinde güvenle kullanabileceği kripto cihazını üreterek, açılan uluslararası ihalede dünyanın önde gelen 2 ülkesiyle kıyasıya yarış veriyor. NATO karargahlarındaki testlerden başarıyla geçen TÜBİTAK'ın cihazı ihaleyi kazanırsa, artık NATO ülkeleri ISDN Kripto BRI cihazıyla haberleşecek. 
+     TÜBİTAK'ın bilgi güvenliği için ileri elektronik teknoloji geliştirdiği Ulusal Elektronik ve Kriptoloji Araştırma Enstitüsü UEKAE , modern laboratuvarlarını ilk kez Anadolu Ajansı'na açarak, tanıttı. 
+     UEKAE Müdürü Önder Yetiş, Türkiye'yi, yaklaşık 50 yıldır kriptoloji teknolojisi üzerinde çalışan ve bu alanda söz sahibi ülkelerle yarışabilir konuma getiren çalışmaları hakkında A.A'ya bilgi verdi. 
+     Yetiş, bugünün en önde gelen teknolojileri arasında sayılan kriptoloji konusundaki çalışmalara 1993 yılında başladıklarını ve Genelkurmay Başkanlığı için yürüttükleri bir projenin ardından ileri adımlar attıklarını belirtti. 
+     Enstitüde geliştirdikleri sistemlerin büyük kısmının bilgi güvenliği ile ilgili olduğunu vurgulayan Yetiş, Türk Silahlı Kuvvetleri ve ihtiyacı olan özel kurumlar için bilgi güvenliği cihazları geliştirdiklerini kaydetti. 
+     Enstitüde artık çok ciddi bir teknolojik birikim oluştuğunu ifade eden Yetiş, ''Bütün teknolojiyi kendimiz geliştirip üretim safhasına kadar getiriyoruz. Teknolojik bilgi birikimiz şu anda çok üst seviyede. Kesinlikle dünyanın 10 ülkesi içindeyiz ve kriptoloji konusunda dünyanın ilk 10 ülkesinden birisiyiz'' dedi. 
+     
+     KRİPTO CİHAZI TESTLERDEN BAŞARIYLA GEÇTİ 
+     Yetiş, bilgi güvenliği ile ilgili ürettikleri 2 algoritmanın kripto ''NATO algoritması'' olarak kabul edildiğini, NATO Askeri Komitesi tarafından onaylanarak tüm NATO'da kullanıldığını bildirdi. 
+     Bunun dışında, NATO Askeri Komitesi'nin, TÜBİTAK'ın geliştirdiği 3 kriptoloji cihazını da ''NATO cihazı'' olarak kabul ettiğini belirten Yetiş, ''Bunun anlamı şudur NATO, gizli bilgileri dahil, bilgi güvenliğini bu cihazlara emanet ediyor. Bu da bizim teknolojik olarak geldiğimiz noktayı gösteriyor'' diye konuştu. 
+     Yetiş, NATO'nun geniş bant haberleşme sistemlerinde kullanılmak üzere kripto cihazı geliştirilmesi için bir yarışma açtığını, yarışmaya katılarak istenilen niteliklere uygun cihazı geliştirdiklerini belirtti. Cihazın bir noktadan başka bir noktaya Tümleşik Hizmetler Sayısal Şebekesi'nde ISDN ses ve data iletiminde kriptolama işlevini yerine getirdiğini anlatan Yetiş, şöyle devam etti 
+     ''Cihazların Belçika'da NATO Karargahı'nda işlevsel testleri yapıldı. Testleri 3 ülke geçti. Bizimle birlikte testleri geçenler arasında, yıllardır bu alanda çalışan iletişim devleri İngilizler'in Marconi ve Almanlar'ın Rohde-Schwarz firmaları bulunuyor. Cihazlar ABD Pentagon'da bulunan SECAN denilen grubun güvenlik testlerinden de başarıyla geçtiler. Testlerin ardından NATO, bu cihazlar için ihale açtı ve ihaleye cihazları üreten 3 ülkeyi davet etti. Bu ihaleye biz de teklifimizi verdik. 
+     Sonuçlanma aşamasına gelen bu ihaleyi büyük bir ihtimalle kazanacağız. Beklentimiz bu yöndedir. Eğer ihaleyi kazanırsak NATO ülkeleri arasındaki haberleşme, geliştirdiğimiz ISDN Kripto BRI adını taşıyan kripto cihazlarıyla gerçekleştirilecek. Ayrıca bu kadar üst seviyede teknoloji içeren bir Türk cihazı ilk kez Avrupa'ya ihraç edilecek.'' 
+     
+     NATO'NUN TEKNOLOJİ GÜCÜ TÜRKİYE 
+     İhaleyi TÜBİTAK'ın kazanması halinde cihazı satışına başlanacağını ve cihazların en az 12 yıl boyunca NATO'nun haberleşmesinde kullanılacağını, bakım ve geliştirme işlemlerinin de TÜBİTAK tarafından yapılacağını vurgulayan Yetiş, ''Algoritması, cihazın tasarımı ve üretimi tamamen Türk teknolojisidir'' dedi. 
+     Yetiş, 2. Dünya Savaşı'ndan bu yana kripto cihazı üreten ülkelerle Türkiye'nin kıyasıya yarışmasının, Türkiye'nin bu alandaki teknolojide geldiği noktayı açık şekilde gösterdiğini, Türk mühendislerinin geliştirdiği teknolojiye artık herkesin güvendiğini kaydetti. 
+     TÜBİTAK UEKAE Müdürü Yetiş, NATO'ya test için 3 cihaz daha gönderdiklerini, bu cihazların da onay alması halinde Türkiye'nin NATO'da kullanılan 6 kripto cihazı ve 2 algoritması olmak üzere 8 ürünün bulunacağını belirtti. Önder Yetiş, ''Türkiye bu ürünleriyle NATO içinde ciddi bir teknolojik güç olacak'' diye konuştu. 
+     
+</TEXT>
+</DOC>

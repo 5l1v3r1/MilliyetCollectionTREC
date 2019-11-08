@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 202505 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/16/son/soneko42.html </URL>
+<DATE> 2003/12/16/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Para piyasalarında bugün... 
+</HEADLINE>
+<TEXT>
+
+     İMKB'de işlem gören hisse senetleri bugün ortalama yüzde 1.16 oranında değer yitirdi. 
+     Güne satıcılı başlayan ancak daha sonra endeks kağıtlarına gelen alımlarla toparlanarak 10.75 puanlık artışla 1. Seansı tamamlayan Borsa, ikinci seansın başında gelen alımlarla bir miktar daha yükseldi. Ardından gelen hızlı satışlar sonucunda 17,200 destek seviyesine gerileyen endeks bu seviyelerden kapanış yaptı. 
+     İstanbul Menkul Kıymetler Borsası İMKB Ulusal 100 endeksi, 1. seansta 10.75 puan ve yüzde 0.06 artışla 17,420.75 puandan kapandı. Endeks, 2. seansta 212.24 puan gerileyerek, günü 17,208.51 puandan tamamladı. 
+     Endekste günlük bazdaki kayıp 201.49 puan ve yüzde 1.61 olarak gerçekleşti. 
+     Hisse senetleri piyasasında günlük işlem hacmi 1 katrilyon 46 trilyon 450 milyar 395 milyon lira olarak belirlendi. 
+     
+     DOLAR 
+     Merkez Bankası, doların bugünkü efektif kurunu alışta 1 milyon 418 bin 50 lira, satışta ise 1 milyon 428 bin 26 lira olarak açıkladı. 
+     Böylece dolar, Merkez Bankası'nın dün açıkladığı kurlara göre, alışta 8 bin 942 lira, satışta ise 9 bin 5 lira geriledi. 
+     Kapalıçarşı'da dün 1 milyon 433 bin liradan kapanan dolar ile 1 milyon 763 bin liradan kapanan Euro aynı fiyatlardan güne başladı. 
+     Kapanışta, doların satış fiyatı 1 milyon 434 bin lira, Euro'nun satış fiyatı 1 milyon 767 bin lira oldu. 
+     
+     TAHVİL VE BONO PİYASASI 
+     İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda 26 Ocak 2005 vadeli, bugün valörlü tahvilin bileşik getirisi 0.49 puan geriledi. 
+     Bu kağıdın aynı gün valörlü işlemlerinin basit getirisi yüzde 27.66, bileşik getirisi yüzde 27.26 oldu. Dün bu kağıdın aynı gün valörlü işlemlerinde basit getiri yüzde 28.17'den, bileşik getiri yüzde 27.75'ten kapanmıştı. 
+     İMKB Tahvil ve Bono Piyasası Repo Pazarı'nda gecelik faiz de ortalama yüzde 26.00 oldu. 
+     
+</TEXT>
+</DOC>

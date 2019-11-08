@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 207014 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/07/son/sondun42.html </URL>
+<DATE> 2004/01/07/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Mars'a giden Beagle-2'den hala ses yok 
+</HEADLINE>
+<TEXT>
+
+     Avrupa Uzay Ajansı'nın AUA uzay aracı ''Mars Ekspresi'', Kızıl Gezegen'e inmek üzere fırlattığı Beagle-2'den sinyal alamadı. 
+     AUA'nın bilim müdürü David Southwood, Beagle-2'nin inmesi öngörülen yerin 315 kilometre üzerinde uçan Mars Ekspresi'nin, sonda aracından sinyal alamadığını söyledi. 
+     Southwood, ''Bugün Mars Ekspresi ile Beagle-2 arasında doğrudan iletişim için koşulların çok iyi olduğunu düşünüyorduk, ancak temas kuramadık. Fakat bu hikayenin sonu değil'' dedi. 
+     Beagle-2 Mars'ta kaybolsa bile, Mars Ekspresi, gezegende yaşam izleri olup olmadığını saptamak için deneylerini sürdürecek. 
+     Beagle-2, Mars'a inmek üzere, ''Mars Ekspresi''nden 19 Aralık'ta fırlatılmış, ancak 66 santimlik minik uydudan yüzeye indiğine dair sinyal alınamamıştı. 
+     Yetkililer, Beagle-2'nin büyük bir kratere inmiş olabileceğini, araçla bu nedenle iletişim kurulamıyor olabileceğini belirtmişlerdi. 
+     ''Mars Ekspresi'', kızıl gezegene doğru 400 milyon kilometre yol kat ettiği yolculuğuna, Haziran başında başlamıştı. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 372910 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/25/son/sonyas03.html </URL>
+<DATE> 2005/08/25/ </DATE>
+<TIME> 09.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Organ reddinde umut verici sonuç... 
+</HEADLINE>
+<TEXT>
+
+     Araştırmacılar, vücudun nakledilen yeni böbrekleri reddetmesini önlemede yeni bir molekül kullanarak umut verici sonuçlar elde etti. 
+     New England tıp dergisinin son sayısındaki makaleye göre, böbrek naklinden sonra kullanılan yeni molekül, nakledilen organın faaliyetlerini iyileştirdi. 
+     Doktorlar, organ reddini önleyebilmek için 30 yıldır "ciclosporine A" ya da "tacrolimus" adlı ilaçları kullanıyor, ancak bu ilaçların yan etkileri, bazen böbrek yetmezliğine bile yol açabiliyor. 
+     Bristol Myers Squibb laboratuvarlarında 218 hasta üzerinde bir yıl boyunca yürütülen deneyler, yeni molekülün böbrek fonksiyonlarını iyileştirdiğini gösterdi. Araştırmacılar, "belatacept" adını verdikleri yeni molekülün, ayrıca nakil böbreklerde fonksiyon bozukluğu baş göstermesini önemli ölçüde engellediğini belirlediler ve bu sonuçların, organ naklinden sonraki tedavi aşaması için umut verici olduğunu vurguladılar. 
+     
+</TEXT>
+</DOC>

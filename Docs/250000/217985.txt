@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 217985 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/26/son/soneko05.html </URL>
+<DATE> 2004/02/26/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Japonlar, Microsoft'un Tokyo'daki merkezini bastı 
+</HEADLINE>
+<TEXT>
+
+     Japonya'nın Adil Ticaret Komisyonu yetkilileri, tekel yasasını ihlal ettiği gerekçesiyle Microsoft'un Tokyo'daki genel merkezine baskın düzenlediler. 
+     Microsoft'un ofisinde, anti tekel yasasını ihlal edip etmediğine dair incelemelerde bulunan yetkililer, Komisyon uzmanlarının, Microsoft'un, Japon bilgisayar imalatçıları ile sözleşme yaparken, uygun olmayan sınırlayıcı koşullar eklediklerine dair şüphelerin bulunduğunu ifade ediyorlar. 
+     Microsoft'un, Windows XP işletim sistemine yönelik sözleşmelerde anti tekel yasasını ihlal edici sözleşme hükümleri koyduğu ileri sürülüyor. 
+     Microsoft, Windows işletim sistemindeki Media Player programının neden olduğu rekabet sorunu yüzünden Avrupa Birliği Komisyonu ile de müzakerelerde bulunuyor. 
+     
+</TEXT>
+</DOC>

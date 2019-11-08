@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 200000 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/05/son/soneko16.html </URL>
+<DATE> 2003/12/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı yüzde 0.19'luk artışla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi, önceki kapanışa göre 31.42 puan artışla 1. seansı 16,303.28 puandan tamamladı. 
+     1. seansta hisse senetlerinin ortalama değer artışı yüzde 0.19 olarak gerçekleşti. 
+     Dün 16,271.86 puan seviyesinden kapanan Borsa, bugün 1. seansa 29.16 puan artışla 16,301.02 puan seviyesinde başladı. İlk yarıyı 16,292.27 puandan geçen endeks, seans içinde en düşük 16,242.60, en yüksek 16,360.20 puanı gördü. 
+     Seans kapanışında mali endeks 2.71 puan artışla 21,888.84 puana, sanayi endeksi 80.54 puan artışla 14,746.98 puana yükselirken, hizmetler endeksi 11.76 puan kayıpla 8.748.44 puana geriledi. 
+     Böylece, önceki kapanışa göre mali grup hisseler ortalama yüzde 0.01, sanayi grubu hisseler ortalama yüzde 0.55 oranında değer kazanırken, hizmetler grubu hisseler ortalama yüzde 0.13 oranında değer kaybetti. 
+     1. seansta işlem gören toplam 285 hisse senedinden 153'ü değer kazanırken, 62 hisse senedi değer kaybetti, 70 hissenin fiyatında değişiklik olmadı. 
+     Seansta, 227 trilyon 732 milyar 76 milyon liralık işlem hacmi oluştu. 
+     1. seansta, Doğan Holding, Sabancı Holding, Yapı Kredi Bankası, Koç Holding ve İş Bankası C en yoğun işlem gören hisseler oldu. 
+     Borsa uzmanları, endeksin, hafta başında gerçekleştirdiği hızlı yükselişin ardından yatay seyre girdiğini belirterek, dün yüksek gerçekleşen işlem hacmiyle birlikte satış gelmesinin, endeksin bir süre yatay seyre girebileceğini ve geri çekilmenin devam edebileceğini gösterdiğini kaydediyor. 
+     Endeksteki 16,200 seviyesinin önemli bir destek konumunda bulunduğuna işaret eden uzmanlar, bu seviyenin kırılması durumunda 16,000 ve 15,700 puanın destek olarak karşımıza çıkacağını savunuyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 148599 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/04/09/son/soneko21.html </URL>
+<DATE> 2003/04/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+MB Reel Kesim Güven Endeksi düşüş gösterdi... 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası tarafından düzenlenen Reel Kesim Güven Endeksi MBRKGE bu yılın Mart ayında, geçen yılın aynı dönemine göre yüzde 13.1, şubat ayı ile kıyaslandığında ise yüzde 3.8 oranında azalış gösterdi. 
+     Endekste, 2002 yılı Aralık ayında başlayan düşüş eğilimi, Irak savaşının da etkisiyle, 2003 yılı Mart ayında da devam ederek 90 seviyesine geriledi. 
+     Söz konusu değer, geçen yılın Mart ayında 103.6, bu yılın Şubat ayında ise 93.6 düzeyindeydi. 
+     Güven endeksi, üst düzey yöneticilerin bugünkü iş durumlarını nasıl değerlendirdiklerini ve geleceğe ilişkin beklentilerinin bir fonksiyonu olan toplulaştırılmış gösterge niteliğini taşıyor. 
+     Bu kapsamda 100 değeri, ekonomik faaliyetlere ilişkin istikrarlı görünümü ifade ederken, bunun altındaki değer ''güvenin azaldığı'', üstündeki değer ise ''güvenin arttığı'' anlamına geliyor. 
+     Reel kesim güven endeksi Mart ayı sonuçlarının yer aldığı Merkez Bankası açıklamasında, üretim hacmi beklentisi dışındaki tüm alt kalemlere ait yayılma endekslerinin, 100 değerinin altında olduğunun gözlendiği belirtildi. 
+     Endeksdeki azalışa ''genel gidişat, yatırım harcaması, toplam istihdam, toplam sipariş ve iç pazara satılan mal hacmi'' kalemlerinde, sırasıyla yüzde 7.4, yüzde 6.2, yüzde 6, yüzde 4.6 ve yüzde 3.2 oranlarında gerçekleşen düşüşlerin etkili olduğu kaydedildi. 
+     Dış talebe ilişkin bir gösterge olan ihracat imkanlarında ise katılımcılar bir önceki aya göre değişiklik beklemediği bildirildi. 
+     Mamul mal stok miktarında görülen yüzde 7.3 oranındaki artışın endekse etkisi düşüş yönünde olurken, üretim hacmi beklentisi ile hammadde stok eğiliminde bir önceki aya göre önemli bir değişiklik gözlenmediği ifade edildi. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

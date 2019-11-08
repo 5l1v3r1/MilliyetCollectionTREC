@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 204457 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/26/ekonomi/eko01.html </URL>
+<DATE> 2003/12/26/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Serbestleşme olacak ama öldürücü tarife yok 
+</HEADLINE>
+<TEXT>
+
+   Telekomünikasyon Kurumu Başkanı Ömer Arasıl, Türk Telekom'un rakiplerini yok edecek ölçüde fiyat indirimi uygulamasına izin vermeyeceklerini söyledi 
+      ANKARA Milliyet 
+   
+   Telekomünikasyon Kurumu Başkanı Ömer Arasıl, 1 Ocak 2004'ten sonra telekomünikasyon sektöründe yaşanacak olan serbestleşmenin Türk Telekom'un TT özelleştirmedeki değerini artıracağını belirterek, "Özelleştirme mutlaka olacak diye bir saplantıya girmemek gerekir. Başarılı bir serbestleşme Telekom'un değerini orta vadede artırır" diye konuştu. 
+   Arasıl, basın toplantısında, serbestleşmeyle birlikte işletme sayısı, toplam telekomünikasyon geliri, sektörden elde edilen vergi geliri ve TT'nin gelirinde artış olacağını söyledi. TT'nin hizmet tarifelerinde indirim olmasını beklediklerini kaydeden Arasıl, bu indirimin sektöre yeni işletmelerin girmesini engelleyecek, öldürücü boyutta olması durumunda kayıtsız kalmayacağını belirtti. Arasıl, öldürücü fiyat uygulamasına izin vermeyeceklerini, burada müdahil olacaklarını kaydetti. 
+   
+   '50 yıllık gelir, 5 yılda gelecek' 
+   Arasıl, sektördeki hizmet çeşitliliğini artırarak serbestleştirmenin Türk ekonomisinin 50 yılda elde edebileceği geliri, beş yılda sağlaması gibi avantajları da beraberinde getirebileceğini ifade ederek, birçok telekomünikasyon şirketinin serbestleşme sonrasında gelirini artırdığını vurguladı. Arasıl, serbestleşme sonrasında France Telekom'un yüzde 5, Norveç Telenor'un yüzde 11.2, İsviçre Swiscom'un yüzde 5.1, Belçika Belgacom'un yüzde 5.9, Deutsche Telecom'un yüzde 3.4 gelir artışı kaydettiğini söyledi. Serbestleşmeden sonra OECD ülkelerinde telekom sektöründeki yatırımların arttığını bildiren Arasıl, "Yeni iş olanakları, yeni fırsatlar ve ürünlerle birlikte ekonomik büyüme gerçekleşiyor. Avrupa'da 4 milyonun üzerinde insan bu sektöre çalışıyor" diye konuştu. 
+   
+   Uzak mesafeli aramalarda üç tip yetki    Ömer Arasıl, uzak mesafeli telefonlarda uluslararası ve şehirler arası A, B ve C tipi işletmeci ayrımı olacağını, B ve C tipi yetkilendirmenin 2004'ün ilk çeyreğinde, A tipin de yılın son çeyreğinde yapılacağını belirtip, şöyle dedi 
+   "A tipinde, bu hizmeti verecek işletmecilere abone olan tüketici TT'den nasıl uluslararası bir aramayı yapıyorsa 0 alan kodu direk numara o şekilde hizmet alacak. Şirket bu altyapı hizmetini TT'den alacak. Her ile ve her ülkeye erişimi sağlamakla yükümlü olan bu tip işletmecilerin yetkilendirilmesi, belli bir süre alacağı için ağustos ayında yapılacak. Sadece bu alanda hizmet verecek olan yatırımcılar daha büyük bir sermayeye ihtiyaç duyacak. 
+   B tipinde işletmecilere dört haneli numara verilecek. Abone bu numarayı girerek arayacağı numaraya ulaşacak. Daha düşük maliyetli olan C tipinde ise bir kart sistemine geçiliyor. Bu kartla arayanlar önce 0800'lü bir numarayı, ardından kart kodunu giriyor ve sonra numarayı çeviriyor. Bu daha düşük maliyetli. 
+   
+   Sabancı'ya data iletim lisansı 
+   Arasıl, karasal hatlar üzerinden veri iletimi alanında fiberobtik ve bakır kablolar kullanılarak yapılan data gibi ses dışındaki bilgi aktarımını içeren lisanslarda da bu hafta Sabancı, ATNT ve İnfonet'in yetkililendirildiğini açıkladı. Uzak mesafe, kablo platformu ve kablonet alanlarında 1 Ocak 2004'ten itibaren lisansların verilmeye başlanacağı ses tekelini içeren işletmelerden ise henüz talep olmadığını belirten Arasıl, bu alanlarda Bakanlar Kurulu kararının çıkması ile asgari lisans değerlerinin tespitinin ardından gelecek talepler konusumda ümitli olduğunu söyledi. 
+   
+   'İsteyen, yetki belgesi alabilir'    Serbestleşmeye geçen hiçbir ülkede hemen uygulamaya geçmenin mümkün olmadığını söyleyen Arasıl, şöyle konuştu "Ortak kullanımlı telsiz hizmetleri, uzak mesafeli telefon hizmetleri, kablo platform işletmeciliği, sabit telsiz erişim hizmeti ve alt yapı işletmeciliği için 2004'te yeni işletmecilere lisans verilecek. Ancak bunların bir anda olması mümkün değil. Bizim hazırladığımız bir takvim değil, fiili bir durum. Bu hizmetleri verebilmek için gereken yatırım bir süreç içerir. İşletmeci önünü görmek istiyor. Onun için şu anda bize gelen bir talep yok. Bu tür bir hizmeti vermek isteyen, istediği an yetkilendirme belgesi alabilir." 
+   
+   
+</TEXT>
+</DOC>

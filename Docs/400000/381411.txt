@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 381411 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/25/son/sontur15.html </URL>
+<DATE> 2005/09/25/ </DATE>
+<TIME> 12.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İstanbul'da üç gün yağış bekleniyor... 
+</HEADLINE>
+<TEXT>
+
+     Yeni haftayla birlikte yurdun kuzeyinde sağanak yağışlar sürüyor. İstanbul'da önümüzdeki üç gün boyunca aralıklı sağanak yağış geçişleri bekleniyor. Ankara ise çarşamba günü yağış alacak. 
+     Hava sıcaklığı yağış alan yerlerde değişmeyecek, diğer yerlerde biraz artacak. En yüksek hava sıcaklıkları İstanbul ve Ankara'da 23, İzmir'de 29, Adana'da 31, Antalya ve Diyarbakır'da 32, Erzurum'da 22 ve Trabzon'da 24 derece olacak... 
+     Yarın Marmara'nın kuzeyi ve doğusu, Karadeniz'in kıyı kesimi sağanak yağışlı... 
+     Salı yağışlar etkisini sürdürüyor. Marmara ve Karadeniz'in kıyı kesiminde yağış var... 
+     Çarşamba Marmara'nın doğusu, Karadeniz, Eskişehir-Ankara çevresi ile Doğu Anadolu'da sağanak yağış bekleniyor... 
+     
+</TEXT>
+</DOC>

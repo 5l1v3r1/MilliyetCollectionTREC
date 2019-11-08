@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 72402 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/03/13/son/sontur06.html </URL>
+<DATE> 2002/03/13/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternet korsanlığında dünya altıncısı olduk.. 
+</HEADLINE>
+<TEXT>
+
+     Dünyada en çok siber saldırının ABD ve İsrailli korsanlar tarafından yapıldığı bildirildi. 
+     Veri koruma şirketi Riptech'in yaptığı araştırmaya göre, ABD, yüzde 29 ile en çok saldırı gerçekleştirilen ülke olurken, Güney Kore ikinci ve Çin de üçüncü sırada yer aldı. İnternet kullanıcı sayısı baz alındığında ise siber saldırıda İsrail birinci, Hong Kong ikinci ve Tayland üçüncü oldu. Türkiye ise 6. sırada bulunuyor. 
+     Raporda, teknoloji, finasal hizmet, medya ve enerji şirketleri en çok hedef olan kurumlar arasında yer aldı. Altı aylık periyotta firma başına saldırı oranı ise 700 oldu. Bu zaman diliminde şirket başına ortalama saldırılar yüzde 80 oranında artış gösterdi. Raporda, ''Şirketler kendi sistemlerini internete bağladıkları anda saldırıya uğramaları kaçınılmaz'' görüşü ifade edildi. 
+     Raporda dikkat çekilen diğer bir konu ise saldırı alanları. 
+     Ortadoğulu hackerlar enerji şirketlerini hedef alırken, Asyalılar teknoloji ve finansal hizmet şirketlerine saldırıyor. 
+     Saldırı sıralaması ve yüzdeleri şu şekilde belirlendi 
+     ''Toplam saldırı'' ABD 29.6 , Güney Kore 8.8 , Çin 7.8 , Almanya 5.9 , Fransa 4.5 , Kanada 3.9 , Tayvan 2.6 , İtalya 2.5 , İngiltere 2.5 , Japonya 2 
+     ''Kullanıcı başına saldırı'' İsrail 26.16 , Hong Kong 14.50 , Tayland 11.57 , Güney Kore 10.03 , Fransa 8.60 , TÜRKİYE 7.85 , Malezya 7.74 , Polonya 7.52 , Tayvan 7.10 , Danimarka 7.07 . 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

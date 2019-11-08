@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 309098 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/25/yasam/yas15.html </URL>
+<DATE> 2005/01/25/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Faylara uydu gözüyle takip 
+</HEADLINE>
+<TEXT>
+
+
+Türkiye'nin ilk uydu iletişimli deprem istasyonu Kütahya Gediz'de kuruldu 
+
+
+"Türkiye Ulusal Sismik Ağ USAĞ Sistemi'nin Geliştirilmesi Projesi" çerçevesinde, "Uydu İletişimli Geniş Band Deprem İzleme ve Kayıt İstasyonları"ndan ilki, Kütahya'nın Gediz ilçesinde kuruldu. Bayındırlık ve İsk n Bakanlığı Deprem Araştırma Dairesi Sismoloji Şube Müdürü Ramazan Demirtaş, ülke ölçeğinde işletilen mevcut istasyonların ihtiyacı karşılamakta yetersiz kaldığı için dünya standartlarında, veri kalitesi yüksek, uydu iletişimli geniş band 19 istasyon alındığını ve ilkinin Gediz'de kurulduğunu ifade etti. USAĞ'ın, Deprem Araştırma Dairesi'nce işletilen ve 30 istasyondan oluşan Türkiye Telemetrik Gözlem Ağı'yla entegrasyonunun sağlanacağını bildiren Demirtaş, böylece ülkedeki diri fayların depremselliklerinin yakından izleneceğini belirtti. Sistemle, deprem üreten kaynak zonlarının belirleneceğini kaydeden Demirtaş, risk hesapları, deprem senaryoları için veri sağlanabileceğini, deprem master planları için altlık oluşturularak, her bölgenin veya ilin deprem risklerinin önceden bilineceğini vurguladı. 
+
+
+</TEXT>
+</DOC>

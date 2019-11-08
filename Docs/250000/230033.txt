@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 230033 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/09/son/sonyas09.html </URL>
+<DATE> 2004/04/09/ </DATE>
+<TIME> 10.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Müzik piyasasında satışlar yüzde 7 düştü 
+</HEADLINE>
+<TEXT>
+
+     Küresesl müzik piyasasında 2003 yılında satışların yüzde 7,6 gerileyerek 32 milyar dolar olarak gerçekleştiği bildirildi. 
+     Dünyanın en büyük müzik şirketlerini temsil eden Uluslararası Fonografik Sanayi Federasyonu IFPI 'nun verdiği bilgilere göre, bu gerileme compact disklerin piyasaya girmesinden bu yana görülen en hızlı düşüşü oluşturuyor. 
+     Son dört yıldır düşüş trendini sürdüren satışlar konusundaysa IFPI, artan korsan yayınlar, kötü ekonomik koşullarla video oyunları ve DVD'lerle yaşanan rekabeti sorumlu tutuyor. 
+     Yılın ikinci yarısında ABD, İngiltere ve Avustralya'da, özellikle Justin Timberlake ve Beyonce'ın albümlerindeki iyi satış grafiğinin sektördeki umutları yeşerttiği belirtilirken, IFPI Başkanı Jay Berman, 2004 yılı için satışlardaki düşüşün yaklaşık yüzde 4 olarak gerçekleşeceğini tahmin ettiğini açıkladı. 
+     2003 yılı ilk yarısındaki düşüşlerin yüzde 11 olduğunu hatırlatan sektör uzmanlarıysa yüzde 7,6'lık düşüşle yıl ortalamasının aslında olumlu bir haber olduğunu ileri sürüyorlar. 
+     
+</TEXT>
+</DOC>

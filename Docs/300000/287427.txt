@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 287427 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/09/son/soneko23.html </URL>
+<DATE> 2004/11/09/ </DATE>
+<TIME> 12.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa bugün de düşüşünü sürdürdü... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeksi 254.74 puan azalarak 1. seansı 22,361.25 puandan tamamladı. 
+     1. seansta hisse senetleri ortalama yüzde 1.13 değer kaybetti. 
+     Dün 23,615.99 puandan kapanan İMKB Ulusal 100 Endeksi, ilk seansa 8.92 puan artarak 22,625.81 puandan başladı. İlk yarıyı 22,422.54 puandan geçen endeks, seans içinde en düşük 22,285.54 puana kadar gerilerken, en yüksek 22,651.05 puanı gördü. 
+     Seans sonunda mali endeks 402.43 puan azalarak 30,281.95 puana, sanayi endeksi 129.27 puan azalarak 20,646.09 puana ve hizmetler endeksi 111.10 puan azalarak 12,658.38 puana geriledi. 
+     Böylece önceki kapanışa göre, mali grup hisseler ortalama yüzde 1.31 oranında, sanayi grubu hisseler ortalama yüzde 0.62 oranında ve hizmet grubu hisseler ortalama yüzde 0.87 oranında değer kaybetti. 
+     1. seansta işlem gören toplam 297 hisse senedinden 101'i değer kazandı, 124'ü değer kaybetti, 72 hissenin fiyatında değişiklik olmadı. 
+     Seansta, 357 trilyon 441 milyar 788 milyon liralık işlem hacmi oluştu. 
+     1. seansta İş Bankası C , Garanti Bankası, Doğan Holding, Koç Holding ve Sabancı Holding en çok işlem gören hisse senetleri oldu. 
+     Dün yaşanan yoğun satış baskısı ve para çıkışının ilk seansta yine etkili olduğunu ifade eden borsa uzmanları, dün Coca Cola İçecek halka arzının iptal edilmesi ve Irak'ta yaşanan gelişmelerin etkisiyle başlayan satış baskısının bu seansta 22,350 desteği üzerinde karşılanmış göründüğünü, ancak piyasanın zayıf seyrinin henüz bir tepki alımı gelebileceği beklentisini oluşturmadığını savunuyor. 
+     
+</TEXT>
+</DOC>

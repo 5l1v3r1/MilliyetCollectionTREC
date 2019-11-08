@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 266118 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/24/son/sonyas13.html </URL>
+<DATE> 2004/08/24/ </DATE>
+<TIME> 14.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Honda'da dünyanın ilk hibrid motosikleti... 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın en büyük motosiklet üreticisi Honda, benzin, elektrik ve yakıt hücresiyle çalışabilen ilk motosikleti ürettiğini açıkladı. 
+     Honda'nın Başkanı Takeo Fukui, dev şirketin Tokyo'nun kuzeyinde yer alan Tochigi araştırma merkezinde basın mensuplarına yaptığı açıklamada, küçük motosikletin 50 cc'lik hibrid ve 125 cc'lik yakıt hücresi motoru bulunduğunu belirtti. 
+     Honda'nın araştırma ve geliştirme projelerine çok önem verdiğini belirten Fukui, prototip olarak üretilen hibrid scooter'ın ne zaman satışa sunulacağına henüz karar vermediklerini kaydetti. 
+     Honda'nın motosiklet alanında en büyük rakibi Yamaha geçen yıl yakıt hücreli bir motosiklet geliştirmekte olduğunu açıklamıştı. 
+     İngiliz William Grove tarafından 1839'da icat edilen yakıt hücresi teknolojisinde hidrojen molekülünün oksijen molekülüyle tepkimeye girmesi sonucu elektrik üretiliyor. Tek atık olarak ortaya su çıkıyor. 
+     Özellikle ABD'de bu yaz piyasaya çıkan hibrid teknolojili motorlar, düşük yakıt harcaması ve çevreci olmasıyla giderek yayılıyor. 
+     
+</TEXT>
+</DOC>

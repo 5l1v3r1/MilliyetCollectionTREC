@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 257935 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/25/dunya/dun04.html </URL>
+<DATE> 2004/07/25/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bin Ladin'in cesedi virüs saçıyor 
+</HEADLINE>
+<TEXT>
+
+
+
+İnternet güvenlik firması Sophos, bir internet sitesinde bulunan ve "intihar eden El Kaide lideri Usame Bin Ladin'in cesedinin görüntülerini" içerdiği iddia edilen dosyaların aslında virüs içerdiği uyarısında bulundu. Habere göre bu hafta birçok siteye, "CNN muhabirlerinin kendini asan Bin Ladin'in cesedini görüntüledikleri" yönünde binlerce mesaj atıldı. Bu mesajlardaki fotoğraf dosyası gibi gösterilen dosyanın aslında virüs olduğu belirtildi. Dosyayı fotoğraf olduğunu sanarak açan kullanıcıların bilgisayarına yeni bir trojan virüsünün bulaştığı açıklandı. 
+
+
+</TEXT>
+</DOC>

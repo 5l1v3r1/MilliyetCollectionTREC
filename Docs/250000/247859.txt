@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 247859 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/14/son/sontur10.html </URL>
+<DATE> 2004/06/14/ </DATE>
+<TIME> 10.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+3 lise öğrencisi, ''hırsız yakalayan'' cep telefonu geliştirdi... 
+</HEADLINE>
+<TEXT>
+
+     Van Alpaslan Anadolu Öğretmen Lisesi'nde okuyan 3 öğrenci, kameralı cep telefonuyla hırsızları ele veren bir sistem geliştirdi. 
+     Alpaslan Anadolu Öğretmen Lisesi'nde öğrenim gören Rıza Şimşek, Talip Gümüşkaya ile Ömer Akyalı adlı öğrenciler, yaklaşık 3 aylık çalışma sonucunda ortaya çıkardıkları ''çok işlevli elektro güvenlik sistemi'' ile MEF Dershanelerinin 13. geleneksel yarışmalarına katıldı. Proje, 311 araştırma projesi arasında dördüncü oldu. 
+     Öğrencilerden Rıza Şimşek, AA muhabirine yaptığı açıklamada, projenin, işyeri, ev ve araç soygunlarını önlemeyi amaçladığını, proje düzeneğinin, soygunu yapacak kişinin oluşturacağı titreşim sonucunda aktif hale geldiğini söyledi. 
+     Dış kapıya bağlanan sistem sayesinde, kapı veya pencereye dokunan kişinin fotoğrafının kameralı cep telefonuyla çekildiğini kaydeden Şimşek, şöyle konuştu 
+     ''Evde olmadığımız bir sırada, herhangi birinin evimizin kapı veya penceresine dokunmasıyla, sisteme bağlı olarak eve yerleştirilen kameralı cep telefonu, bu kişinin fotoğrafını çekip, elimizdeki cep telefonuna mesaj olarak göndererek gerekli uyarı ve bilgilendirmeyi yapmaktadır. Bu kişinin hırsız olduğunu tespit ettiğimiz anda, elimizdeki cep telefonundan evdeki telefonu arayıp çaldırdığımız gibi, evin kapı ve pencereleri otomatik olarak kilitlenmekte, bayıltıcı sprey devreye girerek hırsızı bayıltmaktadır. Bu arada polise haber verilirken, çevredeki komşular, alarm sayesinde hırsızı fark edebilecektir.'' Talip Gümüşkaya da tek tuşla hırsızı ele veren bu projelerine patent almak istediklerini kaydetti. 
+     Maddi imkansızlık nedeniyle projeyi tam olarak uygulayamadıklarını belirten Ömer Akyalı da kendilerine destek verilmesini istedi. 
+
+     
+</TEXT>
+</DOC>

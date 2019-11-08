@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 56622 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/12/11/son/soneko02.html </URL>
+<DATE> 2001/12/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsası düşüşle kapandı 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası Wall Street-Dow Jones Endeksi, psikolojik önemdeki 10 bin puanın altına düştü. 
+     Dow, 119 puan azalışla yüzde 1.19 9 bin 929 puandan kapandı. 
+     Teknoloji hisse senetlerinin göstergesi Nasdaq Birleşik Endeksi ise 30 puan düşüşle yüzde 1.49 bin 991 puandan kapandı. 
+     New York Menkul Kıymetler Borsası, haftanın ilk işlem gününe düşüşle başladı. 
+     Dow, bugün ilk yarım saat içinde 23.74 puanlık düşüşle 10,025.72 puana geriledi. 
+     Borsadaki yatırımcılar, ABD Merkez Bankası'nın bu hafta içinde faiz oranlarını düşürebileceğinden hareketle kar amaçlı satışlara yöneldi. 
+     Dünyanın en büyük borsası konumundaki New York Borsası, 11 Eylül terör yıkımıyla 1929'daki Büyük Bunalım'dan beri en uzun süreli kapalı kalışının ardından 17 Eylül'deki son seansı rekor düşüşle kapamıştı. 
+     11 Eylül Salı sabahı Dünya Ticaret Merkezi-İkiz Gökdelenleri'nin 
+     intihar yolcu uçaklarıyla yerle bir edilmesi ve eşzamanlı olarak Savunma Bakanlığı Pentagon'un da vurulması yüzünden 4 gün kapalı kalan Wall Street Borsası'nın temel göstergesi Dow Jones Sanayi Endeksi, son 2,5 yılı aşkın süredir ilk kez 9000 puanın altında kapanmıştı. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

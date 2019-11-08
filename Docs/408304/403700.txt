@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 403700 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/15/son/soneko50.html </URL>
+<DATE> 2005/12/15/ </DATE>
+<TIME> 15.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yoksul çocuklara 100 dolara laptop ihalesi Tayvan firmasının 
+</HEADLINE>
+<TEXT>
+
+     Dünya genelinde yoksul çocukların kullanımına yönelik olarak tasarlanan 100 dolarlık dizüstü bilgisayarın üretimini Tayvan’ın Quanta Bilgisayar şirketi yapacak. 
+     Bilgisayarı geliştiren ABD’nin Boston kentindeki Massachusetts Institute of Technology MIT Media laboratuvarının web sayfasında yayımlanan açıklamada, ucuz bilgisayar için düzenlenen ihalenin Tayvan şirketine verildiği belirtildi. 
+     Yerel medyada çıkan haberlerde, projeyi yürütenlerin 100 dolarlık laptop’un üretimi için Quanta, Compal, Inventec ve Wistron gibi bilgisayar şirketleriyle görüştükleri belirtilmişti. 
+     Gelecek yıl üretimine geçilmesi planlanan, "yeşil makina" adı da verilen 100 dolarlık dizüstü bilgisayardan yıl sonuna kadar milyonlarca sayıda üretilmesi öngörülüyor. 
+     
+     FARKLI TASARIM 
+     Tasarımı, bilinen dizüstü bilgisayarlardan biraz farklı olacak ve kendi elektriğini yanına yerleştirilen kolun çevrilmesiyle üretecek 100 dolarlık laptop, çeşitli biçimlerde katlanabilecek ve darbeye 
+     karşı dayanıklı lastik koruyucuyla çevrelenecek. 
+     AC adaptör kablosu aynı zamanda taşıyıcı omuz bandı olan bilgisayar, üretim masraflarının kısılması için günümüzde standart olan işlemci hızından biraz düşük olan 500 megahertz işlemciye sahip olacak. 
+     Aynı zamanda acil durumlarda iletişim sağlanabilecek bir araç olarak da kullanılması planlanan bilgisayarın ilk modellerinde güç kaynağı kolunun bir kez çevrilmesiyle 10 dakika yetecek elektrik sağlanabilecek. 
+     Kablosuz internet erişimine sahip olacak bu dizüstü bilgisayarlar, yakındaki aynı model laptoplarla doğrudan bağlantıya geçebilecek ve bunlardan birinin internete girişi varsa diğer laptoplar da internete girebilecek. 
+     Bilgisayar, çocukların oyun oynayabileceği ve televizyon da izleyebileceği şekilde tasarlandı. 
+     
+</TEXT>
+</DOC>

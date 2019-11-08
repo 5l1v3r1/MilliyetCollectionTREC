@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 177165 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/21/son/sondun16.html </URL>
+<DATE> 2003/08/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hollanda'da otomobillere bilgisayar sistemi zorunluluğu... 
+</HEADLINE>
+<TEXT>
+
+     Hollanda'da hükümet, piyasaya çıkarılacak tüm yeni otomobillerde, hız ve yakıt kullanımını kontrol edebilen bilgisayar sisteminin cruise control ve boordcomputer bulunmasını zorunlu kılacak. 
+     Çevre Bakanlığı'ndan yapılan açıklamada, bu sistemin, yakıt kullanımını ve çevreye bırakılan zararlı maddeleri azaltacağı için uygulamaya konulmasının istendiği belirtildi. 
+     Otomobillerde boordcomputer ve cruise control sisteminin bulunmasıyla yakıttan ve zararlı egzoz gazlarından en az yüzde 10 tasarruf sağlanacağı bildirilen açıklamada, bu sistemin fabrikalarda otomobile yerleştirilmesinin, tüketiciye maliyetinin 100 euronun altında gerçekleşebileceği kaydedildi. 
+     Açıklamada, hükümetin zorunlu kılınmasını istediği bu uygulamaya ne zaman başlanacağının, Avrupa Birliği ile bu konuda yapılacak görüşmelerden sonra kararlaştırılacağı belirtildi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 348193 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/02/son/soneko01.html </URL>
+<DATE> 2005/06/02/ </DATE>
+<TIME> 01.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsası yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     New York menkul kıymetler borsası, günü yükselişle kapattı. 
+     Dow Jones endeksi 81,58 puan artışla 10.549,06’ya, Nasdaq endeksi 19,64 puan artışla 2.087,86’ya yükseldi. 
+     
+</TEXT>
+</DOC>

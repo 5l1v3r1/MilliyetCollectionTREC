@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 186189 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/03/son/sondun10.html </URL>
+<DATE> 2003/10/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İngilizler hala bilgisayardan ürküyor... 
+</HEADLINE>
+<TEXT>
+
+     İngiltere'de yapılan bir araştırma, halkın hala e-posta, internet, bilgisayar kullanımından çekindiğini, halkın yarısından fazlasının teknolojinin bu son nimetlerini kullanırken ürkek olduğunu ortaya çıkardı. 
+     BBC'nin haberine göre, Ulusal Bilgisayar Günü'nde yayımlanan araştırmada, İngiliz hükümetinin 2005'e kadar ''herkesi online yapma'' projesine rağmen, çoğu kişi halen bilgisayarlar hakkında bilgi sahibi olmanın önemli olmadığı görüşünü taşıyor. 
+     Yaklaşık 2 bin yetişkin üzerinde yapılan kamuoyu yoklamasında, halkın yüzde 42'sinin bilgisayar kullanımı konusunda yeterli olmadığı, kullananların yüzde 80'ininse bu yeni teknolojinin tüm potansiyelini değerlendirmediği ve daha fazlasını öğrenmek istemediği saptandı. 
+     Ankete katılanların yalnızca yüzde 28'i, 21. yüzyılda bilgisayar kullanma bilgisinin önemli olduğuna inanıyor. 
+     
+</TEXT>
+</DOC>

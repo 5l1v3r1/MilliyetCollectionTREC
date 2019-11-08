@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 172354 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/29/son/soneko35.html </URL>
+<DATE> 2003/07/29/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft yurtdışı seminerlerinde Türk eğiticiler... 
+</HEADLINE>
+<TEXT>
+
+     Netron Institute of Technology Yazılım Direktörü Selçuk Uzun ve Yage Bilgisayar Kurucu Ortağı Gökşin Bakır, Microsoft’un Tunus, Mısır, Pakistan ve İspanya’da düzenlediği .NET seminerlerine konuşmacı olarak katıldı. 
+     Yaklaşık 3 bin BT profesyonelinin katıldığı konferanslarda Türk konuşmacılar oldukça büyük ilgi gördü. 
+     Dünyada 50 ülkede sadece 130 kişinin sahip olmaya hak kazandığı Microsoft MSDN Regional Director unvanını taşıyan Netron Institute of Technology, Uluslararası Bilgi Teknoloji Konferanslarında 10'dan fazla seminer verdi. 
+     Microsoft’un .NET Teknolojileri ve Web servisleri mimarisi bilgilerinin paylaşıldığı konferansa Avrupa ve Amerika’dan da çeşitli uzmanlar konuşmacı olarak katıldı. 
+     Uzun konferans ile ilgi şunları söyledi Türkiye’nin dünyaya bilgi ve becerisini aktarabilmesi gerçekten çok önemli bir adım. Bilgi ve İletişim Teknolojileri günümüzde en fazla değer sağlayan ürün ve hizmetleri sunması itibariyle özel bir öneme sahip. Dolayısıyla bu sektörde dünya çapında rekabet edebilmemizin yolu eğitim kalitesinden geçiyor." 
+     
+     Bölgesel Direktörler kimlerdir 
+
+     Microsoft’un 50 ülkede çalışan 130 Bölgesel Direktörü bağımsız yazılım mimarları ve yazılım geliştiricileridir. Bu uzmanlar kendi coğrafyalarında teknolojik liderlikleri ile, Microsoft teknolojileri ile ilgili bilgi paylaşımına hizmer eder, bu hususlarda diğer çözüm geliştiricilerle birlikte çalışırlar. Regional Director'lar Microsoft çalışanları yerine özellikle müşterilerin iş başarı ve hedeflerine ulaşmasını sağlayan sektörün profesyonellerinden seçilmektedir. 
+     
+</TEXT>
+</DOC>

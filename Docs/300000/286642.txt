@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 286642 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/06/son/soneko02.html </URL>
+<DATE> 2004/11/06/ </DATE>
+<TIME> 10.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Piyasasaya sunulmadan korsanı çıktı... 
+</HEADLINE>
+<TEXT>
+
+     Microsoft'un, piyasaya sürmek için hazırlıklarını sürdüğü ve tüm dünyada 2006 yılında satışa çıkması planlanan yeni yazılım programı ''Long Horn Xp'', Türkiye'de korsan yazılım olarak şimdiden tezgahlardaki yerini aldı. 
+     Türkiye'de fikri eserlerin korunmasına yönelik getirilen yasal tedbirler ve ağır cezalara karşın, her türlü ürünün ''korsan'' olarak nitelendirilen kopya çoğaltımları yapılmaya devam ediliyor. ''Korsan'' tezgahlarında, piyasaya yeni çıkan bir ürünün eş zamanlı olarak gerçek fiyatıyla kıyaslanmayacak düzeyde düşük bir fiyatla satışa sunulması mümkün olabildiği gibi, korsan piyasası bazen ürün sahibinden bile hızlı davranabiliyor. Microsoft'un, Windows temelli Xp yazılımının 2006 yılında piyasaya sürülmesi planlanan yeni versiyonu ''Long Horn Xp'', henüz çıkış hazırlıkları sürerken Türkiye'de korsan tezgahlarında boy göstermeye başladı bile. 
+     
+     ''BU SADECE BİZİM SORUNUMUZ DEĞİL'' 
+     Microsoft Türkiye Genel Müdürü Çağlayan Arkan, AA muhabirine yaptığı açıklamada, konunun sadece Microsoft ya da Long Horn olarak değerlendirilmemesi gerektiğini söyledi. 
+     Türkiye'nin fikri mülkiyet konusundaki durumunun değişmediği sürece ne yazılım ne de fikri mülkiyetin söz konusu olduğu diğer eserlerde de bu gerçeğin değişmeyeceğini ifade eden Arkan, şöyle konuştu 
+     ''Önemli olan, AB süreci içinde bu konunun önemine vakıf olunması. Türkiye bu konuda hukuki yönden aslında önemli adımlar attı. Fakat bunların yürürlüğe girmesi ve etkilerinin görülmesi yönünde eksikliklerimiz var. En önemli konu, Türk halkının bu konudaki kültürel dönüşümü. Bu konuya önem verilmesi, bu konuya değer verilmesi, değerle birlikte 'evet bunun parası verilerek alınması gerekir' denilmesi... Bu noktaya kadar Long Horn ve ondan sonraki versiyonların korsanı çıkmaya devam edecek. Bu Microsoft'un sorunu değil sadece. Bugün her türlü yazılım ürününü, şarkıyı, filmi, her şeyi bulabiliyorsunuz.'' 
+     
+     ''EKONOMİYE BÜYÜK ZARAR VERİYOR'' 
+     Arkan, ''korsan'' uygulamaların sadece eser sahibi için değil ülke açısından da büyük ekonomik kayıplara yol açtığına dikkati çekerek, ''Türkiye bunu sadece AB süreci, fikri mülkiyet, çağdaşlaşma yönüyle değil, ekonomik yönüyle de iyi incelemeli'' diye konuştu. 
+     Kayıtdışı olması nedeniyle buradan elde edilen kazancın, ne vergi, ne yatırım ne de istihdam olarak geri dönüşü olmadığını vurgulayan Arkan, şöyle devam etti 
+     ''Korsanın, bizim sektörümüz itibariyle rahatlıkla 300-400 milyon dolarlık kayıplara neden olduğunu söyleyebilirim. Bu 100 milyon dolarlar, bizler için çok anlamlı rakamlar. Türkiye'nin bilişim sektörü, 2 milyar dolar civarında olan bir sektör. Yani burada aşağı yukarı sektörün yüzde 20'sinden bahsediyoruz. Bu, hiçbir şekilde normal ekonomik normlar içinde yerini bulmuyor demektir.'' 
+     
+     GERÇEĞİ 2006'DA ÇIKACAK 
+     Arkan, henüz hazırlıkları süren Long Horn Xp'nin korsan yazılımının tezgahlarda yerini almasına karşın, piyasaya çıkış tarihinin daha önce belirlendiği gibi 2006 yılı içinde olacağını bildirdi. 
+     Planlamalarına göre, Long Horn'u 2005 yılı ikinci yarısında ''beta'' versiyon olarak çıkaracaklarını ve iş ortaklarındaki uygulamaları izleyeceklerini anlatan Arkan, ''Onlardan aldığımız geri bildirimlerle de 2006'da Long Horn'un lansmanını yapmış olacağız'' dedi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 300477 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/24/son/sondun11.html </URL>
+<DATE> 2004/12/24/ </DATE>
+<TIME> 01.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+UUİ'ye yiyecek ve teçhizat götürecek uzay aracı başarıyla fırlatıldı 
+</HEADLINE>
+<TEXT>
+
+     Uluslararası Uzay İstasyonu'na UUİ yiyecek ve teçhizat götürecek Rus uzay aracı Progress, Kazakistan'daki Rus üssü Baykonur'dan başarıyla fırlatıldı. 
+     Rus İnterfaks ajansının Rus yetkililere dayandırdığı habere göre, UUİ'deki 2 astronota su, yiyecek ve teçhizat götüren Progress M-51 mekiğini taşıyan Soyuz füzesi, TSİ 00.19'da fırlatıldı. Progress'in TSİ 00.28'de füzeden ayrıldığı ve yörüngeye oturduğu belirtildi. 
+     İki aydır UUİ'de bulunan Rus kozmonot Saliyan Çaripov ve Amerikalı astronot Leroy Chiao'ya 2.5 ton su, yiyecek, oksijen, yakıt ve malzeme götüren Progress'in 26 Aralık 'ta istasyona kenetlenmesi bekleniyor. 
+     Rus ve Amerikalı yetkililer bu ay başında, UUİ'deki yiyeceğin bitmeye başladığı uyarısında bulunmuşlar, NASA, istasyonda 25 Aralık'tan itibaren 1-2 hafta yetecek yiyecek kaldığını açıklamıştı. 
+     Rus uzay ajansı sözcüsü, Progress'in UUİ'ye ulaşamaması halinde 2 astronotun dünyaya dönmek zorunda kalacağını söylemişti. 
+     UUİ'de yiyeceğin tükenmesine neden olarak, Amerikan uzay mekiği Columbia'nın 1 Şubat 2003'de atmosfere girişte 7 astronotuyla yanarak parçalanması üzerine mekik uçuşlarının askıya alınması gösteriliyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 235861 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/29/son/soneko08.html </URL>
+<DATE> 2004/04/29/ </DATE>
+<TIME> 10.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+SSK'da "E-bildirge"ye doğru... 
+</HEADLINE>
+<TEXT>
+
+     SSK'nın, işverenlerin internet üzerinden 24 saat boyunca bildirge vermelerine imkan tanıyan ''e-Bildirge'' projesi, 1 Mayıs 2004'ten itibaren uygulanmaya başlanacak. 
+     Mevcut uygulamada sigortalılarla ilgili olarak ''Aylık Sigorta Primleri Bildirgesi'', ''Aylık Sosyal Güvenlik Destek Prim Bordrosu'' ve ''Dört Aylık Sigorta Primleri Bordrosu'' düzenleniyor. 
+     Proje ile işverenler, aracılar ya da geçici olarak iş görme edimini yerine getirmek üzere sigortalısını başka bir işverene devredenler, söz konusu bordro ve bildirgeler yerine, bilgilerin tek belge olarak yer aldığı ''Aylık Prim ve Hizmet Belgesi'' düzenleyecekler. 
+     Buna göre, Mayıs 2004'e ait belgeden kamu sektöründe 15 Mayıs 2004-14 Haziran 2004 döneminden başlamak üzere, 8 ve daha fazla sigortalı çalıştıran işyerleri zorunlu olarak, 1-7 arasında sigortalı çalıştırılan işyerlerinden ise isteyenler, SSK'ya, internet üzerinden her ay belge verecekler. 
+     ''Aylık Prim ve Hizmet Belgesi'', yasal süresi içinde, internetteki ''www.ssk.gov.tr'' adresindeki ''e-Bildirge'' mönüsünden, ''e-Bildirge Kullanım Kılavuzu''ndaki açıklamalar doğrultusunda kuruma gönderilecek. 
+     ''Aylık Prim ve Hizmet Belgesi''ni internet üzerinden SSK'ya göndermek zorunda olan, ancak bunu yerine getirmeyen işverenler hakkında, söz konusu belgeyi kağıt olarak yasal süresi içinde kuruma verseler dahi, idari para cezası uygulanacak. 
+     İşverenler, aracı ya da geçici olarak iş görme edimini yerine getirmek üzere sigortalısını başka bir işverene devredenlerin, ''e-Bildirge'' uygulaması kapsamında olup olmadıklarının sigortalı sayısının tespitinde, işyeri dosyası baz alınmakla birlikte, bu kimselerin her biri, çalıştırdıkları sigortalılar bakımından ayrı ayrı değerlendirilecek. 
+     Sigortalı sayısının 8 ve üzerine çıkması halinde, değişikliğin olduğu aydan itibaren ''Aylık Prim ve Hizmet Belgesi''ni internet üzerinden göndermek zorunlu olacak. Bu durumda, daha önce kendi istekleriyle kullanıcı kodu ve kullanıcı şifresi alanlar bu kod ve şifre ile almayanlar ise alacakları kod ve şifre ile gerekli işlemleri yapacaklar. 
+     İşveren, çalıştırılan sigortalı sayısının 8'in altına düştüğü durumlarda, belgelerini isterse daha önce aldıkları kullanıcı kodu ve şifresi ile internet ortamında vermeye devam edebilecek. İnterneti tercih etmeyen işverenler ise kağıt belgeyi yasal süresi içinde ilgili müdürlüklere verecek. 
+     ''Aylık Prim ve Hizmet Belgesi''nin internetten SSK'ya gönderilmesi için bu belgenin cari aya ait yasal süresi geçirilmemiş ve asıl nitelikte olması gerekecek. 
+     İşverenler, ''Aylık Prim ve Hizmet Belgesi''ni SSK'ya yasal sürenin son gününde saat 23.59'a kadar gönderebilecekler. Ancak, yetkililer, oluşabilecek yoğunluğa işaret ederek, işverenlerin işlemlerini son güne bırakmamalarını öneriyor. 
+     ''Aylık Prim ve Hizmet Belgesi''ni internetten SSK'ya göndermek isteyen ya da zorunda olan işverenler, kurumca bastırılan seri numaralı ''e-Bildirge Hizmetleri İnternet Kullanıcı Kodu ve Kullanıcı Şifresi Başvuru Formu''nu doldurduktan sonra, işyerinin işlem gördüğü sigorta müdürlüğüne vererek, başvuruda bulunacaklar. 
+     
+</TEXT>
+</DOC>

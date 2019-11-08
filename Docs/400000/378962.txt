@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 378962 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/16/son/soneko35.html </URL>
+<DATE> 2005/09/16/ </DATE>
+<TIME> 15.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+IBM, çalışanlarını "öğretmen" yapacak... 
+</HEADLINE>
+<TEXT>
+
+     IBM, ABD'nin teknolojide rekabet gücünü kaybetmekte olduğunu belirterek, matematik ve fen bilimleri öğretmenliğine geçmek isteyen çalışanlarını teşvik edeceğini duyurdu. 
+     Teşvik paketiyle ilgili detayları açıklamaya hazırlanan IBM, ilk olarak 100 şirket çalışanının deneme amaçlı projeye katılmaya uygun bulunduğunu bildirdi. 
+     IBM'in ağırlıklı olarak yazılım ve bilişim alanında uzman şirket çalışanlarını öğretmenliğe teşvik etmesine gerekçe olarak, ABD'deki eğitimin Çin ve Hindistan gibi ülkeler karşısında sürekli gerilemesi gösteriliyor. 
+     IBM'de öğretmenlik için seçilecek adayların ilk olarak müdürlerinden onay almaları gerekiyor. Öğretmenliğe başlayacak adaylar, IBM'deki maaşının yarısını ve sosyal haklarının tamamını almayı sürdürecek. Çalışanlara, öğretmenliğe başlayacakları sürede ihtiyaçlarını karşılamaları için 15 bin dolara kadar da tazminat ödenecek. Çalışanların özel ya da devlet okullarında öğretmen olarak çalışmaya başlamalarıyla kadro geçişleri yapılacak ve IBM'le bağlantıları kesilecek. 
+     Daha çok yaşlı çalışanların ilgi göstermesinin beklendiği projeyle ABD'de 250 binin üzerinde olduğu hesaplanan matematik ve fen bilimleri öğretmen açığının bir kısmının kapatılması hedefleniyor. 
+     IBM, diğer teknoloji şirketlerinin de benzer projelerle ABD'de eğitimin kalitesinin yükseltilmesi çabalarına destek vermesini istiyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 401124 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/06/son/sontur15.html </URL>
+<DATE> 2005/12/06/ </DATE>
+<TIME> 10.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kablo internette limit kalktı, ücretler indi 
+</HEADLINE>
+<TEXT>
+
+     Kablo TV şebekesi üzerinden verilen internet bağlantı ücretlerinde hem indirim yapıldı hem de aylık limitleri sınırsız hale getirildi. 
+     AA muhabirinin Türksat Uydu Haberleşme Kablo TV ve İşletme A.Ş yetkililerinden aldığı bilgiye göre, Türk Telekom’dan ayrılan Kablo TV hizmetleri Temmuz ayından bu yana Türksat A.Ş tarafından veriliyor. Türksat Uydu Haberleşme Kablo TV ve İşletme A.Ş, 21 il merkezinde Kablo TV, 12 il merkezinde ise Kablo İnternet hizmeti veriyor. 
+     Türksat A.Ş, kablo hizmetlerinde başlattığı projeler kapsamında öncelikle Kablo TV şebekesi üzerinden sağlanan internet hizmetlerini yaygınlaştırmak amacıyla tarifelerini gözden geçirdi. 
+     Kablo İnternet hizmetlerinde uygulanan tarifelerde indirime giden şirket, bağlantılardaki limitleri de kaldırdı. Kablo TV şebekesi üzerinden hangi hızda olursa olsun internete bağlananlar artık bu hizmetten limitsiz yararlanacak. Yeni düzenlemeyle uygulanan tarifeler de aşağıya çekildi. Türksat A.Ş’nin yeni tarifeleri, Telekomünikasyon Kurumu tarafından onaylandı. 
+     Yeni uygulama sayesinde Kablo İnternet hizmeti sağlanan Adana, Ankara, Antalya, Bursa, Gaziantep, İstanbul, İzmir, Kayseri, Konya, Eskişehir, İzmit, Tekirdağ illerinde aboneler, daha uygun fiyatlarla kesintisiz ve sınırsız şekilde internete erişebilecekler. Öte yandan, belirlenen yeni aylık bağlantı ücretlerine KDV ve Özel İletişim Vergisi de dahil edildi. 
+     
+     YENİ TARİFELER 
+
+     Kablo İnternet hizmetlerinde eski ve yeni tarifeler şöyle 
+     
+
+Hızlar Bağlantı Ücreti Fiyat Geniş Band Eski-Yeni Eski-Yeni Erişim .128 K 37 YTL-30 YTL 36 YTL-20 YTL - .256 K 37 YTL-30 YTL 49 YTL-37 YTL 49 YTL .512 K 37 YTL-30 YTL 99 YTL-72 YTL 99 YTL .1024 K 37 YTL-30 YTL 198 YTL-160 YTL 169 YTL .2048 K 37 YTL-30 YTL 396 YTL-250 YTL 269 YTL      
+     1.2 MİLYON ABONE 
+
+     Türksat A.Ş, halen 21 ilde 1.2 milyon aboneye Kablo TV hizmeti ulaştırıyor. Adana, Ankara, Antalya, Balıkesir, Bursa, Denizli, Edirne, Erzurum, Eskişehir, Gaziantep, İstanbul, İzmir, Kayseri, Kocaeli, Konya, Manisa, Mersin, Samsun, Tekirdağ, Yalova ve Zonguldak Kablo TV hizmeti alabiliyor. 
+     Kablo İnternet hizmeti ise halen 12 ilde verilebiliyor. Adana, Ankara, Antalya, Bursa, Eskişehir, Gaziantep, İstanbul, İzmir, Kayseri, Kocaeli, Konya ve Tekirdağ’a Kablo İnternet hizmeti verilirken, 2006 yılı içerisinde öncelikli olarak Edirne ve Manisa’ya da bu hizmetin sağlanması hedefleniyor. Türksat A.Ş, Kablo TV ve Kablo İnternet hizmetlerinin yaygınlaşarak gelişmesini ve başta TürksatDijital olmak üzere TürksatVoIP gibi yenilikleri de kısa süre içinde hizmete sunmayı planlıyor. 
+     Öte yandan Türksat A.Ş, tahsilat konusunda PTT Genel Müdürlüğü ile anlaşmaya vardı. Kablo İnternet abonelik ve bağlantı ücretleri, gelecek yıldan itibaren PTT Genel Müdürlüğü tarafından tahsil edilecek. 
+     
+</TEXT>
+</DOC>

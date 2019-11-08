@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> 119118 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/11/15/son/sontur05.html </URL>
+<DATE> 2002/11/15/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Fen ve Anadolu Lisesi sınavına yeni düzenleme... 
+</HEADLINE>
+<TEXT>
+
+     Milli Eğitim Bakanlığı MEB , Fen ve Anadolu liseleri ile bazı meslek liselerine öğrenci almak amacıyla düzenlenen Ortaöğretim Kurumları Öğrenci Seçme ve Yerleştirme Sınavı OKÖSYS sisteminde, liselerde eğitim süresinin 4 yıla çıkarılmasına ilişkin proje doğrultusunda bazı düzenlemeler yaptı. 
+     Yeni sisteme göre, Fen ve Anadolu liselerine giriş için esas alınan puan türlerinin isimlerini değiştiren MEB, fen liselerine yerleştirme ile ilgili yeni bazı kurallar belirledi. 
+     MEB'in, 8 Haziran 2003 Pazar günü yapılacak sınava ilişkin yaptığı değişiklikler, 2003-Ortaöğretim Kurumları Öğrenci Seçme ve Yerleştirme Sınavı Kılavuzu'nda yer aldı. 
+     MEB'in ortaöğretim kurumlarının öğrenim süresini 4 yıla çıkarma projesi doğrultusunda, 2003 OKÖSYS Kılavuzu'nda fen ve anadolu liselerinin hazırlık sınıflarının kaldırıldığı vurgulandı. Ancak İstanbul Lisesi ile Galatasaray Lisesi'nin 5 yıllık öğrenim süresinin 1 yılı hazırlık sınıfından oluşacak. 
+     
+     PUAN TÜRLERİ 
+     Yeni düzenlemede, Fen liselerine giriş için esas alınan Fen Ağırlıklı Standart Puan türünün ismi ''Matematik-Fen MF Ağırlıklı Standart Puan'', Anadolu ve diğer bazı meslek liselerine giriş için esas alınan ''Toplam Ağırlıklı Standart Puan'' türünün ismi de ''Türkçe-Matematik TM Ağırlıklı Standart Puan'' olarak değiştirildi. 
+     Ancak sınavda ders konularına göre yöneltilecek soruların çarpılacağı katsayılarda değişiklik yapılmadı. Adayların MF puanlarının hesaplanmasında, eskiden olduğu gibi Matematik ve Fen Bilimleri'nde 4, Türkçe'de 3, Sosyal Bilimler testinde de 1 katsayısı uygulanacak. TM puan türünün hesaplanmasında da yine eskiden olduğu gibi Türkçe ve Matematik'te 3.5, Fen ve Sosyal Bilimler'de de 2.5 katsayısı uygulanacak. 
+     
+     YERLEŞTİRME 
+     MEB, ortaöğretim kurumlarına yerleştirme sisteminde de değişikliğe gitti. Önceki sistemde olduğu gibi Fen liselerine MF Ağırlıklı Standart Puan, Anadolu ve diğer bazı meslek liselerine de TM Ağırlıklı Standart Puan türlerine göre yerleştirme yapılacak. 
+     Yerleştirme sırasında eşit puanlı adaylar için izlenecek yöntem fen liseleri ve diğer liselere göre farklılık gösterecek. 
+     Buna göre, Fen liselerine yerleştirmede MF Ağırlıklı Standart Puanların eşit olması durumunda Matematik testi standart puanı yüksek adaya, Matematik testi standart puanı eşit ise Fen Bilgisi standart puanı yüksek adaya, Fen Bilgisi testi standart puanı eşit ise Türkçe testi standart puanı yüksek adaya, Türkçe testi standart puanı eşit ise Sosyal Bilgiler testi standart puanı yüksek adaya öncelik verilecek. 
+     Diğer okullara yerleştirmede de TM Ağırlıklı Standart Puanların eşit olması durumunda, Türkçe testi standart puanı yüksek adaya, Türkçe testi standart puanı eşit ise Matematik testi standart puanı yüksek adaya, Matematik testi standart puanı eşit ise Fen Bilgisi standart puanı yüksek adaya, Fen Bilgisi testi standart puanı eşit ise Sosyal Bilgiler testi standart puanı yüksek adaya öncelik tanınacak. 
+     Her iki durumda da tüm testlere ait standart puanlarda eşitliğin devam etmesi halinde adayın okul tercih sıralamasına bakılacak. Yine eşitlik olması halinde ise yaşı küçük olana öncelik verilecek. 
+     
+     MÜKERRER ÖN KAYITLAR ÖNLENECEK 
+     Bu arada, sınavı kazanan adayların tercih ettikleri okula kesin kayıt yaptırdıktan sonra diğer okullara da ön kayıt yaptırarak ''şanslarını denemelerinin'' önlenmesi için, kesin kayıt sırasında ilköğretim okulu diplomasının aslının istenmesi kararlaştırıldı. 
+     MEB yetkilileri, bir adayın kesin kayıt yaptırdıktan sonra eğer başka bir okula ön kayıt yaptırmak istiyorsa kesin kaydını sildirmesi gerektiğine işaret etti. Buna karşın bazı adayların kesin kayıttan sonra kaybettikleri gerekçesiyle yeni sınav sonuç belgesi çıkarttırıp ön kayıt yaptırdıklarının belirlendiğini kaydeden yetkililer, söz konusu kararın bunu önlemek için alındığını bildirdiler. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

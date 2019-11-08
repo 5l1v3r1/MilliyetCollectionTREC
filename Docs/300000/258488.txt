@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 258488 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/27/son/soneko01.html </URL>
+<DATE> 2004/07/27/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     New York borsası, günü düşüşle kapadı. 
+     Borsanın temel göstergesi Dow Jones, 0.30 puan düşerek 9,961.92 puana indi. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq da 10.07 puan düşerek 1,839.02 puana indi. 
+     Dow Jones 20 Mayıs'tan, Nasdaq ise 2 Ekim 2003'ten bu yana en düşük seviyesine indi. 
+     
+</TEXT>
+</DOC>

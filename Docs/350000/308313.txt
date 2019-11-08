@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 308313 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/21/son/sonyas12.html </URL>
+<DATE> 2005/01/21/ </DATE>
+<TIME> 14.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+"Ara beni" depremde hayat kurtaracak... 
+</HEADLINE>
+<TEXT>
+
+     Haliç Üniversitesi Bilgisayar Mühendisliği Bölüm Başkanı Prof. Dr. Ali Okatan, ''Ara Beni'' adını verdiği icadıyla bir deprem anında, enkaz altında ya da bir başka felakette hayat kurtarmayı amaçlıyor. 
+     Prof. Dr. Okatan, geçen yıl Konya'nın Selçuklu İlçesi'nde çöken Zümrüt Apartmanı'ndan çok etkilendiğini ve oradaki kurtarma çalışmalarında önemli bir eksikliği fark ettiğini belirterek, şunları söyledi 
+     ''Felaketler oluyor, depremler oluyor, binalar yıkılıyor. Binaların altında insanların kalıp kalmadığını bilmiyoruz. İğne ile kuyu kazar gibi insanları kurtarmaya çalışıyoruz. Bir süre sonra 'kimse bulunamıyor' diye iş makineleriyle süpürüp atıyoruz. Böylece onlarca kişi kaybolup gidiyor. 
+     Benim üzerinde çalıştığım ve geliştirdiğim normal bir saatin içine konan bu cihaz, 'bluetooth' kablosuz iletişim teknolojisi ile bir deprem anında, enkaz altında ya da bir başka felakette cihazı taşıyanın hayatta olup olmadığını, nerede bulunduğunu bildiriyor. Normal bir saatin içinde, bileğimizdeki damarlardan kalp atışlarını algılayan bir sensör ve vücut ısısını algılayan yüzeye dokunan bir sensör var. Sonra bunlar bir mikro işlemci vasıtasıyla analiz ediliyor ve 'bluetooth' teknolojisiyle 250 metreye kadar yayın yapıyor. 
+     Bluetooth'ta herkesin bir ID kimlik numarası var. Bilgisayarımıza kayıtlı olmasa bile, bir enkaz alanında bu kişilerin yaşayıp yaşamadıklarını görebiliyoruz. Çünkü bilgisayar ekranında hepsinin durumları görülebiliyor. Enkaz altında kaç kişi var, kaçı yaşıyor, yaklaşık olarak kaç metre derinlikte olduğunu da saptayabiliyoruz. Ayrıca 'bluetooth' a yüklenecek özel kimlik bilgileri ile de, kimlerin enkaz altında olduğunu öğrenebiliyoruz.'' 
+     
+     YETİŞKİNLERE SAAT, BEBEKLERE KOLYE 
+     Prof. Dr. Ali Okatan, yetişkinlerin saat olarak kullanabilecekleri bu cihazın, çocuk ve bebeklerde kolye olarak da uygulanabileceğini dile getirerek, şunları kaydetti 
+     ''Bazı insanlar, böyle bir şeyi takıp takmamak için düşünebilir. Ama depremin ne zaman geleceği belli olmaz. Bence bu cihaz, Türkiye nüfusunun hepsine hitap ediyor. Başımıza ne zaman, ne geleceğini bilmiyoruz. Herkes bunu saat olarak kullanabilir. Sadece depremde enkaz altında arama-kurtarma çalışmalarında değil, aynı zamanda maden ocaklarında çalışanlarda, dağcılarda da bu cihaz kullanılabilir. Böylece arama-kurtarma ekipleri, bu kişilere ulaşabilir.'' ''Ara Beni'' adını verdiği cihazı için patent başvurusunda da bulunduğunu anlatan Prof. Dr. Okatan, cihazın 35-40 gram ağırlığında ve prototip maliyetinin 17 dolar olduğunu bildirdi. 
+     Bu kadar küçük ve ucuza mal edilen bu cihazı ''hayat sigortası'' olarak da nitelendiren Prof. Dr. Okatan, cihazla işadamları, saat ya da tıbbi cihaz üreticilerinin ilgilenebileceğini, aynı zamanda devletin de bu tür projelerin hayata geçirilebilmesi için katkı sağlaması gerektiğini sözlerine ekledi. 
+     Prof. Dr. Ali Okatan'ın, ''otomobiller için kara kutu ve uydu takip sistemi'', ''pilsiz dizüstü bilgisayarı'', ''uzaktan fabrika ve ev otomasyon cihazı'', bakıma muhtaç, hasta ve yaşlı insanların sağlık durumlarını takip eden ''akıllı bilezik'' gibi icatları da bulunuyor. 
+     
+</TEXT>
+</DOC>

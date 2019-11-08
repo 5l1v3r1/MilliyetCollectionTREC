@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 300000 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/22/son/sontur25.html </URL>
+<DATE> 2004/12/22/ </DATE>
+<TIME> 13.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İstanbul'da kar bekleniyor... 
+</HEADLINE>
+<TEXT>
+
+     Yağışlı hava, yarın Marmara'nın batısı ve Kıyı Ege dışında tüm yurtta devam edecek. 
+     Devlet Meteoroloji İşleri Genel Müdürlüğü'nden yapılan yazılı açıklamada, yağışların, halen İstanbul başta olmak üzere Marmara'nın doğusu, güney ve İç Ege, Batı Akdeniz, Batı Karadeniz ile İç Anadolu'nun batısında yağmur ve sağanak şeklinde devam ettiği belirtildi. 
+     Yağışlı hava yarın Marmara'nın batısı ve Kıyı Ege dışında tüm yurtta devam edecek. Yağışlar, yurdun İç ve Doğu bölgelerinde karla karışık yağmur ve kar şeklinde olacak. 
+     Öte yandan İstanbul'da bu gece ve yarın yağmur ve sağanak, yüksek yerlerde ise karla karışık yağmur bekleniyor. 
+     İstanbul'da 24 Aralık Cuma gününden itibaren yağış beklenmiyor. 
+     Bu gece ve yarın İstanbul'da 2-3 derece azalacak olan hava sıcaklığı hafta sonundan itibaren tekrar artacak. 
+     
+
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 332211 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/11/son/soneko41.html </URL>
+<DATE> 2005/04/11/ </DATE>
+<TIME> 15.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bakır fiyatlarında rekor yükseliş... 
+</HEADLINE>
+<TEXT>
+
+     Londra Metal Borsası'nda LME bakırın tonu, tarihinin en yüksek seviyesi olan 3 bin 320 dolara çıktı. 
+     Analistler, Asya kaynaklı hızlı talep artışının ve yetersiz arzın rekor yükselişte önemli rol oynadığını, fakat işlem hacminin çok dar olduğunu belirtiyorlar. 
+     Uluslararası bakır borsalarında önceki rekor, 3 bin 308 dolarla Mart sonunda kaydedilmişti. 
+     Ağırlıklı olarak inşaat, elektrik-eletronik ve beyaz eşya sektörlerinde kullanılan ve Ekim 2001'de bin 364 dolardan satılan bakırda fiyatlar, son 3 buçuk yılda yaklaşık 2 buçuk kat arttı. 
+     Dünya bakır tüketiminin yaklaşık 4'te 1'ini tek başına gerçekleştiren Çin'den kaynaklanan talep artışının ve ertelenen yatırımlar nedeniyle sağlanamayan üretim artışının fiyatların yükselmesinde en önemli faktörler olduğu ifade ediliyor. 
+     Dünya bakır üretiminin önemli bir kısmı Şili'de gerçekleştirilirken bu ülkeyi ABD, Kanada, Demokratik Kongo Cumhuriyeti, Zambiya, Peru, Polonya, Rusya, Kazakistan, Meksika ve Endonezya izliyor. 
+     
+</TEXT>
+</DOC>

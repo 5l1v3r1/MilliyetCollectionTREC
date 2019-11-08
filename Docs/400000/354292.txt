@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 354292 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/22/son/sondun01.html </URL>
+<DATE> 2005/06/22/ </DATE>
+<TIME> 00.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İlk uzay yelkenlisi fırlatıldı... 
+</HEADLINE>
+<TEXT>
+
+     Amerikalılarla Rusların ortaklaşa ürettiği, güneş enerjisiyle çalışan "Kozmos1" adlı deneysel uzay yelkenlisi, bu akşam bir Rus denizaltısından fırlatıldı. 
+     Planetary Society şirketinin sözcüsü, 4 milyon dolarlık proje kapsamında geliştirilen yelkenlinin, Barents denizinde, denizaltıdan balistik füze yardımıyla fırlatıldığını kaydetti. 
+     Yelkenli, 900 km irtifada dünya yörüngesine oturduktan sonra, panellerini gibi açarak güneş enerjisiyle hareket edecek. 
+     "Kozmos1"in, her biri 14 m boyunda, üçgen biçiminde 8 güneş paneli var. Yaprak gibi açılınca yelkeni andıran panellerin toplayacağı güneş enerjisi sayesinde, "Kozmos1", yakıt harcamadan yol alabilecek. 
+     Güneş enerjisi kullanan uzay gemilerinin yakıt sorunu olmadığı için uzayda hızla hareket edebilecek gemiler halini alacağı tahmin ediliyor. Bu deney, güneş enerjisinin, uzun uzay yolculuklarında kullanılabileceğini gösterecek. 
+     
+</TEXT>
+</DOC>

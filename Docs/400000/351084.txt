@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 351084 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/11/son/sontur02.html </URL>
+<DATE> 2005/06/11/ </DATE>
+<TIME> 03.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Başkent'te trafo yangını... 
+</HEADLINE>
+<TEXT>
+
+     Ankara’nın Etlik semtinde, elektrik kablolarının kısa devre yapması sonucunda bir trafoda yangın çıktı. 
+     AA muhabirinin edindiği bilgiye göre, Etlik Aşağı Eğlence Mimarlar Sokak’taki trafoda çıkan yangın, itfaiyenin müdahalesiyle kısa zamanda söndürüldü. Ancak trafoda meydana gelen hasar, civardaki semtlerde elektriklerin bir süre kesilmesine neden oldu. 
+     Yetkililer, yangının kısa devreden kaynaklandığını belirtirken, yangın çevredeki vatandaşlara korkulu dakikalar yaşattı. 
+     Başkent Elektrik Dağıtım A.Ş. yetkilileri ise yangın nedeniyle yaklaşık bir saat süreyle bazı semtlere elektrik verilemediğini, arızanın giderilmesi için çalışıldığını söylediler. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 385623 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/10/son/sonyas22.html </URL>
+<DATE> 2005/10/10/ </DATE>
+<TIME> 20.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+SMS ile çalışan su ısıtıcısı üretildi 
+</HEADLINE>
+<TEXT>
+
+     İngiltere'de kısa mesajla çalıştırılabilecek su ısıtıcı üretildi. 
+     İngiltere'de Ocak ayında satışa çıkacak, ''ReadyWhenUR'' adlı su ısıtıcıyı kettle çalıştırmak isteyenin, işten eve gelirken ''switch on'' çalıştır kelimelerini SMS olarak göndermesi yetecek. 
+     Tasarımı Wallace and Gromit firmasına ait yüksek teknoloji ürünü su ısıtıcı, sahibinin cep telefonu numarasıyla programlanan bir radyo alıcısına sahip bulunuyor. 
+     Su ısıtıcısı, ''çay saati için devrim yaratan bir ürün'' olarak niteleniyor. 
+     
+</TEXT>
+</DOC>

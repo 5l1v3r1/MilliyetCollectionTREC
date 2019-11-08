@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 200424 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/07/son/sontur09.html </URL>
+<DATE> 2003/12/07/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İmarzede yasa tasarısı, Meclis Komisyonu'nda görüşülecek... 
+</HEADLINE>
+<TEXT>
+
+     İmar Bankası'ndan makbuz karşılığı devlet iç borçlanma senetlerinin karşılığının ödenmesini ve bu bankaya ilişkin bazı işlemleri düzenleyen yasa tasarısı yarın TBMM Plan ve Bütçe Komisyonu'nda görüşülecek. 
+     Bankacılık işlemleri yapma ve mevduat kabul etme izni kaldırılan bankalarda bulunan ve doğruluğu hiçbir şüpheye yer vermeyecek şekilde kanıtlanan tasarruf mevduatı niteliğine sahip hesapların Tasarruf Mevduatı Sigorta Fonu TMSF tarafından ödenmesi hükmününü koruyan tasarı, İmar Bankası mudileri için kararlaştırılan taksitli ödemeye ilişkin işlemleri de yasa hükmü haline getiriyor. 
+     Buna göre, ödemelerde esas alınacak faiz oranları, mevduat tutarlarına bağlı olarak defaten veya taksitler halinde ödeme, ödemelerle ilgili mudiler ve hak sahiplerinden alınacak taahhütnamelerde yer alacak hususlar ile ödemelere ilişkin diğer hususlar Hazine Müsteşarlığı ve TMSF'nin ortak önerisi üzerine Bakanlar Kurulu tarafından belirlenecek. 
+     
+     OFF-SHORE'DAN AKTARILMIŞ GÖRÜNENLER 
+     Bankacılık işlemleri yapma ve mevduat kabul etme izninin kaldırıldığı tarihten geriye doğru bir ay içinde, kıyı bankalarındaki off-shore hesapları, gerçek bir nakit hareketi sağlanmaksızın TMSF güvencesi kapsamına almak amacına yönelik olarak, el konulan bankaların yurt içi kayıtlarına, muhabir banka karşılığı nakden veya el konulan banka dışındaki bir başka banka aracılığıyla ödenmeksizin aktarıldığı tespit edilen hesaplar ile muvazaalı olduğu TMSF tarafından tespit edilen hesaplar için ödeme yapılmayacak. 
+     Tasarı ile TMSF'ye devredilen bankalardaki hesap sahiplerine ödeme yapılması için öngörülen devlet iç borçlanma senedi ihraç limiti 8.5 katrilyona çıkarılıyor. 
+     
+     DEVLET İÇ BORÇLANMA SENEDİ ALANLAR 
+     İmar Bankası'ndan makbuz karşılığı devlet iç borçlanma senedi almış yatırımcılara belli koşullarda ödeme yapılmasını da öngören tasarı uyarınca, makbuz karşılığı satıldığı hiçbir şüpheye yer vermeyecek şekilde kanıtlanan devlet iç borç senedi karşılığı tutarlar da ödenecek. 
+     Ödeme, Merkez Bankası'nca 3 Temmuz 2003 tarihinde Resmi Gazete'de ilan edilen devlet iç borçlanma senetlerinin günlük değerleri esas alınarak hesaplanacak tutarlar üzerinden, mevduatların ödenmesinde izlenecek usul ve esaslara göre TMSF aracılığıyla yapılacak. Bu amaçla Hazine Müsteşarlığı'nca TMSF'ye özel tertip iç borçlanma senedi ihraç edilecek. 
+     Ancak, kolluk kuvvetleri ve savcılığın aramaları esnasında İmar Bankası'nın bilgi işlem sistemi dahilinde ele geçirilen devlet iç borç senedi alanları gösterir listelerde yer almayanlar ile İmar Bankası'nın bankacılık işlemleri yapma ve mevduat kabul etme izninin kaldırıldığı tarihten sonra alındığı tespit edilen karşılıksız devlet iç borçlanma senetlerine ilişkin bir ödeme yapılmayacak. 
+     İmar Bankası'ndan devlet iç borçlanma senedi almamasına rağmen sahte olarak düzenlediği veya sahte olduğunu bildiği belgeleri ibraz ederek veya ettirerek kendisine ya da bir başkasına ödeme yapılmasını talep edenlere 4 yıldan 8 yıla kadar hapis cezası verilecek. İmar Bankası nezdinde bulunan tasarruf mevduatı ve devlet iç borçlanma senedi satışı altında karşılıksız toplanan tutarlarla ilgili olarak hak sahiplerine yapılacak ödemelere ilişkin düzenlenecek belgeler her türlü vergi, resim ve harçtan muaf tutulacak. 
+     
+     FAZLA VE HAKSIZ ÖDEMELER GERİ ALINACAK 
+     Yapılacak incelemeler sonucunda mudilere ve hak sahiplerine fazla veya haksız ödeme yapıldığının tespit edilmesi halinde, ödenen meblağ TMSF tarafından tahsil edilecek. TMSF tarafından mudi veya hak sahibi adına bir bankada hesap açılmış olması halinde, açılan ve bloke edilen hesap, mudi veya hak sahibinin TMSF adına doğmuş veya doğabilecek borcunun teminatı olarak vade sonuna kadar rehnedilecek. 
+     TMSF'ye herhangi bir nedenle borçlu olanların alacakları öncelikle bu kuruma olan borçlarına mahsup edilecek. Bu hüküm ödeme tarihinden önce kamu kurum ve kuruluşları tarafından yapılacak yazılı bildirime istinaden diğer amme alacakları için de uygulanacak. 
+     Bakanlar Kurulu'nca mudilere ve hak sahiplerine vadeli ödeme yapılmasına karar verilmesi halinde, mudiler ve hak sahipleri adına açılacak hesapların rehin, haciz, temlik ve benzeri hukuki ilişkilere konu edilseler bile vadelerinden önce hesap sahipleri veya hak iddia eden üçüncü kişilere ödenmesi talep edilemeyecek. 
+     
+</TEXT>
+</DOC>

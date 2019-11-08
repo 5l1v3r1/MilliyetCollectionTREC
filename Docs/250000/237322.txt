@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 237322 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/04/son/sonyas09.html </URL>
+<DATE> 2004/05/04/ </DATE>
+<TIME> 12.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dikkat Yeni virüs Sasser saldırıyor... 
+</HEADLINE>
+<TEXT>
+
+     İnternette Sasser adında yeni bir virüs hızla yayılırken, kısa sürede milyonlarca bilgisayarı etkiledi. 
+     Antivirüs yazılımı üreten Fin firması F-Secure yetkililerinden Mikko Hyppoenen, ''worm'' türü Sasser virüsünün diğer birçok virüsün aksine elektronik posta yoluyla bulaşmadığını, ''kurbanlarını rastgele seçtiğini'' söyledi. 
+     Virüsün bulaştığı bilgisayarı kapattığı, yeniden açtığı ve bunu birçok kez tekrarladığını belirten Hyppoenen, bilgisayarı kullanmayı engellese de virüsün zararsız olduğunu ifade etti. 
+     ''Blaster'' virüsünün geçen yıl ağustos ayında milyonlarca bilgisayarı etkilediğini belirten Hyppoenen, Sasser'in daha fazla bilgisayara bulaşabileceğini söyledi. 
+     Antivirüs üreticisi Amerikan firması Symantec'e göre, 15.872 byte boyutundaki virüs, Windows 2000, Windows Server 2003 ve Windows XP işletim sistemi kullanılan bilgisayarlara ''saldırıyor''. 
+     Sasser virüsü, Linux, McIntosh, Novell Netware, OS 2, UNIX, Windows 95, Windows 98, Windows Me ve Windows NT sistemleri kullanılan bilgisayarları etkilemiyor. 
+     Sasser'in Microfost yazılımlarındaki bir güvenlik açığından faydalandığını belirten uzmanlar, virüsün bu açığı tespit ettiği bilgisayarlara rastgele saldırdığını söylediler. 
+     Amerikan Panda Software firmasına göre, virüsten en çok etkilenen ülkeler arasında Estonya, İsrail, Tayvan, İspanya ve Fransa bulunuyor. 
+     Sasser'in ilk olarak 2 Mayıs Pazar günü sabaha karşı, Microsoft'un 18 gün önce çıkardığı son yamayı sistemlerine kurmayan kullanıcıların bilgisayarlarında görüldüğü belirtiliyor. 
+
+     
+</TEXT>
+</DOC>

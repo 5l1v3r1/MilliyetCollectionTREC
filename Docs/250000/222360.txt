@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 222360 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/15/yasam/yas05.html </URL>
+<DATE> 2004/03/15/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Robot yarışında hüsran 
+</HEADLINE>
+<TEXT>
+
+   13 milyon dolar harcanan 'robot yarışı'nda araçlar, start çizgisinin 15 kilometre ötesine dahi gidemedi 
+      DIŞ HABERLER SERVİSİ 
+   
+   ABD Savunma Bakanlığı'nın Pentagon girişimleriyle önceki gün California'da çölde düzenlenen robot yarışı hüsranla sonuçlandı. Pentagon'a bağlı Gelişmiş Savunma Araştırmaları Projeleri Ajansı'nın DARPA 13 milyon dolar harcayarak organize ettiği 1 milyon dolar ödüllü 'Büyük Yarış'ta hiçbir robot araç, 300 kilometreye yakın parkurda start çizgisinin 15 kilometre ötesine gitmeyi başaramadı. DARPA bu tip projeleri destekleyerek 2015 yılına kadar robotların kullandığı insansız savaş araçları geliştirilmesini hedefliyor. Böylece savaş alanlarında insan kayıpları en aza inebilecek. 
+   
+   
+</TEXT>
+</DOC>

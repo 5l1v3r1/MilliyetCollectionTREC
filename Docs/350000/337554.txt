@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 337554 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/27/son/sonyas26.html </URL>
+<DATE> 2005/04/27/ </DATE>
+<TIME> 13.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Konuşma ve görüntüleri ömür boyu saklayan bilgisayar 
+</HEADLINE>
+<TEXT>
+
+     Geleceğin bilgisayar teknolojisinde bir kişinin ömür boyu konuşma kayıtlarını ve onlarca yılın fotoğraflarını depolamak mümkün olacak. 
+     Microsoft'un araştırma ve geliştirme bölümünün Başkanı Richard F. Rashid, kuruluşun Pekin'den San Francisco'ya 5 araştırma laboratuvarında görevli 700 araştırmacıya hitaben konuşmasında, gelecekte kamera ve diğer alıcılarla donatılmış düğme büyüklüğünde bilgisayarların tişörte iliştirilerek, kişinin hareket, eylem ve konuşmalarını kayda geçirebileceğini belirtti. 
+     Bu teknolojinin gelecekte daha anlamlı işler için kullanılabileceğini belirten Rashid, uzmanların şu anda bir kişinin ömür boyu bilgilerinin depolanması ve bunun istendiğinde geri çağrılmasını sağlayacak yöntem için çabaladıklarını kaydetti. 
+     Bu sistemin kişinin gizlilik hakkına yönelik endişeleri artıracağını bildiğini kaydeden Rashid, bu yolla örneğin bir dijital fotoğraf çekildiğinde coğrafi koordinatların da kaydedilebileceğini, bir aile tatil fotoğraflarını görmek istediğinde, tatil yapılan yerin adını yazmanın yeterli olacağını belirtti. 
+     Rashid ayrıca, Microsoft'un klavye yerine kullanıcıların bilgisayarlarına dikte etme yöntemi olarak el yazısı veya konuşma tanıma programları geliştirilmesi için yaptığı büyük yatırıma karşın, klavyelerin daha en az 10 yıl daha kullanılacağını söyledi. 
+     
+</TEXT>
+</DOC>

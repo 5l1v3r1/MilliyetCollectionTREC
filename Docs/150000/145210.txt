@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 145210 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/03/25/son/sondun07.html </URL>
+<DATE> 2003/03/25/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hotmail'de günlük e-mail sınırlaması... 
+</HEADLINE>
+<TEXT>
+
+     Amerikan yazılım devi Microsoft, ücretsiz e-mail servisi veren ''Hotmail'' aracılığıyla gönderilecek mektup sayısını günde 100 adetle sınırladı. 
+     Microsoft yetkilileri, kararın, ''spam'' olarak adlandırılan kitle halinde lüzumsuz e-mail gönderilmesini engellemek amacıyla alındığını ifade ettiler. 
+     Hotmail hizmetinden tüm dünyada yaklaşık 110 milyon kişinin yararlandığı belirtiliyor. Ancak Microsoft yetkilileri, kullanıcıların yüzde 99'unun gereksiz e-mail göndermedikleri için kısıtlamadan etkilenmeyeceklerini belirttiler. 
+     Kaynaklar, Hotmail gibi çok yaygın şekilde kullanılan diğer e-mail servisi Yahoo'da da benzeri kısıtlamalar bulunduğuna dikkat çekiyorlar. 
+     Uzmanlar gereksiz e-mail miktarının son 18 ay içinde yüzde 500 arttığını bildirdiler. 
+     
+
+
+
+
+</TEXT>
+</DOC>

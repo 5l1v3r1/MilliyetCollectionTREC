@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 329298 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/01/son/soneko30.html </URL>
+<DATE> 2005/04/01/ </DATE>
+<TIME> 12.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Vergi idaresinde e-beyan rahatlığı... 
+</HEADLINE>
+<TEXT>
+
+     Gelirler Genel Müdür Vekili Osman Arıoğlu, elektronik beyanla birlikte, vergi dairelerinde yıllardır görülen kuyrukların bu yıl ortadan kalktığını bildirdi. 
+     Arıoğlu, bu yıl 2004 sonu itibarıyle belirli aktif toplamı ve ciroya sahip mükellefler için zorunlu hale getirilen elektronik beyan uygulamasının, hem mükellefler hem de idare açısından çok hızlı bir hizmet akışı sağladığını söyledi. 
+     Her yıl gelir vergisi beyan dönemi olan Mart ayı ile kurumlar vergisi beyan dönemi olan Nisan aylarında vergi dairelerinin önünde uzun kuyruklar oluştuğunu, vatandaşların beyannamelerini verebilmek için uzun süre beklediğini kaydeden Arıoğlu, şöyle devam etti 
+     ''Ancak elektronik beyanla birlikte, artık yıllardır vergi dairelerinde görmeye alıştığımız uzun kuyruklar, tamamen ortadan kalktı. Gelir vergisi beyan döneminin son günlerinde bile hiç bir vergi dairemizde bir sorun yaşanmadı. Aynı rahatlık, kurumlar vergisi beyannamelerinin verilmeye başlandığı bu ay içinde de görülecektir. 
+     Mart ayı içinde Gelir İdaresi, internet ortamında 956 bin beyanname aldı. Bunların 390 binini 2004 yılı gelirleri için verilen gelir vergisi beyannameleri oluşturdu. Aynı şekilde geçen ay 62 bin kurum stopajı, 500 bin de katma değer vergisi beyannamesi elektronik ortamda verildi. İnternet ortamında alınan 4 bin beyannameyi de, diğer vergilere ilişkin beyanlar meydana getirdi.'' Arıoğlu, bu beyannameler normal yollarla verilse ve her beyan için 5 dakika harcansa dahi, bunların alınmasının 79 bin 667 saatlik bir işlem gerektirdiğini hatırlattı. 
+     Arıoğlu, ''8 saatlik mesai dikkate alındığında ise bu 10 bin gün-adamlık bir tasarruf demektir. E-beyan ile hem mükellef kuyruklarda beklemedi hem de gelir idaresi daha etkin bir hizmet verme olanağına kavuştu'' dedi. 
+     
+     SIRA BEYANLARIN İŞLENMESİNDE 
+     Gelirler Genel Müdür Vekili Arıoğlu, internet ortamında verilenlerin yanı sıra Mart ayında verilen diğer gelir vergisi beyannamelerinin de, kısa süre içinde veri ambarına işlenmeye başlanacağını söyledi. 
+     Arıoğlu, bu işleminin tamamlanmasının ardından, beyannamelerinin gerçeğe uygunluk araştırmasına geçileceğini ve standart sapma gösteren gelir vergisi beyannamelerini, ilgili meslek odalarını da çağırarak, birlikte değerlendirmeye alacaklarını bildirdi. 
+     Geçen yıl e-beyan uygulamasını başlatan Maliye Bakanlığı, bu yıl içinde yayımladığı bir tebliğle, 31 Aralık 2004 tarihi itibarıyle aktif toplamı 200 milyar Türk Lirasını ya da 2004 hesap dönemine ait ciroları toplamı 400 milyar Türk Lirasını aşan mükelleflere, elektronik ortamda beyan zorunluluğu getirmişti. 
+     Yeni uygulamayla birlikte, artık binlerce beyanname internet ortamında veriliyor ve hemen değerlendirmeye alınıyor. 
+     
+</TEXT>
+</DOC>

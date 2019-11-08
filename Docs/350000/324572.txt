@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 324572 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/17/son/sonyas09.html </URL>
+<DATE> 2005/03/17/ </DATE>
+<TIME> 11.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İlk hidrojenli motosikletin 'sessizliği' sorun oldu 
+</HEADLINE>
+<TEXT>
+
+     LONDRA, DHA 
+
+      İNGİLİZ mühendisler dünyanın hidrojenle çalışan ilk motosikletini üretti. Atık olarak sadece su buharı çıkardığı için tamamen çevre dostu olan bu prototip motosikletin şimdilik tek bir 'sorunu' var Bir dizüstü bilgisayar kadar sessiz çalışması... Ancak 8 bin 300 dolarlık bu prototipi geliştiren Intelligent Energy şirketi, trafikte kolay fark edilmesi ve kazalara neden olmaması için taşıta 'motor gürültüsü' çıkaran bir cihaz eklemeyi düşünüyor. 
+     
+     SAATTE 80 KİLOMETRE HIZ YAPIYOR 
+     'Nötr Emisyonlu Taşıt' ENV olarak adlandırılan motosiklet, evrak çantası büyüklüğündeki bir yakıt hücresine doldurulan yüksek basınçta sıkıştırılmış hidrojeni yakıt olarak kullanıyor. Azami hızı saatte 80 kilometre olan ve deposu doldurulmadan 160 kilometre mesafe katedebilen motosiklet, 'gürültü kirliliği'nden şikayetçi çevreleri bir hayli memnun etti. Ancak üretici firma taşıtın neredeyse hiç ses çıkarmadan yol almasının trafikte çeşitli tehlikeler yaratabileceğini düşünüyor. 
+     Şirket bu nedenle kent içinde motosikletin yayalar ve araçlar tarafından rahat fark edilebilmesi için o anda 'motor sesi' çıkaracak bir cihazı araca ekleyecek. Şehir dışındaki sakin bölgelere çıkıldığında ise gürültü kirliliğine neden olmamak için sürücü bu ses cihazını kapatılabilecek. 
+     
+</TEXT>
+</DOC>

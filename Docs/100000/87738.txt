@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 87738 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/06/03/son/sontur06.html </URL>
+<DATE> 2002/06/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Resmi kurumlara sanal alemde hacker'lerden rahat yok 
+</HEADLINE>
+<TEXT>
+
+     İnternet'te hacker'' olarak bilinen kırıcılar, resmi kurumları sanal alemde rahat bırakmıyor. 
+     Vatandaşlara internet üzerinden, çalışmaları hakkında bilgi vermek, bazı işlemlerini kurum ve kuruluşlara gelmeden sanal alem üzerinden yapma kolaylığı getirmek için site kuran resmi kurum ve kuruluşlar, ''hacker''ların en büyük hedefleri arasında yer alıyor. 
+     İnternette kırılan siteler hakkında bilgi veren ''http defaced.alldas.org''un istatistikleri, 9 Ağustos 2000'den itibaren, ''gov.tr'' adresi kullanan resmi kurumlara ait sitelerin, 44 kez çökertildiğini belirledi. 
+     Son olarak dün Nevşehir Türk Telekom'a ait siteyi çökerten ''hacker''ler, önceki gün de kendini satanist olarak gösteren bir grup tarafından Diyanet İşleri Başkanlığı'nın resmi internet sitesini kırmıştı. 
+     Kırıcıların daha çok belediyeler ve Türk Telekom'a ait birimleri hedef aldıkları belirtildi. 
+     -''SİTENİZİ HER DAKİKA KONTROL ETTİRİN''- Türk İnternet Birliği kurucularından Hakan Topuzoğlu, birçok resmi kurumun, internet sitelerini güncellemedikleri, ''broşür bastırır'' gibi internet sitesi hazırlayıp, bir daha ilgilenmedikleri için kolaylıkla hacker'ların saldırısına uğradığını söyledi. 
+     Topuzoğlu, bu tür kurumlarda siteyi sürekli kontrol eden bir kişinin görevlendirilmesi gerektiğini belirterek, şunları söyledi 
+     ''Acaba yarın sıra hangi gov.tr uzantılı adrese gelecek 
+     Başbakanlık, Dışişleri, Milli Eğitim Bakanlığı mı Peki ne yapılabilir Ateş duvarı oluşturma, yoğun güvenlik önlemleri gibi teknik önlemler bir yana bu işin en güzel çözümü, bu işi ciddiye almakla ve iş olarak görmekle başlayacaktır. Nasıl mı Sitenizi her dakika kontrol eden bir kişi olacak Siteye gelen e-postalara anında cevap veren bir görevlinin olması gerekir. Bu tarz sorunlarla karşılaşmak mümkün ama eğer devamlı gözetim altında tutarsanız en çok yarım saat bu sorun devam etmiş olacak.'' 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

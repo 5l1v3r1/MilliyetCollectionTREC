@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 362429 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/19/son/sonsiy02.html </URL>
+<DATE> 2005/07/19/ </DATE>
+<TIME> 09.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İlk e-imza Şener'in 
+</HEADLINE>
+<TEXT>
+
+     ANKARA Milliyet 
+
+      Elektronik dönüşüm projesi çerçevesinde "bilgisayar ortamında imza" olarak bilinen e-imza uygulaması başlatıldı. Türkiye'de ilk elektronik imzayı Başbakan Yardımcısı Abdüllatif Şener aldı. 
+     Telekomünikasyon Kurumu dün yaptığı törenle e-imza projesini hayata geçirdi. 
+     E-imza projesine göre kamu çalışanlarının e-imza için kurumsal sertifika almaları tek merkezden gerçekleştirilecek. Bu konuda TÜBİTAK-UEKAE yetkili kılınacak. Ayrıca özel kuruluş ve kişiler de imza sertifikalarını Turktrust ve e-güven'den alabilecek. Başbakan Yardımcısı Şener'in katıldığı törende ilk elektronik imza da verildi. Şener, e-imza için şifresini belirlediği sırada şifre bilgilerinin salondaki dev ekrana yansıması üzerine, "Ben bu şifreyi daha sonra değiştireyim" diye espiri yaptı. 
+     
+</TEXT>
+</DOC>

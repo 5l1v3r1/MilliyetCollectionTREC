@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 101822 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/08/14/son/sondun03.html </URL>
+<DATE> 2002/08/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Internet Explorer'da güvenlik hatası olduğu iddia edildi 
+</HEADLINE>
+<TEXT>
+
+     Microsoft'un internet tarayıcısı Internet Explorer'da IE ciddi güvenlik hatası bulunduğu, IE aracılığıyla internet üzerinden kredi kartı numarası veren kişilerin sorunlarla karşılaşabilecekleri öne sürüldü. 
+     İnternet güvenliğiyle ilgili araştırma yapan uzmanlar, ''kullanıcıların internetten mal alma ya da elektronik ticaret amacıyla IE aracılığıyla kredi kartı numarası gibi hassas bilgileri aktarmaya kalkışmaları halinde, bu bilgilerin üçüncü kişiler tarafından öğrenilebilmesi olasılığının bulunduğunu'' ifade ettiler. Mike Benham adlı araştırmacı, ''IE'deki bu hataların yaklaşık 5 yıldır bilindiğini'' söyledi. 
+     Uzmanlar, IE'nin, web sitelerinin kimliklerini doğrulayan ''sayısal sertifikaları'' kontrol yeteneğinden yoksun olduğunu savunuyor. Bu durum, verilen gizli bilgileri ele geçirmek için araya giren kişinin farkedilmesini engelliyor. Söz konusu sertifikalar VeriSign Inc. gibi otorite sayılan kuruluşlar tarafından veriliyor ve kısaca SSL olarak bilinen güvenlikli bilgi aktarımı sağlayan şifreleme sistemlerinin varlığını kanıtlıyor. 
+     Ancak Benham, ''herhangi bir web sitesi için yasal yoldan sayısal sertifa alan bir kişinin, başka bir web sitesi için düzmece sertifika hazırlayabileceğini'' ileri sürdü. Uzman, ''bu durumun çok vahim olduğunu'' da sözlerine ekledi. Bu varsayımın, ''Counterpane'' internet güvenlik kuruluşu hesabına çalışan şifreleme uzmanı Bruce Schneier tarafından doğrulandığı belirtiliyor. Schneier, ''Şayet IE kullanıyorsanız, SSL'in sağladığı şifreleme güvenliği sizin açınızdan geçersizdir'' diye konuştu. 
+     Microsoft'un IE'deki bu açığı ciddi biçimde araştırmakta olduğu yetkililerce ifade edildi. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

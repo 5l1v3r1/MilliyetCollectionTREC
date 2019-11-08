@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 275750 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/28/son/sonyas07.html </URL>
+<DATE> 2004/09/28/ </DATE>
+<TIME> 10.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dikkat 100 bin virüs kapıda 
+</HEADLINE>
+<TEXT>
+
+     İnternet kullanıcılarının neredeyse yarısı internette başlarına gelebilecek sorunlara karşı ne yapacağını bilmiyor. Oysa güvenlik her geçen gün daha büyük bir sorun haline geliyor... 
+     McAfee firmasının yaptırdığı bir araştırmaya göre bilgisayarlarımıza bulaşabilecek virüs ve benzeri yazılımlar 100 bine ulaşmış durumda. 100 bininci güvenlik sorunu da Sdbot adlı casus yazılım oldu. Söz konusu solucan bilgisayarda karşı tarafın izinsiz erişimine olanak sağlayan bir kapı açıyor. 
+     Aynı araştırmada en riskli grubun ev kullanıcıları olduğu ortaya çıktı. Birçok kullanıcı temel güvenlik önlemlerinden habersiz olduğu için bilgisayarına bu tip virüs ve solucanların bulaştığının farkına bile varamıyor. 
+     Antivirüs yazılımı geliştiren firmaların ortak verilerine göre her gün 25 ile 50 yeni virüs ortaya çıkıyor. Sadece 2003 yılında yazılan virüs yazılımlarının adedi 22 bindi. 
+     Bu rakamın 2004 yılında daha da yüksek olması bekleniyor. Virüslerin neredeyse tamamı Microsoft Windows'u hedef alıyor. 
+     Güvenlik uzmanlarını endişelendiren virüs sayısından çok bu tip yazılımlarla gelir elde eden kişilerin sayısındaki artış. Ele geçirilerek istenmeyen reklam mektupları yollatılan bilgisayarlar, ele geçirilen şifrelerle boşaltılan banka hesapları gibi birçok güncel sorun siber güvenliği her geçen gün daha kritik bir konuma getiriyor. Sektör raporlarına göre her gün 30 bin bilgisayar zombi haline geliyor ve reklam mektupları dağıtıyor. 
+     
+     Sorun bilgisizlik 
+
+     Norton yazılımlarıyla tanıdığımız Symantec ve Insight Express tarafından yürütülen bir çalışmaysa 'phising' olarak adlandırılan şifre avcılığı konusuna dikkat çekiyor. Buna göre internet kullanıcılarının yüzde 45.8'i dolandırıcılığa karşı nasıl korunacağına dair hiçbir bilgiye sahip değil. Buna rağmen yüzde 75.7'si casus yazılımların varlığından haberdar. Ancak şifre avcılığı konusunda bilgi sahibi olanların oranı sadece yüzde 27.9'da kalıyor. 
+     Ankete katılanların neredeyse yarısı günde en az bir kere kişisel bilgilerini isteyen e-mektuplar aldığını belirtmiş. Her beş kullanıcıdan biri de her gün en az bir sahte siteye rastladığını söylüyor. İnternete güvenmeyenlerin oranıysa yüzde 15'e ulaşıyor. 
+     Şifre avcılığına karşı çalışan APWG özellikle kişisel bilgilerinizi isteyen mektuplara karşı dikkatli olmanızı salık veriyor. Yazılım hataları da ipuçlarından bir diğeri. Kullanılan cümlelerdeki gizli tehditler de bir gariplik olduğunu gösterir. 'Güncellemeyi yapmazsanız hesabınız kapatılacaktır' gibi yöntemler asla akılcı bir sitenin kullanacağı türden değil. 
+     Çoğu zaman hayat kurtaracak önlemse ziyaret ettiğiniz site açıkken adres satırına bakmak. Kimi durumlarda bambaşka bir adresteki taklit sitenin içinde geziyor olabilirsiniz. 
+     Güvenlik uzmanlarının ortak tavsiyesi mutlaka bir antivirüs yazılımı kullanmak ve bilgisayarınızı düzenli olarak vasus tarayıcılarla taramak. Gerisi biraz 'uyanık' olmaya bağlı. 
+     Güvenlik sözlüğü 
+     Virüs Bilgisayara yerleşen ve kendini başka bilgisayarlara çeşitli yöntemlerle kopyalayan kimi zaman sisteme zarar veren yazılım. 
+     Adware Bilgisayara gizlice yüklenerek ekrana sürekli reklamlar çıkaran ve tarayıcınızın ana sayfasını değiştiren kimi zaman da düzeltmenize izin vermeyen yazılımlar. 
+     Spyware Hangi siteleri gezdiğiniz, hangi reklamlara tıkladığınız gibi bilgilerin yanı sıra kimi zaman kullanıcı adı ve şifrelerinizi de kaydeden yazılımlar. Genellikle bu bilgileri programı size yollayan korsana e-posta ile yollarlar. Kimi zaman virüslerden daha tehlikeli olabilir. 
+     Zombi Yasadışı reklamcılar tarafından ele geçirilmiş ve farkında olmadan yüz binlerce kişiye reklam mektupları yollayan bilgisayarlar. 
+     Phishing İngilizce 'password harvesting fishing'den türeyen bir terim. Şifre avcılığı anlamına geliyor. 
+     
+</TEXT>
+</DOC>

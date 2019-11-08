@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 404700 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/19/son/soneko20.html </URL>
+<DATE> 2005/12/19/ </DATE>
+<TIME> 12.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Erem Karabey, Google Türkiye Müdürü oldu... 
+</HEADLINE>
+<TEXT>
+
+     Yeni kurulan Google Türkiye operasyonunun başına, Google Türkiye Ülke Müdürü sıfatı ile Erem Karabey atandı. 
+     Google'ın, yerel kullanıcı ve reklam verenleri en iyi ürün ve hizmetlerle buluşturmak amacıyla başlattığı Avrupa yatırım programı çerçevesinde gerçekleştirilen atama ile Karabey, daha önce hizmet verdiği Siemens Mobile ve Bertelsmann gibi firmalardaki yönetim ve pazarlama konusundaki deneyimlerini Google Türkiye için kullanacak. 
+     Google Avrupa operasyonlarından sorumlu Başkan Yardımcısı Nikesh Arora, Erem Karabey'in ekiplerine katılmasından çok memnun olduklarını vurgulayarak, şunları kaydetti 
+     ''Google, yerel stratejiler ile hareket eden global bir firma. Biz sunduğumuz ve gelecekte sunacağımız ürün ve hizmetler ile, Türk toplumunun daha fazla bilgiye daha fazla yöntemle erişme imkanı sağlamayı ve küçük ya da büyük tüm reklam verenlerin arama motoru reklam sistemlerinden en büyük faydayı elde etmelerini amaçlıyoruz.'' Erem Karabey de ''Heyecanımızı, birlikte çalışmak istediğimiz yayıncılara, reklam verenlere ve ajanslara da aktararak Türkiye online pazarını hep beraber geliştirmeyi hedefliyoruz'' dedi. 
+     Google, Türkiye ve Avrupa'da medya ve teknoloji sektörlerinde çalışanlar açısından ilk tercih olmayı hedefliyor. 
+     
+</TEXT>
+</DOC>

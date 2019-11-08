@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 216205 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/19/son/sondun21.html </URL>
+<DATE> 2004/02/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İlk robot danışma görevlisi... 
+</HEADLINE>
+<TEXT>
+
+     ABD'nin Carnegie Mellon Üniversitesi'nin yeni danışma görevlisi, iki özelliği dışında eskilere benziyor. Bir robot olan ve ücret almayan ''Bayan Valerie''nin diğer özellikleri ise öteki danışma görevlilerinin aynısı Telefonlara cevap veriyor, sizi gideceğiniz yere yöneltiyor, hatta patronu hakkında dedikodu bile yapıyor. 
+     Üniversite yetkilileri, Valerie'nin asıl önemli özelliğinin, ''bir kişiliği olan ilk robot danışma memuru'' olmasından kaynaklandığını belirtiyor. Sarışın robot danışma memuru roboceptionist insanlarla patronu, psikiyatrı ve işinde star olma konusundaki hayalleri hakkında konuşarak iletişim kuruyor. 
+     Valerie'nin sanal karakterinin 4 yaratıcısından biri olan, drama yazarlığı yüksek lisans öğrencisi Kevin Snipes 27 , ''Ona insanların dünyasında ayakta kalmaya çalışan mazlum birinin karakterini vermek istedik. Ancak işte bir süre geçirdikten sonra, sabırsız biri haline geldi. Ama aynı zamanda çekici de olabiliyor'' dedi. 
+     Valerie'nin yaratılmasıyla sonuçlanan iki yıllık projeyi üniversitenin bilgisayar bölümü ile drama sanatları bölümü birlikte yürüttü. 
+     Yetkililer, şimdilik türünün tek örneği olan robotun başka örneklerinin yapılıp satılma potansiyeli de bulunduğunu belirtiyorlar. 
+     Bilgisayar bilimleri bölümünün girişindeki Valerie, aslında insan görünümlü değil, ama algılayıcılıarı olduğu için yaklaşmakta olan ziyaretçileri fark edip onları selamlıyor. Yüzü bir bilgisayar ekranında beliriyor ve şimdilik basit olması gereken sorularını klavyeden yazarak sormanız gerekiyor. Valerie, size kampüsle ilgili her türlü bilgiyi veriyor ve sizi gideceğiniz yere yönlendiriyor. 
+     Valerie'nin yaratıcıları, ileride ona insan şekli vermeyi ve ses tanıma özellikleri yüklemeyi planlıyor. 
+     Projeyle ilgili bilgiler, ''http www.roboceptionist.com'' adresinden alınabiliyor. 
+     
+</TEXT>
+</DOC>

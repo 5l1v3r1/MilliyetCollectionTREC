@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 179983 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/03/son/sondun08.html </URL>
+<DATE> 2003/09/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft, Explorer'da devrim yapacak, web siteleri etkilenecek 
+</HEADLINE>
+<TEXT>
+
+     Yazılım devi Microsoft firmasının, başka kuruluşlar tarafından geliştirilen yazılımdan alıntı olduğu öne sürülen İnternet Explorer IE tarayıcısında gerekirse köklü değişiklikler yapmaya hazırlandığı öne sürüldü. 
+     Chicago'daki bir federal mahkeme kısa süre önce Microsoft firmasını, alıntı yazılım nedeniyle, özel bir kuruluş ve California üniversitesine 521 milyon dolar tazminat ödemeye mahkum etmişti. 
+     Microsoft firması, mahkeme kararının tebliğinden sonra, internet standartlarını denetlemekle görevli ''World Wide Web'' W3C konsorsiyumuna başvurarak, Explorer'da değişiklikler yapmayı planladığını bildirdi. 
+     Uzmanlar, değişikliklerin halen internette bulunan çok sayıda web sitesini etkileyeceğini belirtiyor. 
+     Federal mahkeme, IE tarayıcısına ekli plug-in ve applet'lerin, ''Eolas Technologies'' adlı firma ve California üniversitesinin elinde bulunan patentleri ihlal ettiği sonucuna varmıştı. 
+     W3C konsorsiyum başkanı Steven Bratt, konuyla ilgili olarak yaptığı açıklamada, ''Microsoft mahkeme kararına cevap olarak, yakın gelecekte, IE tarayıcısının yazılımında değişiklikler yapabileceğini kurumumuza bildirmiştir'' dedi. Bratt, ''değişikliklerin internette bulunan çok sayıda web sitesini etkileyeceğini'' de kaydetti. 
+     
+     TOPLANTILAR YAPILIYOR 
+     Microsoft'un kararı üzerine W3C, aralarında Microsoft'un da bulunduğu firmaların temsilcilerini bir araya getiren bir toplantı düzenledi. 
+     Toplantıda uzmanların, Explorer tarayıcısında yapılacak değişiklikler ve bunun web siteleri üzerindeki etkisiyle ilgili görüşlerini ortaya koydukları bildiriliyor. 
+     San Fransisco'da yapılan toplantıya yaklaşık 50 uzmanın katıldığı, çok sayıda uzmanın ise telekonferans yöntemiyle görüş belirttiği öğrenildi. 
+     Microsoft sözcüsü Jim Desler ise ''firmanın mahkeme kararını temyize götüreceğini, ancak bunda başarılı olamadığı takdirde IE tarayıcısında değişiklikler yapmayı düşündüğünü'' doğruladı. 
+     
+</TEXT>
+</DOC>

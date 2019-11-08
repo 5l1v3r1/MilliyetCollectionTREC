@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 381733 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/26/son/sonyas21.html </URL>
+<DATE> 2005/09/26/ </DATE>
+<TIME> 17.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Windows yüklü akıllı cep telefonu bugün tanıtılıyor 
+</HEADLINE>
+<TEXT>
+
+     Avuç içi bilgisayar şirketi Palm'ın Windows işletim sistemiyle çalışan bilgisayarlı mobil telefonu ''Treo'' bugün kamuoyuna tanıtılıyor. 
+     Palm, Microsoft ve Amerikan Verizon telefon şirketinin işbirliğiyle üretilen ve bu akıllı telefon için hazırlanan Windows Mobile işletim sistemini kullanan Treo'nun tanıtımı, San Francisco kentinde aralarında Bill Gates'in de bulunduğu üç şirketin başkanlarının katılımıyla yapılacak. 
+     Uzun zamandır beklenen akıllı telefon Treo, sadece aynı anda birçok programı çalıştırabilme özelliğine sahip Windows Mobile işletim sistemini kullanmakla ve Windows PC kullanıcılarının işini kolaylaştırmakla kalmıyor, aynı zamanda 1 megapixel kamerası, kablosuz Wi-Fi, Bluetooth ve Verizon'ın yüksek hızlı EV-DO veri iletişim özelliklerine sahip bulunuyor. 
+     Analistler, Microsoft ve Palm'ın bu ortak yatırımının her iki şirketi de tatmin edecek bir girişim olarak nitelediler ve Treo'nun iyi bir satış grafiği yakalamasının beklendiğini kaydettiler. 
+     
+</TEXT>
+</DOC>

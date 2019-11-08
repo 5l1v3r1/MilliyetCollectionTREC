@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 297098 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/12/son/sonyas04.html </URL>
+<DATE> 2004/12/12/ </DATE>
+<TIME> 10.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hotmail ve messenger, kullanıcı sayısını hızla artırıyor... 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın en önde gelen yazılım şirketi Microsoft'un elektronik posta ve anında mesajlaşmayı sağlayan ürünleri Hotmail ile Messenger, Türkiye'de büyük ilgi görüyor. Türkiye, iki ürünün kullanımında Avrupa'da en hızlı artış kaydedilen ülke seçildi. 
+     Microsoft Türkiye'nin MSN Ülke Müdürü Ebru Çapa'dan alınan bilgiye göre, Microsoft, MSN Messenger ve Hotmail kullanımını artırmak üzere çeşitli çalışmalar yapıyor. 
+     Bu çerçevede, Temmuz ayında MSN Portalı ''msn.com.tr'' adresi altında Türkçe içerikle hizmet vermeye başladı. Portalda, Microsoft, e-kolay, Superonline gibi kanal ortaklarıyla Türkçe içerik sunulmaya başlandı. Portalın ciddi ziyaretçi aldığı, 2,5 milyon düzenli kullanıcısının bulunduğu belirtildi. 
+     Microsoft, Hotmail'den ücretsiz dağıttığı elektronik posta hesabında da yeniliğe giderek, Türkiye'de ücret karşılığında daha opsiyonel hizmetlerin sağlandığı ''Hotmail.com.tr'' uzantılı internet hesaplarını da dağıtmaya başladı. 
+     Temmuz ayında Türkiye'de 1.6 milyon olan Hotmail kullanıcı sayısı Kasım ayı sonunda 2,5 milyona yükseldi. 
+     Ücretli olan Hotmail hesaplarını ise bugüne kadar yaklaşık 10 bin kullanıcının denediği, ''com.tr'' uzantılı hesapların şu anda 3 bin aktif kullanıcısı bulunduğu öğrenildi. Ücretli servisten yararlananların tamamıyla yeni üyeler olduğu ifade edildi. Ücretli Hotmail hesabı alanlar 2,5 milyon liralık aylık kart ya da 5 milyon liralık 3 aylık kartlarla bu hesaplarını kullanabiliyorlar. 
+     Microsoft, son dönemde çeşitli aktivitelerin yanı sıra anında mesajlaşmanın sağlandığı MSN Messenger üyelerinin arasına yenilerini de kattı. Temmuz ayında 1 milyon olan MSN Messenger kullanıcı sayısı, Kasım ayı sonunda 1.8 milyona yükseldi. Türkiye, Hotmail ve MSN Messenger kullanımında Avrupa'da en hızlı artış kaydedilen ülke oldu. 
+     
+</TEXT>
+</DOC>

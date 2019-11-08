@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 211440 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/27/son/soneko01.html </URL>
+<DATE> 2004/01/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     New York Menkul Kıymetler Borsası'nda Dow Jones Endeksi 134.22 puan yüzde 1.3 artarak 10,702.51 puandan günü kapattı. 
+     Nasdaq Bileşik Endeksi de 29.96 puanlık yüzde 1.4 yükselişle 2,1.83 puana çıktı. 
+     
+</TEXT>
+</DOC>

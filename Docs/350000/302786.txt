@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 302786 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/02/son/soneko09.html </URL>
+<DATE> 2005/01/02/ </DATE>
+<TIME> 14.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bankacılık sistemi YTL'ye dönüşümü tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     Bankacılık sistemi, Yeni Türk Lirası'na YTL dönüşüm sürecini tamamladı. 
+     Bankacılık sisteminde, YTL'ye geçişte vatandaşları doğrudan ilgilendiren ana konular olan ATM ve POS cihazları ile kredi kartı bazında YTL'ye dönüşüm, yılbaşında gece yarısını müteakiben büyük ölçüde gerçekleştirilmiş, dün sabah itibarıyla da sona ermişti. 
+     Dün ve bugün sürdürülen çalışmalar sonucunda da Türkiye Cumhuriyet Merkez Bankası'nın TCMB hem bankalarla, hem de kendi şubeleriyle olan Elektronik Fon Transferi EFT sistemlerinde YTL'ye geçiş başarıyla tamamlandı. 
+     A.A muhabirinin Merkez Bankası yetkililerinden aldığı bilgiye göre, TCMB ile bankalar arasında dünden bu yana yürütülen çalışmalar sonucunda, tüm EFT sistemleri YTL bazında çalışmaya başladı. 
+     Ayrıca, TCMB'nin kendi şubeleri ile olan EFT bağlantıları da YTL bazına dönüştürüldü. Yetkililer, yarından itibaren bankacılık sistemindeki EFT operasyonlarının tamamının YTL bazında işleyeceğini belirttiler. Yetkililer, hem TCMB'de, hem de bankalarda, krediler ve diğer tüm sistemlerin de YTL bazlı dönüşümünün tamamlandığını bildirdiler. 
+     Merkez Bankası, Ankara'daki İdare Merkezi'nde kurduğu ''YTL Geçiş İzleme Merkezi'' ile bankacılık sisteminin YTL'ye geçiş sürecini yılbaşı gecesinden itibaren izlemeye başlamıştı. Merkezde kurulan bilgisayar sistemiyle, Türkiye Bankalar Birliği ve bankacılık sistemi ile bağlantı kurularak, sektörün YTL'ye geçiş süreci on-line olarak izlenmişti. Söz konusu merkez, görevini tamamladığı için bu akşam kapatılacak. 
+     
+</TEXT>
+</DOC>

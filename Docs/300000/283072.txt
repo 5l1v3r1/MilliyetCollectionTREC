@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 283072 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/25/yazar/oztrak.html </URL>
+<DATE> 2004/10/25/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Faik ÖZTRAK  </AUTHOR>
+<HEADLINE>
+Devletin iç piyasa borcu artıyor... 
+</HEADLINE>
+<TEXT>
+
+İç borç stokundaki artış mali sistemdeki genişlemenin üstünde.Konsolide bütçe borç stoku toplam olarak 31.8 katrilyon lira artarken piyasadan yapılan iç borçlanmadaki artış 33.7 katrilyona ulaştı 
+
+Eylül ayının sonunda konsolide bütçenin faiz dışı dengesi toplam 24.1 katrilyon lira fazla verirken, toplam bütçe açığı da 21.1 katrilyon lira olmuş. Bir başka ifadeyle, bütçe açığını karşılayabilmek için Hazine'nin 21.1 katrilyon lira borçlanması gerekmiş. 
+Eylül sonu itibariyle konsolide borç stoku rakamları ise 31.8 katrilyon lira arttı. Bu durumda Hazine bütçenin finansmanı için, ihtiyaç duyulandan 10 katrilyon lira daha fazla borçlanmış gibi görünüyor. 
+
+Konsolide Bütçe Borç Stoku Katrilyon TL 2003 2004 Eylül Artış Toplam 282.9 314.7 31.8 İç borç stoku 194.4 217.6 23.2 Piyasa 101.8 135.4 33.7 Kamu kesimi 92.6 82.1 -10.5 Dış borç stoku 88.5 97.1 8.6 Kredi 51.0 55.9 4.9 Uluslararası kuruluşlar 32.8 37.8 5.0 IMF kredisi 23.4 26.3 3.0 Hükümet kuruluşları 9.7 9.3 -0.3 Ticari bankalar 8.5 8.8 0.2 Tahvil 37.5 41.2 3.7 M2Y 149.5 177.9 28.4 
+Ancak hemen bu yargıya varmak doğru değil. TL ile ifade edilen borç stokundaki artışın bir kısmı dış borçların TL'ye çevrilmesinde kullanılan kurdaki dönemsel artıştan kaynaklanıyor. TL dolar karşısında nominal olarak değer yitirdikçe, Hazine net dış borçlanma yapmasa bile, TL cinsinden dış borç artıyor. Dış borç tablosunda sadece TL'deki kur değişimini dikkate alan kaba bir hesapla 8.6 katrilyon liralık dış borç stoku artışının 6.5 katrilyon liralık bölümünün kur farkından kaynaklandığı görülüyor. Bunu 31.8 katrilyon liradan düşersek, net borçlanma 25.3 katriyon lira oluyor. Tabii bu, kur farkından kaynaklanan borç stokundaki artışların önemli olmadığı anlamına gelmemeli. Sonuç itibariyle borç stokunun GSMH'ye oranını artıran bu gelişme yabancı yatırımcılar tarafından bir risk faktörü olarak algılanıyor. Bu nedenle ani kur artışları panik içinde davranışlara yol açabiliyor, dış borçların ve döviz cinsinden veya dövize endeksli iç borçların yüksekliği ekonomide TL'nin aşırı değerlenmesiyle birlikte kırılganlığı artırıyor. 
+
+Dış borç stoku Milyar USD Katrilyon TL 2003 2004 Eylül Artış 2003 2004 Eylül Artış Toplam 63.4 64.8 1.4 88.5 97.1 8.6 Kredi 36.6 37.3 0.8 51.0 55.9 4.9 Uluslararası kuruluşlar 23.5 25.2 1.7 32.8 37.8 5.0 IMF kredisi 16.7 17.6 0.8 23.4 26.3 3.0 Hükümet kuruluşları 6.9 6.2 -0.7 9.7 9.3 -0.3 Ticari bankalar 6.1 5.9 -0.3 8.5 8.8 0.2 Tahvil 26.8 27.5 0.7 37.5 41.2 3.7 Kur farkı 6.5 Kuru bin TL 1.395,8 1.497,7 
+
+Sonuçta Hazine, bütçenin finansman ihtiyacından 4 katrilyon lira daha fazla borçlanmış. Bunun 1.4 katrilyon lirası da Hazine'nin rezervlerini güçlendirmek istemesinden kaynaklanıyor. Yılın ilk dokuz ayında borçlanmanın alt kalemlerinde net dış borçlanma sınırlı kalırken, Hazine iç piyasadan yaptığı borçlanmayla hem bütçe açığını karşılamış, hem de 2001 yılında yaşanan mali kriz sonunda oluşan, TMSF'ye ve TCMB'ye olan borçlarında önemli ölçüde geri ödeme yapmış. 
+Sonuçta konsolide bütçe borç stoku toplam olarak 31.8 katrilyon lira artarken piyasadan yapılan iç borçlanmadaki artış 33.7 katrilyon liraya ulaşmış. Aynı dönemde M2Y'deki artış ise 28.4 katrilyon lira olmuş. Bir başka ifadeyle Hazine'nin iç borç stokundaki artış mali sistemdeki genişlemenin üstünde. Konsolide bütçenin toplam borç stoku düşerken piyasadan sağlanan iç borcun GSMH'ye oranı artmaya devam ediyor. Piyasanın devlet kağıdına olan iştahının sürmesi getirilerin diğer tasarruf araçlarına göre daha yüksek olmasını gerektiriyor. Diğer taraftan faizlerin gerilemesi de kısa vadeli yatırımcılar açısından önemli sermaye kazançları elde etme imk nı sağlıyor. 
+
+İki bütçe finanse ediliyor 
+Hazine aslında iki bütçeyi finanse ediyor. Biri yıllık bütçe, diğeri de görünmeyen 2001 krizi zararları bütçesi. Bu durumda da reel faizler uzun vadede istikrarlı bir şekilde düşerken devlet kağıtlarının faizleri diğer yatırım araçlarına göre yüksek kalmak zorunda. 
+Piyasa borcunun kaynağı kısa vadeli sermaye girişi oldukça ekonomide yaşanan iyileşmenin ömrü uzun olmuyor. Diğer taraftan doğrudan yabancı sermaye girişi artsa bile, hacmi uzunca bir süre ekonominin kaynak ihtiyacının altında kalacak. Son üç yılda önemli bir kaynak olan IMF borçlarında artık net geri ödeyici olmak zorundayız. Bu nedenle bir yandan uluslararası piyasalarda uzun vadeli borçlanırken, diğer yandan iç borcun vadesini piyasanın gönüllü bir şekilde uzatmasını sağlamak son derece önemli. Bunu ancak ekonomide belirsizlikleri sürekli azaltacak doğru politikaları ısrarla sürdürerek sağlamak mümkün. 
+
+
+
+</TEXT>
+</DOC>

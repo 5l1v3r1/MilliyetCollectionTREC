@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 296902 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/11/son/sonyas08.html </URL>
+<DATE> 2004/12/11/ </DATE>
+<TIME> 10.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Depresyon da kalıtsal olabilir... 
+</HEADLINE>
+<TEXT>
+
+     ABD'de yapılan bir araştırma, depresyonun kalıtsal olabileceğini ortaya koydu. 
+     Depresyona neden olan geni tespit eden Amerikalı bilim adamları, bu gende meydana gelen mutasyonun, anti-depresan ilaçların bazı hastalarda işe yaramamasının nedeni olduğunu da belirlediler. 
+     Duke Üniversitesi bilim adamlarınca, genetik farklılıkların depresyon üzerindeki etkisini incelemek ve daha etkili tedavi yöntemleri uygulamak üzere yapılan araştırmada, tespit ettikleri bu genin mutasyona uğramasının, mutluluk hormonu serotoninin beyin hücreleri tarafından salgılanmasında önemli derecede azalmaya neden olduğu belirlendi. 
+     Neuron dergisinin internet sitesinde yayımlanan araştırma sonuçlarında, depresyon hastası 87 kişi üzerinde araştırma yapıldığı belirtildi. Bu kişilerden yüzde 10'unun mutasyona uğramış bir gene sahip olduğu ve böylece depresyonun da kalıtsal olabileceği kaydedildi. 
+     Araştırmaya destek veren Ulusal Akıl Sağlığı Kurumu'nun müdürü Dr. Thomas Insel, ''Araştırma sonuçlarına göre, hastaların mutasyona uğramış bir gene sahip olup olmadıklarına göre tedavi uygulanabileceğini'' belirtti. 
+     
+</TEXT>
+</DOC>

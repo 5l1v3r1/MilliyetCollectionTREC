@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 258577 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/27/son/sontur16.html </URL>
+<DATE> 2004/07/27/ </DATE>
+<TIME> 12.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Makinistlerin kusurları arasında hangi noktalar ön planda 
+</HEADLINE>
+<TEXT>
+
+     Endüstri meslek lisesi mezunu personelin, ortalama 6 yıl süren eğitim, test ve staj dönemi ile her eğitim öncesinde tekrarlanan psikoteknik ve sağlık muayenesini geçtikten sonra makinistliğe hak kazandığı bildirildi. 
+     TCDD Genel Müdürlüğü'nden aldığı bilgiye göre, makinist olabilmek, oldukça uzun staj, eğitim, sınav ve deneyim sürecini kapsıyor. Makinist adayları, mesleklerine yardımcı makinist olarak başlıyor. 
+     Yardımcı makinist olabilmek için, en az endüstri meslek lisesi elektrik-elektronik veya motor bölümü mezunu olmak, 36 yaşından büyük olmamak, psikoteknik muayenede başarılı olmak, hazırlama stajını başarılı bir şekilde tamamlamak gerekiyor. 
+     Halen TCDD'de çalışan en az lise ve endüstri meslek lisesi mezunu personel ise 45 yaşına kadar yardımcı makinist kursuna katılabiliyor. Bu kursa katılmadan önce yardımcı makinist adaylarının bir aylık hazırlama stajını başarıyla tamamlaması gerekiyor. 13 hafta boyunca 390 saat eğitim alan ve staj sonrası yapılan ehliyet sınavında başarılı olan yardımcı makinist adaylarına, sadece manevra lokomotiflerini kullanmaya yönelik manevra lokomotifleri ehliyeti veriliyor. 
+     Yardımcı makinistlerden lise mezunu olanların en az 24 ay, endüstri meslek ve demiryolu meslek lisesi mezunlarının da 18 ay bu görevde çalışmaları ve 175 saat manevra stajı ile 1000 kilometre yol stajı yapmaları gerekiyor. 
+     Bunun ardından 9 hafta süren dizel anahat makinist kursunu başarıyla bitiren personel, yolcu ve yük trenlerinde 7 bin 500 kilometrelik yol stajlarını tamamladıktan sonra ehliyet sınavlarına katılıyor. Ehliyet sınavında başarılı olanlara ''Anahat Lokomotif Brövesi'' veriliyor. 
+     Elektrikli Taşıt Makinist kursunda ise 210 saat eğitim veriliyor. İşyerlerinde en az 7 bin 500 kilometre yol stajı sonunda sınava tabi tutulan ve başarılı olanlara ehliyet veriliyor. 
+     Sonuçta en az B düzeyinde sicili olan yardımcı makinistler, ortalama 6 yıl süren çeşitli makinistlik staj, eğitim ve sınavları, her eğitim öncesinde tekrarlanan psikoteknik ve sağlık muayenesinden sonra makinistliğe hak kazanabiliyor. 
+     
+     SİMÜLATÖR EĞİTİMİ 
+     Makinistlik yapacak personel, Türkiye'nin makinistlik eğitimi veren tek kuruluşu TCDD Eskişehir Eğitim Merkezi'ndeki görsel ve işitsel nitelikli senaryoların hazırlandığı simülasyon ortamında teorik bilgilerini deneme şansı buluyor. İki simülatörün yer aldığı merkezde, kursiyerler 4 kişilik gruplar halinde eğitim alıyor. Beş haftalık programın uygulandığı simülasyon eğitiminde, lokomotif kullanım uygulamalarına da yer veriliyor. Eğitimde, makinistler, gerçek tren hatlarında çekilmiş görüntülerin yer aldığı güzergahlarda simülasyon sürüşü yapıyor. 
+     Bilgisayar ortamında gerçekleştirilen simülatör bitirme sınavında başarısız olanların yeniden eğitimden geçmeleri şartı ile bir sınav hakları daha bulunuyor. 
+     Bitirme sınavında başarılı olanlar, 5 haftalık staj sürelerinin ardından ''Simülatör Bröve Sınavı''na giriyor. Sınavdan 100 üzerinden 80 puan alanlar başarılı sayılıyor. Başarısız olanların 2 kez daha bu sınava girme hakları bulunuyor. Bilgisayarlı ortam sayesinde teknik arızalar ve gerçekte büyük can ve mal kaybına yol açacak hatalar, kursiyere gösterilebiliyor. 
+     
+     MAKİNİSTLERİN KUSUR ORANI 
+     Tren kazalarına genellikle ''sinyalizasyon, ikaz işaret levhaları, makinistler ile tren yollarına çıkan kişi, araç veya hayvanlar'' neden oluyor. 
+     Makinistlerin kusurları arasında ''malzeme yorgunluğuna sebep olmak ve güvenli sürüş tekniklerini ihlal etmek'' gibi unsurlar ön plana çıkıyor. Simülatör eğitimi ile bu kusurlar önemli oranda azaltılıyor. 
+     
+</TEXT>
+</DOC>

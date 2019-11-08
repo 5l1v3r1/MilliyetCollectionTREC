@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 312983 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/06/son/sonyas11.html </URL>
+<DATE> 2005/02/06/ </DATE>
+<TIME> 17.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Spam'lerin ABD'ye yıllık zararı 22 milyar dolar 
+</HEADLINE>
+<TEXT>
+
+     ABD'de çöp postanın spam silinmesi için harcanan zamanın ekonomiye maliyetinin yılda 22 milyar dolara yaklaştığı belirlendi. 
+     ABD'nin Maryland Üniversitesi'nde yapılan bir kamuoyu araştırmasının sonuçlarına göre, yetişkin internet kullanıcılarının dörtte üçünden fazlası her gün spam alıyor. Günlük ortalama spam sayısının 18,5 olduğu tespit edilen araştırmada, günde ortalama 2,8 dakikanın çöp postaların silinmesi için harcandığı belirlendi. 
+     Buna göre çöp postaların Amerikan ekonomisinde açtığı iş gücü kaybının yılda 21,6 milyar dolar olduğu ortaya çıktı. 
+     Araştırmada, spam alanların yüzde 14'ünün çöp postaların içeriğini merak ederek okudukları, yüzde 4'ünün son bir yıl içinde çöp postalarda reklamı yapılan bir şeyi satın aldığı belirlendi. 
+     
+</TEXT>
+</DOC>

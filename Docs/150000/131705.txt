@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 131705 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/01/18/son/sontur05.html </URL>
+<DATE> 2003/01/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft, Windows'un sırrını açıklıyor... 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın en önde gelen yazılım şirketi Microsoft, uzun yıllardır gizli tuttuğu işletim sistemi kodlarını ilk kez devlet kurumlarına açma kararı aldı. 
+     Microsoft Türkiye Genel Müdür Yardımcısı Ekrem Yener, şirketin uzun yıllardır işletim sistemini kullanıcılara göstermediği için güvenilirliği konusunda eleştirilere maruz kaldığını belirtti. 
+     Dünyada yaklaşık 600 milyon bilgisayarın internete bağlanırken Microsoft ürünü olan İnternet Explorer işletim sistemini kullandığını ifade eden Yener, bazı kişilerin ''Microsoft kaynak kodlarını gizleyerek acaba herkesin kişisel bilgilerini mi topluyor'' şeklinde endişeler taşıdığını, ayrıca Linux gibi açık kaynak kodlu yazılımların bulunmasının eleştirilerin dozunu artırdığını kaydetti. 
+     Microsoft'un geçen yıl ''güvenilir bilişim'' kavramını ortaya atarak, bütün yazılımlarını durdurduğunu ve mühendislerini yazılımların güvenliği konusunda eğitime aldığını belirten Yener, bu eğitimlere şirketin yaklaşık 500 milyon dolar para harcadığını dile getirdi. 
+     Yener, başta Kanada ve Almanya olmak üzere bazı ülkelerden Microsoft'un işletim sistemlerinin kaynak kodlarını görme talebi geldiğini, aldıkları eleştiri ve talepleri göz önünde bulundurarak bir çalışma başlattıklarını bildirdi. 
+     Yener, Microsoft'un, talepler doğrultusunda, aralarında Türkiye'nin de bulunduğu NATO ülkeleri, Rusya ve bazı Avrupa ülkelerinden sadece devlet kurumlarına işletim sistemlerinin kaynak kodlarının açılmasına karar verildiğini söyledi. Yener, ABD'nin şu anda yaklaşık 60 ülkeden kurumlara Microsoft'un kaynak kodlarının açılmasına izin verdiğini, bu ülkelerden devlet kurumu temsilcilerinin Microsoft'un merkezine giderek işletim sistemlerinin kaynak kodlarını inceleme imkanına sahip olacaklarını belirtti. 
+     Kaynak kodlarının açılmasının Microsoft ile ilgili tüm şüpheleri ortadan kaldıracağını ve eleştirileri boşa çıkaracağını vurgulayan Yener, şirketin imajının da yükseleceğini, duyulan güvenin artacağını ifade etti. 
+     Microsoft Türkiye Genel Müdür Yardımcısı Yener, Türkiye'deki devlet kurumlarından kaynak kodlarını incelemek amacıyla henüz bir talep gelmediğini, böyle bir talep aldıklarında ise bu talebi en geç 2 hafta içinde karşılayabileceklerini söyledi. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

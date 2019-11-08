@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 260797 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/05/son/soneko14.html </URL>
+<DATE> 2004/08/05/ </DATE>
+<TIME> 10.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Chrysler, 831 bin minivanı geri çağıracak 
+</HEADLINE>
+<TEXT>
+
+     Chrysler, servo direksiyon sisteminden kaynaklanan hata nedeniyle yangın tehlikesi olan 831 bin minivanı geri çağıracak. 
+     Chrysler Sözcüsü Max Gates, 2002, 2003 ve 2004 model V6 motorlu Chriysler minivan sahiplerini eylül ayı içinde ulaştıracakları mektupla bilgilendirerek araçlarını servislere getirmelerini isteyeceklerini söyledi. Geri çağırma, Dodge ve Grand Caravan ile Chrysler Voyager ve Town Country modellerini kapsıyor. 
+     Araçlardaki potansiyel tehlikenin servo direksiyon sıvılarını taşıyan borulardan birinin zaman geçtikçe gücünü yitirerek sıvı sızdırabilme olasılığı olduğu belirtildi. Bu durumda, motor kapağının altında yangın başlayabiliyor. Soğuk havalar da boruların arızalanmasını kolaylaştırıyor. 
+     Chrysler, araçlarda parça değişikliklerine ekim başlarında başlanabileceğini bildirerek söz konusu hatalı araçlardan 681 bin adedinin ABD, 150 bin adedinin ise Kanada'da bulunduğunu açıkladı. 
+     Chrysler ayrıca 2 bin 4.7 motor Dodga Ram model araçların, sahipleri bu ay içinde bilgilendirilerek geri çağrılacağını duyurdu. Her iki geri çağırmanın birbirinden bağımsız olduğunu kaydedilerek söz konusu Dodge Ram'lardaki alternatif kablolarının valfe temasıyla oluşacak kısa devre sonucu yangın tehdidi barındırdığı bildirildi. 
+     Şirket, hatalı üretim nedeniyle şu ana kadar herhangi bir ölüm ya da yaralanma olmadığını açıklayarak çoğu Kanada'da olmak üzere toplam 23 araçta yangın çıktığını kaydetti. 
+
+     
+</TEXT>
+</DOC>

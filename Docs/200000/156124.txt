@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 156124 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/12/son/sondun06.html </URL>
+<DATE> 2003/05/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Play Station 2'ler 50 dolara videoya dönüştürülecek 
+</HEADLINE>
+<TEXT>
+
+     ABD'de, merkezi San Diego'da bulunan ''Mad Catz Interactive Inc'' adlı bir şirket, 50 dolardan satılacak bir yazılım sayesinde, Play Station 2'lerin video haline dönüştürülebileceğini açıkladı. 
+     SONY tarafından üretilen Play Station 2'ler piyasada en fazla satılan ve aranan oyun konsollarının başında geliyor. 
+     Şirketin açıklamasına göre, Haziran ayında piyasaya çıkacak yazılım sayesinde Play Station 2'ler MP3 ve OGG müzik dosyalarını, MPEG ve DivX video dosyalarını, JPEG ve PNG fotograf dosyalarını açabilecek. Bu özellikler ancak Microsoft'un WIndows-XP'den sonra piyasaya çıkardığı ''Media Center'' yazılımında bulunuyor. 
+     Mad Catz yetkilileri, yeni yazılımın yüksek çözünürlüklü televizyon HDTV yayınlarını da taşıyabileceğini, ayrıca hızlı ileri-geri sarma özelliğine sahip olacağını kaydettiler. 
+     Sanayi çevreleri, sadece ABD'de 19 milyondan fazla Play Station 2 bulunduğunu belirtiyor. Bu cihazlar hızlı bağlantı ya da modemle internete bağlandıklarında, tüm dünyadaki meraklılarla internet oyunu oynama olanağı sağlıyor. 
+     Öte yandan, Microsoft yetkilileri, firmanın önümüzdeki hafta kendi yazılımını piyasaya süreceğini açıkladı. 
+     Bu yazılım sayesinde kullanıcılar, bilgisayarlarından herhangi bir müzik parçasını ya da video filmini, Microsoft yapımı XBox konsoluna kopyalayabilecek. 
+     
+</TEXT>
+</DOC>

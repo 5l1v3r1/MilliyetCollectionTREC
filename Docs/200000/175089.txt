@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> 175089 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/11/son/sontur12.html </URL>
+<DATE> 2003/08/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yağmur geliyor 
+</HEADLINE>
+<TEXT>
+
+     Türkiye yeni haftaya, yağışlı bir havayla başlayacak. Meteorolojiye göre, bugün Marmara'nın doğusu, Ege Bölgesi'nin iç kesimleri, Batı Karadeniz, İç Anadolu'nun kuzeyi ile Doğu karadeniz ve Doğu Anadolu'nun kuzeyi sağanak yağışın etkisinde olacak. Diğer bölgeler az bulutlu ve açık bir gün geçirecek. Yağışlar yarın tüm Karadeniz kıyılarını etkisi altına alacak. Diğer bölgelerde hava açık olacak. Çarşamba günü ise sadece Doğu Karadeniz'in kuzey kesimlerinde yağış görülürken, diğer bölgeler az bulutlu ve açık olacak. 
+     
+</TEXT>
+</DOC>

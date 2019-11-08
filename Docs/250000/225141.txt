@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 225141 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/24/son/soneko01.html </URL>
+<DATE> 2004/03/24/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası geriledi 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası Wall Street'te Dow Jones Sanayi Endeksi, 1.11 puan yüzde 0.01 azalışla 10,063.64 puandan kapandı. 
+     Teknoloji firmalarının ibresi Nasdaq Birleşik Endeksi ise 8.10 puan yüzde 0.42 düşüşle 1,901.80 puandan günü noktaladı. 
+     
+</TEXT>
+</DOC>

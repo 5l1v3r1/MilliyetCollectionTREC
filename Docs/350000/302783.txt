@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 302783 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/02/son/soneko06.html </URL>
+<DATE> 2005/01/02/ </DATE>
+<TIME> 11.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Cep telefonu standartları yükselecek... 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın önde gelen cep telefonu üreticileri ve operatörleri, standartları yükselterek yüksek çözünürlükte resimleri hızlı şekilde gönderebilecek teknoloji altyapısını geliştirmek konusunda anlaştı. 
+     Japonya'nın en büyük operatörü NTT DoCoMo'dan yapılan açıklamada, Ericsson, Nokia ve Siemens yanında Japon üreticilerin de katılımıyla cep telefonlarında kullanılan mevcut ''3G'' üçüncü nesil teknolojisinden 10 kat daha hızlı veri iletimi sağlayacak yeni ''W-CDMA'' teknolojisinin 2007 yılında hazır olacağı bildirildi. 
+     W-CDMA teknolojisiyle ilgili bir çok patent hakkının ortak çalışmaya katılacak şirketlere ait olduğu hatırlatılan açıklamada, dünya genelinde 110 cep telefonu operatörün müşterilerine sunduğu çeşitli hizmetlerde bu teknolojiden kısmen faydalanıldığı ifade edildi. 
+     W-CDMA teknolojisinin geliştirilmesinde önemli katkıları bulunan Fujitsu, Matsushita Panasonic , NEC ve Sony gibi Japon üreticilerin de ortak standartlar oluşturma konusundaki işbirliğine katılma konusunda istekli olduğu kaydedildi. 
+     Açıklamada, yeni teknolojinin ne zaman cep operatörleri tarafından kullanıma sokulacağı belirtilmezken Japonya'da ekonomi ağırlıklı yayınlanan Nihon Keizai Shimbun gazetesi W-CDMA'nın 2009 yılında kullanıma gireceğini yazdı. 
+     Gazeteye göre yeni teknolojiyle geniş sıvı kristal ekranlara sahip olacak gelişmiş cep telefonlarında oyun oynamak çok daha zevkli hale gelecek ve film izlenebilecek. 
+     
+     W-CDMA TEKNOLOJİSİ 
+     Halen geliştirilmesi sürdürülen ve bir çok cep telefonu operatörünün önümüzdeki yıllarda kullanmayı düşündüğü Geniş Bantlı Geniş Kod Bölümlemeli Çoklu Erişim W-CDMA teknolojisi radyo yayını sisteminin çok daha gelişmiş bir türü olarak gündeme geldi. 
+     WCDMA'da, ses çağrıları ve veri bağlantılarına, radyodaki frekans kanalı yerine kodlar tahsis ediliyor. Bu nedenle ''Kod Bölünmeli Çoklu Erişim'' terimi kullanılıyor. Alıcı uçtaki cihaz doğru kodu biliyor ve otomatik olarak onunla birlikte gönderilen her türlü veriyi süzüyor. Bu yöntem, şebekede birçok boş alan yaratarak güvenlik sağlıyor. 
+     ''Geniş Band'' özelliğiyle veri iletimini hızlandıran sistem, özellikle yüksek boyutlu resimleri hızlı göndererek kullanıcılarına kolaylık sağlayacak. 
+     
+</TEXT>
+</DOC>

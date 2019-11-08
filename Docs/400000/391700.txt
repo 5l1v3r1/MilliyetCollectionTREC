@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 391700 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/02/son/soneko02.html </URL>
+<DATE> 2005/11/02/ </DATE>
+<TIME> 04.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borası düşmeye devam ediyor 
+</HEADLINE>
+<TEXT>
+
+     New York borsasında Dow Jones ve Nasdaq endeksleri düşüşle kapandı. 
+     Dow Jones, 32.82 puan kayıpla 10,407.25 puana gerilerken, teknoloji endeksi Nasdaq 6.26 puan düşerek 2,114.04 puandan kapandı. 
+     
+</TEXT>
+</DOC>

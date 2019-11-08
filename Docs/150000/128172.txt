@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 128172 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/31/son/sontur31.html </URL>
+<DATE> 2003/12/31/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türk Telekom'dan indirim... 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekom, bazı hizmetlerinde ücret indirimi yaptı. 
+     Türk Telekom'dan yapılan açıklamada, ISDN-PA aboneliğinin il içi kademeye tabi bir yerden verilmesi halinde alınacak uzak mesafe aylık kira ücretinde yüzde 75 oranında indirim yapıldığı belirtildi. 
+     Açıklamada, telefon, özel servis numaraları, ücretsiz aranır telefon 0 800 , centrex, paket anahtarlamalı data TURPAK kablo TV, radyo TV ve özel devre hizmetlerine ait ücretlerin bazı kalemlerinde de ''cüzi'' oranlarda indirime gidildiği kaydedildi. 
+     Uluslararası Frame Relay tarifesinin CIR aylık ücretlerinde de hızlara göre değişen oranlarda indirim uygulandığı ifade edilen açıklamada, ayrıca, peşin kontör alımlarında nakit olarak 1200 ve üzerinde kontör alanlara yüzde 5, kredi kartı ile alanlara ise yüzde 2 oranında indirim yapılacağı bildirildi. 
+     İndirimli tarife yarından geçerli olacak. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 389467 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/25/son/sondun43.html </URL>
+<DATE> 2005/10/25/ </DATE>
+<TIME> 21.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Almanya'da ölü kazlarda kuş gribi bulundu 
+</HEADLINE>
+<TEXT>
+
+     Almanya'nın batısında bulunan ölü yaban kazlarında, ilk testlere göre kuş gribi saptandığı bildirildi. 
+     Sağlık yetkilileri, kazlar üzerinde yapılan testlerde kuş gribine rastlandığı, ancak hayvanların virüsten değil zehirlenmeden öldüğünü söylediler. 
+     Virüsün öldürücü H5N1 tipinde olup olmadığının belirlenmesi için başka testler yapılacağı belirtildi. 
+     Bu arada, Avrupa Birliği, evlerde beslenen kuşların ithalatını yasakladı. 
+     AB Komisyonu'ndan yapılan açıklamada, kuş gribiyle mücadelenin güçlendirilmesi için kafes kuşlarının ithaline de yasak getirildiği belirtildi. 
+     İngiltere'de geçen hafta ithal bir papağanda kuş gribi olduğu saptanmıştı. 
+     
+</TEXT>
+</DOC>

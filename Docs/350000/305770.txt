@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO> 305770 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/12/son/soneko22.html </URL>
+<DATE> 2005/01/12/ </DATE>
+<TIME> 12.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dijital imza uygulaması, Koçbank ile hayata geçiriliyor... 
+</HEADLINE>
+<TEXT>
+
+     Türkiye'de ilk elektronik sertifika ve dijital imza uygulaması, Koçbank ile hayata geçiriliyor. 
+     Uygulamaya ilişkin Açık Anahtarlı Altyapı Hizmetleri Temel Hizmetler Sözleşmesi, Koçbank ve e-Güven A.Ş. arasında törenle imzalandı. 
+     e-Güven A.Ş. ve Türkiye Bilişim Vakfı Başkanı Faruk Eczacıbaşı, imza töreninde yaptığı konuşmada, elektronik imzaya ilişkin yasanın geçen yıl 23 Temmuz'da yürürlüğe girdiğini anımsatarak, ''e-imzada daha önce hukuki altyapının olmaması Türkiye'yi haritada çekili bir diş gibi bıraktı. Türkiye bu konuda gecikti'' dedi. 
+     Sivil bir toplum kuruluşu olduklarını belirten Eczacıbaşı, özel sektör gibi amaçlarının kar yapmak olmadığını, ancak çalışma tarzının özel sektör gibi olacağını söyledi. 
+     Koçbank Yönetim Kurulu Üyesi Federico Ghizzoni de, elektronik imza uygulamasında Türkiye'de ilk olmaktan büyük memnuniyet duyduklarını dile getirdi. 
+     Bunun, Koçbank'ın her zaman yaratıcılık konusunda da önde gittiğinin bir kanıtı olduğunu ifade eden Ghizzoni, elektronik sertifikanın, çalışmalarında çok önemli yollar açacağını vurguladı. 
+     Ghizzoni, elektronik sertifikanın hız ve kalite açısından iletişimi büyük oranda artıracağını belirterek, şöyle devam etti 
+     ''Kağıtsız iş yapmaya çok daha fazla yaklaşacağız. Servis masraflarının azalmasına ve maliyetlerin düşürülmesine önemli katkıda bulunacak. Bankaların önümüzdeki yıllarda en önemli çalışma alanı, maliyetlerin düşürülmesi ve satışların artırılması olacaktır. Bu işte öncü olma cesareti gösterdik. Bundan çok mutluyuz.'' Federico Ghizzoni, elektronik imzanın Türkiye'yi AB ülkeleriyle aynı düzeye getirdiğine işaret ederek, AB'ye katılım için gerekli adımların bu gibi adımlar olduğunu kabul etmek gerektiğini vurguladı. 
+     
+     ''DİJİTAL ORTAMDA KAĞIT HIRSIZI'' 
+     Siemens Business Services Türkiye Genel Müdürü Mustafa Çağan da, dijital dünyanın hızla büyüdüğü günümüzde güvenliğin en çok dikkat edilmesi gereken husus olduğunu kaydetti. 
+     Araştırma şirketi Gartner tarafından yapılan araştırmalara göre, dijital ortamda gerçekleştirilen kimlik hırsızlığının kağıt ortamında gerçekleştirilenden 8 kat daha fazla olduğuna dikkati çeken Çağan, dünya genelinde 2003 yılında kişisel bilgi hırsızlığının maliyetinin 1.2 milyar dolar olarak gerçekleştiğini bildirdi. 
+     Çağan, başka bir araştırmaya göre ise son günlerde kullanıcıların banka şifrelerini yenilemeleri konusunda gelen e-maillerle 11 milyon kullanıcının kandırıldığını ve 1.7 milyon kişinin dolandırıldığının açıklandığını kaydetti. 
+     Çağan, dijital güvenlik konusundaki açıkları kapatmak amacıyla Siemens Business Services'ın Türkiye'de büyük bir yatırıma imza atarak ilk Trust Center hizmetini hayata geçirdiğini belirterek, ''Bu yatırımın, Türkiye'nin e-dönüşümü için önemli bir yatırım olduğunu ve e-imza ile ilgili kanunun yasalaşmasından sonra önemini daha da artırdığını düşünüyoruz'' diye konuştu. 
+     Elektronik güvenlik ve dijital imza uygulamasının Koçbank projesiyle hayata geçirildiğini belirten Çağan, diğer bankaların da e-imza ile ilgili projelerini hızla hayata geçirmelerini beklediklerini söyledi. 
+     
+     ''NİSAN'DA ELEKTRONİK SERTİFİKA ALANLAR AÇIKLANABİLİR'' 
+     e-Güven Genel Müdürü Sertaç Çelikyılmaz da, Elektronik İmza Kanunu'ndan sonra bu kanunun uygulanmasına ilişkin tebliğin 6 Ocak 2005 tarihli Resmi Gazete'de yayımlanarak yürürlüğe girdiğini anımsattı. 
+     Çelikyılmaz, bugün itibariyle konusunda bir ilki gerçekleştirmek üzere, elle atılan imza ile aynı hukuki sonucu doğuran güvenli elektronik imzanın en önemli unsurlarından biri olan nitelikli elektronik sertifikaların temini de dahil olmak üzere, Koçbank ile elektronik bilgi güvenliği sağlanması amacıyla anlaşma imzaladıklarını bildirdi. 
+     Sertaç Çelikyılmaz, böylece Koçbank'ın elektronik bankacılık uygulamalarında uluslararası standartlarda bir bilgi güvenliği sistemine kavuştuğunu kaydetti. 
+     Soruları da yanıtlayan Çelikyılmaz, elektronik imzayla ilgili mevzuatın çıkmasının ardından Nisan ayında e-sertifika alacak kurumların Telekomünikasyon Kurumu tarafından açıklanabileceğini bildirdi. Çelikyılmaz, yılın ikinci yarısında da yavaş yavaş bu sertifikaların kullanımına başlandığının görüleceğini söyledi. 
+     Konuşmaların ardından, Faruk Eczacıbaşı ve Koçbank Genel Müdür Yardımcısı Hishem Laroussi, Açık Anahtarlı Altyapı Hizmetleri Temel Hizmetler Sözleşmesi'ne chip'li kartlarıyla elektronik ortamda imza attılar. 
+     
+</TEXT>
+</DOC>

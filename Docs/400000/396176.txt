@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 396176 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/18/son/sonyas10.html </URL>
+<DATE> 2005/11/18/ </DATE>
+<TIME> 12.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternetten koku 'indir...' 
+</HEADLINE>
+<TEXT>
+
+     Artık internetten koku da ''indirilebiliyor...'' Japonya'nın NTT Communications adlı telekom firması, ekrandan seçilen kokunun internetten ''indirilmesine'' imkan veren hizmet başlattığını açıkladı. 
+     Firmanın açıklamasına göre, kullanıcılar bu hizmetten herhangi bir bilgisayarla internete bağlanarak yararlanabilir, yeter ki bilgisayar, koku esansları içeren özel kutucuğa bağlı olsun... İnternet kullanıcısı, arzuladığı kokuyu bulunduğu ortamda duymak istediğinde, sadece NTT Communications'ı ''tıklıyor.'' İstenen kokunun kompozisyonuna ilişkin veriler, internet üzerinden PC'ye bağlı esans kutusuna iletiliyor, bu veriler ışığında oluşturulan koku kutudan yayılıyor. İnternet kullanıcısı, koku ''indirerek'' sözgelimi hoş bir uyku ya da daha güzel bir çalışma ortamı yaratabiliyor. 
+     PC'ye bağlanacak koku kutucuğu 900 YTL'den satılıyor. 
+     NTT.Com, Japonya'da koku hizmeti veren ilk firma olsa da bu fikri ilk öne sürenler Fransızlar olmuştu. Tokyo'daki France Telecom'un araştırma laboratuvarında, birkaç yıl önce koku veren CD üretilmişti. 
+     
+</TEXT>
+</DOC>

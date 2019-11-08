@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 281978 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/20/son/sonyas04.html </URL>
+<DATE> 2004/10/20/ </DATE>
+<TIME> 09.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternet sayfaları 3 boyutlu olacak... 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın önemli yazılım kuruluşlarından Sun Microsystems, bilgisayar ekranlarını 3 boyutlu hale getirecek yeni işletim sistemi arayüzünü, 2005 yılında piyasaya sürmeyi amaçlıyor. 
+     Sun'da 3 boyutlu arayüz fikri ilk olarak firmanın yazılım mühendislerinden Hideya Kawahara tarafından 2003 yılının başlarında tasarlandı. Bilgisayar arayüzünün neredeyse 20 yıldır hiç değişmediğini fark eden Kawahara, daha güçlü ve daha estetik bir arayüz için çalışmalara başladı. 
+     Başlangıçta günde sadece 2 saat arayüzle uğraşan Kawahara, projesini bölüm müdürü ile paylaşınca Sun, yeni arayüzdeki potansiyeli fark ederek konuya bütün ağırlığını vermeye başladı. 
+     Bugün, Looking Glass projesi adı verilen 3 boyutlu arayüzün tasarım lideri olan Kawahara, Microsoft'un, yeni jenerasyon masaüstü hazırlamasına karşın Linux'da böyle bir çaba olmadığını fark ederek, yeni yazılımın açık kaynak koduyla çalışması için ekibini bu anlamda yönlendirdi. 
+     Projenin ilk prototipi 2003 yılının Temmuz ayında Sun firmasında denendi ve büyük ilgi gördü. Bu yıl düzenlenen ''JavaOne Konferansı''nda da ilk olarak dünyaya tanıtıldı ve olumlu eleştiriler aldı. 
+     
+     EKRANDA DEVRİM 
+     Looking Glass arayüzünde ekranda iki boyutlu olarak duran sayfa kendi ekseni etrafında döndürülebiliyor, yani bir anlamda ekranın herhangi bir yerine ''park edilebiliyor''. 
+     Açılan tüm sayfalar bir kütüphanede bulunan kitaplar gibi yan yana sıralanabiliyor ve süpürülebiliyor. Şeffaflaştırılabilen sayfanın arkasındaki sayfalar da kullanıcı tarafından görülebiliyor. 
+     Kullanıcılar, 3 boyutlu bir dünyaya girebiliyor ve sanal bir dünyadaymış gibi uygulamalara farklı ekranlardan erişebiliyor. 
+     
+     AÇIK KAYNAK 
+     Looking Glass projesi, Java dili ile yazılarak açık kaynak kodlu yazılımlardan Linux ve Solaris ile çalışabilecek şekilde tasarlanıyor. 
+     Tasarım ekibi şu an ''Solaris x86'' desteği ile çalışacak yeni versiyonu hazırlıyor. 
+     Yeni arayüz, Sun firmasının ofis StarOffice, Mozilla tarayıcı ve RealPlayer desteğini de alıyor. 
+     Looking Glass projesi ile ilgili olarak 26 Ekim 2004 tarihinde, projenin ''fikir babası'' Hideya Kawahara ile yardımcıları Paul Byrne ve Deron Johnson, Sun sitesindeki chat odasında kendilerine yönlendirilecek soruları yanıtlayacak. 
+     
+</TEXT>
+</DOC>

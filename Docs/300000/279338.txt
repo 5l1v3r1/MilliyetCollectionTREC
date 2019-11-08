@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 279338 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/12/yazar/gunes.html </URL>
+<DATE> 2004/10/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Hurşit GÜNEŞ  </AUTHOR>
+<HEADLINE>
+Ekonomide Nobel 2004 Kydland ve Prescott'a 
+</HEADLINE>
+<TEXT>
+
+
+Bu yıl da Nobel Ekonomi Ödülü paylaşılarak dağıtıldı. Ödülü yine biri Norveç kokenli iki ABD ikametli ekonomist aldı. Ancak ödülün paylaşılarak alınmasının nedeni, katkının Nobel Ödülü alamayacak düzeyde olması değil, daha çok beraberce çalışma yapılmasından kaynaklanıyor. 
+Gerek Norveç kökenli olan Finn E. Kydland, gerekse Edward C. Prescott aslında Amerika'da son yıllarda iyiden iyiye yaygınlaşan yeni - klasik okulun izleyicilerinden. 60 yaşında olan Kydland Carnegie - Mellon Üniversitesi'nde, 63 yaşında olan Prescott ise Arizona Eyalet Üniversitesi'nde ders veriyor. 
+Her iki iktisatçının da ödüle layık görülmesi aslında 1977, 1982 ve 1988'de beraberce yayımladıkları üç makaleye dayanıyor. Journal of Political Economy'de yayımladıkları ilk makalede, ekonomide kurallar mı, yoksa iradeyle mi hareket etme ikileminde optimal bir planlamanın yapılmasındaki güçlüğe dikkat çekmişlerdi. 1988 makalesinde ise sermaye üzerine herhangi bir vergi salınmasının planlandığı an, bu politikanın etkisinin birdenbire değiştiğini ve ödeyecek olanların pozisyon alarak tüm taleplerini yükselttiğini açıklamışlardı. Kısacası, ekonomik politikayı belli bir kurala bağlı olarak uygulamaya koyanların zamanla başka sonuçlarla karşılaşmaları çok daha olası. 
+Gerçekten de alınan bir kararın sonucunun alınması için süreç başladığından itibaren başka hiçbir değişimin olmadığı varsayılır. Bu statik bir yaklaşımdır. Oysa konuya dinamik bir biçimde yaklaşılırsa işlerin farklı olduğu da ortaya çıkar. İşte Kydland ve Prescott'un zaman uyuşmazlığı sorunu timeinconsisteny dediği de bu. 
+Yeni klasik okulun önemli ilgi alanlarından biri konjontürel dalgalanmalardır business cycles . İki bilimadamının ilginç yanı bu konuyu büyüme teorisine taşımaları ve daha önceki araştırmaların aksine konuya arz yönünde getirdiği etkileriyle bakmaları olmuştur. İktisadi çalışmalar işlerin bozulmasının, ya da iyileşmesinin nedenini talebe bağlayarak çözüm ararken, iki araştırmacı konuya arz yönünden bakmışlardır. Uzun dönemli büyüme ile konjonktürel dalgalanmaların farkının da Keynezyen modellerde farklı parametrelere dayatılması yerine, iki araştırmacı kısa vadede verimlilik, uzun vadede ise yatırım ve göreli fiyat değişimleriyle, yani arz yanlı değişkenlerle açıklamaya çalışmışlardır. Son yıllarda Keynezyen ekonomik araştırmaların bile ekonomik dalgalanmaları gerek arz, gerekse talep yanlı incelemesi bu iki araştırmacıya puan kazandırmış. 
+Son ödülle birlikte bizim dikkatimizi çeken husus, bu ödüllerin giderek hem daha muhafazak r eğilimli iktisatçılara verilmesi, hem de daha teknik araştırma yapan meslektaşlarımıza. Birincisi, zaten bilinegelen bir gerçekti. Frank Hahn gibi dev bir iktisatçıya ödülü layık görmeyip, sadece yeni klasiklere verirsen kimsenin de ne eli armut toplar, ne de kalemi. 
+Tabii bu araştırmacıların eserlerini küçültmez. Onları değerli çalışmaları için kutluyoruz. 1.4 milyon dolara yakın ödülü de paylaşarak vergisini ödedikten sonra afiyetle yesinler. 
+
+1989 yılında da Norveçli Trygve Haavelmo Nobel ödülüne layık görülmüştü. 
+
+
+
+</TEXT>
+</DOC>

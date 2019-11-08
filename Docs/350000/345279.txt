@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 345279 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/24/son/sondun04.html </URL>
+<DATE> 2005/05/24/ </DATE>
+<TIME> 09.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD'de organ vericisinden virüs kapan 3 nakil hastası öldü 
+</HEADLINE>
+<TEXT>
+
+     ABD’de, bir organ vericisinden bulaşan virüs yüzünden, 3 organ nakli hastası öldü. 
+     Yetkililerin verdikleri bilgiye göre karaciğer, akciğer ve böbrek nakli yapılan 3 hasta, organ vericisinin muhtemelen bir kemirgenden kaptığı virüs yüzünden, ameliyattan birkaç hafta sonra yaşamını yitirdi. 
+     Aynı vericiden böbrek nakli yapılan bir başka hastanınsa iyileşmekte olduğu kaydedildi. 
+     Kadın vericinin, muhtemelen evinde beslediği cırlak sıçandan "lymphocytic choriomeningitis" virüsünü aldığı belirtildi. 
+     Yetkililer, bağışlanan organlarda bu tür virüslerin olup olmadığını saptamak için düzenli testlerin yapılmadığını ve bu virüsün organ bağışı için engel olarak düşünülmediğini söylediler. 
+     
+</TEXT>
+</DOC>

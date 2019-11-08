@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 203216 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/19/son/soneko22.html </URL>
+<DATE> 2003/12/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kapasite kullanım oranı yüzde 79.9'a yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     Bu yılın Kasım ayında, üretim değeri ağırlıklı kapasite kullanım oranı, geçen yılın aynı ayına göre 2.7 puan artış gösterek yüzde 79.9 oldu. 
+     Devlet İstatistik Enstitüsü'nün Aylık İmalat Sanayi Eğilim Anketi sonuçlandı. Ankete 820 işyeri cevap verdi. 
+     Kasım ayı geçici sonuçlarına göre, 2002 yılı Kasım ayında yüzde 77.2 olan üretim değeri ağırlıklı kapasite kullanım oranı, bu yılın aynı ayında yüzde 79.9 düzeyinde gerçekleşti. 
+     Yılın diğer aylarına gözatıldığında 2003 Ocak ayında yüzde 74.9 olan kapasite kullanımı, Şubat'ta yüzde 71.9'a düşerken, Mart'ta yüzde 78.3'e ulaştı. Nisan'da yeniden düşüş yananan üretim değeri ağırlıklı kapasite kullanım oranı yüzde 75.9'da kalırken, Mayıs'ta yüzde 78.7, Haziran'da yüzde 80.1, Temmuz'da yüzde 79.8 oldu. Ağustos'ta aynı oran korunarak yüzde 79.3 olan değer, Eylül'de yüzde 83.5, Ekim'de yüzde 80.4, Kasım'da da yüzde 79.9 oranında sonuçlandı. 
+     
+     KAPASİTEYİ ETKİLEYEN NEDENLER 
+     Ocak-Kasım aylarını kapsayan 11 aylık dönemde işyerlerinin tam kapasiteyle çalışamama nedenleri de belirlendi. Söz konusu dönemde, iç pazardaki talep yetersizliğinin payı yüzde 64.1 oldu. Dış pazardaki talep yetersizliği yüzde 14.4, mali imkansızlıklar yüzde 2.5, yerli mallarda hammadde yetersizlilği yüzde 3.6, işsizlikle ilgili meseleler yüzde 2.1, ithal mallarda hammadde yetersizliği yüzde 1.3 pay aldılar. 
+     
+     GELECEK BEKLENTİSİ 
+     Öte yandan işyerlerinin Aralık ayı beklentileri, geçen yılın aynı ayıyla kıyaslandığında, işyerlerinin üretim ve yurtiçi satışlarının artacağı, satış fiyatlarındaki artışın düşeceği ve hammadde fiyatlarıdaki artışın ise aynı kalacağı beklentisi içinde oldukları görüldü. 
+     
+</TEXT>
+</DOC>

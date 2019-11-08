@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 391364 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/01/son/sondun32.html </URL>
+<DATE> 2005/11/01/ </DATE>
+<TIME> 18.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yeni bir deyimimiz oldu "Karnınla bak da konuş" 
+</HEADLINE>
+<TEXT>
+
+     ABD'de yapılan bir araştırmanın, gözler ve kalp gibi karnın da yalan söylemediğini ortaya koyduğu bildirildi. 
+     Sağlık konusunda yayınladığı haber ve araştırma sonuçlarıyla tanınan WebMD isimli internet sitesinin haberine göre, karındaki değişikliklerin ölçümü, ölçümü yapılan kişinin yalan söyleyip söylemediği konusunda standart bir yalan makinasından poligraf daha iyi sonuç veriyor. 
+     Poligraf'ın elektrokardiyogramlar kullanarak kalp atışındaki değişimi ve terlemeyi ölçmek suretiyle kişinin yalan söyleyip söylemediğini ortaya koyduğuna dikkat çeken araştırmacılar, karın ve bağırsakların da strese karşı aşırı duyarlı olduğunu, bundan dolayı beyin-karın bağlantısının takibinin en iyi yalancıları bile ele verdiğini ifade ettiler. 
+     Araştırma sonuçlarının, standart poligraf tekniğine ilaveten, elektrogastrogram aracılığıyla karın-bağırsak gözleminin de kullanılması durumunda bir kişinin yalan söyleyip söylemediğinin yüzde 90 oranında isabetle tespit edilebildiğini gösterdiği kaydedildi. 
+     Araştırmanın sonuçları, Hawaii-Honolulu'da yapılan Amerikan gastroenteroloji yıllık toplantısında sunuldu. 
+     
+</TEXT>
+</DOC>

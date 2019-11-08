@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 379878 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/20/son/sondun09.html </URL>
+<DATE> 2005/09/20/ </DATE>
+<TIME> 09.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+1 milyon ajan otomobil 
+</HEADLINE>
+<TEXT>
+
+     Gizli kamera düşkünü Britanya, 1 milyon aracı ajana dönüştürecek. Araçlara takılacak kameralarla kural ihlali yapanlar belirlenecek. 
+     Dünyanın en çok 'gözetlenen' ülkesi Britanya gizli kamera uygulamalarında bir ilke daha imzasını attı. Hükümet yeni karayolları güvenlik sistemi çerçevesinde araçların birbirlerini gözetlemesini sağlayan yeni bir sistem uygulamaya hazırlanıyor. 
+     Cambridge Üniversitesi'nce geliştirilen sisteme göre araçlara yerleştirilen gizli kameralar sayesinde hatalı süren ya da ücretli otobanlardan bedava geçen sürücüler kameralarla tespit edilecek. Ülke genelinde ilk etapta 1 milyon araca yerleştirilecek gizli kameralar, yolda kuralları ihlal eden araçların plakasını okuyup, uydu aracılığıyla merkeze bildirecek. 
+     
+     Yola vericiler yerleştirilecek 
+     'Ajan araçlar' turnikelerden gelen radyo dalgalarını alan bir sistem sayesinde sürücünün ücreti ödeyip ödemediğini tespit edecek. Eğer radyo dalgası alamazsa öndeki aracın plakasının fotoğrafını çekerek tarih, zaman ve mek n bilgileriyle uydudan merkeze aktaracak. Sinyallerin aktarımını sağlamak için ise yolda her milde bir verici yerleştirilecek. Komuta merkezi aynı araç hakkında birden fazla hata sinyali alırsa o araca ceza kesecek. 
+     Yeni sistem, araç sürücülerine gittikleri yol kadar ücret ödeyebilme imk nı da sunacak. Örneğin kalabalık yolda 1 mil yol 1.6 km. alan bir sürücü 1.34 sterlin öderken, tenha bir yoldan geçen bir sürücü 2 pence ödeyebilecek. Uzmanlar sürücüleri ajanlığa ikna etmek için yeni güvenlik sistemiyle birlikte araç sahiplerine bir de DVD player verecek 
+     
+</TEXT>
+</DOC>

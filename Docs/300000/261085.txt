@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 261085 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/06/son/soneko01.html </URL>
+<DATE> 2004/08/06/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Wall Street'te Dow Jones, psikolojik sınırın altına düştü 
+</HEADLINE>
+<TEXT>
+
+     New York menkul kıymetler borsası Wall Street günü düşüşle kapadı. 
+     Dow Jones endeksi 164,59 puan kaybederek, psikolojik sınır 10.000'in altına geriledi ve 9.962,14 oldu. 
+     Nasdaq endeksi de 33,29 puan kaybederek, 1.821,77'ye geriledi. 
+     
+</TEXT>
+</DOC>

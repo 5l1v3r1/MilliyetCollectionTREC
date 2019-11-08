@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 258357 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/26/son/sonyas08.html </URL>
+<DATE> 2004/07/26/ </DATE>
+<TIME> 09.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+NASA, Merkür'e gidiyor... 
+</HEADLINE>
+<TEXT>
+
+     NASA'nın, Güneş'e en yakın gezegen olan Merkür'ün yörüngesine girmek üzere 2 Ağustos'ta uzay aracı fırlatacağı bildirildi. 
+     Messenger uzay aracının, Güneş sisteminin en küçük ikinci gezegeni olan Merkür'ün yörüngesine girdiğinde 370 derece sıcaklığa maruz kalacağı, bunun da ''aynı anda 11 Güneş'in Dünya'yı ısıtmasına eşdeğer bir sıcaklığa denk olduğu'' ifade edildi. 
+     Sıcağa karşı seramik alaşımlarla muhafaza edilen uzay aracının, buna ilaveten Güneş ile Merkür arasında yol alırken kanatlarına yerleştirilen binlerce küçük ayna vasıtasıyla yoğun Güneş ışınlarını yansıtmak suretiyle bu sıcaktan korunacağı kaydedildi. Uzay aracının içine döşenen bazı borularla da termos etkisi yaratıldığı ve böylelikle içerideki elektronik aksamın zarar görmeden çalışmasının temin edileceği belirtiliyor. 
+     Bu arada, kanatların üçte ikilik kısmının aynalar için, üçte birlik kısmının ise uzay aracının enerji ihtiyacını karşılamak üzere güneş pilleri için tahsis edildiği bildirildi. 
+     Merkür, zaman zaman Dünya'ya yaklaşık 80 milyon km yaklaşmasına rağmen, Dünya'dan Merkür'e doğrudan bir seyahat teknik açıdan mümkün olmadığından, Messenger uzay aracının yaklaşık 8 milyar km yol kat edeceği ifade ediliyor. 
+     Uzay aracı, bu yolculuğu sırasında Merkür'e doğru birkaç ay seyahat ettikten sonra, Merkür'ün yörüngesine yerleşmek için yeterince yavaşlamak üzere sarkaç gibi hareket ederek Dünya yakınlarından bir kez, Venüs yakınlarından iki kez ve Merkür yakınlarından üç kez geçeceği kaydediliyor. Messenger, bu yolculuğu 2011 martında tamamlayacak. 
+     427 milyon dolara mal olacak Messenger misyonundan önce, NASA'nın bir çeşit şemsiyeyle Güneş ısısından korumaya çalıştığı Mariner 10 isimli bir uzay aracı, 1974 ve 1975 yıllarında üç kez Merkür'e yolculuk yapmış ve gezegenin bugünkü standartlara göre başarılı olmayan ilk fotoğraflarını çekmişti. Yakın tarihe kadar Merkür'deki sıcaklığa uzun süre dayanabilecek nitelikte malzeme üretimi mümkün olmadığından, bugüne kadar bu çalışmalarda ilerleme kaydedilememişti. 
+     Bir yılı Dünya'nın 88 gününden ibaret olan Merkür'de gece ve gündüz sıcaklıkları arasında 600 derecelik fark bulunuyor. Gezegen yüzeyinde gündüz 427 dereceyi bulan sıcaklık, geceleri sıfırın altında 173 dereceye kadar düşüyor. 
+     Merkür gün doğumunda ve gün batımında çıplak gözle güneşin yanında parlak yıldız gibi gözlenebiliyor. Bugüne kadar yapılan araştırmalar sayesinde, kalın çekirdeği tamamen demirden oluşan Merkür gezegeninde su ve hayat olmadığı kesin olarak tespit edilmiş bulunuyor. 
+     
+</TEXT>
+</DOC>

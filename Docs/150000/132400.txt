@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 132400 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/01/22/son/soneko01.html </URL>
+<DATE> 2003/01/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsası... 
+</HEADLINE>
+<TEXT>
+
+     New York borsası düşüşle kapandı. 
+     Borsanın temel göstergesi Dow Jones, 143.84 puan kayıpla günü 8,442.90 puandan kapattı. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq da 11.93 puan düşerek 1,364.25 puana geriledi. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

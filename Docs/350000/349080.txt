@@ -1,0 +1,42 @@
+<DOC>
+<DOCNO> 349080 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/05/yazar/yilmaz.html </URL>
+<DATE> 2005/06/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Serpil YILMAZ  </AUTHOR>
+<HEADLINE>
+"Telekom sanayii kalmadı" 
+</HEADLINE>
+<TEXT>
+
+
+Nortel Netaş Genel Müdürü Müjdat Altay ile, ocak ayının sonunda Ankara'da Başbakan Erdoğan ile dünyanın en zengin adamı ve Microsoft'un kurucusu Bill Gates'i buluşturan, "Türkiye Bilişimle Kalkınıyor" paneli sonrasında verilen yemekte, kısa bir sohbet olanağı bulmuştum. 
+Altay ile konuşmamızdan aklımda araştırma ve geliştirmeye harcadıkları 1.5 milyar dolar ve firmalarından ayrılan mühendislerin kurdukları 10 adet telekomünikasyon yan sanayii şirketi kalmıştı. 
+Altay, Ümraniye'deki merkezlerine davet etti. Teknolojiyi tanımaya çalışan bir kuşak olarak, "fikir" edinebilmek için gittim. 
+Beni bir odaya aldılar. Odanın içinde evlerde kullandığımız telefonlar, cep telefonları, bilgisayar gibi aletler ve bir de ekran var. Bana sanal ortamda tek bir noktadan erişebilirliği örneklediler. 
+Bir tek telefon numarası ile her yerde erişilir olmak. Daha sonraları erişilir olabilmek için telefon numarası bile gerekmeyecek bir isim, kod, e-mail adresi bile yeterli olabilecek. 
+Verilen örnek bir işkadınının yaşamını konu alıyordu. İşkadını ev işlerini de organize etme yükü açısından çarpıcı olsun diye verilen bir örnek , yurtdışı geziye çıkmadan önce telefonunu bilgisayarından, ulaşılma olasılığı olan saatlere göre, bulunduğu yerdeki telefonlara yönlendiriyordu. Kablosuz erişimin olduğu her ortamda, sesli ve görüntülü görüşme yapabiliyor, dosya gönderebiliyordu. 
+"Çağrı yönetimi" olarak tanımlanan bu alan, işgücünün yaklaşık yüzde 87'sinin ofis ortamından bağımsız hale gelmesini veri alıyor. 
+Yapılan araştırmalara göre, Avrupa'da gezgin çalışanların sayısının 2006'da 95 milyona ulaşması bekleniyor. Bu rakam nüfusun üçte ikisini temsil ediyor. Nortel'in 400 firma üzerinde, 2005'in ilk çeyreğinde Avrupa, Ortadoğu ve Afrika bölgesinde mobilite üzerine yürüttüğü global araştırmaya göre bu bölgede firmaların yüzde 72'si uzaktan erişim çözümleri, yüzde 50'si kablosuz internet, yüzde 38'i ise birleşik mesajlaşma ile ilgilenip yatırım yapıyor. 
+Elimdeki telefonun tüm gelişmiş özelliklerine rağmen, erişilme noktasında yetersizliğini fark ettim. Karşı tarafı arıyorum, yok Bu sistemde böyle bir alternatif tümden ortadan kaldırılıyor. Ulaşılamama yalnızca "gönüllülük" meselesi olarak kalıyor. 
+
+Milyarlar gitti 
+Telekomünikasyon sanayii diye bir olgudan söz edebilir miyiz, onu anlamaya çalışıyorum. 
+Gates'in Türkiye'ye gelişi ile yeni bir ufuk açılmış mı 
+Gates'in yeniden Türkiye'ye gelmek istediğini biliyorum, ancak Erdoğan'a "Teknoloji parkı kuracaktınız, ne oldu " diye sorması halinde, nasıl bir yanıt verileceğini henüz kimse bilmiyor. O gün olduğu gibi, bugün de Maslak mı, Ümraniye mi tartışması sürüyor. 
+Altay, "Telekom sanayii kalmadı" diyor. Bir dönem Türkiye'nin bütün noktalarına santrallar kurarak, telefonsuz köy bırakmayan Özal'ın "Telekom devriminin" çözüm ortağı Netaş'tı. 
+Altay, 1980'lerden sonra giderek Telekom sanayinin "ithalata" dayalı, fiyat politikasına kurban edildiğini, AR-GE ve üretim önceliklerinin ortadan kaldırıldığını belirtiyor. 
+"GSM şebekesine büyük kaynaklar harcandı, 20 bin baz istasyonu kuruldu. Hiçbiri yerli üretim değil, milyarlarca dolar yurtdışına gitti. Kırsal santral talebi bitince, Türkiye ihracata yönlendirilmedi" diyor Altay. 
+Son 5 yılda 187.5 milyon dolar ihracat gerçekleştiren ve 574 çalışanının 334'ü AR-GE'de konumlanan bir şirketin bu feryadı çok anlaşılır bir durum. 
+Anlaşılması güç olan, iletişim sektörünün geleceği yeri bilip de bunun yan sanayiini, altyapısını oluşturmayan yönetimlerin tutumları. 
+Altay, Kazakistan gezisinden geldiğimi vurgulayarak, "Bağımsız Devletler Topluluğu'na sabun için kredi verildi, biz kredi bulamadık. Kredilerde sektörel bölünme yapılmadı" da diyor. 
+Nortel Netaş'ın ortaklık yapısına bakalım 
+1967 yılında PTT Türk Telekom ve Kanada'nın Northern Electric Company Ltd. ortaklığı ile kuruldu. Yüzde 31.87'si İMKB'de işlem gören şirketin yüzde 53.13'ü Nortel'in, yüzde 15'i de Türk Silahlı Kuvvetleri'ni Güçlendirme Vakfı'nın. 
+Özel ve kırsal santral, güç sistemleri, büyük santral yazılımı, ağ yönetim sistemlerinde ilklere imza atan, TSK ve Jandarma'ya iletişim altyapısı kuran bir firmanın genel müdürü olarak Altay'ın şu sözleri kayda girmeli 
+"Netaş kurulduğu zaman yüzde 70 yerli şartı vardı. Yan sanayii sergileri açardık. Bugün bize de, kimseye de yerli katkı oranı sorulmuyor. Nüfusun yüzde 50'si 25 yaşın altında olan bir ülkede, AR-GE'ye dayalı büyümenin önemi göz ardı ediliyor." 
+
+
+
+</TEXT>
+</DOC>

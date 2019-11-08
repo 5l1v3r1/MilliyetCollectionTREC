@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 185745 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/01/son/sondun13.html </URL>
+<DATE> 2003/10/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Defense News "Pentagon, Türkiye'ye teknoloji transferine karşı" 
+</HEADLINE>
+<TEXT>
+
+     ABD Savunma Bakanlığı Pentagon'un, Türkiye'nin ikinci parti F-16 savaş uçağına takılacak ''elektronik karşı tedbir sistemlerini'' üretmesi öngörülen Amerikan şirketine, önemli noktalarda Türk tarafına teknoloji transfer etmesine izin vermediği öne sürüldü. 
+     Amerikan savunma çevrelerinin dergisi Defense News'un Türk ve Amerikan savunma kaynaklarına dayandırarak verdiği habere göre, Pentagon yetkilileri, elektronik karşı tedbir sistemleri üreticisi BAE Systems North America şirketine bir mektup yazarak, başta bilgisayar yazılım kaynak kodları olmak üzere, kritik teknolojik bilgilerin Türk tarafına iletilmesine izin vermedi. 
+     Haberde, Pentagon'un Amerikan şirketine, Türk ortağını teknolojik veri paketi konusunda eğitmesini yasakladığı, ''karıştırıcı algoritmaları'' ve ''karıştırıcı yazılım kaynak kodlarının'' Türk tarafına sağlanmasına izin vermediği iddia edildi. 
+     Defense News, ABD'nin bu tutumunun, Türk savunma sanayii yetkililerini ve askeri çevreleri rahatsız ettiğini yazdı. BAE Systems North America şirketinin bir sözcüsü ise elektronik karşı tedbir sistemleri projesinin ABD'nin ilgili savunma sanayii ihracat mevzuatına uygun olarak başlanması konusunda Pentagon'dan izin aldıklarını belirtirken, ''Bu mevzuatın özel konularına ilişkin sorular, ABD hükümetine yöneltilmeli'' dedi ve Pentagon tarafından getirilen kısıtlamaları dolaylı olarak doğruladı. 
+     Bir Amerikalı diplomat ise dergiye açıklamasında, ''Biz ve Türkiye, NATO müttefikleriyiz. Türkiye'ye vermeyi kabul etmediğimiz, ancak diğer müttefiklere verdiğimiz bir teknoloji yok'' diyerek, Pentagon'un tutumunu savundu. Dergi, bu gelişmeler ışığında Türkiye'nin 60 ile 80 adet arasında F-16 savaş uçağına elektronik karşı tedbir sistemleri üretilmesi ve takılması projesini gözden geçirebileceğini yazdı. 
+     Elektronik karşı tedbir sistemleri, savaş uçaklarının düşman radarlarınca belirlenmesini zorlaştırmaya ve düşman kuvvetlerinin yönelttiği tehditlerden korumaya yarıyor. Bilgisayar yazılım kaynak kodları ise sistemlerin en kritik parçası olarak tanınıyor. 
+     Türkiye'nin ikinci parti 80 adet F-16 uçağının üretimi, TAI tesislerinde, 1996 yılında tamamlanmıştı. BAE Systems North America ile halen sözleşme görüşmeleri sürüyor. Projenin bu şirketçe gerçekleştirilmesi durumunda, yaklaşık 240 milyon dolara mal olması bekleniyor. 
+     
+</TEXT>
+</DOC>

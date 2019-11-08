@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 91730 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/06/24/son/sondun12.html </URL>
+<DATE> 2002/06/24/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternet uzmanları uyarıyor "Şifrelerinizi sık sık değiştirin" 
+</HEADLINE>
+<TEXT>
+
+     Sanal dünyada, bilgisayar kullanıcılarının güvenlikleri için şifrelerini password düzenli olarak değiştirmeleri salık veriliyor. 
+     Uzmanlar, ev ya da işyerlerindeki bilgisayarlarda, banka hesapları gibi önemli bilgilere ulaşmada ve internet erişiminde kullanılan şifrelerin, ayda en az bir kere değiştirilmesi gerektiğini belirtiyor. 
+     İngiliz Egg firmasının yaptığı bir araştırmaya göre, bilgisayar kullanıcılarının yarısından fazlası şifrelerini hiç değiştirmiyor, çoğu kullanıcıysa oldukça kolay şifreler seçiyor. 
+     Bu araştırmaya göre, bilgisayar kullanıcılarının yüzde 23'ü çocuklarının, yüzde 19'u eşlerinin adını, yüzde 12'si doğum günlerini, yüzde 9'u bir futbol takımının adını, yüzde 9'u ünlü kişi ya da grubu, yüzde 9'u sevdiği yerleri, yüzde 8'i kendi adını, yüzde 8'i ev hayvanlarının adını şifre olarak seçiyor. 
+     Egg'in araştırması, bilgisayar kullanıcılarının şifrelerini genellikle bir not kağıdına yazarak bilgisayarlarına yapıştırdıklarını, şifre listesinin başında da sevdikleri birinin adının yer aldığını gösteriyor. 
+     Bilgisayar kullanıcılarının bu davranışlarının güvenliklerini büyük bir tehlikeye attığını belirten uzmanlar, sanal ortamda güvenlik için şu uyarıda bulunuyorlar ''Seçilen şifre en az 8 rakam ve veya harften oluşmalı, ortak temalardan kaçınılmalı, farklı websiteler için birden fazla şifre kullanılmalı.'' 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

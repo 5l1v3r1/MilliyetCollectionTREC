@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 214463 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/11/son/sondun22.html </URL>
+<DATE> 2004/02/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+"Zeki silah" icat edildi... Sahibini tanıyacak... 
+</HEADLINE>
+<TEXT>
+
+     Belçika'nın ünlü silah fabrikası Fabrique Nationale'in FN , ''zeki silah'' üretimine geçeceği bildirildi. 
+     Liege Üniversitesi'nde mikroelektonik profesörü Jacques Destine'nin kurduğu bir ekip, ABD'den gelen bir talep üzerine yaptığı araştırmalar sonunda ''zeki silah'' icat etti. 
+     Tabanca, tüfek gibi söz konusu silahlar, kabzalarına yerleştirilen elektronik sistemler sayesinde, el yapılarını ve anatomi verilerini dikkate alarak ''sahiplerini tanımak'' yeteneğine sahip olacak. Ait oldukları kişiler dışında, başkaları tarafından kullanılmaları halinde ateşleme sistemi bloke olan bu silahlar, sahiplerine doğrultuldukları takdirde de kişinin üzerinde bulunan bir elektronik cihaz sayesinde, ateş almayacak. 
+     ''Zeki silahlar'', sadece hafta sonları, geceleri veya günün belirli saatlerinde çalışmak ve sadece av amaçlı kullanılmak üzere de programlanabilecek. 
+     ABD'de, her yıl 6 bin kişinin ''aptalca kullanılan silahlar yüzünden'' öldüğünü, her gün iki çocuğun bu nedenle can verdiğini, silah satış yasalarının değiştirilemediğini anlatan FN yetkilileri, ''zeki silah'' icadının Amerikalılar tarafından benimsendiğini, gelecek yıl seri üretime geçileceğini bildirdiler. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 386041 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/12/son/soneko04.html </URL>
+<DATE> 2005/10/12/ </DATE>
+<TIME> 09.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Maliye, sanal ortamda cezayı azalttı... 
+</HEADLINE>
+<TEXT>
+
+     Maliye, vergi beyannamelerini internet ortamından verme zorunluluğu getirdiği mükelleflerin, yasal süresinden sonra verecekleri beyannamelerini de internet ortamından verebilmelerine olanak sağlıyor. İnternetten gecikmeyle verilecek beyannamelerin özel usulsüzlük cezası da indirimli olarak tahsil edilecek. 
+     Maliye Bakanlığı, elektronik ortamda verilme zorunluluğu getirilen beyannamelerin yasal sürelerinden sonra da elektronik ortamda kabul edilebilmesine ilişkin teknik yapının oluşturulduğunu açıkladı. Bu nedenle, konuyla ilgili olarak hazırlanan tebliğin Resmi Gazete’de yayımlandığı tarihten başlarak, zorunluluk kapsamına giren mükelleflerin ister yasal süresi içerisinde isterse yasal süresinden sonra kendiliğinden ya da pişmanlık talepli olarak verecekleri beyannameler elektronik ortamda kabul edilebilecek. Yasal süresinden sonra elektronik ortamda verilen beyannameler için mükelleflerden alınacak özel usulsüzlük cezası ise normalde uygulanan cezaya göre indirimli olarak alınacak. 
+     Buna göre, beyannamelerini elektronik ortamda verme zorunluluğu bulunan mükelleflerin, elektronik ortamda vermek zorunda oldukları beyannamelerini yasal süresinden sonraki 15 günlük süre içerisinde ve elektronik ortamda vermeleri 
+     halinde özel usulsüzlük cezası dörtte bir, ikinci 15 günlük süre içerisinde vermeleri halinde ise özel usulsüzlük cezasının yarısı alınacak. Birinci ve ikinci 15 günlük sürelerin dolmasından sonra verilecek beyannameler için ise normal özel usulsüzlük cezası uygulanacak. 
+
+ANKA 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 337343 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/27/son/soneko05.html </URL>
+<DATE> 2005/04/27/ </DATE>
+<TIME> 09.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsada yurtdışı gelişmeler izleniyor 
+</HEADLINE>
+<TEXT>
+
+     Yurtdışı piyasalara bağlı seyrini sürdüren borsa, dün kapanışını 24 bin 500 seviyesinin hemen altından gerçekleştirdi. 
+     Bugün de yurtdışındaki gelişmelerin izleneceği ve yön aranacağı borsada asıl olarak 3 mayısta yapılacak olan Amerikan Merkez Bankası FED'in faiz toplantısı bekleniyor. 
+     Dün ABD tüketici güven endeksinin gerilemesinin yurtdışı borsalar üzerindeki olumsuz etkisinin İMKB'de de görülebileceğine işaret eden uzmanlar, satıcılı bir başlangıç yapılması halinde 24 bin 400 puanın ilk destek seviyesi olarak çalışmasını bekliyorlar. 
+     
+     "24 bin 600 önemli" 
+     Endekste 24 bin 600 seviyesinin de önemli bir direnç olduğuna işaret edilirken, bu seviyenin üzerine çıkılamaması halinde tepki yükselişinin sona erdiği yorumunun yapılabileceği belirtiliyor. Bu nedenle bugün 24 bin 600 direnci ile birlikte 24 bin 400 ve 24 bin 200 desteklerine dikkat edilmesi gerektiği öneriliyor. 
+     İnter Yatırım'ın borsa bülteninde kısa vadede etkili olacak beklenti bulunmamasının borsanın düşük işlem hacmiyle dar bantta sıkışmasına neden olduğu belirtilerek gelişmelere göre orta vadede daha sert dalgalanmalar görebileceğine dikkat çekildi. 
+     
+     "Bekleyiş referanduma kadar sürer" 
+     Kurumun raporuna göre bugün de sıkışık seyrin sürmesi beklenirken, perşembe günü IMF'den gelmesi muhtemel açıklamaların olumlu etki yapması, cuma günü ise dış ticaret açığı beklentisini olumsuz etki yapması öngörülüyor. Raporda şu ifadeler yer aldı 
+     "Ancak piyasada çok istekli alıcıların bulunmaması, yükselişlerin hisse bazında görülmesine neden oluyor. Kar realizasyonlarına karşı tedbirli olmak gerekirken, yurtdışı etkisinin devam edeceğini tahmin ediyoruz. Fransa'da 29 mayısta yapılacak AB Anayasası referandumuna kadar bekleyişin süreceğini, sağlıklı bir toparlanma hareketi görmeyeceğimizi düşünüyoruz." 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 400431 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/04/son/sondun08.html </URL>
+<DATE> 2005/12/04/ </DATE>
+<TIME> 11.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Romanya'da yeniden kuş gribi 
+</HEADLINE>
+<TEXT>
+
+     Romanya'da bir bölgede daha kuş gribi görüldü. 
+     Mediafaks haber ajansı, ülkenin doğusundaki Braila bölgesindeki Cioacile köyünde bazı kümes hayvanlarında H5 virüsünün yol açtığı kuş gribi vakalarına rastlandığını bildirdi. 
+     Hayvan sağlığı yetkilileri, bölgenin dün karantina altına alındığını belirtti. 
+     Romanya'da kuş gribi görülen bölgelerin sayısı böylece 13'e yükseldi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 268722 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/03/son/soneko01.html </URL>
+<DATE> 2004/09/03/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası'nda Dow Jones ve Nasdaq endeksleri yükseldi. 
+     Dow Jones Endeksi 124.33 puan artarak 10,292.79 puana, Nasdaq Endeksi ise 23.03 puan yükselerek 1,873.44 puana çıktı. 
+     
+</TEXT>
+</DOC>

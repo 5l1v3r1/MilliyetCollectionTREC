@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO> 182863 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/17/son/sondun11.html </URL>
+<DATE> 2003/09/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İntel, en az 2 işlemci taşıyan bilgisayar yongası üretecek 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın en büyük bilgisayar işlemci firması olan Intel, tek bir silikon parçası üzerinde 2 ya da daha fazla işlemci taşıyacak bilgisayar yongası üretimiyle ilgili planlarını açıkladı. 
+     Çok işlemcili yongaların özellikle iş dünyasında kullanılan ''server''ların kapasitesini artıracağı bildiriliyor. 
+     Intel'den yapılan açıklamaya göre, yeni işlemcilerden 32 bit'lik olanına ''Tulsa'', 64 bit'lik olanına ise ''Tanglewood'' adı verildi. 32 bit'lik işlemci Xeon, 64 bitlik işlemci ise Itanium ''server''larda kullanılacak. 
+     Intel firması başkanı Paul Otellini, ''Tulsa'nın 2-3 yıl içinde, Tanglewood'un ise 2005 yılında piyasaya çıkacağını'' bildirdi. 
+     ''64 bit'lik işlemciye sahip masaüstü bilgisayarlar için gerekli işletim sisteminin henüz piyasaya çıkmadığını'' kaydeden Otellini ''gerekli programların da gelecek yıldan önce hazır olmayacağını'' söyledi. 
+     Intel'in rakibi olan AMD firmasının, 64 bit'lik Athlon modeliyle ilgili projesini bu ayın sonunda açıklaması bekleniyor. 
+     
+     BİR MİLYAR TRANSİSTÖR 
+     Otellini, ''kod adı Montecito olan Itanium işlemcinin, dünyanın bir milyar transistöre sahip ilk işlemcisi olacağını'' sözlerine ekledi. 
+     Otellini'nin tahminine göre, 2010 yılında dünyada 2.5 milyar el bilgisayarı ve hızlı bağlantıyla çalışan 1.5 milyar bilgisayar bulunacak. 
+     
+     HIZLI BAĞLANTI ZENGİN İŞİ 
+     Öte yandan, internete erişimi süratlendiren hızlı bağlantının zengin ülkelerde hızla yayıldığı, buna karşılık gelişme yolundaki ülkelerde pek görülmediği bildirildi. 
+     BM'ye bağlı kuruluşlardan Uluslararası Telekomünikasyon Birliği ITU tarafından yayımlanan bir raporda yer alan verilere göre, gelişme yolundaki ülkelerde internet hatları hala devlet tekellerinin elinde bulunuyor. 
+     Dünya çapında yapılan araştırmalar, hızlı bağlantı hizmeti verildiği takdirde, kullanıcıların iletişim için daha fazla para ödemeye hazır olduklarını da ortaya koydu. 
+     
+     GÜNEY KORE BİRİNCİ 
+     ITU'ya göre, dünyada hızlı bağlantının en yaygın olduğu ülke Güney Kore. 
+     Bu ülkenin 10.8 milyonluk nüfusunun yüzde 94'ü internete hızlı bağlantıyla bağlanıyor. İkinci sırada, nüfusun yüzde 15'inin hızlı bağlantı kullandığı Hong Kong geliyor. Kanada, yüzde 11 ile 3. sırada. 
+     ABD'de bulunan 70 milyon internet abonesinden 20 milyonu hızlı bağlantı kullandığı halde, nüfus açısından ABD yüzde 7 ile daha gerilerde. 
+     Buna karşılık dünyada en ucuz hızlı bağlantı Japonya'da bulunuyor. Bu ülkede hızlı bağlantı ücreti, ABD'dekinin 35'te biri düzeyinde. ABD'de hızlı bağlantı aboneleri, ayda ortalama 45 dolar ödüyor. 
+     Japonya'daki bağlantı, aynı zamanda dünyadaki en hızlı bağlantı. 
+     
+</TEXT>
+</DOC>

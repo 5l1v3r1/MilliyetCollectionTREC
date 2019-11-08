@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 350857 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/10/son/sonyas12.html </URL>
+<DATE> 2005/06/10/ </DATE>
+<TIME> 11.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternet adresleri uzantılardan kurtuluyor... 
+</HEADLINE>
+<TEXT>
+
+     Herkesin günlük yaşamının bir parçası haline gelen internet, artık "com", "net" ve "org" gibi uzantılardan kurtuluyor. Sanal alemin uzmanları, bu yeniliği, "internetin daha da özgürleşeceği" yorumuyla karşılıyor. 
+     İnternette her gün artan alan adlarının kısaltılması yönündeki çalışmalarda yeni alan adı yapıları ortaya çıkarıldı. İnternette ikinci nesil alan adı olarak kabul edilen Üst Seviye Alan Adı TLD - Top Level Domain dağıtımı yakında başlayacak. Türkiye Bilişim Derneği TBD , yeni sistemin Türkiye Koordinatörlüğünü üstlendi. 
+     AA muhabirinin sorularını yanıtlayan TBD Başkanı Turhan Menteş, yeni alan adı projesinin internetin özgürlükçü yapısını korumak için oluşturulduğunu bildirdi. 
+     Menteş, TBD’nin, Üst Seviye Alan Adı TLD - Top Level Domain sisteminin Türkiye koordinasyonu için Unified Identity Technology UNIDT ile işbirliği yaptığını belirterek, Türkiye’deki İnternet Servis Sağlayıcılar’ın ISP , TBD koordinatörlüğünde bu isimlerin satışını gerçekleştireceğini bildirdi. 
+     Yeni nesil alan adlarının, "com", "net" ve "org" uzantılarını almadan sadece "www.isim" şeklinde olacağını belirten Menteş, "Örneğin bizim derneğimizin alan adı olan www.tbd.org.tr yerine, www.tbd adresini de kullanabileceğiz" dedi. 
+     Jenerik alan adlarının "ilk kapanın elinde kalmaması için" hem TBD’nin, hem de UNIDT EMEA Bölgesi Avrupa, Ortadoğu ve Afrika 
+     temsilcisi Yusuf Taragano, kontrolörlük görevi yapacağını belirten Menteş, alan adı ücretinin 1000 dolar olarak belirlendiğini bildirdi. 
+     
+     TEKELE ÖNLEM 
+     TBD Başkanı Menteş, bu projenin temelinde, dünyadaki tekelleşmeye karşı eğilimleri kırmak olduğunu bildirdi. 
+     "Bölgesel alan adlarını kapatma istekleri oldu. Örneğin ABD, Afganistan’ın ".af" uzantılı alan adı almamasını istemişti" diye konuşan Menteş, bu projenin internetin özgürlükçü yapısını koruyacağını kaydetti. 
+     Ankara’da bir kök sunucu kurulacağını ve bunun da muhtemelen Telekomünikasyon Kurumu’nda yer alacağını anlatan Menteş, kök sunucunun Türkiye’de olmasından dolayı dışarıdan herhangi bir "baskı ya da müdahale" olamayacağını belirtti. 
+     Yeni alan adının ODTÜ’nün dağıttığı "com.tr" gibi alan adlarına bir alternatif olmadığına işaret eden Menteş, her iki alan adı projesinin de bağımsız ama uyumlu bir şekilde çalışacağını söyledi. 
+     Menteş, anlaşmanın, Türkiye için yeni açılımlar sağlayabilecek bir işbirliği özelliğini de taşıdığının altını çizerek, "Anlaşma gereğince TBD, bölge ülkelerindeki benzer çalışmaları da koordine edebilecek" dedi. 
+     
+     TLD NEDİR 
+     İnternet alan adları belirli bir hiyerarşiye göre tanımlanmakta. 
+     Bu hiyerarşide en sağ tarafta yazan isim, en üst seviye alan adını belirlemekte. 
+     www.tbd.org.tr örneğinde ".tr" en üst seviye alan adı. 
+     www.sirket.com örneğinde de ".com". Yeni Nesil Alan Adları’nda ise .org, .tr gibi uzantıların yerini www.tbd, www.dergi.tbd, www.etkinlik.tbd gibi şirket veya kurum isimleri alabilecek. . Dünya genelinde, internet alan adları .com, .net .org altında yer alıyor. Mevcut internet yapısındaki yetersizlik, kısıtlamalar ve tekelleşme eğilimine karşı, bazı bağımsız internet kök sunucu işletmenleri ve internet topluluğu üyeleri bir araya gelerek, kar amacı gütmeyen uluslararası Public-Root adlı bir federasyon kurdu. Bu sayede sadece ülke adı .tr, .de, .fr vb. ve belirli sayıda .com, .net gibi alan adları yerine, her türlü üst seviye alan adının kullanımına olanak sağlandı. Public Root sistemi, mevcut internet alan adlarını da olduğu gibi destekliyor. Sistemde yer alan kök sunucular ve üst seviye alan adları TLD düzenli olarak INAIC the Internet Names Authorization Information Center tarafından kontrol ediliyor. Public-Root organizasyonu, genel kullanım amaçlı üst seviye alan adları Public TLD - pTLD dışında, işletmelere yönelik üst seviye alan adı Corporate TLD- cTLD kayıtları ve koordinasyonu için de UNIDT ile özel bir anlaşma yapmış bulunuyor. Her iki organizasyon da, yeni nesil İnternetin gelişmesine ve yeni üst seviye alan adları kullanımı için standartların yükseltilmesine katkı sağlıyor. 
+     
+</TEXT>
+</DOC>

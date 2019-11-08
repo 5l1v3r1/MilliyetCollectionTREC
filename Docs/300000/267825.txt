@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 267825 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/31/son/soneko21.html </URL>
+<DATE> 2004/08/31/ </DATE>
+<TIME> 11.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Garanti Bankası, bono endeksleri oluşturdu... 
+</HEADLINE>
+<TEXT>
+
+     Garanti Bankası, bono piyasalarındaki gelişmeleri günü gününe yansıtmanın yanı sıra bono ve bono içeren yatırım ürünlerini tercih edenler için bono endeksleri oluşturdu. 
+     Garanti Bankası'ndan yapılan açıklamaya göre, bono piyasasının genel durumunu yansıtan Garanti Bankası Genel Bono Endeksi GARBO-Genel , uzun vadeli bonolardaki değişimi gösteren Garanti Bankası Uzun Vadeli Bono Endeksi GARBO-Uzun ve kısa vadeli bonoların hareketini takip eden Garanti Bankası Kısa Vadeli Bono Endeksi GARBO-Kısa , hafta içi her gün Reuters, Matriks ve Foreks'in yanı sıra, paragaranti.com.tr finans portalı aracılığıyla yatırımcılara ulaşıyor. 
+     Garanti Bankası Genel Müdür Yardımcısı Kubilay Cinemre, ekonomide yaşanan gelişmelere paralel olarak alternatif yatırım araçlarının getirisinde önemli farklılıklar yaşandığını belirtti. 
+     Ekonomide başlatılan yapısal reformlarla birlikte, bono ve bono içeren yatırım ürünlerine ilginin arttığını kaydeden Cinemre, ''Önümüzdeki günlerde talebin daha da artacağını tahmin ediyoruz. Bu gerçekten hareketle, bireysel ve kurumsal yatırımcıların yanı sıra, hazine ve fon yöneticileri ile yatırım danışmanlarının piyasalardaki gelişmeleri ve ürünlerin performansını günü gününe takip edebileceği, kıyaslama yaparken kullanabileceği endeksler yarattık'' dedi. 
+     Verilen bilgiye göre, Garanti Bankası bono endekslerinde değişimler anlık olarak hesaplanıyor. Endeksteki değişim, endeksi oluşturan bonolardaki fiyat değişiminin ağırlıklı ortalamasını gösteriyor. 
+     Her bononun ağırlığı, o bononun piyasa değeri ve vadeye kalan gün sayısı dikkate alınarak hesaplanıyor. Herhangi bir bono son 2 iş gününün herhangi birinde işlem görmemesi halinde, hesaplamalara dahil edilmiyor. 
+     Gün içinde 250 bin dolardan daha az işlem gören bono, işlem görmemiş kabul ediliyor ve hesaplamalara katılmıyor. Endekse yalnızca kuponsuz bono ve tahviller alınıyor. 
+     
+</TEXT>
+</DOC>

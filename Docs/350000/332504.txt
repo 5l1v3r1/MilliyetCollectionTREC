@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 332504 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/12/son/sondun61.html </URL>
+<DATE> 2005/04/12/ </DATE>
+<TIME> 23.11 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft'dan yeni güvenlik uyarıları 
+</HEADLINE>
+<TEXT>
+
+     Dünya yazılım devi Microsoft firması, bilgisayar saldırılarına karşı Windows, Internet Explorer, Word ve Messenger programlarında 5 yeni kritik güvenlik açığı olduğu uyarısında bulundu. 
+     Microsoft firmasının aylık yayınlanan güvenlik bülteninde, 5 yeni açık için ikinci önem düzeyinde uyarı yapıldığı ve kullanıcılara bu açıklar için yamalar hazırlandığı belirtildi. 
+     
+</TEXT>
+</DOC>

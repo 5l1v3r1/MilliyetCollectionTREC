@@ -1,0 +1,47 @@
+<DOC>
+<DOCNO> 173727 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/05/son/soneko17.html </URL>
+<DATE> 2003/08/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Teknoloji ödülleri finalistleri belli oldu... 
+</HEADLINE>
+<TEXT>
+
+     Bu yıl beşincisi düzenlenen ''Teknoloji Ödülleri'' finalistleri belli oldu. 
+     Türkiye Bilimsel ve Teknik Araştırma Kurumu TÜBİTAK , Türkiye Teknoloji Geliştirme Vakfı TTGV ve Türk Sanayicileri ve İşadamları Derneği TÜSİAD tarafından düzenlenen ''5. Teknoloji Ödülleri''nde Büyük Ödül kategorisinde 10 firmaya ait 12 proje, Başarı Ödülleri kategorisinde ise 9 firmaya ait 9 projenin finale kaldığı bildirildi. 
+     ''Büyük Ödül'' ve ''Başarı Ödülleri'' kategorilerinde finale kalan firma ve projeler şunlar 
+     
+     BÜYÜK ÖDÜL 
+     -Alcatel-Teletaş Telekomünikasyon Endüstri Ticaret A.Ş., ''Sanal İkinci Hat VoIP Servisi'' 
+-Aselsan A.Ş. ''Şahingözü Elektro- Optik Sensör Sistemi'', 
+-Barış Elektrik Endüstrisi A.Ş., ''Kompozit Soğutma Gazı Tankı'' 
+-Dizayn Teknik Plastik Boru ve Elemanları Sanayi ve Ticaret A.Ş, ''Altyapı Borularının Elektrofüzyon Kaynak Yöntemi ile Birleştirilmesi'' ve '' Ön İzolasyonlu Boru Üretim Sistemi'' 
+-Eczacıbaşı Yapı Gereçleri Vitra Seramik Grubu, ''Klozetlerin Daha Az Su ile Fonksiyon Yapması'' 
+-Ford Otomotiv Sanayi A.Ş., ''Transit Tourneo Connect Ürün Geliştirme'' ve ''Ecotorg Motoru Ürün Geliştirme'' 
+-Kalealtınay Robotik ve Otomasyon Sanayi ve Ticaret A.Ş., ''Yeni Nesil Otomotiv Arka Aksının Robotlu Kaynak Hattı'' 
+-Oksijen Teknoloji Geliştirme ve Bilişim Sistemleri Sanayi Ticaret A.Ş., ''Oksijen Mobil Multimedya Mesajlaşma Çözümü'' 
+-Tusaş Motor Sanayi A.Ş., ''J85 Ejektör Geliştirme'' 
+-Vestel A.Ş., ''MHEG-5 Uyumlu Analog Sayısal TFT TV'' 
+     
+     BAŞARI ÖDÜLLERİ 
+     -Birim Makina Sanayi ve Ticaret Limited, ''Hurda Makası'' 
+-Boyataş Boya Dağıtım ve Sanayi A.Ş., ''Merbolin Radom Boyası'' 
+-Dönmez Debriyaj Sanayi ve Ticaret A.Ş., ''Debriyaj Diskleri için Tork, Esneklik ve Liberasyon Test Cihazı'' 
+-Eliar Elektronik Sanayi A.Ş., ''TBB 6500 İris Tekstil Boyama Bilgisayarı'' 
+-Elimko Limited, ''E-200 Universal Gelişmiş Proses Kontrol Cihazı'' 
+-Eta Elektronik Tasarım Sanayi ve Ticaret A.Ş., ''Mini-RETS-Yeni Nesil Atış Eğitim Sistemleri'' 
+-Gate Elektronik Sanayi ve Ticaret A.Ş., ''Bilgisayar Destekli Genel Amaçlı Test ve Ölçüm Cihazı'' 
+-Setaş Kimya Sanayi A.Ş., ''Uygun Maliyetli ve Kesikli Uygulamaları Boya Sentezi'' 
+-Yonca-Onuk ortaklığı, ''MRPT Multi Role Tactical Platform-Çok Amaçlı Taktik Platform Konsepti'' 
+
+Finale kalan kuruluşlardan ödüle layık görülenler 9 Aralık 2003 tarihinde İstanbul Grand Cevahir Oteli'nde yapılacak Teknoloji Kongresi'nin ardından ödüllerini alacak. 
+     
+     TÖYK BAŞKANI SARPER 
+     Teknoloji Ödülleri Yürütme Kurulu TÖYK Başkanı Selim Sarper, Teknoloji Ödülleri'ne, Büyük Ödül ve Başarı Ödülleri'nde sektörel olarak, yüzde 42 makine ve malzeme, yüzde 24 bilgi ve iletişim, yüzde 13 kimya, yüzde 13 savunma havacılık ve uzay sanayi, yüzde 5 tarım ve gıda ve yüzde 3 oranında da tekstil alanında projelerin katıldığını bildirdi. 
+     Katılımcı kuruluşların yüzde 60'ını küçük ve orta ölçekli kuruluşların KOBİ oluşturduğunu belirten Sarper, ''Bu, teknoloji üretiminin öneminin anlaşılmaya başlanmasının bir göstergesidir'' dedi. 
+     
+</TEXT>
+</DOC>

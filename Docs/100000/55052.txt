@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 55052 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/12/01/son/soneko01.html </URL>
+<DATE> 2001/12/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası Dow Jones Endeksi 22.14 puan artışla yüzde 0.2 9,851.56 puandan kapandı. 
+     Teknoloji ortaklıklarının hisse senetlerinin izlendiği Nasdaq Bileşik Endeksi, 2.70 puan düşüşle yüzde 0.1 1,930.56 puandan günü bitirdi. 
+     Dow, 11 Eylül sabahının müthiş terör darbesinden sonra 21 Eylül'de 8,235.81 puanla dibe çökmüştü. Endeks, şu anda bu dipten yüzde 19.6 
+     üstte bulunuyor. 
+     Nasdaq, 11 Eylül'den sonraki düşüş çizgisinden 35.7 puan yüksekte seyrediyor. 
+     New York Borsası güne kararsız başladı. 
+     Borsanın açılışında Dow Jones Endeksi, düne göre 4.01 puan artışla 9,833.43 puana çıkarken, Nasdaq Endeksi 2.13 azalışla 1,931.13 puana 
+     indi. 
+     Borsanın karasızlığında bir olumsuz haberle bir olumlu haberin aynı anda gelmesi etkili oldu. Olumsuz haber, Ticaret Bakanlığı'nın ABD ekonomisinin yılın 3. çeyreğinde beklenenden kötü bir gidişat göstererek, yüzde 1.1 oranında küçüldüğünü açıklamasıydı. Olumlu haber ise dünyanın en büyük konut inşaat şirketi Home Depot'un beklenenin üzerinde yıllık kar beklediğini açıklaması oldu. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

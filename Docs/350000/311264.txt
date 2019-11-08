@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 311264 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/01/son/sondun06.html </URL>
+<DATE> 2005/02/01/ </DATE>
+<TIME> 08.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Endonezya'nın Java adasında 5.6 büyüklüğünde deprem... 
+</HEADLINE>
+<TEXT>
+
+     Güney Asya'yı vuran deprem ve dev dalgalar sonucu Endonezya'da ölen ve kaybolanların sayısının 236 bin 12 olduğu bildirildi. 
+     Endonezya Sağlık Bakanlığı'ndan yapılan açıklamada, şu ana kadar yaklaşık 109 bin cesedin gömüldüğü belirtildi. 
+     Bu arada, Endonezya'nın Java adasında, Richter ölçeğine göre 5.6 büyüklüğünde bir deprem olduğu kaydedildi. 
+     Sismologlar, deniz dibinde meydana gelen depremin, adanın doğusunu etkilediğini belirtirken, yetkililer, depremin can ya da mal kaybına neden olup olmadığı konusunda bilgi vermediler. 
+     26 Aralık'ta Endonezya'nın Sumatra adasının kuzeyinde meydana gelen 9.0 büyüklüğünde deprem ve neden olduğu dev dalgalar, güney Asya'da yüzbinlerce insanın yaşamına malolmuştu. 
+     
+</TEXT>
+</DOC>

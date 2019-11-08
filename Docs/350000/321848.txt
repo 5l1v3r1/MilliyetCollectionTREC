@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 321848 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/08/son/soneko51.html </URL>
+<DATE> 2005/03/08/ </DATE>
+<TIME> 16.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Petrol fiyatları geriledi... 
+</HEADLINE>
+<TEXT>
+
+     Uluslararası piyasada petrol fiyatları gerilemesine karşın hala 50 doların üzerinde bulunuyor. 
+     Avrupa borsalarında, Batı Teksas türü hafif petrolün fiyatı 29 cent gerileyerek .60 dolara, Brent türü Kuzey Denizi petrolün fiyatı da 59 cent gerileyerek 51.50 dolara indi. 
+     Petrol fiyatlarında görülen gerilemeye neden olarak, Petrol İhraç Eden Ülkeler Örgütü'nün OPEC 16 Mart tarihinde İran'ın İsfahan kentinde yapacağı bakanlar düzeyindeki toplantısından mevcut üretim kotalarına devam edileceği yolunda kararın çıkacağı yönündeki sinyallerin gelmesi gösterildi. 
+     Son haftalarda, uluslararası piyasada petrol fiyatları, dünyada çıkartılan petrolün yüzde 40'ını kontrol eden OPEC'in İsfahan kentinde yapacağı toplantısından üretimi azaltma yönünde kararın çıkacağı endişesiyle yükselmişti. 
+     
+</TEXT>
+</DOC>

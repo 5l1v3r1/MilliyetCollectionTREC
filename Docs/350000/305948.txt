@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 305948 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/12/son/sonyas21.html </URL>
+<DATE> 2005/01/12/ </DATE>
+<TIME> 13.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Japon dansı yapabilen robot 
+</HEADLINE>
+<TEXT>
+
+     Japon araştırmacıların, geleneksel Japon dansını yapabilen insansı bir robot geliştirdikleri açıklandı. 
+     Kawada firması ve Milli Endüstriyel ve Teknolojik Sanatlar Enstitüsü tarafından, otomobil üretiminde ve yapı sektöründe kullanılması amacıyla ortaklaşa geliştirilen HRP-2 Promet isimli robotun, yaklaşık 365 bin dolar fiyatla satılacağı bildirildi. 
+     HRP-2 Promet'in aynı zamanda, geleneksel Japon dansını da yapabildiği, dansı, hareket ve jestlerle de süsleyebildiği belirtildi. 
+     Tokyo Üniversitesi'nden mühendis Profesör Katsushi İkeuchi, ''Bir dans ustasının hareketlerini robota kaydettik. Çok zor oldu. Ancak sonuçta robot, bir insanın dans ederken yaptığı hareketleri yapabiliyor'' dedi. 
+     İstanbul'da geçen kasım ayında düzenlenen fuara katılan ve Başbakan Recep Tayyip Erdoğan ile el şıkışan Honda'nın robotu ''Asimo'' ve Toyota'nın buna cevabı ''Robot Orkestrası'' ile, insansı robot üretimi hız kazanmıştı. 
+     
+</TEXT>
+</DOC>

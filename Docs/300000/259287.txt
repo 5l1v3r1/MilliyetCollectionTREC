@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 259287 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/30/son/soneko24.html </URL>
+<DATE> 2004/07/30/ </DATE>
+<TIME> 13.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dijital ev hayal değil 
+</HEADLINE>
+<TEXT>
+
+     Intel, dijital ev fikrini hayata geçiren yeni işlemci platformlarını tanıttı. 
+     İşlemci platformları sayesinde, müzik, fotoğraf, video ve oyun gibi farklı dijital içerik türleri tek bir bilgisayar üzerinden aynı anda yönetilebiliyor. 
+     Intel Orta Doğu, Türkiye, Afrika Bölge Direktörü Ayşegül İldeniz, Intel'in 915 G P ve 925 expres işlemci platformlarının chipset , tanıtımı nedeniyle düzenlenen toplantıda yaptığı konuşmada, sadece özel bilgisayarlarda bulunan performans, ses ve video özelliklerini barındıran yeni platformların, bilgisayar deneyimlerini daha eğlenceli ve verimli hale getirdiğini söyledi. 
+     Intel'in dijital ev teknolojisinin kalbini Entertainment PC ePC olarak adlandırılan bilgisayarın oluşturduğunu belirten İldeniz, Intel'in üstün performanslı bilgisayarların esnekliğini, evdeki ses ve video cihazlarının fonksiyonelliğiyle birleştirdiğini kaydetti. 
+     İldeniz, bilgisayar ve tüketici elektroniğini buluşturan ePC'nin, tüketicilerin evlerindeki tüm görsel-işitsel elektronik cihazları kontrol etmesini, müzik, resim, film gibi kişisel içeriklerini korumasını ve yönetmesini sağladığını anlatarak, tüm bunların tek bir uzaktan kumanda aleti ile yapıldığını vurguladı. 
+     İldeniz, cihazın basitlik, kullanım kolaylığı, yüksek donanım özellikleri ve kablosuz kullanımı biraraya getirdiğine dikkat çekerek, ''Biz e-PC'ye geleceğin elektronik anlayışı diyoruz. Katma değeri yüksek teknolojilerini gelecek 5-10 yıl içerisinde hayatımıza ne kadar adapte edebilirsek o kadar teknolojisi yüksek bir ülke haline gelebiliriz'' diye konuştu. 
+     Intel'in yeni chipsetlerinin kullanımı, Avrupa Yakası dizinin ''Şesu'' karakterini canlandıran Bülent Polat ve Intel Ülke Kanal Müdürü Özerk Ege Ertem'in yer aldığı bir gösteriyle tanıtıldı. 
+     
+     DİJİTAL EV TEKNOLOJİSİ 
+     Intel'in digital ev teknolojisi farklı ülkelerde bile olsalar uzakta yaşayan herkesi birbirine yakınlaştırabiliyor. 
+     Anne babasının ePC üzerinden dinlediği müzikten sıkılan bir genç aynı bilgisayarda kayıtlı farklı bir müziği ister onlarla aynı odada kulaklığıyla, isterse kendi odasında mevcut ses sistemi üzerinden dinleyebiliyor. Oturma odasında film izleyen bir kişi, aynı filmi kaldığı yerden mutfaktan ve yatak odasından seyredebiliyor. 
+     Sistem sayesinde, bir bilgisayardan diğerine görüntü aktarımı yapılabiliyor. 
+     
+</TEXT>
+</DOC>

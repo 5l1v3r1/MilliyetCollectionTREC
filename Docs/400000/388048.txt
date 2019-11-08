@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 388048 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/19/son/sontur12.html </URL>
+<DATE> 2005/10/19/ </DATE>
+<TIME> 10.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hattını değiştiren cep abonesi, aynı numarayı kullanabilecek mi 
+</HEADLINE>
+<TEXT>
+
+     
+     Suat Karabıyık 
+     
+Telekomünikasyon Kurumu Başkanı Tayfun Acarer, hattını değiştiren abonenin aynı numarayı yeni operatörde de kullanabilmesine olanak sağlayan numaranın taşınabilmesi konusunun Kurum gündemindeki en önemli konulardan birisi olduğunu, bu konudaki çalışmaların devam ettiğini bildirdi. 
+     Telekomünikasyon Kurumu Başkanı Acarer, GSM operatörleri arasında, cep telefonu hattını değiştiren abonenin, eski operatöre ait numarasını koruyarak, yeni operatörde de kullanabilmesine olanak sağlayan anlaşmanın sağlandığı yolundaki haberler üzerine, AA muhabirine açıklamalarda bulundu. 
+     GSM operatörlerinden birisinin genel müdürünün yaptığı açıklamalar üzerine operatörler arasında numara taşınabilirliği konusunun yeniden gündeme geldiğine işaret eden Acarer, numara taşınabilirliğinin "görünürde güzel olduğunu", ancak "göründüğü kadar da kolay olmadığını" vurguladı. Acarer, şöyle devam etti 
+     "GSM kuruluşlarının bazı yetkilileri, biraz da ticari bir görüşle bunu hızlandırmak isteyebilir. Bu ticari yapı içinde düşüncesini açıklayabilir. Numarayı istediğiniz operatöre kanalize edersiniz, ama arkasında bir takım tüketici mağduriyetleri de söz konusu olacaktır. 
+     Bu konu, Telekomünikasyon Kurumu’nun bu yılki en önemli konularından bir tanesidir. Bu konudaki çalışma devam ediyor. 
+     Burada birkaç önemli husus var. Birkaç model var. Bir kere, bizim model konusunda karar vermemiz lazım. Azami ölçüde konsensüs sağlanması gerekir. Konsensüsten de önemlisi, tüketicinin mağduriyetinin önlenmesi gerekir. Örnek vermek gerekirse, bir GSM abonesi, aynı şebekeden bir başka aboneyle tarifesi ucuz olduğu için rahat rahat konuşabiliyor. Abone, aradığı kişinin numarasını ve hangi operatöre bağlı olduğunu biliyor. Ama numara taşınabilirliğinde, numara değişikliğinden abonenin haberi yoksa, ücret de arayana yazıyorsa, aradığında mağdur olacak demektir." Operatör değiştiren, ancak numarasını taşıyan abonelerin 10 karakterlik numarayı aynen koruduğunu, GSM operatörlerine ait alan kodları da değişmediği için diğer abonelerin bundan haberdar olamayacağını vurgulayan Acarer, "Müşteri alan kodları aynı kalacağı için numara değişikliklerini bilemeyeceksiniz. 10 karakterlik cep telefonu numarası hiç değişmiyor. Daha önce ilk 3 karakteri değiştirip aynı numarayla geçiriyordu bazı operatörler. Bu, onun gibi masum değil. 10 karakter numara aynen geçiyor" diye konuştu. 
+     
+     "DİKKAT EDİLMELİ" 
+     Bu durumda mağduriyetlerin oluşabileceğini belirten Acarer, şunları kaydetti 
+     "Mağduriyetleri kim engelleyecek Bu olay o kadar basit değil. Ticari amaçlı bir takım ifadeler kullanılabilir, hemen verilsin, niye bekleniyor diye. Vatandaş da bunu basit gibi görebilir ama arkasında çok ciddi mağduriyetler olabilir. O yüzden dikkat etmek gerekir. 
+     Devlet kurumlarında ciddiyet gerekir. Hata yapıldığında pardon 
+     deme şansınız zayıflar. Özel kuruluşlar gibi ticari amaçlı ya da çok hızlı bir şekilde hareket edemeyiz. Olayı çok yönlü incelememiz gerekir. Bu konu zaten dünyada çözülmüş bir konu değil. Birçok ülkede sıkıntıları olan bir konudur. O nedenle dikkatli hareket edip azami ölçüde müşteri mağduriyetine engel olunması gerekir." Tüketici mağduriyetlerinin önlenmesi için bir takım tedbirler alınması gerektiğini, bu tedbirlerin bir kısmının teknik, bir kısmının ise hukuki olabileceğini kaydeden Acarer, "En önemli şey tüketici mağduriyetidir. Bu olay söylendiği kadar, gazetede verilen demeç kadar basit değildir" dedi. 
+     
+</TEXT>
+</DOC>

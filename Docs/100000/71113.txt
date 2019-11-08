@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> 71113 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/03/06/son/sondun28.html </URL>
+<DATE> 2002/03/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tıp dünyası tartışıyor... Kanser bulaşıcı mı 
+</HEADLINE>
+<TEXT>
+
+     Bilim adamları, enfeksiyonların kansere neden olma oranının küçümsendiğini, egzoz dumanı ve elektromanyetik ışınlar gibi çevresel etkenlerin ise abartıldığı görüşündeler. 
+     İstatistiklere göre, çevresel etkenler, kanser vakalarının sadece yüzde 2'sinin nedeni. 
+     Çeşitli bakteri ve virüslerin tümör oluşumunda önemli bir rol oynadığı tahmin ediliyor. Örneğin, helicobacter pylori bakterisinin mide kanseri, Hepatit B virüslerinin karaciğer kanseri ve Epstein-Barr virüslerinin de burun ve gırtlak bölgelerindeki tümörlere neden olduğu düşünülüyor. 
+     Araştırmalarını Frankfurt'taki Max-Planck Enstitüsü'nde sürdüren Nobel ödüllü Biyofizikçi Prof. Hartmut Michel, bakteri ve virüslerin kanser türlerinin dörtte birinin oluşmasında diğer etkenlerin yanında önemli bir faktör olduğunu kaydetti. 
+     Heidelberg'deki Kanser Araştırma Merkezi'nde görevli Prof. Harald zur Hausen, dünya çapında yapılacak aşı programlarıyla kadınlarda görülen kanser türlerinin yüzde 15'inin, erkeklerde görülenlerinin de yüzde 10'unun önlenebileceğini savundu. 
+     İlk anti-tümör aşısının klinik deneyleri yapılıyor. Bu aşıyla, rahim boynu kanserinin önlenmesi hedefleniyor. 
+     Hausen, bu virüslerin, kendi genetik yapılarını hücrelere aktararak, bunların anormal büyümelerine ya da bedeni zayıf düşürerek mutasyona uğramış hücrelerin büyümesine neden olabildiklerini söyledi. 
+     Papillom virüsü ile rahim boynu kanseri arasındaki bağlantıyı örnek gösteren Hausen, bu kanser türünün yüzde 95'ine bu virüsün neden olduğunu belirtti. Papillom virüsü, cinsel ilişkiyle bulaşıyor. 
+     Almanya'daki Virüs Hastalıklarıyla Mücadele Birliği, rahim boynu kanserine yakalanma riskinin, cinsel partner sayısının artışıyla doğru orantılı olduğunu açıkladı. 
+     Klinik deneyleri devam eden papillom virüsüne karşı aşı geliştiren Prof. Lutz Gissmann, bu virüsün bulaştığı her kadının kanser olmadığını kaydetti. 
+     Uzmanlar, enfeksiyonların kanser oluşumundaki rolünün abartılmaması gerektiğini vurguladı. Kanser oluşumunda çeşitli faktörlerin birleştiğini, enfeksiyonun tek başına kansere neden olmadığını, ama diğer faktörlerle birlikte tamamlayıcı etki yaptığını söyleyen uzmanlar, diğer faktörlerin de enfeksiyonsuz kansere neden olmadığını belirttiler. 
+     Gissmann, virüslerin neden olduğu tümörlerin yavaş büyüdüğünü kaydederek, enfeksiyondan hastalığa kadar 40 yıl geçebildiğini söyledi. 
+     Karaciğer kanserine karşı yapılan aşının etkisi kanıtlandı. 80'li yıllardan bu yana çocukların Hepatit'e karşı aşılandığı Tayvan'da, sadece Hepatit vakaları değil karaciğer kanseri vakaları da önemli ölçüde azaldı. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

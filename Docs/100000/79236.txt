@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 79236 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/04/19/yazar/gunes.html </URL>
+<DATE> 2002/04/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Hurşit GÜNEŞ  </AUTHOR>
+<HEADLINE>
+Ekonomi canlanıyor mu 
+</HEADLINE>
+<TEXT>
+
+     Herkesin arzusu ekonominin bir an önce canlanması. İçimizde kaygılı olanlar var. Gerçi bu kaygılar bazılarında yavaş da olsa dağılıyor. Özellikle son zamanlarda. Ama rakamların henüz kesin bir büyüme gösterdiğine emin değiliz. Yanlış anlaşılmasın "henüz emin değiliz" diyoruz. Çünkü bu yıl pekala az da olsa belli bir büyüme gerçekleşebilir. 
+     Önce bilimselliğin bir gereğini anımsatalım. Sürekli iyimser olmak iyi bir şeydir. İyimserlik hem insanın kendisine, hem de çevresine mutluluk verir. Ancak sürekli olumlu olmak yanlıştır. Tıpkı sürekli karamsar olmanın yanlışlığı gibi. Veriler olumlu izlenimler veriyorsa açıklanmalı. Ancak olumsuz işaretler veriyorsa da uyarı görevi yerine getirilmelidir. 
+     Önce imalat sanayii üretim endekslerinden başlayalım. Bu endeks ne kadar doğrudur bilinmez, ama veriler aşağıdaki tablonun ilk satırında görülmektedir.. 
+     
+Üretim Endeksleri  Kasım 2001 Aralık 2001 Ocak 2002 Şubat 2002 Mart 2002 Üretim 96,7 85,7 84,6 82,2 Kapasite K.O 67,8 67,6 68,2 69,2 71,3      
+     
+     Tabloda aralıktan bu yana imalat sanayiinde sürekli bir üretim düşüşü gerçekleştiği görülmektedir. Demek ki, elimizdeki ilk veri olumlu değildir. Ama mart verisi henüz yayımlanmamıştır. 
+     İkinci gösterge kapasite kullanım oranlarıdır. Yukarıdaki tablonun ikinci satırında özel sektörün kapasite kullanım oranlarının ocak ayı itibariyle arttığı görülmektedir. Ancak asıl artış martta olmuştur. Bu veri ise olumlu trende işaret etmektedir. Kapasite kullanım oranlarının öteden beri çok sağlıklı derlenmediğini biliriz. Ama üretim endeksinin nasıl derlendiği konusunda pek bir bilgimiz bulunmuyor. 
+     Üçüncü gösterge KDV tahsilatlarıdır. Maliye Bakanı Sümer Oral da bu konuya değinmiş. Oral eski bir Maliye müfettişidir. Yanılmaması gerekir. Geçenlerde bir açıklamada bulunarak KDV tahsilatlarından ekonomide canlanmanın gözlendiğini belirtmiş. Oysa bize kalırsa 2002 martında KDV tahsilatlarının artması canlanma anlamına gelmiyor. Daha doğrusu artış o kadar fazla ki, başka etmenleri bulmak gerekiyor. 
+     
+KDV tahsilatları Trilyon TL Ocak Şubat Mart 2001 495.885 447.674 425.593 2002 895.008 456.553 1.042.492      
+     
+     İlk yanlış şurada geçen yılın şubat veya mart ayı ile karşılaştırma yapılamaz. O aylar krizin orta noktasıdır. KDV tahsilatında anormal düşüşler meydana gelmiştir. Nitekim, geçen yıl eylül ayında bile yapılan tahsilat 2001 nisanına göre yüzde 94 daha fazladır. 
+     İkinci yanlış da şudur mart ayında tahsil edilen KDV, aslında şubat ayının alışverişlerine aittir. Şubat ayındaki KDV tahsilatında birden bire artış sağlanması olsa olsa şu nedenlerden kaynaklanabilir 
+
+</TEXT>
+</DOC>

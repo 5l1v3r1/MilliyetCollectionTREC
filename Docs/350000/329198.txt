@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 329198 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/01/yazar/oztrak.html </URL>
+<DATE> 2005/04/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Faik ÖZTRAK  </AUTHOR>
+<HEADLINE>
+Verimlilik ve istihdam artışı birlikte olmalı 
+</HEADLINE>
+<TEXT>
+
+
+Reel sektöre ilişkin veriler genellikle mali sektöre ve kamu kesimi dengesine ilişkin verilere göre daha geç yayımlanıyor. Mart ayı hem büyüme hem de istihdama ait bir yıl önceki gerçekleşmeleri görebildiğimiz ay oluyor. 2004'te kaydedilen yüzde 9.9 oranındaki yüksek büyümeyi bir sonraki yazımda değerlendireceğim. 
+Bu gün bu ay içinde yayımlanan imalat sanayiinde istihdam ve ücret ve kazanç endekslerine bakmak istiyorum. Bu veriler imalat sanayiinde üretim, üretimde çalışanlar, emeğin verimliliği, çalışanların eline geçen ücret ve toplam kazançlar hakkında bilgi veriyor. 
+Bu verilere göre imalat sanayiinde toplam üretim yılın son üç ayında yüzde 4.2, üretimde çalışanların sayısı yüzde 2.2, çalışan başına verimlilik yüzde 2.2 artmış. Çalışan başına reel kazanç ise son çeyrekte yüzde 0.5 oranında gerilemiş. 
+DİE tarafından yayımlanan bu verileri ve TCMB tarafından yayımlanan reel efektif kur endeksi verilerini kullanarak, özel kesimde imalat sanayiinde işgücü piyasasındaki gelişmelerle reel kur arasındaki ilişki hakkında bazı değerlendirmeler yapmak mümkün. 
+
+Fark yavaşlıyor 
+İmalat sanayiinde 2002 yılının ikinci üç aylık döneminden başlayarak üretimin hızla arttığı ancak bunun istihdama yansımasının çok düşük olduğu, istihdamsız bir büyüme dönemini yaşıyoruz. Üçer aylık verilerin yıllıklandırılması ve aynı baz yılına getirilmesi suretiyle hesaplanan üretim ve çalışanlar endeksi arasında hesaplanan farklarla, TÜFE bazında reel efektif kur endeksi arasındaki ilişkiyi birinci grafikten izlemek mümkün. Buna göre endekslerdeki farkın açılma hızı 2004 yılının son üç ayında yavaşlamış. 
+Diğer taraftan özel imalat sanayiinde işgücü piyasasına ilişkin yaşanan bir gelişme de emeğin verimliliğindeki artışların ücretlilerin kazançlarına giderek daha az ölçüde yansıması idi. İkinci grafikte 2002 yılından bu yana hızla büyüyen verimlilik endeksi ile kazanç endeksi arasındaki farkın artma eğiliminin de geçtiğimiz yılın ikinci yarısından itibaren durduğunu görüyoruz. 
+Bu veriler reel efektif kur endeksi ile birlikte değerlendirildiğinde farkların hızla arttığı dönemlerin TL'nin de hızla değer kazandığı dönemlere rastladığı buna karşılık reel kur endeksinin istikrar kazandığı geçtiğimiz yılın ikinci yarısında farklardaki artışın durduğu dikkati çekiyor. 
+
+Ücret reel artmıyor 
+Bu, bize TL'nin yabancı paralar karşısında değer kazanmasının yarattığı rekabet baskısı karşısında karlılığı korumak ve üretime devam edebilmek için imalat sanayiinin nasıl hareket ettiğini gösteriyor. Üretim içinde emeğin payı azaltılırken, ücretler de reel olarak artırılmıyor. 
+Uluslararası piyasalardaki gelişmeler ve makroekonomik çerçeveden kaynaklanan bu durum Türk ekonomisi için sürdürülebilir mi Çalışabilir nüfusun toplam nüfusa oranının arttığı, tarımda istihdamın ve genelde işsizliğin yüksek olduğu, gelir dağılımının bozuk olduğu ve AB'deki ekonomik ve sosyal göstergeleri yakalama hedefi olan bir ekonomide bu soruya olumlu yanıt vermek güç. Türkiye, büyümesini hem üretim faktörlerinin verimliliğini artırarak hem de işgücü gibi bir üretim faktörünü üretim sürecine sokarak sağlamak zorunda. 
+Dünyada likiditenin daralmasına bağlı olarak cari açıklara daha duyarlı hale gelen döviz kurlarındaki gelişme, ülkenin çekici yanları daha güçlendirilmek suretiyle ani hareketlere neden olmayacak bir biçimde sağlanabilirse ortaya çıkan makro çerçeve hem verimlilik artışına hem de emeğin kullanımına dayanan süreci kolaylaştıracaktır. İnsan kaynağımıza yapılacak yatırım da işgücü piyasasında esnekliği artıracak düzenlemeler de bunun gerçekleşmesinde önemli bir rol oynayacaktır. 
+Ancak bundan, 2000 öncesindeki reel kur politikasına dönüş anlaşılmamalıdır. TL uzun dönemde tedrici olarak yabancı paralar karşısında değer kazanacaktır. AB'ye giriş sürecindeki ülkelerin tecrübelerinden bu görülmektedir. Bu aynı zamanda üreten kesimin rekabetçi yönde sürekli bir yeniden yapılanma içinde olmasını da sağlamaktadır. 
+
+
+
+
+
+</TEXT>
+</DOC>

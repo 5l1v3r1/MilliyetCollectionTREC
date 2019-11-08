@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 287111 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/08/son/soneko34.html </URL>
+<DATE> 2004/11/08/ </DATE>
+<TIME> 13.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Petrol fiyatlarındaki gerileme sürüyor... 
+</HEADLINE>
+<TEXT>
+
+     Uluslararası borsalarda petrol fiyatları, hızlı değer kaybettiği geçen haftanın ardından yeni haftaya da düşüşle başladı. 
+     Kuzey Yarımküre'de sert kış beklentisinin zayıflaması yanında dünya ekonomisindeki büyümenin hız kaybedeceği iddiaları, petrol fiyatlarının gerilemesini kolaylaştırdı. 
+     New York Borsası'nda 71 sent gerileyen ABD hafif petrolünün varili, 48.90 dolardan işlem görüyor. 
+     Londra Borsası'nda da güne gerilemeyle başlayan Brent petrolünün varili, son işlemlerde Cuma günkü kapanışının 74 sent altı olan 45.68 dolardan el değiştiriyor. 
+     Kuzey Yarımküre'de kışın sert geçmeyeceğine yönelik değerlendirmeler yanında, ABD başta olmak üzere gelişmiş ülkelerde rafineri ürün stoklarının hızla artış kaydetmesi, uluslararası borsalarda vadeli petrol kontratlarına önemli yatırımlar gerçekleştiren büyük kurumsal fonların satışa geçmesine neden oldu. 
+     Petrol fiyatlarının gerilemesinde diğer önemli faktörün ise yüksek fiyatlardan maksimum faydalanmak isteyen üretici ülkelerin kapasitelerini sonuna kadar kullanmak istemeleri gösteriliyor. 
+     
+</TEXT>
+</DOC>

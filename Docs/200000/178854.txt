@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 178854 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/29/siyaset/siy06.html </URL>
+<DATE> 2003/08/29/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İstanbul'a gizli gözler 
+</HEADLINE>
+<TEXT>
+
+   İstanbul Valiliği, "Mobil Elektronik Entegrasyon" yöntemiyle artık kentte uçan kuşu bile gözetleyecek. 52 bin cadde ve sokağın dijital haritaları çıkarılıp, kameralar yerleştirilecek 
+      PINAR AKTAŞ İstanbul 
+
+   
+   İstanbul Valiliği, başlattığı "Mobil Elektronik Entegrasyon" MOBESA sistemiyle kentte artık "uçan kuş"u bile denetleyecek. Yaklaşık 3 bin ekibe dağıtacağı GPS'yle seyyar karakollar oluşturulacak. Vatandaşlar da satın aldıkları GPS'yi evlerine, işyerlerine ve araçlarına takıp herhangi bir hırsızlıkta anında hırsızın yakalanmasını sağlayacak. İçişleri Bakanlığı ve Emniyet tarafından geliştirilen, Diyarbakır'da uygulanan sistemin 10 katı büyüklüğündeki projenin altyapı çalışmaları yapılmaya başlandı. 
+   
+   Dijital harita çıkarılacak 
+   Proje için "Vatan Caddesi'ndeki Emniyet Müdürlüğü'nün alt katı tümüyle bu işe ayrıldı. Sistem için İstanbul Büyükşehir Belediyesi'nde 52 bin cadde ve sokak hatta ev ve işyerlerinin göründüğü dijital bir kent haritası kullanılacak. Haritanın tümü emniyette ayrılan geniş alana monte edilecek. GPS coğrafi koordinat veren alet dağıtılan ekipler harita üzerinde görülebilecek, hareket halinde olanların da nereye doğru gittikleri izlenebilecek. İkinci ayakta ise polis merkezleri ve devriye araçları dahil bin ekibe dizüstü bilgisayar dağıtılacak. Bu bilgisayarlar, dijital haritalarla bağlantı halinde olacak. Bu bilgisayarda aranan, yurtdışına çıkması yasak kişiler ve çalıntı araçlarla ilgili bilgiler de yer alacak. 
+   Mesela polis, takip ettiği aracın çalıntı, yakaladığı kişinin aranmakta olan biri olup olmadığını bir tuşla görebilecek. Dizüstü bilgisayarlar, mahalle muhtarlarına da verilecek. Böylece bir mahallede oturan tüm kişilerin kimlik bilgileri bu bilgisayarlara aktarılacak. Proje kapsamında büyük meydanlarda, iş merkezlerinde, caddelerde ve gösteri yürüyüşü yapılan alanlar da bölgesel olarak kameralar aracılığıyla gözetlenebilecek. 
+   
+   GPS, 300-400 dolar 
+   Sistemin en etkileyici bölümü ise ev, işyerleri ile araçlara takılan ve 300 - 400 dolara temin edilmesi öngörülen sistem. Takılacak olan GPS'nin içine konulacak olan alarm aparatı, cep telefonuna bağlı olarak komuta sistemiyle haberleşebilecek. Diyelim ki, aracınıza bu aleti taktınız ve aracınız çalındı. Polis, aracınızı GPS vasıtasıyla nerede olduğunu harita üzerinden izleyebilecek. Merkez de evinizin veya işyerinizin 10 kilometre civarındaki bütün devriye araçlarının dizüstü bilgisayarlarına bu ihbarı anında düşürecek. 
+   
+</TEXT>
+</DOC>

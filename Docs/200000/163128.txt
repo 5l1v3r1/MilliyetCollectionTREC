@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 163128 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/14/yasam/yas01.html </URL>
+<DATE> 2003/06/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+NATO 'Matrix'i Türk dehalardan 
+</HEADLINE>
+<TEXT>
+
+NATO pilotlarını gerçek uçaklarda 'sanal savaşlara' sokan bilgisayar programı yazılımı, TÜBİTAK'ın imzasını taşıyor 
+     ÖNAY YILMAZ İstanbul 
+
+     Türk bilim adamları, NATO pilotlarını eğitmek amacıyla hazırladıkları 'sanal savaş senaryo'larıyla tam not aldı. 
+     Eylül ayında tamamlanacak proje, 28 Temmuz'da İtalya'nın Milano kentinde son kez test edilecek. Avrupa Silahlanma Grubu Araştırmaları içinde yer alan projenin adı 'Avcı uçaklarının eğitim uçuşuyla yerleştirilmiş gömülü benzetim sistemi'. Almanya liderliğindeki projeye, Türkiye, Portekiz, İtalya, Hollanda katılıyor. 
+     Türkiye adına projenin yürütücülüğünü ise TÜBİTAK MAM Bilişim Teknolojileri Enstitüsü'nden Prof. Dr. Ercan Öztemel, yardımcılığını Halil Gürbüz, Tayfun Sözlemez ve Ali Gülçin yapıyor. Türkiye projenin bilgisayar yazılımını yaparken, Almanya silah sistemlerini, Portekiz yer istasyonunu, İtalya uçak teknolojisi ve Hollanda ise yerden havaya füze sistemlerini hazırlıyor. 'İt dalaşı'nın tarihe karıştığını, artık yeni teknoloji ve yöntemlerle düşman uçağının görmeden imha edildiğini belirten Öztemel, projeyi şöyle özetliyor 
+     "Daha önce yerde yapılan bu senaryo ilk kez havada gerçek bir uçakta simülatör aracılığıyla yapılıyor. Yani pilot uçarken, sanal düşman uçakları ve sanal düşman silahlarıyla karşılaşıyor. Sanal hedefleri imha ediyor." 
+     
+     
+
+</TEXT>
+</DOC>

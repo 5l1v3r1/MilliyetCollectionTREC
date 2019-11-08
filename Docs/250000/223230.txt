@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 223230 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/17/son/sonyas01.html </URL>
+<DATE> 2004/03/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+DSÖ "Verem tehdit olmaya devam ediyor" 
+</HEADLINE>
+<TEXT>
+
+     Dünyada 300 bin kadar ilaca dirençli verem hastası bulunduğu ve bu vakalarının yüzde 79'unun ise ''süper'' dirençli olarak kabul edildiği bildirildi. 
+     Dünya Sağlık Örgütü DSÖ tarafından yapılan bir araştırma, eski Doğu Bloku ülkelerindeki verem vakalarının dünyanın başka yerlerindekilere göre ilaçlara karşı 10 kat daha fazla dirençli olduğunu ortaya koydu. 
+     Araştırmacılar, Hindistan, Çin gibi ülkelerin sadece bazı bölgelerinde araştırma yaptıkları, Endonezya, Bangladeş, Nijerya ve daha bir çok ülkede ise hiç yapamadıkları için ilaca dirençli verem vakalarının sayısının çok daha fazla olabileceğini belirtiyor. 
+     New York Times'ın haberine göre, 10 yıllık bir çabaya rağmen dünya genelindeki verem vakalarının ancak beşte biri incelenebildi. Bazı ülkeler bu araştırmaya katılım konusunda isteksiz davranırken, merkezi Belçika'da bulunan Prens Leopold Tropikal İlaç Enstitüsü'nün liderlik ettiği çalışmaların çok pahalıya mal olduğu ifade edildi. 
+     Bakteriyel bir hastalık olan veremin AIDS'in yaygın olduğu çok fakir ülkelerde etkin olduğunu belirten uzmanlar, bağışıklık sistemi AIDS tarafından iflas ettirilmiş hastaların verem bakterileri için uygun bir ortam sağladığını ifade ediyorlar. 
+     
+</TEXT>
+</DOC>

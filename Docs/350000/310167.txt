@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 310167 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/28/son/sondun07.html </URL>
+<DATE> 2005/01/28/ </DATE>
+<TIME> 07.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+10 yıl içinde internete yönelik büyük bir terörist saldırı bekleniyor 
+</HEADLINE>
+<TEXT>
+
+     ABD'de yapılan bir araştırma, teknoloji uzmanlarının, önümüzdeki 10 yıl içerisinde internete karşı büyük bir terörist saldırının düzenlenebileceğine inandığını ortaya koydu. 
+     ''Pew İnternet American Life'' adlı kuruluş ile Elon Üniversitesi'nin işbirliği ve 1.268 teknoloji uzmanının katılımıyla yapılan ''İnternetin Geleceği'' başlıklı bir araştırmada, bu uzmanların yüzde 66'sının önümüzdeki 10 yıl içerisinde en az bir kez internete ya da ABD elektrik ağına bir terörist saldırı yapılacağına inandığını ortaya çıkardı. 
+     Yarıdan fazlası, internetin yaşamımızın hayati parçalarından biri haline geldiğini düşünen bu uzmanların, internetin en kökten değişimlere basın ve yayın sektörlerinde yol açacağını düşündükleri belirtildi. 
+     İnternetin en az etkileyeceği kurumların ise dini kuruluşlar olacağına inanan uzmanların yüzde 57'sinin, internetin eğitimde de büyük bir dönüşüme yol açacağını ve sanal sınıfların çok daha yaygın hale geleceğini söyledikleri kaydedildi. 
+     Bu uzmanların yüzde 56'sının ise evde eğitim ve çalışma eğiliminin her geçen gün artacağını, bunun da çalışma ve dinlenme saatleri arasındaki sınırları ortadan kaldırarak aile dinamiklerini kökten etkileyeceğine inandıkları ifade edildi. 
+     İnternet üzerinden oy kullanmanın güvenli olmadığını söyleyen bu uzmanların yarısının, 2014 yılında da bu yöntemle oy kullanmanın yaygın hale gelemeyeceğini düşündükleri belirtildi. 
+     
+</TEXT>
+</DOC>

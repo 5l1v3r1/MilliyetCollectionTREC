@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 280170 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/14/son/sonyas17.html </URL>
+<DATE> 2004/10/14/ </DATE>
+<TIME> 13.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Beckham'ı tıkla, virüsü kap 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayar yazılım uzmanları, internette dolaşan 'Beckham virüsü'ne karşı uyardı. 
+     Ünül futbolcu David Beckham'ın hayranlarını hedef alan virüs, gönderdiği elektronik postayla futbolcuyu uygunsuz bir şekilde gösteren fotoğraflar vaat ediyor. 
+     Ancak Beckham konusulu bu postalardaki bağlantılı site açıldığında virüs bilgisayar yerleşerek daha sonra hacker'ların girebileceği bir arka kapı yaratıyor. 
+
+     
+</TEXT>
+</DOC>

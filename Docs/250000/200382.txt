@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 200382 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/07/son/soneko06.html </URL>
+<DATE> 2003/12/07/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Binalar için yeni deprem yönetmeliği hazırlanıyor... 
+</HEADLINE>
+<TEXT>
+
+     Türkiye'deki yaklaşık 13 milyon yapının depreme karşı güçlendirme kriter ve esaslarını belirleyecek yönetmelik hazırlanıyor. 
+     Edinilen bilgiye göre, Temmuz ayında çalışmalarına başlanan ve 2004 yılı için de tamamlanacak yönetmelikle, güçlendirmenin belli bir standarta kavuşturularak, yapıların yanlış ya da yetersiz güçlendirmesinin önüne geçilmesi amaçlanıyor. 
+     Türkiye'de bulunan 13 milyon civarında yapının yüzde 4-5'inin güçlendirmeye ihtiyacı olduğu tahmin ediliyor. 
+     Yönetmelik, 17 Ağustos Marmara ve 12 Kasım Düzce depremlerinin ardından yapıların güçlendirmesinin yaygın olarak uygulanmaya başlandığı, ancak bu güçlendirmenin belirli teknik kriterlere göre projelendirilmeden yapıldığı için yeterli olmadığının görülmesi üzerine gündeme geldi. 
+     Yönetmelik çerçevesinde bina üzerinde yapılacak gözlem, inceleme ve deneylerin ardından, yapının beton dayanımı ve donatını tespit edilirken, geoteknik incelemelerle de mevcut yapının analizi ve onarımı ya da güçlendirme düzeyi belirlenecek. 
+     Yapının projesine uygun olarak yapılıp yapılmadığı, projede öngörülmüş yapı malzemelerinin kullanılıp kullanılmadığı, yapının projelerinin mevcut olmaması durumunda ise rölevesi çıkarılarak, yapının geometrik ve mekanik özellikleri bakımından mevcut durumu tespit edilecek. 
+     Bu arada depremde ya da başka nedenlerle oluşan yapı hasarında zeminin katkısının önemli olduğunun düşünüldüğü durumlarda ise zemin etüdü çalışmaları yapılacak. 
+     Yönetmelik, mevcut hasarlı ve hasarsız yapıların deprem güvenliği ve güçlendirme ihtiyacı, hesap yöntemi ve uygulama ayrıntılarını belirleyen bir bölüm olarak 1998 yılında yürürlüğe giren ''Afet Bölgelerinde Yapılacak Yapılar Hakkında Yönetmeliğine'' eklenecek. 
+     
+     ÇALIŞMALAR İÇİN TEKNİK KOMİSYON OLUŞTURULDU 
+     Yapıların güçlendirilmesi bölümünün esaslarının belirlenmesi ve hazırlanması için her türlü çalışmayı yapmak, yönetmeliğin bu bölümünü oluşturmak ve diğer bölümlerinde de gerekli değişiklikleri yapmak üzere bir teknik komisyon oluşturuldu. 
+     Komisyon üyeleri, Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü, İstanbul Teknik Üniversitesi İTÜ ve Ortadoğu Teknik Üniversitesi ODTÜ inşaat fakülteleri ile Afet İşleri Deprem Araştırma Dairesi ve Yapı İşleri Teknik Daire Başkanlığı'ndan görevlendirilmiş yetkililerden oluşuyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 303360 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/04/son/soneko26.html </URL>
+<DATE> 2005/01/04/ </DATE>
+<TIME> 12.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+TL, Aralık ayında değer kazandı... 
+</HEADLINE>
+<TEXT>
+
+     Türk Lirası 2004 Aralık ayında, bir önceki aya göre değer kazandı. 
+     Merkez Bankası verilerine göre, 1995 100 TÜFE bazlı reel efektif döviz kuru Aralık ayında, bir önceki aya göre yaklaşık yüzde 1.1 artarak 141.3'den 142.9'a çıktı. 
+     Aynı dönemde 1995 100 TEFE bazlı reel efektif döviz kuru da, yüzde 0.85 artarak 129.2'den 130.3'e yükseldi. 
+     Bir başka deyişle Türk Lirası, 2004 yılının son ayında TÜFE bazında yüzde 1.1, TEFE'de ise yüzde 0.85 değer kazandı. 
+     TÜFE bazında, bir yıllık süre içinde Türk Lirası yaklaşık yüzde 1.6, TEFE bazında yüzde 3.2 değer kazandı. 
+     
+</TEXT>
+</DOC>

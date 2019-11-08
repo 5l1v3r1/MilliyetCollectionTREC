@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 352540 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/16/son/soneko03.html </URL>
+<DATE> 2005/06/16/ </DATE>
+<TIME> 09.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD'de enflasyon düşüyor... 
+</HEADLINE>
+<TEXT>
+
+     ABD'de tüketici enflasyonu TÜFE mayıs ayında beklentilerin altında geldi ve yüzde 0.1 oranında geriledi. 
+     Analistler tüketici enflasyonun mayıs ayında değişmeyeceğini öngörüyorlardı. 
+     ABD Çalışma Bakanlığı'ndan yapılan açıklamaya göre, gıda ve enerji fiyatlarının dahil edilmediği çekirdek enflasyon ise aynı ayda yüzde 0.1 artış gösterdi. Analistlerin çekirdek enflasyon beklentisi de yüzde 0.2 artış olacağı yönündeydi. 
+     Mayıs ayında enerji fiyatları yüzde 2.0 azalırken, gıda fiyatları yüzde 0.1 arttı. 
+     Nisan ayında TÜFE yüzde 0.5 artarken çekirdek enflasyon değişmemişti. 
+     
+     Üretici enflasyonu da düştü 
+     Öte yandan ABD'de dün açıklanan üretici fiyatları endeksi de beklentilerin altında kalarak yüzde 0.6 oranında azalmıştı. 
+     Çekirdek endeks ise aynı ayda yüzde 0.1 artış göstermiş ve yüzde 0.2 olan beklentilerden düşük çıkmıştı. 
+     
+</TEXT>
+</DOC>

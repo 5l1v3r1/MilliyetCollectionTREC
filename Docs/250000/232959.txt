@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 232959 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/19/son/sonyas07.html </URL>
+<DATE> 2004/04/19/ </DATE>
+<TIME> 10.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İşte bilgisayarların yeni baş belası... 
+</HEADLINE>
+<TEXT>
+
+     ''Çöp mektuplar'' spam ve virüslerle uğraşmak zorunda olan bilgisayar kullanıcılarının başına şimdi de casus yazılımlar spyware dert açıyor. 
+     Uzmanlar, bu tür yazılımları ''yüksek teknoloji vebası'' olarak niteliyor. İnternet ve bilgisayarlar için yeni bir tehdit olarak kabul edilen casus yazılımlar, kullanıcıların bilgisayarlarına haberleri olmadan yerleştiriliyor ve onların faaliyetlerini gizlice izleyerek, bu yazılımları yerleştirenlere haber veriyor. 
+     Bu tür yazılımların bilgisayarlara büyük zarar verdiklerine dikkat çeken uzmanlar, ''casus yazılımların bilgisayarın performansını düşürdüğünü, sistemin çökmesine neden olduğunu ve kullanıcıyı reklam yağmuruna tuttuğunu'' belirtiyor. 
+     Bunlardan da kötüsü, casus yazılımların bazıları, kullanıcıların anahtar kelimeleri ve kredi kartı numaraları gibi hassas bilgilerini çalıyor. 
+     Bilgisayar kullananların bu konuda eğitilmelerinin fazla bir yarar sağlamayacağına işaret eden uzmanlar, casus yazılımların kolay kolay görülmediğine dikkat çekiyor. 
+     Uzmanlara göre, ''çöp mektup'' gönderenler bunların görülmesini isterken, casus yazılımları hazırlayanlar tamamıyla ''yeraltında çalışıyor.'' Kazaa ve Morpheus gibi, karşılıklı müzik ve film alışverişine olanak tanıyan yazılımların, giderlerini karşılayabilmek için yazılımlarına ekranlarda reklam spotları açılmasını sağlayan ekler yaptıkları biliniyor. Ancak, istenmediği zaman bu programları bilgisayarın hard diskinden silmek mümkün. 
+     Buna karşılık bazı casus yazılımların önce kullanıcının bilgisayarını kasten bozdukları, daha sonra da arızayı gidermek için parayla çözüm getirecek bir program sattıkları bildirildi. 
+     Earthlink adlı internet hizmet kuruluşu tarafından geçen hafta yapılan bir tarama sonucu, 1,1 milyon bilgisayarın yaklaşık 300 bininde bu tür zararlı programlar bulunduğu saptandı. 
+
+     
+</TEXT>
+</DOC>

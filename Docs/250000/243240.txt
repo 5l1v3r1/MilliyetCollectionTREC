@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 243240 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/27/son/soneko01.html </URL>
+<DATE> 2004/05/27/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones endeksi düşerken, Nasdaq endeksi yükseldi 
+</HEADLINE>
+<TEXT>
+
+     New York menkul kıymetler borsası kapanışında, Dow Jones endeksi düşerken, Nasdaq endeksi yükseldi. 
+     Dow Jones endeksi 7,73 puan düşüşle 10.109,89'a gerilerken, Nasdaq teknoloji endeksi 11,5 puan artışla 1.976,15 puana yükseldi. 
+     
+</TEXT>
+</DOC>

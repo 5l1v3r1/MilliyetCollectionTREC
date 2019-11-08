@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 326040 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/22/son/sonyas03.html </URL>
+<DATE> 2005/03/22/ </DATE>
+<TIME> 09.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternette kültürler çatışması 
+</HEADLINE>
+<TEXT>
+
+     Fransa ile ABD arasındaki kültürel rekabet internete kaydı. Google'ın İngilizce yazılmış milyonlarca kitabı internete taşıma projesine Fransa karşılık veriyor. Cumhurbaşkanı Chirac, Avrupa kültürünün tüm eserlerini internete taşıyacak bir proje başlatıyor. 
+     Bir yanda günümüzün tek süper gücü ve dünyadaki kültürel etkisini hergeçen gün artıran ABD, diğer yanda ise 18 ve 19'uncu yüzyıllarda dünyada en çok konuşulan dilin sahibi, en etkili siyasi ve kültürel akımların beşiği Fransa. 
+     Fransa dünyada ABD siyasetinin yanı sıra ABD kültürüne karşı direnişin öncülüğünü yapıyor. Yıllarca dil ve sinema alanında yaşanan bu kültürel rekabetin 21'inci yüzyıldaki adresi ise internet olacak. 
+     
+     Amaç gelir artırmak 
+     Mücadeleyi kızıştıran, internet şirketi Google'ın ABD Kongresi'nin kütüphanesindeki tüm İngilizce eserleri internette yayınlayacağını duyurması oldu. 
+     Google, Harvard, Stanford ve İngiliz Oxford üniversitelerinin de desteğini alarak birkaç yıla kadar milyonlarca kitabı internette dolaşıma sokacak. Şirket bu yolla arama motorunu kullanan kişi sayısını ve reklam gelirlerini artırmayı hedefliyor. 
+     
+     Chirac Avrupa'dan destek isteyecek 
+     Proje Fransız kültürel elitini endişelendirdi. Fransız Ulusal Kütüphanesi Direktörü, projenin dünyada anglosakson fikirlerinin yayılmasına yol açacağını söyledi ve Avrupa Birliği'ni bunu dengeleyecek projeler üretmeye çağırdı. 
+     Çağrı Fransız hükümetinde yankı buldu. Cumrhurbaşkanı Jacques Chirac, Kültür Bakanı ve Ulusal Kütüphane Direktörü'ne Avrupa kültürel eserlerini dijital formata sokarak internete taşıma talimatı verdi. Chirac, yakında diğer Avrupa liderleriyle de görüşerek projeye destek vermelerini isteyecek. 
+     
+     Bir darbe de AFP'den 
+     Fransa'dan Google'a yönelik bir tepki de Fransız haber ajansı Agence France Presse'ten geldi. AFP, telif hakkı kendilerine ait olan fotoğraf ve haberleri izinsiz yayınladığı gerekçesiyle Google'a 17.5 milyon dolarlık tazminat davası açtı. 
+     Dünyanın en büyük haber ajanslarından AFP'nin en büyük rakipleri de yine anglosakson dünyasından İngiliz Reuters ve ABD'li Associated Press. 
+     
+</TEXT>
+</DOC>

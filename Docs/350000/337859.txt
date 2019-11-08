@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 337859 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/28/son/sontur20.html </URL>
+<DATE> 2005/04/28/ </DATE>
+<TIME> 10.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İlaca yeni fiyatlandırma getirildi... 
+</HEADLINE>
+<TEXT>
+
+     Orijinal ve jenerik ilaçlara yeni fiyatlandırma getirildi. 
+     Sağlık Bakanlığı'nın, Beşeri Tıbbi Ürünlerin Fiyatları Hakkında Tebliğ'de Değişiklik Yapılmasına Dair Tebliğ'i, Resmi Gazete'de yayımlandı. 
+     Değişikliğe göre, orijinal ilaçların fiyatları belirlenirken, orijinal ürünün her formunun her birim hammadde miktarı ayrı ayrı değerlendirilecek. Eskiden uygulanan ambalajdaki birim miktarı değerlendirmeye alınmayacak. 
+     Aynı formun aynı birim hammadde miktarının farklı ambalajdaki birim miktarları arasında oranlama yapılacak. Oranlamada, fiyatı oransal olarak en düşük olan ürün dayanak kabul edilecek. Bu oranlama küçük ambalajdan büyük ambalaja doğru uygulanacak. 
+     Rakamsal fiyat örneklerine de yer verilen tebliğde, örneğin 10 mg 5 tablet 7 Avro, 10 mg 10 tablet 10 Avro, 10 mg 20 tablet 30 Avro ise birim fiyatı en düşük olan 10 mg 10 tablet 10 Avro olan dayanak kabul edilecek. 
+     
+     ORANLAMA FİYATI 
+     Bir ürün için onaylanan fiyat, bu ürünün sonradan ruhsatlandırılacak formları için oranlama fiyatı kabul edilecek. 10 mg 10 tablet 10 YTL ise 10 mg 20 tablet 20 YTL'den fazla satılamayacak. Mevcut form, 10 mg 10 tablet 10 YTL iken yeni çıkan form 10 mg 5 tablet ise ve referans fiyat bulunamıyorsa fiyatı 5 YTL'den fazla olamayacak. 
+     Firmaların, bir ürünün herhangi bir formu için talep edecekleri indirimler, kendi başvuruları olmadan bu ürünün diğer formlarına uygulanmayacak. Örneğin, 10 mg 10 tablet 10 YTL iken, diğer form 10 mg 20 tablet fiyatını firma 20 YTL'den 15 YTL'ye indirirse, 10 mg 10 tabletin fiyatı 7.5 YTL'ye düşürülmeyecek. 
+     Aynı hammaddenin farklı birim miktarlarının aynı ambalajdaki birim miktarına sahip formları, AB ülkelerinde aynı fiyata satılıyorsa aynı fiyatı alabilecek. 
+     Firmalar daha önce, orijinal ürünler için fiyat teklif ederken, referans ülke veya ithal edildiği ülkedeki perakende satış fiyatları, KDV oranları, depocu ve eczacı karlarını esas alarak fiyat belirtiyordu. Değişiklikle, firmalar, söz konusu ülkelerdeki fabrika satış fiyatlarını, Türkiye'nin o ülkedeki Dışişleri Bakanlığı Temsilciliği'nce, temsilciliğin olmadığı yerlerde ise o ülkenin sağlık otoritesine onaylatacak ve başvuru tarihindeki TC Merkez Bankası döviz satış kuruna göre hesaplayarak Sağlık Bakanlığı'na bildirecek. 
+     
+     JENERİK ÜRÜNLERİN FİYATLARI 
+     Yapılan değişiklikle jenerik ürünlerin fiyatları da yeniden belirlendi. Buna göre, ürünün herhangi bir farmasötik şekli dünyada 20 yıl önce piyasaya çıkmış ve orijinalliğini kaybetmişse, bu ürünlerin Türkiye'deki fabrika satış fiyatına yeni karlılık oranları uygulanarak yeni fiyatı belirlenecek. 
+     Ancak dünyada 20 yıl önce piyasaya çıkmış ürünün orijinali Türkiye'de mevcutsa jenerik ürünün fiyatı, 15 Haziran 2004'te geçerli olan orijinal ürünün sabitlenmiş Avro değerinden yüksek olamayacak. 
+     Jenerik ürünlerin fiyatı, ürünün orijinalinin referans fiyatını, eğer başka jenerik ürünler de piyasada varsa, en yüksek fiyatlı jenerik ürünün fiyatını geçemeyecek. Mevcut jenerik ürünlerden fiyatı orijinalinin fiyatını geçenler varsa, jenerik ürünün fiyatı 15 Haziran 2004 tarihinde geçerli olan orijinal ürünün sabitlenmiş Avro değerinden yüksek olmayacak şekilde düzeltilecek. 
+     Tebliğ, 16 Mayıs 2005'te yürürlüğe girecek. 
+     
+</TEXT>
+</DOC>

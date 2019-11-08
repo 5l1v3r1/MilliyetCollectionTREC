@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 304923 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/09/son/sontur06.html </URL>
+<DATE> 2005/01/09/ </DATE>
+<TIME> 10.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Şener Fon'daki bankalara 32 katrilyon lira aktarıldı... 
+</HEADLINE>
+<TEXT>
+
+     Devlet Bakanı ve Başbakan Yardımcısı Abdüllatif Şener, Sayıştay'ın, bankalara aktarılan kaynakların, Devlet İç Borçlanma Senetlerinin DİBS takibi sadece anapara olarak yapıldığı için düşük görüldüğü iddialarının doğru olmadığını bildirdi. 
+     Fon'a devredilen bankalara aktarılan kaynağın TMSF'nin 2002 yılı bilançosuna göre 32 katrilyon lira olduğunu ifade eden Şener, Fon veya Fon bünyesindeki kuruluşlar ile çalışanların herhangi bir ihmal veya sorumluluğunun bulunmadığını belirtti. 
+     Bakan Şener, TMSF Başkanı Ahmet Ertürk'ün verdiği bilgilere dayanarak, DYP Iğdır Milletvekili Dursun Akdemir'in yazılı soru önergesini yanıtladı. Şener, Fon tarafından bankalara aktarılan kaynakların iştirak maliyeti niteliğinde olduğunu, dolayısıyla da genel kabul görmüş muhasebe prensipleri ve Fon Muhasebe Yönergesi'ne uygun olarak ''tarihi maliyetle'' izlendiğini kaydetti. 
+     Kaynak aktarımı nedeniyle Fon tarafından katlanılan faiz yükü ve riskinin bilançonun pasifinde Hazine'ye olan borçlar hesabında ve ilgili yıllar faiz giderleri hesabında yer aldığını belirten Şener, dolayısıyla, Fon'un 2002 yıl sonu bilançosunun aktifinde bankalara verilen ihtiyati ve kesinleşen görev zararları hesabında 17 katrilyon lira olarak yer alırken, pasifte kullanılan krediler kaleminde faiz, kur farkı ve anapara toplamı olarak 32 katrilyon lira olarak yer aldığını bildirdi. 
+     
+     ''HERHANGİ BİR ÖNLEME GEREK YOK'' 
+     Abdüllatif Şener, DİBS'nin takibine ilişkin şunları kaydetti 
+     ''Merkez Bankası nezdinde bulunan Elektronik Menkul Kıymet Transferi EMKT sisteminin işleyiş kuralları Merkez Bankası tarafından belirlenmektedir. Sayıştay Başkanlığı'nın Fon'a yapılan İkrazlar İzleme Raporu'nda eleştiri konusu olarak, Etibank ve Demirbank tarafından DİBS'nin Yapı Kredi Bankası'na satıldığı ve bunun karşılığı Türk Lirası'nın kayıtlarına ulaşılamadığı belirtilmektedir. 
+     Yapı ve Kredi Bankası'na satılan DİBS karşılığında adı geçen banka tarafından EFT ile Etibank'a 192 trilyon 883 milyar 729 milyon lira ve Demirbank'a 200 trilyon 817 milyar 50 milyon lira ödenmiş olup, ilgili işleme ait kayıtlar Merkez Bankası EMKT ve EFT sisteminde mevcuttur. Ayrıca, EMKT sistemindeki güvenlik önlemleri olarak menkul kıymet karşılığı ilgili hesaplara intikal etmeden menkul kıymetin teslimi söz konusu değildir. Raporda belirtilen hususla ilgili olarak herhangi bir önlem alınmasına gerek olmayıp, sistemin işleyişinde bu gibi güvelik mekanizmaları zaten mevcuttur.'' Başbakan Yardımcısı Şener, Fon bankalarına aktarılan Devlet İç Borçlanma Senetleri'ne ait tüm hareketlerin Fon tarafından bir örneğinin Sayıştay Başkanlığı'na, bir örneğinin ise Fon Başkanlığı'na sunulan bir raporla açıklandığını belirten Şener, şöyle devam etti 
+     ''Rapor ekinde işlemlere ait Fon kararları, ikraz sözleşmeleri, Hazine Müsteşarlığı'na yazılan yazılar ise DİBS'nin hareketlerinin muhasebe dökümleri yüzde 85-90 oranında teslim edilmiş, dökülemeyen ekran görüntüleri ve sebepleri açıklanmış, tüm senetlerin Hazine Müsteşarlığı'nda alınan DİBS tutarları ile Fon bankalarına aktarılarak değerlendirilen tutarlar açısından mutabakat sağlanmıştır. Bu sebeplerden dolayı, Fon veya Fon bünyesindeki kuruluşlar ile çalışanlarının söz konusu işlemlerde herhangi bir ihmal veya sorumluluğunun bulunmadığı düşünülmektedir.'' 
+     
+</TEXT>
+</DOC>

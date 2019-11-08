@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 314435 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/11/son/soneko31.html </URL>
+<DATE> 2005/02/11/ </DATE>
+<TIME> 14.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bono - tahvil piyasasında faiz yüzde 17.64'ten kapandı... 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda işlem gören 27 Eylül 2006 vadeli, bugün valörlü tahvilin basit getirisi yüzde 18.59'dan, bileşik getirisi yüzde 17.64'ten kapandı. 
+     Bu kağıdın aynı gün valörlü işlemlerinin bileşik getirisi, dünkü kapanışa göre 0.10 puan geriledi. 
+     
+     KOTASYONLAR 
+     Bankalararası piyasada dolar kotasyonları, saat 14.05 itibariyle, alışta en düşük 1.3175 YTL, en yüksek 1.3210 YTL, satışta en düşük 1.3225 YTL, en yüksek 1.3260 YTL seviyesinde bulunuyor. 
+     
+     REPO 
+     İMKB Tahvil ve Bono Piyasası Repo-Ters Repo Pazarı'nda 3 günlük işlemler ortalama yüzde 16.'ten yapıldı. 3 günlük işlemlerde en düşük oran yüzde 16.50, en yüksek oran yüzde 16.70 oldu. 
+     
+     PARİTE 
+     Uluslararası piyasalarda avro-dolar paritesi 1.2864, sterlin-dolar paritesi 1.8657, yen-dolar paritesi ise 105.76 düzeyinde seyrediyor. 
+     
+</TEXT>
+</DOC>

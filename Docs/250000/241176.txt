@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 241176 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/19/son/soneko03.html </URL>
+<DATE> 2004/05/19/ </DATE>
+<TIME> 09.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tokyo Borsası rekor yükselişle kapandı... 
+</HEADLINE>
+<TEXT>
+
+     Tokyo Menkul Kıymetler Borsası rekor yükselişle kapandı. 
+     Nikkei Endeksi, bu yılın en yüksek endeks değeri olarak kabul edilen 256.65 puan yüzde 2.40 değer kazanarak, 10,967.74 puana ulaştı. 
+     Öte yandan, ABD Doları, 0.42 yen değer kaybederek, 113.34 yen düzeyine indi. 
+     Japonya'da, Gayri Safi Yurtiçi Hasıla, bu yılın ilk çeyreğinde, geçen yılın son çeyreğine göre yüzde 1.4 artış gösterdi. 
+     Ekonomistlerin yüzde 0.9 oranındaki büyüme tahminlerine karşı, ekonomik büyümenin daha yüksek çıkması, ekonomik canlanmanın başladığı işareti olarak Tokyo Borsası'nı olumlu etkiledi. 
+     
+</TEXT>
+</DOC>

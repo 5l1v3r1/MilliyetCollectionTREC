@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 223575 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/18/son/sonyas13.html </URL>
+<DATE> 2004/03/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+NASA, 'sessiz konuşmayı' anlamak için yazılım geliştirdi 
+</HEADLINE>
+<TEXT>
+
+     Amerikan Ulusal Havacılık ve Uzay Dairesi NASA , ''içinden konuşan'' kişiyi duymak için, beynin sözü kontrol etmek üzere gırtlağa gönderdiği sinyalleri çözümlemeye yönelik bir yazılım programı geliştirdiğini açıkladı. 
+     Sistem hakkında bilgi veren NASA yetkilisi Chuch Jorgensen, bu programın, astronotlara, gürültülü ortamda çalışanlara ve engellilere faydalı olabileceğine dikkat çekerek, çenenin altına ve ademelmasının iki tarafına yerleştirilen küçük alıcıların, beyinden gönderilen sinyalleri çözümleyerek kelimelere çevirdiğini keşfettiklerini belirtti. 
+     NASA'nın California eyaletindeki Ames Araştırma Merkezi'nde çalışan Jorgensen, ''Bir yazı okunduğunda ya da içinden konuşulduğunda, dudaklar ve yüz oynatılmadan ya da oynatılarak biyolojik sinyaller üretilir'' diye konuştu. 
+     Bilim adamları, ''iç sesi'' duymak için kullanılacak bu sistemin, uzay elbiselerinde ve hava trafiğini düzenleyen kontrol kuleleri gibi gürültülü ortamlarda kullanılabileceğini, ayrıca konuşma zorluğu çeken kişilerin konuşabilmek için kullandığı cihazların geliştirilmesinde işe yarayabileceğini düşünüyorlar. 
+     Bilim adamları, yazılımlarının bu aşamada, ''insanların içinden tekrarladıkları 6 sözcük ve 10 sayıyı tanımlayabildiğini'' belirterek, sözcüklerin anlaşılabilme oranının ise yüzde 92 olarak belirlendiğini kaydetti. 
+     
+</TEXT>
+</DOC>

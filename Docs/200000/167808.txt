@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 167808 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/07/son/sondun32.html </URL>
+<DATE> 2003/07/07/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+"Hacker"lık yarışması interneti birbirine kattı.. 
+</HEADLINE>
+<TEXT>
+
+     İnternet sitelerine yönelik saldırıları izleyen Zone-H adlı bir siteye göre, bilgisayar korsanlarının katıldığı bir yarışma, dün internet tarihindeki en büyük karmaşaya yol açtı. 
+     Merkezi Estonya'da bulunan Zone-H'nin açıklamasında, yarışma nedeniyle Hollanda ve Brezilya'daki yüzlerce siteye erişimin engellendiği belirtilerek, ''6 Temmuz, internet tarihinde en büyük kargaşanın hüküm sürdüğü gün olarak görülebilir'' denildi. 
+     Yarışmanın internette erişime bu denli zarar vermesinin sorumlusunun basın olduğu ileri sürülen açıklamada, basında yarışmaya çok yer verilmesi eleştirildi. 
+     Kendi sitelerinin de saldırıya uğradığını belirten Zone-H yetkililerine göre, ABD, Fransa, Brezilya, Almanya ve Hollanda'daki çok sayıda site bilgisayar korsanlarının saldırısına uğradı. 
+     İnternet güvenliği uzmanları, hafta sonundaki yarışma nedeniyle, çok sayıda internet sitesinin saldırıya uğrayabileceği uyarısında bulunmuştu. 
+     Yarışmada, 6 saat içinde 6 bin siteye saldırmak amaçlanıyordu. 
+     
+     İNGİLİZ UZMANA GÖRE YARIŞMA BAŞARISIZ 
+     İngiliz bir internet güvenliği uzmanı ise yarışmanın başarısız olduğunu söyledi. 
+     Antivirüs programı üreticisi Sophos firması danışmanlarından Graham Cluley, hafta sonunda internet sitelerine yönelik saldırılarda artış görmediğini söyledi. 
+     Cluley, ''Yılın her günü bazı sitelere saldırılır, bu hafta sonu saldırılarda artış olduğundan söz edildiğini duymadım'' dedi. 
+     
+</TEXT>
+</DOC>

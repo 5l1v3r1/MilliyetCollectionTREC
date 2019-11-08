@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 260442 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/04/yazar/toruner.html </URL>
+<DATE> 2004/08/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Yaman TÖRÜNER  </AUTHOR>
+<HEADLINE>
+Munzam karşılıkların varlık nedeni 
+</HEADLINE>
+<TEXT>
+
+
+Önceki yazımda, 2001 krizi sırasında X Bankası'nın Munzam Karşılıklarının serbest bırakılması için Merkez Bankası'na yazı yazdığını, Merkez Bankası'nın bu isteği bazı ilginç gerekçelerle uygun bulmadığını ve Prof. Dr. Yaşar Karayalçın'ın bu konudaki mütalaasını açıklamıştı. 
+Bankalar, mevduatlarının Merkez Bankası tarafından belirlenen bir bölümünü Merkez Bankası'nda tutuyorlar. Önceleri sadece Türk Lirası mevduatlar için bu uygulama varken, sonradan döviz mevduatı için de Mevduat Munzam Karşılığı MMK alınmaya başlandı. Daha sonra, bankalar mevduatlarının bir bölümüyle de Devlet İç Borçlanma Senedi alsınlar ve kredilerinin bir bölümünü Hazine'ye versinler istendi. Buna da, "disponibilite" denildi. Bankalar uzun süre bir bölümü MMK ve bir bölümü de disponibilite olmak üzere, mevduatlarının toplam 30 civarındaki bölümünü Merkez Bankası'nda ve Hazine kağıtlarında tutmaya başladılar. Bankalar çoğu zaman disponibilite tutmaktan memnundu. Çünkü, hem en düşük riskle Hazine'ye kredi veriliyor hem de iyi faiz alınıyordu. Daha sonra, MMK'lara da bir miktar faiz verilmeye başlandı. 
+1994'te Merkez Bankası Başkanı olduğum sırada, 5 Nisan Kararları çerçevesinde MMK sistemi de, "Disponibilite"nin biçimi de değiştirildi. Kanuni karşılıklar, her bankanın toplam pasifleri üzerinden alınmaya başlanarak daha çağdaş ve adil bir sistem yaratıldı. Mevduat üzerinden alınan bölümün adı yine MMK olarak kaldı. Diğer bölüme, "disponibilite" denildi. MMK ve disponibilitenin toplamına gene Kanuni Karşılıklar deniliyordu. Bu sistem 2000 - 2001 krizleri sırasında da vardı ve hala uygulanıyor. "Kanuni Karşılıklar"ın özellikleri şunlar 
+a Merkez Bankası bunlara istediği faizi verir. Gerekirse, faiz vermeyebilir. 
+b Karşılıkların oranı ve faizi konusunda hükümetlerin yönlendirmeleri olabilir. Ama, her zaman son sözü Merkez Bankası Banka Meclisi söyler. 
+c Karşılıkların en önemli amacı, para politikasını yürütmektir. Merkez Bankası, karşılıkların toplamı kadar piyasadan para çekmiş olmaktadır. Bunlara faiz verildiğinde ise, Merkez Bankası kendi yarattığı paraya faiz vermektedir. Doğal olarak, karşılıklara faiz verilmesi bankaların maliyetini düşürücü bir unsurdur. 
+d Kanuni Karşılıklar, Merkez Bankası'nın tek tek bankalara ve toplu olarak da piyasaya olan borcudur. Merkez Bankası'nın gereğinde bunu ödeme taahhüdü vardır. Bankalar her ay bilançolarındaki gelişmelere göre, bir ay gecikmeyle karşılıkları Merkez Bankası'na yatırırlar. Mevduatları azaldıysa, çekerler. Ancak, enflasyon yılları sırasında pek çekme görülmemiştir. Karşılıkları yatırmayan bankalara yaptırım uygulanır. 
+e Kanuni Karşılıklar, gelişmiş ülkelerde artık para politikası aracı olarak kullanılmıyor. Bu ülkelerde ya karşılık hiç yok ya da oranlar çok düşük. Öte yandan, artık piyasalar günü gününe müdahale gerektiriyor. Karşılık tesisi ise, ancak bir ay gecikmeyle yapılabiliyor. Merkez bankaları artık faiz oranlarını değiştirme yöntemiyle piyasalara doğrudan müdahaleleri daha yoğun olarak kullanıyor. 
+Krizde Kanuni Karşılıkların serbest bırakılıp bırakılmayacağı, tartışılması gereken bir konu. Bu da sonraki yazımın konusu. 
+
+
+
+</TEXT>
+</DOC>

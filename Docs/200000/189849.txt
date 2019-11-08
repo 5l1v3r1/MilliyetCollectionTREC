@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 189849 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/20/son/sondun28.html </URL>
+<DATE> 2003/10/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayarların yüzde 80'i virüs saldırısına uğradı 
+</HEADLINE>
+<TEXT>
+
+     Çin'de bilgisayarların yüzde 80'den fazlasının geçen yıl virus saldırısına uğradığı açıklandı. 
+     Çin Kamu Güvenliği Bakanlığı ilgili birimlerinin 2 ay boyunca ülke çapında yaptığı araştırmanın sonuçlarına gore, virus saldırısından etkilenen bilgisayarların sayısı 2002 yılına göre yüzde 1,59, 2001 yılına göre de yüzde 25,57 oranında arttı. 
+     Virüs saldırısına uğrayan bilgisayarların yüzde 63'ünün sahiplerinin ekonomik kayba uğradığı da bildirildi. 
+     Bilgisayar virüslerinin genellikle internetteki bazı web sayfalarından ve elektronik posta iletilerinden kaynaklandığını belirten uzmanlar, virüslerin Çin'deki bilgi ağı için halen en büyük tehdidi oluşturduğunu ifade ettiler. 
+     Uzmanlar, Çin'de virüslerin çok sayıda bilgisayarı etkilemesinin yeterli önlem alınmaması ve bu konuda yeterli bilgiye sahip olunmamasından kaynaklandığı belirttiler. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 234518 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/25/ekonomi/eko08.html </URL>
+<DATE> 2004/04/25/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İngiltere Merkez Bankası faiz artırmaya hazırlanıyor 
+</HEADLINE>
+<TEXT>
+
+   EKONOMİ SERVİSİ 
+   
+   İngiliz ekonomisindeki beklenenin üzerindeki büyümenin faiz artırımına neden olabileceği belirtiliyor. Bu yıl büyümenin ilk çeyrekte yüzde 3 olacağı düşünülürken, İngiliz Hazinesi ise 2004 için yüzde 3 ila 3.5 oranında büyüme bekliyor. Cuma günü açıklanan perakende satışlara ilişkin verilere göre aylık bazda 0.6, yıllık bazda da yüzde 6.4'lük artış var. İngiliz Merkez Bankası'nın gelecek ay yapacağı toplantıda yüzde 4 olan faiz oranını 4.25'e çıkartabileceği düşünülüyor. Banka daha önceki iki faiz artırımını da ekonominin çok hızlı büyümesi ve enflasyonist ortamın oluşmaması için yapmıştı. İngiltere son yıllarda euro bölgesine nazaran çok daha iyi bir ekonomik performans gösteriyor. 
+   
+   
+</TEXT>
+</DOC>

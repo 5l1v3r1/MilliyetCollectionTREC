@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 321111 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/05/son/sonyas10.html </URL>
+<DATE> 2005/03/05/ </DATE>
+<TIME> 13.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yahoo'dan mobil oyun teknolojisi... 
+</HEADLINE>
+<TEXT>
+
+     Yahoo, popüler oyun sitesindeki oyunların ABD'de bundan böyle bilgisayarlardan mobil cihazlara aktarılmasını ve bunların oynanmasını sağlayan bir teknoloji geliştirildiğini açıkladı. 
+     Yahoo şirketi, Stadeon şirketi tarafından geliştirilen bu teknolojinin, birden fazla oyuncunun çeşitli platformlarda aynı anda oynamalarına olanak sağladığını bildirdi. 
+     Yeni teknoloji sayesinde, cep telefonunda domino oynayan bir oyuncu aynı anda bilgisayarda Yahoo oyunu oynayan bir arkadaşıyla oynayabilecek. Ayrıca, değişik servis sağlayıcıları kullanan iki cep telefonu kullanıcısı birbiriyle oyun oynayabilecek. 
+     Yahoo Games Genel Direktörü Geoff Graber, yeni teknolojinin internetteki birinin bir cep telefonu kullanıcısıyla oynarken benzersiz bir deneyim yaşamasını sağlayacağını söyledi. 
+     Mobil oyun pazarında giderek varlığını arttıran Yahoo'nun 2004'te ABD'deki gelirinin 204 milyon dolar civarında olduğu belirtiliyor. 
+     
+</TEXT>
+</DOC>

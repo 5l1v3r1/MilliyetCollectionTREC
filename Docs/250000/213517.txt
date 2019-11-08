@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 213517 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/06/son/soneko01.html </URL>
+<DATE> 2004/02/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası'nın temel göstergesi Dow Jones Endeksi 24.81 puan yükselerek, 10,495.55 puandan kapandı. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq ise 5.42 puan artarak günü 2,019.56 puanla tamamladı. 
+     
+</TEXT>
+</DOC>

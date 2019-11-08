@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 67435 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/02/13/son/soneko01.html </URL>
+<DATE> 2002/02/13/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsası düştü 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası, günü düşüşle kapattı. 
+     Borsa'nın temel göstergesi Dow Jones, 21.04 puan yüzde 0.21 
+     düşüşle günü 9,863.74 puandan kapattı. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq Endeksi de 12.44 puan yüzde 0.67 düşerek 1,834.22 puandan kapandı. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

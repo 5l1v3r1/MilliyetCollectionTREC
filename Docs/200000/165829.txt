@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 165829 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/27/son/soneko08.html </URL>
+<DATE> 2003/06/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kamu İhale Yasa Taslağı'nda bazı kuruluşlar kapsam dışı 
+</HEADLINE>
+<TEXT>
+
+     Başbakanlığa gönderilen Kamu İhale Yasası taslağı ile kanun kapsamı dışında olacak kuruluşlara, sosyal güvenlik kuruluşları, fonlar ve bağımsız bütçeli kuruluşlar da eklendi. 
+     Bayındırlık ve İskan ve Maliye bakanlıkları ile Hazine Müsteşarlığı tarafından hazırlanan ve Başbakanlığa gönderilen 50 maddelik taslak, önceki taslağa göre bazı farklılıklar içeriyor. 
+     Buna göre, daha önceki taslakta kanun kapsamı dışında bırakılan enerji, su, ulaştırma ve telekomünikasyon sektöründe faaliyet gösteren teşebbüs, işletme ve şirketlerin yanı sıra sosyal güvenlik kuruluşları, fonlar, özel kanunlarla kurulmuş ve kendilerine kamu görevi verilmiş tüzel kişiliğe sahip kuruluşlar mesleki kuruluşlar ve vakıf yükseköğretim kurumları hariç ile bağımsız bütçeli kuruluşlar da kanun kapsamı dışında olacak. 
+     Ayrıca kanun kapsamına giren kuruluşlarca kuruluş amacı veya mevzuatı gereği işlemek, değerlendirmek, iyileştirmek veya satmak üzere doğrudan üreticilerden veya ortaklarından yapılan tarım ve hayvancılıkla ilgili ürünün alımlarıyla ilgili Orman Kanunu gereğince köylülerden yapılacak hizmet alımları, bu kanuna tabi olmayacak. 
+     
+     DIŞ FİNANSMAN İLE YAPTIRILACAK İŞLER 
+     Uluslararası anlaşmalar gereğince sağlanan dış finansman ile yaptırılacak olan ve finansman anlaşmasında farklı ihale usul ve esaslarının uygulanacağı belirtilen mal veya hizmet alımları ile yapım işleri, uluslararası sermaye piyasalarından yapılacak borçlanmalara ilişkin her türlü danışmanlık ve kredi derecelendirme hizmetleri, Merkez Bankası'nın banknot ve kıymetli evrak basımıyla ilgili mal ve hizmet alımları da, bu kapsamda değerlendirilecek. 
+     Kanun kapsamındaki idarelerin kendi özel mevzuatı uyarınca hak sahiplerine sağlayacakları teşhis ve tedaviye yönelik hizmet alımları ile tedavisi kurumlarınca üstlenilen kişilerin ayakta tedavisi sırasında reçeteye bağlanan ilaç ve tıbbi malzemelerin kişilerce alımları da kanuna tabi olmayacak. 
+     Taslağa göre, eşik değerlerin ve bu kanundaki diğer parasal sınırların altında kalmak amacıyla, mal veya hizmet alımları ile yapım işleri, kısımlara bölünemeyecek. Ancak rekabetin sağlanması açısından ayrı ayrı ihale edilmesinde fayda görülen ve müstakil olarak projelendirilebilen yapım işleri kısımlar halinde ihale edilebilecek. 
+     Taslak uyarınca, 50 milyar liraya kadar olan sözleşmelerde noter şartı aranmayacak. Ayrıca, ihalelerle ilgili her türlü şikayetler konusunda Sayıştay'a dava açılabilecek. 
+     İhaleye katılımda yeterlilik kurallarını düzenleyen maddede yapılan değişiklikle de, ''isteklinin ihale konusu iş veya benzer işlerde mal ve hizmet alımları için son 5 yıl, yapım işleri için ise son 15 yıl içinde kamu veya özel sektörde o işe ait sözleşme bedelinin en az yüzde 70 oranında gerçekleştirdiği veya yüzde 50'si oranında denetlediği veyahut yönettiği idarece kusursuz kabul edilen benzeri işlerle ilgili deneyimini gösteren belgeler'' ifadesi getirildi. 
+     Bir önceki taslakta, mal ve hizmet alımları için son 8 yıllık dönemin dikkate alınması, denetleme için ise yüzde 30 oranı esas alınıyordu. 
+     Taslağa göre, yaklaşık maliyeti eşik değerlere eşit veya bu değerleri aşan ihalelerden açık ihale usulü ile yapılacak olanların ilanları, ihale tarihinden en az 40 gün önce Resmi Gazete'de en az bir defa yayınlanmak suretiyle yapılacak. 
+     İdarelerce mal veya hizmet alımları ile yapım işlerinin ihalelerinde ''doğrudan temin usulü'' de Kanun'dan çıkarıldı. 
+     
+     DOĞRUDAN TEMİN 
+     Yasada ''doğrudan temini'' düzenleyen maddede yapılan değişikliğe göre de, ihtiyacın sadece gerçek veya tüzel tek kişi tarafından karşılanabileceğinin tespit edilmesi, sadece gerçek veya tüzel tek kişinin ihtiyaç ile ilgili özel bir hakka sahip olması ve idarelerin ihtiyacına uygun taşınmaz mal alımı veya kiralanması hallerinde ihtiyaçlar, ilan yapılmaksızın ve teminat alınmaksızın doğrudan temin usulüyle alınabilecek. 
+     Kanunda ihale yetkilisinin, karar tarihini izleyen en geç yirmi gün içinde ihale kararını onaylaması veya gerekçesini açıkça belirtmek suretiyle iptal etmesine ilişkin hükümdeki ''20 gün'' ibaresi de, ''5 iş günü'' şeklinde değiştiriliyor. 
+     
+</TEXT>
+</DOC>

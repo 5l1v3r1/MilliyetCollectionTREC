@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 356023 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/27/son/sonyas13.html </URL>
+<DATE> 2005/06/27/ </DATE>
+<TIME> 14.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Lejyoner bakterisini saptayan yonga bulundu 
+</HEADLINE>
+<TEXT>
+
+     Hollanda'da, lejyoner hastalığına yol açan bakterinin suda bulunup bulunmadığını saptayabilen bir ''yonga'' çip geliştirildi. 
+     Hollanda Teknik Araştırma Kurumu'nun TNO öncülüğünde, bir laboratuvar ve su şirketiyle yürütülen ortak proje çerçevesinde geliştirilen yonganın, ''legionella'' bakterisinin sudaki varlığıyla birlikte sağlık tehlikesi açısından hangi türünün bulunduğunu da gösterdiği belirtildi. 
+     Teknik Araştırma Kurumu sözcüsü, yonganın iki yıl süren araştırma sonucu geliştirildiğini ve madeni 2 avro büyüklüğünde olduğunu söyledi. Sözcünün verdiği bilgiye göre, yonga, yarım litre suda yaklaşık 4 saat kaldıktan sonra, bakterinin DNA profilini de çıkararak hangi türde olduğunu ya da canlı olup olmadığını da gösterebiliyor. Legionella bakterisini saptayabilen yonganın, kısa bir süre sonra suyun kalitesinin belirlenmesi açısından özellikle su şirketlerince kullanılmasının beklendiği kaydedildi. 
+     Sözcünün verdiği bilgiye göre yonga, gelecekte evlerde de kullanılabilecek. 
+     Genellikle 20-45 derece arasındaki sıcaklıktaki su şebekelerinde gelişebilen legionella bakterisi, suyla doğrudan temas veya buğusunun solunması halinde insana bulaşabiliyor. 
+     Hollanda'da 1999 yılında Enkhuizen kenti yakınlarındaki Bovenkarspel kasabasında açılan bir çiçek fuarını ziyaret eden bazı kişilere legionella bakterisi bulaşmış ve 30'dan fazla kişi yaşamını yitirmişti. 
+     
+</TEXT>
+</DOC>

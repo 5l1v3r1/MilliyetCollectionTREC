@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> 352364 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/15/son/sonyas16.html </URL>
+<DATE> 2005/06/15/ </DATE>
+<TIME> 11.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+9 milyon dolarlık link 
+</HEADLINE>
+<TEXT>
+
+     Guatemalalı Carlos Amado'nun yıllar önce patentini aldığı bir teknoloji, bilişim devi Microsoft'a 8.9 milyon dolarlık bir para cezası olarak meyvesini verdi. Firmanın Windows'tan sonra en önemli yazılımı Office setinin içindeki Excel ve Access bileşenlerinde kullanılan tek belge üstünden iki ayrı yazılımın dosyalarına link verme tekniğinin gerçek sahibi olan Amado'nun talebini yerinde gören ABD California Bölge Mahkemesi Microsoft'u söz konusu bedeli ödemeye mahkum etti. Amado bu tekniğin patentini 1990'da almış ve 1992 yılında Microsoft'a satmayı teklif etmişti. Yazılım deviyse teklifi reddetmesine rağmen 1995 yılında bu özelliği Office setine eklemişti. Amado sonuçtan pek memnun değil. Çünkü davada ilk talep ettiği bedel tam 400 milyon dolardı 
+     
+</TEXT>
+</DOC>

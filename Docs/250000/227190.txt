@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 227190 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/31/son/soneko01.html </URL>
+<DATE> 2004/03/31/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     New York menkul kıymetler borsası Wall Street, günü yükselişle kapadı. 
+     Dow Jones endeksi 52,07 puan artışla 10.381,70'e, Nasdaq endeksi 8,06 puan artışla 2.000,63'e yükseldi. 
+     
+</TEXT>
+</DOC>

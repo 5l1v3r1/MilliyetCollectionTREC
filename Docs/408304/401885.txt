@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 401885 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/09/ekonomi/eko10.html </URL>
+<DATE> 2005/12/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Cep'te kayıt için 'seri no' uyarısı 
+</HEADLINE>
+<TEXT>
+
+
+
+Kaçak ve kayıt dışı cep telefonlarının kayda alınması için Turkcell, Telsim ve Avea, abonelerine SMS yollamaya devam ediyor. Operatörler tüm işlemlerin sağlıklı şekilde yürüdüğünü açıklarken bazı abonelerin geçmişte kullandıkları telefonlardan dolayı, şu an kullandıkları telefonlara SMS gelmesi kafaları karıştırdı. 
+
+Kullanılmayan cihaza kayıt 
+Abonenin telefonda 06 tuşlayarak cihazın seri numarasını öğrenip, gelen SMS'deki numara ile karşılaştırması gerekiyor. Operatörün gönderdiği numara ile telefonun seri numarası aynı ise kayıt işlemi yapılabiliyor. Yoksa, abonenin kullanılıp kullanılmadığını bilmediği başka bir cihazın kaydını onaylamış olduğu belirtiliyor. 14 Aralık'tan itibaren kayıt dışı cep telefonları görüşmeye kapatılacak. 
+
+
+</TEXT>
+</DOC>

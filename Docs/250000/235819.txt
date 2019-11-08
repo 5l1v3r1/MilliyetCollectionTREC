@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 235819 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/29/son/sondun18.html </URL>
+<DATE> 2004/04/29/ </DATE>
+<TIME> 11.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Çin'de yine SARS salgını başladı 
+</HEADLINE>
+<TEXT>
+
+     Çin'de, yine akut solunum yetmezliği sendromu SARS başgösterdi. 
+     Çin Sağlık Bakanlığı, 2 kişide daha SARS hastalığının tespit edildiğini bildirdi. 
+     Bakanlık, hastalardan birinin durumunun ağır olduğunu belirtti. 
+     Bakanlığın bu yeni açıklamasıyla SARS vakalarının sayısı 4'e, şüpheli görülenlerin sayısı da 5'e yükseldi. 
+     Çin'in başkenti Pekin'de, 600'den fazla kişinin SARS yüzünden karantina altında bulunduğu ileri sürülmüştü. 
+     SARS geçen yıl Pekin'de 193 can almıştı. Başkentte 2500 kişi de SARS'tan etkilenmişti. 
+     Ülkede geçen yıl SARS nedeniyle 349 kişi hayatını kaybetmişti. 
+     
+</TEXT>
+</DOC>

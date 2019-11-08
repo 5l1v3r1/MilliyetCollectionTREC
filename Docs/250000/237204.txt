@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> 237204 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/04/son/soneko42.html </URL>
+<DATE> 2004/05/04/ </DATE>
+<TIME> 18.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Para piyasalarında bugün... 
+</HEADLINE>
+<TEXT>
+
+     Borsa'da işlem gören hisse senetleri, bugün ortalama yüzde 3.20 değer kazandı. 
+     İMKB Ulusal 100 Endeksi, 1. seansı yüzde 0.86 artışla 17,829.77 puandan tamamladı. 2. seansta da yüzde 2.33 yükselen endeks, 18,244.74 puandan kapandı. 
+     1. seanstaki 151.52 puanlık artış dikkate alındığında, endeks günlük bazda 566.49 puan ve yüzde 3.20 yükseldi. 
+     Hisse senetleri piyasasında toplam 930.4 trilyon liralık işlem hacmi kaydedildi. 
+     
+     DÖVİZ 
+     Kapalıçarşı'da dün 1 milyon 458 bin liradan kapanan dolar, güne 1 milyon 457 bin liradan, 1 milyon 738 bin liradan kapanan Euro 1 milyon 737 bin liradan başladı. 
+     Gün içinde 1 milyon 470 bin liranın üzerine çıkan doların satış fiyatı, kapanışta 1 milyon 452 bin lira oldu. Kapanışta Euro'nun satış fiyatı da 1 milyon 7 bin lira olarak belirlendi. 
+     Merkez Bankası, doların bugünkü efektif kurunu alışta 1 milyon 4 bin 807 lira, satışta 1 milyon 464 bin 35 lira olarak açıkladı. 
+     Böylece dolar, Merkez Bankası'nın dün açıkladığı kura göre, alışta 23 bin 98 lira, satışta 23 bin 261 lira yükseldi. 
+     
+     TAHVİL VE BONO PİYASASI 
+     İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda işlem gören 5 Ekim 2005 vadeli tahvilin, bugün valörlü işlemlerinde basit getiri yüzde 26.74, bileşik getiri yüzde 25.44 oldu. 
+     Bu kağıdın aynı gün valörlü işlemlerinin bileşik getirisi, dünkü kapanışa göre 1.25 puan yükseldi. 
+     İMKB Tahvil ve Bono Piyasası Repo Pazarı'nda gecelik faiz ortalama yüzde 22.00 olarak belirlendi. 
+     
+     HAZİNE İHALELERİ 
+     Hazine'nin, bugün düzenlediği 203 gün vadeli Türk Lirası cinsinden Bono ihalesinde bileşik faiz yüzde 26.45, 3 ayda bir değişken faiz ödemeli Türk Lirası cinsinden Devlet Tahvili ihalesinde ise dönemsel faiz yüzde 7.2 olarak belirlendi. 
+     Her iki ihalede toplam 1 katrilyon 183.9 trilyon liralık satış yapıldı. 
+     
+</TEXT>
+</DOC>

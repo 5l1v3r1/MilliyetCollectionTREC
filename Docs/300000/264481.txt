@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 264481 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/18/son/sontur09.html </URL>
+<DATE> 2004/08/18/ </DATE>
+<TIME> 10.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Taksiciler güvenlik sistemini "takmıyor"... 
+</HEADLINE>
+<TEXT>
+
+     Başkentte çalışan ticari taksicilerin neredeyse tamamı, herhangi bir tehlike anında yerlerinin kolayca tespit edilmesini sağlayan takip sistemini araçlarına taktırmıyor. 
+     Ankara Umum Otomobilciler ve Şoförler Odası Başkanı Ahmet Çiçek, AA muhabirine yaptığı açıklamada, kentte çalışan yaklaşık 8 bin ticari taksiden yalnızca 12'sinin uydu aracılığıyla otomobillerin takibine olanak veren güvenlik sistemini taşıdığını söyledi. 
+     Çiçek, 6 taksiye teşvik amacıyla sistemi kendilerinin taktığını, birini Bangladeş Ataşesi'nin öldürüldüğü olayın failinin yakalanmasında önemli katkısı olan şoföre hediye ettiklerini, geri kalan 5 taksiye de esnafın kendisinin taktırdığını anlattı. 
+     Taksicilerin can güvenliği için oldukça önemli olan sistemin uygulanması konusunda mutlaka bağlayıcı bir karar alınması gerektiğini anlatan Çiçek, ''Sitemin araçlara kurulması zorunlu hale getirilmeli. Mecburi olmadığı için kimse takmayı düşünmüyor. Bu nedenle her ay 1-2 arkadaşımızı kurban veriyoruz'' diye konuştu. Çiçek, sistemin taksilere kurulmasının en fazla 600 milyon liraya mal olduğunu, şoför esnafının ihtiyaç duyması halinde çeşitli bankalarla temasa geçerek kredi sağlayabileceklerini ifade etti. 
+     Sistemin mevcut araçlarda uygulanabilecek en ideal güvenlik sistemi olduğunu dile getiren Çiçek, şöyle konuştu 
+     ''Bu arabalarda bunun dışında cam kabinle ayırma gibi bir yöntem başarılı olamaz. Şoförün bulunduğu ön tarafla arkayı ayırdığınızda araca yalnızca 2 kişi oturabilir. Şoförün bacakları uzun olduğunda kabinin geriye çekilmesiyle arkaya yalnızca bir kişi oturabilir. Kabini öne kaydırdığınızda şoför aracı kullanamaz hale gelecektir. Bu nedenle şu an uygulanabilecek en ideal yöntem, CPS sistemiyle uydudan araç takibidir.'' 
+     
+     UYDUDAN ARAÇ TAKİBİ 
+     Uydudan araç takibine olanak veren sistem, 1999 yılında 60 milyar lira harcanarak odanın merkez binasına kuruldu. Ancak, siteme dahil olan araç sayısı yeterli olmadığı için şu anda kullanılamıyor. 
+     Taksilerin takibi için halen kullanılan sitem ise telsizden haberleşmeye dayanıyor. 
+     Uydu takip siteminin en büyük avantajı herhangi bir tehlike anında aracın konumunu ve yönünü belirlemeye imkan veriyor olması. Araca takılan küçük bir cihaz, düğmesine basılması durumunda anten yardımıyla uyduya sinyal gönderiyor. Uydudan gelen sinyaller ise merkezde bulunan bilgisayar tarafından alınıyor. Daha sonra aracın konumu ve yönü dijital olarak tasarlanan Ankara haritasına düşüyor. Merkeze ulaşan bilgilerin paralel bir sistemle ''155 Polis İmdat'' hattına aktarılmasıyla emniyet güçlerinin kısa sürede söz konusu araca ulaşmaları sağlanıyor. 
+     
+</TEXT>
+</DOC>

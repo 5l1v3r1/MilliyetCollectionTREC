@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 276053 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/29/son/sonyas13.html </URL>
+<DATE> 2004/09/29/ </DATE>
+<TIME> 14.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+IBM'den dünyanın en hızlı bilgisayarı 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın en hızlı bilgisayarını geliştirme yarışmasında, Amerikan IBM şirketi öne geçmeye hazırlanıyor. 
+     IBM, geliştirdiği Blue Gene adlı sistem, dünyanın en hızlı bilgisayarı rekorunu elinde bulunduran ve depremleri simüle eden EarthSimulator adlı Japon bilgisayarının saniyede 35,86 trilyonluk işlem hızını geçmeyi başardı. 
+     Amerikan şirketini 3 yıl sonra dünyanın en hızlı bilgisayarı sıralamasında en üst sıraya taşıyacak sistemin saniyede 36,01 trilyon işlem yapabildiği belirtiliyor. 
+     Minnessota eyaletinin Rochester kentindeki IBM tesislerinde bulunan bilgisayarın dünyanın en hızlı 500 süper bilgisayarı sıralamasında birinci olduğu açıklamasının, yakında IBM yetkililerince yapılması bekleniyor. 
+     İnternette Top500.org adresinde yayımlanan süper bilgisayarlar listesi iki yılda bir güncelleniyor. Liste kasımda güncellenecek. 
+     Merkezi ABD'nin Columbus kentinde bulunan ve dünyanın kar amacı gütmeyen en büyük araştırma kuruluşu Battelle Memorial Enstitüsü de, bir süper bilgisayarın yapımının 2008 yılında tamamlanacağını açıklamıştı. Bu bilgisayarın, saniyede bir katrilyon işlem yapmasının planlandığı, saniyede 35,8 trilyon işlem yapan Japonya'daki benzerinden 300 kat hızlı olacağını bildirilmişti. 
+     
+</TEXT>
+</DOC>

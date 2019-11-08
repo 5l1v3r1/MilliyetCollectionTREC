@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 225184 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/24/son/soneko44.html </URL>
+<DATE> 2004/03/24/ </DATE>
+<TIME> 17.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası güne düşüşle başladı... 
+</HEADLINE>
+<TEXT>
+
+     New York Menkul Kıymetler Borsası, açılışta değer kaybetti. 
+     Dow Jones Endeksi, açılışta 3.19 puan yüzde 0.03 kaybederek 10,060.45 puana geriledi. 
+     Öte yandan, Nasdaq Bileşik Endeksi ise 6.07 puan yüzde 0.32 yükselerek, 1,907.87 puana ulaştı. 
+     
+</TEXT>
+</DOC>

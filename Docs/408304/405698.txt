@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 405698 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/22/son/soneko51.html </URL>
+<DATE> 2005/12/22/ </DATE>
+<TIME> 16.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Turkcell'in Karadeniz'deki iletişimi aksadı... 
+</HEADLINE>
+<TEXT>
+
+     Turkcell'in Karadeniz Bölgesi'ne hizmet veren Samsun Santralı ile Samsun Türk Telekom Santralı arasındaki fiber optik kablonun kopması nedeniyle iletişimde yaşanan sorunun giderilmeye çalışıldığı bildirildi. 
+     Turkcell'den yapılan açıklamada, fiber optik kablonun yol çalışması sırasında kopması yüzünden Samsun, Ordu, Amasya ve Sinop bölgelerindeki Turkcell abonelerinin arama-aranma, GPRS ve VAS servislerini kullanmada problem yaşadıkları belirtildi. 
+     Açıklamada, ''Konuyla ilgili çalışan Türk Telekom yetkililerinin bugün saat 14.15'te başlayan arızayı 3 saat içerisinde gidermesi bekleniyor'' denildi. 
+     
+</TEXT>
+</DOC>

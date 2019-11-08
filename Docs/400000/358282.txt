@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 358282 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/05/son/sondun20.html </URL>
+<DATE> 2005/07/05/ </DATE>
+<TIME> 11.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+'Sasser'i üreten genç mahkemede 
+</HEADLINE>
+<TEXT>
+
+     Almanya'da ''Sasser'' adı verilen bir bilgisayar virüsü geliştirerek dünya çapında çok sayıda bilgisayar sistemini çökerten Sven J. 19 adlı öğrenci, Verden eyalet mahkemesinde yargılanmaya başladı. 
+     Basına kapalı görülen davada savcılık, 77 sayfalık suç duyurusunda, Sven J'yi bilgisayarlara sabotaj yaparak kamu işletmelerini zor durumda bırakmakla suçluyor. 
+     Toplam 142 bilgisayar sistemini bozan ''Sasser'' virüsünün yanı sıra ''Netsky'' adlı bilgisayar virüsünü geliştirmekle de suçlanan Sven J'nin, suçunun ispatlanması durumunda 5 yıla kadar hapis cezasına çarptırılabileceği bildirildi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 50385 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/11/03/son/soneko01.html </URL>
+<DATE> 2001/11/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones yükseldi, Nasdaq düştü 
+</HEADLINE>
+<TEXT>
+
+     New York Menkul Kıymetler Borsası Wall Street'in Dow Jones Endeksi 59.64 puan yükselerek günü 9,323.54 puandan kapadı. 
+     Teknoloji ortaklıkları hisse senetlerinin izlendiği Nasdaq Birleşik Endeksi ise 0,57 puan düşüşle günü 1,745.73 puandan tamamladı. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

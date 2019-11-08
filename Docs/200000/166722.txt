@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 166722 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/02/ekonomi/eko15.html </URL>
+<DATE> 2003/07/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dışbank'ta vize harcı kredi kartıyla ödeniyor 
+</HEADLINE>
+<TEXT>
+
+     Dışbank, Türkiye'ye gelen yabancıların, ülkeye giriş için ödedikleri vize harçlarının kredi kartı ile tahsil edilmesine yönelik hizmetini uygulamaya koydu. Böylece, Türkiye genelinde 40 noktadan Türkiye'ye giriş yapan yabancılar vize harçlarını Dışbank aracılığıyla kredi kartı ile ödeyebilecek. 24 saat kesintisiz olarak Dışbank POS cihazları üzerinden verilecek olan bu hizmetten yalnızca uluslararası geçerliliği olan kredi kartı sahipleri yararlanabiliyor. Sistem aracılığıyla vize harçları dolar veya euro cinsinden ödenebiliyor. 
+     
+
+</TEXT>
+</DOC>

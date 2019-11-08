@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 218528 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/28/son/soneko15.html </URL>
+<DATE> 2004/02/28/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kredili alım, ödünç alma-verme işlemleri... 
+</HEADLINE>
+<TEXT>
+
+     Sermaye Piyasası Kurulu'nun SPK , sermaye piyasası araçlarının kredili alım, açığa satış, ödünç alma ve verme işlemleri yeniden düzenlendi. 
+     SPK'nın Sermaye Piyasası Araçlarının Kredili Alım, Açığa Satış ve Ödünç Alma ve Verme İşlemleri Hakkında Tebliği'nde değişiklik yapan Tebliği bugünkü Resmi Gazete'de yayımlanarak yürürlüğe girdi. 
+     Tebliğ değişikliği ile 4. maddenin 4. fıkrası ''sermaye piyasası aracı ödünç alma ve verme işlemlerinin, aracı kurumlar, bankalar ve Takasbank tarafından bu Tebliğde yer alan esaslar çerçevesinde Kurul'dan ayrıca izin alınmaksızın gerçekleştirilebilmesine, Sermaye Piyasası aracı ödünç alma ve verme işlemleri için Takasbank bünyesinde oluşturulacak piyasaya kabul koşulları, işlem yapma kural ve biçimleri ile uygulanacak diğer hükümler Takasbank yönetim kurulunun önerisi üzerine Kurul onayı alınmak kaydıyla yönetmelikle belirlenir'' şeklinde düzenlendi. 
+     
+     ÖZKAYNAK TAMAMLAMA VE TAKAS YÜKÜMLÜLÜĞÜ 
+     Aynı Tebliğin müşterilerin özkaynak tamamlama ve takas yükümlülüğünü yerine getirilmesine ilişkin konulaların düzenlendiği 35. maddeye ek yapılarak, 3 ay içerisinde 2 defadan daha fazla nakit ve sermaye piyasası aracı takas yükümlülüğü ve veya özkaynak tamamlama yükümlülüğünü yerine getirmeyen müşterilerin ilgili aracı kurum tarafından 2 iş günü içinde Borsaya bildirilmesi hükmü getirildi. 
+     Yine aynı maddeye yapılan eke göre, temerrüd tarihi itibariyle 1 milyar lira ve altında kalan tutarlar 'bu tutar Maliye Bakanlığı'nca ilan edilen yeniden değerleme katsayısı oranında her yıl artırılacak' veya müşterinin net varlığının yüzde 5'ini geçmeyen tutarlar Borsaya bildirilmesi zorunlu olmayacak. İşlem gününde emre konu nakit veya menkul kıymet tutarlarının hesaplarında bulunmaması veya emrin verildiği anda peşinen tevdi edilmemesi durumunda bu müşterilerin alım veya satım emirleri hiçbir aracı kurum tarafından Borsada ilan edildiği tarihten itibaren 6 ay süre ile kabul edilmeyecek. 
+     
+     KREDİLİ ALIM YAPILAN TUTARLAR 
+     Tebliğin 12. maddesindeki yeni düzenlemeye göre, kredili olarak alım yapılan bir şirket tarafından ihraç edilen hisse senedi tutarı, her bir müşteri için, değerlemesi yapılacak olan kredili alım yapılan tutarının yüzde 60'ını geçemeyecek. 
+     Özkaynak olarak verilen hisse senetleri bu kapsamda değerlendirilmeyecek. Kredili olarak alınan hisse senetlerinin cari değerindeki değişmeler sonucunda bir hisse senedinde yüzde 60 oranı aşıldığı takdirde, aracı kurumlar bu durumun tespit edildiği gün itibarıyla, oranın bu fıkrada yer alan orana getirilmesi için müşteriye en seri iletişim aracı ile ulaşarak bildirimde bulunulacak ve teyit alınacak. 
+     
+</TEXT>
+</DOC>

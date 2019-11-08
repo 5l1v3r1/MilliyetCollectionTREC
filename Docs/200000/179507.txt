@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 179507 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/01/son/sondun23.html </URL>
+<DATE> 2003/09/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Otomobillerin rüzgarından enerji üretilecek 
+</HEADLINE>
+<TEXT>
+
+     Hollanda'da, otomobillerin rüzgarından elektrik enerjisi elde edebilmek amacıyla otoyolların kenarına rüzgar türbinleri yerleştirilecek. 
+     Ulaştırma Bakanlığı'ndan verilen bilgiye göre, ilk olarak gelecek ay Apeldoorn kenti çevresindeki otoyola yerleştirilecek türbinlerin elektrik üretip üretmediği ve ne kadar üretebildiği bir yıl boyunca gözlenecek. 
+     Bir metre yüksekliğinde olacak rüzgar türbinlerinin istenilen şekilde enerji üretmesi durumunda, uygulama ülke genelinde yaygınlaştırılacak. 
+     Bu yöntemle elde edilecek enerjinin, öncelikle otoyolların ve caddelerin ışıklandırılmasında kullanılması planlanıyor. 
+     
+</TEXT>
+</DOC>

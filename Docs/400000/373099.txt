@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 373099 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/26/son/soneko41.html </URL>
+<DATE> 2005/08/26/ </DATE>
+<TIME> 17.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hisse senetleri geçen hafta yüzde 5.49 değer kazandı 
+</HEADLINE>
+<TEXT>
+
+     İMKB'de işlem gören hisse senetleri, haftalık bazda ortalama yüzde 5.49 değer kazandı. 
+     İstanbul Menkul Kıymetler Borsası İMKB Ulusal 100 Endeksi, haftalık bazda 1,563.54 puan artarak, 28,456.86 puandan 30,020.40 puana çıktı. 
+     24 ayar külçe altının gram satış fiyatı yüzde 1.29, Cumhuriyet altınının satış fiyatı yüzde 1.15 oranında değer kaybetti. Önceki hafta sonu 19.45 YTL olan 24 ayar külçe altının gram satış fiyatı 19.20 YTL'ye, 131.00 YTL olan Cumhuriyet altınının satış fiyatı 129.50 YTL'ye düştü. 
+     Serbest piyasada Amerikan Doları'nın satış fiyatı haftalık bazda yüzde 0.87 oranında kayıpla 1.3600 YTL'ye gerilerken, avro yüzde 0.12 oranında değer artışıyla 1.6720 YTL'ye çıktı. 
+     Yatırım fonlarına katılma belgeleri, geçen hafta ortalama yüzde 0.67 oranında değer kazandı. A tipi endeks haftalık bazda yüzde 2.55, B tipi endeks yüzde 0.20 arttı. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 328720 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/30/son/sonyas23.html </URL>
+<DATE> 2005/03/30/ </DATE>
+<TIME> 18.47 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+FDA yeni Hepatit B ilacını onayladı 
+</HEADLINE>
+<TEXT>
+
+     Amerikan Gıda ve İlaç Dairesi FDA , müzmin kronik hepatit B tedavisinde kullanılacak yeni ilacı onayladı. 
+     Bristol-Myers Squibb ilaç şirketi, entecavir adlı ağızdan alınacak ilacın hastalık virüsünü engellemek üzere üretildiğini bildirdi. 
+     Şirket, Baraclude ticari markasıyla satılacak ilacın nisan başında piyasaya verileceğini belirterek, klinik testlerde ilacın baş ağrısı, yorgunluk, baş dönmesi ve mide bulantısı gibi yan etkilerinin belirlendiğini kaydetti. 
+     Hepatit B'nin müzmin tipi karaciğere zarar veriyor, siroz ve karaciğer kanserinin belli başlı nedenleri arasında gösteriliyor. 
+     Hepatit B, halen irterferonla iğne yoluyla, lamivudine ve adefovir dipivoxil gibi ağızdan alınan ilaçlarla tedavi ediliyor. 
+     Hepatit B Vakfı, ABD'de halen 1 milyon 200 bin kişinin hepatit B olduğunu ve her yıl bu sayıya 100 bin kişinin eklendiğini bildiriyor. 
+     
+</TEXT>
+</DOC>

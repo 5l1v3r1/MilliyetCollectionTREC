@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 214486 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/11/son/soneko15.html </URL>
+<DATE> 2004/02/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Aracınız, paranız ve de çocuğunuz teknolojinin güvencesinde... 
+</HEADLINE>
+<TEXT>
+
+     Günlük yaşamı kolaylaştıran yeni teknolojiler, güvenlik konusunda velileri, para ve araç sahiplerini de rahatlatan uygulamalar sunuyor. 
+     Uluslararası Nakliyeciler Derneği UND Teknoloji Hizmetleri A.Ş.'nin uyguladığı araç takip sistemi sayesinde, kimliklere ve para torbalarına monte edilen incecik elektronik devre ile çocukların ve paraların taşıma araçlarında olup olmadığı takip edilebiliyor. Çalınan araçlar da maksimum 10 metre sapmayla bulunabiliyor. 
+     UND, Başarı Elektronik ve Turkcell ile birlikte geliştirdiği, daha sonra bununla ilgili tüm mobil veri hizmetleri, know-how, teknik ve insan altyapısını tamamen devraldığı araç takip sistemini geliştirerek farklı sektörlere hizmet vermeye başladı. 
+     İlk etapta uluslararası taşımacılık yapan filoların takibinde kullanılması için geliştirilen sistem yaygınlaşarak özel okul servisleri, finansal kuruluşların para nakli ile su ve gıda şirketlerinin dağıtım araçlarında da kullanılmaya başlandı. 
+     Sistem, anne babalara çocuklarını evlerinden kontrol etme imkanı sağlarken, para nakil araçlarındaki torbaların zırhlı araçtan uzaklaşması halinde önceden girilmiş adres ve numaralara otomatik e-mail ve kısa mesajla alarm veriyor. 
+     UND Teknoloji Hizmetleri A.Ş. İcra Kurulu Başkan Yardımcısı Haydar Özkan, AA muhabirine yaptığı açıklamada, sistemi geliştirdikten sonra Arnavutluk'a satış yaptıklarını, ayrıca Romanya, Moldova ve Azerbaycan pazarına gireceklerini söyledi. 
+     
+     İNSAN KAÇAKÇILIĞININ ÖNLENMESİNDE KULLANILABİLİR 
+     Araç takip sisteminin insan kaçakçılığının önlenmesinde de kullanılabileceğini anlatan Özkan, sistem sayesinde, aracın üzerine monte edilen cihaz üzerinden uyduyla iletişim kurmak suretiyle aracın sahibi tarafından veya yetkilendirdiği müşteri tarafından kolon bilgisinin düzenli olarak alınabildiğini ifade etti. 
+     Sistemin bu özelliği nedeniyle insan kaçakçılığı konusunda büyük sorunlar yaşayan Hollandalıların ilgisini çektiğini belirten Özkan, ''Görüşmeler yapıyoruz. Ancak çok hassas ve pahalı sensörler gerektiren sistemin insan kaçakçılığının önlenmesinde kullanılabilmesi şu aşamada zor gibi. Hollandalılar, ilerde bazı duyumlar aldıklarında belki bizden yardım talep edebilirler'' dedi. 
+     Özkan, sistemi kullanan müşterilerin yüzde 55'ini uluslararası taşımacılık dışındaki sektörlerin oluşturduğunu bildirdi. 
+     Sistemin okul servislerinde, isteyen anne babaların çocuklarının servis aracında olup olmadığını kontrol etmekte kullanıldığına dikkat çeken Özkan, ''Öğrenci kimliklerinin üzerine çok incecik elektronik devre monte edildi. Okul servisinde de o devreyi fark eden bir anten mevcut. Dolayısıyla öğrenci okul servisine bindiği zaman, annesi veya babası internet üzerinden sisteme girerek çocuğunun okul servisinde olup olmadığını belirleyebiliyor'' şeklinde konuştu. 
+     Müşterileri arasında bir finansal kuruluşun da bulunduğunu bildiren Özkan, sistemin hem para nakil araçlarını hem de içindeki para torbalarını öğrenci takibine benzer elektronik bir devreyle izlediğini, para torbalarının zırhlı araçtan uzaklaşması halinde hemen daha önceden girilmiş adres ve numaralara otomatik e-mail ve mesajla alarm verildiğini söyledi. 
+     Sistemle ilgili büyük bir kargo şirketiyle temas halinde olduklarını anlatan Özkan, bu sektörde de elektronik tablet PC sayesinde gönderiyi yapan kişinin sisteme girerek gönderinin nerede olduğunu rahatlıkla görebileceğini kaydetti. 
+     Haydar Özkan, sistemin kullanım maliyetinin en az 500 dolar olduğunu, rakamın istenilen takip düzeyiyle doğru orantılı olarak arttığını belirtti. 
+     
+     ÇALINAN ARACI BULUYOR 
+     Araç takip sisteminin performans ölçümünde bile işe yaradığını vurgulayan Özkan, şunları kaydetti 
+     ''Örneğin bir nakliye şirketisiniz. Şoförlerinizin maaş zamlarını, size daha çok kazandıranları göz önünde bulundurarak gerçekleştirmek istiyorsanız, sistem şoförünüzün geçen yıl kaç sefere gittiğine, kilometrede ortalama kaç litre yakıt tükettiğine bakıyor. Tüm bu doneleri alıp, size en yüksek performanslı şoförünüz bu diyebiliyor. Yani bir nevi performans değerlendirmesinde karar destek sistemi gibi işliyor. 
+     Sistem, bireysel olarak da ihtiyaçlara cevap verebiliyor. Aracınızı evinizin uzağına park ettiğinizde, çalan alarmı duymama halinde otomatik olarak telefonunuza haber iletiyor. Aracınız çalındığında ise maksimum 10 metre sapmayla yerini buluyor.'' 
+     
+</TEXT>
+</DOC>

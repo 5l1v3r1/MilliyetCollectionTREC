@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 303201 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/03/son/sonyas20.html </URL>
+<DATE> 2005/01/03/ </DATE>
+<TIME> 15.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yılın en hırçın virüsleri... 
+</HEADLINE>
+<TEXT>
+
+     2004, bilgisayar virüslerinin nelere yol açabileceğini en iyi gözlemlediğimiz yıl oldu. Çünkü geçtiğimiz yılın virüsleri kullandığı tekniklerle biz ve antivirüs şirketlerine k buslar yaşatırken yazarlarını da meşhur etti. 
+     Sene başında kendini gösteren Mydoom, sene boyunca en etkili virüs listesinin ilk sıralarını hiç terk etmedi. İlk günlerini yaşadığımız 2005'te bile h l aynı virüsün etkileri devam ediyor. Virüsü yazanların 'başına' ödül konulması da yine ilk defa bu virüse 'nasip oldu'. Windows yüklü bilgisayarları etkileyen Mydoom'un yazarını yakalatana Microsoft 250 bin dolarlık ödül vaat etti. FBI da bu konuda yoğun araştırmalar yürüttü. Microsoft virüsü silen yamayı dağıtmasına rağmen birçok kullanıcı bunu yüklemedi bile. 
+     2004'ün diğer belalarıysa aynı virüsten türetilen Bagle ve Netsky oldu. Bu iki 'mikrop' yarattığı sorunlar yetmez gibi bir de kendi aralarında savaşmaya başladı. Bilgisayara hangisi bulaşırsa diğerini silip mektuplarla diğer virüs yazarı gruba hakaret eden mesajlarla diğer bilgisayarlara yol aldı. Araştırmalara göre sadece 2004'ün ilk üç ayında virüslerin maddi zararı 128 milyar dolardı. 
+     
+     Şöhret mahk mu 
+
+     Sene ortasına doğru Netsky ve Sasser tabanlı 28 virüsün yazarı 18 yaşındaki Alman Sven Jashcan yakalandı ve suçunu itiraf etti. Jashcan'ı ihbar edenin Microsoft'tan ödülü alıp almadığıysa açıklanmadı. İlginç bir gelişme olarak Jashcan yargılanırken Secure Point adlı Alman yazılım şirketi tarafından güvenlik yazılımı geliştirmesi için işe alındı 
+     Bilgisayarda sürekli reklamlar açan, internet başlangıç sayfalarını porno sitelerle değiştiren ve şifreleri çalarak yazarlarına yollayan casus yazılımlar spyware geçtiğimiz yıla damgasını vurdu. Yapılan araştırmalara göre şu an her bilgisayarda ortalama 28 adet bu tip yazılım yüklü olduğu ortaya çıktı. Virüslerde de durum değişmiyor. Internet Storm Center'ın araştırmasına göre dünyada yaklaşık 100 milyon Windows yüklü bilgisayar hiçbir koruma olmadan internete bağlı durumda. Aynı araştırmanın sonucuna göre internete bağlanan korumasız bir bilgisayara en fazla 20 dakika içinde virüs ya da casus yazılım bulaşıyor. Yollanan her 12 mektuptan birinin virüslü olduğu da bir diğer araştırma sonucu olarak karşımıza çıktı. 
+     2004'ün diğer ilkleriyse 64 bit ve cep telefonu virüsleri oldu. 64 bitlik Intel mimarisini hedefleyen ilk virüsün adı Rugrat olarak kayıtlara geçti. Cabir adıysa yine geçtiğimiz yıl ilk defa hayatımıza giren cep telefonu virüsü oldu. Bulaşmak içinse bluetooth bağlantısını kullanıyordu. Geçtiğimiz yılın virüslerinin en 'geliştiği' alanlar bulaşma ve kendini gizleme tekniği oldu. Her virüs daha ilginç yöntemlerle bu iki alanda kendini gösterdi. Hatta geçen sene JPG resimlerle bulaşan virüsleri bile tanıdık. Tahminler 2005'in daha 'bereketli' geçeceğini gösteriyor. 
+     
+</TEXT>
+</DOC>

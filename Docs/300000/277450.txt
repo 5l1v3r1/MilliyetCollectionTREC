@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 277450 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/05/son/soneko26.html </URL>
+<DATE> 2004/10/05/ </DATE>
+<TIME> 12.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tüzmen Teknolojiyle uğraşan insanların beynine vergi getirmemek lazım 
+</HEADLINE>
+<TEXT>
+
+     Devlet Bakanı Kürşad Tüzmen, bilgi teknoloji sektörüne, devlet olarak daha fazla destek vermek gerektiğini vurgularken, ''bu sektörde uğraşan insanların beynine vergi getirmemek lazım'' dedi. 
+     Tüzmen, Türkiye Bilişim Derneği tarafından ODTÜ Kongre ve Kültür Merkezi'nde düzenlenen ''21. Ulusal Bilişim Kurultayı'nda yaptığı konuşmada, bilişim teknolojisinde, gelişmişlik seviyeleri ne olursa olsun bütün toplumları ve dolayısıyla Türkiye'yi doğrudan ilgilendiren köklü bir değişim ve dönüşüm yaşandığını söyledi. 
+     Değişim sürecinin başında internetin yer aldığını anlatan Tüzmen, internet ile kişisel bilgisayarın birleşerek, her gün milyonlarca kişinin karşılıklı etkileşim içinde bulunduğu, sanal bir ortamın oluşturulduğunu kaydetti. 
+     Yeni teknolojilerin yaygınlaşması ve günlük hayata nüfus etmesinin, Türkiye'de de hızlı şekilde gerçekleştiğini vurgulayan Tüzmen, bu gün artık Türkiye nüfusunun yaklaşık yüzde 7'sinin 5 milyon kişi internet kullandığını hatırlattı. 
+     Tüm dünyada olduğu gibi, kişisel bilgisayar ve internet erişimi imkanlarının sürekli artmasının, ''e-ticaret'' potansiyelini olağanüstü büyüttüğünü anlatan Tüzmen, bu nedenle Türkiye'de de bu ticaretin gelişmesi ''e-Dönüşüm Türkiye'' çalışmalarına hız verildiğini söyledi. 
+     Bakan Tüzmen, e-dönüşüm Türkiye Projesi Kısa Dönemli Eylem Planı çerçevesinde bir araya gelen kamu, özel ve sivil toplum kuruluşlarının, ''şirket sicil kayıt sisteminin oluşturulması, kobilerde e-ticaret ve e-iş bilincinin oluşturulması, ortak ek ticaret bilgi havuzunun oluşturulması, dış ticarette kullanılan bilgi ve belgelerin elektronik ortamda paylaşılması, dış ticarette e-belgenin uluslararası dolaşımının sağlanması' gibi konularda ortak çalışmalar yürüttüğünü kaydetti. 
+     
+     GÜMRÜK MÜSTEŞARLIĞI VE DTM'DE YAPILAN ÇALIŞMALAR 
+     Konuyla ilgili dış ticaret ve gümrük müsteşarlıklarında yapılan çalışmalara da değinen Bakan Tüzmen, Türkiye'de ilk defa ticaret noktaları programına ilişkin çalışmaların, 1994 yılında İhracatı Geliştirme Merkezi İGEME bünyesinde başlatıldığını ve İGEME'nin web sitesinde ihraç ürünleri ile ihraç pazarlarına ait bir çok bilginin yer aldığını söyledi. 
+     Gümrük Müsteşarlığı'nda ise bilişim teknolojilerinin yaygınlaştırılmasına ilişkin projelerin hızla devam ettiğini anlatan Tüzmen, bu çerçevede özellikle transit alanında geliştirilen uygulamaların AB komisyonunca da taktir edilir nitelikte bulunduğunu kaydetti. 
+     Diğer taraftan ihracat işlemlerinde, ciddi bir basitleştirme ve hızlandırmaya neden olan 'elektronik' birlik kaydının başlatıldığını hatırlatan Tüzmen, 2003 yılında uygulamaya konulan sistemle ihracat işlemlerinin yüzde 75'inin, elektronik olarak birlik kaydı alır hale geldiğini belirtti. 
+     
+     BİLGİ TEKNOLOJİLERİ SEKTÖRÜNE DESTEK 
+     Konuşmasında, bilgi teknolojileri sektörünün gelişmesinin özellikle dünya ile rekabet açısından büyük önem taşıdığına işaret eden Bakan Tüzmen, bu nedenle sektörün devlet tarafından daha fazla desteklenmesi gerektiğini söyledi. Tüzmen, şöyle konuştu 
+     ''Biraz geniş düşünmek lazım. Bu sektörde çalışan, bu sektörde uğraşan insanların beynine vergi getirmemek lazım. Vergisiz ortamda o beyinler çalışmalı, rahat bir ortamda çalışmalı ki ondan sonra bir şeyler üretebilsinler. Bu sektörün ayağa kalkabilmesi için, bir avantaj sahibi olması lazım. O destek de beyinlerden vergi almamak... Beyin varsa, ondan vergi almayın biraz daha durun. Bu insanları ürküttüğünüz zaman, Kaliforniya'daki Silikon Vadisi'nde, ya da Tayvan'daki, Endonezya'daki bilim parklarında görüyoruz.'' Bilgi teknolojileri sektörünün, Türkiye'de ciddi bir bilgi teknolojisi potansiyeli olduğunu ve bu sektörün devlet desteğinden öncelikli olarak yararlanması gerektiğini vurgulayan Tüzmen, bilgi teknolojileri alanında faaliyet gösteren şirketlerin hali hazırda uygulanan destek mekanizmaları bakımından öncelikli olduğunu da kaydetti. 
+     
+</TEXT>
+</DOC>

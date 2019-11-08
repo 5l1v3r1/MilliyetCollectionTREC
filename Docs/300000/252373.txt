@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 252373 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/02/yasam/yas08.html </URL>
+<DATE> 2004/07/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Biri bizi 'frenliyor' 
+</HEADLINE>
+<TEXT>
+
+
+DIŞ HABERLER SERVİSİ 
+
+İngiliz hükümeti, otomobillere yerleştirilecek bilgisayarlarla, sürücülerin hız limitleri içerisinde hareket etmelerini teşvik etmeyi amaçlıyor. 'Akıllı Hız Uyarlaması' adı verilen sistem, uydu yardımıyla çalışan 'Küresel Yer Belirleme' GPS üniteleri aracılığıyla, otomobilin bulunduğu bölgeyi tespit edecek. Ülkede uygulanan ulusal hız limitlerine ait verileri toplayan bilgisayar, GPS'in gönderdiği bölge koordinatlarında yer alan hız limitiyle aracın hızını karşılaştıracak. Bilgisayar, hız limitinin aşılması halinde, sürücüyü sinyal sesiyle uyaracak ve gaz pedalı titremeye başlayacak. Yetkililer, sistemin isteyen sürücülerin aracına takılacağını belirtti. 
+
+
+
+</TEXT>
+</DOC>

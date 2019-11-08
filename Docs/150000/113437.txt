@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 113437 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/10/17/son/sondun08.html </URL>
+<DATE> 2002/10/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayarlarda yeni virüs alarmı... 
+</HEADLINE>
+<TEXT>
+
+     Antivirüs yazılım firmaları tarafından yeni saptanan bir virüs, bilgisayar sistemine bulaştıktan sonra yapılan işleri takip ederek, şifreleri virüs yazarına gönderiyor. 
+     ''Dikey8'' internet dergisinde yer alan habere göre, ''W32.Bugbear mm'' adı verilen virüs, bilgisayar sistemlerinde hızla yayılmaya başladı. Virüs, Windows 95, Windows 98, Windows NT, Windows 2000, Windows Xp ve Windows Me'de etkili oluyor. 
+     Değişken bir e-mail konu başlığı ile yayılan virüs, yine ana gövdeye monte edilen ve uzantısı ''.exe'', ''.scr'' veya ''.pif'' olan bir dosyayı da beraberinde getiriyor. 50.668 byte büyüklüğündeki virüs, 36794 numaralı port'u ileti kapısı kullanıyor ve ağ üzerindeki tüm paylaşılan sürücülere bulaşıyor. Son derece akıllı olan virüs, sisteme bulaştığında mevcut antivirüs ve firewall güvenlik duvarı yapılarını devre dışı bırakıyor ve kapatıyor. 
+     Virüs, adres listesindeki şahıslara kendisini, kullanıcının SMTP Simple Message Transfer Protocol sunucu adresini kullanarak gönderiyor. Virüs, bulaştıktan sonra sistemde yapılan işleri takip ederek, şifreleri virüs yazarına gönderiyor. Virüs, SYMANTEC firmasının yazılımı olan ''FxBgBear.exe'' isimli dosya ile bilgisayarlardan silinebiliyor. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

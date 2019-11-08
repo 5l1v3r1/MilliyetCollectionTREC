@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 123554 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/12/09/son/soneko36.html </URL>
+<DATE> 2002/12/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası güne düşüşle başladı 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası güne düşüşle başladı. 
+     Borsanın açılışında, cuma gününe göre, Dow Jones Endeksi 67 puan azalarak 8,578 puana, Nasdaq Endeksi de 15 puan azalarak 1.407 puana indi. 
+     Borsanın düşüşünde ABD'nin ikinci büyük havayolu şirketi United Airlines'ın iflası ile aralarında bilgisayar devi IBM'nin de bulunduğu bazı büyük şirketler hakkındaki olumsuz yatırım raporları etkili oldu. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

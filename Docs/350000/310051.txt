@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 310051 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/27/son/sonyas05.html </URL>
+<DATE> 2005/01/27/ </DATE>
+<TIME> 07.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Erken deprem uyarı uydusu .. 
+</HEADLINE>
+<TEXT>
+
+     Rus ve Meksikalı bilim adamlarının, erken deprem uyarı sinyallerini saptamayı amaçlayan yüksek teknolojili bir uydu üzerinde çalıştıkları bildirildi. 
+     Meksika Özerk Ulusal Üniversitesi UNAM , Moskova Devlet Üniversitesi ile ortak yaptıkları projenin yaklaşık 3 yıl içinde tamamlanarak uydunun uzaya gönderileceğini açıkladı. 
+     UNAM'ın açıklamasında, ''nano-uydu''nun yaklaşık 10 kilogram ağırlığında olmasının planlandığı ifade edildi. Bir deprem olduğunda radon gazı salınımının, elektronların iyonosfer tabakasındaki yoğunluğunu değiştirdiği belirtilen açıklamada, ''nano uydu''nun bu değişikliği saptayarak Meksiko'nun güneyindeki UNAM'da bulunan alıcıya uygun bir sinyal göndereceğini umdukları kaydedildi. 
+     Açıklamada, projeyle ilgili UNAM Rektörü Juan Ramon de la Fuente ile Moskova Devlet Üniversitesi Skobeltsyn Nükleer Fizik Enstitüsü Direktörü Mijail Panasyuk arasında anlaşmaya varıldığı bildirildi. 
+     Her yıl yüzlerce küçük depremin meydana geldiği Meksika'da 1985'deki 8.1 büyüklüğünde depremde 9500, 1995'te 8 büyüklüğündeki depremde 49 kişi ölmüştü. 
+     
+</TEXT>
+</DOC>

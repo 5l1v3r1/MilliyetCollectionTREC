@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 297534 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/14/son/soneko01.html </URL>
+<DATE> 2004/12/14/ </DATE>
+<TIME> 02.01 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones endeksi 10 bin 640 puandan kapandı 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacminde dünyanın en büyük borsası New York Wall Street'in Dow Jones Sanayi Endeksi, 97.69 puan artışla binde 9.3 günün son seansını 10.640.91 puandan kapadı. 
+     Teknoloji firmalarının ibresi Nasdaq Birleşik Endeksi de, 19.87 puan artışla binde 9.3 2.147.94 puandan noktalandı. 
+     Wall Street, haftanın ilk işlem gününde açılışta yükseldi. 
+     Yazılım şirketleri Oracle ve PeopleSoft arasında 18 aydır süren birleşme görüşmelerinin olumlu sonuçlanması yanında Kasım ayı perakende satışlarının yüzde 0.1 yükseldiğinin açıklanması, borsanın yükselmesinde etkili oldu. 
+     
+</TEXT>
+</DOC>

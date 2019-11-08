@@ -1,0 +1,56 @@
+<DOC>
+<DOCNO> 333124 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/13/son/sonyas16.html </URL>
+<DATE> 2005/04/13/ </DATE>
+<TIME> 11.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türkiye interneti 12 yaşında... 
+</HEADLINE>
+<TEXT>
+
+     Bilişim çevrelerinde ''İkinci Sanayi Devrimi'' olarak adlandırılan internetin Türkiye'de kullanımı hızla yayılıyor. Türkiye'de 12 yıl önce başlayan devrimden bugün 7 milyon kullanıcı yararlanıyor. 
+     Türk kullanıcılar sayı olarak gelişmiş ülkelerle yarışamasa da Türkiye'de internete olan ilgi her geçen gün artıyor. Bugün Türkiye'de internet kullanıcı sayısının 7 milyona, internete bağlı bilgisayar sayısının ise 250 bine ulaştığı tahmin ediliyor. 
+     
+     TÜRKİYE'DE İLK BAĞLANTI... 
+     Internet teknolojisi Türkiye'ye ilk olarak, 1987 yılında Ege Üniversitesi'nin öncülüğünde kurulan, Türkiye Üniversite ve Araştırma Kurumları Ağı ile geldi. 
+     Türkiye ilk kez internetle, 12 Nisan 1993 tarihinde ODTÜ'den Ankara-Washington arasında kiralık hat kurularak yurtdışıyla sağlanan bağlantı sayesinde tanıştı. Bu nedenle 12 Nisan tarihi, Türkiye'de internetin ''doğum günü'' olarak kabul edildi. 
+     Aynı yıl ODTÜ ve Bilkent üniversiteleri ilk Türk web sitelerini yayına verdi. 64kbit sn hızında olan bu 2 hat, çok uzun bir süre tüm ülkenin tek çıkışı oldu. Ege Üniversitesi'nden olan bağlantı ise 1994 başlarında, 64kbit sn. hızı ile devreye girdi. 
+     1994 yılında da kurumlara ve firmalara internet hesapları verilmeye başlandı. Bu arada ilk internet servis sağlayıcı ''tr.net'' de hizmete girdi. Ardından sırayla, Bilkent Üniversitesi 1995 Eylül , Boğaziçi Üniversitesi 1995 Kasım ve İstanbul Teknik Üniversitesi 1996 Şubat bağlantıları sağlandı. 
+     
+     TR UZANTILI 71 BİN WEB SİTESİ 
+     1993 yılında ODTÜ ve Bilkent'in yaptığı ''tr'' uzantılı iki web sitesiyle başlayan internet yolculuğunda günümüzde ''tr'' uzantılı web sitesi sayısı, 71 bin 346'ya ulaştı. 
+     Yurtdışından da alınan alan adları ile birlikte Türkiye'ye yönelik internet sitesi sayısının yaklaşık 300 bin olduğu tahmin ediliyor. 
+     Özel sektörün internete gösterdiği ilgi ve yatırımların artması, 2000'li yıllarda kısa sürede bir ''internet patlaması'' yaşanmasına neden oldu. 
+     Türkiye'nin ilk internet altyapısı olan TURNET, 1996 yılında devreye girdi ve ''İnterneti öldürmeyin'' başlıklı ilk sanal miting gerçekleştirildi. 
+     1998 yılında da Ulaştırma Bakanlığı bünyesinde İnternet Üst Kurulu oluşturuldu. 
+     
+     DÜNYADA İNTERNET 
+     Internet'in ortaya çıkışı, Amerikan Federal Hükümeti Savunma Bakanlığı'nın araştırma ve geliştirme kolu olan ''Savunma İleri Düzey Araştırma Projeleri Kurumu''na DARPA-Defence Advanced Research Project Agency dayanıyor... 
+     Dünyada ilk internet çalışmaları, ''paket anahtarlamalı ağ'' sistemiyle 1969 yılında ABD Savunma Bakanlığı'nda ARPANET'in kurulması ile başladı. 1969 yılında Amerikan Savunma Bakanlığı, bilgisayar bilimlerini ve çeşitli askeri araştırma projelerini desteklemek için ARPANET adında Paket Anahtarlamalı Ağ'ı oluşturmaya başladı ve bu ağ, ABD'deki üniversite ve araştırma kuruluşlarının değişik tipteki bilgisayarlarını da içererek büyüdü. 
+     Bu süreçte ağ için bir protokol seti geliştirmek amacıyla Stanford Üniversitesi'nde 1973 yılında bir ''internetworking'' projesi başlatıldı. İlk e-posta adres formatı ve telnet protokolünün dokümanı 1972 yılında yayınlandı. 
+     
+     HARVARD'LI ÖĞRENCİNİN BAŞARISI... 
+     Yerel alan ağı protokolü olan Ethernet ise ilk kez 1974 yılında Harvard Üniversitesindeki bir öğrenci tarafından ortaya konuldu ancak ilk anda yeterince analitik olmadığı gerekçesiyle reddedildi. Fakat daha sonra ilave edilen özellikleri ile üniversite tarafından kabul gördü. 
+     İlk internet omurga ağı, 1986 yılında NSFNet National Science Foundation-Ulusal Bilim Vakfı tarafından oluşturuldu. Bu süreci takiben, internetin halka açık hale gelmesi 1989 yılından sonra oldu. 
+     1990 yılının Haziran ayında TCP IP'nin ilk kullanıldığı ağ olan ARPANET'in kullanımdan kaldırılması üzerine bu ağın yerini, ABD, Avrupa, Japonya ve Pasifik ülkelerinde ticari ve hükümet işletimindeki omurgalar backbone aldı. TCP IP ve internet, 90'lı yıllardan itibaren büyük bir ivme kazanırken internetin ticari anlamda gelişimi, 1991 yılından itibaren oldu. 
+     
+     BİLGİSAYARLAR ARASI İLETİŞİM 
+     1977-1978 yıllarında Ethernet ve TCP IP Transmission Control Protocol Internet Protocol üzerinde yapılan çalışmalar sonrasında geliştirilen protokol, 1980 yılında ARPANET üzerinde kullanılmaya başlandı ve bu sayede ağa bağlı bilgisayarlar arasındaki iletişim kolay biçimde yapıldı. 
+     Daha sonra 1983 yılında tüm ARPANET ağı üzerinde kullanılmakta olan NCP'den Network Control Protocol TCP IP'ye geçildi ve aynı yıl TCP IP, ARPANET'i de içeren Savunma Bakanlığı internetinde kullanılmak üzere standartlaştırıldı. 
+     
+     KULLANICILARA AÇILIYOR 
+     1986 yılında internet erişimi için 56 Kbps omurga üzerinde NSFNet National Science Foundation kuruldu ve ticari kullanımlar dışındaki tüm kullanıcıların hizmetine sunuldu. 
+     E-mail, FTP ve telnet protokollerinin standartları oluşturuldu ve teknik olmayan kişiler tarafından kolay kullanılır hale dönüştürüldü. 
+     İnternetin ilk kullanıcıları, üniversiteler, araştırma kurumları ve kütüphaneler oldu. Kurulan ağ üzerinde bilgi dosya arşiv paylaşımına yönelik çalışmalar 1989 yılında başladı. 
+     FTP sitelerinin arşivlerinin oluşturulmasına ve bilginin internet üzerinde paylaşılmasına olanak sağlayan Archie sistemi, 1989 yılında Montreal McGill Üniversitesinde geliştirildi. Ancak Amerika ve Kanada arasındaki trafiğin yarısını Archie'nin oluşturması nedeniyle üniversitedeki sistemin yükü artınca üniversite, Archie'yi dış erişime kapattı. 
+     Aynı yıllarda Thinking Machines Corp. tarafından veri tabanlarındaki tüm text dosyaların indekslenmesine ve internet üzerinden tarama yapılabilmesine olanak sağlayan WAIS Wide Area Information Server geliştirildi. 
+     Daha sonra, 1991 yılında Minnesota Üniversitesi'nde internet üzerindeki bilgilere ve dosyalara bir menü sistemi aracılığıyla erişilmesini sağlayan ve istemci sunucu client server mimarisi üzerinde çalışan gopher sistemi oluşturuldu. Bunu sırasıyla Veronica Very Easy Rodent-Oriented Netwide Index to Computerized Archives ve JUGHEAD Jonzy's Universal Gopher Hierarchy Excavation And Display sistemleri izledi. 
+     
+     ''WWW'' DOĞUYOR 
+     Internet üzerindeki bilgi dosya ve arşivlere kolay ve hızlı erişimin sağlanabilmesi amacıyla 1989 yılında CERN European Laboratory for Particle Physics de bir başka çalışma başlattı. Bu çalışma 1991 yılında www World Wide Web protokolü adı altında kullanılmaya başlandı. 
+     1993 yılında NCSA National Center For Supercomputing Applications tarafından bu protokol üzerince çalışan grafik ara yüzlü bir yazılım olan ''Mosaic'' geliştirildi. Bu tarayıcıyı daha sonra Netscape ve Explorer gibi tarayıcılar izledi. 
+     
+</TEXT>
+</DOC>

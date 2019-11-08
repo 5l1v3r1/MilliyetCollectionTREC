@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 231310 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/14/son/soneko48.html </URL>
+<DATE> 2004/04/14/ </DATE>
+<TIME> 16.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa günü yüzde 2.23'lük kayıpla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Bileşik Endeksi 2. seansta 550.45 puan düşüşle 18,678.22 puandan kapandı. 
+     Hisse senetleri 2. seansta ortalama yüzde 2.86 oranında değer yitirdi. 
+     İlk seanstaki 124.31 puanlık artış dikkate alındığında Borsa endeksi, günün tamamında 426.14 puan geriledi. Hisse senetlerindeki günlük değer kaybı da yüzde 2.23 oldu. 
+     İkinci seansta maksimum 19,410 puanı gören endeks, özellikle yurt dışı borsalardaki gerilemelere bağlanan düşüş nedeniyle 19,000 puanın altında kapanış yaptı. 
+     
+</TEXT>
+</DOC>

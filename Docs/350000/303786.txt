@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 303786 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/05/son/sontur12.html </URL>
+<DATE> 2005/01/05/ </DATE>
+<TIME> 10.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+"Yargıtay'ın baz istasyonu kararı GSM sektörünü sekteye uğratır" 
+</HEADLINE>
+<TEXT>
+
+     Telekomünikasyon Kurumu, Yargıtay'ın Aycell'in bir apartmanda kurulu baz istasyonunu kaldırması gerektiği yolundaki kararını, ''mobil telefon sektörünü sekteye uğratacak bir karar'' olarak değerlendiriyor. 
+     Yargıtay'ın bir vatandaşın, komşu apartmanda kurulu baz istasyonunun kaldırılması istemiyle açtığı davanın temyizinde vatandaşı haklı görmesi ve baz istasyonunu kuran Aycell'in apartmandaki baz istasyonunu kaldırması gerektiği kararı üzerine, Telekomünikasyon Kurumu, emsal teşkil edebilecek kararın sektörü olumsuz yönde etkileyeceği görüşüne vardı. 
+     AA muhabirine konuyla ilgili değerlendirmelerde bulunan Telekomünikasyon Kurumu yetkilileri, mobil iletişimin kanunlarda kamu hizmeti olarak nitelendirildiğine, baz istasyonlarının da mobil iletişimin ana unsuru olduğuna işaret ettiler. GSM şirketleriyle imzalanan imtiyaz sözleşmelerinde 3 yılda ülkenin yarısının, 5 yıl sonra da yüzde 90'nın kapsama alanına alınması zorunluluğu getirildiğine dikkati çeken yetkililer, imtiyaz sözleşmelerinin Danıştay'ın da onayından geçtiğine vurgu yaptılar. 
+     Kurumun, yalnızca uluslararası standartlardaki baz istasyonu cihazlarına ithalat izni verdiğini, ayrıca kurulduktan sonra sağlık açısından da denetime tabi tuttuğunu belirten yetkililer, Dünya Sağlık Örgütü'nün belirlediği limitlere uygun olan baz istasyonlarına Güvenlik Sertifikası verildiğini kaydettiler. Yetkililer, ayrıca antenlerin kurulacağı yerlerin çevre kurullarının onayı doğrultusunda ve yönetmeliklerdeki kurallar çerçevesinde belirlendiğini kaydettiler. 
+     Yargıtay'ın söz konusu davada apartmandaki baz istasyonunun kaldırılması kararı üzerine Aycell'in bu baz istasyonunu kaldırması gerekiyor. Telekomünikasyon Kurumu yetkilileri, tüketicilerin benzer davalarında Yargıtay'ın kararı emsal gösterileceğinden, alınan karara ilişkin ''mobil sektörünü sekteye uğratacak bir karar'' değerlendirmesini yapıyor. 
+     Telekomünikasyon Kurumu, Aycell'in talep etmesi halinde Yargıtay'a yapılacak karar düzeltme talebinde, baz istasyonlarının kuruluşunun hukuki ve teknik gerekçeleri konusunda Aycell'e destek verecek. 
+     Türkiye'de bugüne kadar Turkcell, Telsim ve Avea, çevre kurullarından alınan izinler doğrultusunda belirlenen noktalara yaklaşık 24 bin adet baz istasyonu kurdu. 
+     
+</TEXT>
+</DOC>

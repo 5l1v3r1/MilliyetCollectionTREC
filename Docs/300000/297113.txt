@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 297113 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/13/ekonomi/eko05.html </URL>
+<DATE> 2004/12/13/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hızlı internet üniversiteli oldu 
+</HEADLINE>
+<TEXT>
+
+
+
+Sabit ücretle, hızlı ve kesintisiz internet bağlantısı ADSL'nin yaygınlaşması için Türk Telekom'un çalışmaları sürüyor. Telekom bu kapsamda ADSL'nin aylık kullanım ücretlerini düşürürken, diğer yandan değişik fiyatlı limitli - limitsiz bağlantı planları ile geniş bir kitleye hitap etmeyi hedeflemişti. Şirket ayrıca ülke genelinde okullara yaptığı altyapı yatırımı ile bugüne kadar 9 bin okula ADSL hizmetini götürdü. Tüm bu çalışmalar sonucunda şirket şu an ADSL'de 450 bine yakın abone kaydetmiş durumda. 
+Telekom'un bu konudaki son atağı ise, geçtiğimiz ay sonunda başlattığı okul ve üniversitelere özel abonelik kampanyası. Öğretmen ve öğrencilerin ADSL'den daha fazla yararlanabilmeleri için başlatılan kampanyada, bağlantı ücreti ve ilk ayın kullanım ücreti alınmıyor. Telekom ADSL tarifesine göre söz konusu kampanyadan yararlanacaklar limitsiz bağlantı için bağlantı ücreti ve ilk aylık kullanım ücreti ödemeyecek. Böylelikle 256 Kbps'de 108 milyon - 2048 Kbps için ise 328 milyon TL civarında avantaj sağlanmış oluyor. 31 Aralık 2004'e kadar sürecek ve Milli Eğitim Bakanlığı'na bağlı okulların her birine 200, üniversitelerin her birine ise 1.000 aboneliğe kadar kontenjan tanınıyor. 
+
+Telekom'dan SMS 
+Bu arada yeni yatırım çalışmaları devam eden Türk Telekom'un Genel Müdürü Mehmet Ekinalan, önümüzdeki günlerde iki yeni servisi daha kullanıma açacaklarını söyledi. Buna göre, Telekom aboneleri yakında 'telesekreter' ve 'sabit hat'tan kısa mesaj alıp - gönderme' hizmetlerini kullanmaya başlayacaklar. Sabit hat'tan SMS servisi ile sistemi destekleyen telefonlardan cep telefonlarına kısa mesaj gönderilip, yanıt alınabilecek. 
+
+
+</TEXT>
+</DOC>

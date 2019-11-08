@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 362742 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/20/son/soneko36.html </URL>
+<DATE> 2005/07/20/ </DATE>
+<TIME> 16.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+KoçSistem'e, Microsoft'tan ödül... 
+</HEADLINE>
+<TEXT>
+
+     KoçSistem, Microsoft Türkiye tarafından ''Yılın Teknoloji Yaygınlaştırıcısı Ödülü''ne layık görüldü. 
+     KoçSistem'den yapılan açıklamada, Microsoft Türkiye'nin doğrudan büyük ölçekli kurumsal satış gerçekleştiren iş ortakları arasında yapılan değerlendirmede, KoçSistem'in, geçtiğimiz bir yıl içerisinde yaptığı Microsoft Kurumsal Satış Anlaşmaları ile Microsoft teknolojilerinin yaygınlaştırılması konusunda sağladığı başarı nedeniyle bu ödüle değer görüldüğü bildirildi. 
+     
+</TEXT>
+</DOC>

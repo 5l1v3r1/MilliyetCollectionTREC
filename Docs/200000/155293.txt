@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 155293 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/08/son/sondun10.html </URL>
+<DATE> 2003/05/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+SARS'ta yaş arttıkça ölüm oranı artıyor.. 
+</HEADLINE>
+<TEXT>
+
+     Dünya Sağlık Örgütü DSÖ , akut solunum yetmezliği sendromuna SARS yakalananlarda yaş arttıkça ölüm oranının da artığını bildirdi. 
+     Örgütün internet sitesinde yayınlanan açıklamada, bazı yaş gruplarında SARS'tan ölüm oranının yüzde 50'yi bile aştığı belirtildi. 
+     DSÖ, son zamanlarda daha ayrıntılı tam veriler ve güvenilir metodların sonuçları itibarıyla, yaş gruplarına göre ölüm oranının 0'dan yüzde 50'lere kadar çıktığını, hastalığın ortalama öldürme oranının ise yüzde 14-15 seviyelerinde olduğunu bildirdi. 
+     Örgüt, 24 ve daha genç yaştakilerde SARS'tan ölüm oranının yüzde 1'den az olduğunu, 25 ila 44 yaşları arasında yüzde 6, 45 ila 64 yaşları arasında yüzde 15 ve 65 yaş ve üzerinde ise yüzde 50'den fazla olduğunu kaydetti. 
+     Açıklamada, bir kişinin SARS'tan ölmesine SARS virüsünün yapısı, virüsün miktarı ve ortaya çıktığı ortamla, yaş ve başka hastalığı bulunma gibi personel faktörlerin etkili olabileceği belirtildi. 
+     DSÖ, hastalığın kuluçka süresinin ise hala 10 gün olarak tahmin edildiğini bildirdi. 
+     
+</TEXT>
+</DOC>

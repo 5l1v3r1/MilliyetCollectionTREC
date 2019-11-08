@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 203173 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/19/son/sondun19.html </URL>
+<DATE> 2003/12/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Beagle-2 uzay aracı Mars'a gidiyor .. 
+</HEADLINE>
+<TEXT>
+
+     ''Beagle-2'' adlı uzay aracı, Mars'a inmek üzere, Avrupa Uzay Ajansı'nın AUA uzay aracı ''Mars Ekspresi''den fırlatıldı. 
+     İngiliz yapımı uzay aracının, 6 gün sonra Noel sabahı Kızıl Gezegen'e inmesi bekleniyor. 
+     Yetkililer, fırlatmanın başarılı olup olmadığını en az 2 satten önce teyit edemeyeceklerini söylediler. 
+     ''Mars Ekspresi'', kızıl gezegene doğru 400 milyon kilometre yol katettiği yolculuğuna, Haziran başında başlamıştı. 
+     ''Mars Ekspresi'', yörüngede seyrederken, en az 1 Mars yılı 687 gün boyunca gezegeni ve atmosferini gözlemleyecek, Beagle-2 de indiği ekvator bölgesinde yaşam izi arayacak. 
+     Bu araştırma sırasında, ''Beagle-2'' ve ''Mars Ekspresi''nde bulunan son derece gelişmiş aygıtlar kullanılacak. Bu aygıtlar arasında, yeraltı sondaj radarı, yüksek çözünürlüğe sahip kamera, atmosferi ve yüzeyi inceleyecek tayfölçerler, plazma analiz aygıtı bulunuyor. 
+     ''Beagle-2''nin fazlasıyla hassas ''burnu'', gaz analizi yaparak, eskiden ya da halihazırda biyolojik faaliyet olup olmadığını anlayacak. ''Burun'', çevrede biyolojik süreçlere katılmış olabilecek karbonat varsa bunları ve metan gibi değişik gazları tespit edecek. 
+     ''Beagle-2'' ayrıca, toprak altından ya da kaya diplerinden numune alacak. Bu işlemi, ''köstebek'' adı verilen aletiyle yapacak. ''Köstebek'', yüzeyde 6 saniyede 1 cm yol alabilen ve kazarak 2 metre derine inebilen bir alet. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 384819 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/07/son/soneko54.html </URL>
+<DATE> 2005/10/07/ </DATE>
+<TIME> 18.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Geçen hafta hisse senetleri ortalama yüzde 0.24 değer kazandı 
+</HEADLINE>
+<TEXT>
+
+     İMKB'de işlem gören hisse senetleri haftalık bazda ortalama yüzde 0.24 değer kazandı. 
+     İstanbul Menkul Kıymetler Borsası İMKB Bileşik Endeksi, haftalık bazda sadece 80.38 puan artarak 33,333.23 puandan 33,413.61 puana yükseldi. 
+     24 ayar külçe altının gram satış fiyatı değişmezken, Cumhuriyet altınının satış fiyatı yüzde 0.36 oranında düştü. 
+     Önceki hafta sonu 20.10 YTL olan 24 ayar külçe altının gram satış fiyatı değişmeyerek 20.40 YTL'de kaldı, 138.00 YTL olan Cumhuriyet altınının satış fiyatı 137.50 YTL'ye geriledi. 
+     Kapanışta bugün, Amerikan Doları'nın satış fiyatı haftalık bazda bir değişim göstermezken, avronunki yüzde 0.62 yükselerek 1.6340 YTL'ye çıktı. 
+     Yatırım fonlarına katılma belgeleri geçen hafta ortalama yüzde 0.47 oranında artış kaydetti. A tipi endeks haftalık bazda yüzde 0.77, B tipi endeks yüzde 0.38 yükseldi. 
+     İMKB Tahvil ve Bono Piyasası'nda, ağırlıklı ortalamalara göre çeşitli vadelerdeki bono ve tahvillerin haftalık net getirileri ise yüzde 0.25 ile yüzde 0.30 arasında gerçekleşti. 
+     Önde gelen ve değerlendirmeye alınan 10 kamu ve özel bankanın faiz oranlarına bakıldığında, mevduat faizinin haftalık net getirisi, bir yıllık mevduatta yüzde 0.28 ve 1 aylık mevduatta yüzde 0.25 oldu. 
+     Önceki hafta sonunda ortalama faizleri yüzde 15 dolayında olan haftalık reponun net getirisi de yüzde 0.22 olarak gerçekleşti. 
+     
+</TEXT>
+</DOC>

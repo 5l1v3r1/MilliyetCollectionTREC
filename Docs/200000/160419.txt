@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 160419 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/01/son/sontur23.html </URL>
+<DATE> 2003/06/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternet bağlantılarındaki sıkıntı gideriliyor 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekom, Cezayir'de geçen hafta meydana gelen deprem nedeniyle kesilen internet bağlantılarını yeniden sağlamaya yönelik çalışmalarını sürdürüyor. 
+     Türk Telekom'dan yapılan açıklamada, kurumun, deprem nedeniyle arızalanan kablolar üzerinden gerçekleştirilen yurtdışı internet çıkış kapasitesini yüzde 100 oranında artırdığı, böylece yurtdışı erişimde büyük ölçüde rahatlama sağlandığı bildirildi. 
+     Türk Telekom'un, arızalanan yurtdışı internet hatlarına alternatif olabilecek yeni devrelerin uydu ve fiber optik kablolar üzerinden hizmete verilmesine yönelik çalışmalarını, Kamu İhale Kanunu çerçevesinde sürdürdüğü belirtildi. 
+     Depremden dolayı İtalya ile Fas arasında deniz altından geçen kablolarda arıza oluşmuş, bu nedenle, Türkiye'nin yurtdışı internet trafiğinin yüzde 80'ini karşılayan kablolarda arıza meydana gelmişti. 
+
+     
+</TEXT>
+</DOC>

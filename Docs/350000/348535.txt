@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 348535 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/03/son/soneko01.html </URL>
+<DATE> 2005/06/03/ </DATE>
+<TIME> 01.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsası yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     New York borsasında Dow Jones endeksi 3.62 puan yükselerek 10,5.49 puandan kapandı. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq da 9.94 puan artışla 2,097.80 puana çıktı. 
+     
+</TEXT>
+</DOC>

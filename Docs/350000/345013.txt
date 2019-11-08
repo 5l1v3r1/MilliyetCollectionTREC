@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 345013 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/23/son/soneko20.html </URL>
+<DATE> 2005/05/23/ </DATE>
+<TIME> 11.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bankalararası Kart Merkezi'ne Avrupa'dan ödül... 
+</HEADLINE>
+<TEXT>
+
+     Bankalararası Kart Merkezi BKM , Avrupa "En İyi Ödeme Sistemleri" ödüllerinde, en yenilikçi ödeme süreçleri kategorisinde "Yüksek Takdir" ödülünü kazandı. 
+     BKM’den yapılan açıklamada, ödül organizasyonunun, finansal çözümler konusunda faaliyet gösteren bağımsız yönetim danışmanlık şirketlerinin oluşturduğu en büyük kuruluş olan European Payments Consulting Association EPCA ve European Card Review ECR tarafından düzenlendiği kaydedildi. 
+     Açıklamada, Avrupa’da ödeme sistemlerini geliştirmek ve Banka Kartları İçin Avrupa Tek Ödeme Alanı’na SEPA ait uygulamaların teşvik edilmesi amacıyla yapılan yarışmada, BKM’nin "Sadakat Uygulamaları Paylaşımı" hizmeti ile en yenilikçi ödeme sistemleri kategorisinde "Yüksek Takdir Ödülü"nü almaya hak kazandığı belirtildi. 
+     Açıklamaya göre, "En Yenilikçi Ödeme Ürünü, En Yenilikçi Yazılım Donanım Ürünü, En Yenilikçi Ödeme Süreçleri, En Yenilikçi Ödeme Hizmetleri ve SEPA’nın Gelişimine Katkı Sağlayan Çözümler" olmak üzere toplamda 5 kategorinin yer aldığı yarışmaya Avrupa genelinde 34 kurum katıldı. 
+     BKM adına ödülü alan Bankalararası Kart Merkezi Genel Müdürü Sertaç Özinal, "Bu ödül, Türk kartlı ödeme sektöründe yürüttüğümüz çalışmaların bir yansıması oldu. Avrupa çapında bir organizasyonda bu şekilde ödüllendirilmek gurur verici. Önümüzdeki dönemde de kartlı ödeme sektörünün gelişimi için çalışmalarımız devam edecek" dedi. 
+     
+</TEXT>
+</DOC>

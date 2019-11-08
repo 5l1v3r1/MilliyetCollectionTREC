@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 178930 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/29/son/soneko02.html </URL>
+<DATE> 2003/08/29/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası... 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Borsası yükselişle başladığı günü yükselişle kapadı. 
+     Dow Jones Sanayi Endeksi 42.87 puan artarak 9,376.66 puana, Nasdaq Endeksi de 18.05 puan artarak 1,800.18 puana çıktı. 
+     Borsanın yükselişinde, Ticaret Bakanlığı'nın ABD ekonomisinin yılın ikinci çeyreğindeki büyüme hızının daha önce yapılan resmi tahminden daha yüksek olmasının verdiği moral etkili oldu. 
+     
+     TOKYO BORSASI 
+
+     Tokyo Borsası günü yükselişle tamamladı. 
+     Borsanın temel göstergesi Nikkei Endeksi, kapanışta düne göre 118.33 puan artıp 10,343.55 puana çıktı. 
+     Aynı borsada ABD doları ise Japon Yeni karşısında düne göre 0.43 yen gerileyip 117.02 yenden işlem gördü. 
+     
+</TEXT>
+</DOC>

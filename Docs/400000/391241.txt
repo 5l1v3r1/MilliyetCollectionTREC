@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 391241 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/01/ekonomi/eko04.html </URL>
+<DATE> 2005/11/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ADSL'de hız limiti yükseldi 
+</HEADLINE>
+<TEXT>
+
+
+Türk Telekom ADSL erişim alt limit hızını ikiye katlayarak 512 Kbps'ye çıkardı. Bugünden geçerli olacak tarifelerdeki fiyatlar ise değişmedi. Türkiye internet ücretinde h l en pahalı ülkelerden biri 
+
+EKONOMİ SERVİSİ 
+
+Türk Telekom, hızlı internet erişimi olarak bilinen ADSL'de en düşük bağlantı hızını 512 128 Kbps'ye yükseltiyor. Uygulamayla, 256 64 Kbps hızında 3 Gigabayt GB limitli ADSL kullanan müşterilerin tarifeleri ve kullanım miktarları aynı kalmak kaydıyla bağlantı hızları 512 128 Kbps'ye çıkarılacak. 
+
+256 Kbps hızla ADSL'ye bağlanan limitli müşteriler, bugünden itibaren aynı ücrete mevcut hızlarından daha yüksek hızda internete bağlanacak. 512 Kbps'ye aylık limitsiz erişim ücreti ise 99 YTL olacak. 
+Yeni tarifeler yurtdışıyla karşılaştırıldığında, Telekom'un tarifelerinin diğer ülkelerden daha pahalı oluşturulduğu ortaya çıkıyor. ABD, Japonya ve Avrupa ülkeleri bu alanda yatırımlarını tamamladığından dolayı uzun süre önce 512 Kbps hıza geçmişlerdi. Hatta bazı ülkelerde alt limit 1 Mbit'ten başlıyor. 
+512 128 Kbps 5 GB limitli ADSL müşterilerin tarifeleri ve hızları sabit tutulmak kaydıyla kotaları da 6 GB'ye çıkacak. Bunun yanı sıra 512 128 Kbps limitli erişime 9 GB'lik yeni bir seçenek eklendi. Bu tarife seçeneğini müşteriler 69 YTL aylık ücretle kullanabilecekler. 
+
+
+
+</TEXT>
+</DOC>

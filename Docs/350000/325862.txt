@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 325862 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/22/son/soneko12.html </URL>
+<DATE> 2005/03/22/ </DATE>
+<TIME> 10.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Milli gelir güncelleniyor... 
+</HEADLINE>
+<TEXT>
+
+     Devlet İstatistik Enstitüsü DİE , gayri safi milli hasıla verilerini güncelleştiriyor. 
+     DİE'den yapılan yazılı açıklamaya göre, 1948, 1968 ve 1987 olmak üzere 3 kez baz yılı güncellemesi yapılan gayri safi milli hasıla serilerinde, dördüncü kez 1998 baz yıllı güncelleme gerçekleştiriliyor. 
+     AB'nin ''1995 Avrupa Hesaplar Sistemi'' ve Birleşmiş Milletlerin diğer uluslararası kurumlarla birlikte hazırladığı '1993 Ulusal Hesaplar Sistemi' yayınlarına göre yürütülmekte olan güncelleme çalışmasında, hem en güncel verilerin kullanılması hem de metodolojik yeniliklerin hesaplara yansıtılması hedefleniyor. 
+     DİE açıklamasında, güncellemenin gerekçeleri de şöyle sıralanıyor 
+     ''-Bazı bilgilerin dönemlik veya yıllık milli gelir tahminleri açıklandıktan sonra elde edilmesi ya da kesinleşmesi nedeniyle en son verileri gayri safi yurtiçi hasıla büyüklüklerine yansıtmak. 
+     -Geliştirilen yeni yöntemlerle milli geliri daha hassas ölçmek ve bilgi kayıplarını asgariye indirmek. 
+     -Uluslararası karşılaştırmaların sağlıklı yapılabilmesine imkan sağlamak için kullanılan yöntem, kavram ve sınıflamaların uluslararası normlara uygun hale getirilmesini sağlamak. 
+     
+     ZİNCİRLEME ENDEKS KULLANILACAK 
+     Güncelleştirme çalışmalarında, 1998 yılı arz ve kullanımı ile ınput-output tabloları, 2000 yılı bina ve nüfus sayımı, 2001 tarım sayımı ile 2002 ve 2003 yılları hanehalkı bütçe anket sonuçlarını kullanacak olan DİE, işgücü girdi yaklaşımında da toplam imalat sanayiini dikkate alacak. 
+     Devlet sektörü ile kapsam güncellemesini de yapan DİE, güncelleme sonucunda yeni kurulan bağımsız bütçeli kuruluşları da hesaplara dahil edecek. 
+     Mali kuruluşların gayri safi yurtiçi hasılaya katkısı sonucunda, ESA 95 standartlarına uygun olarak yapılan hesaplamalar da yenilenirken, mali kuruluşlar sektöründe, özel finans kurumları, faktöring ve finansal kiralama kuruluşları sektöre eklenecek. 
+     Konut sahipliği sektöründe yaratılan katma değerin hesaplamasında 2000 yılı bina sayım sonuçları ve tüketici fiyat endeksinde yer alan gerçek kira değerleri dikkate alınacak. Bazı sektörlerde de, sabit katma değer üretim oranlarının kullanılmasından kaçınmak amacıyla dönemsel girdi tahminleri yapılacak. 
+     Sabit fiyatlarla GSYH tahminlerinde, fiyatlardaki nispi değişmelerin ve kalite değişikliklerinin hesaplanma sistemine dahil edilebilmesi için de Avrupa Hesaplar Sisteminin önerdiği zincirleme endeks kullanılacak. 
+     
+     YENİ SERİLER AÇIKLANACAK 
+     1987 baz yılını 1998 olarak değiştiren çalışmada, kapsam ve verilerin güncellemesi yapılırken, ESA 95'e uygun olarak yöntemsel gelişmelerin mümkün olanları da hesaplama sistemine girecek. 
+     Halen sektörel düzeyde devam etmekte olan güncelleme çalışmalarında, analiz çalışmasını takiben yeni seri sonuçları, 7 yıl 28 dönemi içerecek şekilde hazırlanacak. Sonuçlar, 15 gün önceden veri yayımlama takviminde duyurulmak üzere kamuoyunun bilgisine sunulacak. 
+     
+</TEXT>
+</DOC>

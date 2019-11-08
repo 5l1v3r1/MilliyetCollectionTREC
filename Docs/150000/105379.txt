@@ -1,0 +1,72 @@
+<DOC>
+<DOCNO> 105379 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/09/03/ekonomi/eko04.html </URL>
+<DATE> 2002/09/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+K ğıt klavyeler sponsor arıyor 
+</HEADLINE>
+<TEXT>
+
+Üniversiteli gençler tarafından geliştirilen ve geniş bütçeli ABD’li projelere kafa tutacak olan uygulamalar, fuarda destek arayacak. Geliştirilen projeler arasında k ğıt klavye de var 
+     Teknonet ŞÜKRÜ ANDAÇ 
+
+     Sanayiciler ve üniversite öğrencileri, Bilişim Fuarı’nda bu yıl önemli bir gelişmeye imza atmaya hazırlanıyorlar. Bilkent Üniversitesi, İTÜ, Boğaziçi Üniversitesi, ODTÜ öğrencileri tarafından geliştirilen projeler, fuarda sanayicilerle buluşacak ve sponsor aranacak. 
+     Fuar kapsamında düzenlenecek olan üniversite - sanayi işbirliğinin amacı Türkiye’de üretilen bilgi ve iletişim teknolojilerine pazar yaratmak ve yeni teknoloji üretilmesini sağlamak. 
+     
+     Milli frekans sistemi 
+     Bilişim Fuarı’nda sergilenecek ve fon aranacak projeler arasında, Bilkent Üniversitesi’nde geliştirilen yapay görmeye dayalı k ğıt klavye, el yazısı tanımaya dayalı bilgisayara veri girme sistemi ve milli frekans sistemi yer alıyor. Bunların dışında 3 boyutlu arazi modellerini otomatik olarak yaratmaya yönelik bir yazılım geliştirme kütüphanesi, otomatik 3 - boyutlu arazi model yaratım ortamı olan Terapi projesi için de fon aranacak. 
+     Etkinlik süresince Boğaziçi Üniversitesi’nde geliştirilen ses işleme, görüntü işleme, coğrafi bilgi sistemleri ve uzaktan algılama sistemi de tanıtılacak. Ayrıca proje kapsamında İTÜ, çok amaçlı gezgin robot ile araç plaka tanıma sistemini tanıtırken, ODTÜ ise Web tabanlı otomasyon sistemlerini ve kablosuz ağlarını sanayici ve ziyaretçilerle buluşturacak. 
+     
+Etkinlik geleneksel olacak      Bu yıl ilk defa gerçekleştirilecek olan bu uygulamayla Ar - Ge yatırımları için yeterli olanağı olmayan üretici kesime yepyeni olanakların sunulması hedefleniyor. Bu sayede teknoloji geliştirmek isteyen sanayiciyle, proje gerçekleştiren üniversite öğrencilerinin buluşması hedeflendi. 
+     TUBİTAK şemsiyesi altında, Boğaziçi, Bilkent, İTÜ, ODTÜ gibi üniversitelerin önderliğinde ilk kez bu sene başlatılan projenin geleneksel hale getirilerek her yıl yeniden düzenlenmesi amaçlanıyor. 
+     
+Hedef 160 bin ziyaretçi      Bugün başlayıp bir hafta boyunca sürecek olan Bilişim Haftası’nda iki ayrı etkinlik düzenlenecek. Eş zamanlı olarak düzenlenecek olan Fuar ve Zirve’de hafta boyunca sektörün nabzı tutulacak. Geçtiğimiz yıl 150 bin kişinin ziyaret ettiği Bilişim Fuarı’nı bu yıl 160 bin kişinin ziyaret etmesi bekleniyor. Bilişim Zirvesi tarafında da e - Türkiye ve e - devlet kavramları yerli ve yabancı katılımcıların katılacağı forum ve konferanslar ile tartışılacak. 
+     
+Üçüncü kuşağın boyutu çizilecek      Bu yıl Bilişim Zirvesi kapsamında ikinci Telekom Forumudüzenleniyor. Yarın başlayıp iki gün boyunca sürecek olan Forum’da, Türkiye’nin teknoloji ve iletişimde yarınlarını belirleyecek Telekom Stratejileri’ konuşulacak. Forumun bu yılki başlığı 3G Üçüncü kuşak ve Yeni Boyutlar.’ 
+     Telekom Forumu’nda bu yıl, bilgi iletişim alanında üçüncü kuşak teknolojiler için Türkiye’nin hazırlıklarının yanı sıra bu konuda gelecekteki yeni boyutları tartışılacak. Telekom Forumu’nun amacı da bu yoldaki fırsat ve engellerini tespit etmek olacak. 
+     İki gün boyunca Türkiye’nin üçüncü kuşak sistemine ne kadar hazır olduğu, üç değişik forum ve toplantıyla ele alınacak. Forum, fuar alanının yanındaki Kaya Ramada Otel’de yapılıyor. 
+     
+Şimdi internette uçuş zamanı      Superonline ile Cisco’unn işbirliği içerisinde geçekleştireceği uygulamayla fuardaki 21 bin metrekare içerisinde kablosuz genişbant internet erişimi kullanılacak. Superonline’ın vereceği Cisco destekli 802.11b hizmeti, cep telefonu, PC, dizüstü bilgisayarlar, PDA gibi cihazlara tek bir kart takarak kullanılabilen ve internet’e 11Mb s hızla bağlanmayı mümkün kılan kablosuz genişbant internet erişim teknolojisinden oluşuyor. 
+     Bu sistemi kullanmak için mobil ziyaretçilerin tek yapması gereken bilgisayarları ile kapsama alanına girip, eğer mevcut değilse, yetkililerden geçici olarak temin edebilecekleri özel Cisco mobil erişim kartını almak ve bilgisayarlarına tanıtmak. 
+     
+4096 renkli cep telefonu      Nokia, Bilişim Fuarı’nda multimedya teknolojisine MMS sahip ikinci cep telefonunun tanıtımını yapacak. Üç bant şebeke sistemine sahip Nokia 6610, Java sistemini de destekliyor. Bu teknoloji sayesinde yüklenebilir uygulamaları destekleyecek olan yeni model cep telefonu 4096 rengi destekleyen renkli ekranıyla dikkat çekiyor. Nokia 6610 ile kullanıcılar, Java uygulamalarını, çok sesli zil tonlarını ve resimleri WAP yoluyla Club Nokia’dan yükleyebiliyorlar. 
+     Tüm Nokia modellerindeki küçük renkli ekranlara göre ayarlanmış olan, 40 kullanıcı birimine dayanan Nokia 6610, WAP browser sistemi, takvim ayarlama ve yönetim defteri özelliklerine de sahip. 
+     
+Bilişim, devlet politikası olmalı’Başbakan Yardımcısı Mesut Yılmaz, "Bilişim, bir siyasi partiye mal edilemez, devlet politikası olmalıdır" dedi 
+     Cebit Bilişim Eurasia’nın ön açılışı dün Başbakan Yardımcısı Mesut Yılmaz tarafından yapıldı. Açılışta bir konuşma yapan Yılmaz, hükümetlerin bilişimcilerin sesine kulak vermesi gerektiğini söyledi. Yılmaz, "Bilişim bir siyasi partiye mal edilemez. Bu yüzden de bilişim bir devlet politikası olmalıdır. Türkiye teknoloji üretme trenini henüz kaçırmadı h l fırsatımız var. Bilişim bizim çocuklarımızın geleceğidir" dedi. 
+     İlk kişisel bilgisayarlarla internet devrimini tüm dünyayla beraber aynı anda Türkiye’nin de gerçekleştirdiğini söyleyen Yılmaz, "Fakat biz Türkiye olarak gelişmeleri aynı hızla takip edemedik. Bu yüzden de h l teknoloji ve bilgi üreten bir toplum olamadık" diye konuştu. 
+     
+Yeni nesil bankamatik dönemi başlıyor...      Türkiye İş Bankası, bu yılki Bilişim Fuarı’nda yeni nesil bankamatik cihazını tanıtacak. Yeni nesil olarak adlandırılan bankamatik, dokunmatik ekranı olan, menüsünde interaktif bankacılık işlemlerine ve İşte Yatırım’ın web sayfasına linkler bulunan web tabanlı bir ürün. 
+     Bu teknoloji sayesinde, hem banka kartının bağlı olduğu hesaptan hem de interaktif müşteri numarası altında tanımlı olan TL veya Döviz Tevdiat hesaplarından döviz çekilebiliyor. 
+     
+     İnteraktif gölge oyunu 
+     Fuarda ziyaretçiler, İş Bankası standında interaktif gölge oyunuyla da tanışacak. Ziyaretçiler sinema perdesine yansıyan gölgeleriyle oyunun bir parçası oluyor ve 3 dakika içerisinde yukarıdan dökülen paraları, aynı renkteki kumbaralara atarak para biriktiriyor. 
+     Kumbarada en çok para biriktiren oyuncu ise ödül kazanacak. 
+     
+     
+
+
+
+ EKONOMİ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

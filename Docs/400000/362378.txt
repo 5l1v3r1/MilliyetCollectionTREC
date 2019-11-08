@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 362378 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/19/son/soneko01.html </URL>
+<DATE> 2005/07/19/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Wall Street Dow Jones Endeksi 10.715 puan... 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacminde dünyanın en büyük borsası konumunda olan New York Wall Street Borsası’nın Dow Jones Sanayi Endeksi haftanın ilk işlem gününün ikinci seansını düşüşle kapadı. 
+     Dow, 65.20 puan azalmayla binde 6,1 , 10,575.15 puandan noktalandı. 
+     Wall Street’in teknoloji şirketleri ibresi Nasdaq Bileşik Endeksi de 11.91 puan düşüşle binde 5,5 , 2,144.87 puandan kapandı. 
+     Dünyanın en büyük bankacılık grubu Citigroup’un yılın ilk yarısına ait bilançosunda beklentileri karşılayamaması, borsanın düşüşle açılmasında etkili oldu. İkinci çeyrekte 5,07 milyar dolar net kar açıklamasına rağmen yatırımcıları memnun edemeyen Citigroup hisselerindeki kayıp yüzde 1,6 oldu. 
+     
+</TEXT>
+</DOC>

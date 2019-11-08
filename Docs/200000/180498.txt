@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 180498 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/05/son/soneko03.html </URL>
+<DATE> 2003/09/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa güne 11.632 puandan başladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Bileşik Endeksi, önceki kapanışa göre 3.99 puan düşerek, 1. seansın ilk dakikalarını 11,632.49 puandan geçti. 
+     Hisse senetleri, ortalama yüzde 0.03 oranında değer yitirdi. 
+     
+</TEXT>
+</DOC>

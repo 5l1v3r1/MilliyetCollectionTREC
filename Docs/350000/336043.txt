@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 336043 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/22/son/sonyas15.html </URL>
+<DATE> 2005/04/22/ </DATE>
+<TIME> 12.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+E-mail ve telefon mesajları, konsantrasyonu bitiriyor 
+</HEADLINE>
+<TEXT>
+
+     İngiliz bilim adamları, elektronik posta ve cep telefonu mesajlarının zeka ve konsantrasyonu olumsuz etkilediğini belirttiler. 
+     İngiltere'de 1100 kişi üzerinde yapılan araştırmada, katılımcılara çeşitli sorular sorulduğu veya dikkat etmeleri gereken durumlar yaratıldığı zaman elektronik posta ya da cep telefonu mesajı gönderildi. Katılımcıların konsantrasyonun e-posta ve mesajlar nedeniyle önemli ölçüde bozulduğu tespit edildi. 
+     Londra'daki King's Koleji öğretim üyelerinden psikiyatrist Glenn Wilson, bu tür mesajların, çalışanların verimini düşürdüğüne, evde de uyku dahil her şeyin önüne geçtiğine dikkat çekti. 
+     Özellikle sürekli ''gelen kutusuna'' düşen elektronik posta mesajlarının kişiyi yorduğunu ve beyin faaliyetlerini yavaşlattığını belirten Wilson, her 5 kişiden birinin sırf mesajları yanıtlayabilmek için yemekten kalktığını ve sürdürmekte olduğu sohbeti yarıda kestiğini söyledi. 
+     Araştırma her 10 kişiden 9'unun bir başka sosyal ilişki içindeyken mesaj yanıtlamayı ''kabalık'' olarak gördüğünü söylediği halde, aynı grubun üçte birinin ''bunu herkes doğal karşılıyor'' diyerek mesajları anında yanıtladığını da ortaya koydu. 
+     Araştırma sonuçları deneklerin üçte ikisinin çalışma saatleri dışında ve tatillerde bile mesajlarını kontrol etmeyi ihmal etmediğini de gösterdi. Araştırmanın sponsorluğunu Hewlett Packard firması yaptı. 
+     
+</TEXT>
+</DOC>

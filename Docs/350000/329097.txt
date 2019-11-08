@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 329097 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/31/son/sonyas29.html </URL>
+<DATE> 2005/03/31/ </DATE>
+<TIME> 19.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternette "Açık Eksiltme Usulü"... 
+</HEADLINE>
+<TEXT>
+
+     Almanya'da bir internet sitesi, birkaç aydır açık artırma yöntemini tersine işleterek, ''açık eksiltme usulüyle'' iş öneriyor, bu da partiler ve sendikaların tepkisini çekiyor. 
+     ''Jobdumping.de'' adlı sitede başvurulan yöntem şöyle işliyor İşveren verebileceği azami ücreti belirtiyor, lakin işi, en düşük ücreti teklif eden kazanıyor. 
+     Ünlü ebay açık artırma sitesinde olduğu gibi, inter kullanıcıları işi elde edebilmek için en iyi teklifi sunmak zorunda, ancak burada işlem tersine çalışıyor ve kazanan, en düşük teklifi veren oluyor. Yine de iyimser olmamak için bir neden var saatte üç avrodan daha düşük teklif verilemiyor. 
+     Sitede önerilen işlerin çoğu, otomobil ya da elektronik ev eşyaları tamiri, bahçecilik ve yaşlı kimselere yardım gibi ''ufak işler.'' Sitenin kurucusu Fabian Löw, bu yönteme geçen kasımda başladıklarını belirtti ve şimdiye kadar yaklaşık 13 bin kişiye iş bulduklarını kaydetti. 
+     Sitenin uygulaması Almanya'da tartışma konusu oldu. Sendikalar ve siyasi partiler, en düşük ücret teklifiyle iş bulunmasının kabul edilemeyeceği noktasında birleştiler. İş piyasasının liberalleşmesinden yana Liberal Parti bile, ''ahlaksızca fikir'' olarak nitelendirdiği uygulamanın adeta ''köle pazarı yaratmak'' anlamına geldiğini belirtti. 
+     DGB sendikalar konfederasyonu da, bütün sektörlerdeki asgari ücretleri gösteren bir internet sitesi hazırladı. 
+     
+</TEXT>
+</DOC>

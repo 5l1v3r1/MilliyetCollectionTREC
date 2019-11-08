@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 401000 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/06/son/soneko10.html </URL>
+<DATE> 2005/12/06/ </DATE>
+<TIME> 10.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bono - tahvil piyasasında faiz yüzde 13.88 seviyesinde... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda işlem gören 27 Haziran 2007 vadeli tahvilin, bugün valörlü işlemlerinin saat 09.50 itibariyle basit getirisi yüzde 14.40, bileşik getirisi yüzde 13.88 oldu. 
+     Bu tahvilin, aynı gün valörlü işlemlerinin dünkü kapanışında basit getiri yüzde 14.39, bileşik getiri ise yüzde 13.86 olarak gerçekleşmişti. 
+     
+</TEXT>
+</DOC>

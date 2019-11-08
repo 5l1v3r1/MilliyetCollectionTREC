@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 339978 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/05/son/sonyas01.html </URL>
+<DATE> 2005/05/05/ </DATE>
+<TIME> 01.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+IBM 10 ila 13 Bin arasında çalışanını işten çıkartmayı planlıyor... 
+</HEADLINE>
+<TEXT>
+
+     Amerikan teknoloji firması IBM, yeniden yapılanma çalışmaları çerçevesinde büyük bölümü Avrupa’daki 10-13 bin çalışanını işten çıkarmayı planlıyor. 
+     IBM’den yapılan açıklamada, firmanın bu plan sayesinde daha etkili çalışabileceği ve müşteri hizmetlerine bağlı faaliyetlerin güçlendirilebileceği belirtildi. 
+     IBM’in böylece dünya genelindeki çalışanlarının yüzde 3-4’ünü işten çıkaracağı ve işten çıkarılacakların büyük bölümünün Avrupa’da çalıştığı kaydedildi. 
+     IBM bünyesinde yaklaşık 329 bin kişi çalışıyor. 
+     
+</TEXT>
+</DOC>

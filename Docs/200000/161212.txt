@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 161212 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/05/son/soneko02.html </URL>
+<DATE> 2003/06/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones Endeksi 10 aydır ilk kez 9 bin puanın üzerinde kapandı 
+</HEADLINE>
+<TEXT>
+
+     Wall Street'de Dow Jones endeksi yaklaşık 10 aydır ilk kez 9000 puanın üzerinde kapandı. 
+     ABD ekonomisine ilişkin ekonomik raporların yayımlanması sonrası yatırımcıların alıma yönelmeleri üzerine bugün yüzde 1,3'lük artışla 115,96 puan kazanan endeks, 9038,91 puandan kapandı. 
+     Endeks en son 22 Ağustos'ta 9000 puanın üzerine çıkarak 90,64 puandan kapanmıştı. 
+     Nasdaq teknoloji endeksi de yüzde 1,91'lik yükselişle 30,57 puan arttı ve 1634,13 puandan kapandı. 
+     
+</TEXT>
+</DOC>

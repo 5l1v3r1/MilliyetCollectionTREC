@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 288762 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/14/son/soneko10.html </URL>
+<DATE> 2004/11/14/ </DATE>
+<TIME> 11.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+YTL ile tüm yazılım sektörü elden geçecek... 
+</HEADLINE>
+<TEXT>
+
+     Yeni yıldan itibaren Türk Lirası'ndan 6 sıfır atılmasıyla, yıllarca kullanılmayan kuruşun rakamsal ifadelere eklenmesi, özellikle bilişim sektörü ve yazılım altyapısını etkileyecek. 
+     Albaraka Türk'ün yayın organı Bereket Dergisi'nde yer alan ''Bol Sıfırlarımız ve Bilişim Dünyası'' konulu makaleye göre, yazılımcılar, fazladan yer ve bilgi kullanmamak amacıyla, hiç bir yerde tutmadıkları kuruşlu yani ondalıklı ve yüzdelikli rakamsal değişkenleri yeniden yazılımlara eklemek zorunda kalacak. 
+     Muhasebe programlarındaki en önemli sorun ise geçiş dönemindeki TL YTL ayrımlarında yaşanacak. 
+     Geriye dönük muhasebe işlemlerinde ve raporlarda farklı iki para biriminin toplanmasının söz konusu olması ile yazılımların tümünün elden geçmesi gerekecek. 
+     Türk bilişim sektörünün 90'lı yıllarda gösterdiği değişim ile ''rakamsal ifadelerde zorunluluk olmadıkça, ondalıklı ifadeleri kullanmama alışkanlığı'' ise bazı karışıklıkları da beraberinde getirecek. 
+     Buna göre, kuruştan daha küçük bir alt birimi olmayacağından 1 kuruştan 1 kuruş 10.000 TL küçük değerlerde yuvarlamalara gidilecek. 
+     Bu değişiklikle parasal ifadeleri gösteren tüm tabelalar, etiketler, barkodlar, yazar kasalar, mağaza elektronik sistemleri, fatura basımları, ücretlendirme sistemleri gibi tüm araçlar değiştirilecek veya elden geçecek. Söz konusu duruma paralel olarak yazılım hesaplamalarının sonunda da bazı yuvarlamalar yapılacak. Kuruştan küçük değerin yuvarlaması şirketler için de zararlı veya yararlı hatalara yol açabilecek. 
+     
+     YENİ BİR SEKTÖR DOĞACAK 
+     Makaleye göre, hesaplamalardaki yuvarlamalar, kuruştan küçük değerlerle ortaya çıkabilecek sorunlarla yazılımların bakımı ve onarım maliyeti, milyonlarca doları bulacak. 
+     YTL'ye geçiş ile yapılan değişiklikler yıllarca bilişim sektörüne yatırım yapmayan yerleri de etkileyecek. Yıllar önce satın alınmış ve ihtiyaçları karşılayan bir yazılım, YTL nedeniyle bazı işlemleri yapamayacak veya hatalı yapacak. 
+     Bu durumda yazılımların bakımı, ya da yapılamaz ise yeni yazılım gereksinimi ortaya çıkaracak. Bu da ileride karlı bir sektör olabilecek ''bakım onarım'' sektörünü doğurabilecek. 
+     
+     YTL'NİN YAZILIM SEKTÖRÜNE GETİRİLERİ 
+     Yazılımların elden geçirilmesi aşamasında uygulanacak tutarlı ve kararlı adımlar ise hem tasarımsal hem de yeniden kullanılırlık açısından yazılım geliştirenlere büyük getireler sağlayabilecek. 
+     Yıllarca ihmal edilmiş olan tasarım süreçlerinin gözden geçirilmesi gibi işlemler, bu sebepten dolayı gündeme gelecek ve firmalar için büyük masraflara yol açabilen değişikler yapılacak. Daha önce 20 basamaklara ulaşan rakamsal toplamlar, 14 2 basamağa kadar gerileyecek ve yazılımlar üzerindeki yüklerden kurtulunabilecek. Bu da depolama ve raporlama konularında büyük kolaylıkları beraberinde getirecek. 
+     
+</TEXT>
+</DOC>

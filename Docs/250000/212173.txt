@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 212173 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/30/son/soneko01.html </URL>
+<DATE> 2004/01/30/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası'nda Dow Jones yükseldi 
+</HEADLINE>
+<TEXT>
+
+     New York borsasında Dow Jones yükseldi, Nasdaq düştü. 
+     Borsanın temel göstergesi Dow Jones, 41.92 puan yükselerek 10,510.29 puana çıktı. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq ise 9.14 puan düşerek günü 2,068.23 puandan kapattı. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 205879 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/02/dunya/dun06.html </URL>
+<DATE> 2004/01/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Turkcell'den Bem'de cep telefonu hizmeti 
+</HEADLINE>
+<TEXT>
+
+   
+   Turkcell, İran'ın güneydoğusunda cuma sabahı depremin vurduğu Bem kentinde kurtarma çalışmalarında ve sağlık hizmetlerinde görev yapan ekiplerin faydalanması için bölgeye düşük kapasiteli bir GSM sistemi kurdu. 
+   Uydu sistemleri hariç hiçbir iletişim aracının çalışmadığı Bem bölgesinde, İran GSM'sinin hiçbir ülkeyle anlaşması olmadığı için kurtarma ekiplerinin iletişim ihtiyacı karşılanamıyor. 
+   Turkcell'in kurduğu GSM sistemiyle, 5 gün önce bölgeye gelen Türk kurtarma ve sağlık ekiplerinin de yılbaşı gecesi ailelerini arama imk nı bulması sevinç yarattı. Turkcell'in kurtarma ekipleriyle birlikte BM ve yabancı yardım ekiplerine de 900 adet SIM kartı dağıtması, ekiplerin ücretsiz konuşmalarına imk n sağladı. Ericsson Türkiye sorumlularından Serdar Saron, Bem'de kurulan GSM sisteminin 5 bin kişi kapasiteli olduğunu belirtti. 
+   
+   
+   
+</TEXT>
+</DOC>

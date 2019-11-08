@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 194787 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/11/son/soneko09.html </URL>
+<DATE> 2003/11/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+MB reel kesim güven endeksi, yüzde 3.3 arttı... 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası tarafından düzenlenen Reel Kesim Güven Endeksi MBRKGE , Ekim ayında bir önceki aya göre yüzde 3.3 oranında arttı. 
+     Merkez Bankası, Ekim ayına ilişkin Reel Kesim Güven Endeksi'ni açıkladı. 
+     Açıklamaya göre, son dönemlerde duraklama gösteren endeks, Ekim ayında bir önceki aya göre yüzde 3.3 oranında artarak 109.6 seviyesine ulaştı. Endeks Eylül ayında 106.1 seviyesinde idi. 
+     Bu seviye, endeksin 2000 yılının Mayıs ayından bu yana ulaştığı en yüksek değer olarak nitelenirken, bir önceki yılın Ekim ayı değerinin 6.4 puan üstünde olduğu belirtildi. Endeks, Ekim 2002 tarihinde 103.2 seviyesinde bulunuyordu. 
+     Endekste, Ekim ayında ekonomik faaliyetlere ilişkin olumlu beklentilerin arttığı dikkat çekilirken, sanayi üretim endeksi artış eğiliminin de devam edeceği işaret edildi. 
+     Endeksi oluşturan anket sorularına ait yayılma endeksleri Eylül ayına kıyasla incelendiğinde, üretim hacmi beklentisi hariç tüm alt kalemlerde artış olduğu gözlendi. 
+     İhracat imkanları beklentisi ile hammadde stok eğilimi sırasıyla yüzde 7.8 ve yüzde 7.3 oranlarındaki artışlarla en fazla yükseliş gösteren kalemler olurken, üretim hacmi beklentisi yüzde 2.1 oranında düşüş gösterdi. 
+     Öte yandan, üretim hacmi beklentisi uzun dönem ortalaması olan 111.9 seviyesinin 2.6 puan üzerinde konumunda bulunuyor. Mamul mal stok eğiliminde görülen yüzde 2.1 oranındaki artış, ters kodlama sebebiyle endeksi azaltıcı yönde etkiledi. 
+     Bir önceki yılın Ekim ayına göre karşılaştırma yapıldığında, tüm alt kalemlerin geçen seneki seviyelerinin üstünde değerler aldığı gözlendi. 
+     Güven endeksi, üst düzey yöneticilerin bugünkü iş durumlarını nasıl değerlendirdiklerini ve geleceğe ilişkin beklentilerinin bir fonksiyonu olan toplulaştırılmış gösterge niteliğini taşıyor. 
+     Bu kapsamda 100 değeri, ekonomik faaliyetlere ilişkin istikrarlı görünümü ifade ederken, bunun altındaki değer ''güvenin azaldığı'', üstündeki değer ise ''güvenin arttığı'' anlamına geliyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 279870 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/13/son/sonyas22.html </URL>
+<DATE> 2004/10/13/ </DATE>
+<TIME> 10.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sinemada cep telefonuna son 
+</HEADLINE>
+<TEXT>
+
+     BBC 
+
+Fransız hükümeti, cep telefonlarını çalışmaz hale getiren cihazların sinema, tiyatro ve konser salonlarında kullanımını yasal hale getirdi. 
+     Fransız hükümeti, sinema sahiplerinden uzun zamandır gelen talepler nedeniyle böyle bir karar aldı. 
+     Söz konusu cihazın kullanımı dünyada az sayıda ülkede yasallaştırıldı. 
+     Yasadışı iletişimi ya da uzaktan kumandayla patlatılan bombaları önlemek için daha çok savunma amaçlı olarak geliştirilen cihazı pek çok şekil ve boyda elde etmek mümkün. 
+     Fransa'daki toplantı salonlarında denendiği söylenen ürün duvara monte edilmiş cihazlardan oluşuyor. Cihazlar, kapsama alanı içinde cep telefonu sinyallerini belirleyerek etkisiz hale getiriyor. 
+     Aynı cihazın, kişisel kullanım için geliştirilmiş, telefonu andıran daha küçük modelleri de mevcut. 
+     Bu modeller ise trenlerde telefon konuşmalarını engellemek için kullanılıyor. 
+     Belki de bu tür cihazların en iyisi, İngiliz Savunma Bakanlığı tarafından geliştirilen frekans bozucu. Bu cihaz ise duvar kağıdının içine gizlenebiliyor. 
+     Cihaz cep telefonu sinyallerini engellerken diğer radyo sinyalleri üzerinde bir etki yaratmıyor. 
+     
+</TEXT>
+</DOC>

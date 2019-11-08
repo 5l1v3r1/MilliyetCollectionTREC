@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 235053 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/26/son/sonyas08.html </URL>
+<DATE> 2004/04/26/ </DATE>
+<TIME> 11.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kanser ilaçlarına genetik yapısı güçlendirilmiş bakteri desteği .. 
+</HEADLINE>
+<TEXT>
+
+     İngiliz bilim adamları, gelecekte kanser ilaçlarının, bakterilerin yardımıyla daha kuvvetli etki edeceğini ve sağlıklı dokuların zarar görmeyeceğini kaydettiler. 
+     ''Nature'' dergisinin internet sitesindeki habere göre, E. coli bakterilerinin genetik yapısını değiştiren bilim adamları, bu bakterilerin farelerin tümör hücrelerine girmesini sağladılar. Bakterilerin, kanser ilaçlarının daha iyi etki etmesi için hücreleri hazırladığı belirtildi. 
+     Londra'daki Hammersmith Hastanesi'nde görevli bilim adamı Georges Vassaux başkanlığındaki ekip, E. coli bakterilerine iki gen yerleştirdi. Genlerden birisinin, bakterilerin tümör hücrelerine girmesini kolaylaştıran bir proteinin bilgilerini içerdiğini ifade eden bilim adamları, diğer genin, bakterilerde bulunan bir enzimin tümör hücrelerinin içine salgılanmasını sağladığını kaydettiler. 
+     Bu enzimin, daha sonra enjekte edilen 6-MPDR isimli kanser ilacını aktif hale getirdiği belirtildi. Bilim adamları, E. coli enzimi sayesinde ilacın çok etkili bir zehir haline geldiğini söylediler. 
+     Fareler üzerinde yapılan deney sonucunda, enzim içeren tümör hücrelerinde kanser ilacının etki ettiği, kanser hücreleri ölürken, çevredeki dokunun zarar görmediği ortaya çıktı. 
+     Tümörün üç hafta sonra 3'te 2 oranında küçüldüğü, kalan tümör hücrelerinin de ölü olduğu kaydedildi. 
+     Bu yöntemin, başka bölgelere yayılmamış kanser tümörlerini yok etmekte kullanılabileceğini belirten bilim adamları, yöntemin insanlar üzerinde ne zaman deneneceğinin belli olmadığını, daha çok sayıda deney yapılması gerektiğine dikkati çektiler. 
+     
+</TEXT>
+</DOC>

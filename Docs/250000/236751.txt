@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> 236751 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/02/son/sonyas06.html </URL>
+<DATE> 2004/05/02/ </DATE>
+<TIME> 10.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Telekom'un kontörlü sisteminde konuşmasak da ödüyoruz... 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekom santrallarının özelliğinden dolayı aboneler, süresini tamamlamadıkları kontör parasını da tam ödemek durumunda kalıyor. 
+     Ulaştırma Bakanı Binali Yıldırım'ın, CHP Adana Milletvekili Atilla Başoğlu'nun sorularına verdiği yanıtlara göre, Türk Telekom santrallarında kontör artış periyodu esasına dayalı ücretlendirme yapılıyor. Şehiriçi, şehirlerarası, uluslararası, internet, GSM aramaları gibi arama tiplerinin belirlenmiş bir kontör artış periyodu bulunuyor ve bu periyotlardaki sürelere göre kontör atıyor. 
+     
+     KARŞI TARAF AHİZEYİ KALDIRSIN YETER 
+
+     Türk Telekom santrallarında kontör artışı, karşı taraf telefona cevap vermek için ahizeyi kaldırdığı anda başlıyor. Karşı taraf ahizeyi açtığı anda bir kontör ücreti alınıyor. 
+     Bu ücretlendirme, kontör süresi 60 saniye olan şehiriçi görüşmede şöyle işliyor 
+     Karşı taraf ahizeyi kaldırdığında bir kontör ücreti alınıyor ve 59'uncu saniye bitip 60'ıncı saniyenin başlamasıyla birlikte ikinci kontör atıyor. Kontör attıktan sonra hiç görüşme yapılmasa bile abona iki kontör ücreti ödüyor. 
+     Ulaştırma Bakanı Yıldırım, Türk Telekom santrallarında teknik donanım yapısı itibarıyla ücretlendirmenin kontör artış esasına göre yapıldığını belirterek, abonenin konuştuğu süre baz alınarak ücretlendirme yapılmasının, mevcut santralların teknik donanımı itibarıyla mümkün olmadığını bildirdi. 
+     Yıldırım, abonenin konuştuğu süre baz alınarak ücretlendirme yapılabilmesinin ancak santralların büyük bir kısmında donanım ve yazılım ilavesi yapılması ile mümkün olacağını kaydetti. 
+     
+     11 BİN SANTRAL VAR 
+
+     Türk Telekom şebekesinde yaklaşık 11 bin santral bulunduğunu ve bunlardan bin kadarının büyük tip santral olarak çoğunlukla il merkezlerindeki abonelere hizmet verdiğini anlatan Yıldırım, geri kalan 10 bin dolayındaki santralın kırsal alana hizmet götürdüğünü, ayrıca büyük tip ve kırsal santralların da ayrı tip ve versiyonları bulunduğunu belirtti. 
+     Yıldırım, kontör artış periyoduna göre ücretlendirmenin birçok ülkede yaygın olarak kullanıldığını bildirerek, abonenin konuşma süresine göre ücretlendirme yapılmasının daha esnek bir ücretlendirme olanağı sağladığına işaret etti. Yıldırım, Türk Telekom'un da bu yapıya geçiş için çalışmalar yaptığını kaydetti. 
+     
+     TÜRK TELEKOM'UN TARİFELERİ 
+
+     Türk Telekom'un internet sitesindeki verilere göre, 72 bin lira olan bir kontörün süresi, bağlantı tipine göre değişiyor. 
+     Türk Telekom, hafta içi 08.00-20.00 saatleri arasında ''normal tarife'' uyguluyor. 
+     Hafta içi 07.00-08.00 ve 20.00-22.30 saatleri ile cumartesi günleri 07.00-22.30 saatleri arasında ''birinci indirim tarifesi''ne geçiliyor. 
+     ''İkinci indirim tarifesi'' ise cuma 22.30'dan başlayarak cumartesi 07.00'ye, cumartesi 22.30'dan pazartesi 07.00'ye kadar olan sürede uygulanıyor. İdari tatillerde hafta içi tarifesi, resmi tatillerde de pazar günü tarifesi geçerli oluyor. İndirimlerde kontör süresi artıyor. 
+
+     
+</TEXT>
+</DOC>

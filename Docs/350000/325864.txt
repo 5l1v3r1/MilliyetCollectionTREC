@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> 325864 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/22/son/soneko14.html </URL>
+<DATE> 2005/03/22/ </DATE>
+<TIME> 10.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tüketici Güven Endeksi geriledi... 
+</HEADLINE>
+<TEXT>
+
+     Tüketici Güven Endeksi bu yılın Şubat ayında, bir önceki aya göre yüzde 0.20 puan azalarak 105.2'ye indi. 
+     Tüketici Güven Endeksi, Ocak ayında 105.4 düzeyindeydi. 
+     Güven endeksindeki düşüş, ''tüketicilerin, mevcut ve gelecek dönem satın alma güçlerine ve gelecek dönem genel ekonomik duruma ilişkin değerlendirmelerinin kötüleşmesinden'' kaynaklandı. 
+     Devlet İstatistik Enstitüsü ile Merkez Bankası tarafından her ay ortaklaşa düzenlenen ve tüketicilerin harcama davranış ve beklentilerinin değerlendirildiği Tüketici Eğilim Anketi'nin Şubat ayı sonuçları açıklandı. 
+     Endeksin alt kalemleri ve değişim oranlarına bakıldığında ise mevcut dönemde satınalma gücü endeksi 92.8'den 92.3'e, gelecek dönem için satın alma gücü endeksi 99.2'den 98.7'ye, genel ekonomik durum endeksi 108.6'dan 105.5'e düşerken, iş bulma olanakları yüzde 94.2'den 96.8'e yükseldi. 
+     Mevcut dönemin dayanıklı tüketim malı satın alma için uygunluğu endeksi de 132.3'den 132.8'e çıktı. 
+     
+     SATIN ALMA GÜCÜ 
+     Ankete katılanların verdiği yanıtlar çerçevesinde, 6 ay öncesine göre şu andaki satın alma gücü kapsamında, kişilerin ''geçen aya göre satın alma gücü çok daha iyi'' diyenlerin oranı yüzde 0.9'dan yüzde 0.7'ye, ''aynı'' diyenlerin oranı da yüzde 51.7'den yüzde 50.4'e indi. Aynı dönemde, ''biraz daha iyi'' diyenlerin oranı ise yüzde 17.2'den yüzde 17.4'e yükseldi. 
+     Kişilerin gelecek 6 aylık dönemdeki satın alma gücüyle ilgili beklentilerinde, Şubat ayında 2005 yılı Ocak ayına göre ''çok daha iyi olacak'' diyenlerin oranı yüzde 0.9'dan yüzde 0.8'e, ''biraz daha iyi olacak'' diyenlerin oranı yüzde 21.4'den yüzde 20.6'ya inerken, ''Aynı kalacak'' diyenlerin oranı yüzde 51.3'den yüzde 51.7'ye yükseldi. 
+     
+     İŞ BULMA OLANAKLARI 
+     Kişilerin gelecek 6 aylık dönemde, Türkiye'de iş bulma olanaklarına ilişkin beklentilerinde bu yıl Şubat ayında bir önceki aya göre, ''belirgin olarak artacak'' ile ''aynı kalacak'' diyenlerin oranlarında artış yaşandı. 
+     ''Biraz artacak'' ile ''biraz azalacak'' diyenlerin oranlarında ise azalma yaşandı. Kişilerin, içinde bulunulan ayın, buzdolabı, TV, mobilya gibi dayanıklı tüketim malları satın almak isteyenler için uygunluğuna ilişkin olumlu düşünceleri, Şubat ayında artarak yüzde 49.3'den yüzde 49.6'ya çıktı. 
+     
+     TASARRUF ETME OLANAĞI 
+     Kişilerin genel ekonomik durum göz önünde bulundurulduğunda, içinde bulunulan dönemin tasarruf etmek Türk Lirası, döviz, altın, mevduat, diğer finansal yatırım araçları vb için uygunluğuna ilişkin düşünceleri kapsamında, ''kesinlikle uygun bir zaman'', ''uygun bir zaman'' ile ''pek uygun bir zaman değil'' diyenlerin oranında da artış yaşandı. 
+     ''Kesinlikle uygun bir zaman değil'' diyenlerin oranında ise azalma görüldü. 
+     Endeksin 100'den büyük olması, tüketici güveninde ''iyimser durum'', 100'den küçük olması tüketici güveninde ''kötümser durum'', 100 olması ise tüketici güveninde ''ne iyimser ne de kötümser durum'' olduğunu gösteriyor. 
+     
+</TEXT>
+</DOC>

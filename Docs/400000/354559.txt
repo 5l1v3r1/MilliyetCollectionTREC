@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 354559 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/22/son/sonyas28.html </URL>
+<DATE> 2005/06/22/ </DATE>
+<TIME> 17.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kişisel bilgiler kablosuz internette güvende değil... 
+</HEADLINE>
+<TEXT>
+
+     Yaygınlaşan kablosuz internet kullanımının, kişisel bilgilerin güvenliği açısından riskli olduğu bildirildi. 
+     ABD'de güvenlik firması Air Defense'in kablosuz internet uzmanı Richard Rushing, Atlanta Parkı'nı ziyaret ederek kablosuz internet kullanarak gönderilen bilgilerin gizlilik derecesinin, aynı bilgileri parkta yüksek sesle bağırarak herkese duyurmakla eşdeğer olduğunu ileri sürdü. 
+     ''Etik değerleri olan bir hacker'' olarak tanınan ve şirketlerin kablosuz internet ağlarını güçlendirme işinde çalışan Rushing, pek çok kişinin bu riskten habersiz olduğunu, hesabını kontrol etmek isterken tüm hesap bilgilerinin çalınabileceğinin farkında olmadığını belirtti. 
+     Rushing, ''istediğiniz yerde hem de kablo gerekmeden internete bağlanabilmek harika bir şey. Ancak taşıdığı riskler göz önüne alındığında, aynı şeyi söylemek mümkün değil' dedi. 
+     Atlanta Parkı'nda bir otele ait güvenli olmayan sinyal aracılığıyla internete birkaç saniye içinde bağlanan Rushing, güvenli olmayan ağların savunmasızlığını vurgulamak için bir elektronik posta gönderdi ve bu posta aracılığıyla parkta aynı ağı kullanan insanların bilgisayarına rahatlıkla girebileceğini gösterdi. 
+     Rushing, ''şeytan ikizler'' olarak adlandırılan ve gerçeğinden kolay kolay ayırt edilemeyen sahte kablosuz internet ağları konusunda da insanları uyararak, ''Bir hackerın, bir köşeye yerleşip kablosuz internet sinyali gönderdiğini düşünelim. Bu sinyal güvenli gibi görünüp, insanlara kayıt olmaları gereken hizmetler sunabilir. Kayıt olmanız durumundaysa bilgisayarınız hackerın rahatlıkla girip çıkabileceği hale gelir' dedi. 
+     İnsanların güvenli olmayan kablosuz internet ağı kullanımında bilgilerinin özel kalma ihtimali olmadığını anlamalarının önemli olduğunu söyleyen Rushing, kablosuz internetin rahatlığının insanları yanıltmaması gerektiğini, bilgilerini güvende tutmak isteyenlerin kablolu interneti tercih etmelerini önerdi. 
+     
+</TEXT>
+</DOC>

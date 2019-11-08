@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 351001 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/11/son/sondun24.html </URL>
+<DATE> 2005/06/11/ </DATE>
+<TIME> 13.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Amerikan Bilimler Akademisi'nden evrim teorisini savunam web sitesi 
+</HEADLINE>
+<TEXT>
+
+     Amerikan Bilimler Akademisi, evrim teorisini basit bir varsayımmış gibi sunmaya çalışan çevrelere karşı, bir internet sitesi kurdu. 
+     ''http nationalacademies.org evolution '' adresindeki yeni sitede, ''evrim teorisinin en sağlam bilimsel teorilerden birisi olduğu ve Ulusal Bilimler Akademisi'nin uzun zamandan beri evrimin, tüm bilimsel eğitim programlarında bir merkezi unsur olarak öğretilmesini desteklediği'' belirtiliyor. 
+     Akademi, web sitesinin kuruluşu nedeniyle yayımladığı açıklamada, ''ABD'de son yıllarda eğitim müfredatında fen derslerine bilimsel olmayan bazı programlar sokmayı amaçlayan ve giderek büyüyen bir hareket bulunduğunu'' kaydetti. 
+     Amerikan Bilimler Akademisi, bilimsel, tıbbi ve mühendislik alanlarında özellikle federal hükümete Kongre ve Beyaz Saray danışmanlık sağlayan bağımsız bir kuruluş. 
+     ABD'de bazı gruplar, evrim teorisi öğretilecekse kendi görüşlerinin de eğitim müfredatına alınmasını istiyor. 
+     
+</TEXT>
+</DOC>

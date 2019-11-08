@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 76157 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/04/03/son/sondun09.html </URL>
+<DATE> 2002/04/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Klavye ve mouse yerine "sanal kalem" 
+</HEADLINE>
+<TEXT>
+
+     OTM adlı bir firma tarafından geliştirilen ve kısa adı ''VPen'' olan ''sanal kalemin'' yakın gelecekte bilgisayarlardaki klavye ve farenin yerini alacağı öne sürüldü. 
+     Ucunda optik bir lazer okuyucu bulunan kalemin, bilgisayarların yanı sıra cep telefonları ve el bilgisayarlarında da kullanılabileceği belirtildi. Dijital kalemle metinler üzerinde çalışılabileceği gibi resim de çizilebilecek, hatta bilgisayar oyunları oynanabilecek. 
+     Yeni geliştirilen dijital kalemle yazılım devi Microsoft ve cep telefonu yapımcısı Motorola, Siemens ve adı açıklanmayan Asya kökenli bir elektronik firmasının yakından ilgilendiği belirtiliyor. 
+     Kalemi geliştiren OTM firmasının kurucu ortağı ve icra direktörü Gilad Lederer, ''kalem size fare ve klavye ile yaptığınız her şeyi, hatta daha fazlasını yapma olanağı veriyor'' dedi. Kalem için geliştirilen teknolojinin el yazısını tanıma özelliği olduğu da ifade edildi. 
+     
+     Deriye bile yazıyor 
+     Bilgisayar sanayisinde, özellikle yüksek teknolojiyle çalışan tasarımcıların kullandığı türden pahalı kalemler daha önce denenmişti. 
+     Ancak OTM firmasının sunduğu ürünün, kitlelere hitap edecek ucuz ve kullanışlı bir kalem olduğu belirtildi. 
+     ''VPen'', bilgisayar ekranlarında olduğu gibi normal kağıt üzerinde de kullanılabiliyor, hatta insan derisine yazı yazabiliyor. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

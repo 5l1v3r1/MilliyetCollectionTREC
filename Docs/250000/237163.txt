@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 237163 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/04/son/soneko01.html </URL>
+<DATE> 2004/05/04/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     New York Menkul Kıymetler Borsası'nda, Dow Jones endeksi ve Nasdaq günü yükselişle kapattı. 
+     Borsanın temel göstergesi Dow Jones Endeksi, 88.34 puanlık yüzde 0.86 artışla 10,314.00 puandan kapandı. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq Endeksi de 18.57 puan yüzde 0.97 artarak 1,938.72 puandan kapandı. 
+     
+</TEXT>
+</DOC>

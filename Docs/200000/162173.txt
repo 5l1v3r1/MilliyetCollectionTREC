@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 162173 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/10/yasam/yas05.html </URL>
+<DATE> 2003/06/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternette alarm 
+</HEADLINE>
+<TEXT>
+
+Antivirüs programlarını etkisiz hale getiren Fizzer’ adlı virüs, bulaştığı bilgisayarlara hackerların kolayca girmesini sağlıyor 
+     İnternette hızla yayılan ve antivirüs programlarını da etkisiz hale getiren "karmaşık" yapılı "Fizzer" adlı yeni bir tür virüs, "yüksek riskli" ilan edildi. Uzmanlar, kullanıcıları şüpheli gördükleri e - posta eklerini açmamaları konusunda uyardı. 
+     Virüsle ilgili ilk uyarılar Asya’daki işyerlerinden gelirken kısa sürede Avrupa’daki bilgisayarlardan da on binlerce uyarı alındı. İngiliz virüs izleme kuruluşu MessageLab, 24 saat içinde 17 bin 765 vaka saptarken virüsü yüksek riskli ilan etti. 
+     
+     En tehlikeli’lerden biri... 
+     Türk İnternet Birliği Başkanı Hakan Topuzoğlu da, Fizzer’in antivirüs ve firewall programlarını etkisiz hale getirmesi nedeniyle en tehlikeli virüsler’den olduğunu kaydetti. 
+     Fizzer’ın bulaştığı bilgisayarlara hackerların girip, tüm özel bilgilere ulaşabileceği uyarısında bulunan Topuzoğlu, büyük bir hızla yayılan virüsün özellikle dosya paylaşım programlarını kullananlarla müzik ve video alışverişi yapanları tehdit ettiğini vurguladı. Topuzoğlu, e - postayla da bulaşan virüsten korunmak için kullanıcıların şüpheli gördükleri "exe, pif, com ve scr" uzantılı e - posta eklerini açmamaları uyarısında bulundu. 
+     
+
+</TEXT>
+</DOC>

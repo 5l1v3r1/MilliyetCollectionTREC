@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 351819 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/14/son/soneko24.html </URL>
+<DATE> 2005/06/14/ </DATE>
+<TIME> 13.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hazine ihalesinde faiz 20 yıldır ilk kez yüzde 15'in altında 
+</HEADLINE>
+<TEXT>
+
+     Hazine’nin yıllık iç borçlanma faizi, ihaleyle iç borçlanmalara başlanan Mayıs 1985’ten bu yana ilk kez yüzde 15’in altına indi. 
+     Hazine, bugün yaptığı 91 gün vadeli referans bono ihalesinde yüzde 14.89 yıllık bileşik faizle hedeflediği gibi 1 milyar 290 milyon YTL’lik borçlanmaya gitti. 
+     Nominal olarak 2 milyar 290.5 milyon YTL’lik teklif gelen iskontolu ihalede, 1 milyar 335.6 milyon YTL’lik nominal satış yapıldı. Ortalama fiyatın 96 bin 598 YTL olarak gerçekleştiği ihalede net borçlanma 1 milyar 290 milyon YTL oldu. 
+     Hazine’nin üç ayda bir değişken faiz ödemeli tahvillerin kupon oranını belirlemek amacıyla yaptığı söz konusu ihalede gerçekleştirilen borçlanmanın yıllık basit faizi yüzde 14.13’le, yıllık bileşik faizi ise yüzde 14.89’la ihale yöntemiyle iç borçlanmaların yapılmaya başlandığı Mayıs 1985’ten bu yanaki en düşük düzeye geriledi. Yıllık bileşik faiz ise ilk defa yüzde 15’in altında bir orana geriledi. Hazine şimdiye kadarki en düşük faizli borçlanmayı 10 Şubat’ta yaptığı 1820 gün vadeli tahvil ihalesinde yıllık yüzde 14.62 basit ve yüzde 15.15 bileşik faizle yapmıştı. 
+     Hazine ihale yöntemiyle iç borçlanmaya 30 mayıs 1985’te düzelediği bir yıl vadeli tahvil ihalesiyle başlamıştı. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 364523 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/26/son/sonyas23.html </URL>
+<DATE> 2005/07/26/ </DATE>
+<TIME> 22.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Motorola, Yahoo'yu ceplere taşıyacak... 
+</HEADLINE>
+<TEXT>
+
+     Cep telefonu şirketi Motorola ve internet arama motoru Yahoo tarafından bugün ortak olarak yapılan açıklamada, Yahoo’nun içeriğine ve sunduğu tüm hizmetlere Motorola tarafından üretilecek yeni cep ürünleri aracılığıyla ulaşılabileceği kaydedildi. 
+     Motorola’nın Linux temelli cep ürünlerini kullananlar Yahoo’nun tüm hizmetlerinin yanı sıra, aralarında internet radyo kanallarından ve kullanıcının kişisel dijital müzik koleksiyonundan müzik dinleme imkanı sunan iRadio’nun da bulunduğu diğer yüksek hızlı internet ürünlerinden de yararlanma fırsatı bulacaklar. Motorola, iRadio’yu bu yılın sonunda piyasaya sürmeyi planlıyor. 
+     Yahoo, Motorola ile yaptıkları anlaşmanın kendilerinin sundukları hizmeti masaüstü bilgisayarlardan kablosuz internet pazarına taşıyacağını ifade etti. 
+     Motorola’nın üreteceği Yahoo içerikli yeni ürün yeni yıldan itibaren kullanıcıların hizmetinde olacak. 
+     
+</TEXT>
+</DOC>

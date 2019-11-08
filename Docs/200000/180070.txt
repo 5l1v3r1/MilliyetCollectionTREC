@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 180070 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/03/son/sontur06.html </URL>
+<DATE> 2003/09/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sigara içenleri akciğer kanserinden koruyan enzim bulundu... 
+</HEADLINE>
+<TEXT>
+
+     Sigara içenleri akciğer kanserinden koruyan bir enzimin bulunduğu bildirildi. 
+     ABD'de yayımlanan Ulusal Kanser Enstitüsü dergisinde yer alan haberde, İsrail Weizmann Enstitüsü'nden Zvi Livneh ve arkadaşlarının bulduğu ''OGG1'' ya da ''8-oxoguanine DNA glycosylase 1'' olarak adlandırılan enzimin insan vücudunda düşük seviyede olması durumunda akciğer kanserine yakalanma riskinin 5 ila 10 kat arasında fazla olduğu belirtildi. 
+     İsrailli uzmanlar, insan vücudunda doğal olarak bulunan bu enzimin sigara ve diğer çevresel faktörlerin DNA'ya verdiği zararları onardığını bildirerek, OGG1 bileşiminin yüksek seviyede bulunduğu sigara içicilerinde akciğer kanserine yakalanma riskinin çok daha düşük olduğunu kaydettiler. 
+     Livneh ve arkadaşlarının 68 akciğer kanseri hastası arasında yaptıkları araştırmada, hastaların yüzde 40'ında OGG1 seviyesini düşük buldukları, sağlıklı 68 kişi arasında yaptıkları araştırmada ise bu oranın yüzde 4 olduğu kaydedildi. 
+     İsrailli uzmanlar, sigara içmeyen ve OGG1 seviyesi düşük olanların da akcigğer kanserine yakalanma riskinin yüksek olduğunu, ancak her şeye rağmen bu gruba giren kişilerin sigara içenlerle karşılaştırıldığında akciğer kanserine yakalanma riskinin çok az olduğunu ifade ettiler. 
+     Akciğer kanseri dünyada en fazla ölüme yol açan kanser türü. Hastalıktan her yıl dünyada 1 milyon kişi, sadece ABD'de ise 160 bin kişi hayatını kaybediyor. Akciğer kanserine yakalananların yaklaşık yüzde 90'ını sigara içenler oluşturuyor. 
+     
+</TEXT>
+</DOC>

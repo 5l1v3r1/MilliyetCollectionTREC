@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 298220 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/16/son/soneko50.html </URL>
+<DATE> 2004/12/16/ </DATE>
+<TIME> 23.41 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Wall Street yükseldi, 10 bin 705 puandan kapandı 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacminde dünyanın en büyük borsası olan New York Wall Street'in Dow Jones Sanayi Endeksi, haftanın dördüncü işlem gününün son seansını 14.11 puan artışla binde 1.3 10,705.56 puandan noktaladı. 
+     Wall Street teknoloji firmaları ibresi Nasdaq Birleşik Endeksi de 16.4 puan kayıpla binde 7.6 2,146.15 puandan kapandı. 
+     New York menkul kıymetler borsası perşembeye düşüşle girdi. 
+     Sağlık ürünleri firması Johnson and Johnson'ın damar-kalp cihazları şirketi Guidant'ı 24 milyar dolara almaya hazırlanması, Wall Street'in ikinci seansta toparlanmasına yaradı. 
+     Yatırım Bankası Goldman Sachs'ın beklentilerin altında kar açıklaması ise günün ilk seans düşüşünde belirleyiciydi. 
+     
+</TEXT>
+</DOC>

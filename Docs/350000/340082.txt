@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 340082 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/06/yazar/gunes.html </URL>
+<DATE> 2005/05/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Hurşit GÜNEŞ  </AUTHOR>
+<HEADLINE>
+Merkez kotasyon indirmeli mi 
+</HEADLINE>
+<TEXT>
+
+
+Piyasalarda Merkez Bankası'nın MB faiz oranı yine yüksek bulunmaya ve indirilmesi tartışılmaya başladı. Bazı meslektaşlarımız 2001 yılından bu yana MB'nin aşırı yüksek faiz uyguladığı kanısında. Bunun düşürülerek, hem borcun daha ucuza çevrilebileceğini iddia ediyorlar, hem de kurun daha makul bir düzeye çıkabileceğini. İçlerinde 2003 yılının başında büyümenin bile yüksek faizlerden kasıldığını iddia edenler oldu. Son olarak bazıları geçenlerde MB'nin bu yılki zararını bu yüksek faize bağladı. 
+Oysa MB, kısa vadeli faizlerini enflasyon gerçekleşmelerine ve beklentilere göre belirliyor. Hazine'nin borçlanma faizi ise tamamıyla uzun vadeli enflasyon beklentisine bağlı. Hatta kur beklentisi bile bono faizini etkileyebilir. Yani riskler. Ancak diğerini bunların hiçbiri etkilemez. 
+MB krizden bu yana kısa vadeli faiz oranlarını belirleyebiliyor. Bunun temel nedeni, mali kesimde likidite talebinin kontrol altına alınabilmiş olması. Hatırlayınız, 2001 yılına dek bankacılık kesimi müthiş bir likidite talebi içindeydi ve MB'nin de piyasaya likidite arzı NİV net iç varlıklar hedefiyle sınırlandırılmıştı. Krizden sonra, hem kur serbest bırakıldı , hem de kamu bankalarının görev zararı karşılığı Hazine bonosu verildi . MB de bunları doğrudan APİ açık piyasa işlemi'yle fonlayınca, faizler birdenbire düştü. Faizin tek belirleyicisi MB oldu. 
+Bu kez bankalar ellerinde kalan likiditeyi piyasaya kredi olarak satamadılar. Dayadılar MB'ye. Tabii onun faizine de razı oldular. Bu faiz de enflasyonu kontrol edecek biçimde ayarlandı. İşte hik yenin özü. 
+Aşağıdaki grafikte MB'nin APİ işlemleri görülüyor. 2001 yılının ikinci yarısı itibariyle MB giderek daha fazla para çekmiş. 2003 yılında bu, tepe noktasına ulaşmış. Ve 2004 yılında yavaş yavaş düşmeye başlamış. Bazılarının iddia ettiği gibi, MB'nin faizi çok yüksek kalsa, parası olanlar kredi vermek yerine paralarını MB'ye satarlar. Oysa öyle olmamış. 
+Gerçi 2003 yılının sonbaharında ilk daire , 2004 yılının ilkbaharında ikinci daire ve nihayet son aylarda son daire MB'ye satılan para aniden artmış. Ancak bu MB'nin faizi nedeniyle değil, döviz alımlarının yarattığı likiditenin yeniden MB tarafından çekilmesinden kaynaklanmış. 
+Enflasyon beklentisiyle hedef arasındaki fark, yani kredibilite açığı artık tersine dönmüş durumda . Bu durumda faizlerin daha hızlı inmesi istenebilir. Çünkü yıl sonu TÜFE beklentisi hedefin altında yüzde 7.5. Fakat MB'nin gözlediği hesaplanamayan risklerin olabileceği unutulmamalı. 
+Bono bileşik faizlerinin yüzde 18'e dayanmasına gelince. Bu, MB'nin yüksek faiz politikasından değil, risklerin artmasından ve yurtdışı piyasalarındaki gürültüden kaynaklanıyor. Yineleyelim, MB'yi olması gerekenden hızlı faiz düşüşüne zorlamak ciddi hatalara neden olabilir. 
+
+
+
+
+</TEXT>
+</DOC>

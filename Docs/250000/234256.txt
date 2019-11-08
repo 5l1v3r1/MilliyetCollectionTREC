@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 234256 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/23/son/sonyas03.html </URL>
+<DATE> 2004/04/23/ </DATE>
+<TIME> 11.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Randevusuna geç gelen hastaya para cezası 
+</HEADLINE>
+<TEXT>
+
+     Hollanda'da, hastanedeki randevusuna gelmeyen hasta, 1 Mayıs'tan itibaren, 20 euro yaklaşık 33 milyon lira para cezası ödemek zorunda olacak. 
+     Sağlık Bakanlığı'nın aldığı karar, hastaların bilgi vermeden randevuya gelmemelerinin ve hastanelerde zaman kaybının önlenmesini amaçlıyor. 
+     Karara göre, hastalar en geç 24 saat önceden randevularını değiştirebilecekler. 
+     Randevusuna zamanında gelmeyen hastadan tahsil edilecek para, doğrudan hastane bütçesine aktarılacak. 
+     
+</TEXT>
+</DOC>

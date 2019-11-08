@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 170155 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/18/yasam/yas15.html </URL>
+<DATE> 2003/07/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Windows’ta vahim açık 
+</HEADLINE>
+<TEXT>
+
+     Yazılım devi Microsoft’un dünyadaki bilgisayarların yüzde 90’ında kullanılan Windows işletim sisteminde, şimdiye kadarki en vahim’ güvenlik açığı ortaya çıkarıldı. Polonyalı bir grup bilgisayar uzmanının Windows’un tüm sürümlerinde bulduğu güvenlik açığını, firma da kabul etti. Microsoft, hackerların bu açıktan yararlanarak bilgisayarları ele geçirebileceği’, veri çalabileceği, dosya silebileceği ve e - mail okuyabileceği uyarısında bulunuldu. Açığı gidermek üzere internete bir güvenlik yaması koyan Microsoft, tüm Windows kullanıcılarının bu yamayı indirerek uygulamaları gerektiğini söyledi. 
+     
+
+</TEXT>
+</DOC>

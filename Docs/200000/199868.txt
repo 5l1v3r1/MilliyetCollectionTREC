@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 199868 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/04/son/sontur41.html </URL>
+<DATE> 2003/12/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türk Telekom'dan hızlı internet projesi... 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekom tarafından hizmete sunulan Hızlı İnternet Projesi DSL çerçevesinde 60 bin kullanıcı daha hızlı internetle tanışacak. Türk Telekom Genel Müdürlüğü'nden yapılan açıklamaya göre, internette hızlı erişim teknolojisini yaygınlaştırmak için çalışmalara hız veren Telekom, ilk yaygın uygulamayı Milli Eğitim Bakanlığı MEB ile gerçekleştirecek. 
+     1999 yılından bu yana 13 bin müşterisine genişband internet erişimi sunan Telekom, DSL Projesi ile 60 bin kullanıcıyı daha hızlı internet erişimi ile tanıştıracak. 
+     Başbakan Recep Tayyip Erdoğan tarafından yarın törenle uygulamaya geçirilecek olan proje kapsamında, DSL altyapısı üzerinden tüm okullara internet erişimi sağlanacak. 
+     Törende, ''Tüm Okullara İnternet Projesi''nin başlangıcı için düzenlenen protokol, Milli Eğitim Bakanı Hüseyin Çelik ve Ulaştırma Bakanı Binali Yıldırım tarafından imzalanacak. 
+     
+</TEXT>
+</DOC>

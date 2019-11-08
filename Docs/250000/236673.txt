@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 236673 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/02/son/soneko21.html </URL>
+<DATE> 2004/05/02/ </DATE>
+<TIME> 13.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Alıverişte kredi kartının, farklı bir cihaza okutulmamasına dikkat edin 
+</HEADLINE>
+<TEXT>
+
+     Alışveriş yaparken kredi kartlarının satış noktası terminallerinden POS farklı bir cihaza okutulup okutulmadığına dikkat edilmesi gerektiği bildirildi. 
+     Emniyet Genel Müdürlüğü'nce yayınlanan duyuruda, kişilerin kredi kartı alır almaz şifresini değiştirmesi ve yeni şifrelerinin aritmetik olarak artan veya aynı sayılardan oluşan rakamlar yerine, kredi kartı sahibinin kolayca hatırlayabileceği bir numaradan seçilmesi gerektiği kaydedildi. 
+     Kart şifrelerinin cüzdana veya kart üzerindeki herhangi bir yere kesinlikle yazılmaması, başkalarına söylenmemesinin başkalarının kredi kartını kullanmasını önleyeceğinin belirtildiği duyuruda, şu bilgilere yer verildi 
+     ''Alışveriş yaparken kredi kartınızı POS cihazından farklı bir cihaza okutturup okutturulmadığına dikkat edin. Bankadan yaptığınız alışverişleri gösteren hesap cetvelini dikkatlice kontrol edip, yapmadığınız alış verişlerde bankaya müracaat ederek olayı bildirin ve bu paranın hesabınızdan düşülmesine izin vermeyin. 
+     İnternet üzerinden sıkça alışveriş yapıyorsanız bankadan gönderilen hesap cetvelini dikkatlice okuyun, sizin kredi kartı bilgileriniz farklı kişilerce kullanılabilir.'' Duyuruda, internet ortamında alışveriş yaparken bu sitelerin güvenlikli olup olmadığından emin olmak gerektiği ve internet üzerinden abone yapan ve hizmet veren sayfalardan çok yüksek bir güvenlik sistemi olmadan alış veriş yapmamak gerektiği ifade edildi. 
+     Bankacılık ve finans işlemlerini internet üzerinden yaparken bankanın gerekli güvenlik yazılımlarını kullanıp kullanmadığına dikkat etmek gerektiğinin belirtildiği duyuruda, şu bilgilere yer verildi 
+     ''İnternet ve telefon bankacılığı sistemlerini kullanırken telefon konuşmanızın dinlenebileceği ortamları kesinlikle kullanmayınız. Şüphelendiğiniz bir durum karşısında hemen banka yetkilileri ve polisle irtibat kurarak gerekli kontrolleri yaptırınız.'' 
+     
+</TEXT>
+</DOC>

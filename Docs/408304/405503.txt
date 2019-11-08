@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 405503 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/21/son/sonyas11.html </URL>
+<DATE> 2005/12/21/ </DATE>
+<TIME> 11.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Trojan virüsleri cep telefonlarını da tehdit ediyor 
+</HEADLINE>
+<TEXT>
+
+     İnternet kullanıcılarının kaynağını bilmedikleri mailleri açmaları veya güvenilir olmayan sitelerden indirdikleri dosyalar nedeniyle bilgisayarlara bulaşan trojan dosyaların, cep telefonlarını da tehdit ettiği bildirildi. 
+     Fırat Üniversitesi Elektrik Elektronik Mühendisliği Öğretim Üyesi Yrd. Doç. Hasan Balık, AA muhabirine yaptığı açıklamada, bilgisayar teknolojisinde yaşanan gelişimin neredeyse günlük değişecek kadar hızlandığını söyledi. 
+     Bilgisayar kullanıcılarını en fazla tehdit eden unsurların başında virüslerin geldiğini belirten Balık, bunların önemli bir kısmının "Solucan" türü olarak tanımlanan trojan dosyaların oluşturduğunu kaydetti. 
+     Balık, trojan dosyaların, yerleştiği bilgisayarda yapılan tüm işlemleri kopya edebildiğini, ayrıca yazılımına bağlı olarak uygun donanımlı bilgisayara yerleşmesi halinde elektrik bağlantısı olması şartıyla kapalı dahi olsa bilgisayarın bulunduğu ortamdaki konuşmaları, görüntü ve ses kayıtları yapabildiğini, bunları internete girerek kendisini oluşturan kişiye gönderebildiğini belirtti. 
+     
+     CEP TELEFONLARI DA TEHDİT ALTINDA 
+     Bilgisayarların gelişimine paralel olarak işletim sistemi bulunan cep telefonlarının da ortaya çıktığını ifade eden Balık, şu bilgileri verdi 
+     "Cep telefonları aracılığıyla güvenilir olmayan sitelerden indirilen dosyalara veya telefona gelen kısa mesaj veya görüntülü mesajlara bu dosyalar yerleştirilmiş olabilir. Mesajı açtığınızda "Mesaj iletiminde hata" gibi uyarı gelmesine rağmen dosyalar, telefonunuza girmiş, yazılımına göre yapması istenen görevleri yerine getirmeye hazır hale gelmiştir. 
+     Virüs, yazılımı yapan kişinin isteğine göre, cep telefonunun bataryası ve sim kartı takılı olmak şartıyla kapalı dahi olsa WAP veya GPRS özelliği kullanarak internete girebilir, konuşmalarınızı, bulunduğu ortamdaki konuşmaları ve görüntü kayıtları yapabilir, bunları sahibine gönderebilir." Balık, insanların teknolojiden faydalanmalarını kabus haline getirebilecek tüm virüs tiplerinden korunmanın en iyi yolunun, kesinlikle bilinmeyen kişilerden gelen mail veya mesajların açılmaması, bilinen kişilerden gelen mail veya mesajlarda da "İletimde veya yüklemede hata" uyarısını görmeleri halinde bilgisayar veya cep telefonlarını kontrol ettirmeleri gerektiğini sözlerine ekledi. 
+     
+</TEXT>
+</DOC>

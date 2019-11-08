@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 233293 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/20/son/sonyas06.html </URL>
+<DATE> 2004/04/20/ </DATE>
+<TIME> 11.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+E - imza uygulaması Türkiye'de 2005'te başlayacak... 
+</HEADLINE>
+<TEXT>
+
+     Telekomünikasyon Kurumu Başkan Yardımcısı Doç. Dr. Mustafa Alkan, 2005 yılında başlayacak e-imza uygulamasıyla tüm kimlik ve kartların tek bir şifrede toplanacağını bildirdi. 
+     Doç. Dr. Alkan, Erciyes Üniversitesi Mühendislik Fakültesi Bilgisayar Mühendisliği Bölümü'nce bu yıl 7'ncisi düzenlenen Bilişim Haftası etkinlikleri kapsamında geldiği Kayseri'de, AA muhabirine e-imza uygulamasının getireceği yenilikleri anlattı. 
+     E-imza'nın, dünyada birçok ülkede 2 yıldır uygulandığını belirten Alkan, şunları söyledi 
+     ''E-imza Kanunu, 23 Ocak'ta Resmi Gazete'de yayınlandı. Uygulamanın 6 ay sonra yürürlüğe girmesini öngören kanun, 6 ay da hazırlanma süresi veriyor. Yani Türkiye'de e-imza uygulaması 2005 yılı itibariyle başlamış olacak. Telekomünikasyon Kurumu olarak, yeni uygulamanın altyapısını hazırlamaya ve ortaya çıkabilecek olumsuzlukları en aza indirmeye çalışıyoruz. Bunun için toplumsal bilinçlenmenin sağlanması, kamu kurum ve kuruluşlarının yeniden yapılanması gerekiyor. Şu an itibariyle Türkiye e-imza uygulamasına hazır değil. Ancak oluşturduğumuz Ulusal Koordinasyon Kurulu kanalıyla hazırlık çalışmalarını yürütüyoruz. Dünyada yaşanan sıkıntıları yaşamak istemiyoruz. Bunun için uygulamanın yapıldığı ülkelerin tecrübelerinden faydalanmaya çalışıyoruz.'' 
+     
+     KİMLİK VE KARTLAR TARİH OLACAK 
+     E-imza Kanunu'nun e-devlet ve e-dönüşüm süreci içindeki en önemli hukuku altyapı olduğuna dikkati çeken Alkan, yeni uygulamanın devletin hizmetlerinin vatandaşa daha çabuk ulaşmasını, kırtasiyecilik ve bürokrasinin azalmasını ve vatandaşın da devlet hizmetlerini en hızlı şekilde takip etmesini sağlayacağını kaydetti. 
+     E-imza uygulamasının, gelişen teknolojiler ışığında yaşamı daha da kolaylaştıracağını ifade eden Alkan, şöyle devam etti 
+     ''Öncelikle kurumumuz denetiminde sertifika makamları oluşturacağız. Bu makamlar, vatandaşımıza sertifika ve elektronik imza verecek. İnsanlar, elektronik imzalarını kullanarak internet ortamında her işlerini takip edebilecekler. Nüfus cüzdanı, pasaport, sürücü belgesi gibi belgeler ve banka kartlarının yerini e-imza alacak. Bugüne dek internet ortamında yapılan tüm işlemler karşılıklı güven ilişkisine dayanıyordu ve hukuki dayanağı yoktu. E-imza ile bu işlemler hukuki güvence altına alınmış olacak.'' E-imza uygulamasının yeni sahtecilik suçlarını da beraberinde getirebileceğini hatırlatan Alkan, yeni uygulamanın eskisine göre çok daha güvenli olduğunu belirtti. 
+     
+</TEXT>
+</DOC>

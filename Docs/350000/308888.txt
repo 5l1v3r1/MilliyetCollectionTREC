@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 308888 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/24/son/soneko37.html </URL>
+<DATE> 2005/01/24/ </DATE>
+<TIME> 17.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Serbest piyasada dolar 1.3420 YTL 
+</HEADLINE>
+<TEXT>
+
+     İstanbul ve Ankara serbest piyasalarında alınıp satılan döviz türlerinin, Çarşamba günü ve bugün itibariyle alış ve satış kapanış fiyatları şöyle 
+     
+
+İSTANBUL SERBEST PİYASA Çrş.Alış Çrş.Satış Pzt.Alış Pzt.Satış ABD Doları 1.3410 1.3460 1.3370 1.3420 Euro 1.7530 1.7590 1.7490 1.7550 İng. Sterlini 2.5030 2.5330 2.5060 2.5320 İsviçre Frangı 1.1280 1.1380 1.1270 1.1400      
+
+ANKARA SERBEST PİYASA Çrş.Alış Çrş.Satış Pzt.Alış Pzt.Satış ABD Doları 1.3430 1.3530 1.3370 1.3450 Euro 1.7560 1.7690 1.7490 1.7600 İng. Sterlini 2.5100 2.5450 2.5050 2.5400      
+</TEXT>
+</DOC>

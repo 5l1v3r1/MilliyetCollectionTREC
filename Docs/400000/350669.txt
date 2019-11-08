@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 350669 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/10/son/soneko13.html </URL>
+<DATE> 2005/06/10/ </DATE>
+<TIME> 10.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+SPK Başkanı Kobi piyasasına Nasdaq modeli benimsendi... 
+</HEADLINE>
+<TEXT>
+
+     Sermaye Piyasası Kurulu SPK Başkanı Doğan Cansızlar, KOBİ Piyasası'nı oluşturmak üzere bir ''kurucu şirket'' kurulması gerektiğini belirtirken, bu şirketle ilgili olarak ABD'deki Nasdaq Modeli'nin benimsendiğini açıkladı. 
+     A.A muhabirinin KOBİ Piyasası konusundaki çalışmalara ilişkin sorularını yanıtlayan Cansızlar, küçük ve orta boy işletmelerin KOBİ sermaye piyasalarından fon temin edebilmeleri amacıyla Kurul tarafından yürütülen çalışmaların son aşamaya geldiğini bildirdi. 
+     Cansızlar, bu konuda çalışmaların, TOBB ve Aracı Kuruluşlar Birliği ile işbirliği içinde yürütüldüğünü, Gaziantep, Konya, Kayseri, Denizli gibi illerin sanayi ve ticaret odaları ile çeşitli toplantılar yapıldığını ve potansiyel katılımcıların görüşlerinin de alındığını anlattı. 
+     Yapılan çalışmalarda, Anadolu'da faaliyet gösteren işletmelerde İMKB'nin hitap ettiği şirketlerin kendilerinden daha farklı olduğu ve İMKB'nin kendilerine yeterince eğilmediği şeklinde bir hakim görüşün olduğunun anlaşıldığını kaydeden Cansızlar, 2003 yılından bu yana gerçekleştirilen çalışmaları anlattı. 
+     KOBİ Piyasası'nı oluşturmak üzere bir ''Kurucu Şirket'' kurulması gerektiğinin altını çizen SPK Başkanı, bu şirketin, sermaye piyasası araçlarının aracı kuruluşlar vasıtasıyla alım ve satımının yapıldığı işlem platformunu ve bunun gerektirdiği organizasyonu oluşturacağını ve geliştireceğini kaydetti. 
+     
+     NASDAQ MODELİ 
+     Kurucu şirketle ilgili olarak ABD'deki Nasdaq modelinin benimsendiğini açıklayan Cansızlar, Nasdaq'ın, Türkiye Sermaye Piyasası Aracı Kuruluşları Birliği'nin ABD'deki muadili olarak nitelendirilebilecek National Association of Securities Dealers, Inc. NASD tarafından kurulduğunu hatırlattı. 
+     Türkiye'de de ''Kurucu Şirketin'' ortakları arasında TOBB'un, Aracı Kuruluşlar Birliği'nin, mali kuruluşların ve reel sektörü temsil eden diğer bazı meslek örgütlerinin yer almasının öngörüldüğünü söyleyen Cansızlar, şöyle devam etti 
+     ''Gelinen aşamada şirketi oluşturma çalışmaları TSPAKB ve TOBB'un da katılımıyla yürütülmektedir. Mevcut durumda 48 aracı kurum ve banka ortak olma konusunda beyanda bulunmuş, esas sözleşme taslağı üzerinde çalışmak üzere çeşitli toplantılar yapılmış ve şirket esas sözleşme taslağı hazırlanmıştır. Şirketin fiilen kuruluşu, ortak olma konusunda aday olan bu kuruluşlar ile yapılan görüşmeler sonucunda kısa süre içinde netleşecektir.'' 
+     
+     PİYASA NASIL İŞLEYECEK 
+     Oluşturulan modelde, işlemlerin çeşitli bölge ve illerdeki pek çok yatırımcıyı bir araya getirebilecek ortak bir elektronik işlem platformu üzerinde gerçekleştirileceğini anlatan Cansızlar, yatırımcıların bu platforma aracı kuruluşlar kanalıyla ulaşacağını ve Borsa'da olduğu gibi, işlemlerini aracı kuruluşlar üzerinden yapacağını vurguladı. 
+     
+     PİYASA YAPICILIĞI SİSTEMİNE DAYALI ÇALIŞACAK 
+     Yeterli likiditenin sağlanması amacıyla bu piyasanın ''piyasa yapıcılığı'' sistemine dayalı olarak çalışacağını da açıklayan Cansızlar, bu çerçevede, piyasaya kote olmak isteyen her şirketin en az bir piyasa yapıcı aracı kuruluş ile anlaşmasının gerektiğini belirtti. 
+     Piyasa yapıcı aracı kuruluşların da, sorumlu oldukları her sermaye piyasası aracı için çift taraflı alış satış kotasyonu vermek ve bu kotasyonlar doğrultusunda işlem yapmak zorunda olacaklarını da kaydeden Cansızlar, şöyle devam etti 
+     ''Piyasa yapıcı aracı kuruluşlar tarafından birbirlerinden bağımsız olarak verilecek kotasyonlar, Merkezi Bilgi Sistemi tarafından toplu hale getirilecek ve en iyi alış ve satış kotasyonları merkezi bir şekilde görülebilecektir. Bu merkezi sistem elektronik ortamda finans çarşısı işlevini görecektir. Söz konusu sistem, ülke çapında döviz büfeleri tarafından açıklanan döviz alış ve satış fiyatlarının tek bir merkezde toplanmasını ve en iyi fiyatları veren tarafların görülebilmesini sağlayan bir sistem olarak örneklendirilebilir.'' 
+     
+</TEXT>
+</DOC>

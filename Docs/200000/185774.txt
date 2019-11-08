@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 185774 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/01/son/soneko11.html </URL>
+<DATE> 2003/10/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa ilk seansı aynı noktada tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi, önceki kapanışa göre 2.01 puan artışla, 1. seansı 13,057.91 puandan tamamladı. 
+     1. seansta hisse senetlerinin ortalama değer artışı yüzde 0.02 olarak gerçekleşti. 
+     Dün 13,055.90 puandan kapanan endeks, ilk seansa 3.08 puan artarak 13,058.98 puan seviyesinde başladı. Seansın ilk yarısını 13,094.93 puandan geçen endeks, seans içinde en yüksek 13,195.64 puana kadar yükselirken, en düşük olarak 13,007.82 puana geriledi. 
+     Seans kapanışında mali endeks 22.17 puan artışla 16,754.95 puana, sanayi endeksi 12.79 puan artışla 12,487.03 puana, hizmetler endeksi 22.78 puan artışla 7,494.88 puana yükseldi. 
+     Böylece, önceki kapanışa göre mali grup hisseler ortalama yüzde 0.13, sanayi grubu hisseler ortalama yüzde 0.10, hizmetler grubu hisseler ortalama yüzde 0.30 değer kazandı. 
+     1. seansta işlem gören toplam 283 hisse senedinden 134'ü değer kazanırken, 65 hisse senedi değer yitirdi. 84 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta, 200 trilyon 448 milyar 480 milyon liralık işlem hacmi oluştu. 
+     1. seansta, Doğan holding, İhlas Holding, Sabancı Holding, İş Bankası C ve Koç Holding en yoğun işlem gören hisseler oldu. 
+     Başkent Menkul Kıymetler Pazarlama Yönetmeni Kenan Demiral, dün özellikle 2. seansta yoğunlaşan satışlarla, 12,860 seviyelerine kadar gerileyen endeksin, bugün 13,000 seviyelerinde tutunmaya çalıştığını ifade ederek, son siyası gelişmelerin piyasada yarattığı belirsizlik ve alternatif piyasalardaki hareketliliğin yeni alımları sınırladığını, buna rağmen orta vadeye ilişkin olumlu beklentilerin devam ettiğini kaydetti. 
+     
+</TEXT>
+</DOC>

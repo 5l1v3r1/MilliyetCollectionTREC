@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 160741 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/03/son/sondun04.html </URL>
+<DATE> 2003/06/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft, IE'nin tek başına kullanımına son veriyor... 
+</HEADLINE>
+<TEXT>
+
+     Yazılım devi Microsoft firmasının, IE olarak bilinen internet tarayıcısı Explorer'ın tek başına kullanımına yakın gelecekte son vereceği bildirildi. 
+     IE program müdürü Brian Countryman, ''IE6 SP1'in, tek başına kullanılabilecek son tarayıcı sürümü olduğunu'' açıkladı. 
+     Microsoft'un bundan sonra IE'yi Windows işletim sisteminin ayrılmaz parçası olarak geliştirmeye karar verdiği belirtiliyor. 
+     Microsoft, hakkında açılan tekelleşmeye karşı mücadele davası nedeniyle IE6'nin bu sürümünü son kez işletim sisteminden ayrı olarak kullanıma sundu. Dava, Microsoft'un IE'yi işletim sisteminin parçası haline getirerek tekelleşmeyle mücadele yasalarını ihlal ettiği iddiasıyla açılmıştı. Ancak Microsoft, ABD Adalet Bakanlığı ile arasındaki davayı halletmeyi başardı. Bu nedenle Microsoft'un bundan sonra dilediği şekilde hareket etmesini engelleyecek bir mani kalmamış bulunuyor. 
+     Countryman açıklamasında, ''Bağımsız tarayıcılar IE6 SP1 ile tepe noktasına ulaşmış bulunuyor. Tarayıcılar, bundan sonra bağlı oldukları işletim sistemiyle birlikte geliştirilecek'' dedi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 358304 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/05/son/sondun42.html </URL>
+<DATE> 2005/07/05/ </DATE>
+<TIME> 17.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Elektriklisi Japonya'da, hidrojenlisi İngiltere'de yola çıktı... 
+</HEADLINE>
+<TEXT>
+
+     Gelişmiş ülkeler, fosil yakıtlara bağımlılıklarını azaltacak ve giderek yok edecek teknolojileri geliştirmek amacıyla, elektrik ve hidrojenle çalışan araçları denemeye devam ediyorlar. 
+     Japonya'da 38 kuruluşun katkısıyla Keio Üniversitesi tarafından geliştirilen sekiz tekerlekli elektrikli prototip araç bugün yollara düşerken, İngiltere'de hidrojenle çalışan bir başka araç da asgari yakıtla en uzun yolu katetmek için Perşembe günü Rockingham yarış pistine çıkacak. 
+     Japonya'da ''Electric Lithium-Ion battery Car'' Lithium-Ion bataryalı elektrikli otomobil ifadesinin baş harflerinden türetilen ve ''Eliica'' adı verilen sekiz tekerlekli araç ilk kez test pistlerinin dışında trafikte sınav veriyor. 2,5 ton ağırlığındaki Citroen DS'ye benzeyen 5 metre uzunluğundaki otomobil, konforu, güvenliği ve çevreci özellikleriyle yarının ideal aile otomobilini temsil ediyor. 
+     Her tekerleğine yerleştirilen elektrik motorlarıyla alışılgelmiş transmisyon sorunlarını ortadan kaldıran ve saatte 400 kilometre hıza ulaşabilen araç, 100 kilometreyi 1 avrodan daha az bir masrafla katedebiliyor. 
+     Japonya'da denemeleri süren elektrikli otomobil projesinin mali ortakları arasında Bridgestone, Pioneer, Daiwa House Industry ve Japan Airlines gibi önemli şirketler bulunuyor. 
+     
+     REKOR DENEMESİ 
+     İngiltere'de Perşembe günü yarış pistinde dünyanın en az yakıt tüketen aracı rekorunu kırmaya hazırlanan ve hidrojenle çalışan BOC Ech2o de, 40 bin kmilometreyi 8 litreden az akaryakıta denk gelen 25 watt tutarında bir enerji harcamasıyla tamamlamayı planlıyor. 
+     Aracın sponsoru İngiliz gaz firması BOC'nin bildirdiğine göre, hidrojen yakıt hücresi tarafından elde edilen elektrikle motorlarına güç veren ve atık olarak atmosfere sadece su salan araç, en yüksek hızı saatte 48 kilometre olması nedeniyle bu rekor denemesini, hiç piste girmese bile bir aydan uzun bir sürede tamamlayacak. 
+     Bu alandaki rekor, bir litre yakıtla 85 kilometre yol alan ve hidrojenle çalışan İsviçre yapımı PAC-Car II adlı bir araca ait bulunuyor. 
+     Piste Perşembe günü çıkacak BOC Ech2o, geçen yıl denemelerde başarısız olan BOC Gh2ost adlı aracın yeni bir versiyonu. 
+     
+</TEXT>
+</DOC>

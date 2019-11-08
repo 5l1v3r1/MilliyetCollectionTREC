@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 225046 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/24/yasam/yas03.html </URL>
+<DATE> 2004/03/24/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Teknolojinin fendi 'ruleti' yendi mi 
+</HEADLINE>
+<TEXT>
+
+   Ritz Oteli, ruletten 3.4 trilyon kazanan 3 kişiyi polise verdi. İddia Lazerli telefonla, topun duracağı yeri hesapladılar 
+      Nevsal Elevli 
+   
+   İngiltere'de 3 yabancı hakkında, Londra'daki Ritz Oteli'nin kumarhanesinde rulette hile yaparak sadece 2i gecede tam 1.3 milyon sterlin 3.4 trilyon lira kazandıkları iddiasıyla soruşturma açıldı. 
+   Kumarhanenin ihbarı üzerine önce tutuklanan daha sonra da kefaletle serbest bırakılan 38 ve 33 yaşındaki iki Sırp erkek ile 32 yaşındaki bir Macar kadın, kumarhaneye geldikleri ilk gece 100 bin sterlin, ikinci gelişlerinde de 1.2 milyon sterlin kazandı. 300 bin sterlini nakit, kalanı çekle ödeyen kumarhane yönetimi, video kayıtlarını izledikten sonra polise haber verdi. 
+   The Guardian gazetesinde yer alan haberde, polis yetkililerinin, 3 kişinin mobil telefon içine gizlenmiş bir lazer tarayıcı ve telefonun irtibatlı olduğu bilgisayar yardımıyla, rulet topunun duracağı olası yeri hesaplayarak para sürdüğü kanısında olduğu belirtildi. Gazeteye göre, sadece 2 - 3 saniyede tamamlanan 'karar alma' sürecinin şöyle işlediği düşünülüyor 
+   1- Cep telefonu içine gizlenmiş hızı ölçen lazer tarayıcı, krupiyenin çevirdiği ruletin tekerleğini hedefliyor. 
+   2- Lazer tarayıcı topun tekerleğe atıldığı andaki hızıyla ikinci bir noktadan geçtiği sıradaki hızını ölçüyor ve böylece topun yörüngesi hesaplanabiliyor. 
+   3- Dönme hızları, yine cep telefonundan bir bilgisayara iletiliyor. Bilgisayar iki saniye içinde topun duracağı olası bir ya da birkaç numarayı hesaplıyor. 
+   4-Bilgisayarın öngördüğü numara ya da numaralar, tekrar cep telefonuna aktarılıyor ve rulet tekerleğinin 3. dönüşünden önce bahisler sürülüyor. 
+   
+   
+   
+   
+</TEXT>
+</DOC>

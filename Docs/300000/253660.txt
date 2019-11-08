@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 253660 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/07/son/sontur10.html </URL>
+<DATE> 2004/07/07/ </DATE>
+<TIME> 11.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ankara'da metro seferlerinde aksama... 
+</HEADLINE>
+<TEXT>
+
+     Ankara Metrosu'nun bilgisayarlı makas kontrol sisteminde yaşanan arıza, seferlerde gecikmeye neden oldu. 
+     Alınan bilgiye göre, Demetevler istasyonunda sabah saatlerinde, raylar üzerindeki trafiği kontrol etmeye yarayan bilgisayarlı makas kontrol sisteminde arıza yaşandı. 
+     Arıza üzerine, makaslardaki kontrolün, ellerinde telsizler bulunan görevliler tarafından ''manuel'' olarak gerçekleştirilmesine başlandı. 
+     Sistemdeki bu geçişi sağlayabilmek için metro seferleri bir süre durduruldu. Tekrar başlayan seferler ise 10'ar dakikalık gecikmelerle yapılabiliyor. 
+     Arıza nedeniyle seferlerde yaşanan aksama, işyerlerine gitmeye çalışan vatandaşların tepkilerine yol açtı. 
+     Arızanın giderilmesine yönelik çalışmalar devam ederken, metro istasyonlarında vatandaşlara, ''teknik bir arıza nedeniyle seferlerde aksama yaşandığı'' uyarısı yapılıyor. 
+
+     
+</TEXT>
+</DOC>

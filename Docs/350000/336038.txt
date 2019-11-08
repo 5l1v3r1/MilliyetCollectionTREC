@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 336038 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/22/son/sonyas10.html </URL>
+<DATE> 2005/04/22/ </DATE>
+<TIME> 10.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+TÜBİTAK geliştirdi... Aranan kişiler yüzlerinden tanınacak 
+</HEADLINE>
+<TEXT>
+
+     TÜBİTAK, güvenlik güçlerinin aranan kişileri daha kolay bulmasını sağlayacak yeni bir sistem geliştirdi. Özellikle havalimanı ve stadyum gibi alanlara girişlerde kameralardan elde ettiği yüzleri, saniyeler içinde veri tabanındaki yüzlerle karşılaştırabilen sistem, aranan kişileri estetikli olsa bile tespit edebiliyor. 
+     AA muhabirinin aldığı bilgiye göre, Bilgi Teknolojileri ve Elektronik Araştırma Enstitüsü'nde Güvenlik Amaçlı Yüz Eşleme GAYE sistemi geliştirildi. 
+     Sistem, gerçek zamanlı video görüntülerinde ve sabit fotoğraflarda bulunan yüzleri, veri tabanında kayıtlı kişilerle karşılaştırıyor. Özgün algoritmalar kullanılması nedeniyle yerli bir teknoloji içeren sistem, kameraların elde ettiği görüntüler temelinde çalışıyor. Kameralar adeta dedektif gibi çalışarak, kapsadıkları alandaki tüm yüzleri en uygun şekilde veri tabanına gönderiyor. 
+     Havalimanı, stadyum gibi alanlara kurulan kameralar, elde ettiği yüzleri, veri tabanına gönderiyor. Veri tabanında saniyeler içinde yapılan karşılaştırmada, elde edilen yüzün, aranan bir kişiye ait olup olmadığı belirleniyor. Sistem, aranan kişiyi bulduğunda operatöre sesli ya da sessiz şekilde uyarıda bulunuyor ve bu kişinin yakalanmasını sağlıyor. 
+     
+     ATKI, GÖZLÜK, KAMUFLAJDA BİLE BAŞARILI 
+     Atkılı, gözlüklü, kamuflajlı ya da estetik yaptırılsa bile sistem, ışıklandırma değişimlerinden de etkilenmeden aranan kişileri saptayabiliyor. Operatörlere aranan kişilere ait özellikler üzerinden araştırma yapma imkanı da veren sistem, örneğin aranan kişideki ''akne'' ya da ''ben'' gibi dikkat çekici özellikler üzerinden sonuca ulaştırabiliyor. 
+     TÜBİTAK BİLTEN'de yapılan testte, elde edilen yüz görüntüleri, önce veri tabanına girildi ve ardından kameranın yeni tespit ettiği görüntülerle karşılaştırılması istendi. Uluslararası kriterlerin esas alındığı bu denemede, sistemin yüzde 100 başarılı olduğu belirlendi. 
+     GAYE'nin futbol maçlarında olay çıkaranların stadyumlara girişini önlemek amacıyla kullanılacağı, bu çerçevede ilk etapta 19 Mayıs Stadyumu'na sistemin kurulacağı öğrenildi. Mevcut kameralar kullanılarak, stadyuma girenlerin yüzleri sistem aracılığı ile taranacak ve girişi yasaklanan kişiler tespit edilecek. 
+     Robot resim benzeri fotoğraflarda, resim fotokopilerinde yüz tanımada başarılı sonuçlar veren sistem, yüksek güvenlik gerektiren işyerlerinde giriş-çıkışların kontrolünde de kullanılabilecek. 
+     Yüz tanıma sistemi kurulan evlerde ise kapıyı otomatik açma yeteneğindeki sistem, izinsiz girmeye çalışan kişilerin fotoğraflarını saptayarak ev sahibine bildiriyor. 
+     
+</TEXT>
+</DOC>

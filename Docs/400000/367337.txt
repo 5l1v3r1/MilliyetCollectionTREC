@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 367337 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/05/son/soneko20.html </URL>
+<DATE> 2005/08/05/ </DATE>
+<TIME> 12.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı 29,948 puandan tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeksi, dünkü kapanışa göre 175.55 puan azalarak seansı 29,948.04 puandan kapattı. 
+     1. seansta, hisse senetlerinin ortalama değer kaybı yüzde 0.58 oldu. 
+     Dün 30,123.59 puandan tarihi rekorla kapanan İMKB Ulusal 100 Endeksi, ilk seansa 10.82 puan azalarak 30,112.77 puandan başladı. İlk yarıyı 29,995.55 puandan geçen endeks, en düşük 29,908.16 puana gerilerken, önceki seans kapanış seviyesi olan 30,123.59 puanın üstüne çıkamadı. 
+     Seans sonunda mali endeks 320.95 puan azalarak 45,263.15 puana, sanayi endeksi 51.06 puan azalarak 23,968.54 puana ve hizmetler endeksi 13.56 puan azalarak 15,168.45 puana geriledi. 
+     Böylece önceki kapanışa göre, mali grup hisseler ortalama yüzde 0.70 sanayi grubu hisseler ortalama yüzde 0.21 ve hizmetler grubu hisseler de ortalama 0.09 oranında değer yitirdi. 
+     1. seansta işlem gören toplam 302 hisse senedinden 132'si değer kazandı, 101'i değer kaybetti, 69 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta, 364 milyon 823 bin 722 YTL'lik işlem hacmi oluştu. 
+     1. seansta, İhlas Holding, İş Bankası C , Marmaris Martı Otel, Yapı ve Kredi Bankası ile Tofaş otomobil Fabrikaları, en çok işlem gören hisse senetleri olarak belirlendi. 
+     
+</TEXT>
+</DOC>

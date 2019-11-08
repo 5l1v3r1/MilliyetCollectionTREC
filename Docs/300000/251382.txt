@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 251382 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/28/son/sondun08.html </URL>
+<DATE> 2004/06/28/ </DATE>
+<TIME> 11.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Irak'ın egemenliği internete kadar... 
+</HEADLINE>
+<TEXT>
+
+     Egemenliğin devredildiği bugün uluslararası alanda egemen devletler arasındaki yerini alan Irak'ın ''internetteki egemenliği'' halen Amerikalıların elinde. Iraklılar, internette .iq uzantılı alan adı alamıyor. 
+     Ascension Adası'ndan .ac Zimbabve'ye .zw kadar 240'tan fazla devletin iki harfli alan adı uzantılarına sahip olduğu internette, Irak'ın domain alan adı uzantısı .iq konusunda bürokratik savaş sürüyor. 
+     Domain uzantısını şimdiye kadar yöneten Amerikan şirketi, ABD'de mahkemelik olduğu için, ''Iraklıların kendi adreslerine kavuşmalarının birkaç ay alabileceğini, bu zamana kadar da genel uzantılar .com, .org ve .net ile idare etmek zorunda oldukları'' kaydedildi. 
+     Internet Corporation for Assigned Names and Numbers ICANN isimli alan adı kayıt işlerini yöneten kuruluş, devrik Irak Devlet Başkanı Saddam Hüseyin ülkesinde interneti yasakladıktan sonra, 1997 yılında .iq uzantısının yönetimini Ortadoğu'da faaliyet gösteren Amerikan InfoCom şirketine vermişti. 
+     InfoCom'un sahiplerinin, Libya ve Suriye'ye bilgisayar malzemesi satmakla ve Hamas örgütünün bir üyesine para iletmekle suçlandığı dava bu ay başladı. Bu nedenle .iq uzantısının Iraklılara verilmesinin zaman alacağı kaydediliyor. 
+     ICANN, Irak'ın alan adı uzantısını yönetmek için çok sayıda başvuru aldıklarını belirterek, adayların teknik imkanlarına bakılarak seçim yapılacağını bildirdi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 293983 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/02/ekonomi/eko05.html </URL>
+<DATE> 2004/12/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Data Teknik, Jandarma'nın ihalesini iptal ettirdi 
+</HEADLINE>
+<TEXT>
+
+
+EKONOMİ SERVİSİ 
+
+Gazetemizin 30 Kasım tarihli nüshasındaki "Ülker'e kalite vetosu' haberimizin başlığı, yanlış anlamalara neden olmuştur. Haberin içeriğiyle başlığı birbirine tezat oluşturmaktadır. Haberin doğru şekli şudur 
+Ülker Grubu'na ait Data Teknik Bilgisayar, Jandarma İkmal Merkezi Komutanlığı'nın bilgisayar alımı ihalesini iptal ettirdi. Jandarma İkmal Merkez Komutanlığı, kişisel tip bilgisayar alımı için 7 Eylül 2004'te ihaleye çıktı. İhale dışı kalan Data Teknik firması, rekabet ilkesine aykırı davranıldığı gerekçesiyle Jandarma'ya itiraz başvurusunda bulundu. Ancak, itirazı reddedilen Data Teknik, bu kez bir dilekçeyle Kamu İhale Kurumu'na KİK başvurdu. 
+KİK ise ihalede, kalite güvence belgesi kapsamında istenen FCC ve UL belgelerinin "herhangi bir kalite standardı olmadığı ve sadece ABD sınırları içerisinde geçerliliği olduğunu" tespit ederek, bu yolla yerli firmaların ihaleye katılmalarının engellendiği kanaatine vardı. Bu mevzuata aykırılıkların düzeltici işlemle giderilebilecek nitelikte olmadığını belirleyen KİK, ihale işlemlerinin iptaline karar verdi. Ama KİK'in bu kararı iki kurul üyesinin tepkisine neden oldu. Bu iki üye karara katılmadı. Ülker Grubu'ndan ve okurlarımızdan özür dileriz. 
+
+
+</TEXT>
+</DOC>

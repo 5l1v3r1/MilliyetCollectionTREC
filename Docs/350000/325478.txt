@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 325478 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/21/son/sondun13.html </URL>
+<DATE> 2005/03/21/ </DATE>
+<TIME> 08.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+AFP'den Google'a 17.5 milyon dolarlık telif davası 
+</HEADLINE>
+<TEXT>
+
+     NEW YORK DHA 
+
+      DÜNYANIN en büyük haber ajanslarından biri olan AFP Fransa Basın Ajansı , telif hakkı kendilerine ait olan fotoğraf ve haberleri izinsiz yayınladığı gerekçesiyle Google firmasına 17.5 milyon dolarlık tazminat davası açtı. 
+     Google News haber sitesinin bundan böyle kendilerine ait görüntü, haber özeti ve özel haberleri yayınlamaktan men edilmesini de isteyen ajans, üyelerine bu hizmetleri ücretli olarak veriyor. Ancak AFP'nin açtığı davada, dünyadan seçme haberler veren Google News, söz konusu haber ve görüntüleri ücretsiz olarak kamuoyuna açmakla suçlanıyor. 
+     
+</TEXT>
+</DOC>

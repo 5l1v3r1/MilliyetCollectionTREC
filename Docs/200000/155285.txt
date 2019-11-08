@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 155285 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/08/son/sondun02.html </URL>
+<DATE> 2003/05/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft'tan internetli tuvalet... 
+</HEADLINE>
+<TEXT>
+
+     Microsoft, hızla artan talebi göz önüne alarak sonunda içinde internet bağlantısı bulunan seyyar tuvaletler üretti. 
+     Seattle Post-İntelligencer gazetesinin haberine göre, Microsoft'un internet kolu olan MSN tarafından üretilen ve ''iLoo'' adı verilen internet bağlantılı-bilgisayarlı tuvaletler, ilk kez İngiltere'de hizmete sunulacak. 
+     Seyyar tuvalette oturanlar, karşılarında, hızlı internet bağlantısı bulunan, su geçirmez klavyeli ve ayarlanabilir plasma ekranlı bir bilgisayar bulacaklar. Bilgisayarın ayrıca stereo hoparlör sistemi de bulunuyor. Tuvalet bilgisayarlarının, Microsoft'un hotmail e-posta sistemine bağlı olacağı kaydedildi. 
+     
+     ÖZEL TUVALET KAĞIDI KULLANILACAK 
+     MSN yetkilileri, söz konusu tuvaletlerde, üzerinde internet sitelerinin web adresleri bulunan özel tuvalet kağıdı kullanılması için çalışma yaptıklarını da açıkladılar. 
+     ''İnternetin günlük hayata çok fazla girdiğine'' dikkati çeken MSN pazarlama müdiresi Tracy Blacher, ''kişilerin tuvalette gazete ya da kitap okuma alışkanlıkları bulunduğunu'' hatırlattı, ''şimdi, gazete okuyacaklarına internete girebilecekler'' diye konuştu. 
+     
+</TEXT>
+</DOC>

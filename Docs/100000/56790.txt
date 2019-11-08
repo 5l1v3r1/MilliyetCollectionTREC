@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 56790 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/12/12/son/sondun11.html </URL>
+<DATE> 2001/12/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Konyalı Ahmet, internetin kralı... 
+</HEADLINE>
+<TEXT>
+
+     ABD'nin Chicago kentinde faaliyet gösteren Asena Bilgisayar şirketi, Yahoo'dan sonra, Internet'in en büyük müzayede sitesi eBay'da da elektronik dalında lider firmalar arasına girdi. 
+     eBay, birlikte çalıştığı firmaları onurlandırmak için verdiği "Star" yıldız sertifikasını Ahmet Keskes adına Asena Bilgisayar firmasına gönderdi ve firmayı güçlü satıcılarının arasına soktu. Ayda en az 25 bin dolarlık satış yapan ve müşterilerin büyük güven beslediği firmaları ödüllendiren "Star" sertifikası, Asena Bilgisayar firmasına yüksek satış rakamı ve yüzde 98'lik müşteri güvenirliği nedeniyle verildi. 
+     
+     Her yerde müşterisi var 
+     Pazarladığı malları müşterilere en kısa zamanda göndermeyi hedef alan firma, Yunanistan'dan İzlanda'ya kadar birçok ülkeye mal teslim ediyor. 
+     Asena Bilgisayar'ın eBay'da ve kendi internet satış sitesi Asenashop.com'da yaptığı aylık satışın toplamı ayda 350 bin dolara ulaşıyor. 
+     Firma, şimdiye kadar Yunanistan, Macaristan, Hollanda, İzlanda, Avustralya, Guam, Endenozya, İrlanda, Mısır, Tayvan, Tayland, Fransa, Almanya, Brezilya, Kanada, Meksika, Türkiye, Danimarka, Japonya, Honolulu, İskoçya, Belçika, İsviçre ve Filipinler'e mal teslim etti. 
+     
+     Ekibin çoğu Türk 
+     Asenashop.com'ı dünyanın dört bir tarafına mal satan bir site haline getirmeye başladıklarını belirten 25 yaşındaki Ahmet Keskes, şöyle dedi 
+     ''10 kişilik bir ekibimiz var. Ekibizimizn 9'u Türk biri Amerikalı. Başarımız, sistemli çalışmamızdan kaynaklanıyor. 
+     Asenashop.com 9 dilde hizmet veriyor. Giderek daha fazla dilde hizmet vermeyi amaçlıyoruz. Bize çeşitli ülkelerden gelen e-postalara o ülkelerin dilleri ile de cevap verebiliyoruz. Bu yüzden müşterilerimiz yüzde yüz tatmin oluyor. Başarımızın bir sırrı da, müşterilerimizin bize telefonla ulaşabilmeleri. Amerika'daki çoğu Internet firması müşterilerine canlı olarak hizmet veremiyor. Bizi arayan her müşterimiz, tam güvenirlilik içinde siparişini verebiliyor". 
+     Asena bilgisayar firmasinin eBay'daki linki şöyle 
+     http www.asenashop.com auctions ebay.html ViewListedItems userid ase na shop include 0 since -1 sort 2 rows 25 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 311328 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/01/son/soneko26.html </URL>
+<DATE> 2005/02/01/ </DATE>
+<TIME> 12.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bill Gates MSN, çok daha güçlü bir arama moturunu hizmete sunacak 
+</HEADLINE>
+<TEXT>
+
+     Ünlü yazılım şirketi Microsoft'un Başkanı Bill Gates, Microsoft'un internet hizmet sunucusu MSN'in, çok daha güçlü bir arama moturunu, kullanıcılarının hizmetine sunacağını söyledi. 
+     Bill Gates, MSN ana sayfasında yayınlanan açıklamasında, kullanıcılardan gelen bilgiler ve istekler doğrultusunda MSN sayfasını yeniden dizayn ettiklerini, bu sayfayı kullanacak olanların, aradıkları detaylı bilgiye daha hızlı bir şekilde ulaşabileceklerini kaydetti. 
+     Microsoft'taki ana misyonlarının, yazılım gücünü kullanarak, müşterilerinin en zor sorunlarını çözmek olduğunu belirten Gates, internette arama yapmasının önemli bir sorun olduğunu, müşterilerinin yaklaşık yarısının zor sorularının yanıtsız kaldığını belirterek, yeni arama moturunun, resim, haber, müzik ve dosyalar alanında hızlı ve detaylı bir arama imkanı sunacağını bildirdi. 
+     Gates, müşterilerinden gelen tepkiler çerçevesinde, MSN'i geliştirmeye devam edeceklerini de vurguladı. 
+     
+</TEXT>
+</DOC>

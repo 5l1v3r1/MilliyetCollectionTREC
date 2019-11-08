@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 144185 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/03/21/son/sondun33.html </URL>
+<DATE> 2003/03/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Irak savaşında yeni teknoloji denemesi... 
+</HEADLINE>
+<TEXT>
+
+     Rochester Üniversitesi'nde geliştirilen yeni bir izleme teknolojinin, hafif silahlarla donatılmış araçlarda kullanılabileceği bildirildi. 
+     Amerikan Deniz Kuvvetleri Araştırma Merkezi ile üniversite uzmanlarının geliştirdiği yeni teknolojinin, savaş anında bozulan araçların gözlenmesi ve sorunun anında giderilmesiyle ilgili olduğu belirtildi. 
+     Aracın altına yerleştirilen bir cihazla tüm aksamların kontrol edildiği ve aracın işleviyle ilgili bilgilerin incelenebildiği kaydedildi. 
+     Uzmanlar, yeni teknoloji için özel bir yazılım programı da geliştirildiğini açıkladı. 
+     Cihaz, aracın sarsıntısı, sesi ve yakıtta bulunan yabancı maddelerle ısısını saptayarak, bilgi merkezinde toplayabiliyor. Bu bilgiler, uydular vasıtasıyla anında aracın gözetlendiği merkezlere ulaşarak değerlendiriliyor. 
+     Gerektiğinde savaşın ana merkezi veya ABD'deki uzaktan gözetleme merkezinden, aracın olası sorununun giderilmesiyle ilgili bilgiler, araç komutasına ulaştırılabiliyor. 
+     Teknolojinin denenmesi için Irak savaşından daha iyi bir zamanın seçilemeyeceğine dikkati çeken uzmanlar, teknolojinin Irak savaşında denendiği mesajını verdi. 
+     Hafif silahlarla yüklü küçük araçlarda aşırı ısınmanın sorun olabildiği, Irak savaşında çöllerin de bu teknolojinin denenmesi için iyi bir ortam yarattığı belirtiliyor. 
+     Amerikan ordusunun, Irak savaşında uydularla bağlantılı araçlar kullandığı, araçlardan uydulara ulaşan bilgilerle hedeflerin daha sağlıklı belirlenebildiği kaydediliyor. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

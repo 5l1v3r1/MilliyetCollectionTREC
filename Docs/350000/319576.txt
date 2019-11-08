@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 319576 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/01/son/sondun56.html </URL>
+<DATE> 2005/03/01/ </DATE>
+<TIME> 22.49 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hollanda Adalet Bakanlığı'nın bilgisayarı çalındı 
+</HEADLINE>
+<TEXT>
+
+     Hollanda'da yargı organı, kısa süre içinde iki kez hırsızların hedefi oldu, önemli bilgi ve belgelerini çaldırdı. 
+     Lahey'de geçen hafta bir mahkeme binasından bazı dosyaların çalınmasından sonra, bu kez de Adalet Bakanlığı'nın mahkemelerle ilgili birimine ait Zeist kentinde bulunan bilgisayar merkezinden 22 dizüstü bilgisayarın çalındığı bildirildi. 
+     Utrecht Mahkemesi'nden yapılan açıklamada, Zeist kentindeki merkezden bilgisayarların 26 Ocak günü çalındığı, bilgisayarlarda yargılamaları etkileyecek önemli bilgiler bulunmadığı belirtildi. 
+     Hırsızların koruma altındaki binaya nasıl girebildikleri hakkında bilgi verilmedi. Hırsızların giriş kodlarını çalarak buna göre hazırladıkları sahte kartla binaya girdikleri tahmin ediliyor. 
+     Lahey'deki mahkeme binasından 19-20 Şubat'ta bazı dosyalar ve bilgisayarların çalındığı açıklanmıştı. Çalınan dosya ve bilgisayarlarda, çevre suçları ve borçlar hukukuyla ilgili devam eden yargılamalara ilişkin önemli bilgiler bulunduğu belirtilmişti. 
+     
+</TEXT>
+</DOC>

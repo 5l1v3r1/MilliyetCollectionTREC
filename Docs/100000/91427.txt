@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 91427 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/06/22/son/soneko07.html </URL>
+<DATE> 2002/06/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kırşehirli makine mühendislerinden ısınmada yeni buluş 
+</HEADLINE>
+<TEXT>
+
+     Kırşehir'de bir grup makine mühendisi, bir ısı merkezinden alınan ısıyı ev ve işyerlerine dağıtarak, ödemede müstakilliği sağlayan ön ödemeli kartlı ısıtma sistemi geliştirdi. 
+     Arkadaşlarıyla birlikte sistemi icat eden Makine Mühendisi Ali Gökalp, yaptığı açıklamada, PBC ismini verdikleri sistemin alanında ilk olduğunu söyledi. 
+     ''Dilediğiniz kadar ısının, ısındığınız kadar ödeyin'' parolasıyla yola çıkarak PBC'yi geliştirdiklerini belirten Gökalp, sistemin özelliklerini şöyle anlattı 
+     ''Bu cihaz bir ısı merkezinde üretilen ısıdan veya mevcut bir jeotermal ısıdan faydalanılarak, ev ve işyeri girişlerine konulan ön ödemeli smart kartlı bir kalorimetre ısı sayacı , eşanjör ve otomatik kontrol elemanları ile ekonomik ısınma, kullanma sıcak suyu, ısınma derecesi ve saatlerinin ayarlanması ile ödemede müstakillik sağlıyor.'' 
+     
+     ISINMADA YÜZDE 50 TASARRUF 
+     Sistemin mevcut ısınma yöntemlerine göre birçok alanda avantaj sağlayacağını da belirten Gökalp, sözlerini şöyle sürdürdü 
+     ''Bu sistemde konutlara gaz veya herhangi bir yakıt girmeyeceğinden çok güvenlidir. Her birimin sistemi ayrı olacağından kullanım kolaylığı da sağlanacaktır. PBC, mevcut merkezi ısınma sistemlerine göre yüzde 50'nin üzerinde, kombi sistemlere göre ise yüzde 25 oranında tasarruf sağlayacak. Üst katların az ısınması sorununu ortadan kaldıracak, her birim istediği kadar ısınacak. Her birim tükettiği kalori kadar ödeme yapacağından ödemelerde de adalet sağlayacak.'' Sistemi ilk olarak İstanbul'da SODEKS 2002 Fuarı'nda sergilediklerini belirten Gökalp, PBC'nin büyük ilgi gördüğünü ve kuracakları bir anonim şirket ile seri üretime başlayacaklarını söyledi. 
+     Gökalp, PBC sisteminin dünya çapında patent ile koruma altına alındığını ifade ederek, ''Paket sistemimizin iç elemanları, uluslararası bir kuruluş olan Danimarka firması ile yaptığımız anlaşma gereği CE belgeli olarak DANFOSS lisansıyla üretilecek'' dedi. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

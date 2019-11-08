@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 248334 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/16/son/sondun02.html </URL>
+<DATE> 2004/06/16/ </DATE>
+<TIME> 08.11 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yahoo - Google rekabeti kızışıyor... 
+</HEADLINE>
+<TEXT>
+
+     Bülent Keneş 
+
+İnternet devi Yahoo şirketi, Google'un artan popülaritesi ve rekabet gücü ile yarışabilmek için bedava e-posta hizmetini, milyonlarca abonesinin e-posta adreslerinin depolama kapasitesini bir seferde 25 kat artırarak güçlendirdi. 
+     Google'ın nisandan beri test ettiği Gmail servisi aracılığıyla bedava internet adresleri için başlatmayı düşündüğü 1000 megabyte'lık depolama kapasitesinin harekete geçirdiği Yahoo, bedava e-posta hesaplarının kapasitesini yükselterek 100 megabyte'a çıkardı. Yahoo, kapasite artırımını dünden itibaren uygulamaya koydu. 
+     Birkaç yıldır abonesi olanlara 6 megabyte'lık bedava depolama kapasitesi veren Yahoo, yeni müşterileri için 4 megabyte'lık bir depolama kapasitesi sunmaktaydı. Depolama kapasitesini artırmak suretiyle yeni müşteriler edinmeye çalışan Yahoo bir zamanlar abonesi olup da zamanla atıl kalan adreslerin yeniden aktive edilmesiyle eski müşterilerini de yeniden kazanmaya çalışıyor. 
+     İnternetteki en popüler e-posta servisini işleten Yahoo'nun nisan ayında 39,8 milyon kullanıcı kazandığı kaydediliyor. Aynı dönemde Microsoft Corp. tarafından işletilen Hotmail bedava e-posta servisi ise 34,6 milyon abone kazandı. Hotmail, kullanıcılarına sadece 2 megabayte'lık bedava depolama kapasitesi sunuyor. 
+
+     
+</TEXT>
+</DOC>

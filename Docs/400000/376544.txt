@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 376544 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/07/son/sonyas03.html </URL>
+<DATE> 2005/09/07/ </DATE>
+<TIME> 09.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+FBI'a göre Zotob virüsünün zanlıları internetten anlaşmalarını yürütmüş 
+</HEADLINE>
+<TEXT>
+
+     ABD Federal Soruşturma Bürosu FBI, Ağustos ayında aralarında CNN, Associated Press, ABC, The New York Times gibi büyük Amerikan medya kuruluşlarına virüslü saldırı düzenledikleri ileri sürülen bir Türk ve Faslının bir süre önce her iki ülkede tutuklanmasıyla ilgili yeni bir açıklama yaptı. 
+     FBI’ın siber suçlar bölümü başkan yardımcısı Louis M. Riegel, ikilinin internetten tanıştıklarının zannedildiğini, 21 yaşındaki Türk Atilla E. ile 18 yaşındaki Faslı Farid Essebar’ın, anlaşmalarını internet üzerinden yürüttüklerini söyledi. 
+     Riegel, Zotob virüsünün yazılımının Essebar tarafından hazırlandığını, Atilla E.’nin ise bunun için para ödediğini bildirdi. 
+     FBI’a göre söz konusu ikili, Zotob’dan daha önce Şubat ayında ortaya çıkan Mytob adlı başka bir bilgisayar virüsünden de sorumlu olabilir. 
+     Zotob ve onun türevleri, Microsoft işletim sistemi ve özellikle de Windows 2000 kullanıcılarını hedef almıştı. Zotob yüzünden Ağustos ayı ortasında Associated Press, ABC, CNN, New York Times gibi büyük medya kuruluşlarının yanı sıra, Caterpillar gibi şirketlerle göçmen ve gümrük büroları zarar görmüştü. Riegel, Microsoft’un, virüsün sorumlularının yakalanmasında önemli rol oynadığını da kaydetti. 
+     Zotob, Microsoft’un bir güvenlik açığına ilişkin uyarıda bulunması ve kritik önem taşıyan bir programı önermesinin ardından ortaya çıkmıştı. Virüs, herhangi bir yazılımı çalıştırmadan da bir bilgisayarı hedef alabildiği için bazı kullanıcıların, durumun farkında bile olmadığı belirtiliyor. 
+     
+</TEXT>
+</DOC>

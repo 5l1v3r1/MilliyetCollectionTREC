@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 190157 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/21/son/soneko15.html </URL>
+<DATE> 2003/10/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft Office 2003, piyasaya çıktı 
+</HEADLINE>
+<TEXT>
+
+     Yepyeni bir verimlilik anlayışıyla, kişi ve kuruluşların özel ihtiyaçlarına göre şekillendirebilecekleri kapsamlı bir entegre sistem olarak tasarlanan Microsoft Office 2003, bugün piyasaya çıktı. 
+     Microsoft Office Sistemi adını alan yeni ürün ailesi, Microsoft Office Suite Word, Excel, Outlook, PowerPoint, Access , Microsoft Office FrontPage, Microsoft Office InfoPath, Microsoft Office OneNote, Microsoft Office Publisher, Business Contact Manager ve Microsoft Office SharePoint Portal Server 2.0'dan oluşuyor. 
+     Microsot'tan yapılan açıklamaya göre, Microsoft Office Sistemi, günümüz iş dünyasında çalışanların bilgiyi arama, bilgiye ulaşma veya bilgiyi paylaşma konularında zaman kaybetmeden verimliliklerini artırma ihtiyacı çerçevesinde geliştirildi. 
+     Microsoft Türkiye Ürün Müdürü Tolunay Tomruk, bugün piyasaya sunulan Microsoft Office Sistemi'nin kullanıcının verimliliğini artıran bir araç gibi de düşünülebileceğini belirterek, şöyle dedi 
+     ''Geçtiğimiz dönemde yöneticiler teknoloji konusunda yaptıkları yatırımların şirket verimliliğine etkisini göremediklerinden, önce bu yatırımları sorgulamaya ve sonra da ekonominin durgun olduğu dönemlerde teknoloji yatırımlarını ertelemeye başladılar. Oysa teknoloji kullanımıyla şirket verimi doğru orantılıdır. Şirketler yeni teknolojileri ne kadar hızlı adapte edip kullanmaya başlarlarsa verimleri, dolayısıyla da rekabet güçleri o oranda artmaya başlıyor.'' Bilgisayar kullanan hemen herkesin aşina olduğu Microsoft Office Sistemi'nin, kişisel verimlilik uygulamalarından oluşan bir paketten, uygulamalar, çözümler ve diğer sistemlerle entegre olabilen bir sisteme dönüştüğünü kaydeden Tomruk, pek çok kişinin bildiği tanıdık araçların üzerine kurulu Office Sistemi'nin, birlikte çalışmak için tasarlanmış sunucuları, hizmetleri ve masaüstü programlarını içererek çok geniş bir yelpazede iş sorunlarını çözmek üzere yeniden tasarlandığını bildirdi. 
+     Microsoft Office 2003'ün, şirket ve bilgi çalışanlarına, artan kişisel etki ve verimlilik, etkin takım çalışması, iletişim platformu ve süreç yönetimi sağlayacağı vurgulandı. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,46 @@
+<DOC>
+<DOCNO> 324392 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/17/son/soneko23.html </URL>
+<DATE> 2005/03/17/ </DATE>
+<TIME> 12.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Gün ortası piyasalar... Borsada düşüş sürdü, dolar yatay seyrediyor 
+</HEADLINE>
+<TEXT>
+
+     Gelişmekte olan ülke piyasalarında yaşanan satışlar dün İMKB'de 1.215 puanlık kayıpla yüzde 4.58 kendini göstermişti. 25.331 puandan kapanan borsa yeni güne, hızlı yükselişle başladı. 25 bin 800 puan seviyelerine kadar hızla yükselen endeks, bu noktadan gelen satışlarla 25.550 puana geriledi. Seansın ilk yarısını 25.750 - 25.550 puan aralığında geçen endeks, seansın sonuna doğru giderek artan satışlarla 25.290 puana, başlangıç noktasının da altına indi. 
+     Bileşik Endeksi birinci seansı, dünkü kapanışına göre 41.59 puan azalarak 25,290.11 puandan kapandı. 
+     Hisse senetlerinin ortalama değer kaybı yüzde 0.16 oldu. 
+     Seans sonunda mali endeks 168.23 puan azalarak 36,498.36 puana, sanayi endeksi 64.94 puan azalarak 21,608.28 puana gerilerken, hizmetler endeksi 169.91 puan artarak 13,247.81 puana yükseldi. 
+     Böylece önceki kapanışa göre, mali grup hisseler ortalama yüzde 0.46, sanayi grubu hisseler ortalama yüzde 0.30 değer yitirirken, hizmet grubu hisseler ortalama yüzde 1.30 oranında değer kazandı. 
+     1. seansta işlem gören toplam 302 hisse senedinden 83'ü değer kazandı, 150'si değer kaybetti, 69 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta, 538 milyon 633 bin 974 YTL'lik işlem hacmi oluştu. 
+     1. seansta Yapı ve Kredi Bankası, Turkcell, İş Bankası C , Vestel ve Garanti Bankası en çok işlem gören hisse senetleri oldu. 
+     
+     DOLARIN FİYATI DEĞİŞMEDİ 
+
+     Kapalıçarşı'da güne 1.3230 YTL'den başlayan dolar, gün ortasında 1,3200 YTL'den işlem görüyor. 
+     İstanbul ve Ankara'da dolar, avro ve sterlinin alış-satış fiyatları, saat 12.00 itibariyle YTL olarak şöyle 
+     
+
+İSTANBUL SERBEST PİYASA ALIŞ SATIŞ ABD Doları 1.3150 1.3200 Avro 1.7620 1.7670 İngiliz Sterlini 2.5080 2.5400      
+
+ANKARA SERBEST PİYASA ALIŞ SATIŞ ABD Doları 1.3100 1.3230 Avro 1.7540 1.7710 İngiliz Sterlini 2.5050 2.5500      
+Bankalararası piyasada dolar kotasyonlarında alışta en düşük fiyat 1.3130 YTL, en yüksek 1.3160 YTL, satışta en düşük fiyat 1.3180 YTL, en yüksek fiyat 1.3210 YTL olarak belirlendi. 
+     Uluslararası piyasalarda avro-dolar paritesi 1.3395, sterlin-dolar paritesi 1.9249, yen-dolar paritesi ise 104.29 düzeyinde seyrediyor. 
+     
+     FAİZDE HAFİF YÜKSELİŞ 
+
+     İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda 27 Eylül 2006 vadeli, bugün valörlü tahvilin saat 11.50 itibariyle basit getirisi yüzde 17.28, bileşik getirisi yüzde 16.57 seviyesinde bulunuyor. 
+     Sabah aynı kağıdın basit getirisi yüzde 17.30, bileşik getirisi yüzde 16.59 seviyesinde bulunuyordu. 
+     Bu tahvilin aynı gün valörlü işlemlerinin dünkü kapanışında da basit getiri yüzde 17.51, bileşik getiri yüzde 16.78 olmuştu. 
+     
+     REPO 
+
+     İstanbul Menkul Kıymetler Borsası İMKB Tahvil ve Bono Piyasası Repo-Ters Repo Pazarı'nda gecelik işlemler tek oran yüzde 15.50'den yapılıyor. 
+
+     
+</TEXT>
+</DOC>

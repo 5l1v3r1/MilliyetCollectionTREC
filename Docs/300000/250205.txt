@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 250205 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/23/son/sondun38.html </URL>
+<DATE> 2004/06/23/ </DATE>
+<TIME> 18.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Çöp e-maillere karşı güç birliği 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın dört büyük ve birbirine rakip internet servis sağlayıcısı şirketi, çöp e-postaları spam durdurmaya yönelik teknoloji geliştirmede rekabet yerine, enerjilerini birleştirerek internetteki bu en büyük sorunla ortak mücadelede kısmi bir ateşkes konusunda anlaştılar. 
+     Geçmişi bir yıl öncesine dayanan ve American Online, Yahoo, Earthlink ile Microsoft'un, bir e-posta mesajının göndericisinin kimliğini tespit ederek doğrulayabilecek teknik standartların yaratılması için birlikte çalışma fikrine yönelik önemli bir adım atıldığı kaydedildi. 
+     Çöp e-postların çoğunun ve hızla artan kimlik hırsızlığındaki hemen hemen bütün mesajların sahte adreslerle yapıldığı kaydedilirken, pek çok uzman bu türden yanlış adres gösterilen mesajları belirleyerek eleyebilecek bir sistemin 'spam'a karşı en etkin silah olacağını savunuyor. 
+     American Online'nın e-posta işlemleri direktörü Brian Sullivan, ''Spam'ı azaltmak için yapabileceğimiz en önemli şey göndericinin kimliğinin güvenilirliğinden emin olmaktır'' diyerek, bu konudaki temel teknik yaklaşımı ifade ediyor. 
+     Ancak, 'spam'la mücadele konusunda internet servis sağlayıcılarının farklı teknik yaklaşımları olduğu belirtilirken, Microsoft'un telefonlarda kullanılan ve arayan numarayı gösteren sistem benzeri bir 'Caller ID'' önerdiği, American Online ve Earthlink'in 'Gönderici Politikası Çerçevesi' ya da kısa adıyla 'S.P.F.' olarak bilinen bir tekniğe destek verdiği kaydediliyor. Ancak bu üç şirketin, kombine bir standart olarak 'Caller ID' üzerinde anlaştıkları belirtiliyor. 
+     Yahoo ise 'Alan Anahtarları Domain Keys ' adını verdiği farklı bir teknik yaklaşımı desteklemeyi sürdürüyor. Bu yaklaşımın teknik açıdan çok daha güçlü olmakla birlikte uygulanmasının daha fazla zaman alacağı kaydediliyor. 
+     Yapılan açıklamaya göre, nihai olarak iki kampa bölünen taraflar, 'spam'a karşı önerilen farklı teknolojileri denemek için birbirlerine sınırlı bir destek vermekte anlaştılar. 
+     
+</TEXT>
+</DOC>

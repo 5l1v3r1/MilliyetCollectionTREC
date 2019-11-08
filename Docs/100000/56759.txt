@@ -1,0 +1,41 @@
+<DOC>
+<DOCNO> 56759 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/12/12/yasam/yas04.html </URL>
+<DATE> 2001/12/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayara casus giremez 
+</HEADLINE>
+<TEXT>
+
+Bilgisayarları denetlemek için program üreticilerinden bilgisayarlarda 'bir yer' isteyen FBI, 'olmaz' yanıtı aldı 
+     DIŞ HABERLER SERVİSİ 
+
+     Amerikan Federal Soruşturma Bürosu FBI'ın, bilgisayarda yapılan tüm bireysel işlemleri takibe almak amacıyla geliştirdiği 'Magic Lantern' Sihirli Fener isimli projesine antivirüs yazılım şirketlerinden büyük tepki geldi. Bir tür 'Truva Atı' olarak adlandırılan 'Sihirli Fener'in bilgisayarlara sızarak çalışabilmesi için programlarda bir delik bırakılmasını isteyen FBI, bu kez sert kayaya çarptı. 
+     Antivirüs yazılım dünyasının en büyüklerinden Symantec Corp, Network Associates, Trend Micro ve Sophos'un yetkilileri, FBI'ın programlara sızabilmek için antivirüs yazılımlarında bir delik bırakılmasını istemesi üzerine şu ortak görüşte birleşti "Müşterilerimizin güvenliği bizim için en önce gelir. FBI'ın suçlu takibi yapabilmesi için istediği delik, korsanlar tarafından genişletilip tüm dünyadaki bilgisayarların, kötü niyetlilerin saldırılarına açık kalmasını sağlar." 
+     'Sihirli Fener', bilgisayar klavyesine yapılan her tuşlamanın izini sürebiliyor, şifreleri çözebiliyor, kodlarla yazılan elektronik postaları deşifre edebiliyor. 
+     
+
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 299854 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/22/son/soneko17.html </URL>
+<DATE> 2004/12/22/ </DATE>
+<TIME> 10.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tüketici Güven endeksi, Kasım'da düştü... 
+</HEADLINE>
+<TEXT>
+
+     Tüketici Güven Endeksi Kasım'da, bir önceki aya göre yüzde 0.97 oranında azaldı ve 102.7 oldu. 
+     Devlet İstatistik Enstitüsü DİE ile Merkez Bankası'nın ortaklaşa düzenlediği Tüketici Eğilim Anketi sonuçlarına göre, güven endeksindeki azalış, tüketicilerin mevcut ve gelecek dönem satın alma güçlerine, gelecek dönem genel ekonomik duruma ve mevcut dönemin dayanıklı tüketim malı satın almak için uygunluğuna dair değerlendirmelerinin kötüleşmesinden kaynaklandı. 
+     Mevcut dönemde satınalma gücü endeksi yüzde 1.39 azalarak 93 olarak gerçekleşirken, gelecek dönem için satınalma gücü endeksi de yüzde 0.7 azalarak 96 oldu. 
+     Gelecek dönemde genel ekonomik durum endeksi bir önceki aya göre yüzde 2.56 azalarak 100.8'e indi. İş bulma olanakları ise yüzde 0.38 artarak, 91.8'e yükseldi. 
+     Mevcut dönemin dayanıklı tüketim malı satın almak için uygunluğu ise yüzde 0.56 azalarak, 131.8 olarak gerçekleşti. 
+     Bu arada, endeksin 100'den büyük olması tüketici güveninde ''iyimser durum'', 100'den küçük olması tüketici güveninde ''kötümser durum'', 100 olması ise tüketici güveninde ''ne iyimser ne de kötümser durum'' olduğunu gösteriyor. 
+     
+</TEXT>
+</DOC>

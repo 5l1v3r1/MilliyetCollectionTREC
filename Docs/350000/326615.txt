@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 326615 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/24/son/soneko01.html </URL>
+<DATE> 2005/03/24/ </DATE>
+<TIME> 02.03 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsası Dow Jones düştü NASDAQ yükseldi. 
+</HEADLINE>
+<TEXT>
+
+     New York menkul kıymetler borsasında Dow Jones endeksi düştü, Nasdaq endeksi yükseldi. 
+     Dow Jones endeksi 14.49 puan düşüşle günü 10.456.02, Nasdaq endeksi ise 0.88 puan artışla 1.990.22 puandan kapattı. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 319423 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/28/son/sonyas17.html </URL>
+<DATE> 2005/02/28/ </DATE>
+<TIME> 11.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+AIDS'te bağışıklığı güçlendiren yöntem geliştirildi 
+</HEADLINE>
+<TEXT>
+
+     Avustralyalı araştırmacıların, vücudun AIDS virüsüne HIV karşı bağışıklığını güçlendiren yöntem geliştirdiği bildirildi. 
+     Melbourne üniversitesinden Stephen Kent, yeni yöntemi, bazı hayvanların nasıl olup da HIV'e direnç gösterebildiğini araştırırken bulduklarını açıkladı. 
+     Kent, yeni yöntemin esasının, hücrelere HIV peptidi protein bileşiği vererek bağışıklık sisteminin, AIDS virüsünü tanımasını sağlamak olduğunu belirtti. 
+     Kent'e göre, HIV ''peptidi'' verilen kan hücreleri, deney hayvanlarının AIDS'e direncini belirgin şekilde artırdı. 
+     ''Yaptığımız deney, bunun bizatihi aşı olduğunu gösterdi'' diyen Doktor Kent, ''Oysa başta böyle bir şey beklemiyorduk. Bunun, AIDS ve diğer müzmin hastalıkların tedavisi için ümit ışığı yaktığını düşünüyoruz'' ifadesini kullandı. 
+     Fareler ve maymunlar üzerinde başarıyla denenen yeni yöntemin, iki yıla kadar insanlar üzerinde de denenebileceği belirtildi. 
+     
+</TEXT>
+</DOC>

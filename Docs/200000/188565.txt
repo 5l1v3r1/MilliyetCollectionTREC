@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 188565 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/14/son/soneko24.html </URL>
+<DATE> 2003/10/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+SPK'dan e-imza için ilk adım... 
+</HEADLINE>
+<TEXT>
+
+     Sermaye Piyasası Kurulu SPK , belge ve açıklamaların elektronik ortamda imzalanarak gönderilmesine ilişkin uygulama esaslarını belirledi. 
+     SPK'ca alınan ilke kararına göre, kuruluşlar tarafından, sermaye piyasası mevzuatı uyarınca gönderilmesi gereken, mali tablolar, yıllık faaliyet raporları ile bağımsız denetim raporları elektronik veri olarak hazırlanarak imza oluşturma aracı ile oluşturulan elektronik imza kullanılacak. 
+     Mali tablo ve raporlara ilişkin olarak bağımsız denetim kuruluşları tarafından düzenlenerek kuruluşlara gönderilen sürekli, sınırlı, özel denetim raporları ile Kurulca gerekli görülen diğer bilgi ve belgeler, bilanço, özel durum açıklamaları, zahname, sirkülerler ve diğer duyuru metinleri, kurul ve veya borsa tarafından belirlenen ve elektronik veri olarak düzenlenmesi istenen diğer bildirimler, kuruluşlar tarafından elektronik imza ile imzalanarak kurula ve veya borsaya gönderilecek. 
+     İmza sahipleri, ekte verilen Sertifika Sahibi Taahhütnamesini elektronik sertifikalarını teslim almadan önce imzalayarak, elektronik sertifika hizmet sağlayıcısına vermek zorunda olacak. 
+     Elektronik sertifika hizmet sağlayıcısı, elektronik sertifika, zaman damgası ve elektronik imzalarla ilgili hizmetleri sağlayan ve Kurulca belirlenen gerçek veya tüzel kişiler olacak ve adı ile sertifikasının ayırt edici bilgileri kurulca kamuya duyurulacak. 
+     Elektronik sertifika hizmet sağlayıcı, sertifika talep eden kişiden elektronik sertifika vermek için gerekli bilgiler hariç bilgi talep edemeyecek ve bu bilgileri kişinin rızası dışında elde edemeyecek. Sertifika sahibinin izni olmaksızın sertifikayı üçüncü kişilerin ulaşabileceği ortamlarda bulunduramayacak. 
+     
+</TEXT>
+</DOC>

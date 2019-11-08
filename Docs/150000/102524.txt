@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 102524 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/08/18/son/sondun03.html </URL>
+<DATE> 2002/08/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD'li müzik firmaları "Napster'in oğlu"na savaş açtı... 
+</HEADLINE>
+<TEXT>
+
+     ABD'de çok sayıda müzik firması, halk arasında ''Napster'in oğlu'' olarak adlandırılan bir Çin sitesinin internet ağından çıkarılması için dava açtı. 
+     New York Post gazetesinin haberine göre, ''Listen4ever'' adlı site, komple CD'lerin MP3 teknolojisiyle bilgisayarlara yüklenmesine olanak veriyor. 
+     Mary Blige adlı şarkıcının ''Dance for me'' adlı albümünün daha ABD'de piyasaya çıkmadan bu site aracılığiyle dinleyicilere ulaştırıldığı öne sürüldü. 
+     ''Listen4ever'' adlı sitenin kullanıcılarına bedava sunduğu albümler arasında Christina Aguilera, Red Hot Chili Peppers, Coldplay ve Bruce Springsteen gibi şarkıcıların albümleri de yer alıyor. 
+     Aralarında Arista Records, Atlantic Recording, Sony Music Entertainment ve Warner Bros gibi dev müzik şirketlerinin de bulunduğu 13 firma, aslında Çin sitesini hedef almadılar. Tersine müzik şirketleri AT T Broadband, Cable Wireless USA, Sprint Corp, ANS ve UUNet Technologies gibi ABD'de internet hizmeti sağlayan kuruluşları dava ettiler ve bu şirketlerin internet linklerinden ''Listen4ever'' adlı siteyi çıkarmalarını istediler. 
+     Dava dilekçesinde, ''Bir albüm daha piyasaya çıkmadan internet aracılığıyla dinleyicilere bedava olarak ulaştırılırsa, satış şansı sıfıra iner'' denildi. Müzik şirketleri, internet hizmeti sağlayan kuruluşlar yardımcı olmadığı takdirde kullanıcıların ''Listen4ever'' adlı siteye ulaşmalarının mümkün olmayacağını da belirttiler. 
+     İnternet hizmet sağlayan kuruluşların ise mahkeme kararı olmadan bir sitenin linklerini kesmeye yanaşmadıkları bildiriliyor. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

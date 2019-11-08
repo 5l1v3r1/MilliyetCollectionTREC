@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 262608 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/12/guncel/gun01.html </URL>
+<DATE> 2004/08/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ATS olsaydı bu kaza olmazdı... 
+</HEADLINE>
+<TEXT>
+
+
+Başkent Ekspresi'nde optik okuyucu cihaz bulunmadığı için trenin otomatik fren yapamadığı belirtildi 
+
+ANKARA Milliyet 
+
+Demiryolu Sendikası Haydarpaşa Şube Başkanı Şenol Ekinci lokomotiflerde bulunan ATS cihazının kırmızı ışıklarda optik okuyucu sayesinde otomatik olarak fren yaptığını ancak Bosna Hersek'ten gelen Konçer marka lokomotiflerin hiçbirinde optik okuyucu olmadığını kaydetti. Ekinci, "ATS olsaydı otomatikman frene geçecek, insanlar da hayatını kaybetmeyecekti" dedi. 
+TCDD'nin 16 lokomotifinde ATS cihazı olmadığını kaydeden Birleşik Taşımacılık Sendikası Genel Sekreteri Hasan Bektaş da, "Bu lokomotifler Bosna - Hersek'ten getirildikten sonra cihaz konulmamış" dedi. 
+
+'Otomatik devreye girerdi' 
+TCDD Tesisler Dairesi Başkanı Mehmet Uras da bazı lokomotiflerde bu cihazın olmadığını, makinistlerin demiryollarında bulunan ışıklandırmalara göre hareket etmesi gerektiğini ifade ederek, "Makinist, karayolunda olduğu gibi trafik ışıklarına uymak zorunda. Sistem olsaydı otomatik olarak devreye girecekti" diye konuştu. 
+Lokomotiflerde tehlikeli anlarda ani duruşu sağlayan ve Japonya'dan getirilen ATS cihazının 21 bin dolar yaklaşık 30 milyar lira olduğu öğrenildi. 
+ATS sistemine göre, Ankara, Eskişehir ve İstanbul'da bulunan trafik kontrol birimleri, trenlerin hızını değil, birbirine olan mesafesini ve karşılaşma noktalarını denetliyor. Yol açıksa yeşil sinyal yanıyor. Bu trenin normal hızında gidebileceğini ifade ediyor. İki tren birbirine yaklaşmaya başladıysa sarı sinyal yanıyor, makiniste "Hızını 65 km'nin altına düşür" komutu veriyor. Hız düşmezse tren 20 saniye içinde ani frenle duruyor. İki tren birbirine tehlikeli şekilde yaklaştıysa kırmızı ışık yanıyor, ATS devreye giriyor. 
+
+
+</TEXT>
+</DOC>

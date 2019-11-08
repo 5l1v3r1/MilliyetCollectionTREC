@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 91994 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/06/25/son/soneko12.html </URL>
+<DATE> 2002/06/25/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Elektrik üretimi geçen yıla göre yüzde 2,72 arttı 
+</HEADLINE>
+<TEXT>
+
+     Türkiye'nin toplam elektrik üretimi, bu yılın ilk üç ayında, geçen yılın aynı dönemine oranla yüzde 2.72 oranında artarak 32.2 milyar kilovatsaate kwh ulaşırken, tüketim miktarı yüzde 0.95 oranında azalarak 23.9 milyar kwh olarak gerçekleşti. 
+     Devlet İstatistik Enstitüsü DİE verilere göre, elektrik üretiminde kaynak dağılımı geçen yılın ilk 3 ayında yüzde 16.76 su, yüzde 30.48 linyit, yüzde 40.09 doğalgaz iken bu yılın aynı döneminde doğalgazın payı yüzde 37.9, linyitin payı yüzde 27.52, suyun payı da yüzde 20.79 olarak belirlendi. 
+     Aynı dönemler itibariyle, termik elektrik enerjisi üretimi yüzde 2.23 oranında azalırken, hidrolik elektrik enerjisi üretiminde yüzde 27.38 oranında artış kaydedildi. 
+     Bu yılın ilk üç ayında üretilen toplam 32.2 milyar kwh elektriğin, yüzde 52.64'ü Elektrik Üretim A.Ş. EÜAŞ , yüzde 18.92'si bağlı ortaklıklar, yüzde 15.75'i otoprodüktörler, yüzde 3.'ü ayrıcalıklı şirketler, yüzde 9.16'sı üretim şirketlerince sağlandı. 
+     Kayıp-kaçak oranının yüzde 25.5'i bulduğu dönemde elektriğin yüzde 48.07'sini otoprodüktör tesisler ve sanayide, yüzde 24.87'ini meskenlerde, yüzde 6.66'sını resmi dairelerde, yüzde 4.16'sı sokak aydınlatmalarında kullanıldı. 
+     Diğer tüketim alanlarında çok fazla değişim olmazken, resmi dairelerin elektrik tüketimi yüzde 11.7, meskenlerin tüketimi de yüzde 6.5 azaldı. 
+     Son bir yılda elektrik dağıtım şirketlerinin elektrik satış gelirleri de cari fiyatlarla yüzde 85.5 oranında arttı. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

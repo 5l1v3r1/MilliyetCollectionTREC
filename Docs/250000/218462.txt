@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 218462 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/28/yasam/yas04.html </URL>
+<DATE> 2004/02/28/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sağlık dosyanız bu saatte gizli 
+</HEADLINE>
+<TEXT>
+
+      YILDIZ YAZICIOĞLU Ankara 
+   
+   JAPONYA'DA geliştirilen 256 MB hafızaya sahip kol saatleri, Türkiye'de ilk kez hasta sağlık dosyasına dönüştürülüyor. Bayındır Hastanesi Nörolojik Bilimler Merkezi Koordinatörü Prof. Dr. Haluk Deda, Japon teknolojisi bu saatle ilk kez hasta dosyasını taşınabilir hale getirdiklerini vurguladı. Maliyeti 100 milyon lira olan saat, hastanın röntgen ve tomografi görüntülerinden önceki tıbbi operasyon bilgilerine kadar pek çok konuyu hafızasında taşıyabiliyor. 
+   
+   
+   
+</TEXT>
+</DOC>

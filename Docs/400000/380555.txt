@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 380555 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/22/son/soneko19.html </URL>
+<DATE> 2005/09/22/ </DATE>
+<TIME> 12.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa 1. seansı 235 puan kayıpla kapadı 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeksi, dünkü kapanışa göre 235.10 puan düşerek, seansı 33,628.72 puandan kapandı. 
+     1. seansta, hisse senetlerinin ortalama değer kaybı yüzde 0.69 oldu. 
+     Dün 33.863.82 puandan rekorla kapanan İMKB Ulusal 100 Endeksi, ilk seansa 35.79 puan artarak 33,899.61 puandan başladı. İlk yarıyı 33,672.89 puandan geçen endeks, en düşük 33,466.97 puana kadar gerilerken, en yüksek 34,014.59 puana kadar çıkarak yeni bir tarihi zirve rekoru kırdı. 
+     Seans sonunda mali endeks 144.11 puan düşerek 50,717.98 puana, sanayi endeksi 241.04 puan düşerek 27,247.90 puana ve hizmetler endeksi 263.06 puan düşerek 16,301.34 puana geriledi. 
+     Böylece önceki kapanışa göre, mali grup hisseler ortalama yüzde 0.28, sanayi grubu hisseler yüzde 0.88 ve hizmetler grubu hisseler ise yüzde 1.59 oranında değer yitirdi. 
+     1. seansta işlem gören toplam 302 hisse senedinden 80'i değer kazandı, 151'i değer kaybetti, 71 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta, 599 milyon 724 bin 305 YTL'lik işlem hacmi oluştu. 
+     1. seansta Erdemir, Global Yatırım Holding, Turkcell, Tüpraş ve Petkim, en çok işlem gören hisse senetleri olarak belirlendi. 
+     
+</TEXT>
+</DOC>

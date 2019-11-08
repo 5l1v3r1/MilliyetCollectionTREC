@@ -1,0 +1,52 @@
+<DOC>
+<DOCNO> 157726 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/20/magazin/mag02.html </URL>
+<DATE> 2003/05/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayara kalsa Sertab 15. sırada 
+</HEADLINE>
+<TEXT>
+
+Şarkıların başarı oranını ortaya koyan bilgisayar programı, Eurovision parçalarını değerlendirdi Avusturya'yı birinci seçti 
+     ŞENOL ÇALABAKAN Frankfurt 
+
+     İspanyol bir firmanın hazırladığı yazılım programı software hangi müzik parçasının çok satacağını, parça daha piyasaya sunulmadan öngörebiliyor. Alman SAT 1 kanalının bilim teknik programı PLANETOPHİA, Eurovision'a katılan 26 şarkıyı firmaya götürerek, derecelendirme yaptırdı. 
+     
+     'Matematik böyle diyor' 
+     Matematik tabanlı karmaşık bir değerlendirme sistemiyle çalışan yazılım programı, şarkıları tek tek analiz etti ve sıralarını belirledi. 
+     Yazılım programına göre, müzik otoritelerinin şans tanımadığı Avusturyalı sanatçı Alf Poier'in şarkısı 7.72 puanla Eurovision'un birincisi çıktı. Bu parçayı, 7.11 puanla İrlanda izledi. Türkiye adına yarışan Sertab Erener'in seslendirdiği 'Every way that I can' ise, 2.57 puanla ancak 15'inci olabildi. Yazılımın, bir parçanın hit olup olamayacağını önceden belirleyebildiğini söyleyen İspanyol firmanın müdürü, başta Sony olmak üzere çeşitli müzik firmalarına hizmet verdiklerini de bilgilere ekledi 
+     
+     Yazılıma göre Eurovision sonuçları 
+     1-Avusturya 7,72 
+     2-İrlanda 7,71 
+     3-Belçika 7,38 
+     4-Fransa 7,01 
+     5-Letonya 5,85 
+     6-Malta 5,8 
+     7-İspanya 5,45 
+     8-Estonya 5,36 
+     9-İsveç 4,95 
+     10-Romanya 4,91 
+     11-Bosna 4,58 
+     12-İngiltere 4,55 
+     13-Rusya 4,53 
+     14-Polonya 4,26 
+     15-Türkiye 4,05 
+     16-Hırvatistan 3,99 
+     17-Kıbrıs R. Kesimi 3,38 
+     18-Yunanistan 3,19 
+     19-Norveç 2,92 
+     20-Hollanda 2,88 
+     21-Almanya 2,65 
+     22-Slovenya 2,58 
+     23-İsrail 2,36 
+     24-İzlanda 2,21 
+     25-Portekiz 1,72 
+     26-Ukrayna 1,7 
+     
+
+</TEXT>
+</DOC>

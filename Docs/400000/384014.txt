@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 384014 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/04/son/sonyas12.html </URL>
+<DATE> 2005/10/04/ </DATE>
+<TIME> 13.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+2005 Nobel Fizik Ödülü 3 kişiye gitti 
+</HEADLINE>
+<TEXT>
+
+     Nobel 2005 Fizik Ödülü, bu yıl üç bilimadamı arasında paylaştırıldı. 
+     İsveç Bilimler Akademisi'nden yapılan açıklamada, ödülün lazerle çalışan hassas tayfölçerin spektroskopi geliştirilmesine katkıları nedeniyle Amerikalı John L. Hall ve Roy J. Glauber ile Alman Theodor W. Haensch'e verildiği belirtildi. Üç bilimadamı da optik fiziğin dallarında ödülü aldı. 
+     Dünya yörüngesinde uydulardan yararlanarak küresel yer saptamada da GPS kullanılan lazerle en hassas yer ölçümlerine katkı sağlayan üç bilimadamından Alman Haensch ile Amerikalı Hall, tayfölçerle optik taramanın geliştirilmesi, Glauber de atomaltı kuantum ışık zerresi parçacığının optik bilimde işlevi konusundaki çalışmaları sayesinde evrensel büyük ödüle layık görüldü. 
+     Nobel Fizik Ödülü'nü kazanan üç bilimadamı, 1,29 milyon dolarlık 10 milyon İsveç Kronu ödülü paylaşacak. 
+     Colorado Üniversitesi öğretim üyesi olan 71 yaşındaki John Hall, Münih Ludwig-Maximilian Üniversitesi öğretim üyesi 63 yaşındaki Theodor Haensch ve Harvard Üniversitesi hocası 80 yaşındaki Glauber, GPS sistemi ve hassas saatlerin yapımı ve frekansların 15 haneli "en hassas" ölçümlerini sağlayan çalışmalarda bulundu. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 50873 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/11/06/son/sondun05.html </URL>
+<DATE> 2001/11/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Windows-XP hafif laptopları bozdu 
+</HEADLINE>
+<TEXT>
+
+     Microsoft'un 25 Ekim'de piyasaya çıkardığı Windows-XP adlı yeni işletim programı yüklenen bazı dizüstü bilgisayarların, dahili modemin kullanılması durumunda çalışmadığı bildirildi. 
+     Microsoft yetkilileri, internetten indirilebilecek bir yamanın bu sorunu çözeceğini söylediler. 
+     Sorunun, İntel Pentium-III işlemci ve 440MX yonga setiyle çalışan dizüstü bilgisayarlarda görüldüğü ifade edildi. 
+     Bilgisayarın, dahili modemi kullanılmak istendiğinde durduğu ve telefon numaralarını çevirmediği kaydedildi. 
+     Microsoft'un internetteki ''Windows Update'' sayfasına koyduğu yamanın, bilgisayarların BIOS sistemlerini düzelteceği ifade ediliyor. 
+     Microsoft yetkilileri, sorunun sadece 440MX yonga setiyle çalışan bilgisayarlarda görüldüğünü ve yaygın bir olay olmadığını söylediler. 
+     Bu tür yonga setlerinin ''hafif dizüstü bilgisayarlarda'' yaygın biçimde kullanıldığı belirtiliyor. 
+     Genelde 2 kilodan hafif olan bu bilgisayarlar, piyasadaki toplam bilgisayar miktarının yüzde 10-15'ini oluşturuyor. 
+     Sorunun öteki bilgisayarlarda görülmediği de ifade edildi. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

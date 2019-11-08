@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 219728 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/04/son/sondun14.html </URL>
+<DATE> 2004/03/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hızlı internet bağlantısında devrim 
+</HEADLINE>
+<TEXT>
+
+     ABD'de denenmeye başlanan yeni bir yöntem, hızlı internet bağlantısında gerçek anlamda devrim yarattı. 
+     ''Cinergy Corp.'' adlı bir şirket, abonelerine, evlerdeki normal elektrik prizleri aracılığıyla hızlı internet bağlantısı sağlama vaadinde bulundu. Verilen bilgiye göre kullanıcılar, satın alacakları özel bir modemi kullanarak bilgisayarlarını elektrik prizine bağlayacaklar ve hızlı internetten yararlanacaklar. Yeni sisteme kısaca BPL adı verildi. 
+     Yeni uygulama hakkında bilgi veren Elektrik Hatları İletişim Derneği Başkanı Alan Shark, ''çok sayıda enerji şirketinin uygulama üzerinde sessizce çalıştığını ve pilot programlar hazırladığını'' açıkladı. Shark, ''yeni uygulamaya olan talebin inanılmaz boyutta olduğunu'' sözlerine ekledi. 
+     
+     EN ŞANSLI KENT CINCINATTI 
+     Cinergy Broadband LLC firmasının yeni proje için Current Communications Group LLC adlı firmayla işbirliği yaptığı bildiriliyor. BPL uygulamasına ilk olarak Cincinatti kentinde başlanacak. Projenin daha sonra Kentucky ve Indiana eyaletlerini kapsayacak biçimde yaygınlaştırılacağı ifade ediliyor. Projeden ilk aşamada, Cinergy firmasının 1,5 milyon abonesinden 55 bin kadarının yararlanacağı kaydedildi. 
+     Projenin daha sonra tüm Amerika'ya yayılacağı ve 24 milyon abonenin bundan yararlanacağı verilen bilgiler arasında. 
+     Uygulamayla ilgili bilgi veren Cinergy şirketi sözcüsü Steve Brash, ''100 dolayındaki evde başlattıkları denemelerin çok başarılı olduğunu, kullanıcıların yüzde 75'inin uygulamadan çok memnun kaldığını ve derhal abone olmak istediğini'' vurguladı. 
+     BPL uygulamasını deneyenlerden biri olan 51 yaşındaki Tim Barhost, ''hem kablo, hem de DSL kullandığını, fakat BPL'i her ikisine de tercih ettiğini'' söyledi. Barhost, ''BPL'in DSL'den daha hızlı ve fiyatının çok daha ucuz olduğunu'' sözlerine ekledi. 
+     Yeni sistemi kullanmak için herhangi bir tesisat döşemeye ihtiyaç bulunmadığı belirtiliyor. Uygulama başladığında saniyede 1 megabit hızındaki bağlantı için ayda 29,95 dolar 3 megabit hızındaki bağlantı için ise 39,95 dolar ücret talep edilecek. 
+     Bilgisayarı elektrik prizine bağlamakta kullanılacak birinci modem ücretsiz verilirken, birden fazla modemin tanesi 30-40 dolardan satılacak. 
+     
+</TEXT>
+</DOC>

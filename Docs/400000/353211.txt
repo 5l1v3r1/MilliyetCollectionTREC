@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 353211 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/18/son/sondun01.html </URL>
+<DATE> 2005/06/18/ </DATE>
+<TIME> 08.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD.. 40 milyon kredi kartı müşterisinin önemli kişisel bilgileri çalındı 
+</HEADLINE>
+<TEXT>
+
+     ABD’de kredi kartları işlemi yapan bir şirketin güvenlik sisteminin delinmesi sonucu, 40 milyon müşteriye ait bilgilerin çalındığı bildirildi. 
+     MasterCard International şirketi, kendilerine ait bir güvenlik biriminin, kredi kartları üzerinden birçok dolandırıcılık belirlemesinden sonra başlatılan araştırmada, bankalar ve şirketler için hesap nakli yapan Arizona’daki CardSystems Solutions isimli bir şirketin güvenlik sisteminin delindiğinin tespit edildiğini kaydetti. 
+     MasterCard International, risk altındaki 40 milyon kredi kartının 13,9 milyonunun MasterCard müşterilerine ait olduğunu da bildirdi. 
+     Bu konuda müşterileri durumunda olan bankaları uyardıklarını açıklayan MasterCard, bu bankalardan kredi kartı taşıyıcılarının korunması için gerekli önlemleri almalarını istediklerini belirtti. 
+     Şirket, MasterCard kredi kartlarının sosyal güvenlik numarası, doğum tarihi ve benzeri kritik bilgileri içermediğini de kaydetti. 
+     CardSystems ise açıklamasında, dolandırıcılık amaçlı bir bilgisayar virüsüne maruz kaldıklarını ve müşteri bilgilerinin çalındığını bildirdi. Elektronik Mahremiyet Bilgi Merkezi danışmanlarından David Sobel’in verdiği bilgiye göre, olay bugüne kadarki en büyük mali bilgi hırsızlığı özelliğini taşıyor. 
+     Müşterilerine ait bilgileri çalınan kredi kartı şirketleri arasında bulunan American Express, Visa, Discover ve MBNA ise bu konuda henüz bir açıklama yapmadı. 
+     Haziran ayı başında finans devi Citigroup’un 3,9 milyon müşterisine ait önemli bilgiler içeren kayıtlar kargo şirketi UPS tarafından kaybedilmişti. 2005 yılında müşteri bilgileri çalınan ya da kaybedilen diğer firmalar arasında Bank of America, ChoicePoint, PNC Finansal Hizmetler Grubu, Reed Elsevier’in LexisNexis birimi, Retail Venture şirketi ve Wachovia Şirketi de bulunuyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 109907 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/09/27/son/sonspo03.html </URL>
+<DATE> 2002/09/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dünya Kupası'nda tribünler yazılım hatası yüzünden boş kalmış 
+</HEADLINE>
+<TEXT>
+
+     2002 Dünya Kupası'nda birçok maçta tribünlerin boş kalmasının, bilet satışı için hazırlanan yazılımdaki hatalardan kaynaklandığı belirlendi. 
+     Uluslararası Futbol Federasyonları Birliği FIFA , Dünya Kupası maçlarında tribünlerin neden boş kaldığını belirlemek için yaptırdığı araştırmada, sorunun İngiliz Byrom firmasının hazırladığı yazılımın hatalı olmasından kaynaklandığı tespit edildi. İnternette yer alan habere göre, danışmanlık şirketi Ernst Young'a bir rapor hazırlatan FIFA, bu durumun bilgisayar hataları ve bilgi akışındaki gecikmelerden kaynaklandığını belirledi. Raporda yer alan bilgilere göre, evsahibi ülkeler Güney Kore ve Japonya dışında dünyadaki bilet satış organizasyonunu üstlenen İngiliz Byrom adlı şirketin kullandığı yazılım başarı olamadı. Şirketin hazırladığı satış yazılımı, 1 Mayıs 2002 tarihinden önce satışa sunduğu biletlerin geri kalanını, zamanında Güney Kore ve Japonya'ya döndüremeyince biletler elde kaldı ve birçok maçta dışarıda bilet arayan taraftarlar varken biletler satılamadı ve tribünler boş kaldı. 
+     Kupanın en fazla talep gösterilen maçlarından biri olan Japonya-Türkiye maçı sırasında kapalı tribünlerde orta blokta, sağ ve sol koltukları satılan 500-700 kişilik bir oturma grubunun boş kalması dikkat çekmişti. 
+     Raporda belirtilen ilginç hususlardan biri de teknolojileriyle ünlü Japonların, bu biletlerin satışını gerçekleştirebilecek bir sistem kurmamış olmaları. Sorun ortaya çıkınca çağrı merkezleri kuran Japonlar, biletleri maç saatlerine kadar telefonla satmayı denemişlerdi. 
+     FIFA tarafından sağlanıp Byrom'a verilmesi gereken detaylı stadyum verilerinin yetersiz kalmasının da aksaklıklara neden olduğu kaydedildi. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 353815 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/20/son/sonyas23.html </URL>
+<DATE> 2005/06/20/ </DATE>
+<TIME> 16.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+SARS, şizofreni ilacıyla tedavi edilebilir... 
+</HEADLINE>
+<TEXT>
+
+     Akut solunum yetmezliği sendromunun SARS , bir tür şizofreni ilacıyla tedavi edilebileceği açıklandı. 
+     Resmi Yeni Çin ajansı, yapılan araştırmalarda, cinanserin adlı şizofreni ilacının farelerde, ilk kez 2002'de Çin'in güneyinde ortaya çıkan SARS'a yol açan virüsü dizginlediğinin görüldüğünü bildirdi. 
+     Haberde, Çin'in Hangzhou kentinde Avrupalı ve Çinli araştırmacıların katılımıyla yapılan bir konferansta açıklanan araştırmanın, cinanserinin, SARS'ın tedavisi ve önlenmesinde etkili olan 15 ilaçtan biri olduğunu gösterdiği, diğer 14 ilaçla ilgili deneylerin henüz tamamlanmadığı belirtildi. 
+     Sonuçları, ABD'deki ''Journal of Virology'' dergisinde yayımlanan araştırmayı yürüten bilimadamlarından Jiang Hualiang, 1970'lerde şizofreni ve mani tedavisinde kullanılan cinanserinin, SARS'a yol açan virüsün, virüs hücre kültürlerinde kopyalanmasını engellediğini açıkladı. 
+     Hualiang, şizofreni ve mani hastalarında, 18 ay kullanım süresi boyunca kansere yol açtığı gözlenen ilacın, bir iki ay ya da birkaç hafta sürecek SARS tedavisinde böyle bir etkisinin görülmeyeceğini belirtti. 
+     SARS, 2003 yılı temmuz ayında etkisini yitirene kadar Çin'de 349 kişinin ölümüne neden olmuştu. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 224953 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/23/son/sonyas16.html </URL>
+<DATE> 2004/03/23/ </DATE>
+<TIME> 12.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayarlar 'insanlaşırsa...' 
+</HEADLINE>
+<TEXT>
+
+     Kilitlenen bilgisayar, öfkelenen kullanıcı ve bunların nedeni Bilgisayar tarafından anlaşılamayan bir komut. Bu duruma çare bulmak için araştırmacılar bilgisayarı ''insanlaştırmaya'' çalışıyorlar. 
+     Almanya'nın Hannover kentinde her yıl düzenlenen dünyanın en büyük bilgisayar fuarında sergilenen bir dizi projenin parolası, insanların bilgisayara değil, bilgisayarın insanlara uyum sağlaması. 
+     Almanya Yapay Zeka Merkezi DFKI bilgisayar mühendislerinden Alassane Ndiaye, bilgisayar ekranında belirecek olan ''gerçekçi biçimde tasarlanmış sanal insan''ın bazı toplumsal yetenekleri ve duyguları gösterebileceğini kaydetti. 
+     Bunun için bilgisayar mühendisleri, gerçek bir insanın tepkilerindeki, yüz ifadesindeki, mimiklerindeki, ses tonundaki değişiklikleri taklit eden ''duygu profilleri'' programladılar. 
+     Böylece bilgisayar, şimdilik memnun olan ya da öfkelenen kullanıcının tavırlarını yeniden yansıtabilecek. Başka projelerde, bu tavırların algılanması üzerinde de duruluyor. 
+     Proje için somut gösterge bir ''bilgi büfesi'' Ses analizi yapan bir sistem ve mikrofon sayesinde sorulanları anlayan, parmak hareketlerini izleyen, kızıl ötesi kamera ile kullanıcının hareketlerini ''gören'', aynı zamanda da kullanıcının yüzünü filme alarak izleyen bu bilgisayar, karşısındaki insanın sinirli mi, memnun mu, kararsız mı olduğunu anlayabiliyor. 
+     DFKI, 1990'lı yılların ikinci yarısında geliştirdiği, ses aracılığıyla duyguları tanımlayabilen ''Verbmobil'' adlı başka bir projeyle, telefona cevap veren bir bilgisayarın, örneğin karşısındaki kişi hızlı, yüksek sesle, kızgın bir tonla konuştuğunu algılayabilip, onu hemen operatöre doğrudan yönlendirip yönlendirmeyeceğine karar verebiliyordu. 
+     ''Verbmobil'' kullanışlı, ama ortalama tüketici için çok pahalıydı. 
+     Bu arada, öncelikle engelli kişilere iletişim ya da protezlerini kullanma olanakları sağlayacak tıbbi amaçlı uygulamalar planlanıyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 299458 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/21/son/soneko02.html </URL>
+<DATE> 2004/12/21/ </DATE>
+<TIME> 00.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones yükseldi, Nasdaq düştü 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası Dow Jones endeksi yükselirken, Nasdaq endeksi düştü. 
+     Borsanın temel göstergesi Dow Jones 11.68 puan yükselişle 10,661.60 puana çıkarken, teknoloji endeksi Nasdaq 7,35 puan azalarak 2,127.85 puana düştü. 
+     
+</TEXT>
+</DOC>

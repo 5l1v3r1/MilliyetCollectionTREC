@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 180350 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/04/son/sontur33.html </URL>
+<DATE> 2003/09/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İstanbul trafiğine ''e-ulaşım''lı çözüm geliyor... 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Büyükşehir Belediyesi, İstanbul'da trafiğe çözüm getirmek amacıyla başlattığı ''e-ulaşım projesi'' çerçevesinde trafik akış hızına ilişkin bilgileri harita üzerinde renklerle gösteren ''Trafik Ölçüm Sistemi''ni hizmete sokacak. 
+     İstanbul Belediyeler Bakım Ulaşım Sanayi ve Ticaret Anonim Şirketi İSBAK A.Ş Genel Müdürü Derya Demir, e-ulaşım projesi kapsamında ilk aşamada kameralarla trafiğin yoğun olduğu ana arterlerin izlendiği ''Trafik Görüntüleme Sistemi'', vatandaş yol durumu hakkında elektronik tabelalarla bilgi veren ''Yolcu Bilgilendirme Sistemi''ni hizmete soktuklarını, son alarak da altyapı çalışmaları 6 aydan beri süren ''Trafik Ölçüm Sistemi''ni geliştirdiklerini kaydetti. 
+     Trafik Ölçüm Sistemi'nde radar teknolojisi ile gerçek zamanlı olarak trafiği ait hız bilgilerinin anında ölçüldüğünü belirten Demir, sisteme ilişkin şu bilgileri verdi 
+     ''Yola, görülecek şekilde yerleştirilen radar sensörleri, yolun her şeridindeki hız bilgilerinin yanı sıra o yoldan ortalama olarak ne kadar araç geçtiğini de tespit ediyor. 5 dakikada bir merkeze gelen bu veriler, interaktif bir trafik haritasına işleniyor. Haritada yollar trafiğin hız durumuna göre renklerle gösteriliyor. Örneğin kırmızı renk 20-30, sarı 30-50, yeşil 50-70 kilometre gibi değerlendirmeler haritada yer alıyor. Ancak bu aralıklar sonra netleştirilecek. Sistem ile adeta trafiğin anjiyosunu çekiyoruz.'' 
+     
+     1 MİLYON DOLAR HARCANDI 
+
+     Demir, radar sensörlerinin ana arterlerde 31 noktaya yerleştirildiğini, yıl sonuna kadar bu sayının 70'e, önümüzdeki yıldan itibaren de yüzlü rakamlara ulaşacağını kaydetti. 
+     Ana arterlerin tümüne yerleştirilmesine karşın bu sayının yeterli olmadığını ifade eden Demir, ''Sensörlerin tüm İstanbul'u kaplaması lazım. Ne kadar çok sensör yerleştirirsek, o kadar çok yol hakkında bilgimiz olur'' dedi. 
+     Demir, trafik hız haritalarının Ekim ayından itibaren İstanbul Büyükşehir Belediyesi'nin ''ibb.gow.tr'' adresli web sitesinden yayınlanacağını, yıl sonuna kadar da cep telefonu ve televizyonlar aracılığıyla İstanbullulara ulaşacağını kaydetti. 
+     Derya Demir, Büyükşehir Belediyesi'nin bu yıl akıllı ulaşım sistemlerine 10 milyon dolar ayırdığını ve bunun bir milyon dolarının Trafik Ölçüm Sistemi'nin altyapısı için harcandığını söyledi. 
+     
+</TEXT>
+</DOC>

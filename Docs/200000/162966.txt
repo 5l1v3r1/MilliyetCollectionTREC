@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 162966 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/13/son/soneko46.html </URL>
+<DATE> 2003/06/13/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kasırgalar, teknoloji sayesinde 5 gün önceden tahmin edilecek 
+</HEADLINE>
+<TEXT>
+
+     IBM'in geliştireceği ve hava durumu tahmini için kullanılacak olan süper bilgisayar sayesinde kasırga ve tayfunların önceden tahmin edilme süresinin 3 günden 5 güne çıkacağı bildirildi. 
+     IBM Türkiye'den yapılan açıklamaya göre, yeni süper bilgisayar tarımsal işletmelere ve havacılık şirketlerine de hizmet verecek. Ayrıca, doğal felaket durumlarında kurtarma çalışmalarının etkin yönetimi için kullanılacak. 
+     ABD Ulusal Hava Durumu Servisleri ile IBM, dünyanın en güçlü bilgisayarının kurulması için anlaşma sağladı. 
+     Kasırga ve tayfunlara karşı önlem alma süresini uzatacak yeni bilgisayar 200 milyon dolara mal olacak. Bilgisayar, birkaç yıl içinde saniyede 7.3 trilyon işlem yapabilme kapasitesine erişecek. 
+     2009 yılında tamamlandığında ise saniyede 100 trilyon işlem yapabilecek olan bilgisayar, IBM eServer pSeries Model 690 Deep Blue temelli olacak. 
+     Bugün hava tahmini için Japonya'da kullanılan ve 350 milyon dolara mal olan ''Dünya Simülatörü'' isimli bilgisayarın, tam kapasite çalıştığında saniyede 35.8 trilyon işlem yapabilme kapasitesine sahip olduğu bildirildi. 
+     
+</TEXT>
+</DOC>

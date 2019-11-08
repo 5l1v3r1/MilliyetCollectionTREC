@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 322884 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/11/son/soneko49.html </URL>
+<DATE> 2005/03/11/ </DATE>
+<TIME> 16.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Reel kesim güven endeksi Şubat ayında 103.6 seviyesine geriledi 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası Reel Kesim Güven Endeksi MBRKGE Şubat ayında, bir önceki aya göre 0.9 puan azalarak 104.5'den 103.6 seviyesine geriledi. 
+     Geçen yılın aynı dönemine göre karşılaştırma yapıldığında ise endeksin 0.3 puan arttığı gözlendi. 
+     Merkez Bankası, Şubat ayına ilişkin reel kesim güven endeksi sonuçlarını açıkladı. 
+     Endeksi oluşturan anket sorularına ait yayılma endeksleri Ocak ayına kıyasla incelendiğinde, 'genel gidişat' konusundaki görüşler, yüzde 6.0 oranındaki azalışla en fazla gerileyen kalem oldu. 
+     Bunu 'ihracat imkanları ve yatırım harcaması' beklentilerindeki gerilemeler takip etti. Endeksi olumsuz yönde etkileyen sonuncu kalem ise 'mamul mal stok miktarı eğilimi' olarak belirlendi. 
+     Öte yandan endeksi pozitif yönde etkileyen en önemli kalem 'toplam istihdam beklentisi' olurken, diğer kalemler üretim hacmi beklentisi, iç pazara satılan mal hacmi ve toplam sipariş eğilimleri oldu. 
+     Ancak mevsimsel etkilerden arındırıldığında, 'üretim hacmi beklentisi ve toplam sipariş eğilimindeki' artışların azalışa döndüğü, iç pazara satılan mal hacmi eğiliminin ise olumlu yönde daha da güçlendiği gözlendi. Hammadde stok eğiliminin endekse önemli bir etkisi olmadı. 
+     Bir önceki yılın Şubat ayına göre karşılaştırma yapıldığında ise genel gidişat konsundaki görüşler ve iç pazara satılan mal hacmi eğilimi geçen seneki değerlerinin altında kalırken, diğer alt kalemlerde artış olduğu gözlendi. 
+     
+</TEXT>
+</DOC>

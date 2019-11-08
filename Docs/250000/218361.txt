@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 218361 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/27/son/sontur07.html </URL>
+<DATE> 2004/02/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+TÜBİTAK'tan bir gözlem uydusu daha... 
+</HEADLINE>
+<TEXT>
+
+     Türkiye haberleşme uydularının ardından mini gözlem uydularıyla da uzaydaki varlığını pekiştiriyor. Türkiye Bilimsel ve Teknik Araştırma Kurumu TÜBİTAK , teknoloji transferiyle üreterek Eylül ayında uzaya gönderdiği BİLSAT uydusunun ardından, bu kez tamamı Türkiye'de yapılacak ''RASAT'' uydusunun üretim çalışmalarına başladı. 
+     TÜBİTAK Bilgi Teknolojileri ve Elektronik Araştırma Enstitüsü BİLTEN Müdürü Prof. Dr. Erol Kocaoğlan Anadolu Ajansı'na yaptığı açıklamada, Türkiye'nin ilk mini alçak irtifa uydusu BİLSAT'ın ardından yeni bir uydunun yapımı için proje hazırladıklarını söyledi. 
+     Prof. Dr. Erol Kocaoğlan, İngiltere Surrey Üniversitesi'nin Satellite Teknology Limited SSTL şirketiyle yürütülen çalışmalarla üretilen BİLSAT uydusunun Eylül ayında Rusya'nın Plesetsk kasabasından uzaya gönderildiğini, bu uydunun yapımında çok sayıda Türk mühendisin görev aldığını kaydetti. 
+     İlk uydunun yapımında görev alan mühendislerle bu kez ''RASAT'' adını taşıyacak uyduyu yapacaklarını belirten Prof. Dr. Kocaoğlan, bu uydunun tamamen ODTÜ Yerleşkesi'ndeki BİLTEN laboratuvarlarında üretileceğini bildirdi. 
+     Türkiye'nin ilk mini uydusu BİLSAT'ın 12 metre ve 26 metre çözünürlükte dört bantlı kameralar taşıdığını, RASAT'ın ise bu uydudan daha yetenekli olacağını belirten Prof. Dr. Kocaoğlan, yeni uydunun 5 metre çözünürlükte görüntü toplayabilme yeteneğine sahip olacağını ifade etti. 
+     
+     YERLİ MODÜLLER BU KEZ ''BİLGE'' VE ''ATMACA'' 
+     Prof. Dr. Kocaoğlan, RASAT'ın daha önce uzay ortamında çalıştığı kanıtlanan sistemlerin yanı sıra Türkiye'de üretilecek yeni modülleri de taşıyacağını söyledi. Yeni uyduya sistem yöneticisi olarak monte edilecek bilgisayar sistemine ''BİLGE'' adını verdiklerini belirten Prof. Dr. Kocaoğlan, daha net görüntü sağlaması amacıyla geliştirilecek kamera sisteminin de ''ATMACA'' adını taşıyacağını ifade etti. 
+     Uyduya BİLSAT'tan farklı olarak bu kez X-Bant koyacaklarını belirten Prof. Dr. Kocaoğlan bu bant sayesinde bir aracın üstüne bile yerleştirilecek yer istasyonuna daha hızlı veri iletilebileceğini ayrıca sabit yer istasyonu bulunma zorunluluğunun ortadan kalkacağını vurguladı. Prof. Dr. Kocaoğlan ayrıca güneş pillerinin şarj sistemini de geliştireceklerini ve yeni uyduda ağırlığı düşürmek için lityum pil kullanılacağını söyledi. 
+     Prof. Dr. Kocaoğlan, BİLSAT'ın, tamamen Türk mühendislerin tasarladığı Çok Bantlı Kamera ÇOBAN ve Gerçek Zamanda Görüntü İşleyen GEZGİN modüllerini taşıdığını, yeni uyduda ise GEZGİN-2'nin yanında daha nitelikli görüntüleme sisteminin bulunacağını kaydetti. 
+     Devlet Planlama Teşkilatı tarafından 4,5 milyon dolar tutarında destek verilen projenin 2006 yılında tamamlanarak RASAT'ın daha sonra belirlenecek merkezden uzaya fırlatılması planlandığını belirten Prof. Dr. Kocaoğlan, uydunun 110 kilo civarında ağırlığı olacağını ve yaklaşık 10 milyon dolara malolmasının beklendiğini dile getirdi. 
+     RASAT'tan şehircilik, kaçak yapılaşmanın tespiti, tarım, çevre, ormancılık, haritacılık ve tabii afetlerin neden olduğu hasarın değerlendirilmesi gibi amaçlarla yararlanılabileceğini kaydeden Prof. Dr. Kocaoğlan, uydudan elde edilecek verilerin TÜBİTAK BİLTEN'de kurulan uydu yer istasyonunda işleneceğini ifade etti. 
+     
+     HEDEF UYDU TEKNOLOJİSİ ÜRETMEK 
+     Prof. Dr. Kocaoğlan, uydu teknolojilerini bu projelerle kazanmak istediklerini belirterek, şunları söyledi 
+     ''BİLSAT uydusunda görev alan Türk mühendisler, yapım sürecinde mühendislik becerileri kazandı. BİLTEN'de Temiz Oda ve Uydu Tasarım Ofisi oluşturularak, bundan sonra yapılacak uydular için zemin hazırladık. Bazı modüller üzerinde geçen yıldan bu yana çalışıyoruz. RASAT uydusunun yapımında, uydu teknolojisi konusunda ne kadar beceri kazandığımızı da görmüş olacağız. Bu uyduyu da yaparsak bundan sonra daha iyilerini yapma yoluna gideceğiz. Belki bundan sonraki uydu 2,5 metre veya daha net görüntü elde edebilecek düzeyde olabilir. Asıl amacımız bu teknolojiyi üretebilir konuma gelmek.'' 
+     
+</TEXT>
+</DOC>

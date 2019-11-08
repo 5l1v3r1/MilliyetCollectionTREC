@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> 333819 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/15/son/sonyas09.html </URL>
+<DATE> 2005/04/15/ </DATE>
+<TIME> 10.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayarlarda "çernobil" alarmı .. 
+</HEADLINE>
+<TEXT>
+
+     Adını Çernobil'de yaşanan nükleer santral kazasından alan virüs aktif hale geçmeye hazırlanıyor. Çernobil virüsü, korumasız bilgisayarların BIOS bilgilerini silerek kullanılamaz hale getiriyor. 
+     A.A muhabirinin internetteki çeşitli güvenlik sitelerinden derlediği bilgilere göre, W95.CIH virüsünün bir türevi olan Çernobil Chernobyl virüsü, ilk defa Haziran 1998'de Tayvan'da görüldü. 
+     Özellikle Windows 95 ve Windows 98 işletim sistemleri ile çalışan bilgisayarlarda, Microsoft'un artık teknik destek vermemesinden dolayı etkin olan ve yayılan virüs, 26 Nisan-26 Haziran günleri dışında ''kuluçkaya yatıyor''. Sadece söz konusu tarihlerde aktif hale gelen virüs, bilgisayardaki sabit sürücülerin bölüm bilgisini silerek sabit sürücüdeki tüm bilgilerin kaybolmasına ve kullanılamaz hale gelmesine neden oluyor. 
+     Ayrıca ana kartın BIOS programını da silerek bilgisayarın tamamıyla çalışamaz hale gelmesine neden olan virüs, bu özelliği ile de dünyanın donanıma zarar veren ilk virüsü olma özelliğini taşıyor. 
+     
+     TÜRK KORSANLAR 
+     Çernobil Virüsü'nü yazanlar arasında iki Türk de bulunuyor. Kendilerine 'Çernobil Grubu' adını veren korsanlar, önceki yıllarda, internette yaptıkları duyuruda amaçlarının radyoaktif tehlikeye dikkati çekmek olduğunu savunarak virüsten zarar görenlerden özür dilemişlerdi. 
+     Tüm dünyadaki bilgisayar sistemlerinde 6 milyar dolarlık zarara yol açtığı tahmin edilen virüsü yazanlar arasında bulunan bu kişiler, ''Bunu Kimse Unutmayacak'' başlıklı mesajlarında ''Çernobil Grubu, bu virüsü, tüm dünyaya radyoaktif santrallerin ne denli büyük tehlike olduğunu hatırlatmak için yazmıştır'' açıklamasını yapmışlardı. 
+     
+     YAYILMA VE KORUNMA 
+     Virüs, Windows işletim sistemi altındaki ''EXE'' uzantılı program dosyalarına bulaşıyor. Virüslü program çalıştırıldığında virüs belleğe yerleşiyor ve diğer çalıştırılan ya da kopyalanan programlara bulaşmaya başlıyor. 
+     Çernobil virüsünün Türkiye'deki yayılma kanalları arasında kopya bilgisayar programları da bulunuyor. Virüs, tezgahlarda 1 milyon liraya satılan SimCity 3000 adlı bilgisayar oyununun kopya CD'lerinde görüldü. DNet firması ise Sin adlı oyunun orijinal demosunda bu virüse rastlandığını duyurdu. 
+     İnternet analistleri, virüsten korunmak için şunları öneriyor 
+     ''-Daha önce başka bilgisayarda kullandığınız bir disketi, cd'yi kendi bilgisayarınızda kullanmadan önce virüs programıyla taratın. 
+     -Bilgisayarınızı üzerinde bir disket takılıyken açmayın. 
+     -Üreticisi tarafından düzenli olarak güncellenen bir virüs programı kullanın. 
+     -İnternet'ten çektiğiniz dosyaları kullanmadan önce virüs programınızla test edin. 
+     -Elektronik posta ile tanımadığınız kişilerden gelen programları kullanmayın. 
+     -Nisan ayının 26'sında faaliyete geçmesi beklenen virüsten korunabilmek için bu tarih öncesinde bilgisayarınızın tarihini ayın 27'si veya daha sonrası olarak değiştirin.'' 
+     
+</TEXT>
+</DOC>

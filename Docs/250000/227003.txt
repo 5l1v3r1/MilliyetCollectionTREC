@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 227003 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/30/son/sonyas04.html </URL>
+<DATE> 2004/03/30/ </DATE>
+<TIME> 07.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayarlar ses ve elyazısını tanıyacak .. 
+</HEADLINE>
+<TEXT>
+
+     Microsoft'un kurucusu Bill Gates, ''bilgisayarların yakın gelecekte ses ve elyazısını tanıyacağını ve donanımların 10 yıl içinde neredeyse bedava olacağını'' söyledi. 
+     Gates, San Diego'da düzenlenen teknoloji sempozyumunda yaptığı konuşmada, ''donanımların tam olarak bedava olacaklarını söylemiyorum ama, server'lerin gücü dikkate alındığında, şebekenin gücü kısıtlayıcı bir faktör olmaktan çıkacak'' diye konuştu. Gates'in bu sözlerle bir şebeke sistemi içinde birbirlerine bağlı bilgisayarları kastettiği ve internet hızındaki artıştan söz ettiği ifade edildi. 
+     
+     SESİ VE ELYAZISINI TANIYAN BİLGİSAYARLAR 
+
+     ''Yakın gelecekte, sesle komut alan ve elyazısını tanıyan bilgisayarların, günümüzdeki Windows işletim sistemi kadar yaygın hale geleceğine'' işaret eden Gates, ''üzerinde 30 yıldır çalıştığımız pek çok mesele önümüzdeki 10 yıl içinde çözüme kavuşacak'' açıklamasında bulundu. 
+     Uzmanlar Microsoft'un daha şimdiden ses ve elyazısını tanıyan yazılımlar üreterek iş alemine sattığına dikkat çekiyorlar. 
+     Gates, ''bilgisayar programı yazanların da, yakın gelecekte binlerce satırdan oluşan programlar yazmak yerine görsel sunum adı verilen teknikten yararlanarak şimdikinden çok daha kısa sürede program yazabileceklerini'' sözlerine ekledi. 
+     
+     AR-GE İÇİN 7 MİLYAR DOLAR 
+
+     ''Microsoft'un araştırma-geliştirme için bu yıl içinde 6.8 milyar dolar harcamayı planladığını'' kaydeden Bill Gates konuşmasında, ''yazılımların güvenilir ve güvenlikli olmasının kendileri açısından hala birinci önceliği koruduğunu'' vurguladı. Gates en son işletim sistemi olan Windows-XP için çıkartılacak olan 2. hizmet paketinin SP-2 de bu yıl yayınlanacağını kaydetti. SP-2'nin, Windows işletim sisteminin güvenliğini arttırmayı hedeflediği belirtiliyor. 
+     
+
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 378626 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/15/son/soneko01.html </URL>
+<DATE> 2005/09/15/ </DATE>
+<TIME> 01.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası Wall Street, günü düşüşle kapadı. 
+     Dow Jones Sanayi Endeksi 52.54 puan azalarak 10,544.90 puandan, Nasdaq Bileşik Teknoloji Endeksi de 22.42 puan düşerek 2,149.33 puandan kapandı. 
+     
+</TEXT>
+</DOC>

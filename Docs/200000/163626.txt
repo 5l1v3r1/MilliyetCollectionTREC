@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 163626 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/17/yasam/yas02.html </URL>
+<DATE> 2003/06/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İTÜ 'tsunami'yi 'havuza yatırdı' 
+</HEADLINE>
+<TEXT>
+
+İstanbul'da beklenen depremin dev dalgalar yaratma ihtimali ve hasarı, dev bir akvaryumda araştırılıyor... 
+     SERHAT OĞUZ İstanbul 
+
+     Bilim adamları, beklenen İstanbul depreminin 'tsunami' yani dev dalgalar yaratacağını da iddia edince, İstanbul Teknik Üniversitesi İTÜ duruma el koydu. 
+     Şimdi İTÜ'lü bilim adamları, üniversite tesislerinde kurulan dev bir akvaryumda yıkıcı deniz dalgalarının neden olacağı tahribatı araştırıyor. Çalışma, İTÜ Hidrolik Anabilim Dalı öğretim üyesi Prof. Dr. Sedat Kabdaşlı öncülüğündeki ekip tarafından yürütülüyor. Tsunami tehlikesinin önemsenmesi gerektiğini vurgulayan Kabdaşlı, bu konuda şunları söylüyor 
+     "Herkes deprem deyince bina güvenliğini düşünüyor, ancak tsunami de önemli bir tehdit. Marmara kıyıları bu tür çalışmalarla modellenmeli ve tsunamiye vereceği tepki ortaya çıkarılmalı. Böyle bir çalışmanın maliyeti, 200 - 300 bin doları bulur. Bu da üniversitenin bütçesini aşar. Ancak bu çalışmalarla bizden başka kimse ilgilenmiyor." 
+     
+     Bilgisayar da devrede 
+     Tam 22 metre uzunluğundaki dev akvaryumda yapılan 'tsunami araştırması ise' şöyle Dev akvaryumda, elektronik bir piston aracılığıyla suni dalga oluşturuluyor. Bu dalganın diğer uçtaki kum ve çakıllar üzerinde yarattığı hareketlilik, tahribat ve dalganın ulaşabileceği boy hesaplanıyor. Kayıt cihazları ve basınçölçerlerle tsunaminin etkisi çok boyutlu inceleniyor. 
+     Prof. Kabdaşlı ve ekibi, İngilizler'in geliştirdiği bir bilgisayar programını Deniz Kuvvetleri Oşinografi ve Hidrografi Dairesi'nin Marmara Denizi'ne ait sayısal verileriyle birleştirerek olası bir tsunaminin etkilerini sanal ortamda tespit etti. 
+     
+     Hiç önlem alınmamış 
+     Kadıköy sahilini örnek model olarak alan çalışmaya göre, Marmara'da derinliğin 40 - 50 metre olduğu yerde, tsunami maksimum dalga yüksekliğine ulaşıyor. Aynı anda deniz dibinde de erozyon oluşuyor. Kabdaşlı, "Kadıköy sahilindeki deniz deşarj hattı, 50 metre derinlikte yer alıyor. Bu erozyon etkisi borulara zarar verebilir. Ancak görülüyor ki, kıyı yapıları planlanırken, tsunaminin etkisi bir kriter olarak göze alınmamış" diyor. 
+     
+Deprem fırtınası sürüyor      Balıkesir'in Sındırgı ve Bigadiç ilçelerinde dört günde 30 deprem kaydedildi. Büyüklükleri 2.8 ile 3.9 arasında değişen sarsıntılar her iki ilçenin sakinlerini huzursuz ederken, Balıkesir Vali Yardımcısı Caner Akay, iki ilçede sık aralıklarla meydana gelen küçük depremlerin "deprem fırtınası" olarak adlandırıldığını söylerken şöyle konuştu "Kandilli Rasathanesi yetkilileriyle sık sık görüşüyoruz. Deprem fırtınasının bir işaret veya öncü olup olmadığı konusunda bir şey söylemenin mümkün olmadığını vurguluyorlar. Bölgedeki enerji boşalması iyiye işaret." Balıkesir bölgesindeki fay hatlarının parça parça olduğunu belirten Akay, bu fayların büyük bir deprem yaratmasının beklenmediğini de kaydetti. n COŞKUN YAMAN Balıkesir DHA 
+     
+Çanakkale, Bursa ve Elazığ yine sallandı      Boğaziçi Üniversitesi Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü Müdürlüğü Çanakkale Ayvacık açıklarında dün saat 08.15'te 7.9 kilometre derinlikte, Richter ölçeğine göre 3.7 büyüklüğünde bir deprem olduğunu açıkladı. Bursa Orhaneli'nde dün saat 07.30'da 3.0 büyüklüğünde bir sarsıntı meydana gelirken can veya mal kaybı olmadı. Elazığ Sivrice civarında da dün saat 15.31'de 3.9 büyüklüğünde deprem oldu. n ÇANAKKALE DHA 
+     
+
+</TEXT>
+</DOC>

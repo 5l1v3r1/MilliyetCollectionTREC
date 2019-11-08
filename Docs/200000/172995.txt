@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 172995 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/01/son/soneko14.html </URL>
+<DATE> 2003/08/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kredilerde erken ödeme geliyor.. 
+</HEADLINE>
+<TEXT>
+
+     Tüketiciler, aldığı tüketici kredisinin tamamını önceden ödeyebileceği gibi, vadesi gelmemiş bir ya da birden çok taksidi de kapatabilecek. 
+     Sanayi ve Ticaret Bakanlığı'nın Tüketici Kredisinde Erken Ödeme İndirimi ve Kredinin Yıllık Maliyet Oranının Hesaplanma Usul ve Esasları Hakkında Yönetmeliği Resmi Gazete'de yayımlandı. Yönetmelik, 3 ay sonra yürürlüğe girecek. 
+     Yönetmelik ile tüketici kredilerinde, tüketicinin kredi verene borçlandığı toplam miktarı veya vadesi gelmemiş bir ya da birden çok taksidi erken ödemesi halinde, kredi veren tarafından yapılacak faiz ve komisyon indirimi ile kredinin tüketiciye yıllık maliyetinin oransal hesaplanmasına ilişkin usul ve esasların belirlenmesi amaçlandı. 
+     Buna göre, tüketici, kredi verene borçlandığı toplam miktarı önceden ödeyebileceği gibi aynı zamanda vadesi gelmemiş bir ya da birden çok taksit ödemesinde de bulunabilecek. Bu durumda kredi veren, tüketiciden herhangi bir isim adı altında, ek bir ödemede bulunulmasını isteyemeyecek ve erken ödeme miktarı, asgari ödeme miktarının altında olmayacak. 
+     Vadeden önce ödenecek bir veya birden fazla taksit söz konusu olduğunda, erken ödenen taksit tutarı içinde yer alan anapara tutarı üzerinden akdi faiz oranı ve erken ödenen gün sayısı dikkate alınarak bulunacak faiz, faiz üzerinde hesaplanacak kamusal yükümlülükler toplamı ve komisyon tutarı kadar indirim yapılacak. 
+     Erken ödemenin taksit tarihinde yapılması halinde vadesi gelen taksit ödemesi, geriye kalan taksit tutarları içerisindeki anapara borcu ve varsa o tarihe kadar tahsil edilmemiş faiz ve kamusal yükümlülükler tahsil edilecek. 
+     Erken ödeme, iki taksit arasında yapılıyorsa, ödeme planında yer alan en son ödenmiş taksit tarihiyle, erken kapatma işleminin gerçekleştiği tarih arasında, anaparaya işleyen faiz tutarı, en son ödenmiş taksit tarihi itibariyle geriye kalan taksit tutarları içerisindeki anapara borcu ve varsa o tarihe kadar tahsil edilmemiş faiz ve kamusal yükümlülükler tahsil edilecek. 
+     
+</TEXT>
+</DOC>

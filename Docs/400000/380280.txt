@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 380280 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/21/son/soneko52.html </URL>
+<DATE> 2005/09/21/ </DATE>
+<TIME> 16.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Netron'dan "iyi huylu hacker" sertifikası... 
+</HEADLINE>
+<TEXT>
+
+     Netron Bilişim Akademisi, ağ güvenliğinden sorumlu bilişim profesyonelleri için ''iyi huylu hacker bilgisayar korsanı '' sertifika programı başlatacak. 
+     Netron'dan yapılan açıklamaya göre, ''Karanlık tarafı aydınlatmak istiyorsan, öncelikle karanlığı içinden fethetmelisin'' düşüncesiyle oluşturulan bir sertifika programı olan CEH Certificated Ethical Hacker - İyi Huylu Hacker ile profesyonel sistemlerin emniyetinin ve kullanıcı güvenliğinin en yüksek düzeyde sağlanması hedefleniyor. 
+     Program, 'hacker'lar ile aynı bilgi ve kuralları kullanarak hedef sistemlerin açıklarını ve savunmasız taraflarını araştırmaya olanak sağlıyor. 
+     e-İş profesyonellerine yönelik standart oluşturmak ve sertifika sağlamak misyonuyla çalışan bağımsız bir kurum olan Uluslararası e-Ticaret Danışmanları Konseyi işbirliğiyle yürütülecek olan eğitim programı, Türkiye'de Netron Bilişim Akademisi tarafından verilecek. 
+     Netron Bilişim Akademisi Direktörü Ersoy Yüzüncüoğlu, CEH eğitiminin network güvenliğinden sorumlu bilişim profesyonellerini hedeflediğini belirterek, şunları kaydetti 
+     ''CEH sertifika programını başlatmamızın en önemli nedeni, EC-Council işbirliğiyle hazırlanan bu eğitimin bilişim profesyonellerini 'hacker'lar ile aynı araç ve teknikleri kullanarak aynı düşünce biçimine sevk ediyor olması. Böylelikle muhtemel saldırıları tanıyıp üstesinden gelmeleri için ihtiyaç duydukları bilgi birikimine sahip olabilecekler.'' Yüzüncüoğlu, eğitimin içinde yer alan bilişim hukuku başlığında hacker eylemlerine taraf olan bireylerin ve kurumların sorumluluk ve haklarını da aktaracaklarını bildirdi. 
+     120 saatlik CEH eğitimi boyunca, bilgi güvenliği için gerekli tüm bilgi ''iyi huylu hacker''lık disiplini çerçevesinde, tarafsız bir şekilde ve hukuki yanları göz ardı edilmeden katılımcılara verilecek. 
+     Katılımcılar eğitimin sonunda CEH sertifikasıyla birlikte bilgi güvenliği için gerekli her türlü operasyonel çözümü yaratıp uygulamak konusunda bilgi donanımına sahip olacaklar. 
+     
+</TEXT>
+</DOC>

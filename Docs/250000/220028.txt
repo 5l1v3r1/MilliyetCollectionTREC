@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> 220028 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/05/son/soneko05.html </URL>
+<DATE> 2004/03/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones düştü, Nasdaq yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     New York menkul kıymetler borsasında Dow Jones endeksi 5,11 puan düşüşle 10588,00'a gerilerken, Nasdaq endeksi 21,75 puan artışla 2055,11'e yüksel 
+     
+</TEXT>
+</DOC>

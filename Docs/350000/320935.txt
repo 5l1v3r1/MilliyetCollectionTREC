@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 320935 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/05/spor/bbas.html </URL>
+<DATE> 2005/03/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Potada bugün 
+</HEADLINE>
+<TEXT>
+
+
+
+Ahmet Cömert Spor Salonu 
+14.00 G.Saray - P.Karşıyaka 
+İzmir Atatürk Spor Salonu 
+15.00 Tuborg - F.Bahçe 
+Haldun Alagaş Spor Salonu 
+16.00 Tekel - Banvit 
+Ayazağa Spor Salonu 
+17.00 İTÜ - Ülker 
+Atatürk Spor Salonu 
+16.00 B.Kolej - T.Telekom 
+
+
+</TEXT>
+</DOC>

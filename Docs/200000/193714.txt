@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 193714 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/06/son/sondun13.html </URL>
+<DATE> 2003/11/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İsrail, uzun menzilli top denemesini yanlışlıkla canlı yayınladı 
+</HEADLINE>
+<TEXT>
+
+     İsrail'in yaptığı gizli bir uzun menzilli top denemesi, yanlışlıkla bütün Ortadoğu'ya açık bir uydudan canlı yayınlandı. 
+     İsrail'in Channel 10 televizyonu, bu hafta, denemenin İsrail'in Amos iletişim uydusu kullanılarak bir deneme kontrol odasından diğerine gönderilen şifrelenmemiş görüntülerini yakaladı. Kanal, dün gece görüntülerin montajlanmış bir kısmını akşam ana haberlerinde yayınladı. 
+     İsrail parlamentosu Dışişleri ve Güvenlik Komisyonu Başkanı Yuval Shteinitz, bugün İsrail Radyosu'na yaptığı açıklamada, ''Bu çok ciddi ve bir daha tekrarlanmaması gereken bir hata'' dedi ve olayı inceleyeceklerini söyledi. İsrail Havacılık Sanayii'nden yapılan açıklamada, denemenin uzun menzilli bir top mermisiyle ilgili olduğu belirtilirken, İsrail'in en büyük gazetesi Yedioth Ahronoth, bu silahın 50 km uzaktaki hedefleri vurabildiğini belirtti. 
+     Channel 10 televizyonundan bir teknisyenin, evlerde kullanılan küçük uydu antenlerle Amos uydusundan gönderilen televizyon sinyallerini kontrol ederken yakaladığı görüntülerin, uydunun yayınlarının alınabileceği kuşakta olan bütün ülkelerden de izlenebildiği bildirildi. 
+     İsrail'in Amos uydusundan gönderilen sinyaller, Libya ve İran gibi, İsrail'in ezeli düşmanı olan ülkelerden de alınabiliyor. 
+     
+</TEXT>
+</DOC>

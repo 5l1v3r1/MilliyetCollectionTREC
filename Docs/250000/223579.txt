@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 223579 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/18/son/sonyas17.html </URL>
+<DATE> 2004/03/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Nobelli kimyacı John A. Pople öldü 
+</HEADLINE>
+<TEXT>
+
+     Matematikçi olarak başladığı bilimsel kariyerini daha sonra kimyacı olarak sürdüren ve 1998 Nobel Kimya Ödülü'nü kazanan Sir John A. Pople, 78 yaşında hayatını kaybetti. 
+     Bilgisayarın kimyacılıkta taşıdığı potansiyel değeri ilk fark edenlerden Pople'ın karaciğer kanserinden hayatını kaybettiği açıklandı. 
+     Kuantum kimyasının temel esaslarından olan Schrödinger denklemi tarafından tanımlanan moleküllerin hareketleri konusunda çalışmalar yapan Pople, 1960'larda Schröndinger denkleminin yetersiz kaldığı yerlerde geliştirdiği yönetemle moleküllerin çevresinde hareket eden elektronların yörüngesini saptayarak yaklaşık çözümlerin hesaplanmasını sağlamıştı. 
+     Bu elektron yörüngeleri sayesinde, geliştirilen bir bilgisayar programı moleküllerin, istikrarlı olup olmadıkları, ışığın hangi rengini emdiği ve kimyasal reaksiyonun aşamaları gibi bazı özellikleri hesaplar hale gelmişti. 
+     Pople, İngiltere'nin batı kıyısında küçük bir kasaba olan Burnham-on-Sea'de 31 Ekim 1925 tarihinde doğdu. 
+     
+</TEXT>
+</DOC>

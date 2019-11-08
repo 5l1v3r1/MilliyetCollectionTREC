@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 211481 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/27/son/soneko43.html </URL>
+<DATE> 2004/01/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İMKB... Disket yoluyla açığa satış yapılabilecek... 
+</HEADLINE>
+<TEXT>
+
+     İMKB'de hisse senetleri alım-satım sisteminin yeni versiyonu, devam eden son test çalışmalarının ardından herhangi bir sorun yaşanmaması durumunda yarın devreye alınacak. 
+     Hisse senetleri piyasası alım-satım sisteminin 2.7.0 numaralı yeni versiyonunun, 23 Ocak günü yapılacak son testlerin ardından yüklenmesi ve dün itibariyle devreye alınması planlanıyordu. Ancak olumsuz hava koşulları nedeniyle 23 Ocak'ta hisse senetleri piyasası seanslarının yapılamaması, bu programda da değişiklik yapılmasını gerektirdi. 
+     Bugüne bırakılan yeni versiyonun son testleri ve yüklenmesinin devam ettiği öğrenildi. Herhangi bir sorun yaşanmaması halinde yeni sistem yarın devreye alınacak. 
+     Hisse senetleri piyasası alım-satım sistemi üzerinde yapılması planlanan yazılım güncellemesi ile birlikte geçerli olacak 2.7.0 numaralı temsilci ekranı sürümünde, emir girişi bilgilerine ''Acente Fon Kodu'' AFK alanı ekleniyor ve ExAPI disket yoluyla açığa satış emri girme imkanı getiriliyor. 
+     
+</TEXT>
+</DOC>

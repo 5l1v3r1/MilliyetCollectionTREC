@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 215939 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/18/son/sondun05.html </URL>
+<DATE> 2004/02/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kırmızı bilgisayarlar yok satıyor 
+</HEADLINE>
+<TEXT>
+
+     Acer firmasının kısa süre önce piyasaya çıkarttığı kırmızı bilgisayarlar yok satıyor. 
+     Acer firmasının kırmızı bilgisayarları, aynı özelliklere sahip gri ve siyah renkli bilgisayarlardan 700 dolar daha pahalıya, 1.900 dolardan satışa çıkartıldı. 
+     Firma parlak kırmızı muhafazası içinde piyasaya sunduğu bilgisayarlara ''Ferrari 3000'' adını verdi ve üzerine ünlü yarış arabalarının sembolü olan at resmini yerleştirdi. 
+     Firma yetkilileri, yarış meraklılarının yeni bilgisayara büyük ilgi gösterdiğini ve talepleri karşılamakta zorlandıklarını açıkladı. 
+     Uzmanların verdiği bilgiye göre, Ferrari-3000 bilgisayarlarında İntel'inkilere oranla daha ucuz olan AMD işlemciler kullanıldı. 60 gigabit depolama kapasitesi bulunan dizüstü bilgisayar yaklaşık 3 kilogram ağırlığında. 
+     
+</TEXT>
+</DOC>

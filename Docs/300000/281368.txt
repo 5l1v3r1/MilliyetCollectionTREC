@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 281368 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/18/son/sonyas23.html </URL>
+<DATE> 2004/10/18/ </DATE>
+<TIME> 15.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+En yaratıcı web siteleri seçiliyor... 
+</HEADLINE>
+<TEXT>
+
+     Türkiye’nin ve Dünya’nın en kreatif web sitelerini seçmek üzere kurulan www.e-CREATIVE.net tüm web tasarımcılarını ortak bir platformda bir araya getiriyor. 
+     Aralarında Murat Birsel ve Yurtsan Atakan’ın bulunduğu çeşitli ülkelerden 12 art direktörü her ay dünyanın en kreatif sitesini seçecek. 
+     12 ay sonunda Dünya’nın en iyi web sitesinin belirleneceği e-CREATIVE.net’te her ay yüzlerce web sitesi yanında, bu sitelerin yapımında emeği geçen tasarımcı ve programcıların tanıtılmasına olanak sağlanıyor. 
+     
+</TEXT>
+</DOC>

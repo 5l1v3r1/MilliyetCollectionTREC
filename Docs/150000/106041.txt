@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 106041 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/09/06/yazar/uras.html </URL>
+<DATE> 2002/09/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Güngör URAS  </AUTHOR>
+<HEADLINE>
+Borçda çok kimsenin suçu var 
+</HEADLINE>
+<TEXT>
+
+     İç borcun nedeni, bütçe açıkları. Hükümetler vergi veya başka yollardan topladıkları gelirden fazlasını harcayınca bütçe açık veriyor. Bütçe açığı da iç ve dış borçlanma ile karşılanıyor. 
+     Yazının altında bir tablo bulacaksınız. Bu tabloda 1990 yılından bu yana her yıl hükümetler milli gelirin ne kadarını harcamış, bütçede ne oranda açık vermiş açık anlatımıyla topladığından fazla para harcamış , iç borç stoku nasıl büyümüş göreceksiniz. Son sütunda milyar dolar olarak, 1990 yılından bu yana her yıl bütçeden yapılan toplam harcamayı, her yıl bütçenin ne kadar açık verdiğini, buna paralel olarak iç borç stokunun nasıl büyüdüğünü izleyeceksiniz. 
+     1990 yılından bu yana hükümetler bütçeden toplam 625 milyar dolar harcama yapmışlar. Ama bu harcamanın 169 milyar dolarlık kısmı gelir olmadan yapılmış. Gelir olmadan yapılan bu harcama bütçe açığı iç ve dış borçlanmadan karşılanmış. 1990 yılından bu yana öde yeniden borçlan çarkı işledikten sonra, iç borç stokumuz bu yıl sonunda 88 milyar dolara ulaşacak. 
+     Bu 169 milyar dolar bütçe açığı, kimin cebine girdi İç borç, kimin ve kimlerin cebine fazladan giren para nedeniyle büyüdü 
+
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 280009 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/14/son/sondun28.html </URL>
+<DATE> 2004/10/14/ </DATE>
+<TIME> 17.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kıbrıs Türk Hava Yolları'nın bilet satışı internette 
+</HEADLINE>
+<TEXT>
+
+     Kıbrıs Türk Hava Yolları KTHY , internet üzerinden rezervasyon yapmaya ve bilet satmaya başladı. 
+     İlk aşamada KKTC-Türkiye parkurundaki uçuşlar için başlatılan, yakında genişletilecek uygulama çerçevesinde, müşteriler KTHY'nin www.kthy.net ve www.kthy.aero adreslerinde rezervasyon yapabilecek ve bilet satın alabilecekler. 
+     Yeni hizmetlerini yaptığı yazılı açıklamayla duyuran KTHY Yönetim Kurulu üyesi ve Genel Müdür Vekili Sadettin Gezmek, ''olayın KTHY açısından en önemli kilometre taşlarından birisi olduğunu'' belirtti. 
+     ''Bugün uygulamaya koydukları internet üzerinden rezervasyon ve bilet işlemleriyle ilgili ödemelerin kredi kartıyla otomatik olarak yapılacağını'' belirten Gezmek, söz konusu uygulamayla bilet temin edenlerin biletlerini havaalanlarında oluşturulan ayrı bankolardan teslim alacaklarını bildirdi. 
+     ''İleriki günlerde online hizmetlerle ilgili başka projelere de imza atacaklarını'' açıklayan Gezmek, ''öncelikle Ercan Havaalanı'nda olmak üzere tüm havaalanlarında otomatik check-in sistemleri kurulacağını, acenta mekanizasyon sistemine geçileceğini, 7x24 esasına göre hizmet verecek call-center oluşturulacağını, otomatik muhasebe sistemine gidileceğini'' kaydetti. 
+     
+</TEXT>
+</DOC>

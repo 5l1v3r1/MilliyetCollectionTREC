@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 392639 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/07/ekonomi/eko02.html </URL>
+<DATE> 2005/11/07/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Çipli kartta şifre Nisan 2006'ya kaldı 
+</HEADLINE>
+<TEXT>
+
+
+Dolandırıcılığı önlemesi beklenen kartta şifre uygulamasına bazı bankaların hazır olmaması nedeniyle nisanda geçilecek 
+
+KADİFE ŞAHİN 
+
+Bankacılık sektörü uzun süredir tüketiciyi hazırlayarak geçiş yapmayı planladığı çipli kartta şifre PIN uygulamasını sektörün önde gelen bazı bankalarının teknolojik çalışmalarını tamamlayamamaları nedeniyle Nisan 2006'ya ertelemek zorunda kaldı. 
+Dolandırıcılığın önlenmesinde sık sık gündeme getirilen kartta şifre kullanımına 1 Ocak 2006'da geçilmesi bekleniyordu. 
+Sektörde tartışmalara neden olan şifreye geçiş uygulamasının nisana ertelenmesi bankaların yolsuzluk maliyetlerinin artmasına yol açacak. 
+
+Kartın 36'sı hazır 
+Kartların ve POS'ların, manyetik bant teknolojsinden daha güvenli olan EMV çip uygulamasına geçmesiyle, sahte kart kullanımından kaynaklanan kayıplar azalacak. 
+Kredi kartı sahipleri tüm işlemlerini şifre girerek yapacakları için güvenlikte önemli bir gelişme sağlanması bekleniyor. POS ve kartlarını EMV çip teknolojisine geçiren bankalar, kart sahibi ve üye işyerine daha az risk yükleyecek. Kaybolan kartlar başkası tarafından kullanılamayacak. 
+Bankalararası Kart Merkezi'nin verdiği yılın üçüncü çeyrek rakamlarına göre Türkiye genelinde bankaların kullandığı POS'ların yüzde 86'sı, kartların ise yüzde 36'sı EMV uyumlu. 
+
+İmza yok, şifre var PIN uygulaması ile kredi kartı işlemlerinde fişlere imza atılmayacak. Kart sahibi kasada kendisine uzatılan PIN Pad makinasına şifresini girecek. Kartın arkasındaki manyetik şerit yerini çipe, mini bilgisayarlara bırakacak. İmzadan PIN'e dönüşümde bir yıllık geçiş olacak. PIN numarasını hatırlayamayan müşteriye bir yıl boyunca eskisi gibi imza attırılacak. Ancak 1 Ocak 2007'den itibaren PIN numarasını girmek zorunlu olacak. 
+
+
+</TEXT>
+</DOC>

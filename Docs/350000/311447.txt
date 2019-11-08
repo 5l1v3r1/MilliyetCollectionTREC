@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 311447 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/01/son/sontur23.html </URL>
+<DATE> 2005/02/01/ </DATE>
+<TIME> 12.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hastanenin bilgisayar ağı çökünce... 
+</HEADLINE>
+<TEXT>
+
+     Bolu SSK Hastanesi'nin bilgisayar ağının dün çökmesi nedeniyle, hastalar, hastane eczanesi ve sevk işlem merkezi önünde uzun kuyruklar oluşturdu. 
+     Alınan bilgiye göre, Bolu'da günde yaklaşık 1500 SSK'lının ilaç ve sevk işlemi yaptırdığı SSK Hastanesi'nin bilgisayar ağı, dün öğleden sonra tamamen çöktü. 
+     Bilgisayar ağının çökmesinin ardından dün ve bugün sabah işlemlerin elle yapılması nedeniyle saatlerce sıra bekleyen hastalar, duruma tepki göstererek hastane yöneticilerinin odasına girince, polis ekipleri çağrıldı. 
+     Kuyrukta bekleyen hastalar ile hastane görevlileri arasında zaman zaman kavgalar yaşandı. 
+     Bilgisayar sisteminin çökmesi nedeniyle, hastanenin eczanesinden sıra, ilaç almak isteyen ve başka hastanelere sevk için bekleyen hastalar, uzun kuyruklar oluşturdu. 
+     Hastalar, sıra ve ilaç alabilmek için yaklaşık 3 saat beklediklerini belirterek, ''Bilgisayar dünden beri arızalı. Bilgisayardaki sorunun 24 saatte giderilememesi anlamlı. Derdimizi anlattığımız yetkililer suçu bilgisayarlara atıyorlar'' dediler. 
+     Hastane Başhekim Yardımcısı Dr. İsmail Yamaner ise AA muhabirine yaptığı açıklamada, hastanenin bilgisayar ağının bilinmeyen bir nedenle çöktüğünü, arızanın giderilmesi için gece boyunca çalışıldığını söyledi. 
+     
+</TEXT>
+</DOC>

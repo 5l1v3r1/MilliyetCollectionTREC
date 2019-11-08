@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 385613 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/10/son/sonyas12.html </URL>
+<DATE> 2005/10/10/ </DATE>
+<TIME> 10.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sesten iki kat hızlı uçak, bu kez uçmayı başardı 
+</HEADLINE>
+<TEXT>
+
+     Japon Havacılık ve Uzay Dairesi JAXA , sesten hızlı uçak denemesini başarıyla gerçekleştirdiğini bildirdi. 
+     JAXA'dan yapılan açıklamada, geleceğin çok hızlı uçağını NEXST geliştirme programı çerçevesinde yerel saatle 07.06-07.21 arasında yapılan deneme uçuşu süresince hiçbir olayın meydana gelmediği belirtildi. 
+     JAXA İcra ve Deneme Direktörü Kimio Sakata, yaptığı açıklamada, ''Deneme, öngörülere uygun olarak gerçekleşti. Bu aşamada bu bir başarıdır'' dedi. 
+     Denemenin, fırlatma, uçağın tepkili füzeden ayrılması, sesten iki kat hızla 18 bin metre irtifada uçuş Mach 2 , paraşütle yere süzülüş ve yere inişten oluşan 5 aşamalı plana uygun olarak tamamlandığı kaydedildi. 
+     Japonya'nın bu program çerçevesinde Temmuz 2002'deki ilk deneme uçuşu başarısızlıkla sonuçlanmıştı. 
+     
+</TEXT>
+</DOC>

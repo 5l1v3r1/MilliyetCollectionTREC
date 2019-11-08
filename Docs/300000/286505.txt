@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 286505 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/05/son/sonyas02.html </URL>
+<DATE> 2004/11/05/ </DATE>
+<TIME> 07.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD'de "spam" yayan kişiye 9 yıl hapis .. 
+</HEADLINE>
+<TEXT>
+
+     ABD'de, aynı anda binlerce kişiye, özellikle reklam amacı taşıyan, istenmeyen elektronik postalar spam gönderdiği gerekçesiyle yargılanan bir kişi, 9 yıl hapis cezasına çarptırıldı. 
+     Virgina eyaleti Adalet Bakanlığı'na göre, bu eyalette görülen davada, Jeermy Jaynes adlı kişi, sahte elektronik posta adreslerinden onbinlerce ''spam'' gönderdiği gerekçesiyle 9 yıl hapse mahkum edildi. 
+     ''Spam'' konusunda uzman olan ve bu tür postaları gönderen kişileri takip eden Spammhaus Project grubu yetkililerine göre, Jaynes, dünyada en çok spam yayan 8. kişi. Mahkeme, Jaynes'in kızkardeşi Jessica DeGroot'u da 7 bin 500 dolar tazminat cezasına çarptırdı. 
+     Kararın ardından açıklama yapan Virgina eyaleti Adalet Bakanı Jerry Kilgore, bu kararın hem Virginialılar hem Amerikalılar için zafer olduğunu belirterek, ''Spam, milyonlarca Amerikalı için sıkıntı oluşturuyor. Büyük ve küçük şirketler için de çok büyük bir sorun, çünkü istenmeyen binlerce elektronik posta, iş yapmaya çalışanları etkiliyor'' dedi. 
+     
+</TEXT>
+</DOC>

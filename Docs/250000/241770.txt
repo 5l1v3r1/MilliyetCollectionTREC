@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 241770 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/21/son/sontur17.html </URL>
+<DATE> 2004/05/21/ </DATE>
+<TIME> 12.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Telsim müşteri hizmetleri, hizmet vermiyor... 
+</HEADLINE>
+<TEXT>
+
+     GSM operatörlerinden Telsim'in aboneleri, ''müşteri hizmetleri'' biriminden hizmet alamıyor. 
+     AA muhabirinin aldığı bilgiye göre, Telsim aboneleri, firmanın ''444 0 542'' numaralı müşteri hizmetleri servisinin yanı sıra bölge müdürlüklerinden de hizmet alamıyor. 
+     Telsim yetkililerinin, sorunun müşteri hizmetleri servislerinde yaşanan yoğunluktan kaynaklandığını ifade etmelerine karşın, müşteri hizmetleri servisi, sürekli aramalara rağmen yanıt vermiyor. 
+     
+     TELSİM'DEN AÇIKLAMA 
+
+     Telsim A.Ş, müşteri hizmetleri servisinde yaşanan sorunun sistem geliştirme çalışmasından kaynaklandığını ve kısa sürede giderildiğini bildirdi. 
+     Telsim Mobil Telekomünikasyon Hizmetleri A.Ş'den konuya ilişkin yapılan açıklama şöyle 
+     ''Abonelerimize sunduğumuz hizmet kalitemizi daha da artırmak amacıyla gerçekleştirdiğimiz sistem geliştirme çalışması nedeniyle, 21 Mayıs tarihinde bir kısım abonemizin Telsim Müşteri Hizmetleri'ne doğru yaptıkları aramalarda geçici bir süre için sorun yaşanmıştır. 
+     Telsim abonelerinin müşteri hizmetleri biriminden hizmet alamaması gibi bir durum söz konusu olmayıp, sorun sadece sabit telefon hatlarından yapılan aramalarda hissedilmiş ve kısa sürede giderilmiştir. 
+     Abone memnuniyetini kendisine temel ilke edinen Telsim, müşteri hizmetleriyle 7 gün 24 saat abonelerine hizmet vermeye devam etmektedir.'' 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 211883 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/29/son/sondun06.html </URL>
+<DATE> 2004/01/29/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Çığır açan buluş... Maddenin yeni bir hali oluşturuldu .. 
+</HEADLINE>
+<TEXT>
+
+     Amerikalı bilim adamları, maddenin şimdiye dek bilinmeyen yeni bir halini oluşturarak, özellikle süperiletkenler alanında büyük bir gelişmenin yolunu açtılar. 
+     ABD'nin Ulusal Standartlar ve Teknoloji Kurumu ile Colorado Üniversitesi'nin ortak çalışmasıyla yapılan ve ''fermionik yoğunlaştırma'' adı verilen buluşun, elektrik iletimindeki kayıpları azaltacağı belirtiliyor. 
+     Buluşla ilgili açıklama yapan fizikçi Deborah Jin, bunun, maddenin bilinen gaz, katı, sıvı, plazma ve 1995'te yaratılan ''Bose-Einstein yoğunlaştırması'' hallerinden sonra 6. hali olarak nitelenebileceğini belirtti. 
+     ''Quantum mekaniği''nin yeni türüyle yapılan bilimsel buluşun 1995'te oluşturulan Bose-Einstein yoğunlaştırmasıyla bağlantılı olduğunu kaydeden Jin, elektrik iletimindeki kaybın en aza indirgenmesi, sürtünmesiz manyetik trenlerin icat edilmesi gibi önemli bilimsel gelişmelere öncülük edebileceğini söyledi. 
+     Buluşta ortaya çıkan ''aşırı soğutulmuş potasyum atomlarının buğusu''nun süperiletken üretimi için önemli bir başarı olduğunu kaydeden Amerikalı bilim adamı, ''Şu anda ABD'de üretilen elektriğin yüzde 10'u iletim sırasında kayboluyor, buluş sayesinde bunun önüne geçilebilir'' dedi. 
+     Buluş sayesinde sürtünmesiz ortamda yol alabilen manyetik trenlerin de üretilebileceği belirtiliyor Jin ve arkadaşları buluşları sırasında, potasyum gazını sıfırın altında bir milyon santigrat derecede soğutarak dondurdular, gazı bir vakum odasına hapsettiler, ardından da potasyum atomlarını eşleştirmek için manyetik alan ve lazer ışını kullandılar. 
+     
+</TEXT>
+</DOC>

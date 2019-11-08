@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 200992 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/09/son/sontur66.html </URL>
+<DATE> 2003/12/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ADSL bağlantı ücretleri ucuzladı... 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekom, hızlı internet erişim hizmeti kapsamında Asimetrik Sayısal Abone Hattı ADSL üzerinden internete bağlantıyı ucuzlattı. 
+     Yeni tarifeler yarından itibaren başlıyor ve 30 Haziran 2004 tarihine kadar sürecek. 
+     Uygulamadan 1 Ocak 2004 tarihine kadar paket programları almak için Türk Telekom bayilerine başvuran vatandaşlar yararlanabilecek. 
+     Yeni uygulama ile 128 32 kilobit saniye bağlantı ücreti 60 milyon liradan 49 milyon liraya, 256 64 kilobit saniye bağlantı ücreti 87 milyon liradan 69 milyon liraya, 512 128 kilobit saniye bağlantı ücreti de 141 milyon liradan 109 milyon lira indirildi. 
+     
+</TEXT>
+</DOC>

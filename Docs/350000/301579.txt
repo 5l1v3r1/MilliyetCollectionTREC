@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 301579 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/28/son/soneko12.html </URL>
+<DATE> 2004/12/28/ </DATE>
+<TIME> 12.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İMKB'de yapılacak simülasyon testinin başlama saati değişti... 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası'nda İMKB 30 Aralık Perşembe günü saat 14.00'ten sonra yapılacağı duyurulan simülasyon çalışmasının saat 17.30'da olacağı bildirildi. 
+     İMKB'den yapılan duyuruda, 15 Aralık 2004 tarih ve 1815 sayılı genel mektubun ekinde Ek 2 30 Aralık 2004 Perşembe günü yapılacağı duyurulan simülasyon çalışmasına ilişkin programda, saat 14.00'ten sonra yapılacağı bildirilen ''İletişim Testinin'' başlama saatinin 17.30 olacağı kaydedildi. 
+     Açıklamada, teknik zorunluluk nedeniyle daha erken başlaması mümkün olmayan iletişim testinin, ilk 15 dakikasının Elektronik Emir İletimi olmak üzere, yaklaşık olarak toplam 30 dakika sürmesinin beklendiği ifade edilerek, şöyle denildi 
+     ''Sisteme iletilecek emirlerde tarih olarak 30 Aralık 2004 kullanılmalıdır. Teste tüm Hisse Senetleri Piyasası üyelerinin katılımı zorunlu olup, üyelerimizin yükleme yapacak şekilde hazırlık yapmaları önemle rica olunur. İletişim testinin sonuçları yaşanan sorunlar da üye değerlendirme formunda 'İletişim Testi' başlığı altında belirtilmelidir.'' 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 317230 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/21/son/soneko34.html </URL>
+<DATE> 2005/02/21/ </DATE>
+<TIME> 14.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Turkcell, açık denizleri de dolaşıma ekledi... 
+</HEADLINE>
+<TEXT>
+
+     Turkcell, büyük yolcu gemilerinde, vapur ve feribotlarda kablosuz iletişim hizmeti sunan MCP Norway ile yaptığı anlaşmayla, uluslararası dolaşım sınırlarına açık denizleri de dahil etti. 
+     Turkcell'den yapılan açıklamaya göre, uluslararası dolaşım ortakları sayısı açısından dünyanın önde gelen operatörleri arasında bulunan Turkcell, abonelerine okyanuslarda da uluslararası dolaşım yapabilme imkanı sağlayacak şekilde sınırlarını genişletti. 
+     11 Şubat 2005 tarihinde yürürlüğe giren anlaşmayla Turkcell'in dolaşım ortaklarının sayısı 175 ülkede 439 şebekeye ulaşırken, MCP Norway ile imzalanan anlaşma sayesinde tüm Turkcell faturalı hat aboneleri, MCP'nin hizmet verdiği Avrupa sularında, Uzak Doğu sularında ve Pasifik Okyanusu'nda GSM ses ve SMS hizmetlerinden yararlanabilecekler. 
+     MCP'nin 2005 yılında dünya çapında tüm okyanusları kapsama alanına alma hedefini gerçekleştirmesiyle, Turkcell aboneleri de bu bölgelerde uluslararası dolaşım yapma imkanı bulacak. 
+     
+</TEXT>
+</DOC>

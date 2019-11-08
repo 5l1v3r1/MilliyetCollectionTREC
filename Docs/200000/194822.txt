@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> 194822 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/11/son/soneko44.html </URL>
+<DATE> 2003/11/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Para piyasalarında bugün... 
+</HEADLINE>
+<TEXT>
+
+     Borsa'da işlem gören hisse senetleri, bugün ortalama yüzde 1.96 değer kaybetti. 
+     İMKB Ulusal 100 endeksi, 1. seansta 11.72 puan kayıpla 15,516.89 puandan kapandı. Endeks, 2. seansta da 292.75 puanlık gerilemeyle günü 15,224.14 puandan tamamladı. Endekste günlük bazdaki kayıp 304.47 puan ve yüzde 1.96 oldu. 
+     Hisse senetleri piyasasında günlük işlem hacmi 877 trilyon 166 milyar 454 milyon lira oldu. 
+     Borsa uzmanları, Tekel'in özelleştirmesinde en yüksek teklifi veren JTI'ın teklif miktarını artırabileceği yönündeki söylentilerle borsanın önce olumlu bir seyir izlendiğini belirterek, firma temsilcilerinin Maliye Bakanı Kemal Unakıtan ile yaptıkları görüşme sonrası bu yönde bir açıklama gelmemesinin piyasalardaki yönü tersine çevirdiğini dile getirdiler. 
+     
+     DOLAR GERİLEDİ 
+     Merkez Bankası, doların bugünkü efektif kurunu alışta 1 milyon 477 bin 430 lira, satışta ise 1 milyon 487 bin 824 lira olarak açıkladı. 
+     Böylece dolar, Merkez Bankası'nın dün açıkladığı kurlara göre, alışta 6 bin 201 lira, satışta ise 6 bin 245 lira geriledi. 
+     Kapalıçarşı'da dün 1 milyon 496 bin liradan kapanan dolar, güne 1 milyon 489 bin liradan, 1 milyon 718 bin liradan kapanan Euro da 1 milyon 710 bin liradan başladı. 
+     Kapanışta, doların satış fiyatı 1 milyon 493 bin lira, Euro'nun satış fiyatı 1 milyon 716 bin lira oldu. 
+     
+     TAHVİL VE BONO PİYASASI 
+     İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda en fazla işlem gören 15 Aralık 2004 vadeli, bugün valörlü tahvilin bileşik getirisi 0.51 puan geriledi. 
+     Bu kağıdın aynı gün valörlü işlemlerinin basit getirisi yüzde 30.18, bileşik getirisi yüzde 29.79 oldu. Dün, bu kağıdın aynı gün valörlü işlemlerinde basit getiri yüzde 30.72'den, bileşik getiri yüzde 30.30'dan kapanmıştı. 
+     İMKB Tahvil ve Bono Piyasası Repo Pazarı'nda gecelik faiz de ortalama yüzde 25.98 oldu. 
+     
+     HAZİNE İHALESİ 
+     Hazine'nin bugün düzenlediği 91 gün vadeli referans bono ihalesinde bileşik faiz yüzde 25.95 oldu. 
+     3 ayda bir değişken faiz ödemeli, yaklaşık 2 yıl vadeli tahvil ihalesinde dönemsel faiz ise yüzde 7.45 olarak gerçekleşti. 
+     
+</TEXT>
+</DOC>

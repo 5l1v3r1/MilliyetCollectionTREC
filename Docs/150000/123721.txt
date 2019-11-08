@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 123721 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/12/10/son/sondun17.html </URL>
+<DATE> 2002/12/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Avrupalılar, dünyanın en büyük teleskopunu yapacak 
+</HEADLINE>
+<TEXT>
+
+     Avrupalı astronomlar, dünyanın en büyük teleskop projesi için güçbirliği yapıyor. 
+     Fransa'nın Lyon kentindeki Astronomi Araştırma Merkezi'nden Roland Bacon, AFP muhabirine kısaca ELT Extremely Large Telescope Son Derece Geniş Teleskop adı verilen teleskopun aynasının çapının 100 metre olacağını, oysa şu anda kullanılan en büyük teleskopun ayna çapının 11 metre olduğunu belirtti. 
+     Projenin adı, sesiyle ve yapısıyla ''Evrenin edebi simgelerinden'', İngilizce ''Baykuş Owl''dan kısaca OWL Overwhelming Large Telescope Müthiş Geniş Teleskop . 
+     Proje kapsamında inşa edilecek yeni kuşak teleskop, evrenin en uzak köşelerindeki gök cisimlerini ayrıntılı şekilde inceleme olanağını sağlayacağını belirten Bacon, ''Yeni teleskopla bugünkü gereçler arasındaki fark, çıplak gözle Galile'nin teleskopu arasındaki fark kadar olacak'' dedi. 
+     Henüz nereye inşa edileceği belirlenmeyen teleskopun projesinin 1 milyar euroya malolabileceğini belirten Bacon, projenin hayata geçirilebilmesi için en az 10 yıl gerekeceğini kaydetti. 
+     Eyfel kulesinin kaidesi büyüklüğünde inşa edilecek ELT'nin 100 metre çapındaki aynası, yan yana dizili yaklaşık 10 bin cam parçasından oluşacak. Şu anda faal olan Amerikan HET teleskopunun aynası 11 metre çapında. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

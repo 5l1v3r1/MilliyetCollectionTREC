@@ -1,0 +1,43 @@
+<DOC>
+<DOCNO> 301070 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/26/son/soneko01.html </URL>
+<DATE> 2004/12/26/ </DATE>
+<TIME> 10.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Vergi tahsilatını tümüyle bankalar yapacak... 
+</HEADLINE>
+<TEXT>
+
+     Gelir İdaresi, elektronik beyannameden sonra vergilerin toplanması işini de ''tümüyle'' bankalara bırakmaya hazırlanıyor. Vergi Daireleri Otomasyon Projesi'nin VEDOP ikinci ayağı ile birlikte tahakkuk kayıtları bankalara açılıyor. 
+     A.A muhabirinin edindiği bilgiye göre, 1 Ekim'den itibaren vergi beyannamelerinin isteğe bağlı olarak internet ortamında verilmesine imkan sağlayan Gelirler Genel Müdürlüğü, önümüzdeki yıl elektronik beyanı gelir ve kurumlar vergisi mükelleflerine de yaygınlaştıracak. 
+     Vergi mükellefleri, vergi beyannamelerini internet ortamında vermeye de teşvik edilecek. 
+     
+     VERGİ BORCU BANKALARDAN ÖĞRENİLECEK 
+
+     Diğer yandan vergi dairelerinin tek tek otomasyon ağına alındığı VEDOP-2 ile vergi tahsilatı işi de elektronik ortama kaydırılacak. 
+     Mevcut sistemde, vergi beyannameleri internet ortamında da verilse, vergi borcu için vergi dairesine gidilmesi gerekiyor. Tahakkuk kayıtlarının bankalara açık olmaması nedeniyle mükellefler, vergi dairelerinden tahakkuk fişini alıp, bunu bankalara götürüyor ve daha sonra da vergi tahsilatına yetkili bankalardan vergisini ödeyebiliyor. 
+     Günümüzde vergilerin yüzde 56'sı bu şekilde bankalara yatırılıyor. Vergi yatırırken bankaları tercih edenlerin büyük bölümünü de yüksek tutarlarda vergi ödeyen büyük şirketler oluşturuyor. Bu grup, vergi gelirlerinin yarısından fazlasını, ancak toplam vergi mükelleflerinin az bir bölümünü meydana getiriyor. Bu nedenle de vergi dairelerinin iş yükünde çok fazla bir azalma yaratmıyor. 
+     Ankara Defterdar Vekili Cemal Boyalı'nın verdiği bilgiye göre, pilot uygulama yapılan başkentte 2003 yılının ilk 11 ayında vergi dairelerinde 4 milyon 672 bin 78 adet işlem gerçekleştirildi. Vergi daireleri Ankara'da toplanan vergi gelirlerinin yüzde 23.5'ini tahsil ederken, Ankara'daki toplam vergi işlemlerinin yüzde 75.4'ünü gerçekleştirdi. 
+     Böylece bankaların topladığı vergi oranı yüzde 76.5 olurken, bankalar kanalı ile yürütülen işlem adedi yüzde 24.6'da kaldı. ''Verginizi bankaya yatırın'' kampanyasından sonra ise bu yılın ilk 11 ayında vergi dairelerindeki işlem adedi 4 milyon 52 bin 42'ye gerilerken, vergi dairelerinin yaptığı tahsilat yüzde 21.1, bankaların ise yüzde 78.9 oldu. Ancak yine de vergi işlemlerinin yüzde 68.5'ini vergi daireleri, yüzde 31.5'ini de bankalar üstlendi. 
+     Yeni dönemde VEDOP-2'nin sağlayacağı altyapı ile birlikte vergi daireleri, vergi tahsilatından da kurtarılıyor. 
+     Bankacılık sistemi ile gerekli altyapı çalışmaları devam eden proje kapsamında, vergi tahakkuk kayıtları, vergi tahsilatına yetkili bankalara açılacak. Bu şekilde beyannamesini elektronik ortamda veren vatandaş, hiç vergi dairesine gitmeden, bankasından vergi borcunu da öğrenebilecek. Ardından da, isterse şubeye giderek, isterse elektronik ortamda, isterse otomatik ödeme talimatı vererek vergi borcunu ödeyebilecek. 
+     
+     VERGİ KAÇAĞI İLE MÜCADELE 
+
+     Gelirler Genel Müdürlüğü yetkilileri, daha önce Ankara'da bir kampanya ile pilot olarak başlatılan vergilerin bankalara ödenmesi uygulamasının karşılaşılan sorunları ortaya koyması açısından da önemli olduğunu belirttiler. 
+     Uygulama sonuçları çerçevesinde vergide beyan ve ödeme dönemlerinin ayrıldığına dikkat çeken yetkililer, ''Bu şekilde vatandaş beyannamesini verecek. Aradaki sürede Gelir İdaresi, elektronik ortamda tahakkuk kayıtlarını bankalara iletecek. Vergi ödeme döneminde de vergiler, vergi dairesine hiç gelmeden yatırılabilecek'' dediler. 
+     Vergi beyannamelerinden sonra ödeme işlemlerinin de vergi daireleri dışına çıkarılmasıyla birlikte, vergi idaresi tümüyle vergi kaçağı ile mücadele ve borçluların takibine yönelecek. Böylece beyannamesini vermeyen ve vergisini ödemeyen mükelleflerle etkin mücadele eden bir vergi idaresi yaratılacak. 
+     Kayıt dışı ekonomi ile mücadelenin de önemli aşamalarından birisi olacak proje kapsamında, merkezde kurulacak sistemler ve Denetim Bilgi Bankası kanalıyla bilgisayarlı denetim yaygınlaşacak. 
+     VEDOP, Motorlu Taşıtlar Otomasyon Projesi, Vergi İstihbarat Merkezi, bankalar ve diğer üçüncü kişilerden gelen bilgilerle, mükellef beyanları veri ambarında çapraz kontrole tabi tutulacak. 
+     
+     FAİZ VE GAYRİMENKULE TAKİP 
+
+     Bu arada Gelirler Genel Müdürlüğü, VEDOP-2 ile birlikte başlayacak elektronik denetim öncesinde Defterdarlıklar ve bankalardan gayrimenkul ve faiz gelirlerine ilişkin bilgiler istedi. Aralarında Ankara, İstanbul ve İzmir'in de bulunduğu büyükşehir belediyesi bulunan 6 ildeki belediyeden gayrimenkul sermaye iradı elde edenlerin takibi amacıyla alınan ve 1 Ocak 2003 öncesi edinilen binalar ile bina sahiplerine ait bilgiler, bu illerin Defterdarlıklarına gönderildi. Gelir İdaresi, söz konusu bilgiler ışığında ilgili mükelleflerin durumunun araştırılmasını ve bu kapsamda yapılan işlemlerin 2005 yılı sonuna kadar merkeze bildirilmesini istedi. 
+     Yine bankalardan yıllık brüt tutarları belirli bir haddi aşan her nevi tahvil ve Hazine bonosu ile dövize, altına ya da başka bir değere endeksli menkul kıymetler ile döviz cinsinden ihraç edilen menkul kıymetlerden faiz geliri elde edenlerin, tutarları ne olursa olsun hisse senedi ve tahvillerin vadesi gelmemiş kuponlarının satışından ve off-shore işlemlerden faiz geliri olanların bu gelirlere ilişkin mükellefiyetleri yerine getirip getirmedikleri konusunda bilgi talep edildi. 
+     VEDOP-2 ile bu tür bilgiler daha da genişletilecek ve özellikle borsa ile bankalar ve özel finans kuruluşlarındaki para hareketleri de sistemde toplanmaya başlanacak. 
+
+     
+</TEXT>
+</DOC>

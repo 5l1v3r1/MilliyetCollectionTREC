@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 252152 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/01/son/soneko16.html </URL>
+<DATE> 2004/07/01/ </DATE>
+<TIME> 11.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+SSK'ya etkin portföy yönetimi... 
+</HEADLINE>
+<TEXT>
+
+     Sosyal Sigortalar Kurumu'nun, kaynakları devlet iç borçlanma senetleri, repo-ters repo, mevduat ve yatırım fonu katılma belgelerine yatırılarak değerlendirilebilecek. 
+     Kaynaklar, Kurum bünyesinde oluşturulan Finansman, Aktüerya ve Planlama Dairesi'nce yönetilecek. SSK, Hazine iç borçlanma ihalelerine girerek teklif verebilecek. 
+     Çalışma ve Sosyal Güvenlik Bakanlığı'nca hazırlanan, Sosyal Sigortalar Kurumunun Gelirleri ile Zorunlu Ödemeler İçin Bulundurulması Gereken Nakit ve Benzeri Varlıklarının Değerlendirilmesi Hakkında Yönetmelik Resmi Gazete'de yayımlandı. 1 Ağustos'tan itibaren yürürlüğe girecek yönetmelikle, yüksek getiri sağlamak amacıyla, Kurum'un gelirleri ile zorunlu ödemeler için bulundurulması gereken nakit ve benzeri varlıklarının değerlendirilmesine ilişkin usul ve esaslar düzenlendi. 
+     Buna göre Kurum kaynakları, riskin dağıtılması ilkesi ve basiretli yönetim kurallarına göre piyasa koşullarında Kurum lehine en yüksek getiriyi sağlayacak biçimde Yönetim Kurulu kararları çerçevesinde ve Yönetim Kurulu gözetiminde, Finansman, Aktüerya ve Planlama Daire Başkanlığı tarafından değerlendirilecek. 
+     Kurum kaynaklarının yurt içi ve yurt dışı piyasalar dikkate alınarak değerlendirilmesi esas olacak. Risk dağıtımı ve aktüerya dengeleri dikkate alınarak piyasa koşulları, fırsat maliyetleri, yatırım araçlarının riskleri ve vadeleri ile Kurum nakit akışının durumuna göre Kurum portföyü oluşturulacak. 
+     Yılı bütçe yasalarında veya diğer yasalarda, kamu kurum ve kuruluşlarının kendi bütçeleri veya tasarrufları altında bulunan bütün kaynaklarını Merkez Bankası veya muhabir banka olarak gösterilen bankalar nezdinde toplamalarına ilişkin hükümler yer alması durumunda, Kurum kaynakları öncelikle bu kanunların hükümleri doğrultusunda değerlendirilecek. 
+     Kurum kaynaklarının değerlendirileceği yatırım araçları, devlet iç borçlanma senetleri, repo ve ters repo sözleşmeleri, mevduat ve yatırım fonları katılma belgeleri olarak sıralandı. 
+     SSK, doğrudan ihale yöntemiyle ihraç edilen devlet iç borçlanma senetlerini, her ihraçta oluşan ortalama faizden veya teklif verme yoluyla alacak. Kurum, devlet iç borçlanma senetlerinin alımını ve satımını ayrıca bankalardan veya bankalar aracılığıyla İMKB Tahvil ve Bono Piyasası'ndan da yapabilecek. 
+     Kurum, repo ve ters repo işlemlerini, Türkiye Bankalar Birliği'nce ilan edilen bir önceki yıl sonu bilançolarındaki toplam aktif büyüklüklerine göre ilk on sırada bulunan bankalar içinden en az üç bankadan teklif alma yoluyla doğrudan yapabileceği gibi, bankalar aracılığıyla İMKB nezdinde de gerçekleştirebilecek. 
+     SSK, mevduat hesabı açarken de bir önceki yıl sonu bilançolarındaki toplam aktif büyüklüklerine göre ilk on sırada bulunan bankalar içinden en az üç bankadan teklif alarak banka seçimi yapacak. Mevduat tutarı, Kurum portföy değerinin yüzde 50'sini geçemeyecek. Tek bir banka nezdinde tutulacak Türk Lirası ve döviz mevduat tutarı ise portföy değerinin yüzde yüzde 10'unu aşamayacak. 
+     Kurum, kaynaklarını ilk on sıradaki bankalarca kurulmuş yatırım fonları arasından belirlenecek fon katılma belgelerine yatırabilecek. Yatırım fonu katılma belgelerinin toplam değeri, Kurum toplam portföy değerinin yüzde 15'ini geçemeyecek. Tek bir fona ait katılma belgelerinin portföydeki payının üst sınırı ise yüzde 3 olarak belirlendi. 
+     Yönetmelik yayımı tarihinden itibaren bir ay sonra yürürlüğe girecek. 
+     
+</TEXT>
+</DOC>

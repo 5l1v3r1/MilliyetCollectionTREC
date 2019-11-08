@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 300362 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/23/son/sonyas07.html </URL>
+<DATE> 2004/12/23/ </DATE>
+<TIME> 10.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Web sunucularını çökerten yeni bir solucan Sanity 
+</HEADLINE>
+<TEXT>
+
+     İnternet ortamında yayılmaya başlayan yeni bir virüsün, web sunucularına bulaştığı ve özellikle "php" uzantılı siteleri çökerttiği bildirildi. 
+     Yeni ortaya çıkan ve Sanity ismi verilen solucan Worm , Web sunucularına bulaşıyor, ancak son kullanıcı bilgisayarlarına zarar vermiyor. 
+     Solucan, php tartışma forum yazılımı ile hazırlanmış forum sitelerini çökertiyor. Çökertilen forum sitesine girmek isteyenler, solucan tarafından bırakılan şu mesajı okuyor "This site is defaced NeverEverNoSanity WebWorm generation X." Server'larında php temelli Web sunucusu çalıştıranların, antivirüs yazılımlarının en son güncelleme dosyalarını indirip kurmaları gerekiyor. 
+     
+</TEXT>
+</DOC>

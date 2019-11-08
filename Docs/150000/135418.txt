@@ -1,0 +1,44 @@
+<DOC>
+<DOCNO> 135418 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/02/06/yasam/yas10.html </URL>
+<DATE> 2003/02/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sanal solucan 10 dakikada dünyayı sardı 
+</HEADLINE>
+<TEXT>
+
+Bilgisayarların son k busu, dünyaya yayılma rekoru’ kırdı 
+     İnternette iki hafta önce ortaya çıkan SQL Slammer isimli solucanın, 10 dakikada tüm dünyaya yayıldığı açıklandı. 
+     Bir bilgisayar virüsü türü olan solucanın bu hızıyla bulaşma rekoru’ kırdığı açıklandı. Safir Sapphire ’ adıyla da tanımlanan SQL Slammer, bilgisayarlarda veri kaybı ya da başka bir tahribata neden olmasa da, kendisini büyük bir hızla yaymaya ve çoğaltmaya programlandığı için, etkili olduğu süre boyunca bilgisayar ağlarında başka bir iletişime imk n tanımıyor. Safir’ solucanı yüzünden Güney Kore’de tüm internet erişimi durmuş, ABD’de ise birçok bankanın para çekme makinelerinden işlem yapılamamıştı. 
+     
+
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

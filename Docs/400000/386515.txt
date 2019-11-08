@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 386515 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/14/ekonomi/eko04.html </URL>
+<DATE> 2005/10/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+'Mesajları kaydetmiyoruz' 
+</HEADLINE>
+<TEXT>
+
+
+Microsoft, kullanıcıların MSN mesajlarını kendilerinin saklamadığını belirterek, Gökhan Demirkol'un basına yansıyan yazışmalarının sadece kullanıcı tarafından saklanmış olabileceğini açıkladı 
+
+EKONOMİ SERVİSİ 
+
+Gökhan Demirkol'un MSN Messenger'da internetten anlık mesajlaşma servisi yaptığı yazılı sohbet metinlerinin, Microsoft tarafından Emniyet birimlerine verildiği yönünde bir haberin basında yayımlanmasının ardından Gamze Özçelik konusu, bu kez de ABD'li yazılım devi Microsoft'u da içine alacak bir zemine kaydı. 
+Kullanıcıların Microsoft sistemleri üzerinden yaptıkları yazılı mesajlaşmaların, firma tarafından kayıt altına alınıp alınmadığı, tartışma konusu yarattı. 
+Bu gelişmenin ardından Microsoft Türkiye konuyla ilgili bir açıklama yaparak, yazışmaların kendileri tarafından hiçbir yerde saklanmadığını, Emniyet'e verilmediğini, bu kayıtların sadece kullanıcı tarafından özel olarak saklanabileceğini iletti. 
+
+Kullanıcı kaydedebilir 
+Microsoft Türkiye'nin açıklamasında, "Tüm dünyada 170 milyonun üzerindeki MSN Messenger kullanıcısının yazışma içeriklerine ait hiçbir bilgi kesinlikle kayıt altına alınmamaktadır. 
+Söz konusu yazıda yer alan ve MSN Messenger yazışmalarının kaydının yansıması olduğu iddia edilen bilgiler sadece ve sadece kullanıcının kendi iradesiyle kendi bilgisayarına kaydedilmiş ve bu bilgisayarın emniyet güçlerinin eline geçmesiyle deşifre olmuş olabilir" denildi. MSN Messenger'da mesajlaşmaların kayıt altına alınıp alınamayacağı, kullanıcının tercihine bırakılmış durumda. 
+
+ABD'den izi sürüldü Konuyla ilgili Emniyet Genel Müdürlüğü tarafından Microsoft Türkiye'ye yapılan yasal başvuruyla söz konusu şahsın internet trafik bilgileri istendiği vurgulanan açıklamada, "Emniyet'in ABD'deki Merkez Ofis ile temas kurması sağlanmıştır. Hukuk kuralları gereğince Microsoft, Emniyet Genel Müdürlüğü başvurusuna cevap vererek kullanıcının, internet kimlik adresini IP Türk yetkililere bildirmiştir" denildi. 
+Microsoft'tan istenen bu bilgi ise Windows tabanlı sistem üzerinden, kullanıcının hangi internet sitelerine girdiğinin tespit edilmesini sağlıyor. 
+
+
+</TEXT>
+</DOC>

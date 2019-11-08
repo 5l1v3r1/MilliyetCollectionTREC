@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 386792 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/14/son/sonyas09.html </URL>
+<DATE> 2005/10/14/ </DATE>
+<TIME> 11.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Pirelerin genlerinden süper lastik üretilir mi 
+</HEADLINE>
+<TEXT>
+
+     BBC TÜRKÇE 
+
+      Pirelerin boylarına göre devasa mesafeler zıplamasını sağlayan protein, genetik bilim teknikleriyle laboratuvarda üretildi. 
+     ''Resilin'' adlı proteni üreten böcek genini ayırmayı başaran araştırmacılar, muhtemelen damar hastalıklarının tedavisinde kullanılabilecek süper güçlü bir polimer elde etti. 
+     Resilin genini meyve sineğinden elde eden bilimadamları daha sonra bunu geni koli basili hücrelerinde çoğaltarak resilin proteini sağladı. 
+     Avustralya Uluslar Topluluğu Bilim ve Fen Araştırma Örgütü tarafından yapılan araştırma Nature adlı saygın bilim dergisinde yayımlandı. 
+     Resilinin böceklere olağanüstü hareket kabiliyeti bahşettiği yaklaşık 40 yıl önce çöl çekirgesi ve yusufçuk böcekleri üzerinde yapılan çalışmalardan bu yana biliniyor. 
+     Resilin sayesinde böcekler boylarını yüzlerce kat geçen mesafeleri zıplayabiliyor kimi durumlarda kanatlarını saniyede 200 kez çırpabiliyorlar. 
+     
+     Çok elastik 
+     Bu protein, yüke dayanıklılığı ve eski şeklini geri alabilmesi açısından en kaliteli lastik ürünlerinden daha etkileyici. 
+     Suni resilin proteini üzerinde yapılan deneyler benzer özelliklerin korunduğunu gösterdi. 
+     Araştırmacılar, böcek genlerinden elde ettikleri bu polimeri tıptan sanayiye çok farklı alanlarda kullanabileceklerini düşünüyor. 
+     Bu kullanım alanlarından biri, insanların hastalıklı atardamarlarının tedavisi olarak görülüyor. 
+     Nature dergisindeki yazıda, resilinin insan damarlarındaki elastin proteinine benzediğini söyleyen bilimadamları, çalışmalarının damarlara esneklik kazandırmaya yarayabileceğini belirtiyorlar. 
+     Halihazırda damarların esnekliğini kaybettiği durumlarda doktorlar en çok ilaçla tedaviye başvuruyor. 
+     İngiltere'den Profesör Roger Greenhalgh, ''Resilin araştırması henüz ilk aşamasında, ama ileriki yıllarda böceklerden elde edilen özellikleri insanlara nakletmeyi başarırsak bu gerçekten şahane olur'' diyor. 
+     
+</TEXT>
+</DOC>

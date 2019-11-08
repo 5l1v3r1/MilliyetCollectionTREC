@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 154623 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/05/son/soneko34.html </URL>
+<DATE> 2003/05/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa günü yüzde 1.67'lik kayıpla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Bileşik Endeksi, 2. seansta 178.65 puan gerileyerek 11,112.14 puandan kapandı. 
+     Hisse senetleri, ikinci seansta ortalama yüzde 1.58 oranında değer kaybetti. 
+     İlk seanstaki 0.09 puanlık kayıp dikkate alındığında, borsa endeksi günün tamamında 188.59 puan geriledi. Hisse senetlerindeki günlük kayıp ise yüzde 1.67 oldu. 
+     Seansa 7.64 puan artışla 11,298.48 puandan başlayan endeks, ilk yarıyı 11,169.08 puandan geçti. Endeks, seans içinde en düşük 11,095.45 puana kadar gerilerken, en yüksek 11,303.49 puanı gördü. 
+     Kapanışta mali endeks 268.39 puan azalışla 13,089.47 puana, hizmetler endeksi 81.94 puan azalışla 7,170.47 puana, sanayi endeksi 150.54 puan düşüşle 11,608.85 puana geriledi. 
+     Böylece ilk seansa göre mali grup hisseler ortalama yüzde 2.01, hizmetler grubu hisseler ortalama yüzde 1.13, sanayi grubu hisseler ortalama yüzde 1.28 oranında değer yitirdi. 
+     2. seansta işlem gören toplam 292 hisse senedinden 231'i değer yitirdi, 33'ü değer kazandı, 28'inin fiyatında değişiklik olmadı. 
+     Seansta, 190 trilyon 787 milyar 24 milyon liralık işlem hacmi kaydedildi. İki seanstaki toplam işlem hacmi 354 trilyon 155 milyar 400 milyon lira olarak gerçekleşti. 
+     2. seansta Garanti Bankası, Kardemir D , Yapı Kredi Bankası, İş Bankası C ve Tüpraş en yoğun işlem gören hisse senetleri olarak belirlendi. 
+     
+</TEXT>
+</DOC>

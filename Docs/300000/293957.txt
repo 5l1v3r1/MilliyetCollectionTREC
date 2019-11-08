@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 293957 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/01/son/sonyas17.html </URL>
+<DATE> 2004/12/01/ </DATE>
+<TIME> 13.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Boeing, insansız helikopter üretti... 
+</HEADLINE>
+<TEXT>
+
+     Boeing, insansız hava taşıtı teknolojileri ile muharebe koşullarında denenmiş bir helikopteri birleştirerek, yeni bir hava aracı geliştirdi. 
+     Boeing'den yapılan açıklamaya göre, kuruluş, daha önce operasyonda kullanılan bir MD 0F helikopterine uzaktan kumanda altyapısı ekledi ve taşıtı, yerdeki kontrol merkezinden kaldırmayı, uçurmayı ve indirmeyi başardı. Yeni taşıta ''insansız küçük kuş'' adı verildi. 
+     Halen kullanılan insansız hava taşıtlarından çok daha ucuza imal edilen aracın, Boeing'e yepyeni olanakların önünü açmakta olduğu belirtilen açıklamada, Boeing'in, ''insansız küçük kuş''tan elde edeceği verileri kullanarak, öncelikle saldırı helikopteri AH-64D Apache Longbow'u da insansız uçabilir hale getireceği kaydedildi. 
+     Açıklamada, böylece, yakın gelecekte Boeing'in geliştirdiği pek çok helikopterin, düşük maliyetli bir yazılım-donanım eklenerek, hem insanlı hem de insansız kullanılabileceği bildirildi. 
+     
+</TEXT>
+</DOC>

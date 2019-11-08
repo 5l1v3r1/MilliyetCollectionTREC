@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 226611 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/29/son/sonsiy25.html </URL>
+<DATE> 2004/03/29/ </DATE>
+<TIME> 13.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+2002 ile 2004 seçimlerinin karşılaştırması... 
+</HEADLINE>
+<TEXT>
+
+     2002 milletvekili genel seçimleri ile 2004 yerel seçimlerinin sandıkların yüzde 90,02'sinin açılmış haliyle il genel meclisi sonuçlarının karşılaştırılması şöyle 
+     
+
+2002 MİLLETVEKİLİ 2004 YEREL SEÇİM PARTİ ADI ALDIĞI OY ORANI ALDIĞI OY ORANI DSP 384009 1,22 614846 2,146 ANAP 1618465 5,13 711003 2,481 AK Parti 10808229 34,28 12032948 41,991 BBP 322093 1,02 345201 1,205 DYP 3008942 9,54 2909036 10,151 CHP 6113352 19,39 5154500 17,987 Genç Parti 2285598 7,25 744615 2,598 YTP 363869 1,15 67999 0,237 SP 785489 2,49 1124222 3,923 MHP 2635787 8,36 3016793 10,527      
+</TEXT>
+</DOC>

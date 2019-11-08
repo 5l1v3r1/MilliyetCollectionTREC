@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 345493 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/24/son/sonyas18.html </URL>
+<DATE> 2005/05/24/ </DATE>
+<TIME> 16.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD gelmiş geçmiş en güçlü lazer ışınını üretmeye çalışıyor 
+</HEADLINE>
+<TEXT>
+
+     Amerikalı bilimadamları, gelmiş geçmiş en güçlü lazer ışınını üretmeye çalışıyor. 
+     California eyaletinin Livermore kasabasındaki Ulusal Ateşleme Tesisi’nde NIF yaklaşık beş yıldır süren çalışmaların 2008’de sonuçlanması ve güneşin merkezindeki enerjiye eşdeğer bir lazer ışınının üretilmesi amaçlanıyor. 
+     Futbol sahası büyüklüğündeki bir binada 192 lazer ışın kaynağından oluşan sistemi kuran bilimadamları, 82 milyon derece Celsius sıcaklığında ve her yönden son derece yoğun bir enerji üretmeyi hedefliyor. 
+     İnanılmaz sıcaklıktaki lazer ışınını üretmeyi amaçlayan bilimadamları böylece, lazer ışınının enerjisinden daha fazla enerji ortaya çıkmasıyla atomların füzyona gireceğini umuyor. Bazı bilimadamlarının "füzyon ateşleme" adını verdikleri bu durum hidrojen bombası patladığında da ortaya çıkıyor. 
+     Şimdiye dek 4 ışın üreticisinin test edildiği lazer ışını çalışmaları için Amerikan hükümetinin 3,5 milyar dolar yatırım yaptığı ve ulusal güvenlik gerekçesiyle daha birkaç milyar dolar daha harcama yapabileceği belirtiliyor. 
+     Amerikalı bilimadamları, eğer füzyon ateşleme denemelerinde amaçlarına ulaşabilirlerse, böylece ilk kez laboratuvar ortamında bir nükleer patlamanın simülasyonunu yapmış olacaklarını ve herhangi bir nükleer denemeye gerek kalmadan nükleer kapasiteyi inceleme olanağı elde edileceğine işaret ediyor. 
+     ABD en son nükleer yeraltı denemesini 1992’de Nevada çölünde yapmıştı. 
+     Bilimadamları, NIF tesislerinde üretilecek en güçlü lazerle birlikte nükleer silah kapasitesinde bir güce ulaşılabileceğini kaydediyor. 
+     
+</TEXT>
+</DOC>

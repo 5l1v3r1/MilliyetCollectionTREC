@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 317216 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/21/son/soneko20.html </URL>
+<DATE> 2005/02/21/ </DATE>
+<TIME> 12.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı 159 puanlık kayıpla tamamladı 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeksi Cuma günkü kapanışa göre 159.73 puan azalarak, 1. seansı 27,133.49 puandan tamamladı. 
+     1. seansta hisse senetleri ortalama yüzde 0.59 değer kaybetti. 
+     Cuma günü 27,293.22 puandan kapanan İMKB Ulusal 100 Endeksi, ilk seansa 1.74 puan artarak 27,294.96 puandan başladı. İlk yarıyı 27,190.87 puandan geçen endeks, seans içinde 27,091.48 puana kadar gerilerken, en yüksek 27,392.98 puanı gördü. 
+     Seans sonunda mali endeks 245.60 puan azalarak 39,593.01 puana, sanayi endeksi 125.71 puan azalarak 22,665.42 puana geriledi, hizmetler endeksi ise 80.85 puan artarak 14,175.91 puana yükseldi. 
+     Böylece önceki kapanışa göre, mali grup hisseler ortalama yüzde 0.62, sanayi grubu hisseler ortalama yüzde 0.55 değer kaybetti. Hizmet grubu hisseler ortalama yüzde 0.57 değer kazandı. 
+     1. seansta işlem gören toplam 302 hisse senedinden 125'i değer kazandı, 114'ü değer kaybetti, 63 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta, 377 milyon 440 bin 122 YTL'lik işlem hacmi oluştu. 
+     1. seansta Doğan Holding, Net Turizm, Net Holding, Akbank ve GSD Holding en çok işlem gören hisse senetleri oldu. 
+     
+</TEXT>
+</DOC>

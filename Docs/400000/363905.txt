@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 363905 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/24/son/sontur08.html </URL>
+<DATE> 2005/07/24/ </DATE>
+<TIME> 10.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hackerlara olta operasyonu’... Nasıl dolandırıyorlar 
+</HEADLINE>
+<TEXT>
+
+     Erol AKKIR DHA 
+
+      İNTERNET bankacılığını kullanan müşterilerin şifre ve kredi kartı bilgilerini olta atmak’ denilen yöntemle ele geçirip, dolandırıcılık yaptığı belirlenen 8 kişi, polisin olta’ adını verdiği operasyon ile Antalya'da yakalandı. Dolandırıcılığın miktarı ise açıklanmadı. 
+     İstanbul'da internet üzerinden dolandırıcılık yaptığı belirlenen iki kişinin ifadesinden yola çıkan polis, geniş kapsamlı bir çalışma başlattı. Emniyet Genel Müdürlüğü Kaçakçılık ve Organize Suçlarla Mücadele Daire Başkanlığı'nın koordine ve teknik desteğinde, Antalya Emniyet Müdürlüğü Kaçakçılık ve Organize Suçlar Şube Müdürlüğü Mali Büro Amirliği ve İstanbul Emniyet Müdürlüğü Mali Şube Müdürlüğü görevlilerinin yürüttüğü olta operasyonu’ sonucunda, internet bankacılığını kullanan müşterilerin şifre ve kredi kartı bilgilerini olta atmak’ denilen yöntemle ele geçirip, dolandırıcılık yaptığı belirlenen 8 kişi yakalandı. 
+     B.B. 18 , B.F.S. 31 , G.A. 37 , S.T. 30 , K.A. 42 , M.D. 31 , R.Ç 37 ile O.C.G. 17 polis tarafından göz altına alınarak, Kaçakçılık ve Organize Suçlar Şube Müdürlüğü'ne götürüldü. 
+     Hacker’ olarak adlandırılan zanlılardan 5'inin Antalya'daki 5 yıldızlı otellerde kaldığı, 3'ünün ise bankalardan parayı tahsil ettiği açıklandı. Zanlıların odalarında yapılan aramada, internet üzerinden dolandırıcılık işlemlerinde kullanılan 2 dizüstü bilgisayar, çeşitli CD'ler, değişik kişilere ait çok sayıda hesap numarası ve dekontlar ele geçirildi. Dolandırıcılığın miktarı açıklanmazken, 8 zanlı ifadelerinin ardından adliyeye sevk edildi. 
+     
+     NASIL DOLANDIRIYORLAR 
+     Emniyet yetkilileri, internet dolandırıcılarının bankaların internet sayfalarını kopyaladığını, ardından daha önce satın aldıkları yaklaşık 3 milyon kişiye ait e-mail adresine Bankanız bilgilerinizi güncellemek istiyor’ ibareli elektronik posta yolladığını açıkladı. Olta atmak’ adı verilen bu yöntemle e-mailde verilen linkteki alanları dolduran banka müşterilerinin kredi kartı, şifre ve parola bilgileri, internet dolandırıcılarının eline geçiyor. İnternet dolandırıcıları da topladıkları bilgiler ile müşterilerin banka hesaplarındaki parayı açtıkları sahta hesaplara havale ediyor ya da hazırlanan sahte kredi kartları ile çekiyor. 
+     
+</TEXT>
+</DOC>

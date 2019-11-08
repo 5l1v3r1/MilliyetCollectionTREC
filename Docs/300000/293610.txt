@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> 293610 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/30/son/sonyas27.html </URL>
+<DATE> 2004/11/30/ </DATE>
+<TIME> 16.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+'Spam'lerin hakkından gelen ekran koruyucular 
+</HEADLINE>
+<TEXT>
+
+     BBC 
+
+İnternet kullanıcılarının, spamler yani reklam amaçlı, istenmeyen elektronik postalar gönderen internet siteleriyle savaşmak için artık ellerinde yeni bir silahları var. 
+     Internet portalı Lycos, istenmeyen elektronik postalarda bahsedilen ürünler hakkında, gönderildikleri internet sitelerinden durmaksızın bilgi isteyen bir ekran koruyucusu geliştirdi. 
+     Lycos, bu yöntem sayesinde bu istenmeyen mesajları gönderen internet sitelerinin hizmet sağlayıcılarını bitkin düşürmeyi hedefliyor. 
+     Asıl amaç ise, böylece bu sitelere gelen aylık faturaları şişirmek. 
+     Lycos'a göre, eğer yeterince internet kullanıcısı bu ekran koruyucusunu bilgisayarlarına yüklerse, istenmeyen mesajları gönderen sitelerin başı dertten kurtulamayacak. 
+     Yüzbinlerce veri göndermek zorunda kalacakları için, yüklü bir fatura da kendilerini bekliyor olacak. 
+     Lycos Avrupa'nın sözcüsü Malte Pollman, reklam amaçlı bu tür mesajları göndermenin hem çok ucuz hem de çok kolay bir yöntem olduğunu, ve dolayısıyla bu mesajların yarattığı sorunlarla başetmenin zor olduğunu söylüyor. 
+     "Bu sorunu gerçek anlamda aslında hiç çözemedik" diyen Pollman, geçmişte bu mesajları eleyen bir sistem geliştirdiklerini, ama şimdi bir adım daha kaydettiklerini ifade ediyor. 
+     Binlerce internet kullanıcısının bu ekran koruyusunu yüklemeleri halinde, Lycos bu mesajları gönderen internet sitelerin sürekli tam kapasiteye yakın çalışmak zorunda kalacaklarını umuyor. 
+     Lycos'a göre, eğer her internet kullanıcısı günde 3-4 megabayt katkıda bulunursa, istenmeyen mesajları gönderen siteler gigabaytlarca internet trafiği bedelini içeren faturalarla karşı karşıya kalacak. 
+     Hedeflenen internet siteleri, bu istenmeyen mesajlarda bahsedilen sipariş karşılığında ürün ve hizmet satışı yapan siteler. 
+     Ekrankoruyucuların bu sitelerden istedikleri veriler, sadece bu sitelere yüklü bir fatura ödetmeyecek. 
+     Aynı zamanda sitelerin hızı da bu veri talebinin ağırlığı karşısında yavaşlayacak. 
+     Bu sistemden yararlanmak isteyen kişilerin, kayıtlı Lycos kullanıcıları olmaları gerekmiyor. 
+     Avrupa'da yarın piyasaya sürülecek olan bu sistem, şimdiye kadar sadece İsveç'te denendi. 
+     Lycos'tan yapılan açıklamaya göre, ekran koruyucular son dört gün içinde en az 20 bin kez bilgisayarlara yüklendi. 
+     Lycos sözcüsü Pollman intenet kullanıcılarının bu istemedikleri elektronik postalara karşı sadece filtre yöntemini kullanmak istemediklerini söylüyor ve ekliyor "Şimdiye kadar hiç biraz saldırganlaşma şansları olmamıştı" 
+     
+</TEXT>
+</DOC>

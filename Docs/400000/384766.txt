@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 384766 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/07/son/soneko01.html </URL>
+<DATE> 2005/10/07/ </DATE>
+<TIME> 00.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası'nda endeksler düştü 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası'nda, Dow Jones ve Nasdaq endeksleri düştü. 
+     Borsanın temel göstergesi Dow Jones endeksi 30.26 puan kayıpla 10,287.10 puana, teknoloji endeksi Nasdaq da 18.94 puan düşerek 2,084.08 puana geriledi. 
+     
+</TEXT>
+</DOC>

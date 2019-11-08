@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 291096 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/22/son/soneko23.html </URL>
+<DATE> 2004/11/22/ </DATE>
+<TIME> 12.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı 161 puanlık kayıpla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeksi, Cuma günkü kapanışa göre 161.84 puan azalarak 1. seansı 23,014.86 puandan tamamladı. 
+     1. seansta hisse senetleri ortalama yüzde 0.70 değer kaybetti. 
+     Cuma günü 23,176.70 puandan kapanan İMKB Ulusal 100 Endeksi, ilk seansa 27.17 puan düşerek 23,149.53 puandan başladı. İlk yarıyı 22,912.36 puandan geçen endeks, seans içinde en düşük 22,912.03 puanı gördü. 
+     Seans sonunda mali endeks 237.63 puan azalarak 31,316.09 puana, sanayi endeksi 105.18 puan azalarak 20,827.56 puana, hizmetler endeksi 42.89 puan azalarak 13,237.13 puana geriledi. 
+     Böylece önceki kapanışa göre, mali grup hisseler ortalama yüzde 0.75, sanayi grubu hisseler ortalama yüzde 0.50, hizmet grubu hisseler ortalama yüzde 0.32 oranında değer yitirdi. 
+     1. seansta işlem gören toplam 298 hisse senedinden 95'i değer kazandı, 130'u değer kaybetti, 73 hissenin fiyatında değişiklik olmadı. 
+     Seansta, 208 trilyon 647 milyar 323 milyon liralık işlem hacmi oluştu. 
+     1. seansta Şekerbank, Tofaş, Yapı Kredi Bankası, Usaş ve Garanti Bankası en çok işlem gören hisse senetleri oldu. 
+     
+</TEXT>
+</DOC>

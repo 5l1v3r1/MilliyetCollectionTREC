@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 345651 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/25/son/soneko25.html </URL>
+<DATE> 2005/05/25/ </DATE>
+<TIME> 14.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Fransa'da, referandumun borsaya etkisinin sınırlı olması bekleniyor... 
+</HEADLINE>
+<TEXT>
+
+     Fransa’da AB Anayasası için pazar günü düzenlenecek referandumda "hayır" oylarının fazla çıkmasının borsa üzerindeki olumsuz etkisinin sınırlı ve kısa süreli olacağı tahmin ediliyor. 
+     Fransız yatırım uzmanı Jean-François Virolle, konu ile ilgili basına yaptığı değerlendirmede, "Hayır oylarının fazla çıkması borsada çöküş yaratırsa bu sürpriz olur. Zaten aracılar bu ihtimal olsa daha önceden bunu tahmin ederlerdi" dedi. 
+     Virolle, "Hayır" oylarının fazla çıkması halinde borsadaki düşüşün birkaç gün süreceğini, ancak bir haftayı kesinlikle geçmeyeceğini savundu. 
+     Son kamuoyu araştırmaları, "hayır" oylarını yüzde 54, "evet" oylarının ise yüzde 46 oranında gösteriyor. 
+     Bu arada referanduma dört gün kala kararsızların oranının hala yüzde 20 civarında olduğu tahmin ediliyor. 
+     
+</TEXT>
+</DOC>

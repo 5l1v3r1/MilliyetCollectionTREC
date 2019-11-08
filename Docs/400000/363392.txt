@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 363392 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/22/son/soneko26.html </URL>
+<DATE> 2005/07/22/ </DATE>
+<TIME> 13.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Symantec'ten internetteki 'en tehlikeli 10 kod' listesi... 
+</HEADLINE>
+<TEXT>
+
+     Bilgi güvenlik şirketi Symantec'in hazırladığı Haziran ayı güvenlik raporuna göre, internetteki en tehlikeli 10 kod listesinde ilk sırayı, Tooso B. adlı truva atı aldı. 
+     Symantec'ten yapılan açıklamada, toplu posta solucanı Beagle'ın iki türevi tarafından yayılan Tooso B Truva Atı'nın, bilgisayarlara bulaştığı anda antivirüs ve güvenlik uygulamalarını etkisiz kıldığı kaydedildi. 
+     Geçen ayın en tehlikeli ikinci kodunun Netsky.P, üçüncüsünün ise Spybot olduğu belirtilen açıklamada, bu kodları sırasıyla, Tooso.F, Mytob.CU, Gaobot, Lineage, Lemir, Tooso.I ve Redlof'un izlediği ifade edildi. 
+     Symantec'in 180 ülkedeki 20 binin üzerindeki sensörden elde ettiği verilere dayanılarak hazırladığı raporda, güvenlik açıklarına da yer verildi. 
+     Haziran ayında güvenlik açıklarında ilk sırayı ''Microsoft Internet Explorer PNG Image Rendering Buffer Overflow'' alırken, onu ''Microsoft Outlook Express NNTP Response Parsing Buffer Overflow'' izledi. ''Apple Mac OS Apple Filing Server Remote Buffer Overflow'' ise üçüncü sırada yer aldı. 
+     Rapora göre, Haziran ayında saldırganların yüzde 17'si Microsoft SQL sunucusuna ve Microsoft Desktop Engine'e MSDE saldırdı. Saldırganların yüzde 9'unun genel Web HTTP servislerine yönelik saldırı gerçekleştirdi, söz konusu dönemde, yüzde 7'si ise genel ataklarda bulundu. 
+     Zombi bilgisayar olarak da adlandırılan hacker'lar tarafından ele geçirilen bilgisayarlar üzerinden gerçekleşen saldırılara da yer verilen raporda, zombi bilgisayarlar tarafından saldırıların gerçekleştiği ülkeler kategorisinde İngiltere birinci sırada yer aldı. 
+     Haziran ayında İngiltere'deki zombi bilgisayarlardan yapılan saldırılar, tüm saldırıların yüzde 5'ini oluşturdu. Onu, yüzde 4 ile Güney Kore izlerken, üçüncü sırada yer alan Çin'in oranı ise yüzde 3 oldu. 
+     
+</TEXT>
+</DOC>

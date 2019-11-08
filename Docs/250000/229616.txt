@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 229616 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/08/son/soneko25.html </URL>
+<DATE> 2004/04/08/ </DATE>
+<TIME> 11.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Uykulu sürüş riskini akıllı otomobiller ortadan kaldırıyor... 
+</HEADLINE>
+<TEXT>
+
+     Ford Motor'un sahibi olduğu Volvo otomobilleri, uykulu sürüş riskini ortadan kaldıran bir teknoloji üzerinde çalışıyor. 
+     Ford Sözcüsü Mike Vaughn, New York otomobil fuarında yaptığı açıklamada, uykulu sürüş riskini ortadan kaldıracak teknolojiye ilişkin testlerin devam ettiğini, yeni teknolojinin önümüzdeki yıllarda kullanılmaya başlanabileceğini söyledi. 
+     Volvo'nun, ''güvenli araba'' imajını yeniden güçlendirecek olan yeni teknolojide, öncelikle optik bir tarayıcı, sürücünün uykulu olup olmadığını tespit edecek. 
+     Tespitin ardından, uyuyan sürücüyü uyandırmak için önce direksiyon titreyecek, ön camda uyarıcı şekiller ortaya çıkacak, en sonunda da araç şeritten çıkmış ise otomatik olarak kendi şeridine yeniden girecek. 
+     Lüks otomobil yapımcısı Infiniti firması da, şeritten çıkan aracı yeniden kendi şeridine otomotik olarak döndürecek bir sistem üzerinde çılıştığını açıklamıştı. 
+     ABD'de, ölümlü trafik kazalarının yüzde 4'ü uykulu sürüşten kaynaklanırken, her yıl yaklaşık bin 500 kişi hayatını kaybediyor. 
+
+     
+</TEXT>
+</DOC>

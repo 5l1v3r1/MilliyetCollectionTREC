@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 215298 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/15/son/soneko03.html </URL>
+<DATE> 2004/02/15/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Vergide reyting dönemi... 
+</HEADLINE>
+<TEXT>
+
+     Maliye Bakanlığı, işadamları ve serbest meslek erbabından oluşan beyannameli gelir vergisi mükellefleri ile şirketler için "vergide reyting" dönemini başlatıyor. 
+     Hayat standardı esasının kaldırılmasının ardından ortaya çıkan komik gelir beyanları üzerine harekete geçen Gelirler Genel Müdürlüğü'nün yeni bir sistem istediği Vergi Konseyi, bu konudaki çalışmalarını tamamladı ve Maliye Bakanı Kemal Unakıtan'a sundu. Bakanın da onayladığı yeni model için tebliğ çalışmalarına başlandı. 
+     "Risk esaslı sektörel otokontrol sistemi" ya da "derecelendirilmiş mükellef seçme sistemi" olarak da tanımlanan reyting modelinde 5 temel ilke esas alındı. Bunlar, "Sistemin adil olması ve oto tarhiyata dönüşmemesi, mükellef haklarını koruması ve haklı izahları dikkate alması, piyasa ekonomisi ile uyumlu olması, basit, anlaşılır ve uygulanabilir olması ile vergi kanunlarıyla bütünlük sağlaması" olarak sıralandı. 
+     Gelir vergisi mükelleflerinden Mart ayında, kurumlar vergisi mükelleflerinden de Nisan ayında verilecek vergi beyannameleriyle birlikte, "net satış hasılatı, esas faaliyet karı ve amortisman" tutarı alınacak. 
+     Gelir idaresi, bu bildirimleri bilgisayara yükleyerek gelişmiş, az gelişmiş ve geri kalmış yöre ayrımını da baz alarak, daha önce belirlenmiş sektör ve işkolları için ortalama kar oranlarını belirleyecek. Daha sonra da kar oranlarına göre mükellefler derecelendirilecek. 
+     Karı, ortalamanın çok üstünde olanlar A reytingi çok iyi , biraz üstünde olanlar B reytingi iyi , ortalamanın az altında olanlar C Riskli , çok altında olanlar da D grubu Çok riskli olarak ayrıştırılacak. 
+     Bu derecelendirme sonucunda, C ve D grubunda yer alanlar, tek tek Vergi Dairelerine çağrılacak ve bildirdikleri rakamın düşüklüğünün nedenleri sorulacak. Haklı gerekçe ileri süremeyenler "kara liste"ye alınarak, vergi denetim birimlerine havale edilecek. 
+     Vergi Konseyi Başkanı Mustafa Uysal, getirilen reyting dereceleme sistemi ile hem düşük beyanların son bulacağını, hem de daha adil bir vergileme sağlanacağını söyledi. 
+     Bugüne kadarki uygulamalardan ciddi bir sonuç alınamadığına işaret eden Uysal, şöyle konuştu 
+     "Yeni sistem, mükellefler açısından otomatik bir vergileme olmayacak ancak vergilemede otokontrolü getirecek. Mükelleflerimiz, Nasıl olsa bu bildirimler de bir kenara atılır. Güçleri yetmez. Bundan da bir şey çıkmaz şeklinde bir yanılgıya düşmesinler. Bu sistem uygulanacak. Az sayıda bilgi olacağı için bunlar çok çabuk işleme sokulacak. Kalburun altına inenler için sorun yok ama kalburun üstünde kalanların hepsi şakır şakır incelenecek. Çok daha kolay, basit ama bir o kadar da etkili bir sistem gelecek." 
+     
+</TEXT>
+</DOC>

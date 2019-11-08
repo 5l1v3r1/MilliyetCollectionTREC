@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 306425 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/14/son/soneko02.html </URL>
+<DATE> 2005/01/14/ </DATE>
+<TIME> 02.11 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Wall Street 10,505.83'den kapandı... 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacmi bakımından dünyanın en büyük borsası konumunda olan New York Wall Street'in Dow Jones Sanayi Endeksi 111.95 puan düşüşle binde 10.5 10,505.83 puandan noktalandı. 
+     Wall Street'in teknoloji şirketleri ibresi Nasdaq Birleşik Endeksi de 21.97 puan azalarak 2,070.56 puana indi. 
+     Petrolün varilde 48 doları aşması ve General Motors şirketinin düşük kar açıklaması, haftanın dördüncü işlem gününde son seansın düşük kapanmasına neden oldu. 
+     
+</TEXT>
+</DOC>

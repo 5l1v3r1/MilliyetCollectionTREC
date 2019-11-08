@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 389903 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/26/son/sontur06.html </URL>
+<DATE> 2005/10/26/ </DATE>
+<TIME> 10.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kandilli'nin internet sitesinde ziyaretçi patlaması 
+</HEADLINE>
+<TEXT>
+
+     İZMİR DHA 
+
+      İNTERNET üzerindeki trafiği izleyen Alexa'nın verilerine göre, Boğaziçi Üniversitesi Kandilli Rasathanesi Deprem Araştırma Enstitüsü ve Ulusal Deprem İzleme Merkezi'nin web sitesi İzmir depremleriyle ziyaretçi patlaması yaşadı. 
+     17 Ekim'den bu yana meydana gelen sarsıntıların yerini ve şiddetini öğrenmek isteyen internet gezginleri, merkezin www.koeri.boun.edu’ adresli web sitesine akın etti. Site zaman zaman aşırı yoğunluk nedeniyle hizmet veremez hale geldi. 
+     Son 200 depremin görüntülendiği sayfa ekim ayına kadar günde 50 - 100 bin kişi tarafından ziyaret edilirken, 17 ekimden sonra bu sayı günde 550 bine ulaştı. 
+     Sitenin dünya üzerindeki web siteleri arasında, ziyaret sayısı sıralamasında son üç aya kadar 5 bin 584'üncü sırada yer alırken 17 ekimden sonra 2 bin 270'inci sıraya yükseldi. 
+     Bu durum Türkiye'de internet kullanımının artışını olduğu kadar, halkın deprem konusundaki duyarlılığını da gözler önüne serdi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 114062 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/10/20/son/sondun14.html </URL>
+<DATE> 2002/10/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Satranç Şampiyonu Kramnik, bilgisayarla berabere kaldı 
+</HEADLINE>
+<TEXT>
+
+     Dünya Satranç Şampiyonu Vladimir Kramnik, Deep Fritz adlı bilgisayar ile yaptığı satranç karşılaşmasında berabere kaldı. 
+     Rus Kramnik, Bahreyn'in başkenti Manama'da yapılan maçın dün oynanan son oyununda berabere kalarak, Bahreyn Emiri Şeyh Hamad bin İsa El Halife'nin ortaya koyduğu 700 bin doların sahibi oldu. 
+     Soğukkanlılığı nedeniyle ''Buz Adam'' olarak adlandırılan 1,95 boyunda, 100 kilo ağırlığındaki Kramnik, 8. ve son oyunda riske girmedi ve 21. hamlede rakibine beraberlik önerisinde bulundu. Deep Fritz'in programcılarının bu öneriyi kabul etmesiyle maç 4-4 sonuçlandı. 
+     Kramnik'in stratejik ve sağlam oyunu, hesap kapasitesinin artırılması için 8 işlemci takılan Deep Fritz'i yenmesine yetmedi. 
+     Vladimir Kramnik, karşılaşmada, ilk 4 oyundan ikisini kazanarak, ikisini de beraberlikle bitirerek 3-1 öne geçti. Deep Fritz'in üst üste iki oyunu kazanması ve 7. maçın da berabere bitmesinin ardından son oyuna 3,5-3,5 eşitlik halinde girildi. Şampiyonada galibiyetlere 1, beraberliklere ise 0.5'er puan veriliyor. 
+     Karşılaşmanın ardından düzenlediği basın toplantısında, Kramnik, ''Çok yoruldum. Çok zor bir maç oldu, çünkü bir bilgisayara karşı oynarken her şey olabilir'' dedi. Deep Fritz'in çok iyi savunma yapan bir rakip olduğunu söyleyen Kramnik, ''Deep Fritz, umulduğu gibi sadece hesaplamada değil, oyun açısından da kuvvetli. Çok güçlü bir insan gibi oynuyor'' dedi. 
+     Fritz'i tasarlayan Alman ChessBase şirketinin kurucusu Frederic Friedel de ''Deep Fritz'in birkaç yıl içinde dünya şampiyonundan daha iyi oynayacağını düşünüyorum'' diye konuştu. 
+     -KASPAROV-DEEP BLUE MAÇININ RÖVANŞI- Bu sonuçla, dünya şampiyonlarıyla süper bilgisayarlar arasında yapılan maçlarda, dünya şampiyonu ilk kez yenilmemiş oldu. 
+     Kramnik ile Deep Fritz arasında yapılan maç, eski Dünya Şampiyonu Rus Garry Kasparov'un 1997'de IBM tarafından üretilen ''Deep Blue'' adlı bilgisayara yenilmesinin ardından, insan-bilgisayar maçının rövanşı olarak nitelendiriliyordu. Kramnik, 2 yıl önce Kasım ayında Kasparov'u yenerek Dünya Şampiyonu olmuştu. 
+     Bahreyn, bu maçın ev sahipliğini üstlenme konusunda istekli davranmış ve Bahreyn Emiri Şeyh Hamad bin İsa El Halife, Kramnik'e, kazanması halinde bir milyon dolar, berabere kalması durumunda 700 bin dolar ve kaybetmesi halinde de 600 bin dolar ödül teklifinde bulunmuştu. 
+     -SANİYEDE 6 MİLYON İŞLEM- Alman ChessBase firmasını ürettiği, ''dünyanın en iyi satranç oynayan bilgisayarı'' olarak tanımlanan Deep Fritz, saniyede 6 milyon işlem yapabilme kapasitesine sahip. 
+     Bilgisayara, daha önce bir dünya satranç şampiyonuyla oynayan ilk bilgisayarın Deep Blue olması nedeniyle Deep, üretici firmanın Alman olması nedeniyle de Almanca Fritz adının konulduğu belirtiliyor. 
+     Merkezi Hamburg'daki ChessBase firması 15 yıldır satranç programları üretiyor. ChessBase'in çok sayıda programı, 90'ların başından beri satranç programlarının yarıştığı dünya şampiyonalarında birçok kez şampiyon oldu. 
+     Deep Blue'nun 1,4 ton ağırlığında bir bilgisayar olduğunu söyleyen ChessBase yetkilileri, Deep Fritz'in bir CD'ye sığacak büyüklükte bir program olduğunu belirtiyor. Bir PC ya da dizüstü bilgisayarında çalışabilen Deep Fritz, Fritz 7 adıyla piyasaya sunulan satranç oyununun gelişmiş versiyonu. 
+     Deep Blue'nun saniyede 200 milyon işlem yapabildiğini ve bu yönüyle Deep Fritz'ten belirgin biçimde üstün olduğunu söyleyen Alman yetkililer, bu farka rağmen Deep Fritz'in özellikle stratejik ve konumsal açıdan oyunun inceliklerini daha iyi kavradığını belirtiyor. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

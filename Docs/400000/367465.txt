@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 367465 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/05/son/sonyas14.html </URL>
+<DATE> 2005/08/05/ </DATE>
+<TIME> 16.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ADSL abone sayısı 900 bine ulaştı... 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekomünikasyon A.Ş’nin hızlı internet bağlantısı ADSL’ye abone olanların sayısının 900 bine ulaştığı bildirildi. 
+     Türk Telekom’dan yapılan açıklamada, klasik internet bağlantısına göre 50 kata kadar daha hızlı internet erişimi sağlayabilen ADSL’de 2004 yılı başında 56 bin civarında olan abone sayısının bu alanda 
+     yapılan yatırımlar ve çalışmalar sonucu 901 bin 298’e ulaştığı belirtildi. Türk Telekom’un ADSL’de 25 Ekim 2004 tarihinden itibaren en düşük bağlantı hızını 128 kbps’den 256 kbps’ye çıkardığı ve fiyatı da 69 milyon’dan 49 milyona düşürdüğü kaydedilen açıklamada, bu yıl Haziran ayında başlayan ve 15 Ekim’de sona erecek "ücretsiz bağlantı ve bir ay ücretsiz kullanım" kampanyasından ise günde yaklaşık 2500 öğretmen ve öğrencinin faydalandığı ifade edildi. Türk Telekom’un internetin yurtiçi kapasitesi ve abone sayısını artırma çalışmalarının yanı sıra yurtdışı çıkış kapasitesini de artırdığı, bu çerçevede son olarak 14,5 gbps olan kapasitenin dün itibariyle 19,5 gbps’ye çıkardığı kaydedildi. 
+     
+</TEXT>
+</DOC>

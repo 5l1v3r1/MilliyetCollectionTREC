@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 363662 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/23/son/sonsiy03.html </URL>
+<DATE> 2005/07/23/ </DATE>
+<TIME> 11.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Telefon dinleme yetkisi yürürlükte... 
+</HEADLINE>
+<TEXT>
+
+     Emniyet, Jandarma ve MİT’e telekomünikasyon verilerini dinleme yetkisi veren yasa yürürlüğe girdi. 
+     Emniyet, Jandarma ve MİT’e telekomünikasyon verilerini dinleme yetkisi veren yasa Resmi Gazete’de yayımlandı. Yasayla Jandarma’ya da "kendi sorumluluk alanında" istihbarat yapma yetkisi verildi. Jandarma, CMK’da casusluk suçları haricindeki suçların işlenmesinin önlenmesi amacıyla, hakim kararı veya gecikmesinde sakınca bulunan hallerde Jandarma Genel Komutanı veya İstihbarat Başkanı’nın yazılı emri ile telekomünikasyon yoluyla yapılacak iletişimi tespit edebilecek, dinleyebilecek ve sinyal bilgilerini kayda alabilecek. 
+     Yasaya aykırı dinleme sonucu elde edilen istihbaratın hukuki değer taşımayacağı esası getirilen yasayla, hakimin "gecikmesinde sakınca var" gerekçesiyle yapılan dinlemelere olumlu görüş bildirmemesi halinde elde edilen bilgiler on gün içinde yok edilecek. 
+     Emniyet Genel Müdürlüğü, jandarma ve MİT, görev alanlarıyla ilgili suçların işlenmesinin önlenmesi amacıyla hakim kararı veya gecikmesinde sakınca bulunan durumlarda ilgili birim amirinin yazılı emriyle dinleme ve takip yapacak. 
+     Gecikmesinde sakınca bulunan durumlarda verilen yazılı emir 24 saat içinde yetkili ve görevli ağır ceza hakiminin onayına sunulacak. Hakim kararını en geç 24 saat içinde verecek. Sürenin dolması veya hakimin aksine karar vermesi halinde tedbir derhal kaldırılacak. Kararda ve yazılı emirde dinlenecek kişinin kimliği, iletişim aracının türü, kullandığı telefon numaraları veya iletişim bağlantısını saptamaya olanak sağlayan kodundan belirlenebilenler ile tedbirin türü, kapsamı ve süresi belirtilecek. 
+     Kararlar en fazla üç ay için verilecek. Ancak bu süre üçer aylar halinde toplam bir yıla kadar çıkabilecek. Terörle ilgili suçlarda ise üçer aylık dilimler halinde sürekli dinleme yapılabilecek. Dinlemenin sona ermesi halinde dinleme kayıtları en geç 10 gün içinde yok edilecek ve bu durum tutanağa geçirilecek. Hakim kararı alınması koşuluyla teknik araçlarla izleme de yapılabilecek. 
+     
+     ÖZEL DİNLEME MERKEZİ KURULACAK 
+     Yapılacak dinlemeler Telekomünikasyon Kurumu bünyesinde Kurum Başkanına doğrudan bağlı Telekomünikasyon İletişim Başkanlığı adıyla kurulan tek bir merkezden yürütülecek. Bu merkez bir başkan, teknik, idari ve hukuki olmak üzere üç uzmandan oluşacak. Bu başkanlıkta, MİT, Emniyet ve Jandarma birimlerinden birer temsilci de bulunacak. 
+     
+     YASA ANYASA MAHKEMESİ’NE 
+     Bu arada yasayı dün onaylanan Cumhurbaşkanı Ahmet Necdet Sezer, söz konusu yasanın iptali için Anayasa Mahkemesi’ne başvuracağını açıklamıştı. 
+
+ANKA 
+     
+</TEXT>
+</DOC>

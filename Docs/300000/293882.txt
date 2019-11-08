@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 293882 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/01/son/sontur03.html </URL>
+<DATE> 2004/12/01/ </DATE>
+<TIME> 02.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kablo internet ücretlerine indirim... 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekomünikasyon A.Ş, kablo internet ücretlerinde yüzde 50-59 oranında indirime gitti. 
+     Türk Telekom'dan yapılan açıklamaya göre, genişbant internet ADSL'deki indirimin ardından kablo internet ücretlerinde de indirim yapıldı. 
+     İndirimli tarife yarından itibaren uygulanmaya başlanacak. 
+     Buna göre, aylık 72 milyon lira olan 128 32 Kbps hızındaki erişim ücreti yüzde 50 indirimle 36 milyon liraya, 119 milyon lira olan 256 64 Kbps hızındaki erişim ücreti yüzde 58.8 oranındaki indirimle 49 milyon liraya, 512 128 Kbps hızındaki erişim ücreti de 209 milyon liradan yüzde 52.6 oranındaki indirimle 99 milyon liraya çekildi. 
+
+     
+</TEXT>
+</DOC>

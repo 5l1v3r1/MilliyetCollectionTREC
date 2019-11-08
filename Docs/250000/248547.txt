@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 248547 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/16/son/sonyas14.html </URL>
+<DATE> 2004/06/16/ </DATE>
+<TIME> 12.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kalp hastalarına özel giysi... 
+</HEADLINE>
+<TEXT>
+
+     İtalyanlar, kalp hastaları için üretilen eşofmana benzer özel giysiyi denemeye başlıyor. 
+     Milano'daki San Raffaele hastanesi uzmanlarının sonbaharda denemeye başlayacakları giysi, kalp hastalarının uzaktan kontrolünü sağlayacak. 
+     Hastane yetkilisi Laura Arghitto, makinada yıkanabilecek özel giysinin hastanın kalp ritmini, solunumunu, hareketlerini ve vücut sıcaklığını gün boyunca uzaktan denetleme olanağı verdiğini belirtti. 
+     ''Akıllı giysinin'', özel bir dokuya sahip olduğu, kumaşın elektrofiziksel özelliklere sahip malzemeyle donatıldığı ve bu sayede hastanın yaşamsal sinyallerinin algılanarak kaydedilebildiği bildirildi. 
+     Giyside, toplanan verileri hastaneye iletmeye yarayan 150 gramlık bir de kutu bulunuyor. 
+     Giysi sayesinde, kalp hastalarının düzenli muayene için sık sık hastaneye gitmesine gerek kalmayacak. 
+     
+</TEXT>
+</DOC>

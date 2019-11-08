@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO> 264236 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/17/son/sonyas14.html </URL>
+<DATE> 2004/08/17/ </DATE>
+<TIME> 14.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Korku filmlerinin korkunçluğunu ölçmek için formül geliştirildi... 
+</HEADLINE>
+<TEXT>
+
+     Bir korku filminin gerçekten korkunç olup olmadığı artık ölçülebiliyor... İngiliz bilim adamları tarafından geliştirilen bir formülle filmin ne kadar korkunç olduğu hesaplanıyor. 
+     Londra'daki Kraliyet Koleji matematik uzmanlarından Anna Sigler, formülde, yaratılan gerginlik, çevrenin özellikleri, akan kan miktarı gibi değerlerin kullanıldığını bildirdi. 
+     Formülde, müzik, ani efekt, bilinmeyen ve kovalamaca sahneleri gibi gerginliği artıran unsurlar dikkate alınıyor. 
+     Filmi korkunç yapan unsurlar arasında, olayların gerçeğe yakınlığı ve çevrenin görünüşü de etkili. 
+     Eylem gerçeğe ne kadar yakın olursa sahne ne kadar karanlıkta çekilirse o kadar korkutucu oluyor. 
+     Araştırmacılar, filmde görülen kan miktarının da çok önemli olduğunu, doğru yer, zaman ve miktardaki kanın gerginliği artırdığını, ancak fazla kan akan filmlerin korkutucu özelliklerini yitirdiklerini belirtiyor. 
+     Bir filmin korkunçluğunun ölçülebileceği formül şöyle 
+     korkunçluk oranı es u cs t üstü 2 s tl f 2 a dr fs n sin x - 1. 
+     es gerginlik yaratan müzik. 
+     u bilinmeyen. 
+     cs kovalamaca sahnesi. 
+     t oyuncunun tuzağa düştüğü sahne. 
+     s ani efektler. 
+     tl gerçek hayat. 
+     f hayal. 
+     a oyuncunun yalnız olması. 
+     dr karanlık mekan. 
+     fs dekorasyon. 
+     n görülen oyuncu sayısı. 
+     x görülen kan ve parçalanmış organlar. 
+     sin stereotip. 
+     Bu formülle hesaplandığında, Stephen King'in romanından beyazperdeye aktarılan ''Çığlık'' The Shining en korkunç korku filmi. 
+     
+</TEXT>
+</DOC>

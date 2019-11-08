@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 307016 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/16/son/sontur36.html </URL>
+<DATE> 2005/01/16/ </DATE>
+<TIME> 23.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Medturk denizaltı kablosu koptu... 
+</HEADLINE>
+<TEXT>
+
+     Türkiye'nin yurt dışı internet erişimini sağlayan alternatif kablolarından biri olan Marmara Denizi'ndeki MedTurk denizaltı kablosunun koptuğu bildirildi. 
+     Türk Telekom'dan yapılan açıklamaya göre kablo, henüz bilinmeyen bir nedenle bugün saat 16.15'de koptu. 
+     Kablonun kopması nedeniyle, Türkiye'nin 8.8 Gbps olan yurt dışı internet kapasitesinin, 3 Gbps'lik bölümü karşılanabiliyor. 
+     Alternatif güzergahlardan kapasite temin etme çalışmaları ise sürüyor. 
+     
+     TÜRK TELEKOM ''ALTERNATİF GÜZERGAHLARDAN YENİ EK KAPASİTE TEMİN ETME ÇALIŞMALARI SÜRÜYOR'' 
+
+     Türkiye'nin yurt dışı internet erişimini sağlayan alternatif kablolarından biri olan Marmara Denizi'ndeki MedTurk denizaltı kablosunun kopmasının ardından, alternatif güzergahlardan yeni ek kapasite temin etme çalışmalarının sürdürüldüğü bildirildi. 
+     Türk Telekom'dan yapılan açıklamada, MedTurk denizaltı kablosunun, bugün saat 16.15'de kopma nedeni araştırılırken, kopan kablonun tamir edilmesi çalışmalarının da başlatıldığı bildirildi. 
+     Açıklamaya göre, Türk Telekom'un günün en yoğun saatlerinde karşılaştığı maksimum 7 Gbps'lik kapasite ihtiyacının yüzde 56'sı olan 3.9 Gbps'lik kısmı, kablonun kopmasından sonra hizmete verilen yedek kapasitelerle karşılanıyor. 
+     Alternatif güzergahlardan yeni ek kapasite sağlama yönünde çalışmalar sürerken, yarın konuyla ilgili olumlu sonuçlar alınabileceği öngörülüyor. 
+     
+</TEXT>
+</DOC>

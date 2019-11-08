@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> 266782 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/27/yazar/oztrak.html </URL>
+<DATE> 2004/08/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Faik ÖZTRAK  </AUTHOR>
+<HEADLINE>
+İç piyasalardan borçlanma artıyor 
+</HEADLINE>
+<TEXT>
+
+
+Geçtiğimiz hafta sonu konsolide bütçenin temmuz sonu itibariyle borç stoku rakamları yayımlandı. Aşağıdaki tabloda bu yılın ilk yedi aylık döneminde borç stokundaki değişme rakamları bütçe açıklarıyla birlikte yer alıyor. 
+KONSOLİDE BÜTÇE TOPLAM BORÇ STOKUNDA DEĞİŞME Milyar TL Ocak - Temmuz Faiz Dışı Denge 19.108.828 Bütçe Dengesi -15.928.620 Toplam Borçlanma 17.219.685 İç Borç Stokunda Artış 17.582.583 Piyasa 26.480.841 Kamu Kesimi -8.898.258 Dış Borç Stokunda Artış -362.898 Kredi -62.708 Uluslararası Kuruluşlar 1.363.399 IMF Kredisi 76.905 Hükümet Kuruluşları -839.050 Ticari Bankalar -587.057 Tahvil -300.190 
+Aylık dolar cinsinden değişmeler ay sonu kurları ile TL'ye çevrilerek toplanmıştır. 
+Kaynak Hazine Müsteşarlığı verilerinden hesaplanmıştır 
+
+İlk yedi aylık dönemde bütçede 19.1 katrilyon liralık faiz dışı fazla verilmesine karşın faiz ödemeleri nedeniyle bütçenin finansman ihtiyacı 15.9 katrilyon lira olmuş. Hazine bu finansman ihtiyacına karşılık 17.2 katrilyon liralık net borçlanma yapmış. 
+Borçlanmanın kaynaklarına baktığımızda ise bu finansmanın tamamının iç borçlanmayla sağlandığını görüyoruz. Bu dönemde dış borçta net geri ödeyici olmuşuz. 
+İç borç stokunun açılımına baktığımızda ise Hazine'nin kamuya olan borcunu 8.9 katrilyon lira azalttığını görüyoruz. Bu gelişme büyük ölçüde kamu bankalarına ve TMSF'ye 2001'de yaşanan kriz sonrasında oluşan zararların karşılığında verilen kamu kağıtlarının geri ödemesinden kaynaklanıyor. Hazine 2001 yılında üstlenmek zorunda kaldığı, mali krizin zararlarını halen ödüyor. Bu durumda da sadece bütçe açığı için değil, aynı zamanda bu zararlar için de finansman sağlamak durumunda. Bunu da ilk yedi ayda büyük ölçüde iç piyasalardan borçlanarak sağlamış. Nitekim bütçeden gelen 15.9 katrilyon liralık borçlanma ihtiyacına karşılık Hazine'nin piyasalardan net borçlanması 26.5 katrilyon lira olmuş. 
+Aşağıdaki diğer tablodan piyasaya ihraç edilen borçlanma kağıtlarının yüzde 69'unun yatırım fonları ve yurtdışı yerleşikleri de içeren banka dışı kesimler tarafından alınmış olduğu dikkati çekiyor. 
+
+BANKA DIŞI KESİMLERİN ELİNDEKİ DİBS STOKUNDA DEĞİŞME Milyar TL Ocak - Temmuz Banka Dışı Kesim 12.870.123 Menkul Kıymet Yatırım Fonları 1.477.947 Yurtdışı Yerleşikler 3.931.417 TOPLAM 18.279.487 
+Kaynak Hazine Müsteşarlığı verilerinden hesaplanmıştır. 
+
+Türkiye'de standart borç oranları hızla düzeliyor. Ancak mevcut finansman yapısı piyasalara olan iç borç stokundaki gelişmelerin de yakından izlenmesi gerektiğini gösteriyor. Yılın ilk yedi ayında iç piyasalara olan kamu borç stokunda gerçekleşen artış yüzde 26 olmuş. Bu, söz konusu dönemde enflasyon ve büyüme artışları dikkate alındığında gerçekleşen gelir artışının oldukça üstünde. Aynı durum M2Y artışlarına bakıldığında da görülüyor. Dolayısıyla bu süreç büyük ölçüde banka dışı yatırımcıların, portföylerinde DİBS payını artırmaları suretiyle gerçekleşmekte. Bu kesimlerin iç borçlanma kağıtlarına olan iştahının sürmesi, mevcut finansman yapısının devamı bakımından önemli. Bu nedenle de enflasyondaki düşmeye bağlı olarak risk primindeki hızlı gerilemeye rağmen kamu borcunun reel faizi çok daha yavaş düşüyor. Diğer taraftan bu kesimlerin risk algılamasını artırmamak da gerekiyor. 
+Hem bu finansman yapısını sürdürebilmek hem iç piyasalar üzerindeki borç baskısını dış borçlanmayla dengeleyebilmek bakımından ekonomide kırılganlıkları azaltacak politikaların kararlılıkla sürdürülmesine ihtiyaç var. Bu nedenle dış çapayla desteklenen bir programın sürdürülmesi, yapısal reformlara hızla devam edilmesi, iç ve dış dengeyi koruyacak tedbirlerin gecikmeden alınarak ekonomideki risklerin azaltılması büyük önem taşıyor. 
+
+Merih Celasun hocamıza... 
+Türkiye'nin ekonomi alanında yetiştirdiği en önemli bilim adamlarından birini Prof. Dr. Merih Celasun'u yitirdiğimizi bu yazıyı kaleme alırken öğrendim. Hem kamuda hem de bilim dünyasında çalışmış olmanın olgunluğuyla Türkiye'nin son dönemde yaptığı istikrar programlarına düşünce ve eleştirileriyle önemli katkıları olan hocamıza tanrıdan rahmet, yakınlarına sabır diliyorum. 
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 360390 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/12/son/sondun68.html </URL>
+<DATE> 2005/07/12/ </DATE>
+<TIME> 23.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Londra'da Avam Kamarası'ndaki alarm durumu sona erdi... 
+</HEADLINE>
+<TEXT>
+
+     İngiltere’de Avam Kamarası’ndaki alarm durumu sona erdi. 
+     Polis sözcüsü, alarmın kaldırıldığını söyledi, ancak ayrıntılı bilgi vermedi. 
+     Polisin, güvenlik alarmıyla birlikte parlamento binasının giriş çıkışlarını kapattığı bildirilmişti. 
+     İngiltere’nin başkenti Londra’da geçen perşembe düzenlenen saldırılardan bu yana sıkça güvenlik alarmı veriliyor. Şu ana kadar verilen alarmların ardından önemli bir olay olmadı. 
+     
+</TEXT>
+</DOC>

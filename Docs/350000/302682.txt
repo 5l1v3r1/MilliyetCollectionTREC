@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 302682 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/02/ekonomi/eko01.html </URL>
+<DATE> 2005/01/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Merkez Bankalarda sorun yok 
+</HEADLINE>
+<TEXT>
+
+
+AHMET ERHAN ÇELİK Ankara 
+
+Merkez Bankası, yılbaşı gecesinde YTL'ye geçişi izlemek için sabaha kadar nöbet tuttu. Bankaların, POS, kredi kartı makineleri, ATM gibi vatandaşa dönük hizmetlerinde tam olarak sistemlerini YTL'ye uyumlu hale getirdikleri belirlendi. EFT ve muhasebe işlemlerinde ise YTL'ye geçişlerin sonuçları yarın alınacak. 
+Merkez Bankası Başkanı ve yardımcılarından oluşan yönetim komitesi, bilgi, iletişim, emisyon genel müdürlükleri, önceki gece ve hafta sonu boyunca bankaların YTL'ye geçişini izledi. YTL'ye Geçişi İzleme Birimi yetkililerinden edinilen bilgilere göre bankacılık sisteminin tamamı dün itibariyle vatandaşa dönük hizmetlerinde sistemlerini YTL'ye tam olarak uyarladılar. 
+
+ATM'lerde YTL az 
+Elektronik ortamda sağlanan uyumla ATM'lerin banka merkezleriyle YTL bazlı ilişkisi tam olarak kuruldu. Alışverişlerde nakit para yerine kullanılabilen ATM kartlarıyla ilgili uyum tam olarak sağlandı. Kredi kartı makinelerinde de herhangi bir sorun bulunmadığı bildirildi. 
+Fiziki uyumda ise ciddi aksamalar görüldü. ATM makineleri, bilgisayar tabanında, YTL'ye tam uyum gösterdiği halde bankalar Merkez Bankası'ndan yeterli YTL çekmedikleri için vatandaşların önemli bölümü yılın ilk gününde yeni banknotları göremedi. 
+Bankalararası para trafiğinin gerçekleştiği EFT sistemi ise tam olarak yarın devreye girecek. EFT işlemlerinde YTL uyumu sağlayan az sayıdaki bankanın müşterileri, bugünden itibaren havale işlemi yapabilecekler. 
+
+
+</TEXT>
+</DOC>

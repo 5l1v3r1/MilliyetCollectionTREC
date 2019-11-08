@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 154559 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/05/son/sondun01.html </URL>
+<DATE> 2003/05/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+SARS'ın yayılmasında "dışkı" sanıldığından daha etkin olabilir.. 
+</HEADLINE>
+<TEXT>
+
+     Yeni bilimsel veriler, dışkının, SARS hastalığına yol açan virüsün yayılmasında sanıldığından daha önemli bir rolünün olabileceğini ortaya koydu. 
+     Dünya Sağlık Örgütü'nden yapılan açıklamaya göre, öksürme ve hapşırma, hastalığın yayılmasının hala en önemli yolları olarak kabul ediliyor, ancak Hong Kong hükümetinin bilim adamlarına yaptırdığı araştırmalar, virüsün, ishal halindeki dışkıda en az dört gün yaşayabildiğini de gösteriyor. 
+     Hong Kong'da kanalizasyon sızıntısı bulunan ''Amoy Gardens'' adlı apartman kompleksinde hastalığın patlama yapması ve yalnızca burada 300'den fazla kişinin hastalığa yakalanması, bu veri ile örtüşüyor. 
+     Dünya Sağlık Örgütü'nün SARS ile ilgili baş bilimadamı olan, dünyadaki çeşitli laboratuvarlarda hastalıkla ilgili olarak yapılan araştırmaları koordine eden Klaus Stohr'a göre, ishal halindeki dışkı daha az asitik olduğu için, virüsün daha çok yaşamasına elverişli bir ortam sağlıyor. 
+     SARS hastalığına yakalanan kişilerin yalnızca yüzde 10'unda ishal görülmesine karşın, bu rahatsızlık, Amoy Gardens'daki apartman kompleksindeki hastaların yüzde 60'ında tespit edildi. 
+     Sonuçlardan biri de, virüsün, normal oda sıcaklığı altındaki dışkıda dört gün boyunca yaşayabildiğinin belirlenmesi. Stohr, virüsün yaşam süresinin uzamasının, insanlara ağız yoluyla ulaşma ihtimalini arttırdığını, bu nedenle bu bulgunun, araştırmanın en rahatsız edici sonuçlarından biri olduğunu belirtti. 
+     
+     DEZENFEKTE EDİCİ MADDELER VİRÜSÜ ÖLDÜRÜYOR 
+     Stohr'un açıkladığı bir başka sonuç da, evlerde kullanılan dezenfekte edici maddelerin, temizleyicilerin, açıkta bulunan virüsü beş dakika içerisinde öldürebildiğinin, Hong Kong Üniversitesi bilimadamlarınca kanıtlanması. 
+     Bunun, araştırmaların sevindirici sonuçlarından biri olduğunu kaydeden Stohr, ''iyi bilinen, en yaygın üç dezenfekte edici madde, foraldehid, etanol ve aseton, virüsü kolaylıkla öldürebiliyor'' dedi. 
+     Stoh,r bu nedenle hastanelerde ve evlerde tuvaletlerin dezenfekte edilmesinin, SARS sorununa karşı önemli kazanımlar elde edilmesini sağlayabileceğini ifade etti. 
+     
+     SOĞUK DA VİRÜSÜ KORUYOR 
+     Stohr'un açıklamalarına göre Japon bilimadamları da, virüsün, plastik yüzeylerde 4 santigrat derece ısıda dört gün yaşayabildiğini ortaya koydular. Bu sıcaklık, buzdolaplarının içinde bulunan sıcaklık düzeyi. Stohr'un açıklamasına göre bu nedenle elinde SARS hastalığına yol açan virüs bulunan bir kişi buzdolabının içine dokunursa, buraya aktarma ihtimali bulunan virüs buzdolabının içinde herhangi bir eşyanın üzerinde dört gün boyunca kalabilir. 
+     Virüsün daha soğuk ortamlarda, eksi 80 santigrat derecedeki durumu da test edildi ve dört gün boyunca etkilenmediği görüldü. Buradan çıkan sonuç da, virüsün kış koşullarında rahatlıkla yaşayabileceği. Hastalık Çin'de geçen Kasım ayında, Kış koşullarında patlak verdi ve İlkbahar ile birlikte uzak bölgelere yayıldı. 
+     
+</TEXT>
+</DOC>

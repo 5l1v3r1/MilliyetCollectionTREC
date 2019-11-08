@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 180030 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/03/son/soneko28.html </URL>
+<DATE> 2003/09/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bono piyasasında faiz 38.06 oldu... 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda işlem gören 18 Ağustos 2004 vadeli, bugün valörlü tahvilin basit getirisi yüzde 37.80'den, bileşik getirisi yüzde 38.06'dan kapandı. 
+     Bu kağıdın aynı gün valörlü işlemlerinin bileşik getirisinde, dünkü kapanışa göre 0.55 puanlık düşüş belirlendi. 
+     
+     KOTASYONLAR 
+     Bankalararası piyasada dolar kotasyonları, alışta en düşük 1 milyon 391 bin 500 lira, en yüksek 1 milyon 395 bin lira, satışta en düşük 1 milyon 396 bin 500 lira, en yüksek 1 milyon 400 bin lira seviyesinde bulunuyor. 
+     
+     REPO 
+     İMKB Tahvil ve Bono Piyasası Repo-Ters Repo Pazarı'nda, gecelik işlemlerde ortalama faiz yüzde 32.00'den gerçekleşti. 
+     Gecelik işlemlerde faiz en düşük yüzde 32.00, en yüksek 32.10 oldu. 
+     
+     PARİTE 
+     Uluslararası piyasalarda euro-dolar paritesi 1.0791, sterlin-dolar paritesi 1.5638, yen-dolar paritesi ise 116.17 düzeyinde seyrediyor. 
+     
+</TEXT>
+</DOC>

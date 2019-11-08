@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> 287405 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/09/son/soneko01.html </URL>
+<DATE> 2004/11/09/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     Borsanın temel göstergesi Dow Jones, 3.77 puan artarak 10,391.31 puana yükselirken, teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq da 0.31 puan artışla 2,039.25 puana çıktı. 
+     
+</TEXT>
+</DOC>

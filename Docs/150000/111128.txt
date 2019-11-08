@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 111128 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/10/04/son/sondun05.html </URL>
+<DATE> 2002/10/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayar korsanları, Pentagon'un internet sitesini hack'ledi 
+</HEADLINE>
+<TEXT>
+
+     ABD'de kimligi belirlenemeyen bilgisayar korsanları Savunma Bakanlığı'nın resmi internet sitesine müstehcen görüntüler ekledi. 
+     Pentagon sözcüsü Richard Boucher, bugün yaptığı açıklamada, bu karışıklık nedeniyle siteyi kapatmak zorunda kaldıklarını söyledi. 
+     Müstehcen görüntülerin dün ortaya çıktığı www.usinfo.state.gov adresli siteye, bugün gece geç saatlerde hala ulaşılamadığı görüldü. 
+     Boucher, sitenin sunucusunun Savunma Bakanlığı dışında olduğunu ve hiçbir gizli ya da hassas bilginin tehlikede olmadığını söyledi. 
+     Savunma Bakanlığı'ndan bir ekibin olayı araştırdığını belirten Boucher, müstehcen görüntülerin neler olduğunu açıklamadı ve görüntülerin siyasi amaçlı olup olmadığını bilmediğini söyledi. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 330529 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/05/son/sonyas02.html </URL>
+<DATE> 2005/04/05/ </DATE>
+<TIME> 02.08 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dikkat Lütfen bu Angelina Jolie'yi açmayın 
+</HEADLINE>
+<TEXT>
+
+     NAFİZ ALBAYRAK BOSTON, DHA 
+
+OSCAR ödüllü yıldız Angelina Jolie ile aşk ilişkisi yaşadığı öne sürülen Brad Pitt'in de virüsü çıktı. Ağ güvenliği şirketi Sophos, Angelina Jolie ve Brad Pitt virüsünün kurumsal internet kullanıcılarını en çok etkileyen virüslerin başında geldiğini açıklayarak kullanıcıları uyardı. 
+     Sophos'un küresel veri toplama istasyonlarından gelen bilgilerle derlenen raporda, Paris Hilton, Britney Spears, Pamela Anderson gibi ilgi çeken ünlülerin adları ile yayılan virüslerden sonra, şimdi de Angelina Jolie ve Brad Pitt virüsünün emailler aracılığıyla yayıldığı bildirildi. Yazıllım ve ağ güvenlik kurumu Sophos yetkilileri, 'W32 Ahker-F' olarak da bilinen virüs dosyasının, internet kullanıcılarına 'Angelina Jolie ve Brad Pitt'in seks klibi' başlığı ile gönderildiğini açıklayarak, "Virüsün yaratıcısı, Brad Pitt ve Angelina Jolie'nin medyaya yansıyan olası ilişkilerinin ne kadar ilgi çektiğinin farkında. Pitt'in, Jennifer Aniston ile evliliğinin, Jolie yüzünden bittiği söylentileri, ilgiyi daha da artırıyor" diye konuştu. 
+     Gönderilen emaillere clip.zip olarak iliştirilen dosyanın açılmasıyla, "Angelina Jolie ve Brad Pitt virüsü'nün, listedeki tüm e-mail adreslerine bulaştığını belirten Sophos Teknoloji Başdanışmanı Graham Cluley, "Brad ve Pitt' virüsünün, güvenlik içerikli yazılımlara etkisiz hale getirebildiğini ve anti virüs sitelerine girişi önlediğini de belirtti. 
+     
+</TEXT>
+</DOC>

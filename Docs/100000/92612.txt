@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 92612 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/06/28/son/sondun06.html </URL>
+<DATE> 2002/06/28/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayarlara dev LCD ekranlar 
+</HEADLINE>
+<TEXT>
+
+     Şimdiye kadar adeta prestij sembolü kabul edilen bilgisayarlardaki düz LCD ekranlar artık ihtiyaç haline gelirken, bu ekranların boyutları da büyüdü. 
+     Fiyatları hızla düşen ve ucuz masaüstü bilgisayarlarla bile paket halinde satışa sunulan düz ekranlara karşın NEC-Mitsubishi konsorsiyomu, 30-inçlik dev LCD ekranlarını piyasaya sürdü. Bu ekranların köşeden köşeye uzunluğu 76 santimetreyi geçiyor. 
+     Buna rağmen alışılmış bilgisayar monitörlerinden çok daha az yer tutan LCD ekranların ağırlığı 19.5 kilogramı buluyor. LCD ekranların satış fiyatı ise 4 bin dolar. 
+     Yeni ekranların çözülümünün 1280 x 768 piksel olduğunu belirten uzmanlar, en-boy oranının ise 16 10 olduğunu kaydettiler. Dev boyuttaki LCD ekranların, geleneksel bilgisayar monitörlerinden çok daha az enerji tükettiği de NEC-Mitsubishi firmaları tarafından açıklandı. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

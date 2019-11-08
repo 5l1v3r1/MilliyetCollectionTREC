@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 307587 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/18/son/sontur24.html </URL>
+<DATE> 2005/01/18/ </DATE>
+<TIME> 12.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Telekom Kesintiden sonra kapasiteyi 4,5 gbps'ye çıkardık 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekom'un yurtdışı internet erişimini sağlayan alternatif kablolardan birisi olan MedTürk'ün denizaltı kablosunun kopmasından sonra yapılan çalışmalarla yurtdışı kapasitesi'nin 4,5 gbps'ye ulaştığı bildirildi. 
+     Türk Telekom'dan yapılan açıklamada, kesintiden sonra sağlanan kapasitelerle Türk Telekom'un yurtdışı kapasitesinin 4,5 gbps'ye ulaştığı belirtilerek, kapasite artırma çalışmalarının devam ettiği kaydedildi. 
+     Açıklamada ayrıca, Türk Telekom'un, günün en yoğun saatlerinde karşılaştığı maksimum 7 gbps'lik kapasite ihtiyacının yüzde 64'ünü karşıladığı ifade edildi. 
+     
+</TEXT>
+</DOC>

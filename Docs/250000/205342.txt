@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 205342 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/30/son/sondun19.html </URL>
+<DATE> 2003/12/30/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Toyota, 2005'e kadar "proleter robot" üretecek 
+</HEADLINE>
+<TEXT>
+
+     Japon otomobil üreticisi Toyota, işçilere ve yaşlılara yardım edebilecek, ameliyatlara ve kurtarma operasyonlarına katılabilecek ''proleter robot'' üretecek. 
+     İş dünyası gazetesi Nihon Keizai Shimbun'da Nikkei yer alan haberde, 2005'e kadar üretilmesi planlanan robotla ilgili ayrıntıların Ocak ayında açıklanacağı ve robotun 2005'te Japonya'nın orta kesimlerindeki Aichi'de düzenlenecek uluslararası fuarda tanıtılacağı belirtildi. 
+     Honda tarafından 2000'de üretilen ASIMO ya da Sony tarafından tasarlanan QRIO adlı eğlendirme amaçlı ticari olmayan robotların aksine, Toyota'nın yeni robotu ''pratik'' amaçlarla kullanılacak ve satışa sunulacak. 
+     Toyota, henüz adı seçilmemiş robotu için hareket ve ses teknolojileri geliştirmeyi ve daha sonra bu teknolojiyi otomobiller üzerinde uygulamayı planlıyor. 
+     Toyota'nın hassas aletler üreticisi Nachi-Fujikoshi Corp. ve elektrik motor üreticisi Yasukawa Electric Corp ile sıkı işbirliği yapacağı belirtiliyor. 
+     Japonya'da robot pazarının 500 milyar yen 4.7 milyar dolar civarında olduğu tahmin ediliyor. 
+     
+</TEXT>
+</DOC>

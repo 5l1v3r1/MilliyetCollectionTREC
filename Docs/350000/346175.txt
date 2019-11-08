@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 346175 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/26/son/sonyas17.html </URL>
+<DATE> 2005/05/26/ </DATE>
+<TIME> 16.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Samanyolu'nda yeni gezegen keşfedildi 
+</HEADLINE>
+<TEXT>
+
+     Avustralyalı bilimadamları Samanyolu’nda yeni bir gezegen keşfettiler. 
+     Keşfi yapan Tasmania Üniversitesi öğretim üyeleri, gazlı gezegenin Dünya’dan 1000 kez büyük ve 25 bin ışık yılı uzakta olduğunu belirttiler. 
+     Evrende yerküreye benzer gezegenlerin arayışı içinde olan Avustralyalı gökbilimciler, gezegeni keşfederken az bilinen ve bir yıldızın dev bir mercek gibi davranan çekim kuvvetini kullanan "mikro-mercekleme" yönteminden yararlandıklarını kaydettiler. 
+     Gökbilimcilere Dünya’ya benzeyen yeni gezegenler keşfetme çabasında çok yardımcı olması beklenen bu yöntemle ilgili konuşan Profesör John Dickey, bu tekniğin yeni gezegenler keşfetmekte geleneksel yöntemlere göre daha yararlı olduğunu belirterek, "Bu yöntemle Dünya’ya benzeyen gezegenlerin keşfedilmesinin yolunu açmak istiyoruz" dedi. 
+     Paris’teki Astrofizik Enstitüsü’nün Güney Yarıküre’deki dört teleskopunun katkısıyla yapılan keşifte, gezegenin yerinin tespit edilmesinin ardından ABD’deki Hubble teleskopuyla daha fazla bilgi edinmek amacıyla ayrıntılı şekilde inceleneceği belirtildi. 
+     
+</TEXT>
+</DOC>

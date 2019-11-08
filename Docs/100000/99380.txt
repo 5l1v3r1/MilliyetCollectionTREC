@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> 99380 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/08/01/son/soneko20.html </URL>
+<DATE> 2002/08/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+TRLIBOR uygulaması başladı... 
+</HEADLINE>
+<TEXT>
+
+     Türk Lirası Referans Faiz Oranı TRLIBOR tespit edilmesi uygulaması 13 bankanın katılımıyla başladı. 
+     Uygulamanın, Türkiye'de bankaların gerek kendi aralarında, gerekse müşterileri ile yaptıkları işlemlerde esas alınabilecek bir referans faiz oranı olmaması sorununu büyük ölçüde çözeceği düşünülüyor. 
+     TRLIBOR uygulamasına katılan bankalar, Akbank, Denizbank, Finansbank, Koçbank, HSBC Bank, Oyakbank, Şekerbank, Türk Ekonomi Bankası, T. Dış Ticaret Bankası, Garanti Bankası, İş Bankası, Vakıflar Bankası ve Yapı ve Kredi Bankası A.Ş.'den oluşuyor. 
+     Edinilen bilgiye göre, TRLIBOR belirlenmesine yönelik Türkiye Bankalar Birliği tarafından 2000 yılı içinde çalışmalar yapıldı, ancak, yaşanan ekonomik ve finansal gelişmeler nedeniyle 2001 yılı başında başlaması planlanan uygulama geçici olarak ertelendi. 
+     Ekonomik gelişmeler doğrultusunda çalışmalara bu yıl yeniden başlanırken, test süreci sonrası uygulama bugün başlatıldı. 
+     
+     KATILMA KRİTERLERİ 
+     Bankaların, TRLIBOR sabitleme seansına katılma kriterleri şunlardan oluşuyor 
+     ''Yönetimi ve denetimi Tasarruf Mevduatı Sigorta Fonu'na devredilmemiş olmak, 31 Aralık 2001 tarihli bilanço büyüklüğüne göre aktif toplamı minimum 1 milyar ABD Doları büyüklüğünde olmak, yapılacak işlemlerde 1 trilyon TL kotasyon girmeyi ve bu işlem büyüklüğünden işlem yapmayı kabul etmek, TRLIBOR Belirlenmesine İlişkin Kuralları kabul ettiğini TBB'ye yazılı olarak bildirmek.'' Katılımcı bankalar 1 Temmuz-30 Haziran dönemini içeren 1 yıllık süre için seçiliyor. 
+     Uygulamanın sağlıklı bir şekilde yürütülmesi, işlem esaslarında gerekli görüldüğünde değişiklik yapılması ve katılımcı bankalar arasında anlaşmazlıklar olduğunda hakemlik görevi yapmak üzere atanan idare ve tahkim kurulunun asil üyelerini ise Garanti Bankası, Yapı ve Kredi Bankası, Koçbank, İş Bankası, Akbank, Vakıflar Bankası ve HSBC Bank oluşturdu. 
+     
+     UYGULAMA 
+     TRLIBOR mesai günlerinde, saat 11 15'de Türkiye Bankalar Birliği tarafından yayınlanacak. 
+     TRLIBOR, bankalar arasında 10 30-11 15 saatleri arasında yapılan işlemlerde, 10 55-11 05 saatleri arasında girilen kotasyonların 5 defa tesadüfi olarak alınması, her vadede en yüksek ve en düşük üç kotasyonun çıkartılarak, kalan kotasyonların satış tarafının aritmetik ortalamasının alınması suretiyle tespit ediliyor. 
+     TRLIBOR, günlük, 1 hafta, 1 ay, 2 ay, 3 ay, 6 ay, 9 ay ve 12 ay oranları olmak üzere 8 ayrı vadede ilan ediliyor. 
+     İlk TRLİBOR oranları şöyle 
+     
+     
+VADE ORAN Gecelik 48.8929 1 Haftalık 49.9857 1 Aylık 52.2500 2 Aylık 54.4286 3 Aylık 56.0000 6 Aylık 65.2857 9 Aylık 71.0000 1 Yıllık 74.9429 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

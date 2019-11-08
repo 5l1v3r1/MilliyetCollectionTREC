@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> 355883 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/27/son/soneko47.html </URL>
+<DATE> 2005/06/27/ </DATE>
+<TIME> 22.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İlk 500 bilişim şirketi açıklandı... 
+</HEADLINE>
+<TEXT>
+
+     İnterpro Yayıncılık, Araştırma ve Organizasyon Hizmetleri A.Ş. tarafından açıklanan "Bilişim 500 Araştırması" sonuçlarına göre, satış gelirlerine göre sıralanan 500 şirket arasında Türk Telekom birinci, Turkcell ikinci ve Telsim üçüncü sırada yer aldı. 
+     Kadir Has Üniversitesi’nde düzenlenen ödül töreninde, 2004 yılının en başarılı 500 bilişim şirketi açıklandı. 
+     İnterpro tarafından yapılan araştırmada, donanım, yazılım, hizmet olarak üç ana ve bir özel bölümde 51 kategorideki birinciler belirlenirken, buna göre satış gelirleri sıralamasında ilk 10 şirket arasında ilk üç sırayı, 4 milyar 707 milyon 604 bin dolarla Türk Telekom, 3 milyar 571 milyon 861 bin dolarla Turkcell ve 1 milyar 200 milyon dolarla İnterpro’nun tahmini rakamı Telsim aldı. 
+     İlk 500 sıralamasında KVK Teknoloji Ürünleri 4, GENPA 5, Netcell 6, A-Tel Pazarlama 7, İndeks Bilgisayar 8, Hewlett Packard 9 ve 
+     Ericsson 10’uncu sırada yer aldı. 
+     51 kategorideki birincilerin açıklandığı ve ödüllerin dağıtıldığı 
+     gecede, Donanım Kategorisi’nde NCR, İndeks Bilgisayar, İnform Elektronik, Teknosa, Armada, Netcell, Exim, Planet, Tesan, Nortel Netaş, Ericsson, Cisco ödül aldı. Yazılım Kategorisi’nde Probil, Likom, Havelsan, Meteksan, Bilkom, Intellect, Logosoft, Oracle, Telenity, Logo Business Solution, Boğaziçi Yazılım, Bildem, Gantek Teknoloji, Sentim Bilişim’e ödülleri verilirken, Hizmet Kategorisi’nde ise Bimsa, Global Bilgi, Siemens Business Services, Türk Telekom, Meteksan, Deksar Nortel Netaş, Özel Kategoride ise Arena, Bimse ve Despec ödüle değer görüldü. 
+     
+     İLLERE GÖRE İLKLER 
+     İstanbul’un ilk 10 bilişim şirketi sıralamasında ilk üç sırayı, Turkcell, Telsim ve KVK Teknolojileri alırken, Ankara’nın ilk üç sırasında Türk Telekom, Meteksan ve Başarı Ticaret, İzmir’in ilk üç bilişim şirketi sıralamasında ise Nesa Bilgisayar, Gen Elektronik ve Birim Bilgi İşlem yer aldı. 
+     Üç büyük il dışında merkezi bulunan ilk 10 şirket sıralamasının ilk üçü ise Hes Kablo, Corning Kablo ve Sistemleri ile Özler Telekom olarak belirlendi. 
+     İhracat gelirlerine göre ilk 3 bilişim şirketi Türk Telekom, Hes Kablo ve Siemens Business Services, çalışan başına düşen gelire göre ilk 3 şirket ise A-Tel Pazarlama, Netcell ve Tekofaks oldu. 
+     
+     TÜRK TELEKOM GENEL MÜDÜRÜ EKİNALAN 
+     Birincilik ödülünü alan Türk Telekom’un Genel Müdürü Mehmet Ekinalan, teknolojik olarak çok hızlı bir değişim süreci yaşandığına, bu sürecin şirketleri değişime zorladığına dikkat çekerek, Türk Telekom’un değişmeye devam edeceğini söyledi. 
+     Geceye onur konuğu olarak katılan Fiba Holding Yönetim Kurulu Başkanı Hüsnü Özyeğin de finansın bilişimi en iyi kullanan sektör olduğunu belirterek, bilişim şirketlerine kendileriyle birlikte yurtdışı pazarlara açılmalarını tavsiye etti. 
+     
+     İLK 500 BİLİŞİM ŞİRKETİ ARAŞTIRMASI 
+     İnterpro tarafından yapılan araştırma, anket yöntemiyle elde edilen bilgilerin toplanıp, takip sürecinin ardından Türk bilişim sektörünün küresel pazarda tanınmasını desteklemek amacıyla Türkçe ve İngilizce olarak hazırlandı. 
+     Araştırma, şirketlerin 51 kategorideki dikey bölümlemelerini, pazardaki toplam iş hacmini ve şirketlerin ciro sıralamasını gösteren veriler sunuyor, dünya, Avrupa ve Türkiye bilişim sektörü ile iş dünyasının beklenti ve eğilimlerini de ortaya koymayı amaçlıyor. 
+     Araştırmada, gelirlerinin tahmin edilmesini istemeyen 15 şirketin sıralamaya dahil edilmediği öğrenildi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 188576 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/14/son/soneko35.html </URL>
+<DATE> 2003/10/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Turkcell ve Telsim yeni bir tarife üzerinde anlaştı... 
+</HEADLINE>
+<TEXT>
+
+     GSM operatörleri Turkcell ve Telsim, iki şebeke arasındaki iletişimde yeni bir tarife üzerinde anlaştı. 
+     Turkcell'den Borsa'ya gönderilen açıklamaya göre, 23 Mayıs 2003 tarihinde yürürlüğe giren Erişim ve Arabağlantı Yönetmeliği uyarınca 4 Ekim 2001 tarihinde imzalanan ''Turkcell-Telsim Şebekelerarası İrtibat ve İşbirliği Sözleşmesi'' nin bazı hükümleri, ek bir protokol ile tadil edildi. 
+     Bugün itibariyle yürürlüğe giren ek protokole göre, Telsim ve Turkcell birbirleri şebekelerine doğru olan trafik için diğer tarafa dakikada net 210 bin lira ödeyecek. 
+     Bu ücret, protokole uygun olarak her üç ayda bir uyarlanacak ve 1 Mayıs 2004 tarihinde o gün ulaştığı tutar üzerinden yüzde 4,762 oranında tenzilata tabi tutulacak. Türk Lirası olarak belirlenen ücretler, taraflarca her üç ayda bir TÜFE ve bazı hallerde ABD dolarındaki değişiklikler de dikkate alınarak yeniden tespit edilecek. 
+     SMS'lerde taraflar, kendi şebekelerinden çıkıp diğer tarafın şebekesinde sonlanan SMS hizmeti için, diğer tarafa net 25 bin lira ücret ödeyecek. 
+     Ek protokolde yer alan ücretler, 31 Aralık 2004 tarihine kadar geçerli olacak. Bu tarihten itibaren ek protokol hükümlerine göre yeniden saptanacak. 
+     
+</TEXT>
+</DOC>

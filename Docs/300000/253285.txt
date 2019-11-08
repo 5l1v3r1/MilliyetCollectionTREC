@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 253285 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/06/son/soneko06.html </URL>
+<DATE> 2004/07/06/ </DATE>
+<TIME> 10.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Elektrik üretimi yüzde 7.1 arttı... 
+</HEADLINE>
+<TEXT>
+
+     Türkiye'nin elektrik üretimi, ilk altı ayda geçen yılın aynı dönemine oranla yüzde 7.1 oranında arttı. 
+     Enerji ve Tabii Kaynaklar Bakanlığı'ndan yapılan yazılı açıklamaya göre, geçen yılın ilk altı ayında 67.76 milyar kilovatsaat olan elektrik üretimi, bu yılın ilk yarısında yüzde 7.1 oranında artarak 72.57 milyar kilovatsaata yükseldi. 
+     Öte yandan, uygulanan politikalarla yerli kaynak kullanımına ağırlık verilmesi nedeniyle de, bu yılın ilk yarısında üretilen elektriğin yüzde 50'si yerli kaynaklardan sağlandı. 
+     Bu oran geçen yılın aynı döneminde yüzde 37 düzeyinde idi. 
+     
+</TEXT>
+</DOC>

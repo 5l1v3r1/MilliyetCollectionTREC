@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 370721 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/17/son/sonyas02.html </URL>
+<DATE> 2005/08/17/ </DATE>
+<TIME> 09.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft'un işletim sistemi Windows yeni bir virüs tehdidi altında 
+</HEADLINE>
+<TEXT>
+
+     
+     CNNTURK.com 
+
+     
+16 ağustos gece yarısı internetten yayılmaya başlayan bir virüs sistemin bazı platformlarında etkili oluyor. 
+     Amerika Birleşik Devletleri'nde pek çok şirket virüsten etkilendiğini açıkladı. 
+     
+     Büyük şirketleri etkiledi 
+
+     Virüs öncelikli olarak Windows 2000 platformunu etkiliyor. XP platformunun ilk versiyonlarını da etkileyebileceği belirtilen virüs girdiği bilgisyarın kapanıp açılmasına neden oluyor. 
+     ABD'de aralarında CNN International, The New York Times ve ABC gibi basın kuruluşlarının da bulunduğu pek çok şirket virüsten etkilendi. 
+     
+     Zotob'a benziyor 
+
+     Virüs henüz belirlenemedi, ancak hafta sonunda internette yayılmaya başlayan Zotob virüsünün benzer etkiler yapabileceği ifade edildi. 
+     Zotob virüsünün farklı versiyonlarının da dün gece itibariyle internette dolaşmaya başladığı belirtiliyor. Microsoft, Zotob için bir yama hazırlayarak internet sitesinde sunmaya başladı. 
+     
+</TEXT>
+</DOC>

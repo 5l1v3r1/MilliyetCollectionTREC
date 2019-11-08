@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 389215 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/24/son/soneko24.html </URL>
+<DATE> 2005/10/24/ </DATE>
+<TIME> 12.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+BKM Çipli kartta şifre uygulaması 3 ay ertelendi... 
+</HEADLINE>
+<TEXT>
+
+     Bankalararası Kart Merkezi tarafından çalışmaları sürdürülen çipli kredi kartı ile alışverişte şifre uygulaması, 3 ay ertelemeyle 31 Mart 2006 tarihinde hayata geçirilecek. 
+     Bankalararası Kart Merkezi'nden yapılan açıklamada, 1 Ocak 2006 tarihinde başlaması planlanan çipli kredi kartıyla alışverişte şifreyle ödeme döneminin, kart sahiplerinin şifre hakimiyetini sağlaması amacıyla 31 Mart 2006 tarihine ertelendiği kaydedildi. 
+     Mevcut durumda, kredi kartı sahiplerinin bir bölümünün alışverişlerde şifre sorulmaması ve kredi kartlarıyla nakit avans kullanmamaları nedeniyle kart şifrelerine hakim olmadığı belirtilerek, ''Bu 3 aylık dönemde, kart sahiplerinin şifrelerini öğrenmeleri, değiştirmeleri ve şifrelerin gizliliği ile ilgili çalışmalar yürütülecek. Ayrıca bu süre zarfında satış noktalarındaki yetkililerin ve personelin kredi kartı ile şifreli alışveriş uygulamasına hazır duruma gelmeleri için eğitim çalışmalarına da devam edilecek'' denildi. 
+     Açıklamada, 31 Mart 2006'da başlayacak çipli kredi kartına şifre uygulaması ile yeni bir dönemin başlayacağı dile getirilerek, şifre uygulaması ile birlikte çipli kredi kartları ile yapılan alışverişlerde kart sahiplerinden şifrelerini girmelerinin isteneceği vurgulandı. 
+     
+</TEXT>
+</DOC>

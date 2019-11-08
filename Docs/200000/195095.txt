@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 195095 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/12/son/sontur06.html </URL>
+<DATE> 2003/11/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilsat uydusundan görüntü akışı başladı... 
+</HEADLINE>
+<TEXT>
+
+     Türkiye, haberleşme uydularının ardından ilk mini araştırma uydusu BİLSAT sayesinde de uzaydan yararlanmaya başladı. TÜBİTAK Bilgi Teknolojileri ve Elektronik Araştırma Enstitüsü BİLTEN tarafından teknoloji transferi yöntemiyle üretilerek uzaya gönderilen BİLSAT, görüntü göndermeye başladı. 
+     İngiliz ve Türk mühendislerinin ortak çalışması olarak tasarlanarak üretilen ve 27 Eylül 2003 tarihinde Rusya Federasyonu'ndaki Plesetsk askeri üssünden fırlatılan Türkiye'nin ilk yer gözlem uydusu BİLSAT'tan ilk görüntüler alındı. 
+     BİLSAT uydusu, sahip olduğu yönelme belirleme ve kontrol sistemi sayesinde görüntüleme işlemleri sırasında yer üzerinde istenen bir noktaya çevrilebiliyor ve istenen noktayı görüntülerken yüksek hassasiyetle kontrol edilebiliyor. 
+     İngiltere, Cezayir ve Nijerya uydularının da bulunduğu ''Afet İzleme Takımuydu Sistemi''nin de bir üyesi olan uydunun, dünya çapında meydana gelen afetlerin incelenmesi için afet bölgesinin 24 saatten daha kısa bir süre içinde görüntü toplama görevi de bulunuyor. 
+     BİLSAT'tan ilk olarak yurtiçi ve yurtdışından olmak üzere 3 görüntü alındı. Uydu, 18 Ekim 2003 günü saat 12.11'de Cape Town G.Afrika, 30 Ekim 2003 günü saat 09.14'te İskenderun Körfezi Türkiye ve 6 Kasım 2003 günü saat 08.40'da Kuveyt'in görüntülerini ODTÜ'deki BİLTEN Uydu Merkezi'ne gönderdi. 
+     İlk görüntüler, uydunun görüntü toplama ayarlarını düzenlemek ve dünyanın herhangi bir yerinden istenildiğinde görüntü toplanabildiğini göstermek üzere yapıldı. Test niteliği taşıyan ilk görüntülerde en iyi netliği yakalayabilmek için Cape Town ve Kuveyt tercih edildi. Türkiye'de ise hava durumunun uygun olması nedeniyle İskenderun seçildi. 
+     TÜBİTAK BİLTEN, ''www.bilten.metu.edu.tr bilsat'' adresli internet sitesinde bundan sonra uydudan alınan görüntüleri yayınlayacak. Ayrıca, sitede uyduyla ilgili diğer bilgilere ulaşılabilecek ve yanıtlanması istenilen sorular bırakılabilecek. 
+     
+</TEXT>
+</DOC>

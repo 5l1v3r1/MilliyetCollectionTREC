@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 405649 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/22/son/soneko01.html </URL>
+<DATE> 2005/12/22/ </DATE>
+<TIME> 02.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones endeksi 10,834.13 puan 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Borsası'nda Dow Jones Sanayi Endeksi günü 28.58 puan artışla binde 2.6 10,834.13 puandan kapadı. 
+     General Motors şirketi hisse senetlerinin satışının körüklediği Wall Street'in teknoloji şirketleri ibresi olan ''yeni ekonomi'' göstergesi Nasdaq Bileşik Endeksi de 9.24 puan artışla binde 4.2 2,231.66 puandan noktalandı. 
+     
+</TEXT>
+</DOC>

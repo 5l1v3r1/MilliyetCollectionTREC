@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 241707 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/21/son/sonsiy14.html </URL>
+<DATE> 2004/05/21/ </DATE>
+<TIME> 14.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternetteki para tuzağı "Dialer" programı Meclis gündeminde... 
+</HEADLINE>
+<TEXT>
+
+     CHP Sinop Milletvekili Engin Altay, ''dialer'' programlarıyla internet üzerinden yapılan uluslararası bağlantı ücretlerinden Türk Telekom'un ne kadar pay aldığını sordu. 
+     Altay, Ulaştırma Bakanı Binali Yıldırım tarafından yanıtlanması istemiyle TBMM Başkanlığı'na verdiği soru önergesinde, internetteki bazı sitelerden yüklenen ''dialer'' yazılımlarıyla abonenin farkına bile varamayacağı yöntemlerle uluslararası bağlantılar gerçekleştirildiğini anımsattı. 
+     Telekom'un, ''para tuzağı olarak kullanılan'' bu yöntem ve servis ücret bilgilendirmesi konusunda gerekli önlemleri alacağı yerde, sadece web sitesinde bir duyuru yayınlamakla yetindiğini belirten Altay, dialer programların neden olduğu uluslararası bağlantılardan kullanıcıların faturalarına yansıyan bedelin yüzde kaçının Türk Telekom'a kaldığını ve 6 aylık dönem içerisinde faturalara yansıyan toplam miktarını sordu. 
+     Altay, ''Bu bağlantıları web sitenizde para tuzağı olarak belirtirken Telekom'un bu uygulamadan para kazanması bir çelişki değil midir '' sorusunu da yöneltti. 
+     
+</TEXT>
+</DOC>

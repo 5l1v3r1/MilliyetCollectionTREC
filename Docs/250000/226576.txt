@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 226576 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/29/son/soneko19.html </URL>
+<DATE> 2004/03/29/ </DATE>
+<TIME> 12.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Mercedes-Benz'den güvenli sürüş teknikleri... 
+</HEADLINE>
+<TEXT>
+
+     Mercedes-Benz Türk, filo müşterilerine güvenlik konulu eğitim ve test sürüşü günleri düzenledi. 
+     Mercedes-Benz Türk'den yapılan açıklamaya göre, DaimlerChrysler'in eğitim uzmanları eşliğinde gerçekleştirilen test sürüşlerinde, sürücülerin, araçlarının donanımında olan aktif güvenlik önlemlerini tanımaları ve deneyim kazanmaları hedeflendi. 
+     Sürücünün bireysel sorumluluğunun vurgulandığı bu eğitim programında, en ileri teknoloji ürünü olan güvenlik önlemlerinin dahi fizik kurallarını ortadan kaldıramayacağı, bunların sürücü konsantrasyonunu ve performansını destekleyerek tüm dikkatin trafiğe verilmesine yönelik olduğuna dikkat çekildi. 
+     Test sürüşlerinde sürücüler, gerçek hayatta karşı karşıya kalabilecekleri manevralarda hem kendilerinin hem de araçlarının sınırlarını yaşayarak gördüler. 
+     Özel hazırlanmış kaygan zemin üzerinde, tehlikeli durumlar simüle edilerek ABS, ASR, BAS, EBV ve ESP gibi elektronik güvenlik sistemlerinin işleyiş şekli ve kullanımları ele alındı. Bu sistemlerin, tüm tekerleklerinde standart olarak disk fren ile donatılan Mercedes-Benz hafif ticari araçlarda yaygın bir şekilde kullanıldığı bildirildi. 
+     Bugüne kadar Mercedes-Benz otomobillerinin donanımında olan bu sistemlerin tümü, kısa bir süre önce satışa sunulan yeni Vito ve Viano'da standart olarak sunuluyor. 
+     
+</TEXT>
+</DOC>

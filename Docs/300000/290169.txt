@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 290169 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/19/son/soneko43.html </URL>
+<DATE> 2004/11/19/ </DATE>
+<TIME> 18.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsada işlem gören hisse senetleri ortalama yüzde 0.19 değer kazandı 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası'nda İMKB işlem gören hisse senetleri, bugün ortalama yüzde 0.19 oranında değer kazandı. 
+     İMKB Ulusal 100 Endeksi, 1. seansta 12.11 puan artarak 22,144.70 puandan, 2. seansta da 32.00 puan artarak 23,176.70 puandan günü tamamladı. 
+     Endeksteki günlük kazanç, 44.11 puan ve yüzde 0.19 olarak hesaplandı. 
+     Hisse senetleri piyasasında toplam 895 trilyon 22 milyar 329 milyon liralık işlem hacmi oluştu. 
+     
+     DÖVİZ 
+     İstanbul'da serbest piyasada dün 1 milyon 451 bin liradan kapanan dolar güne 1 milyon 452 bin liradan, 1 milyon 889 bin liradan kapanan euro 1 milyon 885 bin liradan başladı. 
+     Kapanışta doların satış fiyatı 1 milyon 445 bin lira, euronun satış fiyatı 1 milyon 890 bin lira oldu. 
+     Merkez Bankası, doların bugünkü efektif kurunu alışta 1 milyon 437 bin 386 lira, satışta 1 milyon 447 bin 499 lira olarak açıkladı. 
+     Böylece dolar, Merkez Bankası'nın dünkü kurlarına göre, TL karşısında alışta 146 lira, satışta 147 lira değer kazandı. 
+     
+     TAHVİL-REPO 
+     İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda işlem gören 24 Mayıs 2006 vadeli tahvilin bugün valörlü işlemlerinde basit getiri yüzde 24.64, bileşik getiri yüzde 23.30 oldu. 
+     Bu kağıdın bugün valörlü işlemlerinin bileşik getirisi, önceki kapanışa göre 0.14 puan arttı. 
+     İMKB Tahvil ve Bono Piyasası Repo Pazarı'nda 3 günlük işlemlerde faiz ortalama yüzde 20.00'den gerçekleşti. 3 günlük işlemlerde en düşük oran yüzde 19.70, en yüksek oran yüzde 20.10 oldu. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 211247 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/26/son/soneko18.html </URL>
+<DATE> 2004/01/26/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+DPT Yeni liraya geçiş psikolojik olarak olumlu olacak 
+</HEADLINE>
+<TEXT>
+
+     Devlet Planlama Teşkilatı DPT , Yeni Türk Lirası'na geçişin, enflasyonla mücadeleye psikolojik olarak olumlu etkisi yanında, enflasyonist beklentilerin kırılmasının bu sayede mümkün olacağını bildirdi. 
+     DPT'nin, Yeni Türk Lirası Kanun Tasarısı hakkında hazırladığı bilgi notunda, dünyada en fazla rakamlı kupüre sahip 8 ülke arasında yer alan Türkiye'nin, bunlar içinde de banknotunun değeri milyonla ifade edilen tek ülke olduğu vurgulandı. 
+     Elektronik uluslararası para transferi SWIFT sisteminde 1 katrilyon biriminin üzerinde para transferi yapılamaması, standart olarak üretilen elektronik cihazların yüksek rakamlı işlemlere imkan vermemesi ve Türkiye'nin parasının üzerindeki fazla sıfırlarla anılmasının, TL'den sıfır atılmasının operasyonel yönden gerekliliğini ortaya koyduğu belirtildi. 
+     
+     SIFIR ATILMASINDA RİSKLER 
+     DPT'nin kanun tasarısı ile ilgili görüşünde, temel riskler olarak 'özel ve resmi kurumların belirtilen süre içerisinde teknik hazırlıklarını tamamlayamama, tek haneli enflasyona 2005 yılı başı itibariyle geçilememe ve fiyatların yuvarlanmasının enflasyon düşüşünde geçici sapma yaratma' olasılığının sıralandığı belirtildi. 
+     Bunun yanında enflasyon beklentilerini kırması, parasal hesapları kolaylaştırması ve TL'ye itibar kazandırması açısından, paradan sıfır atılmasının gerekli olduğunun vurgulandığı hatırlatıldı. 
+     
+     SIFIR ATILMASI ENFLASYONU YÜKSELTİR Mİ 
+     Bilgi notunda, TL'den sıfır atılmasının enflasyonu yükseltme riskine de değinildi ve AB örneği hatırlatıldı. 
+     Buna göre, son dönemde ulusal paraları yerine euroya geçen Avrupa ülkelerinde dönüşüm oranlarının çok fazla küsuratlı rakamlar olması nedeniyle, perakende fiyatlar euro cinsinden hesaplanırken küsurattan kurtulmak için, satıcılar tarafından yukarı yönde bir ayarlama yapıldığı görülüyor. Bu uyarlama neticesinde 6 aylık bir süreçte fiyatlar genel düzeyi binde 2 oranında arttı. 
+     Fakat Türkiye'de, bir milyona 1 gibi hesabı kolay bir oranla geçiş yapılacağından dolayı, bu etki, euro bölgesindeki kadar büyük olmayacak ve 1 yeni kuruşun 10 bin lira altındaki küsuratlarla sınırlı kalacak. 
+     
+     YILBAŞINDA GEÇİŞ ZORUNLU 
+     Zamanlama olarak yeni para birimine geçişin yıl başında gerçekleşmesi, muhasebe kayıtlarının ve mali bütçenin düzeni açısından zorunlu görünüyor. Eğer 2005 yılbaşında bu uygulamaya geçilmezse ancak 2006 yılı Ocak ayında geçiş mümkün olacak. 
+     Yaklaşan seçimler göz önüne alındığında 2005 tarihinin daha uygun olduğu vurgulanırken, bu açıdan 2005 yılı Ocak ayındaki kurban bayramının büyük önem taşıdığı, bayram nedeniyle artan emisyonla yeni TL'nin enjekte edilebileceği ifade edildi. 
+     Şu an itibariyle en yüksek banknotun 100 Yeni Lira olarak düşünüldüğü ifade edilirken, bunun pratikte faydalı olmakla birlikte Türk halkının alışık olmadığı bir kupür olduğu belirtildi. 
+     Yeni Lira'ya geçişin enflasyonla mücadeleye psikolojik olarak olumlu etkisi olacağı, enflasyonist beklentilerin kırılmasının bu sayede mümkün olacağı ve güçlü bir lira imajı ile paradan sıfır atılmasının enflasyon hedeflemesine geçiş için bir aşama olacağı vurgulandı. 
+     
+</TEXT>
+</DOC>

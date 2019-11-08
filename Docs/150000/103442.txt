@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> 103442 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/08/23/dunya/tur.html </URL>
+<DATE> 2002/08/23/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dünya turu 
+</HEADLINE>
+<TEXT>
+
+     Sağır ve dilsize simültane eldiven’ 
+     DIŞ HABERLER 
+
+     Sağır ve dilsizlerin işaret dili için tercüman eldiven geliştiriliyor. Avustralya’daki New South Wales Üniversitesi’nde geliştirilen projede, işaret dilini kullanan kişinin giydiği eldiven bir bilgisayara bağlanıyor ve işaretleri bilgisayar ekranında yazılı halde İngilizce’ye dönüştürülüyor. Sistem son denemelerde işaret dilini yüzde 95 doğrulukla çevirse de, aşılması gereken iki zorluk var İşaret dilinin konuşma dilindeki bir cümlede yer alan her kelimeyi kullanmaması ve kol boyları farklı kişilerin işaretleri arasında da bazı farklar bulunması. 
+     
+
+
+
+ DÜNYA 
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

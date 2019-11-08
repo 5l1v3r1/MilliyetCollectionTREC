@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 239022 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/11/son/soneko01.html </URL>
+<DATE> 2004/05/11/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones, 5 aydır ilk kez 10 puanın altına düştü 
+</HEADLINE>
+<TEXT>
+
+     New York borsasının temel göstergesi Dow Jones endeksi, 10 Aralık 2003'ten beri ilk kez 10 bin puanın altına düştü. 
+     Dow Jones, 127.32 puan düşerek, haftanın ilk işlem gününü 9,990.02 puandan kapadı. 
+     Teknoloji endeksi Nasdaq da 21.89 puan azalarak 1,896.07 puana indi ve 21 Kasım 2003'ten bu yana en düşük seviyeyi gördü. 
+     
+</TEXT>
+</DOC>

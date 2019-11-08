@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 195059 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/12/son/soneko31.html </URL>
+<DATE> 2003/11/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Oyunlu cep telefonlarına hacker tuzağı... 
+</HEADLINE>
+<TEXT>
+
+     Nokia yetkilileri, N-Gage model cep telefonu oyunlarının güvenlik şifrelerinin ''hacker''lar tarafından kırıldığını doğruladı. 
+     Nokia'nın özellikle ateri tarzı oyunları sevenlere yönelik piyasaya çıkardığı N-Gage model telefonların oyunlarının kopyalanması, dağıtılması ve diğer Nokia cep telefonlarına uyarlanmasını engelleyen güvenlik şifreleri, kişilerin şahsi bilgisayarlarına veya çeşitli kuruluşların bilgisayar ağlarına izinsiz giren hackerlar tarafından kırıldı. 
+     Böyle bir şeyin başlarına gelmesini beklediklerini belirten firma yetkilileri, fikri mülki hakların korunduğuna da dikkat çektiler. 
+     Şifrelerin kırılması çeşitli internet sitelerinden oyunların yüklenmesine olanak sağlarken, yetkililer buna yönelik sert önlemler alacaklarını ifade ederek, daha güçlü ve gelişmiş bir koruma mekanizması üzerinde çalışacaklarını kaydettiler. 
+     Video oyunların ''online'' olarak, mobil ortamda ve çoklu oyuncu katılımı ile oynanmasına olanak sağlayan N-Gage model telefonlar, MP3 ve FM radyo, tri-band ve Bluetooth kablosuz ağ bağlantısı gibi üstün teknolojik özelliklerine sahip bulunuyor. 
+     
+</TEXT>
+</DOC>

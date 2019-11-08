@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 348247 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/02/son/soneko55.html </URL>
+<DATE> 2005/06/02/ </DATE>
+<TIME> 18.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Serbest piyasada avro 1.6600 YTL.. 
+</HEADLINE>
+<TEXT>
+
+     İstanbul ve Ankara serbest piyasalarında alınıp satılan döviz türlerinin, dün ve bugün itibariyle alış ve satış kapanış fiyatları şöyle 
+     
+
+İSTANBUL SERBEST PİYASA Çarşamba Alış Çarşamba Satış Perşembe Alış Perşembe Satış ABD Doları 1.3610 1.3660 1.3470 1.3520 Avro 1.6680 1.6730 1.6520 1.6600 İng. Sterlini 2.4450 2.4750 2.4350 2.4550 İsviçre Frangı 1.0770 1.0900 1.0750 1.0900      
+
+ANKARA SERBEST PİYASA Çarşamba Alış Çarşamba Satış Perşembe Alış Perşembe Satış ABD Doları 1.3640 1.3740 1.3460 1.3560 Avro 1.6690 1.6820 1.6510 1.6640 İng. Sterlini 2.4580 2.4950 2.4330 2.4650      
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 103204 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/08/21/son/sontur06.html </URL>
+<DATE> 2002/08/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternet zammına tepki... 
+</HEADLINE>
+<TEXT>
+
+     Türk İnternet Birliği TİB , Türk Telekom tarafından internet ücretine yapılan yüzde 18'lik zammın internetin kullanımını, dolayısıyla Türkiye'nin gelişimini engelleyeceğini öne sürdü. 
+     TİB, zamma tepki amacıyla açtığı ''www.turkcenet.com'' sitesinde, her fırsatta teknoloji ve interneti kullanmayı teşvik eden eğitimci ve bilişimciler olarak, yükselen internet fiyatları nedeniyle teknolojinin yaygınlaşamamasından endişe ettiklerini duyurdu. 
+     İnterneti yaygınlaştırmanın, yaşamı kolaylaştırması açısından devletin görevleri arasında olduğu kaydedilen sitede, şu görüşlere yer verildi 
+     ''Zammın geri alınmasını ve bundan sonra yapılacak zam oranlarının da bir takvime bağlanarak, keyfilikten uzak tutulması gerektiğine inanıyoruz. Dünya, telekom ve ona bağlı internet sektörünü özelleştirerek rekabete açmış, yeni jenerasyon uygulamalara geçmiş, oluşturulan teknoloji ve piyasa ürünleriyle internet ücretleri bedava denebilecek düzeylere inmiştir. İnternet, teknoloji yaratımı ve ürün geliştirme demektir. İsrail yarattığı teknolojilerle yılda 21 milyar dolarlık ihracat yapar duruma gelmiştir. Özetle internetin kullanımını engellemek Türkiye'nin gelişimini engellemek demek olacaktır. İnternet sayesinde ufku genişleyen insanlarımız daha üretken olacaklar ve daha büyük katma değerler oluşturabileceklerdir.'' 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

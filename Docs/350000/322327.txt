@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 322327 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/09/son/sonyas11.html </URL>
+<DATE> 2005/03/09/ </DATE>
+<TIME> 13.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Şeker hastasını hücre nakli yoluyla iyileştirdiler 
+</HEADLINE>
+<TEXT>
+
+     İngiltere'de birinci tip şekerden muzdarip hasta, pankreas hücresi nakli yoluyla iyileştirildi. 
+     Londra'daki King's College hastanesinden yapılan açıklamaya göre, 61 yaşındaki erkek hasta artık kendisine ensülin enjekte etmek zorunda kalmayacak. 
+     Hücre nakli, Kanada'daki Edmonton üniversitesinden gelen ekip tarafından yapıldı. Beyni ölen bir hastadan pankreasın ensülin salgılayan Langerhans hücreleri alındı. Bunlar hastanın karaciğere giden damarına üç posta enjekte edildi. Hücreler bu yolla pankreasa değil karaciğere yerleşerek ensülin salgılamaya başladı. 
+     Yöntemin Kanada'da da üç yıl önce uygulandığı, bu yolla iyileşen 60 hastanın yarısının bu süre zarfında hiç ensülin kullanmadığı belirtildi. 
+     
+</TEXT>
+</DOC>

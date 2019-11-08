@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 332415 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/12/spor/spo29.html </URL>
+<DATE> 2005/04/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Siz hakem olsaydınız 
+</HEADLINE>
+<TEXT>
+
+
+
+Kendi ceza alanında bulunan bir oyuncu, ceza alanı dışındaki rakibine hakaret edici bir şekilde konuşmuştur. Oyunu durduran hakem, aşağıdaki kararlardan hangisini vermelidir 
+a İhraç - direkt serbest vuruş 
+b İhtar - direkt serbest vuruş 
+c İhraç - ceza alanı içinde endirekt serbest vuruş 
+d İhraç ceza alanı dışında endirekt serbest vuruş 
+
+Dünkü cevap 
+A Endirekt serbest vuruş 
+
+
+</TEXT>
+</DOC>

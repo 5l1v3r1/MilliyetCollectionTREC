@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 63166 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/01/19/son/sontur14.html </URL>
+<DATE> 2002/01/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+RTÜK'ün sitesi hack'lendi 
+</HEADLINE>
+<TEXT>
+
+     Radyo Televizyon Üst Kurulu'nun RTÜK 
+     internet sitesi ''hacker''lar tarafından silindi. 
+     ''www.rtuk.org.tr'' adresindeki sitede, ''hack by genhacker'' yazılı bir not bulunuyor. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

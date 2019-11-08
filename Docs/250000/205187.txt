@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 205187 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/29/son/sontur11.html </URL>
+<DATE> 2003/12/29/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hayatı kurtaran icat Akıllı bilezik... 
+</HEADLINE>
+<TEXT>
+
+     Bahçeşehir Üniversitesi Bilgisayar Mühendisliği Bölümü Öğretim Üyesi Prof. Dr. Ali Okatan, ''Akıllı Bilezik'' adını verdiği icadıyla hayat kurtarmayı amaçlıyor. 
+     Prof. Dr. Okatan, pek çok kişinin yaşlı ya da hasta olan yakınlarını, anne ya da babalarını evde bırakıp işe gitmek zorunda olduğunu ancak gün boyunca akıllarının da evde kaldığını ifade ederek, ''Benim de babam 80 yaşında. Gün içinde sağlık durumunun ne olduğunu bilmek istiyorum'' dedi. 
+     Üç yıl süren bir çalışma sonucu evinde yaşlı ya da hastası olanları rahatlatacak bir cihaz geliştirdiğini anlatan Prof. Dr. Okatan, şunları söyledi 
+     ''Akıllı Bilezik adını verdiğim bu cihaz, bakıma muhtaç, hasta ve yaşlı insanların sağlık durumlarını, GSM teknolojisi ile elektroniği birleştirerek takibini yapıyor. Normal bir saat görünümünde olan bu cihaz vücut ısısını, kan basıncını ve kalp atış sayısını belirli bir merkeze periyodik olarak gönderiyor. 
+     Hasta ya da yaşlı kişi kendini çok kötü hissederse, saat üzerindeki bir düğmeye basarak sağlık kurumu, daha önceden belirlenen bakıcı, akraba, oğlu ya da kızının telefonlarını arayarak imdat çağrısı yapabiliyor. 
+     Bunun için konuşma yapması gerekmiyor. Cihaz içindeki mesaj hem cep telefonlarına yazılı, hem de sabit telefonlara sesli mesaj olarak gidiyor. Ayrıca, sağlık kurumundaki doktor da, bilgisayarından hastaya ait verileri isterse sürekli olarak takip edebiliyor.'' 
+     
+     ALZHEİMER HASTALARINI DA TAKİP EDİYOR 
+     Alzheimer hastaları için cihazın içine bir başka özellik daha eklediğini anlatan Prof. Dr. Okatan, ''Alzheimer hastaları dışarı çıkıyor ve tekrar geri dönemiyor. Siz istediğiniz zaman cihazın verdiği sinyalle o kişinin harita üzerinde nerede olduğunu görüyorsunuz'' dedi. 
+     Cihazın GSM şebekesi üzerinden çalıştığı için ucuz bir sistem olduğunu da kaydeden Prof. Dr. Okatan, sistemi normal bir saatin içini sökerek monte ettiğini, bir kablo kanalıyla da küçük bir batarya sisteminden enerji aldığını bildirdi. 
+     ''Akıllı Bilezik'' için patent başvurusunda bulunduğunu da dile getiren Prof. Dr. Okatan, ''Cihazın fiyatı 150-200 dolar olacak. Daha şimdiden sadece çevremde cihazı duyanlardan 25-30 tane sipariş aldım'' diye konuştu. 
+     Prof. Dr. Okatan'ın, ''otomobiller için kara kutu ve uydu takip sistemi'', ''pilsiz dizüstü bilgisayarı'' ve ''uzaktan fabrika ve ev otomasyon cihazı'' gibi başka icatları da bulunuyor. 
+     
+</TEXT>
+</DOC>

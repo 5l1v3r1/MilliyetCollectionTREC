@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 288173 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/11/son/sonyas02.html </URL>
+<DATE> 2004/11/11/ </DATE>
+<TIME> 10.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İşte 3. kuşak cep telefonları... Artık birbirini görerek konuşulacak 
+</HEADLINE>
+<TEXT>
+
+     Yıllardır beklenen ve cep telefonu teknolojisini tümüyle değiştirecek 3. kuşak 3G cep telefonları piyasaya çıktı. 
+     İngiliz mobil telefon devi Vodafone'un 13 Avrupa ülkesinde bugün başlattığı 3G cep telefonu sistemi ile ''kullanıcıların birbirini görerek konuşmaları, vizyondaki en yeni filmleri ya da televizyon izlemek, video konferans görüşmesi yapmak, çocukları ya da yaşlıları telefonla görerek kontrol edebilmek'' mümkün olacak. Şu anki standart GPRS telefonlardan 5 ila 10 kez daha yüksek internet bağlantısıyla saniyede 384 kilobit veri transfer edebilen ve teknik adıyla UMTS olan yeni sistemi kullanabilmek için 3G adı verilen fotoğraf makinesi ve iki kamera ile donatılmış özel telefonlardan edinmek gerekli. 
+     Servis sağlayıcı şirketler tarafından bir miktar sübvanse edilmelerine karşın Avrupa'da 3G telefonların satış fiyatı 200 ila 500 euro arasında bulunuyor. 
+     Vodafone'un yeni kuşak cep telefonu sistemi için 20 milyar doları aşkın harcama yaptığı belirtiliyor. 
+     
+     2010'DA 1 TRİLYON DOLAR 
+
+     Cep telefonu teknolojisini tümüyle değiştirecek 3. kuşak telefonların 2010 yılında dünya çapında tam 1 trilyon dolar tutarında bir pazar oluşturacağı tahmin ediliyor. 
+     3G, bugünkü mobil teknolojiden farklı olarak yeni bir frekans bandından ve daha fazla bant genişliğinden yararlanarak ses, görüntü, internet gibi multimedia uygulamalarını mobil alana taşıyacak yeni nesil iletişim teknolojisi. 
+     3G telefonlarıyla internet üzerinden oyunlar oynamak, televizyon ya da film seyretmek, video konferans görüşmesi yapmak mümkün olacak. Bunun dışında evde kontrol altında tutmak istenen küçük çocuklar ya da yaşlıların nasıl olduğunu cep telefonunuzdan izleyebilmek de olası. 
+     3G teknolojisi için gerek mobil şebeke altyapısı gerekse mobil telefonlar oldukça önemli değişimlere uğrayacak. 
+     Cep telefonu servis sağlayıcılarından oluşan UMTS Forum'un araştırmasına göre 3G telefonlar başlangıçta yavaş bir gelişim izleyecek ancak 2005 yılından itibaren hızla popülerleşmeye başlayacak. 
+     Son dönemde 3G telefonları üzerine yapılmış bütün araştırmaların analizine dayanılarak hazırlanan tahminlerde, 2010 yılına gelindiğinde ortalama bir abonenin data bilgi servisleri için ayda 30 dolar, aramalar için ise 12 dolar harcayacağı öngörülüyor. 
+     Araştırmalar, Avrupa ve Asya pazarlarındaki müşterilerin ''infotainment'' olarak adlandırılan bilgi information ve eğlenceyi entertainment bir araya getiren video klipler, online bankacılık, bilet rezervasyonu gibi hizmetlere ilgi gösterirken, Amerikalı kullanıcıların telefonlarını daha çok internette sörf yapmak ve yerel bilgilere ulaşmak için kullanacağını gösteriyor. 
+
+     
+</TEXT>
+</DOC>

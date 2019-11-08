@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 313127 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/07/son/soneko16.html </URL>
+<DATE> 2005/02/07/ </DATE>
+<TIME> 12.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Merkez Bankası'ndan ikinci e-posta uyarısı... 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası, ''Merkez Bankası Genel Güncelleme Formu'' başlığıyla gönderilen sahte E-posta mesajıyla kullanıcıların yönelmesi istenen web adresinin, kendileriyle ilgisi olmadığını bildirdi. 
+     Merkez Bankası'ndan yapılan duyuruda, e-posta yoluyla web adreslerine yönlendirilen ve kişisel bilgilerin girilmesinin istendiği formların, asla doldurulmaması gerektiği vurgulandı. Duyurda, şu uyarılar yer aldı 
+     ''Bankamız ismi kullanılarak e-posta yoluyla dolandırıcılık girişimi konusunda 26 Ocak 2005 tarihli duyurumuzda elektronik posta yoluyla işlem yaptırmak ya da bilgi toplamak gibi bir uygulamamız olmadığı kamuoyunun bilgisine sunulmuştu. 
+     Bu kez yine aynı yöntemle ve Bankamız logosu da kullanılarak, sözde Merkez Bankası Genel Güncelleme Formu başlığıyla gönderilen bir sahte e-posta mesajında yer alan bağlantı adresinden giriş yapılması istenmekte ve Bankamızla hiçbir ilgisi olmayan bir web adresine yönlendirme yapılmaktadır. 
+     E-posta yoluyla web adreslerine yönlendirilen ve kişisel bilgilerinizin girilmesinin istendiği formların asla doldurulmaması gerektiğini bir kez daha önemle hatırlatırız.'' 
+     
+</TEXT>
+</DOC>

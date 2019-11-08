@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 314423 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/11/son/soneko19.html </URL>
+<DATE> 2005/02/11/ </DATE>
+<TIME> 11.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ocak ayında en fazla kazandıran borsa oldu... 
+</HEADLINE>
+<TEXT>
+
+     Ocak ayında finansal yatırım araçlarından en fazla kazandıranı borsa oldu. 
+     Devlet İstatistik Enstitüsü'nün DİE hesaplamalarına göre, Ocak ayındaki Tüketici Fiyat Endeksi'ndeki TÜFE artış çıkarıldığında borsa endeksi, yatırımcıya yüzde 9,87 reel getiri sağladı. 
+     En çok kazandıran yatırım araçları listesinde borsanın ardından aylık yüzde 1,02 brüt getiriyle mevduat faizi yeralırken, dolar yüzde 3,34, Avro yüzde 5,21, külçe altın da yüzde 7,45 oranında yatırımcısına reel zarar ettirdi. 
+     Yıllık olarak en yüksek reel getiriyi de, TÜFE'deki artış indirgendiğinde yüzde 27.95 reel getiriyle yine borsa endeksi sağlamış oldu. 
+     Brüt mevduat faizinin yıllık getirisi yüzde 14,06 düzeyinde gerçekleşti. Yıllık bazda reel olarak dolar yüzde 7,80, avro yüzde 3,91, külçe altın da yüzde 4,36 oranında zarar ettirdi. 
+     Finansal yatırım araçlarının Ocak ayı itibariyle TÜFE ile indirgenmiş, bir önceki aya oranla aylık ve bir önceki yılın aynı ayına oranla yıllık getiri oranları şöyle 
+     
+
+FİNANSAL YATIRIM ARAÇLARI AYLIK GETİRİ YILLIK GETİRİ Borsa Endeksi 9,87 27,95 Mevduat faizi Brüt 1,02 14,06 Dolar -3,34 -7,80 Avro -5,21 -3,91 Külçe altın -7,45 -4,36      
+</TEXT>
+</DOC>

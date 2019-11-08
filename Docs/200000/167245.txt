@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 167245 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/04/son/sondun02.html </URL>
+<DATE> 2003/07/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İdrar yolu enfeksiyonlarının neden tam tedavi edilemediği anlaşıldı 
+</HEADLINE>
+<TEXT>
+
+     İdrar sistemindeki ''E. coli'' tipi bakterilerin yok açtığı enfeksiyonların, en güçlü antibiyotiklerle bile neden sonuna kadar tedavi edilemediği anlaşıldı. 
+     Amerikalı bilim adamlarının yaptıkları, Science dergisinde yayımlanan araştırma sonuçlarına göre bakteri, idrar torbasında özel bir tipte, adeta kale gibi koloniler oluşturarak, en güçlü antibiyotiklere veya vücut bağışıklık sisteminin bu mikropları etkisiz hale getirmek üzere ürettiği antikorlara karşı direniyor. 
+     Washington Üniversitesi'nde yapılan araştırmadan elde edilen sonuçlara göre, idrar torbası içindeki hücrelere giren bakteri, burada kendisine, ''biofilm'' adı verilen bir duvar oluşturuyor ve bu şekilde biraraya gelen, binlerce bakteriden oluşan koloni, dışarıdan gelen her tür saldırıya karşı kendisini koruyor. Koloni, yumurta kartonunda sıralanmış yumurtaların görünümüne sahip. 
+     Bu gözlemler, güçlü bir elektro-mikroskopla, fareler üzerinde yapıldı. Ancak bilim adamları, bunun insanlarda da gerçekleşmemesi için bir neden olmadığını belirtiyorlar. 
+     Bu keşif, yeni ilaçların geliştirilmesini gerekli kılıyor. 
+     
+</TEXT>
+</DOC>

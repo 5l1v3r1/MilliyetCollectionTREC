@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 298221 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/16/son/soneko51.html </URL>
+<DATE> 2004/12/16/ </DATE>
+<TIME> 23.42 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsası kararsız tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası haftanın dördüncü işlem gününü kararsız tamamladı. 
+     Borsada dünkü kapanışına göre 14.11 puan yükselen Dow Jones sanayi endeksi 10,705.56 puandan kapandı. 
+     Dow Jones endeksinin aksine gerileyen Nasdaq teknoloji endeksi ise 16.40 puan kayıpla 2,146.15 puana indi. 
+     ABD'de ekonomik göstergelerin çelişkili olması borsanın kararsızlığında etkili oldu. 
+     New York Ticaret Borsası'nda dün 440.80 dolardan kapanan altının onsu, bugünkü kapanışında 436.90 dolara geriledi. 
+     
+</TEXT>
+</DOC>

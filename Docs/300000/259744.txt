@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 259744 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/01/son/soneko02.html </URL>
+<DATE> 2004/08/01/ </DATE>
+<TIME> 09.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türk Telekom'un yeni tarifeleri uygulamaya geçti... 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekom A.Ş'nin yeni tarifeleri, bugünden 00.01 itibaren uygulanmaya başlandı. 
+     Türk Telekom, yaklaşık 19 milyon abone için 5 ayrı paket belirledi. Şirket Hat, Konuşkan Hat, Standart Hat, Hesaplı Hat ve Yazlık Hat şeklindeki tarifelerde, konuşma ücretlerinde yeni bir sistem uygulanacak. 
+     Hesaplı Hat'tı seçenler, eskiden olduğu gibi 7 milyon 200 bin lira sabit ödemenin karşılığında 100 kontör almaya devam edecekler, ancak 100 kontörü aştıklarında farklı bir tarife üzerinden ücretlendirilecek. 
+     Tarifelerden Standart Hat'ta 11 milyon 500 bin, Konuşkan Hat'ta 20 milyon, Şirket Hat'ta 40 milyon, Yazlık Hat'ta sadece bu hat için yıllık 86 milyon 400 bin lira sabit ücret ödenecek. 
+     Yurtdışı ve şehirler arası görüşme ücretlerinde indirim yapılırken, daha önce birkaç türde uygulanan indirimler kaldırılarak bunun yerine şehir içi görüşmeler ve internet bağlantısında her gün 20.00-08.00 arası ve pazar günleri yüzde 50 indirim sağlandı. Yeni sistemde tarifelerdeki ücretler 1 dakika üzerinden belirlenecek ve kontör ücreti bir dakikalık şehir içi ücretleriyle aynı tutulacak. 
+     Abonelerin tarifelerden hangisini seçmeleri gerektiği konusunda Türk Telekom daha önce çalışma yaparak, abonelerin son bir aylık görüşmelerini inceledi ve son faturalarda tarife seçimi konusunda tavsiyede bulundu. Türk Telekom, ayda 10 milyon liralık ve altında görüşme yapan dar gelirli yaklaşık 6 milyon abonenin Hesaplı Hat'ta geçmesi için ayrı bir uyarı da yaptı. 
+     
+     SEÇİM SÜRECİ UZADI 
+     Türk Telekom, tarife seçimi için başvuru süresini 24 Ağustos'a kadar uzattı. Abonelerin çoğunlukla tatilde olması nedeniyle tarife seçimini yapamadığını göz önünde bulunduran Türk Telekom, 24 Ağustos'a kadar yapılacak hat seçimlerinin 1 Ağustos'ta yapılmış gibi işlem göreceğini bildirdi. 
+     Türk Telekom, ağustos ayı fatura hesaplanmasında da 1 Ağustos tarihini esas alacak ve eylül ayında vatandaşların eline geçecek ağustos dönemi faturası, seçilen tarife üzerinden ücretlendirilecek. 
+     Aboneler, 24 Ağustos'a kadar Türk Telekom işyerleri, Türk Telekom bayileri ve PTT'nin yanı sıra 444 5 444 numaralı faks aracılığı ile tarife tercihinde bulunabilecekler. Türk Telekom, 444 1 444 numaralı müşteri hizmetleri servisi ile internet sayfasından da tarife seçimi konusunda bilgi aktarmayı sürdürecek. Tarife tercihinde bulunmayan abonelere ise Standart Hat tarifesi üzerinden fatura kesilecek. 
+     
+     YIL SONUNDA KONTÖR DEVRİ YAPILMAYACAK 
+     Tarifelerden Hesaplı Hat ve Yazlık Hat, aynı yıl içerisinde bir kez, diğer tarife paketleri ise istenildiği zaman değiştirilebilecek. Hesaplı Hat ve Yazlık Hat tarifelerinden diğer tarifelere geçerken, biriken kontör hakları devredilmeyecek. Hesaplı Hat'taki kullanılmayan kontörler gelecek aya devredilecek, ancak gelecek yıla aktarılmayacak. 
+     Ankesörlü telefonlar ise Standart Hat tarifesine göre ücretlendirilecek. Kontörlü gişe telefonları ve bayi telefonlarından yapılacak görüşmelere de Standart Hat üzerinden kontör ücreti uygulanacak, ancak aylık sabit ücret alınmayacak. 
+     Bu arada, Türk Telekom, daha önce başlattığı ''peşin kontör'' uygulamasına da son verdi. 1 Ağustos 2004 tarihinden önce peşin alınan kontör hakları ise avans olarak değerlendirilecek. 
+     
+</TEXT>
+</DOC>

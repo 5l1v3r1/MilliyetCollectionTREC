@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 300717 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/24/son/sonyas01.html </URL>
+<DATE> 2004/12/24/ </DATE>
+<TIME> 02.01 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Robot dalgıçlar 2 bin metrede iklim ipucu arayacak 
+</HEADLINE>
+<TEXT>
+
+     Merih KALENDER SYDNEY, DHA 
+
+AVUSTRALYALI deniz bilimcileri, iklim ve denizlerdeki fiziksel değişikliklerini incelemek amacıyla 17 adet robot dalgıçla denizaltında araştırmalara başladı. Batı Pasifik ve Antartika'da sürdürülecek araştırmalar deniz yüzeyinin yaklaşık 2 kilometre altında yapılacak. Araştırmalar özellikle ekolojik sistemler, denizaltındaki su hareketleri ve olası yeni deniz canlısı türlerini kapsıyor. 
+     Robot dalgıçlarla yapılacak araştırmaların yaklaşık 5 yıl sürmesi planlanıyor. Robotlardan gelen ısı değişimi verilerinin Argos uydusuyla takip edileceğini açıklayan Dr. Steve Rintoul "Bu araştırmalar yerkürede meydana gelen iklim değişikliğinin nedenlerine ışık tutacak" dedi. 
+     
+</TEXT>
+</DOC>

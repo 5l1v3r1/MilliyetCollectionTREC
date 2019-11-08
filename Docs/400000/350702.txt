@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 350702 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/10/son/soneko47.html </URL>
+<DATE> 2005/06/10/ </DATE>
+<TIME> 16.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Merkez Bankası reel kesim güven endeksi 102.8 seviyesine indi... 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası Reel Kesim Güven Endeksi Mayıs ayında, bir önceki aya göre 0.7 puan azalarak 102.8 seviyesinde gerçekleşti. 
+     Merkez Bankası, Mayıs ayına ilişkin olarak İktisadi Yönelim Anketi Reel Kesim Güven Endeksi sonuçlarını açıkladı Buna göre, bir önceki yılın aynı dönemine göre karşılaştırma yapıldığında ise endeksin yüzde 4.3 oranında azaldığı gözlendi. 
+     Endeksi oluşturan anket sorularına ait yayılma endeksleri Nisan ayına kıyasla incelendiğinde, üretim hacmi, ihracat imkanları ve toplam istihdam beklentileri endeksi olumsuz yönde etkileyen en önemli kalemler oldu. 
+     Bunu genel gidişat konusundaki görüşler ile yatırım harcaması beklentisi takip etti. Öte yandan, endeksi pozitif yönde etkileyen kalemler, iç pazara satılan mal hacmi, mamul mal ve hammadde stok eğilimleri olarak belirlendi İç pazara satılan mal hacminde mevsimselliğin olumlu etkisi gözlenirken, toplam sipariş eğiliminde önemli bir değişiklik gözlenmedi. 
+     Bir önceki yılın Mayıs ayına göre karşılaştırma yapıldığında ise mamul mal stok miktarı eğilimi dışındaki alt kalemlerin tümünde azalış olduğu gözlendi 
+     
+</TEXT>
+</DOC>

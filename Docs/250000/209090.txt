@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 209090 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/16/son/soneko32.html </URL>
+<DATE> 2004/01/16/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa günü yüzde 3.44'lük kayıpla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Bileşik Endeksi 2. seansta 304.28 puan düşüşle 18,301.16 puandan kapandı. 
+     Hisse senetleri 2. seansta ortalama yüzde 1.64 oranında değer yitirdi. 
+     İlk seanstaki 346.78 puanlık düşüş dikkate alındığında Borsa endeksi, günün tamamında 651.06 puan geriledi. Hisse senetlerindeki günlük değer kaybı da yüzde 3.44 oldu. 
+     İMKB'de günlük işlem hacmi 688.9 trilyon olarak gerçekleşti. 
+     
+</TEXT>
+</DOC>

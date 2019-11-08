@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 380275 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/21/son/soneko47.html </URL>
+<DATE> 2005/09/21/ </DATE>
+<TIME> 16.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türkiye'nin en uzun tünelinin sistemini Siemens gerçekleştirecek... 
+</HEADLINE>
+<TEXT>
+
+     Türkiye'nin en uzun karayolu tüneli olan Nefise Akçelik Tüneli'nin tüm elektrik ekipmanları ve sisteminin Siemens tarafından gerçekleştirileceği bildirildi. 
+     Siemens'ten yapılan açıklamada, Ordu'nun Fatsa İlçesi Bolaman Beldesi'ndeki tünelin elektrik sisteminin Nurol, Tekfen ve Yüksel İnşaat şirketlerinden oluşan NTY Konsorsiyumu tarafından Siemens'e verildiği, projenin şirketin Endüstriyel Çözümler ve Hizmetler Grubu tarafından anahtar teslim gerçekleştirileceği kaydedildi. 
+     Tünelde gerçekleştirilecek proje kapsamında, tünelin güç kaynağı, ışıklandırma ve havalandırma ekipmanlarıyla birlikte, güvenlik, sensör ve iletişim sistemleri de sağlanacak. 
+     Görüş mesafesi ve hava kalitesi, sensörler aracılığı ile düzenli olarak izlenecek. Tünel projesi başlamadan önce, havalandırma sisteminin kontrol yönteminin denendiği, normal şartların yanı sıra, tıkanıklık ve yangın gibi acil durum senaryolarının da simülasyonunun yapıldığı kaydedildi. 
+     Altyapının kurulmasının ardından Tünel Kontrol Merkezi, tüm işletim ve trafik verilerini bir yerde toplayacak ve aynı zamanda da tüneldeki trafik durumunu izleyecek. 
+     Siemens'in tünelde kuracağı güvenlik ekipmanlarının yanı sıra, kendine ait su hattı ve pompalama istasyonuna sahip bir yangın tespit ve söndürme sistemini de mevcut. Trafiğin gözlenmesi için kamera ve video izleme ekipmanları da yer alacak. Trafik sıkışmaları ve kazalar ile duman seviyesinin tespiti otomatik olay tespit sistemi ile sağlanacak. Ses aktarımı içinse, bir acil durum çağrı sistemi ve tünel telsiz sistemi kullanılacak. 
+     Kontrol merkezine ulaşan işletim ve trafik verileri, trafik ışıkları ve tünel içerisindeki öncesindeki değişken mesaj işaretleri için kontrol programlarına dönüştürülecek. Bu şekilde, sürücüler mevcut durum hakkında devamlı olarak bilgilendirilmiş olacaklar. 
+     İki tüpten oluşan tünelin 2005 Aralık ayı sonunda trafiğe açılmasının planlandığı, Siemens'in kurulan sistemin işletilmesinden de iki yıl boyunca sorumlu olacağı kaydedildi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 405923 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/23/son/sondun05.html </URL>
+<DATE> 2005/12/23/ </DATE>
+<TIME> 08.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İngiliz Financial Times, Google'ın kurucularını yılın adamları seçti 
+</HEADLINE>
+<TEXT>
+
+     İngiliz Financial Times gazetesi, internet dünyasının en çok kullanılan arama motoru olan dev internet portalı ''Google''ın kurucuları Larry Page ve Sergey Brin'i, ''Yılın Adamları'' seçti. 
+     Gazete, Google'ı 7 yıl önce kuran ve ikisi de şu anda 32 yaşında olan Page ve Brin'in, şirketlerinin 130 milyar doları bulan pazar payı nedeniyle bu unvana layık bulunduğunu yazdı. 
+     FT, genç girişimcilerin ''yılın adamı'' unvanı için çekiştiği rakiplerinin, Japonya Başbakanı Junichiro Koizumi ve Ukrayna Devlet Başkanı Victor Yuşçenko olduğunu da belirtti. 
+     İnternetteki arama motorlarında ''1 numara'' olan dev portal, internet reklamcılığına getirdiği yeni boyutlar, bütün dünyayı uydu aracılığıyla ''gözlemeyi'' sağlayan yazılımı ''Google Earth'', internet aramalarını yeniden tanımlaması ile bir ekonomi imparatorluğuna dönüşmüş durumda. 
+     Google'ın kurucuları Larry Page ve Serguei Brin ise arama motorunu kurdukları zaman hayal bile edemeyecekleri bir zenginliğe kavuştular. 
+     
+</TEXT>
+</DOC>

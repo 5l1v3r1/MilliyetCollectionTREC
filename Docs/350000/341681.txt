@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 341681 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/11/son/sonyas15.html </URL>
+<DATE> 2005/05/11/ </DATE>
+<TIME> 13.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Mitsubishi'den elektrikli otomobil 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın dördüncü büyük otomobil üreticisi Mitsubishi Motors, yeni bir elektrikli otomobilin prototipini tanıttı. 
+     Tokyo’daki tanıtımda, Japon firması yeni geliştirdiği ve aracın tekerleklerine bir elektrik motorunun entegre edilmesi sistemine dayanan yeni sistemi gösterdi. 
+     Deneme aşamasındaki yeni sistemin tüm elektrikli araçlara ve melez araçlara elektrikli ve benzinli takılabileceğini belirten Mitsubishi yetkilileri, yeni sistemi 2010 yılında piyasaya sürmeyi planladıklarını belirttiler. 
+     Şirket yayınladığı açıklamada, iki ya da dört tekerleğe bir elektrik motorunun entegre edilmesinin, başka transmisyon veya karışık mekanizmaya gereksinim duymaksızın daha iyi bağımsız çekiş ve fren olanağı sağladığı kaydedildi. 
+     
+</TEXT>
+</DOC>

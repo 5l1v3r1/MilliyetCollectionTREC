@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 357903 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/03/son/sonyas11.html </URL>
+<DATE> 2005/07/03/ </DATE>
+<TIME> 11.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ODTÜ, Türkiye'nin ilk süper bilgisayarını yapacak... 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın en gözde makineleri arasında gösterilen ve yetenekleri konusunda ''Top500'' listesi bile hazırlanan süper bilgisayarların, Türkiye'de de üretilmesi için ilk adım atıldı. 
+     Türkiye'nin ilk süper bilgisayarını yapmaya hazırlanan ODTÜ, dünyanın ilk süper bilgisayarlarından birisini geliştiren Prof. Yuefan Deng ile çalışacak. 
+     Amerikalı Bilim Adamı Prof. Dr. Yuefan Deng, ODTÜ'yü ziyaret ederek, üniversitenin bilgisayar alanındaki çalışmaları hakkında ODTÜ Rektörü Prof. Dr. Ural Akbulut'tan bilgi aldı. 
+     Akbulut, dünyanın ilk süper bilgisayarlarından birini yapan Prof. Deng'in ziyaretinden büyük mutluluk duyduklarını belirtti. Prof. Deng'in bugüne kadar birçok süper bilgisayar geliştirdiğini kaydeden Akbulut, ''Önümüzdeki günlerde Prof. Deng'in görev yaptığı Stony Brook Üniversitesi ile işbirliği yaparak ülkemizin ilk süper bilgisayarını yapacağız'' dedi. 
+     Saniyede trilyonlarca işlem yapabilen süper bilgisayarlardan dünyada 500 tane bulunduğunu anlatan Akbulut, süper bilgisayarların daha çok ilaç dizaynı ile fizikte moleküler dinamikte ve bilgisayar geliştirmede kullanıldığını belirtti. Akbulut, ''Bir ülkenin bilim ve teknoloji üretebilmesi için süper bilgisayarlara ihtiyaç var. Dünyadaki 500 süper bilgisayarın ülkelere göre dağılımına bakıldığında 30 ülkenin adı görülmektedir ve Türkiye bunların içinde yok'' diye konuştu. 
+     
+     'EN KISA ZAMANDA SÜPER BİLGİSAYAR YAPMALIYIZ' 
+     Türkiye'nin de gelişmiş ülkeler arasına katılabilmesi için mutlaka en kısa zamanda süper bilgisayar yapması gerektiğini vurgulayan Akbulut, şunları kaydetti 
+     ''Bu konuyu çok önemli gördüğümüz için bu alandaki önemli isim Prof. Deng'i buraya davet ettik. Birkaç ay sonra Prof. Deng'in öğretim üyesi olduğu Stony Brook Üniversitesi'nin Rektörü buraya gelecek. Bu üniversite, dünyada 120'inci, ABD'de 50'inci sırada. Onlarla bu konuda işbirliği yapacağız. Zaten öğretim üyesi ve öğrenci değişimi konusunda işbirliğimiz var. Süper bilgisayar konusunda işbirliğimizi geliştireceğiz. 
+     Türkiye'nin bütün üniversitelerinin buna ihtiyacı var. Bilim ve teknoloji ile birlikte sanayimizin de bir üst basamağa çıkmasının yolu bu. Ülkemizin geleceği için böyle bir yatırımın, atılımın çok yararlı olduğuna inanıyorum. 
+     Önümüzdeki günlerde DPT, Savunma Sanayii veya TÜBİTAK'ın kaynaklarından yararlanarak Prof. Deng'in desteği ile bu bilgisayarı düşük bir maliyetle üreteceğiz. Birkaç milyon doları önümüzdeki günlerde bulabileceğimizi umuyorum. Üreteceğimiz makine, saniyede yaklaşık 4 trilyon işlem yapacak. 1946'da yapılan dünyanın ilk bilgisayarı saniyede 00 işlem yapıyordu. Bir yıl içinde süper bilgisayar ülkemizin tüm kurumlarının hizmetinde olabilir. İhtiyaca göre yapımı 2 yıl sürebilir.'' 
+     
+     'SÜPER BİLGİSAYARLAR TÜM DÜNYANIN İHTİYACI' 
+     Yaptığı ilk süper bilgisayarın öyküsünü anlatan Prof. Deng, 1983 yılında New York Colombia Üniversitesi'nde fizik alanında doktoraya başladığında tezi yürütebilmesi için bir süper bilgisayara ihtiyaç duyduğunu ve böyle bir bilgisayar yapmaya giriştiğini söyledi. 
+     ''Süper bilgisayar dediğimiz, aslında bilgisayarların birbirine bağlanması... O gün için 1983'te 16 bilgisayarın kapasitesine eşit, 16 tane prosesörü birbirine bağlayan bir bilgisayar yaptık ve bu bilgisayar, bugün süper bilgisayar alanında tarihe geçti'' diyen Prof. Deng, bugünkü süper bilgisayarların çok daha işlevsel olduğunu vurguladı. O günkü bilgisayarlarla bazı teorik hesaplamaların 700 yıl alabileceğini anlatan Prof. Deng, geliştirdikleri süper bilgisayar ile bu süreyi 3,5 yıla indirdiklerini ifade etti. 
+     New York'ta çalıştığı üniversitede 2 tane daha süper bilgisayar yaptıklarını, benzer makineyi Çin'de de geliştirdiklerini belirten Prof. Deng, Çin'deki süper bilgisayarın kapasitesinin 800 bilgisayara eşit olduğunu ve bu makinenin dünyadaki 500 süper bilgisayar içinde 42. sırada yer aldığını kaydetti. 
+     Prof. Deng, süper bilgisayarlara tüm dünyanın ihtiyacı bulunduğunu vurgulayarak, ''Dünyanın neresinde olursa olsun, bu bilgisayarların yapımına destek veririm. Bu toplumsal bir hizmettir. Ben tüm dünyayı seviyorum bu iş insanlığa hizmettir'' diye konuştu. 
+     
+</TEXT>
+</DOC>

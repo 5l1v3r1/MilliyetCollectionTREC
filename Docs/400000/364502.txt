@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 364502 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/26/son/sonyas02.html </URL>
+<DATE> 2005/07/26/ </DATE>
+<TIME> 08.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Discovery için geri sayım 
+</HEADLINE>
+<TEXT>
+
+     Amerikan Havacılık ve Uzay Dairesi NASA , 2,5 yıl önceki Columbia kazasından sonra bugün yapılması öngörülen ilk uçuş için Discovery uzay mekiğinin dış yakıt tanklarının doldurulması işlemini başlattı. 
+     NASA yetkilileri, yaptıkları toplantının ardından hava koşullarının mekiğin TSİ 17.39'da kalkışına uygun olduğu kararına vararak, Discovery'nin dış yakıt tanklarına oksijen ve hidrojen doldurulması talimatı verdiler. 
+     Turuncu renkli ve 1,89 milyon litre sıvı hidrojen -252 derece C ve sıvı oksijen alan merkezi yakıt tankının doldurulması 3 saat sürüyor. Fırlatma işlemi sırasında, yakıt karışımı su buharı çıkararak, mekiğin etrafında kocaman beyaz bulutlar oluşmasına neden oluyor. 
+     
+     100'DE BİR RİSK 
+     Öte yandan, New York Times gazetesi, NASA'nın arızasını çözemeden uzaya gönderdiği Discovery uzay mekiğini kaybetme riskinin yüzde bir olduğunu yazdı. 
+     Bu riskin 2,5 yıl önce Columbia'nın kaybından önce tahmini yapılan risk oranının iki katı olduğu belirtildi. 
+     NASA yetkilisi Allard Beutel, Columbia faciasından sonra yapılan inceleme ve araştırmalar nedeniyle mekiğin çalışma koşulları ve sınırlarını daha iyi anladıklarını, bu nedenle risk oranının yükseldiğini söyledi. 
+     Uzay mekiği için en tehlikeli ve riskli anın güçlü motorların ateşlendiği yükseliş ve atmosfere giriş ile yere konmak için manevra yapılan iniş olduğu belirtiliyor. 
+     Columbia uzay mekiği faciasından 2,5 yıl sonra ilk defa uzaya gidecek Discovery'nin 13 Temmuz'da fırlatılması teknik bir sorun nedeniyle ertelenmişti. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 298318 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/16/son/sonyas06.html </URL>
+<DATE> 2004/12/16/ </DATE>
+<TIME> 10.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Mars bulutlarla kaplı 
+</HEADLINE>
+<TEXT>
+
+     Spirit ve Opportunity Mars'tan, bir zamanlar gezegende su olduğuna dair yeni ve kesin kanıtlar yolladı. Mars'ın üzerinde, sirrus'a benzeyen bulutlar fotoğraflandı Mars'tan gönderilen yeni verileri inceleyen uzmanlar, kızıl gezegen'de bir zamanlar su bulunduğuna dair yeni ve kesin kanıtlar elde ettiklerini açıkladı. 
+     NASA'nın gezegende bulunan iki aracının son yolladığı veriler arasında ilk kez gezegenin yüzeyinden görülen ve dünyadakilere benzeyen bulut fotoğrafları ve şimdiye kadar görülmemiş türden bir kaya var. 
+     Uzmanlar Mars'taki Columbia tepelerinde araştırma yapan Spirit uzay aracının, daha önce Mars'ta rastlanmamış bir mineral olan 'goethite' içeren taşlar bulduğunu açıkladı. Dünya'da yaygın olarak bulunan bu mineral yalnızca suyun varlığında oluşabiliyor ancak su sıvı, gaz ya da donmuş halde olabiliyor. Tepelerden gelen diğer veriler ise buradaki kayaların tarihinde bir meteor çarpması ya da volkanik bir aktivite olduğuna işaret ediyor. 1 milyar yaşında olduğu sanılan kayanın yapısının suyla değiştiği sanılıyor. 
+     Gezegenin öteki tarafında araştırmalar yapan diğer NASA aracı Opportunity ise sirrus bulutlarına çok benzeyen atmosferik oluşumların fotoğraflarını yolladı. Bu bulutların da buzdan oluştuğu düşünülüyor. 
+     
+</TEXT>
+</DOC>

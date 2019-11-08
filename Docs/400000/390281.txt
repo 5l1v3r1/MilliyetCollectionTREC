@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 390281 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/27/son/sonyas21.html </URL>
+<DATE> 2005/10/27/ </DATE>
+<TIME> 21.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kuş Gribi virüsü, bilgisayarlara bulaşmaya başladı .. 
+</HEADLINE>
+<TEXT>
+
+     Kuş gribi ile ilgili bilgilerin yeraldığı bir dosya bilgisayarlara virüs bulaştırıyor. 
+     Panda Software adlı antivirüs yazılımı şirketince yapılan açıklamada, son günlerde internette dolaşan bir word dosyasında kuş gribiyle ilgili bilgi verildiği, ancak dosyanın bilgisayarların harddiskine ''Ranky.FY'' adlı virüsü yerleştirdiği bildirildi. Şirket ''Naiva.A'' adlı ''truva atının'' da aynı word dosyasıyla yayıldığını belirtti. 
+     Şirketin açıklamasına göre, ''truva atı'' harddiskteki dosyaları değiştiriyor ya da siliyor. ''Ranky.FY'' virüsü de korsana, bulaştığı bilgisayarın kontrolünü ele geçirme imkanı veriyor. 
+     Sophos adlı şirket de, kuş gribine karşı kullanılan Tamiflu ilacı satışına ilişkin ''çöp mektuplarının'' spam da internette dolaşmaya başladığını kaydetti. 
+     
+</TEXT>
+</DOC>

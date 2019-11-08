@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 85466 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/05/22/son/soneko08.html </URL>
+<DATE> 2002/05/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yazılım korsanlığı 25'e gerilerse 16000 kişilik istihdam oluşacak 
+</HEADLINE>
+<TEXT>
+
+     Korsan yazılım kullanımını önlemek amacıyla yazılım firmaları tarafından oluşturulan BSA Türkiye'nin, Haziran ayında matbaa, fotoğraf ve reklam sektörüne yönelik çalışmalara başlayacağı bildirildi. 
+     Daha önce nakliye, turizm, tekstil sektörlerinde korsan yazılımı önlemek amacıyla programlı bir çalışma yürüten BSA Business Sfotware Alliance sektörel odaklanma çalışmalarına bir yenisini daha ekledi. Matbaa, fotoğraf ve reklam sektörlerine yönelik Haziran ayında başlayacak çalışmanın ilk bölümünde sektörel bazlı bir bilinçlendirme programı uygulanacak. 
+     Çalışmalar sırasında firma ilgililerine lisanssız yazılım kullanmanın zararları, yasal yaptırımlar gibi konularda ayrıntılı bilgi verilecek. Bilgilendirme çalışmalarına karşın lisanssız yazılım kullanıldığından şüphe duyulan firmalarda yasa gereği savcılık izniyle lisanssız yazılım araması yapılacak. 
+     BSA Türkiye, daha önce seçilmiş bölgelerde 45 gün süreli lisanslama kampanyaları düzenlemişti. İlki geçen yıl İzmir'de uygulanan kampanya, daha sonra başta İstanbul olmak üzere diğer büyük illerde yapılmıştı. 
+     
+     -İSTİHDAM VE VERGİ 
+     Bu arada, BSA veril erine göre, Fikir ve Sanat Eserleri Kanunu kapsamında korunan bilgisayar yazılımlarının, Türkiye'de lisansız kullanım oranı yüzde 69 düzeyinde bulunuyor. 
+     Mart 2001 tarihinde yasada yapılan değişiklikle kopya yazılım kullananlar için öngörülen cezalarda artışlar sağlanması ve bu cezaların paraya çevirmesi olanağı bulunmadığı için yazılım korsanlığı konusunda ciddi gelişmeler sağlandı. 
+     1999 yılında yüzde 74 olan Türkiye'deki kopya yazılım kullanma oranı yüzde 69'a düşürüldü. Türkiye'de korsan yazılım kullanma oranının yüzde 25'e gerilemesi durumunda, 16 bin 476 kişilik ek istihdam ve 234.2 milyon dolarlık ek vergi yaratılmasının mümkün olacağı hesaplanıyor. 2004 yılına kadar bu orana inilmesi mümkün olursa, sektörün 42 bin 910 kişilik istihdam yaratması ve 690.2 milyon dolarlık vergi kaynağı yaratmasının mümkün olabileceği öngörülüyor. 
+     BSA Türkiye'nin çatısı altında, Adobe, Apple, Arena, Armada, Autodesk, Baysis, Bentley Systems, Bilser, Bimeks, Empa, Eta, Globis, Index, Intertech, Likom, Linksoft, Macromedia, Mart Mopüter, Medyasoft, Mikro Yazılımevi, Netsis, Profress, Sebit adlı yazılım firmaları bulunuyor. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

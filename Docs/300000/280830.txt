@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 280830 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/15/son/sonyas07.html </URL>
+<DATE> 2005/03/15/ </DATE>
+<TIME> 09.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Cebe girecek başka ne kaldı 
+</HEADLINE>
+<TEXT>
+
+     CeBIT Fuarı'nda bilişimden akıllı evlere, elektronikten kurumsal çözümlere kadar birçok yeni ürün sergileyen Siemens, ayrıca 75 serisinden çıkacak beş yeni cep telefonunu tanıttı. 
+     Fuarda ev sahibi ülkenin en büyük firmalarından Siemens, beş yeni cep telefonu ve bir dizi yeni konsept tasarım sergiledi. Bayan kullanıcılara yönelik olarak tasarlanan CL75 modeli desenli yüzeye ve kapaklı tasarıma sahip. Sadece 90 gramlık telefon tek şarjla 220 saate kadar bekleme, üç saat konuşma sunuyor. 11 MB'lık dahili belleği bulunan model 4X yaklaşımlı zoom kameraya da sahip. Bas konuş desteği de sunan telefonun iki farklı rengi bulunuyor. 
+     Kapaklı tasarımlardan bir diğeriyse CF75 adını taşıyor. Yine 90 gram ağırlığındaki telefon iki saatten az sürede şarj ediliyor ve 250 saate kadar bekleme süresi sunuyor. 5X sayısal yaklaşımlı kamerasında çektiği görüntüleri 65 bin renkli ekranına yansıtıyor. Belleği 4 MB olan model bas konuş desteği de sunuyor. Üç boyutlu Java oyun ve yüksek hızlı internet erişimi sağlayan EDGE desteği de diğer artıları arasında. 
+     1.3 MP çözünürlüklü kameraya sahip Siemens CX75, 262 bin renkli büyük ekrana ve MP3 ve AAC formatındaki müzikleri çalma yeteneğine sahip. üç boyutlu Java oyun desteği ve blue-tooth özelliği de bulunan telefon aksesuvar olarak satılan bir hoparlör setiyle masaüstünüzdeki müzik setiniz de olabiliyor. CX75'in belleği MMC kartlarla artıyor. 
+     Zorlu şartlarda telefon kullananların da şıklığa ve tasarım cazibesine ihtiyaç duyacağı fikrinden yola çıkarak tasarlanan M75 ise sağlam ve korunaklı kasasını estetikle birleştirmiş. 1.3 MP kamerasının özel bir kapakla korunduğu telefonda dış darbelere karşı koruyucu üç katman bulunuyor. Suya ve toza karşı dayanaklı model sadece 110 gram ağırlığında ve 250 saatlik pil ömrüne sahip. Bas konuş özellikli telefon MMC kart kullanıyor. 
+     
+     SX1 artık daha da iddialı 
+     Siemens'in CeBIT kapsamında tanıttığı son modeliyse sunduğu özellikler ve fiyatı açısından uzun süredir en cazip telefon olan SX1'in üçüncü nesil altyapıyla birleştirilmiş hali olan SXG75. Arkasında bulunan ve fotoğraf video çekiminde kullanılan kamera 2 MP çözünürlüklü. Önündeki kameraysa görüntülü telefon iletişimi için kullanılıyor. Hem GSM, hem de UMTS ağlarında kullanılan telefon 128 MB dahili belleğe ve MMC kart desteğine sahip. Siemens'in özel baz istasyonu destekli GPS modülü A-GPS de yine ilk defa bu telefonda deneniyor. SX1'de yer alan FM radyoya ek olarak dinlenen istasyonun bilgi yazılarının ekrana gelmesini sağlayan RDS desteği eklenmiş. 
+     
+</TEXT>
+</DOC>

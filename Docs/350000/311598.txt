@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> 311598 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/02/yazar/tamer.html </URL>
+<DATE> 2005/02/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Meral TAMER  </AUTHOR>
+<HEADLINE>
+Doktorların performansını ölçme zamanı 
+</HEADLINE>
+<TEXT>
+
+
+Bilgisayara da çok para harcıyorsunuz ama işe yarıyor, çünkü harcanan para değer yaratıyor. "Aslında sağlık sektöründe temel sorun, gerek hükümetler gerekse bireylerin her geçen gün daha büyük paralar harcamaları değil, bu harcamaların 35 - 40'lık bölümünün doktor - ilaç firması - test laboratuvarı - hastane - sigorta beşgeninde hiçbir değer yaratmadan ve hastaya yarar sağlamadan yutulması." Harvard Üniversitesi'nden rekabet uzmanı Prof. Michael Porter'in bu tespiti, bir - iki istisna hariç tüm ülkeler için geçerli. 
+Dünkü yazımda da değinmiştim Porter'e göre 100 yıl öncesinin arkaik yapısının h l korunduğu tek sektör sağlık. Bu yapının mutlaka kırılması ve sağlık sektörüne de performans ölçümü suretiyle rekabetin gelmesi lazım. 
+Fransa ve Kanada, sağlık için harcanan paranın, göreceli olarak daha az eriyip yok olduğu 2 ülke. Aslında bu 2 ülkenin de GSYH'larından sağlık hizmetleri için ayırdıkları pay 10'lara dayanmış, yani diğer kalkınmış ülkelerinkinden az değil, ancak vatandaşlarına sağladıkları hizmet daha üstün. 
+
+Kanada'da ucuz ilaç 
+Örneğin Kanada Sağlık Bakanlığı, 2 yıl kadar önce ilaç tekelleriyle sıkı pazarlığa oturarak, ciddi indirimler sağlamış. Hatta bu indirimler, komşu ülke Amerika'da o denli popüler olmuş ki, sınır ötesi ilaç alımları nedeniyle Kanada'daki eczaneler aleyhine, ilaç firmaları tarafından onlarca tazminat davası açılmış. 
+Kanada'da hem maliyetleri düşürüp, hem de vatandaşa daha iyi hizmetin verilmeye başlandığı bir diğer alan, birkaç aylık ömrü kalmış yaşlılar. Kanada Sağlık Bakanı Ujjial Dosanjh anlattı "Hepimiz biliyoruz ki, yaşlılar son aylarını hastane köşelerinde değil yakınlarıyla geçirmek, evlerinde ölmek isterler. Hastanede bakımın, evde bakımdan daha pahalı olduğu da aşik r. Hem hastanın, hem de devletin yararını birleştirerek, birkaç aylık ömrü kalmış hastalar için evde bakım sistemini yürürlüğe soktuk. Hem maliyetlerimiz düştü, hem de hastalarımız mutlu oldu. Çift taraflı yarar sağladık." 
+
+Sağlık sigortası 
+Davos'taki oturumlarda, işyeri grup sağlık sigortalarında "çalışan" yerine "vatandaş" sistemine geçilmesi gereği üzerinde duruldu. Bugünkü sistemde insanlar her iş değiştirdiğinde, sağlık sigortaları sıfırlanıyor. Oysa işyeri tarafından yaptırılan sağlık sigortası, kişi adına olmalı ve iş değiştirilmesi halinde primin değişik işveren tarafından ödenmesi suretiyle geçerliliğini korumalı. İnsanların geçmişe oranla çok daha sık iş değiştirdiği dikkate alınarak, yürürlükteki sistemin revize edilmesi gerek. 
+Nitekim Fransa'da bu sistem, daha kapsamlı bir uygulamanın parçası olarak yakında devreye girecek. Dün de yazmıştım. Fransa'da da Kanada'da da artık şu prensipten yola çıkılıyor Hastaların dosyaları ne doktorların, ne de hastanelerin malıdır. Dolayısıyla tüm dosyalar hastada toplanmalı ve hasta tarafından saklanmalıdır. 
+
+Doktor performansı 
+Zaten Fransa'da tüm sağlık kurumlarındaki dosyalar, yıl sonunda her hasta adına internette toplandığında, bu sorun kendiliğinden ortadan kalkacak. Böylelikle diyelim ki mide için yapılmakta olan bir tedavinin, aynı hastaya kalp rahatsızlığı nedeniyle uygulanacak tedavi ile çatışabilecek yönleri, ilk bakışta internette görülebilecek. Dolayısıyla doktorlar da ister istemez daha sorumlu davranmak zorunda kalacak. Tabii her önüne gelen bu dosyalara giremeyecek. Şifre hastada olacak ve seçtiği doktorla paylaşacak. 
+Bu sistemde doktorların uyguladıkları tedavi, tahliller ve hastaneler de kayda geçtiği için, performans ölçümlemesi kendiliğinden başlamış olacak. Sağlık hizmetleri konusunda kapsamlı bir çalışma içinde olan Sağlık Bakanımız Dr. Recep Akdağ'ın bilgilerine... 
+Doktorlarımız ne der bilemiyorum, ama hastalarımızın fevkal de memnun kalacaklarından kuşkum yok. 
+
+
+
+</TEXT>
+</DOC>

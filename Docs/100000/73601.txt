@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 73601 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/03/20/son/sondun29.html </URL>
+<DATE> 2002/03/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Gateway'in Microsoft korkusu... 
+</HEADLINE>
+<TEXT>
+
+     Amerika'nın en büyük bilgisayar üreticilerinden olan Gateway firması, Microsoft'un misillemesinden çekindiği için, ürettiği cihazlara RealNetworks firmasının ürünü olan Realplayer'ı koyamadığını açıkladı. 
+     Microsoft firmasına karşı açılan anti-tekel davasında ifade verecek olan Gateway yetkilileri, Realplayer'ı cihazlara koydukları takdirde, Microsoft'un misillemesi sonucu şirketin kapanabileceği endişesini taşıdıklarını söylediler. 
+     Amerikan finans çevrelerinin gazetesi Wall Street Journal'ın haberine göre, Gateway ve RealNetworks, 1999 yılında yasal bir sözleşme yaparak, Realplayer'in Gateway bilgisayarlarına konulması projesini hayata geçirmeyi planladı. Ancak Gateway ile Microsoft arasında yapılan e-mail yazışmalarında Microsoft, Realplayer'ın rakibi olan Windows Media Player'ın, Microsoft'un ürettiği Windows işletim sisteminin ayrılmaz parçası olduğunu belirtti ve onun yerine başka bir yazılım konulmasının, Microsoft ile Gateway arasındaki sözleşmenin ihlali olacağını bildirdi. 
+     Gateway yetkilileri, ''Microsoft'un o zamanki tutumu 'Ya al, ya bırak' tarzında bir yaklaşımdı'' diye konuştular. 
+     Bir Microsoft yetkilisi ise gazetenin sorusuna, ''Bu eski bir hikaye. Sanayi sektörü ileriye bakmalıdır'' cevabını verdi. 
+     Gateway ve Microsoft firmaları arasındaki e-mail yazışmalarının, Microsoft aleyhindeki davaya kanıt olarak sunulması bekleniyor. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

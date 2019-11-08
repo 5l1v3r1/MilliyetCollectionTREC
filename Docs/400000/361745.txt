@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 361745 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/16/son/sonyas01.html </URL>
+<DATE> 2005/07/16/ </DATE>
+<TIME> 08.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternette, İngilizce alan adları dışındakilere onay yok... 
+</HEADLINE>
+<TEXT>
+
+     İnternet konusunda mevcut sistemdeki tek yetkili olan Kayıtlı İsimler ve Numaralar İçin İnternet Organizasyonu ICANN Başkanı Vint Cerf, elektronik posta dolandırıcılığı ile ilgili kaygıların, alan isimlerinin İngilizce haricindeki karakterler kullanımıyla genişlemesini erteleyecek gibi göründüğünü söyledi. 
+     Cerf, yaptığı açıklamada, İngilizce karakterler dışındaki karakterlerin kullanılmasına karşı olmadığını, ancak internet mühendislerinin kaydedilmesine izin verilen karakter sayısını setleri eleme çalışmalarına başlamaları gerektiğini savundu. 
+     İngilizce haricindeki alan adlarına yönelik yoğun talebin ABD dışındaki ülkelerden geldiği belirtilirken, resmi olarak internetin, alan isim sistemi, sadece Latin alfabesi karakterleriyle 1-10 arası sayıları ve bir tire işaretinden oluşan 37 karakteri tanıdığına dikkat çekildi. 
+     Son yıllarda dünya çapında hızla artan internet kullanıcı nüfusuna karşısında mühendislerin, mevcut sistemin Arapça, Çince ve Japonca gibi diğer dilleri anlamasına yönelik olarak çalışmalar yaptıkları belirtiliyor. Mühendisler, "unicode" olarak adlandırılan bir karakter sisteminin kullanılmasını destekliyor. Ancak güvenlik uzmanları, bu yılın başında, unicode sistemi içinde aynı gözüken iki kodun farklı karşılıkları olabileceği gerçeğinden faydalanmak isteyenler olabileceği yolunda uyarıda bulunmuş ve unicode sisteminde kullanılan "a" karakterinin Latin alfabesine göre karşılığının 97, Kril alfabesine göre ise 1072 olduğu örneğini vermişlerdi. 
+     İnternet isim ve adresleri konusunda standartları belirlemek üzere kurulan İnternet Mühendisliği Özel Görev Kuvveti, İngilizce olmayan isimlerle ilgili güvenlik önlemlerini genişletmekle uğraşırken, ICANN’ın şimdiye kadar tamamen başka bir dilde yazılmış alan adlarına hiçbir şekilde onay vermediği kaydedildi. 
+     
+</TEXT>
+</DOC>

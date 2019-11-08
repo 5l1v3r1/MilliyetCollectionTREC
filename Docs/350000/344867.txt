@@ -1,0 +1,50 @@
+<DOC>
+<DOCNO> 344867 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/22/son/sonyas01.html </URL>
+<DATE> 2005/05/22/ </DATE>
+<TIME> 10.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilişim suçları bankacılık sektörüne yöneldi... 
+</HEADLINE>
+<TEXT>
+
+     Dünyada internet teknolojilerinin gelişmesine paralel olarak artan bilişim suçları, yönünü bankacılık sektörüne çevirirken, bankalar da internet şubelerinin güvenliğini arttırmak için çalışıyor. 
+     Özellikle 90’lı yıllarda internet üzerinden milyonlarca dolarlık bankacılık dolandırıcılığı yaşandı, ancak bankalar, prestijlerinin sarsılmaması için "soyulduğunu" kamuoyuna açıklamadı, soyulma yöntemlerini, önlem almaları için sadece diğer bankalarla paylaştı. 
+     Bugüne kadar müşterilerin kredi kartı bilgilerini çalabilmek için çeşitli yöntemler deneyen bilgisayar korsanları, özellikle bu yıl, "Phising" tekniği ile kredi kartı bilgilerine ulaşmaya çalışıyor. 
+     Bankaların, "İnternet üzerinden bilgi güncellemesi yapmıyoruz" uyarılarına rağmen binlerce bilgisayar kullanıcısının, korsanların ağına düştüğü biliniyor. 
+     İnternet analistleri, bilgisayar başındakileri, sürekli güncelleme yapmaları konusunda uyarırlarken, bu uyarıları dikkate alanların da az bir oranda olduğu belirtiliyor. 
+     
+     ŞİFRE UYARISI 
+
+     Bankalar ve internet analistleri, bilgi güvenliğini sağlayabilmeleri için kullanıcılardan şifrelerini düzenli olarak değiştirmelerini istiyor. 
+     Harf ve sayı kombinasyonlarından oluşan şifrelerin kullanılması da bir başka önlem olarak göze çarpıyor. Araç plaka ve telefon numaralarından oluşan kombinasyonların hatırlama anlamında kolaylık sağlayacağı da belirtiliyor. 
+     
+     HALKA AÇIK YERLERE DİKKAT 
+
+     Bankaların müşterilerine yönelik bazı güvenlik uyarıları şöyle 
+     "Sadece kendi kişisel bilgisayarınızdan veya işyerinizde sizin kullanımınıza ait bilgisayardan işlem yapmanız halka açık yerlerdeki veya başkalarına ait bilgisayarlardan internet şubesi işlemleri yapmamanız, şifre ve diğer bilgilerinizin diğer kişilerce görülebilmesi veya hacking kırma faaliyetlerine karşı korunmanız açısından önemlidir. 
+     Eğer başkasına ait veya halka açık yerlerdeki bilgisayarlardan işlem yapmak zorunda kalırsanız, internet şubemizden çıktıktan sonra bilgisayardaki geçici internet dosyalarını ve tarayıcı browser 
+     hafızasını temizleyiniz. 
+     İnternet şifre ve parolanızı hiçbir yere yazmayınız veya size yardımcı olmak amacı ile yaklaşan kimselere söylemeyiniz. Şifrenizin bloke olması, yeni şifre alma ve şifre değiştirme aşamalarımızın hiçbirinde veya diğer işlemlerinizde şubeniz veya çağrı merkezinden size şifreniz sorulmayacaktır." 
+     
+     "GÜVENLİK ÖNLEMLERİ TAM BANKALARI TERCİH EDİN" 
+
+     Maddi ve manevi anlamda zarara uğrayan bankalar da çeşitli uygulamalarla güvenlik önlemlerini artırıyor. 
+     Bu önlemlerden en sık kullanılanı tanımlanmış havale hesabı. Bu yöntemde banka, sadece kullanıcının bildirdiği hesaplara havale EFT yapılabilmesine izin veriyor. Kullanıcı hesabına giren bir korsan, tanımlamalı hesap olmadığı için para çalamıyor. Hatta istenirse 3. 
+     kişilere para aktarma işlemi tamamen engellenebiliyor. 
+     Bilgisayar korsanları, özellikle halka açık internet kafelerde "keylogger" ya da "screenloger" adı verilen yazılımlarla kullanıcı şifrelerini çalıyor. Bazı bankalar ise kullanıcı bilgisayarına yüklenebilen küçük bir yazılımla klavye ve ekran takip yazılımlarını devre dışı bırakıyor. 
+     Çeşitli bankalar, özellikle kullanıcıların kendi güvenlik önlemlerini ayarlayabilecek seçenekler sunuyor. Buna göre kullanıcı, internet bankacılığı sayfasında sadece kendisinin bildiği güvenlik soruları yazabiliyor, cevaplayabiliyor. 
+     İşlem öncesi şifre 3 kez hatalı girilirse de banka hesabı bloke ediyor ve kullanıcının başvurarak yeniden açmasını bekliyor. 
+     Bankaların kullanıcılara sunduğu bir başka güvenlik hizmeti ise sadece belirli IP üzerinden erişim imkanı sağlamak. Kullanıcı eğer sadece evinden ve işyerinden ve sabit bir IP üzerinden internete bağlanıyorsa, söz konusu IP’yi banka sistemine tanımlıyor ve başka hiçbir yerden hesaplara ulaşılamıyor. 
+     İnternet analistleri, internet bankacılığı yapmak isteyen kullanıcıları, güvenlik hizmetlerini çeşitlendirmiş bankaları seçmeleri konusunda uyarıyor. 
+     
+     TÜRKİYE BANKALAR BİRLİĞİ’NDEN UYARI 
+
+     İnternet bankacılığı konusunda yaşanan olumsuz gelişmeler üzerine, Türkiye Bankalar Birliği, banka müşterilerine yönelik uyarılarda bulundu. 
+     Yapılan açıklamada, banka, kart ve diğer finans kuruluşlarının logo ve isimlerini içeren dolandırıcılık amaçlı e-posta mesajlarının banka müşterilerine gönderildiğini anımsatılarak, bankaların, e-posta elektronik posta aracılığıyla müşterilerine ait bilgileri hiçbir şekilde talep etmedikleri belirtildi. 
+     Dolandırıcılık amaçlı e-posta mesajlarında, kişisel bilgiler, kredi kartı bilgileri, internet telefon bankacılığı şifreleri gibi gizli müşteri bilgilerinin istendiği ifade edilen açıklamada ayrıca, bu tip sahte e-postalarda yer alan linklerin açılmaması, talep edilen bilgilerin kesinlikle doldurulmaması ve en kısa süre içerisinde ilgili bankaya haber verilmesi istendi ve olası dolandırıcılık eylemlerine maruz kalınmaması için bu uygulamaların önemli olduğu vurgulandı. 
+     
+</TEXT>
+</DOC>

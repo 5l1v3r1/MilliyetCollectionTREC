@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 280175 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/14/son/sonyas22.html </URL>
+<DATE> 2004/10/14/ </DATE>
+<TIME> 16.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnsanlarda barkod sistemine izin çıktı 
+</HEADLINE>
+<TEXT>
+
+     ABD'de, deri altına yerleştirilecek küçük çiplerle nsanların sağlık bilgilerine ulaşımı mümkün kılan barkod sistemine izin verildi. 
+     ABD Gıda ve İlaç İdaresi FDA , hastaların sağlık kayıtlarına kolayca erişimi sağlayacak küçük bir mikroçipin deri altına yerleştirilmesi uygulamasına onay verdi. 
+     Kişiye özel 16 haneli bir kod taşıyan pirinç tanesi büyüklüğündeki çipler, tarayıcı yardımıyla hastanın kimliğini teyit ederek, veri bankası üzerinden detaylı sağlık bilgilerine ulaşılmasına imkan veriyor. 
+     Üretici firma, insanlar için barkod sistemini doktor, hasta ve hastanelere 150-200 dolara pazarlamayı planlıyor. 
+     Bu arada, bu çipler sayesinde gelecekte insanların izlenmesi olasılığına dikkat çeken çevreler, uygulamaya karşı çıkıyor. 
+     
+</TEXT>
+</DOC>

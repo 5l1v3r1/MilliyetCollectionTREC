@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 360000 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/11/son/sondun08.html </URL>
+<DATE> 2005/07/11/ </DATE>
+<TIME> 07.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Japonya'da 4.7 büyüklüğünde deprem... 
+</HEADLINE>
+<TEXT>
+
+     Japonya’nın kuzeybatısında 4.7 büyüklüğünde bir deprem meydana geldi. 
+     Depremin merkez üssünün, İbaraki bölgesinin batı kıyısı açıklarında, denizin yaklaşık 30 kilometre altında olduğu belirtildi. 
+     Japon Meteoroloji Kurumu, can ve mal kaybına yol açmayan depremden sonra tsunami tehlikesi de olmadığını açıkladı. 
+     
+</TEXT>
+</DOC>

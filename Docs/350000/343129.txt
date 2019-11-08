@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 343129 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/16/son/sonyas18.html </URL>
+<DATE> 2005/05/16/ </DATE>
+<TIME> 16.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bill Gates'ten tıp araştırmalarına 450 milyon dolar 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın en zengin adamı Bill Gates, dünyada tıbbi araştırmalar için 450 milyon dolar yardımda bulunacağını açıkladı. 
+     Dünya Sağlık Örgütü’nün DSÖ Cenevre’de bugün başlayan yıllık toplantısında kürsüye çıkan Microsoft’un patronu, her yıl dünyada milyonlarca insanın ölümüne yol açan hastalıklara karşı aşı geliştirilmesini ve bunların dağıtımını finanse etmek için 450 milyon dolar vermeyi taahhüt etti. 
+     Tıbbi çalışmalara destek için ayırdıkları bütçeyi ikiye katladıklarını belirten Gates, "Dünya bilimsel araştırmaları, çok sayıda hayatı kurtaracak alanlara, yani gelişmekte olan ülkelerde insanları amansızca vuran hastalıklara yöneltmeli artık" dedi. 
+     Gates, verem ve sıtmanın nedenlerinin anlaşılmasının üzerinden yüzyıldan uzun süre geçmiş olmasına rağmen bu hastalıklara karşı aşı geliştirilememiş olmasının üzücü olduğunu vurguladı ve şunları söyledi 
+     "Asıl üzücü olan da sorunun çözümü olduğu halde, bilimsel aklımızı bu yönde kullanmamış olmamız... Dahası, zengin memleketlerin hükümetleri, kendilerinde bulunmuyor diyerek, gezegenin en öldürücü hastalıklarına karşı kıllarını kıpırdatmıyor..." Gates, dünyada her yıl bir milyon çocuğun tetanoz, difteri, kızamık gibi aşıları bulunan hastalıklardan öldüğüne dikkati çekti. 
+     
+</TEXT>
+</DOC>

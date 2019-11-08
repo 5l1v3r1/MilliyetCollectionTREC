@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 162438 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/11/son/soneko01.html </URL>
+<DATE> 2003/06/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi 
+</HEADLINE>
+<TEXT>
+
+     New York menkul kıymetler borsası Wall Street'te, Dow Jones ve Nasdaq endeksleri günü yükselişle kapattı. 
+     Borsanın temel göstergesi Dow Jones 75 puan artarak 9.054.89 puandan, teknoloji endeksi Nasdaq da 24 puan yükselerek günü 1.627.671 puanla kapattı. 
+     
+     TOKYO BORSASI 
+
+     Tokyo döviz borsasının bugünkü kapanışında dolar düne göre 0.28 yen değer kaybederek 117.92 yene geriledi. 
+     Borsada euro 1.1712 dolardan 1.1726 dolara ve 138.43 yenden 138.28 yene düştü. 
+     Wall Street'deki yükseliş ile otomotiv ve teknoloji sektörü şirketleri hisse senetlerinin değerlenmesi sonucu, Tokyo menkul kıymetler borsasında Nikkei Endeksi bugün 101.21 puan yüzde 1.15 artışla 8,951.03 puana yükseldi. 
+     Borsada, yabancı yatırımcıların alıma geçecekleri beklentisiyle, Sony, Toyota ve Fujitsu şirketlerinin hisse senetleri değer kazandı. 
+     
+</TEXT>
+</DOC>

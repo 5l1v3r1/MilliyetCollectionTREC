@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 190868 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/24/ekonomi/eko06.html </URL>
+<DATE> 2003/10/24/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ödemeler bayram öncesi 
+</HEADLINE>
+<TEXT>
+
+   BDDK Başkanı Akçakoca, İmar Bankası'nda ödemelerin bayram öncesinde başlayabileceğini belirtti. 15 milyara kadar ödemeler peşin, geri kalanı üç yıl vadeli olacak 
+   EKONOMİ SERVİSİ 
+   
+   BDDK Başkanı Engin Akçakoca, İmar Bankası mudilerine ödemenin bayramdan önce başlayabileceğini belirtti. 
+   Ödemeler için BDDK tarafından hükümete 12 Ekim 2003'te bir Bakanlar Kurulu karar taslağı sunuldu. Ayrıca, açığa satılan Hazine bonolarıyla ilgili olarak BDDK tarafından hazırlanan kanun tasarısı da taslağı da iletildi. BDDK son açıklamasında açığa satılan bonoarda da ödemeye sıcak baktığını belirtmişti ancak bunun için hükümete sunulan taslağın yasalaşması gerekiyor. BDDK'nın dün basına dağıtılan 'İmar Bankası olayı' başlıklı raporda mevduatların ödenmesi için mutabakat sağlanan plan da söyle açıklandı 15 milyar lirayı aşmayanlarda haklarının tamamı, bunu aşanlarda da 15 milyar avansı peşin olarak ödenecek, kalan tutar ise üç yıl içerisinde altı aylık dönemler halinde ödenecek. 
+   
+   Blokeli mevduat cüzdanı 
+   Ödemeleri yapacak Ziraat Bankası'ndan mudilere ödeme dönemlerine kadar blokeli mevduat cüzdanları verilecek. Ziraat'te açılan mevduat hesaplarına DİE'nin açıkladığı yıllık tüketici fiyat artışı oranı artı yüzde 5 üzerinden altı ayda bir faiz ödemesi de yapılacak. 
+   Bilindiği gibi İmar Bankası'nda BDDK'ya bildirilen resmi mevduat 753 trilyon liraydı. Ancak yapılan incelemeler ve mudilerin başvurusu üzerine toplam mevduatın BDDK'ya bildirilerinin yaklaşık 10 katı yani 8.4 katrilyon 6 milyar dolar olduğu ortaya çıktı. BDDK'ya bildirimde bulunan 444 bin kişiden 3 bin 688'inin yabancı uyruklu olduğu da ortaya çıktı 
+   
+   Gece el feneriyle hard diskleri söktüler    BDDK ve Mali Polis İmar Bankası'nın bilgi işlem merkezi olan Merkez Yatırım AŞ'deki incelemelerinde hard disk'i sökülmüş bilgisayar ve server tespit edildi. Bu bilgisayarların el feneri kullanılarak gece karanlığında söküldüğü tespit edildi. İmar Bankası ile ilgili olarak yapılan araştırmada yedi adet yanmaz kasada saklanması gereken ve sayıları 3 - 5 bin olan kartuşlar bulunamadı. Kasalar boş çıktı. Tek bir kasada ise sadece yazılım lisansları bulunabildi. 
+   
+   BDDK şifreleri kırmak için hacker çağırdı    Bankada yeni yönetim göreve başlamadan yaşanan istifalar daha sonrada devam ederken, hukuk birimi de istifa etti. Birimdeki bilgisayarlardaki tüm dosyalar silindi, masaların çekmeceleri boşaltıldı. İmar Bankası'ndaki şifreleri verilmeyen bilgisayarlardaki bilgilere ulaşmak için bir başka bilgisayar şirketinden yardım istendi. Bir uzman yardımıyla Gayrettepe Şubesi Merkez Şube server şifresi kırıldı. Ancak yalnızca şube ile ilgili yetersiz bilgilere ulaşılabildi. 
+   
+   Sanal şubeyle bono sattılar    1990'dan beri Hazine bonosu satma yetkisi bulunmayan ve elinde olmadığı halde 728 trilyon liralık bono satan İmar Bankası'nın kasasında yalnızca 15 milyar liralık bono bulundu. Bono satışları aslında var olmayan ve sadece bilgi işlem ortamında yaratılan 122 nolu ATM Merkezi Şubesi nezdinde yapıldı. Bankaya parasını getiren müşteriye 122 nolu şubeden bono satılmış gibi makbuz verildi. ATM Merkezi ve Operasyon Müdürlüğü nezdinde otomatik olarak kurulan sistemde, Operasyon Müdürlüğü'nün muavin kayıtlarındaki işlemlerin büyük kısmı daha sonra iptal edilip kayıttan silindi. 
+   
+   Şube müdürleri korkuyordu    BDDK'nın hazırladığı 'İmar Bankası olayı' başlıklı raporda 172 şube müdüründen 118'inin lise mezunu olduğunu belirtildi. Raporda, banka personelinin, banka hakkında hiçbir bilgiye ulaşmasına imk n verilmeyen, mevduat kabul etme ve para ödeme dışında bilgili olmayan kişilerden seçildiği vurgulandı. Şube müdürlerinin kurumla ters düşülmesi durumunda kişisel tehdit görüleceği yönünde tehdit algılaması içinde olduğu kaydedildi. 
+   
+   
+</TEXT>
+</DOC>

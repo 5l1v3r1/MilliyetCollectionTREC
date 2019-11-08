@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 176445 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/18/son/sondun01.html </URL>
+<DATE> 2003/08/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternet hızlı bağlantı ücreti ayda 10 dolara kadar düştü 
+</HEADLINE>
+<TEXT>
+
+     ABD'de hızlı internet bağlantı abonman ücreti yer yer 10 dolara kadar düştü. 
+     Bu alanda devrim yapan ''United Online'' adlı şirket, abone sayısını artırırken, AOL, MSN ve Earthlink gibi dev internet kuruluşlarının abone kaybettiği bildirildi. 
+     Merkezi Westlake Village kentinde bulunan, aynı zamanda ucuz internet bağlantısı sağlayan NetZero, Juno ve BlueLight gibi şirketlerin de sahibi olan ''United Online'', 6.500 kentte hizmet veriyor. 
+     Şirketin abone sayısının Haziran ayı sonu itibariyle 840.000 kişi artarak 2.5 milyon kişiye çıktığı, buna karşılık AOL abonelerinin sayısının aynı dönemde 1.2 milyon kişi azaldığı belirtildi. Earthlink'ten ayrılanların sayısının 201.000, MSN'i terk edenlerin sayısınınsa 100.000 kişi olduğu ifade ediliyor. ''United Online'' abone sayısının gelecek yıl 400-600 bin kişi daha artmasını bekliyor. 
+     -KİMİN KAÇ ABONESİ VAR - Sanayi çevrelerinin istatistiklerine göre AOL'in halen 25 milyon, MSN'in 8.6 milyon, Earthlink'in ise 4.87 milyon abonesi bulunuyor. Bunların 3.9 milyonu, halen modem aracılığıyla internete bağlanıyor. 
+     ''United Online'', bu yılın ilk yarısında 21 milyon dolar kar sağladı. Abonman ücreti ayda 23.90 dolar olan bir AOL abonesi ayda 9.95 dolar ödeyerek ''United Online''a geçerse yılda 167.40 dolar tasarruf sağlayabilecek. 
+     Öte yandan, ''United Online''dan şikayetçi olanlar, bilgisayar ekranlarının reklamlarla dolduğunu, bağlantının sık sık kesildiğini ve hizmetin kullanıcıya baş ağrısı verdiğini belirtiyor. 
+     Büyük internet kuruluşlarının aksine ''United Online'', teknik yardım almak isteyen müşterilerinden dakika başına 2 dolar tahsil ediyor. 
+     
+</TEXT>
+</DOC>

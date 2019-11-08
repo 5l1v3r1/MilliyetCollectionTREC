@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 255746 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/15/son/sonyas03.html </URL>
+<DATE> 2004/07/15/ </DATE>
+<TIME> 07.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tuvaletlerden elektrik sağlanacak 
+</HEADLINE>
+<TEXT>
+
+     İngiltere'de Bilim Müzesi, müze ziyaretçilerinin kullandığı tuvaletlerdeki atıklardan enerji elde etmeyi planlıyor. 
+     Müze müdürü Jon Tucker, yılda ortalama 3 milyon kişinin müzeyi ziyaret ettiğini, elektrik faturalarınınsa çok yüksek olduğunu söyledi. 
+     Plana göre tuvaletlerdeki atıklar depolanarak mini bir elektrik santralı için yakıt olarak kullanılacak ya da elektriğe çevrilecek. 100 bin ziyaretçiden elde edilecek atığın 500 ampulü yakabilecek enerjiyi sağlayabileceği belirtiliyor. 
+
+     
+</TEXT>
+</DOC>

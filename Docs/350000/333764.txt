@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 333764 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/15/son/sontur13.html </URL>
+<DATE> 2005/04/15/ </DATE>
+<TIME> 10.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+PKK'nın internet sitesi hack'lendi 
+</HEADLINE>
+<TEXT>
+
+     ERZURUM, DHA 
+
+      TERÖR örgütü PKK Kongra-Gel'in internet sitesi hack'lenirken Aziz Şehit' adına el konuldu. Terör örgütünün sitesinde içinde Atatürk fotoğrafı bulunan bayrak ve Soner Arıca'nın Kusursuz Aşk' şarkısının müziği ekrana geliyor. 
+     Terör örgütünün http pkk-kongragel.com' adresli sitesine girmek isteyenler, karşılarında Türkiye Cumhuriyeti'nin kurucusu Mustafa Kemal Atatürk'ün kalpaklı fotoğrafının içinde yer aldığı ay- yıldızlı bayrakla karşılaşıyorlar. Sayfanın alt bölümünde "Bu siteye Devlet-i Ebed müddet ülküsüne gönül veren ve bu uğurda Gül bahçesine girercesine kara toprağa düşen' aziz şehitlerimiz adına el konulmuştur' denilirken, THSGroup.Org' imzası yer aldı. 
+     Aynı sayfada, Senin başucunda taş Bizim gözümüzde yaş Sen borcunu ödedin Sıra bizde gönüldaş' dörtlüğüne yer verildi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 377041 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/09/son/soneko17.html </URL>
+<DATE> 2005/09/09/ </DATE>
+<TIME> 10.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yapı Kredi'den GPRS'li POS cihazı... 
+</HEADLINE>
+<TEXT>
+
+     Yapı Kredi Bankası, GPRS teknolojisini kullanarak sabit bir hatta ihtiyaç duymadan işlem yapan POS terminali geliştirdi. 
+     Yapı Kredi Bankası'ndan yapılan yazılı açıklamaya göre, alışveriş noktalarında, zaman zaman yaşanan sabit hat problemleriyle işlemlerde soruna neden olan sabit telefon hattına bağlı yüksek maliyetli POS terminalleri yerine, sabit bir hatta ihtiyaç duymadan Turkcell SIM kartı ile GPRS teknolojisini kullanarak çok düşük maliyetlerle işlem yapılabilen POS cihazları üretildi. 
+     Kart pazarındaki bu yenilikle üye işyerlerinin, hem yüksek maliyetlerden kurtulacağı hem de sabit telefon hattıyla ilgili yaşadıkları problemleri yaşamayacakları belirtilen açıklamada, fiyatlandırılması işlem başına göre değil, gönderilen data üzerinden olan bu teknolojiyle yüksek işlem hacmiyle çalışan firmaların maliyetlerini büyük oranlarda düşürebileceği aktarıldı. 
+     Açıklamada, cihazların sabit telefon hattına ihtiyaç duyulmaması nedeniyle, sürekli yer değiştiren ve sabit hat problemi olan üye işyerleri için de maliyet haricinde ek bir kolaylık sağladığı belirtildi. 
+     Yapı Kredi Genel Müdür Yardımcısı Nazan Somer de konuyla ilgili olarak, şunları kaydetti 
+     ''Tüm üye işyerlerimizle iletişimimize daima önem ve öncelik verdik, onların sorunlarını yakından takip ettik. Yapı Kredi olarak kullanıcılarımızın ve üye işyerlerimizin ihtiyaçlarını daima göz önünde tutarak, en iyi fırsat ve tekliflerle onların yanında olmaya devam ediyoruz. Türkiye'de ilk defa Yapı Kredi tarafından kullanılan ve üye işyerlerimizin maliyetlerini düşürerek hayatlarını kolaylaştıracak GPRS'li masaüstü POS terminali teknolojisi ile aynı zamanda daha hızlı işlem yapmalarını sağlayarak yine, onların yanında olduğumuzu gösteriyoruz.'' 
+     
+</TEXT>
+</DOC>

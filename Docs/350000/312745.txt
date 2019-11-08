@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 312745 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/05/son/sonyas05.html </URL>
+<DATE> 2005/02/05/ </DATE>
+<TIME> 12.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+HP'den çığır açacak buluş 
+</HEADLINE>
+<TEXT>
+
+     HP, bilgisayar üretimi teknolojisinde çığır açacak bir buluş gerçekleştirdiğini açıkladı. 
+     HP'nin Hewlett-Packard geliştirdiği yeni teknolojinin bilgisayarların temel yapı taşlarından biri olan transistörlerin yerini tutabileceği iddia ediliyor. 
+     Journal of Applied Physics'te yayımlanan bir tebliğe göre, HP'nin kuvantum bilimi araştırma grubunun üç üyesi 'crossbar latch' adını verdikleri bir sistem geliştirdiler. 
+     
+     Sistemle transistör gereksiz 
+     Bu sistem sayesinde transistöre gerek kalmaksızın genel bilişim işlemleri için kullanılan sinyal restorasyon ve ters çevrim işlemleri gerçekleştirilebilecek. 
+     HP de, bu teknoloji sayesinde günümüzün bilgisayarlarından binlerce kez daha güçlü bilgisayarlar üretilebileceğini açıkladı. 
+     
+     Kilit unsur 'crossbar latch' 
+     Tebliğin yazarlarından biri olan Stan Williams, "bilgisayarı moleküler ölçekte yeniden icat ediyoruz. Nispeten ucuz ve üretimi kolay nanometre boyutlu cihazlar kullanarak üreteceğimiz bilgisayarda, 'crossbar latch' kilit bir unsur olacak" dedi. 
+     Bir diğer ekip üyesi olan Phil Kuekes ise, transistörlerin daha uzun yıllar boyunca konvansiyonel silikon devrelerle birlikte kullanılmaya devam edeceğini söyledi. 
+     Kuekes, "transistörlerin lambalı cihazların yerine geçtiği, lambalı cihazların da elektromanyetik rölelerin yerine geçtiği gibi, bu yeni sistem de bir gün bilgisayarlardaki transistörlerin yerine geçebilir" dedi. 
+     
+</TEXT>
+</DOC>

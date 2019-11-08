@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> 168605 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/11/ekonomi/aeko.html </URL>
+<DATE> 2003/07/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hacker'lar da bulamadı 
+</HEADLINE>
+<TEXT>
+
+BDDK, İmar Bankası'nın kayıtlarına ulaşmak için bilgisayar korsanlarını hacker kullandı. Dosyalar silindiği için sadece karanlık alanlar görüldü 
+     KADİFE ŞAHİN 
+
+     Bankacılık Düzenleme ve Denetleme Kurumu'nun BDDK 3 Temmuz'da el koyduğu İmar Bankası'nda yaptığı araştırmada resmi bilgisayar kayıtlarının silindiği ortaya çıktı. Mudilere mevduat ödemesinde bulunmak için resmi kayıtlara ulaşmaya çalışan BDDK, İmar Bankası'nın yönetiminden çekilen Uzanlar'ın kilitlediği bilgisayar sistemlerine girmek için bilgisayar korsanı hacker kullandı. 
+     Ancak açılan bilgisayar sistemlerinde bilgilerin tamamının silindiği, hacker'ların ulaşabileceği herhangi bir dosya bırakılmadığı belirtiliyor. Hacker'lar bankanın bilgisayar sisteminde büyük karanlık alanlar saptadı. 
+     
+     Merkez Yatırım'a inceleme 
+     BDDK yetkilileri, İmar Bankası'nın resmi muhasebe kayıtlarına ulaşmak için, Rumeli Holding, İmar Bankası ve Adabank'ın otomasyon işlerini yaptığı bildirilen Merkez Yatırım'a gitti. İmar Bankası'nın Mecidiyeköy'deki Genel Müdürlüğü'nün hemen arkasındaki binada yer alan şirket merkezine akşam saatlerinde gelen BDDK yetkilileri, herhangi bir açıklama yapmadılar. 
+     BDDK yetkililerinin yanı sıra taraf avukatları ve gözlemci olarak Mali Şube ekipleri de şirket merkezine geldi. Yetkililerin binaya girmesinin ardından şirketin kapısı kilitlendi. Bir süre sonra binanın önüne bir polis ekibi gelerek, beklemeye başladı. Yetkililer, çaycı ve hizmetlinin dışında kimsenin bulunmadığı binada inceleme yaptıktan sonra ayrıldılar. 
+     Bu arada, soruşturmayı yürüten savcılığın da Merkez Yatırım şirketi ilgililerinden muhasebe kayıtlarının bulunmasını istediği, verilmediği takdirde şirketin Genel Müdürü Mustafa Hakan ile bilgi işlemden sorumlu bir başka yöneticisinin gözaltına alınmasının beklendiği öğrenildi. 
+     
+Çalışanlar paralarını alamıyor      İmar Bankası'nda yönetimin Fon'a geçmesinden sonra zor durumda kalan çalışanlar halen maaşlarını alamadı. Mevduatların ödenmemesi nedeniyle öfkeli olan mudilerin hakaretlerine maruz kaldıklarını belirten çalışanlar, tazminatlarının bankada kalacağı kaygısıyla iş arayamadıklarını da bildirdi. Kayıtların bulunamamasını eleştiren çalışanlar, şubelerde her türlü kaydın bulunduğunu belirtti. 
+     
+Bono ve tahviller ödenecek      İmar Bankası'nda Hazine bonosu olanların paralarını alıp alamayacağına ilişkin görüştüğümüz BDDK yetkilileri, ödemelerde bir sorun olmadığını, mevduat gibi bonoların da ödeneceğini belirtti. Çalışmaların bir haftadır sürdüğünü, bir hafta daha süreleri olduğunu dile getiren yetkililer, çalışmalar sonuçlandığında bononun vadesine kadar tutulabileceği gibi vadesinden önce de tahsil edilebileceğini kaydediyor. 
+     
+Haciz de yapılamıyor      İmar Bankası'na el konulmadan önce, Adana Şubesi'nde vadesi dolan 194 milyar lirası ödenmeyen Mustafa Yılmaz'ın açtığı dava nedeniyle dün bankaya haciz için gidildi. Ancak, icra memuru, BDDK ile yapılan görüşme sonucu, bankaya el konulduğu için haciz yapamayacağını belirtti. Alacaklının avukatı Yusuf Özer ise haciz işleminin yapılması için mahkemeye itiraz edeceğini söyledi. 
+     
+     Ödemede zorluk çıkardılar 
+     ÇEAŞ ve Kepez Elektrik'e el konulduktan sonra İmar Bankası, mudilerinin paralarını ödemede zorluk çıkardı. Bunun üzerineYılmaz, avukat Özer'e başvurarak el konulmasından önce banka aleyhine icra takibi başlattı. Avukat Özer, 7 günlük yasal sürenin dün dolması üzerine Adana 3'üncü İcra Müdürlüğü'nden bir memur ile birlikte müvekkilinin alacağı için İmar Bankası Adana Şubesi'ne gitti. Ancak haciz işlemi yapılamadı. n NEŞET KARADAĞ ADANA DHA 
+     
+Alacak davası açılabilirMudiler paralarını almak için hangi hukuki yollara başvurabilir 
+     İmar Bankası mudileri, kayıtların saklanması nedeniyle mağdur edildikleri gerekçesiyle bankanın önceki yönetimi hakkında savcılığa suç duyurusunda bulunabilirler. Ayrıca mudilerin başvurabilecekleri hukuki yollar arasında Asliye Ticaret Mahkemesi'nde alacak davası açmak da yer alıyor. Ancak hakimin atayacağı bilirkişi alacak incelemesi için bankaya gönderilirse muhasebe kayıtları bulunamadığı için yine bir sonuca varılamayacaktır. Mudilerin izleyebilecekleri bir diğer hukuki yol da ilamsız takip yoluyla alacaklarının tahsili için bankaya dava açmak olabilir. Mahkemeye başvurularda hesap cüzdanının yanı sıra para yatırma dekontlarının da ibraz edilmesi sonuç almayı çabuklaştırabilir. 
+     
+Bir BDDK yetkilisi diyor ki 'Hesap defterlerini ciddiye alabiliriz'      Bankacılık Düzenleme ve Denetleme Kurumu yetkilileri, İmar Bankası mudilerinin paralarını ödemek için resmi kayıtlara ulaşmanın yolunu ararken, Kurum'dan bir yetkili mudilerin ellerindeki hesap cüzdanlarının ödeme için geçerli olabileceğini söyledi. Kıymetli evrak sayılmamasına karşın hukuki olarak mevduat cüzdanlarının alacak talebinde kullanılabileceğini ifade eden yetkili, resmi bilgilere ulaşılmaması durumunda bunun yapılması gerektiğini düşünüyor. Sahte hesap cüzdanları düzenlenebileceğini belirten bazı hukukçular ise bunun yapılmasının doğru olmayacağı yönünde görüş belirtti. 
+     
+
+</TEXT>
+</DOC>

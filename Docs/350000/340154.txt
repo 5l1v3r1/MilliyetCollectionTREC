@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 340154 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/06/son/soneko16.html </URL>
+<DATE> 2005/05/06/ </DATE>
+<TIME> 12.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı 94 puanlık kayıpla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeksi, dünkü kapanışa göre 94.72 puan düşerek seansı 25,005.15 puandan tamamladı. 
+     1. seansta, hisse senetlerinin ortalama değer kaybı yüzde 0.38 oldu. 
+     Dün 25,099.87 puandan kapanan İMKB Ulusal 100 Endeksi, ilk seansa 23.78 puan düşerek 25,076.09 puandan başladı. İlk yarıyı 24,973.21 puandan geçen endeks, seans içinde en düşük 24,795.84 puana kadar gerilerken, en yüksek 25,109.15 puanı gördü. 
+     Seans sonunda mali endeks 286.77 puan düşerek 36,937.00 puana, sanayi endeksi 60.16 puan düşerek 19,655.77 puana gerilerken, hizmetler endeksi 184.17 puan artarak 13,982.34 puana çıktı. 
+     Böylece önceki kapanışa göre, mali grup hisseler ortalama yüzde 0.77, sanayi grubu hisseler ortalama yüzde 0.31 oranında değer yitirirken, hizmetler grubu hisseler 1.33 oranında değer kazandı. 
+     1. seansta işlem gören toplam 304 hisse senedinden 101'i değer kazandı, 142'si değer kaybetti, 61 hissenin fiyatında ise değişiklik olmadı. Seansta, 333 milyon 498 bin 700 bin YTL'lik işlem hacmi oluştu. 
+     
+</TEXT>
+</DOC>

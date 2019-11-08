@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> 391222 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/31/son/sonyas14.html </URL>
+<DATE> 2005/10/31/ </DATE>
+<TIME> 10.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+3 yıl ömürlü pil 
+</HEADLINE>
+<TEXT>
+
+     Mobil cihazların yeteneklerinin artması en çok şarj ömrüne yansıyor. Sürekli daha gelişmiş cihazlar çıkıyor ancak hepsi daha çok enerji harcıyor. Pil teknolojisi konusunda özellikle müzikçalarlar ve cep telefonları alternatifleri deniyor ancak bu seferki girişim fotoğraf makinesi ve video kamera üreticisi Canon'dan geldi. Firmanın üstünde çalıtığı yeni yakıt pili teknolojisi üç yıl içinde firmanın modellerinde kullanılmaya başlanacak. Alkolün dönüştürülmesiyle ortaya çıkan hidrojen ve oksijenden enerji elde edilmesine dayanan yakıt pili teknolojisinde Canon'un çözümü yeniden doldurulabilir bir kartışla doğrudan hidrojen kullanımı üstüne geliştirilmiş. 
+     
+</TEXT>
+</DOC>

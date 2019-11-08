@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 164887 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/23/son/sondun14.html </URL>
+<DATE> 2003/06/23/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Marketlerde satılan somon balığında radyoaktif atık çıktı.. 
+</HEADLINE>
+<TEXT>
+
+     İngiltere'de, marketlerde satılan somon balıklarında radyoaktif atık tespit edildi. 
+     Tesco, Sainsbury's ve Marks and Spencer gibi ünlü marketlerde satılan somon balıkları üzerinde yapılan incelemelerde radyoaktif atık tespit edilmesi, İskoçya'daki Sellafield adlı nükleer enerji tesisini bir kez daha dikkatlere getirdi. 
+     Bu arada, paketlenmiş somon balıklarında bulunan maddenin Tc-99 adlı madde olduğu ve insan sağlığına zarar vermeyecek miktarda tespit edildiği belirtildi. 
+     Tc 99'un daha önce de Cumbria bölgesindeki nükleer tesisin yakınlarında avlanan bazı balıklar ile deniz yosunlarında görüldüğüne dikkat çeken Greenpeace'e mensup bilim adamları, Sellafield'in yarattığı çevre kirliliğinin mutlaka önlenmesini istediler. 
+     Hükümetin 1998 yılında Sellafield'den her türlü sızıntının yok edileceğine söz verdiğine, ancak bunların azalmak yerine arttığına dikkat çeken İngiliz basını, hükümeti verdiği sözleri yerine getirmemekle suçladı. 
+     Bu arada, Marks and Spencer gibi ünlü firmalar da, ürünlerinin taşıdığı öne sürülen radyoaktif madde oranının insan sağlığına zarar vermeyecek kadar düşük olduğu yolunda ısrarlı açıklamalar yapıyor. Marks and Spencer, İskoç balıkçılık sanayiinin durumdan zarar görmemesi için Greenpeace ile birlikte bölgedeki araştırma ve çalışmalara katılacağını bildirdi. 
+     
+</TEXT>
+</DOC>

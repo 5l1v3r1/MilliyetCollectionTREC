@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 268559 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/02/son/sonyas11.html </URL>
+<DATE> 2004/09/02/ </DATE>
+<TIME> 10.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Soya yağından biyolojik dizel yakıt denendi .. 
+</HEADLINE>
+<TEXT>
+
+     Brezilya'da, soya yağından elde edilen biyolojik dizel yakıtının, Peugeot ve Citroen otomobil firmalarının aynı çatı altında buluştuğu PSA Grubu otomobilleri üzerinde başarıyla test edildiği bildirildi. 
+     Sao Paulo Üniversitesi Temiz Teknolojiler Geliştirme Laboratuvarı araştırmacıları tarafından, soya yağından kimyasal dönüşüm yoluyla elde edilen maddenin yüzde 30 oranında yer aldığı, yüzde 70 de normal dizel kullanılarak elde edilen yeni yakıtın benzine oranla havayı yüzde 16 daha az kirlettiği belirtildi. 
+     Yeni yakıtın testlerinin bir yıldır Citroen Xsara Picasso ve Peugeot 206 model 2 otomobil üzerinde devam ettiği, bu yakıtı kullanılan otomobillerle 100 bin kilometre yol yapıldığı, araçlar 160 bin kilometreye ulaştığında yeni analizlerin yapılacağı kaydedildi. 
+     PSA'da motor ve yakıt araştırmaları uzmanı olarak çalışan Profesör Gerard Belot, yeni geliştirilen yakıtla çalışan otomobillerin benzinli otomobillerle benzer performans gösterdiğini ve birbirlerine yakın oranda yakıt tükettiğini ifade etti. Belot, biyolojik dizel yakıtla çalışan otomobillerin, egzoz emisyon oranlarının benzinli otomobillere göre yüzde 16 az olduğunu açıkladı. 
+     Yeni yakıtın geliştirilmesinden sorumlu Miguel Dabdoub da Brezilya'da soya yağından önce etanolden biyolojik yakıt elde edildiğini, ülkede yaygın olarak yetiştirilen soya fasulyesinin, yeni yakıtın yaygınlaşmasında önemli rol oynayacağını, ileride ayçiçeği ve palmiye yağından da biyolojik yakıtlar üretme projelerinin bulunduğunu belirtti. 
+     
+</TEXT>
+</DOC>

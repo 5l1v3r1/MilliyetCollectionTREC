@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 176250 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/17/yasam/ayas.html </URL>
+<DATE> 2003/08/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ohhh Elektrik varmış... 
+</HEADLINE>
+<TEXT>
+
+   Dünyaya ve uzaya meydan okuyan ABD'nin karizmasını yerle bir eden elektrik kesintisi giderildi, New York elektriği 'yeniden keşfetti' 
+      YASEMİN ÇONGAR Washington 
+   
+   New York kenti başta, ABD'nin kuzeydoğusunda birçok yerleşim birimi ile Kanada'nın Toronto ve Ottawa kentlerini yaklaşık 24 saat elektriksiz bırakan arıza, önceki akşamdan itibaren büyük ölçüde giderildi. 
+   New York, Detroit ve Cleveland'de yaşayanların büyük bölümü, hafta sonunu elektriksiz geçirmek zorunda kalmamanın memnuniyetini yaşarken, ABD ekonomisinin bu önemli merkezlerinde hayatın pazartesiden itibaren tümüyle normale dönmesi bekleniyor. 
+   Amerikan tarihinin gerek süresi gerekse etkilediği bölgenin genişliği ve insan sayısı bakımından en büyük elektrik kesintisine yol açan arızanın nedeni, ilk başta uzun süre netleştirilemedi. Ancak yetkililer sonunda, sistemin çökmesine ABD'nin orta - batı diye adlandırılan kuzey bölgesindeki bir santralda meydana gelen arızanın neden olduğunu bildirdiler. Tek bir santralın işlemez hale gelmesinin, beş dakika gibi kısa bir sürede toplam elektrik üretim gücü 62 bin megawatt olan 100'e yakın enerji santralını devreden çıkardığı anlaşıldı. 
+   
+   Broadway ışıklandı 
+   Arızanın olumsuz etkisi, özellikle ABD'nin doğusunda havaların çok sıcak olması nedeniyle artarken, havalandırma ve soğutma sistemlerinin çalışmaması, özellikle gıda endüstrisinde kayba neden oldu. Ancak New York'ta Broadway şovları, sinemalar, lokantalar ve gece kulüpleri cuma gecesinden itibaren yeniden açıldı. 
+   Cleveland ve Detroit kentlerinde ise, Göller Bölgesi'nden bu kentlere içme suyu pompalayan istasyonların devreden çıkması, elektriksizlik ile birlikte susuzluk krizini de başlattı. Arıtma sistemlerinin 24 saat devre dışı kalması, elektriklerin ve suların gelmesi sonrasında bile, halkın musluk sularını en az bir gün boyunca kaynatmadan kullanmaması yönünde uyarılara neden oldu. 
+   
+   
+</TEXT>
+</DOC>

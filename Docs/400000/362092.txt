@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 362092 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/18/son/soneko45.html </URL>
+<DATE> 2005/07/18/ </DATE>
+<TIME> 17.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Oyakbank'tan internet üzerinden kredi kartı başvurusu... 
+</HEADLINE>
+<TEXT>
+
+     OyakBank, müşterilerinin şubelere gitmeksizin kredi kartı başvurusunda bulunabilmesi amacıyla, internet sitesinden kredi kartı başvurusu uygulaması başlattı. 
+     Oyakbank'tan yapılan açıklamada, internetten alınacak başvurularda, zorunlu alanlar giriş anında kontrol edileceğinden eksik bilgi problemi yaşanmayacağı, ayrıca müşterilerin kendilerine başvuru anında verilen referans numarası ile internetten, başvurularının durumunu anlık olarak izleyebilecekleri kaydedildi. 
+     Başvurunun olumlu veya olumsuz sonuçlanması durumunda, e-posta adresini sağlayan müşterilere bilgilendirme mesajı gönderileceği bildirildi. 
+     Açıklamada, internetten alınan başvuru sonucunda basılan kartların, müşterinin tercih ettiği OyakBank şubesine gönderildiği, müşteriye kart teslim edilirken kimlik fotokopisi alındığı ve kimlik kontrolünden sonra mevcut kredi kartı başvuru formlarının ekinde yer alan kredi kartı sözleşmesinin müşteriye imzalatılarak kredi kartının teslim edildiği ifade edildi. 
+     Oyakbank kredi kartı başvurusu, www.oyakbank.com.tr adresinden yapılabiliyor. 
+     
+</TEXT>
+</DOC>

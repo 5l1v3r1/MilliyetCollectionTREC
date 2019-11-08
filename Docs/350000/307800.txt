@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 307800 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/19/son/soneko16.html </URL>
+<DATE> 2005/01/19/ </DATE>
+<TIME> 12.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa'dan yeni bir tarihi rekor 26,918 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeksi, dünkü kapanışa göre 104.97 puan artarak, 1. seansı 26,918.10. puandan YTL bazında yeni bir tarihi rekorla tamamladı. 
+     1. seansta hisse senetleri ortalama yüzde 0.39 değer kazandı. 
+     Dün 26,813.13 puandan kapanan İMKB Ulusal 100 Endeksi, ilk seansa 27.35 puan azalarak 26,785.78 puandan başladı. İlk yarıyı 26,647.40 puandan geçen endeks, seans içinde 26,443.18 puana kadar gerilerken, en yüksek kapanıştaki 26,918.10 puanı gördü. 
+     Seans sonunda mali endeks 451.66 puan artarak 39,053.51 puana yükselirken, sanayi endeksi 181.94 puan azalarak 21,930.64 puana ve hizmetler endeksi 42.45 puan azalarak 15,105.47 puana geriledi. 
+     Böylece önceki kapanışa göre, mali grup hisseler ortalama yüzde 1.17 değer kazandı. Sanayi grubu hisseler 0.82, hizmet grubu hisseler ortalama yüzde 0.28 değer kaybetti. 
+     1. seansta işlem gören toplam 302 hisse senedinden 60'ı değer kazandı, 189'u değer kaybetti, 53 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta, 567 milyon 704 bin 305 YTL'lik işlem hacmi oluştu. 
+     1. seansta Yapı ve Kredi Bankası, Doğan Holding, İhlas Holding, Boyner Büyük Mağazacılık ve Koç Holding en çok işlem gören hisse senetleri oldu. 
+     Bayram tatili nedeniyle bugün İMKB'de 2. seans yapılmayacak. 
+     
+</TEXT>
+</DOC>

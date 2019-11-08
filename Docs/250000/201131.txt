@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 201131 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/10/son/soneko08.html </URL>
+<DATE> 2003/12/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hazine, yarın borçlanma senedi değişim ihalesi yapacak 
+</HEADLINE>
+<TEXT>
+
+     Hazine, etkin borç yönetimi stratejisinin bir unsuru olarak, önümüzdeki dönemde iç borç servisinin dönemler arası dengeli dağılımını sağlamak ve iç borç stoğunun vadesini uzatmak hedefleri çerçevesinde yarın borçlanma senedi değişim ihalesi yapacak. 
+     Vadesi 3 Mart 2004'te dolacak 'TRT030304T26 ISIN'' kodlu senede ilişkin değişim ihalesinde, değişim işlemi karşılığında 26 Ocak 2005 vadeli ve TRT260105T12 ISIN'' kodlu senet 75 bin 70 lira birim fiyattan ihraç edilecek. 
+     Yatırımcılar, bu fiyat üzerinden satılacak olan senet karşılığında değişim amacıyla geri getirecekleri 3 Mart 2004 vadeli senet için fiyat teklifinde bulunacaklar. 
+     Tek fiyat ihale sistemine göre yapılacak ihalede, rekabetçi olmayan ROT satışlar yapılmayacak, ancak yine senet karşılığı olmak üzere ihale sonrası teklif satışları opsiyon gerçekleştirilecek. 
+     Piyasa yapıcılığı sözleşmesi gereği değişim ihalesine yalnızca piyasa yapıcı bankalar katılabilecek. 
+     
+</TEXT>
+</DOC>

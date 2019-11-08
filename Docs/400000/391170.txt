@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 391170 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/31/son/sontur11.html </URL>
+<DATE> 2005/10/31/ </DATE>
+<TIME> 10.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ADSL'de yeni uygulama yarın başlıyor... 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekomünikasyon A.Ş, ADSL’de en düşük bağlantı hızını yarından itibaren 512 128 Kbps’ye yükseltiyor. 
+     Uygulamayla, 256 64 Kbps hızında 3 GB limitli ADSL kullanan müşterilerin tarifeleri ve kullanım miktarları aynı kalmak kaydıyla bağlantı hızları 512 128 Kbps’ye yükseltilecek. 
+     256 Kbps hızla ADSL’e bağlanan limitli müşteriler, yarından 
+     itibaren aynı ücrete mevcut hızlarından daha yüksek hızda internete bağlanacak. 512 128 Kbps 5 GB limitli ADSL müşterilerin tarifeleri ve hızları sabit tutulmak kaydıyla kotaları da 6 Gigabayta çıkacak. Bunun yanı sıra 512 128 Kbps limitli erişime 9 Gigabaytlık yeni bir seçenek eklendi. Bu tarife seçeneğini müşteriler 69 YTL aylık ücretle kullanabilecekler. Uygulamanın başlamasıyla birlikte Türk Telekom’un 256 64 Kbps limitsiz ADSL müşterileri mevcut hızlarında hizmet almaya devam edebilecekleri gibi yürürlükteki tarifelerden birine de geçiş yapabilecekler. Yarından itibaren 256 64 Kbps hızında yeni müşteri kaydı yapılmayacak. Yeni dönemde 512 128 Kbps hızında 3 GB ve 6 GB limitli abonelikler yapılacak. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 352744 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/17/ekonomi/eko01.html </URL>
+<DATE> 2005/06/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yüklü faturalar için üçlü işbirliği 
+</HEADLINE>
+<TEXT>
+
+
+Turkcell, Telsim ve Avea, sınır yerleşim alanlarındakilerin yabancı GSM'cilere bağlanmaları nedeniyle kabaran faturaları önlemek için baz istasyonları artırılacak 
+
+Gülçin Üstün 
+
+Sınır yerleşim alanlarında yaşayanların ve tatil beldelerinde bulunanların farkında olmadan komşu ülkelerdeki GSM işletmecilerine bağlanmaları nedeniyle uluslararası konuşma yapmış sayılarak ödediği yüklü faturalar, rekabet içindeki GSM operatörleri Turkcell, Telsim ve Avea'yı işbirliğine götürdü. 
+Abonelerin tepkisi üzerine sektörün düzenleyici otoritesi olan Telekomünikasyon Kurumu'yla TK biraraya gelen GSM'ciler, sınır bölgelerindeki baz istasyonu sayısını artırmak için çalışma başlattı. Operatörler, çoğu sit alanı ve askeri bölge olan bu bölgelerde istasyon kurma izni alabilmek için TK'dan da destek istedi. 
+Telekomünikasyon Kurumu Başkanı Tayfun Acarer, Turkcell Genel Müdürü Muzaffer Akpınar, Telsim Genel Müdür Yardımcıları Hüseyin Köksaldı ile Aydın Çamlıbel ve Avea Genel Müdürü Cahit Paksoy geçen hafta biraraya gelerek GSM operatörlerinin sorunlarını masaya yatırdı. Toplantıda, sınır yerleşim alanlarındaki kapsama yetersizliği, GSM frekans spektrumu kullanımı, baz istasyonlarına tepki ve GSM alanında yerli üretim konularının görüşüldüğü öğrenildi. 
+Buna göre, GSM işletmecisi yetkilileri, sınır yerleşim alanlarında yaşayanların ve buralara seyahat edenlerin özellikle batıda Yunanistan, doğuda Suriye şirketlerinin kapsama alanına girmesi nedeniyle GSM operatörlerine şikayet yağdırdığını, durumun stratejik açıdan da sakıncaları olduğunu aktardı. 
+GSM'ciler bunun için mevcut baz istasyonlarının sinyal gücünü artırmayı önerirken, TK yetkilileri, bunun, ilgili yönetmelik uyarınca kabul edilemeyeceğini ifade etti. Yetkililer, Türkiye'de baz istasyonlarının ortama yaydıkları elektromanyetik alan etkisi şiddetinin Avrupa ülkelerinden daha düşük olduğunu belirtti. 
+
+'Ortak istasyon kurun' 
+Sınır bölgelerdeki baz istasyonlarının sayısının artırılması kararı alınırken, şirketler yer planlaması yapabilmek için ortak çalışma grupları oluşturdu. 
+TK yetkililerinin, şirketlerin ortak istasyon kurmasını önerdiği, şirketlerin ise "Bizim özel sektör olarak çözüme ulaşmadığımz yerde baz istasyonu kurma izni almamız için siz devreye girin" dediği öğrenildi. 
+
+
+</TEXT>
+</DOC>

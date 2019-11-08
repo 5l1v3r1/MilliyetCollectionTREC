@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 257848 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/24/son/soneko01.html </URL>
+<DATE> 2004/07/24/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacmi bakımından dünyanın en büyük borsası olan New York Borsası'nda, Dow Jones endeksi son iki aydır ilk kez 10.000 puanın altına düştü. 
+     Dow Jones 88.11 binde 88 puan düşerek, 9,962.22 puana indi. Teknoloji endeksi Nasdaq ise, 39.97 puan yüzde 2.12 gerileyerek, 1,849.09 puana düştü. 
+     Endekslerde görülen gerilemeye neden olarak, Coca-Cola, Microsoft ve Amazon firmalarının öngörülenden daha düşük kar açıklamaları gösterildi. 
+     
+</TEXT>
+</DOC>

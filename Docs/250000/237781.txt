@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 237781 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/06/son/soneko05.html </URL>
+<DATE> 2004/05/06/ </DATE>
+<TIME> 09.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tokyo Borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     Tokyo Menkul Kıymetler Borsası, düşüşle kapandı. 
+     Nikkei Endeksi, 190.45 puan yüzde 1.62 değer kaybederek 11,571.34 puana geriledi. 
+     Öte yandan, ABD Doları, 1.72 yen değer kaybederek 108.72 yen düzeyinden işlem gördü. 
+     Tokyo Borsası, pazartesi gününden bu yana, ulusal tatil nedeniyle kapalıydı. 
+     
+</TEXT>
+</DOC>

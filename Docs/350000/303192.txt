@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 303192 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/03/son/sonyas11.html </URL>
+<DATE> 2005/01/03/ </DATE>
+<TIME> 10.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Akıllı otoyola hoş geldiniz... 
+</HEADLINE>
+<TEXT>
+
+     BBC 
+
+      Almanya'nın uydu teknolojisi kullanarak otoyollarda araçları ağırlıklarına göre ücretlendirmeye yönelik projesi 2005'e girilmesiyle birlikte uygulamaya geçirildi. 
+     Kameralar ve uydu haberleşmesi ile otoyola giren araçların karayolunu ne kadar kullandıklarına göre ödeme yapmalarını öngören sistem sayesinde ilk gün 120 aracın ödemelerini yapmadığı belirlendi. 
+     Bu araçlar, yapmaları gereken ödemeye göre 75 ila 150 euro arasında değişen para cezalarına çarptırılacak. 
+     'Toll Collect' adı verilen sistemin uygulamaya geçmesi, teknik aksaklıklar nedeniyle 16 ayı bulan bir gecikmeye uğradı. 
+     Avrupa'nın en ileri otoyol ağını kurmayı hedefleyen Almanya için bu hem utanç verici bir durum oldu, hem de gecikmeler nedeniyle sistemin maliyeti büyük ölçüde arttı. 
+     Otoyola giriş ve çıkışta bir gişede ödeme yapılması yerine, Almanya'daki sistem, her araca bir cihaz yerleştirilmesini ve katedilen yolun uzunluğuna ve ücretine göre, ücretlendirmenin otomatik olarak belirlenip tahsil edilmesini öngörüyor. 
+     'Kullandığın kadar öde' sisteminin daha adil olduğunu vurgulayan hükümet, sistemin yılda 3 milyar 400 milyon dolar gelir getirmesini hedefliyor. 
+     Ayrıca sağlanacak başarı sayesinde geliştirilen sistemin başka ülkelere de ihrac edilmesi umuluyor. 
+     Avrupa Birliği, 2008 yılından itibaren Almanya’nın sunacağı sistemi standart kabul etme fikri üzerinde duruyor. 
+     
+     Avrupa'nın en yoğun yolları 
+     Avrupa’nın en başta gelen transit ülkelerinden Almanya, aynı zamanda Avrupa'nın en yoğun otoyollarına sahip. 
+     Her gün yüzbinlerce araç Doğu Avrupa’dan Batı Avrupa ülkelerine geçiş için Alman otoyollarını kullanıyor. 
+     Bunlardan yaklaşık 800 bininin ağır vasıta olduğu tahmin ediliyor. Bunların üçte biri de yabancı. 
+     Otoyollarda ortalama olarak kilometre başına 12,4 sent 22 yeni kuruş ücret alınıyor. 
+     
+</TEXT>
+</DOC>

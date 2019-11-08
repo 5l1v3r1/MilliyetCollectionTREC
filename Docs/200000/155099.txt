@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 155099 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/07/son/soneko28.html </URL>
+<DATE> 2003/05/07/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İMKB ikinci seası teknik problemle başladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB 2. Seans başında abonelere yapılan veri yayınında sorun yaşandı. 
+     Veri yayınındaki kesinti nedeniyle endeks ve seans bilgileri yaklaşık 10 dakika boyunca veri dağıtım şirketlerine sağlıklı bir şekilde ulaşmadı. 
+     Saat 14.11'de arızanın giderilmesi üzerine veri akışı normale döndü. 
+     İMKB Bileşik Endeksi Saat 14.11 itibariyle 33.78 puan kayıpla, 10.696.29 puana geriledi. Hisse senetleri açılışta yüzde 0.31 oranında değer yitirdi. 
+     
+</TEXT>
+</DOC>

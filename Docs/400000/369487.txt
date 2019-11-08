@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 369487 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/13/son/sondun09.html </URL>
+<DATE> 2005/08/13/ </DATE>
+<TIME> 11.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bombaları 'robot'lar bulacak .. 
+</HEADLINE>
+<TEXT>
+
+     Amerikan ordusu, Irak'ta yol kenarlarında bomba tespit edebilmek için robot kullanmaya başladı. 
+     Albay Gregory Tubbs, yol kenarına yerleştirilen bombaların Amerikan askerleri geçerken patlatıldığını hatırlatarak, buna önlem olarak robot kullanmaya başladıklarını bildirdi. Irak'ta 30 robot kullanmakta olduklarını, düzinelerce robotun da sipariş edildiğini belirtti. 
+     6 ay içinde 200 kadar robotu devreye sokmayı planladıklarını söyleyen Amerikalı general, tanesinin maliyeti 8 bin doları bulan robotlardan yüzlercesinin daha gerektiğini kaydetti. 
+     ''Marcbot'' adı verilen robot, kameralı ve tekerlekli küçük bir araç. Robotun koluna, birkaç yüz metre mesafeden kumanda edilebiliyor. Robot, sadece plastik torbalar ya da hayvan leşlerinin içine saklanan patlayıcıları görerek tespit amacıyla kullanılıyor. 
+     ''Toughbot'' adlı versiyon ise, sokak çatışmalarında kullanılmak üzere tasarlanmış. Mesela kapalı bir mekana asker yerine robot sokuluyor, robottaki iki kamera içerisinin ''temiz'' olup olmadığının anlaşılmasını sağlıyor. 
+     
+</TEXT>
+</DOC>

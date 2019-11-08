@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 160536 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/02/son/soneko17.html </URL>
+<DATE> 2003/06/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı 153 puanlık artışla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası İMKB Ulusal-100 Endeksi, 1. seansı 153.15 puan artışla 11,534.57 puandan tamamladı. 
+     Hisse senetlerinin ortalama değer kazancı yüzde 1.35 olarak gerçekleşti. 
+     Endeks, haftanın ilk seansına 1.43 puan kayıpla 11,379.99 puan seviyesinde başladı. Seansın ilk yarısını 136.23 puan artışla 11,517.65 puandan geçen endeks, en düşük 11,379.99, en yüksek 11,594.61 puanı gördü. 
+     Seans kapanışında mali endeks 168.38 puan artışla 13,550.04 puana, sanayi endeksi 111.43 puan artışla 11,961.81 puana, hizmetler endeksi 174.82 puan artışla 7,433.42 puana yükseldi. 
+     Böylece, önceki kapanışa göre mali grup hisseler ortalama yüzde 1.26, sanayi hisseleri ortalama yüzde 0.94 ve hizmetler grubu hisseler ortalama yüzde 2.41 oranında değer kazandı. 
+     İşlem gören toplam 282 hissenin 180'inin fiyatı arttı, 34'ü değer yitirdi, 68'inin fiyatı değişmedi. 
+     Seansta, toplam 305 trilyon 614 milyar 648 milyon liralık işlem hacmi oluştu. 
+     1. seansta, Doğan Holding, Yapı Kredi Bankası, Turkcell, Garanti Bankası ve İş Bankası C en yoğun işlem gören hisseler oldu. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 311816 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/02/son/sontur57.html </URL>
+<DATE> 2005/02/02/ </DATE>
+<TIME> 19.08 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Depremler uzay teknolojisiyle belirlenecek... 
+</HEADLINE>
+<TEXT>
+
+     Uydu aracılığıyla depremi önceden haber alma projesini geliştiren Rusya Avia Export Konsorsiyumu'nda çalışan Rusya Bilimler Akademisi Öğretim Üyesi Sergey Pulinets, ''Sistemi kullanmak isteyenlere önerimiz 8 uydu alınması. 4'ü alt, 4'ü üst kademelerde, farklı yörüngelerde olmalı'' dedi. 
+     Boğaziçi Üniversitesi BÜ Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü'nde ''Uzay ve uydu teknolojileri kullanılarak depremlerin izlenmesinde erken uyarı sistemleri'' konulu iki gün süren çalıştayın son gününde sunum yapan Pulinets, bu sistemin kurulması için öncelikle deprem habercilerinin doğru seçilmesi ve deprem hazırlık alanında spesifik özelliklere bağlı bilgiler toplanması gerektiğini kaydetti. 
+     Uydu sistemlerinin kurulmasıyla istenilen alanın 365 gün 24 saat taranacağını anlatan Pulinets, uydu sistemi projesi ile depremin birkaç gün önceden tahmin edilebildiğini bildirdi. 
+     Depremin yerinin 100-200 kilometrelik alan içinde tahmin edilebildiğini, sistemin tek bir noktayı değil, aktif tektonik fayı gösterdiğini dile getiren Pulinets, sistem sayesinde depremin şiddeti konusunda da fikir sahibi olunabileceğini kaydetti. 
+     Pulinets, bir uydu sisteminin tek başına etkili olamayacağını, yer bazlı ölçümlerle desteklenmesi gerektiğini vurgulayarak, ''Sistemi kullanmak isteyenlere önerimiz 8 uydu alınması. 4'ü alt, 4'ü üst kademelerde, farklı yörüngelerde olmalı'' dedi. 
+     
+     ''SİSTEM TÜRKİYE'DE DE KULLANILABİLİR'' 
+     Bu sistemin Türkiye'de de kullanılabileceğini dile getiren Pulinets, bu uyduların küçük uydular olduğunu, bu nedenle de çok pahalı olmayacağını savundu. 
+     Pulinets, sistemin şu anda sadece Tayvan'da olduğunu kaydetti. 
+     TÜBİTAK'tan sismolog Sedat İnan da İzmit depreminden sonra 2001 yılında İstanbul Büyükşehir Belediyesi'nin destekleriyle su kaynakları ve gazlarla ilgili bir çalışma başlattıklarını bildirdi. 
+     Su kaynaklarından alınan örneklerin günlük olarak kontrol edildiğini ve analizlerinin yapıldığını anlatan İnan, radon gazı izleme çalışmasını da başlattıklarını kaydetti. 
+     İnan, bugüne kadar yaptıkları radon gazı ölçümlerinde, depremden hemen önceki süreçte radon gazının maksimuma ulaştığı ve depremden sonra normale döndüğünün belirlendiğini bildirdi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 403050 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/13/son/soneko17.html </URL>
+<DATE> 2005/12/13/ </DATE>
+<TIME> 11.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Asimo, artık daha becerikli... Çay servisi de yapabiliyor 
+</HEADLINE>
+<TEXT>
+
+     Japon otomobil üreticisi Honda Motor Co.'nun geliştirdiği Asimo, artık eskisine göre daha becerikli. 
+     İlk geliştirildiğinde insan gibi yürümesi, yürürken dengesini koruması ve merdiven çıkabilmesiyle ilgiyi üzerine çeken 130 santimetre uzunluğundaki Asimo'nun yeni versiyonu, artık çok daha kullanışlı hale getirildi. 
+     Yeni versiyonun tanıtımında Asimo, ileride tıpkı bir resepsiyonist gibi servis yapabileceğini gösterdi. Gösteride, üzerindeki sensörlerle arkasındaki bir kadını algılayan asimo, arkasına dönüp kadını selamladı. 
+     Asimo, gösteride, bir kişiden aldığı tepsi içindeki kahve fincanlarını, hayali müşterilerine servis etmeyi de başardı. 
+     Yeni Asimo, ilk geliştirildiği versiyondaki saatte 3 kilometre yürüme hızını 6 kilometreye çıkardı. 
+     Honda, Asimo'nun yeteneklerini önümüzdeki yıl kendi ofislerinde kullanmayı planladığını açıkladı. 
+     
+</TEXT>
+</DOC>

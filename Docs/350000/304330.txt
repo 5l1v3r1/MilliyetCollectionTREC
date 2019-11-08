@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 304330 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/07/son/soneko14.html </URL>
+<DATE> 2005/01/07/ </DATE>
+<TIME> 10.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Motorlu Taşıt Vergisi, Kasko değerinin yüzde 5'ini aşarsa... 
+</HEADLINE>
+<TEXT>
+
+     Motorlu Taşıtlar vergisinde, verginin Kasko Sigortası değerinin yüzde 5'ini aşması halinde, bir alt kademedeki taşıtlara isabet eden vergi tutarı uygulanacak. 
+     Uygulama, mükelleflerin müracaatı üzerine yapılacak. 
+     Bu arada, mükelleflerin bu uygulamadan yararlanabilmesi için, taşıtların Kasko sigortası poliçesine sahip olmaları zorunlu olmayacak. 
+     Maliye Bakanlığı'nın Motorlu Taşıtlar Vergisi Genel Tebliği bugünkü Resmi Gazete'de yayımlandı. 
+     Buna göre, otomobil, kaptıkaçtı, arazi taşıtları ve benzeri taşıtlar için 2005 yılında uygulanacak olan motorlu taşıtlar vergisi tutarlarının, Türkiye Sigorta ve Reasürans Şirketleri Birliği tarafından cinsi, kodu, modeli, markası, tipi ve yaşı esas alınarak yayınlanan ve yetkili sigorta acentelerine bildirilen, 2005 yılı Ocak ayı itibariyle uygulanacak 71 numaralı ''Motorlu Kara Taşıtları Kasko Değer Listesi'' nde yer alan kasko sigortası değerlerinin yüzde 5' ini aşması halinde, aynı yaş grubunda bulunan taşıtlara ait vergi tutarları, bir alt kademedeki taşıtlara isabet eden vergi tutarı olarak uygulanacak. 
+     Söz gelimi, Motor silindir hacmi 4200 cm olan 1994 model 12 yaşında bir taşıtın kasko sigortasına esas olan değerinin 40.000 YTL olması halinde, 2005 yılında ödenmesi gereken motorlu taşıtlar vergisi tutarı, Taşıtın kasko sigortasına esas değeri olan 40.000 YTL ile Taşıtın kasko sigortası değerinin 5'i 2.000 YTL çarpımı sonucunda 40.000 X 5 2.000 YTL, 2005 yılında ödenmesi gereken MTV tutarı 2.001 YTL olarak hesaplanacak. 
+     Bir alt kademeye göre ödenmesi gereken MTV tutarı hesaplanırken, Örnekte görüldüğü üzere, motorlu taşıtlar vergisi tutarı kasko sigortası değerinin 5'ini aştığından, taşıtın yer aldığı motor silindir hacmi 4001 cm yukarısı ve 12-15 yaş grubunun, bir alt kademesinde yer alan 3501-4000 cm arası ve 12-15 yaş grubu için ödenmesi gereken motorlu taşıtlar vergisi tutarı 1.390 YTL ödenecek. 
+     Bu uygulama mükelleflerin müracaatı üzerine yapılırken, mükelleflerin bu uygulamadan yararlanabilmesi için, taşıtların kasko sigortası poliçesine sahip olmaları zorunlu olmayacak. 
+     
+     KASKO SİGORTASI DEĞERİNİN BELİRLENMESİ 
+
+     Otomobil, kaptıkaçtı, arazi taşıtları ve benzeri taşıtların kasko sigortası değerlerinin belirlenmesinde, Türkiye Sigorta ve Reasürans Şirketleri Birliği tarafından 2005 yılının Ocak ayında yayınlanan ve taşıtların cinsi, kodu, modeli, markası, tipi ve yaşı itibariyle kasko sigortası değerlerinin yer aldığı 71 numaralı 'Motorlu Kara Taşıtları Kasko Değer Listesi' esas alınacak. 
+     Taşıtların kasko sigortasına esas olan değeri, 71 Nolu, ''Motorlu Kara Taşıtları Kasko Değer Listesi''nde belirtilen değerin üzerinde veya aşağısında olamayacak. 
+     Kasko sigortası değerinin belirlenmesinde 71 numaralı 'Motorlu Kara Taşıtları Kasko Değer Listesi'nde yer alan değer esas alınacak, kasko sigortası poliçesinde belirtilen sigorta değerine göre işlem yapılmayacak. 
+     Herhangi bir nedenle hasarlı duruma gelmiş olan taşıtların hasar durumları, motorlu taşıtlar vergisi tutarı için esas alınacak olan kasko sigortası değerinin belirlenmesinde dikkate alınmayacak. 
+     
+</TEXT>
+</DOC>

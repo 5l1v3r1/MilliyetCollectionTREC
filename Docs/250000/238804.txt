@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 238804 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/10/son/soneko27.html </URL>
+<DATE> 2004/05/10/ </DATE>
+<TIME> 17.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düşüşle güne başladı... 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacmi bakımından dünyanın en büyük borsası konumunda olan New York'ta endeksler düşük açıldı. 
+     Açılıştan kısa bir süre sonra Dow Jones Endeksi 39.60 puan azalarak 10,077.74 puana, teknoloji endeksi 15.10 gerileyerek 1,902.86 puana indi. 
+     Endekslerde görülen gerilemeye neden olarak, ABD Merkez Bankası'nın en erken Haziran ayında faizleri yükseltebileceği yolunda yatırımcılar arasında oluşan düşüncenin güçlenmesi gösterildi. 
+     
+</TEXT>
+</DOC>

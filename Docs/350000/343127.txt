@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 343127 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/16/son/sonyas16.html </URL>
+<DATE> 2005/05/16/ </DATE>
+<TIME> 15.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dikkat Yeni virüs 'Sober' yayılıyor 
+</HEADLINE>
+<TEXT>
+
+     İsviçre’de, bilgisayar virüsü "Sober"in yeni sürümü yayılıyor. 
+     Elektronik postaları filtreleme konusunda uzmanlaşmış Apexis Cleanmail adlı güvenlik şirketinin bildirdiğine göre, cumartesiyi pazara bağlayan gece elektronik posta mesajlarında görülmeye başlayan "Sober Q" adlı virüs versiyonu, bütün hızıyla yayılmaya devam ediyor. 
+     Virüsü "potansiyel tehlike" olarak nitelendiren şirket yetkililerinin açıklamasına göre, virüs korunmasız bilgisayarları istenmeyen mesaj veya "spam" yağmuruna tutuyor. Şirketin filtreden geçirdiği mesajların yüzde 80’inde virüs bulunduğu belirtildi. 
+     Solucan türündeki virüsün bir önceki sürümü "Worms-Sober.S" mayıs başında ortaya çıkmıştı. Virüs, FİFA’dan gönderilmiş mesaj görüntüsü veriyordu. 
+     
+</TEXT>
+</DOC>

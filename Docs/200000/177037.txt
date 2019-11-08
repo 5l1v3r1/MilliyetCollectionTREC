@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 177037 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/20/son/sontur14.html </URL>
+<DATE> 2003/08/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Alo Post hizmeti artık internette... 
+</HEADLINE>
+<TEXT>
+
+     Posta ve Telgraf Teşkilatı PTT Genel Müdürlüğü'nün Alo Post 169 hizmeti, internetten de verilmeye başlandı. 
+     Ankara'da başlatılan hizmet, hafta sonundan itibaren İstanbul'un Avrupa ve Anadolu yakası ile İzmir'de de müşterilere verilmeye başlanacak. 
+     Hizmetten yararlanmak isteyen müşterilerin, öncelikle, internetteki ''www.ptt.gov.tr'' adresli sitedeki ilgili bölüme girmeleri ve gönderinin teslim alınacağı ve teslim edileceği il, gönderici ve alıcının adres bilgilerini içeren formu doldurmaları gerekiyor. 
+     Form doldurulup ''devam'' tuşuna basılmasının ardından, müşteriye bir kod numarası veriliyor. Müşteri, gönderisinin yerine ulaşıp ulaşmadığını, istediği zaman bu kod numarasını girerek öğrenebiliyor. 
+     PTT Genel Müdürlüğü'nün 1989 yılından beri verdiği Alo Post hizmeti, gönderilerin, mümkün olan en hızlı şekilde, kurye aracılığıyla adresten alınıp adrese teslimine olanak sağlıyor. 
+     Hizmet, şu anda Ankara, İstanbul, İzmir, Antalya ve Adana'da veriliyor. 
+     
+</TEXT>
+</DOC>

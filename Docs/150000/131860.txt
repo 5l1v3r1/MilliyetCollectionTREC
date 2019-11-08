@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 131860 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/01/19/son/sontur10.html </URL>
+<DATE> 2003/01/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türkiye'nin ilk Türkçe internet güvenlik programı hazır 
+</HEADLINE>
+<TEXT>
+
+     Erciyes Üniversitesi Mühendislik Fakültesi Bilgisayar Mühendisliği Bölümü'nce geliştirilen Türkiye'nin ilk Türkçe veri gizleme programı ''TürkSteg'' sayesinde, internet üzerinden gönderilen gizli veriler, bir resimin içerisine saklanabiliyor. 
+     Bilgisayar Mühendisliği Bölümü Öğretim Üyesi Doç. Dr. Şeref Sağıroğlu, günümüzde elektronik haberleşmenin hızla yaygınlaşmasıyla, kişisel veri güvenliğinin daha da önem kazandığını söyledi. 
+     İnternet ortamında dokümanların güvenli gönderilmesi ve alınması için onbinlerce yaklaşım bulunduğunu ifade eden Sağıroğlu, yüksek lisans öğrencisi Mehmet Tunçkanat ile birlikte yaklaşık 1 yıldır üzerinde çalıştıkları ''TürkSteg'' veri saklama programını geliştirdiklerini anlattı. 
+     Sağıroğlu, geliştirdikleri ''TürkSteg'' yazılımını, Türk internet kullanıcılarının hizmetine sunduklarını belirterek, şunları anlattı 
+     ''Bu yazılımı geliştirmekteki amacımız öncelikle elektronik ortamı kullananların kişisel veri güvenliğini sağlamaktır. Yazılımın Türkçe olması da Türk internet kullanıcılarının kendi dillerinde güvenli şekilde elektronik haberleşmelerini sağlayacaktır. TürkSteg sayesinde bir resimin içerisine gizlenen veriler, kesinlikle anlaşılamamakta, resimin boyutlarında herhangi değişiklik de olmamaktadır. Gizlenen verinin veya dokümanın farklı kişiler tarafından elde edilmesi mümkün olsa da resim içerisindeki bilgiyi elde etmeleri oldukça zordur. Veriler veya dokümanlar, seçilen bir resim içerisine otomatik olarak gizlenmektedir. İçerisine bilgi gizlenen resim karşı alıcıya gönderilmekte ve bu resimi alan kişi yine aynı yazılımı kullanarak resim içerisinden bilgileri otomatik olarak elde edebilmektedir. Bu güvenli haberleşmeyi yapmak isteyen taraflarda 'TürkSteg' yazılımının bulunması gereklidir. Bu yazılım otomatik olarak hem gizleme hem de gizli mesajları tekrar geri elde etme kabiliyetine sahiptir. 
+     Böyle bir programın kötü niyetli kişiler tarafından kolaylıkla kullanılabileceği göz önüne alınırsa, ülkemizdeki güvenlik birimlerinin bu tür yaklaşımları yakından takip ediyor olmaları gerekmektedir.'' Sağıroğlu, yazılımın daha gelişmiş versiyonunu da hazırladıklarını ancak, bunu akademik kullanıma sunacaklarını belirtti. İnternet kullanıcılarının TürkSteg yazılımını ''http mf.erciyes.edu.tr turksteg'' adresinden ücretsiz indirip kullanabileceklerini kaydeden Sağıroğlu, yurtdışında geliştirilen benzer programların 5-50 dolar arasında satıldığını, bir süre sonra kendilerinin de bu yazılımın daha gelişmiş versiyonlarını kullanıcılara sunacaklarını bildirdi. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 360056 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/11/son/soneko03.html </URL>
+<DATE> 2005/07/11/ </DATE>
+<TIME> 09.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Merkez Bankası, kısa vadeli faiz oranlarını değiştirmedi... 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası, kısa vadeli faiz oranlarını değiştirmedi. 
+     Merkez Bankası tarafından yapılan açıklamada, Banka bünyesindeki Bankalararası Para Piyasası ve İstanbul Menkul Kıymetler Borsası Repo-Ters Repo Pazarı'nda uygulamakta olan ''kısa vadeli'' faiz oranlarının değiştirilmemesine karar verildiği bildirildi. 
+     Söz konusu kararın gerekçesini açıklayan ''Enflasyon ve Görünüm'' başlıklı raporun ise 8 Temmuz Cuma günü Para Politikası Kurulu toplantısında yapılan değerlendirmeleri de göz önüne alacak şekilde, iki iş günü içinde yayımlanacağı belirtildi. 
+     Merkez Bankası en son 9 Haziran tarihinde, kısa vadeli faizlerde ''çeyrek'' puanlık indirime gitmişti. 
+     Söz konusu tarihte gecelik faiz oranlarında borçlanma faiz oranı yüzde 14.50'den yüzde 14.25'e düşürülürken, borç verme faiz oranı yüzde 18.50''den yüzde 18.25'e indirilmişti. 
+     Diğer vadelerde 1 haftalık borçlanma faiz oranı yüzde 14.50'den yüzde 14.25'e düşürülmüştü. 
+     Geç likidite penceresi faiz oranlarında, geç likidite penceresi uygulaması çerçevesinde, Bankalararası Para Piyasası'nda saat 16.00 - 16.30 arası gecelik vadede uygulanan Banka borç verme faiz oranı yüzde 22.50'den yüzde 22.25'e düşürülürken, yüzde 5 olan borçlanma faiz oranı değiştirilmemişti. 
+     Açık piyasa işlemleri çerçevesinde piyasa yapıcısı bankalara repo işlemleri yoluyla gecelik ve bir haftalık vadelerde tanınan borçlanma imkanının faiz oranları da, yüzde 16.50'den yüzde 16.25'e düşürülmüştü. 
+
+     
+</TEXT>
+</DOC>

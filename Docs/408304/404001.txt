@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 404001 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/16/son/soneko30.html </URL>
+<DATE> 2005/12/16/ </DATE>
+<TIME> 13.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+AB'de enflasyon geriliyor... 
+</HEADLINE>
+<TEXT>
+
+     AB istatistik kurumu Eurostat, kasım ayı verilerine göre ortalama yıllık enflasyonun avro kullanan 12 ülkede yüzde 2,3'e, 25 ülkenin tamamında da yine yüzde 2,3'e gerilediğini açıkladı. 
+     AB'deki enflasyonda akaryakıt, tütün ve doğalgaz gibi alt ürünler en büyük pay sahibi olurken telekomünikasyon, iletişim ve bilişim sektörlerinde eksi enflasyon gözlendi. 
+     Petrol fiyatlarının rekor seviyelerde bulunduğu eylül ayında avro kullanan ülkelerde yüzde 2,6 ve birlik genelinde yüzde 2,5 seviyesine kadar çıkan enflasyon, endişe yaratmıştı. 
+     Eurostat verilerine göre avro ülkelerinde, kasım sonu itibarı ile yıllık enflasyon oranları şöyle ''Finlandiya yüzde 1 , Hollanda ve Avusturya yüzde 1,6 , Fransa yüzde 1,8 , İrlanda yüzde 2,2 , Almanya yüzde 2,3 , Belçika ve İtalya yüzde 2,4 , Portekiz yüzde 2,5 , İspanya ve Yunanistan yüzde 3,4 ve Lüksemburg yüzde 3,6 .'' Ortak para kullanmayan AB üyesi ülkelerde yıllık enflasyon oranları ise şöyle ''Polonya yüzde 1,1 , İsveç yüzde 1,2 , Danimarka yüzde 1,9 , Kıbrıs Rum kesimi yüzde 2 , İngiltere ve Slovenya yüzde 2,1 , Çek Cumhuriyeti yüzde 2,2 , Litvanya yüzde 2,8 , Macaristan yüzde 3 , Slovakya yüzde 3,6 , Estonya yüzde 4 , Malta yüzde 4,3 ve Letonya yüzde 7,5 .'' AB'ninkinden farklı bir metodla hesaplanan ABD'nin yıllık enflasyonu, kasım ayı itibariyle yüzde 3,5 seviyesinde bulunuyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 398485 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/27/son/sonyas04.html </URL>
+<DATE> 2005/11/27/ </DATE>
+<TIME> 15.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İlk özel roketin fırlatılışına erteleme... 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın özel girişime ait ilk roketi Falcon 1'in Şahin 1 fırlatılışı, kötü hava koşulları ve teknik arıza yüzünden belirsiz bir tarihe ertelendi. 
+     Düşük maliyetli füzeyi üreten SpaceX şirketinin kurucusu Elon Musk, yaptığı yazılı açıklamada, dün yapılması planlanan fırlatma işleminin kötü hava koşulları, bilgisayar arızası ve sıvı oksijen tankının yeniden doldurulması zorunluluğundan ötürü ertelendiğini belirterek, Falcon 1'in fırlatılması için gelecek hafta yeni bir takvim belirleneceğini kaydetti. 
+     SpaceX'in Büyük Okyanus'ta Marshall Adaları'ndaki Kwajalein Atolü'ndeki tesisinden fırlatılacak roket, İleri Savunma Araştırma Projeleri Kurumu DARPA ile Amerikan Hava Kuvvetleri'nin ortak yapımı olan FalconSat-2 adlı uyduyu yörüngeye yerleştirecekti. Amerikan Hava Kuvvetleri Akademisi öğrencileri tarafından üretilen 800 bin dolar değerindeki uydu, uzay araştırmaları ile navigasyon ve iletişim amaçlı kullanacak. 
+     California'nın El Segundo kentinde kurulu SpaceX şirketi, dün fırlatmayı planladığı ticari füzeyi 3 yıldır geliştiriyordu. 2 katlı ve 21 metre uzunluğundaki roketin üretim ve fırlatma maliyetinin 6,7 milyon doları bulduğu belirtiliyor. 
+     Merlin adı verilen yeni tür hidrokarbon motoruyla 10 dakikadan az bir sürede yörüngeye ulaşabilecek kapasiteye sahip dünyanın ilk ticari roketi, aynı zamanda şimdiye kadar üretilen ilk yarı-yeniden kullanabilir füze olma özelliğini taşıyor. 
+     Füzenin en önemli özelliği ise, şimdiye dek üretilen en düşük maliyetli uzay aracı olması. 
+     
+</TEXT>
+</DOC>

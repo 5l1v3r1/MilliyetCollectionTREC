@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 314449 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/11/son/soneko45.html </URL>
+<DATE> 2005/02/11/ </DATE>
+<TIME> 17.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düşüşle açıldı... 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası güne düşüşle başladı. 
+     Borsanın açılışında, düne göre Dow Jones Endeksi 10,87 puan azalıp 10,738.74 puana, Nasdaq Endeksi de 5 puan azalıp 2,048.10 puana indi. 
+     Borsanın düşüşünde, Dell bilgisayar şirketinin düşük gelir açıklamasının teknoloji sektörünün geneline karşı olumsuz beklentiler yaratması etkili oldu. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 159914 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/30/son/sondun13.html </URL>
+<DATE> 2003/05/30/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Japonya'nın uzay araştırmalarında bir ilk... 
+</HEADLINE>
+<TEXT>
+
+     Japonya, uzay araştırmaları kapsamında ilk kez, uzayda üretilen bir maddeyi taşıyan kapsülü yeniden Dünya'ya getirmeyi başardı. 
+     Ekonomi, Ticaret ve Sanayi Bakanlığı'ndan bir yetkilinin açıklamasına göre, başkent Tokyo'nun yaklaşık 1800 kilometre güneydoğusunda, Minamitori-Şima adası yakınlarına indirilen kapsül Büyük Okyanus'tan çıkarıldı. 
+     Japonya'nın bugüne kadar, uzaya gönderdiği bir kapsülü, yeniden atmosfere girerken yanmadan Dünya'ya döndürebilecek ya da belirli bir yere indirebilecek teknolojisi bulunmuyordu. 
+     Araştırmacıların kapsülü, Dünya'dan 500 kilometre yükseklikte yaklaşık 8 ay boyunca yörüngede dönerken, aşırı soğukta elektrik akımını dirençsiz olarak geçirebilen maddeler üretmek üzere kullandığı belirtildi. 
+     Özellikle, en etkin biçimde, yerçekiminin az olduğu ortamlarda üretilebilen bu maddelerin, enerji verimliliğiyle ilgili daha ileri çalışmalarda kullanılacağı kaydediliyor. 
+     Japonya, insansız uzay aracındaki kapsülü geçen yıl Eylül ayında H2-A roketiyle uzaya göndermişti. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,42 @@
+<DOC>
+<DOCNO> 217440 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/24/son/soneko19.html </URL>
+<DATE> 2004/02/24/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Koç.net'in güvenlik raporu şirketler hakkında alarm veriyor 
+</HEADLINE>
+<TEXT>
+
+     Koç Bilgi Grubu şirketlerinden Koç.net'in yaptığı rizikometre araştırması, firmaların yüksek düzeyde bilgi güvenliği riski taşıdığını ortaya koydu. 
+     Koç.net'in geçen yıl Ağustos-Eylül ayları arasında ücretsiz güvenlik denetimi kampanyası yaptığı 1.000 civarında küçüklü büyüklü firmanın güvenlik risklerini belirlemeye yönelik raporuna göre, denetimi yapılan şirketlerin yüzde 87'si farklı düzeylerde güvenlik riski taşıyor. Yüzde 56'sının web sunucu bilgileri kolaylıkla çalınabilir, ana sayfaları değiştirilebilir veya bir başka adrese yönlendirilebilir. 
+     Yüzde 43'ünün DNS sunucularındaki açıklardan dolayı şirket mail'leri ele geçirilebilir veya çalışanların internet üzerinden eriştiği bankacılık gibi işlemlerde kullanılan şifreler çalınabilir. 
+     Yüzde 28'inin güvenlik duvarları konfigurasyonu kötü olduğu için by-pass edilerek her türlü bilgiye erişilebilir. 
+     Yüzde 29'unun sistemlerinde çok yüksek seviyede açıklar bulunuyor. 
+     Bulgulara göre, genel olarak bakıldığında en büyük tehditlerin halka açık bırakılması zorunlu olan http, ftp, smtp ve dns hizmetlerinden kaynaklandığı gözlendi. Bu servisler ile şirketler iş ortakları ile haberleşmekte, ürünlerini müşterilerine pazarlayabilmektedir. Şirketlerin iş süreçlerinin önemli bir bölümünü içeren bu servislerdeki güvenlik açıklarının kötü niyetli kişiler tarafından kullanılması durumunda firmaya telafisi mümkün olmayan zararlar verecektir. Buna ek olarak halka açılması sakıncalı olan servislerin filtrelenmesindeki en önemli unsur olan güvenlik duvarlarında firewall da ciddi eksiklikler olduğu görüldü. İncelenen firmaların yaklaşık olarak yüzde 30'unun güvenlik duvarı konfigurasyonunda problem bulunuyor. 
+     Bu durumun evin kapısının kontrolsüz ve kilitsiz olarak bırakılmasıyla eş anlamlı tutulabileceğine işaret edilen raporda, ''Kısaca şirketlerin tüm dosyaları, veritabanında tutulan tüm bilgileri kontrolsüz bir şekilde tüm dünyaya açık durumda bırakılmıştır'' denildi. 
+     Symantec'in Amerika'daki şirketlerde güvenlik riskleri ile ilgili 2003'ün ilk altı ayını kapsayan araştırmasının sonuçlarına göre, şirketlerin yüzde 12'sinde web uygulama açığı bulunduğuna dikkat çekilen raporda, web açıkları bölümü ile karşılaştırıldığında Türkiye'deki şirketlerin Amerika'daki şirketlerin 4 katı kadar güvenlik açığına sahip olduğunun ortaya çıktığı vurgulandı. 
+     
+     TEKSTİLDE CİDDİ RİSKLER 
+     Raporda öne çıkan diğer bir önemli problem de internete açılmaması gereken servislerin güvenlik duvarı firewall ile kontrol altına alınmamasından kaynaklandığı bildirildi. 
+     Rapora göre, güvenlik duvarı konusunda özellikle eğitim, perakende, kamu ve tekstil sektörlerinde çok ciddi risklerin taşındığı gözlendi. Bu sektörlerde bulunan şirketlerin Türkiye ekonomisindeki yerinin büyüklüğü ve eğitim gibi stratejik öneme sahip olmaları, karşılaşılabilecek risklerin boyutunun da çok büyük olacağını gösteriyor. 
+     Yüksek seviyedeki açıkların sektörel dağılımına bakıldığında en az riskin enerji ve sağlık sektöründe, en çok olasılığın ise eğitim, kamu ve perakende sektörü firmalarında olduğu görülüyor. 
+     Genellikle bu açıkların temeli, kullanılan uygulamalara ait güvenlik yamalarının düzenli takip edilmemesinden kaynaklanıyor. Neredeyse her gün CERT, Security Focus gibi kuruluşlar tarafından bilişim ürünlerinin yeni açıklarına karşı duyurulan korumaların şirketler tarafından düzenli takip edilmesi gerektiği, aksi taktirde şirketlerin bu sistemlerini hacker'lara ve son zamanlarda oldukça büyük zararlar veren ve çok hızla yayılan worm saldırılarına karşı koruyamayacakları vurgulandı. 
+     
+     KOBİ'LERİN MÜŞTERİLERİ DE RİSK ALTINDA 
+     Rizikometre araştırması sonuçları incelenirken tüm sektörlerde faaliyet gösteren KOBİ'lerle ilgili de detaylı analiz yapıldı. Bu çalışma, kampanyaya katılan şirketlerin yüzde 60'ını oluşturan KOBİ'lerle ilgili şu bulguları ortaya çıkardı 
+     -''KOBİ'lerin yüzde 70'inde güvenlik duvarı kullanılmamaktadır veya konfigurasyonunda ciddi eksiklikler vardır. 
+     -Yüksek seviyeli açıkların yüzde 40'ı web servislerindeki açıklardan kaynaklanmaktadır. Bu durum e-ticaret yapan KOBİ'lerin hem kendilerinin hem de müşterilerinin yüksek risk altında olduğunu göstermektedir. 
+     -KOBİ'lerin yüzde 20'si veritabanlarını tüm internet erişimine açmıştır. Bu şirketlerin kritik verilerinin hepsine ürün, müşteri bilgileri-kredi kartı, müşteri ad adres bilgisi, finansal bilgiler vb kolaylıkla erişilebilir. 
+     -KOBİ'lerin yüzde 15'i dosya sunucuları tüm internetten erişilebilir durumdadır. Bu şirketlerin tüm kritik bilgilerine kolaylıkla erişilebilir.'' Koç.net raporunda, özellikle 2004'te Telekom tarafından verilen rakamlara göre çok artması beklenen genişbant hizmetleri ile internet erişimine sahip KOBİ'lerin sayısının çok daha fazla artacağına işaret edilerek, ''Bu durum belirtilen riskleri gidermeden internete bağlanacak KOBİ'lerin, internet erişimi ile yarardan çok zarara uğrayabilecekleri aşikardır'' değerlendirmesine yer verildi. 
+     
+     SONUÇ 
+     İnternete açık sistemlerin yalnızca yüzde 13'ünde güvenlik açığı doğurabilecek probleme rastlanmadığı, kalan yüzde 87 gibi büyük bir kesimde belli oranda risk taşıyan güvenlik açıkları tespit edildiği belirtilen raporda, şu uyarılarda bulunuldu 
+     ''Halen birçok şirketin ciddi risk altında olmaları, bilgi güvenliğinin sağlanmamasından dolayı meydana gelebilecek kayıpların boyutları hakkında fikir sahibi olmadıklarını göstermektedir. Buna ek olarak kamu ve eğitim sektörlerinde görülen güvenlik eksikliklerinden dolayı karşılaşılabilecek zararlar sonrasında zaten oldukça yavaş hayata geçirilmekte olan e-devlet projelerinin yaygınlaşmasını daha da geciktirebilecek boyuttadır. 
+     Belirtilen tüm güvenlik açıklarının temel nedenleri şirketlerde ve kurumlarda bilgi güvenliği konusunun önemine ilişkin bilincin yeterince oluşmamasıdır. Bilgi güvenliğinin teknik bir sorun kabul edilmesi ve yönetimin bu soruna özen göstermemesi de çözümü zorlaştırmaktadır. '' Risklerin doğru saptanmaması veya göz ardı edilmesi, güvenlik yamalarının düzenli takip edilmemesi, bilgi sistemleri güvenliğinin genel tasarımındaki eksiklikler ve güvenlik sistemlerindeki ayarların düzgün yapılamamasının güvenlik açığına yol açan problemleri doğurduğu kaydedilen raporda, şirketlerin, güvenlikle ilgili olarak belirtilen bu problemleri ortadan kaldırmak ve iş süreçlerini korumak için güvenlik risklerini doğru saptaması ve yönetmesi gerektiğine dikkat çekildi. 
+     Raporda, teknolojik gelişmeler doğrultusunda şirketlerin güvenlik sistemlerini güncellemesi ve oluşabilecek yeni riskler karşısında gerekli önlemlerin alındığından emin olmaları önerildi. 
+     
+</TEXT>
+</DOC>

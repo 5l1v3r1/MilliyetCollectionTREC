@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 307607 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/18/son/sontur44.html </URL>
+<DATE> 2005/01/18/ </DATE>
+<TIME> 17.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Telekom internette yaşanan sıkıntıyı giderdi 
+</HEADLINE>
+<TEXT>
+
+     Turk Telekom'un internet omurgasında meydana gelen fiber optik kablonun kopmasının ardından yurtdışı internet erişiminde yaşanan problem, Türksat A.Ş'nin internet hattının otomatik olarak devreye girmesiyle giderildi. 
+     Türksat Uydu Haberleşme ve İşletme A.Ş'den yapılan açıklamada, Türk Telekom'un fiber optik kablosunun kopmasının ardından yurtdışı internet erişiminde yaşanan problemi çözmek için Türksat uydu hatları üzerinden sağlanan 4 adet 155 Mbps'lik internet hattı otomatik olarak devreye girdi. 
+     Türksat A.Ş'nin, Türksat 1B uydusu üzerinden Avrupa'ya 155 Mbps, Intelsat 603 uydusu üzerinden Amerika'ya 3 adet 155 Mbps internet bağlantısı sağladığı belirtildi. 
+     Türksat A.Ş Genel Müdürü Osman Dur, uydu hatlarının problemsiz bir şekilde hizmet vermeye devam ettiğini belirtti. 
+     Osman Dur, ayrıca, uydu hatlarının kapasitesinin arttırılmasının gerekliliğini vurgulayarak, karasal hatların uydular üzerinden yedeklenmesinin stratejik önemi olduğunu ifade etti. 
+     
+</TEXT>
+</DOC>

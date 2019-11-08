@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 162422 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/11/son/sondun12.html </URL>
+<DATE> 2003/06/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+FBI, yeni internet virüsü ''Bugbear''i soruşturuyor 
+</HEADLINE>
+<TEXT>
+
+     Amerikan Federal Soruşturma Bürosu FBİ , internette korsanlara mali kurumlara girme olanağı veren ''Bugbear'' adlı virüsle ilgili soruşturma başlattı. 
+     FBİ sözcülerinden Bill Murray, biçim değiştirebildiği için anti-virüs yazılımlarınca saptanamayan virüsle ilgili şikayet geldiği için soruşturma açtıklarını bildirdi. 
+     Yeni virüs, özellikle bankaların ve maliye kuruluşlarının hizmet sağlayıcılarını hedef alıyor. 
+     Sözcü, yeni virüsün 200 bin kadar bilgisayara bulaştığını bildiklerini belirtti. Sözcüye göre, virüs girdiği bilgisayar sisteminin bankaya ait olup olmadığını anlıyor ve sistemde korsanların girmesi için kapı aralıyor. 
+     Virüsün e-postayla yayıldığını anlatan sözcü, bu yolla bankalardan gizli bilgiler çalınıp çalınmadığını ise bilmediklerini belirtti. 
+
+     
+</TEXT>
+</DOC>

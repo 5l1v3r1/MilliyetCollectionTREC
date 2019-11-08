@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 175876 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/15/son/sondun06.html </URL>
+<DATE> 2003/08/15/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Uzmanlara göre kesintinin nedeni bilgisayar virüsü değil... 
+</HEADLINE>
+<TEXT>
+
+     Kanada elektrik dağıtım şirketi Hydro-Ottowa'nın başkan yardımcısı Andre Parker, Kanada'nın Ontario eyaletinin ABD'den elektrik ithal ettiğini söyledi. 
+     Parker, AFP'ye yaptığı açıklamada, ''ABD'nin kuzeydoğusundan elektrik ithal ediyoruz. Ontario ile ABD arasındaki elektrik naklini sağlayan Niagara Mohawk Grid'deki elektrik santralinde bir sorun çıkmış, bu da Ontario'da zincirleme arızaya yol açtı'' dedi. Parker, arızanın kesin nedenlerini henüz bilmediklerini, tek bildikleri şeyin arızanın Amerikan tarafından kaynaklandığı olduğunu belirtti. 
+     Kanadalı yetkili, ''Bu istisnai bir durum, tarihte bu büyüklükte bir arıza ile hiç karşılaşmadık. Arıza, eyaletin büyük bir bölümünü etkiledi, ancak Toronto'nun batısında elektrik alan bölgeler var'' dedi. 
+     
+     BANKACILIK SİSTEMİNDE AKSAMA YOK 
+     Bu arada, ABD Hazine Bakanlığı sözcüsü Rob Nichols, elektrik arızasının Amerikan bankacılık sisteminde aksamalara yol açmadığını söyledi. 
+     Rob Nichols, ''Bize bankacılık sisteminde bir aksama iletilmedi. Amerikan maliye sistemi çok dirençlidir'' dedi. Nichols, arızanın piyasaların kapandığı sırada meydana geldiğini ve işlemlerin ''düzenli şekilde'' yapılabildiğini kaydetti. 
+     JP Morgan bankası ise, elektrik şebekesindeki arızadan etkilenen bölgelerdeki para çekme makinaları ATM'lerde arıza meydana geldiğini açıkladı. 
+     
+     BİLGİSAYAR VİRÜSÜ DEĞİL 
+     ABD ve Kanada'yı etkileyen elektrik arızası, Microsoft'un uyarısıyla gündeme gelen ve ''Blaster Worm'' adıyla da bilinen ''Lovsan'' virüsünü akla getirdi. 
+     Uzmanlar, Pazartesi gününden itibaren internette yayılmaya başlayan virüsün, çökmenin nedeni olamayacağını belirtiyorlar. 
+     ABD'deki SANS Enstitüsü araştırma direktörü Alan Paller, ''Bu olayın, Blaster ile bağlantılı olduğunu düşünmüyorum'' dedi. 
+     ''Computer Emergency Reponse Team'' adlı kuruluş da, elektrik arızlarının bilgisayar korsanlarının işi olduğunu gösteren hiçbir belirti bulunmadığını bildirdi. 
+     
+</TEXT>
+</DOC>

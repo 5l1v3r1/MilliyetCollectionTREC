@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 218950 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/01/son/soneko01.html </URL>
+<DATE> 2004/03/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Merkez Bankası'ndan faiz indirimi... 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası, kredi mektuplu döviz tevdiat hesapları ile süper döviz hesaplarındaki faiz oranlarını düşürdü. 
+     Resmi Gazete'de yayımlanan faiz oranları, bugünden itibaren açılan ve vadesi yenilenen hesaplara uygulanacak. 
+     Yeni düzenlemeyle, gurbetçilerin süper döviz hesaplarındaki faiz indirimi 1 puan olurken, indirim, bazı oranları değişmeyen kredi mektuplu döviz tevdiat hesaplarında ise yarım ile 0.75 puan arasında gerçekleşti. 
+     
+     DİĞER ESASLAR 
+     Bu arada tebliğ çerçevesinde, kredi mektuplu döviz tevdiat ve süper döviz hesaplarından, vade bitiminden önce de para çekilebilecek. 
+     Bu durumda, vade bitiminden önce çekilen tutara, hesapta kaldığı süre için yüzde 0.25 oranında faiz verilecek. Hesap sahibince talep edilmeyen çekim faizi, faizsiz hesapta bekletilecek ve ait olduğu anaparanın ilk vade yenilenmesinde tahakkuk edecek vade faizi ile birlikte hesaba ilave edilecek. 
+     Kısmi çekim sonucu bakiyece belirlenen asgari limitlerin altına düşmeyen hesapların vadesi ise bozulmayacak ve kalan meblağa, ait olduğu vadeye göre faiz tahakkuk ettirilecek. Bakiyesi asgari limitin altına düşen hesaplar ise çekim tarihi itibarıyle yüzde 0.25 oranında faiz işletilmek suretiyle faizsiz geçici hesaba alınacak. 
+     Yeni açılan hesaplar ise vadeleri sonunda yenilenen hesaplardan vade başlangıç tarihlerinden itibaren 1 ay içinde çekilen paralara ise faiz tahakkuk ettirilmeyecek. 
+     
+</TEXT>
+</DOC>

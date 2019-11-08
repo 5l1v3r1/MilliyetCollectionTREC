@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 240909 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/18/son/sondun39.html </URL>
+<DATE> 2004/05/18/ </DATE>
+<TIME> 18.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+11 Eylül'de iletişim sistemi ölümleri artırdı 
+</HEADLINE>
+<TEXT>
+
+     New York'ta 11 Eylül terör saldırıları sırasında Dünya Ticaret Merkezi DTM ikiz kulelerinde ölü sayısının artmasında, acil müdahale görevlileri arasında haberleşme ve bina içindeki iletişim sistemi sorunlarının önemli etkisinin olduğu belirtildi. 
+     11 Eylül Soruşturma Komisyonu, teröristlerin kaçırdıkları uçakları New York'taki DTM ikiz kulelerine çarptırdıklarında acil müdahale görevlilerinin nasıl bir performans sergilediklerini yeniden gözden geçirmek üzere, sorumlu ve tanıkların ifadelerini dinlemek amacıyla New York'ta toplandı. 
+     2 gün sürecek toplantı öncesinde açıklama yapan komisyon, 11 Eylül saldırıları sırasındaki kurtarma çalışmalarının iletişim bozukluğu yüzünden gerektiği gibi yapılamadığını açıkladı. 
+     Teröristlerin kontrolündeki ilk uçağın DTM'nin kuzey kulesine çarptığı andan başlamak üzere, ikinci uçağın güneydeki kuleye çarpması ve binaların çökmesi sürecini de kapsayacak şekilde olayın 100 dakikasını özetleyen komisyon açıklaması, 11 Eylül saldırılarıyla ilgili yeni detayları da ortaya çıkardı. 
+     Rapora göre, New York Sağlık Ofisi verileri, saldırılarda, çarpan uçaklardaki insanlar, binalardaki insanlar ve Aşağı Manhattan'da sokaklarda bulunan insanlardan oluşan 2749 kişinin öldüğünü gösteriyor. 
+     Çok sayıda üniformalının öldüğü de kaydedilirken, bunların 343'ünün itfaiyeci, 23'ünün polis memuru, 37'sinin ise New York ve New Jersey'deki Port Authority ticaret merkezinin sahibi durumundaki ulaştırma şirketi görevlileri olduğu belirtildi. 
+     İlk müdahaleler sonucunda 25 bin kişinin kurtarıldığına dikkat çekilirken, ilk uçağın kuzeydeki kulenin 93 ve 99. katları arasına çarptığı saat 08 46'da, kuledeki üç yangın merdiveninin 92. kattan yukarısı için iş göremez hale geldiği ifade edildi. 
+     Yüzlerce insanın ilk çarpma esnasında hayatını kaybettiği kaydedilirken, güvenlik direktörünün kuzey kuleden tahliye için ilk bir dakika içinde talimat vermesine rağmen, bu talimatın iletişim sistemindeki arıza yüzünden binadakiler tarafından duyulmadığı belirlendi. 
+     İtfaiyenin de yangını söndürmek yerine önceliği çok hızlı şekilde insanları kurtarmaya verdiğine dikkat çekilen açıklamada, ilk 10 dakikada Port Authority yetkilisinin, iki kule ve beş küçük binadan oluşan bütün kompleksi boşaltma talimatı verdiği ifade edildi. Bir radyo kanalından verilen bu talimatın da sadece DTM'nin komuta kanalı yetkilileri tarafında işitildiği belirlendi. Bu talimatın diğer görevlilere ulaştırılabildiğine dair bir delile ise raslanmadı. 
+     Ayrıca, bu talimata rağmen, birinci uçağın çarpması ile ikinci uçağın çarptığı an arasında geçen 17 dakikalık sürede güney kulesinin bina anons sisteminden sürekli olarak insanların binadan çıkmaması konusunda anons yapıldığı, ancak çarpmadan bir dakika önce bu anonsun 'şayet katınızdaki durum uygunsa düzenli şekilde binayı boşaltına'' dönüştüğü ifade edildi. 
+     Komisyon açıklamasına göre, saldırı günü saat 09 03'te diğer uçağın güneydeki kulenin 78. ve 84. katları arasına çarpması sonucu 78. kattan yukarıdakiler mahsur kaldı. İlk itfaiyeci kaybı ise yanmakta olan kuzey kulesinden atlayan bir sivilin bir itfaiyecinin üzerine düşmesi sonucu saat 09 25'de verildi. 
+     Kuzey kulesinin aksine güney kulesindeki yangın merdivenlerinden biri açık durumdaydı. İnsanlar yanan kısımlardan daha üst katlara kaçmasına rağmen, duman yüzünden havadan kurtarma konusu ciddi bir şekilde hiç düşünülmedi. Çatı kapıları güvenlik gerekçeleriyle kapalı olduğu için ve çatıdan kurtarmaya dair herhangi bir plan olmadığından bu yönde bir çabaya hiç girilmedi. 
+     Binanın çökebileceğine dair herhangi bir tahmin yapılamazken, güney kulesinin çökmesi üzerine kuzey kulesindeki itfaiyecilere ''binayı boşalt'' talimatı verildiği, ancak bu talimatın da bazı itfaiyeciler tarafından duyulmadığı belirlendi. 
+     Verilen ifadelerde, acil müdahale görevlilerinin radyolarının aşırı meşgul olduğu, bazılarının ise bunlara zaten sahip olmadıkları kaydedildi. Binadan çıkmak için yarım saat vakitleri bulunan itfaiyecilerden 120'si iletişim yoksunluğundan dolayı bunu başaramadı. 
+     11 Eylül Soruşturma Komisyonu'nun saldırıları incelerken, muhtemel terörist saldırılara karşı acil müdahale önlemlerinin de ciddi şekilde gözden geçirilmesi çağrısında bulunması bekleniyor. 
+     
+</TEXT>
+</DOC>

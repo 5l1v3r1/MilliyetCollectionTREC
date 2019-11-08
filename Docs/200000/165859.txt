@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 165859 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/27/son/soneko38.html </URL>
+<DATE> 2003/06/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası güne kararsız başladı 
+</HEADLINE>
+<TEXT>
+
+     Borsada ilk saat içinde, düne göre Dow Jones Endeksi 23.87 puan azalarak 9,055.17 puana inerken, Nasdaq Endeksi 7.71 puan yükselip 1,641.72 puana çıktı. 
+     Borsanın düşüşünde, ABD Ticaret Bakanlığı'nın ülkedeki tüketici harcamalarının Mayıs ayında yüzde 0.1'lik zayıf bir artış gösterdiğini açıklaması etkili oldu. 
+     Yatırımcılar, tüketim harcamalarıNdaki bu küçük artışı, beklenen ekonomik canlanma açısından cesaret kırıcı bir veri olarak değerlendirdi. 
+     
+</TEXT>
+</DOC>

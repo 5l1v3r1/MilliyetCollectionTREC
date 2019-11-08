@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 359298 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/08/son/soneko01.html </URL>
+<DATE> 2005/07/08/ </DATE>
+<TIME> 01.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Dow Jones Sanayi Endeksi 10,302.29 puan... 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacminde dünyanın en büyük borsası konumunda olan New York Wall Street Borsası, Londra’daki terör saldırılarından etkilendiği ilk seansın ardından günün son seansında sanayi-teknoloji endekslerinde artışa geçti. 
+     Wall Street’in Dow Jones Sanayi Endeksi, haftanın dördüncü işlem gününü 31.61 puan artışla binde 3,1 10,302.29 puandan borsanın teknoloji şirketleri ibresi Nasdaq Bileşik Endeksi de 7.01 puan artışla binde 3,4 2,075.66 puandan noktaladı. 
+     
+</TEXT>
+</DOC>

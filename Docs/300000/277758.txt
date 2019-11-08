@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 277758 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/06/son/soneko41.html </URL>
+<DATE> 2004/10/06/ </DATE>
+<TIME> 17.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düşüşle açıldı... 
+</HEADLINE>
+<TEXT>
+
+     New York Menkul Kıymetler Borsası, açılışta değer kaybetti. 
+     Dow Jones Endeksi, ortalama 5.57 puan yüzde 0.05 değer kaybederek, 10,172.11 puana geriledi. 
+     Standard and Poor's 500 endeksi yüzde 0.03, Nasdaq Bileşik Endeksi yüzde 0.12 oranlarında değer kaybettiler. 
+     Borsanın değer kaybetmesinde, petrol fiyatlarının, şirket karlılıkları üzerindeki olumsuz beklentisi etkili oldu. 
+     
+</TEXT>
+</DOC>

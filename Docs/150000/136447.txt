@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 136447 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/02/12/son/sondun13.html </URL>
+<DATE> 2003/02/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kevin Mitnick'in sitesini çökerttiler 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın en tanınmış bilgisayar korsanlarından Kevin Mitnick'in 39 firmasının internet sitesi, bilgisayar korsanları tarafından çökertildi. 
+     Defense Thinking adlı bilgisayar güvenliği firmasının internet sitesinin sunucusunun birçok kez değişik ülkelerden saldırıya uğradığını açıklayan Mitnick, ''Yeteneğinizi kanıtlamaya çalışan genç bir bilgisayar korsanıysanız benim sitem uygun hedefi oluşturuyor'' dedi. 
+     Çökertilen sunucunun şirketin müşterileriyle ilgili bilgi içermediğini belirten Mitnick, bir daha böyle saldırılar düzenlenmemesi için gerekli önlemleri aldıklarını anlattı. 
+     Bilgisayar korsanlığı suçuyla yargılanarak cezalandırılan ilk kişilerden biri olan Mitnick'e ''bilgisayar teröristi'' adı takılmıştı. 
+     Mitnick, ''Sun Microsystems'', ''Novell Inc'' ve ''Motorola'' gibi dev firmaların şifrelerini kırarak bilgisayar sistemlerine girmiş ve FBI kendisini yakalayabilmek için 3 yıl çalışmıştı. 2000 yılında suçunu itiraf eden Mitnick, mahkeme kararıyla internete girmek, seyahat etmek ve çalışmaktan alıkonulmuştu. 
+     Mahkeme, Mitnick'in internete girmemek kaydıyla bilgisayarından yararlanmasına ise izin vermişti. Mitnick'in şartlı salıverilme kurallarına uyma zorunluluğu geçen ay sona erdi. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

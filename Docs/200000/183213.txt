@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 183213 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/18/son/sontur09.html </URL>
+<DATE> 2003/09/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+''Chat''çilere kötü haber... IRC'de virüs var.. 
+</HEADLINE>
+<TEXT>
+
+     İnternet üzerinden yayılmakta olan yeni bir virüs, internette sohbet Chat eden kullanıcıları tehdit ediyor. Virüsün, bilgisaylara dışarıdan erişim sağladığı bildirildi. 
+     İnternette yeralan habere göre, ''Backdoor.IRC.RPCBot.F'' isimli yeni virüs kısaca IRC Internet Relay Chat olarak adlandırılan sistemle çalışan sohbet programları kullananların bilgisayarlarını diğer kullanıcılara açıyor. 
+     'Trojan Horse' türü olan virüs, Microsoft'un MS03-026 kodlu güvenlik uyarısında bahsedilen ''savunmasız kalma'' DCOM RPC vulnerability hatasından faydalanarak kendini yayıyor. 
+     48.808 byte büyüklüğünde olan virüsten Windows 2000 ve Windows XP kullanıcıları doğrudan etkilenirken, DOS, Linux, Macintosh, OS 2, UNIX ve Windows 3.x sistemleri hiç etkilenmiyor. http securityresponse.symantec.com avcenter venc data backdoor.irc.r pcbot.f.html ve http www.microsoft.com security security bulletins ms03-026.asp internet adreslerinden ayrıntılı bilgi alınabiliyor. 
+     
+     VİRÜSÜ TEMİZLEMEK İÇİN 
+
+     İnternet analistleri, kullanıcılardan yeni virüse karşı antivürüs yazılımlarını güncellemelerini istiyor. 
+     Öte yandan virüsü kendisi temizlemek isteyen kullanıcıların şunları yapması öneriliyor 
+     
+</TEXT>
+</DOC>

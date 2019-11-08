@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 256928 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/20/son/sonyas06.html </URL>
+<DATE> 2004/07/20/ </DATE>
+<TIME> 10.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternette gönüllü 'anti-terör' timleri... 
+</HEADLINE>
+<TEXT>
+
+     ABD'de internette örgütlenen ''7 Seas'' adlı bir grup, internet üzerinden takibe aldıkları muhtemel teröristleri yetkililere bildirerek terör eylemlerini önlemeye çalışıyor. 
+     Gerçek adını vermeyen ve kod adı ''Annie'' olan bir kadın tarafından başlatılan hareketin üyeleri, web sitelerini sürekli tarayarak mesajları analiz ediyor. Bu tarama sırasında elde edilen ''kayda değer'' bilgiler, bir kez de grup olarak analiz edildikten sonra ilgili yetkililere gönderiliyor. 
+     11 Eylül saldırılarından sonra ''Annie'' tarafından başlatılan hareketin ilgi alanı ilk etapta birkaç web sitesinin takibinden ibaretken, sitelerin birbirine link vermesi sonucu şu an binlerce siteyi inceler hale gelmiş. ''Annie'' ve diğer grup üyelerinin, zaman zaman ''Müslümanmış'' gibi davranarak sitelerden bilgi almaya çalıştığı da kaydediliyor. 
+     7 Seas'ın herhangi bir devlet kurumuyla bağlantısı bulunmazken, grup üyeleri, yaptıkları ihbarlarla teröre karşı savaşan resmi kurumlara yardımcı olduklarını düşünüyor. 
+     Örneğin, Montana'nın küçük bir kasabasından 7 Seas'e katkıda bulunan 34 yaşındaki şehir yargıcı Shannee Rossmiller, kendisini ''aşırı İslamcı'' gibi tanıttığı internette, ''Ryan Anderson'' adını kullanan bir Amerikan ordu mensubuyla tanıştığını ve 26 yaşında bir tank operatörü olan bu askerin, El Kaide terör örgütüne bazı askeri bilgileri satmayı teklif ettiğini anlattı. Bunun üzerine Rossmiller'in Federal Soruşturma Bürosu FBI ile temasa geçmesi sonucu, Anderson geçen şubat ayında Amerikan askeri bilgilerini terör örgütüne vermek suçlamasından tutuklandı. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 225467 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/25/son/soneko04.html </URL>
+<DATE> 2004/03/25/ </DATE>
+<TIME> 09.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tokyo Borsası yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     Japonya ekonomisiyle ilgili iyimserliğin artması ve Avrupa Merkez Bankası'nın ECB faiz oranlarını düşüreceği beklentileri nedeniyle, yen dolar karşısında son beş haftanın, euro karşısında ise son dört ayın en yüksek seviyelerini gördü. 
+     Ekonomik iyimserlik, iç talebe bağımlı Japon şirketlerini yükseltti ancak yenin güçlü olması ve küresel güvenlik endişeleri Nissan Motor Co. ve Honda Motor Co. gibi ihracatçı şirketlerinin hisselerine darbe vurdu. Bu iki hisse sırasıyla yüzde 1.3 ve yüzde 0.8 düştü. 
+     Japon Nikkei Endeksi yüzde 1.5 artis ve 11,530.91 puanla bu yıl içindeki kazançlarını yüzde 8'e ulaştırdı ancak Asya'daki diğer hisselerin çoğu düştü. 
+     Petrol, ABD ham petrol stoklarındaki beklentilerden yüksek artış açıklamasının ardından kayıplarını artırdı. 
+     Japonya devlet tahvilleri ise Tokyo Borsası'ndaki artışlar nedeniyle geriledi. 
+     Londra'daki finans sektörü bahisçileri İngiltere'nin FTSE, Almanya'nın DAX ve Fransa'nın CAC-40 endekslerinin yüksek açılmasını bekliyorlar. 
+     Dolar Asya'da 106 yen seviyesini kırarak 105.78 yenle son beş haftanın en düşük seviyesine geriledikten sonra TSİ 09 17'de 106.02 106.05 yen seviyelerindeydi. 
+     Japonya dışındaki Asya Pasifik borsalarını kapsayan MSCI'nin en geniş endeksi yüzde 0.67düşüşle 228.43 puandaydı. 
+     ECB'den üst düzey yetkililerin açıklamalarının, merkez bankasının faiz oranlarını düşürebileceği ve bunun Nisan gibi yakın bir zamanda bile olabileceği spekülasyonlarını artırmasının ardından euro düştü. 
+     Euro Asya'da dolar karşısında 1.2105 dolara kadar düştükten sonra son olarak 1.2120 25 dolar civarında seyrediyordu. 
+     Yen karşısında Euro 128.35 yenle son dört ayın en düşük seviyesini gördü. 
+
+REUTERS 
+     
+</TEXT>
+</DOC>

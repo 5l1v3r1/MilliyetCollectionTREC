@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 311490 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/01/son/sonyas08.html </URL>
+<DATE> 2005/02/01/ </DATE>
+<TIME> 09.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Cep telefonlarındaki son trendler 
+</HEADLINE>
+<TEXT>
+
+     Samsung D500 modeliyle 1 megapiksel, V4400 modeliyleyse 2 megapiksel çözünürlükte video kaydı yapıyor. 
+     Fotoğraf alanındaysa optik yaklaşımlı zum 3 ve 5 megapiksel çözünürlüklü modeller de ürün yelpazesi arasında. 
+     Ekran rengi sayısındaysa 65 bin renkli OLED LCD'lerle açılan kapı 260 bin renkli TFT ekranlarla devam ediyor. Yeni çıtaysa 16 milyon renkli QVGA LCD ekranlar. Böylece yüksek kalitedeki çekimler ekranlarda da en fazla detayla yansıtılabiliyor. 
+     Taşınabilir müzikçalarların yarattığı akım ve polifonik melodiler sayesinde daha da önemli hale gelen ses konusundaysa SRS WOW, AAC, MP3, Real, Üç boyutlu stero desteği yer alıyor. Ayrıca yeni nesil telefonlarda müziğin ya da melodinin yükselten çözümler bulunuyor. 
+     Yüksek kaliteli MP3 şarkılar, yüksek çözünürlüklü resim ve uzun süreli video görüntülerin sonunda ortaya çıkan bellek ihtiyacı da SD, MMC ve benzeri kart destekleriyle Samsung modellerinde çözülüyor. 
+     Yine bir ilk olarak tarihe geçen Samsung V5400 kodlu telefondaysa 1.5 GB boyunda bir mini sabit disk yardıma koşuyor. Yakında bu rakamın da yükseleceği kesin. 
+     
+</TEXT>
+</DOC>

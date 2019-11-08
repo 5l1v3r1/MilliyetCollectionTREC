@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 350862 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/10/son/sonyas17.html </URL>
+<DATE> 2005/06/10/ </DATE>
+<TIME> 14.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternette Michael Jackson tuzağı... 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayar korsanlarının, Amerikalı pop şarkıcısı Michael Jackson'ın intihar girişiminde bulunduğunu iddia eden virüslü e-postalarla bilgisayar sistemlerine girmeye çalıştığı uyarısı yapıldı. 
+     Anti-virüs yazılımı ve internet güvenlik firması Sophos'tan yapılan açıklamada, korsanların ''İntihar girişimi'' başlığıyla e-postalarla, ''Michael Jackson, dün gece Neverland'deki çiftliğinde intihar girişiminde bulundu'' şeklinde mesaj gönderdiği belirtildi. 
+     Açıklamada, gönderilen e-postada adresi verilen ve haberin tamamının bulunduğu iddia edilen internet sitesinden bilgisayar sistemine virüs bulaştığı kaydedildi. 
+     Çocuklara cinsel tacizde bulunduğu iddiasıyla mahkemeye çıkarılan Michael Jackson, hakkında California mahkemesinin karar vermesini bekliyor. 
+     
+</TEXT>
+</DOC>

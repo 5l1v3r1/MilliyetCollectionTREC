@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 134887 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/02/03/son/sontur25.html </URL>
+<DATE> 2003/02/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Şimdi de "deli balık" mı 
+</HEADLINE>
+<TEXT>
+
+     Balıklarda, halk arasında deli dana olarak bilinen sığırlardaki BSE ve insanlardaki Creutzfeldt Jakob hastalığına benzeyen bir hastalık görüldü. 
+     Trends in Genetics dergisindeki habere göre, Almanya'nın Konstanz kentindeki bilim adamı Edward Malaga-Trillo, kirpi balığında, BSE hastalığıyla bağlantılı olan prion proteinine benzer bir protein tespit etti. 
+     Balıkta bulunan bu proteinin, memelilerdeki prionlardan yapı olarak farklı olduğunu belirten bilim adamları, bu nedenle başka hayvanlara ya da insanlara bulaşma olasılığının çok düşük olduğunu ifade ettiler. 
+     İsviçre'deki Nöropatoloji Enstitüsü'nde görevli prion uzmanı Adriano Aguzzi, Nature dergisine yaptığı açıklamada, balıkların üzerinde genetik değişikliklerin çok kolay yapıldığını belirterek, balıkların, prionlardaki hastalığa neden olan değişikliğin genetik nedenlerini bulmak için kobay olarak kullanılabileceğini kaydetti. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

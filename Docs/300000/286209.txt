@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 286209 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/04/son/sonyas20.html </URL>
+<DATE> 2004/11/04/ </DATE>
+<TIME> 15.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yazılım sektörü yüzde 6 büyüyecek... 
+</HEADLINE>
+<TEXT>
+
+     Dünya yazılım sektörünün bu yıl yüzde 6 büyümeyle 189 milyar dolara ulaşması bekleniyor. 
+     Araştırma şirketi IDC'nin verilerine göre 2003'te yüzde 5.1 büyüyen yazılım sektörü şirketlerinin toplam satış büyüklüğü, 178 milyar dolar olmuştu. 
+     Yazılım sektöründe toplam satışların üçte biri, Microsoft, IBM, Oracle, SAP ve Computer Associates şirketlerince gerçekleştiriliyor. 
+     
+</TEXT>
+</DOC>

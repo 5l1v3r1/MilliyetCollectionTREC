@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 326798 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/24/son/sonyas09.html </URL>
+<DATE> 2005/03/24/ </DATE>
+<TIME> 08.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yahoo'dan 1 GB'lık e-posta alanı 
+</HEADLINE>
+<TEXT>
+
+     Alper NAKRİ LOS ANGELES, DHA 
+
+İNTERNET devi Yahoo, abonelerine sunduğu ücretsiz e-posta hizmetinin kapasitesini 1 gigabyte'a çıkarıyor. 
+     Yahoo'nun en büyük rakibi Google'ın Gmail servisi ile başlattığı 1 GB'lık e-posta alanı uygulaması karşısında atağa kalkan Yahoo, halen ücretsiz olarak sunduğu 250 MB'lık e-posta kapasitesini dörde katlayacak. Nisan ayından itibaren abonelerinin kapasitesini 1 GB'a yükseltecek olan Yahoo, güncellemenin 2 hafta içinde tamamlanacağını bildirdi. Yahoo ayrıca bugüne kadar sadece ücretli abonelerine sunduğu virüsleri e-postalardaki dosyalardan temizleme özelliğini de nisan ayından itibaren bütün müşterilerinin kullanımına açacak. 
+     Yahoo halen ücretli abonelerine yıllık 20 dolar karşılığında 2 GB'lık depolama alanı ve 20 MB'lık ek dosya gönderme imkanı sağlıyor. 
+     
+</TEXT>
+</DOC>

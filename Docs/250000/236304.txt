@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 236304 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/30/son/sonyas07.html </URL>
+<DATE> 2004/04/30/ </DATE>
+<TIME> 09.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Apple, iTunes'un ilk yılında 70 milyon şarkı sattı 
+</HEADLINE>
+<TEXT>
+
+     Apple bilgisayar şirketi, bünyesinde online müzik pazarlama hizmeti veren iTunes'un, ilk yılında 70 milyondan fazla şarkı sattığını açıkladı. 
+     Müzik firmalarıyla geçen yıl anlaşmalar yaparak internet üzerinden telif hakkı ödenmek suretiyle şarkı indirilebilmesine olanak veren iTunes'ı faaliyete sokan Apple şirketinin, ilk başta bir yıl içinde 100 milyon şarkı satabileceğini tahmin ettiği bildirildi. 
+     Apple yöneticilerinden Steven P. Jobs, şirketin halen adedi 99 cent'den haftada 2,7 milyon şarkı sattığını açıkladı. ''Momentumu yitirdiğimizi hissediyoruz'' diyen Jobs, iTunes'in yılın ilk çeyreğindeki karının yüksek olmadığını kaydetti. 
+     Warner, Universal, EMI, BMG ve Sony gibi büyük firmalarla geçen haftalarda yeniden lisans görüşmeleri yapan Apple'ın 450 değişik şirketle çalıştığı ve satışa sunduğu şarkı sayısını bir yıl içinde 200 binden 700 bine çıkardığı kaydedildi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 66783 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/02/09/son/soneko01.html </URL>
+<DATE> 2002/02/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası'nda Nasdaq ve Dow Jones yükseldi 
+</HEADLINE>
+<TEXT>
+
+     New York borsası günü yükselişle kapattı. 
+     Borsanın temel göstergesi Dow Jones, 118.80 puan yüzde 1.23 
+     yükselişle günü 9,744.24 puandan kapattı. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq Endeksi 36.77 puan yüzde 2.06 yükselerek, 1,818.88 puandan kapandı. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

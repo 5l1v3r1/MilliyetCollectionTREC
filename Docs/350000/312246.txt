@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 312246 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/04/yasam/yas01.html </URL>
+<DATE> 2005/02/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dünyanın dibine uzaydan tahmin 
+</HEADLINE>
+<TEXT>
+
+
+Kandilli'deki 'Erken Uyarı Çalıştayı' dünyada deprem tahmini konusundaki çeşitliliği gözler önüne serdi. Genel eğilim, uyduları kullanmak... 
+
+Önay Yılmaz 
+
+Boğaziçi Üniversitesi Kandilli Rasathanesi ve Deprem Araştırmaları Enstitüsü'nde düzenlenen "Erken Uyarı Sistemleri Çalıştayı"nda her ülke, kendi geliştirdiği yöntemi tanıttı. Deprem tahmininde farklı yöntemler kullanarak başarı sağlamayı amaçlayan ülkelerin çalışmaları şöyle 
+RUSYA TAYVAN Bu ülkeler, uydu yoluyla atmosferin en üst katmanı olan iyonosferdeki değişimleri izleyerek deprem tahmini yapıyor. Uydular yoluyla iyonosferdeki elektron yoğunluğu değişimlerini inceliyor. 
+
+Yunanistan iddialı 
+YUNANİSTAN Yerin elektromanyetik alanındaki değişimleri izliyorlar. Gözlem istasyonundan 30 - 40 kilometre uzaklıkta ve 5.0'dan büyük depremleri, tahmin edebiliyorlar. 
+ABD Uydulardan yararlanmıyor. İstatistiksel sismolojiyi kullanarak deprem olabilecek bölgeleri yeşile boyayarak haritalandırıyorlar. 
+İTALYA Uydular aracılığıyla yerkabuğunda yüzeye yakın sıcaklık anomalilerine bakıyorlar. Fayların içindeki sıcak su dolaşımları yanıltıcı sonuçlar verebiliyor. 
+
+Türkiye 'radon'cu 
+FRANSA Demeter uydusu aracılığıyla depremleri önceden tahmin etmeye yönelik çalışmalar yapıyorlar. Bu uydu, hem yerkabuğundaki sıcaklık değişimlerini, hem iyonosferdeki farklılıkları, hem de düşük frekanslı elektromanyetik değişimleri belirlemeye çalışıyor. 
+JAPONYA Faylar denizin derinliklerinde olduğu için tahmine yönelik çalışmalarda başarılı değiller. Uzay dışındaki tüm yöntem ve teknikleri uyguluyorlar. 
+TÜRKİYE Deprem tahmini çalışmalarında, radon gazı ve yeraltı suları ölçümleri kullanılıyor. 
+
+
+</TEXT>
+</DOC>

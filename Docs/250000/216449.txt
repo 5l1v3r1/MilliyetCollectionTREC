@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 216449 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/20/son/sondun08.html </URL>
+<DATE> 2004/02/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Akıllı cep telefonları... 
+</HEADLINE>
+<TEXT>
+
+     ABD'de yakında piyasaya çıkacak olan akıllı cep telefonları, kişinin kazaya veya saldırıya uğraması halinde yerinin polis tarafından belirlenmesine imkan verecek. 
+     Amerikan Federal İletişim Komisyonu, cep telefonu şirketlerini, özellikle ''911 No'lu İmdat'' telefonunu arayan kişilerin yerlerinin otomatik olarak belirlenmesine imkan veren düzenlemeleri yapmakla yükümlü tuttu. 
+     Buna karşılık, aralarında AT T'nin de bulunduğu bazı telefon firmaları, ''Dostunu Bul'' sloganıyla başlattıkları kampanyayla, kullanıcıların, belli bir yarıçap içindeki 5 kişinin yerini saptamalarını sağlayacaklarını belirttiler. 
+     Ancak cep telefonu sahipleri, diledikleri takdirde, telefonlarının, bulundukları yeri belirlemeye yarayan sinyaller vermesini engelliyebilecekler. 
+     Bu arada ''Lucent Technologies'' şirketinin ''Bell Labs'' adlı kolu, kullanıcılara, sinyali açıp-kapama dışında başka seçenekler tanıyacak bir yazılım geliştirmekte olduğunu açıkladı. ''Bell Labs'' Şebeke Direktörü Rick Hull, ''Herkese tek uygulama dönemi sona erecek. Herkes bulunduğu yeri kimin belirleyip kimin belirleyemeyeceğine kendisi karar verecek'' diye konuştu. 
+     Geliştirilmekte olan yazılım sayesinde kullanıcılar, yerini saptayacak kişilerin telefon numaralarını girerek onlara bu imkanı tanıyacaklar. Numarası listede bulunmayan kişiler ise kullanıcının yerini öğrenemeyecek. 
+     Ayrıca günün belli saatlerinde yer tespit sistemini devre dışı bırakmak da mümkün olacak. Örneğin büro dışında çalışan işçiler, patronlarının nerede bulunduklarını saat 9-17 arasında öğrenmesine imkan tanırken, saat 17'den sonra arama sistemini devre dışı bırakabilecekler. 
+     Hull, bu teknolojinin en geç 2005 başında tüm kullanıcıların hizmetine sunulacağını sözlerine ekledi. 
+     
+</TEXT>
+</DOC>

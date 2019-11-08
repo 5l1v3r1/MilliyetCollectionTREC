@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 244442 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/01/son/soneko16.html </URL>
+<DATE> 2004/06/01/ </DATE>
+<TIME> 12.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansta 104 puan arttı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi, önceki kapanışa göre 104.42 puan artışla, 1. seansı 17,185.50 puandan tamamladı. 
+     1. seansta hisse senetlerinin ortalama değer kazancı yüzde 0.61 olarak gerçekleşti. 
+     Dün 17,081.08 puandan kapanan İMKB Ulusal 100 Endeksi, 1. seansa, 17,275 puandan başladı. İlk yarıyı 17,190 puan seviyesinden geçen endeks, seans içinde en düşük 17,081.08, en yüksek 17,339.99 puanı gördü. 
+     Seans sonunda mali endeks 134.83 puan artışla 23,031.74 puana, sanayi endeksi 83.43 puan artışla 15,713.12 puana, hizmetler endeksi 55.50 puan artışla 9,654.07 puana yükseldi. 
+     Böylece, önceki kapanışa göre, mali grup hisseler ortalama yüzde 0.59, sanayi grubu hisseler ortalama yüzde 0.53, hizmet grubu hisseler ortalama yüzde 0.58 değer kazandı. 
+     1. seansta işlem gören toplam 298 hisse senedinden 150'si değer kazandı, 69'u değer kaybetti, 79 hissenin fiyatında değişiklik olmadı. 
+     Seansta, 229 trilyon 163 milyar 768 milyon liralık işlem hacmi oluştu. 
+     
+</TEXT>
+</DOC>

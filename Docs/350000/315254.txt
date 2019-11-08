@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 315254 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/15/guncel/gun07.html </URL>
+<DATE> 2005/02/15/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Otomobili anlama kılavuzu 
+</HEADLINE>
+<TEXT>
+
+
+
+ÖZELLİKLE son 5 yıldır teknoloji harikasına dönen araçlar, sürücüleri neredeyse sözlük yardımına muhtaç bırakıyor. Bazı donanımların kısaltmaları şöyle 
+ESP Sensörlerle otonun seyir halinde çizgisini korumasına yardımcı olur.BAS ya da EBA Fren gücünü tam olarak devreye sokar.ABS Tekerlekler kilitlenmeden fren olanağı sağlar. MSR Kaygan zeminde, gaz pedalından ayağın çekilmesiyle oluşacak kaymayı önler.ASR Patinajı önler. EBD Frende gücün akslara dengeli dağılımını sağlar.ASC T Elektronik çekiş kontrol sistemi Sürücü, tehlike yaratacak durumlarda aracına gaz verse bile, motor gücü sınırlanır.EPB veya APB El freni, anahtar kontak yuvasından çıkarıldığında otomatik çalışır.Tiptronic Şanzımanın manuel ya da otomatik olarak kullanılmasına olanak sağlar.Cruise Control Otomatik hız kontrol sistemi. Aracın hızını sabitler.SRS Türkçeye "hava yastığı" olarak geçti. 
+
+</TEXT>
+</DOC>

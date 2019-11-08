@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 273465 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/20/son/sonyas11.html </URL>
+<DATE> 2004/09/20/ </DATE>
+<TIME> 11.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft'u hedef alan virüsler katlanarak artıyor... 
+</HEADLINE>
+<TEXT>
+
+     Norton programıyla tanınan antivirüs yazılımı üreticisi Symantec, ilk 6 ayda Microsoft'un Windows işletim sistemini hedefleyen virüs ve solucan sayısının, geçen yılın aynı dönemine göre yüzde 400 arttığını bildirdi. 
+     Symantec'in açıkladığı verilere göre, geçen yılın ilk yarısında bin çeşit aktif virüs ve solucan yazılımıyla karşılaşılırken, bu yılın ilk yarısında 5 bine yakın parazit yazılım bilgisayarların belası oldu. 
+     Windows işletim sistemlerinin açıklarından faydalanmak isteyen virüs programı yazıcılarıyla spamcıların işbirliğine yöneldiğini kaydeden Symantec, kullanıcıları artan Linux ve cep bilgisayarları işletim sistemlerinin de, yakın gelecekte virüs saldırılarına hedef olabileceği uyarısında bulundu. 
+     
+     KODLARINI DEVLETLERE AÇACAK 
+     Bu arada rakip işletim sistemlerinde yazılım kodlarına erişimin serbest olması, pazar kaybetmek istemeyen Microsoft'u harekete geçirdi. 
+     Bugünden itibaren ''Word'', ''Excel'' ve e-posta yazılımı ''Outlook Express'' dahil olmak üzere en son çıkardığı ofis yazılımlarının kodlarını 60'dan fazla devlet ve uluslararası kuruluşla paylaşma kararı alan Microsoft, Windows işletim sisteminin kodlarını daha önce söz konusu devlet ve kuruluşlara sunmuştu. 
+     Sadece ABD ve İngiltere'nin görebildiği bildirilen Microsoft'un ofis programlarının kodlarındaki gizliliğin kısmen kaldırılmasında, bir çok devlet ve ordunun güvenlik endişesiyle Linux programına yönelmesinin etkili olduğu değerlendiriliyor. 
+     
+</TEXT>
+</DOC>

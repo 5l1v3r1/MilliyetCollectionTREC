@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 286200 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/04/son/sonyas11.html </URL>
+<DATE> 2004/11/04/ </DATE>
+<TIME> 11.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternette spam terörü... 
+</HEADLINE>
+<TEXT>
+
+     Symantec Türkiye Genel Müdürü Gökhan Say, 2004 yılı içerisinde, bugüne kadar gönderilen 480 milyar elektronik postanın yüzde 64'ünün spam olduğunu bildirdi. 
+     BTVizyon Toplantıları'nın son gününde, ''Milyonda Bir Hata İle Spam Koruması'' başlıklı bir sunum yapan Say, spamlar hakkında bilgi verdi ve yeni geliştirdikleri BrightMail ürününü tanıttı. 
+     Say, Daha önce yapılan bir araştırmaya göre 2001 yılında spam oranının, yüzde 8 iken günümüzde yüzde 64'e yükseldiğini kaydetti. 
+     ''2004 yılında gönderilen 480 milyar e-posta'nın yüzde 64'ü spam'' diye konuşan Say, firmasının 4 ay önce satın aldığı BrightMail Antispam firması ile spam mücadelesinde ön plana çıktığını söyledi. 
+     Yeni yazılımın, dünyadaki toplam posta kutusunun yüzde 25'ini 325 milyon koruduğunu anlatan Say, bağımsız raporlara göre yine yazılımın, ''milyonda bir hata'' ile spam yakaladığını bildirdi. 
+     Say, spam ile mücadelede diğer firmalarla da ortak çalışacaklarını sözlerine ekledi. 
+     
+</TEXT>
+</DOC>

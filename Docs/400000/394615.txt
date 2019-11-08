@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 394615 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/13/son/sonyas04.html </URL>
+<DATE> 2005/11/13/ </DATE>
+<TIME> 12.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Çapkın kocalar yandı Cep telefonuyla otomobil takip edilebilir mi 
+</HEADLINE>
+<TEXT>
+
+     Zafer TOKUŞ DHA 
+
+      SAKARYA Üniversitesi Elektrik ve Elektronik Mühendisliği Bölümü Araştırma Görevlisi Zafer Tanrıverdi, cep telefonlarında kullanılan sim karttan yararlanarak, araçların yerini tespit edebilen yazılımı geliştirdi. 
+     Otomobile monte edilen sim kartın aktif hale gelmesiyle bulunduğu yerin kullanıcının cep telefonuna mesaj olarak gönderilmesi esasına dayanan yazılım, uzaktan kumanda vazifesi de görüyor. Otomobilin çalınması halinde cep telefonuyla motoru durdurulup, kapıları kilitlenebiliyor. 
+     
+     ÇAPKIN KOCALARA KÖTÜ HABER 
+     Sistem Oto Kontrol’ adı verilen ve 450 YTL’den satışa sunulan ürünün pazarlamasını yapan Mehmet Başel, Ürüne en çok gıda toptancıları ve araç kiralama şirketleri rağbet gösteriyor. Bunun yanı sıra kocasının nerede olduğunu bilmek isteyen kadınlar da ilgi gösteriyor'' diye konuştu. 
+     
+</TEXT>
+</DOC>

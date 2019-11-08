@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 271846 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/14/son/sonyas19.html </URL>
+<DATE> 2004/09/14/ </DATE>
+<TIME> 17.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternette bir Türk virüsü dehşet saçıyor Hamsi 
+</HEADLINE>
+<TEXT>
+
+     Yeni bir virüs bilgisayar kullanıcılarını tehdit ediyor. Ancak bu kez virüsün yaratıcısı bir Türk. Virüs, kurbanlarının dinlemesi için bir ses mesajı gönderiyor. Kendini Hamsi Bey’ olarak tanımlayan virüs, bulaştığı bilgisayardan kullanıcıya seslenerek, Türkiye’ye davet ediyor. 
+     
+     "DAVETKAR VİRÜS" 
+
+     Virüs, yüklendiği makinede Windows Speech Engine programını kullanarak konuşuyor. Virüs, kullanıcıya hitaben How are you. I am back. My name is Mister hamsi. I am seeing you. Haaaaaaaa. You must come to Turkiye. I am cleaning your computer. 5. 4. 3. 2. 1. 0. Gule. Gule bye bye ." Nasılsın. Ben geri geldim. Benim adım Hamsi Bey. Ben seni görüyorum, HaHaHa. Türkiye’ye gelmelisin. Şimdi senin bilgisayarını temizliyorum, 5. 4. 3. 2. 1. 0. Güle Güle diyor. 
+     Virüs DLL ve INI dosyalarını siliyor ve Windows’un çökmesine neden oluyor. Virüs Listen and Smile’ başlıklı bir e-posta ile bulaşıyor. 
+
+     
+</TEXT>
+</DOC>

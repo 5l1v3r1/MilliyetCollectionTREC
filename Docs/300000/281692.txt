@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 281692 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/20/ekonomi/eko01.html </URL>
+<DATE> 2004/10/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ziraat'te altyapı kaosu 
+</HEADLINE>
+<TEXT>
+
+
+Ziraat Bankası'nın değişen veritabanı, işlemleri durma noktasına getirince müşteriler saatlerce kuyruk bekledi 
+
+TARIK YILMAZ 
+
+Ziraat Bankası'nın bilgisayar altyapısını durma noktasına getiren problem iki gündür çözülemedi. Sistemdeki sıkıntı nedeniyle bankanın müşterilerinin birçoğu parasını çekememekten şikayet ederken Ziraat Bankası Genel Müdürü Can Akın Çağlar, "İspatı mümkün olan kusur varsa bedeli ödenir" dedi. 
+Microsof'un Windows SQL tabanlı yazılımını kullanan 608 şubede hafta sonu Oracle'ın kullandığı veritabanına geçiren Ziraat Bankası'nda kaos dün de sürdü. Bilgisayar sistemi, neredeyse durma noktasına gelirken çözüm şubelerdeki bilgisayar sayısının azaltılması yoluyla çözülmeye çalışılıyor. Ancak bilgisayarlar azaltılmasınında etkisiyle bankada çok uzun müşteri kuyrukları oluşmaya başladı. Pazardan bu yana gece gündüz çalışan teknisyenler sorunun halen yazılımdan mı yoksa aşırı yüklenmeden mi kaynaklandığı konusunda net bir bilgi veremiyor. 
+Genel Müdür Çağlar ise "Aşırı yüklenme nedeniyle bin 100 şubedeki 13 bin 500 ekranı 6 bin 500'e indirdik. Gelen bilgiler dün sistemin pazartesiye göre hızlandığını ancak yine de eski sisteme göre çok yavaş olduğunu gösteriyor. Sorun inşallah hallolur. Çünkü yarın SSK emeklilerine maaş ödemeleri başlıyor" dedi. 
+
+'Kusurumuz varsa öderiz' 
+ATM'lerden para çekilebildiğini belirten Genel Müdür Çağlar, "İspatlanabilecek bir hizmet kusurumuz varsa elbette bedelini öderiz" dedi. Sorunun yazılımdan kaynaklandığı gibi bir sonuç çıkarsa yazılımcıdan zararın tazminini isteyip istenmeyeceğine ilişkin olarak da Çağlar, "Sebep belli değil. Bir gerçekleşsin bakacağız" dedi. 
+
+
+</TEXT>
+</DOC>

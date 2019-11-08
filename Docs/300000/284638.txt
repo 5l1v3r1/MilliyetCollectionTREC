@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 284638 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/30/son/sonsiy03.html </URL>
+<DATE> 2004/10/30/ </DATE>
+<TIME> 11.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yıldırım, yeni indirimler hakkında bilgiler verdi... 
+</HEADLINE>
+<TEXT>
+
+     Ulaştırma Bakanı Binali Yıldırım, Türk Telekom ve PTT'nin tarifelerinde önemli indirimler gerçekleştiğini hatırlatarak, ''Şimdi de herkes internet kullansın istiyoruz ve bu amaçla internet erişim hizmetlerinde önemli indirimler yapıyoruz'' dedi. 
+     Ulaştırma Bakanı Binali Yıldırım, yaptığı yazılı açıklamada, PTT'nin ışıldayan bir kurum haline geldiğini belirterek, PTT'de son iki yılda başlattıkları hizmet atağı sayesinde, Türk Telekom'un ayrılmasıyla yaşanan sıkıntılı dönemi büyük bir başarıyla atlattıklarını kaydetti. 
+     PTT yönetiminin ve çalışanlarının yaptığı yoğun çalışmalar sonucunda kurumun, dinamik, modern teknolojiyle uyumlu hale geldiğine işaret eden Yıldırım, PTT'nin önümüzdeki yılların en çok kar eden kuruluşları arasında yer alacağını gösterdiğini ifade etti. 
+     
+     YAPILAN İNDİRİMLER 
+     Yapılan açıklamada, yeni indirimler hakkında şu bilgilere yer verildi 
+     ''Türk Telekom A.Ş ADSL ücretlerinde yapılan yeni indirimlerle 128 Kbps hızındaki tüm kullanıcıların hızı, fiyatı değiştirilmeden 256 Kbps'ye çıkarıldı. Yeni tarifeyle en düşük bağlantı hızı yüzde 28.9'luk indirimle 49 milyon liraya düşürüldü. 512 Kbps'li hız 109 milyon liradan 99 milyon liraya, 1024 Kbps'lik hız 179 milyon liradan 169 milyon liraya, 2048 Kbps'lik hız 279 milyon liradan 269 milyona indirildi. Ayrıca bağlantı ücretlerindeki farklılıklar kaldırılarak, taksit seçenekleri getirildi. Buna göre tüm hızların bağlantı ücretleri peşin 59 milyon lira, 12 ay taksitte ise 69 milyon lira olarak belirlendi.'' ADSL'de yapılan en büyük yeniliklerden birinin de ''Limitli kullanım aboneliği'' uygulamasının başlaması olduğu ifade edilen açıklamada, Türk Telekom müşterilerinin istedikleri taktirde 256 ve 512 Kbps hızlarında kullanıma bağlı limitli erişim aboneliği tercih edebilecekleri ve 256 Kbps'de aylık 29 milyona 3GB, 512 Kbps'de ise aylık 49 milyona 5GB veri indirimi yapılabileceği bildirildi. 
+     Belirlenen limitler aşıldığı taktirde her 1 MB için 10 bin TL alınacak. Bağlantı ücretlerinde yapılan düzenleme, bu uygulama için de aynen geçerli olacak. 
+     Açıklamada, piyasa koşulları göz önüne alınarak PTT hizmetlerinde de önemli değişiklikler ve indirimler yapıldığı belirtilerek, bu çalışmalar sonucunda PTT'nin 2003 yılında 22 trilyon 890 milyar lira kar elde ettiği vurgulandı. Bu yıl sonu itibarıyla karın 30 trilyona çıkarılacağı tahmin edildi. 
+     PTT'de yapılan indirimler konusunda da şu bilgiler verildi 
+     -Mektupta ağırlığına göre yüzde 17 ile yüzde 50 arasında, yurtdışı mektuplarda yüzde 8 oranında, -Tam ücrete tabi basılmış kağıt ücretlerinde ağırlık kademelerine göre yurt içinde yüzde 29 ile yüzde 71, yurtdışında yüzde 17 ile yüzde 27, yurtiçi faks ücretlerinde yüzde 33 oranında, -sigortalı gönderi ücretleri kapsamına giren taahhüt, alma haberi, konutta teslim, özel ulak hizmetlerinin sigortalama ücretlerinde de önemli indirimler yapıldı. 
+     -Acele posta gönderilerinin 1000 gramdan sonraki ücretlerinde yüzde 60'a varan indiririmler sağlandı. 
+     -Ülkenin her yerinde ağırlığına göre, tek tip ücret alınan kolilerde özel kargo firmalarınca uygulanan ücretlendirme benimsenerek rekabet koşullarına uyum gösterildi ve kolilerde ağırlık ve boyut sınırlamaları kaldırıldı. 
+     Ayrıca, bankalara oranla oldukça ucuz olan on-line yurtiçi ve yurtdışı havalelerinde PTT'nin tercih edilmesi teşvik edildi.'' 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 366533 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/02/son/sonyas16.html </URL>
+<DATE> 2005/08/02/ </DATE>
+<TIME> 12.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türkçe internet adresi için geri sayım başladı... 
+</HEADLINE>
+<TEXT>
+
+     Netpia'nın Türkiye'ye getirdiği Türkçe İnternet Adresi TİA sisteminin teknik hazırlıkları tamamlanarak, deneme çalışmalarına başlandı. 
+     Netpia'dan yapılan açıklamada, Güney Kore Merkezli şirketin 1997 Yılında geliştirdiği ana dilde internet adresi sistemi ile dünya çapında yeni bir dönem başlattığı belirtildi. 
+     Teknik hazırlıklar tamamlandığında herhangi bir ön www ya da son com, org, net, vb eke gerek kalmadan, Türkçe karakterleri ğ, ı, ü, ş, ö, ç ve boşluğu da kapsayacak şekilde Türkçe İnternet Adresi alınabilecek, e-posta adreslerinde Türkçe gerçek isimler kullanılabilecek. Katılımcılar birçok web sitesine doğrudan Türkçe internet adreslerini kullanarak, yalnızca gerçek isimleriyle ulaşabilecekler. Ek olarak katılımcılar arzu ettikleri Türkçe internet adreslerini geçici bir süre için ücretsiz edinebilecekler. 
+     Türkçe İnternet Adresi almak için http www.netpia.com.tr web sitesini ziyaret ederek kayıt yaptırmak yeterli oluyor. 
+     Netpia Genel Müdürü A.Koray Kocagöncü, çalışmaları kararlılıkla, sistemli bir şekilde sürdürdüklerini ifade ederek, dar kapsamlı deneme çalışmalarına start verdiklerini, birkaç ay içerisinde deneme çalışmalarını tamamlayarak, internet adreslerinde Türkçe dönemini başlatacaklarını bildirdi. 
+     
+</TEXT>
+</DOC>

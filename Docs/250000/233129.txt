@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 233129 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/20/son/soneko11.html </URL>
+<DATE> 2004/04/20/ </DATE>
+<TIME> 10.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Pompalara yazarkasa zorunluluğuna 3 ay erteleme... 
+</HEADLINE>
+<TEXT>
+
+     LPG ve doğalgaz satanlar da dahil olmak üzere akaryakıt istasyonlarına getirilen pompalara zorunlu ödeme kaydedici cihaz uygulamasında, başlangıç tarihi 3 ay ertelendi. 
+     Maliye Bakanlığı'nın bugünkü Resmi Gazete'de yayımlanan Genel Tebliği ile öngörülen sistemin yeni bir uygulama olması, güvenli ve amaca uygun şekilde kullanımı ile sistemi kuracak firmalar ve kullanacak mükelleflerin gerekli teknik ve uygulama çalışmalarını sağlıklı şekilde tamamlayabilmeleri için daha önce 1 Mayıs 2004 olarak belirlenen uygulamanın başlangıç tarihi, 1 Ağustos 2004 olarak değiştirildi. 
+     Buna göre, pompalarda zorunlu ödeme kaydedici cihaz uygulaması, otoyollar, Karayolları Genel Müdürlüğü'nün yol ağında devlet yolu olarak görülen yollar ve büyükşehir belediye sınırları ile mücavir alanlar içindeki akaryakıt istasyonlarında, satış hasılatlarına bakılmaksızın 1 Ağustos 2004'ten itibaren başlayacak. 
+     Diğer akaryakıt istasyonlarında ise söz konusu uygulamaya, bir önceki dönem akaryakıt satış toplamına göre geçilecek. 
+     Bu çerçevede, önceki dönem akaryakıt satış toplamı 5 trilyon lirayı aşan istasyonlar 1 Ağustos 2004, 3 trilyon lirayı aşanlar 1 Ocak 2005, 1 trilyon lirayı aşanlar 1 Haziran 2005, 1 trilyon liranın altında kalanlar ise 1 Ocak 2006'dan itibaren uygulama kapsamına girecek. 
+     1 Ağustos 2004 tarihinden sonra işe başlayan istasyon sahipleri ise 60 gün içinde pompalarına ödeme kaydedici cihaz takmak zorunda olacak. 
+     Dileyen mükellefler, bu tarihleri beklemeksizin de pompalarında ödeme kaydedici cihaz kullanabilecek. 
+     
+     SİSTEMİN KURULMASI 
+     Akaryakıt pompalarının ödeme kaydedici cihazlara bağlanmasına dair sistemin kurulması ve çalıştırılması ile ilgili görev ve sorumluluk, bu cihazlarla ilgili olarak Maliye Bakanlığı'ndan onay almış firmalara ait olacak. 
+     Aynı tarihte birçok akaryakıt istasyonunun uygulamaya geçmek zorunda olması, firmaların sistem kurma kapasitelerinin sınırlılığı, güvenli bir sistemin önemi, başlangıçta düşünülmeyen teknik aksamaların olabileceği, yurtiçi ve yurtdışı test-deneme çalışmalarının gerekliliği sebebiyle, sistem kurma çalışmalarının süresinde tamamlanamayacağının anlaşılması halinde, Maliye Bakanlığı'ndan alınacak izin dahilinde uygulamanın başlangıç tarihi, 6 aya kadar uzatılabilecek. 
+     Akaryakıt istasyonları, bu süre içerisinde kurulum, test ve deneme çalışmalarını yapacak ve ödeme kaydedici cihazlarını kullanmaya başlayacak. 
+     
+     TAŞIT TANIMA SİSTEMİ 
+     Bu arada, yeni düzenleme çerçevesinde, taşıt tanıma, müşteri tanıma gibi otomasyon sistemleri kullanılarak yapılan akaryakıt satışları da, taşıtın plaka numarasını ihtiva eden ödeme kaydedici cihaz fişleri ile belgelenecek. 
+     Bu sistemler kullanılarak düzenlenecek fişlerin üzerinde, diğer bilgilerin yanı sıra ''Taşıt veya müşteri tanıma sistemi faturaya dönüştürülecek'' ibaresi yer alacak. 
+     Akaryakıt pompalarına bağlanacak ödeme kaydedici cihazlar, daha önce onaylanmış cihazlardan farklı olarak tek göstergeli ve çekmecesiz olabilecek. Sistemde yer alan klavyeler, en az Türkçe'de kullanılan harf ve rakamları yazabilecek tarzda düzenlenecek. 
+     
+</TEXT>
+</DOC>

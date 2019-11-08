@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> 215868 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/18/guncel/gun01.html </URL>
+<DATE> 2004/02/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sanal Zümrüt'ün de kaderi aynı oldu .. 
+</HEADLINE>
+<TEXT>
+
+   ODTÜ teknik ekibi, projeler ve numune testlerinin sonuçlarından yola çıkarak bilgisayarda 'sanal' Zümrüt Apartmanı'nı yarattı. Sanalı da gerçeği gibi çöktü 
+      Aydın Hasan 
+   
+   Doç. Dr. Can Balkaya başkanlığındaki ODTÜ teknik ekibi, Konya'daki enkaz alanında incelemelerde bulunduktan sonra aldıkları beton ve demir numunelerini ODTÜ laboratuvarlarında test etti. Ayrıca binanın mimari ve statik projeleri de ayrıntılı olarak incelendi. Sonra çöken apartmanın projesi ve testler sonucu elde edilen verilere bağlı olarak bilgisayarda "sanal Zümrüt" oluşturuldu. Balkaya, yaptıkları çalışmayla ilgili olarak şu bilgileri verdi 
+   
+   Bir kolon gidince... 
+   "Bilgisayar ortamında da bir kolonu devre dışı bıraktık. Sistem hemen çöktü. Çökerken, gerçeğindeki gibi dönme meydana geldi. Asma kat, garaj tadilatlarına bağlı kolon kesitlerinin zayıflatılmasında bile sistem çöktü." Binanın projeden başlayarak her aşamasında eksik malzemeyle hatalı inşa edildiğini belirten Balkaya, "Normalde bir eleman eksildiğinde, bir etki olduğunda, binada kısmi çökme olur. Sadece beton kötü diye bir bina bu şekilde çökmez. 11 katlı binanın yapısal sistemi yok. Hassas dengenin bozulmasıyla tamamen çökmüş" dedi. Balkaya, Zümrüt'ün çökme nedenlerini de şöyle özetledi 
+   
+   İşte facianın 11 nedeni 
+   Zeminde hiçbir sorun yok. Binanın temeli sağlam kalmış. Su kuyusu veya zemine bağlı bir nedenle yıkılmadığı ortada. 
+   Temel sorunlardan biri projede, yapısal sistemle ilgili. 
+   Zemin üstü katlardaki 1.5 metrelik çıkmalarla yapısal sistem iyice bozulmuş. Kirişlere fazla yük binmiş, binanın dengesi bozulmuş. 
+   Projede, bodrum ve zemin katlarda emniyete önem verilmemiş. Kolonlar, mevcutların iki kat büyüklüğünde olmalıydı. 
+   Bazı bölümlerde proje dışı döşeme yapılmış. Böylece sisteme yüzde 10'un üzerinde ek yük gelmiş. 
+   Asma katlarla garajdaki tadilatlar statik projede yok. 
+   Mimari proje yapılırken, arsa sahiplerinin hisselerine göre daireler düzenlenmiş. Daire büyüklükleri farklı. Kolon yerleri farklı, binanın çökmesi sırasındaki dönme hareketinde bunun etkisi olmuş. 
+   Aderans beton ve demirin birbiriyle uyumu sağlanmamış. Beton demirin arasına girmemiş. 
+   Betonun kalitesi, olması gereken değerin yarısı ölçüsünde. 
+   Betondaki malzemede ince kum oranı fazla. Dere kumu kullanılmış. Normal çakıl çok az. Standart dışı, iri çakıllar var. 
+   İnşaat aşamasında gerekli denetimler yapılmamış. 
+   
+   Dönerek çöktü 
+   Caddeden bakış yönüne göre, bina zemininin sağ arka köşesi, proje bazında zorlanan bölgeyi oluşturdu. Bu bölgedeki kolonlardan birinin bilgisayar ortamında devre dışı bırakılmasıyla, bina dönme hareketi yaparak çöktü. Enkazdaki gözlemler de, çökmenin bu yönde yoğunlaştığı izlenimi bıraktı. 
+   
+   
+   
+</TEXT>
+</DOC>

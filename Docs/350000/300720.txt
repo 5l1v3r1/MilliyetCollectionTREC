@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 300720 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/24/son/sonyas04.html </URL>
+<DATE> 2004/12/24/ </DATE>
+<TIME> 03.19 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft'a yargı darbesi 
+</HEADLINE>
+<TEXT>
+
+     İhsan DÖRTKARDEŞ DHA 
+
+AMERİKAN yazılımcılık devi Microsoft hakkında Avrupa Birliği Komisyonu tarafından alınan kartelleşmeyi önleyici kararlar, Lüksemburg'daki Avrupa Mahkemesi'nce onandı. AB Mahkemesi, Microsoft'tan Windows yazılımı alanların otomatik olarak aynı şirketin media player programını da kullanmaya mecbur edilemeyeceğine karar verdi. 
+     AB Mahkemesi, verdiği kararla AB Komisyonu tarafından getirilen kısıtlamanın Microsoft'u zarara uğratacağı iddiasına katılmadı. ABD şirketinin komisyon kararına yaptığı itirazı kabul etmeyen mahkeme böylece benzeri program üreten rakip şirketlere, ürünlerini pazarlama şansı tanınması gerektiğine ilişkin görüşüne katılmış oldu. Alman DW Radyosu'nun haberine göre, AB Komisyonu, Microsoft'un bilgisayar ağları için Windows'a eklenen giriş kodunu rakiplerinin kullanımına açmasını da istedi. Komisyon sözcüsü Jonathan Todd mahkeme kararının, Microsof yazılım şirketinin tekelci konumunu ortadan kaldırdığını, bilgisayar kullanıcısının daha geniş seçme hakkına kavuşacağını ve amaçlarının hiçbir zaman Microsoft'a zarar vermek olmadığını söyledi. 
+     
+     MİCROSOFT İTİRAZ ETTİ 
+     Bilgisayar yazılımlarında dünya piyasasına hükmeden Microsoft, şirket sırlarını açıklamaya zorlandığını, bunun sonucunda zarara uğrayacağını savundu. Şirketin esas hakkında Lüksemburg Avrupa Mahkemesi'nde açtığı karşı davanın 3-5 yıl sürebileceği belirtildi. AB Komisyonu nihai karar verilinceye kadar yürütmeyi durdurma başvurusunun yürürlükte kalması halinde kararı etkisiz hale getireceğini açıkladı. 
+     AB Komisyonu Sözcüsü Jonathan Todd bu süre içinde yazılım ve bilgisayar programlarının 2-3 nesil gençleşeceğini belirttirken, "Microsoft'un bütün tezlerinin mahkeme tarafından rededilmemiş olması normaldir. Karar sadece her şeyin bir kalemde silinmeyip mahkemede görüşülmesi gerektiğini söylüyor'' diye konuştu. 
+     Microsoft'un Yürütmeyi durdurma talebinin kabul edilmemesi üzerine bir üst mahkemede itiraz etme hakkı bulunduğu hatırlatıldı. AB Komisyonu Amerikan şirketleri ile rakipleri arasında uzlaşma sağlamaya çalışırken Microsoft'un tavize yanaşmaması üzerine, Amerikan yazılımcılık devinin tekelci konumunu kötüye kullandığı sonucuna varıldığı açıklanmıştı. Dava sonuçlanınca Microsoft'un 500 milyon dolar ceza ödemek zorunda kalabileceği ifade edildi. Microsoft'un, rakip şirketlerin uyumlu bilgisayar programları hazırlayabilmeleri için yazılım kodlarını açık etmeye zorlanmasına karşı çıktığı kaydedildi. Microssoft son yıllarda bazı rakiplerine milyarlarca dolar ödeyerek onları pazardan uzaklaştırırken, Real Networks ve Apple uzlaşmaya varmıştı. 
+     Microsoft'un AB Komisyonu ile uzlaşma çabalarını sürdüreceklerine ilişkin açıklamasıyla ilgili AB sözcüsü Todd, bu aşamada müzakere aşamasında olmadıklarını ve mahkeme kararının en kısa zamanda yerine getirilmesini beklediklerini söyledi. 
+     Microsoft'un bu gelişmeler üzerine umutlarını Longhorn' adlı yeni yazılıma bağladığı kaydedildi. İnternet bağlantıları ve media player gibi programların üzerinde çalışılan Longhorn'un öz yazılımına entegre edileceği, Amerikan şirketinin rakiplerinden sıyrılmayı hedeflediği kaydedildi. Longhorn yazılımını kullananlar, internet ve bilgisayar hafızası için aynı arama makinasından yararlanacak. 
+     
+</TEXT>
+</DOC>

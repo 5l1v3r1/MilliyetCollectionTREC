@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 325695 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/21/son/sonyas20.html </URL>
+<DATE> 2005/03/21/ </DATE>
+<TIME> 12.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kanserle mücadele 'akıllı' yeni yöntem... 
+</HEADLINE>
+<TEXT>
+
+     Singapurlu uzmanlar, geleneksel kanser tedavisinin yan etkilerini ortadan kaldıran yeni bir yöntem geliştirdiklerini açıkladılar. 
+     Nanoteknoloji ve Biyo-mühendislik Enstitüsü'nce yapılan açıklamaya göre uzmanlar, ilaçları doğrudan doğruya hastalıklı dokulara yönelten ''akıllı'' nano polimer parçacıkları elde ettiler. Nanometre Metrenin milyarda biri. Polimer Tekrarlanan yapısal kümelerin oluşturduğu yüksek molekül ağırlıklı bileşik. 
+     Yeni teknolojinin hayvanlar üzerinde başarıyla denendiği ve geleneksel ilaç tedavisinin yol açtığı saç dökülmesi ve yorgunluk gibi yan etkilerin bu sayede ortadan kalktığı kaydedildi. 
+     Araştırmacı Yang Yi-Yan, bu yöntemle sadece kanserli hücrelerin hedef alındığını belirtti. Uzmana göre, nano polimer parçacıklarına yerleştirilen özel işaretler, tümörlerin tanınmasını ve ilacın sadece kanserli hücrelere verilmesini sağlıyor. 
+     Yeni yöntem, beş yıl boyunca insanlar üzerinde denenecek. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 183374 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/19/son/soneko01.html </URL>
+<DATE> 2003/09/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi, Tokyo Borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Borsası'nda Dow Jones ve Nasdaq endeksleri günü yükselişle kapattı. 
+     Borsanın temel göstergesi Dow Jones 113,48 puan artarak 9659,13'e yükselirken, teknoloji endeksi Nasdaq da 26,45 puan artışla 1909,55 puana çıktı. 
+     
+     TOKYO BORSASI 
+
+     Tokyo Borsası ise günü düşüşle tamamladı. 
+     Borsanın temel göstergesi Nikkei Endeksi kapanışta, düne göre 94.90 puan azalarak 10,938.42 puana düştü. 
+     Aynı borsada ABD Doları ise Japon Yeni karşısında düne göre 0.45 yen gerileyip 115.36 yenden işlem gördü. 
+     
+</TEXT>
+</DOC>

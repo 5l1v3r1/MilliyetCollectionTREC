@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 385036 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/08/son/sondun19.html </URL>
+<DATE> 2005/10/08/ </DATE>
+<TIME> 16.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Romanya'da kuş gribi vakalarının insanlar için tehlikesi araştırılıyor 
+</HEADLINE>
+<TEXT>
+
+     Romanya'da evcil kuşlarda saptanan kuş gribi virüsünün, insan için de öldürücü olabilen H5N1 tipinde olup olmadığının araştırıldığı bildirildi. 
+     Yetkililer, Karadeniz kıyısındaki Tuna nehri deltasında bulunan Smardan köyünde saptanan virüsün tipinin anlaşılması için testler yapıldığını, bazı örneklerin de İngiltere'ye gönderileceğini kaydetti. 
+     Çalışmaları yürüten ekibin şefi Veteriner Ion Agafitei, virüs saptanan bölgede 220 evcil kuşun itlaf edildiğini, itlaf çalışmalarının süreceğini söyledi. Agafitei, bölgede ölü bulunan çok sayıda kuğudan alınan örneklerle yapılan testlerin de birkaç gün içinde sonuçlanacağını belirtti. 
+     Avrupa'daki en geniş bataklıkların olduğu Tuna nehri deltasının, Rusya, İskandinavya, Polonya ve Almanya'dan gelen kuşların göçmen kuşların önemli yaşam alanlarından olduğu belirtiliyor. 
+     Ölümcül H5N1 virüsü nedeniyle, Asya'da 2003'den beri 65 kişi yaşamını yitirdi. Virüs, Rusya'nın Sibirya'daki 6 bölgesinde de resmi olarak saptandı. 
+     
+</TEXT>
+</DOC>

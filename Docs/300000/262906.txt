@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 262906 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/12/son/sontur50.html </URL>
+<DATE> 2004/08/12/ </DATE>
+<TIME> 14.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ankara-İstanbul hatında çalışan 37 lokomotifin 9'unda ATS var .. 
+</HEADLINE>
+<TEXT>
+
+     TCDD'nin Ankara-İstanbul hattında çalışan 37 adet elektrikli lokomotifinden 9'unda Otomatik Frenleme Sistemi ATS-Auto Train Stop bulunduğu, ancak dün kaza yapan ekspreslerde ATS'ye uygun araç üstü ekipman bulunmadığı öğrenildi. 
+     AA muhabirinin aldığı bilgiye göre, demiryollarında sinyalizasyon sistemlerinin bir parçası olarak ATS kullanılıyor. Bu sistem, lokomotiflerin sinyallere uymaması durumunda zorunlu frenleme yaptırarak, trenlerin hızını kontrol altına alıyor. 
+     Sistemin aktif olarak çalışması lokomotifleri etkilemek üzere demiryolu boyunca sistemin unsurları yerleştiriliyor, ayrıca lokomotifin üzerine ATS teçhizatı konuluyor. Yol boyundaki ekipmanlar, en yakındaki sinyalle ilişkilendiriliyor. Seyir halindeki trendeki ATS sistemi, yoldaki ekipmandan aldığı bilgilere göre trene yön veriyor. 
+     Sisteme göre, ''Sarı'' sinyal geçildiğinde tren hızının 20 saniyede 65 kilometre hıza düşmesi gerekiyor. Bunu makinist yapmadığı takdirde, sistem devreye girerek, otomatik frenleme sağlıyor. ''Kırmızı'' sinyal geçildiğinde ise sistem ani otomatik frenlemeye gidiyor. 
+     
+     2 BİN 600 KİLOMETREDE ATS SİSTEMİ MEVCUT 
+     Elektrikli lokomotiflerde kullanılan bu sistem TCDD'nin Ankara-İstanbul arasında sefer yapan 37 adet elektrikli lokomotifinde bulunuyor. Bu lokomotiflerden saatte 120 kilometre hız yapabilen E 43000 tipi 9 adet lokomotifte Ankara-İstanbul arasındaki hatta bulunan ATS sistemine uygun araç üstü ekipman yer alıyor. 
+     Diğer 28 adet elektrikli lokomotifte ise demiryolu hattındaki ATS sistemine uygun araç üstü ekipman bulunmuyor. TCDD'nin sinyalizasyon sistemi bulunan yaklaşık 2 bin 600 kilometrelik kesiminde ATS sistemi çalışır durumda. 
+     Tavşancıl yakınlarında çarpışan Başkent ve Adapazarı ekspreslerinde ise ATS sistemine uygun araç üstü ekipman bulunmadığı, bu lokomotifler Bosna Hersek'ten kısa süreli kiralandığı için araç üstü ekipmanlarının takılmadığı öğrenildi. 
+     
+</TEXT>
+</DOC>

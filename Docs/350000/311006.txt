@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 311006 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/31/son/soneko40.html </URL>
+<DATE> 2005/01/31/ </DATE>
+<TIME> 16.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa rekorla kapandı 27.330 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeksi 2. seansta 206. puan artarak, 27,330.35 puandan yeni bir rekorla kapandı. 
+     Hisse senetleri 2. seansta, ortalama yüzde 0.76 oranında değer kazandı. 
+     İlk seanstaki 49.73 puanlık artış dikkate alındığında, Borsa endeksi günün tamamında 256.26 puan yükseldi. Hisse senetlerinin günlük ortalama değer kazancı yüzde 0.95 oldu. 
+     Borsa bundan önceki rekor kapanışını, 27,302.74 puanla 27 Ocak Perşembe günü gerçekleştirmişti. 
+     
+</TEXT>
+</DOC>

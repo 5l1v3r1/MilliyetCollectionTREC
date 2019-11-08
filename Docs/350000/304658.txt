@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 304658 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/08/son/soneko13.html </URL>
+<DATE> 2005/01/08/ </DATE>
+<TIME> 17.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Avea'dan abonelerine ücretsiz Bas-Konuş yazılımı... 
+</HEADLINE>
+<TEXT>
+
+     Avea'nın, Nokia cep telefonu kullanan abonelerine ücretsiz Bas-Konuş yazılımı sunduğu bildirildi. 
+     Avea'dan yapılan açıklamada, şu anda piyasada olan ve teknik özellikleri itibariyle bu teknolojiyi destekleyen Nokia cep telefonlarının, ücretsiz olarak sunulan yazılımla Bas-Konuş uyumlu hale getirildiği belirtildi. 
+     Avea'nın gönderdiği servis mesajıyla, abonelerinin Bas-Konuş yazılımını WAP üzerinden telefonlarına yükleyebilmelerine ve Bas-Konuş'u kullanmalarına olanak sağladığı kaydedilen açıklamada, Bas-Konuş servisinin 1 Şubat'a kadar abonelere ücretsiz sunulacağı bildirildi. 
+     Avea Genel Müdür Cahit Paksoy, amaçlarının GSM sektörüne pozitif rekabeti getirmek suretiyle hizmet kalitesini artırmak ve kullanıcıların memnuniyetlerini maksimum seviyeye taşımak olduğunu kaydetti. 
+     Paksoy, ''Yeni teknolojileri müşterilerimize sunarak onların hayatlarını kolaylaştırmayı ve renklendirmeyi hedefliyoruz. Bas-Konuş servisinden daha geniş kitlelerin faydalanmasını sağlamak amacıyla bu uygulamayı hayata geçirdik. Bas-Konuş'a olan talebin de, piyasaya sunduğumuz diğer yeni ve ilk servislerimizde olduğu gibi hızla artacağına inanıyoruz'' dedi. 
+     
+</TEXT>
+</DOC>

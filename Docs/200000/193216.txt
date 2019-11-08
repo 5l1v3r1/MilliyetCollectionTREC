@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 193216 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/04/son/sondun07.html </URL>
+<DATE> 2003/11/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Honda 652 bin otomobili geri çağırıyor... 
+</HEADLINE>
+<TEXT>
+
+     Honda Motor Co. firması, bir hata nedeniyle yaklaşık 652 bin arabayı geri çağırmaya karar verdi. 
+     Hatanın, araç parkta değilken şoförün kontak anahtarını yerinden çıkarmasına olanak veren bir aksaklıkla ilgili olduğu bildirildi. 
+     Amerikan Karayolları Güvenlik İdaresi söz konusu hata yüzünden 4 kişinin yaralandığını, 28 çarpışma meydana geldiğini ve 128 şikayet alındığını açıkladı. Kazalardan birine çok sayıda aracın karıştığı ifade edildi. 
+     Hatalı arabaların modelleri şöyle 2002 CR-V SUV, 1997-99 Acura CL ve 1999 Acura TOL, 1999 Odeyssey minivan ve 1998-99 Accord sedan ve coupe. 
+     Honda tarafından yapılan açıklamada, araç sahiplerinin arıza giderilene kadar park frenlerini kullanmaları tavsiye edildi. Honda, temmuz ayında da 247 bin 019 aracı, aşırı paslanma nedeniyle otomatik vitesleri iyi çalışmadığı gerekçesiyle geri çağırmıştı. 
+     
+</TEXT>
+</DOC>

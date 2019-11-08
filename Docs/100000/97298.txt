@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 97298 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/07/22/son/soneko03.html </URL>
+<DATE> 2002/07/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansta şaşkın 
+</HEADLINE>
+<TEXT>
+
+     İMKB-100 endeksi birinci seansta, Cuma günkü kapanışa göre 356.62 puan azalarak 10,116.36 puandan kapandı. Hisse senetleri ortalama yüzde 3.41 oranında değer kaybetti. 
+     Açılışta 10.096 puan seviyelerine kadar düşmesine rağmen gelen alımlarla endeks bu seviyede tutunmayı başardı. 
+     İşlem gören toplam 279 hisse senedinden 205'i değer kaybederken, 41 hisse senedi değer kazandı. 33 hissenin fiyatında değişiklik olmadı. 
+     Seansta 144 trilyon 963 milyar 787 milyon liralık işlem hacmi oluştu. Yapı Kredi Bankası, Beko Elektronik, Arçelik, Turkcell ve Migros en yoğun işlem gören hisseler oldu. 
+     Geçen haftayı yüksek işlem hacminin desteklediği çıkışla geçiren borsada, piyasaya yeni para girişi moralleri yükseltmişti. Ancak Başbakan Bülent Ecevit'in dün yaptığı erken seçimin tarihiyle ilgili çelişkili açıklamaları yine tedirginliğe neden oldu. Ecevit'in "seçimin tarihinde yapılmasını istiyoruz" şeklindeki sözleri, borsa yatırımcıları tarafından yeniden siyasi belirsizliği gündeme getirdi. 
+     Öte yandan Wall Strett'te yaşanan düşüş, diğer borsalar gibi İMKB'yi de olumsuz etkiledi. Cuma günü yüzde 4,6 değer kaybetmesiyle 11 Eylül seviyesinin de altına gerileyen Dow Jones Endeksi Avrupa borsalarında da düşüşlere neden oldu. Tokyo Borsası da günü düşüşle tamamladı. 
+
+     
+</TEXT>
+</DOC>

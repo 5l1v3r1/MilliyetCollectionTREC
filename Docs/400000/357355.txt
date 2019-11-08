@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 357355 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/01/son/soneko47.html </URL>
+<DATE> 2005/07/01/ </DATE>
+<TIME> 17.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Petrol Ofisi, Profilo Telra ile anlaşma yaptı... 
+</HEADLINE>
+<TEXT>
+
+     Akaryakıt ve madeni yağ sektöründe faaliyet gösteren Petrol Ofisi, yazarkasa üreticisi Profilo Telra ile anlaşma yaptı. 
+     Petrol Ofisi'nden yapılan yazılı açıklamada, Maliye Bakanlığı'nın akaryakıt sektöründe kayıtdışılığı azaltmak amacıyla oluşturduğu yazarkasa uygulaması kapsamında Profilo Telra ile anlaşma yaptığı kaydedildi. 
+     Açıklamada, Petrol Ofisi'nin, 1 Temmuz itibariyle bayilerinden yetki alarak yazarkasa tedarik firmasıyla anlaşma yapan ilk dağıtım şirketi olduğu belirtilerek, Maliye Bakanlığı tarafından belirlenen süre içerisinde, tüm Petrol Ofisi istasyonlarına yazarkasa takılacağı kaydedildi. 
+     Akaryakıt ve Oto LPG istasyonları için özel olarak geliştirilen yazarkasalar, tüm ödeme sistemlerine uyumlu olarak çalışabiliyor. Maliye Bakanlığı ve ATEX Muhtemel Patlayıcı Ortamda Kullanılan Teçhizat ve Koruyucu Sistemler de dahil olmak üzere TSE'deki tüm onay ve test süreçlerinden geçmiş ve onaylanmış olan yazarkasalarla sürücüler araçlarından ayrılmadan yakıtlarını alırken, istasyonda bekleme süresi de azalıyor, böylelikle daha kısa zamanda daha çok müşteriye hizmet verilebiliyor. 
+     Kullanılacak yazarkasalar, nakit, kredi kartı, smart kart ve manyetik kartlar gibi tüm ödeme sistemleri ve manyetik-temassız kartlar dahili RF okuyucu ile ile otomasyon sistemlerine bilgi iletebiliyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 224978 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/24/ekonomi/eko06.html </URL>
+<DATE> 2004/03/24/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+AB'den Microsoft'a rekor ceza geliyor 
+</HEADLINE>
+<TEXT>
+
+   Avrupa Birliği ile tekelleşme savaşı yaşayan Microsoft'a 497 milyon euroluk rekor ceza gelmesi bekleniyor 
+      GÜVEN ÖZALP Brüksel 
+   
+   Avrupa Birliği'yle AB Microsoft arasında yaşanan savaşta son aşamaya gelindi. AB, yazılım devine tarihinin en ağır cezasını vermeye hazırlanıyor. Bugün AB Komisyonu'nun rekabetten sorumlu üyesi Mario Monti tarafından açıklanması beklenen cezanın tutarı Komisyon kaynakları tarafından 497 milyon euro olarak telaffuz ediliyor. Bu ceza Avrupa Birliği tarihi boyunca bir firmaya verilen en büyük ceza. 
+   
+   İki gerekçe 
+   Microsoft'u bilgisayar işletim sisteminde sahip olduğu tekel konumunu kötüye kullanmakla suçlayan AB, bunun için 2 gerekçe gösteriyor. 
+   Bunlardan ilki Microsoft'un Windows'la ilgili yaşamsal bilgileri rakiplerinden saklayarak farklı bir pazar olan sürücü yazılımı alanında haksız kazanç elde etmesi, ikincisi ise Media Player'ı Windows'un bir parçası olarak göstererek haksız rekabet yapması. 
+   AB yasaları gereği Birlik, bir şirkete toplam satışının yüzde 10'u düzeyinde ceza verebiliyor. Analistlere göre Microsoft'un yıllık kazancı 50 milyar dolar olduğu için bu ceza şirketin mali yapısına ciddi etki yapmayacak. 
+   Bugün AB Komisyonu'nun yapacağı toplantı sırasında nihai hali verilecek olan cezaya Microsoft daha karar açıklanmadan tepki gösterdi. Şirketin Brüksel'deki sözcüsü Tom Brookes, AB yasalarında standart bir hukuki düzenleme bulunmadığını belirterek cezanın çok yüksek olduğunu ifade etti. AB, bundan önce de 2001'de haksız rekabet uyguladığı için Roche'a 462 milyon euro ceza vermişti. 
+   Microsoft Avrupa Baş Hukuk Müşaviri Horacio Gutierrez yaptığı açıklamada cezanın haksız olduğunu çünkü ABD'deki işlemler için zaten ABD Adalet Bakanlığı'nca yargılandıklarını söyledi. Maddi cezanın dışında Microsoft, Avrupa'daki kullanıcılarına Windows Media Player'sız ürünler satıp aynı zamanda diğer görüntüsel yazılım satan şirketleri de desteklemek zorunda bırakılacak. 
+   
+   
+</TEXT>
+</DOC>

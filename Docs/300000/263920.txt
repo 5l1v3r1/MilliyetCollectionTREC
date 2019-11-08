@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 263920 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/16/son/sonyas04.html </URL>
+<DATE> 2004/08/16/ </DATE>
+<TIME> 10.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Singapur'da "hack" yarışması... 
+</HEADLINE>
+<TEXT>
+
+     Singapur hükümetinin de desteklediği bir yarışmada, altı çift bilgisayar korsanı, rakiplerinin bilgilerini çalmaya çalışacak. 
+     Birinci gelecek çifte, DVD yazıcı ve ücretsiz bilgisayar dersi verilecek yarışmada, siber korsanların saldırı yöntemleri masaya yatırılacak ve ek güvenlik önlemleri konuşulacak. 
+     İnternette yer alan habere göre, yarı özel bir devlet kuruluşu olan National Infocom Competency Center'ın, 20 Ağustos 2004 günü düzenleyeceği, ''BlackOPS HackAttack Challenge 2004'' yarışmasında 6 çift, birbirlerinin bilgisayarlarına sızmaya çalışacak. İki kişiden oluşacak takımda bir kişi saldırırken, diğeri kendi bilgisayar sistemlerine yönelik tehditleri bertaraf etmeye çalışacak. 
+     En iyi hacker, DVD yazıcı ve istediği konuda ücretsiz bilgisayar dersi kazanacak. Yarışma sırasında kullanılan yöntemler, savunma konusunda yeni projelerin geliştirilmesi için bir aşama olacak. 
+     
+</TEXT>
+</DOC>

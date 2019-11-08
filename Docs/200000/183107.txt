@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 183107 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/18/son/sondun09.html </URL>
+<DATE> 2003/09/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+"Sun" firmasından Windows'a alternatif... 
+</HEADLINE>
+<TEXT>
+
+     Sun yazılım şirketi, Microsoft tarafından geliştirilen ve dünyadaki bilgisayarların yüzde 90'ında kullanılan Windows işletim sistemine seçenek olarak, ucuz bir işletim programı geliştirdiğini bildirdi. 
+     Windows programını vuran virüslerden etkilenmediği belirtilen yeni sistemin, özellikle çok sayıda bilgisayara sahip büyük şirketlerin tasarruf yapmalarına yardımcı olacağı bildiriliyor. 
+     ''Sun Java Desktop Sistemi'' adlı programın, Linux işletim sistemi bazında geliştirildiği kaydedildi. Programa, Microsoft'un geliştirdiği internet tarayıcısı, verimlilik kiti gibi çeşitli unsurların da eklendiği belirtildi. 
+     Sun yetkilileri, geliştirdikleri işletim sisteminin her bilgisayara yüklenebileceğine ve 50 dolara malolacağına işaret ettiler. Windows'un geliştirilmiş paketi ise 150-180 dolar arasında satılıyor. Yeni işletim sistemi, Microsoft ürünü olan Exchange ve Microsoft Ofis programlarıyla da uyumlu çalışıyor. 
+     Sun firması, bir süre önce kendi geliştirdiği Java programının kullanılmasını engellediği gerekçesiyle Microsoft aleyhine 1 milyar dolarlık antitekel davası açmıştı. 
+     
+</TEXT>
+</DOC>

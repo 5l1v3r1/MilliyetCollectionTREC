@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 251154 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/27/ekonomi/eko05.html </URL>
+<DATE> 2004/06/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+NATO Zirvesi'nde telefon ücretsiz 
+</HEADLINE>
+<TEXT>
+
+
+
+Türk Telekom, İstanbul'da yapılacak NATO Zirvesi sırasında Zirve Vadisi'nde katılımcılara tüm telekomünikasyon hizmetlerini ücretsiz sunacak. Türk Telekom'dan yapılan açıklamada, Türk Telekom'un, NATO Zirvesi katılımcılarının her türlü haberleşme ihtiyacını kesintisiz ve sağlıklı karşılayabilmek amacıyla çeşitli önlemler aldığı belirtildi. T. Telekom, zirve süresince haberleşme trafiğini sağlamak üzere aynı anda 2 bin 300 kişinin konuşmasını temin edecek ISDN uyumlu PBX santral kurdu. Haberleşmenin kesintisiz sürdürülebilmesi için zirve vadisinde ayrı bir transmisyon alt yapısı kuruldu. TRT'nin geniş bant ihtiyacı 6 adet 34 Mbit hızında devre tesis edilerek karşılanacak. Zirve vadisinde 155 Mgbit'lik geniş bantlı internet hizmeti sunulacak. 
+
+
+</TEXT>
+</DOC>

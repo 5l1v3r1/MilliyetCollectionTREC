@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 238468 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/08/son/sonyas06.html </URL>
+<DATE> 2004/05/08/ </DATE>
+<TIME> 12.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sasser virüsünün programcısı olduğu sanılan bir kişi yakalandı... 
+</HEADLINE>
+<TEXT>
+
+     Almanya'nın kuzeyindeki Rotenburg kentinde, dünya genelinde milyonlarca bilgisayara bulaşan Sasser virüsünü yazdığı sanılan bir kişi yakalandı. 
+     Hannover polisinin açıklamasında, 18 yaşındaki şüphelinin dün yakalandığı belirtildi, ancak ayrıntı verilmedi. 
+     Der Spiegel dergisinin pazartesi yayımlanacak sayısındaki habere göre, Alman polisi, ailesiyle yaşayan gencin evinde yapılan aramada çok sayıda kanıt buldu. 
+     Gencin, Sasser virüsü dışında, geçen salı internette yayılmaya başlayan ''Netsky.ac'' virüsünü yazdığından da şüpheleniliyor. 
+     Der Spiegel'e göre, Amerikan Federal Soruşturma Bürosu FBI ve Amerikan Merkezi Haberalma Teşkilatı CIA da soruşturmaya katıldı. 
+     Diğer birçok virüsün aksine elektronik posta yoluyla bulaşmayan Sasser, bulaştığı bilgisayarı yavaşlatıyor. 
+     Antivirüs üreticisi Amerikan firması Symantec'e göre, Sasser, Windows 2000, Windows Server 2003 ve Windows XP işletim sistemi kullanılan bilgisayarlara ''saldırıyor''. 
+     
+</TEXT>
+</DOC>

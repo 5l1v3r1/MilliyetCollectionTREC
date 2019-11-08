@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 176989 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/20/son/soneko29.html </URL>
+<DATE> 2003/08/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hazine IMF'ye ödenecek faiz hesabı diğer ülkelerle aynı 
+</HEADLINE>
+<TEXT>
+
+     Türkiye'nin Stand-By Düzenlemeleri çerçevesinde kullandığı IMF kaynaklarının faiz oranının hesaplanma biçiminin, IMF'den bu kapsamda kaynak kullanan tüm diğer üye ülkelerle aynı olduğu bildirildi. 
+     Hazine Müsteşarlığı'ndan yapılan açıklamada, IMF'den kullanılan kaynakların maliyetine açıklık getirildi. 
+     Açıklamada, Türkiye'nin IMF kaynaklarının ana para geri ödemesinde erken ödeme planından normal ödeme planına geçmesi nedeniyle, IMF'nin uygulayacağı faiz oranlarında herhangi bir değişiklik olmasının söz konusu olmadığı belirtildi. 
+     IMF'nin, stand-by düzenlemesi kapsamında kaynak kullandırdığı ülkelere uyguladığı faiz oranını, kullanılan kaynağı ülke kotasıyla ilişkilendirmek suretiyle belirlendiği kaydedilen açıklamada, şöyle denildi 
+     
+     FAİZ ORANI NASIL BELİRLENİYOR 
+     ''Bu çerçevede kullanılan kaynağın, üye ülke kotasının yüzde 200'üne kadarki kısmı için ayarlanmış oran, yüzde 200-300'ü arasındaki kısım için ayarlanmış Oran artı 100 baz puan, yüzde 300'ünden fazla olan kısım için ayarlanmış Oran 200 baz puan uygulanmaktadır. 
+     Bu uygulama 28 Kasım 2000 tarihi itibariyle başlamıştır. Bu tarihten önceki kaynak kullanımları için ayarlanmış oran üzerinden faiz tahakkuk ettirilmektedir.'' Ayarlanmış oranın normal oran ve yük paylaşımı olmak üzere 2 temel bileşenden oluştuğu belirtilen açıklamada, normal oran, özel çekme hakkı olan SDR faiz oranının önceden belirlenmiş bir katsayıyla halihazırda 1.32 çarpılması suretiyle hesaplandığı kaydedildi. 
+     SDR faiz oranının, parası SDR sepetini oluşturan 4 para birimi olan Euro, Japon Yeni, İngiliz Sterlini ve ABD Dolarının, para piyasalarındaki temel faiz oranlarının ağırlıklı ortalamaları alınarak, her hafta başında belirlendiği ifade edilen açıklamada şöyle denildi 
+     ''Yük Paylaşımı, IMF'nin üye ülkelere kullandırdığı kaynakların geri ödemelerinde sözkonusu olabilecek gecikmelerin maliyetinin faiz oranlarına yansıtılmasıdır. 
+     SDR faiz oranı haftalık olarak belirlendiği için dönemler itibariyle değişkenlik göstermektedir. Ancak SDR faiz oranı bir sepet üzerinden hesaplandığından dalgalanmalar sınırlı kalmaktadır.'' 1 Mayıs- 31 Temmuz 2003 döneminde, ortalama olarak SDR Faiz Oranının yüzde 1.59 olarak gerçekleştiği bildirilen açıklamada, bu çerçevede yüzde 2.10 olan normal oran ile yük paylaşımı olan yüzde 0.08'nin toplamı ardından, ayarlanmış oranın yüzde 2.18 olduğu belirtildi. 
+     Açıklamada, Türkiye'nin IMF'deki kotasının 964 milyon SDR yaklaşık 1.3 milyar ABD Doları olduğu da hatırlatıldı. 
+     Türkiye'nin halihazırda elinde bulunan IMF kaynaklarının tamamının, stand-by düzenlemeleri kapsamında sağlanmış kaynaklardan oluştuğu kaydedilen açıklamada, daha pahalı bir kaynak olan ek rezerv kolaylığı çerçevesinde sağlanmış olan kaynakların tamamının geri ödenmiş olması nedeniyle, halihazırda Türkiye'nin hesaplarında bu çerçevede kullanılmış kaynağın bulunmadığı ifade edildi. 
+     Açıklamada, 1 Mayıs- 31 Temmuz 2003 dönemi için IMF'den kullanılan kaynaklara ilişkin faiz oranının ağırlıklı ortalamasının yüzde 3.78 olduğu kaydedildi 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 79042 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/04/18/yazar/gunes.html </URL>
+<DATE> 2002/04/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Hurşit GÜNEŞ  </AUTHOR>
+<HEADLINE>
+Endekslerin önemi 
+</HEADLINE>
+<TEXT>
+
+     Pazartesi akşamı CNBC - e iki endeks yayımladı. Biri Tüketici Güven Endeksi, diğeri de Bireysel Tüketim Endeksi. Her iki endeks de piyasalarda meslektaşlarımız tarafından olumlu karşılandı. Çünkü her iki endeks gayet önemli. Ülkemizde üretimi ölçmek için çeşitli göstergeler kullanılsa da tüketimi görmek için verilerimiz gayet sınırlı. 
+     Üstelik üretimin artması tüketimin artması demek değil. İhracat artabilir. Tüketimin artması da üretimin artması demek değil. Stoklar boşalabilir. Ancak iç tüketimin artması eninde sonunda üretim artışı sağlar. Bu nedenle de çok önemli. Ülkemizde tüketici davranışı resmi olarak sadece yıllık bazda tahmin ediliyor. Oysa dünyanın gelişmiş ülkelerinde bu rakamlar aylık bazda izleniyor. Hatta temel veri oluyor. 
+     Tüketici Güven Endeksi TGE bireylerin ekonomiye ve kendi durumlarına ilişkin değerlendirmelerini ve gelecekle ilgili tahminlerini içeren bir veri. Bu endeksin hesaplanışında Michigan Üniversitesi adeta bir uluslararası standart haline gelmiş. Ve endeks temel olarak tüketicilerin beyanına dayanıyor. Pazartesi açıklanan TGE verileri ise aşağıda ilk grafikte görülüyor 
+     
+     Bu rakamlar şunu gösteriyor 
+     Ocak ayında tüketicilerin ekonomiyle ilgili beklentileri olumsuzlaşmış, daha doğrusu ocak ayını alışveriş için uygun bir zaman olarak görmemişler, n Şubat ayında da beklentiler düzelmediği gibi, dayanıklı tüketim malı almak için uygun zaman görülmemiş, n İzleyen ayda, yani martta da önemli bir değişim gözlenmemiş. 
+     
+     Bireysel Tüketim Endeksine gelince 
+     Bu endeks bireylerin ortalama ne kadar alışveriş yaptığını gösteriyor. Elbette mağazalarda satış artarken, bireyler daha fazla alışveriş yapmayabilir. Mesela daha önce hiç alışveriş yapmayanlar, ufak tefek para harcamaya başlarsa ekonomide düzelmeler gözlenir. Ama bu endeks bu gelişmeyi yansıtmaz. Bu endeks daha çok bireyin harcama eğilimi konusunda bilgi vermekte. Kaldı ki, belli mağazalarda satış rakamları çok farklı nedenlerden ötürü değişebilir. 
+     Yukarıda yanısıtılan veriler şu sonuçlara işaret ediyor 
+
+</TEXT>
+</DOC>

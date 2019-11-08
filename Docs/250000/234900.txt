@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 234900 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/26/son/soneko22.html </URL>
+<DATE> 2004/04/26/ </DATE>
+<TIME> 12.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Serbest piyasada dolar 1 milyon 376 bin lira... 
+</HEADLINE>
+<TEXT>
+
+     İstanbul ve Ankara'da dolar, Euro ve sterlinin alış-satış fiyatları, saat 12.00 itibariyle şöyle 
+     
+
+İSTANBUL SERBEST PİYASA ALIŞ SATIŞ ABD Doları 1,372,000 1,376,000 Euro 1,622,000 1,627,000 İngiliz Sterlini 2,432,000 2,450,000      
+
+ANKARA SERBEST PİYASA ALIŞ SATIŞ ABD Doları 1,370,000 1,380,000 Euro 1,618,000 1,629,000 İngiliz Sterlini 2,421,000 2,460,000      
+</TEXT>
+</DOC>

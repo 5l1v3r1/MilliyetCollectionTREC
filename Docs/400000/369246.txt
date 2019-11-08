@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 369246 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/12/son/soneko13.html </URL>
+<DATE> 2005/08/12/ </DATE>
+<TIME> 12.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansta 600 puan kaybetti... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeksi, dünkü kapanışa göre 600.35 puan düşerek seansı 28,511.49 puandan kapattı. 
+     1. seansta, hisse senetlerinin ortalama değer kaybı yüzde 2.06 oldu. 
+     Dün 29,111.84 puandan kapanan İMKB Ulusal 100 Endeksi, ilk seansa 35.47 puan artarak 29,147.31 puandan başladı. İlk yarıyı 28,709.35 puandan geçen endeks, en düşük 28,444.78 puana gerilerken, en yüksek olarak 29,182.23 puana ulaştı. 
+     Seans sonunda mali endeks 1,177.58 puan azalarak 42,955.62 puana, sanayi endeksi 300.04 puan düşerek 23,093.32 puana ve hizmetler endeksi 96.00 puan düşerek 14,442.90 puana geriledi. 
+     Böylece önceki kapanışa göre, mali grup hisseler ortalama yüzde 2.67 oranında, sanayi grubu hisseler yüzde 1.29 oranında ve hizmetler grubu hisseler yüzde 0.66 oranında değer yitirdi. 
+     1. seansta işlem gören toplam 301 hisse senedinden 25'i değer kazandı, 244'ü değer kaybetti, 32 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta, 440 milyon 351 bin 685 YTL'lik işlem hacmi oluştu. 
+     1. seansta, İş Bankası C , Yapı ve Kredi Bankası, Akbank, Koç Holding ve Erdemir, en çok işlem gören hisse senetleri olarak belirlendi. 
+     
+</TEXT>
+</DOC>

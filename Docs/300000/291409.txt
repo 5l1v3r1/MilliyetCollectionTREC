@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 291409 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/23/son/soneko01.html </URL>
+<DATE> 2004/11/23/ </DATE>
+<TIME> 03.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     New York Menkul Kıymetler Borsası, günü yükselerek kapattı. 
+     Borsanın temel göstergesi Dow Jones endeksi 32,51 puan yükselerek 10.489,42'den, teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq da 14,56 puan artışla 2.085,19'dan günü noktaladı. 
+     
+</TEXT>
+</DOC>

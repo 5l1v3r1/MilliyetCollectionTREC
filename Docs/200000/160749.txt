@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 160749 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/03/son/sondun12.html </URL>
+<DATE> 2003/06/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Enfeksiyonlara neden olan yeni bir virüs saptandı 
+</HEADLINE>
+<TEXT>
+
+     ABD'de Yale Üniversitesi araştırmacıları, enfeksiyonlara neden olabilen yeni bir virüs saptadıklarını açıkladı. 
+     İnsan metapneumovirus olarak bilinen ve saptanması için herhangi bir test bulunmayan virüsün ne derece yaygın olduğu henüz bilinmiyor. Virüsün, Kanada, Avrupa ve Avustralya'da da bulunduğu tahmin ediliyor. 
+     Solunum yolları rahatsızlığı geçirmiş 296 çocukla ilgili laboratuvar örneklerini tekrar test eden araştırmacılar, virüsün, hastaların yüzde 6,4'ünde bulunduğunu saptadı. 
+     Ayrıca New York'ta Rochester Üniversitesi'nde yetişkinlerden alınan örnekler üzerinde yapılan testte, virüsün deneklerin yüzde 4'ünde bulunduğu belirlendi. 
+     Virüsün grip benzeri enfeksiyon ve zatürree benzeri hastalığa yol açabildiği bildirildi. 
+     Yale Üniversitesi uzmanlarından Dr. Jeffrey Kahn, virüsün SARS benzeri bir enfeksiyona neden olmadığını belirtti. 
+     Araştırmalarda, virüs kaynaklı ölüme rastlanmadığı da açıklandı. 
+     Sinüslerde iltihaplanma, hırıltılı solunum ve akciğer iltihabı şeklinde kendini gösteren rahatsızlıkların, hastayı hastanede yatmaya zorlamadığı kaydedildi. 
+     Yeni virüsün Paramyxovirus ailesinden olduğu bildirildi. Bu virüs ailesinde, solunum yollarında rahatsızlığa yol açabilen sinsityum virüsünün de RSV bulunduğu biliniyor. SARS virüsünün ise bu virüsten daha farklı olduğu düşünülüyor. 
+     Bir yaşındaki bir çocuğun ortalama 10 kez solunum yolları rahatsızlığı geçirebildiğine değinen uzmanlar, bu rahatsızlıkların çoğunun soğuk algınlığı, zatürree veya RSV nedenli olduğunu belirtiyor. Saptanan nedenlerin dışında meydana gelen solunum yolları rahatsızlıklarına ise henüz teşhis konulamadığı, insan metapneumovirüsün bu rahatsızların birçoğuna neden olabildiğinin düşünüldüğü ifade edildi. 
+     Yaygın adı hMPV olan virüs, iki yıl önce Hollanda'da saptandı. Virüsün uzun zamandan beri var olduğu, Hollandalı bilim adamlarının saptamasından önce gözden kaçmış olabildiği düşünülüyor. 
+     Yale Üniversitesi araştırmacıları, Hollandalı bilim adamlarının saptamasından sonra virüsü tekrar test ettikleri hastaların örneklerinde belirledi. 
+     Virüs ancak laboratuvarda yapılan özel bir testle belirlenebiliyor. 
+     Yeni araştırmalar yapılarak, virüsün ne derece yaygın bulunduğu ve ne tür etki gösterebildiği belirlenmeye çalışılacak. 
+     Araştırma raporu, Pediatrics adlı derginin Haziran sayısında yayımlandı. 
+     
+</TEXT>
+</DOC>

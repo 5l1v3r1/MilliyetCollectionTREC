@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 328115 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/29/son/soneko01.html </URL>
+<DATE> 2005/03/29/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi 
+</HEADLINE>
+<TEXT>
+
+     New York Menkul Kıymetler Borsası günü yükselişle kapadı. 
+     Dow Jones Endeksi 82.76 puan değer kazanarak 10,525.63'e, Nasdaq Birleşik Endeksi de 11.06 puan artışla 2,002.12 puana yükseldi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 354354 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/22/son/soneko01.html </URL>
+<DATE> 2005/06/22/ </DATE>
+<TIME> 09.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kredi kartında büyük tehlike 
+</HEADLINE>
+<TEXT>
+
+     ABD'de kredi kartları işlemi yapan CardS-ystems Solutions adlı şirketin güvenlik sistemini delerek 40 milyon müşteriye ait kredi kartı bilgilerini ele geçiren internet korsanları hackerlar , kendilerine ait sitelerde Türkiye'den kartların da bulunduğu bilgileri satışa çıkardı. 
+     New York Times gazetesinin haberine göre, CardSystems Solutions şirketinin bilgisayarlarından bir virüs aracılığıyla çalınan kredi kartı numarası, son kullanma tarihi, güvenlik kodu ve kart sahibinin annesinin kızlık soyadı gibi bilgiler 60 ile 120 dolar arasında fiyatlarla satılmaya başlandı. Kartları Avrupa ve Amerika diye iki gruba ayıran hackerlar Türkiye, İsveç, Avusturya, İtalya gibi ülkelerin vatandaşlarına ait kart bilgilerini, kartın limitine bağlı olarak değişik fiyatlardan satışa sundu. 
+     Türkiye'den bir tüketiciye ait limiti fazla yüksek olmayan bir kredi kartının fiyatı 70 dolarken, Premium adı verilen yüksek limitli kartlar ise 120 dolara alıcı bekliyor. Limiti 10 bin doları aşan gold kartların fiyatı ise 200 dolar. Kredi kartını alan kişi, kartın gerçek sahibi ekstresini alana kadar yani yaklaşık 30 gün boyunca internet üzerinden kartla alışveriş yapabiliyor. Bu alışverişlerde genel olarak eBay gibi açık artırma sitelerini kullanmaları yönünde uyarılan 'müşteriler', ürünler için de alıcı bulamadığı için uzun süredir boş kalan evlerin adreslerini kullanıyor. 
+     Böylece yakalanma riskini de sıfırlamış oluyorlar. 
+     
+     Kredi kartı sahibi ne yapmalı 
+     Manyetik karttaki bilgiler ses kasetlerinde olduğu gibi kolayca kopyalanabilir. Bu nedenle kartınızı alışveriş sırasında kullanırken işlemlerin gözünüzün önünde yapılmasını isteyin. 
+     Kredi kartınızı taşıdığınız çantanızı sık sık kontrol ederek kartınızın yanınızda olduğundan emin olun. 
+     Kartınızın kayıp olduğunu ya da çalındığını farkettiğiniz anda hiç vakit kaybetmeden en geç 24 saat içinde bankanızı arayarak kartınızın bloke edilmesini sağlayın. 
+     Harcamalar dışında kart numaranızı ve geçerlilik tarihini kimseye vermeyin. 
+     Yaptığınız harcamalara ilişkin slip kopyalarını, ekstrenize yansıyana kadar imha etmeyin ancak kimsenin de ulaşamayacağı bir noktada saklayın. Zira bazı sliplerde kredi kartı numaranız gizlenmeden yazmaktadır. 
+     Kredi kartınızı başkalarının kart üzerindeki bilgileri okuyabileceği ortamlarda açıkta bırakmayın. 
+     Kart şifrelerinizi belirlerken doğum tarihi, dahili telefon numaranız gibi başkaları tarafından kolaylıkla bilinebilecek rakamlardan belirlemeyin. 
+     Yaptığınız harcamadan sonra kartınızı geri alıp almadığınızı kontrol edin. 
+     İnternetten işlem yaparken bu konuda aldığı önlemlere güvendiğiniz firmaları ve bankaları kullanın. 
+     Bankanızdan geldiğini iddia eden ve şifrenizi yazmanızı isteyen bilgi güncelleme metinlerine cevap vermeyin. 
+     Kamuya açık yerlerde internet cafe'ler gibi kredi kartı numaranızı ve şifrenizi yazmanızı gerektiren internet işlemi yapmayın. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 167257 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/04/son/sondun14.html </URL>
+<DATE> 2003/07/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Çocuklara İngilizce öğreten robot 
+</HEADLINE>
+<TEXT>
+
+     Japonya'da, Nisan ayında piyasaya çıkan çocuklarla İngilizce sohbet edebilen ''Charpy Chocolate'' adlı robot çok tutuldu. 
+     Kuş biçimli ''Charpy Chocolate'' sohbetçi robotun geliştiricisi Japon CAI Media Joint Development şirketi, robotları Internet üzerinden de satıyor. 
+     Japonya'nın Shizuoka Vilayeti Hamamatsu beldesinde yerleşik şirket, tanesi 34 bin 800 yenden şimdiye kadar bin 300 adet sattı. 
+     Göreceli olarak yüksek düzeyde İngilizce konuşmalar yapabilen ilk Japon robotu olan Charpy ,10'a kadar sayabiliyor, yiyecek ve hava gibi konularda basit sohbetlerde bulunabildiği gibi 80 cümle kalıbını tanıyor ve 200 tane cevap verebiliyor. 
+     Japon tarzı telaffuzları da tanıyan robotun kullanıcıları neşeli, eğlenceli şekilde öğreniyor. Charpy robotu 26 santimetre boyunda, 17.5 santim genişliğinde ve 850 gram ağırlığında. 
+     
+</TEXT>
+</DOC>

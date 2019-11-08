@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 305452 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/11/son/soneko50.html </URL>
+<DATE> 2005/01/11/ </DATE>
+<TIME> 23.33 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Wall Street Borsası düşüşle kapandı 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacminde dünyanın en büyüğü New York Wall Street Borsası, düşüşle başladığı haftanın ikinci işlem gününde son seansı da düşüşle kapadı. 
+     Wall Street'in Dow Jones Sanayi Endeksi 62.29 puan düşüşle binde 5.9 10,558.74 puandan ileri teknoloji ortaklıkları ibresi Nasdaq Birleşik Endeksi de 17.42 puan düşüşle binde 8.3 2,079.62 puandan noktalandı. 
+     İşlemci üreticisi AMD'nin satış tahminini düşürmesi, Advanced Micro Devices elektronik-yonga üretim firmasının uyarısı yanında bilanço açıklayan şirketlerin beklentileri karşılayamaması, alüminyum üretim firması Alcoa'nın kar beklentisini karşılayamaması, borsanın düşüşünü etkiledi. 
+     
+</TEXT>
+</DOC>

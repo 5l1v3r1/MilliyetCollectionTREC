@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 169956 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/17/son/sondun03.html </URL>
+<DATE> 2003/07/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Google'ın başarısı rakiplerini kaygılandırıyor... 
+</HEADLINE>
+<TEXT>
+
+     Google adlı arama motoru ve portalı rakiplerini giderek daha fazla kaygılandırıyor. 
+     Amerikan finans çevrelerinin gazetesi Wall Street Journal, yazılım devi Microsoft'un, Windows-XP'den sonra piyasaya çıkaracağı ''Longhorn'' kod adlı işletim sistemine güçlü bir arama motoru dahil edeceğini duyurdu. 
+     Arama motorları ve portalları, arayıcı ve tüketicileri diledikleri siteye yönlendirme olanağına sahip oldukları için büyük önem taşıyorlar. Arama motorları arasında Google'ın pazar payı yüzde 32 dolayında. Onu yüzde 25 ile Yahoo, yüzde 19 ile AOL-TW, yüzde 15 ile MSN-Microsoft, yüzde 3 ile Ask Jeeves ve yüzde 6 ile diğerleri izliyor. 
+     İnterneti yakından izleyen kuruluşlar söz konusu motorlar aracılığıyla ayda ortalama 4 milyar arama yapıldığını saptadılar. 
+     Resmen açıklanmamakla birlikte, Google'ın yıllık gelirinin 1 milyar doların üstünde olduğu belirtiliyor. 
+     
+     YAHOO'NUN ATAĞI 
+     Google ile sıkı bir rekabete girişen Yahoo, geçen günlerde Overture adlı kuruluşu 1.63 milyar, arama teknolojisi alanında uzmanlaşmış olan İnktomi adlı firmayı ise 235 milyon dolar ödeyerek satın aldı. 
+     Bunların gerisinde kalmak istemeyen Microsoft firmasının ise 2005 yılında piyasaya çıkacak olan Longhorn işletim sistemine güçlü bir arama motoru ekleyeceği bildirildi. 
+     Microsoft böylece, Windows kullanıcılarının, başka bir siteye gitmeye gerek duymadan bulundukları program içinde arama yapmalarını sağlamaya çalışıyor. 
+     
+     ARAMA 3. SIRADA 
+     Microsoft tarafından yapılan detaylı bir araştırma, arama fonksiyonunun, e-mail ve anında mesajdan sonra internette en çok kullanılan 3. işlev olduğunu ortaya koydu. 
+     Bu açıdan arama motorları, kullanıcılarla internet üzerinden mal ve hizmet satan kuruluşları doğrudan temasa geçiriyor. 
+     Ayrıca arama motorunun bir siteye büyük çapta kullanıcı trafiği çektiği belirlendi. Bu da reklamcıların o siteye ilgi göstermesine neden oluyor. 
+     
+</TEXT>
+</DOC>

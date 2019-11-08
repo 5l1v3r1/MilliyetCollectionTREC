@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 214274 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/10/son/soneko18.html </URL>
+<DATE> 2004/02/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı 85 puanlık kayıpla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi, önceki kapanışa göre 85.27 puan kayıpla, 1. seansı 17,555.70 puandan tamamladı. 
+     1. seansta hisse senetlerinin ortalama değer kaybı yüzde 0.48 olarak gerçekleşti. 
+     Dün 17,640.97 puandan kapanan İMKB Ulusal 100 Endeksi, 1. seansa 34.6021 puan artışla 17,675.57 puandan başladı. 
+     İniş-çıkışlarla kararsız bir seyir izleyen borsada ilk yarım saatlik bölümü 17,482.23 puandan geçen endeks, seans içinde en düşük 17,420.05, en yüksek 17,697.52 puanı gördü. 
+     Seans sonunda mali endeks 56.69 puan kayıpla 24,075.57 puana, sanayi endeksi 144.42 puan kayıpla 15,419.76 puana geriledi, hizmetler endeksi 20.35 puan artışla 9,608.70 puana yükseldi. 
+     Böylece, önceki kapanışa göre mali grup hisseler ortalama yüzde 0.23, sanayi grubu hisseler ortalama yüzde 0.93 değer kaybetti, hizmet grubu hisseler ise ortalama yüzde 0.21 değer kazandı. 
+     1. seansta işlem gören toplam 290 hisse senedinden 141'i değer kaybederken, 76 hisse senedi değer kazandı, 73 hissenin fiyatında değişiklik olmadı. 
+     Seansta, 370 trilyon 917 milyar 652 milyon liralık işlem hacmi oluştu. 
+     1. seansta, İhlas Holding, Doğan Holding, Sabancı Holding, İş Bankası C , Doğan Yayıncılık en yoğun işlem gören hisseler oldu. 
+     Piyasanın Kıbrıs'a yönelik haberlere odaklanırken alıcılar ile satıcıların kararsız olduklarını ifade eden uzmanlar, piyasadaki toparlanma çabalarına rağmen 17,650 puanın üzerinde satış baskısıyla karşılaşıldığını kaydediyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 190656 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/23/son/sondun12.html </URL>
+<DATE> 2003/10/23/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Internet telefonu daha ucuz.. Peki ne gerekiyor 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayar kullanarak internet üzerinden ucuza yapılan telefon konuşmalarının hızla yaygınlaştığı bildirildi. 
+     Bilgisayara bağlı mikrofona konuşan kişinin sesi, sayısal sinyal haline dönüştürülüyor ve optik kablo üzerinden veri olarak uzak mesafelere taşınıyor. Karşı tarafın bilgisayarına ulaşan bu veri, özel yazılım aracılığıyla yeniden analog ses haline getiriliyor ve bilgisayarın hoparlöründen duyuluyor. 
+     Amerika'da yaklaşık bir milyon kişinin internet telefonu aracılığıyla birbiriyle haberleştiğini belirten uzmanlar, uygulamaya kısaca ''VOIP'' internet protokolu aracılığıyla ses nakli adını verdiler. 
+     ABD'de bu tür hizmet veren kuruluşların başında Vonage, Packet8 ve VoicePulse adlı şirketler geliyor. Ancak AT T gibi dev telefon şirketleri ve Cablevision gibi kablo firmalarının da internet üzerinden telefon konuşması yaptırmak için harekete geçtiği verilen bilgiler arasında. 
+     
+     FİYATLAR 
+     İnternet telefonuyla yapılan konuşmalar için firmaların talep ettiği ücretler şöyle 
+     -VoicePulse firması sınırsız yerel ve 200 dakikalık şehirlerarası konuşma için ayda 14,99 dolar alıyor. Verizon adlı telefon şirketi ise aynı hizmet için 75-80 dolar talep ediyor. 
+     -Free World Dialup firması internet kullanıcılarına tüm dünyayla bedava konuşma imkanı sağlıyor. Ancak bu hizmetten yararlanabilmek için kullanıcının gerekli cihazları satın alması şartı var. Ayrıca bu yöntemle, sadece bilgisayar telefonu olan kişilerle konuşulabiliyor. Buna rağmen bu hizmete tüm dünyada şimdiye kadar 57 bin kişinin abone olduğu bildirildi. 
+     -iConnectHere Ayda 5,95 dolara Kuzey Amerika'daki abonelerle 400 dakika konuşma imkanı veriyor. 10,95 dolar ödeyen aboneler ise 1000 dakika konuşabiliyor. 
+     -Packet8 Ayda 19,95 dolara sınırsız yerel ve şehirlerarası konuşma imkanı sunuyor. 
+     -Vonage Ayda 24,99 dolara sınırsız yerel ve 500 dakika şehirlerarası konuşma imkanı sağlıyor. 
+     
+     NE GEREKİYOR 
+     İnternet üzerinden ucuz telefon konuşması yapabilmek için, bilgisayar 800-1500 dolar , hızlı internet bağlantısı ayda yaklaşık 45 dolar , analog telefon adaptörü, DSL kullanıcıları için yönelticiye router-yaklaşık 100 dolar ihtiyaç bulunuyor. 
+     
+</TEXT>
+</DOC>

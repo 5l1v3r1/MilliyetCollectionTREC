@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 378191 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/13/son/sonyas01.html </URL>
+<DATE> 2005/09/13/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Gökbilimciler, şimdiye kadarki en uzak gama ışını patlamasına tanık oldu 
+</HEADLINE>
+<TEXT>
+
+     İtalyan gökbilimciler, şimdiye kadar tespit edilen en uzaktaki gama ışını patlamasının son parıltılarına tanık olduklarını söylediler. 
+     Patlamanın ilk kez 4 Eylül’de Swift uydusuyla tespit edildiği ve 12,500 ışık yılı uzakta olduğu belirtildi. Bir ışık yılı ışığın bir yılda katettiği mesafe 10 trilyon kilometre kadar. 
+     Patlama sonrasını izleyen ekibin başkanı Milano-Biocca Üniversitesi’nden Guido Chincarini, "Parlaklık öyle fazlaydı ki birkaç dakika içinde, güneşin 10 milyon yılda yayacağı enerjiden 300 kat fazla enerji yaymış olmalı" dedi. 
+     Gökbilimciler, gama ışını patlamalarına neyin yol açtığını bilmiyorlar, ancak bu patlamaların kara deliği oluşturan yıldız çöküşleri sırasında meydana geldiğini düşünüyorlar. 
+     Gama ışını patlamalarının, kainatın çok genç aşamadaki halini anlamak açısından önemli olduğu belirtiliyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 281989 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/20/son/sonyas15.html </URL>
+<DATE> 2004/10/20/ </DATE>
+<TIME> 10.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Güneş enerjisine ilgi dünyada artıyor, ABD'de azalıyor 
+</HEADLINE>
+<TEXT>
+
+     Güneş enerjisine yönelik ilginin artışına paralel olarak geçen yıl dünyada güneş paneli üretiminin yüzde 32 yükseldiği bildirildi. ABD'de ise güneş paneli üretiminin yüzde 14 azaldığı belirtildi. 
+     Amerikan Earth Policy Enstitüsü'nün açıklamasına göre, dünyada güneş paneli üretiminin artmasıyla Avrupa'da güneş enerjisinden elektrik üretiminde yüzde 41 artış sağlandı ve 742 megavat üretime ulaşıldı. 
+     Dünyada güneş paneli üretiminin son 5 yılda her yıl ortalama yüzde 27 artış gösterdiğini belirten Amerikan çevre kuruluşu, böylece dünyada güneş enerjisinden elektrik üretiminin de 3145 megavata ulaştığını bildirdi. 
+     Bu artışın teknolojik ilerleme kadar hükümetlerin teşvikiyle de açıklanabileceğini kaydeden kuruluş, güneş enerjisini elektriğe dönüştüren dünyanın en büyük fotovolt hücresi üreticileri Japon Sharp ve Kyocera, Shell Solar ve BP Solar ile Alman RWE Schott Solar şirketlerinin dünya pazarının yüzde 60'ını paylaştıklarını belirtti. 
+     Amerikan Earth Policy, Avrupa'da geçen yıl üretimin yüzde 41 arttığını ve sadece Almanya'nın tek başına 400 megavat elektrik ürettiğini, ABD'de güneş paneli üretiminin 2003'de yüzde 14 azaldığını bildirdi. 
+     ABD'deki bu düşüşe ve 2003'te sadece 104 megavat elektrik üretilmesine BP Solar şirketinin başarısızlığı ile Amerikan pazarının 2 numaralı üreticisi Astropower şirketinin iflasının neden olduğu belirtildi. 
+     ABD'de eski Başkan Bill Clinton tarafından 1997'de başlatılan ''Bir milyon çatıya güneş paneli'' girişimi yeterli siyasi irade olmaması ve Bush hükümetinin de karşıt siyaseti desteklemesi nedeniyle başarıya ulaşmadı. 
+     2003 sonu itibariyle ABD'de sadece 229 bin evin çatısında güneş paneli sistemi bulunuyor. 
+     
+</TEXT>
+</DOC>

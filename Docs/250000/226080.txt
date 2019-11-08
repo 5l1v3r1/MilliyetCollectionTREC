@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 226080 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/27/son/sondun11.html </URL>
+<DATE> 2004/03/27/ </DATE>
+<TIME> 10.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İngiliz polisi, aramalarda x-ray cihazı kullanıyor... 
+</HEADLINE>
+<TEXT>
+
+     İngiltere'nin başkenti Londra'da dün akşam yapılan aramada, polis x-ray cihazları kullandı. 
+     Güvenlik güçleri, kamyonla getirdikleri 500 kilo ağırlığındaki, 2 metre yüksekliğindeki x-ray cihazlarını iki barın kapısına yerleştirdi. 
+     Bar müşterilerinden, ''x-ray kapısı''ndan geçmeleri veya memurların üzerlerini aramasına izin vermeleri istendi. 
+     Aranan müşterilerden, üzerlerinde uyuşturucu bulunan 4'ü gözaltına alındı. 
+     X-ray cihazlarının, röntgen aletlerinden 1500 kat daha az radyasyon yaydığı ve insan sağlığına zararlı olmadığı belirtiliyor. 
+     
+</TEXT>
+</DOC>

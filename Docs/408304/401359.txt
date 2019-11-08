@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 401359 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/07/son/soneko22.html </URL>
+<DATE> 2005/12/07/ </DATE>
+<TIME> 12.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı 259 puanlık kayıpla tamamladı 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeksi, dünkü 2. seans kapanışına göre 258.79 puan azalarak 38,659.03 puandan kapandı. 
+     1. seansta, hisse senetlerinin ortalama değer kaybı yüzde 0.66 oldu. 
+     Dünü 38,917.82 puandan tamamlayan İMKB Ulusal 100 Endeksi, ilk seansa 7.96 puan artarak 38,925.78 puandan başladı. İlk yarıyı 38,547.44 puandan geçen endeks en düşük 38,375.63 puanı, en yüksek 39,274.11 puanı gördü. 
+     Seans sonunda mali endeks 664.25 puan azalarak 59,781.20 puana ve hizmetler endeksi 95.91 puan azalarak 18,422.50 puana gerilerken, sanayi endeksi 85.49 puan artarak 30,394.63 puana yükseldi. 
+     Böylece önceki kapanışa göre, mali grup hisseler ortalama yüzde 1.10, hizmetler grubu hisseler ortalama yüzde 0.52 oranında değer kaybederken, sanayi grubu hisseler ortalama yüzde 0.28 değer kazandı. 
+     1. seansta işlem gören toplam 306 hisse senedinden 102'si değer kazandı, 142'si değer kaybetti, 62 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta 731 milyon 774 bin 715 YTL'lik işlem hacmi oluştu. 
+     1. seansta Tüpraş, Koç Holding, Global Yatırım Holding, İş Bankası C ve Erdemir en çok işlem gören hisse senetleri olarak belirlendi. 
+     
+</TEXT>
+</DOC>

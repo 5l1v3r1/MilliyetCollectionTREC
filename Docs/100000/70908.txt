@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 70908 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/03/05/son/soneko03.html </URL>
+<DATE> 2002/03/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Teknoloji ilerledi ama piller değişmedi... 
+</HEADLINE>
+<TEXT>
+
+     Tüm dünyada teknolojinin süratle ilerleyip değiştiği ortamda, bildik-tanıdık pillerin şekli, tipi, boyu pek değişmedi. 
+     Bilgisayarlardan, cep telefonlarına, radyo, teyp, walk-man, disc-man gibi elektronik cihazlarda kullandığımız piller 1950'lerden beri pek az değişti. 
+     Elektronik tasarımcıları, sıradan pillerin güç-enerji kısıtlamasını gidermek için silikon çipleri minik elektronik devreler ve entegre devrelerin son tiplerini deneseler de, pillerin gücü artırılamadı, boyu ve ağırlığı da pek değişmedi. 
+     Bu konudaki tıkanıklığın büyük zaman kaybettirdiğini belirten Gelecek Enstitüsü Direktörü Paul Saffo'ya göre, pillerin bilgisayar işlemcileri süratinde gelişseydi, duble A tipi pilin taktik nükleer silahtan daha fazla enerji kapsayacaktı. 
+     Araştırmacılara göre, bir aşamadan sonra pillerin alternatifi bulunup, taşınabilir yakıt hücreleri ve minik jet motorları ya da daha iyi kimyasalların bileşiminden imal yeni bir pil yapılacak. Ancak, hiç kimse bunun ne zaman olacağını bilemiyor. O zamana dek ilk kez Fransa'da 1859 yılında imal edilen klasik pil tipiyle, bunun sunduğu enerji kaynağı ve miktarıyla idare edilecek. 
+     Bilgisayar işlemcilerinde sürat ve boyut her 18 ayda iki artıp-küçülürken, en iyi pil bilimcileri pillerin güç kapasitesini her iki yılda bir ancak yüzde 5 artırabiliyor. 
+     Bazı sanayicilere göre ise birkaç yıl içinde piller daha güçlü olup, bir motorlu aracın yenirden yükleme yapılmadan 250 mil 400 kilometre mesafe katetmesini sağlayacak. Bu yapıldığında, motorlu araç sahipleri içten yanmalı motoru terkedeceği gibi, çevre dostu otomobil yaygınlaşacak. 
+     Bu konuda daha ayrıntılı bilgi internetteki şu sitelerden edinilebilir 
+     http www.inhandelectronics.com http www.iftf.org http www.rayovac.com http www.energizer.com 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

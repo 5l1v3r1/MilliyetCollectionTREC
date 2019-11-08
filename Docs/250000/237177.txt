@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 237177 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/04/son/soneko15.html </URL>
+<DATE> 2004/05/04/ </DATE>
+<TIME> 11.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+TL'de reel bazda değerleme sürüyor... 
+</HEADLINE>
+<TEXT>
+
+     Kurların uzunca bir aradan sonra yüksek oranda artmasına rağmen nisan ayında, Türk Lirası'nda dövize karşı reel bazda değerlenme sürdü. 
+     Merkez Bankası, Türkiye'nin ve en çok dış ticaret yaptığı ülkelerin enflasyon oranlarını da dikkate alarak oluşturduğu tüketici fiyatları TÜFE ve toptan eşya TEFE bazlı reel kur endekslerinin nisan ayı sonuçlarını açıkladı. 
+     Kurlarda hızlı artış yaşanan nisan ayında TL, TÜFE bazlı endekse göre dövize karşı reel olarak yüzde 1 oranında değer yitirirken, TEFE bazlı endekse göre ise yüzde 1.8 değer kazandı. 
+     TL, ocak ayında döviz sepetine karşı TÜFE bazlı endekse göre yüzde 4.6, TEFE bazlı endekse göre yüzde 6.3, şubat ayında TÜFE'ye göre yüzde 1.4, TEFE'ye göre yüzde 2.3, mart ayında da sırasıyla yüzde 3.4 ve yüzde 4.7 değerlenmişti. 
+     Buna göre dört aylık dönemde TL, dövize karşı TÜFE bazlı endekse göre yüzde 8.6, TEFE bazlı endekse göre yüzde 15.9 değerlendi. 
+     TL'de nisan sonu itibariyle son bir yıldaki değerlenme oranı da TÜFE bazlı endekse göre yüzde 19.4, TEFE bazlı endekse göre yüzde 18.7'ye ulaştı. Baz yılları olan 1995'deki düzeyi 100 kabul edilen endekslerden TÜFE bazlı olanı bu yılın mart ayı sonunda 154.1'le en yüksek düzeyine ulaştıktan sonra nisanda 152.7'ye gerilerken, TEFE bazlı olanı 146.3'le tepe noktasına ulaştı. Buna göre TL'nin anılan yıldan bu yana TÜFE bazlı endekse göre yüzde 52.7, TEFE bazlı endekse göre de yüzde 46.3 değerlendiği belirlendi. 
+     
+     ENDEKSİN TEKNİĞİ 
+     TÜFE ve TEFE bazlı reel kur endekslerinde, TL'nin döviz sepeti karşısında 1995 yılı ortalamasındaki değeri 100 kabul ediliyor. Endeksin büyümesi TL'nin değer kazandığı, küçülmesi ise yitirdiğini gösteriyor. 100'ün altındaki endeks değerleri dövizin üzerindeki değerler ise TL'nin baz yılına göre daha değerli olduğuna işaret ediyor. 
+
+ANKA 
+     
+</TEXT>
+</DOC>

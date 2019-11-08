@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 302118 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/30/son/sondun24.html </URL>
+<DATE> 2004/12/30/ </DATE>
+<TIME> 12.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tayland'da kayıplar için internet siteleri 
+</HEADLINE>
+<TEXT>
+
+     Güney Asya'yı vuran deprem ve tsunami felaketinden sonra Tayland'daki yerli ve yabancı felaketzedelere ulaşabilmek amacıyla internet siteleri oluşturuldu. 
+     Tayland haber ajansının internet sitesinde, Tayland'daki felakette ölen, yaralanan ya da halen ulaşılamayan kişilerden saptanabilenlerin isimlerinin yer aldığı internet siteleri şöyle sıralandı 
+     
+www.disaster.go.th 
+www.narenthorn.or.th 
+www.phuketcity.com 
+www.dulwich.ac.th 
+www.phukethospital.com tsunami patients.htm 
+     
+</TEXT>
+</DOC>

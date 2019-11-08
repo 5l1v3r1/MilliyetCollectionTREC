@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 245311 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/04/son/soneko51.html </URL>
+<DATE> 2004/06/04/ </DATE>
+<TIME> 19.36 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa bu hafta 380 puan yükseldi. 
+</HEADLINE>
+<TEXT>
+
+     Borsa, bu hafta en fazla getiri sağlayan yatırım aracı oldu. 
+     İstanbul Menkul Kıymetler Borsası'nda İMKB işlem gören hisse senetleri, hafta boyunca ortalama yüzde 2.19 değer kazandı. 
+     Önceki hafta 17,327.87 puandan kapanan İMKB Ulusal 100 Endeksi, haftayı 380.28 puan artışla 17,708.15 puandan tamamladı. 
+     Mali endeks yüzde 2.48 artışla 23,854.43 puana, sanayi endeksi yüzde 0.06 artışla 15,841.18 puana, hizmetler endeksi yüzde 5.98 artışla 10,225.51 puana yükseldi. 
+     Külçe altının gram satış fiyatı yüzde 1.05 gerileyerek 18 milyon 800 bin liraya, Cumhuriyet altını yüzde 1.17 gerileyerek, 127 milyon liraya indi. 
+     Dövizde ABD Doları'nın Türk Lirası karşısındaki haftalık değer artışı yüzde 0.20, Euro'nunki yüzde 0.22 oldu. 
+     Yatırım fonlarına katılma belgeleri ise haftalık ortalama yüzde 0.10 değer kazandı. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,68 @@
+<DOC>
+<DOCNO> 64100 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/01/25/yasam/yas01.html </URL>
+<DATE> 2002/01/25/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Lara’nın bilgisayarı konuşmaya başladı 
+</HEADLINE>
+<TEXT>
+
+Yapılan incelemeler Lara’nın, intiharından önce arkadaşlarına Ölmek istiyorum’, Satanistliği kuru kuru yaşayamam’ mesajları gönderdiğini ortaya koydu... 
+     SERHAT ÜNAL, SABRİ SEVER İstanbul 
+
+     Boğaziçi Köprüsü’nden atlayarak intihar eden Özel Üsküdar Amerikan Lisesi öğrencisi Lara Falay’ın bilgisayarından elde edilen bilgiler, olay üzerindeki sis perdesinin biraz olsun aralanmasını sağladı. 
+     Lara’nın bilgisayarında sildiği chat kayıtları, uzmanların çalışmaları sonucu birer birer ortaya çıkarıldı. Genç kızın satanist olmasında, biri kız üç sınıf arkadaşının etkili olduğu öne sürülüyor. Kimlikleri belirlenen bu gençleri yakın takibe alan polis, aileleriyle de görüşecek. 
+     
+     Ölü kedi fotoğrafı 
+     Lara’ya mail ile ölü kedi ve köpek ile şeytan simgesi resimleri gönderen kişinin de sınıfındaki kız arkadaşı olduğu belirtildi. Lara’nın cep telefonu kayıtlarının incelenmesi sonucu da görüşmelerin yüzde 60’ının da bu kızın telefonuyla yapıldığı bildirildi. Sürekli olarak satanistliği övücü mailler alan Lara’nın, intiharından önceki 26 gün boyunca, "Ölmek istiyorum", "Satanistliği kuru kuru yaşamak istemiyorum" şeklinde mesajlar gönderdiği kaydedildi. 
+     Polis yetkilileri, Özel Amerikan Lisesi’ndeki bütün öğrencilerin kayıtlarının istendiğini, tek tek yapılacak araştırmalar sonucu, Lara’nın başka bağlantılarının da araştırılacağını söylediler. 
+     Bilgisayar kayıtlarının incelenmesi sonucu, Lara’nın, C. isimli bir gence yakınlık duyduğu, ancak duygularına karşılık bulamadığı öğrenildi. 
+     
+     2 özel ekip kuruldu 
+     Asayiş Şube Müdürlüğü’nde, Lara’nın intiharı ve satanistlerin faaliyetlerini araştırmak için, 2 komiser ve 15 polis memurundan oluşan 2 ekip kuruldu. Ekipleri İstihbarat Şube Müdürlüğü tarafından da desteklendiği belirtildi. 
+     
+Chat’in izi nasıl sürülür      PINAR AKTAŞ İstanbul 
+
+     Üsküdar Amerikan Lisesi öğrencisi Lara Falay’ın intiharından sonra gündeme gelen chat sohbet programları, öğrenci intiharlarında önemli bir ipucu oluşturuyor. Polis, gençlerin chat kayıtlarından yola çıkarak ipuçlarına ulaşıyor. Gençler arasında özellikle ICQ isimli chat programı yaygın olarak kullanılıyor. İntihar eden Lara Falay ve Ceylan Konuk gibi gençlerin de kullandığı ICQ’da chat kayıtları şöyle okunabiliyor 
+     ICQ chat programı bağlantısı açıksa... 
+     - Öncelikle bilgisayarın şifresi bilinmeli. Şifre bilinmediği sürece profesyonel bir kişinin dışında bilgisayara bağlanmak zor. Genellikle internet bağlantı penceresinde şifre bulunur ve internete bağlanılır. Şifre bulunamazsa, servis sağlayıcılardan yardım istenebilir. 
+     ICQ programları internet bağlantısı gerçekleştikten sonra otomatik açılır. Açıldığını sağ alt köşede bulunan çiçekten anlayabilirsiniz. Çiçek kırmızıysa ICQ kapalı, yeşilse açık, yanıp sönüyorsa bağlanmak üzeredir. 
+     
+     ICQ bağlantısı açıldığında 
+     ICQ çiçeği yeşil’ken üstüne tıkladığınızda önünüze bir liste çıkar. Burada ICQ kullanıcısının konuştuğu kişilerin nick’leri lakapları bulunur. Bu nick’lerin üzerine gelip mouse’un sağ tuşuna bastığınızda history’ yani karşıdaki kişiyle konuşmaların metinleri ve tarihleri açılır. ICQ’nun eski versiyonlarında ise pencerede görünen kontakt listesindeki herhangi bir kişinin üzerine iki kez tıkladığınızda mesaj atma penceresi çıkacaktır. Bu pencerenin kenarında da history’ bölümünü görebilirsiniz. 
+     
+     ICQ bağlantısı kapalıysa... 
+     - Eğer bilgisayardaki ICQ programı otomatik bağlanmaya ayarlanmamışsa, history’i okumak biraz zorlaşacaktır. Ancak sağ alt köşedeki çiçek kırmızı gözükürse okunabilir. Kırmızı çiçek, ICQ programının kapalı olduğunu gösterir, ancak bu history’nin okunmasına engel değildir. Yine üzerine tıklandıktan sonra açılan pencerede görünen isimlerin üzerine sağ tıkladıktan sonra history bölümünden konuşmanın geçmişi okunabilir. 
+     
+     ICQ programı bilgisayardan kaldırıldıysa... 
+     ICQ programı bilgisayardan 4kaldırıldıysa yapılması gereken bilgisayarım’dan program files’a program dosyaları girilmeli. Burada ICQ dosyası tıklandıktan sonra daha önceki konuşmaların tutulduğu "2000a" veya "2001b" gibi dosyalar bulunacaktır. Bu dosyaların içinde kişinin daha önceki konuşmalarının bilgileri bulunur. Bunları okumak için profesyonel yardım gereklidir. Bu bilgiler diskete yüklendikten sonra bir bilgisayar programcısından yardım istenebilir. Program dosyalarında böyle bir dosya bulunamıyorsa, o zaman "recycle bin"e çöp kutusu bakılmalı. Bu bilgiler çöp kutusunda da yoksa bilgisayara profesyonel bir kurtarma operasyonu düzenlenmelidir ve silinmiş dosyalar bilgisayar programcılarının yardımıyla çıkarılmalıdır. 
+     
+
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

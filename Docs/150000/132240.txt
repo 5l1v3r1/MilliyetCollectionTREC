@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 132240 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/01/21/son/sontur05.html </URL>
+<DATE> 2003/01/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yaklaşık bir yıldır toplanmayan İnternet Kurulu sonunda toplanıyor 
+</HEADLINE>
+<TEXT>
+
+     Ulaştırma Bakanlığı bünyesinde, Türkiye internetinin sorunlarına çözüm aramak ve önünü açmak üzere kurulan İnternet Kurulu, geçen yıl nisan ayındaki son toplantısının ardından yarın ikinci kez toplanacak. 
+     Ulaştırma Bakanlığı bünyesinde, ''Türkiye'de internetin altyapıdan başlayarak hedeflerini belirlemek, bu hedeflere erişmek için gerekli stratejik ve taktik ulusal kararların alınmasında danışmanlık yapmak, uygulamada gözlenen aksaklıkları belirlemek ve giderilmesi için öneriler oluşturmak'' üzere kurulan İnternet Kurulu, son toplantısını 5 Nisan 2002 tarihinde yaptı. 
+     Bu toplantının ardından kurul, geçen 8 aylık sürede, her ay yapması gereken toplantıları gerçekleştiremedi. 
+     Aylar sonra yeniden biraraya gelecek olan kurul, bu yılın da ilk toplantısını gerçekleştirmiş olacak. Ulaştırma Bakanlığı'nda yapılacak toplantıya, Ulaştırma Bakanı Binali Yıldırım başkanlık edecek. 
+     İnternet Kurulu toplantısında, Türkiye internetinin genel durumu, acil ve orta vadeli sorunları, telekom sektörüne ilişkin sektör temsilcilerinin sunumları, gençlerin internet kullanımı konusundaki araştırmalar, internet haftası hazırlıkları ve DNS sistemindeki gelişmelerin ele alınması bekleniyor. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

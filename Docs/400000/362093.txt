@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 362093 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/18/son/soneko46.html </URL>
+<DATE> 2005/07/18/ </DATE>
+<TIME> 18.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Turkcell 3366 ile ÖSS sonuçları cep telefonunda... 
+</HEADLINE>
+<TEXT>
+
+     Turkcell'in ÖSYM ile birlikte gerçekleştirdiği ''ÖSS Mobil Bilgi Servisi'' ile 2005 yılı ÖSS sonuçlarının Turkcell aboneleri tarafından SMS ile anında öğrenilebileceği bildirildi. 
+     Turkcell'den yapılan açıklamada, hizmetten yararlanmak isteyenlerin yapması gereken tek şeyin, sonuçlar açıklanmadan önce kısa mesajla TC kimlik numaralarını yazarak 3366'ya göndermeleri olduğu kaydedildi. 
+     Açıklamaya göre, sorgulama mesajlarında sadece ''TC kimlik numarası'' yazılması halinde cevap mesajında tüm puanlar iletilecek. ''TC kimlik numarası boşluk OSS boşluk SAY'' yazılması halinde sadece sayısal puan, ''TC kimlik numarası boşluk OSS boşluk SOZ'' yazılması halinde sadece sözel puan, ''TC kimlik numarası boşluk OSS boşluk EA'' yazılması halinde sadece eşit ağırlıklı puan, ''TC kimlik numarası boşluk OSS boşluk DIL'' yazılması halinde ise sadece dil puanı sonucu iletilecek. 
+     
+</TEXT>
+</DOC>

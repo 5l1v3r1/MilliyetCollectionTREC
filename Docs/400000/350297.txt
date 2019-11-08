@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 350297 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/09/son/soneko02.html </URL>
+<DATE> 2005/06/09/ </DATE>
+<TIME> 02.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası’nda Dow Jones ve Nasdaq endeksleri düştü. 
+     Dow Jones Endeksi 6.21 puan düşerek 10,476.86 puandan kapanırken, Nasdaq Endeksi de 6.98 puan düşerek 2,060.18 puana indi. 
+     
+</TEXT>
+</DOC>

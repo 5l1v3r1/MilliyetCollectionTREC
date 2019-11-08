@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 213291 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/05/son/soneko03.html </URL>
+<DATE> 2004/02/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Merkez Bankası, İnterbank faiz oranlarını düşürdü... 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası, Bankalararası Para Piyasası İnterbank ve İMKB Repo-Ters Repo Pazarı'nda uyguladığı faiz oranlarını 2'şer puan aşağı çekti. 
+     Merkez Bankası'ndan yapılan açıklamada, bugünden itibaren gecelik ve bir haftalık faiz oranlarının yüzde 26'dan yüzde 24'e düşürüldüğü bildirildi. 
+     Geç likidite penceresi uygulaması çerçevesinde, İnterbank'ta saat 16.00-16.30 arası gecelik vadede uygulanan Merkez Bankası borç verme faiz oranı yüzde 36'dan yüzde 34'e düşürülürken, yüzde 5 olan borçlanma faiz oranı değiştirilmedi. 
+     Açık piyasa işlemleri çerçevesinde piyasa yapıcısı bankalara repo işlemleri yoluyla gecelik ve 1 haftalık vadelerde tanınan borçlanma imkanının faiz oranları da yüzde 28'den yüzde 26'ya çekildi. 
+     Ayrıca, Mart 2003'te Irak'a yönelik olarak başlatılan askeri operasyonun Türkiye piyasalarına olumsuz yansımalarının en aza indirilmesi yolunda alınan tedbirlerden biri olarak, yüzde 12'den yüzde 6'ya düşürülen Merkez Bankası Döviz ve Efektif Piyasaları'nda bankalara borç alabilme limitleri çerçevesinde sağlanan bir hafta vadeli döviz depolarına uygulanan faiz oranı, bankaların döviz likiditesindeki olumlu gelişmeler ve etkin likidite yönetimleri dikkate alınarak yüzde 10'a çıkarıldı. 
+
+     
+</TEXT>
+</DOC>

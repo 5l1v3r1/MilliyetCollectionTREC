@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> 201071 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/10/yazar/tamer.html </URL>
+<DATE> 2003/12/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Meral TAMER  </AUTHOR>
+<HEADLINE>
+Yetenekli robotlar da işsiz kalınca... 
+</HEADLINE>
+<TEXT>
+
+   
+   Toplu iğne başından bile daha küçük, sofra tuzu tanesi iriliğinde malzemeyi kartların üzerine dizen bir robot düşünün. Günde 100 bin malzeme dizebiliyor. Daha küçüğü piyasada yok. Böyle bir robotu 1 saat kullanıp günün geri kalan bölümünde yatırdığınızda ne olur Elbette maliyetler şişer. 
+   Son 4 yıldır telekomünikasyon sektöründe yaşanan keskin daralma, tüm dünyada olduğu gibi Türkiye'de de bu yetenekli robotlara sürekli iş bulunmasını engelliyor. 
+   Telekom piyasasının daralması sonucu Netaş, elindeki bu tür olanakları paylaşmanın yollarını ararken, teknopark benzeri bir model geliştirmiş. Netaş İş Geliştirme Yöneticisi Ali Akurgal, ayaküstü bir sohbet sırasında anlattı 
+   "Netaş'ı tasarım odaklı bir şirket haline getirdik. Üretimi ise verimli kılacak şekilde başkalarıyla paylaşma yoluna gittik. Ümraniye'deki 95 dönümlük fabrika alanımız içinde Netaş'ın yanı sıra artık bir çok şirket daha var. Kimisi kira ödüyor, kimisi ödemiyor. Kira ödeyen şirketlere Netaş, ücreti karşılığında iş yaptırıyor." 
+   
+   Vestel'e 100 bin DVD 
+   Akurgal'dan öğrendiğime göre Netaş'ın fabrika alanında faaliyet gösteren şirketlerin en büyüğü, ünlü Amerikan fason üreticisi Solectron'muş. Netaş'tan ayrılan 170 kişi önce bir şirket kurmuşlar, ama kısa sürede bu şirket Solectron'a iltihak etmiş. Solectron'un Netaş çatısı altındaki cirosu 100 milyon dolar. Bir dönem Vestel'e ayda 100 bin DVD player üretilmiş 
+   Ben Ümraniye'deki arazi içinde Solectron diye ayrı bir tesis var zannetmiştim. Meğer fabrika alanı içinde minyatür komponentlerin yerleştirildiği 2 montaj hattının etrafını çevirip üzerine de Solectron yazmışlar, olmuş - bitmiş. Çalışanlar, fiziki olarak işyeri değiştirmeden iş değiştirmişler. 
+   
+   Şirket içinde şirket 
+   Akurgal, detayları şöyle anlatıyor "Netaş'tan bir departmanı ayırdığımız vakit, şirketleşmelerine yardımcı olmak için tazminatlarını işletme sermayesi yapmalarını sağladık. Kullandıkları cihazları, çok uzun sürede amortisman bedeli gibi ödeyecek şekilde kendilerine devrettik. Kullandıkları yazılımları bedava verdik. 2 yıl boyunca o konuda başkasına iş yaptırmayacağımızın, 2. yılın sonunda rekabete açacağımızın garantisini de verdik. Genelde departman müdürleri, genel müdür, çalışanlar da hissedar oldu." 
+   Netaş çatısı altında bulunan Solectron dışındaki şirketler genelde telekomünikasyon teçhizatı üretiyorlarmış. Ağırlıklı olarak da Netaş'ın işlerini yapıyorlarmış 60 . 3 ay Netaş'a çalışan, 2 ay da rakip Alcatel'e iş yapıyormuş. 
+   Başta Borusan Lojistik, Netaş çatısı altında kira ödemeden faaliyette bulunan şirketlerin sayısı ise 25'miş. 
+   
+   3000'den 500'e... 
+   Netaş'ta mekanik santrallar üretilirken 3 bin olan çalışan sayısı, elektronik santrallara geçilince 1200'e, son olarak da 500'ye düşmüş. Ama tazminatlarını alarak işten ayrılanların çoğu, başka bir şirketin elemanı olarak yine aynı çatı altında çalıştığından her gün öğlenleri yemekhanede h l 1200 kişi yemek yiyormuş. 
+   
+   Ar - Ge'de 260 kişi 
+   Cirodaki düşüş, çalışan sayısından daha az oranda 250 milyon doları aşkın olan ciro, şimdi 130 milyon dolar. Ve bu 130 milyon dolarlık ciroyu gerçekleştiren 500 çalışanın 260'ı Ar - Ge'ci. Aynı çatı altında kardeş şirket oluşturma yoluna gitmek yerine, Ar - Ge'nin tümünü kendi bünyelerinde tutmuşlar. 
+   Akurgal'a göre "Türkiye'de tek bir konuya telefona odaklanmış daha kalabalık bir Ar - Ge grubu, bir başka şirkette yok. Vestel'in Ar - Ge'sinde 400 kişi çalışıyor, ama beyaz eşyadan televizyona kadar çok geniş bir alanda. Aselsan'daki 300 civarındaki Ar - Ge mühendisi de gece görüş dürbünü ve füze rampasından telsize kadar çok geniş bir sanayi alanına bakıyorlarmış." 
+   
+      
+   
+</TEXT>
+</DOC>

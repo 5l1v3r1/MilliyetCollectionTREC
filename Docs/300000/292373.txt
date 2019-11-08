@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 292373 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/26/son/soneko46.html </URL>
+<DATE> 2004/11/26/ </DATE>
+<TIME> 18.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası açılışta hafif yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası, haftanın son işlem gününde hafif yükselişle açıldı. 
+     Borsanın ilk bir saatinde, sanayi şirketlerinin ağırlıkta olduğu Dow Jones endeksi, çarşamba günkü kapanışına göre 17.23 puan yükselişle 10,7.54 puana çıktı. 3.39 puan yükselen teknoloji şirketlerinin oluşturduğu Nasdaq endeksi ise 2,105.79 puandan işlem görüyor. 
+     Dolardaki gerilemenin ABD'nin ihracatını cazip hale getirmesi, döviz fiyatlarının dikkatle izlendiği borsanın hafif yükselişinde etkili oldu. 
+     ABD'de Şükran Günü nedeniyle finansal piyasalar kapalı tutulduğundan borsada dün işlem yapılmamıştı. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 262670 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/12/yasam/yas03.html </URL>
+<DATE> 2004/08/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Otomobil hırsızı teknolojiyi yendi 
+</HEADLINE>
+<TEXT>
+
+
+Otomobilin motorunu kilitleyen 'immobilizer' teknolojisinin nasıl aşıldığını, oto hırsızı 'İmmobilizer Müslüm' anlattı... 
+
+Elvan Ezber 
+
+Oto hırsızları, immobilizerleri elektronik motor kilidi 2.5 dakikada etkisiz hale getirip 'çalınması imk nsız' denilen son model otomobilleri kolaylıkla çalıyor. 
+İstanbul'da son 6 ayda yaklaşık 7000 otomobil çalındı. Bunların arasında lüks otomobillerin bulunması, sürücüler kadar otomobil üreticilerini de şaşırttı. 
+Polisin bugüne kadar bu tip hırsızlık olaylarıyla ilgili çökerttiği çetelerin başında da Müslüm Yılmaz adlı sabıkalı oto hırsızı geliyor. 
+Motor kilidi olan otomobil çaldığı için 'İmmobilizer Müslüm' lakabıyla tanınan Yılmaz, polisteki ifadesinde hırsızlığın inceliklerini şöyle anlattı "Hırsızlık için 3 adet immobilizer beyni gerekiyor. Fiyatları hurdacılarda 200 - 300 milyon, yedek parçacılarda ise 15 milyon liraya kadar çıkıyor. Biz bu beyinleri yedek parça satıcılarında kolayca buluyoruz. İlk olarak otomobilin bagajını açıyorum. Buradan arka koltuğu eğerek otomobile giriyorum. Ön panelde bulunan orjinal 3 beyni çıkarıp yerine yanımızda getirdiğimiz beyinleri takıyorum. Böylece elektronik kilit devre dışı kalıyor. Daha sonra varsa beyinlere uygun bir anahtarla veya düz kontak yaparak otomobili çalıştırıyorum. Bunlar 2.5 - 3 dakika sürüyor. Otomobil üreticileri tekniklerini geliştirdikçe, biz de yeni yöntem geliştiriyoruz." 
+
+Azerbaycan pazarı 
+Daha çok Opel Astra ve Nissan marka otomobillerin çalındığını belirten polis yetkililer, otomobillerin sahte belge düzenlendikten sonra Ankara, İzmir ve Antalya gibi büyük şehirlere ya da yurtdışına çıkarıldığını ve piyasa değerinin üçte biri değerine satıldığını söyledi. Yurtdışında en çok otomobilin çıkarıldığı yerlerin başında ise Azerbaycan ve Ermenistan'ın geldiği belirtildi. 
+
+Immobilizer nedir 
+Elektronik motor kilidi olan 'immobilizer', anahtar çıkarıldıktan sonra motorun elektronik kilitlenmesini sağlar. Ancak, aracın kendi anahtarı sokularak, belli bir elektronik şifre gönderildikten sonra, motorun tekrar çalışmasına izin verir. 
+
+Opel Teknolojide değişiklik yok 
+
+Opel Türkiye yetkilileri, immobilizer sistemlerinin, birkaç istisna dışında genelde benzer teknolojiler kullanılarak geliştirildiğini belirterek, kendi araçlarında da, dünya üzerinde bu tip donanımları üreten belli başlı şirketlerin ürünlerinin kullanıldığını belirtti. Opel'in, piyasada pazar payı açısından en yüksek araç parkına sahip şirketlerden olduğunu belirten yetkililer, araçlarının piyasada çok sayıda bulunması ve yüksek ikinci el değerine sahip olmasından dolayı hırsızların ilgisini çekiyor olabileceğini söyledi... 
+
+
+</TEXT>
+</DOC>

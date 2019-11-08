@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 296586 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/10/son/sonsiy05.html </URL>
+<DATE> 2004/12/10/ </DATE>
+<TIME> 10.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+MEB'den LGS'de acı itiraf Öğrenci yorum yapamıyor 
+</HEADLINE>
+<TEXT>
+
+     Milli Eğitim Bakanlığı'nın, 62 bin "sırıfcısı"yla rekor kıran 2004 liseye giriş sınavına LGS 
+     ilişkin analiz raporunda, öğrencilerin yorum yapabilme yeteneğinin eksik olduğu belirlendi. Raporda, "Öğrencilerin, öğretim proramlarında farklı zaman dilimlerinde öğrenmiş oldukları bilgileri bir araya getirip yeni bir durum karşısında bu bilgilerini yeterince kullanamadıkları gözlenmiştir" denildi. MEB, haziran ayında yapılan ve sonuçlarıyla eğitim sisteminin sorgulanması gerektiğine işaret eden liseye giriş sınavına ilişkin hazırlattığı "Analiz Sonuç Raporu", Türk eğitim sisteminin çıkmazını ortaya koydu. Eğitim Teknolojileri Genel Müdürlüğü'nce hazırlanan raporda Türkçe, matematik, fen bilimleri ve sosyal bilimler testlerindeki tüm sorular tek tek ve kategoriler bazında incelenirken, öğrencilerin yorumlama yeteneğinden yoksun olduğu kaydedildi. Soruların tek tek analizinde ayırt edicilik gücü ve ortalama güçlüğü düşük olan suraların yapısı incelendiğinde öğrencilerin yeni karşılaştığı soru tiplerinde zorlandığı, bu soruları ayırt edicilikleri düşük çıktığı belirlendi. Öğrencilerin "ezberci" olduğunu ortaya çıkaran raporda, öğrencilerin eksikliklerinin olduğu diğer noktalar şöyle sıralandı "-Genel olarak yorumlama davranışının istendiği soru tiplerinde de öğrencilerin zorlandığı gözlenmiştir. -Öğretim programı kapsamındaki bilgisi konusunda öğrencilerin istenilen davranışları yeterince kazanmadığı görülmüştür. Bu davranışları ölçen maddeler öğrencilere hem zor gelmiş, hem de öğrencileri yeterince ayırt edememeştir. -Öğrencilerin, öğretim programlarında farklı zaman dilimlerinde öğrenmiş oldukları bilgileri biraraya getirip yeni bir durum karşısında bu bilgilerini yeterince kullanamadıkları gözlenmiştir. -Genel olarak öğrencilerin verilen bir bilgiye grafiğe dönüştürme veya grafikteki verilerden yararlanarak yorum yapabilme davranışını yeterince kazanamadıkları belirlenmiştir." 
+     
+     SÖZCÜKTE BİLE SORUN YAŞIYORLAR 
+     Raporda test türlerine göre yapılan analizde ise öğrencilerin Türkçe'de sözcüklerin anlamlarını tam olarak angılayamadığı belirtildi. LGS'ye girenlerin Türkçe testinde "sözcüğün cümledeki değişik anlamlarını ayırt edemediği" kaydedilen raporda, öğrencilerin "verilen cümleye anlamca, en yakın olan cümleyi", "pragrafın anlam bütünlüğünü bozan cümleyi", "pragrafı tamamlayan cümleyi", "pragraftaki görüşü destekleyen ya da desteklemeyen ifadeyi" ve "cümlede öğe eksikliğinden kaynaklanan anlam belirsizliğini bulumadığı", sözcüğün aldığı ekin işlevini ayırt edemediği" ifade edildi. 
+     Matematik testinde ise tüm konularda başarının istenen düzeyde olmadığı belirtilirken, matematiğin öğrencilere çok zor geldiği kaydedildi. 
+     
+     TÜRKEYİ'NİN DÜNYA ÜZERİNDEKİ YERİ KAVRANAMIYOR 
+     Fen bilimleri testinde de öğrencilerin ciddi düzeyde algılama ve yorumlama eksikliği yaşadığı vurgulanan raporda, sosyal bilimler testinde öğrencilerin yetersiz kaldığı bazı konular şöyle sıralandı 
+     "-Verilen bilgiye dayanarak öteleme yapabilme, -Dünyadaki iklim kuşaklarına etki eden faktörleri kavrama, -Yerel saat hesaplamasını kavrayabilme, -Dünyada herhangi bir yerin enlem ve boylam değerleriyle matematik konumunu hesaplayabilme, -Harita üzerinde dünyanın biçimini kavrama, -Harita üzerindeki bilgilerden hareket ederek, Türkiye'nin dünya üzerindeki yerini kavrama, -Oruç ibadetini ve özelliklerini kavrayabilme." 
+     
+</TEXT>
+</DOC>

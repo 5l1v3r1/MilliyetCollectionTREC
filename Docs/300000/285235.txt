@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 285235 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/01/son/sonyas12.html </URL>
+<DATE> 2004/11/01/ </DATE>
+<TIME> 11.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tıp dünyası endişeli Mikropların ilaçlara direnci artıyor .. 
+</HEADLINE>
+<TEXT>
+
+     Tıp dünyası, mikropların ilaçlara gösterdiği direncin artmasından kaygı duyuyor. 
+     Washington'da toplanan tıp kongresinde konuşan uzmanlar, bakterilerin antibiyotiklere direncinin yaygınlaştığını, AİDS ve sıtma patojenlerinin de ilaçlara direnç gösterdiğini belirttiler ve bu kaygı verici duruma çare bulabilmek için dünya çapında eşgüdüm gerektiğini vurguladılar. 
+     ''Alliance for Prudent Use of Antibiotics'' adlı Amerikan derneğinin başkanı Dr. Stuart Levy, kongreye sunduğu bildiride, ''Eşgüdüm ve işbirliği yaparak çabalarımızı yoğunlaştırmazsak, hastalıkların insan ömrünü kısalttığı eski zamanlara döneriz'' diyerek uyarıda bulundu. 
+     Dünya Sağlık Örgütü DSÖ yetkilisi Thomas O'Brien de mikropların direncinin artmasını, ''görmemezlikten gelmeye çalıştığımız gerçek tehlike'' olarak nitelendirdi. 
+     Uzmanlar, 40'lı yılların ürünü antibiyotiklerin sanayi ülkelerinde gereğinden fazla kullanılmasının, mikropların direncinin artmasında başrolü oynadığını düşünüyor. 
+     Sanayileşmiş ülkelerde AİDS virüsü ve sıtma parazitlerinin de artık tedaviye direnç gösterdiğinin gözlendiğini belirten uzmanlar, tedavi edilemeyen hastalıkların sağlık personeli arasında da yayıldığını, bunun da bakterilerin direncinin arttığını gösterdiğini kaydettiler. 
+     
+</TEXT>
+</DOC>

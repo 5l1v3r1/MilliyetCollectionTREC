@@ -1,0 +1,42 @@
+<DOC>
+<DOCNO> 106603 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/09/09/son/sontur05.html </URL>
+<DATE> 2002/09/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ÖSS'de yeni sistem... 
+</HEADLINE>
+<TEXT>
+
+     Öğrenci Seçme Sınavı'nda ÖSS uygulanacak yeni sistemde, adaylara yöneltilen soru sayısı ve soruların konulara göre dağılımları değiştirilmedi. 
+     Yeni sistemin uygulanmasına başlanacağı, 15 Haziran 2003'de gerçekleştirilecek olan 2003-ÖSS'de de önceki sınavlarda olduğu gibi adaylara, sözel ve sayısal alanlarda 180 soru yöneltilecek. Sınav süresi olarak adaylara eskisi gibi 3 saat verilecek. 
+     Adaylara, yüzde 25 oranında Türkçe'yi kullanma gücü, yüzde 25 oranında sosyal bilimlerdeki temel kavram ve ilkelerle düşünme gücü, yüzde 25 oranında matematik, yüzde 25 oranında da fen bilimleri ile ilgili sorular yöneltilecek. 
+     
+     KATSAYILAR 
+     Yeni sistemde soruların standart puanlarının çarpılacağı katsayılar değiştirildiği için adayların, okumak istedikleri bölümlerin puan türlerine göre hangi alanlarda yanıtlayacakları soruların kendilerine daha fazla puan getireceğine dikkat etmeleri gerekiyor. 
+     Yeni sisteme göre, ÖSS puanları hesaplanırken testlerle ilgili standart puanların çarpılacağı katsayılar sözel bölüm, sayısal bölüm ve yabancı dil olmak üzere 3 gruba ayrıldı. Her bölümde yer alan ve doğru yanıtlanan soruların katkısı puan türlerine göre yeniden belirlendi. 
+     
+     SÖZEL PUAN TÜRÜ 
+     Bu çerçevede, ÖSS sözel puan türünde Türkçe ile ilgili doğru yanıtlanan soruların standart puanları 1.1, Sosyal Bilimlerle ilgili doğru yanıtlanan soruların standart puanları 0.7, Matematik ile ilgili sorularının standart puanları 0.3, Fen Bilimleri ile ilgili sorularının standart puanları da 0.1 ile çarpılacak. Eski sistemde, sözel bölüm ile sayısal bölüm iki ayrı alan olarak kabul edilip, bu alanlardaki tüm soruların standart puanları aynı katsayıyla çarpılıyor, sorular konularına göre ayrılmıyordu. 
+     Yeni sistemde sözel puan türüyle tercih yapacak bir aday, yanıtlayacağı Türkçe ile Matematik sorularından eskisine göre daha fazla puan toplayacak. Sözel puan türüyle tercih yapacak bir aday, en fazla puanı doğru yanıtlayacağı Türkçe sorularından, bunun ardından sırayla Sosyal Bilimler'den, Matematikten ve Fen Bilimleri'nden kazanacak. 
+     
+     SAYISAL PUAN TÜRÜ 
+     Aynı doğrultuda, sayısal puan türüyle tercih yapacak bir adaya da en fazla puanı Matematik soruları kazandıracak. Matematik sorularının standart puanları 1.1 katsayısıyla çarpılacak. Fen Bilimleri ile ilgili soruların standart puanları 0.7, Türkçe ile ilgili soruların standart puanları 0.3, Sosyal Bilimler ile ilgili soruların standart puanları da 0.1 katsayısıyla çarpılacak. Böylece sayısal puan türüyle tercih yapacak bir öğrenciye en fazla puanı Matematik sorularının ardından Fen Bilimleri soruları, daha sonra Türkçe, en son ise Sosyal Bilimler soruları kazandıracak. 
+     Eski sistemde, sayısal puan türü hesaplanırken, sözel bölümdeki soruların tümünün standart puanları 0.4 ile sayısal bölümdeki soruların standart puanlarının tümü de 1.8 katsayısı ile çarpılıyordu. 
+     
+     EŞİT AĞIRLIKLI PUAN TÜRÜ 
+     Yeni sistemle eşit ağırlıklı puan türünün hesaplanmasında da Matematik sorularının ağırlığı artırılırken, Fen Bilimleri ile ilgili soruların ağırlığı azaltıldı. 
+     Eşit ağırlıklı puan türünde Türkçe ve Sosyal Bilimler ile ilgili soruların standart puanları yine aynı katsayılarla çarpılacak ancak Matematik sorularının ağırlığı daha fazla olacak. Matematik sorularının standart puanları, 0.8 yerine 1, Fen Bilimleri'nin standart puanları ise 0.3 yerine 0.1 ile çarpılacak. 
+     
+     YABANCI DİL 
+     Yabancı dil puanı hesaplanırken de Türkçe'nin ağırlığı iki katına yükseltildi. Türkçe sorularının standart puanları 0.4 yerine 0.8 ile çarpılacak. Yabancı dil sorularının standart puanlarının çarpılacağı katsayılar ise 1.8 yerine 1.4 olacak. Bu durumda, yabancı dil ile ilgili yükseköğretim programlarını tercih edecek adayların daha fazla Türkçe sorusunu doğru yanıtlamaları gerekiyor. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

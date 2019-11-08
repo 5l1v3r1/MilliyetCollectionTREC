@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 200006 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/05/son/soneko22.html </URL>
+<DATE> 2003/12/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bono piyasasında faiz yüzde 28.83 oldu... 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda işlem gören 15 Aralık 2004 vadeli, bugün valörlü tahvilin basit getirisi yüzde 28.94'ten, bileşik getirisi yüzde 28.83'ten kapandı. 
+     Bu kağıdın aynı gün valörlü işlemlerinin bileşik getirisi, dünkü kapanışa göre 0.20 puan yükseldi. 
+     
+     KOTASYONLAR 
+     Bankalararası piyasada, saat 15.30 itibariyle dolar kotasyonları, alışta en düşük 1 milyon 447 bin lira, en yüksek 1 milyon 450 bin 500 lira, satışta en düşük 1 milyon 452 bin lira, en yüksek 1 milyon 456 bin 500 lira seviyesinde bulunuyor. 
+     
+     REPO 
+     İMKB Tahvil ve Bono Piyasası Repo-Ters Repo Pazarı'nda 3 günlük işlemler ortalama yüzde 26.00'dan gerçekleşti. 
+     3 günlük işlemlerde en düşük oran yüzde 26.00, en yüksek oran yüzde 26.10 oldu. 
+     
+     PARİTE 
+     Uluslararası piyasalarda euro-dolar paritesi 1.2133, sterlin-dolar paritesi 1.7255, yen-dolar paritesi ise 108.04 düzeyinde seyrediyor. 
+     
+</TEXT>
+</DOC>

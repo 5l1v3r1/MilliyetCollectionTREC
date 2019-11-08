@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 311999 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/03/son/soneko05.html </URL>
+<DATE> 2005/02/03/ </DATE>
+<TIME> 09.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kapalıçarşı'da dolar güne 1.3370 YTL'den başladı... 
+</HEADLINE>
+<TEXT>
+
+     İstanbul serbest piyasada dolar 1.3370 YTL'den, euro 1.7420 YTL'den güne başladı. 
+     AA muhabirinin aldığı bilgiye göre, Kapalıçarşı'da 1.3270 YTL'den alınan dolar, 1.3370 YTL'den satılıyor. 1.7320 YTL'den alınan euro'nun satış fiyatı ise 1.7420 YTL olarak belirlendi. 
+     Serbest piyasada dünkü kapanışta dolar 1.3310 YTL, euro 1.7370 YTL olmuştu. 
+     
+</TEXT>
+</DOC>

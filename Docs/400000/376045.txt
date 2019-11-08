@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 376045 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/06/son/soneko07.html </URL>
+<DATE> 2005/09/06/ </DATE>
+<TIME> 10.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Toyota, dikkatsiz sürücüleri ''ikaz edecek''... 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın ikinci büyük otomobil üreticisi Toyota, geliştirdiği güvenlik teknolojisiyle sürücülerin gözlerini yoldan ayırmasını engelleyecek. 
+     Toyota mühendislerinin geliştirdiği bilgisayar sisteminde, direksiyon simidinin yakınına yerleştirilen kamera, sürücüler gözlerini yoldan ayırdığında güvenlik önlemlerini başlatacak. 
+     İlk olarak gösterge panelinde yüksek ışık ve ses yardımıyla sürücünün dikkatini çekmeye çalışacak sistem, tepki alamaması durumunda frenleri kilitleyerek aracı durduracak. 
+     Yeni güvenlik sistemi ilk olarak, Japonya'da gelecek yıldan itibaren üst sınıfa hitap eden Lexus modelinde standart olarak sunulacak. 
+     Toyota mühendislerine göre birçok trafik kazası, sürücülerin dikkatsizliğinden kaynaklanıyor. 
+     
+     TOYOTA'NIN 2005 YILI ÜRETİM HEDEFLERİ... 
+
+     Öte yandan Toyota Otomotiv Sanayi Türkiye A.Ş'nin, ilk 8 ayda 99 bin 765 adet otomobil ürettiği bildirildi. 
+     Adapazarı'nda üretim yapan Toyota Otomotiv Fabrikası'ndan alınan bilgiye göre, 2005 yılının ilk 8 ayında 99 bin 765 adet otomobil üretildiği belirtildi. 
+     Üretilen otomobillerden 90 bin 757 adetinin ihraç edildiği, 9 bin 8 adetinin de Türkiye'de satışa sunulduğu kaydedildi. 
+     Toyota'nın 2005 yılında en çok ürettiği model ise Corolla Verso oldu. Türkiye'de üretilerek Avrupa ülkelerinde ihraç edilen Corolla Verso modelinden 59 bin 565 adet satıldığı kaydedildi. 
+     Toyota Otomotiv, 2005 yılında yaklaşık 150 bin adet otomobil üretmeyi hedefliyor. 
+
+     
+</TEXT>
+</DOC>

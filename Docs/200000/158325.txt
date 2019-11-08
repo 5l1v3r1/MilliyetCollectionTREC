@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 158325 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/22/son/sontur21.html </URL>
+<DATE> 2003/05/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Cezayir'de deprem oldu yurtdışı internet bağlantısı çöktü 
+</HEADLINE>
+<TEXT>
+
+     Cezayir'de dün gece meydana gelen deprem, Türkiye'nin yurtdışı internet trafiğinin aksamasına neden oldu. 
+     Alınan bilgiye göre, Cezayir'deki depremden dolayı İtalya ile Fas arasında denizaltından geçen iletişim kablolarında arıza oluştu. 
+     Türkiye'nin yurtdışı internet trafiğini karşılayan kablo sisteminin yüzde 80'inin cevap verememesi nedeniyle, internet kullanımının yoğun olduğu saatlerde büyük güçlükler yaşandı. İnternet kullanıcıları gün boyunca yurtdışı internet adreslerine ulaşamazken, Türk Telekom yetkilileri de sorunun Türkiye'den kaynaklanmadığını bildirdiler. 
+     Yetkililer, deprem nedeniyle denizaltından geçen kablolarda meydana gelen arızanın, bir hafta içerisinde giderilebileceğini belirttiler. 
+     
+</TEXT>
+</DOC>

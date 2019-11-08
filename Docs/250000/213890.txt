@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 213890 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/08/son/soneko06.html </URL>
+<DATE> 2004/02/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Zorunlu Deprem Sigortası benimsenmedi... 
+</HEADLINE>
+<TEXT>
+
+     Türkiye'de, deprem riskinin büyüklüğüne karşın, zorunlu deprem sigortası uygulamasında başarı sağlanamıyor. 
+     A.A muhabirinin Doğal Afet Sigortaları Kurumu DASK verilerine dayanarak yaptığı belirlemeye göre, Türkiye'de zorunlu sigorta kapsamında bulunan yaklaşık 13 milyon konutun, bu yıl Ocak sonu itibariyle sadece yüzde 15.60'ı, 2 milyon 26 bin 856'sı sigorta güvencesi altına alındı. Zorunlu deprem sigortası kapsamında 2 milyon 26 bin 856 poliçe düzenlenirken, 87 trilyon 910 milyar liralık prim karşılığında 56 katrilyon 12 trilyon liralık teminat verildi. 
+     En fazla konutun bulunduğu İstanbul'da, kapsamdaki 2 milyon 714 bin 462 konuttan sadece 808 bin 983'ü, yüzde 29.80'i için zorunlu deprem sigortası yaptırılırken, 22 katrilyon 707 trilyon liralık teminata karşılık 38.8 trilyon lira prim toplandı. Konut sayısının fazlalığına bağlı olarak, İstanbul'dan sonra en fazla poliçe, Ankara'da ve İzmir'de kesildi. Ankara'da kesilen 228 bin 743 poliçe karşılığında 6 katrilyon 503 trilyon liralık teminat verilirken 3 trilyon 384 milyar liralık prim alındı. Deprem riskinin yüksekliği nedeniyle, İzmir'de teminata karşılık daha yüksek pirim toplandı. İzmir'de 156 bin 843 poliçe düzenlendi, 4 katrilyon 346 trilyon liralık teminat için 8 trilyon 942 milyar liralık prim tahsil edildi. Ankara'da konutların yüzde 25.33, İzmir'de ise yüzde 17.19'u için zorunlu deprem sigortası poliçesi düzenlendi. 
+     Ocak sonu itibariyle poliçelerin yüzde 26.15'i Marmara Bölgesi'nde satıldı. İç Anadolu'da zorunlu deprem sigortası yaptırma oranı yüzde 15.48'de, Ege'de yüzde 14.36 oldu. Zorunlu deprem sigortası yaptırma oranı, Akdeniz ve Karadeniz bölgelerinde yüzde 7.2, Doğu Anadolu'da yüzde 4.92, Güneydoğu Anadolu'da yüzde 3.21 düzeyinde kaldı. 
+     
+     DEPREM BÖLGESİNDE ZORUNLU SİGORTA DURUMU 
+     DASK verilerine göre, şiddetli depremlerin yaşandığı Bolu'da konutların yüzde 34.04, Yalova'da yüzde 33.95'i, İstanbul'da yüzde 29.80'i için zorunlu deprem sigortası yaptırıldı. Zorunlu deprem sigortasının oran olarak en fazla yaptırıldığı iller arasında yüzde 28.82 ile Tekirdağ, yüzde 25.94 ile Eskişehir, yüzde 25.33 ile Ankara bulunuyor. 
+     Zorunlu sigortaya uyum oranını en düşük olduğu iller ise yüzde 0.64 ile Şırnak, yüzde 1.77 ile Siirt, yüzde 72 ile Mardin, yüzde 1.45 ile Hakkari oldu. Şırnak'ta 197, Siirt'te 429, Hakkari'de 237, Mardin'de bin 203 poliçe kesildi. 
+     
+     HASAR ÖDEMELERİ 
+     Verilere göre, zorunlu deprem sigortası nedeniyle, geçen yıl Aralık ayı başı itibariyle, son 4 yılda 7 trilyon 524 milyar lira hasar ödemesi yapıldı. 
+     Sigorta kapsamında, 2000 yılında 23 milyar lira, 2001 yılında 128 milyar lira, 2002 yılında 2 trilyon 278 milyar lira, 2003 yılında 5 trilyon 95 trilyon lira hasar ödendi. 
+     Geçen yıl 87.9 trilyon liralık prime karşılık, ödenen hasar, primlerin yüzde 5.8'i düzeyinde kaldı. 
+     DASK'ın olası bir deprem durumunda muhtemel yükümlülükleri ile ilgili olarak yeterli kaynağı bulunduğu, belirtilerek, şu bilgiler verildi 
+     ''Bu kaynaklar temel olarak, toplanan prim gelirlerinden, reasürans korumasından ve hasar durumunda Dünya Bankası tarafından sağlanacak finansmandan oluşuyor. Bunlar içerisinde en büyük kaynağı, önde gelen uluslararası reasürörlerden temin edilen reasürans koruması oluşturuyor. 2004 yılı için toplam 740 milyon ABD Doları tutarında reasürans koruması temin edildi. Bu korumanın tamamı, uluslararası derecelendirme kuruluşlarınca en az A ve üzeri düzeyde derecelendirilen reasürörlerden sağlandı. Bu itibarla, DASK'ın 2004 yılı için toplam ödeme gücü 1 milyar ABD Doları'nın üzerinde bulunuyor. Bu miktar DASK'ın 2004 yılındaki tahmini yükümlülüklerini fazlasıyla karşılayacak düzeydedir. Ayrıca, poliçe sayısının beklenenden daha fazla olması ve dolayısıyla muhtemel yükümlülüklerin artması durumunda, yıl içinde ilave reasürans teminatı almak da mümkün bulunuyor.'' 
+     
+</TEXT>
+</DOC>

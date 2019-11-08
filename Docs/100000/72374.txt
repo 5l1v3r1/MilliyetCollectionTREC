@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 72374 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/03/13/son/soneko21.html </URL>
+<DATE> 2002/03/13/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+En ünlü "hacker" İstanbul'a bağlanacak... 
+</HEADLINE>
+<TEXT>
+
+     COMSAT Türkiye, dünyanın en ünlü hacker'ı Kevin Mitnick'i Türkiye ile buluşturacak. 
+     Bilişim güvenliği uzmanlarını ve IT profesyonellerini biraraya getirecek SACIS 2002 Bilişim Sistemlerinin Güvenlik, Denetim ve Kontrol Konferans Fuarı, 19-20 Mart tarihleri arasında İstanbul Swissotel'de gerçekleştirilecek. 
+     Dünyanın en ünlü hacker'ı Kevin Mitnick, 19 Mart tarihinde düzenlenecek oturuma, COMSAT Türkiye'nin altyapısını sağlayacağı video konferansla Los Angeles'tan konuşmacı olarak katılacak. Mitnick'in konuşması Swissotel'in Lausanne, Montreux ve Bern salonlarından izlenecek. 
+     Kevin Mitnick, Digital Equipment Company'nin bilgisayar şebekesine yaptığı saldırı nedeniyle FBI'ın en çok arananlar listesine giren ilk hacker oldu. Yakalandığında bilgisayar bağımlılığının üstesinden gelebilmesi için 1 yıl tedavi merkezinde bulunma cezası aldı. 1995 yılında birçok bilgisayara girip, 20 bin kredi kartı numarasını ele geçirdiği için tekrar yakalandı. Mitnick'in en ünlü hack başarısı ise bir şirketin bilgisayar sistemine girerek, şirketin patentli yazılımını kendi bilgisayarına yüklemesiydi. 
+     Mitnick elektronik herhangi bir şebeke üzerinde çok tehlikeli görüldüğünden kefalet kabul edilmeksizin ve yargılanma sona ermeden hapse mahkum oldu. Hapiste bulunduğu süre de göz önünde bulundurularak 10 ay sonra Ocak 2000'de serbest kaldı. 
+     Bilişim güvenliği konularındaki tecrübelerini İstanbul'daki dinleyicilere, aktaracak olan Mitnick'in, tahliye şartları nedeniyle bilgisayar ve cep telefonu ile iletişimi yasal olarak engelleniyor. 
+     COMSAT Türkiye'nin de sponsorları arasında bulunduğu SACIS Fuarı kapsamında geçiş kontrol sistemleri, IT denetim metodolojileri, UNIX işletim sistemi ve türevlerinin denetim kontrol ve güvenliği, bilişim güvenliği yönetim denetimi, yedekleme, elektronik arşivleme, bilgisayar suçları, veri gizliliği, e-mail güvenliği, risk yönetimi, güvenli ödeme sistemleri gibi konular da ele alınacak. Ayrıca ağ güvenliği temelleri, güvenlik, denetim ve kontrolü, ağ penetrasyonu ve Windows XP güvenliği konularında da oturumlar düzenlenecek. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

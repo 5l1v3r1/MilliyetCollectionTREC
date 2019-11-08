@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 331565 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/08/son/sonyas13.html </URL>
+<DATE> 2005/04/08/ </DATE>
+<TIME> 10.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sony 'The Matrix'in sanal dünyasını gerçeğe dönüştürebilir 
+</HEADLINE>
+<TEXT>
+
+     LONDRA DHA 
+
+      JAPON elektronik devi Sony'nin, 3 boyutlu filmleri ultrason yöntemiyle doğrudan beyne iletecek bir buluşun patentini aldığı bildirildi. 
+     İngiliz The Times gazetesi, televizyonu ve sinemayı ortadan kaldıran bu teknoloji sayesinde 'The Matrix' filminde beyne kablolar sokularak yaratılan 'sanal gerçekliğin' ileride hayata geçirilebileceği yorumunu yaptı. 
+     
+     BEYİNDE HAREKETE GEÇEN SİNİR UÇLARI 'FİLM OYNATIYOR' 
+     Bununla birlikte, mucidinin ismi açıklanmayan yeni teknolojide beyne herhangi bir kablo ya da elektrot sokulmuyor. Şu an sadece bir 'teori' düzeyinde olan yöntem, beynin belirli bölgelerine ultrason dalgaları vererek buradaki sinir hücrelerini özel bir şekilde hareket ettirme prensibine dayanıyor. 
+     Henüz hakkında fazla detay açıklanmayan teknoloji sayesinde yaşanacak 'duyusal deneyim' sırasında filmi 'beyninden izleyen' kişi, izlediği şeyin kokusunu, tadını alabilecek, hatta beyninde canlanan nesneleri de hissedebilecek. Ultrasonlu 3 boyutlu teknoloji, video oyunlarının da 'beyinde' oynanmasına imkan tanıyacak. 
+     
+</TEXT>
+</DOC>

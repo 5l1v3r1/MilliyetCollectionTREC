@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 176010 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/15/son/sontur35.html </URL>
+<DATE> 2003/08/15/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayar kullanıcılarına uyarı... 
+</HEADLINE>
+<TEXT>
+
+     E-güvenlik firması InfoNet, ''MSBLAST Solucanı''nın bulaştığı bilgisayarların, bu gece yarısı Microsoft'un ''windows ürün güncelleme sitesine'' saldıracağı uyarısında bulundu. 
+     InfoNet'ten yapılan yazılı açıklamada, internette tehdit düzeyi göstergesinin ''kritik'' seviyeden ''tehlikeli'' seviyeye yükseltildiği belirtilerek, ''MSBLAST Solucanı''nın yayılma hızının düne göre çok az bir oranda azaldığı kaydedildi. 
+     Açıklamada, şöyle denildi 
+     ''Ancak, solucan çok daha büyük bir tehdit potansiyeli taşımaktadır. 16 Ağustos'un erken saatlerinde 15 Ağustos saat 24.00'ten sonra solucanın bulaştığı bilgisayarlar, aynı anda 'www.windowsupdate.com' adresine saldırıda bulunacaktır. Bu saldırı sebebiyle InfoNet, internet trafiği üzerinde büyük bir yük beklemektedir. Bunun sonucunda kullanıcılar artan paket gecikme süreleri ve 'VoIP' gibi internet tabanlı uygulamalarda ciddi performans kayıpları ile yüzyüze kalabilirler.'' Internet'deki tehdit düzeyinin InfoNet'in web sitesindeki ''ALERTCON'' göstergesinden takip edilebileceği vurgulanan açıklamada, sistem yöneticilerinin en kısa zamanda ''http www.infonet.com.tr security anno aug2003 index2.html'' adresinden ulaşabilecekleri InfoNet duyurusunu okuyarak belirtilen tedbirleri almaları gerektiği kaydedildi. 
+     
+</TEXT>
+</DOC>

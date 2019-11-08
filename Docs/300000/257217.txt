@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 257217 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/22/ekonomi/eko06.html </URL>
+<DATE> 2004/07/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Escort'tan e - istasyon 
+</HEADLINE>
+<TEXT>
+
+
+E - istasyon sisteminde müşteri akaryakıt alım işlemini ekrandan yapacak, kredi kartıyla ödeyecek 
+
+EKONOMİ SERVİSİ 
+
+Escort Computer, akaryakıt istasyonlarında 1 Ağustos'ta geçilecek yazarkasa uygulamasına yönelik olarak 'e - station kiosk dokunmatik ekran sistemi' geliştirdi. 
+Bu sistem kredi kartı, smart kart ya da uzaktan okunabilen kartlarla kullanılabiliyor. Dokunmatik ekran aracılığı ile işlemler daha hızlı gerçekleştiriliyor. Akaryakıt alındıktan sonra ödeme kredi kartı ya da uzaktan okunan özel kartlarla ofise gitmeden direkt pompadan banka ile bağlantı kurularak yapılıyor. Escort Computer Yönetim Kurulu Başkanı İbrahim Özer bu sistemin self-servis olduğunu, yani müşterinin kendi benzinini alıp, ödemesini de kendisinin yapmasını sağladığını söyledi. Escort ayrıca pompada yazarkasa işlevini görecek 'e - station basic' ve market ile pompa entegrasyonunu sağlayacak 'e - station pos' sistemlerini üretti. Yazarkasa zorunluluğuyla birlikte oluşan pazarın yüzde 30'una sahip olmayı hedeflediklerini ifade eden Özer, çalışmalarında pompa ve otomasyon firmaları ile ortak çalışacaklarını bildirdi. 
+
+
+</TEXT>
+</DOC>

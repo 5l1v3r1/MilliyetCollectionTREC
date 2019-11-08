@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 300147 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/23/son/sondun03.html </URL>
+<DATE> 2004/12/23/ </DATE>
+<TIME> 09.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İlk ABD firması Irak'tan çekiliyor 
+</HEADLINE>
+<TEXT>
+
+     Irak'ta giderek artan şiddet olayları yüzünden bir ABD firması, ülkedeki 325 milyon dolarlık bir projeden çekilme kararı aldı. 
+     İnşaat firması "Contrack International" Irak'tan çekilme kararı alan ilk ABD şirketi olma özelliğini taşıyor. Firma Irak'tan tamamen çekileceğini açıkladı. 
+     ABD yönetimi Irak'ın yeniden yapılandırılmasına 19 milyar dolara yakın kaynak ayırmıştı. 
+     Ancak ülkede giderek artan şiddet olayları yüzünden güvenlik harcamalarına ağırlık verildi. 
+     
+</TEXT>
+</DOC>

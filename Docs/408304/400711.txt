@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 400711 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/05/son/soneko54.html </URL>
+<DATE> 2005/12/05/ </DATE>
+<TIME> 16.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa rekorlara alıştı 39.130 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeksi, 2. seansta 239.15 puan artarak 39,130.73 puandan tarihi rekorla kapandı. 
+     Hisse senetleri 2. seansta, ortalama yüzde 0.61 oranında değer kazandı. 
+     İlk seanstaki 317.87 puanlık artış dikkate alındığında, Borsa endeksi günün tamamında 557.02 puan yükseldi. 
+     Hisse senetlerinin günlük ortalama değer artışı yüzde 1.44 oldu. 
+     Endeks 2. seansa, 71.80 puan azalarak 38,819.78 puandan başladı. Seansın ilk yarısını 38,952.03 puandan geçen endeks, seans içinde en düşük 38,740.58 puana kadar gerilerken, en yüksek olarak kapanış değeri olan 39,130.73 puanı gördü. Bu seviye tarihi zirve olarak kaydedildi. 
+     2. seans kapanışında, mali endeks 381.68 puan artarak 61,080.25 puana, sanayi endeksi 145.06 puan artarak 30,149.36 puana, hizmetler endeksi 128.75 puan artarak 18,613.53 puana yükseldi. 
+     Böylece ilk seansa göre, mali grup hisseler ortalama yüzde 0.63, sanayi grubu hisseler ortalama yüzde 0.48, hizmet grubu hisseler ortalama yüzde 0.70 oranında değer kazandı. 
+     2. seansta işlem gören toplam 310 hisse senedinden 104'ü değer kazandı, 124'ü değer yitirdi, 82 hisse senedinin fiyatında değişiklik olmadı. 
+     2. seansta, 800 milyon 246 bin 205 YTL'lik işlem hacmi kaydedildi. Günlük işlem hacmi, 1 milyar 485 milyon 103 bin 265 YTL olarak hesaplandı. 
+     2. seansta Turkcell, Garanti Bankası, Doğan Holding, Yapı ve Kredi Bankası ile Erdemir, en çok işlem gören hisse senetleri oldu. 
+     
+</TEXT>
+</DOC>

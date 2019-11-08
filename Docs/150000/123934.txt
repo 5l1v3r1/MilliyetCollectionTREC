@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 123934 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/12/11/son/soneko01.html </URL>
+<DATE> 2002/12/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası... 
+</HEADLINE>
+<TEXT>
+
+     New York borsasında, Dow Jones ve Nasdaq endeksleri günü yükselişle kapattı. 
+     Borsanın temel göstergesi Dow Jones endeksi, 100.85 yüzde 1.19 puan artarak, 8,574.26 puandan kapandı. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq da 23.34 yüzde 1.71 puan artışla 1,390.48 puana yükseldi. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

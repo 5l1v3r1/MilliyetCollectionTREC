@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 70940 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/03/05/son/soneko35.html </URL>
+<DATE> 2002/03/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft davayı kaybederse kapanacak.. 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın en büyük bilgisayar yazılım kuruluşu olan Microsoft, ABD Adalet Bakanlığı ve 9 eyalet tarafından aleyhinde açılan davayı kaybettiği takdirde kapanacak. 
+     Microsoft İcra Direktörü Steve Ballmer konuyla ilgili olarak yaptığı açıklamada, ''Bu durumda ya şirketi kapatmak ya da Windows işletim sistemini piyasadan çekmek zorunda kalacağız. 9 eyaletin önerisi kabul edildiği takdirde, bu şirketi kapatmamız demek olur. 
+     Çünkü bizden neredeyse tüm yazılımlarımızı bedava vermemizi istiyorlar'' dedi. 
+     9 eyaletin savcıları, Microsoft'un yarattığı tekeli kırmak 
+     amacıyla dava açmışlardı. 
+     Microsoft, davadan vazgeçmeleri için Adalet Bakanlığı ve 9 eyaletin yetkilileriyle bir çözüm anlaşması üzerinde pazarlık ediyor. 
+     Anlaşma metni üzerindeki tartışmalar yarından itibaren federal yargıç huzurunda başlayacak. 
+     9 eyaletin savcıları, Microsoft'un, internet tarayıcısı İE 
+     üzerindeki kontrolünden vazgeçmesini ve içinde diğer programların yer almadığı bir Windows sürümü hazırlamasını istiyorlar. 
+     ''Ballmer'in işi bir parça abarttığına'' değinen uzman ve yatırımcılar, eyalet savcılarının taleplerinin, Microsoft firması üzerinde, Ballmer'in öne sürdüğü kadar ağır tahribat yapmayacağı görüşünde olduklarını ifade ettiler. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

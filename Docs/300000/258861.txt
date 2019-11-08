@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 258861 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/28/son/sonyas12.html </URL>
+<DATE> 2004/07/28/ </DATE>
+<TIME> 11.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Çocuk takip telefonları satışa çıktı 
+</HEADLINE>
+<TEXT>
+
+     Güney Kore'de aileler, artık çocuklarını dünyanın her yerinde takip edebilecekler. 
+     SK Telecom şirketi tarafından 86 dolar fiyatla piyasaya sürülen yeni renkli cep telefonlarının, insan kulaklarına benzeyen antenleri ve GPS sistemini kullanan bir izleyici yongası bulunuyor. 
+     Güney Kore'nin en büyük cep telefonu operatörü olan SK Telecom'un satışa sunduğu telefon kapatılsa bile GPS sistemi çalışıyor. 
+     Aileler, sürekli çalışan bu GPS sistemi sayesinde çocuklarının nerede olduğunu istedikleri zaman öğrenebilecekler. 
+     Fiyatı düşük tutmak isteyen firmanın çıkardığı yeni telefonda, yazılı mesaj ve internette işlem yapma seçenekleri bulunmuyor. 
+     
+</TEXT>
+</DOC>

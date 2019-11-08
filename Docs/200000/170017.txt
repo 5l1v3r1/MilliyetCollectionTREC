@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 170017 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/17/son/soneko43.html </URL>
+<DATE> 2003/07/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa günü 40 puanlık kayıpla noktaladı... 
+</HEADLINE>
+<TEXT>
+
+     IMKB ULUSAL-100 endeksi, günü yüzde 0.37 düşüşle, 10,751.46 puanda tamamladı. 
+     Gün içerisinde en düşük 10,685.83 , en yüksek 10,861.37 puanı gören bileşik endeks, dünkü kapanışının 39.95 puan altına düştü. Endeksin dolar bazında fiyatı ise 0.78 cent seviyesinde bulunuyor. 
+     2. seansta işlem gören toplam 291 hisse senedinden 128'i değer kaybetti, 72'si değer kazandı, 91'inin fiyatında değişiklik olmadı. 
+     Seansta, 162 trilyon 344 milyar 532 milyon liralık işlem hacmi kaydedildi. İki seans toplamında ise toplam 289 trilyon 183 milyar 824 milyon liralık işlem hacmi oluştu. 
+     2. seansta Garanti Bankası, Akbank, İhlas Holding, İş Bankası C ve Yapı Kredi Bankası en yoğun işlem gören hisse senetleri olarak belirlendi. 
+     
+</TEXT>
+</DOC>

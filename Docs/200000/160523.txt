@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 160523 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/02/son/soneko04.html </URL>
+<DATE> 2003/06/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+AOL-Microsoft birlikteliği piyasada şok yarattı... 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın en büyük internet hizmet sağlayan kuruluşu AOL ile yazılım devi Microsoft arasında buzların erimesi, internet tarayıcısından, bilgisayarlarda kullanılan müzik çalar programlarına kadar çeşitli alanlarda üretim yapan diğer firmalar arasında büyük tedirginlik yarattı. 
+     Uzlaşının ilk kurbanlarından birinin, Microsoft'un ürettiği ''Explorer''in en büyük rakibi Netscape firması olacağı söylenirken, anlaşmanın müzik piyasasına yeni giren Apple firmasından RealNetworks şirketine kadar pek çok kuruluşu gelecek açısından endişeye sevkettiği öne sürülüyor. 
+     AOL ve Microsoft, aralarındaki anti-tekel anlaşmazlığını tatlıya bağlamışlar ve Microsoft bu bağlamda AOL'e 750 milyon dolar ödemişti. 
+     Sanayi çevreleri AOL-Microsoft anlaşmasının Apple ve RealNetworks'un yanı sıra çok sayıda küçük firmanın da canını yakacağını savunuyorlar. Uzlaşı kararının açıklanmasından sonra Apple ve RealNetworks firmalarının hisseleri borsada yüzde 9'a varan oranda değer kaybına uğradı. 
+     Ürettiği ses ve video yazılımı AOL tarafından kullanılan RealNetworks'un başkan yardımcılarından Dan Sheeran, '' AOL yetkilileri uzlaşının, AOL ile bizim aramızdaki ilişkiyi etkilemeyeceğine dair güvence verdiler'' diye konuştu. 
+     
+     HANGİ ALANLARDA İŞBİRLİĞİ YAPACAKLAR 
+
+     AOL ile Microsoft'un özellikle internet teknolojisi, anında mesaj ve sayısal medya alanlarında işbirliği yapacakları bildiriliyor. Bu bağlamda Microsoft, AOL'i bilgisayar firmalarına tavsiye ederken, AOL de Microsoft'un kısa adı IE olan ''internet explorer'' tarayıcısını kullanacak. 
+     
+</TEXT>
+</DOC>

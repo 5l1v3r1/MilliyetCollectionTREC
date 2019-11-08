@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 213530 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/06/son/soneko14.html </URL>
+<DATE> 2004/02/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kredi kartlarına akıllı izleme 
+</HEADLINE>
+<TEXT>
+
+     Visa AB'nin yeni sahtecilik izleme uygulaması ''Akıllı Risk Değerleme Programı'' VISOR , Türkiye'nin de içinde bulunduğu Visa Avrupa Birliği bölgesinde Ocak ayı itibarıyla devreye girdi. 
+     İlk pilot uygulamalarda sahtecilik oranlarında azalma sağladığı belirlenen VISOR, VisaNet üzerinden gerçekleştirilen her işlemi inceliyor, her kart sahibinin harcama alışkanlıklarını ve her işyerinin profilini analiz ediyor. 
+     VISA Türkiye Ofisi Üye İlişkileri ve Pazarlama Müdürü Osman İnegöl, AA muhabirine yaptığı açıklamada, sahtecilik ve dolandırıcılığın dünyada, Avrupa ve Türkiye'de giderek artması nedeniyle Visa'nın CRIS adlı sinirsel ağını VISOR adlı bir sistemle yenileme kararı aldığını belirtti. 
+     Visa ve Fair Isaac firmasının küresel sahtecilik çözümleri ortaklığı kapsamında geliştirilen VISOR'ün sahtecilik tespitinde var olan en yeni teknoloji olduğunu ve çok güçlü tahmin kapasitesi bulunduğunu ifade eden İnegöl, şunları söyledi 
+     ''VISOR, yaklaşık 18 aylık bir çalışmanın ürünü. Pilot çalışmaları Almanya'da Barclay's Bank International, Hollanda'da ICS ve İngiltere'de Nationwide'da gerçekleşti. İlk pilot uygulamalarında bile üyelerimiz tarafından sahtecilik oranlarında yüzde 15-60 arasında azalma görüldü.'' Sistemin Ocak ayında devreye girdiğini bildiren İnegöl, Mart 2004 tarihi itibarıyla VISA'nın halihazırda kullanmakta olduğu sahtecilik tespit sistemi CRIS'in devreden çıkacağını ve sadece VISOR kullanılmaya başlanacağını belirtti. 
+     Osman İnegöl, ''Bu sistem, bütün sahtecilik tiplerini hedefliyor. Bizim ağırlıklı olarak problemimiz kartların sahtelerinin üretilmesi. Bunun yanında kart numarasının sahtecilik amaçlı kullanımı ve kayıp çalıntı gibi sahtecilik türleri de var'' dedi. 
+     
+     TÜRKİYE'DE SAHTECİLİKTE ARTIŞ KAYDEDİLDİ 
+     Türkiye'de sahteciliğin geçtiğimiz yıl artış gösterdiğini açıklayan İnegöl, ''Avrupa'da da artıyor ama eskisi kadar hızlı artmıyor. Avrupa'da yıllık yaklaşık yarım milyar Euro'luk bir sahtecilik, dolandırıcılık kaybı sözkonusu. Türkiye'de 2003 yılı Eylül sonu itibarıyla sahtecilik amaçlı kullanılan kartlardan dolayı yıllık 13.7 milyon dolarlık kayıp var. Bir önceki yıl bu rakam 2 milyon dolardı'' diye konuştu. 
+     İnegöl, yeni sistemin sahtecilik faaliyetlerinin neden olduğu kayıplara son vereceğini, EMV'li çipe geçişle bütünleyici bir rol üstleneceğini vurguladı. 
+     Avrupa'da büyük bir hızla çipli karta geçilmesi nedeniyle organize sahtecilik örneklerinin yavaş yavaş henüz çipli karta geçmemiş olan Türkiye gibi ülkelere kaydığını belirten İnegöl, bugün itibarıyla 3 bankanın çipli kartı piyasada kullandığını, 2005 yılına kadar Türkiye'deki kartların yarısının çipli olacağını düşündüklerini söyledi. 
+     Osman İnegöl, VISOR sistemi kullanımını hararetle üyelerine tavsiye ettiklerini belirterek, ''amaç sahtecilik kayıplarını asgaride tutmak. Hiçbir zaman sıfıra indiremeyiz'' diye konuştu. 
+     
+</TEXT>
+</DOC>

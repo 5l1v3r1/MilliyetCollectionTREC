@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 325718 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/22/ekonomi/eko10.html </URL>
+<DATE> 2005/03/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilginin güvenliği konferansı 
+</HEADLINE>
+<TEXT>
+
+
+
+HP, Microsoft, Armada Bilgisayar ve Milliyet işbirliğiyle bugün başlayan Citrix Solutions Konferans 2005'te, mevcut düşük bant genişliği ile kurumsal uygulamalarla verimli ve üst seviyede erişim, basitleştirilmiş ve güçlü bilgi teknolojileri yönetimi, hızlandırılmış uygulama dağıtımı ve toplam sahip olma maliyetlerinin düşürülmesi ile yatırım geri dönüşlerinin maksimize edilmesi gibi konular ele alınıyor. 
+
+
+</TEXT>
+</DOC>

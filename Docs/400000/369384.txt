@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 369384 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/12/son/sonyas10.html </URL>
+<DATE> 2005/08/12/ </DATE>
+<TIME> 15.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Keşif aracı Mars yolunda... 
+</HEADLINE>
+<TEXT>
+
+     Amerikalılar, Mars gezegeninin sırlarını keşfetmek için bugün yeni bir uzay aracı fırlattı. 
+     ABD Ulusal Havacılık ve Uzay Dairesi'nin NASA "Mars Keşif Aracı" MRO adını verdiği 2 tonluk uydu, Florida'daki Cap Canaveral uzay üssünden Atlas 5 adlı füzeyle fırlatıldı. 
+     MRO, 2006 yılının Mart ayında "kızıl gezegenin" 313 kilometre üzerinde yörüngeye girecek. Aynı yılın Kasım ayında 25 aylık görevine başlayacak olan MRO, Mars atmosferinin yanı sıra Mars yüzeyini ve gezegenin yeraltı katmanlarını inceleyecek. 
+     Araç, Mars çevresinde biri Avrupalılara, ikisi Amerikalılara ait üç uzay aracına katılacak. Amerikalıların Mars Global Surveyor ve Mars Odyssey adlı uydularıyla Avrupalıların Mars Ekspresi adlı uydusu, gezegende su ve buz izlerini araştırıyor. Bu çabaya, Mars yüzeyindeki Amerikan robotları Spirit ve Opportunity de 18 aydır katılıyor. 
+     MRO programının sorumlularından Douglas McCuistion, MRO'nun "gözlerinden", gelecek yıllarda Mars'a robot indirirken de yararlanmayı tasarladıklarını belirtti. 
+     MRO uydusunda, ilk kez kullanılan çok güçlü kamera, radar ve spektrometreler bulunuyor. Bu aletlerle özellikle Mars'taki su izleri araştırılacak. 
+     Uzmanlar, MRO'nun yörüngedeki hareketlerini de analiz ederek, Mars atmosferinin üst katmanlarını ve gezegenin çekim gücünü de inceleyecek. 
+     MRO'nun elde edeceği veriler, Mars'a şimdiye kadar gönderilen en büyük anten ve güneş panellerinin sağladığı enerjiyle beslenen aktarıcıyla dünyaya ulaşacak. 
+     
+</TEXT>
+</DOC>

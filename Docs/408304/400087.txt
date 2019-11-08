@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 400087 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/02/son/sontur37.html </URL>
+<DATE> 2005/12/02/ </DATE>
+<TIME> 17.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Meteorolojiden Marmara için yağış uyarısı 
+</HEADLINE>
+<TEXT>
+
+     Devlet Meteoroloji İşleri Genel Müdürlüğü bu akşam saatlerinden sonra ve gece saatlerinde Marmara’nın kuzey ve doğusunda etkili yağış beklendiğini bildirdi. 
+     Meteoroloji’den yapılan etkili yağış uyarısında, "Bu akşam saatlerinden sonra başlayacak yağışların İstanbul başta olmak üzere bölgenin kuzey ve doğusunda etkili olması beklendiğinden yaşanabilecek olumsuzluklara su baskını karşı ilgililerin ve vatandaşların tedbirli olmaları gerekmektedir" denildi. 
+     
+</TEXT>
+</DOC>

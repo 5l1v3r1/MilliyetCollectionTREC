@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 193053 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/03/son/soneko30.html </URL>
+<DATE> 2003/11/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Mevduat garantisinde yeni düzenleme... 
+</HEADLINE>
+<TEXT>
+
+     Bankacılık Düzenleme ve Denetleme Kurulu BDDK , mevduat garantisinde yeni bir düzenlemeye gitti. 
+     BDDK kararına göre, bir bankada bir gerçek kişiye ait hesapların anapara ve faiz tutarları toplamının 50 milyar liraya kadar olan kısmı sigorta kapsamında olacak. Ancak sigorta uygulaması, 3 Temmuz 2003 tarihinden 5 Temmuz 2004 tarihine kadar, hesapların ana para ve faizinin tamamını kapsayacak. 
+     Bankacılık Düzenleme ve Denetleme Kurulu 31 Ekim'de aldığı bir kararla, sigortaya tabi tasarruf mevduatı ile Tasarruf Mevduatı Sigorta Fonu'nca tahsil olunacak primlere ilişkin esasları yeniden belirledi. 
+     Karara göre, uygulama 3 Temmuz 2003 tarihinden geçerli olacak. Bu kapsamda, 14 Mayıs 2003 ve 3 Temmuz 2003 tarihli 1043 ve 1083 sayılı Kurul kararları yürürlükten kaldırıldı. 
+     BDDK'nın sigortaya tabi tasarruf mevduatı ve Tasarruf Mevduatı Sigorta Fonu'nca tahsil olunacak primlere ilişkin yayınlanan esaslarında, bir bankada bir gerçek kişiye ait, hesapların anapara ve faiz tutarları toplamının 50 milyar liraya kadar olan kısmı sigorta kapsamında gösterildi. 
+     Ancak, 3 Temmuz 2003 tarihinden itibaren 5 Temmuz 2004 tarihine kadar, bir bankada bir gerçek kişiye ait 1'inci maddede tanımlanan hesapların anapara ve faiz tutarları toplamının tamamı sigorta kapsamında olacak. 
+     Türkiye Bankalar Birliği'nin web sitesinde de yayınlanan yeni esaslarda, Türkiye'de faaliyet gösteren ve mevduat kabulüne yetkili bankaların, yurtiçi şubelerinde gerçek kişiler tarafından açılan Türk Lirası cinsinden tasarruf mevduatı ile tasarruf mevduatı niteliğini haiz altın depo ve döviz tevdiat hesaplarının mevduat sigortasına tabi olduğu belirtilerek, Türkiye'de münhasıran kıyı bankacılığı faaliyeti göstermek üzere kurulan bankalardaki mevduatın mevduat sigortasına tabi olmadığı kaydedildi. 
+     
+     HİSSEDARLARIN MEVDUATI GARANTİ KAPSAMINDA DEĞİL 
+
+     Bir bankanın sermayesinin yüzde 10 ve daha fazlasına sahip ortakları ile yönetim kurulu başkan ve üyelerine, genel müdür ve yardımcılarına, kredi açmaya yetkili memurlarına, denetçilerine ve bunların ana, baba, eş ve çocuklarına ait o bankadaki tasarruf mevduatı da sigorta kapsamından çıkarıldı. 
+     Yeni düzenlemede, ''mudilerine Tasarruf Mevduatı Sigorta Fonu'ndan ödeme yapılacak bankanın bankacılık işlemleri yapma ve mevduat kabul izninin kaldırıldığı tarih itibarıyla mevduat hesaplarına tahakkuk ettirdiği faizlerin, sözkonusu tarih itibarıyla mevduat toplamları en yüksek beş bankaca uygulanan faiz oranlarının ortalaması ile bankaca kamuya ilan edilen ve Merkez Bankası'na bildirilen azami faiz oranları üzerinden hesaplanacak tutarları aşan kısmı, birinci fıkradaki sınır içinde kalsa dahi, sigorta kapsamında değildir'' hükmü korundu. 
+     ''Sigorta kapsamında ödemeler Türk Lirası olarak yapılır'' şeklinde net bir tanıma gidilirken, döviz tevdiat hesaplarının Türk Lirası karşılıklarının, bankanın bankacılık işlemleri yapma ve mevduat kabul izninin kaldırıldığı tarihteki Merkez Bankası döviz alış kurları esas alınarak, altın depo hesaplarının Türk Lirası karşılıklarının ise, bankanın bankacılık işlemleri yapma ve mevduat kabul izninin kaldırıldığı tarihteki İstanbul Altın Borsası seans kapanış fiyatına ve Merkez Bankası döviz alış kurlarına göre belirleneceği hükümlerine yer verildi. 
+     Açıklanan esaslar kapsamında, bankaların tasarruf mevduatı sigorta primlerine ilişkin düzenlemelerde ise, kredilere açıklık getiren ''bilançonun aktifinde görülen krediler'' tanımı dışında bir değişiklik yapılmadı. 
+     Bankalar, bir kişiye ait tasarruf mevduatı ile bu mahiyetteki altın depo ve döviz tevdiat hesaplarının sigorta kapsamında olan kısımları hakkında esasları ihtiva eden yazılı açıklamayı şubelerinin görünen bir yerine asmak zorunda olacaklar. 
+     
+</TEXT>
+</DOC>

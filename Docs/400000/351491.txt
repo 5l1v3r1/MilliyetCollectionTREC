@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 351491 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/13/son/soneko14.html </URL>
+<DATE> 2005/06/13/ </DATE>
+<TIME> 10.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Öncü göstergeler ekonomide yavaşlamaya işaret ediyor 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası’nın öncü göstergeler endeksi ekonomideki büyümenin yavaşlayacağı işaretlerini veriyor. 
+     Merkez Bankası’nın sanayi üretim endeksi, ara malı ithalatı, elektrik üretimi ve iktisadi yönelim anketinin mayıs ayı verilerini kullanılarak oluşturduğu Merkez Bankası Bileşik Öncü Göstergeler Endeksi, mayıs ayında nisan ayına göre düşüş gösterdi. Öncü Göstergeler Endeksi’nin şubat ve mart ayında 141.6 olan değeri, nisan ayında 141.3’e, mayıs ayında ise 140.8’e geriledi. 
+     Merkez Bankası’nın aylık olarak gerçekleştirdiği öncü göstergeler endeksinde yer alan veriler ekonomide yavaşlama ve olumsuz beklentilerin sinyalini veriyor. Bu endekslemede istihdam şubat ayındaki 8.2 değerinden mart ayında 2.5’e gerilerken, nisan ayında 5.5’e çıkmıştı. Ancak mayıs ayında istihdam endeksi yeniden 3.5’e düştü. 
+     İhracat olanaklarına ilişkin endeks de şubat ayındaki 18.3 düzeyinden mart ayında 20.1’e, nisan ayında 19.4’e 
+     çıkmasına karşın mayıs ayında 16.6’ya kadar düştü. İç piyasadan alınan yeni siparişler şubat ayından itibaren düşüş göstererek, 28.9’dan 17.8’e kadar geriledi. İskontolu Hazine ihalesi için satılan miktarla ağırlandırılmış yıllık ortalama basit faiz oranı yüzde 17.6’dan mart ayında yüzde 17’ye düşmüştü. Ancak nisan ayında yüzde 17.2’ye, mayıs 
+     ayında da yüzde 17.8’e çıktı. 
+     Sanayi üretim endeksi, mart ayındaki 129.9 değerinden nisan ayında 128.4 değerine düşerken, öncü göstergeler endeksi içinde yer alan ve değeri yükselen tek gösterge elektrik üretim miktarı oldu. Elektrik üretim miktarı nisan ayındaki 12 milyar 529 milyon kilovatsaatten, 12 milyar 758 milyon kilovatsaate çıktı. 
+     Merkez Bankası’nın açıklamasında OECD tarafından çeşitli ülke ve bölgeler için oluşturulan bileşik öncü göstergeler endeksine de yer verildi. Buna göre, OECD bölgesi, AB, Euro bölgesi için 6 aylık yüzde değişimlerine bakıldığında, son 1 yıl içinde ilk kez eksi değere gelindiği görülüyor. 
+     
+</TEXT>
+</DOC>

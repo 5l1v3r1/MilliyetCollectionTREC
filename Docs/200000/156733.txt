@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 156733 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/15/guncel/gun02.html </URL>
+<DATE> 2003/05/15/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Erken uyarı sistemi için bir adım daha 
+</HEADLINE>
+<TEXT>
+
+     Türk bilim adamı Dr. Ali Behçet Alpat, depremde erken uyarı sisteminin oluşmasına katkıda bulunabilecek icadını İtalyan Meclisi'nde sergiledi. Ulusal Nükleer Fizik Enstitüsü'ne INFN bağlı olarak görev yapan Alpat, depremde erken uyarı sisteminin oluşmasına katkıda bulunabilecek bir cihaz icat etti. 
+     
+     Hem karada hem de suda çalışıyor 
+     INFN bünyesinde oluşturulan ve Site Technology adlı endüstri firması tarafından finansmanı karşılanan "Terradex" adlı icadın patentine sahip olan Alpat, Marmara Araştırma Merkezi'ni ve TÜBİTAK'ı da projeye dahil etmeye çalıştığını ifade ederek, "Terradex"in mikrokırılmalarda çıkan radon gazını şimdiye kadar olabilecek azami hassasiyette ölçtüğünü belirtti. Eksi 30 ile artı 40 derece sıcaklık arasında her yere konulabilen Terradex'in herhangi bir bakım sorununun bulunmadığını kaydeden Alpat, cihazın hem karada hem suda çalıştığını ifade etti. 
+     
+
+</TEXT>
+</DOC>

@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 56188 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/12/08/son/soneko01.html </URL>
+<DATE> 2001/12/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası'nda Dow Jones ve Nasdaq düştü 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası Dow Jones Endeksi, 49.68 puan düşüşle yüzde 0.5 10,049.46 puandan kapandı. 
+     Teknoloji göstergesi Nasdaq Birleşik Endeksi ise 32.97 puan kayıpla yüzde 1.6 2,021.30 puandan günü kapadı. 
+     New York Borsası güne düşüşle başladı. 
+     Borsada ilk yarım saat sonunda Dow Jones Endeksi düne göre 38.56 puan düşüşle 10,060.58 puana, Nasdaq Endeksi de 15.43 puan düşüşle 2,038.84 puana geriledi. 
+     Borsanın düşüşüne, 11 Eylül'ün terör darbesinden sonra ABD'de işsizlik oranının Kasım ayında son 6 yılın en yüksek seviyesine çıktığının açıklanması neden oldu. İşsizliğin beklenenin üzerinde artması, yatırımcıların, ABD ekonomisinin girdiği durgunluğun beklenenden daha derin olduğu ve toparlanmanın umulandan daha zor olacağı kaygılarını güçlendirdi. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

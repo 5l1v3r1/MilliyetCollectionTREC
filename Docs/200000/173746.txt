@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 173746 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/05/son/soneko36.html </URL>
+<DATE> 2003/08/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Para piyasalarında bugün... 
+</HEADLINE>
+<TEXT>
+
+     Borsa'da işlem gören hisseler bugün ortalama yüzde 3.49 değer kazandı. 
+     İstanbul Menkul Kıymetler Borsası İMKB Ulusal 100 endeksi, 1. seansta 210.37 puan artışla 11,322.49 puandan kapandı. 
+     2. seansta da endeks, 177.40 puan artışla 11,499.89 puandan günü tamamladı. Endeks, günlük bazda 387.77 puan ve yüzde 3.49 yükseldi. 
+     Hisse senetleri piyasasında günlük işlem hacminde de uzun süreden bu yana ilk kez 1 katrilyon liranın üzerine çıkılırken, toplam hacim 1 katrilyon 63 trilyon 842 milyar 342 milyon lira oldu. 
+     Borsa uzmanları, endeksin önünde bulunan 11,600 bölgesindeki direncin geçilme ve ilk etapta 11,920 seviyesinin test edilme olasılığının yüksek olduğunu belirterek, gün içerisinde gelen kar satışlarının piyasa tarafından karşılanmasının da hisse senetlerine gelen talep açısından önemli bir gösterge olduğunu savunuyor. 
+     Uzmanlar, hareketi bu noktaya kadar sürükleyen banka ve holding hisselerinde bir miktar satış gelebileceğini kaydediyor. 
+     
+     DOLAR 
+     Merkez Bankası, doların bugünkü efektif kurunu alışta 1 milyon 398 bin 721 lira, satışta ise 1 milyon 408 bin 562 lira olarak açıkladı. 
+     Böylece dolar, Merkez Bankası'nın dünkü kurlarına göre, alışta 14 bin 559 lira, satışta ise 14 bin 661 lira düştü. 
+     Serbest piyasada dün 1 milyon 419 bin liradan kapanan dolar, güne 1 milyon 420 bin liradan, 1 milyon 603 bin liradan kapanan Euro da 1 milyon 610 bin liradan başladı. 
+     Piyasa kapanışında doların satış fiyatı 1 milyon 403 bin liraya, Euro'nun satış fiyatı 1 milyon 588 bin liraya geriledi. 
+     
+     TAHVİL VE BONO PİYASASI 
+     İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda işlem gören 18 Ağustos 2004 vadeli bugün valörlü tahvilin bileşik getirisi 0.89 puan düştü. 
+     Bu kağıdın aynı gün valörlü işlemlerinin basit getirisi yüzde 43.96, bileşik getirisi yüzde 43.64'ten kapandı. 
+     Dünkü piyasa kapanışında bu kağıdın basit getirisi yüzde 44.89, bileşik getirisi yüzde 44. olmuştu. 
+     İMKB Tahvil ve Bono Piyasası Repo Pazarı'nda, gecelik faiz de ortalama yüzde 34.99 olarak belirlendi. 
+     
+</TEXT>
+</DOC>

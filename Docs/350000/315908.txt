@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 315908 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/16/son/sonyas12.html </URL>
+<DATE> 2005/02/16/ </DATE>
+<TIME> 12.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Araştırma doğruladı, bu ilaçlar kalbe zararlı 
+</HEADLINE>
+<TEXT>
+
+     ABD'de yapılan bir araştırma, Vioxx, Bextra ve Celebrex adlı romatizmaya karşı ilaçların kalp-damar sorunlarına yol açtığını doğruladı. 
+     ABD'deki en büyük özel sağlık sigortası şirketi Wellpoint Inc. tarafından yaptırılan araştırma, Bextra'nın kalp krizi riskini yüzde , Vioxx'un yüzde 23 ve Celebrex'in de yüzde 19 oranında artırdığını gösterdi. 
+     Araştırma sonuçları, şirket yönetimi tarafından Federal İlaç ve Gıda Dairesi'ne FDA takdim edildi. 
+     Sonuçların 2001 Ocak ayı ile 2004 Haziran ayı arasında 40 yaş üzerindeki 629 bin 345 kişiye yazılan reçetelerin incelenmesiyle elde edildiği belirtildi. 
+     Şirket yöneticisi Dr. Nussbaum, FDA'ya gönderdiği mektupta, adı geçen ilaçların miyokard enfarktüsü ve çeşitli kalp-damar rahatsızlıklarına yakalanma riskini artırdığını belirtti. 
+     
+</TEXT>
+</DOC>

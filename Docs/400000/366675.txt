@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 366675 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/03/son/soneko01.html </URL>
+<DATE> 2005/08/03/ </DATE>
+<TIME> 01.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Wall Street Borsası yükselişle kapandı... 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Borsası, yükselişle başladığı günü ikinci seansta da yükselişle kapadı. 
+     Wall Street’in Dow Jones Sanayi Endeksi 59.79 puan artarak binde 5,6 10,682.94 puandan noktalandı. 
+     Borsada Nasdaq Bileşik Endeksi de 22.67 puan artarak 2,218.05 puandan kapandı. 
+     Borsanın yükselişinde petrol fiyatlarında görülen nispi gerileme ile ABD ekonomisine ilişkin olumlu verilerin açıklanması etkili oldu. 
+     
+</TEXT>
+</DOC>

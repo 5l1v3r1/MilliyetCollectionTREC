@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 354675 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/23/son/sondun05.html </URL>
+<DATE> 2005/06/23/ </DATE>
+<TIME> 09.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Portekiz referandum için yasa değiştirdi 
+</HEADLINE>
+<TEXT>
+
+     Portekiz parlamentosu, AB Anayasası için referandum yapılmasına olanak sağlamak amacıyla kendi anayasasında değişiklik yaptı. 
+     AB Anayasası'nın halk tarafından oylanmasına izin veren yasa değişikliği, parlamento tarafından bugün yapılan oturumda kabul gördü. 
+     Portekiz hükümeti, AB Anayasası'yla ilgili referandumun, ekim ayındaki belediye seçimleri sırasında yapılmasına karar vermiş, ancak bu karar, Fransa ile Hollanda'da halkın anayasaya hayır demesinin ardından askıya alınmıştı. 
+     
+     'Hayır'lar bu kez etkili olmadı 
+     29 mayısta Fransa'da ve 1 haziranda Hollanda'da yapılan AB Anayasası referandumlarından 'hayır' çıkması AB liderliğinde hayal kırıklığına neden olmuştu. 
+     AB'nin üst düzey yetkilileri referandumdan sonra yaptığı açıklamalarda anayasanın onaylama sürecinin devam edeceğini açıklamışlardı ancak gelişmeler aksi yönde gelişti. 
+     AB'nin kurucu üyeleri arasında yer alan İngiltere, Fransa ve Hollanda'daki sonuçlardan sonra AB Anayasası referandumunu askıya aldığını açıkladı. 
+     İngiltere'nin yanı sıra diğer bazı birlik üyesi ülkeler de bu yılın sonunda yapılmasını planladıkları referandumları erteleme kararı almıştı. 
+     
+</TEXT>
+</DOC>

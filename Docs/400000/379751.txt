@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 379751 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/19/son/sontur14.html </URL>
+<DATE> 2005/09/19/ </DATE>
+<TIME> 10.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kredi kartı, dolandırıcıların gözdesi... 
+</HEADLINE>
+<TEXT>
+
+     Kullanımı oldukça yaygınlaşan, hemen herkesin cebine giren kredi kartı, dolandırıcıların ve sahtecilerin en büyük hedefi haline geldi. 
+     AA muhabirinin Konya Emniyet Müdürlüğü’nden edindiği bilgiye göre, bankalar ve kart çıkarmaya yetkili kuruluşların, müşterilerine belli limitler dahilinde açtıkları krediler ile nakit kullanmaksızın mal, hizmet alımı ve nakit kredi çekme imkanı sağlamak amacıyla verdikleri bir çeşit ödeme aracı olan kredi kartı kullanımı, ülkede ciddi boyutlara ulaştı. 
+     Giyecek, yiyecek, ulaşım, sağlık ve turizm gibi her alanda kullanılan kredi kartı, giderek yaygınlaşmasına bağlı olarak hemen herkesin cebine birkaç adet girmeyi başardı. 
+     Bu kadar kullanıcı bulması, bakiyelerinde binlerce YTL olması ve kullanımında kimlik sorma alışkanlığının kazanılmaması nedeniyle kredi kartı, dolandırıcıların ve sahtecilerin en büyük hedefi haline geldi. 
+     Üzerindeki numarası, hologramı, rakamları ve arka paneldeki imzasıyla bazı güvenlik özelliklerine sahip kredi kartlarının sahtesi, sahteciler ve dolandırıcılar tarafından kolaylıkla yapılabiliyor. 
+     
+     SAHTESİ YAPILAMAYACAK KREDİ KARTI YOK 
+     Kredi kartının sahtesi iki yöntemle yapılabiliyor. Bunlardan ilki, kısmi sahtecilik. Bu yöntem, gerçek bir kredi kartı üzerindeki bilgilerin, ütüleme ve kesme gibi sahtecilik metodlarıyla değiştirilerek kartın içerik olarak değiştirilmesine dayanıyor. 
+     Sonradan kart numarasında herhangi bir ütüleme ya da kesme işlemi yapıldığında, hologram zedeleniyor. Bu durumda değiştirilmiş kart kolaylıkla belirlenebiliyor, ancak bu kartlar bazı işyerlerinin sahipleri tarafından bilinçli şekilde kullanılabiliyor. 
+     İkinci yöntem olan külli sahtecilik ise gerçek bir kredi kartının aynısının tamamen sahtesinin imal edilmesine dayanıyor. Burada kartın manyetik şeridinin bile sahtesi yapılabiliyor. 
+     Sahte kartların bilgileri, bazı işyerlerine yerleştirilen ve gerçek kartların bilgilerini bilgisayara aktaran özel tip okuyuculardan, kayıp ve çalıntı kartlardan, ele geçmeyen kartlar ve sahte başvurulardan sağlanabiliyor. 
+     Sahte kartların üzerinde yazılı olan banka ismiyle kartın önyüzünde kabartma olarak basılan kart numarası ya da manyetik şeride kodlanmış kart numarası, bankayı tanımlayan BIN-Prefix kart numarasının ilk 6 rakamı numaraları ile uyumlu olmuyor. 
+     Kartın üzerindeki kart hamili ismi, sahte olarak düzenlenmiş bir kimliğe uygun olarak basılmış oluyor ve ön yüzdeki kabartma bilgiler ile manyetik şerit bilgileri çoğunlukla uyumsuz oluyor. 
+     Birçok sahte kart, UV ışığı altında VISA güvercinin belirmesi gibi göstermesi gereken reaksiyonu vermiyor. 
+     
+     EN GÜVENLİSİ SANAL KLAVYE 
+     Konya Emniyet Müdürlüğü yetkilileri, kredi kartı dolandırıcıları ve sahtecilerine karşı bu kartın kullanımında çok dikkatli olunması gerektiğini belirterek, şunları söyledi 
+     "Her an herkesin kredi kartının kopyalanma ya da bilgilerine ulaşılarak sahtesinin yapılabilme olasılığı var. Bu yüzden alışverişlerde okuyuculara ve ATM’lerde para çekerken yaklaşan kişilere karşı çok duyarlı olmak gerekir." Bunun yanı sıra internetin de kredi kartları açısından büyük risk oluşturduğunu bildiren yetkililer, tüm yapılan işlemlere ulaşmayı sağlayan bir program aracılığıyla uzaktan kontrol edilebilen bilgisayarlardan banka hesaplarına girmenin de çok riskli olduğunu açıkladı. 
+     Birçok kişinin kredi kartı hesaplarına uzaktan ulaşıldığını ve bilgi dışında alışveriş yapıldığını vurgulayan yetkililer, şöyle dedi 
+     "İnternette şifre girilirken mutlaka sanal klavye kullanılmalıdır. Normal klavye ile yapılan işlemler uzaktan izlenebiliyor ve şifre kolaylıkla alınabiliyor. Sanal klavyede ise böyle bir durumla karşılaşmak neredeyse imkansız. Bu yüzden kullanıcıların kredi kartını kullandıkları her alanda çok dikkatli olması gerekiyor." 
+     
+</TEXT>
+</DOC>

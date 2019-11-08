@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 225328 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/25/ekonomi/eko05.html </URL>
+<DATE> 2004/03/25/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft'a yarım milyar euro ceza 
+</HEADLINE>
+<TEXT>
+
+   Beş yıllık AB, Microsoft kavgası yarım milyar euro'luk cezayla sona erdi 
+   GÜVEN ÖZALP Brüksel 
+   
+   AB Komisyonu Microsoft'a karşı 5 yıl önce başlattığı soruşturmada son noktayı koydu. Microsoft'a 497.2 milyon euro gibi rekor bir ceza kesen Komisyon, şirketin işletim sistemi Windows'un bazı sırlarını rakipleriyle paylaşmasını da istedi. 
+   Komisyonun rekabetten sorumlu üyesi Mario Monti tarafından açıklanan ve Microsoft'un bilgisayar yazılım sektöründeki tekele yakın konumunu kötüye kullandığı sonucuna varılması üzerine verilen ceza, AB tarihindeki en ağır maddi ceza. 
+   Kararda, ayrıca, 3 ay içinde Windows'un Media Player içermeyen versiyonunun piyasaya sürülmesi isteniyor. AB'nin daha şeffaf bir Windows görmek istediğini söyleyen Monti, kararın ne AB ne de ABD yasalarını çiğnemediğinin altını çizdi ve "Bizim kararımız tüketicinin hakkını korumak" dedi. 
+   Microsoft kararı Lüksemburg'daki AB İlk Derece Mahkemesi'nde temyiz edeceğini açıkladı. 
+   
+   
+</TEXT>
+</DOC>

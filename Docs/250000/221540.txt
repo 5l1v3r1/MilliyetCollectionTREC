@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 221540 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/11/son/soneko40.html </URL>
+<DATE> 2004/03/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Merkez Bankası İktisadi Eğilim Anketi... 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası, Reel Kesim Güven Endeksi'nde Ocak ayında başlayan düşüş eğiliminin Şubat ayında da yavaşlayarak devam ettiğini bildirdi. 
+     Merkez Bankası, Reel Kesim Güven Endeksi ile İktisadi Eğilim Anketi Şubat ayı genel değerlendirme sonuçlarını açıkladı. 
+     Reel Kesim Güven Endeksi, Şubat ayında Ocak ayına göre yüzde 1.3 oranında azalarak 103.3 seviyesine geriledi. 
+     Reel Kesim Güven Endeksi'nde geçen ay görülen bu düşüş büyük ölçüde Şubat ayı ile ilgili mevsimsel etkilerden kaynaklanırken, bu etkilerden arındırıldığında önemli bir değişikliğin olmadığı gözlendi. 
+     Bir yıl öncesine göre karşılaştırma yapıldığında ise, endeksin yüzde 10.4 arttığı görüldü. 
+     Reel Kesim Güven Endeksi'nin azalış eğilimini Mart ayı ile takip eden aylarda da sürdürmesinin, sanayi üretim endeksi artış hızında bir miktar yavaşlama işareti olarak değerlendirilebileceği ifade edildi. 
+     Endeksi oluşturan anket sorularına ait yayılma endeksleri Ocak ayına kıyasla incelendiğinde, genel gidişat kalemi yüzde 7.8 oranındaki düşüşle en fazla azalan kalem oldu. 
+     Bu düşüşü, ihracat imkanları beklentisindeki yüzde 3.3 oranındaki azalış takip ederken, iç pazara satılan mal hacmi ve toplam sipariş eğilimindeki gerilemenin, mevsimsel etkilerden kaynaklandığı gözlendi. 
+     Üretim hacmi beklentisi ile hammadde stok eğilimi ise endekse pozitif yönde etki eden kalemler oldu. Diğer alt kalemlerden yatırım harcaması beklentisi yüzde 1.1 oranında azalırken, mamul mal stok eğiliminde önemli bir değişiklik gözlenmedi. 
+     Bir önceki yılın Şubat ayı ile karşılaştırıldığında, hammadde ile mamul mal stok eğilimleri haricindeki tüm kalemlerin geçen seneki seviyelerinin üstünde değerler aldığı görüldü. 
+     Güven endeksi, üst düzey yöneticilerin bugünkü iş durumlarını nasıl değerlendirdiklerini ve geleceğe ilişkin beklentilerinin bir fonksiyonu olan toplulaştırılmış gösterge niteliğini taşıyor. 
+     Bu kapsamda 100 değeri, ekonomik faaliyetlere ilişkin istikrarlı görünümü ifade ederken, bunun altındaki değer ''güvenin azaldığı'', üstündeki değer ise ''güvenin arttığı'' anlamına geliyor. 
+     
+</TEXT>
+</DOC>

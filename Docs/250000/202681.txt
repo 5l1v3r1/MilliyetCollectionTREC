@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 202681 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/17/son/sondun09.html </URL>
+<DATE> 2003/12/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Apple, 25 milyon şarkı sattı... 
+</HEADLINE>
+<TEXT>
+
+     Apple bilgisayar firması, tanesine 99 sent ödenerek internet üzerinde indirilen şarkılardan şimdiye kadar 25 milyon adet sattığını açıkladı. 
+     İnternetten geçen cuma günü öğleden sonra indirilen 25 milyonuncu şarkının, Frank Sinatra'nın söylediği ''Let it snow'' adlı Noel şarkısı olduğu bildirildi. 
+     Apple firması, bu amaçla internette ''iTunes'' adıyla sanal bir müzik market açmıştı. İndirilen şarkılar, yine Apple tarafından üretilen iPod adlı portatif müzikçalarlarla istenilen yerde dinlenebiliyor. 
+     Apple, geçen ekim ayından bu yana yaklaşık 1 milyon dolarlık ''iTunes hediye çeki'' satıldığını da açıkladı. Apple'ın ''iTunes'' sitesinden, hem Mac, hem de Windows işletim sistemiyle çalışan bilgisayarlara müzik indirilebiliyor. Ancak bu şarkılar sadece iPod adlı müzikçalarla dinlenebiliyor. 
+     Firma, satılan müziklerin daha çok Mac mı, yoksa Windows platformunda mı olduğunu ise açıklamadı. 
+     Halen haftada yaklaşık 1.5 milyon şarkı sattığı ifade edilen Apple'ın başlattığı internet üzerinden şarkı satma işinin büyük ilgi görmesi üzerine, pek çok firma bu alana girdi. Bunlar arasında Loudeye Corp. adlı dijital medya kuruluşu ile yazılım devi Microsoft firması da bulunuyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 227573 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/01/son/soneko08.html </URL>
+<DATE> 2004/04/01/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası'nda Dow Jones düştü, Nasdaq yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası Wall Street'te Dow Jones Sanayi Endeksi 24.00 puan yüzde 0.23 düşerek 10,357.70 puandan kapandı. 
+     Teknoloji firmalarının ibresi Nasdaq Birleşik Endeksi ise 6.41 puan yüzde 0.32 artışla 1,994.22 puandan günü noktaladı. 
+     
+</TEXT>
+</DOC>

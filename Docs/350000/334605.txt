@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 334605 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/18/son/sonyas16.html </URL>
+<DATE> 2005/04/18/ </DATE>
+<TIME> 16.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kanserli hücrelerin teşhisinde yeni yöntem... 
+</HEADLINE>
+<TEXT>
+
+     Alman bilim adamları, kanserli hücrelerin teşhisinde kullanılabilecek yeni bir yöntem geliştirdi. 
+     Alman Spiegel dergisinin haberine göre, Leipzig Üniversitesi bilim adamlarının geliştirdiği yöntemde, hücreler tek tek, lazer yardımıyla bir çeşit ''Filistin askısında'' geriliyor. 
+     Hastalıklı hücreler gerilmeye fazla direnç göstermeden kolaylıkla ''uzarken'', sağlıklı hücreler gerilime direniyor ve şekil değiştirmiyor. 
+     Hücrenin gerilime karşı gösterdiği zayıf dirence paralel olarak, kanserin hangi safhada olduğu, muhtemel metastazların bulunup bulunmadığı da hesaplanabiliyor. 
+     Araştırma başkanı, fizikçi Jochen Guck, normal kanser testleri için belirli miktarda doku örneğine ihtiyaç olduğunu, bunun bir uzman tarafından alınması gerektiğini ve belirli bir maliyeti olduğunu, oysa geliştirdikleri yöntemde 50 adet hücrenin teşhis için yeterli geldiğini, ağız içinden alınacak tükürük örneğinin, ağız ve gırtlak kanserlerinin teşhisinde kullanılabileceğini söyledi. 
+     Guck ve araştırmada görevli Josef Kaes, hızlı sonuç veren yöntemin maliyetinin çok düşük olduğunu, gereksiz ameliyat ve kemoterapi tedavilerini engelleyebileceğini kaydetti. 
+     Uzmanlar, yöntem ile ilgili yorum yapmadan önce klinik deneylerin sonuçlarının görülmesi gerektiğini belirtiyor. 
+     
+</TEXT>
+</DOC>

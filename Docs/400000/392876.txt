@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 392876 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/07/son/sontur25.html </URL>
+<DATE> 2005/11/07/ </DATE>
+<TIME> 15.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yeni internet dolandırıcılığı yöntemi... 
+</HEADLINE>
+<TEXT>
+
+     Son günlerde karşılaşılan interaktif dolandırıcılık suçlarının, sistemli olarak ve genellikle Rusya’dan internette bağlanan kişiler tarafından gerçekleştirildiği bildirildi. 
+     Emniyet Genel Müdürlüğü Kaçakçılık ve Organize Suçlarla Mücadele Daire Başkanlığı’nın web sitesinde yer alan açıklamada, bankacılık işlemlerinin internet üzerinden yapılmasıyla zaman ve emekten tasarruf sağlandığı, müşterilere kendi hesaplarını yönetme imkanı tanındığı ifade edildi. 
+     Açıklamada, sağlanan bu faydaların yanı sıra gerek kullanıcıların yeterli özeni göstermemesi, gerekse güvenlik önlemleri hakkındaki bilgi eksikliklerinin, banka müşterilerinin mağdur olmalarına yol açtığı belirtildi. 
+     Son günlerde karşılaşılan interaktif dolandırıcılık suçlarının sistemli olarak işlendiği ve genellikle Rusya’dan internete bağlanan kişilerce gerçekleştirildiğine dikkat çekilen açıklamada, yeni internet dolandırıcılığı hakkında şu bilgiler veriliyor 
+     "İnternet üzerinden bağlantı olarak kullanacağı şahısla temasa geçen ve kendisinin Türkiye’deki kişi veya kuruluşlarla ticari ilişki içinde olduğunu ifade eden kişi, ’belirli meblağlarda para alacağının olduğunu, ancak Rusya’da ticari verginin yüksek olması nedeniyle yüzde 15-30 oranında kesinti yapıldığını’ belirtir. Ayrıca gerçek kişiler 
+     arasında yapılan para transferlerinde verginin çok düşük olduğunu söyleyerek, internette tanıştığı Türkiye’deki şahıstan kendisine yardım etmesini ister. Dolandırıcı, kendi banka hesabını vermesi halinde müşterisinin onun hesabına parayı aktaracağını, emeği karşılığında yüzde 5-10 oranında parayı aldıktan sonra kalan meblağı Western-Union ile kendisine göndermesini ister. Rusya’daki dolandırıcı, internet bankacılığı şifrelerini ele geçirdiği kişinin hesabındaki parayı doğrudan Rusya’ya havale edemediği için, aracı kullanarak kendisine göndermenin yolunu bu şekilde bulmuştur." Açıklamada, karşılaşılan bu tarz olaylar üzerine, Kaçakçılık ve Organize Suçlarla Mücadele Daire Başkanlığı’nın Yüksek Teknoloji Suçları ve Bilişim Sistemleri Şube Müdürlüğü’nce gerekli inceleme ile ulusal ve uluslararası girişimlerin yapıldığı kaydedildi. 
+     
+</TEXT>
+</DOC>

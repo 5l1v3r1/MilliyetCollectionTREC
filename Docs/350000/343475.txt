@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 343475 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/17/son/sonyas27.html </URL>
+<DATE> 2005/05/17/ </DATE>
+<TIME> 17.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Uzay istasyonunun oksijen jeneratörü bozuldu 
+</HEADLINE>
+<TEXT>
+
+     Uluslararası Uzay İstasyonu’nun UUİ 
+     Rus malı oksijen jeneratörünün bozulduğu, ancak iki kişilik mürettebatın 5 ay yetecek kadar oksijen rezervlerinin bulunduğu bildirildi. 
+     Amerikan Havacılık ve Uzay Dairesi NASA yetkilileri, uzay istasyonunun ana oksijen jeneratörünün geçen hafta bozulduğunu ve mürettebatın tamir etmekte başarılı olamadığını belirttiler. 
+     Rus kozmonot Sergey Krikalev ve Amerikalı astronot John Phillips’in, tamir için gerekli parçaların Ağustos’a kadar gelinceye dek rezervleri birbirine bağladıkları ve böylece 140 gün yetecek oksijen elde ettikleri kaydedildi. 
+     NASA yetkilileri, Haziran ortasında uzaya gönderilecek Rus Progress füzesiyle UUİ’ye oksijen desteği gönderileceğini kaydettiler. 
+     
+</TEXT>
+</DOC>

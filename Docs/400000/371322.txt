@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 371322 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/19/son/sonyas07.html </URL>
+<DATE> 2005/08/19/ </DATE>
+<TIME> 10.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Telefonunuzla konuşmak ister misiniz 
+</HEADLINE>
+<TEXT>
+
+     Cep telefonlarına komut verme dönemi yakında başlıyor. Geliştirilen yazılımla, eczane arayan birinin, cep telefonuna başım ağrıyor demesi, eczane bilgisinin görüntülenmesi için yeterli olacak. 
+     Sybase’in geliştirdiği "Answers Anywhere" isimli yazılımda, GSM sistemi üzerine kurulan robot yazılım, kullanıcıdan gelen sesli komutları sınıflandırdıktan sonra istenilen bilgileri, telefonun modeline göre yine SMS, MMS ya da e-mail olarak cep telefonuna gönderiyor. 
+     A.A muhabirinin sorularını yanıtlayan Sybase Türkiye Genel Müdürü Levent Şensezgin, otomotiv sektöründe bir süredir denenen ve yapay zeka teknolojisine dayanan sesli komut sistemini cep telefonu teknolojisine uyarladıklarını bildirdi. 
+     Şensezgin, sistemi şöyle anlattı 
+     "İstanbul’da yaşıyorsunuz ve Ankara’ya gittiniz. Hiç bilmediğiniz bu şehirde yolunuzu kaybederseniz bütün yapmanız gereken operatörün vereceği numarayı arayarak örneğin Esenboğa Havalimanı’na gitmem lazım demek. 
+     Bu cümle içerisindeki Esenboğa Havalimanı kelimelerini gören robot yazılım, baz istasyonundan sizin o anki yerinizi sadece bir kaç metre hatayla tespit ettikten sonra hangi yolu izleyerek havalimanına gideceğinizi, kullandığınız telefonun modeline göre SMS, MMS ya da e-mail olarak cep telefonuna gönderiyor. Bütün bu işlemler de bir kaç saniyede gerçekleştiriliyor." Sistemi Türkiye’de hayata geçirmek için GSM operatörleri ile görüşmelerin sürdüğünü belirten Şensezgin, kısa bir süre sonra sistemin Türkiye’de de çalışacağını belirtti. 
+     Şensezgin, sözlerini şöyle sürdürdü 
+     "Answers Anywhere, geliştirme uzmanlarına, kullanıcıların ihtiyaçlarını bilen ve öngören, sezgi gücü yüksek uygulamalar geliştirme imkanı veriyor. Bu uygulamalar, kullanıcıyla diyalog kuruyor sorulan sorulara yanıt verebiliyor. 
+     Doğal dil özelliği sayesinde, lisan ve diksiyon fark etmeksizin, karşı tarafla tamamen sesli etkileşimde bulunabiliyorsunuz. Bugün, Orange Telecom’da ve Toyota’da bu teknoloji kullanılıyor. Toyota bunu Japonya’da arabalar ile servis arasındaki etkileşim ve yol bilgisi için, arabaların içinde kullanıyor. Şoför, konuşarak kendi ekranından birtakım bilgileri alabiliyor." 
+     
+</TEXT>
+</DOC>

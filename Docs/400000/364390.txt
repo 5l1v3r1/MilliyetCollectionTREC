@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 364390 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/26/son/soneko36.html </URL>
+<DATE> 2005/07/26/ </DATE>
+<TIME> 17.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Esenboğa, 600 kamerayla izlenecek... 
+</HEADLINE>
+<TEXT>
+
+     İnşaatı devam eden Ankara Esenboğa Havalimanı Terminali ve Katlı Otoparkı'nın, toplam 600 iç ve dış kamerayla izlenip, görüntülerin dijital ortamda kayıt altına alınacağı bildirildi. 
+     Elektrik elektronik sistemleri Anel Elektrik Taahhüt A.Ş. tarafından gerçekleştirilen Esenboğa Havalimanı terminaller ve katlı otopark inşaatında uygulanacak yeni sistemler konusunda açıklama yapan Anel Elektrik Taahhüt A.Ş. Sorumlusu Mustafa Yazlıkiçi, Esenboğa Havalimanı İç-Dış Hatlar ve Katlı Otopark İnşaatı'nda, çağın en yüksek teknolojik yeniliklerinin uygulamaya alındığını belirtti. 
+     Terminalin, yaklaşık 3 bin konuta yetecek kadar elektrik gücü kapasitesine sahip olduğunu belirten Yazlıkiçi, aynı zamanda kesintisiz olarak jeneratörlerle de sağlanabilen güvenli bir sistemim oluşturulacağını kaydetti. 
+     Terminal binasında, yangın algılama ve ihbar, dijital anons, kapalı devre televizyon, güvenlik ekipmanları dedektörler ve x-ray ler gibi sistemlerin birbiriyle haberleşerek çalışacağını ve merkezi olarak kontrol edileceğini anlatan Yazlıkiçi, aydınlatmaya da otomatik olarak bilgisayar kontrollü ve gün ışığına duyarlı olarak kontrol ve kumanda edileceğini, tüm elektrik ve elektronik sistemlerin bilgisayarla yönetileceğini vurguladı. 
+     Anel'in, Esenboğa'da da birçok ilke imza atacağını belirten Yazlıkiçi, ilgi alanlarında uygulayacakları projelerin, hayatı kolaylaştırıcı, güvenlikli ve ekonomik, modern mimarisi ve en son teknolojik özellikleriyle Ankara'ya yakışır bir terminal olacağını kaydetti. 
+     Avrupa'da son 5 yılda yapılan Atina Venizelos ve Münih 2. Terminali'nden daha teknolojik olarak gerçekleştirilen Esenboğa Terminali'nin, Avrupa'nın en modern terminali olacağını vurgulayan Yazlıkiçi, tomografik X-Ray cihazların uçağa giden her bagajı yabancı maddeye karşı son kez otomatik olarak tarayacağı, güvenliğin en üst düzeyde tutulacağı yeni terminale ölü nokta bırakmayan dijital 600 kamera sistemi yer alacağını bildirdi. 
+     
+</TEXT>
+</DOC>

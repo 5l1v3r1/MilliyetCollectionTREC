@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 363378 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/22/son/soneko12.html </URL>
+<DATE> 2005/07/22/ </DATE>
+<TIME> 10.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tüketici güven endeksinde düşüş... 
+</HEADLINE>
+<TEXT>
+
+     Tüketici Güven Endeksi, bu yılın Haziran ayında, bir önceki aya göre 1.2 puan yüzde 1.29 azalarak 99.1'e indi. Endeks, Haziran ayında 100.3 düzeyindeydi. 
+     Güven endeksindeki düşüş, ''tüketicilerin, gelecek dönem satın alma güçlerine, genel ekonomik duruma ve iş bulma olanaklarıyla mevcut dönemin dayanıklı tüketim malı satın almak için uygunluğuna dair değerlendirmelerinin kötüleşmesinden'' kaynaklandı. 
+     Devlet İstatistik Enstitüsü DİE ile Merkez Bankası tarafından her ay ortaklaşa düzenlenen ve tüketicilerin harcama davranış ve beklentilerinin değerlendirildiği Tüketici Eğilim Anketi'nin Haziran ayı sonuçları açıklandı. 
+     Endeksin alt kalemleri ve değişim oranlarına bakıldığında ise mevcut dönemde satınalma gücü endeksi, Mayıs ayına göre artarak 89.6'dan 90.1'e çıktı. 
+     Gelecek dönem için satın alma gücü endeksi 94.8'den 93.8'e, gelecek dönem iş bulma olanakları endeksi 88.4'den 86.2'ye, gelecek dönem genel ekonomik durum endeksi 95.9'dan 93.6'ya, mevcut dönemin dayanıklı tüketim malı satın alma için uygunluğu endeksi 133.1'den 131.5'e geriledi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> 326048 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/22/son/sonyas11.html </URL>
+<DATE> 2005/03/22/ </DATE>
+<TIME> 10.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Şimdi de MMS virüsü 
+</HEADLINE>
+<TEXT>
+
+     Cep telefonlarının daha yetenekli ve akıllı hale gelmesinin ardından virüslerin ziyareti de gecikmedi. Geçtiğimiz sene Cabir adlı ilk virüsle tanışan cep telefonları şu günlerde CommWarrior adlı yeni bir virüsle mücadele ediyor. Benzerlerinin aksine bu virüs yayılmak için MMS mesajlarını kullanıyor. Telefonun adres defterindeki herkese kendisinin bir kopyasını yolladıktan sonra mesajı ve ekindeki uygulamalayı açan her telefona kendini aynı yöntemle bulaştırmaya devam ediyor. Dolayısıyla cep telefonu faturalarına da hayli yüklü bir anıyı da bırakmış oluyor. Sadece Nokia'nın Symbian Series 60 kullanan telefonlarına bulaşan bu virüsten korunmanın en kolay yolu tanımadığınız kişilerden gelen mesajları açmamak, tanıdıklarınızdan gelenlerinse içeriğine dikkat etmek. 
+     
+</TEXT>
+</DOC>

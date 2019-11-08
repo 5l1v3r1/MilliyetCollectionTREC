@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 309008 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/24/son/sonyas14.html </URL>
+<DATE> 2005/01/24/ </DATE>
+<TIME> 11.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İngilizler için en depresif gün 24 Ocak 
+</HEADLINE>
+<TEXT>
+
+     Bilimsel hesaplamalara göre, İngilizler bugün yılın en kötü ve depresif gününü yaşıyor. 
+     İngiltere'nin Cardiff Üniversitesi'nde mevsimlere bağlı sıkıntılar konusunda uzman psikolog Dr. Cliff Arnall'ın, insanların çeşitli mevsimsel duygularının yanı sıra dış etkenleri göze alarak oluşturduğu bir formül uyarınca İngiliz halkı yılın en berbat gününü yaşıyor. 
+     Dr. Arnall, formülünü hava durumu W , borç D , aylık maaş d , Noel'den bu yana geçen zaman T , zararlı alışkanlıkları bırakma girişimden bu yana geçen zaman Q , düşük güdülenme seviyeleri M ve harekete geçme ihtiyacı NA olarak nitelediği 7 etmenle oluşturdu. 
+     İngiliz bilim adamının, mutluluğu belirleyen denklemi şöyle 
+     W D-d x TQ M x NA 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 364638 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/27/son/sondun26.html </URL>
+<DATE> 2005/07/27/ </DATE>
+<TIME> 13.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Discovery, hasar tespiti yapıyor 
+</HEADLINE>
+<TEXT>
+
+     Uzay mekiği Discovery, göreve başlayışından yaklaşık 12 saat sonra kalkışında meydana gelen olası hasarı tespite çalışıyor. 
+     NASA tarafından uyandırılan Discovery'nin 7 kişilik mürettebatı, TSİ 09.00'da 15 metrelik robot kolu çalıştırarak, mekiğin kanatları ve burnundaki olası hasarı kontrol etti. 
+     2,5 yıl aradan sonra ilk mekik uçuşu için dün fırlatılan Discovery'nin tırmanışının ilk iki dakikası sırasında gövdesinden iki parçanın koptuğu tespit edilmişti. 
+     NASA'nın uçuş sorumlusu John Shannon, parçalardan birisinin mekiğin burnundaki iniş takımından kopan 3,8 cm civarında bir seramik parçası olabileceğini, diğerini ise tahmin edemediğini söyledi. Kopan parçaların mekiğe çarpmadığı tahmin ediliyor. 
+     Kanada yapımı robot kolla mekiğin burnu ve kanatlarında yapılacak hasar tespiti çalışmasının her biri 1,5 saat süren 3 aşamadan oluşacağı, toplanan veri ve görüntülerin incelenmek üzere dünyadaki NASA mühendislerine gönderileceği belirtildi. 
+     Mekiğin, yarın Uluslararası Uzay İstasyonu'na kenetlendikten sonra termal kalkanı ve dış yüzeyinin de ayrıntılı olarak incelenmesi bekleniyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 230027 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/09/son/sonyas03.html </URL>
+<DATE> 2004/04/09/ </DATE>
+<TIME> 09.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York'ta 'sürücüsüz metrolar' yola çıkıyor... 
+</HEADLINE>
+<TEXT>
+
+     New York'ta gelecek yıldan itibaren bazı metro hatlarında ''sürücüsüz trenler'' kullanılacak. İlk uygulamanın Manhattan ile Willimasburg arasındaki L ve 7 numaralı hatlarda başlayacağını belirten New York Toplu Taşım İdaresi MTA yetkilileri, yeni yöntem sayesinde metroların daha sık gelmesinin sağlanacağını, böylece işe gidiş ve çıkış saatlerinde daha fazla yolcu taşımanın mümkün olacağını ifade ettiler. 
+     Otomatik sistem, trenler arasındaki mesafeyi asgariye indirdiği gibi, bu mesafenin sürekli aynı kalmasını da sağlıyor. Sistemin bir diğer özelliği ise, bir arıza meydana geldiğinde treni otomatik olarak ilk istasyona kadar götürmesi. Sistemde elektrik kesilmesi gibi beklenmedik bir arıza olması durumunda ise tüm trenlerin hızı anında 15 km'ye düşecek. 
+     287 milyon dolara mal olacak yeni sistem, yine de 24 saat görev yapacak teknisyenler tarafından denetlenecek ve teknisyenler, olağanüstü bir durum halinde otomatik sistemi devre dışı bırakabilecek. 
+     Yetkililer, tüm New York metro şebekesinin 2025 yılında yüzde 100 otomatik hale geleceğini ve tüm trenlerin sürücüsüz olacağını da açıkladı. 
+     Otomasyonun yanı sıra metro istasyonlarının da modernleştirileceğini belirten yetkililer, bu bağlamda istasyonlara yerleştirilecek ekranlarda bir sonraki trenin kaç dakika sonra geleceği ya da hizmette aksama olup olmadığı gibi bilgilerin görüleceğini kaydetti. 
+     
+</TEXT>
+</DOC>

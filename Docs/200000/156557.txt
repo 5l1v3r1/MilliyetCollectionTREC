@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 156557 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/14/son/sondun02.html </URL>
+<DATE> 2003/05/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+NASA, sel felaketlerini önceden belirlemeye başladı... 
+</HEADLINE>
+<TEXT>
+
+     Amerikan Havacılık ve Uzay Dairesi NASA tarafından 1997 yılında uzaya gönderilen bir uydu, dünyadaki sel felaketlerini önceden haber verebiliyor. 
+     ''Tropical Rainfall Measuring Mission TRMM '' adlı uydu, dünya yörüngesindeki diğer uydularla haberleşerek, elde edilen bilgileri NASA merkezine ulaştırıyor. Bilim adamları, gelen bilgileri analiz ederek, dünya yağmur haritasını belirleyebiliyor. 
+     NASA uzmanları, 24 saatlik, 3 günlük ve haftalık yağmur haritaları hazırlıyor. Uydunun küresel olarak yağmur düşecek bölgeleri kapsayan haritası ise her üç saatte bir yenileniyor. 
+     Yörüngede bulunan diğer meteoroloji uyduları, ancak sel felaketi meydana geldikten sonra, sel bölgelerinin yerlerini saptayabiliyor. TRMM uydusu ise yağmur bulutlarını gözleyerek, hangi bölgeye ne kadar yağmur yağacağını gerçek zamanlı olarak belirleyebiliyor. 
+     Uydunun verdiği hizmetin ayrıca yağmur bekleyen çiftçiler açısından faydalı olabildiğine işaret ediliyor. 
+     Uydu ile elde edilen haftalık görüntüler ile karada ve okyanuslarda fırtınaların izleyeceği yol takip edilebiliyor. 
+     TRMM projesinin, NASA bilim adamlarına, dünyada meydana gelen doğal afetler ve dünyanın iklim şartları ile ilgili bilgi verebildiği belirtiliyor. 
+     TRMM uydusu ile ilgili internet sitelerinin adresleri şöyle 
+     http www.gsfc.nasa.gov topstory 2003 0425floods. 
+     http trmm.gsfc.nasa.gov 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 390091 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/27/son/sondun25.html </URL>
+<DATE> 2005/10/27/ </DATE>
+<TIME> 14.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kuş gribinin H7N1 türü için aşı geliştirildi 
+</HEADLINE>
+<TEXT>
+
+     Avrupalı bilimadamlarının, kuş gribinin, kuşlardan insanlara geçebilen, ancak H5N1 türü kadar tehlikeli olduğu sanılmayan H7N1 türü için aşı geliştirdiği bildirildi. 
+     Avrupa Birliği AB sözcüsü Philip Tod, İngiltere, İtalya, Fransa ve Norveç'ten uzmanların yeni bir teknik kullanarak geliştirdikleri aşının, küresel çapta bir grip salgını durumunda aşı üretimini hızlandıracağını söyledi. 
+     AB açıklamasında, H7 tipi kuş gribinin grip salgınına yol açma riskinin H5N1 türünden daha az olmasına rağmen, H7 tipi kuş gribi aşısına ilişkin araştırmanın, olası salgın durumunda geliştirilecek aşı için önemli bir kaynak olacağı belirtildi. 
+     H5N1 tipi kuş gribinin de insanlara kolaylıkla bulaşmadığı biliniyor. Ancak bu kuş gribi türü, Asya ülkelerinde son iki yılda çoğu kümes hayvanları üzerinde çalışan 100'den fazla kişiye bulaştı ve bunlardan 60 civarında kişi öldü. 
+     Bilimadamları, kuş gribinin mutasyona uğrayarak, insandan insana geçen bir türe dönüşmesinden ve bunun da tehlikeli bir grip salgınına yol açmasından endişe ettiklerini açıklamıştı. 
+     
+</TEXT>
+</DOC>

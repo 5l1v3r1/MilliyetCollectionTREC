@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 361351 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/15/son/soneko10.html </URL>
+<DATE> 2005/07/15/ </DATE>
+<TIME> 11.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Güneydeki "KGS", Eylül'e kaldı... 
+</HEADLINE>
+<TEXT>
+
+     Karayolları Genel Müdürlüğü tarafından, 5. Bölge Müdürlüğü sınırlarındaki otoyollarda, Mayıs ayının sonlarına doğru uygulanması hedeflenen Kartlı Geçiş Sistemi'nin KGS devreye girmesinin, ithal edilecek elektronik parçaların teminindeki güçlük nedeniyle Eylül sonuna ertelendiği bildirildi. 
+     Karayolları 5. Bölge Müdürü Mahmut Çelikcan, kaçakların önlenmesi ve gişelerde araç yoğunluğunun azaltılması amacıyla geliştirilen KGS'nin, bölge müdürlüğüne bağlı Adana, Mersin, Kahramanmaraş, Osmaniye, Gaziantep, Hatay ve Kilis'teki 30 otoyol istasyonunda Eylül ayı sonunda birer gişelerde devreye gireceğini belirtti. 
+     Çelikcan, özel olarak tasarlanan ve nakit ödemelere alternatif olarak geliştirilen ''chip''li kartların teknolojik altyapısının Karayolları ile Aselsan tarafından oluşturulduğunu söyledi. 
+     Uygulama için altyapı çalışmalarının sürdürüldüğünü, her istasyona en az bir adet KGS kurulacağını anlatan Çelikcan, pilot uygulamayı Eylül ayına yetiştirmeye çalışıltıklarını vurguladı. 
+     Çelikcan, uygulamadaki gecikmenin Aselsan'ın ithal edeceği elektronik parçaların teminindeki zorluklardan kaynaklandığını, bu sorunun giderilmesi için sürekli yazışmalar yapıldığını, bu sürede de alın gişelerinin tamamlanmaya çalıştıklarını ifade etti. 
+     Alın gişeleriyle Adana ve Mersin'deki trafiğin büyük oranda rahatlayacağını belirten Çelikcan, şu ana kadar Adana'da 2, Mersin'de 1 alın gişesinin yerleştirildiğini söyledi. 
+     Çelikcan, alın gişeleriyle Adana'da 60, Mersin'de ise 40 kilometrelik otoyolun ücretsiz hale getirildiğini, bunun ''yazlıkçı trafiği''ni rahatlatacağını dile getirdi. 
+     
+     OGS DE DEVREYE GİRECEK 
+     Çelikcan bu arada, İstanbul'daki Boğaziçi ve Fatih Sultan Mehmet Köprüleri'nde yaygın olarak kullanılan OGS'nin, Anadolu'daki otoyollarda da kullanılacağını belirtti. 
+     KGS'nin yanı sıra her istasyona bir Otomatik Geçiş Sistemi OGS de yerleştireceklerini ifade eden Çelikcan, şunları kaydetti 
+     ''Bu bölgede OGS'nin yoğunlukla kullanılacağını düşünmüyoruz. Bu nedenle her istasyonda bir gişeye OGS kurulacak. OGS, günde bir kaç defa gişeden geçmek zorunda olanlar için güzel bir uygulama. İstanbul'daki köprülerin sıklıkla kullanılması nedeniyle yaygın kullanımı var. Ancak, Anadolu'da genelde firma araçlarının bu sistemi kullanacağını düşünüyoruz. 
+     OGS ile KGS arasında büyük farklar yok. OGS'de araçtaki ile gişedeki manyetik okuyucu arasında bilgi akışı sağlanıyor. Böylece, otomatik olarak gişe ücreti hesaplarından düşülerek bariyerler açılıyor. KGS'de ise sürücü, kendisine verilen kartı gişeye okutmak zorunda. KGS, kullanıcılarına yüzde 20 indirim avantajı sağlarken, gişe suistamelleri, bozuk para gibi sorunları ortadan kaldırıyor.'' Çelikcan, 2006 yılının sonunda bölge müdürlüğüne bağlı tüm gişelerde KGS ve OGS sisteminin devreye gireceğini, ayrıca her istasyonda bir nakit ödeme gişesi bulunacağını sözlerine ekledi. 
+     
+</TEXT>
+</DOC>

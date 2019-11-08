@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 241516 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/20/son/sonyas05.html </URL>
+<DATE> 2004/05/20/ </DATE>
+<TIME> 11.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Nisan ayında bilgisayarlara en çok Netsky virüsü gönderildi 
+</HEADLINE>
+<TEXT>
+
+     Nisan ayının virüs şampiyonu Netsky oldu. 
+     Dünya çapında kurumsal iletişim ağlarını istenmeyen mesajlara ve virüslere karşı koruyan, MailWatch MW , Nisan ayı virüs raporunu açıkladı. 
+     Nisan ayında 228 milyondan fazla e-postayı tarayan MailWatch, 7 milyon 213 bin virüsün bloke edildiğini bildirdi. Mart ayında olduğu gibi, Nisan'da da en yaygın görülen virüs Netsky oldu. Nisan ayında durdurulan ilk 10 virüs şöyle 
+     "W32 Netsky.p MM, W32 Netsky.d MM, W32 Netsky.p MM zip, W32 Netsky.t MM, W32 Netsky.s MM, W32 Netsky.s MM, W32 Netsky W32 Netsky.q MM, W32 Netsky.b MM, W32 Netsky.c MM" EasyLink Ürün Pazarlama Başkan Yardımcısı Bill Fallon halen İnternet'te 25 farklı Netsky versiyonu olduğunu bildirdi. Fallon, "Tahminlerimize göre bu virüs yaz aylarında da etkisini koruyacak. dedi. 
+     
+</TEXT>
+</DOC>

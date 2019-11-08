@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 165099 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/24/yasam/yas13.html </URL>
+<DATE> 2003/06/24/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+SAĞLIK HATTI 
+</HEADLINE>
+<TEXT>
+
+Sipariş usulü bebek cinsiyeti      FRANKFURT Mİlliyet 
+
+     ABD'NİN Fairfax kentindeki Genetics IVF Enstitüsü, sipariş üzerine bebeğin cinsiyeti belirleyebiliyor. Enstitünün geliştirdiği "MicroSort" isimli cihaz, spermleri cinsiyeti belirleyen kromozomlara bölüyor ve kız cinsiyetinin belirlenmesinde etkin olan X kromozomu, erkek cinsiyetini belirleyen Y kromozomundan ayrıştırılıyor. Elde edilen spermler, suni döllenme yoluyla kadınlara naklediliyor. Şimdiye kadar 400 aileyi çocuk sahibi yapan Fairfax'ın belirlediği cinsiyet dağılımı şöyle 330 erkek, 70 kız. 
+     
+Gen durunca kanser başlıyor      DIŞ HABERLER 
+
+     İSKOÇYA'DA, İngiliz Kanser Araştırmaları Enstitüsü bilim adamları, yumurtalık kanserine, çalışmayan bir genin sebep olduğunu belirledi. Kanserin erken evrelerinde OPCML adlı gen, bilinmeyen bir nedenle kapanıyor ve kanser oluşumunu önleyen proteinlerin üretilmesi duruyor. Kanserli dokuya sağlıklı gen enjekte edilmesiyle protein üretimi yeniden başlıyor ve kanserli doku baskı altına alınıyor. Uzmanlar, kapanan OPCML genini yeniden çalıştıracak ilaçlar üzerinde araştırma yapacaklarını belirtti. 
+     
+
+</TEXT>
+</DOC>

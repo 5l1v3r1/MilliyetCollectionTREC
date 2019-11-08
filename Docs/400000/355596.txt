@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 355596 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/26/yazar/theper.html </URL>
+<DATE> 2005/06/26/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Tamer HEPER  </AUTHOR>
+<HEADLINE>
+Kefilin kefaleti son bulur 
+</HEADLINE>
+<TEXT>
+
+
+Okuyucularımdan biri, kiracısı ve kefili aleyhine dava açmış. Kefil, kira sözleşmesinin ilk yapıldığı dönemin bittiğini ileri sürerek sorumlu olmadığını bildirmiş. Şimdi okuyucum endişeli, biz kefili boşuna mı aldık diye sorar. 
+Doğrusunu isterseniz evet öyle, kefilin kefaletinin geçerliliği birtakım şartlara bağlı. Aynı problem kredi sözleşmelerindeki kefiller için de geçerli. 
+Kefilin kefaletinin geçerli olması için kefilin tüm sorumluluğunun ne olduğunu bilmesi şart. Örneğin kredi sözleşmelerinde kefilin faiz oranlarını bilmemesi yani eskiden yapıldığı üzere faiz hanesinin boş bırakılması durumu veya borç miktarının sözleşmede yazılı olmaması hallerinde kefilin kefaleti geçersizdir. Kira sözleşmelerinde de, kefil sözleşmeyi imzaladığında sorumluluklarını biliyor olabilir. Ancak sözleşme uzayıp da şartlar değiştiğinde artık kefil sorumluluğunu bilmiyordur ve bu nedenle sözleşmenin uzaması durumunda kefilin sorumluluğu da son bulur. 
+İşte okuyucumun müşkül durumu buradan kaynaklanıyor. Kira sözleşmelerine, "Sözleşmenin uzaması halinde kefilin kefaleti de devam edecektir" ibaresinin konulması durumu kurtarmıyor. Yani bu cümle ile kefilin kefaleti geçerli hale gelmiyor. Bu cümleye şu şekilde bir ibare eklemek durumu kurtarabilir. 
+"Kefilin kefaleti sözleşmenin uzaması halinde devam edecektir, ancak kefil herhalde ..... YTL'ye kadar sorumludur." 
+Böyle bir ibarede kefil sorumluluğunun nereye kadar olduğunu bilebilecek duruma geleceği için bu durumda kefilin sorumluluğu devam eder. 
+Küçük bir hatırlatma daha Kefilin adi kefaletten ayrılması için müteselsil kefildir ibaresinin kullanılmasında yarar vardır. 
+
+
+
+</TEXT>
+</DOC>

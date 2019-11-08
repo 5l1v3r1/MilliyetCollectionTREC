@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 345017 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/23/son/soneko24.html </URL>
+<DATE> 2005/05/23/ </DATE>
+<TIME> 11.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tüketici Güven Endeksi geriledi... 
+</HEADLINE>
+<TEXT>
+
+     Tüketici Güven Endeksi bu yılın Nisan ayında, bir önceki aya göre yüzde 1.66 azalarak 100.4’e indi. Endeks, Mart ayında 102.1 düzeyindeydi. 
+     Güven endeksindeki düşüş, "tüketicilerin, mevcut ve gelecek dönem satın alma güçlerine, gelecek dönem genel ekonomik duruma ve iş bulma olanaklarına dair değerlendirmelerinin kötüleşmesinden" kaynaklandı. 
+     Devlet İstatistik Enstitüsü ile Merkez Bankası tarafından her ay ortaklaşa düzenlenen ve tüketicilerin harcama davranış ve beklentilerinin değerlendirildiği Tüketici Eğilim Anketi’nin Nisan ayı sonuçları açıklandı. 
+     Endeksin alt kalemleri ve değişim oranlarına bakıldığında ise mevcut dönemde satınalma gücü endeksi yüzde 89.8’dan 89.6’ya, gelecek dönem için satın alma gücü endeksi yüzde 95.8’den 94.2’ye, gelecek dönem genel ekonomik durum endeksi yüzde 100.5’den 97.1’e, iş bulma olanakları yüzde 90.5’den 87.4’e indi. 
+     Mevcut dönemin dayanıklı tüketim malı satın alma için uygunluğu endeksi ise yüzde 133.6’dan 133.4’e geriledi. 
+     
+</TEXT>
+</DOC>

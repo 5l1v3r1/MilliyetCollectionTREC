@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 255047 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/13/son/soneko03.html </URL>
+<DATE> 2004/07/13/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     New York menkul kıymetler borsasında Dow Jones endeksi, günü 25 puan artışla 10.238,22'den kapadı. 
+     Nasdaq endeksi ise 9,41 puan kayıpla 1.936,92'ye düştü. 
+     
+</TEXT>
+</DOC>

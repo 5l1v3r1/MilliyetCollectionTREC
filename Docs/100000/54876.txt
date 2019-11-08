@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 54876 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/11/30/son/sondun05.html </URL>
+<DATE> 2001/11/30/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayarlardan sonra şimdi de cep telefonlarında virüs tehlikesi 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayarların baş düşmanı olan bilgisayar virüslerinin cep telefonlarında görülmeye başlandığı bildirildi. 
+     İnternette yer alan habere göre, Black Hat Konferansı'nda www.blackhat.com yapılan bir saldırı denemesinde SMS mesajı gönderilen cep telefonu kilitlendi. 
+     ITSX şirketinden Job de Haas, ''sms client'' adlı bir yazılımla, SMS mesajı gönderdiği cep telefonunu bir daha açılamayacak şekilde kilitledi. 
+     Telefonu kurtarabilmek için ya yeni bir SIM kartı takmak ya da bir SMS yönetim yazılımı ile telefondaki SMS mesajını silmek gerekiyor. 
+     ''sms client'' adlı yazılımın Internet üzerinden çalışması da saldırının kaynağının gizlenmesine olanak tanıyor. 
+     İnternet analistleri, GSM şirketlerinin yazılımlarını kontrol etmeye başladıklarını ve her türlü yazılım boşluğunu kapatmayı amaçladıklarını belirtiyorlar. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

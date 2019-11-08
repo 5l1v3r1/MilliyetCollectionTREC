@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 398986 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/29/son/sonsiy03.html </URL>
+<DATE> 2005/11/29/ </DATE>
+<TIME> 09.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Mortgage'de seçenekli faiz 
+</HEADLINE>
+<TEXT>
+
+     Kamuoyunda, uluslararası adıyla "Mortgage" olarak bilenen Uzun Dönemli Konut Edindirme UDKE tasarısı, TBMM Başkanlığı’na sunuldu. Kredi faizinin belirlenmesinde "sabit, değişken veya her iki yöntem" olmak üzere üç alternatif sunan sistem, yapı kullanım izni alınmış konutlar üzerinde bankalar ve konut finansman şirketlerinin ipotek kurması yoluyla uygulanacak. 
+     Kısaca UDKE olarak adlandırılan Konut Finansman Sistemine İlişkin Çeşitli Kanunlarda Değişiklik Yapılması Hakkında Yasa Tasarısı'na göre faiz şartları alternatifli olacak. 
+     Faiz oranının sabit belirlenmesi durumunda sözleşmede, başlangıçta belirlenen oran her iki tarafın rızası dışında değiştirilemeyecek. Ancak bazı ödemelerin vadesinden önce yapılması durumunda kredi veren kuruluş tarafından tüketiciden erken ödeme ücreti talep edilebilecek. Tüketici, borcun tamamını değil de bir bölümünü ödemesi durumunda kalan miktar üzerinden bir ödeme daha yapacak. Bu ödeme, kalan miktara en fazla yüzde 2 oranında yansıtılabilecek. 
+     
+     Değişken yöntemde faiz indirimi 
+     Faizin değişken olarak belirlenmesi halinde ise tüketiciden erken ödeme ücreti talep edilemeyecek. Faiz oranı dönemsel geri ödeme tutarı, genel kabul görmüş ve yaygın olarak kullanılan bir endeks baz alınarak değiştirilebilecek. Bu yöntemin muhtemel etkileri konusunda tüketicilerin bilgilendirilmeleri şart olacak. Bu amaçla kullanılacak endeksler, Merkez Bankası'nca belirlenecek. Tüketici, borçlandığı toplam miktarı önceden ödeyebileceği gibi aynı zamanda bir ya da birden çok ödemeyi vadesinden önce yapabilecek. Her iki durumda da krediyi veren kuruluş, vadesinden önce ödenen taksitler için gerekli faiz indirimini yapacak. 
+     
+     İpoteğin paraya çevrilmesi 
+     İcra İflas Yasası değiştirilerek, borcun geri ödenmemesi durumunda ipoteğin paraya çevrilme süreci kısaltılacak. Yaklaşık 2 - 3 yıl alan bu sürecin, 2 - 3 aya indirilmesi hedefleniyor. Ödeme güçlüğüne düşen borçlulara anlaşma yolu da açık olacak. İpotek durdurma taleplerini zorlaştırmak amacıyla, borçlunun satışı durdurabilmesi için yatırması gereken teminat miktarı, alacağın yüzde 40'ı düzeyine çıkarılacak. 
+     
+     İpotekli sermaye piyasası 
+     Finansman kuruluşları, sermaye piyasası kurumu olarak tanımlanırken, bu konuda düzenleme yapma konusunda SPK'ya geniş yetkiler tanınıyor. İpotek finansmanı kuruluşları ve konut finansmanı kuruluşları, konut finansmanından kaynaklanan alacaklarına dayalı sermaye piyasası araçlarını yatırımcılara arz edebilecek. İpotekle teminat alınmış alacaklara dayalı olarak ihraç edilecek tüm sermaye piyasası araçları "ipotekli sremaye piyasası araçları" olarak adlandırılacak. Vergi yasalarında yapılan değişiklikle sürecin çeşitli aşamalarında ortaya ek vergilerin çıkması engellenecek. 
+     
+     Şener Hesabını iyi yapmalı 
+     Başbakan Yardımcısı Abdüllatif Şener, "İşin özü, burada vatandaşlarımızın rasyonel olarak, bütçe hesaplarını iyi yaparak kredileri almalarıdır" dedi. Tasarının, dünya deneyimi dikkate alarak hazırlandığını belirten Şener, "Vatandaşlar, kredi var diye konut fiyatlarının nerede olduğuna dikkat etmeden herhangi bir işleme girmemeleridir" dedi. Faiz oranı ve vadelerin piyasa koşullarında belirleneceğini vurgulayan Şener, ilk bakışta sabit faizin avantajlı göründüğünü, ancak değişken faizin de kredilerin düştüğü ortamda daha avantajlı olacağını söyledi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 307200 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/17/son/sonsiy13.html </URL>
+<DATE> 2005/01/17/ </DATE>
+<TIME> 12.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Milliyet'in CHP anketinin internet ayağı tamamlandı 
+</HEADLINE>
+<TEXT>
+
+     Milliyet'in "CHP'nin lideri kim olmalı " anketinin internet ayağı bugün saat 12 00'de sona erdi. 
+     Cuma günü başlayan ankete toplam 51 bin 917 kişi katıldı. 
+     Gazetede yayımlanan anket formlarının da toplanıp bilgisayar ortamına alınmasından sonra veriler değerlendirilip Tarhan Erdem tarafından bir rapor hazırlanacak. 
+     Sonuçlar, 26 ya da 27 Ocak günü Milliyet Gazetesi'nde yayımlanacak. 
+     İnternette yeralan anket ikili güvenlik sistemi ile korundu. Ankete hem her bilgisayardan hem de her IP adresinden sadece bir oy kullanılması sağlandı. 
+     Böylece anket sonuçlarının her türlü manipülasyon ve toplu girişimden uzak tutulması sağlandı. 
+     
+</TEXT>
+</DOC>

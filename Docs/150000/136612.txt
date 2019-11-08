@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 136612 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/02/13/son/sontur16.html </URL>
+<DATE> 2003/02/13/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sanal alem deyip geçmeyin 
+</HEADLINE>
+<TEXT>
+
+     Sanal alemde de normal hayatta uyulan kurallara uyulması, aynı davranış biçimlerinin devam ettirilmesi, internetin gelişimi açısından önem taşıyor. 
+     Internet Akademisi Derneği'nden yapılan açıklamaya göre, internet iletişim ağında gösterilen saygı ve dikkat, internetin gelişmesine katkıda bulunuyor. 
+     Bu nedenle İnternet Akademisi Derneği Etik Çalışma Grubu, internette uygulanması gereken davranış biçimlerini belirledi. Buna göre, internette dolaşırken uyulması gereken kurallar şöyle 
+     -Normal hayatta yapamadığınız faaliyetleri, ortamın sanal olduğunu düşünerek yapmayın. Çünkü internet de bir yaşam biçimidir. 
+     -Yaptığınız bir ileti pek çok kişiye ulaşabilmektedir. Bu nedenle okuyanların hassas olabileceği konularda sağlık, dini inanç, gelenekler gibi duygusal travma yaratacak ifadelerde bulunmayın. 
+     -Gerekli gereksiz her şeyi ''ben seni hatırlıyorum edasıyla'' arkadaşınıza iletmeyin. Karşı taraf bunu okumak için zaman, bağlantı için para harcamaktadır. Önemli gördüğünüz ve ilgisini çekebilecek konular sizinde saygınlığınızı arttırır. -İzinsiz reklam amaçlı mail göndermekten kaçının. Yapılan araştırmalar, bu tip davranışın satılan ürünle ilgili güvenirliliğin azaldığını göstermektedir. 
+     -Kaynağını bilmediğiniz, ''çok kötü durumdaki bir kişiye yardım edin'' veya ''virüs uyarısı var bu maili herkese ulaştırın'' şeklindeki maillerin sizin üzerinizden de yayılmasına fırsat vermeyin. 
+     -Size gelen bir maili arkadaşınıza aktarırken gerekmiyorsa size gönderen kişinin e-mailini gizleyin. Birden fazla kişiye mail gönderiyorsanız mesajları CC Carbon Copy ile değil, BCC Blind Carbon Copy ile gönderin, bu şekilde diğer adresler görülmeyecektir. 
+     -Büyük boyutlu fotoğraf gibi iletileri önemli değilse aktarmayın. Sizin bilgisayarınızdan o anda gidiyor gibi görülse de bu durum mail aktarım sistemlerinde yoğunluğa ve yavaşlamaya neden olmaktadır. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

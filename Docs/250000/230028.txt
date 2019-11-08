@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 230028 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/09/son/sonyas04.html </URL>
+<DATE> 2004/04/09/ </DATE>
+<TIME> 10.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Çalan cep telefonlarını susturacak alet yapıldı 
+</HEADLINE>
+<TEXT>
+
+     Teknoloji firmaları, çevrede çalan cep telefonlarını susturacak küçük bir cihaz geliştirdi. 
+     Merkezi Fairfax'ta bulunan ''Cell Block Technologies'' adlı firmanın ürettiği, sigara paketi büyüklüğündeki cihaz, çevrede bulunan cep telefonlarına ''hizmet verilemiyor'' sinyali göndererek, bu telefonları arayanların telesekretere yönlendirmesini sağlıyor. 
+     Halen bazı lokanta ve işyerlerinde kullanılan pahalı sistemler ise röle istasyonları ile cep telefonları arasındaki iletişimi engelleyerek jamming telefonların çalmasının önüne geçiyor. Ancak bu sistemlerin, kişiler tarafından kullanılması olasılığı yok. 
+     Yeni geliştirilen kişisel ''susturucular'', eBay gibi internet açık artırma siteleri aracılığıyla da pazarlanıyor. Satışları yapan internet sitelerinden birinde, tanesi 200 dolar olan cihazlardan şimdiye kadar binlerce adet satıldığı kaydedildi. 
+     Öte yandan, cep telefonlarının çalmasını engellemenin yasal olup olmadığı hukukçular arasında tartışma konusu oldu. 
+     Bazı kişiler engellemenin yasalara aykırı olduğu gibi, acil mesajları önleyeceği için tehlikeli de olduğu görüşünü savunuyor. Bu kişilere göre, ''Nasıl ambulans sesi duymak istemeyenler evlerinin önünden geçen yolu trafiğe kapatamazsa, cep telefonlarının çalması da engellenemez.'' Bu kaynaklar, cep telefonu şirketlerinin hükümet tarafından verilen lisanslar çerçevesinde faaliyet gösterdiğini, dolayısıyla bu şirketlerin faaliyetlerinin yasal olduğunu ve engellenemeyeceğini belirtiyorlar. ABD'de haberleşmeyi engellemenin cezası 11 bin dolardan başlıyor. Amerika'da henüz yaygın biçimde görülmeyen yeni cihazların, Japonya ve Fransa gibi sanayileşmiş ülkelerde, ayrıca Doğu Avrupa, Ortadoğu, Güney Asya ve Afrika ülkelerinde hızla yayıldığı bildirildi. Cihazların özellikle camiler, bankalar, cezaevleri ve elçilikler tarafından satın alınarak kullanıldığı ifade ediliyor. 
+     
+</TEXT>
+</DOC>

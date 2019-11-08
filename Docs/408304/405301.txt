@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 405301 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/21/son/sondun40.html </URL>
+<DATE> 2005/12/21/ </DATE>
+<TIME> 14.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kuş gribi aşısı, insanlarda denenmeye başlandı 
+</HEADLINE>
+<TEXT>
+
+     Çin'de üretilen kuş gribi aşısı, 6 kişi üzerinde denendi. Yeni Çin Haber Ajansı'nın bildirdiğine göre, denemeler için 18-60 yaşları arasında hepsi Pekin'de yaşayan sağlıklı 120 kişi başvurdu. 
+     Aşı yapılan kişilerde, yarım saat içinde herhangi bir olumsuz reaksiyon görülmedi. İlk üç hastadan ilk sonuçların alınması için dokuz ay gerektiği ifade edilen haberde, detaylı bilgi verilmedi. 
+     Çin'de şu ana kadar hayvanlar arasında 30'dan fazla H5N1 tipi kuş gribi vakası tespit edildi. Uzmanlar, virüsün şekil değiştirerek, insandan insana kolayca geçmesinden ve büyük bir salgın ortaya çıkmasından endişe ediyorlar. 
+     Çin de dahil Asya kıtasında insanlarda 139 vaka tespit edildi. Çin'deki 6 vakadan ikisi ölürken, Asya kıtasında toplam 71 kişi hayatını kaybetti. 
+     Aşı üzerinde çalışmaları yürüten Sinovac Biotech şirketinin yetkilisi geçen ay yaptığı açıklamada, aşının satışa sunulması için en az bir yıla ihtiyaç olduğunu söylemişti. 
+     Tayland ve Vietnam'daki kuş gribi vakalarının tespit edilmesinden sonra geçen yıl üzerinde çalışmalara başlanan Panflu adlı aşının hayvanlarda denenmesi tamamlandı. 
+     Uzmanlar, deneylerde kullanılan kuş gribi aşısının insandan insana kolayca bulaşan H5N1 virüsüne birebir etkili olmayabileceğine işaret ettiler. Mevcut teknolojiyle yeni bir grip aşısı üretmek altı ay ve daha fazla sürüyor. 
+     Şu anda, dört ilaçtan biri olan Roche firmasının Tamiflu adlı grip ilacı, virüsü tedavi etmiyor, ancak enfeksiyonun etkisini zayıflatıyor ve bazı vakalarda da önlüyor. Doktorlar, bunun mevsimlik griplerden daha az etkili olmasına rağmen, bir H5N1 salgınının kontrolüne yardımcı olacağına inanıyorlar. 
+     
+</TEXT>
+</DOC>

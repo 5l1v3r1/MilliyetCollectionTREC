@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 220261 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/06/son/soneko01.html </URL>
+<DATE> 2004/03/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones günü yükselişle kapattı... 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası Wall Street'te Dow Jones Sanayi Endeksi, ikinci seansı 7.55 puan binde 7 artışla 10,595.55 puandan kapandı. 
+     Teknoloji firmalarının ibresi Nasdaq Birleşik Endeksi ise 7.48 puan azalmayla binde 3.6 2,047.63 puandan günü noktaladı. 
+     Borsanın ilk seans düşüşünde ABD'de bugün açıklanan aylık işsizlik rakamları etkili oldu. ABD çalışma bakanlığının verileri, ekonomik canlanmanın göstergesi olarak istihdamda toparlanma bekleyen yatırımcıları hayal kırıklığına uğrattı. 
+     Haftalık seyirlerinde Dow Jones binde 1.1, Nasdaq da binde 9 yükseldi. 
+     
+</TEXT>
+</DOC>

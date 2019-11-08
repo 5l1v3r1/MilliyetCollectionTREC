@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 154780 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/06/son/sondun11.html </URL>
+<DATE> 2003/05/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Çin'de SARS protestosu... Köylüler 2 hastaneyi kuşattı 
+</HEADLINE>
+<TEXT>
+
+     Çin'de halkın, yerel yöneticilerin ''gizemli zatürree'' diye de adlandırılan akut solunum yetmezliği SARS hastalığının önlenmesi için aldıkları tedbirlere yönelik tepkisi büyüyor. 
+     Orta Çin'deki Henan eyaletinde köylüler, şüpheli SARS vakası olarak değerlendirilmelerini protesto etti. Köylüler, şehrin yakınındaki 2 hastaneyi kuşattı. 
+     Ülkenin güneyindeki Zhejiang eyaletinde de, dün başkent Pekin'den dönenlerin SARS şüphesiyle karantinaya alınması protesto edilmişti. 
+     
+     BİLGİSAYARLA İZLEME 
+     SARS, Çin'de yaşamın her alanını olumsuz etkilerken, yetkililer bu sorunu çözmek için yeni yollar arıyorlar. 
+     Başkent Pekin'de kısa süre sonra SARS hastaları bilgisayarla izlenecek ve temasta bulundukları kişiler de kontrol altına alınacak. 
+     Coğrafi bilimler ve Doğal Kaynaklar Araştırma Enstitüsü Başkanı Liu Jiyuan, bu sistemle öldürücü virüsün haritasının çıkarılabileceğini ve analiz ile izlemenin kolaylaşacağını belirtti. 
+     Halkın Günlüğü gazetesinin haberine göre, bu sistemle SARS hastalarının yaşadıkları ve çalıştıkları yerler, görüştükleri kişiler ile virüsün bulaşması olasılığının yüksek olduğu kişilerle ilgili veriler toplanacak. 
+     Liu, bu verilerin sağlanmasıyla salgının analizi ve olası tehlikelerle ilgili tahminlerin güçleneceğini belirtti. 
+     Sistemin 20 Mayıs'ta hizmete girmesi bekleniyor. 
+     
+</TEXT>
+</DOC>

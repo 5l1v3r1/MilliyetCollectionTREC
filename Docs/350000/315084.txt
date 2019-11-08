@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 315084 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/14/son/soneko22.html </URL>
+<DATE> 2005/02/14/ </DATE>
+<TIME> 11.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Otomobil dünyası... ABS, AC, MSR, ASR,BAS ne demek 
+</HEADLINE>
+<TEXT>
+
+     Otomotiv sektörünün son teknolojiyi kullanmasıyla ortaya çıkan birbirinden donanımlı araçlar, daha fazla konfor ve güvenlik sunmanın yanı sıra sürücülerin bilmek zorunda olduğu bazı elektronik kısaltmaları da beraberinde getiriyor. 
+     Türkiye'de bundan 10 yıl önce genellikle sade donanımlı otomobiller kullanan sürücülere, özellikle son 5 yıldır adeta teknoloji harikasına dönen araçlar daha büyük sürüş keyfi yaşatırken, bir yandan da otomobillerin elektronik donanımlarını en iyi şekilde öğrenmenin zorunluluğunu getiriyor. 
+     Sürüş güvenliğini en üst seviyeye çıkaran ve daha önceleri genellikle üst sınıf otomobillerde görülmesine alışık olunan elektronik donanımların, alt sınıftaki modellerde de yaygınlaşmaya başlaması sonucu, bir süre öncesine kadar ''AC Air Condition '', ''ABS Antiblock Brake System , ''EBD Electronic Brake Distributor '' gibi terimlere aşina olan sürücüler, artık ''ESP'', ''BAS'', ''MSR'', ''ASC T'' gibi kısaltmalarla da sıklıkla karşılaşıyor. 
+     Otomobil modellerinde kullanılan ve sürücülerin öğrenmek için neredeyse sözlük yardımına ihtiyaç duyacağı bazı elektronik donanımların kısaltmalarının anlamları şöyle 
+     ESP Elektronik Stabilite Programı ESP , sensörler sayesinde otomobilin seyir halinde çizgisini korumasına yardımcı olur. Böylece, araç savrulmadan stabil bir şekilde seyrini sürdürür. 
+     BAS ya da EBA ''Brake Assist System'' ve ''Emergency Brake Assist''in kısaltmaları olan BAS ve EBA, sürücünün fren pedalına sert basması halinde devreye girerek, fren gücünü tam olarak devreye sokar. 
+     ABS ''Antiblock Brake System''in kısaltması olan ABS, sürücülere, tekerlekler kilitlenmeden fren yapma olanağı sağlar. Ani frenler veya ıslak zeminlerde devreye giren ABS, kullanılan aracın manevra ve kontrol yeteneğini artırarak, sürücüye yardımcı olur. 
+     MSR ''Motor Schleppmomenten Regelung''un kısaltması olan MSR, özellikle kaygan zeminlerde, sürücünün ayağını gaz pedalından çekmesiyle oluşacak kaymayı, motor torkunu kullanarak önlemeye çalışır. 
+     ASR ''Anti Schlupf Regelung''un kısaltması olan ASR, araçların patinaja düşmeleri önler. Türkçe'ye antipatinaj sistemi olarak çevrilebilecek ''ASR'', patinaja geçildiğinde çekiş olan tekerleklere giden gücü kontrol eder ve tutunmayı sağlar. 
+     EBD ''Electronic Brake Distributor''ün kısaltması olan ''EBD'', fren yapılması halinde gücün ön ve arkadaki akslara dengeli şekilde dağılmasını sağlar. Böylece, güvenli fren yapılmasına yardımcı olur. 
+     ASC T ''Elektronik çekiş kontrol sistemi'' olarak tanımlanan sistem, aracı seyir halindeyken sensörler aracılığıyla sürekli takip eder. Sürücü, tehlike yaratacak durumlarda aracına gaz verse bile, sistem motor gücünü sınırlar. 
+     EPB veya APB Klasik el freninin yerine geçen bu sistemde, el freni, anahtar kontak yuvasından çıkarıldığında otomatik olarak devreye girer. Sistem, bazı modellerde, motor yeniden çalıştığında, bazı modellerde de bir butona basılarak devreden çıkarılır. 
+     Tiptronic Araçlardaki şanzımanın manuel ya da otomatik olarak kullanılmasına olanak sağlar. 
+     Cruise Control Otomatik hız kontrol sistemi olarak tanımlanan ''Cruise Control'' sürücü tarafından devreye sokulduğunda, aracın hızını sabitler. Sistem devreden çıkarılmak istendiğinde, gaza, frene ya da sistemi çalıştıran düğmeye yeniden basılması gerekir. Günümüzdeki bazı yeni nesil modellerde kullanılan, ''Akıllı Cruise Control'' ise sensörler aracılığıyla öndeki araçla olan mesafenin daraldığını tespit eder etmez, aracı yavaşlatır ve daha sonra hızı tekrar ayın seviyeye otomotik olarak getirir. 
+     SRS Otomobil kabinindeki sürücü ve yolcuların bir kaza anında korunması amacıyla geliştirilen ''Airbag'' veya ''SRS Suplementary Restraint System '', Türkçe'ye ''hava yastığı'' olarak geçti. Emniyet kemeriyle birlikte kullanılmaları halinde maksimum koruma sağlayan hava yastıkları, çarpışma sırasında, çok kısa bir süre içinde otomatik olarak devreye girer. 
+
+     
+</TEXT>
+</DOC>

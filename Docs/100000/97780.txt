@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 97780 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/07/24/son/sontur15.html </URL>
+<DATE> 2002/07/24/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Deprem raporu "İstanbul'daki hastaneler de zarar görecek" 
+</HEADLINE>
+<TEXT>
+
+     Boğaziçi Üniversitesi BÜ Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü'nce hazırlanan raporda, İstanbul'da 7.5 büyüklüğündeki olası bir depremde can kayıplarının yanı sıra çok sayıda yaralı olacağına dikkat çekilerek, deprem sonrasında sağlık hizmetlerinin aksamaması için sağlık kurumlarını içeren sistemli bir yapısal güçlendirme kampanyası başlatılması gerektiği vurgulandı. 
+     Amerikan Kızılhaç örgütünün, İstanbul'da olası büyük bir deprem sonrasında gereksinim duyulacak acil yardım, barınma ve sağlık hizmetlerinin lojistik planlamasında kullanılmak üzere hazırlanmasını istediği rapor, Enstitü'nün Deprem Mühendisliği Bölümü'nce tamamlanarak ilgili kuruluşa teslim edildi. 
+     Bölüm Başkanı Prof. Dr. Mustafa Erdik yürütücülüğünde Prof. Dr. Nuray Aydınoğlu, Prof. Dr. Özay Yüzügüllü ve ölümünden önce Prof. Dr. Aykut Barka ile Doç. Dr. Bilge Siyahi ve Doç. Dr. Eser Durukal'ın yanı sıra çok sayıda araştırma görevlisinin de katkısıyla hazırlanan ''İstanbul Metropolitan Alanında Deprem Riskinin Değerlendirilmesi'' başlıklı yaklaşık 400 sayfalık raporda, Marmara Denizi'nden geçen ana fayın kırılması ile oluşabilecek 7.5 aletsel büyüklüğünde bir depremin sonuçları ele alındı. 
+     Olası depremde meydana gelebilecek bina hasarları, bu hasarlarla ilgili mali kayıplar, can kayıpları ve yaralanmalar ile sağlık hizmetleri ve geçici barınma gereksinimlerinin bilimsel yöntemlerle tahmin edildiği belirtilen raporda, yapılan tahminlerin kent içindeki sayısal dağılımları, hazırlanan haritalar üzerinde ayrıntılı olarak gösterildi. 
+     Bina hasarlarının, Devlet İstatistik Enstitüsü bina sayımı verilerinin sınıflandırılması ile elde edilen envanter bilgileri esas alınarak, fay özellikleri ve yerel zemin koşullarına göre tahmin edildiği belirtilen raporda, İstanbul'daki hastanelerin ve diğer sağlık tesislerinin de olası bir şiddetli depremden büyük ölçüde etkileneceğine dikkat çekildi. 
+     
+     HASTANELERE YAPISAL GÜÇLENDİRME- 
+     Raporun ''sonuç'' bölümünde, yapılan çalışmanın, uluslararası kabul görmüş modern bilimsel yöntemler kullanılarak gerçekleştirilen bir hasar ve kayıp tahmini çalışması olduğu ifade edilerek, şunlar kaydedildi 
+     ''Rapor, özellikle deprem sonrası acil yardım ve sağlık hizmetleri ile geçici barınma gereksinimlerinin lojistik planlaması için rasyonel bir veri tabanı oluşturmaktadır. Lojistik planlamada, kullanıcıların raporda üretilen tüm sayısal bilgilere 'Coğrafi Bilgi Sistemi' GIS platformunda yaklaşık 400 metre x 600 metre boyutundaki küçük bölgeler bazında erişebilmesi olanağı sağlanmıştır. 
+     Ancak gözardı edilmemesi gereken önemli bir husus, İstanbul'daki hastane ve sağlık tesislerinin, büyük bir deprem sonrasında kendilerinden beklenen yoğun sağlık hizmetini kesintisiz bir biçimde yerine getirebilecek düzeyde deprem dayanımına sahip olup olmadıkları konusudur. Bu bağlamda Sağlık Bakanlığı, üniversite, SSK ve özel sağlık kurumlarını içeren sistemli bir yapısal güçlendirme kampanyasına vakit geçirilmeden başlanmalıdır. 
+     Ayrıca, İstanbul'da Sağlık Bakanlığı'na bağlı 26 hastane kompleksinde yer alan binalar için Dünya Bankası kredisiyle hazırlatılmış bulunan güçlendirme projelerinin, yine Dünya Bankası'ndan sağlanması mümkün olan kaynaklarla hayata geçirilmesi özel bir önem taşımaktadır.'' 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

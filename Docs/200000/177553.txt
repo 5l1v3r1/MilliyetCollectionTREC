@@ -1,0 +1,60 @@
+<DOC>
+<DOCNO> 177553 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/23/ekonomi/eko03.html </URL>
+<DATE> 2003/08/23/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayar virüsünün en hızlısı geldi 
+</HEADLINE>
+<TEXT>
+
+   Uzmanlar tarafından bugüne kadar en hızlı yayılan virüs olarak tanımlanan 'SoBig.F', tüm dünyada yüzbinlerce bilgisayarı etkisi altına aldı. Virüs, bilgisayarlara e - posta yoluyla bulaşıyor 
+      EKONOMİ SERVİSİ 
+   
+   İlk olarak 18 Ağustos tarihinde saptanan 'Sobig.F' adlı virüs, son dört gün içerisinde başta ABD ve Çin olmak üzere tüm dünyada internet trafiğini felç etti. Uzmanlara göre, ABD'de 50 milyon dolarlık zarara yol açtığı iddia edilen virüs, Çin'de ise 20 milyon kullanıcıyı etkisi altına almış durumda. Virüs ilk olarak ABD'de yayılmaya başladı ardından da birkaç gün içerisinde tüm dünyada etkili hale geldi. 
+   Uzmanlar, Sobig.F'in bugüne kadarki en hızlı yayılan virüs olduğunu açıkladı. E - posta virüslerini denetleyen 'MessageLabs' firması, son 24 saat içersinde virüsün bir milyondan fazla kopyasına rastlandığını bildirdi. Sobig.F'den önceki rekor 'Klez' adlı virüse aitti ve 24 saat içinde virüsün 250 bin kopyası saptanmıştı. 
+   Sistemlere e - posta yoluyla bulaştığı tepti edilen virüs, ağ paylaşımlarını kullanarak yayılabildiği gibi, e - posta ile de yayılabiliyor. Virüs, bilgisayar kullanıcılarının kayıtlı adres defterlerine sızıp, bu adreslere postalama yaparak yayılıyor. 
+   
+   11 Eylül'de yenilenebilir 
+   18 Ağustos 2003'te saptanan solucan 10 Eylül 2003 tarihinde etkisiz hale gelecek. Uzmanlar, Sobig.F'in bir sonraki versiyonunun ABD'ye yapılan 11 Eylül saldırısının yıldönümünde, ortaya çıkabileceğini belirtiyor. 
+   Sobig.F, aynı kuşağın beşinci sürümü. Ve her sürümün ayrı bir sonlanma tarihi var. 11 Eylül 2003 tarihinde ise virüsün 'Sobig.G' versiyonun çıkması bekleniyor. Windows 2000, Windows 95, Windows 98, Windows Me, Windows NT, Windows XP üzerindeki güvenlik açıklarını kullanan ve e - posta yoluyla bulaşan Sobig.F, oldukça geniş kapsamlı bir postalama solucanı. 
+   Virüs, dbx, eml, hlp, htm, html, mht, wab, txt uzantılarına sahip dosyalarda yer alan bütün e - posta adreslerine bulaşarak postalama yapıyor. 
+   
+   Virüsde hata var .. 
+   Solucan olarak tanımlanan virüs yayılmak için SMTP motorunu kullanıyor ve giriş yapılabilen ağ paylaşımlarında kendisinin bir kopyasını yaratmak için girişimde bulunuyor. Fakat, Sobig.F'de de bir hata var. Virüs, kendi kodunda yer alan hatalar nedeniyle başarılı olamıyor. Sobig.F yayılırken dosya sonuna gelişigüzel veriler ekliyor, bu yüzden de dosyanın tam boyutu değişebiliyor. 
+   
+   Bu başlıklı e - postalara dikkat edin    Sobig.F, e - postalarda şu içerikleri kullanarak postalama yapıyor 
+   
+   KİMDEN 
+   Gerçekçi olmayan adresler. 'From' kısmında gerçek bir göndericinin adı yer almıyor. Solucan gönderici olarak admin internet.com adresini kullanabiliyor. 
+   
+   KONU BAŞLIĞI 
+   Re Details 
+   Re Approved 
+   Re Re My details 
+   Re Thank you 
+   Re That movie 
+   Re Wicked screensaver 
+   Re Your application 
+   Thank you 
+   Your details 
+   
+   METİN 
+   See the attached file for details 
+   Please see the attached file for details. 
+   Attachment 
+   your document.pif 
+   document all.pif 
+   thank you.pif 
+   your details.pif 
+   details.pif 
+   document 9446.pif 
+   application.pif 
+   
+   Türkiye'de de etkisi hissedildi    Uzmanların verdiği bilgiye göre Sobig.F, bilgisayarlara ya da içindeki verilere zarar vermiyor ancak bilgisayar ve ağı işgal ederek 'trafik tıkanıklığı'na yol açıyor. Sobig.F, Türkiye'deki bilgisayar sistemlerinde de görülmeye başladı. Ancak uzmanlar, bu virüsün Türkiye'de henüz o kadar hızlı yayılmaya başlamadığına dikkat çekiyor. Öte yandan, internet güvenliği sektöründe faaliyet gösteren Symantec'in "http securityresponse.symantec. com avcenter venc data w32.sobig.f mm.removal.tool.html" adresinde hazırladığı program, virüsü etkisizleştirmek için kullanılabilir. 
+   
+   
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 350881 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/11/ekonomi/eko07.html </URL>
+<DATE> 2005/06/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Oyakbank 'Kullan-at' şifreye geçti 
+</HEADLINE>
+<TEXT>
+
+
+EKONOMİ SERVİSİ 
+
+Oyak Bank, bireysel internet bankacılığına giriş java uyumlu cep telefonları aracılığıyla tek seferlik şifreler üreten "Kullan-at" güvenlik sistemini uygulamaya başladı. Kullanımı ücretsiz olan sistem, internet bankacılığı işlemleri için, java uyumlu cep telefonu aracılığıyla her defasında otomatik olarak tek kullanımlık şifreler üretiyor. Şifreler kullanıldıktan sonra kendiliğinden geçersiz hale geliyor. 
+
+
+</TEXT>
+</DOC>

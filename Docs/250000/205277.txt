@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 205277 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/30/siyaset/siy04.html </URL>
+<DATE> 2003/12/30/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bu kitabı okuyan öğrenci mühendis olmak istemez 
+</HEADLINE>
+<TEXT>
+
+   İlköğretim 7. sınıflara okutulan, "İş Eğitim" kitabı yanlışlarla dolu. Prof. Kaykayoğlu ve Prof. Okatan, kitaptaki yanlışları anlattı 
+      Burcum Devrez 
+
+   
+   Bahçeşehir Üniversitesi Mühendislik Fakültesi öğretim üyeleri, ilköğretim 7. sınıflara okutulan, "İş Eğitim, İş ve Teknik Eğitim" isimli ders kitabında birçok yanlış buldu. 
+   Kitabı inceleyen Mühendislik Fakültesi Dekanı Prof. Dr. Ruhi Kaykayoğlu ve Bilgisayar Mühendisliği Bölüm Başkanı Prof. Dr. Ali Okatan, bilgi ve pedagojik açıdan inceledikleri kitabı okuyan öğrencinin, "ileride mühendis olmak istemeyeceğini" söyledi. Kaykayoğlu, "Bilgi toplumuna giden yolda ilköğretim sıralarındaki öğrencilere verilmesi gereken 'iş eğitim' dersi yerine batı ve pasifik ülkelerinde olduğu gibi iyi tasarımlanmış bir 'teknoloji eğitimi' verilmesi daha yerinde olacaktır" dedi. 
+   Ezberden uzak eğitimle öğrencide gerçek teknoloji okur yazarlığı oluşturulabileceğini kaydeden Kaykayoğlu, "Bu kitapla eğitim alan öğrenciler mühendislikten soğur" dedi. 
+   Ayrıca bazı okullarda iş eğitimi öğretmeni olmadığı için bu derse resim öğretmeninin girdiği öğrenildi. Okatan'ın kitapta bulduğu yanlışlardan bazıları şöyle 
+   Sayfa 9'da elektrik "enerjisi başlığı" altındaki 'Elektrik akımını işe dönüştüren enerjiye elektrik enerjisi denir' tanımı yanlıştır. Doğrusu 'Elektrik akımının yarattığı işe elektrik enerjisi denir.' 
+   "Gerilim" başlığı altındaki cümle yanlıştır. 'Gerilim bir havuzda duran suya benzetilebilir' cümlesi doğru değildir. 
+   Akım şiddetinin tanımı yanlıştır. 
+   Sayfa 10'da "platoner" yerine "paratoner", "elektriğin temeli" yerine "elektrik endüstrisinin temeli" yazılmalıdır. 
+   Sayfa 41'de, 'Akım, atomun son yörüngesinde bulunan serbest elektronların hareketi ile oluşur' cümlesi yanlıştır. 
+   Mikro dalga tanımı yanlıştır. 
+   Sayfa 45'te "trasformatör" yerine "redresör" kelimesi kullanılmalıdır. 
+   
+   
+   
+   
+   
+   
+</TEXT>
+</DOC>

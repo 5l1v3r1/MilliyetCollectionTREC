@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 281213 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/18/son/soneko22.html </URL>
+<DATE> 2004/10/18/ </DATE>
+<TIME> 12.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsada birinci seansta 'yaprak kıpırdamadı' 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi, 4.66 puan artarak, 1. seansı 22,481.75 puandan tamamladı. 
+     1. seansta hisse senetleri ortalama yüzde 0.02 değer kazandı. 
+     Cuma günü 22,477.09 puandan kapanan İMKB Ulusal 100 Endeksi, haftanın ilk seansına 1.53 puan artarak 22,478.62 puandan başladı. İlk yarıyı 22,444.72 puandan geçen endeks, seans içinde en düşük 22,405.46, en yüksek 22,654.90 puanı gördü. 
+     Seans sonunda mali endeks 53.61 puan artarak 30,364.92 puana, sanayi endeksi 33.99 puan artarak 20,664.60 puana yükseldi. Hizmetler endeksi ise 131.31 puan azalarak 12,320.63 puana geriledi. 
+     Böylece, önceki kapanışa göre, mali grup hisseler ortalama yüzde 0.18, sanayi grubu hisseler ortalama yüzde 0.16 değer kazanırken, hizmet grubu hisseler ortalama yüzde 1.05 değer yitirdi. 
+     1. seansta işlem gören toplam 296 hisse senedinden 145'i değer kazandı, 97'si değer kaybetti, 54 hissenin fiyatında değişiklik olmadı. 
+     Seansta, 365 trilyon 731 milyar 452 milyon liralık işlem hacmi oluştu. 
+     1. seansta, Yapı ve Kredi Bankası, Turkcell, Doğan Holding, Petrol Ofisi ve Tat Konserve en çok işlem gören hisse senetleri oldu. 
+     
+</TEXT>
+</DOC>

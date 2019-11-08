@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 201211 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/10/son/sontur06.html </URL>
+<DATE> 2003/12/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+x-ray cihazları, fotoğraf filmlerini bozuyor... 
+</HEADLINE>
+<TEXT>
+
+     Özellikle havalimanlarında kullanılan x-ray cihazlarının, fotoğraf filmlerini bozabildiği bildirildi. Uçak yolcularına, filmlerini korumak için makinelerini bavullarında taşımları önerildi. 
+     Fotoğraf alanında dünyanın lider kuruluşlarından olan Kodak firması, yazılı açıklamasında, negatif film kullananları x-ray cihazlarına karşı uyardı. 
+     Uçakla yolculuk yapanlara, güvenlik tarayıcılarının olumsuz etkilerinden kaçınmak için, fotoğraf filmlerini ve tek kullanımlık fotoğraf makinelerini el bagajında taşımalarını öneren Kodak, bagaj kontrolü için yüksek yoğunlukta X ışını yayan tarayıcılar kullanıldığını ve işlenmemiş filme zarar verebildiğini açıkladı. 
+     El bagajlarını kontrol eden tarayıcıların, fotoğraf filmlerinin çoğuna zarar vermediği ifade edilen açıklamada, bu tarayıcılardan birçok kez geçilmesi durumunda dikkatli olmak gerektiği de belirtildi. 
+     Genel olarak, düşük hızlı filmlerin tarayıcılardan en fazla 5 kez geçirilmesi mümkünken, 800 ASA ve üzeri hızda filmler taşınacaksa, güvenlik görevlisine elle kontrol yapması için ricada bulunulması tavsiye edildi. 
+     Kodak, bu önlemlere ek olarak, X ışınına maruz kalan filmleri, eve dönmeyi beklemeden, bulunulan yerde tab ettirilmesini de önerdi. 
+     
+</TEXT>
+</DOC>

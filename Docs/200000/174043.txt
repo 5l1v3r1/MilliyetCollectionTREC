@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 174043 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/06/son/sontur11.html </URL>
+<DATE> 2003/08/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+''Dr. robot'' dönemi başlıyor... 
+</HEADLINE>
+<TEXT>
+
+     ABD'de, dünyanın önemli araştırma enstitülerinden John Hopkins Üniversitesinde denenen robot doktorun Dr. Robot , tıp dünyasında hasta ile doktor arasında yeni iletişim dönemini gündeme getirebileceği bildirildi. 
+     Yıldızlar Savaşı filminden esinlenilen robot doktor, ekrandan oluşan başı ve ilerlemeyi sağlayabilen gövdeden meydana geliyor. 
+     Ekranın üzerinde bulunan kamera ile ses alıcı ve vericisi, hasta ile doktor arasındaki gerçek zamanlı iletişimi sağlıyor. 
+     Hastayı ziyaret etmeden, bulunduğu yerden hasta ile robot vasıtasıyla temas kurabilen doktor, hastanın durumunu yönelttiği sorularla kontrol ederek, hastaya gerekli tavsiyelerde bulunabiliyor ve hastanın sorularını yanıtlayabiliyor. 
+     Robotu deneyen ekipten Dr. Louis Kavoussi, hastaların robot doktoru sevdiklerini ve bunu kendilerinin de sürpriz olarak karşıladıklarını açıkladı. 
+     Şimdiye kadar doktor ile hasta arasında uygulanabilen telekonferansın bir başka şekli olduğu bildirilen robot doktor projesinin, aynı zamanda hastada moral yükselmesine de yardımcı olabileceği belirtildi. 
+     Robot doktoru bilgisayarından hastaların odalarına yönlendirebilen doktor, bir taraftan ofisindeki işini yaparken, diğer taraftan da rutin hasta ziyaretini odasından çıkmadan gerçekleştirebiliyor. 
+     İlk denemesinde 20 hastayı ziyaret eden robot doktorun, çok çeşitli amaçlarla da kullanılabileceği düşünülüyor. 
+     Robot doktor sistemini, Touch Health firmasının gerçekleştirdiği bildirildi. 
+     
+</TEXT>
+</DOC>

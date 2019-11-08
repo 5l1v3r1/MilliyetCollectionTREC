@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> 392251 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/04/son/sonyas05.html </URL>
+<DATE> 2005/11/04/ </DATE>
+<TIME> 11.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türkiye interneti paylaşılamıyor... 
+</HEADLINE>
+<TEXT>
+
+     Suat Karabıyık 
+
+Türkiye'de ''tr'' uzantılı internet adreslerini tescilde tek yetkili kurum olan İnternet Alan Adı Yönetimi Domain Names Systems-DNS paylaşılamıyor. 
+     1990 yılından bu yana ODTÜ bünyesinde bulunan merkezi, Telekomünikasyon Kurumu bünyesine almak isterken, TBMM'ye sunulan Elektronik Haberleşme Kanunu, merkezin yönetimiyle ilgili esasları belirleme yetkisini Ulaştırma Bakanlığı'na veriyor. ODTÜ'nün ise tescil ettiği internet adresi sayısı bugün 73 bine yaklaşan ve yılda 1 milyon dolar gelir getiren merkezi vermek istemediği belirtiliyor. 
+     Telekomünikasyon Kurumu Başkan Yardımcısı Mustafa Alkan, AA muhabirinin konuya ilişkin sorularını yanıtlarken, alan adları konusunda diğer ülkelerde ve Türkiye'de çeşitli çalışmalar yapıldığını belirtti. 
+     İnternette alan adları ve numaraları belirlemede yetkili kurum gibi gösterilen ve ABD Ticaret Bakanlığı'na bağlı olarak kar amacı gütmeden faaliyet gösteren Kayıtlı İsimler ve Numaralar İçin İnternet Organizasyonu'nun ICANN , Dünya Bilgi Toplumu Zirvesi'nde mercek altına alındığını ifade eden Alkan, bu kuruluşun yerine dünyadaki alan adları düzenlemelerini gerçekleştirmek üzere BM bünyesinde bir birim oluşturulmasının önerildiğini kaydetti. 
+     
+     TELEKOMÜNİKASYON BİRLİĞİ'NİN PRENSİP KARARI 
+     Dünyadaki belirsizliğini sürdüren alan adlarıyla ilgili düzenlemelerin Türkiye'de de net bir konuma sahip olmadığını ifade eden Alkan, Türkiye'den ilk kez ODTÜ'nün bu işlerle ilgili faaliyetleri düzenlemek amacıyla ICANN'a başvuru yaptığını ve tescil işlemlerini üstlendiğini anımsattı. Alan adlarıyla ilgili Uluslararası Telekomünikasyon Birliği'nde yapılan çalışmalarda tescil işlemlerinin sektördeki düzenleyici otoritelere verilmesi yönünde bir prensip kararının gündeme geldiğini kaydeden Alkan, şöyle devam etti 
+     ''Avrupa ülkelerinin bir kısmında alan adlarıyla ilgili işlemler telekomünikasyon sektörü düzenleyicisi otoriteler tarafından yürütülmeye başlandı. Biz de bu doğrultuda Türkiye'de, hem yasal zemine oturması, hem de düzenleme konsepti içinde daha doğru olacağı düşüncesinden hareketle alan adlarıyla ilgili düzenlemelerin Telekomünikasyon Kurumu tarafından yapılmasında fayda olduğunu düşünüyoruz.'' Bu taleplerinin birçok gerekçesi bulunduğunu vurgulayan Alkan, bunları anlatırken, internet servis sağlayıcılarıyla ilgili yetkilendirmeler, denetlemeler ve numara tahsisiyle ilgili işlemlerin Kurum tarafından yapıldığını, internet alan adları konusunun da kıt kaynaklardan bir tanesi olduğunu, dolayısıyla bu konudaki yetkilendirmenin Telekomünikasyon Kurumu tarafından yapılması gerektiğini belirtti. Alkan, ''Örneğin numara planlaması kurum tarafından yapılıyor. Telefon numarası internet adresi olabiliyor. Bu konunun, artık düzenleyici otoriteler içerisinde olması teknolojik zorunluluk, bir düzenleme zorunluluğu haline geldi'' dedi. 
+     
+     ''YETERİNCE DENETLENMİYOR'' 
+     İnternet adreslerinin tescilinde ortaya çıkan uzlaşmazlıkların çözümü noktasında da ciddi bir düzenleme gerektiğini, bunun da Telekomünikasyon Kurumu tarafından rahatlıkla gerçekleştirilebileceğini anlatan Alkan, şunları söyledi 
+     ''Uzlaşmazlık konusunda ODTÜ'nün bir yetkisi olmadığı için ilgili tarafların uzlaşmazlık için ICANN'a gitmesi ve bir sürü para vermesi gerekiyor. Bu da hem para çıktısı, hem de zaman kaybı demektir. Uzlaşmazlık problemlerine karşı oluşturulacak hukuki altyapıyla sorunların kısa sürede çözümlenmesi gerekir.'' Alkan, alan adlarının tescili konusunda trilyonlara varan bir kaynağın söz konusu olduğunu, ancak bu kaynağın nerede ve nasıl kullanıldığının denetlenmediğini savunarak, ''Bu kaynakların da kamu bütçesine aktarılıyor olması gerekir. Bundan dolayı da işin Telekomünikasyon Kurumu bünyesine alınmasında fayda var'' dedi. 
+     İnternet alan adı tescillerinde tarifelerin çok sağlıklı belirlenmediği için Türkiye'de internet alan adı almak isteyenlerin yurtdışından almayı tercih ettiklerini, bu nedenle trilyonlarca liralık kaynağın yurtdışına gittiğini kaydeden Alkan, şu görüşleri dile getirdi 
+     ''Tr uzantılı olmayan alan adlarına yurtdışına çok ciddi para ödüyoruz. Eğer böyle bir düzenleme olsa, bu anlamda da yurtdışına giden trilyonlarca lira kaynaklar içeride kalacak. Dışarıya gereksiz ve anlamsız yere kaynak aktarmamış oluruz, olmayacağız. 
+     Bu gibi gerekçeleriyle bakıldığında alan adlarıyla ilgili düzenlemenin Türkiye'de yeniden baştan gözden geçirilmesinde büyük yarar var. Hem ulusal güvenlik açısından, hem de ekonomik boyutuyla fayda var.'' 
+     
+     TÜRKİYE'YE ÖZGÜ MODEL 
+     İnternet alan adlarıyla ilgili dünyadaki uygulamaları incelediklerini ve bunun üzerine Türkiye'ye özgü bir model geliştirdiklerini belirten Alkan, bu konudaki düzenleme, yetkilendirme ve tahsisleri Telekomünikasyon Kurumu'nun yapabilecek durumda olduğunu söyledi. 
+     Mustafa Alkan, TBMM'ye sunulan Elektronik Haberleşme Kanunu tasarısında alan adı yönetiminin Kurum tarafından yürütülmesi konusunun hüküm olarak yer almasını istediklerini, taslak çalışmada konunun bu şekilde yer aldığını kaydetti. 
+     Ulaştırma Bakanlığı'nda yapılan çalışmada bu yetkinin bakanlığa verildiğini ifade eden Alkan, ''Bakanlıkta olmasının da çok fazla mahsuru yok ama bakanlık bünyesinde bu işin sağlıklı yürütülmesini sağlayacak bilgi birikimi ve yeterli uzman olmadığından dolayı ve bunun bağımsız bir otorite tarafından yürütülmesi gerekir. Bu noktadan hareketle bu işin dünyadaki gelişmelere paralel olarak Kurum bünyesinde olmasında büyük yarar var'' diye konuştu. 
+     
+     YASAL DÜZENLEME 
+     Bu arada, TBMM'ye sunulan Elektronik Haberleşme Kanunu tasarısının ''İnternet Alan Adları'' başlıklı 35. maddesinde, ''Tr uzantılı internet alan adlarının tahsisini yapacak kurum veya kuruluş ile alan adı yönetimine ilişkin usul ve esaslar bakanlık tarafından belirlenir'' hükmüyle, bu konudaki yetki Ulaştırma Bakanlığı'na veriliyor. 
+     
+</TEXT>
+</DOC>

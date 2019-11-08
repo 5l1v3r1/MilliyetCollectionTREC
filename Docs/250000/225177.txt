@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 225177 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/24/son/soneko37.html </URL>
+<DATE> 2004/03/24/ </DATE>
+<TIME> 15.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Koçbank'tan e-bankacılım'ta tek kullanımlık şifre... 
+</HEADLINE>
+<TEXT>
+
+     Koçbank, müşterilerinin en üst düzeyde güvenliğini sağlamak amacıyla internet bankacılığına ulaşım için her seferinde tek kullanımlık şifre üreten ''Akıllı Anahtar'' ürününü müşterilerinin hizmetine sundu. 
+     Koçbank'tan yapılan açıklamaya göre, her kullanıcıya özel olarak üretilen ''Akıllı Anahtar'', tek kullanımlık şifre ile Koçbank müşterilerinin en üst düzeyde güvenliğini sağlamayı hedefliyor. 
+     İnternet bankacılığında halen kullanılan sabit şifreler, kimlik ispatı için en kolay ve en temel mekanizma olmakla birlikte, gelişen teknoloji, yeni güvenlik uygulamaları ve bu uygulamalardan doğan açıkları kapatmak amacıyla daha fazla güvenlik sağlayan olanakları da beraberinde getiriyor. 
+     Koçbank 'ın bu doğrultuda müşterilerinin hizmetine sunduğu ''Akıllı Anahtar'' tarafından üretilen şifreler sekiz haneli rakamlardan oluşuyor. Bu şifreler kullanıcının kendisi ya da diğer ''Akıllı Anahtar'' kullanıcıları tarafından ikinci bir kez kullanılamıyor. 
+     Kullanıcıların rahatlıkla taşıyabilmeleri amacıyla anahtarlık şeklinde tasarlanan ''Akıllı Anahtar''ın kaybolması durumunda telefonla iptal edilmesini takiben kullanıcıya anında yenisi gönderiliyor. 
+     Koçbank'ın, internet bankacılığı hizmetinde sahip olduğu kalite, güven ve itibarın korunması amacıyla müşterilerine sunduğu ''Akıllı Anahtar'' ile ekstra güvenlik kazanmak isteyen Koçbank müşterilerinin bu yeni ürünü www.kocbank.com.tr adresinden satın alabileceği bildirildi. 
+     
+</TEXT>
+</DOC>

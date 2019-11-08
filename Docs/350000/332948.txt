@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 332948 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/13/son/soneko48.html </URL>
+<DATE> 2005/04/13/ </DATE>
+<TIME> 16.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Reel Kesim Güven Endeksi, 0.4 puan arttı... 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası Reel Kesim Güven Endeksi MBRKGE Mart ayında, bir önceki aya göre 0.4 puan artarak 103.6'dan 104.0 seviyesine yükseldi. 
+     Geçen yılın aynı dönemiyle karşılaştırma yapıldığında ise endeksin 4 puan azaldığı gözlendi. Buna göre 2004 Mart ayında 108 olan endeks geçen ay 104'e indi. 
+     Merkez Bankası, Mart ayına ilişkin reel kesim güven endeksi sonuçlarını açıkladı. 
+     Endeksi oluşturan anket sorularına ait yayılma endeksleri Şubat ayına kıyasla incelendiğinde, sırasıyla toplam istihdam ve yatırım harcaması beklentileri ile toplam sipariş eğiliminin endeksi olumsuz etkileyen kalemler olduğu gözlendi. 
+     İhracat imkanları ve üretim hacmi beklentileri ile mamul mal stok miktarı eğiliminin olumlu katkısında ise mevsimsellik etkili oldu. 
+     Öte yandan endeksi pozitif yönde etkileyen en önemli kalem, iç pazara satılan mal hacmi eğilimi oldu. Bu belirgin artışın bir kısmının mevsimsel etkilerden kaynaklandığı gözlendi. 
+     Mevsimselliğin gözlenmediği genel gidişat konusundaki görüşler ve hammadde stok eğilimleri, endeksi olumlu yönde etkileyen diğer kalemler oldu. 
+     Geçen yılın Mart ayına göre karşılaştırma yapıldığında ise mamul mal stok miktarı ve hammadde stok eğilimleri geçen seneki değerlerinin üstünde kalırken, diğer alt kalemlerde azalış olduğu gözlendi. 
+     
+</TEXT>
+</DOC>

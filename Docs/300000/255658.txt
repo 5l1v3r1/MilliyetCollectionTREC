@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 255658 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/15/son/soneko40.html </URL>
+<DATE> 2004/07/15/ </DATE>
+<TIME> 18.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York'ta endeksler düşük açıldı 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacmi bakımından dünyanın en büyük borsası konumunda olan New York'ta endeksler düşük açıldı. 
+     Açılıştan kısa bir süre sonra Dow Jones Endeksi 12.98 puan azalarak 10,196.00 puana geriledi. 
+     Teknoloji endeksi Nasdaq ise 2.01 puan gerileyerek 1,913.00 puana indi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 231115 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/13/son/sonyas12.html </URL>
+<DATE> 2004/04/13/ </DATE>
+<TIME> 14.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Solucanların ömrü uzatıldı... 
+</HEADLINE>
+<TEXT>
+
+     Alman bilim adamları, solucanların yaşlanma hızını 3'te 2 oranında yavaşlatmayı başardı. 
+     Almanya'daki Freiburg Üniversitesi'nden yapılan açıklamaya göre, moleküler genetik uzmanları Maren Hertweck ve Ralf Baumeister, ''C. elegans'' adı verilen küçük bir solucanda, hücrelerin yaşlanmasında anahtar rol oynayan bir gen buldular. 
+     Açıklamada, dünyanın dört bir köşesindeki bilim adamlarının, bu geni yıllardır bulmaya çalıştığı belirtildi. 
+     ''C. elegans'' türündeki solucanın 10 yıldan fazla süredir yaşlanma, şeker hastalığı ve kanser konusundaki araştırmalarda ideal denek olarak kullanıldığı kaydedilen açıklamada, solucanın genlerinin yüzde 60'ından fazlasının insanların genleriyle akraba olduğu ifade edildi. 
+     Bulunan genin SGK-1 isimli bir enzimi ürettiğini kaydeden bilim adamları, ensülin hormonunun kontrolünde olan bu enzimin, normalde vücudun yaşam süresini uzatan genleri aktif hale getirmesini engellediğini söylediler. 
+     Bu enzimde değişiklik yaparak, onun bloke özelliğini engellediklerini belirten bilim adamları, solucanın yaşlanma hızını 3'te 2 oranında yavaşlattıklarını ifade ettiler. 
+     Bilim adamları, solucanların normalde 2 hafta yaşadığını söyleyerek, SGK-1 enziminde değişiklik yapılan solucanların 2 hafta sonra genç solucanlar gibi hareketli olduklarını gözlemlediklerini kaydettiler. 
+     Bilim adamları, insanlarda da buna benzer bir genin bulunduğunu tahmin ediyorlar. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 223255 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/17/son/sonyas26.html </URL>
+<DATE> 2004/03/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Melanom ve benleri ayırt etmek kolaylaşacak 
+</HEADLINE>
+<TEXT>
+
+     En tehlikeli cilt kanseri olarak bilinen melanom hücrelerinin, bir proteini normalden çok daha fazla ürettiği ortaya çıktığı. 
+     İngiltere'deki Marie Curie Araştırma Enstitüsü'nde görevli bilim adamları, melanom hücrelerinin yüzde 90'ının BRN-2 isimli proteini yüksek miktarlarda ürettiğini tespit ettiler. Bilim adamları, bu yeni bilginin, melanom ve benlerin ayırt edilmesini kolaylaştıracağını kaydettiler. 
+     Proteinin hücre bölünmesinde önemli rol oynadığını ifade eden bilim adamları, melanom hücrelerinin, normal hücrelere göre 20 kat daha fazla BRN-2 içerdiğini söylediler. 
+     Araştırma başkanı Colin Goding, BRN-2 proteininin melanomların büyümesinde önemli rol oynadığını belirterek, ''BRN-2'yi laboratuvarda işlevsiz hale getirdiğimizde, hücrelerin çok daha yavaş büyüdüğünü gördük'' dedi. 
+     Bilim adamları, BRN-2 proteininin, hücre bölünmesinin başlatılmasını ve bitirilmesini sağlayan iki önemli sinyal aktarımıyla ilgili olduğunu tahmin ediyorlar. Kanser, hücre bölünmesinin kontrolden çıkmasıyla ortaya çıkıyor. 
+     Bilim adamları, yeni bilgi sayesinde melanom ve benlerin daha kolay arıt edilebileceğini, melanomun ameliyatla alınmasından sonra oluşabilecek risklerin daha kolay tahmin edilebileceğini ve bu kanser türünün tedavisi konusunda ilerleme kaydedilebileceğini ifade ettiler. 
+     
+</TEXT>
+</DOC>

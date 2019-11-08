@@ -1,0 +1,43 @@
+<DOC>
+<DOCNO> 73549 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/03/20/yasam/yas09.html </URL>
+<DATE> 2002/03/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+En sosyal’ robot 
+</HEADLINE>
+<TEXT>
+
+Sony’nin 58 santimlik yeni robotu insanları, renkleri ve ortamı ayırt ediyor, dans edip şarkı söyleyebiliyor 
+     DIŞ HABERLER SERVİSİ 
+
+     Teknoloji devi Sony, müziğin ritmine göre dans eden, insanların yüzlerini tanıyabilen ve hatta 60 bin kelimelik dağarcığı ile basit cümleler kurarak insanlarla iletişime geçebilen bir robot geliştirdi. Ve buna şimdilik’ SDR - 4X adını verdi. Evlerde insanlarla yaşayabilmesi hedeflenerek geliştirilen robotun, lüks bir araba fiyatına satılacağı açıklandı, ancak kesin bir rakam verilmedi. Sony yetkililerinden Toshitada Doi, SDR - 4X’in ayak tabanlarındaki algılayıcılar sayesinde halı gibi yüzeylerde de kolayca yürüyebildiğini ve hatta düşerse yardım almadan doğrulabildiğini açıkladı. 58 santimetre boyundaki robot, gözlerindeki iki kamerayla ortamı algılayabiliyor, yüzleri daha önce hafızasına tanımlanan 10 kişiyi ayırt edebiliyor, renkleri tanımlayabiliyor ve hatta şarkı söylüyor. 
+     
+
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

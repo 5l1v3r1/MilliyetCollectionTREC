@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> 197416 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/23/yazar/tamer.html </URL>
+<DATE> 2003/11/23/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Meral TAMER  </AUTHOR>
+<HEADLINE>
+Telefonların kilitlenmemesi için ne yapmalı 
+</HEADLINE>
+<TEXT>
+
+   Körfez depreminde normalin 15 katına çıkan aramalar, perşembe günkü patlamalarda normalin 28 katına yükselmiş 
+   
+   Özkan Özdemir adlı okurum, dün gönderdiği e - postada, Levent'teki patlama sırasında telefonların kilitlenmesi sonucu gerek kendi yakınlarının, gerekse benim çektiğim sıkıntıdan yola çıkarak, kriz anlarında telefonla görüşme sürelerinin 10 saniye ile sınırlanmasını öneriyor 
+   "Patlama sırasında bizler de Levent'te işimizin başındaydık ve tıpkı sizin kızınıza ulaşamadığınız gibi, yakınlarımız da bize ulaşamadı. Bu olaylar mevziydi. Deprem gibi İstanbul'un bütününü etkileyecek üzücü bir olay olsaydı, telefonlarla yakınlarımıza ulaşmamız imk nsız olurdu. Nitekim İzmit depreminde bunu yaşadık. 
+   
+   Krizde 10 saniye 
+   Sizin aracılığınızla telefon şirketlerine yöneltmek istediğim kısmi bir çözüm önerim var. Bu gibi üzücü olaylarda telefon görüşme sürelerine kısıt getirmek. Mesela insanın yakınlarına "Ben iyiyim, sen de iyi misin " demesi için 10 saniye yeterli bir süre. Ayrıca 'Üzücü durumlarda en açık şebeke biz olacağız' diyerek bunun reklamını yapabilir, abone sayılarını bile arttırabilirler belki. Bizim insanımızda da kabahat var tabii. Maalesef patlamalardan 15 dakika sonra bile, insanların olur - olmaz konularda telefonda muhabbet ettiklerine tanık oldum." 
+   
+   Turkcell diyor ki 
+   Turkcell, Telsim, Aria, Aycell... 9 günlük bayram tatilinin ilk gününde çeşitli denemelerden sonra Turkcell üst yönetiminden bir yetkiliyi bulduk ve sorularımıza doyurucu yanıtlar aldık. 
+   Okurumuzun kriz anlarında konuşma süresini kısıtlama önerisi teknik olarak mümkünmüş, ancak perşembe günü telefonların kilitlenmesinin nedeni süre değil, aynı anda yüklenmeymiş. 
+   Turkcell üst düzey yetkilisi diyor ki 
+   "Problem konuşmaların uzunluğundan değil, aramaların çokluğundan kaynaklandı. Çünkü arayan 1 kere aramıyor. Peş peşe yes tuşuna basarak, hiç durmaksızın arka arkaya arıyor. Dolayısıyla arayan 1 kişi 1 sayılmıyor. Depremde arama, normalin 15 katına çıkmıştı. Son patlamalarda 28 katına çıktı. Depremden çok daha fazla arama oldu. 
+   
+   3 dakika beklesek 
+   Kapasitemiz, normal günlerdeki trafiğin en az 4 mislini kaldırabilecek düzeyde. Abone, hatlar dolu olduğunda 3 dakika beklese, hatlar yine doluysa bir 3 - 4 dakika daha beklese, kapasite 3 - 4 katına çıkabilir. Aramalar kısa zaman aralıklarına yayıldığı takdirde, aşırı yüklenme sorunu da ortadan kalkar." 
+   Turkcell üst düzey yetkilisi ısrarla "Sizin kızınıza ulaşamadığınız sırada, bizim boş kapasitemiz vardı. Ulaşabilseydiniz konuşma süresinde bir problem olmazdı, başkasının konuşmasını da engellemezdiniz" diyor. 
+   
+   18.2 milyon abone 
+   Kriz anında hem yeni işlemcileri devreye sokarak, hem de yoğunluğun daha az olduğu santrallerdeki işlemcileri, bir anda aşırı yüklenen santrallere transfer ederek yüklenmeyi azaltmaya çalışmışlar. Zaten 45 dakika içinde bütün taleplere yanıt verebilir hale gelmişler. Turkcell'in İstanbul'a hizmet veren 60 santrali, 18,2 milyon abonesi var. 
+   Pekiyi süreye sınırlama getirdikleri durumlar oluyor mu Genelde çok uzun süreli konuşmalara sınırlama getiriyorlarmış. Abonenin çok uzun konuşup sonradan ücretini ödememesi ihtimaline karşı... 
+   Ticari açıdan haklı bir kaygı. Acaba süreyi kısıtlamamanın da ticari bir yönü olabilir mi "Kesinlikle hayır" diyor Turkcell tepe yöneticisi "Böylesi büyük kriz anlarında etik olarak ticari tarafı ön plana almayız. Konuşma süresini kısıtlayarak kilitlenmeyi önleyebilmemiz mümkün olsaydı, onu da yapardık." 
+   
+      
+   
+</TEXT>
+</DOC>

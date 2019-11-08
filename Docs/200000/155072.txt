@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 155072 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/07/son/soneko01.html </URL>
+<DATE> 2003/05/07/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Borsası'nda Dow Jones ve Nasdaq endeksleri günü yükselişle kapattı. 
+     Borsanın temel göstergesi Dow Jones endeksi, 57 puan kazanımla günü 8.588,36 puandan kapatırken, teknoloji endeksi Nasdaq 19,67 puan artışla 1.523,71 puana çıktı. 
+     
+     TOKYO BORSASI 
+
+     Tokyo Menkul Kıymetler Borsası'nda Nikkei Endeksi, 26.21 puan yüzde 0.32 yükselerek, 8,109.77 puana çıktı. 
+     Öte yandan, ABD Doları, Japon Yeni karşısında, 0.63 yen düşerek 117.74 yen düzeyine geriledi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 223092 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/17/son/soneko07.html </URL>
+<DATE> 2004/03/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tokyo Borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     Tokyo Borsası, günü yükselişle tamamladı. 
+     Borsanın temel göstergesi Nikkei Endeksi kapanışta düne göre 194.57 puan yükselip 11,436.86 puana çıktı. 
+     Aynı borsada ABD Doları ise Japon Yeni karşısında düne göre 1.30 yen gerileyip 108.32 yenden işlem gördü. 
+     
+</TEXT>
+</DOC>

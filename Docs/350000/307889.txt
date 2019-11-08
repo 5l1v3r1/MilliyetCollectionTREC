@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 307889 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/19/son/sontur28.html </URL>
+<DATE> 2005/01/19/ </DATE>
+<TIME> 13.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Telekom İnternetteki arıza 23 Ocak'ta giderilecek 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekom, yurtdışı internet erişimini sağlayan kablolardan birinin kopmasından kaynaklanan arızanın, 23 Ocak Pazar günü giderilmesinin planlandığını bildirdi. 
+     Türk Telekom'dan yapılan yazılı açıklamada, 16 Ocak Pazar günü saat 16.15'te Türk Telekom'un yurtdışı internet erişimini sağlayan alternatif kablolardan birisi olan MedTürk denizaltı kablosunun kopmasından sonra yapılan ilave kapasite çalışmalarının devam ettiği belirtildi. 
+     Açıklamada, dün saat 23.00 itibariyle Türk Telekom'un yurtdışı çıkış kapasitesinin 5.1 Gbps'e ulaştığı kaydedilerek, kapasiteyi artırma çalışmalarının devam ettiği ifade edildi. 
+     Türk Telekom'un, şu anda günün en yoğun saatlerinde karşılaştığı maksimum 7 Gbps'lik kapasite ihtiyacının yüzde 73'ünü karşıladığı belirtilen açıklamada, ''Kopan denizaltı kablosunun tamir çalışmaları da devam etmekte olup, arızanın 23 Ocak 2005 Pazar günü giderilmesi planlanmaktadır'' denildi. 
+     
+</TEXT>
+</DOC>

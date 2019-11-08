@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 390150 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/27/son/soneko37.html </URL>
+<DATE> 2005/10/27/ </DATE>
+<TIME> 16.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türk Linux'cular, Microsoft'a karşı kaybetti... 
+</HEADLINE>
+<TEXT>
+
+     Rekabet Kurulu, Rekabetin Korunması Hakkındaki Kanunu ihlal ettiği iddia edilen Microsoft hakkında soruşturma açılmasına gerek olmadığına karar verdi. 
+     Gelecek Bilişim ve İletişim A.Ş'nin, ''Microsoft Bilgisayar Yazılım Hizmetleri Ltd. Şti'nin faaliyetlerini zorlaştırarak 4054 sayılı Rekabetin Korunması Hakkında Kanunu ihlal ettiği'' iddialarını değerlendiren Rekabet Kurulu, ''iddia konusu baskıları ortaya koyabilecek bilgi ve belgelere ulaşılamaması, uygulanan indirim sistemlerinin rekabeti bozucu etkisinin tespit edilememesi nedenleriyle, hakkında ön araştırma yürütülen Microsoft Bilgisayar Yazılım Hizmetleri Ltd. Şti. ile Türkiye'de satış ve pazarlama faaliyeti yürüten Microsoft Corporation ve Microsoft Ireland Operations Limited haklarında soruşturma açılmasına gerek olmadığına'' oybirliğiyle karar verdi. 
+     
+     ''DANIŞTAY'A GİTMEYİ DÜŞÜNÜYORUZ'' 
+     Açık kaynak kodlu işletim sistemi Linux'un temsilcilerinden Gelecek Bilişim İletişim A.Ş'nin Yönetim Kurulu Üyesi ve Satış Müdürü Suat Erdem, yüzde 5 pazar payına ulaşmışken, Microsoft'un baskıları nedeniyle işlerinin bıçak gibi kesildiğini iddia etti. 
+     Çok ciddi bir dilekçe ile Rekabet Kurulu'na başvurduklarını, ortada bir gerçek ve pek çok delil varken, ''baskıları ortaya koyabilecek bilgi ve belgelere ulaşılamadığı'' gibi basit bir cevabın verildiğini belirten Erdem, ''Tam bir delil arama olmadığını düşünüyoruz'' dedi. Suat Erdem, Rekabet Kurulu'nun kararına karşı Danıştay'a gitmeyi değerlendirdiklerini bildirdi. 
+     
+</TEXT>
+</DOC>

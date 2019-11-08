@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 213432 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/06/siyaset/siy09.html </URL>
+<DATE> 2004/02/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+'e adalet' taşradan başladı 
+</HEADLINE>
+<TEXT>
+
+   Geliştirilen projeye göre avukatlar ilgili mahkemenin e postasına dilekçe göndererek dava açabiliyor 
+      ŞÜKRAN ÖZÇAKMAK İstanbul 
+
+   
+   İstanbul'daki mahkemelerde altı ayda bir duruşma günü vermenin sıkıntısı yaşanırken, Anadolu'daki bazı adliyeler çoktan "e adalet" sistemine geçti. Duruşma listeleri web sitelerinde yayınlıyor, avukatlar mahkeme ile yazışmalarını e posta ile yapıyor. Hakim ve savcılar artık adliye dışındaki otopsi ve keşiflere tuşları kırık, şeridi bitik daktilo yerine dizüstü bilgisayarla gidiyor. 
+   Tüm bunlar, Adalet Bakanlığı'nın "e adalet" projesiyle başladı. Bakanlık, Anayasa'nın "yargının hızlı" olması ilkesi uyarınca geçen yıl adliye ve cezaevlerine 10 bin masaüstü bilgisayar, 500 lazer yazıcı, 5 bin kesintisiz güç kaynağı, otopsi ve keşiflerde kullanılmak üzere bin 500 dizüstü bilgisayar, 400 tarayıcı, 250 renkli yazıcı dağıttı. 15 bin personel de bilgisayar kursundan geçirildi. Bu yıl sonuna kadar da 8 bin dizüstü bilgisayar dağıtılacak. 
+   
+   Tarih için Adliye'ye gitmiyor 
+   Kocaeli, Kütahya, Midyat, Muş ve Sinop Adliyesi'nde başlayan uygulamada her il "midyat.adalet.com.tr", "mus.adalet.gov.tr" gibi kendi adliyelerinin adıyla web sitesi kurdu. Sitelerde her mahkemenin duruşma günlerini bildiren listelere, ilçe adliyesi ve ile bağlı cezaevlerinin tanıtımı, kalem müdürleri, hakim ve savcıların telefon numaraları, çalışanların tanıtımına yer veriliyor. Böylece vatandaş, duruşma tarihini öğrenmek için adliyeye gitmiyor. Avukatlar da dava açmak için adliyeye gitmek zorunda değil. İlgili mahkemenin e - postasına dilekçe göndermek suretiyle dava açabiliyor. 
+   Sistemin tüm yurtta faaliyete geçmesiyle avukatlar, dava açma, harç yatırma, dilekçe verme, icra takibi, temyiz gibi işlemleri elektronik ortamda yapabilecek, yetkileri seviyesinde bürolarından dosya inceleyebilecek. 
+   
+   
+   
+</TEXT>
+</DOC>

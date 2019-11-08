@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 377897 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/12/son/sonyas11.html </URL>
+<DATE> 2005/09/12/ </DATE>
+<TIME> 11.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dünyanın ilk 16 gigabit flash memory işlemcisi... 
+</HEADLINE>
+<TEXT>
+
+     Güney Koreli Samsung şirketi, büyük medya dosyalarının kullanımına yardımcı olacak dünyanın ilk 16 gigabit kapasiteli flash memory işlemcisini tanıttı. 
+     50 nanometre işlem teknolojisi kullanılan ve müzik, video ve diğer verilerin depolanması için çok uygun olan NAND tasarımı ile yapılan işlemci, 8 bin dijital müzik dosyası veya 32 saat DVD kalitesinde film depolayabilecek kapasiteye sahip bulunuyor. 
+     Samsung'un hafıza bölümünün başkanı Hwang Chang-Gyu, 40 sayfalık bir gazetenin 200 yılına eşdeğer veri depolayabilecek NAND flash memory tipi işlemcinin üretimine gelecek yılın ortasında başlanacağını belirtti. 
+     Veri depolama şirketleri Toshiba ve SanDisk, ortaklaşa olarak Şubat'ta 70 nanometre işlemci teknolojisi kullanan 8 gigabit kapasiteli işlemci geliştirdiklerini duyurmuşlardı. 
+     Şirketler, 8 GB'lik işlemcinin 146 mm boyutunda 6 milyar bit yoğunluğa ya da santimetrekarede 3 milyar transistöre sahip olduğunu belirtmişlerdi. 
+     Yeni NAND flash memory işlemci, çoklu hücre teknolojisini kullanarak 1 memory hücresinde 2 bit veri depolamayı mümkün kılıyor, böylece memory kapasitesi ikiye katlanıyor. 
+     Samsung ile rakipleri Toshiba ve SanDisk'in bu alandaki rekabetinin devam etmesi, Samsung'un atağına diğerlerinin de yanıt vermesi bekleniyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 301663 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/28/son/sonspo32.html </URL>
+<DATE> 2004/12/28/ </DATE>
+<TIME> 18.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Futbolda hakem notları UEFA düzenlemeleri esas alınarak uygulanacak 
+</HEADLINE>
+<TEXT>
+
+     Futbol Federasyonu Merkez Hakem Kurulu MHK Başkanı Sabri Çelik, gözlemciler tarafından hakemlere verilen notların, 1 Ocak 2005'ten itibaren UEFA düzenlemeleri esas alınarak uygulanacağını bildirdi. 
+     MHK Başkanı Çelik, yaptığı yazılı açıklamada, Türkiye'de kullanılmakta olan gözlemci raporunun, UEFA'nın kullandığı raporla aynı olduğunu vurgularken, UEFA'nın yeni uygulamaya koyduğu, gözlemci raporunda verilen notlara karşılık olan yeni anlamların, 1 Ocak'tan itibaren Türkiye'de de tüm maçlarda kullanılmaya başlanması kararı aldıklarını kaydetti. 
+     Yeni yıldan itibaren uygulanacak sayısal not değerlendirmesi şöyle 
+     9.0-10 Mükemmel performans Eksiksiz . 
+     8.5-8.9 Çok iyi Çok beğenilen performans . 
+     8.0-8.4 İyi Yeterli performans . 
+     7.5-7.9 Tatmin edici Geliştirilmesi gereken noktalar var . 
+     7.0-7.4 Vasat performans Beklentilerin altında . 
+     6.0-6.9 Kötü performans Tatmin edici olmayan performans . 
+     5.0-5.9 Çok kötü performans Kabul edilemez . 
+     
+</TEXT>
+</DOC>

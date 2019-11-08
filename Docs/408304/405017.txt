@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 405017 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/20/son/soneko19.html </URL>
+<DATE> 2005/12/20/ </DATE>
+<TIME> 11.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tokyo Borsası'nda "Güvenilirlik" krizi... 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın en büyük ikinci borsası konumundaki Tokyo Borsası'nın başkanı ve üst düzey yöneticileri, son günlerde yaşanan bir dizi sorunun, borsanın güvenilirliğini tehdit etmesi üzerine istifa kararı aldı. 
+     Tokyo Menkul Kıymetler Borsası'ndan yapılan açıklamada, sistemde ard arda yaşanan problemler sonrasında, Borsa Başkanı Takuo Tsurushima ve bazı üst düzey yöneticilerin yanı sıra borsada etkili bir isim olan Yönetim Kurulu Başkanı Taizo Nishimuro'nun da istifa kararı aldığı belirtildi. 
+     Geçen ay, bilgisayar sisteminde meydana gelen arıza nedeniyle Tokyo Borsası neredeyse bütün gün işlem yapamamıştı. 
+     Geçtiğimiz günlerde de bir şirketin hisse senetlerini fiyatlandırmada yanlışlık yapılmış, bir süre sonra hata anlaşılmış, buna karşın borsa yönetimi ''yanlış talimatla dahi olsa'' yapılmış bir işlemin durdurulamayacağını açıklamıştı. 
+     
+</TEXT>
+</DOC>

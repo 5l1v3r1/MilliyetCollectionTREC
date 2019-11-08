@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 256955 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/21/ekonomi/eko06.html </URL>
+<DATE> 2004/07/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Fiat ve Microsoft'tan otomotivde işbirliği 
+</HEADLINE>
+<TEXT>
+
+
+
+Yeni araçlarında teknolojiden daha fazla yararlanmak isteyen İtalyan otomobil üreticisi Fiat'la, yazılım şirketi Microsoft işbirliğine gitti. Anlaşma sekiz yıldır otomotiv pazarına girmek için ar - ge çalışmaları yapan Microsoft'un şimdiye dek imzaladığı en büyük anlaşma oldu. 
+Fiat tarafından yapılan açıklamada, şirketin üreteceği otomobillerin kablosuz iletişim sistemlerinin Microsoft tarafından sağlanacağı bildirildi. Fiat grubunun diğer markaları Alfa Romeo ve Lancia da işbirliğinden faydalanacak. 
+
+Otomobilden net'e girilecek 
+Fiat'ın otomobillerine 2005 yılından itibaren monte edilmesi planlanan 'Microsoft Windows Automotive' yazılımı sayesinde sürücüler, bluetooth teknolojisiyle internete bağlanabilecek, cep telefonuyla iletişim kurabilecek. Dijital müzik içeriklerini de USB bağlantısı ile arabalarında çalabilecekler. Fiat CEO'su Herbert Demel, "Kablosuz iletişim sistemli otomobiller yüksek satış rakamlarına ulaşacak' dedi. 
+
+
+</TEXT>
+</DOC>

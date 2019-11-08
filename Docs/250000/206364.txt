@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 206364 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/04/son/sondun16.html </URL>
+<DATE> 2004/01/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Otomobiliniz konuşuyor Alkollüsünüz, çalışmıyorum .. 
+</HEADLINE>
+<TEXT>
+
+     İngiltere'de, alkollü sürücünün otomobilini çalıştırmasına ve kullanmasına engel olacak bir cihaz geliştirildi. 
+     Polisin sürücülere uyguladığı alkol kontrolü sırasında kullanılanlara benzeyen cihaz, sürücünün yasal limitlerin üzerinde alkollü çıkması halinde otomobilin çalışmasına engel olacak. 
+     Sistem, sürücünün otomobiline her binişinde, motoru çalıştırmasından önce, bir cep telefonu büyüklüğündeki cihaza üflemesiyle aktif hale geliyor. Cihazın sürücünün alkollü olduğunu tespit etmesi halinde, motor çalışmıyor. Cihaz, polis merkezini de, sürücünün alkollü olduğu yolunda uyarıyor. 
+     İngiliz hükümetinin cihazı özellikle sürekli alkollü araç kullanırken yakalanan sürücülerin otomobillerine yerleştirmeyi planladığı belirtiliyor. 
+     Konuyla ilgili açıklama yapan Ulaştırma Bakanlığı sözcüsü, ''20 yıldır alkollü araç kullanılmasını engellemek için pek çok kampanya yaptık. Bunlarda başarılı da olduk. Ancak sorunu tümüyle aşmış sayılmayız. Özellikle bazı sürücüler, aynı suçu üst üste defalarca işlemekten kaçınmıyor. Bu tür teknolojik gelişmelerden faydalanarak, sorunun aşılabileceğini düşünüyoruz'' dedi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 336797 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/25/son/sonyas07.html </URL>
+<DATE> 2005/04/25/ </DATE>
+<TIME> 09.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+200 rakama akıldan hesap 
+</HEADLINE>
+<TEXT>
+
+     24 yaşında bir Fransız öğrenci, 200 rakamlı bir sayının 13'üncü kökünü akıldan dokuz dakikada hesapladı. 
+     The Telegraph'ın haberine göre, 390 trilyon olasılık içinden 16 rakamlık yanıtı bulan bilgisayar bilimi öğrencisi Alexis Lemaire, akıldan aritmetikte şimdiye kadar denenmiş en zor işlemi çözdü. 
+     13'ün kökleri akıldan aritmetikte en zorlayıcı sorulardan, çünkü asal bir sayı olan 13'ün kökleri, diğer sayıların köklerinden yola çıkarak bulunamıyor. Asıl kapasitesini haziranda 'üç dakika'ya sığdıracağı rekor denemesine saklayan öğrencinin akıldan bulduğu yanıt şöyle 23914814946-36373. 
+     
+</TEXT>
+</DOC>

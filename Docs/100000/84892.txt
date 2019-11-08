@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 84892 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/05/19/son/sondun04.html </URL>
+<DATE> 2002/05/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Melissa virüsünü yarattı 20 ay hapis yedi.. 
+</HEADLINE>
+<TEXT>
+
+     Tüm dünyada yaklaşık 100 milyon dolar zarara neden olan ''Melissa'' bilgisayar virüsünün yaratıcısı David Smith, 20 ay hapse mahkum edildi. Smith, FBI yetkilileri tarafından New Jersey'de yakalanmıştı. 
+     İnternette yer alan habere göre, Smith'in yazdığı Melissa, bilgisayarları kullanılmaz hale getirmeden önce, kendisini Microsoft Outlook adres defterindeki diğer 50 isme yollayarak yayılmıştı. 
+     New Jersey eyaletinde yargılanan Smith için istenen ceza başlangıçta 10 yıl hapis ve 50 bin dolar para cezası iken, davacılar, Smith'in diğer virüs yaratıcılarını yakalamakta yardımcı olmaya söz vermesi nedeniyle mahkemeye cezanın hafifletilmesini önerdiler. Mahkeme de diğer korsanların yakalanmasına yardım edeceğine söz veren David Smith'i 20 ay hapis cezasına mahkum etti. 
+     Çeşitli raporlara göre, siber saldırıların yüzde 90'ı yazılım-donanım üreticileri tarafından yayınlanan yamalarla giderilebilecek güvenlik açıklarını kullanıyor. İnternet analistleri, yamaların mevcut olduğunu ama bilişim profesyonellerinin bunları yüklemek ya da kurmakla vakit kaybetmek istemediklerini savunuyorlar. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

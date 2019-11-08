@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 403638 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/15/son/sondun38.html </URL>
+<DATE> 2005/12/15/ </DATE>
+<TIME> 17.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Çin'de bir kişide daha kuş gribi görüldü 
+</HEADLINE>
+<TEXT>
+
+     Çin'de bir kişinin daha kuş gribine yakalandığı tespit edildi. Böylece Çin'de kuş gribi bulaşan insanların sayısı altıya çıktı. 
+     Çin Sağlık Bakanlığı'ndan verilen bilgiye göre, ülkenin doğusundaki Ciangşi eyaletinde 4 aralık günü yüksek ateş ve zatürree belirtilerinden dolayı hastaneye yatan Guo soyadlı 35 yaşındaki seyyar satıcıya laboratuvar testleri sonunda H5N1 tipi kuş gribi virüsü bulaştığı kesinlik kazandı. 
+     Yeni Çin Haber Ajansı, hastanede tedavi gören hastayla temasta bulunan kişilerin de kontrol altına alındığını ve şu ana kadar bu kişilerde olağan dışı bir durum görülmediğini bildirdi. 
+     Bu arada, Çin Tarım Bakanlığı tarafından yapılan açıklamada, Guo'nun yaşadığı Çiencian kasabasına bağlı Şangşi köyünde bir köylü tarafında yetiştirilen ve kısa süre önce ölen 1640 ördeğin H5N1 tipi kuş gribi virüsünden öldüğünün laboratuvar testleri sonunda kesinlik kazandığı kaydedildi. 
+     Vakanın görüldüğü yerin 3 kilometre yakınında bulunan 15 bin kümes hayvanı itlaf edildi. 
+     Bu yıl içinde Çin'de toplam 11 eyalette hayvanlar arasında 30 H5N1 tipi kuş gribi vakası görülmüştü. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 315106 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/14/son/soneko44.html </URL>
+<DATE> 2005/02/14/ </DATE>
+<TIME> 17.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Serbest piyasada dolar 1.3180 YTL 
+</HEADLINE>
+<TEXT>
+
+     İstanbul ve Ankara serbest piyasalarında alınıp satılan döviz türlerinin, Cuma günkü ve bugün itibariyle alış ve satış kapanış fiyatları şöyle 
+     
+
+İSTANBUL SERBEST PİYASA Cuma Alış Cuma Satış Pazartesi Alış Pazartesi Satış ABD Doları 1.3190 1.3240 1.3130 1.3180 Avro 1.6970 1.7030 1.7030 1.7100 İng. Sterlini 2.4470 2.4700 2.4600 2.4850 İsviçre Frangı 1.0850 1.0930 1.0900 1.1100      
+
+ANKARA SERBEST PİYASA Cuma Alış Cuma Satış Pazartesi Alış Pazartesi Satış ABD Doları 1.3200 1.3280 1.3110 1.3210 Avro 1.6990 1.7080 1.6990 1.7120 İng. Sterlini 2.4490 2.4810 2.4520 2.4890      
+</TEXT>
+</DOC>

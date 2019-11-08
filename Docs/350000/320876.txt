@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 320876 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/04/son/sonyas19.html </URL>
+<DATE> 2005/03/04/ </DATE>
+<TIME> 11.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sahibini tanıyan telefon... 
+</HEADLINE>
+<TEXT>
+
+     Japonlar, yakında sahibini tanıyan telefon üretecek. 
+     Araştırmacıların üzerinde çalıştığı müstakbel telefonlar, sahiplerinin yüz hatlarını tanıyacak ve dolayısıyla sadece sahiplerince kullanılabilecek. 
+     Araştırmacılar, bunu sağlayacak ''biyometrik'' tekniği cep telefonuna uyarlayacaklarını kaydettiler. Telefon üzerindeki fotoğraf makinası, sahibinin fotoğrafını hafızasında bulunduracak ve gereken kıyası yaptıktan sonra telefonu devreye sokacak. 
+     Omron şirketinden bir yetkili, bu sistemin, kaybedilmesi ya da çalınması halinde cep telefonlarındaki bilgilerin korunması amacına yönelik olarak geliştirildiğini belirtti ve telefonların artık sıradan bir haberleşme aleti olmaktan çıkıp çeşitli hizmetlerin alındığı karmaşık bir aygıt işlevini üstlendiğini hatırlattı. 
+     
+</TEXT>
+</DOC>

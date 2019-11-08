@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 200119 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/06/guncel/gun03.html </URL>
+<DATE> 2003/12/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Canlı bomba için koklayan dedektör 
+</HEADLINE>
+<TEXT>
+
+   Havalimanlarına üst aramalarında patlayıcıları anında tespit edecek dedektörler yerleştirilecek 
+      
+   Türkiye'deki havalimanlarında yolcu ve bagaj kontrolleri, son teknoloji ürünü EDS Patlayıcı Tanıma Sistemi ve EDDS Patlayıcı ve Düzeneklerini Tanıma Sistemi güvenlik sistemleriyle yapılacak. Kurulacak bomba koklama dedektörleri de üst aramalarında patlayıcı ve düzeneklerini anında belirleyecek. 
+   Avrupa Sivil Havacılık Konferansı'nın havalimanlarında güvenlik önlemlerini yükseltmelerini istemesi üzerine Türkiye, EDS ve EDDS cihazlarını kullanmaya karar verdi. Bu sistemde, yolcuların banda bıraktığı bagajların bant üzerinde röntgeni çekiliyor. Cihaz, patlayıcı ve düzenekleri bulunan bagajların uçağa gitmesini önleyerek, bu bagajları başka bir banda aktarıyor ve yeni bir güvenlik noktasına gönderiyor. Bagajlar, bu birimde ayrıntılı bir incelemeden geçiriliyor. Sistemin Esenboğa, Adnan Menderes, Milas, Dalaman ve Atatürk Havalimanı dış hat terminalleriyle altyapısı uygun havalimanlarının dış hat terminallerine kurulması hedefleniyor. 
+   
+   
+   
+   
+   
+</TEXT>
+</DOC>

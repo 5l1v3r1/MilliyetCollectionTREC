@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 392049 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/03/son/sonyas11.html </URL>
+<DATE> 2005/11/03/ </DATE>
+<TIME> 19.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Google sanal kütüphanesinin kapılarını açtı 
+</HEADLINE>
+<TEXT>
+
+     İnternetin bir numaralı arama motoru Google, sanal kütüphanesi ''Google Print''in kapılarını bugün dünyaya açtı. 
+     Merkezi California-Mountain View'da bulunan Google firmasından yapılan açıklamada, ''http print.google.com'' adresine giren kullanıcıların, sanal kütüphanenin şimdilik ''küçük bir bölümünden'' faydalanabilecekleri belirtildi. 
+     Sanal kütüphanenin bu ilk aşamasında, telif hakları yasası haricindeki kamuya mal olmuş eserlerin dijital versiyonlarının kullanıma açık olduğu belirtilen açıklamada, bunların arasında Michigan, Harvard, Stanford üniversiteleri ile New York Halk Kütüphanesi tarafından sağlanan tarihi ve siyasi eserlerin bulunduğu kaydedildi. 
+     Google firması, ünlü Amerikalı yazar Henry James veya ünlü New Yorklu yazarların biyografilerinin şu anda kullanıma açık olduğunu belirtirken, telif haklarına dahil kitaplarla ilgili ilerdeki tutumunun ne olacağını açıklamadı. 
+     Önde gelen Amerikan ve İngiliz üniversite ve kütüphanelerindeki tüm kitapları ''tarayarak'' internet kullanıcılarının hizmetine sunma projesi Google Print, birçok yazar ve yayıncının tepkisiyle ve açtıkları davalarla karşı karşıya kalmıştı. 
+     Yazın askıya alınan kitapları tarama işlemi, Google'ın telif hakları yasasına dahil kitaplara dair güvence vermesi üzerine 1 Kasım'da yeniden başlamıştı. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 318037 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/23/son/sonyas05.html </URL>
+<DATE> 2005/02/23/ </DATE>
+<TIME> 07.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+FBI'dan internet kullanıcılarına "FBI virüsü" uyarısı... 
+</HEADLINE>
+<TEXT>
+
+     Amerikan Federal Soruşturma Bürosu FBI , internet kullanıcılarına FBI'dan geliyormuş gibi gözüken e-postaları açmamaları uyarısında bulunarak, bu e-postaların virüs içerdiğini duyurdu. 
+     FBI tarafından yapılan açıklamada, FBI'ın halka bu şekilde e-postalar yollamadığı vurgulanarak, internet kullanıcılarının yaygın şekilde almaya başladığı bu tarz e-postaların FBI'dan gelmediğinin bilinmesi istendi. 
+     Sözkonusu e-postada internet kullanıcılarına yönelik olarak FBI'a bağlı İnternet Dolandırıcılığı Şikayet Merkezi tarafından izlendiklerine ve yasadışı web sitelerine girdiklerinin tespit edildiğine dair uyarılar yer aldığı kaydedildi. Daha sonra e-postanın internet kullanıcılarını bir dosyaya yönlendirdiği ve bu dosyada yer alan soruları cevaplamalarını istediği belirtilirken, bu dosyanın bilgisayar virüsü içerdiği bildirildi. 
+     Bilgisayar kullanıcılarına bu tür dosyaları açmamaları konusunda uyarıda bulunan FBI'ın İnternet Dolandırıcılığı Şikayet Merkezi adı altında bir biriminin olduğu, ancak bu birimin sıradan internet kullanıcılarını değil, çöp posta yollayanları izleyerek tespit etmeye çalıştığı belirtildi. 
+     
+</TEXT>
+</DOC>

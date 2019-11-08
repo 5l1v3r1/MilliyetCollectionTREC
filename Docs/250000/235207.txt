@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 235207 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/27/son/soneko08.html </URL>
+<DATE> 2004/04/27/ </DATE>
+<TIME> 09.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tokyo Borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     Tokyo Menkul Kıymetler Borsası, kapanışta değer kaybetti. 
+     Nikkei Endeksi, 119.01 puan yüzde 0.97 gerileyerek, 12,044.88 puandan kapandı. 
+     Nikkei Endeksi, yılbaşından bu yana ortalama yüzde 13 oranında değer kazandı. 
+     Öte yandan, ABD Doları da, Japon Yeni karşısında gerileyerek, 108.66 yen düzeyinden işlem gördü. 
+     
+</TEXT>
+</DOC>

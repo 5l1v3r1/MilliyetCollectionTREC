@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> 239056 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/11/son/soneko35.html </URL>
+<DATE> 2004/05/11/ </DATE>
+<TIME> 15.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+MB İktisadi Yönelim Anketi'nde "genel gidişat olumlu" sonucu çıktı 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası, katılımcıların, genel gidişat konusundaki olumlu görüşlerinin geçen aya kıyasla bir miktar yükseldiğinin gözlendiğini bildirdi. 
+     Merkez Bankası, sanayi sektöründe faaliyet gösteren 447 özel firma yöneticisi arasında yapılan İktisadi Yönelim Anketi Nisan ayı sonuçlarını açıkladı. 
+     Buna göre, ortalama birim maliyet beklentilerindeki kötüleşmenin etkisiyle, gelecek üç aylık dönemdeki TEFE enflasyonu azalış beklentileri geçen aya kıyasla belirgin olarak yavaşladı. 
+     Yıl sonu ve gelecek on iki aydaki TEFE enflasyonu beklentilerinin ise sırasıyla yüzde 12.9 ve yüzde 12.5 olarak belirtildiği görüldü. 
+     İç talebe ilişkin, iç piyasadan alınan yeni sipariş miktarı ve iç pazara satılmış olan mal hacmi son üç ay eğilimlerinde, geçen aya ve özellikle geçmiş yılların aynı dönemine kıyasla belirgin bir iyileşme oldu. 
+     Gelecek üç aydaki artış beklentileri ise geçen aya kıyasla gerilerken, dış talebe ilişkin olarak ihracat piyasasından alınan yeni sipariş miktarı ve dış pazara satılmış olan mal hacmi son üç ay değerlendirmelerinde, geçen aya kıyasla olan artışların bir kısmının mevsimsellikten kaynaklanmasına rağmen bu kalemlerin aldığı değerlerin geçmiş yılların aynı dönemleri içerisindeki en yüksek değerler oldu. 
+     Gelecek üç ayda ihracattaki olumlu gidişatın genel olarak sürmesi bekleniyor. 
+     
+     STOK MİKTARI 
+     Nisan ayında mamul mal stoklarında ''normal üstü'' diyenlerin lehine olan seyir mevsimsellikten arındırıldığında bir miktar artmasına rağmen, son dönemdeki olumlu iç ve dış talep değerlendirmelerine ve stoklara ilişkin geçen ayki beklentilere paralel olarak son üç aydaki mamul mal stok miktarında bir miktar azalma oldu. 
+     Gelecek üç aylık dönemde de mamul mal stoklarında düşüş bekleyenlerin lehine olan geçen ayki seyrin bu ay da korunduğu görüldü. 
+     Hammadde stoklarında ise son üç aylık dönemde stoklar bir miktar yükseldi ve gelecek üç aylık dönemde de bu seyrini korumasının beklendiği ifade edildi. 
+     
+     KAPASİTE KULLANIMI 
+     Nisan ayında kapasite kullanım eğiliminin, geçen aya kıyasla bir miktar gerilemesine rağmen yine de belirgin bir şekilde önceki ayda olduğundan ''daha fazla'' kapasite ile çalıştıklarını belirtenlerin lehine olduğu görüldü. 
+     Üretim hacminde son üç aya ilişkin olumlu değerlendirmeler ise Nisan ayındaki olumlu talep ve kapasite kullanım oranı değerlendirmelerine ek olarak mevsimselliğin de etkisiyle önemli oranda iyileşti. Gelecek üç aylık dönemdeki üretime ilişkin olumlu beklentiler ise geçen aya kıyasla bir miktar geriledi. 
+     Toplam istihdam miktarı son üç ay değerlendirmeleri geçen aya kıyasla bir miktar arttı. Gelecek üç aylık dönemde ise istihdam beklentilerinde geçen aya kıyasla bir miktar gerilemenin olduğu ve bu anlamda üretim ve talepteki olumlu seyrin henüz istihdam beklentilerine yansımadığı görüldü. 
+     Diğer taraftan gelecek on iki aydaki yatırım harcaması beklentilerinde seksen dört aydan sonra ilk defa eğilimin ''daha fazla'' yatırım yapmayı bekleyenlerin lehine döndüğü görüldü. 
+     
+     ORTALAMA BİRİM MALİYET 
+     Ortalama birim maliyete ilişkin gelecek üç aylık dönemdeki artış beklentilerinin geçen aya kıyasla belirgin olarak yükselmesine rağmen bunun aynı dönemdeki yeni alınan iç pazar siparişleri için ortalama fiyat beklentilerine henüz yansımasının beklenmediği belirlendi. 
+     Ortalama birim maliyet beklentilerindeki kötüleşmenin etkisiyle gelecek üç aylık dönemdeki TEFE enflasyonu azalış beklentileri geçen aya kıyasla belirgin olarak yavaşlarken, yıl sonu ve gelecek on iki aydaki TEFE enflasyonu beklentilerinin ise sırasıyla yüzde 12.9 ve yüzde 12.5 olarak belirtildiği görüldü. 
+     Katılımcıların, genel gidişat konusundaki olumlu görüşlerinin geçen aya kıyasla bir miktar yükseldiği gözlendi. Bu yükselişte, içinde bulunduğu sanayi dalı hakkında bir ay öncesine kıyasla ''daha iyimser'' olanların oranında önemli bir değişim gözlenmemesine rağmen, ''daha kötümser'' olanların oranının yüzde 9.3'ten 8.1'e gerilemesinin etkili olduğu görüldü. 
+     
+</TEXT>
+</DOC>

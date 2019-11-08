@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 161074 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/04/son/sontur10.html </URL>
+<DATE> 2003/06/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Telefon görüşmelerinizi arşivleyebilirsiniz... 
+</HEADLINE>
+<TEXT>
+
+     Kayseri'de bir bilgisayar programcısı, 4 aylık çalışma sonucu, piyasada 5 bin dolar olan telefon görüşmesi arşivleme sistemi ile aynı işlevi gören cihaz üretti. 20 dolara satılan cihaz, telefonda sipariş alan firma temsilcilerinin yanı sıra kıskanç eşler ve bakıcıya çocuk bırakan ebeveynlerce de tercih ediliyor. 
+     Birtel İletişim ve Bilgisayar Sistemleri Limited Şirketi Yönetim Kurulu Üyesi, bilgisayar programcısı Alper Ayvalı, geliştirdiği cihazın temel işlevinin, telefonda yapılan görüşmeleri bilgisayara kaydetmek olduğunu söyledi. 
+     Ara kablolarla telefon hattına ve bilgisayarın ses kartına bağlanan cihazın, akıllı yazılım kartı sayesinde konuşmaları ses dosyası halinde bilgisayara kaydettiğini bildiren Ayvalı, şunları anlattı 
+     ''Büyük firmalarda telefonla sipariş alan satış elemanları, kağıt, kalemle not tutmak yerine sistemin kayda aldığı konuşmaları sonradan dinleyebiliyor. Konuşmalar, başka klasörlere taşınabildiğinden, müşterilerle yapılan bağlantıların bulunduğu dosyaya bu ses kaydı eklenebiliyor, istenildiğinde bu ses dinlenebiliyor. Ses kaydı internet üzerinden herhangi bir adrese de gönderilebiliyor.'' Ayrı bir cihaz yardımıyla bir bilgisayarda 32 hatta yapılan konuşmaların kaydedilebildiğini ifade eden Ayvalı, ''Cihazla aynı işlevi gören ithal cihazlar 5 bin dolardan başlayan fiyatlarla satılmaktadır. 20 dolara satılan tek hatlı sistemi, teknik elemana gereksinim duyulmadan herkes kurabilir'' dedi. 
+     
+     CİHAZ, KISKANÇ EŞLERİN DE TERCİHİ 
+     Brokırlar, finans kurumları, telefonla not alma ihtiyacı duyan şirket elemanları ve gazetecilerin kullanabildiği cihazın başka alanlarda da tercih edildiğini belirten Ayvalı, şunları söyledi 
+     ''Cihaz, büyük firmalardaki kabarık telefon faturaları için caydırıcı nitelik taşıdığı gibi, telefon sapıklarına karşı da önlem alınmasını sağlıyor. Bir başka talep de kıskanç eşlerden geliyor. Evde bulunmadıkları sürede telefonla yapılan görüşmeleri sonradan dinleyebiliyorlar. Ayrıca çalışan eşlerin çocuklarını bıraktıkları bakıcıların evde telefonla dışarıdan bir başkasıyla görüşüp, görüşmediklerini tespit edebilirler. Cihaza takılabilen ek bir donanımla, telefon dışında oda dinleme sistemi de kurulabiliyor. Akşam eve gelen ebeveynler, gün içinde nelerin konuşulduğunu, çocuğa nasıl davranıldığını öğrenebiliyorlar.'' Alper Ayvalı, cihaza patent almak için gerekli başvuruda bulunduklarını da bildirdi. 
+     
+</TEXT>
+</DOC>

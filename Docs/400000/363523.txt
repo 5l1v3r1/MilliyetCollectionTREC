@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 363523 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/22/son/sonyas08.html </URL>
+<DATE> 2005/07/22/ </DATE>
+<TIME> 12.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ay'ı internette keşfedin... 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın en büyük arama motoru Google, Neil Armstrong ve Edwin ''Buzz'' Aldrin'in ayda yürümelerinden tam 36 yıl sonra, harita hizmetine ay yüzeyini de ekledi. 
+     Google Moon hizmeti, ''Google Maps'' gibi en yakındaki lokanta veya kullanılacak yolları göstermemesine karşın, ay yüzeyine ''zoom'' yapılmasına ve etrafa bakılmasına olanak sağlıyor. 
+     http moon.google.com adresinde başlatılan yeni hizmet sayesinde, 6 Apollo uçuşunun indiği yerleri de görmek mümkün oluyor. 
+     Bu yeni hizmetin, Google'ın ''Maps'' ve ''Earth'' gibi diğer hizmetleriyle birlikte özellikle öğrenim çağındakilerin ilgisini çekeceği sanılıyor. 
+     
+</TEXT>
+</DOC>

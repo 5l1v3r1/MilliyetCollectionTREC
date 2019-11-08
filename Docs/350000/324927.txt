@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 324927 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/18/son/sonyas17.html </URL>
+<DATE> 2005/03/18/ </DATE>
+<TIME> 11.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Cilt kanserine yol açan protein tespit edildi 
+</HEADLINE>
+<TEXT>
+
+     Amerikalı bilim adamları, cildin ''yapıştırıcısı'' olan bir proteinin mutasyonunun, kanserli hücrelerin yayılmasına neden olduğunu tespit ederek, cilt kanserinin tedavisinde önemli bir adım attılar. 
+     Science dergisinde yayınlanan ve California'daki Stanford Üniversitesi Tıp Fakültesi'nde yürütülen bir araştırmada, cildin birarada tutulmasında yapıtaşı olan ''kolajen 7'' adlı fibröz proteinin aynı zamanda kanserli hücrelerin yayılmasına neden olduğu tespit edildi. 
+     Cilt kanseri tedavisi alanında önemli bir adım sayılan bu araştırmada, bilim adamları, ciltte kabarcıklar ile lezyonlara neden olan ve üstderinin epiderm önemli bir katmanını etkileyen ender bir hastalığa kabarcıklı epidermoliz-RDEB yakalanan 12 çocuğu incelediler. 
+     Çocukların üçte ikisinde hastalığın gelişimi sırasında bir cilt kanseri şekli olan ''epitelioma spinosellüler'' belirlendi. Cilt kanserinin en yaygın ikinci şekli olan bu hastalık, ABD'de yılda 200 bin vakaya neden oluyor. 
+     12 çocuktan alınan deri örneklerini inceleyen Stanford Üniversitesi öğretim üyeleri, çocuklardan dördünün, kansere neden olan moleküler mekanizma harekete geçmesine karşın kanser olmadıklarını tespit ettiler. 
+     Kanser gelişmeyen dört çocuktan alınan örnekleri inceleyen bilim adamları, genetik mutasyonun bu çocuklarda ''kolajen 7'' oluşumunu engellediğini belirlediler. 
+     Kansere yakalanan sekiz çocuktan alınan örneklerdeyse, ''kolajen 7'' proteininin bir parçasının oluşumuna neden olan başka genetik mutasyona rastlandı. 
+     Kanserli hücreleri daha sonra deney farelerine nakleden bilim adamları, ''kolajen 7'' proteinini bir antikorla hapsederek kanserin yayılmasını engellediler. 
+     
+</TEXT>
+</DOC>

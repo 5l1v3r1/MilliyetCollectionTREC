@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 216446 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/20/son/sondun05.html </URL>
+<DATE> 2004/02/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Akciğer kanserini durdurabileceği iddia edilen ilaç denendi 
+</HEADLINE>
+<TEXT>
+
+     ABD'de deneme aşamasındaki bir ilaç, bazı hastalarda akciğer kanserini temizlerken, bazılarında da hastalığın yayılmasını yavaşlattı. 
+     Dallas'taki ''Baylor University Medical Center''da, Dr. John Nemunaitis öncülüğündeki ekip tarafından geliştirilen ilaçla ilgili denemeler konusundaki bilimsel makale, ''Journal of the National Cancer Institute''un Çarşamba sayısında yayımlandı. 
+     ''GVAX'' adlı ilaç, 3 yıl boyunca hastalığın en yaygın şekli olan ve sigara içimiyle de ilişkili olan, kemoterapiye dirençli ''non-small cell'' tipini taşıyan 43 hasta üzerinde denendi. Bunlardan, ilerlemiş haldeki üçünde hastalık ortadan kalktı. Bu 3 hastanın 2'sinde kemoterapiyle sonuç alınamamıştı. Deneme yapılan 43 hastadan 10'u hastalığın erken, 33'ü de ilerleyen aşamasını taşıyordu. İlerlemiş haldeki diğer hastalarda ise hastalık istikrarlı hale geçti yayılması, 5 ay ile 2 yıl arasında değişen süreler içinde durdu. Hastalığın erken aşamalarını taşıyanlarda ise ilaç, büyük etki göstermedi. 
+     Hastalara, tümörlerinden alınmış hücreleri de içeren ilaç, kol ve bacaklarından enjekte edildi. İlaçtaki bu kanserli hücrelere CM-CSF adlı gen eklenerek, vücudun bunları ''yok edilmesi gereken hücre'' olarak tanıması sağlandı. Vücudun bağışıklık sistemi, böylece kanserli hücreleri yok etmeye başladı. 
+     Aynı yöntem, deri ve böbrekteki kanserlere karşı da umut verici sonuçlar sağladı. 
+     Araştırmacılar, ruhsat için 3 yıl içinde ABD Gıda ve İlaç Dairesi'ne başvurma umudunda olduklarını belirtiyorlar. İlaç ruhsat alırsa, CellGenesis adlı ilaç firmasınca piyasaya çıkarılacak. 
+     
+</TEXT>
+</DOC>

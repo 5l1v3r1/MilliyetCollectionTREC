@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> 204538 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/26/son/sondun02.html </URL>
+<DATE> 2003/12/26/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Mars uydusundan ses yok 
+</HEADLINE>
+<TEXT>
+
+     Avrupa Uzay Kurumu'nun ESA Mars'a bugün indirmeyi beklediği 66 santimlik minik uydu Begale-2'den yüzeye iniş işareti alınamadı. 
+     İngiltere-Cheshire'daki Jodrell Bank Gözlemevi'nde 19 saatlik heyecanlı bekleyiş sonunda yüzeye iniş anından hiçbir kayıt gelmedi. 
+     Güneş panelleri açıkken 1 metre 90 santim genişliğinde şemsiye boyutundaki uydudan, Mars'a iniş yolunu belgeleyecek 9 tonlu ilk işaret de alınamamıştı. 
+     Bugün TSİ 02.30'dan az önce, İngiltere'nin fizik-gökbilim kurumu ve Joddrell Gözlemevi'nden yapılan açıklamada, Beagle-2'nin akıbeti için bugün TSİ 20.15 anının bekleneceği belirtildi. 
+     Bu saatte, Mars yörüngesinde dolanan ABD'nin Mars Odyssey aracından Beagle'ın ''üstten görünümü'' hakkında işaret bekleneceği kaydedildi. 
+     Odyssey'den beklenecek üçüncü girişimden de sonuç alınamazsa, Avrupa'nın bir gökcismine araç indirmedeki ilk deneyinin başarısız kaldığının, Beagle'ın da birçok Mars yolcusu gibi kayıt dışı tenekeye dönüştüğünün anlaşılacağı belirtiliyor. 
+     
+     BAYKONUR'DAN BAŞLADI 
+     ESA veya diğer adıyla Avrupa Uzay Ajansı'nın AUA Beagle ve gezegen yörünge aracıyla birlikte ''Mars Ekspresi'' adını verdiği uydu, Mars yolculuğuna 2 Haziran 2003 akşamı başladı. 
+     Uyduyu taşıyan Rus Soyuz roketi, Kazakistan'daki tarihi Baykonur uzay üssünden fırlatıldı. Avrupa'nın Mars'a yolladığı bu ilk uydu, ''Kızıl gezegen''de yaşam izi aramak için planlandı. 
+     ''Mars Ekspresi'', 6 aydan uzun sürecek seyahatinde 400 milyon km. yol katettikten sonra bu ay sonunda Mars'a ulaştı. Gezegen çevresinde sabit yörüngeye oturmadan 6 gün önce Mars'a İngiliz yapımı Beagle-2 aracını indirmesi planlanmıştı. 
+     Mars'a indirilecek küçük mangal büyüklüğündeki Beagle küçük av köpeği aygıtı, evrim kuramının babası sayılan Charles Darwin'in kullandığı geminin adını taşıyor. 
+     ''Mars Ekspresi'', yörüngede seyrederken en az 1 Mars yılı 687 gün boyunca gezegeni ve atmosferini gözlemlerken, Beagle-2 de indiği ekvator bölgesinde yaşam izi aramak için yapıldı. 
+     Beagle-2 ve ''Mars Ekspresi''nde bulunan son derece gelişmiş aygıtlar arasında, yeraltı sondaj radarı, yüksek çözünürlüğe sahip kamera, atmosferi ve yüzeyi inceleyecek tayfölçerler, plazma analiz aygıtı bulunuyor. 
+     Beagle-2'nin fazlasıyla hassas ''burnu'', gaz analizi yaparak, eskiden ya da halihazırda biyolojik faaliyet olup olmadığını anlama yetisiyle donatıldı. 
+     ''Burun'', çevrede biyolojik süreçlere katılmış olabilecek karbonat varsa bunları ve metan gibi değişik gazları tespit emek için ayarlandı. 
+     Beagle-2 toprak altından ya da kaya diplerinden numune alacak aygıta da sahip. Bu işlemi yapacak ''köstebek'' adlı aleti, yüzeyde 6 saniyede 1 cm. yol alabilen ve kazarak 2 metre derine inebilen bir aygıt. 
+     
+     SIRLARINI KORUYOR 
+     Güneş sisteminin Dünya'dan sonra dördüncü gezegeni Mars, şimdiye dek çeşitli uzay araçlarınca ziyaret edilmiş ve incelenmiş olsa da insanları büyülemeye ve sırlarını saklamaya devam ediyor. 
+     Bilimadamları, Mars seferine başlarken okyanusları, yeşil bitki örtüsü ve canlılarıyla Dünya benzeri bir gezegen bulmayı umuyorlardı. Ancak Mars incelemelerinin öncüsü Mariner sondaları, 60'lı yıllarda bu beklentinin asılsız olduğunu gösterdi. Mars'ta çorak topraktan başka bir şey bulunamamıştı. 1976 yılında da Viking sondalarının Mars yüzeyinde yaşam izi bulma çalışmaları başarısızlıkla sonuçlandı. 
+     Ancak aradan bunca zaman geçtikten sonra bilim dünyası Mars hakkındaki fikrini değiştirdi. Uzay araçları sayesinde elde edilen yeni bilgiler, eskiden Mars'ta sıcaklığın çok daha yüksek olduğunu, gezegende okyanuslar bulunduğunu ve yaşamın gelişmiş olabileceğini gösteriyor. 
+     AUA proje sorumlularından Augustin Chicarro, ''Bu gezegenin başına neler geldiğini, onu neyin böyle soğuk ve çorak bir dünyaya çevirdiğini bilmiyoruz. Mars Ekspresi bu soruların yanıtlarını verecek. Mars'ın geçmişini, jeolojik yapısını ve evrimini öğrenebileceğiz'' diyordu. 
+     Beagle'la ilgili internet adresi 
+     www.beagle2.com. 
+     
+</TEXT>
+</DOC>

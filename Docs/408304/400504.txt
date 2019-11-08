@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> 400504 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/04/son/sontur03.html </URL>
+<DATE> 2005/12/04/ </DATE>
+<TIME> 10.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternet tutkunlarının yeni gözdesi Wimax 
+</HEADLINE>
+<TEXT>
+
+     Suat Karabıyık AA 
+
+Kablosuz interneti geniş alanlara yaymak üzere geliştirilen WiMax teknolojisi, internet tutkunlarının yeni gözdesi olmaya aday... WiMax, özellikle kablolu internet erişim imkanı bulunmayan alanlarda baz istasyonları aracılığı ile isteyenleri yüksek hızda internete ulaştıracak. 
+     Telekomünikasyon Kurumu, Türkiye'de henüz test aşamasında olan bu teknolojiyle hizmet verecek firmalar için lisanslama çalışmalarını gelecek yılın sonuna yetiştirmeye çalışıyor. 
+     Telekomünikasyon Kurumu Lisans ve Sözleşmeler Dairesi Başkanı Müminhan Bilgin, AA muhabirine yaptığı açıklamada, WiMax teknolojinin ana fonksiyonunun, geniş bant internet erişimine olanak sağlamak olduğunu belirtti. 
+     Geniş bant erişiminde şu anda Wi-Fi ve WiMax olmak üzere iki teknoloji kullanıldığını anımsatan Bilgin, Wi-Fi daha kısa mesafede kablosuz internet imkanı sağlarken, WiMax teknolojisinin baz istasyonları aracılığı ile geniş kitlelere erişim fırsatı sunduğunu kaydetti. 
+     Geniş bantta en ideal çözümleri sunabilen WiMax teknolojisinin, henüz gelişimini tamamlamadığını vurgulayan Bilgin, bu teknolojide baz istasyonları kurularak 4-5 kilometrelik alanda bilgisayara takılan aparatlarla kablosuz internete erişilebildiğini ifade etti. 
+     
+     ''YENİ BAZ İSTASYONLARINA İHTİYAÇ VAR'' 
+     Bilgin, bu teknolojiden yararlanabilmek için yeni baz istasyonlarının kurulmasına ihtiyaç duyulduğunu belirterek, bu iş için bir frekans tahsisi yapılması gerektiğini belirtti. 
+     Dünyada, 2.4, 3,5 ve 5.3 GHz frekans uygulamaları bulunduğunu dile getiren Bilgin, şunları söyledi 
+     ''Bizdeki uygulama için çalışmalar devam ediyor ama 5.3'ü düşünmüyoruz, diğerleri olabilir. Biz daha düşük GHz frekansları düşünüyoruz. Çünkü teknik olarak, frekans yüksekliği arttığında baz istasyonunun verimi azalıyor. Bu nedenle daha çok baz istasyonu kurulmasını gerektiriyor. Bölge daralıyor ve baz istasyonu ekonomiklik sınırından çıkıyor.'' WiMax teknolojisinin tamamen internete yönelik lokal çözümler sunduğunu, oysa cep telefonları için kurulan baz istasyonlarının daha genel hizmet verdiğini anlatan Bilgin, ''Cep telefonunu her yerde kullanabilmek için daha çok baz istasyonu tesis etmek gerekiyor. Ama WiMax teknolojisinde öyle değil. WiMax teknolojisinde, eğer teknoloji bölgesinde bulunuyorsanız, bu bölge için internet çok önemliyse burada baz istasyonu kurulabilir. Bu nedenle WiMax için her yerde baz istasyonu kurmak doğru değil, zaten ideal de değildir. Kesinlikle GSM yoğunluğunda bir baz istasyonu aplikasyonuna ihtiyaç yok'' diye konuştu. 
+     Bilgin, arabada, durakta, otobüste internet kullanmak istenilmesi halinde GSM şebekelerindeki kadar, hatta daha fazla baz istasyonu kurulmasının gerekebileceğini ancak bu kadar büyük bir ihtiyacın doğmasını beklemediklerini kaydetti. 
+     WiMax teknolojisinin yüksek hızda ve kablosuz internet imkanına ulaşabilmek için modem ve kablo ihtiyacını ortadan kaldırarak, büyük bir ucuzluk sağladığını vurgulayan Bilgin, WiMax teknolojisinin yaygınlaşmasının ADSL ve kablolu internet erişimini gölgede bırakacağını ifade etti. 
+     
+     LİSANSLAMA ÇALIŞMALARI 
+     Bilgin, WiMax teknolojisini kullanarak hizmet vermek isteyen işletmecilerin Telekomünikasyon Kurumu'ndan lisans almaları gerektiğini, Kurumun da geniş bant kablosuz erişim sistemleri lisanslarını verebilmek için hazırlıklarını sürdürdüğünü belirtti. 
+     Türkiye'nin örnek aldığı Avrupa'da, bu konuda henüz istenilen lisanslama pratiğine ulaşılamadığını, sadece Norveç ve Hollanda'nın bu teknolojiye ilişkin lisanslamaları gerçekleştirdiğini dile getiren Bilgin, Türkiye'nin de bu ülkeler arasına katılabilmesi için Telekomünikasyon Kurumu'nun, lisanslama çalışmalarını gelecek yıl sonuna kadar yetiştirmeye çalıştığını söyledi. Bilgin, lisansların verilmesinin 2007'ye sarkması halinde bile teknolojinin Türkiye'deki uygulamalarının, gelecek yıl şekillenmiş olacağını söyledi. 
+     Telekomünikasyon Kurumu Lisans ve Sözleşmeler Dairesi Başkanı Bilgin, Türkiye'de de bazı bölgelerde test işlemleri yapılan bu teknolojiyle ilgili faaliyet göstermek isteyen her firmanın lisans alabileceğini, internet servis sağlayıcılarının da buna dahil olduğunu kaydetti. 
+     
+</TEXT>
+</DOC>

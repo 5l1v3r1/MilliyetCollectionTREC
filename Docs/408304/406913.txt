@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 406913 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/27/yasam/yas07.html </URL>
+<DATE> 2005/12/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Otomobiller kendi kendine park edecek 
+</HEADLINE>
+<TEXT>
+
+
+Siemens, sokakta boş alan bulup otomobili otomatik olarak park eden bir sistem geliştirdi 
+
+
+Siemens firmasının mühendisleri, park etme sorunu yaşayan sürücülere büyük kolaylık getirecek bir sistem geliştirdi. Yeni sistem otomobillerin kendi kendine park etmesini sağlayacak. Almanya'da testleri yapılan sistem, boş park alanını da belirliyor. 
+
+Otomatik pilot gibi 
+Sisteme göre sürücü park edilecek alana yaklaşıldığı zaman otomobilin kontrölünü bir tür otomotik pilota bırakıyor. Otomotik pilot çeşitli manevralar gerçekleştirerek arabayı şasi yönüne dik bir yönde hareket ettirebiliyor. Böylelikle yanlamasına giden otomobil çok dar olsa da park edilecek alana girebiliyor. Gece görüşü, termal kamera, çeşitli sensör ve bilgisayardan oluşan sistem yanlış manevra yaptığında direksiyona titreşim yaptırıyor veya alarm çalıyor. 
+
+
+
+</TEXT>
+</DOC>

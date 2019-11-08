@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 113435 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/10/17/son/sondun06.html </URL>
+<DATE> 2002/10/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Matematik için suda taş sektirin... 
+</HEADLINE>
+<TEXT>
+
+     Bir Fransız fizikçi, çakıl taşını su üstünde kaydırma tekniğini iyileştirmek için matematik formül geliştirdi. 
+     Lyon üniversitesinden Lyderic Bocquet, formülüyle su üstünde taşın sekme derecesinin sadece hıza bağlı olduğunu, sekme sayısında el ve kol hareketinin ya da taş yüzeyinin önemli olmadığını gösterdi. 
+     Bocquet'ye göre, taşın suda en az bir kez sekebilmesi için hızının saatte en az 1 km olması gerekiyor. 
+     New Scientist dergisindeki makaleye göre, Bocquet 1992 yılında kırılan dünya taş sektirme rekoru 38 sekme için 10 cm büyüklüğündeki bir çakıl taşının saatte 40 km hızla gitmesi ve saniyede 14 kez kendi ekseni etrafında dönmesi grektiğini hesapladı. 
+     Makaleye göre, Fransız araştırmacı ve ekibi, şimdi hesaplarının doğru olup olmadığını görmek için, suya istenen hızlarda taş fırlatabilecek özel bir mancınık yapmayı tasarlıyor. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

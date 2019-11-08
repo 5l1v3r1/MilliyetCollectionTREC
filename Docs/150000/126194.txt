@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> 126194 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/12/22/son/soneko01.html </URL>
+<DATE> 2002/12/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kamu ihalelerine on-line takip... 
+</HEADLINE>
+<TEXT>
+
+     Kamu İhale Kurumu oluşturacağı sistemle, yurt çapındaki bütün ihaleleri elektronik ortamda günlük takibe alacak. 
+     Alınan bilgiye göre, Dünya Ticaret Örgütü'nün Cenevre'de yapılan son toplantısında üye ülkelerden ihalelerle ilgili bütün bilgilerin elektronik ortamda görünmesinin sağlanması istendi. Brezilya'nın bu konuda çok iyi bir model olduğunun ortaya konduğu toplantıda, ihale koşulları, ihaleye katılanlar ve sonuçlara ilişkin bilgilerin İnternet kanalıyla herkesin bilgisine açılması yönünde çalışma yapılması talep edildi. 
+     Kamu İhale Kurumu da, gerek Dünya Ticaret Örgütü'nün bu konudaki kararı, gerekse Türkiye'de daha şeffaf bir ihale yapısının sağlanması amacıyla, kamu ihalelerinin elektronik ortamda izlenmesine dönük çalışmalarını hızlandırdı. 
+     
+     SİSTEM 1 YILDA KURULACAK 
+     Yetkililer, kurulacak yeni sistem ile belediyeler dahil bütün kamu kuruluşlarının elektronik ortamda Kamu İhale Kurumu'na bağlanacağını belirttiler. Yeni sistemde, buna ilişkin altyapıyı kurma gücü olmayanların da, ihale bilgilerini manyetik ortamda idareye aktarması öngörülüyor. 
+     Kamu İhale Kurumu'ndan bir üst düzey yetkili, ''Bilgi İşlem Merkezimiz kanalıyla Türkiye'nin neresinde, ne tür ihale var, bunu izleyeceğiz. Önümüzdeki 1 yıl içinde kurulacak bu sistem ile kamu ihalelerinin yüzde 99'unu elektronik ortamda takip edebileceğiz'' dedi. 
+     
+     YASAKLI MÜTEAHHİTLER ÇIKARILIYOR 
+     Öte yandan Kamu İhale Kurumu, merkezde müteahhitler için de bir veri tabanı oluşturacak. 
+     Bu amaçla, bütün kamu kuruluşlarına birer yazı gönderildi ve son 5 yıl içinde ihalelerden yasaklanan ya da haklarında yargı takibatı yapılan müteahhitlerin isimlerinin bildirilmesi istendi. 
+     Kamu kuruluşlarının bu ay sonuna kadar Kuruma ileteceği bilgiler, bilgi işlem merkezine kaydedilecek ve müteahhitlere ilişkin bir veri tabanı meydana getirilecek. 
+     Bu şekilde müteahhitler ile ihale suçlularına ilişkin istatistikler de tutulacak. 
+     Yeni ihale mevzuatı ile de, son 5 yılda ihale suçu işleyen ya da haklarında yasak kararı bulunan müteahhitlerin kamu ihalelerine girmesi yasaklanıyor. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

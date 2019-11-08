@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 380583 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/22/son/soneko47.html </URL>
+<DATE> 2005/09/22/ </DATE>
+<TIME> 16.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa günü 398 puan düşüşle kapadı 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi 2. seansta, 1. seansa göre 163.11 puan azalarak 33,465.61 puandan kapandı. 
+     2. seansta, hisse senetlerinin ortalama değer kaybı yüzde 0.49 oldu. 
+     Endeks 2. seansa, 2.41 puan artarak 33,631.13 puandan başladı. Seansın ilk yarısını 33,764.70 puandan geçen endeks, seans içinde en düşük 33,366.91 puana kadar gerilerken, en yüksek olarak 33,823.80 puanı gördü. 
+     1. seanstaki 235.10 puanlık düşüş dikkate alındığında endeks günlük bazda 398.21 puan geriledi. Hisse senetlerinin günlük ortalama değer kaybı yüzde 1.18 olarak belirlendi. 
+     2. seans kapanışında, mali endeks 240.30 puan azalarak 50,477.68 puana, sanayi endeksi 73.29 puan azalarak 27,174.61 puana ve hizmetler endeksi 163.63 puan azalarak 16,137.71 puana geriledi. 
+     Böylece ilk seansa göre, mali grup hisseler yüzde 0.47, sanayi grubu hisseler ise yüzde 0.27 ve hizmetler grubu hisseler yüzde 1.00 oranında değer kaybetti. 
+     2. seansta işlem gören toplam 307 hisse senedinden 84'ü değer kazandı, 154'ü değer yitirdi, 69 hisse senedinin fiyatında değişiklik olmadı. 
+     2. seansta, 752 milyon 432 bin 978 YTL'lik işlem hacmi kaydedildi. Günlük işlem hacmi, 1 milyar 352 milyon 157 bin 283 YTL olarak hesaplandı. 
+     Seansta, İş Gayrimenkul Yatırım Ortaklığı, Turkcell, Doğan Holding, Marmaris Martı Otel ve Petkim, en çok işlem gören hisse senetleri oldu. 
+     
+</TEXT>
+</DOC>

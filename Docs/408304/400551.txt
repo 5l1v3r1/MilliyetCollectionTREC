@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 400551 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/05/ekonomi/eko02.html </URL>
+<DATE> 2005/12/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Vekillere bile kaçak cep telefonu gitmiş 
+</HEADLINE>
+<TEXT>
+
+
+Aycell'in ihaleyle aldığı ve kampanya dahilinde milletvekillerine de dağıttığı cep telefonlarının bir kısmı kaçak çıktı 
+
+GÜLÇİN ÜSTÜN Ankara 
+
+Türkiye'deki 18 milyon kayıt dışı cep telefonunun üçte birini Uzanlar'ın yurda soktuğunun belirlenmesinden sonra devlete ait GSM operatörü Aycell'in de abonelerine kaçak telefon dağıttığı ortaya çıktı. Telekomünikasyon Kurumu TK , milletvekilleri ve Yargıtay üyeleri başta olmak üzere üst düzey bürokratlarla kurumsal abonelere dağıtılan telefonlara bugünden itibaren 'telefonunuz kayıt dışıdır' mesajı gönderecek. 
+2004'te Aria ile birleşerek Avea adını alan Türk Telekom bünyesindeki Aycell, birleşme öncesinde 'kurumsal abonelik' kampanyasıyla birlikte 'abone olana bedeva telefon' kampanyası başlattı. 
+
+Güvenlik kodu klonlanmış 
+Bu kampanyada yaklaşık 30 bine yakın cep telefonu, ücretsiz olarak yeni abonelere dağıtıldı. Yargıtay üyeleri, h kimler, savcılar, milletvekilleri, üst düzey emniyet bürokratları ve diğer üst düzey bürokratlar olmak üzere pek çok kişiye dağıtılan telefonların bir kısmının kaçak yollarla Türkiye'ye girdiği, bir kısmının da güvenlik kodu - IMEI numaralarının klonlanmış olduğu ortaya çıktı. 
+Aycell yetkilileri ise kampanyada dağıtılan cep telefonlarının ihale yoluyla firmalardan alındığını, kayıt dışı telefonların bu firmalarca yapılmış olabileceğini ifade etti. 
+
+
+
+</TEXT>
+</DOC>

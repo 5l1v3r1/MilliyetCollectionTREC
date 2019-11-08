@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 347623 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/31/son/sonyas12.html </URL>
+<DATE> 2005/05/31/ </DATE>
+<TIME> 12.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+2014'te telefonların yüzde 90'ı görüntülü olacak 
+</HEADLINE>
+<TEXT>
+
+     Cisco Türkiye Genel Müdürü Mete Kabatepe, 2014 yılında dünyadaki tüm telefonların yüzde 90’ının görüntülü ve sesli olacağını bildirdi. 
+     "Cisco Teknoloji Günü 2005 Akıllı Bilgi Ağları" toplantısı, Sheraton Oteli’nde yapıldı. 
+     Toplantının açılış konuşmasını yapan Kabatepe, Cisco firmasının geleceğe yönelik tahminlerini anlattı. 
+     Güçlü bir ağ yapısının tüm sistemlerin altyapı ve performansını etkileyeceğine işaret eden Kabatepe, Cisco’nun "Akıllı Bilgi Ağları" projesiyle, tehlikeyi hissedip önleyici tedbirleri devreye koyan ve kendini koruyan iletişim altyapıları düzenlediğini bildirdi. 
+     Söz konusu akıllı, hızlı ve güçlü ağ sistemleri ile gelecekte bugünden çok daha hızlı veri transferi gerçekleştirilebileceğini anlatan Mete Kabatepe, bu sistemler sayesinde 2014 yılında tüm telefonların yüzde 90’ının görüntülü ve sesli olacağını tahmin ettiklerini kaydetti. 
+     Cisco Bölge Kamu Sektörü İş Geliştirme Direktörü Ignacio Murrieta ise Avrupa kamu sektörünün, e-devlet yatırımlarını güçlü ağ yapıları ile entegre ettiğini anlattı. 
+     Murrieta, verimlilik, daha çok servis, Avrupalı halkın memnuniyeti ve minimize edilmiş maliyetler için güçlü ağ yapılarına büyük önem verildiğini ifade etti. 
+     
+</TEXT>
+</DOC>

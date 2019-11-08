@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 307500 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/18/son/soneko34.html </URL>
+<DATE> 2005/01/18/ </DATE>
+<TIME> 16.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa günü 50 puanlık kayıpla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeksi, 2. seansı 40.24 puan azalarak 26,813.13 puandan kapandı. 
+     Hisse senetleri 2. seansta ortalama yüzde 0.15 oranında değer kaybetti. 
+     İlk seanstaki 9.83 puanlık düşüş dikkate alındığında, Borsa endeksi günün tamamında 50.07 puan geriledi. Hisse senetlerinin günlük ortalama değer kaybı yüzde 0.19 oldu. 
+     Endeks 2. seansa, 33.22 puan azalarak 26.820.15 puandan başladı. Seansın ilk yarısını 26,789.01 puandan geçen endeks, en düşük 26,651.94 puana kadar gerilerken, en yüksek seviyesi olan 26,847.04 puandan kapandı. 
+     2. seans kapanışında, mali endeks 97.96 puan azalarak 38,601.85 puana gerilerken, sanayi endeksi 18.31 puan artarak 22.112.58 puana, hizmetler endeksi 14.89 puan artarak 15,147.92 puana yükseldi. 
+     Böylece ilk seansa göre, mali grup hisseler ortalama yüzde 0.25 değer kaybederken, sanayi grubu hisseler ortalama yüzde 0.08, hizmet grubu hisseler ortalama yüzde 0.10 oranında değer kazandı. 
+     2. seansta işlem gören toplam 302 hisse senedinden 126'sı değer kazandı, 88'isi değer yitirdi, 88 hisse senedinin fiyatında değişiklik olmadı. 
+     2. seansta, 489 milyon 767 bin 170 YTL'lik işlem hacmi kaydedildi. Günlük işlem hacmi, 961 milyon 808 bin 292 bin YTL olarak hesaplandı. 
+     2. seansta Doğan Holding, Yapı ve Kredi Bankası, Turkcell, Akbank ve İş Bankası C en çok işlem gören hisse senetleri oldu. 
+     
+</TEXT>
+</DOC>

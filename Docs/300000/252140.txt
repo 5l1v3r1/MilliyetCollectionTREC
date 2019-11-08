@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 252140 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/01/son/soneko04.html </URL>
+<DATE> 2004/07/01/ </DATE>
+<TIME> 09.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İlk yarıda en yüksek getiri TL mevduattan geldi... 
+</HEADLINE>
+<TEXT>
+
+     Yılın ilk yarısında başlıca tasarruf araçları içinde en yüksek getiriyi Türk Lirası mevduat sağladı. 
+     Bankaların mevduata uyguladığı faiz oranlarının Merkez Bankası'nca hesaplanan ağırlıklı ortalamalarına göre haziranda aylık net faiz getirisi bir ay vadeli TL tasarruf mevduatında yüzde 1.6, üç ay vadelide yüzde 1.7, altı ay vadelide yüzde 1.6, bir yıl vadelide de yüzde 1.8 oldu. 
+     Yılbaşında, cari faiz oranı üzerinden açılan ve sürekli aynı vadeyle çevrilen bir ay vadeli TL tasarruf mevduatının bileşik getirisi haziran sonu itibariyle yüzde 10.4'e ulaştı. Aynı dönemde üç ay vadeyle çevrilen TL mevduat net olarak yüzde 10.8 bileşik getiri sağladı. Yılbaşında açılan altı ay vadeli mevduat haziran sonunda net yüzde 11.9 getirisiyle tahsil edildi. Aynı tarihte bir yıl vadeyle açılan mevduat hesabında da teorik olarak yüzde 13.4 net faiz birikti. 
+     Son bir yılda da bileşik olarak bir yıl vadeli TL mevduattan yüzde 26.4, üç ay vadeliden yüzde 27.6, altı ay vadeliden yüzde 31.1 getiri elde edildi. Haziran sonunda vadesi dolan bir yıl vadeli mevduat ise yüzde 39.9 getirdi. 
+     
+     TAHVİL-BONO TUTANLAR 
+     İMKB'nin devlet iç borçlanma senetleri performans endeksine göre haziranda altı ay vadeli kamu kağıtları yüzde 1.7, dokuz ay vadeliler yüzde 2, oniki ay vadeliler yüzde 
+     2.3, onbeş ay vadeliler de yüzde 2 getirdi. İlk yarıda altı 
+     ay vadeli kağıtlar bileşik bazda yüzde 12.3, dokuz ay vadeliler yüzde 12.8, oniki ay vadeli kağıtlar yüzde 12.4, onbeş ay vadeli kağıtlar da yüzde 12.8 kazandırdı. Son bir yılda da altı ay vadeli DİBS'in getirisi yüzde 35.8, dokuz ay vadelilerin yüzde 36.4, oniki ay vadeli kağıtların yüzde 36 oldu, onbeş ay vadeli kağıtların getirisi ise yüzde 65.5'e ulaştı. 
+     
+     DÖVİZ YATIRIMCISININ DURUMU 
+     Kurların genelde gerilediği ya da yatay seyir izlediği ilk yarıda döviz tutanların getirisi düşük kaldı. Ekonomi ve siyasette belirsizlik algılamasıyla sıcak para çıkışı yaşanan nisan ve mayıs aylarında yükselişe geçen kurlar haziranda ise yerini düşüşe bıraktı. Haziran ayında euro yüzde 1.4, dolar yüzde 0.7 geriledi. 
+     Yılbaşında euro alan ve yastık altında tutan yatırımcı haziran sonu itibariyle yüzde 2.2, dolar alanlar ise yüzde 6.3 kazandı. Son bir yılda ise eurodan yüzde 11.6, dolardan 
+     yüzde 5.2 oranında getiri elde edildi. 
+     
+</TEXT>
+</DOC>

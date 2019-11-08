@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 221471 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/11/son/sondun07.html </URL>
+<DATE> 2004/03/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+E-posta devleri, "çöp mailler" ile mücadele için işbirliğinde .. 
+</HEADLINE>
+<TEXT>
+
+     ABD'de internette elektronik-posta piyasasını ellerinde tutan 4 dev şirket, spam olarak adlandırılan çöp-mektupla mücadele edebilmek için işbirliğine gitti. 
+     ABD'nin internet hizmeti sağlayan önde gelen kuruluşlarından olan America on Line AOL , Earthlink, Microsoft ve Yahoo, her gün milyonlarca çöp-mektup yolladıklarından şüphelenilen yüzlerce kişi hakkında mahkemeye başvurdular. 
+     AOL'ün başkan yardımcısı Randall Boe, New York'ta düzenlediği basın toplantısında, aralarında kesin kimlikleri bile saptanamayan kişilerin de bulunduğu spamcılar hakkında California, Georgia, Virginia ve Washington eyaletlerinde 6 dava açıldığını söyledi. 
+     ABD'de uygulamaya konan kurallar gereğince çöp-mektup gönderen kişiler konu maddesinde yer alan kelimelerle oynayamayacaklar, ayrıca mektuplarına, çöp-mektup almak istemeyenlerin kullanabilecekleri bir tıklama bağı ekleyecekler. 
+     Çöp-mektup şirketleri, kullanıcıları yanıltmak için sık sık kelimeler üzerinde oynayarak bilgisayarı şaşırtma yöntemine başvuruyorlar. 
+     Amerikan hükümeti de çöp-mektupla mücadele amacıyla kısa süre önce bir dizi önlem almıştı. Bu alanda çıkarılan ve kısaca CAN-SPAM olarak bilinen yasa 2004'ün başında yürürlüğe girmiş bulunuyor. 
+     Yasa, çöp-mektup gönderenler için 6 milyon dolara kadar para ve 5 yıla kadar hapis cezası öngörüyor. 
+     
+</TEXT>
+</DOC>

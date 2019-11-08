@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 345347 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/24/son/soneko34.html </URL>
+<DATE> 2005/05/24/ </DATE>
+<TIME> 15.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Telif haklarına elektronik takip... 
+</HEADLINE>
+<TEXT>
+
+     Escort Business Solution tarafından geliştiren MSTATS sistemi, radyo ve televizyonlarda yayımlanan müzik eserlerinin elektronik takibini yaparak, telif haklarının izlenmesine kolaylık getirecek. 
+     Global Yönetim Danışmanlık A.Ş.’nin pazarlayacağı MSTATS, eser sahipleri ve seslendiren sanatçılar açısından eserlerin radyo ve televizyonlarda hangi tarihlerde, kaç defa yayımlandığını tespit edecek. Ayrıca sistem, yayımlanan reklamların da takibine olanak tanıyacak. 
+     MSTATS sisteminin tanıtımı nedeniyle düzenlenen toplantıda konuşan Escort Computer Yönetim Kurulu Başkanı İbrahim Özer, Türkiye’nin Avrupa Birliği’ne AB girme yönünde adımlar attıkça telif hakları konusunun daha da önem kazanacağını belirtirken, telif haklarında eser sahiplerinin, eserlerinin nerede ve ne kadar çıktığını bilmemesi ve objektif raporlama eksikliği bulunduğunu söyledi. 
+     Özer, "bu sistemin amacı, televizyon ve radyo kuruluşları tarafından yayımlanan müzik eserlerinin ve reklamların, geliştirdiğimiz özel bilgisayar programı ve elektronik dinleme sistemi aracılığıyla 24 saat, 365 gün esasıyla takip edilerek, tespit edilmesi ve hak sahipleri ile ilgili taraflara raporlanmasıdır" dedi. 
+     Teklif hakları konusunda şu anda, eserlerin kullanım sayısı ve sıklığının sağlıklı olarak belirlenememesi nedeniyle, yayıncı kuruluşlar ile eser telif sahiplerinin sabit fiyat üzerinden anlaştıklarını ifade eden Özer, "Buna rağmen telif ücretlerinin tahsilatında sıkıntılar sürmektedir" diye konuştu. 
+     Özer, müzik eserlerinin radyo ve televizyonlarda yayımlanmasıyla doğan ve Türkiye’de halen 5 milyon doların altında bulunan telif hakları tutarlarının, bu sistem sayesinde birkaç yıl içerisinde 24-25 milyon dolar seviyelerine çıkacağını söyledi. 
+     Daha önce bu sisteme benzeyen ve Türkiye’nin en kapsamlı futbol istatistik veri tabanı olan FSTATS’ı geliştirdiklerini kaydeden Özer, ekonomi alanında da bir çalışmaları olduğunu bildirdi. 
+     
+     450 BİN DOLARLIK MALİYET 
+     Escort Business Solution Yazılım Geliştirme Direktörü Umut Sevin de, sistemin kurucusu ve teknik tasarımcısı olarak işleyiş hakkında bilgi verdi. 
+     Sistemle 1,5-2 aydır 48 yayıncı kuruluşu takip ettiklerini ifade eden Sevin, sistem içinde 4 milyon adedin üzerinde yerli ve yabancı eserin yer aldığını ve her hafta 10 bin yeni eserin eklendiğini söyledi. 
+     Sevin, sistemle DNA’sı kodlanan şarkıların 10-15 saniyesinin dinlenerek tespit edildiğini kaydetti. 
+     Bir soru üzerine Sevin, yaklaşık bir yıldır üzerinde çalıştıkları projenin, 450 bin dolar civarında maliyeti olduğunu bildirdi. 
+     Sevin, yapılacak anlaşmalara göre üyelik ücretinin belirleneceğini ifade ederek, aylık aboneliğin bin ile 50 bin dolar arasında değişebileceğini söyledi. 
+     
+     EN ÇOK REKLAMI YAYINLANAN KURULUŞLAR 
+     Verilen bilgiye göre, MSTATS sisteminin 1 Nisan-15 Mayıs tarihleri arasında 48 yayıncı kuruluş içinde yaptığı izlemede, rock müzik kategorisinde Pamela bin 99 yayın sayısı ve yüzde 2.28’lik oranla birinci, Kıraç 526 yayın sayısı ve yüzde 1.09 ile ikinci oldu. 
+     Reklam analizinde ise Turkcell İletişim Hizmetleri A.Ş. bin 462 yayın sayısıyla birinci, Telsim Mobil Telekom Hizmetleri A.Ş. bin 428 yayın sayısıyla ikinci, Sabancı Grubu ise bin 121 yayın sayısı ile üçüncü sırada yer aldı. 
+     
+</TEXT>
+</DOC>

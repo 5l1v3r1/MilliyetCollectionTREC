@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 356639 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/29/son/sonsiy02.html </URL>
+<DATE> 2005/06/29/ </DATE>
+<TIME> 09.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Polislere Avea sınırlaması geldi 
+</HEADLINE>
+<TEXT>
+
+     Aycell’in henüz Aria ile birleşmesinden önce Emniyet Genel Müdürlüğü EGM personeliyle yaptığı grup içi ücretsiz konuşma hakkının, gün içerisinde 18 saate varan sürelerle kullanılmasıyla başlayan kriz, 1 Temmuz 2005’ten itibaren geçerli olacak yeni bir protokolle aşıldı. Bu tarihten itibaren aylık 9 saati aşan grup içi görüşme yapan polisler, limiti aşan kısmın faturasını cepten ödeyecek. 
+     AVEA, Aycell’den devraldığı sorunu nihayet çözdü. 
+     Sistemin devreye sokulduğu dönemde kontrol sırasında AVEA, bazı abone polislerin ücretsiz grup içi arama hakkını günlük 16-18 saate kadar kullandığını gördü. Verilen 3-4 sim 
+     kartıyla, polisler aylık sabit ücret karşılığında eş ve çocuklarıyla ay içerisinde ksınırsız konuşabiliyordu. Ancak bazı abonelerin özellikle geceyarısından sabaha kadar hattını aralıksız kullandığını fark eden AVEA, bu kişilerin telefonlarını sabaha kadar açık tutup çocuk alarmı olarak kullandıklarını saptamıştı. Emniyet Genel Müdürlüğü ile yapılan temas sonucunda bir yıl önce kullanım süresine günlük 3 saat sınırı getirildi. Bundan da sonuç alamayan AVEA, sınırı aşan kişilerle görüşüp, SMS yoluyla da uyardı. Son olarak şirketin şikayeti üzerine EGM, bu durumdaki personelin saptanması için genelge yayımlamıştı. Bununla da sonuç alınamaması üzerine Avea ve EGM bir ek protokol imzaladı. Böylece İçişleri VPN kapsamında bulunan aboneler, 1 Haziran’dan itibaren ücretsiz grupiçi ücretsiz görüşmeden aylık 9.5 saat 570 dakika yararlanabilecekti. İçişleri Bakanlığı ise 20 Haziran’da AVEA’dan geçiş süresinin ertelenmesini talep etti. Talep kabul edilince uygulama 1 Temmuz 2005’e ertelendi. Böylece 1 Temmuz’dan itibaren abone polisler ayda adece 570 dakika grup içi ücretsiz görüşme yapabilecek. Ay içerisinde kullanılmayan konuşma süresi ise sonraki aya devredilemeyecek. Örneğin ay iüçerisinde 10 saat görüşme yapan bir polis, limiti aşan yarım saatlik görüşme için grupdışı arama ücreti olarak 2.16 YTL 30 X 72.229 TL ödeyecek. Temmuz ayı faturaları ağustos ayında gönderileceğinden, eski alışkanlıklarından kurtulamayanların yüklü faturalarla karşılaşabilecekleri belirtiliyor. 
+     
+     İÇİŞLERİ SMS İLE BİLDİRECEK 
+     AVEA Genel Müdür Yardımcısı Göktekin Dinçerler’in İçişleri’ne gönderdiği yazıya göre abone polisler, AVEA’nın göndereceği, "AVEA protokolü 1 Temmuz itibariyle ücretsiz görüşme süresi 570 dk ay olarak düzenlenmiştir. Süre aşımı grupdışı fiyatından ücretlendirilecektir. İçişleri Bakanlığı" SMS’si ile yeni uygulama hakkında bilgilendirilecek. 
+     
+</TEXT>
+</DOC>

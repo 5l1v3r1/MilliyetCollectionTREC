@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 311685 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/02/son/soneko43.html </URL>
+<DATE> 2005/02/02/ </DATE>
+<TIME> 16.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsadan rekor kapanış 27.936... Yapı Kredi hisseleri 'tavan' yaptı 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeksi 2. seansta 82.24 puan artarak, 27,936. puandan yeni bir rekorla kapandı. 
+     Hisse senetleri 2. seansta, ortalama yüzde 0.30 oranında değer kazandı. 
+     İlk seanstaki 4.50 puanlık artış dikkate alındığında, Borsa endeksi günün tamamında 86.74 puan yükseldi. Hisse senetlerinin günlük ortalama değer kazancı yüzde 0.31 oldu. 
+     Borsa bundan önceki rekor kapanışını, 27,849.79 puanla dün gerçekleştirmişti. 
+     Endeks 2. seansa, 12.29 puan azalarak 27.842.00 puandan başladı. Seansın ilk yarısını 27,867.30 puandan geçen endeks, en düşük 27,781.70 puana kadar gerilerken, en yüksek seviye olarak 28,278.12 puanı gördü. Bu seviye ile seansı içi rekor kırılmış oldu. 
+     2. seans kapanışında, mali endeks 397.91 puan artarak 41,067.04 puana yükselirken, sanayi endeksi 96.97 puan azalarak 23,044.71 puana, hizmetler endeksi 178.95 puan azalarak 14,389.11 puana geriledi. 
+     Böylece ilk seansa göre, mali grup hisseler ortalama yüzde 0.98 değer kazandı, sanayi grubu hisseler ortalama yüzde 0.42, hizmet grubu hisseler ortalama yüzde 1.23 oranında değer kaybetti. 
+     2. seansta işlem gören toplam 306 hisse senedinden 75'i değer kazandı, 182'si değer yitirdi, 49 hisse senedinin fiyatında değişiklik olmadı. 
+     2. seansta, 1 milyar 137 milyon 862 bin 603 YTL'lik işlem hacmi kaydedildi. Günlük işlem hacmi, 1 milyar 811 milyon 834 bin 68 YTL olarak hesaplandı. 
+     2. seansta Yapı ve Kredi Bankası, Koç Holding, İş Bankası C , İhlas Holding ve Turkcell en çok işlem gören hisse senetleri oldu. 
+     
+     TAHTASI İŞLEME AÇILAN ŞİRKETLERİN PERFORMANSI... 
+
+     Yapı Kredi Bankası A.Ş. hisse senetlerinin Koç Finansal Hizmetler A.Ş'ye devrine ilişkin taraflardan bilgi istenmesi nedeniyle, işlem sıraları 3 seans boyunca kapalı kalan ve bugünkü 2. Seansta 14.30 itibariyle açılan Çukurova Grubu şirketlerinden Yapı ve Kredi Bankası, Yapı Kredi Finansal Kiralama ve Yapı Kredi Yatırım Ortaklığı hisseleri ''tavan'' yaptı. 
+     Turkcell hisseleri yüzde 2.55 değer yitirken, Koç Holding hisseleri yüzde 4.05 değer kazandı. 
+     
+</TEXT>
+</DOC>

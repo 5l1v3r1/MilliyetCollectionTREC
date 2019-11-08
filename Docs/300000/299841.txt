@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 299841 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/22/son/soneko04.html </URL>
+<DATE> 2004/12/22/ </DATE>
+<TIME> 09.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+KDV, YTL'ye uyarlandı... İşte yeni esaslar... 
+</HEADLINE>
+<TEXT>
+
+     Maliye Bakanlığı, bugün yayımladığı Katma Değer Vergisi Genel Tebliği ile para biriminde Yeni Türk Lirası'na geçişte uygulanacak esasları belirledi. 
+     Resmi Gazete'nin bugünkü sayısında yayımlanan tebliğle, KDV uygulamasında daha önce belirlenen hadler, 1 Ocak 2005 tarihinden itibaren YTL karşılıkları esas alınarak uygulanacak. 
+     Çeşitli KDV limitlerinin YTL karşılıklarına yer verilen tebliğle, 2005 yılı için fatura düzenleme sınırının 480 YTL olduğu, 1 Ocak 2005 tarihinden itibaren tevkifata tabi tutulmayacak işlemlerde bu sınır dikkate alınacak. 
+     Tebliğle, YTL'ye geçişle küsuratlarda yapılacak yuvarlamalar sonucunda kayıtlarda ve beyannamelerde ortaya çıkacak farkların beyan esasları da belirlendi. 
+     Buna göre, kayıtlarda oluşan KDV tutarının beyannamede bulunacak tutardan fazla olması durumunda aradaki fark, mükellef tarafından 1. Nolu KDV Beyannamesinin ''İlave Edilecek KDV'' satırına dahil edilerek beyan edilecek. 
+     Kayıtlardaki tutarın beyannamede çıkan tutardan eksik olması durumunda ise aradaki fark, yine mükellef tarafından ilgili dönem KDV beyannamesinin ''Bu Döneme Ait İndirilecek KDV'' satırına dahil edilecek. 
+     Mükellefler, beyannamede bu şekilde düzeltme yaptıktan sonra kayıtlarında da buna uygun düzenlemeleri yapacaklar. 
+     
+</TEXT>
+</DOC>

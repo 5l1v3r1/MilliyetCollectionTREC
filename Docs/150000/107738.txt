@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 107738 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/09/15/son/sondun15.html </URL>
+<DATE> 2002/09/15/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternetteki yeni virüse dikkat 
+</HEADLINE>
+<TEXT>
+
+     İnternette ortaya çıkan yeni virüs ''trojan'' ile bilgisayarı ele geçiren korsanlar, bilgisayarınızı uzaktan kontrol edebiliyor. 
+     Türk İnternet Birliği uzmanları, kendisine antivirüs programı süsü veren bir e-mail'in internette dolaşarak, bilgisayarlara ''Truva Atı trojan '' türü virüs bulaştırdığı uyarısında bulundular. 
+     İnternet kullanıcılarının, microsoft.com adresinden gönderilmiş gibi gösterilen ve antivirüs taşıdığı bilgisi yer alan e-mail'i açmasıyla ''Trojan'' virüsünü bilgisayarlarına bulaştırdığını belirten uzmanlar, ''Virüs bulaşınca da, sisteme uzaktan giriş yapmayı sağlayan Backdoor.Death.25 'i yüklüyor. Backdoor.Death.25 , bilgisayara gizlice giriş yapılabilecek bir kapı açıyor'' diye konuştular. Böylece, internet korsanlarının ele geçirdiği bilgisayarı, sahibinin haberi bile olmadan kontrol edebildiğini vurgulayan uzmanlar, ''Virüs yardımıyla bilgisayardaki programları kopyalayıp, silebiliyorlar. Hatta daha gelişmiş virüs programları sayesinde, CD sürücülerini bile açıp kapatabiliyor'' dediler. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

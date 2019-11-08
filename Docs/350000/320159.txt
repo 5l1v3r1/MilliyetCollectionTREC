@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 320159 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/02/son/sonyas18.html </URL>
+<DATE> 2005/03/02/ </DATE>
+<TIME> 12.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dünyanın en 'akıllı evi' 
+</HEADLINE>
+<TEXT>
+
+     Alman Telekomu, dünyanın en ''akıllı evi''ni kurdu. 
+     Deneme amaçlı kurulan ve ''T-Com-Haus'' adı verilen 240 metrekarelik dijital evde oturmak için yaklaşık 10 bin kişinin başvuruda bulunduğu bildirildi. 
+     Dijital aletlerle donatılan 2 katlı evde, duvarda bulunan elektronik ekrandan eve gönderilen e-postaları okumak mümkün. 
+     ''Akıllı ev''de bulunan ve önceden ayarlanabilen fırın, yemeğin piştiğini müzik eşliğinde ev sahibine duyuruyor. 
+     Misafirlerin, kimseyi bulamadıklarında kapıda görüntülü mesaj bırakabildikleri evde, odalardaki ışık, renk ve müzik de isteğe göre değiştirilebiliyor. 
+     Dijital evin bir başka özelliği de eve girmek isteyen hırsızları videoya kaydetmesi ve telefon mesajıyla polise haber vermesi. 
+     Evde sunulan tüm imkanlar uzaktan kumandayla çalışabiliyor. 
+     Alman Telekom yetkilileri, ''akıllı ev''in, piyasada bulunan tüm teknik imkanların biraraya getirilmesiyle hazırlandığını açıkladılar. 
+     Dijital evde, 1 Nisan'dan itibaren vatandaşların 4 gün süreyle oturabileceği ve bunun için en fazla 4 kişilik ailelerin başvurabileceği bildirildi. Aileler kurayla belirlenecek. 
+     
+</TEXT>
+</DOC>

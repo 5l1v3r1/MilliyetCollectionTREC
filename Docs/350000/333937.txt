@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> 333937 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/16/yazar/tamer.html </URL>
+<DATE> 2005/04/16/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Meral TAMER  </AUTHOR>
+<HEADLINE>
+IBM, 500 tane patentini "halka açtı" 
+</HEADLINE>
+<TEXT>
+
+Brezilya AIDS ilaçlarında patentleri tanımıyor. Çin, Viagra'nın benzerini üretti. Patenti korumaya, artık hukukçu orduları bile yetmiyor 
+
+IBM'in CEO'su Samuel Palmisano, 2004 mayısında kıdemli başkan yardımcılarından John Kelly'i çağırır ve IBM'in fikri mülkiyet haklarının bundan sonra nasıl idare edilmesi gerektiğini düşünmek üzere 12 kişilik bir ekip kurmasını ister. Hemen ardından da şu uyarıda bulunur "Patentlerle ilgili strateji, yöntem ve deneyimlerimizi yeniden şekillendirmemiz gerekiyor. Herhangi bir şirket bu konuda öncülük yapacaksa, bu bize yakışır " 
+IBM, son 20 yıldır patent almada dünya rekortmenidir. Geçen yıl sadece ABD'de 3248 adet patent almış, bu patentlerin lisanslanmasından ve kullanım hakkından 1 milyar dolar gelir sağlamıştır. IBM'in ABD'de 25 binden fazla, tüm dünyada ise 40 bine yakın aktif patenti bulunmaktadır. Dolayısıyla sektöre öncülük etmek, gerçekten de IBM'e yakışır. 
+
+Silahsızlanma gibi 
+Kelly'nin 12 kişilik ekibiyle yaptığı çalışmalar, 2004 sonuna doğru kaba hatlarıyla netleşmeye başlar IBM, radikal bir strateji değişikliğiyle, patentlerinin bir bölümünü "halka açmaya" karar vermiştir. Ve International Herald Tribune'nun haberine göre geçtiğimiz günlerde bu karar yürürlüğe konur. IBM'in yazılım kodları, elektronik ticaret, resim işleme, internet haberleşmesi gibi alanlardaki 500 tane patenti, ücretsiz olarak herkesin kullanımına açılır. Dahası IBM üst yönetimi, bundan böyle elektronik ticaretle ilgili alınacak tüm patentlerin, ücretsiz olarak kullanıma açık olacağını ilan eder. Ancak hemen ardından da şu hatırlatmayı yapar "Fikri mülkiyet haklarının serbest bırakılması, tıpkı silahsızlanma gibidir. Öyle bir gecede silahların tümü bırakılamaz. Bir takvim çerçevesinde peyderpey devreye sokulacaktır " 
+
+Hukukçu ordusu 
+Sahip olduğu patentlerden dolayı ciddi para kazanan IBM, neden bu patentlerin bir kısmını ücretsiz olarak herkesin kullanımına açıyor dersiniz 
+Görüşlerine başvurulan bir kısım uzmanlara göre "Enformasyon teknolojisinde bugün gelinen noktada mülkiyet haklarını, marka sırlarını kıskançlıkla muhafaza etmek yerine, uygun miktarda teknoloji paylaşımının IBM'e zarardan çok faydası olacak." Dolayısıyla IBM, bu işten belli bir kazanç bekliyor. Zaten IBM ürün çözümlerine ilişkin yeni bilgilerinin ve yazılımlarının patentlerini "halka açmıyor". 
+Bana sorarsanız dünyanın en geniş bilgi teknolojisi ağına sahip IBM'i bu kararı almaya iten en önemli etkenlerin başında, hiç kuşkusuz peşpeşe açılan patent davaları geliyor. IBM gibi bol patentli şirketlerden bazıları, fikri mülkiyet haklarını koruyabilmek için şirket bünyesinde devasa hukuk büroları oluşturmuş durumdalar. Ve yer yer fikri mülkiyeti korumaya kalkmanın maliyeti, patentten sağlanan geliri kat kat aşıyor. Zaten özellikle Çin, Hindistan ve Brezilya gibi ülkeler, patentli ürünlerin benzerlerini büyük bir maharetle sudan ucuz fiyata üretip bol miktarda piyasaya sürüyor. 
+
+İsyan bayrağını açtı 
+Önce Brezilya isyan bayrağını açtı. Afrika'da milyonlarca kişi AIDS'den yaşamını yitirirken, uluslararası ilaç devlerinin erişilemez fiyatlardan AIDS ilacı satmalarını protesto ederek aynı ilacın jeneriğini çok ucuza üretmeye başladı. Bir süre sonra Abbott yelkenleri suya indirdi ve "Kendi ilacımın jeneriğini de ben üretirim" diyerek Afrika'da k rsız üretime başladı. Ama ilaç devleri bu arada AIDS'le ilgili Ar - Ge faaliyetlerini de rafa kaldırdılar. 
+Ardından Çin Fikri Mülkiyet Ofisi, Pfizer'in lokomotif ilacı Viagra'nın patentini geçersiz sayarak benzerinin Çin'de üretileceğini açıkladı. 
+Önce ilaç, şimdi yazılım ve elektronik ticaret... Amerikalı patent uzmanlarına göre pek çok sektörde fikri mülkiyet haklarında radikal strateji değişiklikleriyle ilgili ciddi çalışmalar yapılıyor. Galiba artık patentle para kazanma döneminin dayanılmaz cazibesi de giderek ortadan kalkacak gibi görünüyor. 
+
+
+
+</TEXT>
+</DOC>

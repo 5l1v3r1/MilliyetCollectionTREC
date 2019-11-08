@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 309664 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/26/son/sontur38.html </URL>
+<DATE> 2005/01/26/ </DATE>
+<TIME> 15.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kılıç, 'dialer' ile 7.7 milyar fatura gelince Telekom'u dava edip kazandı 
+</HEADLINE>
+<TEXT>
+
+     Antalya'nın Alanya İlçesi'nde dialer programı nedeniyle, 7,7 milyar liralık 7 bin 676 YTL telefon faturasıyla karşılaşan gazeteci-yazar Altemur Kılıç'ın açtığı dava, Türk Telekom aleyhine sonuçlandı. 
+     Altemur Kılıç, internet bağlantısında, ADSL sistemi çıktıktan sonra, dialerden vazgeçtiğini belirterek, ''Ben kapandı sanıyordum ama dialer kapanmamış. Benim bilgim olmadan dialer sistemi porno hatlara bağlanmış'' dedi. 
+     Bu bağlantılar nedeniyle karşısına 7 bin 676 YTL'lik bir fatura çıktığını anlatan Kılıç, faturayı görünce önce yanlışlık yapıldığını sandığını söyledi. Yanlışlık yapılmadığını farkettiği zaman Türk Telekom'a başvurduğunu ifade eden Kılıç, şunları söyledi 
+     ''Bu olay benim gibi bir çok insanın başına gelmiş. Onlar bu durumu kabullenmişler ve faturaları ödemişler. Bense faturayı ödemedim ve Ankara Tüketici Mahkemesi'ne itiraz ettim. Mahkeme, Telekom'un dialerin çalışmaya devam etmesi durumunda aboneyi uyarması gerektiğine karar verdi ve yürütmeyi durdurma kararı aldı.'' Dava sonunda Altemur Kılıç'ın 7 bin 676 YTL tutarındaki Türk Telekom faturasını ödememesi, mahkeme ve avukat masraflarının da Türk Telekom'dan tahsiline karar verildi. 
+     
+     DIALER NEDİR 
+
+     Dialer, belli telefon numaralarının otomatik çevrilebilmesini sağlayan program içeren bir ödeme sistemi. 900'lü hatlar gibi çalışan bu sistem, internet üzerinden kullanılan bir servisin ücretini, kullandığı süreye göre telefon faturasına yansıtıyor. 
+     
+</TEXT>
+</DOC>

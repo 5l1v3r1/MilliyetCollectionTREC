@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 213864 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/08/son/sondun05.html </URL>
+<DATE> 2004/02/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Spirit'in, Mars'taki incelemeleri sürüyor... 
+</HEADLINE>
+<TEXT>
+
+     Amerikan Uzay ve Havacılık Dairesi'nin NASA Mars'a gönderdiği uzay robotu Spirit'in, ilk kez ''kızıl gezegen''de bir kayada küçük bir delik açtığı bildirildi. 
+     NASA'dan yapılan açıklamada, Spirit'in kayayı inceledikten sonra mevcut konumuna göre gezegenin kuzeydoğusundaki bir kratere doğru harekete geçeceği belirtildi. 
+     Spirit'in kayaları delmeye yarayan RAT adlı aletiyle kayada açtığı deliğin, 4,55 santimetre çapında 2,65 milimetre derinliğinde olduğu kaydedildi. 
+     Robot daha önce, fırçasının yardımıyla kayanın üzerindeki tozu temizlemişti. 
+     Bu arada, gezegenin farklı bir bölgesine indirilen diğer robot Opportunity'nin ise indirildiği noktaya birkaç metre ötedeki kayalık bir bölgeye doğru yavaşça ilerlemeye devam ettiği açıklandı. 
+     Opportunity ve Spirit robotları, kayaları ve zemini inceleyerek ''kızıl gezegen''de hayat olup olmadığını araştırıyor. 
+     
+</TEXT>
+</DOC>

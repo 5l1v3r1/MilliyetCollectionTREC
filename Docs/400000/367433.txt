@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 367433 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/05/son/sontur27.html </URL>
+<DATE> 2005/08/05/ </DATE>
+<TIME> 12.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kayseri'deki 6 bebeği "gram negatif" bakterisi öldürmüş 
+</HEADLINE>
+<TEXT>
+
+     Erciyes Üniversitesi Tıp Fakültesi Hastanesi’nde 6 bebeğin ölümüne yol açan enfeksiyonun gram negatif bakterilerden kaynaklandığı belirlendi. 
+     AA muhabirinin aldığı bilgiye göre, bebek ölümleri ile ilgili Sağlık Bakanlığı’nca oluşturulan komisyonun çalışmaları sonucunda, ölümlerin "Gram negatif" bakterilerden kaynaklanan enfeksiyona bağlı olarak meydana geldiği anlaşıldı. 
+     Yenidoğan Servisi’nde tedavi gören ağırlıkları ve 800-1800 gram arasında değişen prematüre bebekleri etkileyen enfeksiyon sonucu, bebeklerde karın şişmesi, solunum durması ve morarma belirtileri ortaya çıkmıştı. 
+     "Gram negatif" bakterinin türünün belirlenmesi için kültür yapıldıktan sonra 48 saat süre geçmesi gerekiyor. Ölen bebeklerden alınan örneklerin kültürü dün yapıldı. Bu nedenle, bakteri türünün tam olarak yarın belirlenebileceği açıklandı. 
+     AA muhabirinin uzmanlarından aldığı bilgilere göre, gram negatif bakteriler, vücuda girdiğinde, genel bir enfeksiyona yol açarak, organ yetmezliğini ve sonrasında ölüme yol açıyor. Yetişkin insanlarda görüldüğünde olumsuz etkileri çok düşük olan gram negatif bakteriler, annesinden yeterince antikor alamamış ve bağışıklık sistemi yeterince gelişmemiş olan prematüre bebeklerde ölüme varan tehlikelere yol açabiliyor. 
+     Daha önce, Edirne’de meydana gelen bebek ölümlerinin sebebi yine bir gram negatif bakteri çeşidi olan "Serratia" olarak açıklanmıştı. 
+     
+</TEXT>
+</DOC>

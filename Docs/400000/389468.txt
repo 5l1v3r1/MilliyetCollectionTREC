@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 389468 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/25/son/soneko01.html </URL>
+<DATE> 2005/10/25/ </DATE>
+<TIME> 03.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükselişe geçti 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Borsası'nda Dow Jones ve Nasdaq endeksleri, Alan Greenspan'den boşalacak ABD Merkez Bankası Başkanlığı görevine Ben Bernanke'nin aday gösterilmesinin pazardaki belirsizliği ortadan kaldırması sonucu yükseldi. 
+     Borsanın temel göstergesi Dow Jones 169.78 puan yükselişle günü 10.385 puandan kapatırken, teknoloji endeksi Nasdaq 33.62 puan artışla 2.115.83 puana çıktı. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 182897 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/17/son/soneko02.html </URL>
+<DATE> 2003/09/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     Amerikan Merkez Bankası'nın faiz oranlarını sabit tutma kararının ardından, New York borsasında Dow Jones ve Nasdaq endeksleri yükseldi. 
+     Borsanın temel göstergesi Dow Jones, 118. puan yükselerek günü 9,567.34 puandan kapattı. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq da 41.56 puan yükselişle 1,887.26 puandan kapandı. 
+     
+     TOKYO BORSASI 
+
+     Tokyo menkul kıymetler borsasının bugünkü kapanışında Nikkei Endeksi 103.08 puan binde 9.5 artışla 10,990.11 puana yükseldi. 
+     Borsada ABD Doları da düne göre 0.46 yen değer kaybederek 116.10 yene düştü. 
+     
+</TEXT>
+</DOC>

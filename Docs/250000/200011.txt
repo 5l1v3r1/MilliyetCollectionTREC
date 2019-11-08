@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 200011 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/05/son/soneko27.html </URL>
+<DATE> 2003/12/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa haftayı yüzde 1.43'lük artışla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Bileşik Endeksi 2. seansta 201.52 puan artışla 16,504.80 puandan kapandı. 
+     Hisse senetleri 2. seansta ortalama yüzde 1.24 oranında değer kazandı. 
+     İlk seanstaki 31.42 puanlık artış dikkate alındığında Borsa endeksi, günün tamamında 232.94 puan yükseldi. Hisse senetlerindeki günlük değer artışı ise yüzde 1.43 oldu. 
+     Endeks, 2. seansa 2.27 puanlık gerilemeyle 16,301.01 puan seviyesinde başladı. İlk yarıyı 16,354.81 puandan geçen endeks, seans içinde en düşük 16,301.01 puana gerilerken, en yüksek 16,504.80 puanı gördü. Böylece açılış ve kapanış değerleri, 2. Seansın en düşük ve en yüksek değerleri olarak kaydedildi. 
+     2. seans kapanışında mali endeks 450.80 puan artışla 22,339.64 puana, sanayi endeksi 49.72 puan artışla 14,796.70 puana, hizmetler endeksi 24.69 puan artışla 8,773.13 puana çıktı. 
+     Böylece ilk seansa göre mali grup hisseler ortalama yüzde 2.06, sanayi grubu hisseler ortalama yüzde 0.34, hizmetler grubu hisseler ise ortalama yüzde 0.28 değer kazandı. 
+     2. seansta işlem gören toplam 289 hisse senedinden 117'si değer kazandı, 101'i değer yitirdi, 71'inin fiyatında değişiklik olmadı. 
+     Seansta, 484 trilyon 720 milyar 132 milyon liralık işlem hacmi kaydedildi. Günlük işlem hacmi ise 712 trilyon 452 milyar 208 milyon lira olarak hesaplandı. 
+     2. seansta Doğan Holding, Yapı Kredi Bankası, İş Bankası C , Garanti Bankası ve Sabancı Holding, en yoğun işlem gören hisse senetleri olarak belirlendi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,44 @@
+<DOC>
+<DOCNO> 361652 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/16/son/soneko05.html </URL>
+<DATE> 2005/07/16/ </DATE>
+<TIME> 11.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ATO'dan internet bankacılığında dolandırıcılık uyarısı... 
+</HEADLINE>
+<TEXT>
+
+     Ankara Ticaret Odası ATO Başkanı Sinan Aygün, hacker adı verilen şifre kırıcıların saldırıları sonucu internet bankacılığı dolandırıcılığına maruz kalan üyelerinin bazı bankalar tarafından mağdur edildiğini bildirdi. 
+     Aygün, yaptığı açıklamada, sanal dolandırıcıların internet hesaplarının şifrelerini kırdığını, hesapların içini boşalttığını kaydetti. Sinan Aygün, son günlerde artan ve bankaların müşterinin hatasından kaynaklanmayan internet bankacılığı üzerinden dolandırıcılık olaylarında, ''sizin hatanız'' denilerek, üyelerinin ortada bırakıldığını belirtti. ATO Başkanı Aygün, ''Bankalar, internet bankacılığı güvenliklerini artırmalılar. Artırmıyorlarsa üyelerimin zararını tazmin etsinler'' dedi. 
+     Hızlı ve kesintisiz, üstelik bankaya gitmeden internet üzerinden kolay bankacılık hizmetlerinden faydalanmak isteyen tüketicilerin son günlerde sanal hırsızlarla başının dertte olduğunu kaydeden Aygün, konuya ilişkin üyelerinden çok sayıda şikayet aldıklarını dile getirerek şöyle dedi 
+     ''En son internet üzerinden hizmet alan bir üyemizin internet hesabının içini boşalttılar. Hacker ya da şifre kırıcı olarak tabir edilen sanal soyguncular, hesapta bulunan 40 milyarı aşan bir rakamı, aynı bankanın Nizip şubesindeki iki hesaba naklettiler. 
+     Bu olayda üyemizin şifresinin güvenliğini tehlikeye atacak hiçbir ihmali bulunmadığı gibi, ilgili bankanın güvenlik çemberi de bilgisayarında yüklü bulunuyordu. Buna rağmen müşterinin şifresi hacker'lar tarafından ele geçirildi. Hesabı hortumlandı. 
+     Üyemiz her türlü hukuki yolu deneyerek dolandırıcılar hakkında yasal takipte bulundu. Zararın tazmini için de bankasına başvurdu. Sonuç olarak burada üyemizin hiçbir güvenlik ihmali bulunmadığından uğradığı zarar banka tarafından ödenmesi gerekirdi. Ancak üyemize gidin hukuki yollara başvurun denildi. Şimdi bunun sorumlusu kim Tüketicinin ne kabahati var.'' 
+     
+     SİGORTA YAPILMALI 
+
+     Tüketicilerin internet bankacılığı hesaplarının sigortalanması için mevzuatın yeterli olduğunu dile getiren Aygün, Hazine Müsteşarlığı Sigortacılık Genel Müdürlüğü mavzuatına göre bankaların istedikleri takdirde internet bankacılığı sistemlerini sigortalattıklarını bildirdi. 
+     Aygün, sistemdeki bütün bankalar yararlandığı halde, hesabı hackerlanan üyenin bankasının bu sigorta sisteminden yararlanmadığına, bu şekilde tüketiciyi mağdur ettiğine dikkat çekti. 
+     
+     OLTA SALDIRILARI 
+
+     Son günlerde çeşitli banka ve finans kurumları tarafından gönderilmiş gibi görünen, acil ve çok önemli konular içeriyormuş gibi duran sahte e-postaların internette yayılmakta olduğunu kaydeden Aygün, bu e-postalarda verilen linkler aracılığı ile banka müşterilerinden, kart bilgileri, kart şifreleri, internet şubesi şifreleri ve kişisel bilgileri istendiğine dikkat çekti. 
+     Bu eylemin açık bir dolandırıcılık girişimi olduğunun altını çizen Aygün, şöyle devam etti 
+     ''Kesinlikle bu tür e-postalara yanıt vermeyin veya istenen bilgileri girmeyin. Bankalar, e-posta yoluyla hiçbir şekilde şifre işlemleri yaptırmamaktadır, müşterilerin gizli kişisel bilgilerini istememektedir. Olta saldırısından şüphelendiğiniz bir e-postaya cevap verdiyseniz derhal kart ve internet şubesi şifrelerinizi değiştiriniz. Bankanızın çağrı merkezini arayarak konu hakkında bilgi veriniz.'' 
+     
+     KEYLOGGER 
+
+     Dolandırıcıların müşterinin gizli bilgilerine keylogger adı verilen klavye ve ekran görüntülerini kopyalayabilen programlar vasıtasıyla da ulaşabildiğini ifade eden Aygün, keylogger yöntemi ve alınabilecek önlemler hakkında da şu bilgileri verdi 
+     ''İnternet kullanan banka müşterilerinin veya internet üzerinden ticaret yapan kullanıcıların online işlem şifrelerinin çalınması keylogger, yani klavye tuş girdilerini kayıt eden yazılımlar vasıtasıyla da yapılmaktadır. 
+     Kullanıcıların bilgisayarlarına yerleştirilen keylogger adlı yazılım, bilgisayarda yapılan her türlü işlemlerin bir kaydını tutar, bu kayıtlar klavyeden girilen bilgilerin yanı sıra ekran görüntüleri de olabilir. Bu kayıtlar ya sistemde bir dosya olarak tutulur ya da klavye girdileri e-posta ile saldırgana gönderilir.'' 
+     
+     TÜKETİCİLERİ UYARDI 
+
+     Internet bankacılığı kullanan tüketicilerin yapmaları ve yapmamaları gereken işlemlere ilişkin bilgiler veren ve uyarılarda bulunan ATO Başkanı Aygün, bu önlemleri şu şekilde sıraladı 
+     ''Kimlik ve kişisel finansal bilgileri isteyen e-postalar konusunda dikkatli olun. Bu bilgileri asla vermeyin. Bankalar tarafından size verilen müşteri numarasını, parola ve şifre bilgilerini üçüncü şahıslarla paylaşmayın. Banka ve ticari kurumlardan gelmiş gibi gösterilen ve sizden şifre, kullanıcı adı, müşteri numarası, kimlik numarası, gibi bilgileri talep eden mesajlara itibar etmeyin. E-posta yoluyla hiçbir zaman şifre işlemleri yapmayın. Bilgisayarınızda güncel bir virüs koruma programı olmasına dikkat edin. Her hesap numaranız için farklı bir şifre belirleyin. Düzenli olarak çevrimiçi hesaplarınızı kontrol edin, aylık kontrollerle yetinmeyin. İnternet bankacılık işlemlerinizi güvenliğinden emin olmadığınız bilgisayarlarda yapmayın.'' 
+
+     
+</TEXT>
+</DOC>

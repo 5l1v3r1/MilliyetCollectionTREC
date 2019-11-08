@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 202757 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/17/son/soneko35.html </URL>
+<DATE> 2003/12/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Para piyasalarında bugün... 
+</HEADLINE>
+<TEXT>
+
+     İMKB'de işlem gören hisse senetleri bugün ortalama yüzde 0.13 oranında değer kazandı. 
+     Güne alıcılı başlayan ancak daha sonra gelen satışlarla gerileyen endeks, son dakika alımlarıyla 17,280.03 puandan 1. Seansı tamamladı. Borsa, ikinci seansta yaklaşık 210 puanlık bir bantta dalgalanırken, 17,200 puanın üstünde tutunma çabaları dikkat çekti. 
+     İstanbul Menkul Kıymetler Borsası İMKB Ulusal 100 endeksi, 1. seansta 71.52 puan ve yüzde 0.42 artışla 17,280.03 puandan kapandı. Endeks, 2. seansta 49.25 puan gerileyerek, günü 17,230.78 puandan tamamladı. Endekste günlük bazdaki artış 22.27 puan ve yüzde 0.13 olarak gerçekleşti. 
+     Hisse senetleri piyasasında günlük işlem hacmi 756 trilyon 932 milyar 975 milyon lira olarak belirlendi. 
+     
+     DOLAR 
+     Merkez Bankası, doların bugünkü efektif kurunu alışta 1 milyon 424 bin 135 lira, satışta ise 1 milyon 434 bin 155 lira olarak açıkladı. 
+     Böylece dolar, Merkez Bankası'nın dün açıkladığı kurlara göre, alışta 6 bin 85 lira, satışta ise 6 bin 129 lira yükseldi. 
+     Kapalıçarşı'da dün 1 milyon 434 bin liradan kapanan dolar güne yine aynı fiyattan, 1 milyon 767 bin liradan kapanan Euro 1 milyon 764 bin liradan başladı. 
+     Kapanışta, doların satış fiyatı 1 milyon 433 bin lira, Euro'nun satış fiyatı 1 milyon 771 bin lira oldu. 
+     
+     TAHVİL VE BONO PİYASASI 
+     İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda 26 Ocak 2005 vadeli, bugün valörlü tahvilin bileşik getirisi 0.22 puan geriledi. 
+     Bu kağıdın aynı gün valörlü işlemlerinin basit getirisi yüzde 27.42, bileşik getirisi yüzde 27.04 oldu. Dün bu kağıdın aynı gün valörlü işlemlerinde basit getiri yüzde 28.66'dan, bileşik getiri yüzde 27.26'dan kapanmıştı. 
+     İMKB Tahvil ve Bono Piyasası Repo Pazarı'nda gecelik faiz de ortalama yüzde 26.00 oldu. 
+     
+</TEXT>
+</DOC>

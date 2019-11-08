@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 317679 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/22/son/sonyas11.html </URL>
+<DATE> 2005/02/22/ </DATE>
+<TIME> 09.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Google'ın e-posta servisi halka açılıyor 
+</HEADLINE>
+<TEXT>
+
+     İnternet arama motoru Google, daha önce test kullanımı için kısıtlı sayıda insanın kullanımına açtığı e-posta hizmeti Gmail'i genişletiyor. 
+     Google, Gmail için daha önce 'gmail.google.com' internet adresinden kayıt yaptıranları da elektronik posta hizmetinden yararlanmaya çağırıyor. 
+     Ne zaman hizmete gireceği belli olmayan Gmail'i kullananlara, elektronik postalar içinde arama yapılabilme kolaylığı da sunuluyor. 
+     Gmail'in tartışmalı özellikleri arasında bir yazılımın e-postalarda geçen konuyu tarayarak, ilgili reklam linklerini elektronik postaya ekleyebilecek olması da bulunuyor. 
+     
+     Özel hayatın gizliliği 
+
+     Google yetkilileri, bu işlemin otomatik anahtar kelime sistemiyle, kişinin özel hayatının gizliliği korunarak gerçekleştirileceğini belirtiyorlar. 
+     Gmail'le ilgili diğer bir eleştiri ise kullanıcıların sildiği e-postaların Google tarafından silinmeme hakkının saklı tutulması. Bunun ticari ya da istihbarat amaçlı kullanılmasından endişe ediliyor. 
+     
+     Yahoo ve Hotmail'in telaşı 
+
+     Google'ın elektronik posta alanında da büyümek istemesi, Yahoo ve Hotmail gibi şirketleri telaşlandırmıştı. 
+     Google'ın girişiminin ardından kullanıcılarının elektronik posta depolama kapasitelerini kademeli olarak artıran Yahoo, en son 250 Mb, Microsoft'un yan kuruluşu Hotmail ise ABD'lilere 250 Mb Türkiye'den üye olanlara 2 Mb depolama kapasitesi sunuyor. 
+     Google, Gmail ile 1 Gb'lik 1.000 Mb elektronik posta hizmeti sunuyor. 
+
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 400991 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/06/son/soneko01.html </URL>
+<DATE> 2005/12/06/ </DATE>
+<TIME> 04.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düştü 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacminde dünyanın en büyük borsası New York Wall Street, düşüşle başladığı haftanın ilk işlem gününü düşüşle kapadı. 
+     Dow Jones Sanayi Endeksi, 42.50 puan düşüşle binde 3.9 10,835.01 puandan teknoloji şirketleri ibresi Nasdaq Bileşik Endeksi de 15.73 puan kayıpla binde 6.9 2,257.64 puandan noktalandı. 
+     Borsanın düşüşünde, hampetrol fiyatlarının varilde 60 dolar seviyesinin yüksek enerji maliyeti endişesi ve elektronik sanayiinde yarı iletken-yonga üretim firmaları hisselerinin kaybı etkili oldu. 
+     
+</TEXT>
+</DOC>

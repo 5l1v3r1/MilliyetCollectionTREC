@@ -1,0 +1,46 @@
+<DOC>
+<DOCNO> 108819 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/09/21/yasam/yas07.html </URL>
+<DATE> 2002/09/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Gülen yüz 20 yaşında 
+</HEADLINE>
+<TEXT>
+
+Scott Fahlman, gülme efekti vermek için ilk olarak tuşlara 19 Eylül 1982 günü basmıştı 
+     DIŞ HABERLER SERVİSİ 
+
+     İnternette chat yaparken ya da elektronik postayla yazışırken okuyan tarafa güldüğünüzü belli etmek için kullanılan " " işareti 20 yaşına girdi. 
+     Meslek yaşamını yapay zek nın gelişimine adayan ve bilgisayarların "insan gibi düşünmesini" sağlamaya çalışan IBM şirketinin araştırma elemanı Scott Fahlman, 19 Eylül 1982’de gönderdiği bir mesajda tuşlarına basınca "gülen yüz" internet dünyasının en sevimli "karakterlerinden" biri oldu. 
+     
+     Diğerleri de geldi 
+     Fahlman, ayrıca rakamların yerine semboller kullanılan bir bilgisayar dili olan Common Lisp’in geliştirilmesine de katkıda bulundu. 
+     Ancak, belki de bu bilgisayarcının en iyi tanınmasını sağlayan, internet kültürüne gramer dışı işaretlerin girmesini sağlaması oldu. Fahlman’ın bilgisayar ağ sisteminin, üniversitelerin araştırma bölümleri ve hükümetin gizli kurumları dışında çok seyrek bulunan, 1980’lerin başındaki bu yeniliğinden esinlenerek, göz kırpmayı ifade eden - veya şaşkınlığı ifade eden 0 gibi sayısız duygu ifadesi oluşturuldu. 
+     
+
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

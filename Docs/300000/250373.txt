@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 250373 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/23/son/sonyas13.html </URL>
+<DATE> 2004/06/23/ </DATE>
+<TIME> 10.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayar dünyası... Virüslerden sonra solucanlara dikkat 
+</HEADLINE>
+<TEXT>
+
+     Genellikle e-postalarla çok çabuk bir şekilde yayılan ''solucan'' adı verilen mini programlar, biriktiği bilgisayarın hızını yüzde 38 oranında düşürüyor. 
+     İnternet kullanımının yaygınlaşmaya başlamasıyla pek çok bilgisayar virüslerden kaynaklanan sorunlar nedeniyle zarar gördü. Son dönemlerde mini programlar olarak nitelendirilen solucanlar worm ise virüsler kadar bilgisayarları etkileyerek, ekonomik zarara ve iş gücü kaybına yol açıyor. 
+     Yazılımlardaki güvenlik açıklarını veya kullanıcıların bilgisayar teknolojilerine ilişkin eksik bilgilerini kullanarak yayılmaya çalışan solucanlar, virüslerden farklı olarak kendini çoğaltmak için başka programlara bulaşmaya ihtiyaç duymuyor. 
+     Solucanlar, genellikle bağlı olunan ağ üzerinde yayılmayı deneyerek veya adres defterinde bulunan kişilerin bilgisayarlarına, kendilerini bir e-posta içine saklayıp yine kendilerini postalayarak bulaşmaya çalışıyor. 
+     
+     İŞ VERİMİNİ DE ETKİLİYOR 
+     Hür Türkiye Teknoloji Platformu Kurucusu Hakan Topuzoğlu, e-posta kullanımının artmasıyla bilgisayarlarda solucan tehdidinin de arttığını söyledi. 
+     Son günlerde Türkiye'yi ve tüm dünyayı etkileyen SOBIG.F solucanının da bu yöntemle yayılan solucanlardan biri olduğunu belirten Topuzoğlu, ''SOBIG.F, bulaştığı bilgisayarda e-posta adresi taşıyabilecek tüm dosyaları tarar ve bulduğu e-posta adreslerini, e-postanın kimden kısmına yazarak alıcıyı aldatmak için kullanır. Bu aldatma yöntemi, solucanın bir anda ve hızlı yayılmasına neden olur'' dedi. 
+     E-postalar aracılığıyla çok çabuk bir şekilde yayılan solucanların, biriktiği bilgisayarın hızını yüzde 38 oranında düşürdüğünü kaydeden Topuzoğlu, şunları söyledi 
+     ''Bilgisayar hızı çalışma ortamında önemli bir faktördür. Çalışanlar, işlemleri yavaş bir şekilde yapan bilgisayarlar karşısında gerginleşebiliyor. Bu nedenle solucanların, iş verimini de ciddi bir şekilde düşürdüğü söylenebilir. Bunun yanı sıra istek dışı gelen e-postalar nedeniyle, internete daha hızlı bağlanma ihtiyacı doğuyor. Bu da her yıl yüzbinlerce dolar ekonomik kayba neden oluyor. Bu nedenle internet kullanıcıları dosya eki bulunan e-postalara özellikle dikkat etmelidir.'' Solucanların kim tarafından üretildiğini tespit etmenin zor olduğunu dile getiren Topuzoğlu, bu tür konularda zaman zaman FBI'nın özel çalışmalar yaptığının bilindiğini söyledi. 
+     Topuzoğlu, solucanların internetten ücretsiz olarak bilgisayara yüklenebilen bir program sayesinde temizlenebileceğini, bu işlemin ise belli periyotlarla tekrarlanması gerektiğini sözlerine ekledi. 
+     
+</TEXT>
+</DOC>

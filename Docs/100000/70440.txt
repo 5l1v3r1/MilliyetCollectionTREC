@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 70440 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/03/02/son/sontur07.html </URL>
+<DATE> 2002/03/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Rum bilgisayar korsanları Türk sitelerine saldırıyor 
+</HEADLINE>
+<TEXT>
+
+     Güney Kıbrıs Rum Kesimi ve Yunanistan vatandaşı bir grup siber korsan, Türkiye'deki resmi internet sitelerine savaş açtı. 
+     www.cyhackportal.com internet adresindeki ''saldırı portalı''nda buluşan Rum siber korsanlar, değişik yöntemlerle ele geçirdikleri ya da geçici süre devre dışı bıraktıkları Türk internet sitelerinin adreslerini, kendi sitelerinde sıralıyorlar. İnternet analistleri ise, Rumların özellikle Kıbrıs konusunda ''yaraları olduğu için'' bu tür saldırgan tutum sergilediklerini belirterek, ''İş istatistik yapmaya gelirse, Türk siber korsanlar bir tane Rum sitesini açık bırakmaz hepsini kapatır, çünkü bunu yapabilecek zihne ve altyapıya sahip'' görüşünü bildirdiler. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

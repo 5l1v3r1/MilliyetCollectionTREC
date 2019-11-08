@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 385127 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/08/son/sontur19.html </URL>
+<DATE> 2005/10/08/ </DATE>
+<TIME> 13.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kayıt dışı telefonlara 15 gün içinde kısa mesaj gelecek 
+</HEADLINE>
+<TEXT>
+
+     Suat Karabıyık 
+
+Kayıt dışı cep telefonlarına gönderilecek mesaj, bu konudaki esasları belirleyen yönetmeliğin yayınlanmasını bekliyor. Yönetmeliğin yayınlanmasının ardından GSM operatörleri aracılığıyla 15 gün içinde kayıt dışı cep telefonlarına kayıt yaptırmaları için uyarı mesajları gönderilecek. 
+     AA muhabirinin aldığı bilgiye göre, Telekomünikasyon Kurumu, kaçak ya da çalıntı cep telefonlarının kayıt altına alınmasına ilişkin hükümler getiren 92 sayılı kanunun öngördüğü düzenlemeleri yapmaya çalışıyor. 
+     Telekomünikasyon Kurumu, kayıt işlemlerinin hangi usullerle yapılacağını belirleyen yönetmeliğe son şeklini vererek, Başbakanlığa gönderdi. Yönetmeliğin yayınlanmasının ardından 15 gün içinde GSM operatörleri aracılığı ile kayıt dışı cep telefonlarına, kayıt yaptırmaları için uyarı mesajları gönderilecek. 
+     Telekomünikasyon Kurumu, bu arada, cep telefonlarıyla ilgili bilgilerin tutulacağı veri tabanı ile bilgi ihbar merkezinin kuruluşu için çalışmalarını da sürdürüyor. Kurum, bu konudaki ihaleleri gerçekleştirdi. Önümüzdeki günlerde veri tabanının oluşturularak, bilgi ihbar merkezinin faaliyete geçirilmesi bekleniyor. 
+     Cep telefonlarının kayıt işlemlerinde izlenecek yöntemler ve işletmecilerin sorumluluklarını belirleyen "Elektronik Kimlik Bilgisini Haiz Cihazlara Dair Yönetmelik", kayıt dışı telefonların 13 Aralık 2005 tarihine kadar kayıt başvurularının yapılmasını öngörüyor. 
+     Cep telefonu aboneleri, çalınma, yağmalanma, kaybolma veya her ne suretle olursa olsun rızası dışında elinden çıkması ihtimaline karşı cihazlarının haberleşme şebekesinden hizmet almasının engellenmesi için Telekomünikasyon Kurumu’nun bilgi ve ihbar merkezine kısa mesaj göndererek kayıt yaptıracaklar. Detayları daha sonra Telekomünikasyon Kurulu tarafından belirlenecek bu işlemin, elektronik posta ve faks ile yaptırılabileceği de belirtiliyor. 
+     Bu işlemin yaptırılması sayesinde, cep telefonu aboneleri, telefonlarının kaybolması ya da çalınması halinde kurumun bilgi ihbar merkezini arayarak bu telefona hizmet verilmesini durdurabilecekler. 
+     Başvurunun yapılmasının ardından söz konusu cep telefonuna GSM operatörleri tarafından hizmet verilmesi durdurulacak. 
+     
+     HENÜZ KAYIT YAPILMIYOR 
+     Telekomünikasyon Kurumu’nun kayıt işlemleri konusunda çalışmalarının devam etmesi, bu arada ilgili yönetmeliğin henüz yayınlanmaması nedeniyle şu anda kayıt işlemleri yaptırılamıyor. Kayıt işlemleri, yönetmeliğin yayınlanmasının ardından Telekomünikasyon Kurumu’nun belirleyeceği detaylı kayıt prosedürüne göre yaptırılacak. 
+     Öte yandan, Telekomünikasyon Kurumu, oluşturacağı veri tabanıyla cep telefonlarını "Kara", "Gri" ve "Beyaz" listeler altında izleyecek. 
+     Piyasaya arzına izin verilen cihazların elektronik kimlik bilgilerine ait güncel liste "Beyaz Liste" olarak nitelendiriliyor. 
+     Kimlik bilgilerinde herhangi bir sorun olmayan tüm cihazlar bu listede yer alacak. 
+     Hizmet dışı bırakılması gereken cihazlar Kara Liste’de bulunacak. 
+     Beyaz ve Kara listelerin kapsamı dışında kalan cihazlar ise Gri Liste’de yer alacak. 
+     
+</TEXT>
+</DOC>

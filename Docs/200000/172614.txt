@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 172614 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/30/son/sontur12.html </URL>
+<DATE> 2003/07/30/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Cep telefonundan gelen mesaja dikkat, milyarlık fatura tehlikesi.. 
+</HEADLINE>
+<TEXT>
+
+     Norfolk Adaları'ndan gönderilen bir cep telefonu mesajı SMS , kullanıcıları milyarlık telefon faturası tehdidiyle karşı karşıya bırakıyor. 
+     A.A muhabiri, kendisine gelen bir SMS üzerine yaptığı araştırmada, Avustralya ve Yeni Zelanda arasında yer alan Norfolk Adaları'ndan gönderilen SMS'in, yanıtlandığı takdirde cep telefonlarını sistemde takılı bıraktığını tespit etti. 
+     ''Tanıdığın bir kişi senden hoşlanıyor ve sana bu mesajı gönderiyor. Kim olduğunu bulmak için 00672 34 2593'ü ara'' şeklinde mesaj alan kullanıcı, verilen numarayı aradıktan sonra sistemde takılı kalıyor ve telefonunu kapatsa bile kapanmamış gibi işlem görüyor. Kullanıcı, ay sonunda milyarlarca liralık faturayla karşı karşıya kalabiliyor. 
+     Türk Telekom yetkilileri ise söz konusu SMS'in çok sayıda kullanıcıya gittiğini ve verilen numaranın kesinlikle aranmaması gerektiğini bildirdiler. 
+     
+</TEXT>
+</DOC>

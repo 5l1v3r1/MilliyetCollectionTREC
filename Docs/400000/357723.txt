@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 357723 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/03/dunya/dun02.html </URL>
+<DATE> 2005/07/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternete 'büyük gözaltı' 
+</HEADLINE>
+<TEXT>
+
+
+
+ABD'de George W. Bush yönetimi, küresel muhalefeti engellemek için dünya internet trafik akışını sağlayan "kök sağlayıcılar" olarak da bilinen 13 merkezi bilgisayarı uluslararası bir kuruluşa devretme kararından vazgeçti. 
+ABD'ye karşı artan güvenlik tehditleri ve küresel iletişimde internete güvenin artması dolayısı ile böyle bir yola başvuran Beyaz Saray, hükümet onaylı 260 civarı internet alan isimlerinin com,co.uk,org vb. de bulunduğu büyük bir internet ağına hükmediyor. 
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 281824 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/20/son/soneko03.html </URL>
+<DATE> 2004/10/20/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD'de enflasyon şaşırtmadı 0.2 
+</HEADLINE>
+<TEXT>
+
+     ABD'de eylül enflasyonu piyasa beklentileri doğrultusunda yüzde 0.2 olarak gerçekleşti. 
+     Çekirdek enflasyondaki artış ise, kira maliyetlerindeki artış nedeniyle beklentileri aşarak son 5 ayın en yüksek seviyesine ulaştı. 
+     Değişken olan enerji ve yiyecek fiyatlarının hariç tutulduğu çekirdek enflasyon, kira maliyetlerinin yüzde 2.9 artması nedeniyle eylülde yüzde 0.3 yükseldi. 
+     Eylülde enerji fiyatlarının yüzde 0.4 oranında azalması, enflasyondaki artışında beklentiler dahilinde kalmasını sağladı. 
+     Raporu değerlendiren analistler, petrol fiyatlarındaki düşüşe rağmen gerçekleşen artışın enflasyonist bir ortamın varlığının sürdüğünün bir göstergesi olduğunu belirttiler. 
+     
+</TEXT>
+</DOC>

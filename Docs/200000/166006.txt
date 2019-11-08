@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 166006 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/28/yasam/yas15.html </URL>
+<DATE> 2003/06/28/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternet-2’de hız rekoru kırıldı 
+</HEADLINE>
+<TEXT>
+
+     YAVAŞLAYAN internet ağına paralel olarak geliştirilen İnternet-2 şebekesi üzerinden yapılan denemede dünya internet hız rekoru kırıldı. Cenevre - Chicago arasındaki deneyde, hızlı bağlantının 3500 katı bir hıza erişildiği belirtildi. Kısa adı IPv6 olan gelecek kuşak internet protokolünü kullanan ekip, saniyede 983 megabit hızla veri nakletmeyi başardı. 
+     
+
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 168435 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/10/yasam/yas11.html </URL>
+<DATE> 2003/07/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Barkod yerine çipler geliyor 
+</HEADLINE>
+<TEXT>
+
+     DIŞ HABERLER SERVİSİ 
+
+     Barkodların yerini, 20 yıl içinde, iğne ucu boyutunda bilgisayar çipleri ve antenler alacak. Bu yeni teknoloji sayesinde, market sahipleri ve üretici firmalar, hem ürünlerini, hem de alıcıları daha iyi takip edebilecek. Bu sistemde, paketin üzerinde bulunan karınca başından küçük bir verici ve pakete bağlı ince anten, radyo sinyallerini bir elektronik okuyucuya gönderecek. Elektronik okuyucudan, marketin ya da fabrikanın bilgisayarına gidecek mesaj, market sahibine, malın raftan alındığını, üreticiye ise depodan çıktığını otomatik olarak haber verecek. 
+     
+
+</TEXT>
+</DOC>

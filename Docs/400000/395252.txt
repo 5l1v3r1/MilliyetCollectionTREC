@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 395252 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/15/son/sontur42.html </URL>
+<DATE> 2005/11/15/ </DATE>
+<TIME> 14.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Açık alanlarda internet hizmeti sunulacak 
+</HEADLINE>
+<TEXT>
+
+     İnternet servis sağlayıcıları, bina dışı alanlarda da kablolu ve kablosuz internet erişim hizmeti sunabilecek. 
+     Telekomünikasyon Kurumu’nun, Telekomünikasyon Hizmet ve Altyapılarına İlişkin Yetkilendirme Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmeliği Resmi Gazete’nin bugünkü sayısında yayımlandı. 
+     Yetkilendirme Yönetmeliği’nin İnternet Servis Sağlayıcılığı Hizmetine ilişkin bölümündeki değişiklikle, bu alandaki lisansın kapsamı genişletildi. Ancak, işletmeciler, yetki kapsamında kullanıcılara internet üzerinden telefon hizmetleri sunamayacak. 
+     İşletmeci, hizmetin kesintisiz olarak sunulması için gereken tedbirleri almakla ve internet servis sağlayıcılığı hizmetini tanıtmaya yönelik olarak "tr" uzantılı en az bir internet sitesi kurmakla yükümlü olacak. 
+     İnternet servis sağlayıcıları, 2400-2483.5 frekans bandında otel, restoran, ev, hastane, konferans salonu, alışveriş merkezi gibi bina içi ve kampus, yat limanı, fabrika sahası, sokak, cadde gibi bina dışı alanları, 5150-50 frekans bandında ise otel, restoran, ev, hastane, konferans salonu, alışveriş merkezi gibi bina içi alanlarda erişim sağlayabilecek. 
+     Kurum tarafından "İnternet Servis Sağlayıcılığı Hizmeti" sunmak üzere genel izin kapsamında kayıtlanan işletmeciler, "Kablolu ve Kablosuz İnternet Servis Sağlayıcılığı Hizmeti" sunmak üzere genel izin kapsamında kayıtlanmış sayılacak. 
+     Yönetmelikteki değişiklikle bina dışı alanlarda da işletmecilere kablolu ve kablosuz internet erişimi sağlama imkanı getirildi. 
+     
+</TEXT>
+</DOC>

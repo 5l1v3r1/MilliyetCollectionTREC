@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> 92213 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/06/26/son/soneko15.html </URL>
+<DATE> 2002/06/26/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Amerika'da yeni bir şirket skandalı 
+</HEADLINE>
+<TEXT>
+
+     ABD'li iletişim devi WorldCom'da, 3.8 milyar dolarlık muhasabe usulsüzlüğü yapıldığı ortaya çıktı. 
+     WorldCom'dan yapılan açıklamada, WorldCom'a ait harcamaların ''ilgisiz hesaplarda saklanarak, şirketin mali durumunun gerçeğe aykırı biçimde gösterildiği'' kabul edilerek, bu durumdan sorumlu görülen baş muhasebe yetkilisi Scott Sullivan'ın işine son verildiği bildirildi. 
+     Şirket açıklamasında, ''ortaya çıkarılan usulsüzlüğün WorldCom yönetimini şoke ettiği'' belirtilirken, Sullivan'ın kovulmasının yanı sıra, başkan yardımcısı ve denetçilik görevlerini yürüten David Myers'ın istifasının da kabu edildiği bildirildi. 
+     ABD federal makamlarının soruşturması altında bulunan WorldCom'un kurucu patronlarından Bernie Ebbers de, yedi hafta önce istifa etmişti. 
+     Açıklamada, WorldCom'un 2001 ve 2002 yılıyla ilgili mali raporlarının denetimi için Andersen'den vazgeçip KPMG muhasebe firmasıyla anlaştığı ve bu firmanın yapacağı denetim sonucunda şirketin gerçek mali durumunu gösteren yeni raporlar hazırlanacağı ifade edildi. 
+     ABD'de enerji devi Enron'un batışıyla gündeme gelen büyük şirketlerin karıştığı yolsuzluk ve usulsüzlük skandallarının son örneği olarak kabul edilen gelişme, New York Borsası'nda dalgalanmaya neden oldu. 
+     
+     YİNE ANDERSEN BAĞLANTISI 
+     WorldCom'un mali denetimini de Enron gibi mali denetim ve danışmanlık şirketi Andersen'in yürütüyor olması dikkat çekici bulunuyor. 
+     Andersen, WorldCom muhasebe yetkililerinin önemli bilgileri vermediği ve kendi denetçilerine danışmadığı iddiasıyla kendini savunmaya çalışsa da, olayın, Enron skandalındaki rolü nedeniyle batma noktasına gelen danışmanlık şirketi için yeni bir ağır darbe olacağı belirtiliyor. 
+     
+     WORLDCOM'UN 15 YILLIK KOŞUSU 
+     Küçük bir uzun mesafeli telefon şirketi olarak işe başlayan WorldCom, benimsediği saldırgan büyüme stratejisiyle son 15 yıl içinde sektördeki 60'tan fazla firmayı bünyesine alarak uzun mesafeli telefon hizmetleri ve bilgi işlem sektöründe ABD'nin ikinci büyük şirketi konumuna yükselmişti. 
+     WorldCom'un ihtiraslı büyüme stratejisi, Sprint şirketiyle 129 milyar dolar değerindeki birleşme girişiminin 2000 yılında, ABD ve Avrupa Birliği makamlarının onayını alamamasıyla sekteye uğramıştı. 
+     Hızlı büyümenin getirdiği kuşku ve söylentiler WorldCom'un ABD'de şirketlerin finans ve muhasebe pratiklerini denetleyen en yüksek makam olan Esham ve Döviz Komisyonu'nu tarafından SEC incelemeye alınmasına yol açtı. 
+     Son muhasebe usulsüzlüğünün ortaya çıktığı sırada, WorldCom SEC'in incelemesi altında bulunuyordu. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

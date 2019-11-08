@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 280648 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/15/son/soneko02.html </URL>
+<DATE> 2005/03/15/ </DATE>
+<TIME> 02.11 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Doların değer kaybı Avrupa Merkez Bankasını vurdu 
+</HEADLINE>
+<TEXT>
+
+     Avrupa Merkez Bankası AMB 2004 yılını 1,636 milyar avro zararla kapattı. 
+     AMB tarafından yayımlanan kar-zarar tablosunda ortaya çıkan zararın büyük ölçüde, ABD Doları'nın yıl içindeki değer kaybından kaynaklandığı görüldü. 
+     Döviz rezervlerinin büyük bölümü ABD Doları'ndan oluşan AMB, böylece doların değer kaybından dolayı zarara uğradı. 
+     AMB, 2003 yılını 477 milyon avroluk daha küçük bir zararla, 2002 yılını ise 1,22 milyar avro net karla kapatmıştı. 
+     AMB'nin zarar etmesi, bankanın karından pay alan Avrupa Birliği üyesi ülkelerin ulusal merkez bankaları için olduğu kadar, ulusal merkez bankalarının karlarından pay alan Almanya gibi devletler açısından da kayıp anlamına geliyor. 
+     AMB'nin 1,636 milyar avroluk 2004 yılı zararının 296 milyon avroluk bölümünün toplam genel yedek fonundan, 1,340 milyar avroluk kalan bölümünün de üye merkez bankalarının önceden ödenmiş üyelik tahsisatlarından karşılanacağı bildirildi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,45 @@
+<DOC>
+<DOCNO> 105638 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/09/04/yasam/ayas.html </URL>
+<DATE> 2002/09/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Görmeyenler de internette sörf yapabilecek... 
+</HEADLINE>
+<TEXT>
+
+Sesi yazıya, yazıyı sese dönüştüren’ bir program geliştirilen Hindistan’da, bir de körler için bir internet kafe açtı 
+     DIŞ HABERLER SERVİSİ 
+
+     Dünyanın en yoksul ülkelerinden biri olmasına karşın bilgi teknolojisinde en ileri ülkeleri sollayan’ Hindistan’da görme özürlüler için internet kafe açıldı. Tabii bundan önce Hintliler, amalar için bir internet programı geliştirdi. Ulusal Körler Birliği’ ile Bombay Üniversitesi işbirliğiyle geliştirilen program sayesinde görmeyenler internetten istedikleri bilgilere ulaşıp, rahatça chat de yapabiliyorlar. 
+     
+     Söyle yazsın 
+     Program, "Sesin yazıya, yazının da sese dönüştürülmesi" ilkesine dayanıyor. Görmeyen kullanıcı, sesli komutla internete girdikten sonra program, ekrandaki seçenekleri sesli olarak tekrarlıyor. Kullanıcı da bu seçeneklerden birini sesli komutla seçiyor. Ekrandaki imleç, bu komutla birlikte istenen seçenek üzerinde tıklayarak bu siteye girişi sağlıyor. Daha sonra sitedeki bilgiler yine sesli olarak okunuyor. İnternet sohbetlerinde ise kullanıcının sesli olarak dile getirdiği sözler ekranda yazıya dökülüyor. 
+     
+
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

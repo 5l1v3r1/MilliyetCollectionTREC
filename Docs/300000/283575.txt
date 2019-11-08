@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> 283575 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/26/son/sonyas04.html </URL>
+<DATE> 2004/10/26/ </DATE>
+<TIME> 15.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hafızayı geliştiriyor Vaktiniz varsa, bir bardak daha çay için 
+</HEADLINE>
+<TEXT>
+
+     BBC 
+
+Yeni bir araştırmaya göre düzenli çay içmek hafızanın gelişmesine yardımcı olabilir. 
+     Newcastle Üniversitesi'nden bir grup uzmanın yaptığı araştırmaya göre yeşil ve siyah çay bunama ya da Alzheimer gibi hastalıklara yol açan enzimlerin beyindeki faaliyetini durduran özelliklere sahip olabilir. 
+     Uzmanlar, Pyhtotheraphy Research'te yayınlanan bulgularının Alzheimer hastalığı ile mücadelede yeni yöntemler geliştirilmesine yardımcı olmasını umuyor. 
+     Bulgulara göre çay, özellikle bu rahatsızlıkla mücadele için geliştirilen ilaçlarla benzer etkiyi yapıyor. 
+     Alzheimer hastalığı, beyinde asetilkolin adlı kimyasalın azalması sonucu ortaya çıkıyor. 
+     Newcastle ekibi, laboratuvar deneylerinde, hem yeşil hem de siyah çayın, bu kimyasalı devredışı bırakan asetilkolinesteraz adlı enzimin AChE faaliyetlerini durdurmasına yardumcı olduğunu belirlemiş. 
+     Ekip ayrıca her iki çayın da, Alzheimer hastalarının beyinlerindeki protein tortularında bulunan, butirilkolinesteraz BuChE adlı ikinci bir enzimin faaliyetlerini de engelleyebildiğini söylüyor. 
+     Yeşil çayın bir özelliği daha var. O da Alzheimer hastalığına etkisi olan beyindeki protein tortularının oluşmasında önemli bir rolü olan beta-sekretazın faaliyetlerini engellemesi. 
+     Bilimadamları ayrıca yeşil çayın önleyici etkisinin bir hafta sürdüğünü, siyah çayın enzimleri önleme özelliğinin ise sadece bir gün dayandığını belirlemiş. 
+     
+     İlaçlardan farklı değil 
+
+     Alzheimer'in bilinen bir tedavi yöntemi bulunmuyor ancak hastalığın gelişmesini engellemek mümkün. 
+     Piyasadaki ilaçlar, AChE enziminin faaliyetlerini engelliyor, uzmanlar geliştirilmekte olan diğer ilaçların da BuChE ve beta-sekretazın faaliyetlerini önleyebileceği umudunu taşıyor. 
+     Ancak şu an kullanılan donepezil gibi ilaçların pek çok yan etkisi var ve tıp çevreleri alternatif yollar bulmaya kararlı. 
+     Newcastle Üniversitesi'ndeki araştırmacılar yeşil çay üzerinde daha fazla deney yapmak için mali destek arıyorlar. Uzmanlar ayrıca klinik deneyler yapmayı da planlıyor. 
+     Amaçları, başta Alzheimer hastalarının ilaç niyetine içebilecekleri bir çay üretilmesi için çalışmak. 
+     Uzmanların bundan sonraki adımları ise yeşil çayın hangi bileşenlerinin, zararlı enzimlere etki ettiğini belirleyebilmek olacak. 
+     65 yaşın üstündekilerin yüzde 2 ila 5'i 85 yaşın üstündekilerin ise yüzde 20'si bu hastalıktan muzdarip. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 335699 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/21/son/sonyas29.html </URL>
+<DATE> 2005/04/21/ </DATE>
+<TIME> 15.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Google'dan yeni bir hizmet... Arama geçmişine bir çırpıda ulaş 
+</HEADLINE>
+<TEXT>
+
+     Ünlü arama motoru Google, yardımcı olacağı kadar, kullanıcı için sorun yaratabileceği savunulan yeni bir hizmet başlattı. 
+     Google'ın dün hizmete sunduğu, kullanıcının geçmişte yaptığı tüm aramaları gösteren ''My Search Story'' adlı servisin aktif hale getirilmesi için ''http labs.google.com'' adresine girmek gerekiyor. 
+     Kullanıcının bir şifre belirlemesini isteyen yeni hizmetten, Google'ın elektronik posta ve sohbet gruplarının kullanıcıları kendi şifrelerini girerek yararlanabilecekler. 
+     Geçmiş aramaları gösteren hizmet, aynı bilgisayarı kullananlara, isterlerse, her seferinde üye girişi yapmalarına gerek kalmadan otomatik olarak kullanıcıyı tanıma olanağı da sunuyor. 
+     Kullanıcılar siteyi her ziyaretlerinde üye girişini kullanmayı tercih edenlerse, Google'ın ana sayfasının sağ köşesindeki bağlantıyı tıklayabilecekler. 
+     Google, yeni hizmetinin beğenilmesi umudunu taşırken, bazı uzmanlar söz konusu hizmetin kullanıcının gizlilik haklarına ters düştüğünü savunuyor. 
+     Yeni hizmeti ''çok kötü bir fikir'' olarak niteleyen bu uzmanlar, bu hizmetin kötü niyetli kişiler, izinsiz olarak başkalarının işlerini araştıranlar ve hatta hükümetler için, kullanıcının tüm arama geçmişini ortaya çıkarma olanağı sağlayacağına dikkati çekiyor. Uzmanlardan Pam Dixon, ''Geçmiş aramalarınıza yeniden ulaşmak istiyorsanız, size bir not defteri öneririm, bu daha az riskli olur'' diye konuştu. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 102018 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/08/15/son/sondun02.html </URL>
+<DATE> 2002/08/15/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York'ta trafik kaosu... 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın en büyük kentlerinden olan New York'ta trafiği yöneten bilgisayarların arızalanması, kentte dev boyutta trafik keşmekeşi yasanmasına yol açtı. Kaos sırasında ölen ya da yaralanan olmadı, ancak araç sürücüleri yoğun trafikte saatlerce mahsur kaldı. 
+     Kentte dün akşam trafiğin en yoğun olduğu saat 17.30'da başlayan arıza, Manhattan adasının batı kesiminde, 20. ile 90. sokaklar arasında büyük bir trafik sıkışıklığı yarattı. Karmaşadan Manhattan'ın diğer kesimleriyle kentin uzak bölümlerinin de kısmen etkilendiği belirtildi. 
+     Trafik sıkışıklığı genelde sürekli kırmızı yanan ışıklarla kendini gösterdi. Trafikte sıkışan araç sahiplerinin hırslarını klaksonlardan çıkarmaları, kentin geniş bölümünde büyük bir gürültü kirliliği yaşanmasına yol açtı. 
+     Long Island ve Queens'teki trafik merkezlerinde çalışan mühendisler, kentin diğer kesimlerindeki sistemleri de devre dışı bırakmamak amacıyla, trafiği yöneten bilgisayar şebekesini bir süreliğine kapatamayınca, arıza gece geç saatlere kadar devam etti. 
+     New York Emniyet Müdürlüğü, trafik ışıklarının arızalandığı kesimlerde polisleri görevlendirerek yaşanan kaosu hafifletmeye çalıştıklarını söylediler. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 408096 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/30/son/sonyas23.html </URL>
+<DATE> 2005/12/30/ </DATE>
+<TIME> 15.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+2005 bilgisayar güvenliği açısından en kötü yıl... 
+</HEADLINE>
+<TEXT>
+
+     2005, bilgisayarda güvenlik açığı bakımından en kötü yıl olurken, milyonlarca Amerikalı kimlik dolandırıcılığı tehlikesine maruz kaldı. 
+     USA Today gazetesinin haberine göre, ABD'de geniş çaplı 130 kimlik dolandırıcılığı girişiminde, 55 milyondan fazla kişinin sosyal güvenlik ve kredi kartı numara bilgileri gibi kişisel verileri teknoloji dolandırıcılarına karşı korumasız kaldı. 
+     Amerikan Hazine Bakanlığı da, siber suçların yarattığı hacmin yıllık yasadışı uyuşturucu satışlarını geçerek, 105 milyar dolara ulaştığının tahmin edildiğini açıkladı. 
+     Bu arada, Amerikan İç Güvenlik Bakanlığı, 2005'te siber güvenlik programlarına yönelik araştırma bütçesinde yüzde 7 oranında kısıntı yapıldığını bildirdi. 
+     USA Today gazetesi, güvenlik açığından kaynaklanan gerçek zararı tahmin etmenin zor olduğunu, çünkü birçok firmanın bilgisayar korsanları tarafından ''hack''lendiğini fark etmediğini yazdı. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 341511 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/11/son/soneko17.html </URL>
+<DATE> 2005/05/11/ </DATE>
+<TIME> 10.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bankaların döviz pozisyonu hesaplamalarına yeni düzenleme 
+</HEADLINE>
+<TEXT>
+
+     Bankaların döviz pozisyonu hesaplamalarına ilişkin esaslar yeniden düzenlendi. Bankaların, yüzde 20 olan Yabancı Para Net Genel Pozisyon oranını aşımları bir yılda altıyla sınırlandırıldı. 
+     Bankacılık Düzenleme ve Denetleme Kurumu BDDK Yabancı Para Net Genel Pozisyon Özkaynak Standart Oranının hesaplanmasına ilişkin yönetmelikte değişiklik yaptı. 30 haziran 2005’ten başlayarak yürürlüğe girecek olan düzenlemeyle, Yabancı Para Net Genel Pozisyonu Oranının hesaplanmasında döviz varlığı ve yükümlülüğü olarak dikkate alınan "vadeli döviz alım taaahhütleri" ve "vadeli döviz satım taahhütleri"nin tanımları genişletildi. Buna göre futures para alım ve satımları, alıcı taraf para alım ve satım opsiyonları, satıcı taraf para alım-satım opsiyonları ve benzeri para alım işlemleriyle iki güne kadar valörlü döviz alım işlemleri" de vadeli döviz alım ve satım taahhüdü olarak dikkate alınacak. Şimdiye kadar sadece vadeli döviz alım ve satımları ile swap para alım satımlarıyla diğer cayılmaz anlaşmalar dikkate alınıyordu. 
+     Bankaların günlük olarak hesaplayacağı, Yabancı Para Net Genel Pozisyon Özkaynak Standart Oranının mutlak değerlerinin haftalık basit aritmetik ortalaması yüzde 20’yi aşamayacak. Bankalar, günlük olarak hesapladıkları standart oranları içerecek şekilde haftalık düzenleyecekleri cetveli, izleyen hafta içinde BDDK’ya gönderecekler. 
+     Konsolide mali tablo hazırlama yükümlülüğü bulunan bankalar, Yabancı Para Net Genel Pozisyon Özkaynak Standart Oranı konsolide özkaynak hesaplama dönemleri itibarıyla, konsolide olarak da hesaplayacaklar. Konsolide mali tablolar esas alınarak hesaplanan Yabancı Para Net Genel Pozisyon Özkaynak Standart Oranı da yüzde 20’yi aşamayacak. 
+     Konsolide olmayan Yabancı Para Net Genel Pozisyon Özkaynak Standart Oranının azami sınırının aşılması halinde, bankalar aşımın nedenlerini, BDDK’ya bildirmek zorunda olacaklar. Haftalık oranlarda oluşabilecek aşım tutarının izleyen iki hafta içinde giderilmesi zorunluğu getirildi. Bankalar bir takvim yılı içerisinde standart oranı dahil altı defadan fazla aşamayacaklar. 
+     Konsolide Yabancı Para Net Genel Pozisyon Özkaynak Standart Oranında oluşabilecek aşım tutarı ise bir sonraki hesaplama dönemine kadar giderilecek. Bir takvim yılı içerisinde bir defadan fazla aşım gerçekleştirilemeyecek. 
+     
+</TEXT>
+</DOC>

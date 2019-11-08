@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 330199 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/04/son/sonyas14.html </URL>
+<DATE> 2005/04/04/ </DATE>
+<TIME> 13.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sesle kontrol edilen TV'ler deneniyor... 
+</HEADLINE>
+<TEXT>
+
+     ABD'de uzaktan kumanda cihazı sesle çalışan televizyonların denenmesine başlandı. 
+     Comcast and Time Warner şirketi tarafından Philadelphia bölgesinde denenmesine başlanan televizyon ''Promptu'' adı verilen ve normal uzaktan kumanda cihazının yerini alan bir kumanda aletiyle çalışıyor. 
+     Yeni uzaktan kumanda cihazının ''Talk'' konuş tuşuna basıldığında, cihazın içine yerleştirilen mikrofon sayesinde komut, kızılötesi alıcıya iletilerek buradan televizyona ulaştırılıyor. 
+     Yeni ses tanıma sistemi, Linux tabanlı PC uyumlu kablo alıcısıyla çalışması sayesinde, bölgesel diyalektleri anlayabiliyor ve çok geniş kelime dağarcığına sahip bulunuyor. 
+     Kullanıcının komutuna bir saniye içinde yanıt vererek istenen komutu yerine getiren sistem, kanalların isminin ya da numarasının söylenmesiyle kanal değişikliği yapıyor. 
+     Yeni uzaktan kumanda, örneğin ''Aktörü veya aktörün ismini bul'' gibi komutlarla kullanıcının başka isteklerini de yerine getirebiliyor. 
+     
+</TEXT>
+</DOC>

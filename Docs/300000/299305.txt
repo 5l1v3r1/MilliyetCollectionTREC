@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 299305 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/20/son/sonyas08.html </URL>
+<DATE> 2004/12/20/ </DATE>
+<TIME> 12.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternetten 'spam' gönderenlere rekor ceza.... 
+</HEADLINE>
+<TEXT>
+
+     ABD'de görülen bir davada, internette ''çöp posta'' spam gönderen 3 şirket, şimdiye dek spam'cilere verilen en yüksek cezaya çarptırıldı. 
+     Iowa eyaletinde görülen davada federal yargıç, merkezi Arizona'da bulunan AMP Dollar Savings şirketini 720 milyon dolar, Florida'daki Cash Link Systems şirketini 360 milyon dolar ve yine Florida'da kurulu bir şirket olan TEI Marketing Group'u 140 bin dolar tazminat ödemeye mahkum etti. 
+     Davayı açan elektronik posta servis sağlayıcısı şirketin sahibi Robert Kramer, bugüne kadar spam gönderenler aleyhinde açtığı çok sayıda davada haklı bulundu. 
+     Son mahkeme kararını değerlendiren Kramer, her gün elektronik posta kutularını işgal eden kötü niyetli ve dolandırıcılara karşı kazanılmış bir zaferin söz konusu olduğunu söyledi. 
+     Kramer'in avukatı, Iowa yasaları gereği spam başına 10 dolar tazminat isterken, yargıç federal kararnameler uyarınca bunun üç katı ceza verdi. 
+     
+</TEXT>
+</DOC>

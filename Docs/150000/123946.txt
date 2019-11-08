@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 123946 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/12/11/son/soneko13.html </URL>
+<DATE> 2002/12/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Honda'nın yeni robotu herşeyi yapıyor... 
+</HEADLINE>
+<TEXT>
+
+     Japonya'nın ikinci büyük otomotiv şirketi Honda, iki yıl önce ürettiği robotunu yeniden geliştirdi. 
+     1.2 metre boyunda olan Asimo ismindeki robot, sadece sesleri tanıyıp, yürüyüp, merdiven çıkamıyor, aynı zamanda, insan jestlerini ve hareketlerini de anlayabiliyor. 
+     Hareketli başı sayesinde, insanların tüm hareketlerini takip edebilen Asimo, kafasına yerleştiren kamera ve 10 farklı önceden yüklenmiş program sayesinde, kişilere ismiyle hitap edebiliyor. 
+     Honda, yeni robotun maliyetini açıklamazken, Asimo'nun, gelecek yıl, sadece Japonya'da faaliyet gösteren şirketlere, 162 bin dolara kiraya verileceği belirtiliyor. 
+     Çocuk sesi çıkaran Asimo'yu çağırmanız için kolunuzu başınızın üstünde çevirmeniz yeterli, el sallamanız halinde, Asimo da size el sallayabiliyor. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 281524 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/19/son/soneko27.html </URL>
+<DATE> 2004/10/19/ </DATE>
+<TIME> 13.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ericsson Başkanı Cep telefonu kumandaya dönüşüyor 
+</HEADLINE>
+<TEXT>
+
+     Ericsson Mobility World'den sorumlu Başkan Yardımcısı Kurt Sillien, cep telefonlarının günümüzde uzaktan kumandaya dönüştüğünü ve televizyon da izlenebildiğini bildirdi. 
+     Teknoloji ile iş dünyasını biraraya getirmeyi hedefleyen, Interpro Forum dizisinin ikincisi Telekom, İnternet, Medya ve Eğlence Forumu TIME 2004 İstanbul'da başladı. 
+     İki gün sürecek toplantıda, ''Markalar İçin Yeni Medya Tecrübeler ve Gelecek'' konulu bir sunuş yapan Sillien, mobil kanallara dünyada ilginin gittikçe arttığını vurguladı. 
+     Sillien, Madonna veya başka yıldızların telefon üzerinden 3-4 milyon kişiye ulaşabildiğini, kendi seslerinden çeşitli aktiviteler için çağrıda bulunabildiklerini belirterek, son Olimpiyatlarda da programların, hatta karşılaşmaların görüntülerinin cep telefonlarına aktarıldığını anlattı. 
+     Cep telefonundan televizyon izlenmesinin dünyanın birçok yerinde gerçekleştiğini kaydeden Sillien, cep telefonlarının uzaktan kumandaya dönüştüğünü söyledi. 
+     Sadece mobil kanallar için diziler ve gösterilerin yapıldığına işaret eden Sillien, yine cep telefonlarıyla çeşitli etkinliklere online bağlanıp oy verilebildiğini, chat de yapılabildiğini ifade etti. 
+     Kurt Sillien, Norveç'teki bir uygulamada yayıncının mesaj gönderenin ülkenin hangi bölgesinde olduğunu ekranda gösterebildiğini anlatarak, ''Biri bizi gözetliyor'' benzeri programlarla insanların cep telefonlarıyla etkileşime girmek istediklerini kaydetti. 
+     Sillien, Japonya'da kişilerin satın alınmak istedikleri ürünlerin resimlerini cep telefonlarında görebildiklerini söyledi. 
+     3. nesil üstü sistemlerde birden fazla yayının cep telefonundan izlenebileceğini, resim kalitesinin çok yüksek olacağına işaret eden Sillien, yüklemelerin çok daha kısa sürede gerçekleşebileceğini söyledi. 
+     
+     ''TOPLAM KONUŞMANIN YÜZDE 25-30'U MOBİL'' 
+     Gartner Research Başkan Yardımcısı Bhawani Shankar da, dünyada mobil telefonlara hızlı bir kayış görüldüğünü, birçok ülkede sabit telefon hattına sahip olmadan doğrudan mobil telefonlara geçenlerin bulunduğunu ifade etti. 
+     Shankar, özelleştirme faaliyetinde telekomünikasyon pazarında önemli değişimlerin gerçekleşeceğini, ancak özelleştirmenin etkisinin hemen görülemeyeceği görüşünü dile getirdi. 
+     Telefon trafiğinde sabit ve mobil paylaşımı konusunda görüşlerini açıklayan Avea Genel Müdür Yardımcısı Göktekin Dinçerler de, Türkiye dahil birçok ülkede mobil hat sayısının sabit hat sayısını geçtiğini kaydetti. 
+     Sabit hat sayısındaki artışın azaldığına, hatta kimi kullanıcıların ikinci hatlarını iptal yoluna gidebildiklerine dikkati çeken Dinçerler, bununla birlikte sabit hatların trafik potansiyelinin önemini koruduğunu, toplam konuşma süresinin yüzde 25-30'unun mobil hatlardan, kalan sürenin sabit hatlar üzerinden gerçekleştiğini bildirdi. 
+     Türk Telekom Yönetim Kurulu Başkanı Erkan Akdemir de, Türkiye'de mobil telefonlar tarafından başlatılan çağrıların toplam trafik içindeki payının yüzde 15'lere ulaşmadığını, bu rakamın Avrupa'nın gerisinde olduğunu kaydetti. 
+     
+</TEXT>
+</DOC>

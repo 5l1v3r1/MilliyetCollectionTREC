@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 210215 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/21/son/sontur17.html </URL>
+<DATE> 2004/01/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İçilen sigara sayısının azaltılmasının sağlığa olumlu etkisi az .. 
+</HEADLINE>
+<TEXT>
+
+     Amerikalı bilim adamları, sigara sayısını yarıya indiren tiryakilerin, vücutlarına giren kanserojen maddeleri de yarılamadığını bildirdiler. 
+     ''Journal of the National Cancer Institute'' dergisinde yayımlanan habere göre, Minnesota Üniversitesi'nde görevli bilim adamı Stephen S. Hecht başkanlığındaki ekip, 92 sigara tiryakisinin idrarındaki NNK maddesinin metabolizma ürünlerinin miktarını ölçtüler. NNK maddesi tütünde bulunan en önemli kanserojen olarak biliniyor. 
+     6 ay süren araştırmada, katılımcılar sigara tüketimini önce yüzde 25, daha sonra yüzde 50, en son da en az yüzde 75 oranında azalttılar. 
+     Bilim adamları, NNK'nın vücutta parçalanması sırasında oluşan maddelerin konsantrasyonunun, azalan sigara sayısıyla birlikte düştüğünü, fakat beklenen düzeyde azalmadığını kaydettiler. 
+     Araştırma sonuçlarına göre, günde 25 sigara içen tiryaki, sigara sayısını 3'e düşürdüğünde yaklaşık yüzde 90 , idrardaki kanserojen düzeyi sadece yüzde 46 oranında azaldı. 
+     Bilim adamları, sigarayı azaltan tiryakilerin, içtikleri sigaranın dumanını içlerine daha güçlü ve uzun çektikleri için vücudun daha fazla kanserojen aldığını tahmin ediyorlar. 
+     İçilen sigara sayısının azaltılmasının sağlık üzerindeki olumlu etkisinin çok düşük olduğunu belirten bilim adamları, akciğer kanseri riskinin belirgin bir şekilde düşürülebilmesi için sigaranın tamamen bırakılması gerektiğini kaydettiler. 
+     Dünyada akciğer kanseri vakalarının yüzde 90'ının nedeni sigara. 
+     
+</TEXT>
+</DOC>

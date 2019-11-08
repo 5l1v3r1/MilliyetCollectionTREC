@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 333830 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/15/son/sonyas22.html </URL>
+<DATE> 2005/04/15/ </DATE>
+<TIME> 13.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternette saldırıda Türkiye, 26. sıradan 7.'liğe yükseldi 
+</HEADLINE>
+<TEXT>
+
+     İnternet güvenliği teknolojileri alanında çalışan Symantec'in Türkiye Müdürü Gökhan Say, internette Türkiye'den yapılan saldırılarda artış görüldüğünü, Türkiye'nin son bir yılda 26. sıradan 7. sıraya yükseldiğini söyledi. 
+     Emniyet Genel Müdürlüğü Bilgi İşlem Dairesi Başkanlığı'nın Sheraton Oteli'nde düzenlediği 2. Polis Bilişim Sempozyumu, çeşitli oturumlarıyla sürüyor. Sempozyumun ikinci ve son gününde iki ayrı salonda paralel oturumlar gerçekleştirildi. 
+     ''Kurumsal Güvenlik Yaklaşımı ve Beklenmeyeni Beklemek'' konulu sunum yapan Symantec Türkiye Müdürü Gökhan Say, bugün internet teknolojilerindeki gelişmelere bakıldığında güvenliği sağlamak için ''beklenmeyeni beklemek, bilinmeyeni bilmek'' gerektiğini kaydetti. 
+     Sanal ortamdaki saldırıları önleyebilmek için erken uyarı sistemleri gerektiğini ifade eden Say, bunun maliyeti yüksek altyapı yatırımı gerektirdiğini vurguladı. Say, erken uyarı sistemleri kullanılarak saldırı öncesinde sistemdeki belirtilere bakılarak önlem alınabildiğini belirtti. 
+     Symantec'in 1 Ağustos-31 Aralık 2004 dönemini kapsayan araştırmasına da değinen Say, bu dönemde internette 1403 güvenlik açığı saptandığını, bunların yüzde 70'nin kolay hedef olduğunun anlaşıldığını, saldırıların yüzde 54'ünde ise gizli bilgilerin çalınmasının amaçlandığını ifade etti. 
+     İnternette yapılan saldırıların son dönemde arttığını belirten Say, son bir yıl içinde saldırıya uğrayan kurumların yüzde 90'ının güvenlik duvarı firewall kullandığına dikkati çekti. 
+     Symantec'in erken uyarı sensörlerinden aldığı verilere göre son dönemde internette Türkiye çıkışlı saldırıların sayısında da büyük artış kaydedildiğini belirten Say, 100 bin internet kullanıcısı başına yapılan saldırı sayısının son bir yılda 520'den 6 bin 980'e çıktığını ifade etti. Bu verilere göre, internetteki saldırı sıralamasında Türkiye'nin 26. sıradan 7. sıraya yükseldiğini kaydeden Say, artışta daha hızlı internet bağlantısı imkanı veren ADSL'in güvenlik açıklarının çok önemli rolü olduğunu belirtti. 
+     İnternette rahatsız edici maillerin SPAM yüksekliğine de işaret eden Say, bugün mail trafiğinin yüzde 65'e yakınının bu tür maillerden oluştuğunu ifade etti. 
+     
+</TEXT>
+</DOC>

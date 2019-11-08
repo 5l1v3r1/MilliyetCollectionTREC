@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 300552 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/24/son/soneko24.html </URL>
+<DATE> 2004/12/24/ </DATE>
+<TIME> 12.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İş Bankası ve Garanti Bankası'ndan POS işbirliği... 
+</HEADLINE>
+<TEXT>
+
+     İş Bankası ve Garanti Bankası, kredi kartıyla ödeme alan işyerlerinin yararlandığı POS cihazlarını 'ortak' kullanma kararı aldı. 
+     İki büyük bankanın aldığı kararla, mağazalarda bulunan POS cihazlarının sayısının azaltılması, bu sayede operasyon maliyetlerinden 2 yılda yaklaşık 5 milyon dolar tasarruf edilmesi hedefleniyor. 
+     Yapılan ortak açıklamaya göre, İş Bankası ve Garanti, Türkiye'de öncelikle 10 bin satış noktasındaki POS'larını ortak kullanmaya başlayacak. Ortak POS sayısı birkaç yıl içerisinde 20 bine çıkarılarak, mağaza ya da kasa başına düşen POS adedi ciddi oranda azaltılacak. 
+     Kartlı ödeme sistemlerinde 2006 yılında EMV standardına geçileceğinden, kredi kartlarında çip teknolojisi kullanmayan bankaların önümüzdeki yıllar içerisinde önemli yatırımlar yapmaları gerekecek. Tüm bankaların ortak POS kullanmaya başlaması durumunda, parasal karşılığı yaklaşık 100 milyon dolar olan yatırımın yarısından tasarruf edilebileceği tahmin ediliyor. 
+     Garanti Bankası Genel Müdürü Ergun Özen, bankacılık sektöründe operasyonel giderlerde tasarrufu hep savunduklarına işaret ederek, şunları kaydetti 
+     ''Her bankanın kendi ATM'sini ve POS'unu işletmesi, operasyonel işlemlerine tek başına yatırım yapması bir kaynak israfıdır. Bankaların altyapıda ortaklık kurması ve kullandıkları cihazlardan ziyade verdikleri hizmette farklılaşmaya odaklanması, çağımızın gerektirdiği en akılcı yaklaşımlardan biridir.'' Verimsizliğe karşı aynı vizyonu paylaştıkları İş Bankası ile POS kullanımında işbirliği yapmalarının, iki büyük bankanın hem kaynak israfına karşı ortak duruşunu, hem de operasyonel yönetim stratejilerindeki öncülüklerini gösterdiğini belirten Özen, İş Bankası Genel Müdürü Ersin Özince'nin Türkiye Bankalar Birliği Başkanlığı'nı yürüttüğü bir dönemde başlayan bu girişimin kısa sürede sektör genelinde yaygınlaşacağına inandığını bildirdi. 
+     Türkiye İş Bankası Genel Müdürü Ersin Özince de, ortak POS ile bankalararası işbirliğinde önemli bir adım daha attıklarını vurgulayarak, ''ülkemizin kaynaklarının daha etkin kullanılmasını sağlayan bu projenin yeni işbirliklerine örnek olacağına inanıyorum. Rekabetin çok yoğun olduğu kredi kartı ve POS alanında, ortak çalışma başlatmaktan mutluyuz. Bu suretle sağlanacak faydanın, müşterilerimize daha iyi ve ucuz hizmet sunmamıza da olanak sağlayacağına inanıyorum'' dedi. 
+     
+     BKM AĞINDA DA BENZER PROJE 
+     Verilen bilgiye göre, iki bankanın farklı kredi kartı sistemlerini tek POS kullanımına uyumlu hale getirmek için, önemli bir teknoloji entegrasyonu gerçekleştirildi. 
+     Çözüm ortağı olan Siemens, Teknoser, ITD ve Planet şirketleri, Garanti'nin Bonus ve Shop Miles'da, İş Bankası'nın da Bankamatik ve Maximum Kart'ta kullandığı farklı ödüllendirme yöntemlerini tek bir sistem üzerinde birleştirdi. 
+     Benzer bir projenin BKM bünyesinde de başlatıldığını belirten Garanti Ödeme Sistemleri Genel Müdürü ve Bankalararası Kart Merkezi BKM Yönetim Kurulu Üyesi Mehmet Sezgin ise ''BKM ağında yer alan farklı taksit programlarının, Ocak itibarıyla ortak POS terminali üzerinden yürütülmesi ve 2005'in POS konusunda bir rasyonalizasyon yılı olması bekleniyor'' dedi. 
+     
+</TEXT>
+</DOC>

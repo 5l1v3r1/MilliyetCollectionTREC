@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> 366830 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/03/son/sonyas09.html </URL>
+<DATE> 2005/08/03/ </DATE>
+<TIME> 11.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayarla birlikte sırlarınızı da vermeyin... 
+</HEADLINE>
+<TEXT>
+
+     Sabit disklerde depolanan kredi kartı bilgileri, yasal program lisansları, özel mesajlaşmalara ait kayıtlar gibi verilerin, silindikten sonra üzerine bu verilere ulaşmayı engelleyecek başka veriler kaydedilmediği taktirde, teknik bilgisi yeterli kişilerce, özel yazılımlar kullanılarak geri alınabildiği bildirildi. 
+     Bu nedenle kullanıcıların bilgisayarlarını ikinci el pazarda değerlendirirken ya da servise gönderirken, kötü niyetli kullanımları engellemek amacıyla sabit disklerinden sildikleri bilgileri, bunun için geliştirilmiş yazılımları kullanarak ayrıca tekrar kullanılamaz hale getirmeleri gerektiği belirtildi. 
+     Gebze Yüksek Teknoloji Enstitüsü Mühendislik Fakültesi Bilgisayar Mühendisliği Bölüm Başkanı Yrd. Doç. Dr. İbrahim Soğukpınar, AA muhabirine yaptığı açıklamada, sabit disklerin, kullanıcının arşivlemek istediği bilgi ve programları saklamak için kullanıldığını hatırlattı. 
+     Sabit disklerde bilgilerin, bölüm, klasör, dosya hiyerarşisi şeklinde saklanıldığını ve saklanan dosyaların adlarının ve diğer özelliklerinin sabit diskin belirli bir yerinde, dosyaların içeriğinin ise diskin üzerinde boş olan yerlere kaydedilerek saklandığını bildiren Yrd. Doç. Dr. Soğukpınar, şöyle devam etti 
+     "Diskin üzerindeki bir dosya silindiği zaman, dosya adları ve özelliklerinin olduğu kısımdan silindi işareti koyulur. Fakat bu kısımlar, üzerine yeni bilgi kaydedilmediği sürece eski bilgileri muhafaza ederler. Başka bir deyişle eski bilgiler silinmezler ve unformat ya da geri alma uygulamasıyla tekrar kullanılabilir duruma getirilebilirler. 
+     Bu durumda, eğer ikinci el bilgisayar alım satımı söz konusu ve disk üzerindeki bilgilerin başkalarının eline geçmesi istenmiyor ise diski formatlamak ya da dosyaları silmek yeterli olmaz. 
+     Dolayısıyla eğer sabit diski alan kişi teknik bilgisi yeterli ise silindiği düşünülen bilgileri geri alabilir. Bu yönüne dikkat edilmelidir." 
+     
+     KREDİ KARTI BİLGİLERİ 
+     Söz konusu durumun olası risk ve olumsuzluklarına da değinen Yrd. 
+     Doç. Dr. Soğukpınar, açıklamasını şöyle sürdürdü 
+     "Eğer kredi kartı veya banka kartı bilgilerinizin tamamı sabit diske kaydedilmiş ise bu kullanılarak banka hesaplarınızla oynanabilir. Kendi özel, gizli bilgileriniz sizin ve başkaları için çok değerli ise bunların da deşifre olması olasıdır." Bilgisayar kullanıcılarının sabit disklerinde depolanan bilgileri tamamen ortadan kaldırmak ya da kullanılamaz duruma getirmek için başlıca üç yola başvurabileceklerini bildiren Yrd. Doç. Dr. 
+     Soğukpınar, en güvenilir yöntemin bilgilerin bulunduğu diskin tüm yüzeyine işe yaramayan, rastgele veriler yazmak ve bu suretle korunmak istenen bilgileri yok etmek olduğunu anlattı. 
+     Soğukpınar, söz konusu işleme wiping adı verildiğini ve bilgisayar kullanıcılarının, ban.sourceforge.net, www.heidi.ie eraser, micro2000.com eraserdisk, www.cyberscrub.com products adreslerinde, wiping işlemi için örnek programlar bulabileceklerine işaret etti. 
+     Disk üzerindeki manyetizmanın, elektromanyetik alan uygulanarak değiştirilmesiyle de bilgilerin okunamayacak hale getirilebileceğini, ancak bu yöntemin çok güvenli olmadığını söyleyen Yrd. Doç. Dr. 
+     Soğukpınar, diski kullanılamayacak şekilde imha etmenin de ayrıca bir yöntem olduğunu kaydetti. 
+     Yrd. Doç. Dr. Soğukpınar, açıklamasını şöyle tamamladı 
+     "Eğer bilgisayarınızı tamire gönderecekseniz, ya sabit diskinizi söküp öyle göndermelisiniz ya da önemli bilgilerinizin yedeğini alıp disk temizleme işlemi yaptıktan sonra tamire göndermelisiniz. 
+     Bilgisayarınızı ikinci el pazarda satmak istiyorsanız, yine sabit diskinizi disk temizleme araçları ile temizledikten sonra satışa çıkartmalısınız." 
+     
+</TEXT>
+</DOC>

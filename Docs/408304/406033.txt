@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 406033 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/23/son/sonsiy19.html </URL>
+<DATE> 2005/12/23/ </DATE>
+<TIME> 17.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+TMSF'ye devredilen bankalar devlete olan borçlarına öncelik verecek 
+</HEADLINE>
+<TEXT>
+
+     TMSF’ye devredilen bankaların, devlet ve sosyal güvenlik kuruluşlarına olan borçlarının tahsil edilmesine öncelik verilecek. 
+     TBMM Başkanlığı’na sunulan Bankacılık Kanununda Değişiklik Yapılmasına Dair Kanun Tasarısı’nda, amme alacağından borçlu bulunan ve TMSF’ye devredilen bankalar ile bankayla birlikte sorumlu tutulan kişilerin bu borçlarının bir an önce Hazineye intikalinin sağlanmasının amaçlandığı ifade edildi. 
+     Tasarıya göre, Bankacılık Kanunu’na göre faaliyet izni kaldırılan ve yönetim ve denetimi Fona intikal eden bankalar hakkında iflas kararı verilmesi halinde, bankanın iflas masası tarafından külli icra yoluyla tasfiye edilmesi sonucunda dağıtılacak olan paralardan Fon dahil imtiyazlı alacaklılardan önce devlet ve sosyal güvenlik kuruluşlarının alacakları tahsil edilecek. 
+     Cebri icra yoluyla satışlarından elde edilen bedelden sırasıyla Fon Kurulu tarafından karar verilmesi halinde şirketlerin teknik bilgi, yazılım, donanım, ekipman, mal ve hizmet alımından doğan geçmiş dönem borçları, kişilerin devlete ve sosyal güvenlik kuruluşlarına olan ve 6183 sayılı Kanun kapsamındaki borçları ile GSM imtiyaz sözleşmesinden doğan Hazine payı borçları ödendikten sonra kalan kısım, kişilerin diğer kamu kurum ve kuruluşları ile üst kurullara olan borçlarına garameten taksim edilerek ödenecek. 
+     Yapılan dağıtım sonrasında bakiye borç kalması halinde lisans, ruhsat, imtiyaz sözleşmesi, geçici frekans ve kanal kullanımı ve benzeri hakların devri ve yeni alıcısı tarafından işletilmesi için gerekli olan ve kamu kurum ve kuruluşları ile üst kurullarca yapılması gereken devir tescil ve nakli işlemlerine engel teşkil etmeyecek. 
+     Fon tarafından haklarında takibat başlatılmış kişilerin ve bankanın mal varlıklarının paraya çevrilmesi sonucunda elde edilecek tutardan, Tasarruf Mevduatı Sigorta Fonu’na düşen kısmı bir hesapta toplanacak. Bu hesaptan, sırasıyla devletin ve sosyal güvenlik kuruluşlarının bu kişilerden olan ve 6183 sayılı Amme Alacaklarının Tahsili Usulü Hakkında Kanun kapsamında bulunan alacaklarının tahsili için ödeme yapılacak. 
+     Tasarıda, Fon tarafından gerçekleştirilecek satışlarda uygulanacak Katma Değer Vergisi KDV istisnasına yönelik açıklama getiriliyor. 
+     Düzenlemelerin yürürlüğe girdiği tarihten önce Fon tarafından satış ilanı verilmiş, satışı gerçekleşmiş ancak ihale bedelinin alacaklılara dağıtımı sonuçlanmamış satışlar ile 2007 yılına kadar ilan edilecek satışlarda, KDV istisna tutarı aynen muhafaza edilecek. 
+     
+</TEXT>
+</DOC>

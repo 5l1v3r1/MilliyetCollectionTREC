@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 276194 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/30/son/soneko10.html </URL>
+<DATE> 2004/09/30/ </DATE>
+<TIME> 10.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Vergide elektronik beyan dönemi başlıyor... 
+</HEADLINE>
+<TEXT>
+
+     Vergide, elektronik ortamda beyanname verme E-beyan dönemi yarın başlıyor. 
+     Maliye Bakanlığı'nın konuya ilişkin tebliği, Resmi Gazete'nin bugünkü sayısında yayımlandı. 
+     Tebliğe göre, Eylül 2004 dönemine ait olup, yarından itibaren verilmesi gereken katma değer vergisi 1 ve 2 no'lu , özel tüketim vergisi 2a beyannamesi hariç , damga vergisi, banka ve sigorta muameleleri, özel iletişim ve şans oyunları vergisi beyannameleri ile muhtasar beyannameler, elektronik ortamda gönderilebilecek. 
+     Uygulamanın başlangıç aşamasında, sadece cari döneme ait beyannameler, elektronik ortamda gönderilebilecek. Bu nedenle kanuni süresi geçirilmiş beyannameler ile düzeltme ve pişmanlık talebi içeren beyannameler, eskiden olduğu gibi bağlı olunan vergi dairesine kağıt ortamında verilecek. Ancak sonraki aşamada bu tür beyannameler de elektronik ortamda verilmeye başlanacak. 
+     Mükellefler, kendileri ya da aracılık yetkisi verilen gerçek ve tüzel kişiler kanalıyla elektronik ortamda beyanda bulunabilecekler. 
+     Aktif büyüklükleri veya net satış hasılatlarının belli bir tutarın üzerinde olması nedeniyle, beyannamelerini meslek mensubuna imzalatmak zorunluluğunda bulunmayan mükellefler, istemeleri halinde beyannamelerini elektronik ortamda doğrudan kendileri gönderebilecekler. 
+     Bu mükelleflerin söz konusu uygulamadan yararlanabilmesi için Elektronik Beyanname Gönderme Talep Formu ve Taahhütnamesini doldurarak, müracaatları gerekecek. 
+     
+     MÜKELLEFLER HANGİ ESASLARA UYACAK 
+     Elektronik ortamda gönderilecek beyanlar için mükellefler ya da aracılık yetkisi verilen meslek mensupları, her bir beyanname türü için hazırlanan beyanname doldurma programlarını, Gelirler Genel Müdürlüğü internet sitesine bağlanarak, bilgisayarlarına ücretsiz olarak yükleyebilecekler. 
+     Beyannamenin kanuni sürede verilen beyanname olarak kabulü için onaylama işleminin en geç beyannamenin verilmesi gereken son gün saat 24.00'den önce tamamlanması zorunlu olacak. 
+     Beyannamelerin teknik arıza nedeniyle, elektronik ortamda gönderilmesinin mümkün olmaması halinde, kanuni sürenin son gününe kadar bağlı bulunulan vergi dairesine posta yoluyla taahhütlü olarak gönderilmesi veya elden verilmesi gerekecek. 
+     Elektronik ortamda gönderilen beyannamelere ait tahakkuk bilgileri, vergi tahsil yetkisi verilmiş olan bankalara da açılacak. Böylece, mükelleflerin tahakkuk eden vergilerini, bilgisayar ortamında, hesaplarının bulunduğu bankadan ödemeleri mümkün olabilecek. 
+     
+</TEXT>
+</DOC>

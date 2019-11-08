@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 154491 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/05/ekonomi/eko08.html </URL>
+<DATE> 2003/05/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+TNT Ekspres'ten hızlı çözüm 
+</HEADLINE>
+<TEXT>
+
+     TNT Ekspres, müşterilerinin iş verimliliğini ve performansını artırmak için PC tabanlı yeni bir yazılım kullanmaya başladı. 'ExpressShipper' adlı yazılım TNT Ekspres tarafından geliştirildi. www.tnt.com adlı siteden ücretsiz olarak yüklenen ExpressShipper yazılımı ile müşteriler online olarak en yakın TNT Ekspres ofisine ulaşarak gönderilerinin aldırılmasını, fiyatını ve her türlü takibini yapabiliyorlar. Aynı zamanda müşteriler sürekli gönderdikleri adresler ile ilgili tüm bilgileri kaydederek bir sonraki gönderide etiket çıkışı alırken zamandan da tasarruf edebiliyorlar. 
+     
+
+</TEXT>
+</DOC>

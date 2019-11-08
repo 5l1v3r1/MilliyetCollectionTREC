@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 245980 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/07/son/soneko32.html </URL>
+<DATE> 2004/06/07/ </DATE>
+<TIME> 17.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bankaların yeni tahsilat sistemiyle 'ödemeyi unuttum' tarihe karışıyor.. 
+</HEADLINE>
+<TEXT>
+
+     Bankalararası tahsilat sisteminde Doğrudan Borçlandırma Sistemi'ne geçildi. 
+     Türkiye Bankalar Birliği'nden yapılan açıklamaya göre, Nisan 2000 tarihinde ikinci nesil EFT sistemine dahil edilen ''Doğrudan Borçlandırma-Direct Debit'' uygulaması, bankalararası tahsilat sistemi protokolünü imzalayan 27 banka tarafından test edildi. 
+     Önceden verilmiş bir yetkiye dayanarak ''borçlunun banka hesabının alacaklının girişimi ile borçlandırılması'' esasına dayanan Doğrudan Borçlandırma Sistemi'ne bugün geçildi. 
+     Doğrudan Borçlandırma Sistemi'nin, düzenli ticari ilişkisi bulunan tüzel veya gerçek kişilerin farklı bankalarda bulunan hesapları arasında yapılacak işlemleri en etkin, verimli ve güvenli bir biçimde gerçekleştireceğini belirten Türkiye Bankalar Birliği yetkilileri, alacaklının talimatına ve borçlu tarafından verilen yetki belgesine istinaden yapılacak ödeme sisteminin, ''borçlu hesabından alacaklı hesabına para transferi yapılmasına olanak verdiğini'' bildirdiler. 
+     18 Mayıs 2004 itibariyle kullanmak üzere 27 banka ve özel finans kurumunun imzaladığı sistemin, operasyonel maliyeti düşürmesi ve kontrollü para akışı sağlaması nedeniyle firmalara yarar sağlayacağını belirten yetkililer, bireylere tek hesap kullanarak etkin fon yönetme imkanı verecek sistem sayesinde ''ödeme yapmayı unutmanın'' tarihe karışacağını aktardılar. 
+     
+     SİSTEMİN HUKUKSAL DAYANAĞI SÖZLEŞMELER 
+     Doğrudan Borçlandırma işlemleri yalnızca EFT kapsamında banka ve özel finans kurumları üzerinden gerçekleştirilebiliyor. Sistemin hukuksal yapısı ise alacaklı ve borçlu arasındaki mevcut sözleşmeler, bankalararası EFT sistemi sözleşmeleri, alacaklı ve borçlunun kendi bankasına verdiği talimat, tahsilat emirleri ve yetki belgeleri üzerine kuruldu. 
+     Sistem, gerekli altyapıyı ve test çalışmalarını tamamlayan bankalar tarafından kullanılmaya başlandı. 
+     Doğrudan Borçlandırma Sistemi'nin firmalara, maliyetin düşürülmesi, kontrollü para akışı, daha etkin nakit yönetimi, daha yüksek güvenlik ve müşteri memnuniyeti, bireylere ise tek hesap kullanarak etkin fon yönetimi, unutma riskinin ortadan kalkması, düşük maliyet ve geri ödeme garantisi faydaları sağlayacağı savunuldu. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 194759 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/11/son/sondun21.html </URL>
+<DATE> 2003/11/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Shakespear'in sırrını çözmek için bilgisayar programı... 
+</HEADLINE>
+<TEXT>
+
+     İngilizlerin ünlü yazarı William Shakespear'in Şekspir sırrını aydınlatabilmek için bilgisayar programı geliştirildi. 
+     Avustralyalı ve Amerikalı araştırmacılar, program sayesinde ünlü yazarın eserlerinin hangilerinin kendisine ait olduğunu belirlemeye çalışacaklar. 
+     Şekspir'in eserlerinde en çok ve en az kullanılan sözcükleri belirleyerek bu muammayı aydınlatması beklenen program sayesinde, hakkında fazla bir şey bilinmeyen 16. yüzyılın ünlü şair ve oyun yazarının olası esin kaynakları ortaya çıkarılabilecek. 
+     Uzmanlar, bu yöntemle Şekspir'in hangi eserlerini tek başına, hangilerini başkalarıyla işbirliği yaparak yazdığını anlayacaklarını umuyorlar. Ünlü yazarın önde gelen eserlerini kaleme alırken neler okuduğu böylece anlaşılabilecek. 
+     İki yıl sürecek proje, 122 bin Amerikan Doları'na mal olacak. 
+     
+</TEXT>
+</DOC>

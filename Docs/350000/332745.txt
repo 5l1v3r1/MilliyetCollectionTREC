@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> 332745 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/12/son/sonyas15.html </URL>
+<DATE> 2005/04/12/ </DATE>
+<TIME> 11.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Google'a hız dopingi 
+</HEADLINE>
+<TEXT>
+
+     Firefox tarayıcısı kullanarak Google sitesinde arama yaptığınızda artık karşınıza çıkan sonuçların üst sıralarında yer alan siteler siz daha tıklamadan arka planda yüklenmeye başlıyor. Dolayısıyla büyük ihtimalle tıklayarak bakacağınız üst sıralardaki site seçenekleri karşınıza çok daha hızlı çıkıyor. Firefox'un içinde standart olarak gelen prefetch adlı özelliği kullanan sistem sık arama yapanlar için büyük kolaylık sağlıyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 230980 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/13/son/soneko52.html </URL>
+<DATE> 2004/04/13/ </DATE>
+<TIME> 18.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa yatırım fonları, hisse senedi gibi işlem görecek 
+</HEADLINE>
+<TEXT>
+
+     Sermaye Piyasası Kurulu SPK , bugün tebliği yayımlanan Borsa Yatırım Fonları'nın temel özelliğinin, bu fonların katılma belgelerinin, hisse senetleri gibi borsalarda işlem görebilmesi olduğunu bildirdi. 
+     SPK'dan yapılan açıklamada, 'sermaye piyasalarına borsa yatırım fonlarının kazandırılarak ürün çeşitliliğinin artırılması, hisse senedi ile yatırım fonlarının avantajlarını bir araya getiren bir ürünün, sermaye piyasalarında işlem görmeye başlaması, yatırımcılara işlem kolaylığı ve esneklik sağlanmasına' yönelik yürütülen çalışma sonucunda, Kurul tarafından hazırlanan ''Borsa Yatırım Fonlarına İlişkin Esaslar Tebliği'nin, bugünkü Resmi Gazete'de yayımlandığı hatırlatıldı. 
+     Açıklamaya göre, Borsa yatırım fonlarının temel özelliği, bu fonların katılma belgelerinin hisse senetleri gibi borsalarda işlem görebilmesi. Bunun bir sonucu olarak, bu fonun katılma belgesini alan bir yatırımcı, borsada, belirli periyodlar itibariyle açıklanacak olan fiyatlar üzerinden katılma belgelerinin alım satımını gerçekleştirebilecek. 
+     Borsa yatırım fonları, endeks fon şeklinde kurulacak. Bir başka ifadeyle bu fon, belirli bir endeksi baz alarak endeks kapsamındaki menkul kıymetlere, bu menkul kıymetlerin endeksteki ağırlıkları dikkate alınarak yatırım yapacak. Bu işleyiş, yatırımcıya dolaylı olarak endeksin getirisinden de yararlanma imkanı sağlayacak. 
+     Yatırımcının talebi doğrultusunda fon katılma belgeleri, yetkili bir saklama kuruluşuna Takasbank teslim edilmek suretiyle fonun içindeki menkul kıymetler ile değiştirilebilecek. 
+     Bu süreç, fon katılma belgeleri saklamacı kuruluşa teslim edilerek, karşılığında söz konusu katılma belgelerine tekabül eden menkul kıymet ve nakdin teslim alınması yoluyla gerçekleştirilecek. Benzeri şekilde bir işlem biriminin içindeki menkul kıymetlerin yetkilendirilmiş kuruluşlar tarafından Takasbank'a teslim edilmesi suretiyle, yeni katılma belgelerinin oluşturulması ve bu katılma belgelerinin de borsada satılması mümkün. 
+     Borsa fonlarında, fonun net aktif değeri ile borsadaki işlem fiyatı arasında mümkün olan en az iskonto veya primle işlem görmesi hedefleniyor. Bu durumu mümkün kılan en önemli etken ise bu fonlar aracılığıyla arbitraj yapılabilmesi. 
+     Söz gelimi, fonu oluşturan menkul kıymetlerin toplam değeri, fonun katılma belgesinin değerinden daha büyükse, yatırımcı katılma belgesini iade ederek, yerine bunu temsil eden menkul kıymetleri alacak. Aksi durumda, yani katılma belgesinin değeri onu oluşturan menkul kıymetlerin toplam değerinden düşükse, yatırımcı bu defa yeni katılma belgeleri talep ederek, katılma belgelerini borsada satmak suretiyle arbitraj karı elde edebilecek. Bu şekilde iskontonun veya primin azaltılması mümkün olabiliyor. 
+     Açıklamada, bu yönleriyle Borsa Yatırım Fonları'nın ekonomik faydaları ise şöyle sıralandı 
+     ''Borsa yatırım fonları, fon ile hisse senedinin avantajlarını bir araya getiren bir uygulama. Katılma belgelerinin borsada işlem görmesi likiditasyonu sağlar. Borsa yatırım fonları bir tek enstrümanı satın alarak, bir endeksi takip etme imkanı verir. Fon katılma belgelerinin istenildiğinde portföydeki menkul kıymetlerle değiştirme imkanı vermesi sisteme esneklik getirir. Tek bir enstrüman satın alarak bir çok menkul kıymete yatırım yapma olanağı, portföy çeşitlemesi, işlemsel kolaylık, düşük portföy yönetim ücreti ve maliyet etkinliği sağlar.'' 
+     
+</TEXT>
+</DOC>

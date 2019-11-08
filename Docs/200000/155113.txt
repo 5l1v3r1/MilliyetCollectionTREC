@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 155113 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/07/son/soneko42.html </URL>
+<DATE> 2003/05/07/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa günü 10,676 puanda tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Bileşik Endeksi, 2. seansta .78 puan gerileyerek 10,676.29 puandan kapandı. 
+     Hisse senetleri, ikinci seansta ortalama yüzde 0.50 oranında değer kaybetti. 
+     İlk seanstaki 232.87 puanlık kayıp dikkate alındığında, borsa endeksi günün tamamında 286.65 puan geriledi. Hisse senetlerindeki günlük kayıp ise yüzde 2.61 oldu. 
+     Seansa 33.78 puan düşüşle 10,696.29 puandan başlayan endeks, ilk yarıyı 10,689.25 puandan geçti. Endeks, seans içinde en düşük 10,608.65 puana kadar gerilerken, en yüksek 10,732.44 puanı gördü. 
+     Kapanışta mali endeks 66.22 puan azalışla 12,481.26 puana, sanayi endeksi 83.13 puan düşüşle 11,192.83 puana gerilerken, hizmetler endeksi 20.36 puan artışla 7,033.89 puana yükseldi. 
+     Böylece ilk seansa göre mali grup hisseler ortalama yüzde 0.53, sanayi grubu hisseler ortalama yüzde 0.74 oranında değer yitirirken, hizmetler grubu hisseleri ortalama yüzde 0.29 değer kazandı. 
+     2. seansta işlem gören toplam 292 hisse senedinden 181'i değer yitirdi, 63'ü değer kazandı, 48'inin fiyatında değişiklik olmadı. 
+     Seansta, 253 trilyon 168 milyar 686 milyon liralık işlem hacmi kaydedildi. İki seanstaki toplam işlem hacmi 471 trilyon 865 milyar 900 milyon lira olarak gerçekleşti. 
+     2. seansta Net Holding, Koç Holding, İş Bankası C, Yapı Kredi Bankası ve Net Turizm en yoğun işlem gören hisse senetleri olarak belirlendi. 
+     
+</TEXT>
+</DOC>

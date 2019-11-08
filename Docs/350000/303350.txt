@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 303350 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/04/son/soneko16.html </URL>
+<DATE> 2005/01/04/ </DATE>
+<TIME> 10.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa seansın ilk yarısını 11 puanlık kayıpla geçti... 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası İMKB Ulusal 100 Endeksi, 1. seansın ilk yarısında geriledi. 
+     Endeks, seansın 1 saat 15 dakikalık bölümünü, dünkü 2. seans kapanışına göre 11.43 puan azalarak 25,433.72 puandan geçti. Hisse senetleri ortalama yüzde 0.04 değer kaybetti. 
+     İlk bölümde işlem hacmi, 226.1 milyon YTL olarak gerçekleşti. 
+     
+</TEXT>
+</DOC>

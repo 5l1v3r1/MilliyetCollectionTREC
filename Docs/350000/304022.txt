@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 304022 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/06/son/soneko24.html </URL>
+<DATE> 2005/01/06/ </DATE>
+<TIME> 12.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı 105 puanlık kayıpla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeks, dünkü kapanışa göre 105.21 puan düşerek, 1. seansı 24,317.73 puandan tamamladı. 
+     1. seansta hisse senetleri ortalama yüzde 0.43 değer yitirdi. 
+     Dün 24,422.94 puandan kapanan İMKB Ulusal 100 Endeksi, ilk seansa 5.91 puan düşerek 24,417.03 puandan başladı. İlk yarıyı 24,427.20 puandan geçen endeks, seans içinde 24,237.72 puana kadar gerilerken, en yüksek 24,566.30 puanı gördü. 
+     Seans sonunda mali endeks 245.08 puan düşerek 34,457.39 puana, sanayi endeksi 11.51 puan düşerek 20,387.90 puana gerilerken, hizmetler endeksi 36.91 puan artarak 14,000.07 puana yükseldi. 
+     Böylece önceki kapanışa göre, mali grup hisseler ortalama yüzde 0.71, sanayi grubu hisseler ortalama yüzde 0.06 oranında değer yitirirken, hizmet grubu hisseler ortalama yüzde 0.26 oranında değer kazandı. 
+     1. seansta işlem gören toplam 298 hisse senedinden 115'i değer kazandı, 103'ü değer kaybetti, 78 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta, 275 milyon 891 bin 116 YTL'lik işlem hacmi oluştu. 
+     1. seansta Yapı ve Kredi Bankası, Garanti Bankası, Koç Holding, Doğan Holding ve İş Bankası C en çok işlem gören hisse senetleri oldu. 
+     Dün yaşanan sert satışların ardından güne hafif tepki alımlarıyla başlayan Borsada, daha sonra yatay seyir etkili oldu. 
+     Uzmanlar, endeksin 24,200 seviyeleri üzerinde dengelenme çabasının dikkat çektiğini vurgulayarak, bu seviyelerden gelecek tepki alımlarının endeksi 24,500 seviyelerine kadar çekebileceğini ancak piyasada zayıf seyrin ikinci seansta da sürmesinin beklendiğini savunuyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 227337 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/31/son/sontur09.html </URL>
+<DATE> 2004/03/31/ </DATE>
+<TIME> 10.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kompresör, overdrive... Otomotiv teknolojisinin yeni terimleri... 
+</HEADLINE>
+<TEXT>
+
+     Günlük hayatta, araçların arka kısımlarında sıkça göze çarpan kompresör, tork ya da cruıse gibi sözcüklerin, tüketicinin doğru araç tercihi konusunda büyük önem taşıdığı bildirildi. AA muhabirinin edindiği bilgiye göre, kıyasıya rekabetin yaşandığı dünya otomotiv pazarında, firmalar ürettikleri yeni modellere yeni teknolojik özellikler ekliyor. 
+     Sürücünün işini kolaylaştıran, aracın performansını ve kişinin can güvenliğini artırmaya yönelik teknolojik yenilikler, bu özelliklerin kendisine nasıl yararlar sağlayacağını anlayan müşterinin tercihini olumlu yönde etkiliyor. 
+     Otomotiv sektöründe çalışanlar tarafından bilinen ve araçların dış yüzeylerine ya da aracı tanıtıcı reklam ürünlerine yazılan tamamı İngilizce kısaltmalar, potansiyel müşteriler tarafından ise yeterince bilinmiyor. 
+     Araçlarda büyük kullanım kolaylığı sağlayan ve birkaç harf ya da sözcükle ifade edilen özelliklerden bazıları şöyle 
+     KOMPRESÖR Bazı araçlarda bu özellik ''Turbo'' sözcüğüyle ifade ediliyor. Bir başka deyişle kompresör özelliği, havayla karıştırılarak silindire verilen yakıtın, püskürtme şiddetini artıyor. Yanmanın meydana geldiği silindir içindeki basıncın artmasıyla tekerleklere daha fazla güç iletilirken, yakıt tasarrufu azalıyor. 
+     OVERDRIVE Ekonomi vitesi anlamına geliyor. Kullanılan özel motor dişlileri sayesinde, kullanılan fazladan bir vites, aracın yüksek hızda daha az yakıt tüketimi sağlıyor. 
+     TORK Döndürme kuvveti anlamını taşıyor. Motor güçleri ve silindir hacimleri eşit olan iki aracın torku yüksek olanı, diğerinden daha güçlü oluyor. Örneğin, bu iki araç halat çekme yarışında olduğu gibi arkalarından birbirine bağlanıp aynı anda harekete geçirilirse, torku yüksek olan araç diğerini çekip götürüyor. 
+     INTER COOLER Ara soğutucu olarak da biliniyor. Tüm araç motorları, uzun süre aşırı hızda gitmeleri ya da normalden yüksek performansta çalışmaları durumunda ısınıp arızalanır. Inter Cooler sistem ise fazladan bir soğutucu yardımıyla ısınan motorun performansını sürekli kılıyor. Bu özellik, yarış otomobilleri, TIR ya da yüksek tonajlı kamyonlarda kullanılıyor. GP Bu teknik özellik farklı araç markalarında PS, BG, SAE gibi farklı kısaltmalarla tüketicinin karşısına çıkabiliyor. GP, motorun ürettiği gücün miktarını ortaya koymaya yarayan ölçü birimi anlamı taşıyor. Örneğin, 160 GP ya da 160 SAE söz konusu aracın 160 beygir gücünde olduğunu gösteriyor. 
+     VALF Bu teknik genellikle motor gücünü sembolize eden GP ifadesiyle karıştırılıyor. Supap ya da sibop da denilen valf, hava-yakıt karışımının hızla emilmesini ve silindir içindeki havanın süratle tahliyesini sağlıyor. Dört silindirli motor için kullanılan 16 valf ifadesi ise o motorda silindir başına 4 supap bulunduğunu gösteriyor. 
+     CRUISE CONTROL Türkçe'ye hız sabitleyici olarak çevrilebiliyor. Uzun yolda, gaz pedalına sürekli bastığı için yorulan ayağı dinlendiriyor. Seyir halinde bir düğmeye basılarak devreye sokulan sistem, sürücünün frene ya da gaz pedalına dokunmasıyla devreden çıkıp kontrolü sürücüye bırakıyor. 
+     Ayrıca, i aracın enjektörlü olduğunu, D motorun dizel yakıt tükettiğini, E harfi ise genellikle motorun ciddi oranda yakıt tasarrufu sağlayan özellikte olduğunu gösteriyor. 
+     
+</TEXT>
+</DOC>

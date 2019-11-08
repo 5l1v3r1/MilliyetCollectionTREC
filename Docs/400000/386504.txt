@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 386504 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/13/son/sonyas22.html </URL>
+<DATE> 2005/10/13/ </DATE>
+<TIME> 20.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Cep telefonu hırsızlığına teknolojik çözüm 
+</HEADLINE>
+<TEXT>
+
+     Finli bilimadamları, cep telefonları ve diz üstü bilgisayarların çalınmasını zorlaştıran bir cihaz geliştirdiler. 
+     Finlandiya VTT Teknik Araştırma Merkezi'nin geliştirdiği ve cep telefonlarıyla diz üstü bilgisayarlara monte edilen cihaz, sahibinin yürüyüş biçimindeki değişiklikleri belirleyebiliyor ve bu aletlerin başkaları tarafından kullanımını önlüyor. 
+     VTT tarafından yapılan açıklamada, "Cihaz, kullanıcının belli yürüyüş özelliklerini değerlendiren algılayıcılarla donatılmış. Bu cihaz ilk kez kullanıldığında, yaptığı değerlendirmeler hafızaya kaydediliyor. Cihaz kullanıcısının yürüyüş biçimini izliyor ve kaydettiği bilgilerle karşılaştırıyor. Değerler farklı çıkarsa kullanıcının şifreyi girmesi gerekiyor" denildi. 
+     VTT, cihazın imtiyaz hakkını aldıklarını, ancak her yıl milyonlarca taşınabilir aletin çalınmasını önleyebilecek bu cihazı satışa sunmadıklarını belirtti. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 242349 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/24/son/soneko10.html </URL>
+<DATE> 2004/05/24/ </DATE>
+<TIME> 10.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kobiler, KOSGEB'in yazılım desteğine hücum etti 
+</HEADLINE>
+<TEXT>
+
+     Küçük ve Orta Ölçekli Sanayi Geliştirme ve Destekleme İdaresi Başkanlığı'nın KOSGEB başlattığı bilgisayar yazılımlarını destekleme programına küçük ve orta ölçekli işletmeler adeta hücum etti. KOSGEB, bu yıl program için ayırdığı 13 trilyon lira destek miktarına daha yılın ilk 4 ayında yaklaştı. 
+     AA muhabirinin KOSGEB Başkanlığı'ndan aldığı bilgiye göre, KOSGEB, 2003 Haziran ayında, bilgisayar teknolojisinin kullanım alanlarının giderek yaygınlaşmasından dolayı İşletmelerin rekabet güçlerini artırmaları ve kalite düzeylerini yükseltmeleri amacıyla işletmelere geri ödemesiz bilgisayar yazılımı desteği vermeye başladı. 
+     Destek programı imalat sanayi sektöründe kullanılan ''Bilgisayar Destekli Tasarım, Üretim ve Robotik, Yönetim Bilgi Sistemi, Üretim Planlama Takip ve Kontrolü, Simülasyon Teknikleri, Bakım-Onarım, Proje İzleme ve Değerlendirme, Finansman ve Maliyet Analizi, Kurumsal Kaynak Planlaması ERP , Lojistik-Tedarik Zinciri Yönetimi, Stok ve Envanter kontrolü, Toplam Kalite Yönetimi, e-Ticaret, e-İş yazılımlarını kapsıyor. 
+     Yazılım Desteği Programı'ndan 150'nin altında işçi çalıştıran orta ölçekli işletmeler yararlanabilirken, 10 bin euro üst limitli destek, yazılımların bedelinin yüzde 75'ni kapsıyor. 
+     
+     DESTEK ALAN FİRMA SAYISI BİNİ GEÇTİ 
+     Program çerçevesinde 2003 yılında toplam 4 trilyon lira destek veren KOSGEB, geçen yıl 372 firmayı bu desteklerden yararlandırdı. Bu yıl ise küçük ve orta ölçekli işletmeler programa yoğun ilgi gösterdi. Yılın ilk 4 ayında yaklaşık 2 bin firma programa başvururken, yeterliliği sağlayanlardan 645'i destekten yararlandı. Yazılım Desteği Programı'na 13 trilyon lira kaynak ayıran KOSGEB'in 4 ayda firmalara verdiği destek miktarı 9 trilyon liraya ulaştı. 
+     KOSGEB yetkilileri, KOSGEB'in destek verdiği 38 program içinde en fazla ilgi görenler arasında Yazılım Desteği Programı'nın da bulunduğunu, ilgiden memnun olduklarını ifade ettiler. İlginin artmasıyla birlikte desteklerin verilmesiyle ilgili denetim mekanizmalarını da yeniden değerlendirdiklerini belirten yetkililer, gelen destek taleplerini ve firmanın hangi yazılımı alması gerektiği konusunda teknik destek sağlamak üzere merkezde bir komite oluşturulduğunu ifade ettiler. 
+     
+</TEXT>
+</DOC>

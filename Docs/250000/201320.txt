@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 201320 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/11/son/sondun02.html </URL>
+<DATE> 2003/12/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tayvan'da 5.7 büyüklüğünde deprem... 
+</HEADLINE>
+<TEXT>
+
+     Tayvan'da bugün Richter ölçeğine göre 5.7 büyüklüğünde bir deprem meydana geldiği bildirildi. 
+     Merkezi Meteoroloji Bürosu'ndan yapılan açıklamada, depremin başkent Taipei'nin 300 kilometre güneyindeki Taitung kentinin 12 kilometre açığında, denizde meydana geldiği belirtildi. 
+     Depremde hasar ya da yaralanmalar meydana geldiğine ilişkin henüz bir bilginin gelmediği kaydedildi. 
+     
+</TEXT>
+</DOC>

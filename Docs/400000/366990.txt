@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 366990 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/04/son/soneko01.html </URL>
+<DATE> 2005/08/04/ </DATE>
+<TIME> 01.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası’nda Dow Jones yükseldi, Nasdaq düştü... 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Borsası’nda Dow Jones endeksi günü yükselerek kapattı, Nasdaq ise düştü. 
+     Borsanın temel göstergesi Dow Jones 13.85 puanlık çıkışla 10,697.59 puana yükselirken, teknoloji endeksi Nasdaq günü 1.34 puan 
+     inişle 2,216.81 puandan kapattı. 
+     
+</TEXT>
+</DOC>

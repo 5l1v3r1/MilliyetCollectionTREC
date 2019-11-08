@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 308302 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/21/son/sonyas01.html </URL>
+<DATE> 2005/01/21/ </DATE>
+<TIME> 09.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Adınız, soyadınız, internet adresiniz olsun... 
+</HEADLINE>
+<TEXT>
+
+     İnternette Türkiye'yi simgeleyen ''tr'' uzantılı adreslerde yenilikler birbirini izliyor. Türkiye'de ''tr'' uzantılı adresleri tescilde tek yetkili kurum olan ODTÜ Alan Adı Yönetimi Domain Names Systems-DNS , bugüne kadar sadece sanatçı ve ünlü işadamlarına verilen isim ve soyisimden oluşan ''com.tr'' uzantılı internet adreslerini, 7 Şubat 2005 tarihinden itibaren artık isteyen herkese verecek. 
+     İnternet Kurulu DNS Çalışma Grubu ve Bilkent Üniversitesi Öğretim Üyesi Doç. Dr. Mustafa Akgül, AA muhabirine yaptığı açıklamada, DNS Yönetimi'nin Türkiye internetini büyütmek ve kullanımı artırmak üzere alan adı tescilinden bir dizi yenilikler üzerinde çalıştığını belirtti. 
+     Akgül, bu çerçevede bugüne kadar sadece sanatçılara ve ünlü işadamlarına verilen isim ve soyisimden oluşan ''com.tr'' uzantılı adresleri artık nüfus cüzdanı örneğini gönderen herkesin alabileceğini söyledi. 
+     Akgül, gelen talepler doğrultusunda ''com.tr'' uzantılı isim ve soyisimden oluşan internet adreslerini tescil edeceklerini ifade etti. Akgül, ''com.tr'' uzantılı isim ve soyisim adreslerinin sadece gerçek kişilere verileceğini ve yıllık kullanımının 25 milyon lira olacağını kaydetti. 
+     Daha önce isim ve soyisim kombinasyonlarının name.tr, biz.tr ve info.tr uzantılarıyla alınabildiğini de anımsatan Akgül, bu kombinasyonların yıllık kullanımının 5 milyon lira olduğunu, bu uygulamanın da aynen devam edeceğini belirtti. 
+     Alan Adı Yönetimi'nin yeniliklerini bu yıl da sürdüreceğini bildiren Akgül, Türkiye'de çok sayıda alan adını kullanıma açan DNS Yönetimi'nin noterler için ''not.tr'' ve eczacılar için ''ecz.tr'' uzantılı adresleri alabilmelerine imkan verecek düzenlemeler üzerinde hazırlıkların sürdüğünü belirtti. 
+     
+     İNTERNETTE YAKLAŞIK 66 BİN ''TR'' UZANTILI ADRES 
+
+     ICAAN'ın verdiği yetki çerçevesinde 1992 yılından bu yana Türkiye'de ''tr'' uzantısıyla internet adresi tescil eden ODTÜ Alan Adı Yönetimi, bugüne kadar ''tr'' uzantılı, com, web, gen, org, gov, k12, name, net, edu, biz, bel, info, bbs, pol, mil, av, dr, tel uzantılı adresleri kullanıma açmıştı. 
+     Kullanıcı sayısını artırma hedefi çerçevesinde internet adresinde herhangi bir sınırlama olmayan ''web.tr'', şirketler için alternatif sunan ''biz.tr'' ve ''info.tr'' uygulamasının yanı sıra ''pol.tr'', ''bel.tr'' ve ''tel.tr'' uzantılı adresleri tescil edilmeye başlandı. 
+     Alan Adı Yönetimi, bir süre önce de avukatların internet ortamında örgütlenmesine ön ayak olacak ''av.tr'' uzantısını tescil etmeye başladı. Yönetim, kısa bir süre önce de doktorlar için de ''dr.tr'' uzantısını tescil edeceğini duyurdu ancak test işlemleri devam ettiği için henüz doktorlarca kayıt yapılmadı. 
+     ODTÜ Alan Adı Yönetimi'nin tescil ettiği ''tr'' uzantılı adresler de internette her geçen gün artıyor. Alan Adı Yönetimi bugüne kadar ''tr'' uzantılı 65 bin 803 adresi tescil etti. Tescil edilen adreslerin alanlara göre dağılımları şöyle 
+     -com.tr ticari kuruluşlar 47198 -web.tr sınırsız 2269 -gen.tr genel 6523 -org.tr organizasyonlar 2766 -gov.tr kamu kurumları 2356 -k12.tr ortaöğretim kurumları 12 -name.tr ad-soyad kombinasyonu 840 -nom.tr ada kayıt 186 -net.tr network hizmetleri 178 -edu.tr üniversiteler 180 -biz.tr şirketler 169 -bel.tr belediyeler 759 -info.tr şirketler 97 -av.tr avukatlar 611 -pol.tr polis 108 -bbs.tr buluşma sağlayıcılar 19 -mil.tr askeri kurumlar 8 -tel.tr telefondan adres 4 -dr.tr doktorlar 0 
+     
+</TEXT>
+</DOC>

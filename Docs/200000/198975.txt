@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 198975 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/01/son/sondun07.html </URL>
+<DATE> 2003/12/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft'un yeni hedefi Her arabaya bir bilgisayar 
+</HEADLINE>
+<TEXT>
+
+     Yazılım devi Microsoft firması, her eve bir bilgisayar kampanyasından sonra şimdi de her arabaya bir bilgisayar kampanyası başlattı. 
+     Konu hakkında açıklamada bulunan Microsoft otomotiv birimi başkan yardımcısı Dick Brass, ''amacımız, yeryüzündeki her arabaya işletim sistemlerimizden birini yerleştirmek'' diye konuştu. 
+     Söz konusu sistemlerle donatılmış araçlar, sürücüleri yağ değiştirme zamanı geldiği konusunda uyaracak, yollardaki bozuklukları önceden haber verecek, sürücüye alternatif yollar önerecek ve köprüyle tünel geçiş ücretlerini otomatik olarak ödeyecek. Araç frenlerini denetleyen yazılımlarınsa kendilerini kablosuz yöntemle otomatik olarak bir üst sisteme yükseltecekleri upgrade belirtiliyor. 
+     Microsoft yazılımları, halen 23 değişik araba modelinde kullanılıyor. Bunlar arasında BMW, Citroen, Daimler, Fiat, Volvo, Hyundai, Mitsubishi, Subaru ve Toyota marka araçlar bulunuyor. 
+     
+     DÜNYADA 650 MİLYON ARAÇ VAR 
+     Dünyada yaklaşık 650 milyon araç bulunduğu hesaplanıyor. Ayrıca her yıl 50 milyon yeni araç üretiliyor. Araçların sayısı, dünyadaki bilgisayar sayısına eşit. 
+     Microsoft yetkilileri, araçlara yerleştirilecek bilgisayarların aynı zamanda telekomünikasyon aracı olarak görev yapmalarını da öngörüyor. 
+     ''Sürücülerin, trafikle ilgili bilgi alabilmek için çok sayıda cihazdan yararlanmaya çalıştığını, bunun hem zaman kaybına yol açtığını, hem de dikkati dağıttığını'' kaydeden Brass, ''Microsoft'un 12-36 ay içinde piyasaya çıkaracağı TBox adlı cihazın, tüm bu sakıncaları ortadan kaldıracağını ve sürücülere sağlıklı bilgi vereceğini'' ifade etti. 
+     Microsoft otomotiv birimi başkan yardımcısı Dick Brass, ''TBox'un, elle tutulmadan kullanılacağını, böylece sürücülerin dikkatlerini direksiyondan ve yoldan ayırmayacaklarını'' da kaydetti. 
+     Brass'ın verdiği bilgiye göre, ''bir işlemci, bellek ve katı diskten oluşacak TBox sayesinde, araçlara laptop ve telefon girmiş olacak ve sürücüler isterlerse yoldayken internete bağlanabilecekler.'' 
+     
+</TEXT>
+</DOC>

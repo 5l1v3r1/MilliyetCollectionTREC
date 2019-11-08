@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 193002 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/03/son/sondun25.html </URL>
+<DATE> 2003/11/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Mossad'ın sitesini çökerten "bilgisayar korsanı" yakalandı 
+</HEADLINE>
+<TEXT>
+
+     İsrail haberalma örgütü Mossad'ın internet sitesini çökerten İsrailli internet korsanı yakalandı. 
+     İsrail radyosu, 23 yaşındaki korsanın Kudüs'te mahkemeye çıkarıldığını duyurdu. 
+     Radyo, korsana yönelik suçlama ve internet sitesinin ne zaman çökertildiği hakkında ayrıntı vermedi. 
+     Korsanın sisteme girmeyi başardığı, ancak elde ettiği bilginin şifresini çözemediği kaydedildi. 
+     Mossad, ekibini genişletmek ve internet üzerinden başvurular için geçen yıl internet sitesi kurmuştu. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 320147 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/02/son/sonyas06.html </URL>
+<DATE> 2005/03/02/ </DATE>
+<TIME> 09.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Görünmezlik pelerini gerçek mi oluyor 
+</HEADLINE>
+<TEXT>
+
+     BBC 
+
+      Amerika Birleşik Devletleri'nden bilimadamları, bir nesneyi teorik olarak görünmez hale getirmenin yolunu bulduklarını söylüyorlar. 
+     Saygın bilim dergisi Nature'ın internetteki versiyonu olan news nature.com adlı sitede yayımlanan bir makaleye göre, bu fikri Pennsylvania Üniversitesi'ndeki iki uzman geliştirdi. 
+     Andrea Alu ve Nader Engheta adlı elektronik mühendisleri üzerine örtüldüğü nesnenin görünmemesini sağlayacak bir örtü geliştirilebileceğini savunuyor. 
+     Bu fikir uzun yıllardır edebiyat ve film dünyasına esin kaynağı olmuş, bilim kurgu eserlerinde sık sık kullanılmıştı. 
+     Yıldız Savaşları, James Bond ve Harry Potter filmlerinde görünmezlik, kahramanı çoğu zaman en zor durumlardan kurtaran bir çözümdü. 
+     
+     Elektrik dalgaları 
+     Yöntemin temelinde, plazmon adı verilen ve bazı metallerin yüzeyinde oluşan küçük elektrik dalgalarının kullanılması yatıyor. 
+     Bu dalgalar bir nesneden yansıyan ve görülmesini sağlayan ışığı yutuyor. 
+     Böylece asıl yüzey yerine, nesnenin gerisinde kalan şeylerin sanki arada hiç bir şey yokmuş gibi görülmesi öngörülüyor. 
+     Tüm bunlar Yıldız Savaşları filmlerinde bir tuşa basılarak ekranlardan silinen uzay gemileri ile ilgili sahneleri anımsatsa da, uzmanlar buluşun şimdilik böyle bir imkan vermeyeceği uyarısında bulunuyor. 
+     Bu yöntem ancak çok küçük nesneleri gizlemek için kullanılabilecek durumda. 
+     Uzmanlar normal ışık altında görünmezlik için şu aşamada fazla başarılı olmasa da, yöntemin en azından radarlara karşı kullanılması ihtimali olabileceğini savunuyor. 
+     
+</TEXT>
+</DOC>

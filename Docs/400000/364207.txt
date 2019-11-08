@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 364207 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/25/son/sonyas10.html </URL>
+<DATE> 2005/07/25/ </DATE>
+<TIME> 10.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Discovery için geri sayım .. Arıza tekrarlarsa ne yapılacak 
+</HEADLINE>
+<TEXT>
+
+     Uzay Mekiği Columbia’nın 1 Şubat 2003’te 7 astronotunun öldüğü kazadan 2.5 yıl sonra yörüngeye gidecek ilk mekik olan Discovery yarın uzay yolculuğuna başlayacak. 
+     ABD’nin Ulusal Havacılık ve Uzay Dairesi NASA , "yakıt tankı göstergelerinde bilgisayar arızası" yüzünden Discovery’nin 13 Temmuz’da ertelenen uçuşu için yarına hazırlanıyor. 
+     Uzay mekiğinin idarecileri, 13 Temmuz’daki ertelemeye neden olan problemin tekrarı durumunda yapılacakları tartışıyor. 
+     Discovery’nin kalkışı için belirlenen salı gününün bulutlu ve yağmurlu olacağı tahmininde bulunan meteoroloji uzmanları, havanın uçuş için uygunluğunu yüzde 60 olarak öngörüyor. 
+     NASA test idarecisi Jeff Spaulding, "Discovery uzay mekiğini ve ekibini uçuşa hazırlarken çok büyük sorunlarla karşılaştık. Bu, en güvenli mekiği oluşturma çabasının bedelidir" dedi. 
+     13 Temmuz’da mekiğin fırlatılmasının ertelenmesine yol açan sorunun kesin nedenini açıklamayan NASA, olabilecek herhangi bir problemin net şekilde görülebilmesi için kalkışın gün ışığında yapılmasında ısrar ediyor. 
+     Discovery’nin fırlatılışının, yarın mümkün olmaması durumunda eylül ayına erteleneceği belirtiliyor. 
+     Columbia’nın biri Hintli, biri İsrailli 7 kişilik mürettebatının öldüğü kazanın, mekik rampadan fırlatılırken kanat altı sıcaklık yalıtım malzemesi "köpük" katmanından bavul büyüklüğünde bir parçanın düşmesinden kaynaklandığı anlaşılmıştı. 
+     Fırlatılışta yüzlerce ton sıvı hidrojen ateşinin düşürdüğü bu bavul büyüklüğündeki yalıtım boşluğu, mekik, 1 Şubat 2003’te Texas eyaleti semalarında 63 bin metre irtifadayken koruyucu minik seramik karoları zırhı da parçalandığından Yer’e inişte atmosfer sürtünmesinin 2 bin derecelik sıcaklığıyla tüm gövde yandı ve araç parçalara ayrılarak kül oldu. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 288808 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/14/son/sontur10.html </URL>
+<DATE> 2004/11/14/ </DATE>
+<TIME> 12.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+'Mektubum kayboldu' dönemi bitiyor... 
+</HEADLINE>
+<TEXT>
+
+     PTT Genel Müdürlüğü, ''mektubum kayboldu'' gibi şikayetleri ortadan kaldıracak yeni bir uygulama başlattı. Barkod uygulamasında vatandaşlar, gönderisinin nerede olduğunu elektronik ortamda takip edebilecek. 
+     Ulaştırma Bakanlığı'dan yapılan açıklamaya göre, gönderileri sıkı takibe alan PTT, barkod uygulamasına geçti. Vatandaşlar artık mektup ve paketleri kayıt altına aldırarak, gönderilerinin nerede olduğunu yakından takip edebilecek. 
+     Ulaştırma Bakanı Binali Yıldırım da barkod uygulamasıyla postada kaybolma olaylarının sona ereceğini belirtti. Yıldırım, ''PTT ile vatandaşımız arasında güven tazeleyecek bu projeyi fevkalade önemsiyoruz. Gönderiler kayıt altına alındığı için kayıp vakaları olmayacak ve elektronik ortamda gönderinin nerede olduğu izlenebilecek'' dedi. 
+     
+     BARKOD UYGULAMASI NEDİR 
+     Barkod uygulaması, APS, koli, tebligat ve taahhütlü gönderiler için geçerli olacak. Vatandaşlar kayıtlı gönderilerini takip edebilmek için PTT'den verilen barkod numarasıyla PTT'nin internet sitesinden ''Yurtiçi Kayıtlı Posta Takibi'' bölümüne erişecekler. 
+     ''Gönderi Barkod Numarası'' bölümüne barkod numarası yazılarak sorgulama yapılacak. Sitede, gönderinin nerede olduğuna ilişkin bilgi tarihiyle birlikte yer alacak. Bu bölümde gönderi sahiplerine ''Kabul edildi'', ''Torbaya kondu, sevk edildi'', ''Dağıtıcıya teslim edildi'', ''Alıcıya ulaştı'' gibi kısa bilgiler verilecek. Gönderi alıcısına teslim edildiğinde ise teslim alan kişinin ismi de bu bölümde yer alacak. 
+     
+     PİLOT UYGULAMA MERKEZLERİ 
+     Gönderi kayıplarının önüne geçebilmek üzere başlatılan barkod uygulaması pilot olarak bazı merkezlerde başlatıldı. Tüm Türkiye'ye yaygınlaştırılması planlanan uygulama, İstanbul'da Avrupa Posta İşleme Merkezi, Kadıköy, Fatih Dağıtım , Galata Dağıtım , Gülhane Dağıtım , Karaköy, Levent Dağıtım ve paket , Sarıyer Dağıtım , Sirkeci, Şişli, Zincirlikuyu'da Dağıtım başladı. 
+     Uygulamaya geçen PTT merkezleri arasında Ankara'da Ulus, Sincan, Kızılay, Evren, Rüzgarlı, Ankara Eğitim Merkezi, İzmir'de Konak, İzmir Posta İşleme Merkezi ile Kayseri Merkez ve Posta İşleme Merkezi de bulunuyor. 
+     
+</TEXT>
+</DOC>

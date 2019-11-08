@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 226685 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/29/son/sonyas09.html </URL>
+<DATE> 2004/03/29/ </DATE>
+<TIME> 15.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Radyoterapide yeni yöntem... 
+</HEADLINE>
+<TEXT>
+
+     İngiltere'de kanser tedavisi için geliştirilen yeni bir cihazın, görüntü vermesi sayesinde tümöre doğrudan etki edilmesini sağladığı bildirildi. 
+     Eski tedavi yöntemlerine göre çok daha güçlü radyasyon veren cihaz, Manchester'daki Christie Hastanesi'nde denendi. Cihaz tümörün üç boyutlu görüntüsünü verdiği için, tedavi sırasında çevredeki sağlıklı hücrelere zarar verilmiyor. 
+     Sussex'de bir milyon sterlin yaklaşık 2,4 trilyon harcanarak kurulan yeni bir merkezde üretimi yapılan cihazın, kanser tedavisi boyunca tümörün görüntülerini sakladığı için etkili olacağını savunan üretici firma, radyoterapinin de bu cihaz sayesinde daha çabuk tamamlanabileceğini öne sürdü. 
+     Halen kullanılan radyoterapide tümörün yeri, büyüklüğü ve konumu tedavi öncesinde çekilen görüntülerle sağlanabiliyor. 
+     Christie Hastanesi'nde cihazı deneyen bilim adamları, ilk kez bir cihazın hedef aldıkları alanı eş zamanlı olarak görme ve cihaz sayesinde radyasyonun dozunu artırma olanağını bulabildiklerini söylediler. 
+     
+</TEXT>
+</DOC>

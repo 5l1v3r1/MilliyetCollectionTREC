@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> 50627 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/11/05/ekonomi/eko12.html </URL>
+<DATE> 2001/11/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Verileriniz artık koruma altında 
+</HEADLINE>
+<TEXT>
+
+Yeni geliştirilen bir yazılım, verileri güvenli saklama imk nı sunuyor 
+
+     FATİH ÇINAR Londra 
+
+     11 Eylül’de ABD’de yaşanan saldırının ardından şirketler, çalışanlarının yanı sıra verilerini de tam koruma altına almak istiyor. Veri depolama alanında faaliyet gösteren EMC şirketinin Yönetim Kurulu Başkanı Mike Ruettgers, pazarda AR - GE’ye en fazla kaynak ayıran şirket olduklarını ve önümüzdeki iki yıl içinde 1.7 milyar dolarlık yatırım yapacaklarını belirterek yeni geliştirdikleri yazılımla ilgili şunları söyledi 
+     "AutoIS Otomatik Bilgi Depolama adını verdiğimiz programla IT atyapı sistemlerine kullanım kolaylığı ve daha fazla açıklık getirmeyi hedefliyoruz. Böylece farklı merkezlerde toplanan bilginin tek bir noktadan yönetilmesini kolaylaştırıracağız." 
+     
+
+
+
+ EKONOMİ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 157821 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/20/son/soneko17.html </URL>
+<DATE> 2003/05/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı 10,260 puanda tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası İMKB Ulusal-100 Endeksi 1. seansı, 45.91 puan düşüşle 10,260.34 puandan tamamladı. 
+     Hisse senetlerinin ortalama değer kaybı, yüzde 0.45 olarak gerçekleşti. 
+     Endeks, 1. seansa 2.96 puan düşüşle 10,303.29 puan seviyesinde başladı. Seansın ilk yarısını da 67.08 puan düşüşle 10,239.17 puandan geçen endeks, en düşük 10,184.39 puana kadar gerilerken, en yüksek olarak da açılıştaki değeri olan 10,303.29 puanı gördü. 
+     Seans kapanışında mali endeks, 94.24 puan düşüşle 11,984.49 puana, sınai endeksi 30.32 puan düşüşle 10,843.07 puana gerilerken, hizmetler endeksi 23.82 puan artışla 6,680.31 puana yükseldi. 
+     Böylece, önceki kapanışa göre mali grup hisseler ortalama yüzde 0.78, sanayi grubu hisseler ortalama yüzde 0.28 oranında değer yitirirken, hizmetler grubu hisseler ortalama yüzde 0.36 oranında değer kazandı. 
+     İşlem gören toplam 285 hissenin 156'sının fiyatı düştü, 87'si değer kazandı, 42'sinin fiyatı değişmedi. 
+     Seansta, toplam 88 trilyon 753 milyar 750 milyon liralık işlem hacmi oluştu. 
+     1. seansta İhlas Holding, Gersan Elektrik, Turkcell, Yapı ve Kredi Bankası ve Koç Holding, en yoğun işlem gören hisseler oldular. 
+     
+</TEXT>
+</DOC>

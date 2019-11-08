@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 382346 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/28/son/sontur07.html </URL>
+<DATE> 2005/09/28/ </DATE>
+<TIME> 09.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Cep telefonunuzun kaçak olup olmadığını öğrenin... 
+</HEADLINE>
+<TEXT>
+
+     Kaçak cep telefonları ekim ayı sonuna kadar kayıt altına alınacak, 13 Aralık’tan itibaren ise kayıt dışı olan telefonlar bloke edilecek Türkiye’de 12 milyona yakın kayıt dışı cep telefonu bulunuyor. Yeni yasayla kaçak cep telefonları kayıt altına alınırken cep telefonu gaspı, hırsızlığı, kapkaçı gibi suçlar artık gündemden çıkacak. 
+     Kayıt işlemlerinde cihaza ait fatura istenecek ve faturası olanların kayıtları ücretsiz olarak, faturası olmayanların kayıtları 5 YTL ödenerek yaptırılabilecek. 
+     Kaçak telefonların kayıt altına alınmasıyla ekonomiye yaklaşık 160-170 milyon YTL gelir sağlanacak. 
+     Peki telefonununuzun kaçak olup olmadığını nasıl öğrenebilirsiniz 
+     Aşağıdaki işlemleri yapmanız yeterli... 
+     
+
+1- Cep telefonunuzda 06 tuşlarına basıyorsunuz. Bazen hemen bazen de YES tuşuna bastıktan sonra ekrana 15 haneli bir numara geliyor. Bu sizin telefonunuzun IMEI numarasıdır. 3- Aşağıda kayıtlı olup olmadığı çıkıyor. Eğer kayıtlı ise sorun yok. Değilse TK tarafindan ilan edilecek yere 5 YTL yatırıp telefonunuzu kayıt ettiriyorsunuz. Aksi takdirde cep telefonunuza önce bir uyarı mesajı gönderiliyor, sonra da tamamen kapatılıyor ve Türkiye sınırları içinde kullanılamaz oluyor.      
+</TEXT>
+</DOC>

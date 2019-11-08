@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 371144 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/19/son/soneko01.html </URL>
+<DATE> 2005/08/19/ </DATE>
+<TIME> 01.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Borsası'nın Dow Jones Sanayi Endeksi, haftanın dördüncü şlem gününü 1.11 puan artışla 10,551.82 puandan noktaladı. 
+     Wall Street'in teknoloji ortaklıkları ibresi Nasdaq Bileşik Endeksi de 9.08 puan kayıpla 2,136.07 puandan kapandı. 
+     New York Borsası'nda ilk seansta, dünyanın en büyük İnternet arama motoru Google'un 4 milyar dolar değerinde hisse senedi satışı yapmayı planladığını açıklaması, hisse senetlerinin ucuzlamasına yol açarak endekslerin düşmesine katkıda bulundu. 
+     
+</TEXT>
+</DOC>

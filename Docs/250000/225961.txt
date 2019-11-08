@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 225961 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/26/son/sonyas09.html </URL>
+<DATE> 2004/03/26/ </DATE>
+<TIME> 12.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Genlere bloke... Sıtma hastalığının kökü kurutulacak 
+</HEADLINE>
+<TEXT>
+
+     Avrupalı moleküler biyologlar, sıtma parazitini koruyan iki geni bloke ederek, sıtma hastalığının kökünü korutmayı amaçlıyor. 
+     Almanya'nın Heidelberg kentindeki Avrupa Moleküler Biyoloji Laboratuvarı'nda EMBL görevli bilim adamları, sıtmanın en büyük taşıyıcısı olan ''Anopheles gambiae'' türü sivrisinekte, sıtma parazitine karşı bağışıklık sistemini uyaran iki gen tespit ettiklerini, bu genler sayesinde uyarılan bağışıklık sisteminin normalde paraziti yok etme gücüne sahip olduğunu kaydettiler. 
+     Bilim adamları, olumlu görev üstlenen bu genlerin işlevinin, başka iki gen tarafından engellendiğini belirttiler. 
+     EMBL ve sıtma araştırmasının başkanı Fotis Kafatos, sıtma parazitini etkili bir biçimde yok edebilecek bir yöntem üzerinde çalıştıklarını söyledi. 
+     Bağışıklık sistemini harekete geçiren genlerin işlevini destekleyecek ve diğer iki geni etkisiz hale getirecek bir yöntem bulmaya çalıştıklarını ifade eden bilim adamları, bunun, ilaçlamayla yapılabileceğini kaydettiler. Diğer böcek ve sineklerin bu dört gene sahip olmadığı için ilaçlamadan zarar görmeyeceği belirtildi. 
+     ''Anopheles gambiae'' türü sivrisinek, sıtmalı bir hayvanı soktuğu zaman, onun kanıyla birlikte sıtma parazitini de alıyor. Sivrisineğin bağırsaklarına ulaşan parazitler burada çoğalmaya başlıyor. Daha sonra bir hayvanı ya da insanı sokan sivrisinek, parazitin tükürük bezleri üzerinden soktuğu kişinin kanına girmesine neden oluyor. 
+     Yılda 300 ila 500 milyon insan sıtmaya yakalanıyor. Ölen bir milyon hastanın çoğunu, 5 yaşın altındaki çocuklar oluşturuyor. 
+     Araştırma ''Science'' dergisinde yayımlandı. 
+     
+</TEXT>
+</DOC>

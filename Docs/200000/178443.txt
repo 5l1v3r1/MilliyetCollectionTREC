@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 178443 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/27/son/soneko02.html </URL>
+<DATE> 2003/08/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     New York borsası günü yükselişle tamamladı. 
+     Borsanın temel göstergesi Dow Jones endeksi 22. puan yükselerek, 9,340.17 puandan kapandı. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq bileşik endeksi de, 6.33 puanlık yükselişle 1,770.64 puandan günü tamamladı. 
+     
+     TOKYO BORSASI 
+
+     Tokyo Menkul Kıymetler Borsası, kapanışta değer kaybetti. 
+     Nikkei Endeksi, 23.58 puan yüzde 0.23 değer kaybederek, 10,308.99 puana geriledi. 
+     
+</TEXT>
+</DOC>

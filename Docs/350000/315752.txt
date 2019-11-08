@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 315752 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/16/son/soneko33.html </URL>
+<DATE> 2005/02/16/ </DATE>
+<TIME> 16.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa, İran'dan gelen haberle geriledi... 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası Ulusal 100 Endeksi, İran'daki patlama haberinin ardından geriledi. 
+     1. seansı 27,920.86 puandan kapatan endeks, 2. seansa 27,913.81 puandan başladı. Seansın ilk yarısını 27,890.19 puandan geçen endeks, İran devlet televizyonunun konuyla ilgili haberinin duyurulmasının ardından gelen satışlarla kayıp yaşadı. 26,890.06 puana kadar gerileyen endeks, daha sonra toparlandı. Endeks, saat 16.00 itibariyle 1. seansa göre 359.81 puan kayıpla 27,552.59 puanı gördü. Endeksin bu seviyedeki kaybı, 1.seansa göre yüzde 1.29, dünkü kapanışa göre ise yüzde 2.14 olarak hesaplandı. 
+     
+</TEXT>
+</DOC>

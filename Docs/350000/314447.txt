@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 314447 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/11/son/soneko43.html </URL>
+<DATE> 2005/02/11/ </DATE>
+<TIME> 16.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Merkez Bankası Reel Kesim Güven endeksi 104.5 seviyesine geriledi 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası Reel Kesim Güven Endeksi MBRKGE , Ocak ayında bir önceki aya göre 1.8 puan azalarak 106.3 puandan 104.5 seviyesine geriledi. 
+     Merkez Bankası, Ocak ayına ilişkin Reel Kesim Güven Endeksi sonuçlarını açıkladı. 
+     Buna göre, bir önceki yılın aynı dönemine göre karşılaştırma yapıldığında ise endeksin yüzde 0.2 oranında azaldığı gözlendi. 2004 yılı Ocak ayında 104.7 puan olan endeks 2005 Ocak döneminde 104.5'e indi. 
+     Endeksi oluşturan anket sorularına ait yayılma endeksleri Aralık ayına kıyasla incelendiğinde, iç pazara satılan mal hacmi ve toplam sipariş eğilimleri, en fazla gerileyen kalemler oldu. 
+     Mevsimsel etkilerden arındırıldığında iç pazara satılan mal hacmindeki gerilemenin oldukça düşük düzeyde kaldığı, toplam sipariş eğiliminin ise bir miktar artışa işaret ettiği gözlendi. 
+     Mamul mal stok miktarı eğilimi, yüzde 5.5 oranındaki artışla, endeksi azaltıcı yönde etkileyen üçüncü kalem oldu. Endeksi azaltıcı yönde etkisi olan diğer kalemler ise genel gidişat konusundaki görüşler, yatırım harcaması beklentisi ve hammadde stok eğilimi olarak belirlendi. 
+     Öte yandan, endeksi pozitif yönde etkileyen en önemli kalem üretim hacmi beklentisi olurken, ihracat imkanları ve toplam istihdam beklentilerindeki artışlar da endeksi olumlu etkiledi. 
+     Bir önceki yılın Ocak ayına göre karşılaştırma yapıldığında ise, iç pazara satılan mal hacmi ve toplam sipariş eğilimleri ile genel gidişat konusundaki görüşler, geçen seneki değerlerinin altında kalırken, toplam istihdam beklentisinde önemli bir değişiklik gözlenmedi. 
+     Diğer alt kalemler ise geçen seneki seviyelerinin üstünde değerler aldı. 
+     
+     MERKEZ BANKASI BİRLEŞİK ÖNCÜ GÖSTERGELER ENDEKSİ 
+
+     Merkez Bankası Ekonomik Faaliyet İçin Birleşik Öncü Göstergeler Endeksi MBÖNCÜ-SÜE Ocak ayında, bir önceki aya göre hafif bir artış gösterdi. 
+     Merkez Bankası, Ocak ayı verileri ile güncelleşen ekonomik faaliyet için birleşik öncü göstergeler endeksini yayımladı. Buna göre Aralık ayında 134.3 olan endeks, Ocak'ta 135.4'e çıktı. 
+     Aralık ayında Kasım ayına göre, Euro bölgesine ait bileşik öncü göstergeler endeksi değişmezken OECD bölgesi ve G7 ülkelerine ait endeksler sırasıyla 0.2, 01 puan arttı. 
+     Ekonomik faaliyetteki büyüme ve daralma dönemlerini önceden görebilmek amacıyla Merkez Bankası'nın OECD ile yürüttüğü ortak çalışma sonucunda, ekonomik faaliyet için bileşik öncü göstergeler endeksi oluşturulmuştu. 
+     
+</TEXT>
+</DOC>

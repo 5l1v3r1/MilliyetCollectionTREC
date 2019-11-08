@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 365202 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/28/son/sonyas14.html </URL>
+<DATE> 2005/07/28/ </DATE>
+<TIME> 12.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+'Windows Vista'yı 100 bin kullanıcı denemeye başladı 
+</HEADLINE>
+<TEXT>
+
+     Microsoft, yeni işletim sistemi Windows Vista'nın deneme sürümünü 100 bin kullanıcıya dağıttı. 
+     Microsoft yetkilisi Jessica Munn, yaptığı açıklamada, Windows XP'nin yerini alması beklenen bu yeni işletim sistemindeki açıkların belirlenmesi için, ''Windows Vista Beta One'' adı verilen ilk deneme sürümünün kullanıcılara dağıtıldığını bildirdi. 
+     ''Windows Vista''nın eksikleri tamamlanmış tam sürümünün 2006'nın sonunda çıkması bekleniyor. 
+     Bill Gates'in sahibi olduğu Microsoft şirketi, daha önce yeni işletim sisteminin deneme sürümünün, 3 Ağustos'ta 100 bin kullanıcıya dağıtılacağını açıklamıştı. 
+     Dünya genelindeki bilgisayarların yüzde 90'ında Windows işletim sistemi kullanıldığı belirtiliyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 336153 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/23/yazar/toruner.html </URL>
+<DATE> 2005/04/23/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Yaman TÖRÜNER  </AUTHOR>
+<HEADLINE>
+Mortgage kredisi kullanmak kolay olmayacak 
+</HEADLINE>
+<TEXT>
+
+
+Mortgage gayrimenkul kredisinin çok rahatlıkla kullanılabileceği ve kira öder gibi ev sahibi olunacağı şeklindeki söylemler medyada boy boy yer alıyor. Oysa, gerçek pek öyle değil. Kaldı ki, sistemin yerleşmesi için daha çok fırın ekmek yenmesi, uluslararası pratiğin ülkemizde de uygulanması gerekiyor. Aksi takdirde, yabancı sermaye bu alana zor yatırım yapar. Bu durumda da düşük faizli ve yeterince bol kredi bulunamaz. 
+Verilecek mortgage kredisinin tavanı konusunda uluslararası pratikte iki formül uygulanıyor. Bu formüller kişinin ya aylık toplam gelirine ya da maaşına bakılarak yapılıyor. Bu tutarların üzerinde kredi verilmesi halinde, verilen kredi borsada rahatlıkla satılamıyor. Dolayısıyla, bu kıstasların üzerinde kredi veren kurumlar, doğrudan kendi fonlarını değerlendirmeyi öngören ve borsa satışını düşünmeyen kurumlar olabiliyor. 
+Aylık maaşı esas alan rasyoda, aylık maaş ve varsa yatırım geliri toplamının 28'i alınıp, bu tutardan gayrimenkul için yıllık bazda ödenecek toplam vergi ve sigortanın beşte biri düşüldükten sonra, aylık ödenebilecek maksimum anapara ve faiz miktarı bulunuyor. 
+Bu bulunduktan sonra, verilecek kredinin faizi ve vadesine göre önceden hesaplanmış bulunan tabloda, yukarıdaki hesaplama ile bulunan ödenebilecek maksimum miktara denk düşen kredi miktarı esas alınıyor. Örneğin, aylık 5500 YTL maaşı ve 500 YTL faiz geliri olan bir kişinin maksimum mortgage ödemesi, 6.000x0.28 1.680 YTL oluyor. Bundan gayrimenkulün yıllık sigorta ve vergisinin beşte biri örneğin, 336 YTL düşülürse, maksimum ödeyebileceği aylık faiz ve anapara miktarı 1.344 YTL olarak bulunuyor. Kredinin faizi 15 olsa, bu kişiye en az 20 en çok 30 yıllık ve en çok 100.000 YTL'nin biraz üzerinde kredi verilebiliyor. 
+Diğer bir hesaplamada, aylık gelirin 36'sı alınıyor. Ama, bu kez kişinin kredi kartı dahil diğer yaklaşık kredi ödemeleri ve gayrimenkulün toplam yıllık vergi ve sigortasının beşte biri bu miktardan düşülüyor. Örneğin, 6.000 YTL aylık geliri olan bir kişinin maksimum aylık mortgage ödemesi 6.000x0.36 2.160 YTL oluyor. Bundan, 400 YTL aylık kredi borcu ve yıllık vergi ve sigortanın beşte biri 352 YTL olsun düşülüp, maksimum anapara ve faiz ödemesi olarak 1.408 YTL'yi buluyoruz. Faiz 7 olsa bile, bu miktar için kredi cetvelinde 200.000 YTL 11.000 YTL bulunan rakam cetveldeki rakamdan fazla olduğu için oranlı bir ekleme yapılıyor 211.000 YTL bulunuyor. 
+Bütün hesaplamalarda, faiz düştükçe ve vade uzadıkça verilecek kredi miktarı artıyor. Kısacası, bizde hem faizler yüksek hem de vadeler düşük olduğu için, verilebilecek kredi miktarı da düşük oluyor. 
+Yaklaşık, 6 milyar TL maaşı olan birisi bile, 15 faizle 100 milyar TL'nin biraz üzerinde kredi alabiliyor. Oysa, faiz 7'ye düşse alınacak kredi 200 milyar TL'ye yükseliyor. 
+İşte, bu nedenle mortgage sisteminin sağlıklı çalışabilmesi için faizlerin ve dolayısıyla da enflasyonun düşmesi lazım. Ama, sistem döviz karşılığı kredi verilmesi ile de başlayabilir. O zaman da işin içine kur riski ve bunu kimin karşılayacağı sorunu giriyor. Diğer bir olasılık, faizin veya verginin bir bölümünün devlet veya piyasa tarafından üstlenilmesi. Bunlar da mümkün. 
+Bu enflasyon mücadelesini sürdürebilirsek, sistemi çalıştıracak yol bulunur. 
+
+
+
+</TEXT>
+</DOC>

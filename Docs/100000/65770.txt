@@ -1,0 +1,67 @@
+<DOC>
+<DOCNO> 65770 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/02/04/ekonomi/eko03.html </URL>
+<DATE> 2002/02/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Milliyet ilk hacker okulunu Paris’te ziyaret etti 
+</HEADLINE>
+<TEXT>
+Şifre nasıl kırılır hocam 
+Hackerlar Fransa’da okul açtılar. 70 dolar ödeyen kaydını yaptırıyor ve şifre kırma tekniklerini öğrenebiliyor. Akademi, gençlerin yanısıra, hack’lenmekten korkan şirketlerin de ilgisini çekiyor 
+     ŞÜKRÜ ANDAÇ 
+
+     Bilgisayar sistemlerinin, büyük şirketlerin, hükümetlerin, hatta güvenlik ve gizli istihbarat birimleri FBI ve CIA’in bile başına bela olan hackerlar artık Paris’te açlan Zi Hackademy’ adlı okulda yetişecek. İş alanı oldukça açık olan Hackademi mezunlarına en büyük talep, internet sitelerinin hack’lenmesinden çekinen büyük şirketlerden geliyor. 
+     
+     Bunlar beyaz korsanlar 
+     Milliyet’in ziyaret ettiği okul iki katlı bir binada, iki ayrı sınıfta, 25’e yakın bilgisayar ile öğrenime devam ediyor. Okul, duvarlarına çizili rengarenk grafitiler ve kurukafalar ile bir hayli dikkat çekici. Zi Hackademy’nin yöneticisi Billy Dub, kendilerinin white huts beyaz hacker olduklarını söylüyor ve "Biz burada bilgisayar kullanıcılarının kendilerini saldırılara karşı korumaları için güvenlik ve gizlilik teknikleri öğretiyoruz" diyor. 
+     Dub, ayrıca "Bilgisayar hack etmek sihirli bir olay değil. İsteyen herkes tekniklerini bilmek şartıyla basitçe bilgisayar hack etmeyi öğrenebilir. Bizim diğer okullara göre farkımız öğrencilere limit koymamamız. Limit yok. Biz buradaki eğitimle kişilere sınırsızlık tanıyoruz" şeklinde konuştu. 
+     Okula katılan öğrenciler arasında 10 yaşından 50 yaşına kadar uzanan geniş bir yelpaze var. Hatta kursa katılanlar arasında bir baba ve kızı da var. Özellikle büyük şirketlerin bilgi işlem bölümünde çalışan mühendisler kursa ilgi gösteriyorlar. Çarşamba ve cumartesi günleri arasında açık olan okulda, eğitim üç temel bölümde veriliyor. Bunlar, Newbie başlangıç , Wild orta seviye ve Intrusion. üst seviye Hacker olabilmenin maliyetine gelince bu şimdilik biraz masraflı. Çünkü dokuz saatlik kursun bedeli 70 euro. 
+     
+     Öğrenciler şifre kırmak istiyor 
+     Ders veren hackerlar ve öğrenciler genelde adlarının açıklanması istemiyorlar. Okulda ders veren bir hacker, öğrencilerle ilgili şunları söyledi 
+     "Biz burada ağırlıkla savunma amaçlı ve sistemlerin açıklarını öğretmeye yönelik dersler veriyoruz. Ancak tüm bunlara rağmen öğrenciler bize en çok, kredi kartı şifresini nasıl kırabiliriz ’ ya da başkalarının sistemlerine nasıl girebiliriz ’ şeklinde sorular soruyor." 
+     Öğrencilerden Laurence Ifrah, "Aslında ben hacker olmak için buraya gelmedim ancak doğrusunu söylemek gerekirse bu dünyayı da merak etmiyor değilim" diyor. 
+     Adını açıklamak istemeyen öğrencilerden birisi de şöyle konuştu öBence hırsızlığı bilmeden polis olunmaz. Bizde burada öncelikle bir hacker nasıl olunur onu öğreniyoruz. Amacımız kötü değil." 
+     
+Teknoloji dünyasındaki yenilikler      Bin şarkıyı yanınızda taşıyın 
+     Bilgisayar üreticisi Aplle’ın, ilk MP3 çaları IPod, 80 CD’ye yakın müzik depolama kapasitesine sahip. 5 GB’lık müzik depolabilen IPod’da, yaklaşık olarak bin adet müzik parçası saklayabilmeniz mümkün. IPod’dan ayrıca 10 saat boyunca kesintisiz müzik dinleyebilirsiniz. IPod’un satış fiyatı 399 dolar. www.apple.com ipod 
+     
+     Nokia çocuk aksesuvarı çıkardı 
+     Nokia, Bluetooth olarak adlandırılan 10 metrelik bir yarıçap içinde elektronik ürünlerin birbirleriyle haberleşebilmesi teknolojisinde bir ilki gerçekleştirerek çocukları yakından ilgilendiren yeni bir ürün geliştirdi. Artık çocuklar da, kulaklarına takabilecekleri bu küçük ürünle, kablosuz olarak iletişim sağlayabilecekler. Yeni ürünün ağırlığı 32 gram. www.nokia.com 
+     
+     Normalden yüzde 75 daha küçük 
+     Compaq, yeni ürünü EVO Ultra Slim masaüstü bilgisayarı, dünya pazarına sunmadan önce Türkiye’de piyasaya sundu. Bu ürün, normal PC boyutlarından yüzde 75 daha küçük ve 5 kilogram ağırlığı ile oldukça hafif. Yeni ürün hem dikey hem de masaüstü olarak kullanılması, diğer PC’lere göre daha az sesle çalışmasıyla da dikkat çekiyor. www.compaq.com.tr 
+     
+     Oyun arkadaşınızı siz seçin 
+     İnternette yüzlerce oyun hakkında bilgi alabileceğiniz, kendinize oyun arkadaşı bulabileceğiniz ve online oyun oynayabileceğiniz birçok site var. Bunlar arasında www.merlininkazani.com sitesi tam anlamıyla bir online oyun dergisi. Sanal ortamda ilginizi çekecek diğer internet siteleri ise şunlar 
+     
+     www.primeart.net 3dpark 
+     www.gametemple.net 
+     www.merlininkazani.com 
+     www.pctherapy.org 
+     www.trgamer.com 
+     www.gametr.com 
+     www.vezzy.com oyun 
+     http oyuncu.gametr.com 
+     http oyunsitesi.gen.tr 
+     
+
+
+
+ EKONOMİ 
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

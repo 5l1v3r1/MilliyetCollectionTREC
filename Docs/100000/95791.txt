@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> 95791 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/07/15/son/sondun14.html </URL>
+<DATE> 2002/07/15/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hackerlar internet sansürü uygulayan ülkelere saldırı kararı aldı 
+</HEADLINE>
+<TEXT>
+
+     Kendilerine ''Hactivismo'' adını veren bir grup uluslararası hacker bilgisayar korsanı , internete sansür koyan Çin ve Ortadoğu ülkelerini hedef almayı kararlaştırdıklarını açıkladılar. Bu yolda hazırladıkları planı resmen duyuran hacker'lar arasında dünyanın en iyi bilgisayar korsanları da bulunuyor. 
+     Hacker'lar, isteyenlere ücretsiz olarak iletilecek özel bir yazılımla gizli bilgilerin internete konulan fotoğraflar içine gizlenmesine de zemin hazırladılar. Hactivismo'nun hazırladığı programın adının Utangaç kamera ''Camera shy'' olduğu belirtildi. Bu yazılım kullanılarak internete konluan fotoğrafların polisiye metodlarla denetlenemediği bildirildi. Hactivismo, ''Camera shy'' programının kendi sitesinden ücretsiz olarak indirilebileceğini ve derhal kullanılabileceğini de açıkladı. 
+     
+     GÖRÜNMEZ AĞ 
+     Uluslararası alanda çok iyi tanınan ''Mixter'' adlı Alman bilgisayar korsanı, ''Hactivismo'nun önümüzdeki haftalarda yeni bir program daha açıklayacağını ve bu teknoloji kullanılarak oluşturulacak internet ağları aracılığıyla hiçbir iz bırakmadan bilgi alış-verisi yapilabileceğini'' duyurdu. 
+     Hactivismo'nun planının, dünyanın önde gelen hacker'larının katıldığı ''H2K2'' adlı kongrede açıklandığı bildirildi. Hacker'ların iki yılda bir yaptıkları kongrelere, dünyanın dört bir yanından gelen hacker'lar ile 2.000 dolayında bilgisayar güvenlik uzmanının katıldığı belirtiliyor. 
+     
+     NASIL OLACAK 
+     Uzmanların belirttiğine göre, Mixter tarafından hazırlanan ve kısaca ''protokol'' olarak bilinen yazılım, kısa adı VPN olan ''sanal özel şebeke'' oluşturulmasına olanak veriyor. VPN'lerin şimdiye kadar hükümetler ve büyük şirketler tarafından güvenlikli internet ağları oluşturmak amacıyla kullanıldığı ifade edildi. Bu ağlar, genel internet şebekesinin dışında işliyor ve normal internet kullanıcıları buralara erişemiyor. 
+     
+     SANSÜRCÜ 20 DEVLET VAR 
+     Mixter, ''hazırladığı programın kullanılması durumunda, ulusal ateş duvarları engeline takılma tehlikesi kalmadığını'' da söyledi. 
+     Ateş duvarı olarak adlandırılan programlar, kullanıcıların, yasaklanmış sitelere ya da internetin belli alanlarına girmelerini engelliyor. Sayıları 20'yi bulan sansürcü devletlerin, vatandaşlarının internete ulaşmalarını bu yolla engelledikleri bildirildi. 
+     
+     EL KAİDE'NİN ELİNE GECERSE... 
+     Ancak geliştirilen bu yeni teknolojinin örgütlü suç çeteleri, çocuk pornografisi alanında çalışanlar, hatta Usame bin Ladin gibi teroristler tarafından kullanılması tehlikesi var. El Kaide örgütünün, bu teknolojiyi kullanarak dünya çapında saldırılar düzenlemesinden de korkuluyor. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

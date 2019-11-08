@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 232368 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/17/son/sontur12.html </URL>
+<DATE> 2004/04/17/ </DATE>
+<TIME> 13.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Konya'da Telekom'un fiber optik kablolarına sabotaj 
+</HEADLINE>
+<TEXT>
+
+     Konya İl Telekom Müdürü Ahmet Uslu, kimliği belirsiz kişiler tarafından Konya ve ilçelerinde fiber optik kablolarının kesildiğini söyledi. 
+     Uslu, AA muhabirine yaptığı açıklamada fiber optik kablolarının şehirlerarası ve santrallerarası muhabereyi sağlayan bir ana haberleşme kablosu olduğunu ifade etti. 
+     Bu kabloların zarar görmesi halinde tamir için mikroskopla ve saatler süren bir çalışma yapmak zorunda kaldıklarını anlatan Uslu, bunun da hem zaman hem de işgücü israfına yol açtığını kaydetti. 
+     Konya'nın Derebucak, Beyşehir ve Güneysınır İlçeleri ile çok sayıda beldede fiber optik kablolarının 28 Mart yerel Seçimleri'nin olduğu gün ve sonrasında kimliği belirsiz kişiler tarafından birkaç kez arka arkaya kesildiğini belirten Uslu, ''Kaymakamlıklara, kolluk hizmeti gören birimlere ve diğer yetkili kurumlara durumu bildirmemize rağmen bir netice alamadık. Bu kabloların ne amaçla sistemli bir şekilde kesildiğini de çözemedik'' dedi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 160740 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/03/son/sondun03.html </URL>
+<DATE> 2003/06/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türk bilgisayar yazılım şirketinin büyük başarısı... 
+</HEADLINE>
+<TEXT>
+
+     Türk bilgisayar yazılım şirketi Cybersoft, ''İnternet Vergi Dairesi'' projesiyle, Amerikan Uzay ve Havacılık Dairesi NASA gibi güçlü rakiplerini geride bırakarak birinci oldu ve ''bilgisayar dünyasının Oskarı'' kabul edilen Computerworld Honors'ın 21. yüzyıl başarı ödülünü kazandı. 
+     ''Cumhuriyet tarihinin en büyük kamu projesi'' olarak adlandırılan, Cybersoft firmasının geliştirdiği ''Vergi Dairesi Tam Otomasyon Projesi'' VEDOP , uluslararası jüri tarafından Computerworld Honors yarışmasında, kar amacı gütmeyen organizasyonlar kategorisinde, finale kalan beş firma arasına girmişti. 
+     Cybersoft, Washington'da düzenlenen ödül töreninde, yarışmada en büyük rakibi olarak gördüğü NASA'nın projesini de geride bırakarak birinci olurken, şirket adına ödülü Cybersoft bilgisayar mühendislerinden Yenal Göğebakan aldı. 
+     Yarışmaya dünyanın 33 ülkesinden 313 proje katılıyordu. Maliye Bakanlığı Gelirler Genel Müdürlüğü'nün desteklediği proje, vergi mükelleflerinin, vergi dairesini ziyaret etmeden internet üzerinden beyanname doldurmasını sağlayacak. 
+     
+     PROJE, SEKTÖRÜN ''ATATÜRK BARAJI'' 
+     Cybersoft proje yöneticisi Hasan Turgut da, ''İlk defa bir Türk yazılım firması, uluslararası organizasyonda başarıyla temsil edilmiş oluyor. Türkiye'deki teknoloji firmalarından biriyiz. Maliye Bakanlığı'nın desteklediği bu projeyle beraber, Türkiye'de bu sektörde Atatürk Barajı sayılabilecek bir proje ortaya koyduk. Vergi mükelleflerinin yararına yönelik en önemli adımlardan birisi'' dedi. 
+     Turgut, ''Mükellefler artık beyannamelerini internetten verebilecek. 2.5 milyon mükellef, senede ortalama 30 kere vergi dairesine gelmekten kurtulacak. Ödemelerini de banka kanalıyla internetten yaptığı zaman, ciddi anlamda kişilerin üzerinde bir iş yükü azalması olacak. Böylece devlet de, vergi yükümlülüğünden kaçan veya zamanında yapmayanlara odaklanabilecek'' diye konuştu. 
+     Cybersoft ile çalışan Sybase şirketinin Genel Müdürü Levent Şensezgin de, Türk şirketinin aday gösterilmesinin bile başarı olduğunu, en son beş şirket olarak finale kalmasından sevinç duyduklarını ve birinciliği hak ettiklerine inandığını söyledi. 
+     Şensezgin, projenin 1998'de ihalesinin yapıldığını ve 1999 sonundan itibaren üretimle hayata geçtiğini, şu anda 1 vergi dairesinde 10 binin üzerinde yerel kullanıcısı bulunduğunu kaydetti. 
+     Proje, yılda yaklaşık 70 milyon beyanname ve bildirim formunun sisteme otomatik aktarılmasıyla, vergi dairelerinde veri giriş yükünün azalmasını ve 6 bin ton kağıt tasarrufunu da sağlayacak. 
+     İnternet Vergi Dairesi'ne, www.gelirler.gov.tr adresinden erişilebiliyor. Bu sitede sunulan servislerle, mükellefler vergi dairelerine gitmeden, kendilerine ilişkin bilgileri ve adlarına yapılan işlemleri, saydamlıkla izleyebilme ve denetleyebilme imkanına da sahip oluyor. Ayrıca bu siteden mükellefler, özel tüketim vergi bildirimlerini de elektronik ortamda verebiliyor. 
+     Vergi mahremiyetinin gerektirdiği en üst düzeyde güvenlik önlemleri, Cybersoft tarafından hazırlanan, merkezi kullanıcı tanıma ve yetkilendirme sistemi sayesinde sağlanıyor. 
+     Computerworld Honors programı, 1988 yılından bu yana, önde gelen bilgisayar şirketlerinin çalışanlarıyla, dünya çapında üniversite, kütüphane ve araştırma kurumlarını biraraya getiriyor. 
+     Program, küresel enformasyon teknolojileri devrimini belgeleyebilmek ve bu devrimin öncülüğünü yapan kişi, kurum ve kuruluşları belirlemek amacını taşıyor. 15 yıldan bu yana, 35 ülkeden gelen 4 binin üzerinde başarılı projeye ait bilgiler, akademisyenler ve problemlerine çözüm arayan her boyuttaki firma ve kuruluşların kullanımına sunuluyor. 
+     Sektörün tanınmış uluslararası jürisi, projeleri seçerken, topluma katkısı, orijinalliği, enformasyon teknolojileri için önemi, başarısı ve zorluk derecesi gibi kriterleri dikkate alıyor. 
+     
+</TEXT>
+</DOC>

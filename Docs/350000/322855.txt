@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 322855 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/11/son/soneko19.html </URL>
+<DATE> 2005/03/11/ </DATE>
+<TIME> 11.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternet dolandırıcılarından kredi kartı sahiplerine tuzak .. 
+</HEADLINE>
+<TEXT>
+
+     İnternet aracılığıyla kişilerin banka hesabı ve kredi kartı şifre bilgilerine ulaşmak için çeşitli yollar deneyen dolandırıcılar, aralarında Türkiye Cumhuriyet Merkez Bankası'nın TCMB da yer aldığı bankaların adını kullanarak, kişilerden bu bilgileri e-posta yoluyla temin etmeye çalışıyor. 
+     Son günlerde kamuoyunda kredi kartı faizlerinin yüksekliğinden kaynaklanan şikayetleri yeni bir fırsat olarak değerlendiren ''e-hırsızlar'', kişilerin kredi kartı numaraları ve şifrelerini elde edebilmek için TCMB logosunu da kullanarak e-posta göndermeye başladı. 
+     Gelen sahte e-postalarda, ''TCMB'' adı ve logosu altında, vatandaşlardan kredi kartı faizlerinde yapılacak yeni düzenlemeden yararlanabilmeleri için formda yer alan bilgilerin doldurulması şu şekilde isteniyor ''Bankalar Birliği kararı ile Akbank, Garanti Bankası, Finansbank, HSBC, Koçbank, Kuveytturk ve Yapı Kredi bankalarının kabul ettiği sözleşmeye göre kredi faiz oranlarının tekrar düzenlenmesine ve kredi kartı sahiplerinin zor duruma düşmemesi için bilgi güncellemesi yapılmasına karar verilmiştir. Yapılan bilgi güncellemesi sonucunda faiz oranları tekrar düzenlenerek kredi kartı mağdurluğunun biraz olsun önüne geçilmesi planlanmıştır. 
+     Lütfen formda yer alan bankalar arasından çalıştığınız bankayı seçerek eksiksiz doldurunuz. Müşteri no, Parola, 2. Güvenlik şifrenizi bilmiyorsanız boş bırakabilirsiniz. Boş bıraktığınız takdirde bankamız yetkilileri size verdiğiniz telefon numarası ile ulaşarak bilgi teyidi alacaklardır.'' 
+     
+     YOĞUNLUK TUZAĞI VE UYARI 
+
+     Daha sonra vatandaşın güvenini kazanmak için iki ayrı link adresi sunuluyor. 
+     Link olarak önce TCMB'nin ''www.tcmb.gov.tr'' adresli resmi web sitesi adresi üzerinden başarısız sonuçlanacak bir uzantıya yer veriliyor. 
+     Ardından vatandaşlar, ''bazen sistemdeki yoğunluk sebebiyle link çalışmayabilir. Eğer yukarıdaki link çalışmıyorsa lütfen aşağıdaki linki kullanınız'' uyarısıyla kendi sitelerine web adreslerinin ''IP'' numarasıyla yönlendiriliyorlar. 
+     
+     MERKEZ BANKASI'NDAN UYARI 
+
+     TCMB ise bu tür dolandırıcılık girişimleri konusunda ilgilileri sürekli uyarıyor. 
+     TCMB'nin internet sitesinde yer alan duyurularında, daha önce YTL işlemleri adı altında da benzer girişimlerde bulunulduğu hatırlatılarak, şunlar kaydedildi 
+     ''Yine aynı yöntemle ve bankamız logosu da kullanılarak, sözde Merkez Bankası Genel Güncelleme Formu başlığıyla gönderilen bir sahte e-posta mesajında yer alan bağlantı adresinden giriş yapılması istenmekte ve bankamızla hiçbir ilgisi olmayan bir web adresine yönlendirme yapılmaktadır. E-posta yoluyla web adreslerine yönlendirilen ve kişisel bilgilerinizin girilmesinin istendiği formların asla doldurulmaması gerektiğini bir kez daha önemle hatırlatırız.'' 
+
+     
+</TEXT>
+</DOC>

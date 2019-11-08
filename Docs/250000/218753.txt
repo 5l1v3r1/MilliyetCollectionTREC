@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 218753 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/29/son/soneko13.html </URL>
+<DATE> 2004/02/29/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Radar sistemleri Avrupa standartlarına kavuşturuldu... 
+</HEADLINE>
+<TEXT>
+
+     Türkiye'nin hava sahasının etkinliği ve güvenilirliğini sağlamak amacı ile İtalyan firması tarafından kurulması öngörülen kilit havaalanlarının radar sistemlerinin yedeklenmesi ile ilgili çalışmalar tamamlandı. 
+     Bu çerçevede Türkiye'nin hava trafik yükünün büyük bölümünü çeken Ankara, İstanbul ve Yalova'ya ikincil yedek radarların kurulması ve güçlendirilmesi projesi tamamlandı. İlgili cihazlar havaalanlarına getirilerek hizmete hazır hale getirildi. 
+     DHMİ Genel Müdürlüğü, ayrıca Bodrum havaalanına da birincil ve ikincil yedek radarlarla güçlendiren sistemin de aynı proje çerçevesinde tamamlandığını bildirdi. Havaalanlarına konuşlandırılan radarların tüm radyolink hizmetleri Türktelekom tarafından gerçekleştirildi. 
+     Alenia-Marconi firma grubu tarafından uygulamaya alınan proje kapsamında Ankara ve İstanbul'a birincil radar, Yalova'ya ise ikincil radar yerleştirildi. Bu sistemlerle Türkiye'nin havayolu trafiğinin büyük yükünü çeken Ankara, İstanbul ve Yalova ekseninde zaman zaman yaşanan olumsuzluklar da artık büyük ölçüde giderilmiş olacak. 
+     Avrupa hava sahasının uçuş emniyetinden sorumlu kuruluşu olan EUROCONTROL'un isteği doğrultusunda uygulamaya alınan radarların yedekli olarak çalıştırılması sureti ile herhangi bir havaalanındaki radarın arıza yapması halinde diğeri kesintisiz olarak uçuş harekatını yürütebilecek tarzda konuşlandırılacak. Bu doğrultuda Ankara radar sistemlerinde yaşanacak bir olumsuzluğu İstanbul'daki radar sistemleri beslerken, aynı şekilde Ankara havaalanı radar sistemleri de İstanbul'a gerekli ortamlarda destek sağlayacak. Yalova'ya kurulan yeni radar sistemi gerektiğinde her iki hava radar sistemlerini de destekleyebilecek. 
+     
+     YUNANİSTAN'A RADAR DESTEĞİ 
+     Bu arada Türk hava sahasının uçuş emniyeti ve güvenliğini sağlamak amacı ile uygulanan proje Yunanistan'ın bu yıl içinde evsahipliği yapacağı Olimpiyatlara da önemli bir katkı sağlayacak. 
+     2004 yılı Olimpiyatları nedeni ile dünyanın bir çok ülkesinden Türk hava sahasını kullanarak Yunanistan'a gelecek olan çok sayıda havayolu şirketinin kurulan yeni radar sistemleri ile daha güvenli bir havacılık hizmeti yapılabileceği de yetkililerce ifade ediliyor. 
+     
+</TEXT>
+</DOC>

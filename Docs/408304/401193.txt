@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 401193 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/07/ekonomi/eko08.html </URL>
+<DATE> 2005/12/07/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kablolu internet bağlantısında indirim 
+</HEADLINE>
+<TEXT>
+
+
+
+Kablo TV şebekesi üzerinden verilen internet bağlantı ücretlerinde hem indirim yapıldı, hem de aylık limitleri sınırsız hale getirildi. Özelleştirmede Türk Telekom'dan ayrılan Türksat şirketinin yönettiği Kablo TV hizmetlerinde tarifeler yeniden düzenlendi. 
+Buna göre, 128K bağlantı hızının aylık ücreti 36 YTL'den 20 YTL'ye, 256K'nın aylık ücreti 49 YTL'den 36 YTL'ye, 512K'nın ise 99 YTL'den 72 YTL'ye düştü. 
+Bağlantı ücreti ise tüm kapasitelerde 37 YTL'den 30 YTL'ye indi. Böylelikle, 12 ilde verilen 'kablolu internet', Telekom'un ADSL hizmetine ciddi rakip olmuş oldu. 
+
+
+</TEXT>
+</DOC>

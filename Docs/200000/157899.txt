@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 157899 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/21/dunya/dun01.html </URL>
+<DATE> 2003/05/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Teröristi yürüyüşü ele verecek 
+</HEADLINE>
+<TEXT>
+
+     DIŞ HABERLER SERVİSİ 
+
+     ABD Savunma Bakanlığı Pentagon , tehdit unsuru oluşturabilecek kişileri 182 metre mesafeden ve yürüyüşlerinden tanıyacak bir radar sistemi geliştiriyor. Sistemin temelinde, herkesin yürüyüşünün kendine has özellikleri bulunduğu hatta bunun birer "imza" niteliğinde olduğu teorisi yatıyor. 
+     Savunma İleri Araştırma Projeleri Dairesi'nin DARPA , özlük hakları konusunda tartışma yaratan 'Toplu İstihbarat Değerlendirme' TIA adlı gözetleme projesinin bir parçası alarak kullanılması planlanan sistem, Georgia Teknoloji Enstitüsü'nde üç yıldır geliştirilme aşamasında. Sistemin mantığı şu Yürüyüşüyle bir kez kayda geçen şahıs aynı mek na bir kez daha geldiğinde sistem bu şahsı yürüyüşünden tanıyor ve mek na geldiğini saptıyor. Örneğin bu mek n bir büyükelçilikse, aynı şahsın bina çevresinde hangi zamanlarda geldiği otomatik olarak belirleniyor ve bu durum şüphe uyandıracak nitelikteyse şahıs izlemeye alınıyor. 
+     Denemelerde, sistemin insanları teşhis etmekte yüzde 80 ile yüzde 95 arasında başarılı olduğu belirtildi. 
+     Araştırmanın başında bulunan Gene Greneker'a göre, kameraların aksine kötü ve karanlık havalarda hatta kişinin bacakları kumaşlarla sarmalanmış olsa bile algılama imk nı tanıyan radar sistemiyle, çeşitli hız ve kombinasyonlar içinde, bacak, kol ve vücuttan gelen küçük frekans değişiklikleri bile teşhis edilebiliyor. Sistem 182 metrelik bir menzilde başarı sağlamış bulunuyor. 
+     Sistem sayesinde çantalarında bomba gibi ağır bir yük taşıyan kişiler de algılanabilecek. 
+     
+
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 216077 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/18/son/sontur28.html </URL>
+<DATE> 2004/02/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Depremi 8 saniye önceden haber veren cihaz... 
+</HEADLINE>
+<TEXT>
+
+     Almanya'nın SLP Elektronik Şirketi tarafından üretilen deprem uyarı cihazı, Gölcük Belediyesi'nde tanıtıldı. 
+     Almanya'da elektronik şirketi bulunan ve cihazı pazarlayan Kaan Bozdemir, Gölcük Belediye Başkanı İsmail Barış'ın makamında, ''Life Pro Tec System'' adlı uyarı cihazını tanıttı. 
+     Bozdemir, patentli cihazın bilim adamlarınca denendiğini ifade ederek, cihazın binaya kolaylıkla takılabileceğini söyledi. 50 santimetre boyundaki cihazın, 5.2 şiddetinin üzerinde sarsıntılarda siren sesiyle uyarıda bulunduğunu belirten Bozdemir, cihazın elektrik, gaz ve su şebekesini kesebilen 3 ayrı fonksiyonu bulunduğunu da belirtti. 
+     Cihazın, depremin merkez üssüne 40 kilometre uzaklıkta 8 saniye, 80 kilometrede 16, 120 kilometrede 24 saniye ve 160 kilometre uzaklıkta da 32 saniye önceden uyarıda bulunduğunu anlatan Bozdemir, şunları söyledi 
+     ''İnsanların algılamasının çok zor olduğu deprem dalgalarını algılayabilen cihaz, 105 desibel gücünde ses alarmı verir, elektrik kesintisi halinde 96 saat boyunca çalışmaya devam eder.'' Bozdemir, cihazın toplam maliyetinin 1500 euro olduğunu da kaydetti. 
+     Gölcük Belediye Başkanı İsmail Barış ise yaşadıkları deprem sonrası dünyadaki tüm teknolojiyi takip etmeye başladıklarını ve cihazı araştırıp yararlı olacağına inandıkları taktirde cihazı vatandaşlara önereceklerini söyledi. 
+     
+</TEXT>
+</DOC>

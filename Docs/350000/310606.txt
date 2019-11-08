@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 310606 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/29/son/sontur37.html </URL>
+<DATE> 2005/01/29/ </DATE>
+<TIME> 19.22 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kopan internet kablosu onarılamıyor... 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekom, İstanbul-İtalya arasındaki denizaltı kablosunda onarım çalışmalarının olumsuz hava koşulları nedeniyle uzadığını ve kablonun tamir çalışmalarının devam ettiğini bildirdi. 
+     Türk Telekom'dan yapılan yazılı açıklamada, İstanbul-İtalya arasındaki MEDTÜRK denizaltı kablo sisteminde 16 Ocak'ta kopma meydana geldiği hatırlatıldı. 
+     Açıklamada, denizaltı kablo sisteminde meydana gelen kopmanın ardından yürütülen çalışmalar sonucunda Türk Telekom'un yurtdışı internet kapasitesinin, bugün itibariyle 6.9 Gbps'e ulaştığı belirtildi. 
+     Türk Telekom'un, günün en yoğun saatlerinde karşılaştığı maksimum 7 Gbps'lik kapasite ihtiyacının yaklaşık yüzde 100'ünün karşılandığı vurgulanan açıklamada, MEDTÜRK kablosundaki onarım çalışmasının, denizdeki olumsuz hava koşulları nedeniyle uzadığı, kablonun tamir çalışmalarının devam ettiği kaydedildi. 
+     
+</TEXT>
+</DOC>

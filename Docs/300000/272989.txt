@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 272989 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/18/son/sonyas01.html </URL>
+<DATE> 2004/09/18/ </DATE>
+<TIME> 09.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türk bilim adamının büyük başarısı... 
+</HEADLINE>
+<TEXT>
+
+     ABD'de bir Türk bilim adamı klasik mantık kurallarını altüst eden, ancak teknoloji ve üretim alanında paradigmaları değiştirerek, yeni çığır açacak bir buluşa imza attı. 
+     ABD'nin Connecticut Üniversitesi Makine Mühendisliği Bölümü öğretim üyelerinden Prof. Nejat Olgaç'ın, doktora öğrencisi Rıfat Sipahi ile çalışmaları sonucunda yaptığı ''gecikmeli sistemlerin stabilizasyonu'' adlı icadın, başta bilgisayar olmak üzere, savunma ve üretim makineleri teknolojilerinde büyük yeniliklere yol açacağı kaydedildi. 
+     
+</TEXT>
+</DOC>

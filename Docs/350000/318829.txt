@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 318829 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/26/son/soneko02.html </URL>
+<DATE> 2005/02/26/ </DATE>
+<TIME> 09.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD'de bankacılık skandalı... 
+</HEADLINE>
+<TEXT>
+
+     ABD'de faaliyet gösteren Bank of America isimli banka, aralarında bazı Senato üyelerinin de bulunduğu 1,2 milyon federal personele ait kişişel bilgileri içeren bilgisayar kayıtlarını kaybettiğini duyurdu. 
+     Kaybedilen kayıtlar arasında kimlik hırsızlarının ilgi alanına giren ABD'deki en önemli kimlik aracı durumundaki Sosyal Güvenlik numaraları ve banka hesap bilgilerinin de bulunduğu kaydedildi. 
+     Olaydan dolayı müşterilerinden banka adına özür dileyen Bank of America'nın teknoloji hizmetleri sorumlusu Barbara Desoer, yaptığı açıklamada, ''Müşteri bilgilerinin mahremiyeti Bank of America'nın en öncelik verdiği konudur ve bu mahremiyeti korumak konusundaki sorumluluğumuzu çok ciddiye alıyoruz'' dedi. 
+     Kaybolan kayıtlarda şahsi bilgileri bulunan müşterilerine birer mektup göndereceği açıklanan bankanın, bu amaçla yüz binlerce mektubu postaya vermesinin beklendiği kaydedildi. Bu arada, kayıtlarda 1,2 milyon hesaba dair bilgiler olmasına rağmen bazı müşterilerin birden fazla hesabının bulunabileceği için gönderilecek mektup sayısının hesap sayısınca olmayabileceği ifade edildi. 
+     Şahsi bilgilerin çalınması dolayısıyla şirketlerin müşterilerine gönderdikleri mektupların son zamanlarda Amerikan posta hizmetlerini oldukça meşgul eder hale gediği belirtilirken, geçen hafta ChoicePoint isimli bir şirketin aynı sebepten dolayı müşterilerine 145 bin mektup göndermek durumunda kaldığı kaydediliyor. 
+     
+</TEXT>
+</DOC>

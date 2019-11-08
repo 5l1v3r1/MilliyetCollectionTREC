@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 106812 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/09/10/son/sontur06.html </URL>
+<DATE> 2002/09/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ÖSS'de bu yıl Matematik soruları öğrencileri yakacak... 
+</HEADLINE>
+<TEXT>
+
+     Öğrenci Seçme Sınavı ÖSS puanlama sisteminde yapılan değişikliklerden en önemlisi olan matematik sorularının katsayı oranının arttırılması, bu soru türüyle arası iyi olmayan öğrencilerinin sınavda "ecel terleri" dökmesine neden olacak. Öğrenciler, bu yılki ÖSS'de 45 matematik sorusunda ancak 9 doğru yanıt ortalamasını tutturabilmişti. 
+     Öğrenci Seçme ve Yerleştirme Merkezi'nin ÖSYM , ÖSS puanlama sisteminde yaptığı değişiklikler arasında öğrencileri ilgilendiren en önemli nokta matematik sorularının ağırlığının arttırılması oldu. Yeni puanlamada, matematiğin tüm puan türlerinin hesaplanmasında katsayısı oranı yükseltilirken, özellikle ÖSS-SAY ve ÖSS-EA puan türlerinden sınava girecek öğrenciler bu puan türlerinin diğer sorularına göre daha fazla önem vermek zorunda kalacak. Sayısal öğrenciler için matematiğin katsayısı 1.1'e yükseltilirken, fen sorularının katsayısı 0.7'ye indirildi. 
+     ÖSS-EA puan türünde de Türkçe ve sosyal bilimler sorularının katsayısı değişmezken, fen sorularının önemi azaltılarak matematiğe ekleme yapıldı. Eski sistemde 0.3 olan fen sorularının çarpılacağı katsayı 0.1'e indirildi, matematik sorularının katsayısı ise 1'e yükseltildi. Buna göre 10 fen sorusu 1 matematik sorusuna denk gelecek. 
+     
+     KORKU OLAN MATEMATİK KABUS OLUYOR 
+     Derslere ve sorulara ezbere değil de daha sorgulayıcı bir yaklaşımla yönelinmesi amacıyla gerçekleştirilen matematik sorularının ağırlığının arttırılması öğrenciler açısından ise "daha fazla terleme" anlamına geliyor. Geçen yıllardaki merkezi sınav istatistikleri öğrencilerin en az doğru yanıtı matematik sorularına verdiğini gösteriyor. Bu yılki Ortaöğretim Kurumları Öğrenci Seçme ve Yerleştirme Sınavı'nda OKÖSYS ise yöneltilen 25 matematik sorusunda öğrenciler 3 doğru yanıt ortalaması tutturdu. ÖSS'de ise 45 matematik sorusunda ancak 9 doğru yanıt ortalaması kaydedildi. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

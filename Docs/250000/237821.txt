@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 237821 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/06/son/soneko45.html </URL>
+<DATE> 2004/05/06/ </DATE>
+<TIME> 16.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     New York Menkul Kıymetler Borsası, açılışta değer kaybetti. 
+     Dow Jones endeksi, 38.54 puan yüzde 0.37 değer kaybederek 10,272.41 puana düştü. 
+     Standard and Poor's 500 endeksi 4.06 puan yüzde 0.36 , Nasdaq Bileşik Endeksi de 13.19 puan yüzde 0.67 gerilediler. 
+     Borsanın değer kaybetmesinde, ABD Merkez Bankası Başkanı Alan Greenspan'in, Amerika'nın yükselen bütçe açığının, uzun dönemli ekonomik istikrarın önünde büyük engel olduğuna dair açıklaması ile uluslararası ham petrol fiyatlarındaki yükseliş etkili oldu. 
+     
+</TEXT>
+</DOC>

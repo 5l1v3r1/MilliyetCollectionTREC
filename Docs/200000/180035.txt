@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 180035 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/03/son/soneko33.html </URL>
+<DATE> 2003/09/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa günü 35 puanlık artışla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Bileşik Endeksi 2. seansta 53.03 puan yükselerek, 11,671.78 puandan kapandı. 
+     Hisse senetleri ortalama yüzde 0.46 oranında değer kazandı. 
+     İlk seanstaki 18.34 puanlık kayıp dikkate alındığında, borsa endeksi günün tamamında 34.69 puan yükseldi. 
+     Hisse senetlerindeki günlük değer artışı ise yüzde 0.30 oldu. 
+     Endeks, 2. seansa 2.84 puanlık kayıpla 11,615.91 puan seviyesinde başladı. İlk yarıyı 11,636.60 puandan geçen endeks, seans içinde en düşük 11,605.81, en yüksek 11,680.79 puanı gördü. 
+     Kapanışta mali endeks 90.26 puan artışla 14,273.91 puana, sanayi endeksi 5.33 puan artışla 11,537.00 puana, hizmetler endeksi 1.09 puan artışla 7,379.51 puana yükseldi. 
+     Böylece ilk seansa göre mali grup hisseler ortalama yüzde 0.64, sanayi grubu hisseler ortalama yüzde 0.05, hizmetler grubu hisseler ortalama yüzde 1.09 değer kazandı. 
+     2. seansta işlem gören toplam 292 hisse senedinden 111'i değer kazandı, 82'si değer kaybetti, 99'unun fiyatında değişiklik olmadı. 
+     Seansta, 130 trilyon 645 milyar 683 milyon liralık işlem hacmi kaydedildi. İki seans toplamında ise 235 trilyon 666 milyar 524 milyon liralık işlem hacmi oluştu. 
+     2. seansta İş Finansal Kiralama, İhlas Holding, İş Bankası C , Akbank ve Sabancı Holding en yoğun işlem gören hisse senetleri olarak belirlendi. 
+     
+</TEXT>
+</DOC>

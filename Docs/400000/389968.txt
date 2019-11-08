@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 389968 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/26/son/sonyas11.html </URL>
+<DATE> 2005/10/26/ </DATE>
+<TIME> 10.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Antik tiyatrolar, akustik ses kalitesinde çağdaş tiyatrolara fark attı 
+</HEADLINE>
+<TEXT>
+
+     Antalya'daki Aspendos, Perge ve Termessos antik tiyatrolarında yapılan araştırma, günümüzdeki birçok tiyatronun, antik çağdaki amfitiyatroların akustik ses kalitesini yakalayamadığını ortaya çıkardı. 
+     Gazi Üniversitesi Mühendislik-Mimarlık Fakültesi'nden Doç. Dr. Demet Irklı Eryıldız, AA muhabirine yaptığı açıklamada, ''Antik Tiyatroların Akustik Özellikleri Bilgisayar Benzetimi ve Ölçümler'' başlıklı araştırmasında, Antalya'daki Aspendos, Perge ve Termessos antik tiyatrolarının akustik özelliklerini, geometrik oda akustiği yaklaşımıyla incelediğini kaydetti. 
+     Bilgisayar destekli ölçüm kayıtları için tiyatroların belirlenen noktalarında patlayıcı bir ses kaynağı kullanıldığını ifade eden Eryıldız, iki yıl üst üste gerçekleştirilen ölçümlerin kayda alındığını vurguladı. 
+     Eryıldız, şunları söyledi 
+     'Kayıtların değerlendirmesinde antik tiyatroların mükemmel geometrilerinin ve bulundukları konumlarının eğimlendirilmiş olmasının, akustikleri üzerinde olumlu rol oynadığı kanıtlandı. Sahne arka duvarının ve yansıtıcı orkestra yüzeyinin akustik performansları üzerindeki önemi de ortaya çıktı. Ancak aynı bölgedeki çağdaş açık hava tiyatrolarına bakıldığında, geçmişten ders alınmadığı ve bunun da tasarımlarına ve bu tasarımın sonucu olan akustiklerine olumsuz yansıdığı gözlemlenmekte. Yeni yapılacak açık hava tiyatrolarında, antik tiyatro tasarım geleneğinden mimari ve akustik tasarım ilkeleri açılarından yararlanılması önerilmektedir.'' 
+     
+     'AKUSTİK MÜKEMMELLİK' 
+     Demet Irklı Eryıldız, üç antik tiyatroda yakalanan ''akustik mükemmelliğin'' ardında, eski Yunan ve devamında Roma medeniyetlerinin geometri bilgisinin yattığını kaydetti. 
+     Yunan tiyatrosunda seçilen dairesel formun, sesi en kısa mesafede izleyicilere ilettiğine dikkati çeken Eryıldız, ''Böylece tiyatronun her noktasında herhangi bir elektronik cihaza gerek olmaksızın yeterli ses seviyesi elde edilmekte'' dedi. 
+     Bölgedeki günümüz tiyatrolarında aynı başarının yakalanmamasını bu bilgiyi kullanmadaki eksikliğe bağlayan Eryıldız, sözlerini şöyle sürdürdü 
+     ''Antik çağda yakalanan başarının günümüz tiyatrolarında yakalanamamasını eğitime bağlayıp çuvaldızı kendimize batırabiliriz. Mimarlık öğrencilerine yeterince akustik öğretemiyoruz ya da bunun bilgisine ulaşma bilinci veremiyoruz. Çağdaş açık hava tiyatrolarının çoğunun, akustik özellikler düşünülerek tasarlanmadığını görüyoruz. Antalya Kaleiçi'ndeki amfitiyatroyu buna örnek gösterebiliriz. Yakın çevresinde çok sayıda antik tiyatro örneği bulunan bu tiyatronun sahne yapısı yok. Oysa sahne yapısı akustik açıdan büyük önem taşımakta.'' 
+     
+     'TERMESSOS VE PERGE, ASPENDOS'TAN DAHA İYİ' 
+     Eryıldız, Termessos ve Perge tiyatrolarının izleyicilere ses ulaşma ortalama mesafesi değerine göre yapılan sıralamada, Aspendos'tan daha iyi olduğunu vurguladı. Doç. Dr. Eryıldız, ''Bunun nedeni de ilk iki tiyatronun yarım daireyi aşan formlarıdır'' diye konuştu. 
+     Antik tiyatroların günümüz kullanımında da dikkatli olunması gerektiğine işaret eden Demet Irklı Eryıldız, çağdaş akustik donatı kullanılırken tiyatrolara zarar verilmemesine özen gösterilmesi gerektiğini kaydetti. 
+     Bu tiyatrolara kapasitesinin üzerinde izleyici alınmaması gerektiğini belirten Eryıldız, altyapısı tam olmayan tiyatrolarda büyük etkinlikler düzenlenmesinin tiyatrolara mimari açıdan zarar verebildiğini, bu tiyatrolara zarar verecek ses seviyelerine izin verilmemesi gerektiğini vurguladı. 
+     
+</TEXT>
+</DOC>

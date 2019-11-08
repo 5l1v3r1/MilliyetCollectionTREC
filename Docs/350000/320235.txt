@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 320235 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/03/yasam/yas02.html </URL>
+<DATE> 2005/03/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dünyanın en akıllı ayakkabısı 
+</HEADLINE>
+<TEXT>
+
+
+Kullanıcısının ayağına, atılan adımlara ve zeminin durumuna göre kendini ayarlayabilen dünyanın ilk bilgisayarlı ayakkabısını Adidas üretti 
+
+
+DIŞ HABERLER SERVİSİ 
+
+ADİDAS'IN ABD'deki tesislerinde yürütülen 3 yıllık gizli bir çalışmanın ürünü olan Adidas 1, önceki gün tanıtıldı. Adidas 1, ayak hareketlerini algılıyor, anlıyor ve uyum sağlıyor. Ayakkabının binlerce saat test edildiğini belirten uzmanlar, ürünün sert zeminden çamurlu yollara, kuru asfalttan ıslak kumsallara kadar her türlü ortam ve koşula dayanacak kadar sağlam olduğunu belirtiyor. 
+
+Ağırlığı 400 gram 
+YARIN İngiltere'de 175 sterlinden 427 YTL satışa sunulacak ayakkabının ağırlığı 400 gram. Ayakkabıyı 'akıllı' yapan bilgisayarlı düzenek ise sadece 40 gram ağırlığında. Adidas 1'in beynini tabanın ortasına gizlenen küçük bir işlemci oluşturuyor. Saniyede 5 milyar işlem yapabilen çip, darbe sensörü, kablolar ve manyetik sistem aracılığıyla gerekli ayarlamaları yapıyor. 
+
+
+
+</TEXT>
+</DOC>

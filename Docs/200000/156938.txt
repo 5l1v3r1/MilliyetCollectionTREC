@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 156938 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/15/son/sontur15.html </URL>
+<DATE> 2003/05/15/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Şişmanlamayı önleyen ilaç geliştiriyor... 
+</HEADLINE>
+<TEXT>
+
+     Alman bilim adamları, gelecekte insanların yediklerine dikkat etmeden formunu koruyabileceğini kaydettiler. 
+     Birçok insanın hayallerini süsleyen bu düşünce, 5-10 yıl içinde gerçek olabilecek. 
+     Leipzig Üniversitesi'nde görevli bilim adamları, ensülin hormonunun yağ dokusundaki etkisini bloke eden bir ilaç üzerinde çalışıyorlar. 
+     Bilim adamı Matthias Blüher, ''Bu ilaç, yağ dokularındaki yağ birikmesini engelleyecek'' diye konuştu. 
+     Böyle bir ilacın geliştirilmesinin hem ilaç sanayiinin, hem de tüm sağlık sektörünün ilgisini çekeceğini belirten Blüher, ilacın geliştirilmesindeki temel amacın 'manken ölçülerine ulaşmak' olmadığını söyledi. 
+     Blüher, ilacın şişmanlıktan dolayı hastalık riski taşıyan kişilerde kullanılmasının amaçlandığını kaydetti. 
+     Şeker hastalığı, kalp ve dolaşım bozuklukları ve inme gibi şişmanlığın önemli rol oynadığı hastalıkların tedavisi için yılda milyarlarca euro harcandığını ifade eden Blüher, geliştirilen ilacın iştahı azaltmadığı için piyasadaki zayıflama ilaçlarından çok farklı olduğunu vurguladı. 
+     Yapılan deneylerde, belirli bir ensülin reseptörü alıcı olmayan farelerin diğerlerine göre daha zayıf olduğunu ve daha uzun yaşadığını hatırlatan Blüher, zayıf kalabilen farelerin de diğerleri gibi çok yediğini kaydetti. 
+     
+</TEXT>
+</DOC>

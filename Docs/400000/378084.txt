@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 378084 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/13/son/soneko51.html </URL>
+<DATE> 2005/09/13/ </DATE>
+<TIME> 16.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Merkez Bankası kurları... 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası İdare Merkezi tarafından, saat 15.30'da belirlenen gösterge niteliğindeki döviz kurları şöyle 
+     
+
+DÖVİZİN CİNSİ D.ALIŞ D.SATIŞ E.ALIŞ E.SATIŞ 1 ABD Doları 1.3292 1.3356 1.3283 1.3376 1 Avustralya Doları 1.0205 1.0272 1.0158 1.0334 1 Danimarka Kronu 0.21893 0.22001 0.21878 0.22052 1 Avro 1.6326 1.6405 1.6315 1.6430 1 İngiliz Sterlini 2.4205 2.4332 2.4188 2.4368 1 İsviçre Frangı 1.0535 1.0603 1.0519 1.0619 1 İsveç Kronu 0.17445 0.17627 0.17433 0.17668 1 Kanada Doları 1.1220 1.1271 1.1178 1.1314 1 Kuveyt Dinarı 4.5136 4.5730 4.4459 4.6416 1 Norveç Kronu 0.20846 0.20987 0.20831 0.21035 1 Sud. Arb. Riyali 0.35547 0.35611 0.35280 0.35878 100 Japon Yeni 1.1975 1.2055 1.1931 1.2101      
+</TEXT>
+</DOC>

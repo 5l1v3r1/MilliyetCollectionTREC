@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 172350 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/29/son/soneko31.html </URL>
+<DATE> 2003/07/29/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Uzayda fotonik kristaller üretilecek... 
+</HEADLINE>
+<TEXT>
+
+     Japon Ulusal Uzay Geliştirme Ajansı NASDA , ticari amaçlı lazer ekipmanlarında kullanılmak üzere uzayda fotonik kristaller üretecek. 
+     ''Uzay fabrikaları'' kurulmasının ilk adımlarından biri olabilecek projeyle, Uluslararası Uzay İstasyonu'ndaki ISS düşük yerkeçikimi kuvveti şartlarının kristaller yapımında kullanımı planlanıyor. 
+     NASDA'dan bir yetkilinin Kyodo News'e açıklamasına göre, proje NASDA, optik ekipman yapımcısı Hamamatsu Photonics K.K., Nagoya Şehri Üniversitesi ve diğer katılımcılarla birlikte yürütülecek. 
+     Optik bir materyal olan üç boyutlu fotonik kristaller 2005 yılı yazından itibaren iki yıl içinde uzay istasyonunda üretilip, ticari amaçlı lazer ekipmanının ana unsuru olarak yüksek tanımlı yeniden işleme için Yeryüzü'ne geri getirilecek. 
+     
+</TEXT>
+</DOC>

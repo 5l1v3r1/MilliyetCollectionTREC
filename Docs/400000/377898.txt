@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 377898 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/12/son/sonyas12.html </URL>
+<DATE> 2005/09/12/ </DATE>
+<TIME> 12.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternetin faydaları 
+</HEADLINE>
+<TEXT>
+
+     İnternetin, üreticilere hangi ürünlerin popüler olacağını önceden tespit olanağı sağladığı bildirildi. 
+     Yeni teknolojiler konusunda araştırma yapan bir araştırmacı, Kyoto'da devam eden ''Toplumda Teknoloji ve Bilim Forumu'' adlı toplantıdaki konuşmasında, insanların interneti kullanma alışkanlıklarının incelenmesiyle neleri satın alacakları, hangi ürünlerin popüler olacağını ve bir otomobil üreticisinin kaç adet otomobil satacağının tahmin edilebileceğini belirtti. 
+     Araştırmacı konuşmasında, ''İnternet hayatımızı, iletişim kurma, ticaret ve yayın yapma, öğrenme, öğretme şeklimizi değiştirdi ve çeşitli etkinlikler yaratma ve bunları kontrol etmemizi sağladı'' dedi. 
+     Araştırmacı, internette sörf sayesinde, ''insanların alışkanlıklarını temel alan bir piyasa araştırmasıyla ve yüzde 5'lik bir hata payıyla bir üreticinin satabileceği otomobil sayısını kestirebilme olanaklarına sahip olduklarını'' söyledi. 
+     
+</TEXT>
+</DOC>

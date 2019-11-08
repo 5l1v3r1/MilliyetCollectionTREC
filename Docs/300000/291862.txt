@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 291862 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/24/son/sonyas13.html </URL>
+<DATE> 2004/11/24/ </DATE>
+<TIME> 17.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnanılmaz rekor 100 haneli sayının 13'üncü kökünü 11 saniyede bildi 
+</HEADLINE>
+<TEXT>
+
+     Batı Almanya'da Giessen kenti Matematik Müzesi'nin düzenlediği yarışmada, 38 yaşındaki bilgisayar mühendisi Gert Mittring, 100 haneli sayının 13'üncü dereceden kökünü 11,8 saniyede bularak ''dünya hesaplama rekoru'' kırdı. 
+     Müze yetkilisinin açıklamasına göre, Mittring, 1988'de Fransız Alexis Lemaire'e ait ''100 rakam virtüözitesi''ni 1,85 saniye farkla geçmiş oldu. Lemaire, benzer hesabı 13,55 saniyede yapmıştı. 
+     
+</TEXT>
+</DOC>

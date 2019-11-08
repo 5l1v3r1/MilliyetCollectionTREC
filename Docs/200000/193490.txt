@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> 193490 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/05/son/soneko04.html </URL>
+<DATE> 2003/11/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türkiye teknolojide 49. sırada... 
+</HEADLINE>
+<TEXT>
+
+     BM tarafından yapılan bir araştırma, Türkiye'nin teknoloji ve bilişim enformatik alanında 173 ülke arasında 49. sırada olduğunu ortaya koydu. 
+     Enformasyon ve iletişim teknolojisine ayrılan ikinci ''Dünya Kamu Sektörü Raporuna'' göre Türkiye, kısaca ''e-government'' olarak adlandırılan ''2003 elektronik hükümet hazırlık endeksinde'', 173 ülke arasında 49. sırada yer aldı. 
+     BM raporuna göre Türkiye'de her bin kişiye 40.7 bilgisayar düşüyor ve her bin kişiden ise sadece 72.8'i internete girebiliyor. Her bin kişi için 281.2 telefonun bulunduğu Türkiye'de, yine her bin kişiden 347.5'unun cep telefonu var. Bin kişiye düşen televizyon sayısı ise 449. 
+     
+     TÜRKİYE'NİN YERİ 
+     Türkiye ''2003 elektronik hükümet hazırlık endeksinde'', 51. sıradaki Kıbrıs Rum Yönetiminden daha iyi, 37. sırada bulunan Yunanistan'dan daha geri durumda bulunuyor. Türkiye'nin endeks puanı 0.506. Yunanistan'ınki 0.540, KRY'ninki ise 0.474. 
+     Bu açıdan en hazırlıklı durumda bulunan ülke ABD. ABD'nin endeks puanı 0.927. İkinci sırada 0.840 puanla İsveç bulunuyor. İlk 10'a giren öteki ülkeler ise şunlar 
+
+-ABD 0.927 
+-İsveç 0.840 
+-Avustralya 0.831 
+-Danimarka 0.820 
+-İngiltere 0.814 
+-Kanada 0.806 
+-Norveç 0.778 
+-İsviçre 0.764 
+-Almanya 0.762 
+-Finlandiya 0.761 
+Listenin sonunda ise 0.009 puanla Palau yer alıyor. 
+     
+     DİĞER UNSURLAR 
+     Elektronik hükümete hazırlık endeksi içinde web ağ ölçütü, telekom endeksi ve insani sermaye endeksi bulunuyor. Ağ ölçütü bir ülkede hükümet tarafından oluşturulmuş web sitelerini insani sermaye endeksi, 15 yaşın üstündeki yetişkinlerin okuma-yazma oranlarını telekomünikasyon altyapı endeksi ise kişi başına düşen bilgisayar sayısı, internet kullanımı, telefon hattı miktarı, cep telefonu sayısı, TV cihazı miktarı gibi şeyleri göz önüne alıyor. 
+     Buna göre Türkiye'nin ağ ölçütü endeksi 0.555 telekom endeksi 0.192 insani sermaye endeksi ise 0.770. Türkiye'nin toplam ''elektronik katılım'' endeks puanı ise 12 olarak belirlendi. Bu puan a elektronik yoldan bilgi toplama, b elektronik danışma ve c elektronik yöntemlerden yararlanarak karar verme mekanizmalarının toplamı olarak hesaplanıyor. 
+     Söz konusu rapor, BM Ekonomik ve Sosyal İşler Konseyinden sorumlu genel sekreter yardımcısı Nitin Desai önderliğinde, 10-12 Aralık tarihlerinde Cenevre'de toplanacak ''Dünya Enformasyon Toplumu Zirvesi'' için hazırlandı. 
+     
+</TEXT>
+</DOC>

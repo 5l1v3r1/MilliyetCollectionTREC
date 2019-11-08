@@ -1,0 +1,80 @@
+<DOC>
+<DOCNO> 261958 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/10/yasam/ayas.html </URL>
+<DATE> 2004/08/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tıbbın 'gözünden' kaçmaz 
+</HEADLINE>
+<TEXT>
+
+
+PET - CT, teknoloji ve tıp birlikteliğinin son mükemmel örneği. Bu cihaz, 'doğum evresinde' kanseri, Alzheimer'i görüyor, kalp krizini önlemede mucizeler yaratıyor 
+
+pet-ct Ayşegül Aydoğan 
+
+Tıp teknolojileri baş döndürücü bir hızla gelişirken, bu sayede hem teşhis ve tedavisi yapılan hastalıkların hem de yararlanan hastaların sayısı artıyor. 
+Günümüz tıbbında kullanılan pek çok cihaz birkaç yıl içinde kendini yeniliyor, daha rutin olarak yaygınlaşmadan bir üst modelleri geliştiriliyor. Bu üstün görüntüleme yöntemleri, başta kanser olmak üzere kalp hastalıklarından Alzheimer'a kadar günümüzün en önemli sağlık sorunlarını kısa sürede ve doğru olarak teşhis edilmesinde büyük rol oynuyorlar. Bu cihazlardan biri de PET - CT. 2002'den beri kullanılan PET - CT, son yıllarda özellikle kanserin takibinde önem kazanan 'Pozitron Emisyon Tomografi PET ' ve yüzlerce hastalığın teşhisinde kullanılan Bilgisayarlı Tomografi olarak bilinen CT'nin tek bir cihazda bir araya geldiği bir görüntüleme yöntemi. Teşhiste kullanılan en gelişmiş cihaz olarak kabul edilen PET-CT son bir yıldır ülkemizde de kullanılıyor. 20 dakikada tümörün üstelik çok küçük evredeyken yerini belirleyen, genellikle teşhisinde geç kalınan Alzheimer'in erken tanısını koymayı başaran, kalp krizi sonrası kalp kasındaki canlılığı gösteren PET-CT hakkında, Metropolitan Nightingale Hastanesi Moleküler Görüntüleme Merkezi Direktörü Dr. Bülent Ünalan, sorularımızı yanıtladı, cihazın diğer yöntemlere göre farklılıklarını ve üstünlüklerini anlattı... 
+
+Tek başına PET ve CT'yi biliyoruz İkisinin aynı cihazda birleştirilmesinin amacı ve getirdiği yenilikler neler 
+- Birlikten güç doğar PET'in özelliği canlı dokuyu, yaşayan bir organda canlılığı göstermesi, tümörü yakalaması. PET'te tümörü çok iyi görüntülüyorsunuz ama tam yerini veremiyor. Burada CT devreye giriyor. CT, çok küçük kanser hücrelerinin nerede olduğunu gösteriyor. PET -CT'de PET ve CT birleştiği zaman tümörün yerini, çevresindeki dokuların her türlü ayrıntısını görebiliyoruz. PET - CT bu iki cihazın özelliklerinin tek bir cihazda toplanması. İki cihazın birbirinden üstünlüğü yok. 
+
+Kanseri 'şekerden' yakalıyor 
+PET-CT hangi hastalık gruplarında kullanılıyor 
+- Başta kanser hastalarında, Alzheimer'ın erken tanısında çok büyük yeri var. En önemli fonksiyonlarından biri, özellikle kalp krizi sonrasında canlı dokuyu göstermesi. Enfarktüs sonrasında eskiden tümüyle öldüğünü bildiğimiz kalp kasının canlılığını gösteren PET-CT, by - pass kararını verme açısından çok önemli bir hale geldi. Ayrıca tiroit kanserlerinde de kullanılmaya başladı. Bu kanser türünde kontrolsüz tümörleri yakalamakta büyük bir önemi var. 
+
+Kanser teşhisindeki üstünlüğü nedir 
+- Tümörün yerini PET'le burada olabilir, şuranın yakınında olabilir derken PET-CT'de tam yerini veriyoruz. Karaciğerin üst bölümünde üst lobunun sağ tarafında diye çok net adres veriyoruz. PET'te bu kadar net adres olanaksız. 
+
+PET - CT tümörü nasıl saptıyor 
+- Tümörün bir özelliği var. Kontrolsüz şeker kullanıyor. Bu diğer dokulardan çok daha fazla şeker kullanması anlamına geliyor. Şeker kullandığını PET'in üzerinde görebiliyoruz ama şeker kullanan oluşumun tam yerini bulabilmek için PET-CT'ye ihtiyaç var. PET-CT'yi kullandığımız zaman bir cerrahi operasyon mu uygulanacak veya radyoterapi mi uygulanacak bu kararı verip, hem cerrahide hem de radyoterapide tam odağı hedeflemiş oluyorsunuz. CT, büyüme kriterine göre organ şu kadar büyümüş şeklinde sonuç verirken PET, şeker kullanımı fazla olduğu için organdaki değişimler veya doku kalitesizlikleri daha ortaya çıkmadan çok küçük evredeki tümörlere dikkati çekiyor. 
+
+PET-CT'de ilaçlı film kullanılıyor mu 
+- Görüntüleme öncesi ilaç olarak bildiğimiz şeker glükoz kullanılıyor. Şeker ufak da olsa bir radyoaktif maddeye bağlı. Bu maddenin yarılanma ömrü çok kısa aşağı yukarı 90 dakika içinde vücuttan atılıyor. Şeker çok küçük miktarda dışarıya sinyaller veren radyoizotoplarla bağlanıyor ve hastanın damarına veriliyor. Bu madde hastanın damarında dolaşırken tümör gibi en fazla şeker kullanan bölgelerin içine giriyor. Cihaz bu sinyalleri, parlak görüntüler halinde toplayıp bilgisayara aktarıyor. 
+
+Ailesinde kalıtımsal yatkınlığı olanlarda PET-CT bir tarama yöntemi olarak kullanılabilir mi 
+- ABD'deki son çalışmalar, gen bozukluklarını da görüntüleyebilir miyiz yönünde yapılıyor. PET-CT'nin gelecekteki en büyük özelliklerinden biri, bu gen bozukluklarını daha başlangıçtan görüntüleyip saklayabilecek olması. Ama ailede bir risk var diye tarama amaçlı kullanılması için henüz erken. Bu konuda herkesin doktorun önerisine kulak vermesi lazım. Tarama yöntemi olarak kullanılabilecek en iyi alanlardan biri akciğer kanseri. Özellikle küçük nodüllü akciğer kanserinde çok büyük bir önemi var. Akciğer kanseri hem en sık rastlanan kanser türlerinden biri olması hem de teşhisinin sıklıkla geç konulması nedeniyle önem taşıyor. 
+
+Krizi 'uykusunda' buluyor 
+Kalpte getirdiği avantajlar nedir 
+- PET-CT'nin üçüncü büyük kullanımı kalpte. Bir krizde birdenbire damar tıkandığı zaman kalp, az bir besin karşısında birdenbire metabolizmasını değiştiriyor. Yağ asitleri yerine şeker kullanmaya başlıyor, kendini korumaya çalışıyor. Buna 'kış uykusuna yatmış miyokart' diyoruz. Kış uykusuna yatmış miyokardın her zaman bir kurtarılma şans var. By - pass yapılabilir, stent takılabilir. PET-CT'nin en büyük özelliklerinden biri bu metabolizması değişmiş canlı dokuyu saptaması ve o saptandıktan sonra da tüm kardiyolojinin tedavi yöntemlerinin uygulanmasını olanaklı kılması. 
+
+Kış uykusuna yatmış miyokardın önemi nedir 
+- Her enfarktüs sonrasında muhakkak bakılması gereken şeylerden biridir kış uykusuna yatmış miyokardı gözlemek. Bir an önce düzeltmek, damarları açarak onun kış uykusundan uyanmasını sağlamak, glükoz yerine tekrar yağ asitlerini kullanmasını sağlamak gerekir. Ancak elektrokardiyografi ve diğer görüntüleme yöntemleri hiçbir şekilde gösteremiyor. Sadece PET-CT gösterebiliyor. Çünkü PET-CT şekeri kullanıyor. Özellilkle by-pass kararını vermede doktorlara çok yardımcı oluyor. PET-CT kardiyolojide aynı zamanda damarı da görüntülüyor. Damar ve kalbi besleyen dokuları, miyokart kasını görüntülüyor. 
+
+'Avantajı' hayat kurtarıyor 
+Diğer yöntemlere göre üstünlüğü ve avantajları nelerdir 
+- PET-CT, kalpte canlılığı göstermek açısından 'altın standart' olarak kabul edilebilir. 
+
+Anjiyoyla karşılaştırılabilir mi 
+- Anjiyoda damarlardaki darlıklara bakılıyor. Bazı darlıklar var ki miyokardı kalp kası yeterince besleyebiliyor. Ama bazıları da besleyemiyor. Burada en iyi cevap verebilecek olan PET-CT, damarın miyokardı besleyip besleyemediği yönünde tespit yapıyor. Ayrıca efor testi sonucu normal görünen kişilerde de PET-CT yapıldığı zaman ilginç sonuçlar çıkabiliyor. Efor testinde normal sonuçlar aldığımız bir hastanın PET-CT sonucunda kalbin alt yüzünde ve yan duvarında glükoz metabolizmasını gördük. Anjiyoya yolladık ve iki damarında tıkanıklık çıktı. Bu tür vakaların yakalanmasında da efor son derece normal olabilir. Genel olarak efor testinin yüzde 55 - 60 civarında yalancı dediğimiz yanıltıcı pozitif veya negatif sonuç veriyor. Özellikle orta yaştaki kadınlarda 'yalancı pozitif' oranı çok yüksek. 
+
+Tedavide kullanılacak 
+PET-CT'nin yakın gelecekte kullanılacağı hastalıklar neler olacak 
+- En önemli kullanım alanlarından biri radyoterapi olacak. Çünkü radyoterapide çok önemli olan odaklamada çok başarılı. Bu yüzden PET'in gösterdiği yerler ışınlanarak terapinin getireceği tahribatlar azalıyor. Gelecek aylarda bu sistemi uygulayacağız. PET - CT teşhisle sınırlı kalmayacak, tedavinin de içine girmiş olacak. Radyoterapide 'tam tümör ışınlamasını' planlamada kullanılacak ve olabilecek yan etkileri ortadan kaldıracak. 
+
+Görüntülemede getirdiği başarı oranı nedir 
+PET-CT, yüzde 95'lere varan sonuç veriyor. 
+
+Şu an son teknoloji diyebilir miyiz 
+- PET evrimdi ama PET-CT bir devrim niteliğinde. Yakın bir zamanda MR'la koroner anjiyografi görüntüleri gündeme gelecek. 
+
+Bir çekimin fiyatı nedir 
+- 2 milyar 200 milyon lira. 
+
+PET - CT çekimi öncesi konuşmak bile yasak 
+
+Metropolitan Nightingale Hastanesi Moleküler Görüntüleme Merkezi Direktörü Dr. Bülent Ünalan, PET-CT çekimi öncesi dikkat edilmesi gerekenleri şöyle anlattı 
+"Hastanın bir gün önceden çok hareket etmemesi, ağırlık kaldırıp kaslarını zorlamaması, çok konuşmaması gerekiyor. Bunun nedeni ne zaman siz hareket etseniz şeker kullanıyorsunuz. O zaman çok konuştuğunuzda o bölgedeki kaslar şekeri kullanır. Şeker oraya otomatik olarak gider ve orada tutuluma neden olabilir. Bu da yanlış sonuca yol açar. PET-CT'nin bir özelliği de burada çıkıyor. Örneğin hastayı konuşmama yönünde engelleyemiyorsunuz. Dolayısıyla o bölge parlıyor. CT'ye bakıyoruz ve parlamanın konuşma kaslarına ait olduğunu görüyoruz, içimiz rahat ediyor. PET-CT en çok bu tip yanıltıcı görüntülerin önüne geçilmesini engelliyor. Görüntülemeden önce özel karanlık bir odada hastamızı hazırlıyoruz. Hastayı loş bir ortamda bekletmemizin sebebi, verdiğimiz maddenin beyinde toplanmasını önlemek. Bu nedenle hastaya gözlerini kapattırıyoruz. Eğer gözlerini çok fazla kullanırsa beynin belli bölgesinde ve göz kaslarında parlamalar meydana geliyor. Kısaca hastanın metabolizmasını düşürmeye çalışıyoruz." 
+
+
+Kışın yapılan çekimde dikkatli olmak gerek 
+
+PET - CT çekimlerinde görüntüyü yanıltan bir başka etken de 'soğuk.' Dr. Bülent Ünalan, bu konuda da şu bilgileri veriyor 
+"ABD'de çok soğuk aylarda yapılan PET - CT çekimlerinde yanıltıcı görüntülerin arttığı görülmüş. Soğukta titrediğinizde otomatik olarak şeker kullanıyorunuz. Bu şeker tutulması da görüntüye yansıyor. Bu nedenle soğuk kış günlerinde yapılan çekimlerde dikkatli olmak gerekiyor. Ayrıca diyabetik hastalarda PET-CT görüntülemesinden önce şeker düzeylerine bakılması gerekiyor. Çok yüksek şeker seviyesi, tüm radyoaktif maddenin doğrudan kalpte toplanmasına ve çevrede hiçbir görüntü elde edilememesine yol açıyor. 
+
+
+</TEXT>
+</DOC>

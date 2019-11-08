@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 264406 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/18/son/soneko19.html </URL>
+<DATE> 2004/08/18/ </DATE>
+<TIME> 11.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Japonlar, felaketlere uçan robotlarla müdahale edecek... 
+</HEADLINE>
+<TEXT>
+
+     Japon elektronik firması Seiko Epson, minyatür helikopter görünümünde uçan robot geliştirdi. 
+     Doğal felaketlerde arama-kurtarma, güvenlik ve arazi keşifleri alanlarında kullanılabilecek robot, sadece 12.3 gram ağırlığa ve 85 mm uzunluğu sahip. Gazetecilere tanıtılan robot, kendisine bluetooth teknolojisiyle gönderilen uçuş programını takip edebiliyor. 
+     Şirketin Tokyo ofisindeki tanıtımda havalanan ve birkaç metre yükselen mini robot, bir süre sonra yakınlardaki bir masanın üzerine indi. 
+     Önde süper mini bir motor, görüntüleri kontrol merkezine gönderebilen bir dijital kamera ve mini bir algılayıcıya sahip robotun pilindeki kapasite sadece 3 dakika uçabilmesine yetiyor. 
+     Robotun kamera görüntüsü kalitesinin artırılması ve pil ömrünün uzatılmasıyla 2-3 yıl içinde piyasaya sürülmesi bekleniyor. 
+     
+</TEXT>
+</DOC>

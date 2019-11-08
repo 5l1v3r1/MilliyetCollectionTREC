@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 313251 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/07/son/sontur43.html </URL>
+<DATE> 2005/02/07/ </DATE>
+<TIME> 16.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yargıtay Baz istasyonu tartışmasında insan sağlığı önce gelir 
+</HEADLINE>
+<TEXT>
+
+     TMMOB Elektrik Mühendisleri Odası İzmir Şubesi Başkanı Musa Çeçen, Yargıtay 4. Hukuk Dairesi'nin, aldığı bir kararla, yerleşim yerlerindeki baz istasyonlarının insan sağlığına etkileri konusunda yeni bir hukuki yorum getirdiğini bildirdi. 
+     Çeçen, yaptığı yazılı açıklamada, komşu binada bulunan baz istasyonunun kaldırılması için Ankara 22. Hukuk Mahkemesi'ne açılan davanın geri çevrilmesine ilişkin Yargıtay 4. Hukuk Dairesi'ne yapılan temyiz başvurusunun, yerel mahkeme kararının bozulmasıyla sonuçlandığını kaydetti. 
+     Başvuruyu görüşen dairenin, ''hizmetten elde edilen yarar ile bunun karşısında verilen zararın dengelenmesi gerektiği'' görüşünden hareketle bu kararı aldığını ifade eden Çeçen, ''İletişim gibi bir insan hakkı karşılığında bile olsa insan hayatının önemini vurgulayan bu karar, tartışma süreci açısından son derece önemlidir'' dedi. 
+     Çeçen, kararla artık benzer durumdaki şikayetlerin de emsal gösterilerek dava konusu edilebileceğini belirterek, şunları kaydetti 
+     ''Şimdi yapılması gereken, servis sağlayıcılar ve konuya müdahil kurumların, servis ağlarının yapılanmasını insan sağlığına zarar vermeyecek doğru noktaların belirlenmesi ve istasyonların bu noktalara taşınması için ortak çalışma içinde olmasıdır. Aksi takdirde, halk sağlığına olumsuz etkileri olan tüm GSM baz istasyonlarının yargı kararlarıyla tek tek kapatılması süreci yaşanacaktır.'' 
+     
+     YARGITAY'IN KARARI 
+     Yargıtay 4. Hukuk Dairesi'nin, ''Bu ve benzeri tesislerin işletilmesinde geniş bir halk kitlesinin yarar sağladığının bilinen bir olgu olduğu, ancak bu yararın sağlanması karşısında kişilerin zarar görmesinin hoş karşılanamayacağı'' görüşüne yer verdiği karar metninde, yerel mahkemenin verdiği kararı şu ifadelerle haksız buldu 
+     ''Bu somut olayda, bu hizmetin aynı yerde verilmesinde zorunluluk da bulunmamaktadır. Muhtemelen fazla bir giderle de olsa başka bir yerde aynı sonuçları sağlayacak bir istasyonun kurulması ve hizmet vermesi olanaklıdır... Bu tesisten üçüncü kişilerle birlikte davacı da yararlanmış olsa, sağlanan yararla verilen zararın dengelenmesi genel bir hukuk kuralıdır. Yarar, haberleşmeyi amaçlamaktadır. Zararın ise insan sağlığı ve yaşamıyla ilgili olduğu gözetildiğinde, ikinci değere önem verilmesi gerekmektedir.'' 
+     
+</TEXT>
+</DOC>

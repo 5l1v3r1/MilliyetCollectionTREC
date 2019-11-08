@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 239974 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/14/son/soneko17.html </URL>
+<DATE> 2004/05/14/ </DATE>
+<TIME> 11.12 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa'da işlemler yeniden başladı 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası'nda İMKB teknik arıza nedeniyle saat 10.03'de ara verilen işlemlere saat 11.00'de başlandı. 
+     Edinilen bilgiye göre, saat 10.03'de işlemler durduğu anda 16,914.55 puan olan endeks, yeniden işleme 16,901.91 puandan başladı. 
+     Vedilen ara nedeniyle seansın yarım saat uzatılarak saat 12.30'da tamamlanacağı bildirildi. 
+     
+</TEXT>
+</DOC>

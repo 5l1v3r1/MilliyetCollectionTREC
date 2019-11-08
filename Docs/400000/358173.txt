@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 358173 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/04/son/sonyas15.html </URL>
+<DATE> 2005/07/04/ </DATE>
+<TIME> 21.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD'li öğrencilere göre, internetten dosya indirmek gayri ahlaki değil... 
+</HEADLINE>
+<TEXT>
+
+     ABD’deki üniversite öğrencilerinin üçte ikisi, telif haklı dosyaları internetten ücret ödemeden indirmeyi gayrı ahlaki bulmuyor. 
+     Business Software Alliance adlı kuruluş tarafından yapılan araştırmaya göre, Amerikalı üniversite öğrencilerinin yüzde 52’si de iş yerinde para ödemeden müzik dosyası indirmenin kabul edilebilir bir davranış olduğunu düşünüyor. 
+     Öğrencilerin yüzde 45’i internetten para ödemeden dosya indirmek için üniversite bilgisayarlarını kullandıklarını açıklarken, yüzde 27’si de düzenli olarak paylaşım sitelerinden ücret ödemeksizin müzik 
+     ve film dosyası indirdiklerini belirttiler. 
+     Kamuoyu araştırmasını yaptıran şirketin yetkilileri, "Y Kuşağı" adını verdikleri bu gençlerin büyük bölümünün internetle büyüdüklerini ve teknolojiyi çok yakından kullandıklarını ifade ederek, ancak araştırmanın, bu yasadışı davranışı benimseyen bu gençlerin, üniversiteden sonra, iş dünyasına girdiklerinde de buna devam edeceklerini gösterdiğini kaydettiler. 
+     
+</TEXT>
+</DOC>

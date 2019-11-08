@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 183108 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/18/son/sondun10.html </URL>
+<DATE> 2003/09/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Film stüdyoları, kopya DVD'lere karşı savaş açtı 
+</HEADLINE>
+<TEXT>
+
+     Plak şirketleri internetten parasız müzik indirimi ile mücadele ederken, Amerikan film stüdyoları da DVD'lerin kopyalanmasına imkan veren yazılımlara karşı savaş açtı. 
+     Paramount Pictures ve 20th Century Fox stüdyoları, bu tip yazılımı geliştiren Tritton Technologies firmasını mahkemeye verdi. Dava dilekçesinde, söz konusu yazılımın satışına aracılık eden 3 web sitesi operatörü suçlandı. Davaya, Manhattan federal mahkemesinde bakılacak. 
+     Tritton'un geliştirdiği ''DVD Copyware'' adlı yazılım, DVD'lerin kopyalanmasını engelleyen teknolojiyi etkisiz kılıyor. 
+     Stüdyolar, sanıkların, Milenyum Sayısal Telif Hakları Yasası'nı ihlal ettiklerini savunuyorlar. Söz konusu yasa, film ve müzik gibi sanat eserlerinin kopyalanmasına olanak veren yazılım geliştirilmesini engelliyor. 
+     Tritton, kendi ürünü olan yazılımı piyasaya sürerken, ''bunun çok güçlü bir program olduğunu ve kullanıcılara, tüm DVD koleksiyonlarını, hiçbir kalite kaybına uğramadan kopyalama imkanı vereceğini'' duyurmuştu. 
+     
+</TEXT>
+</DOC>

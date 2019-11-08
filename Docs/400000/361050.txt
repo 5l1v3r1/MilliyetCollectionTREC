@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 361050 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/14/son/soneko59.html </URL>
+<DATE> 2005/07/14/ </DATE>
+<TIME> 17.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD'de haziran enflasyonu sıfır çıktı, borsa yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     ABD'de haziran ayı enflasyonunun yüzde sıfır olarak açıklanması, New York Borsası'nın yükselişle açılmasını sağladı. 
+     Borsada ilk dakikalar içinde, dünkü kapanışına göre 19.51 puan yüzde 0.18 artan Dow Jones sanayi endeksi 10,576.90 puana, 12.09 puan yüzde 0.56 artan Nasdaq teknoloji endeksi de 2,156.20 puana çıktı. 
+     Çalışma Bakanlığı'nın açıkladığı verilere göre Mart ayında eksi 0.1 olan tüketici enflasyonu, haziran ayında fiyatların sabit kalmasıyla yüzde 0 sıfır oldu. 
+     Akaryakıt başta olmak üzere enerji fiyatlarının gerilemesi, enflasyonun hareketsiz kalmasında etkili olurken, gıda ve enerji gibi mevsimsel etkilere açık sektörler çıkarıldığında çekirdek enflasyondaki artış sadece yüzde 0.1 binde 1 olarak açıklandı. 
+     
+</TEXT>
+</DOC>

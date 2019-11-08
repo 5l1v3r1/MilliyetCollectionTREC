@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 391733 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/02/son/soneko35.html </URL>
+<DATE> 2005/11/02/ </DATE>
+<TIME> 16.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Piyasalarda bugün... 
+</HEADLINE>
+<TEXT>
+
+     Borsa'da işlem gören hisse senetleri tek seansın yapıldığı bugün ortalama yüzde 1.10 değer kazandı. 
+     Ramazan Bayramı tatili nedeniyle İstanbul Menkul Kıymetler Borsası'nda İMKB bugün tek seans yapıldı. 
+     İMKB Ulusal 100 Endeksi, tek seansta 360.11 puan artarak 33,152.10 puandan kapandı. Hisse senetleri piyasasında işlem hacmi 583 milyon 902 bin 342 YTL olarak gerçekleşti. 
+     
+     DÖVİZ 
+     Dün kapanışta 1.3540 YTL olan dolar güne 1.3500 YTL'den, 1.6240 YTL olan Avro 1.6230 YTL'den başladı. 
+     Doların bugünkü kapanıştaki satış fiyatı 1.3520 YTL, avronun satış fiyatı 1.6260 YTL oldu. 
+     Merkez Bankası, dün açıklanan döviz kurlarının, Ramazan Bayramı tatili nedeniyle 7 Kasım Pazartesi gününe kadar geçerli olacağını bildirdi. Merkez Bankası, doların dünkü efektif kurunu alışta 1.3424 YTL, satışta 1.3518 YTL olarak belirlemişti. 
+     
+     FAİZ 
+     İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda işlem gören 9 Mayıs 2007 vadeli tahvilin, bugün valörlü işlemlerinin kapanışında basit getiri yüzde 14.55, bileşik getiri yüzde 14.05 oldu. 
+     Bu kağıdın bileşik getirisi dünkü kapanışa göre 0.15 puan geriledi. 
+     İMKB Tahvil ve Bono Piyasası Repo-Ters Repo Pazarı'nda 5 günlük işlemlerde faiz ortalama yüzde 14.00'ten gerçekleşti. 5 günlük işlemlerde en düşük oran yüzde 13.60, en yüksek oran yüzde 14.05 oldu. 
+     
+</TEXT>
+</DOC>

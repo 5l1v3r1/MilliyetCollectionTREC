@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 262790 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/12/son/soneko49.html </URL>
+<DATE> 2004/08/12/ </DATE>
+<TIME> 18.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Vergi iadeleri 1 Ocak'tan itibaren YTL olacak... 
+</HEADLINE>
+<TEXT>
+
+     Vergi iadelerinin 1 Ocak 2005 tarihi itibariyle Yeni Türk Lirası YTL olacağı bildirildi. 
+     YTL-Kurumlar Alt Çalışma Grubu sekizinci toplantısı, 4 bankadan 10 temsilcinin katılımıyla 6 Ağustos'da Türkiye Bankalar Birliği'nin Akmerkez ofisinde yapıldı. 
+     Türkiye Bankalar Birliği web sitesinde yeralan açıklamaya göre, toplantıya davet edilen Sosyal Sigortalar Kurumu SSK ve T.C. Ziraat Bankası yetkilileri, kurum bünyelerinde sürdürülmekte olan YTL çalışmaları konusunda gruba bilgi verdiler. 
+     SSK yetkililerinin verdiği bilgilere göre, YTL çalışmalarına Nisan 2004'de vakıf olan kurum, Gelirler Genel Müdürlüğü tarafından yayınlanan tebliğ taslağı ile de çalışmalarına fiilen başladı. 
+     İlk olarak çeşitli komisyonlar oluşturuldu ve konu değişik boyutlarda incelendi. Halen program envanteri çalışmaları sürdürülüyor. SSK yetkilileri, bankalarla veri alışverişindeki tutar alanlarında, YTL-Kurumlar Alt Çalışma Grubu'nun diğer kurumlarla birlikte tespit ettiği 12 hane YTL, 2 hane Ykr formatına uyacaklarını, bankalarla da 12 Ekim-28 Ekim tarihleri arasında test yapabileceklerini vurguladılar. 
+     SSK yetkilileri, vergi iadelerinin 1 Ocak 2005 tarihi itibariyle YTL olacağını, SSK'ya teslim edilecek vergi iade zarflarının nasıl iletileceği konusunda Maliye Bakanlığı'nın karar mercii olduğunu bildirdiler. 
+     Ayrıca SSK'nın, kurum olarak sistemlerini 31 Aralık 2004 akşamından sonra 5 gün kapalı tutmayı planladığı, online bankalar için ertesi gün sabah saat 10'a kadar olan günlük mutabakatın 31 Aralık 2004 akşamı bitirilmesini hedef aldığı kaydedildi. 
+     Ziraat Bankası yetkilileri de, her üç ayda bir yapılan Ziraat Bankası nema bildirimleri için sadece ad-soyad ve tasarruf teşvik numarasının gerekli olduğunu, daha sonra Ziraat Bankası tarafından bankalara iletilen tutarların ise 1 Ocak 2005 tarihi itibariyle YTL olarak bildirileceğini, bütün data transferlerindeki tutar alanlarında söz konusu formata uyulacağını, emekli maaş ödemelerinde dosya desenlerinden hiçbir değişiklik olmayacağını belirttiler. 
+     
+     ÖDEME KAYDEDECİ CİHAZLARDA SORUN ENDİŞESİ 
+     Bu arada Alt Çalışma Grubu'nun toplantısında, yazar kasa POS entegrasyonu konusunda Maliye Bakanlığı'nın ilgili tebliğinde, ödeme kaydedici cihazların YTL ve YKr'ye göre işlem yapacak şekilde hazırlanma işleminin en geç 31 Mart 2005 tarihine kadar tamamlanması gerektiğinin belirtildiğine işaret edilerek, uygulamanın POS ile bağlantısı olmayan ödeme kaydedici cihazlar için herhangi bir soruna neden olmayacağı, ancak POS bağlantılı çalışan ödeme kaydedici cihazlarda sorun yaratabileceğine dikkat çekildi. 
+     Toplantıda, şu değerlendirmede bulunuldu 
+     ''Bankalar 5083 No'lu Kanun gereğince 1 Ocak 2005 tarihi itibariyle, bütün POS cihazlarının programlarını YTL'ye göre işlem yapacak şekilde değiştirecekleri için POS cihazları ile entegre halde çalışan ve YTL uyumu henüz gerçekleştirilmemiş olan ödeme kaydedici cihazlarda sorunlar çıkabilecektir. Bu nedenle, bu tür ödeme kaydedici cihazların da POS cihazları gibi 1 Ocak 2005 itibariyle YTL'ye göre işlem yapacak şekilde hazırlanması amacıyla bir düzenleme yapılması hususunun Maliye Bakanlığı'na iletilmesine karar verilmiştir.'' Toplantıda ayrıca, Visa, Mastercard ve Bankalararası Kart Merkezi'nin 17 Ağustos 2004 tarihinde yapılacak genel YTL toplantısına davet edildiği bilgisinin verildiği bildirildi. 
+     
+</TEXT>
+</DOC>

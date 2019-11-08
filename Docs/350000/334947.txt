@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 334947 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/19/son/sonyas05.html </URL>
+<DATE> 2005/04/19/ </DATE>
+<TIME> 08.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnsan gibi yürüyen robot geliştirildi 
+</HEADLINE>
+<TEXT>
+
+     ABD'deki Michigan Üniversitesi'nden bilim adamlarının, insan gibi yürüyen ve yürürken dengesini koruyabilen bir robot geliştirdikleri bildirildi. 
+     Amerikan CNN televizyonunun haberine göre, türünün ilk örneği olan robot, büyük ve ağır ayaklara sahip olmadan, tıpkı insanlar gibi yürüyebiliyor ve dengesini koruyabiliyor. 
+     ''Rabbit'' Tavşan isimli robotun, Honda şirketi tarafından geliştirilen ve İngilizcede ''Yenilikçi Hareketlilikte İleri Adım'' anlamına gelen ''Advanced Step in Innovative Mobility'' kelimelerinin kısaltılmasından oluşan Asimo ismi verilen robottan hareketlilik açısından daha ileri düzeyde olduğu belirtiliyor. 
+     Honda, Asimo'nun yürüme, merdiven çıkma ve ileri-geri 30 derece eğilebilme özellikleriyle ilk ve tek olduğunu savunuyordu. 
+     ''Rabbit''in, Michigan Üniversitesi'nden bir ekibin Fransız bilim adamlarıyla ortaklaşa yürüttükleri beş yıllık bir çalışma sonucunda geliştirildiği kaydedildi. 
+     Bacak ve ayak yerine koltuk değneklerini andıran bir düzeneğe sahip olan ''Rabbit''in ileri doğru her adım attığında tıpkı insan gibi dengesini sağlayabildiği ifade edildi. 
+     
+</TEXT>
+</DOC>

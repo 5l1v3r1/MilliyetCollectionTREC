@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 277143 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/04/son/soneko12.html </URL>
+<DATE> 2004/10/04/ </DATE>
+<TIME> 10.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Petrol fiyatları haftaya düşüşle başladı... 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası'nda geçen haftanın son işlem gününde 50 dolar psikolojik seviyesinin üzerinde kapanan petrol fiyatları, haftaya düşüşle başladı. 
+     New York'ta Cuma 50.12 dolardan kapanan ABD hafif petrolünün varili, Asya ağırlıklı işlemlerin başladığı ilk dakikalarda Nijerya'dan gelen olumlu haberlerin etkisiyle 49.65 dolara kadar geriledi. 
+     Nijerya'nın petrol yatakları bakımından zengin bölgesi Nijer deltasında, isyancılarla hükümet arasındaki görüşmelerin olumlu neticelenmesi, piyasalarda günlük 2.3 milyon varillik üretim yapan ülkede arz sıkıntısı olacağına yönelik korkuların hafiflemesini sağladı. 
+     Nijer deltasındaki üretim tesislerinden, işçilerini gerginlik nedeniyle daha önce çeken uluslararası petrol şirketlerinin, barış görüşmelerinin ardından tekrar bölgeye dönme hazırlıklarına başladığı bildiriliyor. 
+
+     
+</TEXT>
+</DOC>

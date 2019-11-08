@@ -1,0 +1,50 @@
+<DOC>
+<DOCNO> 138075 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/02/21/ekonomi/eko07.html </URL>
+<DATE> 2003/02/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Portföy yönetimi stratejileri 
+</HEADLINE>
+<TEXT>
+
+Paranın güvenli adresi 
+     DİDEM GORDON Koç Portföy Yönetimi AŞ Genel Müdürü 
+
+     Yatırım yönetiminde uygulanan iki temel portföy yönetim stratejisinden aktif yönetim stratejilerine geçen haftaki yazımızda detaylı durmuştuk. Aktif portföy yönetiminde fon yöneticisinin katma değeri, fiyatının düşük ve potansiyel değerinin yüksek olduğuna inandığı yatırım araçlarına yatırım yapması, yatırım stratejilerini analiz ve araştırmalara dayanarak oluşturması ve yönettiği fonun alokasyonunu, kanuni çerçeve içinde, gerekli gördüğü zamanlarda değiştirmesi ile ölçülmekte. Bugün, özellikle son yıllarda popüleritesi artan pasif yönetim stratejilerinden bahsetmek istiyoruz. 
+     Bir portföye katma değer sağlamak amacıyla yatırım enstrümanı seçimi yöntemleri ya da zamanlama analizleri yerine direkt olarak bu enstrümanları temsil eden bir endeksi almanın yeterliliğini savunan "etkin piyasa hipotezi" pasif yönetim stratejilerinin akademik dayanağını oluşturuyor. Portföy yönetiminde pasif yönetim stratejileri 1970’li yıllarda ABD’de uygulanmaya başlandı ve kısa sürede yatırımcıların ilgisini çekti. Pasif yönetim stratejilerine en iyi örnek endeks fonlar. Endeks fon, seçilmiş belirli bir endeksin getirisini yatırımcılara yansıtmak amacıyla endeks kapsamındaki menkul kıymetlerin tümünden ya da örnekleme yoluyla seçilen menkul kıymetlerden oluşan fonlar. 
+     Bir karşılaştıurma yapmak gerekirse, endeks fon yöneticileri piyasa zamanlaması, şirket değerlemesi, makro ekonomik analiz gibi aktif yönetim stratejileri yerine matematiksel modellerle tam indeksleme, örnekleme, kuadratik programlama, vb. endeksin getirisini fon içerisindeki yatırımcılara yansıtacak şekilde yatırım yapar. 
+     Özellikle ABD’de yatırım fonlarının harcama rasyoları yatırımcılar açısından önemli bir kriter olarak değerlendiriliyor. Endeks fonların düşük alım satım oranları, düşük araştırma maliyetleri harcama rasyolarını aktif yönetilen fonlara kıyasla avantajlı kıldığını gözlemliyoruz. Uzun vadeli yatırım perspektifiyle bakıldığında, yıllık 1’lik bir getiri avantajı 20 yıllık sürede 22.5’lik bir fark oluşturuyor. Dolayısıyla, harcama rasyoları getiri oranları daha düşük olan gelişmiş piyasalarda, özellikle bireysel emeklilik yatırımlarında, önem kazanıyor ve pasif yönetim tercih sebebi olabiliyor. Bu konuda çarpıcı bir araştırma sonucu da şöyle ABD’de 1995 yılında yapılan bir araştırmada son 10 yıl içerisinde aktif yönetilen yatırım fonlarının 49 tanesi endeksin üzerinde getiri sağlarken, 197’sinin endeksin altında getiri sağlamış olduğu görülüyor. 
+     
+     Türkiye’de durum 
+     Pasif yönetilen fonlar kategorisine giren endeks fonlar haricinde Türkiye’de yatırım fonları ağırlıklı olarak aktif yönetim tarzıyla yönetiliyor. Mevcut durumda, 14 tane endeks fon bulunmakta ve toplam yatırım fonları içinde büyüklük olarak sadece 0.51’lik bir paya sahip. 
+     Ülkemizde, yatırım fonları gayri safi milli hasılamızın 3.5-4’ü kadar küçük bir paya sahip ve nüfusun yalnız 3’üne hitap ediyor. Ekonominin ve sermaye piyasalarının istikrarlı bir sürece girmesi ve yatırım fonlarına yönelen tasarrufların artmasıyla, fonların aktif mi, yoksa pasif mi yönetildiği ve yönetim tarzının getiriye katkısı yatırımcılar için fon seçiminde önemli bir ölçüt olacak. 
+     
+
+
+
+ EKONOMİ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

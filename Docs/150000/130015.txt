@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 130015 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/01/10/son/soneko34.html </URL>
+<DATE> 2003/01/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bono - repo piyasası... 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda işlem gören 3 Aralık 2003 vadeli, bugün valörlü tahvilin basit getirisi yüzde 55.87'den, bileşik getirisi yüzde 57.30'dan kapandı. 
+     Bu tahvilin bileşik getirisinde, dünkü aynı gün valörlü işlemlerin kapanışına göre 1.25 puanlık düşüş oldu. 
+     
+     KOTASYONLAR 
+     Saat 15.05 itibariyle dolar kotasyonlarında alışta en düşük fiyat 1 milyon 659 bin lira, en yüksek fiyat 1 milyon 662 bin 500 lira, satışta en düşük fiyat 1 milyon 665 bin lira, en yüksek fiyat da 1 milyon 669 bin lira oldu. 
+     
+     PARİTE 
+     Uluslararası piyasalarda euro-dolar paritesi 1.0507, sterlin-dolar paritesi 1.6078, yen-dolar paritesi ise 119.69 düzeyinde seyrediyor. 
+     
+     REPO 
+     İMKB Tahvil ve Bono Piyasası Repo-Ters Repo Pazarı'nda 3 günlük işlemlerde en düşük faiz oranı yüzde 44.00, en yüksek faiz oranı yüzde 44.10 ve ortalama faiz oranı da yüzde 44.00'ten kapandı. 
+     ŞAY-OLC 15 16 10 01 03 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 136338 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/02/11/son/sontur08.html </URL>
+<DATE> 2003/02/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İki mini uyduya yerli malı iki modül... 
+</HEADLINE>
+<TEXT>
+
+     Türkiye'nin çok amaçlı ilk alçak irtifa uydusunun uzay yolculuğuna kısa bir süre kala, Türk mühendisleri uydunun ''gözü ve kulağı'' olarak nitelendirilen iki önemli modülünün üretimini tamamladı. 
+     Türkiye Bilimsel ve Teknik Araştırma Kurumu'na bağlı Bilgi Teknolojileri ve Elektronik Araştırma Enstitüsü BİLTEN Müdürü Prof. Dr. Erol Kocaoğlan'dan alınan bilgiye göre, Türkiye'nin ilk mini uydusunun yapım çalışmaları sürüyor. 
+     TÜBİTAK BİLTEN'in geliştirdiği proje çerçevesinde, İngiltere Surrey Üniversitesi'nin Satellite Teknology Limited SSTL şirketiyle yürütülen BİLSAT uydusunun İngiltere'deki yapım çalışmalarında parçaların montajına başlandı. 
+     Bu arada, TÜBİTAK BİLTEN'de kurulan sıcaklık ve nemin yanında havadaki toz miktarının da kontrol edilebildiği laboratuvarlarda bir süre önce üretilmeye başlanan iki modülün üretimi de tamamlandı. 
+     BİLTEN mühendislerince tasarlanan parçalardan ÇOBAN Çok Bantlı Kamera , uzaydan 120 metre çözünürlükte görüntü verebilen 9 kanallı bir kamera sisteminden, GEZGİN Gerçek Zamanlı Görüntü İşleyen ise JPEG 2000 algoritmasıyla görüntü sıkıştıran bir veri işleme kartından oluşuyor. Bu iki parça, uydunun gözü-kulağı olarak nitelendiriliyor. 
+     ÇOBAN ve GEZGİN adındaki iki modül, ASELSAN'da titreşim testine alındı. Fırlatma anındaki titreşime karşı dayanıklı olması için yapılan testlerde başarı sağlanması halinde iki modül ay sonuna doğru İngiltere'ye gönderilerek, uydu ile bütünleştirilecek. 
+     Buradaki testlerin de başarılı olması halinde, iki modül TÜBİTAK BİLTEN'de yeniden üretilecek. Bu kez enerji kaybının önlenmesi için test yapılmadan doğrudan uyduya monte edilecek. 
+     BİLSAT uydusunun Mart ayında tüm modüllerinin tamamlanması, Mayıs başında Rusya'ya götürülmesi ve Temmuz ayının son haftasında hava koşullarının uygun olduğu bir gün fırlatılması planlanıyor. 
+     Uydudan alınacak görüntülerden ürün rekoltesi, çevre kirliliği, tabi afetlerin neden olduğu hasarın değerlendirilmesi gibi çeşitli amaçlarla yararlanılabilecek. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

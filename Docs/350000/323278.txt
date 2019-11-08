@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 323278 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/12/son/sonyas01.html </URL>
+<DATE> 2005/03/12/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ericsson, Avea'nın GSM şebekesini yenileyecek... 
+</HEADLINE>
+<TEXT>
+
+     Cep telefonu operatörü Avea'nın GSM şebekesi ve altyapısını, İsveç şirketi Ericsson yenileyecek. 
+     Ericsson yetkilileri, Avea'nın şebekesinin tek teknik servis sağlayıcısı olacaklarını ve EDGE teknolojisiyle varolan GSM şebekesinin radyo giriş ağını yenileyeceklerini belirttiler. 
+     Avea ve Ericsson arasında varılan anlaşmaya göre, İsveç şirketi Avea'nın şebeke kapasitesini iki kat arttıracak ve varolan GSM altyapısı üzerinde ileri ''data'' hizmeti sunarak müşteri hizmetlerini arttırma olanağı sunan EDGE teknolojisini yerleştirecek. 
+     GSM şebekesinin yayılmasını ve servisler arasında bütünleşmeyi sağlayacak Ericsson şirketi, Avea'nın varolan şebekelerini daha geniş kapsama alanıyla tek bir şebekeye çevirecek. 
+     İsveç şirketinin yetkilileri, Ericsson'un ayrıca ödemenin yanı sıra diğer servis sağlayıcı şirketler ve mobil operatörleri ile bağlantı halindeyken bilgilerin daha iyi dağıtımını sağlayan IPX servisini de başlatacağını belirttiler. 
+     IPX, operatörler ve kullanıcılar arasındaki mali ilişkilerin daha iyi paylaşımını sağlayarak ödemelerde sorun yaşanmasını engelliyor. 
+     
+</TEXT>
+</DOC>

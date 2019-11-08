@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 257072 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/21/son/soneko10.html </URL>
+<DATE> 2004/07/21/ </DATE>
+<TIME> 10.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kapasite kullanımı Haziran'da arttı... 
+</HEADLINE>
+<TEXT>
+
+     Devlet İstatistik Enstitüsü DİE , imalat sanayinde kapasite kullanım oranının Haziran ayında arttığını bildirdi. 
+     DİE, üretim, satışlar, fiyatlar bazında imalat sanayi aylık eğilim anketi Haziran ayı geçici sonuçlarını açıkladı. 
+     Buna göre, 2003 yılı Haziran ayında yüzde 80.1 olan üretim değeri ağırlıklı kapasite kullanım oranı geçen ay yüzde 84.5 seviyesine yükseldi. 
+     Aylık imalat sanayi eğilim anketine cevap veren 713 işyerinden derlenen verilerin Haziran ayı ilk geçici sonuçlarına göre, 2003 yılı Haziran ayında yüzde 80.1 olan üretim değeri ağırlıklı kapasite kullanım oranı geçen ay yüzde 84.5 seviyesine yükseldi. 
+     Geçen yılın aynı dönemine göre, Ocak ayında yüzde 77.2, Şubat'ta yüzde 73.4, Mart'ta yüzde 82.3, Nisan'da yüzde 76.5, Mayıs'da yüzde 84.3 oranlarında olan kapasite kullanım oranı Haziran ayında Mayıs ayına göre 0.2 puan yükselerek yüzde 84.5'e çıktı. 
+     Tam kapasite ile çalışamama nedenleri göz önüne alındığında, Haziran ayında geçen yılın aynı dönemine göre, iç pazarda talep yetersizliği yüzde 67'den yüzde 60.4'e, mali imkansızlık yüzde 1.6'dan yüzde 1.4'e indi. 
+     Aynı dönemde, dış pazarda talep yetersizliği yüzde 14.5'dan yüzde 16.7'ye, yerli mallarda hammadde yetersizliği yüzde 2.6'dan yüzde 3.1'e, işçilerle ilgili meseleler yüzde 1.8'den yüzde 4.1'e, ithal mallarda hammadde yetersizliği yüzde 1.3'den yüzde 1.4'e çıktı. 
+     Tam kapasitede çalışamama nedenlerini 2004 yılının Ocak-Haziran ortalaması ile geçen yılın aynı dönemi ile karşılaştırıldığında, iç pazarda talep yetersizliği yüzde 67'den yüzde 63.2'ye, mali imkansızlık yüzde 2.7'den yüzde 1.6'ya, yerli mallarda hammadde yetersizliği yüzde 3.9'dan yüzde 2.9'a indi. 
+     Aynı dönemde dış pazarda talep yetersizliği yüzde 12.5'den yüzde 15.2'ye, işçilerle ilgili meseleler yüzde 1.5'dan yüzde 3.4'e, ithal mallarda hammadde yetersizliği yüzde 1.2'den yüzde 1.4'e çıktı. 
+     
+     BEKLENTİLER 
+
+     İşyerlerinin Haziran ayına ilişkin görüşlerinin ağırlıklı ortalamaları geçen yılın aynı dönemi hakkındaki görüşlerinin ağırlıklı ortalamaları karşılaştırıldığında, işyerlerinin bu ayda 2003 yılının Haziran ayına göre, üretimlerinin ve yurtiçi satışlarının düştüğü, satış fiyatlarının ve hammadde fiyatlarının yükseldiği görüşünde olduklarını belirlendi. 
+     Yine aynı işyerlerinin Temmuz ayı beklentilerinin ağırlıklı ortalamaları geçen yılın aynı dönemi ile karşılaştırıldığında, işyerlerinin yine bir önceki yılın aynı ayına göre üretimlerinin ve yurtiçi satışlarının azalacağı, satış fiyatlarının yükseleceği ve hammadde fiyatlarındaki artışın düşeceği beklentisinde oldukları görüldü. 
+     
+     İKTİSADİ FAALİYET KOLLARINA GÖRE 
+
+     İmalat sanayinde iktisadi faaliyet kollarına göre Haziran ayında kapasite kullanım oranı en fazla artış yüzde 94.4 ile ağaç ve mantar ürünleri imalatında görüldü. 
+     Kapasite kullanım oranları, gıda ürünleri ve içecek imalatında yüzde 73.8, tütün ürünleri imalatında yüzde 61.3, tekstil ürünleri imalatında yüzde 77.8, giyim eşyası imalatında yüzde 87.2, derinin işlenmesi, bavul ve çantada yüzde 65.9, kağıt ve kağıt ürünleri imalatında yüzde 92.6, basım ve yayım imalatı yüzde 87.7 olarak belirlendi. 
+     Aynı dönemde, kapasite kullanım oranları, kok kömürü rafine edilmiş petrol ürünleri yüzde 93.2, kimyasal madde ürünleri imalatı yüzde 81.3, plastik-kauçuk ürünleri imalatı yüzde 81.3, metalik olmayan diğer mineral madde yüzde 86.8, ana metal sanayi yüzde 74.4, metal eşya sanayi yüzde 79.6, makina ve techizat imalatı yüzde 87.5, elektrikli makina cihazları imalatı yüzde 76.4, radyo, TV haberleşme cihazları imalatı yüzde 92.9, tıbbi, optik hassas aletleri imalatı yüzde 66.6, taşıt araçları ve karoseri imalatı yüzde 83.9, diğer ulaşım araçları imalatı yüzde 75.9, mobilya imalatı yüzde 85.2 oldu. 
+     
+</TEXT>
+</DOC>

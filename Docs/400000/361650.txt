@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 361650 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/16/son/soneko03.html </URL>
+<DATE> 2005/07/16/ </DATE>
+<TIME> 09.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD'de haziran ayı Tüfe oranları açıklandı 
+</HEADLINE>
+<TEXT>
+
+     ABD’de haziran ayı tüketici fiyat endeksi değişiklik göstermedi. 
+     Beklentiler yüzde 0.3 olurken, bir önceki ayın tüketici fiyat endeksi yüzde 0.1 olmuştu. 
+     Perakende satışlar ise haziran ayında beklentilerin üstünde çıkarak yüzde 1.7 arttı. 
+     Tüketici talebinin korunduğu ABD ekonomisinde haziran ayında petrol fiyatlarına bağlı olarak enerji fiyatlarının gerilemesi, enflasyonun değişmemesinde etkili oldu. 
+     ABD Merkez Bankası’nın kademeli olarak gerçekleştirdiği faiz artırımları ile gösterge faizleri yüzde 3.25 seviyesine çekmesine karşılık tüketici talepleri de ABD'de artmaya devam ediyor. 
+     Bu artışta büyümeye bağlı olarak yapılan yatırımlarla istihdam ve ücret düzeyindeki artış etkili olmakta. 
+     
+     Otomobil talebi artıyor 
+     Global ekonomide petrol fiyatlarının yüksek düzeyine bağlı olarak büyüme ivmesinin azalması ise istihdam ve ücretlerdeki bu olumlu seyrin olumsuz etkilenmesine neden olabilir. 
+     Gıda fiyatlarının artmasına karşılık enflasyonun değişmemesinde enerji fiyatlarının haziran ayında gerilemesi etkili oldu. 
+     Yine petrol fiyatlarının mayıs ayına göre haziran ayında daha sakin bir seyir izlemesi, otomobil talebini arttırdı. 
+     Buna bağlı olarak haziran ayında otomobil satışlarında yüzde 4,8’lik yükseliş gösterdi. 
+     Uzmanlar, petrol fiyatlarının halen yüksek bir düzeyde seyretmesine bağlı olarak otomobildeki bu talebin kısa vadeli olabilceğine dikkati çekiyor. 
+     
+</TEXT>
+</DOC>

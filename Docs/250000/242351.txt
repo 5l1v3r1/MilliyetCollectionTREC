@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 242351 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/24/son/soneko12.html </URL>
+<DATE> 2004/05/24/ </DATE>
+<TIME> 11.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tüketici Güven Endeksi değişmedi... 
+</HEADLINE>
+<TEXT>
+
+     Tüketici Güven Endeksi Nisan'da, Mart'a göre değişmeyerek 111 puanda kaldı. 
+     Devlet İstatistik Enstitüsü ile Merkez Bankası'nın ortaklaşa düzenlediği Tüketici Eğilim Anketi sonuçlarına göre, Nisan ayında tüketicilerin mevcut dönem ve gelecek dönem satın alma güçlerine ve iş bulma olanaklarına dair değerlendirmeleri bir önceki aya göre kötüleşti. Buna karşın gelecek dönemde genel ekonomik durum ve mevcut dönemin dayanıklı tüketim malı satın almak için uygunluğu değerlendirmeleri iyileşti. 
+     Mevcut dönemde satınalma gücü endeksinde bir değişiklik olmayarak 111'de kalırken, mevcut dönemin dayanıklı tüketim malı satın alma için uygunluğu endeksi ise yüzde 1.02 artarak, 140.2'den 141.6'ya çıktı. 
+     Gelecek dönem için satın alma gücü endeksi yüzde 1.31 düşüş ile 106.1'den 104.7'ye, gelecek dönem için iş bulma olanakları endeksi yüzde 0.51 azalarak 95.6'dan 95.1'e inerken, gelecek dönem genel ekonomik durum endeksi yüzde 0.89 artışla 113.1'den 114.1'e yükseldi. 
+     Endeksin 100'den büyük olması tüketici güveninde iyimser durum, 100'den küçük olması tüketici güveninde 'kötümser durum', 100 olması ise tüketici güveninde 'ne iyimser ne de kötümser durum' olduğunu gösteriyor. 
+     
+</TEXT>
+</DOC>

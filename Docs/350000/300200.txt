@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 300200 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/23/son/soneko01.html </URL>
+<DATE> 2004/12/23/ </DATE>
+<TIME> 02.06 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsası yükselişle kapandı 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacminde dünyanın en büyük borsası New York Wall Street'in Dow Jones Sanayi Endeksi, 56.46 puan artışla binde 5.2 10,815.89 puandan kapandı. 
+     Petrol fiyatlarının 1 dolardan fazla düşmesi ve ABD'de yılın üçüncü çeyreği ekonomik büyümenin beklenenin üzerinde çıkması Wall Street'in yükselmesinde etken oldu. 
+     İleri teknoloji ortaklıklarının ibresi Nasdaq Birleşik Endeksi de hafta ortası işlem günü son seansını 6.12 puan artışla binde 2.8 2,157.03 puandan noktaladı. 
+     
+</TEXT>
+</DOC>

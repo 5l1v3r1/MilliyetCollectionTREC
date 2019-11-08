@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 295534 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/07/son/soneko21.html </URL>
+<DATE> 2004/12/07/ </DATE>
+<TIME> 12.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı 132 puanlık kayıpla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeksi, dünkü kapanışa göre 132.34 puan düşerek 1. seansı 22,917.17 puandan tamamladı. 
+     1. seansta hisse senetleri ortalama yüzde 0.57 değer yitirdi. 
+     Dün 23,049.51 puandan kapanan İMKB Ulusal 100 Endeksi, ilk seansa 18.85 puan düşerek 23,030.66 puandan başladı. İlk yarıyı 23,808.41 puandan geçen endeks, seans içinde en düşük 22,788.27 puana kadar gerilerken, önceki seans kapanış seviyesi olan 23,049.51 puanın üstüne çıkamadı. 
+     Seans sonunda mali endeks 265.68 puan düşerek 31,570.53 puana, sanayi endeksi 45.14 puan düşerek 20,150.85 puana gerilerken, hizmetler endeksi 32.60 puan artarak 13,252.84 puana yükseldi. 
+     Böylece önceki kapanışa göre, mali grup hisseler ortalama yüzde 0.83, sanayi grubu hisseler ortalama yüzde 0.22 oranında değer yitirirken, hizmet grubu hisseler ortalama yüzde 0.25 oranında değer kazandı. 
+     1. seansta işlem gören toplam 296 hisse senedinden 62'si değer kazandı, 160'ı değer kaybetti, 74 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta, 244 trilyon 479 milyar 68 milyon liralık işlem hacmi oluştu. 
+     1. seansta Yapı ve Kredi Bankası, Ayen Enerji, Bosch Fren Sistemleri, Usaş ve Garanti Bankası en çok işlem gören hisse senetleri oldu. 
+     Borsa uzmanları, güne satıcılı bir başlangıç yapan İMKB'de, 22,800-23,250 bandındaki seyrin bugün de korunma ihtimalinin bulunduğunu ifade ederek, piyasanın yatay ve hacimsiz bir seyir sonrası ilk seansı 22,800 desteğinin üzerinde tamamladığını kaydediyor. 
+     Uzmanlar, işlem hacminin çok düşük olduğu ilk seansta para çıkışının da sınırlı kaldığını vurgulayarak, endeksin bu seviyenin üzerinde tutunması halinde yukarı yönde bir hareketi deneme ihtimalinin bulunduğunu ancak bu düzeltmenin güçlü olmasının beklenemeyeceğini belirtiyor. 
+     
+</TEXT>
+</DOC>

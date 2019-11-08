@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 186890 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/07/ekonomi/eko01.html </URL>
+<DATE> 2003/10/07/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Merkez'den 'enflasyonmetre' 
+</HEADLINE>
+<TEXT>
+
+   Merkez Bankası'nın internet sitesindeki 'enflasyon hesaplayıcısı', seçilen tarih aralığındaki mal ve hizmet sepetinin değerindeki değişimi, ilgili yılların birleştirilmiş TÜFE'lerini oranlayarak buluyor 
+      
+   Merkez Bankası internet sayfasındaki "sıkça sorulan sorular" bölümünü yenileyerek, işlevsel bilgilerin verildiği kısma, "enflasyon hesaplayıcısı"nı da ekledi. Buna göre, enflasyon hesaplayıcısı, Devlet İstatistik Enstitüsü'nün DİE hesapladığı tüketici fiyat endeksine TÜFE göre oluşturuldu. 
+   Enflasyon hesaplayıcısı, 1968 - 2003 yılları arasında, en yeni mal ve hizmet sepetini kullanarak oranlama ile hesaplamayı yapıyor. Enflasyon hesaplayıcısını kullanmak için verilen listeye ilgili yılları ve tutarı girerek hesaplama yapılıyor ve hesaplamada, DİE'nin açıkladığı tüketici fiyat endeksi TÜFE verileri kullanılıyor. 
+   
+   En son endekse göre hesaplama 
+   Bu arada, DİE'nin günümüze kadar, 1968, 1978 - 1979, 1987 ve 1994 yıllarını baz alan farklı TÜFE'ler oluşturması nedeniyle enflasyon hesaplayıcısındaki hesaplamalar, söz konusu dönem içinde en yeni endeksteki değişimleri gösterecek şekilde yapılıyor. Merkez Bankası'nın internet sitesinde enflasyon hesaplayıcısına bir de örnek veriliyor. 
+   Buna göre "1993 Ocak ile 2000 Mart ayları arasındaki 100 liralık bir mal sepetinin değerindeki değişim hesaplanırsa 1993 yılının Ocak TÜFE'si 38.02 , 2000 yılının Mart TÜFE'si 2749.3 . 1993 yılı Ocak ayında 100 lira ederi olan bir mal sepeti TÜFE'ye göre 2000 yılı Mart ayında 100 x 2749.3 38.02 7.231 lira ediyor." 
+   1990'dan 1994'e kadar 1987 yılını baz alan endeksteki değişimler o dönemdeki en yeni endeks olduğu için , 1994 - 2000 yılları arasında ise 1994 yılını baz alan endeksteki değişimler kullanılarak enflasyon hesaplanıyor. Gösterilen TÜFE, 1994 yılını 100 olarak alıyor ve diğer endeksleri buna göre oranlıyor. 1968 - 1982 arasında kullanılan veriler ise sadece yıllık olduğu için söz konusu dönemde aylık hesaplama yapılması mümkün değil. Enflasyonun hesaplanması, aylık enflasyonun hesaplanıp bir yıla genişletilmesi ile gerçekleşiyor. Bulunan değer, aylık enflasyon verilerinin basit ortalaması değil, bileşkesi toplam değişimi veren aylık enflasyon oluyor. 
+   
+   Döviz alım ihalesinde günlük miktar 80 milyon dolara çıktı    Merkez Bankası, bugünden başlamak üzere, ekim ayının kalan döneminde yapılacak günlük döviz alım ihalelerinin miktarını 80 milyon dolara çıkardı. Böylece 80 milyon doları ihale ve 40 milyon doları opsiyon hakkı kullanımlarıyla olmak üzere, günlük tutar en fazla 120 milyon dolar olacak. 
+   Merkez Bankası'ndan yapılan açıklamada, bu ay için günlük döviz ihalelerinde alınacak tutarın 50 milyon doları ihale, 25 milyon doları opsiyon olmak üzere en fazla 75 milyon dolar olarak belirlendiğinin daha önce kamuoyuna duyurulduğu kaydedildi. Açıklamada, ay başından bu yana yapılan dört döviz alım ihalesi ve ihale sonrası ek satım opsiyonu kullanımları ile toplam 271 milyon dolar alındığı ve böylece ekimde ortalama günlük alım tutarının 68 milyon dolara ulaştığı bildirilerek şöyle denildi 
+   
+   'Arz sürecek' 
+   "Eylülde Merkez Bankası'nın toplam 3 milyar 463 milyon dolar aldığı ve eylüldeki arz miktarının ekimde de süreceği dikkate alınarak, günlük döviz alım ihalelerinin miktarı 80 milyon dolara çıkarıldı. Böylece 80 milyon dolar ihale ve 40 milyon dolar opsiyon hakkı kullanımlarıyla olmak üzere, günlük olarak alınacak tutar en fazla 120 milyon dolar olacak." 
+   
+   
+</TEXT>
+</DOC>

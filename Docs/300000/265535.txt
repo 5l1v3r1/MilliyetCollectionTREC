@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 265535 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/22/son/sonyas02.html </URL>
+<DATE> 2004/08/22/ </DATE>
+<TIME> 10.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternet kullanımında patlama... 
+</HEADLINE>
+<TEXT>
+
+     Türkiye, teknolojideki gelişmeyle birlikte artan internet kullanımı ile telefon hattı sayısında hızlı ilerliyor. 
+     Türkiye'de internet kullanıcılarının sayısı 3 yılda 9 kata yakın artarken, dünya ortalamasındaki artış 1.4 katta kaldı. 
+     A.A muhabirinin Dünya Bankası verilerini baz alarak yaptığı hesaplamalara göre, Türkiye'de 1999-2002 döneminde internet kullanıcı sayısı 450 bin kişiden 4.9 milyon kişiye çıktı. Bu rakam yüzde 988.9'luk artış anlamına geliyor. 
+     Aynı dönemde dünyadaki internet kullanıcı sayısı ise 183 milyondan 683 milyon kişiye çıktı. Dünya internet kullanıcı sayısındaki artış ise Türkiye'nin hayli altında kalarak yüzde 240 oldu. 
+     Bu olumlu gelişmeye karşılık, nüfusun yaklaşık yüzde 7'sinin internet kullanıcısı haline geldiği göz önüne alınırsa, bu alanda hayli alınması gereken yol olduğu görülüyor. 
+     -TELEFON HATTINDA DÜNYA ORTALAMASININ ÜZERİNDEYİZ- Aynı dönemde Türkiye'de, bin kişiye düşen sabit ve mobil telefon hattı sayısı yüzde 95.3 arttı ve 322'den 629'a çıktı. 
+     Dünya ortalamasın da bu dönemde yüzde 83.3 oranında artış gözlenirken, bin kişiye düşen telefon hattı sayısı 156'dan 286'ya yükseldi. 
+     Bu rakamlara göre Türkiye dünya ortalamasının 1.2 kat üzerinde yer aldı. 
+     -KİŞİSEL BİLGİSAYAR SAYISINDA SINIFTA KALDIK- Bin kişiye düşen kişisel bilgisayar sayısı açısından ise bu dönemde dünya ortalaması üzerinde artış yakalayan Türkiye'nin daha alması gereken büyük bir mesafe olduğu ortaya çıkıyor. 
+     Dünya ortalamasında her bin kişiye 101 kişisel bilgisayar düşerken, bu rakam Türkiye'de 45 adette kalıyor. 
+     
+</TEXT>
+</DOC>

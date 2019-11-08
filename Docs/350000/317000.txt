@@ -1,0 +1,43 @@
+<DOC>
+<DOCNO> 317000 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/20/son/sontur04.html </URL>
+<DATE> 2005/02/20/ </DATE>
+<TIME> 09.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Patlayıcı ile patlatıcı aynı depoda 
+</HEADLINE>
+<TEXT>
+
+     Patlayıcı madde üretimi yapan ve patlayıcı madde depolayan işyerlerine yönelik denetimlerde, birlikte bulunmaması gereken ''patlayıcı ve patlatıcı özellikteki maddelerin aynı depoda saklandığı'' belirlendi. 
+     Alınan bilgiye göre, Çalışma ve Sosyal Güvenlik Bakanlığı İş Teftiş Kurulu Başkanlığı müfettişlerince ''Patlayıcı Madde Üretimi Yapan ve Patlayıcı Madde Depolayan İşyerlerinin Sektör Denetimi'' adlı proje çerçevesinde 19 ildeki, toplam 1919 işçinin çalıştığı 33 işyeri, iş sağlığı ve güvenliği yönünden denetlendi. 
+     Denetimlerde, işyerlerinden 20'sinin kurma izni ve işletme belgesinin olmadığı ortaya çıktı. İşyerlerinden 4'ünün kurma ve işletme, 9'unun ise yalnızca işletme belgesine sahip olduğu belirlendi. 
+     Denetimlerde ilginç olduğu kadar tehlikeli sonuçlara ulaşılırken, patlayıcı madde üreten ve depolayan kimi işyerlerinde ''dinamit ile piroteknik'' gibi ''patlayıcı ve patlatıcı maddelerin aynı kısımda depolandığı'', kimilerinde ise ''açık alevle ısıtma ve kurutma yapıldığı'' tespit edildi. 
+     Sektörde en sık karşılaşılan mevzuata aykırılıklardan biri 19 işyeri ile ''depo güvenlik mesafesini gösteren kroki ya da arazi muvafakat belgesi bulunmaması'' olurken, belirlenen diğer bazı eksiklikler ve karşılaşılan işyeri sayısı şöyle 
+     -Dinamit ile piroteknik malzeme, aynı kısımda depolanan. 2 işletme 
+     -İşyerinde açık alevle ısıtma, kurutma yapılan. 2 işletme 
+     -Çevreyle güvenlik mesafesi uygun olmayan. 1 işletme 
+     -Topraklama ve elektrik tesisatının kontrolü yapılmayan. 9 işletme 
+     -Depo çevresinde kolay tutuşabilecek maddeler bulundurulan. 11 işletme 
+     -Bulunmasına izin verilen en çok patlayıcı miktarı ve veya işçi sayısı belirlenmeyen. 6 işyeri 
+     -Uzman imha ekibi olmayan. 2 işyeri 
+     -Yangın alarm sistemi olmayan. 2 işyeri 
+     -Patlayıcı maddeleri günlük ihtiyaçtan fazla miktarda depolayan. 1 işyeri 
+     -Yuvarlanabilen rulo malzemelerin önünde takoz bulunmayan. 1 işyeri 
+     -İşçilere iş sağlığı ve güvenliği eğitimi verilmeyen. 1 işyeri 
+     -Depo çevresinde tel örgü bulunmayan. 1 işyeri 
+     -Buhar kazanının yeri uygun olmayan. 1 işyeri 
+     -Depo girişinde güvenliğin yetersiz olduğu. 2 işyeri 
+     -İşçilerin sağlık raporları bulunmayan, yönetmeliğe uygun olmayan. 19 işyeri 
+     -Depoda uyulması gereken kuralları belirleyen talimat ve ikaz levhaları olmayan. 16 işyeri 
+     -İşçilere yangın söndürme eğitimi verilmeyen 9 işyeri 
+     -Tesis çevresinde güvenlik engeli bulunmayan, yetersiz olan ve izleme sistemi bulunmayan. 7 işyeri 
+     
+     SON 1 YILDA 31 İŞ KAZASI 
+     Denetimlerde ayrıca, söz konusu 33 işyerinde son 1 yılda 31 iş kazası yaşandığı tespit edildi. Kazaların tamamı yaralanmayla sonuçlanırken, ölüm ve sakat kalma olayı yaşanmadı. İş kazaları nedeniyle sektörde 635 iş günü kaybı oldu. 
+     Küçük ve orta ölçekli işyerlerinin yalnızca ağır iş kazalarının istatistiğini tutmalarının, tespit sayısının düşük çıkmasına yol açtığı bildirildi. 
+     İşyerlerinin proje kapsamında ilk kez denetlenmesi dikkate alınarak faaliyet durdurma, kapatma ve idari para cezası uygulamasına gidilmedi. Buna karşın eksikliklerin ve mevzuata aykırılıkların gidermesi için işletmelere ortalama 1'er ay süre verildi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 341631 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/11/son/sontur23.html </URL>
+<DATE> 2005/05/11/ </DATE>
+<TIME> 10.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Haberleşme cihazlarında "CE" işareti zorunluluğu başladı 
+</HEADLINE>
+<TEXT>
+
+     AB tarafından ürünlerin "güvenli" olduğunu belirtmek üzere kullanılan "CE" işaretinin Türkiye’deki haberleşme cihazlarında bulundurulması zorunluluğu bugünden itibaren başladı. 
+     Telekomünikasyon Kurumu’nun AB mevzuatına uyum çalışmaları çerçevesinde hazırladığı ve 11 Mayıs 2003’te Resmi Gazete’de yayımlanan Telsiz ve Telekomünikasyon Terminal Ekipmanları Yönetmeliği yürürlüğe girdi. 
+     Telsiz ve telekomünikasyon terminal ekipmanlarının sahip olması gereken asgari güvenlik koşullarına ilişkin temel gerekleri belirleyen yönetmelik, haberleşmenin kalitesinin artırılmasını ve çalışmaları bakımından seyrüsefer veya diğer kamu güvenliği haberleşme hizmetlerini tehlikeye sokan veya telsiz haberleşme hizmetinin çalışmasını ciddi ölçüde bozan, engelleyen veya sürekli kesinti oluşturan etkilerin ortadan kaldırılmasını amaçlıyor. 
+     Yönetmeliğe göre artık, Türkiye’de piyasaya sunulacak haberleşme cihazlarında AB’nin aldığı karar doğrultusunda zorunlu olarak kullanılan "CE" işareti bulunması zorunluluğu aranacak. Haberleşme cihazlarını piyasaya süren firmalar, onaylanmış kuruluşlardan ürünlerinin "CE" standardına uygunluğuna dair onay aldıktan sonra, bu işareti ürünlerinin üzerine yazacaklar. 
+     AB’de piyasaya sürülecek ürünlerde bulunması zorunlu olan "CE" işareti, ürünlerin, amacına uygun kullanılması halinde insan can ve mal güvenliği, bitki ve hayvan varlığı ile çevreye zarar vermeyeceğini, ürünün güvenli olduğunu gösteriyor. 
+     
+     TELLİ VE TELSİZ CİHAZLAR 
+     Uygulama, telli ve telsiz olmak üzere iki kategoriden cihazları kapsıyor. "CE" işareti zorunluluğu getirilen telli cihazlar arasında telefon ve santralları, faks, PCI kartı, ses kayıt kartı, video konferans cihazı, internet erişiminde kullanılan modem ve ADSL modem ile routerlar bulunuyor. 
+     Telsiz ekipmanlar arasında da telsiz sistem adaptörü, kablosuz internet erişim aygıtları, kablosuz mikrofonlar, el telsizleri, deniz radarı, bluetooth, recevier uydu alıcı ve verici cihazları, VHF UHF alıcı ve vericileri, kablosuz internet kamerası, endüstriyel vinç uzaktan kumandaları yer alıyor. 
+     Telekomünikasyon Kurumu, cihazların piyasaya arzı veya dağıtımı aşamasında veya cihaz piyasada bulunurken yönetmeliğe uygun olarak üretilip üretilmediğini, uygun şartlarla hizmete sunulup sunulmadığını denetleyecek. Denetim sonucunda gerekli şartları taşımayan cihazların piyasaya sürülmesi engellenecek. Kurum, cihazlara ilişkin toplatma, yasaklama ve bertaraf kararları verebilecek. 
+     Yönetmeliğin yayınlanmasının ardından Telekomünikasyon Kurumu, sektörün uygulamaya hazır hale getirilebilmesi için çeşitli tarihlerde sektör temsilcileriyle bilgilendirme toplantıları düzenledi. 
+     Son olarak 22 Nisan’da, uydu alıcı cihazları sektöründe haksız rekabetin önlenmesi ve enterferans şikayetlerine konu olan uydu alıcılarının piyasadan toplatılması ya da kullanımdan kaldırılması konularında sektör temsilcileriyle bir toplantı yapıldı ve yönetmelik hükümleri hakkında hatırlatmalarda bulunuldu. 
+     
+</TEXT>
+</DOC>

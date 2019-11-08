@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 229319 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/07/son/soneko50.html </URL>
+<DATE> 2004/04/07/ </DATE>
+<TIME> 17.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası güne düşüşle başladı... 
+</HEADLINE>
+<TEXT>
+
+     New York Menkul Kıymetler Borsası, açılışta değer kaybetti. 
+     Dow Jones Endeksi, 50.52 puan yüzde 0.5 değer kaybederek 10,520.29 puana geriledi. Nasdaq Bileşik Endeksi ise 9.34 puan yüzde 0.4 gerileyerek 2,050.56 puana indi. 
+     Standard and Poor's 500 endeksi de 4.81 puanlık düşüşle 1,143.35 puana geriledi. 
+     
+</TEXT>
+</DOC>

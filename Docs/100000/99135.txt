@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 99135 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/07/31/son/soneko24.html </URL>
+<DATE> 2002/07/31/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Windows XP satış rekoru kırdı... 
+</HEADLINE>
+<TEXT>
+
+     Windows XP, 46 milyon lisansa ulaşan satışıyla, Windows tarihinde en fazla satılan işletim sistemi olduğu açıklandı. 
+     Microsoft'tan yapılan açıklamaya göre, Windows XP'nin pazardaki performansını değerlendiren Microsoft Başkanı ve Baş Yazılım Mimarı Bill Gates, Windows XP'nin 2001 yılının Ekim ayından bu yana satışların 46 milyon lisansa ulaştığını kaydetti. 
+     Aynı süre içinde satılan herhangi bir Windows versiyonunun iki katından daha fazla lisans satışı ile Windows XP'nin başarısından büyük mutluluk duyduklarını belirten Gates, satış verilerinin Microsoft'un bir önceki çeyrekte açıkladığı gelirleri üzerindeki olumlu etkisine dikkat çekti. 
+     
+     PC'Yİ UZAKTAN KUMANDA İLE KONTROL 
+
+     Windows XP'yi piyasaya sunarak BT endüstrisine hareket getiren Microsoft, Windows XP Ailesi'nin yeni ürününü kullanıcılarla buluşturmaya hazırlanıyor. 
+     Daha önce ''Freestyle'' kod adıyla duyurduğu yeni işletim sisteminin Windows XP Media Center Edition olacağını açıklayan Microsoft, PC'leri bir dijital eğlence merkezine dönüştüren yeni ürününü bu yıl sonununda ABD, Kanada ve Güney Kore'de piyasaya sunacak. 
+     PC'yi uzaktan kumanda ile kontrol edebilme imkanı sunan ve televizyon, video, DVD, dijital görüntü, fotoğraf ve sesi biraraya getiren bir yazılım geliştiren işletim sisteminin özellikle gençler ve öğrenciler tarafından büyük ilgi görmesi bekleniyor. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

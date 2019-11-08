@@ -1,0 +1,44 @@
+<DOC>
+<DOCNO> 60526 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/01/04/yasam/yas13.html </URL>
+<DATE> 2002/01/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayarlar artıyor siber alem küçülüyor’ 
+</HEADLINE>
+<TEXT>
+
+     DIŞ HABERLER SERVİSİ 
+
+     ABD'de yapılan bir araştırma, bilgisayar kullanıcısı sayısı sürekli artsa da, 'web sitesi' sayısının azaldığını ortaya koydu. 
+     İnternette site sayılarını araştıran kuruluşlardan Netcraft'ın incelemesine göre, 2001 Aralık ayında siber alemdeki site sayısı 182 bin 142 adet azaldı. Uzmanlar bu 'daralmanın' internet sitelerinin iflas etmesinden veya 'Kırmızı Kod Code Red ' virüsünden kaynaklandığı görüşünde. 
+     Netcraft'ın araştırmasına göre, internetin henüz emeklediği 1995'de siber alemde 18 bin 957 web sitesi yer alırken, 2001 aralığındaki düşüşe rağmen bu sayı o günden bugüne tam 36 milyon 276 bin 252'ye yükseldi. 
+     
+
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 387731 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/18/son/sontur14.html </URL>
+<DATE> 2005/10/18/ </DATE>
+<TIME> 10.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kablosuz internet ağı yaygınlaşıyor... 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekom’un Türkiye genelinde başlattığı ve belediyelerin de uyum sağladığı kablosuz internet atağının, yaklaşık 400 noktaya ulaştığı bildirildi. 
+     Türk Telekom yetkililerinden alınan bilgiye göre, dünyanın en büyük bilgisayar çipi üreticisi Intel ile yapılan işbirliği kapsamında başlatılan kablosuz internet ağı uygulaması, dizüstü bilgisayar kullanıcıları için sınırsız özgürlük sağladı. 
+     İşbirliği kapsamında, kablosuz internet erişim noktalarının sayıca çoğalması, bu hizmetin halka açık alanlarda yaygınlaşması ve küresel ölçekte tanınmasının amaçlandığını belirten yetkililer, 400’e yaklaşan bağlantı noktasının, yıl sonuna kadar 500’e ulaşmasının hedeflendiğini söyledi. 
+     Uygulamada, dizüstü bilgisayarlar için geliştirilen ilk bütünleşik mobil işlemci platformu olan Centrino Teknolojisi’nin kullanıldığını ifade eden yetkililer, internet ağlarının, genellikle havaalanları, oteller ve alışveriş merkezleri gibi mekanlarda tercih edildiğini kaydetti. 
+     Yetkililer, uygulamanın Türkiye çapında daha geniş kitlelere duyurulması ve faydalarının anlatılmasına yönelik çalışmaların da sürdüğünü belirterek, şöyle konuştu 
+     "İşbirliği kapsamında Intel, Türkiye’deki Türk Telekom kablosuz Internet erişim noktalarını tüm dünyadaki diğer Intel onaylı ’Kablosuz İnternet Erişim Alanları’ Hotspot listesine ekleyerek dünyaya da duyuracak. Böylece, internetten kopamayan turistler, Türkiye’de de çalışmalarını sürdürebilecek. Yurtiçinde sık sık seyahat eden bir işadamı, ya da internete bağlanmak için mekan arayan bir öğrenci, kullandığı dizüstü bilgisayarla ihtiyaç duyduğu bilgi ve eğlence dünyasına kolayca erişme imkanı bulacak." Yetkililer, haberleşmedeki genel eğilimin, kullanıcılara her yerde ve her zaman hızlı internetin sağlanması yönünde olduğuna da dikkati çekti. 
+     Bu kapsamda 2006 sonuna kadar ülke genelinde bağlantı noktası sayısını bine çıkarmayı hedeflediklerini belirten yetkililer, şimdilik sadece dizüstü ve cep bilgisayarları ile sağlanılan kablosuz internet hizmetinden, çok yakında yaygınlaşacak WLAN özellikli cep telefonları ile de yararlanılabileceğini bildirdiler. 
+     Bu arada, Adana’nın merkez Seyhan İlçe Belediyesi de sorumluluk sahasındaki Toros Mahallesi Barış Manço Bulvarı’ndaki Doğal Park’ta ücretsiz, kablosuz internet ulaşım ağır kurdu. 
+     Seyhan Belediye Başkanı Azim Öztürk, Adana ve Çukurova Bölgesi’nde ilk olan uygulamada, doğal parka dinlenmeye gelen dizüstü bilgisayar kullanıcılarının sisteme uyumlu olması halinde kolayca internete bağlanarak dünyadaki gelişmelerden bilgi sahibi olabileceğini söyledi. 
+     İnternetin insan hayatında artık önemli bir yeri bulunduğunu belirten Öztürk, "Teknoloji ve bilişim çağı olan günümüzde gençlerimizi bu hizmetten yararlanmaya çağırıyoruz" dedi. 
+     
+</TEXT>
+</DOC>

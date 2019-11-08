@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 219215 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/02/son/soneko15.html </URL>
+<DATE> 2004/03/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türk Telekom 2004'te de 2 bin personel azaltacak... 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekom A.Ş. Genel Müdürü Mehmet Ekinalan, serbestleşmenin başlaması nedeniyle oluşacak rekabetten, uzak mesafe telefon gelirleri dışındaki gelir kalemlerinin ciddi olarak etkilenmesini beklemediklerini bildirdi. 
+     4. Telekomünikasyon Arenası'nda konuşan Ekinalan, Türk Telekom'un bugünkü büyüklüğüne bakıldığında sadece Türkiye'de değil, bölgesinde de göz önüne alınması gereken önemli rakamlara sahip bulunduğunu söyledi. 
+     Ekinalan, Türk Telekom'un 19 milyon sabit telefon, 1 milyon kablolu TV, 300 bin internet abonesi, 70 bin ADSL kullanıcısı, 76 bin ankesörlü telefon, 3 uydusu ve 4 milyonluk mobil operatörde yüzde 40'lık payı bulunduğunu belirterek, ''Bütün bunlarla oluşan finansal büyüklüğe baktığımızda 2003 rakamlarıyla 9.4 katrilyon lira ciro, 2.8 katrilyon lira da brüt kar gözükmekte'' dedi. 
+     Cironun yaklaşık yüzde 85'lik kısmının sabit ses hizmetlerinden oluştuğunu bildiren Ekinalan, ''Bunun da yaklaşık yüzde 8'lik kısmını uzak mesafe telefon gelirleri oluşturuyor. Piyasaya yeni girecek operatörlere pazar büyüklüğü hakkında fikir verebilecek rakam 600 trilyon lira mertebesidir'' diye konuştu. 
+     Data gelirlerinin toplam cironun yüzde 7.5'lik kısmını oluşturduğunu ifade eden Ekinalan, 2004 hedeflerine ilişkin olarak şunları kaydetti 
+     ''Serbestleşmenin başlamış olması nedeniyle bütün dünyada olduğu gibi özellikle uzak mesafe telefon gelirlerimizde oluşacak rekabetten dolayı azalma beklerken, diğer gelir kalemlerimizin bu rekabetten dolayı ciddi olarak etkilenmesini beklememekteyiz. 
+     Sabit telefon hizmetlerimizdeki çeşitliliği ve gelirlerimizi artırmayı hedeflemekteyiz. Bunun yanı sıra verimlilikteki artış çok önemlidir. 2003 yılında gerçekleşen 2 bin personel azalması, 2004'de de devam ettirilecek. Verimlilik artışını sağlayacak IT yatırımları da önceliklerimiz arasındadır. Bunların dışında bu yılın yoğunluğu data hizmetlerinde olacak.'' 
+     
+     ADSL'DE 1 MİLYON ABONE HEDEFİ 
+     Mehmet Ekinalan, bu yıl yapmayı planladıkları 800 trilyon liralık yatırımların önemli bir kısmının hızlı internet erişimine olanak sağlayan ADSL ve diğer ilgili altyapı alanlarına yönelik olacağını belirterek, bu yıl ADSL'de 1 milyon aboneye ulaşmayı hedeflediklerini bildirdi. 
+     Ekinalan, ''1 milyon ADSL hedefine ulaşabilmek için sadece fiyatlarla oynayıp, müşteri artışı beklemek yerine, pazarı büyütüp, en büyük payı almayı hedeflemekteyiz'' diye konuştu. 
+     Özelleştirmeye de değinen Ekinalan, ''Özelleştirmenin başarılarak rakipleriyle eşit şartlarda rekabet edecek Türk Telekom, bugünkünden çok daha karlı ve verimli olacaktır'' dedi. 
+     Avrupa Birliği Komisyonu Bilişim Toplumu Başkanı Richard Harris de telekomünikasyon alanında Türkiye'ye bir yardım yapılacaksa bunun ancak politika ve düzenleyici açısından olacağını belirterek, ''Türkiye'de kullanılacak Avrupa yardımı muhtemelen danışmanlık alanında olacaktır'' dedi. 
+     Harris, AB adayı ülkelerin son iki yılda sürekli takip ettiklerini, Türkiye'yi de çok sıkı bir şekilde takibe aldıklarını belirterek, ''Biz, hukuki çerçevedeki ilerleme ve pazarda ne olur diye bakmaktayız'' diye konuştu. 
+     Türkiye'de dijital santral penetrasyonunun son 2 yıldır büyümediğini görmenin garip olduğunu dile getiren Harris, mobil penetrasyonun iyi olduğunu, serbestleşmeye yeni geçilmesi nedeniyle henüz rekabetin bulunmadığını, bunun da birkaç yıl içinde olacağını kaydetti. 
+     
+</TEXT>
+</DOC>

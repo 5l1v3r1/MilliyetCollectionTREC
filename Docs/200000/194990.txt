@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 194990 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/12/son/sondun14.html </URL>
+<DATE> 2003/11/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft açıkları kapatıyor... 
+</HEADLINE>
+<TEXT>
+
+     Yazılım firması Microsoft, ürünlerindeki açıkları kapatmak amacıyla dün 3'ü kritik nitelikte 4 yeni yama daha yayımladı. 
+     Microsoft ürünlerindeki açıklar, bilgisayar korsanlarının bilgisayarları ele geçirmesine ve kendi yararlarına kullanmasına olanak veriyor. 
+     Kritik açıkların internet tarayıcısı IE6.0, Windows 2000 ve Windows XP programlarında olduğu bildirildi. Kuruluş, açıklardan Windows 2003 server'ların etkilenmediğini de duyurdu. 
+     Office 97, 2000 ve XP programlarında da ılımlı derecede açıklar bulunduğu belirtiliyor. Microsoft'un durumdan, güvenlikle ilgili elektronik posta listelerindeki tartışmalar yoluyla haberdar olduğu kaydedildi. 
+     Evvelce her hafta çarşamba günleri güvenlik yamaları yayımlayan Microsoft, artık her ayın ikinci salı günü yama yayımlıyor. Bu uygulamaya, kullanıcıların yamaları kolayca indirip yüklemelerine fırsat vermek amacıyla geçildiği kaydedildi. 
+     Microsoft, geçen günlerde Blaster ve Sobig adlı virüsleri yazanların yakalanmasına yardımcı olacak kişilere verilmek üzere toplam 500 bin dolar ödül koymuştu. 
+     Microsoft'un son yamaları, www.microsoft.com security adresinden indirilebiliyor. 
+     
+</TEXT>
+</DOC>

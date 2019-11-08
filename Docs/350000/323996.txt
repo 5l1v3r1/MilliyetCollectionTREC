@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 323996 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/16/son/sondun57.html </URL>
+<DATE> 2005/03/16/ </DATE>
+<TIME> 22.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Cassini, Satürn'ün uydusunda kalın bir atmosfer buldu 
+</HEADLINE>
+<TEXT>
+
+     Uzay sondası Cassini, Satürn gezegeninin uydusu Enceladus'un etrafında kalın bir atmosfer buldu. 
+     Jet Propulsion Laboratuvarı JPL , Cassini'nin Enceladus'un iki kez yakınından geçtiğini, bilimadamlarının, atmosferin volkanlar, gayzerler volkan bölgelerinde, belli aralıklarla su ve buhar fışkırtan sıcak kaynak, kaynaç ve bazı yeraltı hareketleri nedeniyle oluştuğunu tahmin ettiklerini belirtti. 
+     JPL'den yapılan açıklamada, Cassini'nin 17 şubat ve 9 mart tarihlerinde iki kez Enceladus'un yakınından geçtiği sırada uydudaki manyetik alanları bulmaya yarayan manyetometreyi kullandığı kaydedildi. 
+     JPL, Enceladus'da yerçekiminin zayıf olması nedeniyle atmosferin kalıcı olması için devamlı bir kaynağa ihtiyaç duyulduğunu bildirdi. 
+     500 kilometre genişliğindeki buzlarla kaplı Enceladus'un Güneş Sistemi'ndeki en yansıtıcı nesne olduğu, güneş ışınlarının yaklaşık yüzde 90'ını yansıttığı bildiriliyor. 
+     Huygens sondası da Satürn'ün gizemli uydusu Titan'dan ilk fotoğrafları Ocak ayında göndermeye başlamıştı. 
+     İlk fotoğraflar, eksi 190 derecelere varan, yüzeye çıkan donmuş siyah-beyaz yılankavi çizgileri ortaya çıkarmıştı. Bu da bilim adamlarının, kalın atmosfere sahip tek Güneş Sistemi uydusu olan Titan'da ''sıvı yüzey'' ihtimalini ortaya çıkarmıştı. Titan'ın Dünya'dan 1,5 kat koyu atmosferi, Dünya gibi büyük oranda azot içeriyor. 
+     Huygens, Cassini'den 24 Aralık'ta ayrılarak Titan atmosferine inmeye başlamıştı. 
+     İnsansız uzay uçuşlarında 3 milyar 400 milyon dolarla en büyük proje olan ve 1997'de fırlatılan Cassini-Huygens, adını, 350 yıl önce Titan'ı keşfeden Felemenkli gökbilimci Christiaan Huygens ile Satürn'ün halka aralığı ve 4 uydusunu belirleyen İtalyan asıllı Fransız gökbilimci Gian Domenico Cassini'den alıyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 287258 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/08/son/sonyas10.html </URL>
+<DATE> 2004/11/08/ </DATE>
+<TIME> 11.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bu gen gözleri açacak 
+</HEADLINE>
+<TEXT>
+
+     Britanyalı bilim adamları, yeni bulunan bir gen sayesinde körlüğün tedavi edilebileceğini açıkladı. 
+     Leeds Üniversitesi'nde çalışmalarını yürüten bir grup uzman, nadir rastlanan ve ırsi olan FEVR adlı körlük türünün hangi DNA hatasından kaynaklandığını tespit etti. Bu buluş, yaygın körlük türlerinin tedavi edilmesi konusunda bir umut kaynağı oldu. 
+     FEVR adlı hastalıkta, göz damarları normal şekilde büyümüyor ve bu da körlüğe yol açıyor. 
+     11. kromozomda yer alan ve FEVR'e neden olan geni tespit eden bilim adamlarının buluşu 'American Journal of Human Genetics'te de yayımlandı. 
+     Bu gelişmelere rağmen ekipten Dr. Carmel Toomes, bu genin FEVR'in her tipini açıklamaya yetmediğini belirtti. Dikkatli bakıldığında aynı kromozomda ikinci bir gen de bulunduğunu fark eden bilim adamları, bu genin de hastalıkla ilişkili olduğunu söyledi. 
+     Carmel Toomes, "FEVR'i inceleyerek damar büyümesine neden olan molekülleri anlayabilirsek, bu bizim normal damar büyümesi ile anormal damar büyümesi arasındaki ayrımı net olarak görmemizi sağlayacak" dedi. 
+     
+</TEXT>
+</DOC>

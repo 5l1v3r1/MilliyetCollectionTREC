@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 307405 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/18/yasam/yas09.html </URL>
+<DATE> 2005/01/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kobay hücrelerden 'kaslı' robot 
+</HEADLINE>
+<TEXT>
+
+
+NEVSAL ELEVLİ LONDRA 
+
+AMERİKA'NIN Kaliforniya Üniversitesi bilim adamları, kaslarla hareket edebilen küçük robotlar yaptı. Robotun hareketini, mikroskobik silikon çiplerin üzerine 'büyütülerek' iliştirilen kobay hücreleri sağlıyor. 1 milimetreden bile daha küçük olan bu minik robotlar, dışarıdan bir enerjiye ihtiyaç duymuyor. 
+HAREKET, kobay kalbinden alınan hücreler sıkıştığında gerçekleşiyor. Prof. Carlo Montemagno, "Bu aygıt hem bir iskelet hem de üzerinde hareket etmesini sağlayan kaslara sahip" dedi. Montemagno, daha önce de proteinin genetik inşasıyla kendi çarkında dönen nano-motorları icat etmişti. 
+
+
+</TEXT>
+</DOC>

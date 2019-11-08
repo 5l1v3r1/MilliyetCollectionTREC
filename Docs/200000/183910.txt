@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 183910 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/22/son/soneko19.html </URL>
+<DATE> 2003/09/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Turkcell ile Türk Telekom arabağlantı ücret tarifesini netleştirdi 
+</HEADLINE>
+<TEXT>
+
+     Turkcell ile Türk Telekom, imzaladıkları ek protokol ile şebekelerarası arabağlantı ücret tarifesini net olarak belirledi. Türk Telekom sebekesinden Turkcell şebekesine doğru olan trafik için Türk Telekom Turkcell'e net 210.000 TL dakika ödeyecek. 
+     Turkcell İletişim Hizmetleri A.Ş'den Borsa'ya gönderilen açıklamada, Türk Telekomünikasyon A.Ş. ile Turkcell'in, 23 Mayıs 2003 tarihinde yürürlüğe giren Erişim ve Arabağlantı Yönetmeliği uyarınca 24 Nisan 1998 tarihinde imzalanan Türk Telekom Turkcell Şebekelerarası İrtibat ve İşbirliği Sözleşmesi'nin bazı hükümlerini 20 Eylül 2003 tarihli ek bir protokol ile tadil ettikleri bildirildi. 
+     Açıklamaya göre, 24 Nisan 1998 tarihinde imzalanan Şebekelerarası İrtibat ve İşbirliği Sözleşmesi'nin ek protokol ile değiştirilen hükümleri dışında kalan hükümleri aynen uygulanacak. 
+     Ek protokol imza tarihi itibariyle yürürlüğe girdi. Ek protokolde yer alan ücretler, KDV ve Özel İletişim Vergisi ile diğer her türlü vergi, resim, harç ve benzeri mali yükümlülükler hariç net olarak belirlendi. 
+     Türk Telekom sebekesinden Turkcell şebekesine doğru olan trafik için Türk Telekom Turkcell'e net 210.000 TL dakika ödeyecek. Bu ücret, protokole uygun olarak her üç ayda bir uyarlanacak ve 1 Mayıs 2004 tarihinde o gün ulaştığı tutar üzerinden yüzde 4,762 oranında tenzilata tabi tutulacak. Turkcell şebekesinden çıkıp Türk Telekom şebekesine doğru olan trafik için Turkcell Türk Telekom'a, alan içinde net 50.000 TL dakika ve alan dışında net 70.000 TL dakika ödeyecek. Uluslararası aramalarda, Turkcell şebekesinden çıkıp Türk Telekom tarafından taşınan aramalar için yürürlükteki Türk Telekom tarifesinin üzerinden Türk Telekom'a net meblağın yüzde 70'ini ödeyecek. Türk Telekom tarafından taşınarak Turkcell şebekesinde sonlanan aramalar için Türk Telekom Turkcell'e net meblağın yüzde 45'ini ödeyecek. 
+     SMS'lerde, kısa mesaj servisi Türk Telekom şebekesinden çıkıp Turkcell şebekesinde sonlanan SMS'ler için Türk Telekom Turkcell'e net 29.000 TL SMS ücret ödeyecek. Turkcell şebekesinden çıkıp Türk Telekom şebekesinde sonlanan SMS'ler için Turkcell Türk Telekom'a net 15.000 TL SMS ücret ödeyecek. 
+     
+     ÜCRETLER 3 AYDA BİR YENİDEN BELİRLENECEK 
+     Uluslararası çağrılar hariç olmak üzere, Türk Lirası olarak belirlenen ücretler taraflarca her üç ayda bir TÜFE gözönüne alınarak ancak bazı hallerde ABD dolarındaki değişiklikler de dikkate alınarak yeniden belirlenecek. 
+     Ek protokolun yürürlüğe girdiği tarihten itibaren 31 Aralık 2004 tarihine kadar olan dönem ''uyum dönemi'' olarak kabul edildi. 
+     Ek protokolde yeralan ücretler 31 Aralık 2004 tarihine kadar geçerli olacak. Bu tarihten itibaren Ek protokol hükümlerine göre yeniden tespit edilecek. 
+     Protokol ile taraflar arasındaki Şebekelerarası İrtibat ve İşbirliği Sözleşmesi'nde düzenlenen temel birim ücret düzenlemesi yürürlükten kalkarken, Türk Telekom ve Turkcell'in birbirlerinin şebekelerine yapılan aramalar için bundan sonra maliyetlerini de gözönünde bulundurarak tarifelerini düzenleyebilecekleri bildirildi. 
+     Turkcell açıklamasında, diğer mobil operatörlerle şebekelerarası arabağlantı görüşmelerinin halen devam ettiği bildirildi. 
+     
+</TEXT>
+</DOC>

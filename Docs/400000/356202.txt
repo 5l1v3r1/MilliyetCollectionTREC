@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 356202 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/28/son/soneko06.html </URL>
+<DATE> 2005/06/28/ </DATE>
+<TIME> 07.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İran'dan Turkcell'e ikinci şans 
+</HEADLINE>
+<TEXT>
+
+     İran’da GSM pazarında ilk özel şirket olmayı hedefleyen İrancell konsorsiyumu, Türkcell’e bir şans daha tanıyor. 
+     İrancell Başkanı Masum Ferdis, "Türkcell, şartlarımızı görüşmeyi istedi ve İrancell konsorsiyumundaki ortakları, halen diğer şirketlerin teklifini düşünürken Türkcell’e ikinci bir şans verdi" dedi. 
+     Ferdis, Turkcell ve rakipleriyle yapılacak görüşmelerin sonucunun 1 Temmuzda onaylanmak üzere Ekonomi Konseyi’ne gönderileceğini söyledi. 
+     Ferdis, geçen hafta Reuters’a yaptığı açıklamada, Ekonomi Konseyi’nin, anlaşmaya taraf olan İranlı ortaklara diğer firmalarla görüşmesi için yeşil ışık yaktığını söylemiş, ancak daha sonra konuyla ilgili yorum yapmaktan kaçınmıştı. 
+     Türkcell başkanlığındaki konsorsiyum, Şubat 2004’de cep telefonu lisansı ihalesini kazanmış, ancak meclisteki muhafazakar milletvekilleri Türkcell’in İrancell anlaşmasındaki payını yüzde 70’den yüzde 49’a çekmişti. 
+     Türkcell Genel Müdürü Muzaffer Akpınar, İranlıların konsorsiyumun idaresinde veto hakkına sahip olma ısrarını kabul etmeyeceklerini, İran’dan ayrılmayı düşünmediklerini söylemişti. 
+     Afrika’nın en büyük GSM şirketi MTN, Türkcell’in konsorsiyumdan çekilmesi halinde yüzde 49’luk hisseyi almaya hazır olduğunu açıklamıştı. 
+     İran GSM pazarını düşünen diğer bir şirketse Mısır’ın Orascom Telecom’u. 
+     
+</TEXT>
+</DOC>

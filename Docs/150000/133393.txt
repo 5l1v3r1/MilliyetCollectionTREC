@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 133393 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/01/27/son/sondun06.html </URL>
+<DATE> 2003/01/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Satrançta, bilgisayar ile Kasparov kapışması... 
+</HEADLINE>
+<TEXT>
+
+     Dünya Satranç Şampiyonu Garry Kasparov, 2002 bilgisayar Dünya Şampiyonu Deep Junior'ı, 3 saat 40 dakikalık mücadelenin sonunda yenmeyi başardı. 
+     ABD'nin New York kentindeki, New York Atletik Kulübü'nde yapılan maçta, Kasparovun seyircilerin alınmadığı özel bir odada, geleneksel satranç tahtasının önünde, tahtadan satranç taşlarıyla hamlesini yaparken, Deep Junior'ın programcılarından birinin de Deep Junior'ın hamlelerini Kasparov'un önündeki satranç tahtasında tekrarladığı görüldü. 
+     İlk oyunda beyaz taşlarla oynayan Kasparov'un 6 yıl önce Deep Blue adlı bilgisayara kaybettiği maçta uyguladığı ''bilgisayar karşıtı'' stratejiyi terk ederek, insan rakiplerine karşı uyguladığı alışılmış saldırgan oyun stratejisini benimsediği gözlendi. 
+     Deep Junior'un, birinci hamlede vezir piyonunu iki kare ilerleten Kasparov'a karşı Slav Savunması'nı uyguladığı görüldü. Deep Junior'un oyunun 17. hamlesinde değerli bir kalesini, Kasparov'un atıyla değişmesinin ardından, Kasparov, taşlarını tahtadaki önemli merkezi dikeyleri kontrol edecek şekilde yerleştirdikten ve şahını köşede güvenceye aldıktan sonra avantajı ele geçirdi. Kasparov, 26. hamlede Deep Junior'ı vezirleri değişmeye zorlamasının ardından bilgisayarın tüm oyunu kurtarma şanslarının yokolduğu gözlendi. Zorunlu vezir değiş-tokuşundan sonra, Kasparov'un bir hamle daha yapmasının ardından, oyunun ümitsiz olduğunu gören Deep Junior'ın programcıları, bilgisayar adına yenilgiyi kabul ettiler. 
+     Oyundan sonra basına açıklamada bulunan Kasparov, ''birinci oyunu rahatlıkla kazanmış olmasına karşın bilgisayar programının çok güçlü olduğunu ve maçta hiçbir şeyin kesin olmadığını'' vurguladı. Deep Blue adlı bilgisayara 6 yıl önce kaybettiği maçta da birinci oyunu kazanmış olmasına rağmen maçı kaybettiğine işaret eden Kasparov, ''Bu maçın daha önce yaptığım maçın bir benzeri olmasını istemiyorum. O maçta birinci oyunu kazandıktan sonra ikinci oyunu kaybetmiştim'' diye konuştu. 
+     Azerbaycan'ın Bakü kentinde doğan, ancak daha sonra Rusya vatandaşlığına geçen Kasparov, dünya bilgisayar devi IBM tarafından üretilmiş olan, saniyede 200 milyon hamle hesap etme kapasitesine sahip Deep Blue karşısında 1997 yılında yaptığı maçta yenilgiye uğramıştı. Kasparov vatandaşı Büyükusta Vladimir Kramnik ile 2000 yılında yaptığı maçı kaybederek dünya şampiyonluğu unvanını Kramnik'e kaptırmıştı. Halen 2847 Elo kuvvet derecesiyle dünyadaki en yüksek kuvvet dereceli satranççı konumundaki Kasparov'un en yakın rakibi ise halen Beyin Oyunları Şampiyonu unvanını elinde bulunduran, 2809 Elo kuvvet derecesine sahip Kramnik. 
+     Saniyede 3 milyon hamle hesap edebilme yeteneğine sahip İsrail yapımı Deep Junior 2002 yılında yapılan bilgisayarlararası dünya şampiyonasında tüm rakiplerini yenerek ''2002 Bilgisayarlararası Dünya Şampiyonu'' unvanını kazanmıştı. 
+     Toplam 6 oyun üzerinde yapılacak maça katılma ücreti olarak 500 bin dolar yaklaşık 834 milyar TL alan 39 yaşındaki Kasparov, maçı kazandığı takdirde 300 bin dolarlık yaklaşık 500 milyar 400 milyon TL ödülün de sahibi olacak. Beraberlik halinde Deep Junior ve Kasparov'un her biri 250 bin dolar yaklaşık 417 milyar TL alırken kaybeden taraf ise 200 bin dolar yaklaşık 333 milyar 600 milyon TL alacak. 
+     
+     1. OYUNUN HAMLELERİ 
+
+     1. d4 d5 2. c4 c6 3. Ac3 Af6 4. e3 e6 5. Af3 Abd7 6. Vc2 Fd6 7. g4 dxc4 8.Fxc4 b6 9. e4 e5 10. g5 Ah5 11. Fe3 O-O 12. O-O-O Vc7 13. d5 b5 14. dxc6 bxc4 15. Ab5 Vxc6 16. Axd6 Fb7 17. Vc3 Kae8 18. Axe8 Kxe8 19. Khe1 Vb5 20. Ad2 Kc8 21. Şb1 Af8 22. Şa1 Ag6 23. Kc1 Fa6 24. b3 cxb3 25. Vxb3 Ka8 26. Vxb5 Fxb5 27. Kc7 1-0 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

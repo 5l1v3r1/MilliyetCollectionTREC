@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 187292 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/08/son/soneko40.html </URL>
+<DATE> 2003/10/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Nobel Ekonomi Ödülü'nü Engle ve Granger paylaştı... 
+</HEADLINE>
+<TEXT>
+
+     Nobel ekonomi ödülünü bu yıl, Amerikalı ekonomist Robert F.Engle ile İngiliz Clive W.J.Granger paylaştılar. 
+     İsveç Kraliyet Bilimler Akademisi'nin açıklamasında, her iki bilim adamı da, ekonomik zaman sıraları konusunda yeni buldukları bir istatistiki metod nedeniyle Nobel'e layık görüldüler. 
+     Robert F. Engle ve Clive W.J.Granger'ın yaptıkları çalışma, mali piyasalardaki çalkantıların tahmininde kullanılabilecek. 
+     Her iki bilim adamının bulduğu yöntem, fiyatlar, faiz oranları, hisse senedi fiyatları ve buna benzer ekonomik verilerdeki gelişmeyi gösteriyor. 
+     Zaman sıraları konusundaki istatistiksel metod, kronolojik gözlem imkanı veriyor. 
+     Mali piyasalardaki tesadüfi değişimler, çalkantının, diğer mali enstrümanlarla birlikte, hisse senedi fiyatlarını ve değerlerini olumsuz etkileyebileceği, bu istatistiki metodun da, bu çalkantıların zamanını analizde kullanılabileceği kaydediliyor. 
+     Geçen yıl, ekonomi dalındaki Nobel ödülünü, ABD'li ekonomistler Vernon Smith ve Daniel Kahneman almıştı. 
+     Smith ve Kahneman'ın, piyasaların daha güvenli çalışabilmesi için ''ekonomik tahlillerde uygulanacak psikolojik araştırma ve laboratuvar deneyleri için geliştirdikleri'' bilimsel metod nedeniyle ödüle layık görülmüşlerdi. 
+     60 yaşındaki Engle, New York Üniversitesi'nde, 69 yaşındaki Granger ise San Diego'daki The University of California'da çalışıyor. 
+     
+</TEXT>
+</DOC>

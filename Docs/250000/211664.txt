@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 211664 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/28/son/sondun07.html </URL>
+<DATE> 2004/01/28/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternette ''Mydoom'' virüsü... FBI soruşturma başlattı 
+</HEADLINE>
+<TEXT>
+
+     Amerikan Federal Soruşturma Bürosu FBI , internette önceki günden beri hızla yayılan ve çok tehlikeli olabileceği bildirilen ''Mydoom'' ya da ''Novarg'' adlı virüs hakkında soruşturma başlattı. 
+     FBI sözcüsü Paul Bresson, ''Bu yeni virüsle ilgili soruştuma yapmaktayız'' dedi. 
+     Bu arada, virüsün hedefi olduğu belirtilen Unix işletim sisteminin sahibi SCO grubundan yapılan açıklamada, virüsün yayılmasına yol açanların ele geçirilmesini sağlayacak bilgileri getirenlere 250 bin dolar tutarında ödül vaadinde bulunuldu. 
+     
+     GELMİŞ GEÇMİŞ EN YAYGIN VİRÜS 
+
+     ''Mydoom'' virüsünün, yayılma hızıyla gelmiş geçmiş en yaygın virüs olabileceği bildirildi. 
+     F-Secure adlı güvenlik şirketine göre, Kazaa benzeri ortaklaşa kullanım programları ve e-postalardaki ekli dosyalarla yayılan virüs, iki gün içinde 100 milyondan fazla elektronik mesaja bulaştı. ''Mydoom'' bu gidişle ''Sobig'' adlı virüsten daha bulaşıcı olacak gibi gözüküyor. 
+     Şirketin anti-virüs yazılım uzmanlarından Mikko Hypponen, ''Elektronik postaların sayısına bakacak olursak Mydoom Sobig'i geçecek. Bu, şimdiye dek hiç görülmemiş büyüklükte bir saldırı'' dedi. 
+     Virüsün bütün dünyada şimdiden 100 milyondan fazla e-mektuba bulaştığını belirten uzman, ''Bu gidişle Sobig'i geçecek. Sobig, ilk haftasında en az 300 milyon postaya bulaşmıştı'' diye konuştu ve ''Novarg'' olarak da adlandırılan ''solucan'' tipi yeni virüsün, bulaştığı bilgisayarlardaki adres defterlerini kullanarak otomatik olarak yayıldığına işaret etti. 
+     Uzman, internete giren bilgisayar kullanıcılarının, virüs saldırılarından korunabilmek için anti-virüs programlarını sık sık güncellemelerinin yararlı olduğunu anımsattı. 
+     Message Labs şirketine göre, virüs e-postalar ve Kazaa benzeri ortak paylaşıma yarayan programlarla yayılıyor. Virüsün ilkin Rusya'da görüldüğü, tespit edilen 600 bine yakın virüslü dosyanın üzde 60'nın ABD'de olduğu belirtildi. 
+     
+</TEXT>
+</DOC>

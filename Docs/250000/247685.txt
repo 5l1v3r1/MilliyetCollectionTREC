@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 247685 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/14/yasam/axyas02.html </URL>
+<DATE> 2004/06/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İşte mükemmel fıkranın formülü 
+</HEADLINE>
+<TEXT>
+
+
+Esprili cümlenin komikliği x gelişme kısmının uzunluğu karakterlerin utanç sayısı kelime oyunu Mükemmel fıkra 
+
+DIŞ HABERLER SERVİSİ 
+
+İngiliz sinir sistemi uzmanı Helen Pilcher'la komedyen Timandra Harkness'ın hazırladığı formüle göre 'mükemmel fıkra' şöyle hesaplanıyor 
+Fıkranın esprili cümlesinin komikliğiyle f , gelişme kısmının uzunluğu l çarpılarak, buna, fıkradaki karakterlerin utanç duyma veya acı çekme sayısı no ekleniyor. Bu toplam, fıkradaki kelime oyunu sayısına p bölünüyor. Buna göre formül "x f x l no p" oluyor. 
+Espri cümlesinin komikliği ve gelişme kısmının uzunluğu 10 puan üzerinden değerlendiriliyor. Bu iki kriterden tam puan alan, utanç ve acı sayısı fazla olan ve kelime oyunu içermeyen fıkralar 'mükemmel' kabul ediliyor. 
+
+Komedyenlerden tepki 
+
+Espri anlayışını matematiksel kurallarla açıklama düşüncesine komedyenlerden tepki geldi. Komedyenler, espri yapmanın çok çeşitli yolları olduğunu ve bir formülün tüm fıkralar için geçerli olamayacağını söyledi. 
+
+
+
+
+</TEXT>
+</DOC>

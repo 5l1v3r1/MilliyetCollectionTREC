@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 350788 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/10/son/sontur05.html </URL>
+<DATE> 2005/06/10/ </DATE>
+<TIME> 09.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hafta sonu sağanak yağış geliyor 
+</HEADLINE>
+<TEXT>
+
+     Marmara ve Ege bölgelerinde dün kendini gösteren parçalı bulut bugün yerini sağanak yağışa bırakacak. 
+     Meteroloji tahminlerine göre pazar günü sağanak yağışların Orta Anadolu ve Karadeniz'e doğru kayması bekleniyor. 
+     Sıcaklıklar özellikle kuzey kesimlerinde 2'şer 3'er derece azalacak. Akdeniz Bölgesi'nde ise az bulut görülecek, istanbul, Ankara, Adana, Antalya, Bursa ve zmir gibi kentlerde bir hafta sonu daha yer yer sağanak yağışla geçecek. 
+
+     
+</TEXT>
+</DOC>

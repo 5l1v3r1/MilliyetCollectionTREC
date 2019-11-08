@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 289521 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/17/son/soneko15.html </URL>
+<DATE> 2004/11/17/ </DATE>
+<TIME> 11.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Compex 2004 yarın açılıyor... 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayar ve teknoloji tutkunlarını buluşturacak ''COMPEX 2004 29. Uluslararası Bilgisayar Fuarı'', yarın İstanbul'da açılacak. 
+     Lütfi Kırdar Fuar Merkezi'nde 15 bin metrekarelik alanda gerçekleştirilecek fuara, yerli ve uluslararası 200'den fazla firma katılacak. 
+     21 Kasım'a kadar sürecek, Dell, HP, Beko, Sabancı Telekom ile Digitürk'ün desteklediği fuarda, bilgisayar ve iletişim teknolojilerinin günlük hayattaki yeri ve kullanımı sergilenecek. 
+     Sektörel yöneticiler, fuar süresince gerçekleştirilecek seminer ve panellerde, son teknolojilerin hem iş dünyasında hem de günlük hayattaki kullanımı konusunda bilgi aktaracaklar. 
+     Fuarda ayrıca Türkiye genelinden 300 belediye başkanı ile belediyelerin bilgi işlem yöneticilerinin katılacağı ''e-belediye'' konulu sempozyum düzenlenecek ve Türkiye'nin önde gelen yazılım firmaları 2005 başında kullanıma geçecek YTL'nin maliye ve muhasebe uygulamalarını anlatacaklar. 
+     
+</TEXT>
+</DOC>

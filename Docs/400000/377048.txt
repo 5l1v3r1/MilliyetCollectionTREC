@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 377048 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/09/son/soneko24.html </URL>
+<DATE> 2005/09/09/ </DATE>
+<TIME> 12.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ağustos ayında en yüksek getiriyi borsa sağladı... 
+</HEADLINE>
+<TEXT>
+
+     Finansal yatırım araçları arasında Ağustos ayında, aylık ve yıllık bazda en yüksek reel getiriyi borsa sağladı. 
+     Devlet İstatistik Enstitüsü DİE , seçilmiş finansal yatırım araçlarının Ağustos ayı itibarıyla gerçekleşen reel getiri oranlarını açıkladı. 
+     Buna göre tüketici fiyatları endeksi TÜFE bazında borsa, mevduat faizi brüt ve Avro bir önceki aya göre reel getiri sağlarken, külçe altın ve dolar yatırımcılarını üzdü. 
+     Ağustos'ta borsa yüzde 2.23, mevduat faizi brüt yüzde 0., Avro yüzde 1.74 reel getiri sağlarken, dolarda yüzde 0.45 ve külçe altında yüzde 0.05 getiri kaybı oldu. 
+     
+     YILLIK GETİRİ 
+     Ağustos ayı itibariyle son bir yıla bakıldığında ise borsa endeksi ile mevduat faizine yatırım yapanlar reel bazda kazanırken, avro, dolar ve altına yatırım yapanlar zarar etti. 
+     Söz konusu dönemde, borsa endeksi yüzde 40.58, mevduat faizi brüt yüzde 12.78 oranında yıllık bazda getiri sağlarken, avroda yüzde 14.84, dolarda yüzde 15.58, külçe altında yüzde 9.55 reel getiri kaybı oldu. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 225466 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/25/son/soneko03.html </URL>
+<DATE> 2004/03/25/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     New York menkul kıymetler borsası Wall Street, sanayi hisselerinde düşüş, teknoloji hisselerinde artışla günü kapadı. 
+     Dow Jones sanayi endeksi 15,86 puan düşüşle 10047,78'e gerilerken, Nasdaq teknoloji endeksi 7,68 puan artışla 1909,48'e yükseldi. 
+     
+</TEXT>
+</DOC>

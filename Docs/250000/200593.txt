@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 200593 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/08/son/soneko13.html </URL>
+<DATE> 2003/12/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Elektrik üretimi ilk kez 150 milyar kwh'yı geçecek... 
+</HEADLINE>
+<TEXT>
+
+     Elektrik üretimi, ilk kez 2004 yılında 150 milyar kWh'yi geçecek. Son 8 yılda yüzde 64.2 artan elektrik üretiminin, gelecek yıl bu yıla göre yüzde 8.3 artarak, 1.4 milyar kWh'ye ulaşması bekleniyor. 
+     Hedeflere göre, önümüzdeki yıl termik üretimin 115 milyar 750 milyon kWh, hidrolik üretimin ise 37 milyar 650 milyon kWh olması bekleniyor. 
+     Bu yıl için termik üretimin 105.2 milyar kWh, hidrolik üretimin ise 36 milyar 450 milyon kWh olduğu göz önüne alındığında termik üretimin yüzde 10, hidrolik üretimin ise yüzde 3.3 oranında artacağı öngörülüyor. 
+     Öte yandan, bu yıl 1 milyar 520 milyon kWh olan ithalatın, önümüzdeki yıl 1 milyar 0 milyon kWh'ye, 420 milyon kWh olan ihracatın ise 430 milyon kWh'ye çıkacağı hesaplanıyor. 
+     
+     TÜKETİM 
+     Bu yıl için 142 milyar 750 milyon kWh olarak öngörülen tüketimin ise gelecek yıl, yüzde 8.2 artışla, 154.5 milyar kWh'ye çıkacağı planlanıyor. 
+     Kişi başına tüketimin ise ilk kez bu yıl 2 bin kWh'nin üzerine çıkacağı ve 2 bin 19 kWh olacağı tahmin ediliyor. 
+     Kişi başına tüketimin 2004 yılında ise yüzde 6.6'lık artışla 2 bin 152 kWh olacağı hesaplanıyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 368166 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/08/son/sonyas14.html </URL>
+<DATE> 2005/08/08/ </DATE>
+<TIME> 18.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İmla hatalarını düzelten 'akıllı kalem' icat edildi 
+</HEADLINE>
+<TEXT>
+
+     Lübnan'da, Beyrut Amerikan Üniversitesi İletişim Fakültesi'nden 3 öğrenci, ''imla hatalarını düzelten akıllı bir kalem'' icat ettiklerini açıkladı. 
+     Merve Abdülbaki, Mansur Mansur ve Rosalie Saba isimli öğrenciler, tamamen normal kalemlere benzeyen, ancak mini bir ekran ile elektronik bir sözlüğe sahip olan bir kalem icat ettiklerini, bu icatları nedeniyle üniversitelerinden ödül kazandıklarını belirttiler. 
+     Rosalie Saba, Fransız haber ajansı AFP'ye yaptığı açıklamada, ''Asıl önemlisi, bu kalemle ekrana değil, mürekkep kullanarak doğrudan kağıda yazabiliyorsunuz. Kalem bilgisayara bağlanmıyor'' dedi. 
+     Genç kız, kalemde, ''dsPIC'' adlı bir mikroişlemci bulunduğunu, bu işlemcinin, kağıda yazılanları mini ekrana transfer ettiğini, elektronik sözlüğün yazıdaki imla hatalarını düzeltip kelimelerin doğru yazılmış hallerini ekrana yansıttığını anlattı. 
+     Merve Abdülbaki de ''Kalemin avantajı, çok pratik ve mobil bir sözlüğe sahip olmak. Özellikle öğrenciler için tasarlandı, ancak işadamları ve dil öğrenmek isteyenler tarafından da rahatlıkla kullanılabilir'' dedi. 
+     Mansur Mansur ise ''Kalemi geliştirmek, onu daha da akıllı kılmak için birçok fikrimiz var. İleride onun konuşmasını ve kelimelerin eş anlamlılarını söylemesini umuyoruz'' dedi. 
+     
+</TEXT>
+</DOC>

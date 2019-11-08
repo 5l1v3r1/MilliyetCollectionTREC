@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 395297 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/16/ekonomi/eko06.html </URL>
+<DATE> 2005/11/16/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Eski endeksle, daha yüksek vergi artışı 
+</HEADLINE>
+<TEXT>
+
+
+Enflasyon hesabı değişti ama Maliye, bazı vergilerde artışlar için yüksek olan eski enflasyon endeksini baz almaya hazırlanıyor 
+
+ANKARA ANKA 
+
+Maliye Bakanlığı, 2006'da tahsil edilecek Motorlu Taşıtlar ve benzeri bir çok verginin artırılmasında esas alınacak olan 2005 yılı yeniden değerleme oranını, yeni fiyat endeksi yerine, daha yüksek olan eski fiyat endeksine göre açıklamaya hazırlanıyor. Maliye Bakanlığı, Vergi Usul Yasası'ndaki "Yeniden değerleme oranı, yeniden değerleme yapılacak yılın ekim ayında ekim ayı dahil bir önceki yılın aynı dönemine göre Devlet İstatistik Enstitüsünün Toptan Eşya Fiyatları Genel Endeksinde meydana gelen ortalama fiyat artış oranıdır" hükmü nedeniyle, eski fiyat endeksindeki TEFE ekim sonu itibariyle yüzde 9.8 olan yıllık ortalama artışı yeniden değerleme oranı olarak ilan edecek. 
+DİE'nin bu yıl başından itibaren, TEFE'nin yerine ismini "Üretici Fiyatları Endeksi" ÜFE olarak değiştirip açıklamaya başladığı toptan fiyatlardaki yıllık ortalama yüzde 8.16 olan artışı ise dikkate almayacak. 
+
+
+</TEXT>
+</DOC>

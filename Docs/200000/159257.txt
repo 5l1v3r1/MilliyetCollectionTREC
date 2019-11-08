@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 159257 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/27/son/soneko29.html </URL>
+<DATE> 2003/05/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Arçelik'in yeni ürünlerini, internetten yönetebileceksiniz 
+</HEADLINE>
+<TEXT>
+
+     Arçelik, internet üzerinden veya telefondan sesle yönetilen ''akıllı yaşam'' ürünlerini, Haziran ayından itibaren piyasaya çıkaracak. 
+     Teknolojik altyapısı Arçelik tarafından geliştirilen akıllı yaşam ürünleri arasında şimdilik buzdolabı, çamaşır ve bulaşık makinesi ile klima bulunuyor. 
+     Tüketiciler ofislerinde internete girerek veya telefonla evini arayarak klimasını çalıştırabiliyor ya da alışverişteyken vereceği komutlarla buzdolabının soğutma gücünü artırabiliyor. Eve dönüş saatine göre çamaşır ve bulaşık makinesinin çalışmasını başlatıp durdurabiliyor. 
+     Arçelik akıllı yaşam ürünleri, elektrik ve su kesilmesi, programın başlaması ve bitmesi gibi çalışma durumlarını tüketiciye mail veya cep telefonlarına kısa mesaj göndererek haber verebiliyor. 
+     Akıllı yaşam paketi, bu pakete uyumlu ürünler ile ürünlerin telefona ve birbirine bağlandığı akıllı yaşam paketi olarak iki kısımdan oluşuyor. 
+     
+     11 MİLYAR LİRALIK PAKET 
+     Akıllı yaşam paketi, iletişim altyapısı ile birlikte yaklaşık 11 milyar liraya maloluyor. 
+     Akıllı yaşam ürünlerinden 5086 NF orbital NF plus buzdolabı 2 milyar 132 milyon 200 bin, 5950 orbital çamaşır makinesi 1 milyar 795 milyon 500 bin, 6060 E elektronik bulaşık makinesi 1 milyar 261 milyon 400 bin ve 6210 A split klima 24.000 BTU dual plazmalı 1 milyar 799 milyon 700 bin liradan satılacak. 
+     Bu ürünleri akıllı yaşam paketi şeklinde kullanmak için ise internet altyapısını ve iletişimi sağlayan, satış fiyatı 4 milyar lira olan paketi almak gerekiyor. 
+     Arçelik Üretim ve Teknoloji Grup Direktörü Turgut Soysal, tanıtım toplantısında yaptığı konuşmada, elektroniğin gelişmesiyle birlikte ev aletlerinde önemli değişiklikler olduğunu vurgulayarak, ''10 yıl önce elektronik kontrollü beyaz eşyamız yoktu. Bugün hızla yarıyı geçiyor. 2005'te bütün ürünler bu sisteme dahil olacak'' dedi. 
+     
+     ''TEMBEL MÜHENDİS'' AKILLI ÜRÜNLERİ YARATTI 
+     Soysal, Akıllı Yaşam Projesi'ne nasıl başlandığını ise şöyle anlattı 
+     ''İlk başlangıç, 1998'de bir tembel mühendisimiz tarafından yapıldı. Buna hala 'tembel mühendis olayı' deniyor...Bu arkadaşımız, laboratuvarda çalışırken test ettiği makinaların üzerine bir PC koymuş, tek test düzeneğinden aldığı sinyalleri PC'de değerlendirip izlerken sıkılıyor Burada durmaya mecbur muyum diyor. Şirketin internet altyapısına bir düzenekle giriş yapıyor ve testlerini ofisten izlemeye başlıyor. Akıllı evin teknolojik başlangıcı laboratuvarda kendi ihtiyacımıza yönelik test düzeneğinden oldu ve bugünlere geldik.'' Tüketicinin bundan sonra alacağı elektronik kontrollü herhangi bir Arçelik ürününün akıllı ev yaşamına uyumlu olacağını belirten Soysal, ''Beyaz eşya şirketiyken, bir elektronik şirketi haline geliyoruz'' dedi. 
+     Akıllı yaşam ürünlerinin, Etiler ve Şişli'deki showroom'larda görülüp sipariş verilebileceğini belirten Soysal, 29 Mayıs-1 Haziran'daki Compex Bilgisayar Fuarı'nda tanıtımının ardından satışa çıkarılacağını bildirdi. 
+     Soruları da yanıtlayan Soysal, bugüne kadar 1 milyon dolar civarında yatırım yaptıkları Akıllı Yaşam Projesi'ne ayırdıkları paranın ileride 2 milyon dolara varacağını bildirdi. 
+     Soysal, bu ürünlere ilişkin satış hedefi koymadıklarını, burada tüketici alışkanlıklarının belirleyeceği olacağını ifade ederek, ''Bizim bu işte olmamamız gibi bir lüksümüz yok. Satış hedefi koymak gibi ihtiyacımız da yok. Bu yolda olmak zorundayız. Büyük emek veriyoruz. Nereye gideceğimizi hep beraber göreceğiz'' diye konuştu. 
+     İlk etapta Türkiye'de satışı öngörülen akıllı yaşam ürünlerinin yurtdışına açılabileceğini belirten Soysal, ''En güçlü pazarlama teşkilatımız olan ülkeler Avusturya, Almanya ve İngiltere. Böyle bir açılımı ilk bu ülkelere yapmamız beklenir. Bu önümüzdeki yıl olabilir'' dedi. 
+     Teknoloji yarışında önde olmanın pazar payı avantajı getireceğini dile getiren Soysal, sistemin şu anda sadece Arçelik ürünlerini tanıdığını kaydetti. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 272624 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/17/son/sondun36.html </URL>
+<DATE> 2004/09/17/ </DATE>
+<TIME> 21.57 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Işığı yakalayan anten icat edildi 
+</HEADLINE>
+<TEXT>
+
+     Amerikalı bilim adamları, radyo antenlerinin radyo dalgalarını almasına benzer şekilde ışığı yakalayan bir anten icat etti. 
+     Bilim adamları, çok küçük karbon boruları kullanan antenin, optik bir televizyonun temelini oluşturabileceğini veya uygun biçimde geliştirildiği takdirde güneş enerjisini elektrik enerjisine dönüştürelebileceğini açıkladı. 
+     Boston Üniversitesi'nden Yang Wang ve meslektaşlarının buluşu sayesinde, dalga özellikleri ve parçalarına sahip fotonlarla ışık enerji birimi taşınan ışığın, karbon atomlarından oluşan mikroskobik yapılar olan çok küçük borularla yakalandığını belirtildi. 
+     
+</TEXT>
+</DOC>

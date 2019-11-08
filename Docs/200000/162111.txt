@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 162111 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/09/son/sontur35.html </URL>
+<DATE> 2003/06/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Şok İnternet işkencesi 10 gün daha sürecek... 
+</HEADLINE>
+<TEXT>
+
+     Tüm İnternet Derneği Genel Sekreteri İzzet Mumcu, Cezayir'de meydana gelen depremin Akdeniz'in tabanındaki kablolarda yol açtığı hasar nedeniyle 19 günden beri yurtdışı internet bağlantılarında yaşanan sorunun, en az 10 gün daha süreceğini bildirdi. 
+     Bilişim Muhabirleri Derneği BMD tarafından Polaris Plaza'da düzenlenen panelde, ''İnternetin Türkiye'deki kullanıcı sorunları ve Cezayir depremi sonrasında Türkiye'nin yurtdışı internet bağlantılarında yaşadığı sorunlar'' ele alındı. 
+     Panelde konuşan Mumcu, Cezayir'de meydana gelen deprem nedeniyle yurtdışı internet bağlantılarında 19 gündür sorun yaşandığını anımsattı. 
+     Türk Telekom'un olaya ilgisiz kaldığını, sorunun ortaya çıkmasından ancak bir hafta sonra açıklama yaptığını ifade eden Mumcu, şunları kaydetti 
+     ''Sorunun çözüleceği sözüne rağmen, aradan geçen 19 gün içinde hala giderilemedi. En son, '9 Haziran'da çözülecek' denilmişti. Bugün de çözüm olmadığı görülüyor. 100 kilometrelik bir kablonun tamamen değişmesi gerekiyormuş. En az 10 gün daha bu sorun devam edecek.'' Mumcu, Türk Telekom'un özellikle fiberoptik konusunda çok daha hassas olması gerektiğini belirterek, ''Yurtdışı internet çıkış kapasitesinin artırılması için Türk Telekom'un alternatif hatlar üzerinden fiberoptik yatırımlarını artırması lazım. Fiberoptik hem daha ucuz, hem de daha hızlı bir teknoloji'' diye konuştu. 
+     
+     ''AYIPLI HİZMET'' 
+     Tüketiciler Birliği Genel Başkanı Bülent Deniz de, Türk Telekom'un verdiği internet hizmetinin deprem sonrasında aksamasını ''ayıplı hizmet'' olarak gördüklerini ve bu nedenle isteyenlerin tüketici hakem heyetlerine yapabilecekleri başvurular için dilekçe örnekleri hazırladıklarını söyledi. 
+     Türk Telekom'un sadece internet konusunda değil, zam kararları ve altyapı yatırımlarının yetersizliğinden kaynaklanan eksik hizmetlerini masaya yatırdıklarını ve bu kapsamda nisan ayında yapılan zammın geri alınması için yargıya başvurduklarını anlatan Deniz, ''O süreç tamamlanmadan, Türk Telekom haziran ayında bir zam daha yaptı. Bu uygulama, hukuka ve tüketiciye saygı anlamında ilginç bir pozisyon'' dedi. 
+     Deniz, Türk Telekom'un mobil telefon firmalarıyla birlikte her ay tüketicilerden konuşma dışı 2 milyar dolar fazla para tahsil ettiğini savunarak, ''Cep ve sabit telefonlarda 'konuştuğun kadar öde' sisteminin geçerli olması için TBMM'ye yasa teklifi verildi. Biz bu yasa teklifinin arkasındayız'' diye konuştu. 
+     
+     ''TELEKOMÜNİKASYON HİZMETLERİ ÖZELLEŞTİRİLMELİ'' 
+     Meteksan-Net Genel Müdürü Serdar Kural da, Türkiye'de internet kullanıcılarının sorunlarının çözülmesi için internetin yaygınlaştırılması ve telekomünikasyon hizmetlerinin hem özelleştirilmesi, hem de rekabete açılması gerektiğini söyledi. 
+     Türkiye'de internet kullanıcısı sayısının bir araştırmaya göre 1.5-2 milyon arasında belirlendiğini anlatan Kural, çok düşük olan bu sayının ülke nüfusunun yarısına ulaşması gerektiğini kaydetti. 
+     
+</TEXT>
+</DOC>

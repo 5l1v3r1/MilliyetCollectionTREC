@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 208545 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/14/son/sondun13.html </URL>
+<DATE> 2004/01/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft, Windows 98'i 2006'ya kadar destekleyecek 
+</HEADLINE>
+<TEXT>
+
+     Yazılım firması Microsoft, Windows-98 ve ''Millennium Edition'' ME sürümlerine vermekte olduğu teknik yardım desteğini 2006 yılı ortasına kadar sürdürme kararı aldı. 
+     Şirket, daha önce yaptığı açıklamada, Windows-98 için telefonla verilen canlı teknik yardımın 15 ocakta durdurulacağını, ''Me'' için verilen desteğin de 2004 yılı sonunda kesileceğini açıklamıştı. 
+     Ancak Windows işletim programının bu iki sürümünün özellikle gelişmekte olan ülkelerde yaygın şekilde kullanıldığını göz önüne alan yetkililer, teknik yardım hizmetini bir süre daha sürdürmeyi kararlaştırdılar. 
+     Bu ülkelerdeki kullanıcılar, Microsoft'un kendilerini Windows işletim sisteminin yeni sürümlerini satın almaya zorlamasını eleştiri konusu yapmışlardı. Aynı gerekçeyle birçok az gelişmiş ülkede resmi kuruluşlar, ücretsiz Linux programıyla çalışan bilgisayarlara yönelmeye başlamışlardı. Bunu yapmayanlar ise para ödedikleri Windows-98 ve ''Me'' gibi sistemleri işlediği kadar kullanma yoluna gideceklerini belirtmişlerdi. 
+     Windows işletim sistemi, dünyadaki bilgisayarların yüzde 90'ında kullanılıyor. Windows-98 ve 95 sürümlerinin ise tüm bilgisayarların yüzde 20'sinde kullanıldığı sanılıyor. 
+     Son kararla Microsoft, ürünleri için teknik destek verme süresini 4 yıldan 7 yıla çıkartmış oluyor. 
+     Destek verme süresi içinde kullanıcılar, belli bir ücret ödeyerek telefonla teknik yardım alabiliyorlar. Microsoft, ayrıca kritik güvenlik sorunlarını giderecek yamalar yayımlıyor ve bunları ücretsiz olarak kullanıcıların hizmetine sunuyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 240258 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/15/son/soneko01.html </URL>
+<DATE> 2004/05/15/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones yükseldi, Nasdaq düştü 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Borsası'nda Dow Jones Sanayi Endeksi 2.13 puan artarak, günü 10,010.74 puandan kapadı. 
+     Teknoloji endeksi Nasdaq ise 21.78 puan düşerek 1,904.25 puana geriledi. 
+     
+</TEXT>
+</DOC>

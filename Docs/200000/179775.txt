@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 179775 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/02/son/soneko13.html </URL>
+<DATE> 2003/09/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Japonya, Windows'a alternatif geliştirmeye çalışıyor... 
+</HEADLINE>
+<TEXT>
+
+     Japonya, Asya ülkeleri ekonomilerinin Microsoft şirketinin ürünü Windows işletim sistemine bağımlılığının azaltılması için Çin ve Güney Kore ile yeni tip bir bilgisayar yazılımı geliştirmeyi planlıyor. 
+     Japon hükümeti kaynaklarının verdiği bilgiye göre, yeni tip yazılım, bilgisayar serverleri ile gelecek nesil hücresel telefonlar gibi internet donanımlı cihazlara yüklenecek. 
+     Japonya, daha önce ABD ve Avrupa Birliği AB ülkelerinde özel sektör düzeyinde işletim sistemleri geliştirmeye girişti. 
+     Windows'la çalışan bilgisayarların son zamanlarda bilgisayar virüsleri saldırılarına maruz kalmaları, devletler ve büyük şirketleri Microsoft şirketinin işletim sistemlerine büyük ölçüde bağımlılıktan kurtulmayı düşünmeye sevketti. 
+     
+</TEXT>
+</DOC>

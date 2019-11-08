@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 302019 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/29/son/sonyas10.html </URL>
+<DATE> 2004/12/29/ </DATE>
+<TIME> 12.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Cepteki en tehlikeli virüs 
+</HEADLINE>
+<TEXT>
+
+     Akıllı ve yetenekli cep telefonlarının yaygınlaşması virüsleri de bu ortamla tanıştırdı. Bu platformdaki en ilginç virüsse Metal Gear adıyla yayılmaya başladı. 
+     Bir Truva atı olan Metal Gear Nokia, Siemens gibi markaların telefonlarında kullanılan Symbian işletim sistemi üstünde çalışıyor. Onu benzerlerinden farklı yapansa bulaştığı telefonda daha önceden yüklenmiş bütün anti-virüs yazılımlarını etkisiz hale getirmesi. 
+     Ardından ceplerde yayılan ilk virüs Cabir'i telefona yükleyen Metal Gear, bluetooth kablosuz bağlantısıyla etrafında bluetooth alımı açık tüm telefonlara kendini SEXXXY.sis adlı bir dosyayla yolluyor. Karşı taraf bu dosyayı kabul ederse o da aynı döngünün bir parçası haline geliyor. 
+     Metal Gear şu ana kadar cep telefonlarına dadanan en tehlikeli virüs. 
+     
+</TEXT>
+</DOC>

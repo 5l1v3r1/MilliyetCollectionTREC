@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 362681 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/20/son/sondun20.html </URL>
+<DATE> 2005/07/20/ </DATE>
+<TIME> 12.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ukrayna'da 2 nükleer reaktör arıza nedeniyle kapatıldı 
+</HEADLINE>
+<TEXT>
+
+     Ukrayna'da iki nükleer reaktörün arıza nedeniyle kapatıldığı bildirildi. 
+     Olağanüstü Haller Bakanlığı, arıza nedeniyle kapatılan ülkenin batısındaki Rivne nükleer santralı ile Mykolaiv bölgesindeki Güney Ukrayna nükleer santralında radyasyon seviyesinin normal olduğunu açıkladı. 
+     Yetkililer, Rivne'nin 4 no'lu reaktörünün düşük su seviyesi nedeniyle ulusal enerji hattı ile bağlantısının kesildiğini, Güney Ukrayna nükleer santralında ise 2 no'lu reaktörün akım borusunda çatlak belirmesi üzerine otomatik olarak kapandığını belirttiler. 
+     Ukrayna'nın küçük arızalara sık sık rastlanan 15 nükleer reaktöründen bugün itibariyle sadece 9'u çalışıyor. Reaktörlerin ikisi kapalı, 4'ünde onarım devam ediyor. 
+     
+</TEXT>
+</DOC>

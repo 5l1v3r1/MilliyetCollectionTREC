@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 244970 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/03/son/sondun48.html </URL>
+<DATE> 2004/06/03/ </DATE>
+<TIME> 20.34 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Irnetteki yeni virüs "Korgo"nun hedefi, kredi kartı ve şifreleri 
+</HEADLINE>
+<TEXT>
+
+     İnternet dünyasında yeni bir virüsün yayıldığı bildirildi. 
+     Alman Federal Bilgisayar Güvenliği Ofisi yetkilileri, önceki ay ortaya çıkan ''Sasser'' adlı virüsü andıran ''Korgo'' adlı yeni virüsün, internette kredi kartlarını ve şifreleri hedef aldığını kaydettiler. 
+     ''Korgo''nun, Windows işletim sisteminin bir açığını yakalayarak sisteme girdiğini belirten uzmanlar, virüsün elektronik postayla yayılmadığını saptadılar. Virüs, bilgisayar internete girer girmez yayılıyor. 
+     Panda anti-virüs yazılım şirketi de, ''Korgo''nun iki sürümü bulunduğunu, bunların ''Sasser''in izlediği yoldan işletim sistemine girdiğini, ancak virüsün yayılma hızının korkutucu olmadığını kaydetti. 
+     
+</TEXT>
+</DOC>

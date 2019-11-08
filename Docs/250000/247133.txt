@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 247133 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/11/son/soneko26.html </URL>
+<DATE> 2004/06/11/ </DATE>
+<TIME> 15.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Merkez Bankası Reel Kesim Güven endeksi, yüzde 2.6 geriledi 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası tarafından düzenlenen İktisadi Yönelim Anketi Reel Kesim Güven Endeksi MBRKGE , Mayıs ayında bir önceki aya göre yüzde 2.6 oranında düşüş göstererek 107.4 seviyesine indi. 
+     Merkez Bankası, Reel Kesim Güven Endeksi Mayıs ayı genel değerlendirme sonuçlarını açıkladı. 
+     Buna göre son iki aydır artış gösteren Endeks, Mayıs ayında bir önceki aya göre yüzde 2.6 oranında düşüş göstererek 107.4 seviyesine geriledi. Bir yıl öncesine göre karşılaştırma yapıldığında ise endeksin yüzde 1.1 oranında azaldığı görüldü. 
+     Ekonomik faaliyetlerdeki dönüş noktalarını öncüleme özelliğine de sahip olan Endeks, 'Haziran ayı ile takip eden aylarda da bu eğilimini sürdürürse, sanayi üretim endeksi artış hızında bir miktar yavaşlama olabileceğine' işaret ediyor. 
+     Endeksi oluşturan anket sorularına ait yayılma endeksleri Nisan ayına kıyasla incelendiğinde, üretim hacmi beklentisi yüzde 7.5 oranındaki düşüşle en fazla gerileyen kalem oldu. 
+     Bu gerilemeyi genel gidişat, yatırım harcaması beklentisi ile toplam sipariş eğiliminde sırasıyla yüzde 6, yüzde 5.4 ve yüzde 4.2 oranlarında görülen düşüşler izledi. 
+     Diğer alt kalemlerden mamul mal stok eğiliminde yüzde 2.7 oranında düşüş gözlenirken, hammadde stok eğilimindeki gerileme sınırlı miktarda kaldı. Toplam istihdam beklentisi ise geçen ayki değerini korudu. 
+     İç pazara satılan mal hacmi eğiliminde yüzde 2.8 oranındaki gerilemenin mevsimsel etkilerden arındırıldıktan sonra bir miktar daha güçlendiği görüldü. 
+     Endeksi artırıcı yönde etkisi olan kalemlerden ihracat imkanları beklentisindeki artışın mevsimsel etkilerden kaynaklandığı ve bu etkilerden arındırıldığında endeksin geçen ayki seviyesini koruduğu gözlendi. 
+     Bir önceki yılın Mayıs ayına göre karşılaştırma yapıldığında, ihracat imkanları beklentisi ile toplam sipariş, hammadde stok ve mamul mal stok eğilimlerinin geçen seneki seviyelerinin üstünde değerler aldığı, ancak diğer kalemlerde düşüş olduğu görüldü. 
+     Güven endeksi, üst düzey yöneticilerin bugünkü iş durumlarını nasıl değerlendirdiklerini ve geleceğe ilişkin beklentilerinin bir fonksiyonu olan toplulaştırılmış gösterge niteliğini taşıyor. 
+     Bu kapsamda 100 değeri, ekonomik faaliyetlere ilişkin istikrarlı görünümü ifade ederken, bunun altındaki değer ''güvenin azaldığı'', üstündeki değer ise ''güvenin arttığı'' anlamına geliyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 181257 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/09/son/soneko02.html </URL>
+<DATE> 2003/09/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacmi bakımından dünyanın en büyük borsası New York Wall Street Borsası'nda, Dow Jones Sanayi Endeksi günü 82.95 puan yükselişle 9,586.29 puandan kapadı. 
+     En ileri teknoloji ortaklıklarının ibresi ''yeni ekonomi''nin simgesi Nasdaq Birleşik Endeksi de 30.41 puan yükselerek 1,888.65 puandan kapandı. 
+     
+     TOKYO BORSASI 
+
+     Tokyo menkul kıymetler borsasının bugünkü kapanışında Nikkei Endeksi, 238.28 puan yüzde 2.23 artışla 10,922.04 puana yükseldi. 
+     Tokyo döviz borsasında ise dolar, düne göre 0.53 yen değer kaybederek 116.59 yene geriledi. 
+     
+</TEXT>
+</DOC>

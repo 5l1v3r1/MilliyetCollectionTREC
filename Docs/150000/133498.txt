@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 133498 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/01/27/son/sontur21.html </URL>
+<DATE> 2003/01/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayarı yanlış kullanmak hasta ediyor... 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayar kullanırken yanlış oturma pozisyonunu ve uzun süre aralıksız çalışma, cerrahi girişimlere kadar gidebilecek rahatsızlıklara neden oluyor. 
+     Baykent Tıp Merkezi'nden Doç. Dr. Ersin Nuzumlalı, yanlış bilgisayar kullanmanın ortopedik sorunlara yol açtığını belirtti. "Uygun olmayan pozisyonda, uzun süre ve devamlı tekrarlanan hareketler adalelerde gerilmeye, yorgunluğa ve giderek ağrılı adale spazmlarına yol açar" diyen Nuzumlalı, şu bilgileri verdi 
+     "Sinirler özellikle el bileği ve dirsekte sıkışarak, ağrı ve parmaklarda uyuşmalara neden olabilir. Başlangıçta yakınmalar yorgunlukla ortaya çıkıp işi bırakınca düzelirken, orta dönemde yakınmalar işin başlangıcından hemen sonra ortaya çıkar. İleriki dönemde yakınmalar dinlenme sırasında da vardır, hafif işler bile zorlukla yapılır. Başlangıçta basit önlemlerle düzelebilen yakınmalar, gerekli önlemlerin alınmaması durumunda ileri dönemlerde cerrahi girişimlere kadar gidebilir." 
+     
+</TEXT>
+</DOC>

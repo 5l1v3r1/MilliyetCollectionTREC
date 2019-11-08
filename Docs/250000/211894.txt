@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 211894 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/29/son/sondun17.html </URL>
+<DATE> 2004/01/29/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Mydoom'un yeni sürümü daha güçlü .. 
+</HEADLINE>
+<TEXT>
+
+     İnternet dünyasını sarsan yeni ''Mydoom'' virüsünün yeni sürümünün daha da tehlikeli olduğu bildirildi. 
+     F-Secure adlı bilişim güvenliği firmasının yetkilisi Mikko Hypponen, ''MydoomB ilk sürümünden daha güçlü. E-mesajın okunması bile virüsün bulaşması için yeterli'' dedi. 
+     Yetkili, virüsün bilgisayara bulaşması için ekli dosyanın açılmasına bile gerek olmadığını belirterek, ''Dosyanın içinde ne var diye bakmak virüsün bulaşmasına yetiyor. MydoomB'nin de değişik versiyonları var'' dedi. 
+     ''Mydoom'', pazartesi günü ortaya çıkmıştı. Kısa sürede 168 ülkede milyonlarca virüslü e-mesaj görüldü. Virüs çok hızlı yayılıyor. 
+     
+</TEXT>
+</DOC>

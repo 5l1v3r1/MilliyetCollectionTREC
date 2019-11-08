@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 215977 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/18/son/soneko04.html </URL>
+<DATE> 2004/02/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa 19 bin puanın altına geriledi... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Bileşik Endeksi, dünkü kapanışa göre 42.34 puan düşüşle, 1. seansın ilk dakikalarını 18,967.80 puandan geçti. 
+     Hisse senetleri, ortalama yüzde 0.22 oranında değer yitirdi. 
+     Endeksin destek ve direnç noktaları şöyle 
+     destekler 18,900, 18,700, 18,500, dirençler 19,300, 19,500, 20,000 
+     
+</TEXT>
+</DOC>

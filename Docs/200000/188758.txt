@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 188758 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/15/son/sondun12.html </URL>
+<DATE> 2003/10/15/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+AOL'dan ucuz internet 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın en büyük internet hizmet kuruluşu olan America on Line AOL , yüksek bedel ödemekten yakınan abonelerine gelecek yıldan itibaren ucuza hizmet sunmaya başlayacak. 
+     AOL'in, ''Netscape'' adı altında başlatacağı yeni hizmet için ayda 9,95 dolar ücret talep edeceği bildiriliyor. Bu hizmetin de internete sınırsız bağlanmayı öngördüğü belirtildi. AOL halen uyguladığı zengin içerik programı için abonelerinden ayda 23,90 dolar alıyor. 
+     Netscape adıyla sunulacak hizmetin, çocukların istenmeyen sitelere bağlanmalarını engelleyici koruma duvarından ve AOL'in zengin içeriğinden yoksun olacağı ifade edildi. Aynı şekilde normal aboneler kendileri için 7 ayrı e-mail adresi alabilirken, ucuz tarifeli abonelikte her üyeye tek bir e-mail adresi verilecek. AOL'in yeni servisinin 2004 yılının ilk üç ayında başlatılacağı Wall Street Journal gazetesi tarafından duyuruldu. 
+     Bu yılın ilk yarısında yaklaşık 1.1 milyon abone kaybeden AOL'in şimdiki abone sayısının 25.3 milyon civarında bulunduğu bildiriliyor. Bu sayı, bir ara 30 milyona kadar çıkmıştı. AOL, bir zamanların önde gelen internet tarayıcısını üreten Netscape firmasını 1999 yılında 10 milyar dolara satın almıştı. 
+     
+</TEXT>
+</DOC>

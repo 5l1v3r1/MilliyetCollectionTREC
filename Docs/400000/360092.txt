@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 360092 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/11/son/soneko39.html </URL>
+<DATE> 2005/07/11/ </DATE>
+<TIME> 16.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Airbuslar'da Siemens teknolojisiyle cep telefonları açık olacak... 
+</HEADLINE>
+<TEXT>
+
+     Alman elektronik devi Siemens'in Airbus ile imzaladığı işbirliği anlaşması, yolcu uçaklarında cep telefonuyla konuşmanın ve internete bağlanmanın önünü açıyor. 
+     Siemens'ten yapılan açıklamada, Airbus yolcu uçaklarına kurulacak sistemle 2006 yılından itibaren yolcuların uçuş sırasında cep telefonuyla görüşme yapabilmesine olanak sağlanacağı bildirildi. 
+     İki şirket, öncelikli olarak haberleşme uydularıyla bağlantıyı sağlayacak yer istasyonunu uçakların tavanında kuracak. İstasyon, göndereceği sinyallerle uçak yolcularının cep telefonlarına ve dizüstü bilgisayarlarına bağlantı sağlayacak. 
+     Anlaşmaya göre uçaklara kurulacak sistemin GSM altyapısı Siemens tarafından oluşturulacak. Airbus ise uçaklardaki mevcut elektronik sistemlerin yeni teknolojiye uyumunu sağlayacak. 
+     Kurulacak sistemle havayollarına da ek gelir imkanı yaratılmış olacak. 
+     
+</TEXT>
+</DOC>

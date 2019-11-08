@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 122686 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/12/04/son/soneko28.html </URL>
+<DATE> 2002/12/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dünya "chip" sektörü yeni yılda nanoteknoloji çağına girecek. 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayarların mini elektronik devrelerini oluşturan ''chip'' de denilen yarıiletken sektörü yeni yılda nanoteknoloji çağına girecek. 
+     Japonya, ABD, Avrupa, Güney Kore ve Tayvan'daki yarıiletken sanayi gruplarının verdiği bilgiye göre, bu sektörde nanoteknoloji çağına girilmesi yarıiletken sektörünü canlandıracak. 
+     Geçen birkaç yılda gerileme yaşayan bu sektörün yeni teknolojilerin girişiyle ek ivme kazanması bekleniyor. Fakat bu teknolojide 2005 yılından sonra önemli bir aşama kaydedilmesi gerekiyor. 
+     Sektörde 1995'den önce her üç yılda bir teknoloji değişirken 1995'den sonra bu süre iki yıla indi. 
+     Nanoteknoloji, 100 nanometreden daha küçük malzemelerin kullanımını gerektiriyor, bir nanometre metrenin milyarda birine eşit. Bilgisayar ve yarıiletken sektöründe DRAM dynamic random access memories denilen hafıza çiplerinin boyutu 2001'de 130 nanometre iken 2003'de 100, 2004'de de 90 nanometreye inecek. Böylece, halen piyasadaki en minik, en ince çipin de yarısı kadar miniklikte çip üretilecek. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 342352 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/13/son/sonyas12.html </URL>
+<DATE> 2005/05/13/ </DATE>
+<TIME> 11.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Robotları da robot yapacak 
+</HEADLINE>
+<TEXT>
+
+     Bilim adamları kendisinin kopyasını yapan robot geliştirdi. 
+     Nature dergisinde çıkan habere göre, Amerikan Cornell Üniversitesi'nde geliştirilen küçük robotlar, birbirlerine bağlanabilecek mekanizmaya sahip 10 santimetrelik küplerden oluşuyor ve robotlarda kopya yapabilmelerini sağlayan bilgisayar programı bulunuyor. Kendi kopyalarını yapan deneysel robotlar, yerleştirildikleri masadan enerji alarak küpleri birleştiriyor. Robotlar özel 'besleme bölgeleri'ndeki ek modülleri kullanıyor ve yeni robot şekil almaya başladığında kendi kendinin üretimine yardım ediyor. 2.5 dakikada bir kopya yapabilen robotların ileride tehlikeli durumlar ile uzay uçuşlarında kullanılabileceği belirtildi. 
+     
+</TEXT>
+</DOC>

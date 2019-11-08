@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 225477 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/25/son/soneko14.html </URL>
+<DATE> 2004/03/25/ </DATE>
+<TIME> 11.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft, AB Komisyonu kararını temyiz edecek... 
+</HEADLINE>
+<TEXT>
+
+     AB Komisyonu tarafından 497.2 milyon Euro para cezasına çarptırılan Amerikan yazılım şirketi Microsoft, kararı temyize götüreceğini duyurdu. 
+     Microsoft CEO'su Steve Ballmer, kararın ardından yaptığı açıklamada, Avrupa Komisyonu'nun endişelerine cevap verebilecek, aynı zamanda da kullanıcıları için ürünlerini geliştirme ve yenilemelerine olanak sağlayacak bir uzlaşmaya varabilmek için çok gayret gösterdiklerini vurgularken, ''Komisyon'un otoritesine saygı duyuyoruz, ancak geçen hafta bizim sunduğumuz önerinin, dünyadaki tüm bilgisayar kullanıcılarına daha fazla yarar sağlayacak bir öneri olduğuna inanıyoruz'' dedi. 
+     Ballmer açıklamasında, soruşturma süreci boyunca Avrupa Komisyonu ile işbirliği içinde çalıştıklarını ve bu sürece saygı gösterdiklerini belirterek, şunları kaydetti 
+     ''Bu dava sürdükçe Avrupa yasalarına olan saygımızı koruyacağımızdan ve işbirliği içinde çalışmaya devam edeceğimizden emin olabilirsiniz. Bu süreçte, iş ortaklarımız ve müşterilerimize teknolojik devrim yaratacak yeniliklerimizi de sunmaya devam edeceğiz. 
+     Kararın bir talihsizlik olduğuna inansak da, Avrupa'daki hükümetler ve ürünlerin birlikte çalışılabilirliği, güvenlik, spam ve çocukların internetteki güvenliği gibi konularda Avrupa bilişim endüstrisi ile işbirliği içinde çalışmayı sürdüreceğiz.'' Microsoft'un Hukuki İşlerden Sorumlu Başkan Yardımcısı Brad Smith'in açıklamalarına göre şirket, Lüksemburg'daki Bidayet Mahkemesi'nden kararı yasal olarak yeniden gözden geçirmesini talep edecek. 
+     
+     HAKSIZ REKABET SUÇLAMASI 
+
+     Microsoft şirketinin bilgisayar ve bilgi işlem alanında tekel oluşturduğu, haksız rekabette bulunduğu görüşüyle 5 yıldır süren soruşturmasını tamamlayan AB Komisyonu'nun, Steve Ballmer'le sürdürdüğü müzakereler uzlaşmazlıkla sonuçlanmıştı. 
+     AB Komisyonu, Avrupa pazarında haksız rekabet yöntemleri nedeniyle suçladığı Amerikan yazılım şirketi Microsoft'a 497.2 milyon euro ceza verdiğini dün açıklamıştı. 
+
+     
+</TEXT>
+</DOC>

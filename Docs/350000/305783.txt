@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 305783 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/12/son/soneko35.html </URL>
+<DATE> 2005/01/12/ </DATE>
+<TIME> 16.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+MB Reel Kesim Güven endeksi 2.3 puan arttı... 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası'nın Reel Kesim Güven Endeksi MBRKGE , Aralık ayında bir önceki aya göre 2,3 puan artarak 104 seviyesinden 106,3'e çıktı. 
+     Bir önceki yılın aynı dönemine göre karşılaştırma yapıldığında ise endeks yüzde 1,3 oranında gerilediği gözlendi. 
+     MBRKGE'yi olusturan anket sorularına ait yayılma endeksleri Kasım ayına kıyasla incelendiğinde, mamul mal stok miktarı eğilimi yüzde 3,4 oranınındaki düşüşle en fazla gerileyen kalem olurken, endeksi artırıcı bir rol oynadı. 
+     Üretim hacmi beklentisi ise yüzde 7,3 oranındaki artışla endeksi en çok etkileyen kalem oldu. Endekse pozitif etkisi olan diğer kalemler ise ihracat imkanları, yatırım harcaması ve toplam istihdam beklentileri ile genel gidişat konusundaki görüşler oldu. 
+     Öte yandan, hammadde stok eğilimi endeksi azaltıcı yönde etkiledi. Endekse etkisi azaltıcı yönde olan iç pazara satılan mal hacmi eğiliminde görülen gerilemenin ise mevsimsel etkilerden arındırıldığında bir miktar artışa işaret ettigi gözlendi. 
+     Toplam sipariş eğiliminde de bir önceki aya göre önemli bir değişiklik gözlenmedi. Bir önceki yılın Aralık ayına göre karşılaştırma yapıldığında ise yatırım harcaması beklentisi ve hammadde stok eğilimi geçen seneki değerlerinin üstünde kalırken, mamul mal stok miktarı eğilimi ve üretim hacmi beklentisinde önemli bir değişiklik gözlenmedi. Diğer alt kalemler ise geçen seneki seviyelerinin altında değerler aldı. 
+     
+</TEXT>
+</DOC>

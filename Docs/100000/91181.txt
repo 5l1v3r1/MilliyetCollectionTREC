@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 91181 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/06/21/son/sondun10.html </URL>
+<DATE> 2002/06/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Okyanus araştırmaları için süper bilgisayar 
+</HEADLINE>
+<TEXT>
+
+     Amerikan ordusu hesabına okyanus araştırmaları yapmak amacıyla geliştirilen ''Blue Ocean'' adlı bir süper bilgisayarın, yakında çalışmalarına başlayacağı bildirildi. 
+     IBM şirketinden yapılan açıklamada, 15 milyon dolara mal olan bu bilgisayarın dünyanın üçüncü güçlü bilgisayarı olduğu belirtildi. 
+     IBM, bilgisayarın, sıcaklık, dalga hareketleri ve deniz akıntıları gibi konularda Amerikan Deniz Kuvvetleri Okyanus Araştırmaları Dairesi'ne yardımcı olacağını açıkladı. 
+     Bu bilgisayardan ayrıca, aşı alanındaki araştırmalarda da yararlanılacağı kaydedildi. 
+     1184 mikroişlemciyle 37 hizmet sağlayıcıya server sahip olan bilgisayar, 1500 gigabyte'tan fazla belleğe sahip. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

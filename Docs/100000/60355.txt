@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 60355 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/01/03/son/sondun01.html </URL>
+<DATE> 2002/01/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İşte 2001 yılını kabusa çeviren virüsler.. 
+</HEADLINE>
+<TEXT>
+
+     Geçtiğimiz yıl bilgisayar dünyasını en çok 5 virüsün tehdit ettiği ve kullanıcılara büyük zarar verdiği belirtildi. 
+     CNET uzmanları 2001 yılında, 2000 yılının iki katı olmak üzere, toplam 65 tehlikeli virüsün ortaya çıktığını kaydettiler. Ancak ''Virüsmetrelere'' göre bunların içinde 5 tanesi aşırı derecede tehlikeli bulundu. Bu virüsler şunlar BadTrans.B, Sircam, Magistr, Nimda ve Goner. 
+     Uzmanlar Badtrans B'nin, 2001 başında ortaya çıkan aynı isimli virüsün geliştirilmiş hali olduğunu vurguladılar. Bu virüs anahtar kelimlerin yanı sıra kredi kartı bilgilerini de topluyor ve bunları internetteki bazı yerlere gönderiyor. Virüsün orman yangını gibi hızla yayıldığı belirtildi. 
+     Virüslerin normal olarak zaman içinde güç kaybettiklerini kaydeden araştırmacılar Sircam virüsünün bu açıdan bir istisna olduğunu söylediler. Bilgisayarları hala etkilemeye devam eden Sircam, Badtrans'tan sonra 2. tehlikeli virüs ilan edildi. 
+     Magistr virüsü ise bilgisayarlarin CMOS BIOS sistemlerini bozarak onları işe yaramaz hale getirdiği için çok tehlikeli bulundu. Magistr virüsünü, ek olarak birden fazla .exe dosya ile geldiği için teşhis etme olanağı bulunuyor. 
+     Nimda virüsü ise çok hızlı yayılması yüzünden hem şebeke yöneticilerini hem de bilgisayar kullanıcılarını gafil avladı. 
+     E-mail'in yanı sıra, web sayfaları ve açık şebeke paylaşımı yoluyla dağılan bu virüsün aynı zamanda gelecekteki virüsler açısından örnek oluşturduğu kaydediliyor. 
+     Goner virüsü ise birbirine rakip iki ''hacker'' şifre kırıcı 
+     şebekesinin elemanları arasındaki çekişmenin sonucu ortaya çıktığı sanılıyor. Virüsün başlangıçta rakip şebeke elemanlarına zarar vermek amacıyla hazırlandığı ancak kısa sürede internette yayıldığı belirtiliyor. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 182102 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/13/son/sondun08.html </URL>
+<DATE> 2003/09/13/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilimadamları, sümüklüböceklerin sarmısakla öldüğünü keşfetti 
+</HEADLINE>
+<TEXT>
+
+     Newcastle Üniversitesi bilim adamları, bahçecilik ve tarımla uğraşanların en büyük düşmanı olan sümüklüböceklerin sarmısakla temas ettikten kısa bir süre sonra öldüğünü açıkladı. 
+     Salford'da yapılan İngiltere Bilim Festivali'nde bulgularının ayrıntılarını açıklayan biyolog Dr. Gordon Port, sümüklüböceğin sarmısak kokusunu aldığı anda etkilendiğini, bu bitkinin yağıyla temas ettikten kısa bir süre sonra da öldüğünü bildirdi. 
+     Diğer bazı tarım zararlılarının da kahve, bira ve tarçın kokusundan aynı şekilde etkilendiğini belirten Dr. Gordon, sarmısakla ilgili buluşun bahçecileri topraklarında zararlı tarım ilaçları kullanmaktan kurtaracağını umduklarını kaydetti. 
+     İngiltere'de bahçecilik ve tarımla uğraşan kişilerin her yıl sümüklüböcekle mücadele için kullandıkları tarım ilaçlarına yaptıkları harcamanın, 30 milyon sterlin civarında olduğu belirtiliyor. 
+     Bunun yanı sıra marul, lahana gibi bitkilerin yapraklarıyla beslenen sümüklüböcekler, tarladaki mahsule de büyük zarar veriyor. 
+     
+</TEXT>
+</DOC>

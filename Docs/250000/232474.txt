@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 232474 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/18/yasam/yas10.html </URL>
+<DATE> 2004/04/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayarlar 'casus' dolu 
+</HEADLINE>
+<TEXT>
+
+   DIŞ HABERLER SERVİSİ 
+   
+   ABD'de yapılan bir araştırma, kişisel bilgisayarlarda kullanıcının bilgisi dışında çok sayıda 'casus yazılım' bulunduğunu ortaya çıkardı. ABD'li internet sağlayıcısı 'EarthLink'in araştırmasında, incelenen her bilgisayarda, ortalama 28 casus yazılım bulundu. Araştırmacılar, internetten indirilen dosyalarla bilgisayara yerleşen yazılımların, bilgisayarın yavaşlaması ve sürekli 'pop - up' reklamların çıkmasıyla anlaşılabileceğini söyledi. Çoğu reklam amaçlı olan yazılımlar, kullanıcının bilgilerini de çalabiliyor. 
+   
+   
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 370758 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/18/ekonomi/eko11.html </URL>
+<DATE> 2005/08/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Medyayı tanımsız virüs vurdu 
+</HEADLINE>
+<TEXT>
+
+
+EKONOMİ SERVİSİ 
+
+Bu hafta başında internette yayılan yeni bir virüs ortaya çıktı. Henüz tanımlamayan virüs öncelikle ABD medyasının önde gelen kuruluşlarını ve büyük şirketlerini vurdu. Virüsten etkilenen kuruluşlar arasında ABC News, CNN ve The New York Times gibi dev medya kuruluşları bulunuyor. Daimler Chrysler, General Electric gibi ABD'nin dev kuruluşları da virüsten etkilendi. 
+Virüsün etkisi ile bilgisayarlar kendiliğinden kapanıp açılıyorlar. Virüs, Windows 2000'i etkilerken aynı zamanda XP platformunun ilk versiyonlarını da zarar veriyor. Güvenlik şirketleri virüse karşı önlem için ayrıntılı araştırmalar yapıyorlar. Virüs tam olarak belirlenemezken, hafta sonunda internette yayılmaya başlayan Zotop virüsü ile benzer etkiler yapabileceği belirtiliyor. Zotob virüsün farklı versiyonlarının da önceki geceden itibaren internette dolaşmaya başladığı ifade ediliyor. 
+
+
+</TEXT>
+</DOC>

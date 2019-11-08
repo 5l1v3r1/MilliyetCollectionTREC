@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 244692 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/02/son/soneko04.html </URL>
+<DATE> 2004/06/02/ </DATE>
+<TIME> 09.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Piyasa yapıcılığı izni BDDK'dan alınacak... 
+</HEADLINE>
+<TEXT>
+
+     BDDK'nın hazırladığı bankacılık yasa tasarısı taslağı ile Hazine ve SPK'nın özelikle faaliyet izinleriyle ilgili bir çok yetkisi BDDK'ya geçiyor. Buna göre, halen Hazine'nin yetki alanında bulunan bankaların piyasa yapıcılığı faaliyeti için BDDK'dan izin alıncak. 
+     BDDK'nın hazırlayarak ilgili bakanlıklar ve kuruluşların görüşüne sunulan "Kredi Kuruluşları Kanunu Tasarısı" taslağı, Hazine ve SPK'nın bazı yetkileri BDDK'nın görev alanına devrediyor. Taslağa göre, halen Hazine Müsteşarlığı yetkisinde bulunan, bankaların Hazine, Merkez Bankası ve kredi kuruluşları denetiminde oluşturulan bir sözleşme kapsamında üstlenilen yükümlülükler çerçevesinde yaptıkları alım satım işlemlerine ilişkin piyasa yapıcılığı izni BDDK'dan alınacak. 
+     Halen Hazine'nin yetkisinde bulunan, bankaların, özel finans kuruluşları, kalkınma ve yatırım bankaları ile finansal holding şirketlerinin şu faaliyetlerine de BDDK'dan izin alma koşulu getirildi "Sigorta ve Acente işlemleri, finansal kiralama hizmetleri, faktoring ve forfaiting hizmetleri, kambiyo işlemleri ve kurulca belirlenecek diğer faaliyetler." 
+     
+     SPK'YA TIRPAN 
+     Yasa tasarısı taslağına göre, SPK'nın yetki alanında bulunan kredi kuruluşlarının sermaye piyasası araçlarının ihraç veya halka arz yoluyla satışına aracılık ve daha önce ihraç edilmiş olan sermaye piyasası araçlarının aracılık amacıyla alım satımı için de BDDK'dan izin alınacak. SPK'nın yetki alanındayken BDDK iznine tabi tutulan diğer faaliyetler şunlar 
+     "Ekonomik ve finansal göstergelere, 
+-Sermaye piyasası araçların, Mala, Kıymetli madenlere, Dövize dayalı vadeli işlem sözleşmelerinin alım satımına aracılık 
+-Ekonomik ve finansal göstergelere sermaye piyasası araçlarına, kıymetli madenlere, mala ve dövize dayalı opsiyon sözleşmelerinin alım satımına aracılık 
+- Ekonomik ve finansal göstergelere sermaye piyasası araçlarına, kıymetli madenlere, mala ve dövize dayalı birden fazla türev aracı içeren karmaşık yapıdaki türev işlemlerinin alım satımına aracılık, 
+-Sermaye Piyasası araçlarının geri alım ya da satım taahhütü ile alım satımı, 
+-Yatırım danışmanlığı." 
+
+ANKA 
+     
+</TEXT>
+</DOC>

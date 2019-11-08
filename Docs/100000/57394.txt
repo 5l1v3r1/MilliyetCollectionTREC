@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 57394 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/12/15/son/sontur09.html </URL>
+<DATE> 2001/12/15/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternette "tr" uzantılı adreslerin sayısı artıyor 
+</HEADLINE>
+<TEXT>
+
+     İnternette Türkiye'yi simgeleyen ''tr'' uzantısıyla yer alan internet adreslerinin sayısı her geçen gün artıyor. ODTÜ Alan Adı Yönetimi'ndeki ''tr'' uzantılı internet adreslerinin kaydı 32 bine ulaştı. 
+     ODTÜ Alan Adı Yönetimi'nden alınan bilgiye göre, bir başkasına ait isme internet adresi alınmaması için ODTÜ Alan Adı Yönetimi web sisteminden karşılaştırmalarla dikkatli bir çalışma yapıyor. 
+     Alan Adı Yönetimi, isteyenlere faaliyet alanlarına göre ''com.tr'', ''gen.tr'', ''edu.tr'', ''net.tr'' gibi uzantılarla internet adreslerini verirken, adres tescili yaptıracakların bu alanlardan birisinde faaliyet gösterdiğini belgelemelerini istiyor. 
+     ''com.tr'' uzantısıyla adres alacaklardan ticaret sicili belgesi istenirken, diğer alanlarda da benzer belgeler talep ediliyor. 
+     
+     com.tr önde gidiyor 
+     Alan adı yönetimini üstlenen uluslararası ICAAN'ın verdiği yetki çerçevesinde 1992 yılından bu yana Türkiye'de ''tr'' uzantısıyla internet adresi veren ODTÜ Alan Adı Yönetimi, bugüne kadar ''tr'' uzantılı 32 bin 233 internet adresi tescil etti. 
+     Alan Adı Yönetimi'nin Türkiye'de ''tr'' uzantılı tescil ettiği internet adresinin sektörlere göre dağılımını ise şöyle 
+     com.tr şirketler 24764 adet, org.tr dernek ve benzeri kuruluşlar 1477 adet, edu.tr üniversiteler 149 adet, K12 ortaöğretim kurumları 342 adet, gov.tr devlet kurumları 858 adet, net.tr network işletmeleri 142 adet ve gen.tr genel 4264 adet, mil.tr askeri kurumlar 8 adet ve isim üzerine kayıtları içeren nom.tr 188 adet. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

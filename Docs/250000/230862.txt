@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 230862 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/13/son/sondun08.html </URL>
+<DATE> 2004/04/13/ </DATE>
+<TIME> 09.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Irak'ta robotlar da savaşıyor 
+</HEADLINE>
+<TEXT>
+
+     Amerikan ordusu, Irak'ta özel görevlerde kullandığı robotlardan ilk defa kayıp verdi. 
+     ABD ordusuna robot üreten iRobot firması, Amerikan Savunma Bakanlığı'nın Pentagon Irak'ta kullandığı PackBot adı verilen robotlardan birinin, ''görev sırasında imha edildiğini'' açıkladığını bildirdi. 
+     IRobot firmasının İcra Kurulu Başkanı Colin Angle, robotun görev anında kaybının çok önemli bir anlam ifade ettiğini belirterek, bunun bir robotun bir insan yerine havaya uçurulduğu ve robotların Amerikan askerlerinin hayatını kurtarabileceği anlamına geldiğini kaydetti. 
+     Massachusetts eyaletinin Burlington kentinde bulunan iRobot firması, Irak'taki çarpışmalar sırasında PackBot robotunun nasıl imha edildiği yolundaki ayrıntıları açıklamaktan, Iraklı direnişçilerin diğer robotlara karşı eyleme geçebileceği gerekçesiyle kaçındı. 
+     Amerikan ordusunun Irak ve Afganistan'da keşif, patlayıcı arama ve imha ile ordonat amaçlı 50 ila 100 PackBot robotu kullandığı belirtiliyor. 
+     Yaklaşık 37 kilo ağırlığındaki robotların değerinin 50 bin dolar civarında olduğu kaydedilirken, bunlar sarp arazide, dağlık mağaralar ile yarların incelenmesinde ve tehlikeli geçitleri aşarken özel yarar gösteriyorlar. 
+     PackBot robotlarının özellikle Iraklı direnişçilerin sık kullandıkları bubi tuzaklarını bulmak ve imha etmekte çok faydalı olduğu belirtiliyor. 
+     IRobot firması ayrıca, Pentagon ile dün daha gelişmiş ve daha küçük robotların üretimi için 32 milyon dolar tutarında bir anlaşma yaptı. 
+     Şirketin bu robotları, Amerikan Ordusunun Gelecekteki Muharebe Sistemleri programı çerçevesinde geliştireceği belirtildi. 
+     
+</TEXT>
+</DOC>

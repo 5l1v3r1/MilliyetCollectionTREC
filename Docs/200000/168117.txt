@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 168117 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/08/son/sontur33.html </URL>
+<DATE> 2003/07/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilsat-1 uydusunun uzaya gönderilmesi ertelendi... 
+</HEADLINE>
+<TEXT>
+
+     TÜBİTAK-BİLTEN tarafından teknoloji transferiyle yapımı gerçekleştirilen ve 28 Temmuz'da Rusya'nın Plesetsk askeri üssünden fırlatılması planlanan BİLSAT-1 uydusunun uzaya gönderilmesi, Rusya Federasyonu tarafından ertelendi. 
+     TÜBİTAK'tan yapılan yazılı açıklamada, iki önemli parçası tümüyle Türk mühendislerce tasarlanıp Ankara'daki BİLTEN laboratuvarlarında üretilen ilk Türk gözetleme uydusu BİLSAT-1'in 26 Eylül 2003 tarihinde uzaya gönderileceği bildirildi. 
+     Rusya Federasyonu'nun, kendine ait bir askeri uydunun arızalanması üzerine bu uyduyu yenilemek amacıyla programında değişiklik yapması nedeniyle, 28 Temmuz'da BİLSAT-1'le aynı roketle uzaya gönderilmesi planlanan İngiltere ve Nijerya'ya ait uyduların fırlatılışını da ertelediği kaydedildi. 
+     Bu erteleme üzerine, Plesetsk askeri üssüne gönderilmiş olan BİLSAT-1 uydusu, montajın yapıldığı İngiltere'deki SSTL firması laboratuvarlarına geri götürüldü. 
+     
+</TEXT>
+</DOC>

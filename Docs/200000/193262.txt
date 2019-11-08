@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 193262 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/04/son/soneko11.html </URL>
+<DATE> 2003/11/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Likit fon tanımı yeniden yapıldı... 
+</HEADLINE>
+<TEXT>
+
+     Likit fon tanımı yeniden yapıldı Buna göre, ''devamlı olarak portföyünde, vadesine en fazla 180 gün kalmış likitidesi yüksek sermaye piyasası araçları yer alan ve portföyünün ağırlıklı ortalama vadesi en fazla 45 gün olan fonlar, likit fon sayılacak. 
+     Önceki düzenlemede, ''vadesine 90 günden az kalmış sermaye piyasası araçlarından oluşan fonlar'', likit fon sayılıyordu. 
+     Sermaye Piyasası Kurulu'nun SPK ''Yatırım Fonlarına İlişkin Esaslar Tebliği''nin 5. maddesinin bazı bentlerinde değişiklik yapıldı. 
+     Değişiklik sonrası, portföyün ağırlıklı ortalama vadesi ise sermaye piyasası araçlarının ayrı ayrı ortalama vadeleri dikkate alınarak bulunacak. 
+     Aynı tebliğin alış tarihinden başlamak üzere ''portföydeki varlıkların değerleme esaslarını'' içeren 45. maddenin, ''Değerleri belirlenemeyen borçlanma senetleri ve repoların son iş günündeki portföy değerlerine, sermaye piyasası aracının iç verim oranı üzerinden günlük bileşik faiz esasına göre hesaplanan faizin, ana paraya eklenmesi suretiyle değerlendirilecek'' şeklinde ifade edilen iv bendi kaldırıldı. 
+     Bunun yerine getirilen düzenlemeye uyarınca, portföy değerleme esasları dışında kalan sermaye piyasası araçları, ''piyasa fiyatını en iyi yansıtacak'' şekilde, fon kurulu tarafından belirlenecek esaslar çerçevesinde değerlendirilecek. 
+     Resmi Gazete'nin bugünkü sayısında yayımlanan tebliğin yayım tarihinden önce kurulan likit yatırım fonları, portföy yapıları ve iç tüzüklerini, 2 ay içinde bu tebliğe uygun hale getirmek zorunda olacaklar. 
+     Tebliğ, yayımı ile birlikte yürürlüğe girdi. 
+     
+</TEXT>
+</DOC>

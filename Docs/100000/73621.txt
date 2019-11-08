@@ -1,0 +1,43 @@
+<DOC>
+<DOCNO> 73621 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/03/20/son/soneko18.html </URL>
+<DATE> 2002/03/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hackerlar, ABD eski Başkanı Nixon'ı "işletmiş"... 
+</HEADLINE>
+<TEXT>
+
+     Hacking dünyasında yaşayan efsane olarak anılan ve ücretsiz şehirlerarası konuşma yapabilen ''Blue Box''un mucidi olarak tanınan John Draper ve arkadaşlarının ABD eski Başkanlarından Richard M. Nixon'u, Merkezi Haber Alma Teşkilatı CIA 
+     ile irtibat kurduğu özel hattan arayıp ''işlettikleri'' ortaya çıktı. 
+     Hackerler, telefona çıkan Nixon'a ulusal bir krizin varlığını haber verip, Nixon'un problemin ne olduğunu sorması üzerine ise tuvalet kağıtlarının bittiğini söylemiş. 
+     Smart Valley tarafından düzenlenen SACIS 2002 konferansına konuşmacı katılan John Draper, uzmanlara, saldırılara karşı nasıl önlem alabilecekleri konusunda bilgi verdi. 
+     Toplantıda, ücretsiz telefon görüşmeleri yapılan ''Blue Box'' cihazını nasıl geliştirdiğini anlatan Draper, bir gün ama bir çocuğun kendisini aradığını ve dalga geçer tarzda konuştuğunu kaydederek, konuşmanın ilerleyen anlarında çocuğun görüşmeyi ücretsiz ve bunu cips paketlerinin içinden promosyon olarak çıkan bir düdükle yaptığını öğrendiğini söyledi. 
+     Çocuğun 2600 Hertz'lik ses çıkaran plastik düdükle ücretsiz konuşma yaptığını ve kendisinin de bunu geliştirerek Mavi Kutu isimli cihazı geliştirdiğini anlatan John Draper, o dönemlerde sürekli telefon numaralarıyla ilgili şifreleri ve kriptoları kırmak için çalıştığını ve bu aramalar sırasında ilginç anlar yaşadığını aktardı. 
+     Ücretsiz 800'lü hatlar üzerinde çılışırken aradığı numaradaki kişinin, hiç de sıcak davranmadığını kaydeden Draper, ''Genelde 800'lü hatlar tüketici içindir yani buralarda sizi hep iyi karşılarlar ya bir şey satmaya çalışırlar ya da bunun gibi birşey. Ama benim aradığım numaradakiler kendilerini tanımlamıyorlardı'' diye konuştu. 
+     
+     Nixon'a şaka 
+     2-3 gün sonra tekrar aynı numarayı arayıp sosyal mühendislik 
+     yapmak istediğini anlatan Draper, şöyle konuştu 
+     ''Karşımdakine kim olduklarını sorduğum zaman, CIA'nın Beyaz Saray hattına girdiğimi anladım. Acil durumlarda Başkan ile görüşmek için direk kullandıkları gizli bir hattı. Daha sonra Olimpus diye bir kod duydum ve aynı numarayı arayıp Olimpus dediğimde karşıma Başkan Nixon çıkmıştı ve ben hemen telefonu kapattım.'' O dönemlerde hackerlerin numaraları aralarında değiş tokuş yaptıklarını bildiren Draper, Apple'nin kurucusu Steve Wozniak'a kendisinde ABD Başkanı Richard Nixon'un numarası olduğunu söylediğini, arkadaşlarının ise onlarla dalga geçtiğini sandıklarını anlattı. 
+     Draper, ''Steve numarayı çevirdi ve Olimpos deyince Başkan'ı karşısında bulmuştu. O da Nixon'a Ciddi bir ulusal kriz var dedi. 
+     Başkan da nedir diye sorunca tuvalet kağıdının bittiğini söyledi'' diye konuştu. 
+     Los Angeles telefon santralına girip, dışarıdan gelen tüm aramaları operatör gibi karşıladıklarını da anlatan Draper, ''Herkese Los Angeles'te nükleer bir sorun olduğunu söylüyorduk ve bir süre sonra basın hücum etti, ordu arayıp birlik göndereceğini söyledi'' diye konuştu. 
+     Olayların Los Angeles Times gazetesinde ''Nükleer şaka'' diye yer aldığını kaydeden Draper, Steve Wozniak'ın, hattına ulaştığı Papa'yı sabahın 3'ünde arayıp görüşmek istediğini de kaydetti. 
+     
+     Yaşayan efsane 
+     30 yıldan fazla program yazma ve güvenlik deneyimine sahip olan 
+     Draper, Steve Wozniak ile birlikte Apple bilgisayarlarında kullanılan programlar yazdı, IBM için kelime işlemci program geliştirdi, telefonun ahizesine yapıştırılıp santraller arasında atlayarak ücretsiz şehirlererası görüşme yapılabilen Blue Box cihazını yaptı, MA Bell ve AT T şirketlerinin sistemlerini aşmayı başardı. 
+     1972 yılında telefon şirketlerinin sistemlerini illegal kullanmak 
+     suçundan gözaltına alındı ve tutuklandı, kablolu sistem sahteciliği suçundan 1976'da tekrar tutuklanarak California Federal Cezaevi'ne gönderildi, Amerikan Hava Kuvvetleri'nden atıldı. Daha sonra kendini bilgi sistemi güvenliği üzerine yazılımlar geliştirmeye adayan Draper'in kendine ait bir güvenlik firması bulunuyor. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 198176 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/27/son/soneko02.html </URL>
+<DATE> 2003/11/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+MRO Software ve HP yeni bir işbirliğine imza attı... 
+</HEADLINE>
+<TEXT>
+
+     Türkiye'de Boğaziçi Yazılım'ın temsil ettiği MRO Software firması, HP ile yeni bir stratejik işbirliğine imza attı. Buna göre, MAXIMO MainControl BT demirbaşları yönetimi çözümü, HP'nin hizmetlerine dahil edilecek. 
+     MAXIMO MainControl çözümünün, HP OpenView Servis Masası teknolojisiyle entegre edilmesi düşünülüyor. Böylece MainControl, toplam sahip olma maliyeti değerlendirmesi, BT demirbaşları yönetimi tedarik, kurulum, taşıma, ekleme, değişiklik, devre dışı bırakma, yazılım yönetimi, koruma ve güvenlik hizmetlerine yönelik çözümün bir parçası haline gelecek. MAXIMO MainControl, BT ile ilgili milyonlarca demirbaşı etkin bir biçimde yönetiyor müşterilere, donanım ve yazılım envanteri izleme, sözleşme yönetimi, maliyet kiralama yönetimi ve yazılım lisansı uyumluluğu gibi alanlarda iyileştirme yapma imkanı veriyor. 
+     
+</TEXT>
+</DOC>

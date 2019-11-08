@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 57186 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/12/14/son/soneko01.html </URL>
+<DATE> 2001/12/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones ve Nasdaq düştü 
+</HEADLINE>
+<TEXT>
+
+     Dow Jones Sanayi Endeksi, 128.36 puan düşüşle yüzde 1.30 , 9,766.45 puanla kapandı. 
+     Teknoloji ortaklıklarının hisse senetlerinin izlendiği Nasdaq Birleşik Endeksi ise 64.85 puan düşüşle yüzde 3.22 1,946. puandan kapandı. 
+     Borsanın düşüşünde, teknoloji şirketleri Ciena ve Lucent Technologies'in, yılın son çeyreğindeki karlarının beklenenden düşük olacağını açıklamaları etkili oldu. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

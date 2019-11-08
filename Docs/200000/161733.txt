@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 161733 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/07/son/sontur25.html </URL>
+<DATE> 2003/06/07/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternette, virüslü mail alarmı.. 
+</HEADLINE>
+<TEXT>
+
+     İnternette e-posta ile yayılan yeni bir tür virüsün, etkilediği bilgisayarlardaki ''firewall ve antivürüs' yazılımlarını devre dışı bıraktığı bildirildi. 
+     Türk İnternet Birliği Başkanı Hakan Topuzoğlu, yaptığı açıklamada, ''W32 BugBear.B-mm'' adını taşıyan virüsün, etkilediği bilgisayarların çalışmasını yavaşlattığını ve sahibinin haberi olmadan bilgisayarda kayıtlı olan adreslere virüslü e-posta gönderdiğini söyledi. 
+     Virüsün geldiği e-posta adresinin gerçek olmayan bir adres de olabileceğini belirten Topuzoğlu, şunları anlattı 
+     ''Virüs, birkaç alan adını içerebiliyor ve sisteme bulaştığında firewall ve antivirüs yazılımlarını devre dışı bırakabiliyor. Yakalanan bazı kopyalarında 'Hello , update, hmm, payment notices, just a reminder, correction of errors, history screen, announcement, various, news' gibi konu başlıklarına ve 'reg, ini, bat, diz, txt, cpp, html, htm, jpeg, jpg, gif, cpl, dll, vxd, sys, com, exe, bmp' gibi ekli dosya uzantılarına sahip olduğu tespit edildi. Ayrıca, ekli dosya, 'dosya.gif.exe' gibi iki uzantıya da sahip olabiliyor. Virüs, sisteme bulaştıktan sonra, dosya adını ve ilk dosya uzantısını ise e-postayı gönderdiği bilgisayardan alıyor.'' Topuzoğlu, ''W32 BugBear.B-mm'nin geçen yıl eylül ayında ortaya çıkan ''BugBear'' virüsünün yeni bir çeşidi olduğunu, Symantec firmasının güncel antivirüs programının virüsü tanıdığını ve etkilerinden koruyabildiğini belirtti. 
+     
+</TEXT>
+</DOC>

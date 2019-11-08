@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 357022 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/30/son/soneko51.html </URL>
+<DATE> 2005/06/30/ </DATE>
+<TIME> 21.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD Merkez Bankası faiz oranlarını 9. kez yükseltti... 
+</HEADLINE>
+<TEXT>
+
+     ABD Merkez Bankası FED , kısa vadeli gösterge faizini çeyrek puanlık artırımla yüzde 3.25’e yükseltti. 
+     FED Açık Piyasalar Komitesi toplantısı sonrasında, faiz oranlarını, dokuzuncu kez üst üste yükseltme kararı çıktı. 
+     FED’in toplantısından ardından yapılan açıklamada, enflasyon hareketinin yakın bir şekilde takip edildiği, enerji maliyetlerindeki yükselişe rağmen, iş hacminin arttığı, istihdam piyasasının da gelişmesini sürdürdüğü kaydedildi. 
+     Açıklamada, ekonomideki büyümenin de devam ettiği vurgulandı. 
+     
+     FAİZ ARTIŞLARININ BORSAYA ETKİSİ... 
+     Bu arada, FED’in, faiz artışlarını sona erdireceği konusunda herhangi bir sinyal vermemesi nedeniyle, borsadaki endeksler geriledi. 
+     Dow Jones endeksi yüzde 0.30, The Standard and Poor’s 500 endeksi yüzde 0.19 ve Nasdaq Bileşik endeksi de yüzde 0.01 oranlarında değer kaybetti. 
+     Ekonomistler, FED’in, enerji maliyetlerinin arttığı bir ortamda, enflasyonu kontrol altında tutabilmek için faiz oranlarını arttırmaya devam edeceği görüşünde birleşiyorlar. 
+     
+</TEXT>
+</DOC>

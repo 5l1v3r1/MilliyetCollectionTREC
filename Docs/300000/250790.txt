@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 250790 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/25/son/sondun08.html </URL>
+<DATE> 2004/06/25/ </DATE>
+<TIME> 01.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayarlara "Escape" tuşunu kazandıran Bemer öldü... 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayar teknolojisinin öncülerinden, kısa adı ASCII olan Amerikan Standart Kod Değişimi adlı sistemi ve bilgisayar klavyelerindeki ''escape'' tuşunu kazandıran teknolojinin yaratılmasına emeği geçen Bob Bremer, 84 yaşında öldü. 
+     Bakımını üstlenen görevli, Bemer'in Dallas kentinin 190 kilometre batısında, Possum Kingdom gölü yakınındaki evinde kansere yenik düştüğünü duyurdu. 
+     1950'lerin sonlarında IBM şirketiyle çalışan Bemer, dünyada pek çok bilgisayarın kullandığı ve bilgisayarların yazılı metni ikili sayı sistemi olarak okumasına olanak veren ASCII kodlama sisteminin geliştirilmesine yardım etti. 
+     Bemer ayrıca, yazdığı bilgisayar düzeniyle bilgisayar klavyelerindeki ''escape'' tuşunun geliştirilmesine de katkı sağlayan kişi olarak da biliniyordu. Bilgisayarlardaki ''escape'' komutu, kullanıcıların bir programda geri ve yan gitmesine olanak sağladığı için bilgisayar teknolojisinde önemli bir adım olarak değerlendiriliyor. 
+     IEEE Bilgisayar Toplumu adlı kuruluşun verdiği Bilgisayar Öncüsü ödülünü 2002 yılında kazanan Bemer bu ödüle, bilgisayar kullanıcılarının bilgisayar ekranında metin ve görüntüleri hareket ettirmesi konusunda yaptığı çalışmalar nedeniyle layık görüldü. 
+     
+</TEXT>
+</DOC>

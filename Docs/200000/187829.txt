@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 187829 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/10/son/sontur07.html </URL>
+<DATE> 2003/10/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Linux kullanıcıları Anadolu yollarında... 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın önde gelen yazılım firmalarından Microsoft ürünlerinin rakibi olarak gösterilen linux, Anadolu'da bilgisayar kullanıcılarına tanıtılıyor. 
+     Linux Kullanıcıları Derneği, ceşitli şehirlerde gezici linux seminerleri düzenliyor. Bu yıl ikincisi yapılan gezici seminerlerin ilki 7-8 Ekim tarihlerinde Hatay'da Mustafa Kemal Universitesi'nde gerçekleştirildi. 
+     Adana'da I. Çukurova Sanayi ve Ticaret Fuarı'nda ve Karaman'da Selçuk Üniversitesi Meslek Yuksek Okulu'nda yapılacak linux seminerleri daha sonra Anadolu'nun çeşitli kentlerinde devam edecek. Seminerlerde kurulum, kullanım ve programlama işlemleri anlatılıyor. 
+     Linux Kullanıcıları Derneği Başkanı Doç. Dr. Mustafa Akgül, linux kültürünü yaymak, linux kullanımını artırmak, yayılmasını sağlamak ve kullanıcıları biraraya getirmek üzere gezici seminerler düzenlediklerini ifade etti. 
+     Akgül, Microsft ürünlerindekinin tersine açık kaynak kodu kullanan linux yazılımlarına dünyada büyük ilgi olduğunu, son dönemde taleplerde çok ciddi bir artış kaydedildiğini belirtti. Türkiye'de de özellikle gençlerin linux ile tanışmak istediğini vurgulayan Akgül, ''Türkiye'de dünyadaki gelişmelere paralel olarak linux kullananların sayısında sıçrama bekliyoruz. Gezici seminerler bunun için önemli katkı sağlıyor'' dedi. 
+     Linuxun açık kaynak kodlu olduğu için güvenlik açıklarının anında kapatabildiğini, bilgisayarlarda güvenli bir çalışma ortamı sunduğunu ifade eden Akgül, ''Herkes linuxu kendine göre uyarlayabilir. Gerektiğinde güvenlik tedbirlerini artırabilir. Özellikle yazılım konusunda kendini geliştirmek isteyenler için linux önemli fırsatlar sunuyor. Bilgisayar sistemlerinde güvenlik açısından geniş olanaklar sunan linuxu biz bu nedenle geniş kitlelere yaymak istiyoruz'' diye konuştu. 
+     Linux yazılımlarını, açık kaynak kodlu olması nedeniyle Avrupa Birliği'nin de özendirdiğini ifade eden Akgül, Alman ve Rus ordularının da güvenlik açısından linuxu tercih ettiğini kaydetti. 
+     Akgül, ülkelerin linux sayesinde diğer yazılımlara lisans ücreti ödemekten kurtulduğunu ve böylece döviz yönünden büyük tasarruf sağladıklarını da belirtti. 
+     Bu arada dünyadaki tüm bilgisayarların yüzde 60'ında windows, yüzde 15 oranında linux, kalan bölümünde ise unixs sistemlerinin kullanıldığı tahmin ediliyor. 
+     
+</TEXT>
+</DOC>

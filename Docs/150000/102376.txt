@@ -1,0 +1,42 @@
+<DOC>
+<DOCNO> 102376 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/08/17/yasam/yas03.html </URL>
+<DATE> 2002/08/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Robot üç saatte uçmayı öğrendi 
+</HEADLINE>
+<TEXT>
+
+İsveç’te bir robot, evrimde başarılması milyonlarca yıllık süreç gerektiren uçma eylemini üç saatte öğrendi 
+     DIŞ HABERLER SERVİSİ 
+
+     İSVEÇ’TE, Chalmers Teknoloji Üniversitesi’nde görevli bilim adamları Krister Wolff ve Peter Nordin, önce kanatları olan bir robot yaptı. Ardından da bu robota her biri, bir hareketi tanımlayan çok sayıda komutu saniyede 20 komut hızıyla, raslantısal bir sırayla yüklediler. 
+     
+Önce acemice hareketler      HER komut robotun farklı ama küçük bir hareketi yapmasını, balsa ağacından yapılan ve hafif plastik bir filmle kaplanan kanatların öne, geriye, yukarı, aşağı olmak üzere birçok farklı kombinasyonlarla hareket etmesini sağladı. Robot, önce kanatlarıyla sadece tiki andıran sarsıntılı hareketler yaptı. 
+     
+New Scientist yayımladı      ANCAK robot daha sonra havalanmasını sağlayacak olan kanat hareketlerini bulmayı başardı. Sonuçları New Scientist dergisinde yayımlanan deney sırasında, robota hangi hareketin doğru, hangisinin yanlış olduğunu anlatan bir program eşlik etti. 
+     
+
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

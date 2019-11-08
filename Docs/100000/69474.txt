@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 69474 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/02/25/son/sontur05.html </URL>
+<DATE> 2002/02/25/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ÖSS Bilgi Kontrol Formu için son hafta... 
+</HEADLINE>
+<TEXT>
+
+     2002-Öğrenci Seçme Sınavı'na ÖSS 
+     başvuran adaylardan, aday bilgi kontrol formlarında yanlış veya eksik bulunanlar, düzeltme yaparak, 28 Şubat Perşembe gününe kadar Öğrenci Seçme ve Yerleştirme Merkezi'ne ÖSYM gönderecekler. ÖSYM, aday bilgi kontrol formlarını adaylara postayla gönderdi. Aday bilgi kontrol formlarında, adayların başvuru belgesinde kodladıkları bilgiler ile önceki yıllarda ÖSS'ye başvurmuş olanların ÖSYM kayıtlarındaki okul bilgileri yer alıyor. Bilgilerinde yanlışlık veya eksiklik bulunan adaylar, formun arka yüzünde yer alan açıklamalar doğrultusunda, form üzerinde düzeltme yapacaklar. Düzeltilen formlar, 28 Şubat 2002 Perşembe gününe kadar ÖSYM'ye ulaştırılacak. Bu tarihe kadar ÖSYM'ye ulaşmayan formlar işleme konulmayacak. Adaylarca düzeltilen bilgiler, gerekli incelemeler yapıldıktan sonra bilgi işlem ortamına aktarılacak. Aday bilgi kontrol formu, adaya geri gönderilmeyecek. Aday bilgi kontrol formundaki bilgileri doğru olan adayların, bu formu ÖSYM'ye göndermeleri gerekmiyor. 
+     
+     İnternetten kontrol olanağı 
+     Adaylar, ÖSS bilgilerini, internetten ve WAP uyumlu cep telefonlarından da kontrol edebilecekler. 
+     İnternetten kontrol için, adayların ÖSYM numaralarını ve internet erişim şifrelerini mutlaka girmeleri gerekiyor. İnternet erişim şifresi, adaylarda bulunan 2002-ÖSS Aday fişinin alt tarafındaki orta kutuda basılı harf ve rakamlardan oluşuyor. 
+     Bu işlemi internetten yapmak isteyen adaylardan, elektronik posta adresi ve telefon numarası da isteniyor. 
+     Adaylar, internet veya WAP uyumlu telefonlardan bilgi düzeltmesi yapamayacaklar. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

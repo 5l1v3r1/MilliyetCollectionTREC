@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 210252 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/22/guncel/agun.html </URL>
+<DATE> 2004/01/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hurda ve bozuk cihazlarla ameliyat yaptılar 
+</HEADLINE>
+<TEXT>
+   Korku filmi gibi 
+   İstanbul Eğitim Hastanesi'nde yapılan araştırma sağlık skandalını ortaya çıkardı. Bozuk cihazların yıllarca kullanıldığı açıklandı 
+      Şükran Özçakmak 
+   
+   SSK'nın ISO 9000 belgeli hastanelerinden Fatih Samatya'daki İstanbul Eğitim ve Araştırma Hastanesi'nde, bozuk ve hurdaya ayrılmış cihazlarla teşhis konulduğu, tedavi ve ameliyat yapıldığı ortaya çıktı. 
+   Hastanede bu tür cihazların yıllarca kullanıldığı bilgisi, 16 Aralık 2003'te göreve getirilen Başhekim Vekili Doç. Dr. Serpil Bozkurt'un personele yaptığı duyuruda yer aldı. Bozkurt, TSE'ye gönderilen şik yet mektuplarının kendisine de ulaşması nedeniyle bir araştırma yaptı. Klinik şeflerini dinleyip kayıtlar incelendiğinde, birçok ihbarın doğru olduğu, buna rağmen denetim raporunun olumlu verildiği tespit edildi. Bozkurt, duyurusunda şu değerlendirmelerde bulundu 
+   Bazı tıbbi cihazların kontrolsüz, yetersiz, daha da kötüsü hurda özelliğinde olması, kalitesiz sağlık hizmetine neden olmaktadır. Göz Kliniği'nde 1998'den itibaren hurda cihazlarla muayene ve ameliyat yapıldığı, bu durumun 18 Aralık 2003 öncesindeki tüm TSE denetimlerinde devam etmekte olduğu anlaşılmıştır.Ameliyat sırasında hastalıklı organının patolojik tetkikini anında yapan ve organın alınıp alınmaması yönünde karara varılmasını sağlayan frozen cihazı, Ocak 2002'de arıza saptanarak kapattırıldı. Ancak tamiratı yapılmadığı halde başka bir cihaz olmadığı için tamamen çalışamaz duruma gelene 6 Kasım 2003 kadar kullanılmaya devam edildi.Kulak Burun Boğaz Kliniği'ne ait Odio laboratuvarında bulunan ses ölçümü yapan ve hastanın ameliyat olup olmaması gerektiğine karar veren cihaz, hurdaya ayrıldığı halde kullanılmaya devam edildi.Hastane jeneratöründe 16 Mayıs 2003'te saptanan pano arızası bir türlü giderilmediği halde eylül ayında TSE denetlemesi başarıyla tamamlandı. Anestezi şefi, teknik servisin raporuna rağmen TSE ISO denetlemesinden geçen jeneratör için, 23 Eylül 2003'te hastane yönetimini, arızanın hayati tehlikeye yol açacağı konusunda uyardı. Arıza 5 ay sonra giderildi. Nöbet defteri kayıtlarına göre bu nedenle 12 Ekim 2003'te önemli bir sorun yaşanmış ve vaka kazasız atlatılmış. 
+   
+   İstatistiklerde hile 
+   ISO standartlarıyla ilgili olarak da hilelere başvurulduğu ortaya çıktı. Bulgular şöyle 
+   ISO standardına göre, bir hastanın ilaç ve malzeme alma süresi 15 dakika. Ancak şef eczacının raporlarına göre bu süre 60 ila 90 dakikanın üzerinde. Taahhütlere göre 1-2 saat içinde verilmesi gereken bir röntgen randevusu, 12-16 gün arasında veriliyor.Poliklinikte her hastaya en az 6 - 8 dakika ayrılmalı. Bu sürenin 3 - 4 dakikayı bulmadığı görüldü. Bir doktor günde 56 - 75 hastaya bakmak durumunda. Buna karşılık hasta sayısı zaman zaman 100'ün üzerine çıkıyor. 
+   
+</TEXT>
+</DOC>

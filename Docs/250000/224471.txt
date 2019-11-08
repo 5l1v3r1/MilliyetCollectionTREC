@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 224471 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/22/son/soneko03.html </URL>
+<DATE> 2004/03/22/ </DATE>
+<TIME> 10.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa haftaya yükselişle başladı... 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası İMKB , haftaya yükselişle başladı. 
+     Cuma günü 20,023.77 puanlık rekor seviyeden kapanan İMKB Ulusal 100 Endeksi, 1. seansta 15.89 puanlık artışla 20,039.66 puandan açıldı. 
+     Yükselişini sürdüren endeks, seansın ilk yarım saatlik bölümünü Cuma günkü kapanışa oranla 257.28 puan artışla 20,281.05 puandan geçti. Hisse senetleri bu seviyede ortalama yüzde 1.28 değer kazandı. 
+     
+</TEXT>
+</DOC>

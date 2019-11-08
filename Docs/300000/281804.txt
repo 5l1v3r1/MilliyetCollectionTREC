@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 281804 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/20/son/sondun26.html </URL>
+<DATE> 2004/10/20/ </DATE>
+<TIME> 14.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dünyanın en hızlı bilgisayarında NEC açık ara önde 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın en hızlı bilgisayarı yarışında Japon NEC firması, Amerikan IBM'in açık farkla önüne geçti. 
+     NEC firmasından yapılan açıklamada, SX-8 adlı yeni süper vektöryel bilgisayarın Amerikan bilgisayar devi IBM'in Blue Gene L isimli süper bilgisayarın işlem hızını büyük bir farkla geçtiği bildirildi. 
+     Japon şirketi, IBM'in 30 Eylül'de açıklanan saniyede 36,01 trilyonluk işlem hızına karşılık, SX-8'in saniyede 65 trilyon işlem hızına ulaştığını açıkladı. 
+     NEC'in süper bilgisayarının vektöryel yapısıyla IBM'in bilgisayarından farklı olduğu belirtilirken, Japon şirketinin şimdiden 100 sipariş aldığı kaydedildi. 
+     İlk bilgisayarın, İngiltere'de meteoroloji servisinde kullanılmak üzere bu ülkeye teslim edileceği belirtildi. 
+     Bu bilgisayarlardan 3 yıl içinde 700 tane satmayı ya da kiralamayı hedefleyen, merkezi Tokyo'da bulunan bilgisayar şirketi, bir SX-8 bilgisayarının aylık kirasını 8 bin 615 euro, satış fiyatını da 957 bin euro olarak belirledi. 
+     İnternette Top500.org adresinde yayımlanan süper bilgisayarlar listesi iki yılda bir güncelleniyor. Liste kasımda güncellenecek. 
+     Merkezi ABD'nin Columbus kentinde bulunan ve dünyanın kar amacı gütmeyen en büyük araştırma kuruluşu Battelle Memorial Enstitüsü de, bir süper bilgisayarın yapımının 2008 yılında tamamlanacağını açıklamıştı. 
+     Bu bilgisayarın, saniyede bir katrilyon işlem yapmasının planlandığı, saniyede 35,8 trilyon işlem yapan Japonya'daki benzerlerinden çok daha hızlı olacağı bildirilmişti. 
+     
+</TEXT>
+</DOC>

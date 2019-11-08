@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 123789 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/12/10/son/sonspo22.html </URL>
+<DATE> 2002/12/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Belçika Ligi'nde 3. takım iflasını açıkladı... 
+</HEADLINE>
+<TEXT>
+
+     Belçika'da bir yıl içinde borçlarını ödeyemeyen Birinci Futbol Ligi'nden 3. takım da iflas ettiğini açıkladı. 
+     Daha önce iflas ettikleri açıklanan Rwdm Molenbeek ve Eendracht Aalst kulüplerinden sonra Belçika liginin köklü kulüplerinden K.V. Mechelen takımı da bugün resmen Belçika 1. Ligi'nden, kulübün yöneticileri, oyuncuları ve tüm personel de Belçika adli makamları tarafından işten çıkarıldı. 
+     Belçika Futbol Federasyonu yetkilileri, kulüplerdeki kötü yönetimlerin iflaslara neden olduğunu belirterek, şu açıklamayı yaptı 
+     ''Kulüplerde kötü yönetimin yanı sıra futbolculara ödenen yüksek transfer ücreti ve maaş, oyuncular ve kulüp personelinin emeklilik, sosyal sigorta gibi ödemeleri, sponsorlara düşen çok yüksek maddi yükler bu tür iflaslara yol açtı. Bu masrafların yanı sıra vergi dairelerinin sıkı denetimi ve vergi oranlarının yüksekliği de kulüpleri zora soktu.'' 
+     
+     ''FUTBOLCUYUM, İŞ ARIYORUM'' 
+     Öte yandan, sarı-kırmızı renklerle sahaya çıkan K.V. Mechelen takımının boşta kalan oyuncuları gazetelere verdikleri ilanlar yoluyla iş arıyorlar. 
+     Takım kaptanı ve kalecisi İvan Willockx konu ile ilgili yaptığı açıklamada şu görüşleri dile getirdi 
+     ''Bu bir skandaldır. Belçika gibi zengin bir ülkede, 1 yıl içinde nasıl 3 takım iflas edebilir. Federasyonun eksiklerinin yanı sıra oyunculara da hiç bir hak tanınmıyor. Hepimizin borcu ve ailesi var. Hayatımızın en zor günlerini yaşıyoruz.'' 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

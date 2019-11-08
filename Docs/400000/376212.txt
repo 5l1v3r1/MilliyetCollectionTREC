@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 376212 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/06/son/sonyas06.html </URL>
+<DATE> 2005/09/06/ </DATE>
+<TIME> 07.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft ile Google'ın yönetici kavgası 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın en büyük yazılım şirketi Microsoft, şirketin eski başkan yardımcılarından Dr. Kai-Fu Lee’nin Google’da işe başlamasını engellemek için mahkemeye başvurdu. 
+     Microsoft, Çin’de gerçekleştirmeyi planladığı projelerin ayrıntılarını yakından bilen Lee’nin rakip firma Google’da çalışmasını engellemek için King Kasabası Üst Mahkemesi Yargıcı Steven Gonzales’e başvuruda bulundu. 
+     Microsoft, başvuru dilekçesinde, daha önce şirketin Pekin’deki araştırma ve geliştirme merkezi başkanı olan Lee’nin Microsoft ile imzaladığı rekabet etmeme sözleşmesini ihlal etmekte olduğunu savundu. 
+     Microsoft, Google ile rekabet içinde bulunduğu Çin’de her türlü operasyonlarının Lee tarafından bilinmekte olduğunu kaydetti. 
+     Dilekçede Lee’nin Google’da çalışmasına müsaade edilmesinin, Microsoft’un en mahrem bilgilerinin doğrudan bu rakip firmaya geçmesi anlamına geleceğini ileri süren Microsoft, bunun da Lee’nin kendileriyle imzaladığı rekabet etmeme ve ticari sırları açıklamama sözleşmesini ihlal edeceğini kaydetti. 
+     Google ise, Microsoft’un sanki Lee’nin sahibiymiş gibi davrandığını ileri sürerek, "Kai-Fu bize Google’da çalışmak istediğini söyledi ve biz de onu tuttuk. Bunda gayri meşru herhangi bir durum sözkonusu değil ve her şey kuralına uygun. Lee, Google’da Microsoft ile rekabet ettiğimiz bir alanda çalışmayacaktır" açıklamasında bulundu. 
+     Microsoft ile Google, internet aramaları ve diğer Web tabanlı teknolojilerin yanısıra en yeni yazılımları geliştirmek konusunda da rekabet ediyorlar. Google, yeni teknolojiler geliştirmek ve bilgisayar araştırmacılarını kendisine çekmek için bu yıl sonlarında Çin’de yeni bir tesis açmayı planlıyor. 
+     Öte yandan, Google da Microsoft’un Lee konusundaki hukuki girişimlerini boşa çıkarmak için karşı bir dava açmış durumda. 
+     Sözkonusu davanın duruşmasının 9 Ocak 2006 tarihinde yapılması bekleniyor. 
+     
+</TEXT>
+</DOC>

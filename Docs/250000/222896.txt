@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 222896 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/16/son/sonyas01.html </URL>
+<DATE> 2004/03/16/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Apple'ın internetten şarkı satışı 50 milyonu aştı 
+</HEADLINE>
+<TEXT>
+
+     Apple Computer firmasının internette açtığı müzik market aracılığıyla sattığı şarkıların toplam sayısının 50 milyonu aştığı bildirildi. 
+     Apple'ın 11 ay önce hizmete soktuğu ''iTunes'' adını verdiği siteden şarkı indirmek isteyenler, 99 sent ödüyor. 
+     Firma yetkilileri ''halen haftada 2,5 milyon şarkı sattıklarını'' ifade ettiler. Bu, yılda 130 milyon dolar gelir anlamına geliyor. Ancak Apple bu kazançtan müzisyenler ve müzik şirketlerine telif hakkı ödüyor. 
+     Ancak uzmanlar Apple'in ilk yıl içinde, hedeflediği şekilde 100 milyon değil 68 milyon adet şarkı satabileceğini tahmin ediyor. Apple'in internetten şarkı satışlarına başlamasından bu yana geçen bir yıllık süre 28 Nisan'da dolacak. 
+     Apple'in bu arada Pepsi Cola firmasıyla yaptığı anlaşma gereğince açıklanmayan miktarda şarkıyı da ücretsiz olarak indirttiği bildirildi. 
+     
+     İPOD SATIŞLARI 
+
+     Sanayi analistleri Apple'in şarkı satışlarının yanı sıra ''iPod'' adını verdiği müzik çalarların satışından da çok iyi kazanç sağladığını ifade ettiler. 
+     Apple'in sitesinden indirilen şarkılar ancak bilgisayar ya da iPod'lar aracılığıyla dinlenebiliyor. 
+     Şirketin geçen Aralık ayında sona eren 3 aylık dönemde 730 bin iPod sattığı, Şubat ayında ise piyasaya yeni çıkardığı mini iPod'lar için 100 bin sipariş aldığı kaydedildi. 
+     iPod'ların tanesi 250-500 dolar arasında satılıyor. 
+     
+</TEXT>
+</DOC>

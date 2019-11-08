@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 213053 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/04/son/sondun04.html </URL>
+<DATE> 2004/02/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+'Opportunity'' Mars'ın mikroskobik fotoğraflarını çekti 
+</HEADLINE>
+<TEXT>
+
+     ABD'nin 25 Ocak'ta Mars'a indirdiği ''Opportunity'' adlı robot, gezegenin yüzeyinin mikroskobik fotoğraflarını çekti. 
+     Amerikan Uzay ve Havacılık Dairesi'nin NASA yayınladığı fotoğraflarda, küçük çakıl taşlarıyla kaplı Mars toprağının madeni para büyüklüğündeki bir bölümü görülüyor. 
+     ''Opportunity''nin, kolundaki mikroskobik kopyalayıcıyla görüntülenen fotoğrafların, gezegende daha önce yaşam kaynağı olan suyun bulunup bulunmadığı konusunda yapılan araştırmalara yardımcı olacağı kaydedildi. 
+     Robot, daha önce gezegenin yüzeyinin renkli panaromik fotoğrafını göndermişti. 
+     
+</TEXT>
+</DOC>

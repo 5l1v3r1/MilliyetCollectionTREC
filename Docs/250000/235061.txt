@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 235061 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/26/son/sonyas16.html </URL>
+<DATE> 2004/04/26/ </DATE>
+<TIME> 16.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Şizofreni, tomografiyle teşhis edilebilecek... 
+</HEADLINE>
+<TEXT>
+
+     Amerikalı bilim adamları, şizofreni hastalığının gelecekte beyin tomografisiyle teşhis edilebileceğini kaydettiler. 
+     ''Biological Psychiatry'' dergisinde yayımlanan habere göre, Yale Üniversitesi'nde görevli bilim adamı Vince Calnoun ve ekibi, şizofrenlerde en sık görülen belirtilerden biri olan işitsel varsanıdan yola çıkarak, şizofrenlerin beyninde işitmeyle ilgili bölgelerin aktivitesinin, normal insanlardan farklı olup olmadığını inceledi. 
+     17 sağlıklı gönüllünün beynini, 17 şizofrenin beyniyle fonksiyonel manyetik rezonans tomografisi fMRT yardımıyla karşılaştıran bilim adamları, duyma merkezine bağlı bir bölgenin aktivitesinin, şizofreni hastalarında belirgin şekilde farklı olduğunu tespit ettiler. 
+     Bazı karakteristik özellikleri belirleyen bilim adamları, bu özellikler sayesinde tanımadıkları bir grupta, şizofrenleri yüzde 94 başarı oranıyla saptamayı başardılar. 
+     
+</TEXT>
+</DOC>

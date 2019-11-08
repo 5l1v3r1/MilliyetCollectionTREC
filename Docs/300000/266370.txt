@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 266370 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/25/son/sontur31.html </URL>
+<DATE> 2004/08/25/ </DATE>
+<TIME> 16.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Başkent'te internet erişiminde sıkıntı var... 
+</HEADLINE>
+<TEXT>
+
+     Başkentte, ADSL sisteminde oluşan arıza dolayısıyla internet erişiminde sıkıntı yaşanıyor. 
+     ADSL'deki ''readback sistemi'' arızasının Ankara ve civarında internet erişiminde sıkıntıya yol açtığı belirtildi. 
+     Arızanın düzeltilmesi için Türk Telekom yetkililerinin çalışmalarının sürdüğü öğrenildi. 
+     
+</TEXT>
+</DOC>

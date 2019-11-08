@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 192654 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/01/son/sondun03.html </URL>
+<DATE> 2003/11/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dikkat, internette yeni virüs... 
+</HEADLINE>
+<TEXT>
+
+     Elektronik posta yoluyla yayılan ve gönderildiği kişiyi ''özel fotoğraflara'' bakmaya çağıran yeni bir virüs, ABD ve Avrupa'daki internet kullanıcılarını tehdit ediyor. 
+     Uzmanlar, ''James'' adında bir kişiden gelen ve ''Plajda çektiğimiz bize ait tüm fotoğraflar çok güzel. Bu gece geleceğim ve sevişeceğiz'' ifadelerini içeren elektronik postanın hemen silinmesi uyarısında bulunuyorlar. 
+     Virüs içeren elektronik posta, hedef aldığı kişinin kullandığı posta sunucusundan gönderilmiş gibi görünüyor. 
+     Örneğin, Fransız Haber Ajansı'ndaki AFP bir kişiye gönderilen elektronik posta, '' afp.com'' ile biten bir adresten gelmiş gibi görünüyor. Bu da hedef kişinin mesajın bir tanıdığından geldiğini sanmasını sağlıyor. 
+     Elektronik postayla birlikte gelen, ''photos.zip'' dosyası açıldığında virüs bilgisayara bulaşıyor. Ancak uzmanlar, son antivirüs yazılımlarından birini kullanarak, virüsün rahatlıkla temizlenebileceğini belirtiyorlar. 
+     Antivirüs üreticisi Symantec firmasından yapılan açıklamada da, virüsten windows işletim sistemi kullanılan bilgisayarların etkilenececeği kaydedildi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,41 @@
+<DOC>
+<DOCNO> 133273 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/01/26/son/soneko04.html </URL>
+<DATE> 2003/01/26/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Enflasyon muhasebesi hazırlıkları... 
+</HEADLINE>
+<TEXT>
+
+     Enflasyonun mali tablolardaki bozucu etkisini gidermeyi hedefleyen enflasyon muhasebesine geçiş çalışmaları sürerken, şirketlerin mali tablolarını denetleyen firmalar da uygulama için hazırlığa girişti. 
+     Türkiye'de 1986 yılından bu yana denetim ve muhasebe, finansal danışmanlık, vergi danışmanlığı, yönetim danışmanlığı ve kurumsal risk alanlarında faaliyet gösteren Deloitte Touche Türkiye, Enflasyon Muhasebesi'nin kolay ve pratik uygulanmasını sağlayan bir yazılım ürünü geliştirdi. 
+     16 bin dolara satışa sunulan ''Inflation Ware Plus'' ile şirket çalışanları, ayda sadece 1 saat ayırarak, mali tablolarını Sermaye Piyasası Kurulu SPK ve Uluslararası Muhasebe Standartları'na UMS uygun olarak hazırlayabilecekler. 
+     Enflasyon Muhasebesi ve SPK UMS raporlama yazılımı olan Inflation Ware Plus, ''Enflasyonun gizlediği gerçekler artık gözlerinizin önünde'' sloganı ile, Enflasyon Muhasebesi'ni, şirketlerin kendi bünyelerinde kolaylıkla gerçekleştirebilecekleri bir çalışma haline getiriyor. 
+     Ürün, şirketleri yüksek maliyet, zaman kaybı ve güncelleme konusundaki kısıtlamalardan kurtarırken, UMS'nin konsolidasyon ile ilgili maddeleri dışında her türlü çözümü otomatik olarak veya mahsup kesme yolu ile gerçekleştiriyor. 
+     Güney Afrika, Almanya, İngiltere gibi istenilen ülkenin standartlarına uygun mali tabloların hazırlanmasını da sağlayan Inflation Ware Plus'ın kullanılması için Windows işletim sisteminin olması yeterli. Kullanım için CD'nin alınıp network, laptop veya PC'ye yüklenmesi gerekiyor. 
+     Birden fazla şirket için de kullanılabilen programda, bir holding üzerinden 999 iştirakine kadar şirketlerin mali tabloları çıkarılabiliyor. 
+     
+     ENFLASYON MUHASEBESİ BÜYÜK FAYDA SAĞLAYACAK 
+     Deloitte Touche Türkiye Ofisi Yönetim Kurulu Başkan Yardımcısı Hüseyin Gürer, yaptığı açıklamada, yıllık enflasyon oranının yüzde 20'yi aştığı ülkelerde enflasyon muhasebesi uygulamasının gerekli olduğunu, aksi takdirde mali tabloların homojenliğini yitirdiğini belirterek, şu anda Venezüella'da enflasyon muhasebesinin uygulandığını söyledi. 
+     Gürer, Türkiye'de SPK'nın ''Yüksek Enflasyon Dönemlerinde Mali Tabloların Düzeltilmesine İlişkin Usul ve Esaslar Hakkında Tebliği'' hükümleri gereği şirket performansı, karlılığı ve rekabet gücünü doğru olarak ortaya koyabilmek için, mali tablolara enflasyon muhasebesi uygulanması gerektiğini kaydetti. 
+     Enflasyon muhasebesinin Türkiye'ye büyük fayda sağlayacağını, yabancı sermayenin Türkiye'de rahat yatırım yapmasına neden olacağını ifade eden Gürer, şirketlerin üzerindeki vergi yüklerinin de azalacağını kaydetti. 
+     Gürer, şunları söyledi 
+     ''Enflasyon doğrultusunda şirket gerçekten kar mı, zarar mı elde ediyor Bunun tespiti yapılacak. Eğer normal defterlere göre kar gözükmesine karşın, Enflasyon Muhasebesi doğrultusunda bir zarar söz konusu ise o zaman şirketten gereksiz yere bir fon çıkışı olmayacak. Zarara rağmen temettü, vergi öderseniz özkaynaklarınızda bir zayıflama ortaya çıkar.'' Yabancı ortaklı şirketlerin zorunlu olarak Enflasyon Muhasebesi uyguladığını bildiren Gürer, Türkiye'de 300'ü aşkın halka açık ve 100'den fazla menkul kıymet şirketinin de yeni uygulamayla bu kapsama gireceğini ve bu şirketler hakkında tam, açık, güvenilir ve karşılaştırılabilir bilgi edinilebileceğini söyledi. 
+     Kendilerini görmek isteyen şirketlerin de Enflasyon Muhasebesi uyguladığını ifade eden Gürer, ''Şimdiye kadar biz hem mali tabloları hazırlıyorduk, hem de denetimini yapıyorduk ama artık geliştirdiğimiz ürünle sadece denetim yapacağız'' dedi. 
+     
+     ''ÜRÜNE TALEP VAR'' 
+     Hüseyin Gürer, denetim firması olmalarına karşın 4 yıl önce geliştirdikleri ürünü bir yazılım şirketiyle birlikte yenileyerek, piyasaya sunduklarını belirterek, Inflation Ware Plus için taleplerin de gelmeye başladığını açıkladı. 
+     Müşterinin ek bir yatırım yapmaya gerek duymadan eğitim de dahil ''anahtar teslimi'' şeklinde 16 bin dolara Inflation Ware Plus'ı edinebileceğini bildiren Gürer, kullanımı son derece kolay olan ürünün Türkiye'de alanında bir ilk olduğunu söyledi. 
+     Bugün İstanbul ve Ankara'da faaliyet gösteren 4 şirket tarafından temsil edilen Deloitte Touche'ın, 11 ortağı ve 350'nin üzerinde çalışanı bulunuyor. 
+     Geniş bir müşteri portföyüne sahip olan şirket, Koç ve Sabancı gibi Türkiye'nin büyük topluluklarının yanı sıra Lafarge, General Motors ve Procter Gamble gibi çok uluslu şirketler ve İş Bankası, Vakıflar Bankası ve Eximbank'ın da aralarında bulunduğu üst düzey finans kuruluşlarına hizmet veriyor. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

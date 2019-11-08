@@ -1,0 +1,45 @@
+<DOC>
+<DOCNO> 68973 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/02/22/yasam/yas06a.html </URL>
+<DATE> 2002/02/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yaşlılara robot ayı bakacak 
+</HEADLINE>
+<TEXT>
+
+     DIŞ HABERLER SERVİSİ 
+
+     Teddy’ adlı robot oyuncak ayılar, Japonya’nın Osaka kentindeki 106 yataklı Kourien huzurevinde bakıcı olarak göreve başladı. Matsishita Elektronik tarafından geliştirilen oyuncak robot ayılar, yaş ortalaması 82 olan konukları sürekli izleyip, herhangi bir olağandışı gelişme halinde görevlilere alarm veriyor. Üzeri ayı postuyla kaplı robot Teddy’ler, ihtiyarlara Nasılsınız ’ diye soruyor. Robot, aldığı cevabı, içindeki mini bilgisayar ve ses analiz ve tanım sistemiyle değerlendiriyor 
+     
+Kapışılıyorlar      Geç cevap verilmesi veya ses tonunda normal dışı bir titreşim olduğunda hemen merkezdeki kontrolörleri bilgilendiriyor. Teddy’ ayılar ayrıca, yaşlı konukların günlük rutin hareketlerini ne kadar sürede yaptıklarını da ölçüyor. Böylelikle hareketlerini yapmayan veya düzensiz hareket eden yaşlıları merkeze bildiriyor. 
+     
+
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

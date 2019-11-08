@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 280028 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/14/son/soneko10.html </URL>
+<DATE> 2004/10/14/ </DATE>
+<TIME> 10.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Merkez Bankası Reel Kesim Güven Endeksi yüzde 1.2 arttı... 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası, Reel Kesim Güven Endeksi MBRKGE , Eylül ayında bir önceki aya göre 1.3 puan artarak 108.2 seviyesine ulaştı. 
+     Merkez Bankası, Eylül ayına ilişkin Reel Kesim Güven Endeksi sonuçlarını açıkladı. 
+     Açıklamaya göre, son bir kaç aydır aynı seviyelerde değerler alan endeks, Eylül ayında bir önceki aya göre yüzde 1.2 oranında artarak 108.2 seviyesine ulaştı. 
+     Bir yıl öncesine göre karşılaştırma yapıldığında ise, endeksin yüzde 2 oranında arttığı görüldü. Endeksi oluşturan anket sorularına ait yayılma endeksleri Ağustos ayına kıyasla incelendiğinde, iç pazara satılan mal hacmi ile toplam sipariş eğilimleri, sırasıyla yüzde 7.4 ve yüzde 6.4 oranlarındaki artışlarla en fazla yükselen kalemler olurken bu artışlarda mevsimsel faktörler etkili oldu. 
+     Bu kalemleri, genel gidişat kaleminde yüzde 4.6 ve ihracat imkanlarında yüzde 1.2 oranındaki artışlar takip etti. Diğer alt kalemlerden yatırım harcaması beklentisi yüzde 2 oranında arttı. Toplam istihdam beklentisinde görülen düşüşün mevsimsel etkilerden arındırıldığında bir miktar artışa işaret ettiğinin söylenebileceği ifade edildi. 
+     Öte yandan, yüzde 4.5 ve yüzde 4.1 oranlarında düşüş gösteren üretim hacmi beklentisi ile hammadde stok eğilimi, endeksi azaltıcı yönde etkileyen kalemler oldu. 
+     Geçen aya kıyasla önemli bir değişiklik olmayan mamul mal stok eğilimi, mevsimsellikten arındırıldığında bir miktar artışa işaret etti. 
+     Bir önceki yılın Eylül ayına göre karşılaştırma yapıldığında ise, genel gidişat eğilimi ile üretim hacmi beklentisi haricindeki tüm kalemlerin geçen seneki seviyelerinin üstünde değerler aldığı görüldü. 
+     
+</TEXT>
+</DOC>

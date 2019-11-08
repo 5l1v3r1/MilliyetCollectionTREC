@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 303202 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/03/son/sonyas21.html </URL>
+<DATE> 2005/01/03/ </DATE>
+<TIME> 17.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Almanlar'dan AIDS'e yeni tedavi... 
+</HEADLINE>
+<TEXT>
+
+     Alman bilim adamları, HIV virüsünün yol açtığı AİDS hastalığını tedavi etmede yeni bir yöntem geliştirdiler. 
+     Hamburg ve Nürnberg-Erlangen üniversitelerinin uzmanlarınca ortaklaşa geliştirilen tedavi yöntemi, HIV-1 virüsünün çoğalmasını önlüyor. 
+     Uzmanlar, kısaca DHS adını verdikleri insan hücresi proteininin, nötralize edildiği vakit HIV virüsünün çoğalmasını engellediğini belirledi. Doktor İlona Hauber ve arkadaşları, daha önce bir dizi ilacın hiç etkilemediği HIV virüslerini bu yöntemle bloke etmeyi başardı. 
+     Uzmanlar adına yapılan açıklamada, ''yeni yöntem, virüsün çoğalması bakımından çok önemli olan proteinin nötralize edilmesi esasına dayanıyor'' ifadesi kullanıldı. 
+     Açıklamaya göre, HIV-1 virüsü, insan hücresi içinde çoğalan parazit gibi davranıyor ve hücredeki proteinleri ve diğer bileşenleri kullanıyor. 
+     
+</TEXT>
+</DOC>

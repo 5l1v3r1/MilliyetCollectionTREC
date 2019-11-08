@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 136092 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/02/09/son/sontur05.html </URL>
+<DATE> 2003/02/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+"Cep Telefonu satın almadan önce sorgulayın"... 
+</HEADLINE>
+<TEXT>
+
+     İzmir Emniyet Müdürlüğü, internet sayfasında, cep telefonlarının çalıntı olup olmadığının belirlenebilmesi için, ''IMEI'' numarası sorgulaması başlattı. 
+     Cep telefonlarına yönelik artan kapkaç ve hırsızlıklara karşı mücadele veren İzmir Emniyet Müdürlüğü, çalıntı cep telefonlarının satışının engellenmesi amacıyla, ''www.izmirpolis.gov.tr'' adresli web sitesinde, ''kayıp-çalıntı cep telefonu IMEI sorgulaması'' uygulamasına geçti. 
+     Bilgi İşlem Şube Müdürlüğü yetkilileri, site ziyaretçilerinin ''cep telefonu sorgulama'' bölümüne girerek, satın alacakları ikinci el cep telefonunun IMEI numarasını yazıp, durumu hakkında son bilgilere ulaşabiliyor. Cep telefonun çalıntı olması halinde ekrana hangi tarihte ve hangi karakol bölgesinden çalındığı hakkında bilgiler çıkıyor. 
+     İzmir Emniyet Müdürü Halil Tataş, A.A muhabirine yaptığı açıklamada, suç oranında son yıllarda yaşanan artışa karşı sürdürülen mücadelede teknoloji desteğinin çok önemli olduğunu söyledi. Bu doğrultuda İzmir Polisi'nin interneti en etkin şekilde kullandığını belirten Tataş, şunları kaydetti 
+     ''Suç ve suçlulukla güvenlik güçlerimizin sürdürdüğü mücadelenin yanısıra, internet aracılığıyla da vatandaşlarımızı uyarıyor ve bilgilendiriyoruz. Suçla yaptığımız etkin mücadelede en ileri teknolojinin avantajlarından yararlanıyoruz. Bu çalışmalarımızı her konuya yayarak sürdürme gayreti içersindeyiz.'' İzmir Polisinin bu internet hizmeti sayesinde, vatandaşların satın alacakları ikinci el cep telefonlarının çalıntı çıkması durumunda 155-Polis İmdat telefonuna başvuruda bulunabileceklerini bildirildi. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 212594 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/01/son/sontur05.html </URL>
+<DATE> 2004/02/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayar virüsleri bu yıl daha çok vuracak 
+</HEADLINE>
+<TEXT>
+
+     Geçen yıl iş dünyasında yaklaşık 55 milyar dolar zarara neden olan bilgisayar virüslerinin, bu yıl daha büyük hasara yol açacağı belirtiliyor. 
+     Hür Türkiye Teknoloji Platformu Kurucusu Hakan Topuzoğlu, AA muhabirine yaptığı açıklamada, dünyada her geçen gün yeni virüsler ortaya çıktığını ve virüslerin doğrudan bilgisayara yerleşerek önemli zararlara yol açtığını söyledi. 
+     Son olarak dünyadaki bilişim sektörünü tehdit edici ''Mydoom'' ve ''Novarg'' isimleriyle tanınan virüslerin ortaya çıkmasıyla bu konunun bir kez daha gündeme geldiğini ifade eden Topuzoğlu, şunları söyledi 
+     ''Önceleri virüslere karşı Tanımadığınız kişilerden gelen e- postaları açmayın derdik. Böylece çok sayıda virüsün yayılması önlendi. Ancak son yıllarda çok farklı virüs türleri internette dolaşmaya başladı. Öyle ki artık virüsler, tanıdık kişilerin e-posta ve internet sitelerinin isimlerini kullanarak otomatik olarak geliyor. Eskiden tanımadığınız e-postaları derdik, şimdi genel olarak E-postaları açmayın şeklinde uyarı yapıyoruz.'' Topuzoğlu, bilgisayar virüslerinin geçen yıl dünya üzerinde yaklaşık 55 milyar dolarlık zarara yol açtığını vurgulayarak, ''Potansiyel tehlike olarak görülen virüslerin yaratacağı zarar, artarak büyüyor. Bu yıl virüslerin oluşturacağı hasarın, 55 milyar doların üzerine çıkması bekleniyor'' dedi. 
+     
+     SANAL ALEME KİMLİK SORGULAMASI HAZIRLIĞI 
+     Genelde virüslerin kim tarafından geliştirildiğinin bilinmediğini kaydeden Topuzoğlu, şimdilik zararın önlenmesi için e-posta adresiyle ilişkilendirilen dijital imzanın yaygınlaşması gerektiğini vurguladı. 
+     ABD'de bununla ilgi yasa hazırlandığını ve internet kullanıcılarına dijital imza zorunluluğu getirileceğini belirterek, şöyle devam etti 
+     ''Dijital yani sayısal imza, bir web sitesine ulaşan kişinin ya da elektronik iletideki göndericinin belirttiği kimliğinin gerçekten doğru olduğunu kanıtlayan bir çeşit elektronik nüfus cüzdanıdır. Bugün dijital imza yaygın olmadığından, tanıdık isimlerden geliyormuş gibi görünen sahte iletiler yıkıma neden oluyor ve virüsleri geliştirenler yakalanamıyor.'' Topuzoğlu, bu sistemin tam anlamıyla kullanılmaya başlanmasından sonra kimin e-posta gönderdiğinin net olarak bilineceğini vurgulayarak, ''Gelen e-posta ilişkendirilemiyorsa, açılmadan silinecek. Bilişim sektörünün daha verimli çalışması için internet polisleri görevlendirilecek ve virüsün yayılması büyük ölçüde önlenecek. Ayrıca alışverişlerde kredi kartı yerine, bu dijital imza kullanılacak'' diye konuştu. 
+     
+</TEXT>
+</DOC>

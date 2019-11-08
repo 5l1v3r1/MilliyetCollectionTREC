@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 210147 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/21/son/soneko20.html </URL>
+<DATE> 2004/01/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Değişim ihalesi için teklifler 12 00'a kadar verilebilecek 
+</HEADLINE>
+<TEXT>
+
+     Hazine Müsteşarlığı'nın yarın yapacağı 16 Haziran vadeli ve TRT160604F16 ISIN kodlu senede ilişkin değişim ihalesinde en son teklifler, saat 12.00'a kadar verilebilecek. 
+     Merkez Bankası'ndan yapılan açıklamada, yarın 23 Ocak 2004 valörüyle TRT160604F16 ISIN Kodlu takas senedinin değişim ihalesi gerçekleştirileceği hatırlatılarak, ihaleye ilişkin bilgiler ile ihalede geçerli kurallar hakkında bilgi verildi. 
+     Buna göre, söz konusu senet 110 bin 39 lira birim fiyattan ihraç edilecek. 
+     İhalede uygulanacak genel kurallar çerçevesinde, takas kıymeti değişim ihalesine, Piyasa Yapıcısı bankaların yanı sıra diğer yatırımcılar da katılabilecek. Değişim ihalesinde Tekli Fiyat ihale sistemi uygulanacak. 
+     Tekliflerin EFT ile gönderileceği değişim ihalesinde, ''İhale Kodu'' 1 olarak belirlendi. 
+     İhalede minimum teklif miktarı nominal 250 milyon lira olup, teklifler 5 milyon liranın katları şeklinde gönderilecek. 
+     Piyasa yapıcı olmayan katılımcılar, diğer ihalelerde olduğu gibi değişim ihalesinde de teklif edilen kıymetin TRT160604F16 nominal tutarının yüzde biri oranında TL teminatı, Merkez Bankası'nın Ankara şubesindeki ilgili hesaba yatıracaklar. 
+     
+</TEXT>
+</DOC>

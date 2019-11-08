@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 360203 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/11/son/sonyas10.html </URL>
+<DATE> 2005/07/11/ </DATE>
+<TIME> 11.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD'de elektrik şebekesinden internet erişimi sağlayan sistem deneniyor 
+</HEADLINE>
+<TEXT>
+
+     ABD'de bir elektrik dağıtım şirketi, elektrik şebekesi üzerinden hızlı internet erişimi sağlayan bir sistemi deniyor. 
+     BPL broadband over power lines adı verilen sistemin denenmesi için Houston kentinin Greenwway bölgesini seçen CenterPoint Energy şirketi, son derece hızlı olan kablo modem internet erişiminden 1,5 kat daha hızlı erişim sağlıyor. 
+     Aslında bu sistemi uzun bir süredir elektrik şebekesinin denetlenmesi ve kontrolü için kullanan şirket, sistemi ilk kez yüksek kalitede veri, görüntü ve ses transferi için kullanmaya karar verdi. 
+     İnternet bağlantısı için evlerdeki elektrik prizleri dışında herhangi bir alt yapı gerektirmeyen sistem, yüksek hızlı geniş band internetin büyük kitlelere ucuza ulaştırılması açısından önem taşıyor. 
+     Elektrik şirketi, Houston'daki pilot projeyi Amerikan bilgisayar devi IBM ile ortaklaşa yürütüyor. 
+     
+</TEXT>
+</DOC>

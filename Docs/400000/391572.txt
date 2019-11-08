@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 391572 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/02/ekonomi/eko11.html </URL>
+<DATE> 2005/11/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+'ADSL'de fiyat değişmedi, limit geldi' 
+</HEADLINE>
+<TEXT>
+
+
+
+Ulaştırma Bakanı Binali Yıldırım, ADSL'de limitli tarifede hızı 256'dan 512 Kbps'ye çıkardıklarını ifade ederek, "Bu, yüzde 100 ucuzluk demektir" dedi. Yıldırım, "512 Kbps, 5 GB Gigabayt kullanıma kadar 49 YTL. Fiyat değişmedi" dedi. Limitsiz kullananların sayısının binde 7 olduğunu ve bu oran için hatları meşgul etmeye lüzum bulunmadığını kaydeden Yıldırım, en çok 3 GB kullandığını belirterek, "3 GB'yi 5 GB'ye çıkardık, fiyatını 49 YTL'ye indirdik" diye konuştu. 
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 158876 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/25/son/sontur01.html </URL>
+<DATE> 2003/05/25/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternet gazetesinin sayfa yapım maliyeti "0" lira... 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayar kullananların sayısının artması, içerik yönünden geniş siteleri de beraberinde getiriyor. ''0'' maliyetle açılan haber siteleri de, evinden Türkiye ve dünyadaki gelişmeleri takip etmek isteyenlere yeni kapılar açıyor. 
+     İnternette basit bir gazete sayfası hazırlamanın maliyeti ''0'' lira. Özellikle yurtdışı bağlantılı birçok internet servis sağlayıcı ISS-ISP , reklam banner karşılığı 100 mb ücretsiz alan veriyor. Adres içerisinde ilgili sitenin uzantısı da yer alıyor. 
+     İnternette kendi alan adı DNS ile gazete açmanın maliyeti ise 20 ile 500 dolar arasında değişiyor. Bazı DNS şirketleri, alan adı kaydı yaptıktan sonra yönlendirme hizmeti sunuyor. Böylece, ortalama 20 dolara sadece site adını alan kişi, bu adresi ücretsiz web alanı veren siteye yönlendiriyor. 
+     Diğer bir yöntem ise alan adının yanında web alanı da satın almak. Bunun maliyeti yıllık 200-500 doları buluyor. 
+     
+     İNTERNET GAZETELERİ 
+     Türkiye'de, 1 milyonu aşkın internet kullanıcısının takip ettiği onlarca haber sitesi ve portalı bulunuyor. 
+     Bu sitelerin az bir bölümü büyük ajanslara abone olarak anında haber verme işlemi gerçekleştirirken, bazıları gazetelerden derledikleri haberleri internet kullanıcılarına sunuyorlar. 
+     Birçok gazete ve televizyon kanalı, kendi internet sayfalarını oluşturarak sıcak haberlerin yanı sıra gelişen olayları anında okurlarına duyurmaya çalışıyor. 
+     Bazı internet gazetelerinin adresleri şöyle 
+     www.haberx.com, www.objektifhaber.com, www.sansursuz.com, www.imedya.com, www.internethaber.com, www.belge.net, www.gazete.oku, www.haberciler.com, www.digimedya.com, www.mailgazete.com, www.yenivatan.com İnternet'te yayın yapan tüm gazete, dergi, sayfa, radyo ve diğer medya organlarına, www.gazeteoku.com internet adresinden ulaşılabiliyor. 
+     
+</TEXT>
+</DOC>

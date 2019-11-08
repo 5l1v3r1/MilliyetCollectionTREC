@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 155529 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/09/yasam/yas12.html </URL>
+<DATE> 2003/05/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Elektronik burunla kanser teşhisi 
+</HEADLINE>
+<TEXT>
+
+     DIŞ HABERLER SERVİSİ 
+
+     İTALYAN bilim adamları, geliştirdikleri "elektronik burunla" akciğer kanserini tespit etmeyi başardı. Akciğerleri sorunlu kişilerin nefeslerinde 'alkan' ve 'benzen' türevleri olan kimyasallar bulunduğu yönündeki verilerden yola çıkan Roma Üniversitesi bilim adamları, hastaların ağzına hortum yerleştirip sensörle nefes testi yaparak ciğerde tümör olup olmadığını anlıyor. Cihaz test sonucunu yaklaşık bir dakikada veriyor. 
+     
+
+</TEXT>
+</DOC>

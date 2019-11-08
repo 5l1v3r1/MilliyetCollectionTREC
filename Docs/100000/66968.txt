@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO> 66968 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/02/11/ekonomi/eko01.html </URL>
+<DATE> 2002/02/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsayı küre’den takip et 
+</HEADLINE>
+<TEXT>
+
+ABD’de geliştirilen küre şeklindeki minik bir cihaz, hisseleriniz yükseldikçe yeşile, indikçe kırmızıya doğru renk değiştiriyor ve odanıza ayrı bir renk katıyor 
+     ŞÜKRÜ ANDAÇ 
+
+     ABD’de teknoloji ürünleri geliştiren Ambient Devices tarafından tasarlanan Stock orb’ adlı minik bir cihazla, borsanın durumunu anlık olarak takip edebilmeniz mümkün. Masanın üzerinde duran ve renk değiştiren küre şeklindeki Stock orb’ adı verilen kablosuz cihaz, borsadaportföyündeki artış ya da düşüşü renk değiştirerek haber veriyor. Artık ofisteçalışırken borsa ya da kişisel portföyünüzü masa üzerindeki bu cihazdan takip edebileceksiniz. 
+     
+     Borsa düştükçe kızarıyor 
+     Stock orb’ herhangi bir kablosuz ağ ile birlikte çalışabiliyor, internet üzerinden ayarlanabiliyor. Bir arabirim sayesinde sistem özelleştirilebiliyor ve kişisel portföy yüklenebiliyor. Cihaza internet üzerinden gelen veriler anında renk olarak yansıyor ve Stock orb’ yeşil ya da kırmızı tonlarında renk alıyor. Borsa ya da portföy yükseldikçe küre yeşilleşiyor düştükçe küre kırmızıya doğru renk değiştiriyor. Ürün şu an itibariyle Merrill Lynch, Motorola ve Fidelity işbirliğiyle ABD’de aktif olarak çalışıyor. Ayrıca yeni ürün bluetooth 10 metrekare içerisinde cihazlar arasında kablosuz veri iletişimi ve GPRS destekli çalışıyor. Bu ürünün bir diğer ilgi çekici özelliği de , sessiz çalışması ve oda da yer kaplamıyor olması. Aksine Stock orb’ odanıza ayrı bir renk katıyor. 200 dolar olan yeni ürün ABD’de mayıs ayında piyasaya sürülecek. Firma, gelecekte bu ürüne ekleyeceği bir kaç uygulama ile yine renklere göre, trafik sıkışıklığı ya da hava durumu bilgilerini de kullanıcısana bildirecek. www.ambientdevices.com 
+     
+
+
+
+ EKONOMİ 
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 83891 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/05/14/son/sondun11.html </URL>
+<DATE> 2002/05/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kanser tümörünü yok etme yolunda büyük adım 
+</HEADLINE>
+<TEXT>
+
+     ABD'de John Hopkins Üniversitesi bilim adamları, kanser tümörlerini kontrol eden yeni bir enzim saptadı. 
+     Tümör hücrelerinin enerji merkezinde saptanan PRDX3 enziminin, kanser hücrelerinin büyümesini ve ölmesini kontrol eden c-MYC geniyle özel ilişkisi olduğu belirlendi. 
+     Araştırma sonucunun, yeni kanser terapisi ve ilaçlarıyla ilgili ışık tuttuğu bildirildi. 
+     Bilim adamları, belirledikleri enzimi kontrol etmeyi saglayabildikleri zaman, kanser tümörlerini de yok edebileceklerini düşünüyor. 
+     Fareler üzerinde yapılan araştırmada, PRDX3 enzimini pasif duruma geçiren uzmanlar, farelerdeki tümörün büyümesinin durduğunu gözledi. 
+     PRDX3 enzimi tekrar aktif duruma geçirildiğinde ise kanser tümörünün tekrar büyümeye başladığı belirlendi. 
+     PRDX3 enzimini bir ampüle, c-MYC genini ise elektrik düğmesine benzeten araştırmacılar, ampülü ortadan kaldırınca, ''elektrik düğmesinin açık olmasının bir şey ifade etmeyeceğini ve kanser tümörlerinin büyümesinin durabileceğini'' hesaplıyor. 
+     Bilim adamları, yeni araştırmalarda, hangi kanser cinsine bu uygulamanın yapılabileceğini ve ne tür ilaçların kullanılabileceğini inceleyecek. 
+     Araştırma raporu, Amerikan Ulusal Kanser Enstitüsü yayın organı ''Proceedings''de yayımlandı. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

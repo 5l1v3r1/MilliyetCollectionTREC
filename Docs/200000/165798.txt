@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 165798 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/27/son/sondun02.html </URL>
+<DATE> 2003/06/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternet-2'de hız rekoru kırıldı... 
+</HEADLINE>
+<TEXT>
+
+     Artık iyice yavaşlayan internet ağına paralel olarak geliştirilen İnternet-2 şebekesi üzerinden yapılan denemede dünya internet hız rekoru kırıldı. 
+     Cenevre-Chicago arasındaki deneyde, hızlı bağlantının 3500 katı bir hıza erişildiği belirtildi. 
+     Kısa adı IPv6 olan gelecek kuşak internet protokolünü kullanan uluslararası bir ekip, İsviçre'nin Cenevre kenti ile ABD'nin Chicago kenti arasındaki 7067 km'lik mesafede, saniyede 983 megabit hızla veri nakletmeyi başardı. Denemenin bir saat sürdüğü belirtildi. 
+     Uzmanlar yapılan deneyin günlük yaşama yansıtılması durumunda, DVD kalitesindeki komple bir filmin 36 saniyede bir yerden bir yere naklinin mümkün olduğunu belirttiler. Bu hız, günümüzdeki tipik hızlı bağlantıdan 3500 kez daha yüksek. 
+     
+     DENEYİ KİMLER DESTEKLİYOR 
+     İnternet-2 üzerinden yapılan hız denemesini destekleyen kuruluşlar arasında, Avrupa Birliği, ABD Ulusal Bilim Vakfı, Elektronik Vizüalizasyon Laboratuvarı ve ABD Enerji Bakanlığı da bulunuyor. 
+     Deneyle ilgili olarak açıklamada bulunan AB DataTAG projesi başkanı Herve Martin, ''Bu rekor, IPv6'nin saniyede 1 gigabit veriyi kıtalar arasında nakletme kapasitesine sahip olduğunu ortaya koydu'' dedi. 
+     ABD'de oluşturulan ''İnternet-2 Toplumu'' adlı kuruluş, yeni sistemin üniversitelerin yanı sıra yerel ve ulusal şebeke haline dönüştürülmesi için çaba sarf ediyor. 
+     
+</TEXT>
+</DOC>

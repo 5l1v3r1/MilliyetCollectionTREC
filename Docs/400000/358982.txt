@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 358982 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/07/son/soneko21.html </URL>
+<DATE> 2005/07/07/ </DATE>
+<TIME> 12.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansta 57 puan azaldı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeksi, dünkü kapanışa göre 57.48 puan azalarak seansı 27,723.87 puandan tamamladı. 
+     1. seansta, hisse senetlerinin ortalama değer kaybı yüzde 0.21 oldu. 
+     Dün 27,781.35 puandan kapanan İMKB Ulusal 100 Endeksi, ilk seansa 144.39 puan azalışla 27,636.96 puandan başladı. İlk yarıyı 27,878.46 puandan geçen endeks, seans içinde en düşük 27,494.26 puanı, en yüksek 27,952.24 puanı gördü. 
+     Seans sonunda mali endeks 6.00 puan azalarak 41,648.52 puana, sanayi endeksi 32.19 puan azalarak 22,175.07 puana, hizmetler endeksi 140.60 puan azalarak 14,049.15 puana geriledi. 
+     Böylece önceki kapanışa göre, mali grup hisseler ortalama yüzde 0.01, sanayi grubu hisseler ortalama 0.14, hizmetler grubu hisseler ortalama yüzde 0.99 oranında değer kaybetti. 
+     1. seansta işlem gören toplam 302 hisse senedinden 145'i değer yitirdi, 89'u değer kazandı, 68 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta, 538 milyon 972 bin 766 YTL'lik işlem hacmi oluştu. 
+     1. seansta, Kardemir D , İş Bankası C , Doğan Holding, Yapı Kredi Bankası ve Ereğli D. Ç. en çok işlem gören hisse senetleri oldu. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 167379 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/04/son/sontur36.html </URL>
+<DATE> 2003/07/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yeni yazılımla kaçırılan uçaklarla terörist saldırı yapılamayacak 
+</HEADLINE>
+<TEXT>
+
+     Yeni geliştirilen bir yazılım sayesinde kaçırılan uçakların, uçuşa yasak olan bölgelere girmesi engellenecek. 
+     New Scientist dergisindeki habere göre, yeni yazılım destekli uçaklar, uçuşa yasak bölgelere yönlendirildiğinde rotasını değiştiriyor ve ters yöne doğru uçuyor. 
+     Berkeley'deki California Üniversitesi'nde görevli bilim adamı Edward Lee ve ekibi, ''Soft Walls'' adını verdikleri yazılımla terörist saldırıları engellemeyi amaçlıyor. 
+     Yazılım, uydu navigasyon sistemi GPS yardımıyla uçuşa yasak olan bölgeleri tanıyor. Sistem, uçuşa yasak bölgeye girilmek istendiğinde, pilota, uçağın şiddetli bir rüzgarla karşı karşıya olduğu hissini veriyor. 
+     Yeni yazılımın modern bilgisayar destekli uçaklara yüklenmesi için, var olan yazılımın değiştirilmesi yeterli oluyor. 
+     Lee, bilgisayar simülasyonlarında başarıyla denediği yeni sistemi, Boeing firmasının işbirliğiyle gerçeğe daha yakın simülatörlerde deneyecek. 
+     
+</TEXT>
+</DOC>

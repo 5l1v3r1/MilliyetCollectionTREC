@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 317195 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/21/son/sondun56.html </URL>
+<DATE> 2005/02/21/ </DATE>
+<TIME> 21.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Mars'da donmuş buz kitleleri bulundu 
+</HEADLINE>
+<TEXT>
+
+     Mars'ın yüzeyinin hemen altında, donmuş bir denize ait olan kalıntılar olduğu düşünülen buz kitlelerinin bulunduğu bildirildi. 
+     İngiliz New Scientist dergisinin internet sitesindeki haberde, Avrupa Uzay Dairesi'nin ESA Mars'a gönderdiği Mars Express uzay aracının, kızıl gezegenin ekvator bölgesinin 5 derece kuzeyinde bulunan bu kalıntıların, kutup bölgesi dışında gezegende saptanan ilk büyük su kütlesi olabileceği belirtildi. 
+     Haberde, Mars Express ekibinin bu buz denizinin 900 kilometre uzunluğunda, 800 kilometre genişliğinde ve 45 metre derinliğinde olabileceğini söyledikleri kaydedildi. 
+     Bilim adamları, Mars Express'in yüksek çözünürlüğe sahip stereoskopik kamerasıyla çektiği görüntülerde, bu kalıntıların gezegenin kutup bölgesi yakınında saptananlara benzediğini ve birkaç santimetrelik volkanik kül tabakasıyla kaplanarak korunduğunu ve erimediğini söylediler. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 288991 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/15/son/soneko21.html </URL>
+<DATE> 2004/11/15/ </DATE>
+<TIME> 16.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft Hindistan'da yatırımlarını artırıyor 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın en büyük yazılım şirketi Microsoft, Hindistan'a yatırımlarını artırıyor. 
+     Hindistan'ı ziyaret eden Microsoft'un CEO'su Steve Ballmer, Infosys Technologies ve Wipro isimli yerli yazılım şirketleriyle milyonlarca dolarlık işbirliği anlaşmaları imzaladı. 
+     Infosy ve Microsoft'un ortak yatırımının 8 milyon dolar olacağı bildirilirken, Wipro ile ortaklığın ayrıntıları açıklanmadı. 
+     Gazetecilerin sorularını cevaplayan Microsoft'un CEO'su Ballmer, birkaç ay içinde yüzlerce Hindistanlı yazılımcı istihdam edeceklerini bildirdi. 
+     Daha önce Haydarabad kentinde ofis açan ve bin 500 kişi çalıştıran Microsoft'un Hindistan'da yeni açacağı merkezde 3 bin yazılımcıyı çalıştıracağı bildiriliyor. 
+     
+</TEXT>
+</DOC>

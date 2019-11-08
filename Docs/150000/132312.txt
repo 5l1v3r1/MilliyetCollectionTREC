@@ -1,0 +1,42 @@
+<DOC>
+<DOCNO> 132312 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/01/22/siyaset/siy02.html </URL>
+<DATE> 2003/01/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Meclis’te e-yasak 
+</HEADLINE>
+<TEXT>
+
+TBMM bilgisayar ağı, dışarıdan gelebilecek saldırılara karşı müthiş bir önlemle korunuyor Dış bağlantılara sınırlama... 
+     ANKARA Milliyet 
+
+     TBMM Başkan Vekili Nevzat Pakdil, CHP Adana Milletvekili Tacidar Seyhan’ın, "İnternet üzerinden sesli ve görüntülü haberleşme yasağı kaldırılacak mı " sorusunu, "Dışarıdan gelebilecek saldırılar nedeniyle şimdilik hayır" diye yanıtladı. Pakdil, telefon kullanımında tasarruf sağlanabilmesi amacıyla telefon hatlarından internet erişiminin ve bilgisayara bağlanarak görüntülü ve sesli haberleşme sağlanmasının yasaklandığını belirtti. 
+     
+     YEDEK SERVER YOK’ 
+     Pakdil, "Kurum ağındaki bilgisayarların dışarıdan gelebilecek saldırılara açık olacağı düşüncesiyle yasağın kalkması şimdilik düşünülmemektedir" dedi. 
+     Tacidar Seyhan bu kararın kendisini çok üzdüğünü belirterek, "Ya ben uzayda yaşıyorum ya da bu arkadaşlar eksik bilgi alıyorlar. Size seslendiğim aracın mikrofon , parmak izi alan makinenin dahi bir yedeği var. Ama bunların bağlı olduğu server’ın yedeği yok. Şimdi bozulsa bu oturumu iptal etmek zorundasınız. Halen Pentium 166 bilgisayarlar kullanıyorlar. Böyle bir Meclis ile e-devlet’e nasıl geçeceğiz " dedi. Seyhan, "Bilişim eksikliğinin maliyeti 100 milyar doların üzerinde iken TBMM’de bilişim teknolojisini kullanabilecek idari yapılanma dahi sağlanamamıştır. Devamsızlığımızı ortaya çıkaracağınız bir yazılımınız bile yok" diye konuştu. 
+     
+     LOJMAN SORUSU 
+     Pakdil, CHP Diyarbakır Milletvekili Muhsin Koçyiğit’in lojmanlarda oturanların sayısı ve ne kadar kira ödediklerine ilişkin sorusunu ise şöyle yanıtladı "265 lojmanda 47 yeni, 218 eski milletvekili oturmaktadır. 15 Ocak 2003’e kadar kira, yakıt ve ortak kullanım ücreti olarak 345 milyon lira ödemişlerdir. Maliye Bakanlığı lojmanları en kısa sürede ve en uygun şartlarda satmak için hazırlıklara başlamıştır." 
+     
+
+
+
+ SİYASET 
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

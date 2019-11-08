@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 177812 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/24/son/sondun14.html </URL>
+<DATE> 2003/08/24/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sürücülere mikroçipli takip.. 
+</HEADLINE>
+<TEXT>
+
+     İngiltere'de yayınlanan The Sunday Times gazetesi, hükümetin, ülkedeki her otomobile bir mikroçip yerleştirip, sürücüyü kendi otomobilinin içindeki bu casus kanalıyla yakın takibe almayı planladığını duyurdu. 
+     ''Otomobil içindeki casus'' olarak adlandırılan mikroçipin, sürücünün sürat, yanlış yere park gibi hatalarını anında ilgili birimlere aktaracağını belirten gazete, ''İhbar edildiğinizi ceza mektubunu kapınızın önünde gördüğünüzde anlayacaksınız'' ifadesine yer verdi. 
+     Bu planın halen hükümetin ilgili birimlerince tartışılıp olgunlaştırılmakta olduğuna dikkat çeken Sunday Times, kontrolün otomobillere takılan mikroçiplerin yanı sıra yol kenarlarına yerleştirilecek alıcılar kanalıyla yapılacağını bildirdi. 
+     Plana destek veren polis yetkilileri, sistemin sadece sürücü hatalarını anında ihbar etmekle kalmayıp, aynı zamanda otomobil hırsızlığı ve kaçakçılığı ile mücadeleye de olumlu katkı sağlayacağına inanıyor. 
+     ''Big Brother Biri Bizi Gözetliyor '' planı olarak da adlandırılan plana, bazı sivil toplum kuruluşları, kişisel özgürlükleri kısıtlayan ve temel hakları çiğneyen bir plan olduğu gerekçesiyle karşı çıktı. Bu kuruluşların sözcüleri, hükümeti, tam bir polis devleti kurmaya kalkışmakla suçlarken, ''Yakında vatandaşların içlerine de birer çip yerleştirip, uslu durup durmadığımızı kontrol edecekler'' dedi. 
+     
+</TEXT>
+</DOC>

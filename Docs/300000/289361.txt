@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 289361 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/16/son/sonyas12.html </URL>
+<DATE> 2004/11/16/ </DATE>
+<TIME> 10.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+"Doktor.tr" de geliyor... 
+</HEADLINE>
+<TEXT>
+
+     İnternette Türkiye'yi simgeleyen ''tr'' uzantılı adreslerin sayısı her gün artarken, bu alandaki yenilikler de birbirini kovalıyor. Avukatların ''av.tr'' uzantısını kullanmaya başlamasının ardından yakında doktorlar da ''dr.tr'' uzantılı internet adreslerini alabilecekler. 
+     Türkiye'de ''tr'' uzantılı adresleri tescilde tek yetkili kurum olan ODTÜ Alan Adı Yönetimi Domain Names Systems-DNS , bir dizi yenilik üzerinde çalışmalarını sürdürüyor. 
+     A.A muhabirinin İnternet Kurulu DNS Çalışma Grubu ve Bilkent Üniversitesi Öğretim Üyesi Doç. Dr. Mustafa Akgül'den aldığı bilgiye göre, ODTÜ Alan Adı Yönetimi, Türkiye'de internet kullanımını yaygınlaştırmak üzere alan adlarını da artırıyor. 
+     ICAAN'ın verdiği yetki çerçevesinde 1992 yılından bu yana Türkiye'de ''tr'' uzantısıyla internet adresi tescil eden ODTÜ Alan Adı Yönetimi, bugüne kadar ''com.tr'', ''org.tr'', ''edu.tr'', ''k12.tr'', ''gov.tr'', ''net.tr'', ''gen.tr'', ''mil.tr'' ve ''name.tr'' uzantılı adresleri tescil etti. 
+     Kullanıcı sayısını artırma hedefi çerçevesinde ODTÜ Alan Adı Yönetimi, bir süre önce internet adresinde herhangi bir sınırlama olmayan ''web.tr'', şirketler için alternatif sunan ''biz.tr'' ve ''info.tr'' uygulamasının yanı sıra ''pol.tr'' ve ''bel.tr'' uzantılı adresleri de tescil etmeye başladı. Belediyelerden ''bel.tr'' uzantısına, polisten de ''pol.tr'' uzantısına talep artarken, telefon numarasının internet adresi olarak kullanılmasını içeren ''tel.tr'' ise beklenen ilgiyi görmedi. 
+     ODTÜ Alan Adı Yönetimi, bir süre önce de avukatların internet ortamında örgütlenmesine ön ayak olacak ''av.tr'' uzantısını tescil etmeye başladı. Yönetim, yakın bir zamanda doktorlar için de ''dr.tr'' uzantısını tescil etmek üzere çalışma yapıyor. ''dr.tr'' uygulamasını, noterler için ''not.tr'' ve eczacılar için ''ecz.tr'' uzantıları izleyecek. 
+     ODTÜ Alan Adı Yönetimi, mesleklere yönelik uzantılarla internetteki kullanıcı sayısını artırmaya çalışırken, meslek sahiplerinin internette vatandaşa elektronik hizmet vermesiyle vatandaşların yaşamının da kolaylaştırılmasını hedefliyor. Meslek gruplarının kendilerini simgeleyen uzantılarla internete katılmasına paralel olarak, verilen hizmetlerin içeriği etik kurallara uygunluğu açısından meslek örgütlerince denetlenecek. 
+     
+     ''TR'' UZANTILI ADRESLERİN DAĞILIMI 
+     Öte yandan, internette Türkiye'yi temsil eden ''tr'' uzantılı adreslerin sayısı da her geçen gün artıyor. ODTÜ Alan Adı Yönetimi'nin yaptığı yeniliklerle, internette ''tr'' uzantılı adreslerin sayısı 63 bine ulaştı. 
+     
+</TEXT>
+</DOC>

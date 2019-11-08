@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 289974 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/18/son/sonyas19.html </URL>
+<DATE> 2004/11/18/ </DATE>
+<TIME> 10.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bill Gates, günde 4 milyon e-mail alıyor 
+</HEADLINE>
+<TEXT>
+
+     Microsoft'un başkanı Bill Gates'e, birçoğu spam çöp mail olmak üzere günde 4 milyon e-mail gönderildiği bildirildi. 
+     Microsoft'un CEO'su Steve Ballmer, Singapur'da düzenlenen bir forumda yaptığı açıklamada, ''Bill Gates, Bill Gates olduğu için birçoğu spam mailler olmak üzere günde 4 milyon e-mail alıyor, ancak bu maillerin birçoğu, kurulan özel bir bölüm tarafından engelleniyor'' dedi. 
+     Ballmer, bu filtre sistemi sayesinde mesaj kutusuna bu maillerin sadece yüzde 10'unun ulaştığını belirtti. 
+     
+</TEXT>
+</DOC>

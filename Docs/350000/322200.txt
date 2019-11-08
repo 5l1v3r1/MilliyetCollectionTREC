@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 322200 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/09/son/soneko53.html </URL>
+<DATE> 2005/03/09/ </DATE>
+<TIME> 16.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası açılışta geriledi... 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası hafta ortasındaki işlem gününe düşüşle başladı. 
+     Borsada dünkü kapanışına göre ilk dakikalar içinde 27.43 puan gerileyen Dow Jones endeksi 10,885.19 puana, 1.67 puan gerileyen Nasdaq teknoloji endeksi ise 2,071.88 puana indi. 
+     Petrol fiyatlarının 55 dolar seviyesinin hemen altında seyretmesinin ekonomiye zarar vereceği endişesi yanında yatırımcıların ABD tahvillerinde satışlarını yoğunlaştırması, New York Borsası'nın düşüşle açılmasında etkili oldu. 
+     
+</TEXT>
+</DOC>

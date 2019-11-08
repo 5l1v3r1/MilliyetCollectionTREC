@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 386639 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/14/son/soneko13.html </URL>
+<DATE> 2005/10/14/ </DATE>
+<TIME> 10.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türk Telekom ADSL'de hızı artırıyor, fiyat aynı... 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekom, 3 gigabyte download sınırlamalı ADSL internet hizmetinde en düşük hızı 1 Kasım'dan itibaren 256 Kbps'den 512 Kpbs'ye yükseltecek. Fiyatta ise değişiklik yapılmayacak. 
+     Dün Burdur'da bir dizi açılışa katılan Ulaştırma Bakanı Binali Yıldırım, Türk Telekom abonelerine müjdeyi burada verdi. Yıldırım, ADSL olarak tanımlanan geniş bant hızlı internet uygulamasında, aylık ücreti 29 YTL olan hattın hızının, 2 katına çıkarılacağını açıkladı. 
+     Bakan Yıldırım, gazetecilere yaptığı açıklamada, son bir yıldır çok yaygın olarak kullanılan ADSL sisteminde telefonla birlikte data ve görüntü iletişiminin de aynı anda yapıldığını söyledi. 
+     ADSL sisteminin yenilendiğini belirten Yıldırım, şöyle konuştu 
+     "Türk Telekom, ücreti 29 YTL olan ve asgari hızı 256 Kbps olan aboneliği, 1 Kasım'dan itibaren 512 Kbps'ye çıkarıyor. Bu yarı yarıya ucuzlama anlamına geliyor. Aylık sabit ücret 29 YTL idi. Hızın iki katına çıkmasıyla birlikte hizmet yüzde 100 ucuzluğa tekabül edecek." 
+Verilecek hizmetle aynı sürede daha fazla bilgiye ulaşılabileceğini ifade eden Yıldırım, "Abonelik ücretinde fiyat artışı olmayacak. Bu internetin yaygınlaşması bakımından önemli" dedi. 
+     
+</TEXT>
+</DOC>

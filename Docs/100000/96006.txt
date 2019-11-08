@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 96006 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/07/16/son/sondun11.html </URL>
+<DATE> 2002/07/16/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternete izinsiz "pop-up" koyan şirkete yargıç engeli 
+</HEADLINE>
+<TEXT>
+
+     ABD'de, aralarında New York Times ve Boston Globe gibi büyük gazetelerin internet sitelerinin de bulunduğu çok sayıda siteye izinsiz ''pop-up'' denilen ve sayfa üzerine açılan reklamlar koyan bir şirket, yargıç kararıyla engellendi. 
+     Alexandria federal yargıcı Claude Hilton'un kararı uyarınca, bundan böyle Gator adlı reklam şirketi, internete izinsiz ''pop-up'' reklamlar koyamayacak. 
+     Söz konusu şirketin merkezinin California'nin Redwood City kentinde bulunduğu belirtildi. 
+     Gator hakkında şikayetçi olan ve mahkemeye başvuran kuruluşlar arasında New York Times, Washington Post, Boston Globe, USA Today, Newsweek Interactive, Dow Jones ve Chicago Tribune gibi dev medya kuruluşları bulunuyor. 
+     Bu kuruluşlar Gator'un ''parazitçe davrandığını'' öne sürdüler. 
+     Gator firmasının avukatı Janet Collum ise yargıcın kararına karşı üst mahkemeye başvuracaklarını ve davayı kazanacaklarına emin olduğunu söyledi. 
+     Reklam şirketi Gator'un 400 firmanın reklamını yaptığı ve 22 milyon kişiye hitap ettiği bildiriliyor. 
+     Gator, kullanıcılarının internette form doldurmalarını kolaylaştıran bir yazılımı ücretsiz dağıtıyor. Ancak bu yazılımı yükleyenlerin bilgisayarlarına, kendilerinden habersiz, reklamları açan program da yükleniyor ve uzman olmayan kişiler bir daha bu programı bilgisayarlarından çıkaramıyor. Bilgisayarında Gator programı bulunan kişiler internette bir siteye girdiklerinde, o sitedekileri görmeden önce reklamları izlemek zorunda kalıyor. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

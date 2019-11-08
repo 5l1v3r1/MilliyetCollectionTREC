@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 187461 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/09/son/sondun06.html </URL>
+<DATE> 2003/10/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Granger, saat 03 00'te çalan telefonu şaka sanmış... 
+</HEADLINE>
+<TEXT>
+
+     Nobel Ekonomi Ödülü'nü Amerikalı Robert F. Engle ile paylaşan İngiliz Clive Granger, Yeni Zelanda'da saat farkından ötürü İsveç Kraliyet Bilimler Akademisi'nden gece yarısı saat 03 00'da kendisine bildirilen müjdeyi şaka sanmış. 
+     Reuters ajansına Yeni Zelanda'nın güneyinde oturduğu Christchurch'den ''bu saatte telefonum pek çalmaz'' diyen 69 yaşındaki Granger, ancak bir arkadaşının bunu teyit etmesiyle gerçekten ödülü kazandığına ikna olmuş. Granger, California Üniversitesi'nden Temmuz'da emekli oldu ve Yeni Zelanda'da Canterbury Üniversitesi'nde araştırma yapıyor. 
+     Granger, mali piyasalardaki çalkantıların tahmininde kullanılabilecek yöntemi geliştirmesiyle ödülü kazandı. 
+     Nobel Akademisi'nin açıklamasına göre, her iki bilim adamının bulduğu yöntem, fiyatlar, faiz oranları, hisse senedi fiyatları ve buna benzer ekonomik verilerdeki gelişmeyi gösteriyor, zaman sıraları konusundaki istatistik yöntemi, kronolojik gözlem imkanı veriyor. 
+     Mali piyasalardaki tesadüfi değişimler, çalkantının, diğer mali etmenlerle birlikte, hisse senedi fiyatlarını ve değerlerini olumsuz etkileyebileceği, bu istatistik yönteminin de, bu çalkantıların zamanını analizde kullanılabileceği kaydediliyor. 
+     
+
+     
+</TEXT>
+</DOC>

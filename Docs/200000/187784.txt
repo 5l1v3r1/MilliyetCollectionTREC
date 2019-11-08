@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 187784 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/10/son/soneko33.html </URL>
+<DATE> 2003/10/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Merkez Bankası Reel Kesim Güven Endeksi, yüzde 106.6'ya çıktı 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası tarafından düzenlenen Reel Kesim Güven Endeksi, Eylül ayında geçen yılın aynı dönemine göre yüzde 5.8 artarak 106.6 değerine ulaştı. 
+     Endeks, geçen yıl Eylül ayında 100.8 değerinde idi. 
+     Yaklaşık olarak son dört aydır aynı seviyelerde değerler alan endeks, Eylül ayında da bir önceki ay ulaştığı 106.6 seviyesini korudu. 
+     Endeks, son aylardaki ekonomik faaliyetlere ilişkin olumlu beklentilerin Eylül ayında da devam ettiğini gösterdi. 
+     Endeksi oluşturan anket sorularına ait yayılma endeksleri, Ağustos ayına kıyasla incelendiğinde, iç pazara satılan mal hacmi eğilimindeki yüzde 6.7 oranındaki artışa paralel olarak, toplam sipariş eğilimi yüzde 6.5 oranında arttı ve bu iki yayılma endeksi en fazla yükseliş gösteren kalemler oldu. 
+     Öte yandan, toplam istihdam ve üretim hacmi beklentileri ise sırasıyla, yüzde 6.4 ve yüzde 5.1 oranlarındaki düşüşlerle, en fazla azalış gösteren kalemler olarak belirlendi. 
+     Genel gidişat eğilimi yüzde 3 oranında artarken, ihracat imkanları ve yatırım harcaması beklentileri sırasıyla yüzde 3.5 ve yüzde 1.4 oranlarında azaldı. Hammadde stok eğiliminde ise önemli bir değişiklik gözlenmedi. Mamul mal stok eğiliminde görülen yüzde 3.1 oranındaki azalış ise ters kodlama sebebiyle, endeksi artırıcı yönde etkiledi. 
+     Bir önceki yılın Eylül ayına göre karşılaştırma yapıldığında, tüm alt kalemlerin geçen yılki seviyelerinin üstünde değerler aldığı ancak, mamul mal stok eğiliminin geçen seneki değerinin altında kaldığı gözlendi. 
+     Güven endeksi, üst düzey yöneticilerin bugünkü iş durumlarını nasıl değerlendirdiklerini ve geleceğe ilişkin beklentilerinin bir fonksiyonu olan toplulaştırılmış gösterge niteliğini taşıyor. 
+     Bu kapsamda 100 değeri, ekonomik faaliyetlere ilişkin istikrarlı görünümü ifade ederken, bunun altındaki değer ''güvenin azaldığı'', üstündeki değer ise ''güvenin arttığı'' anlamına geliyor. 
+     
+</TEXT>
+</DOC>

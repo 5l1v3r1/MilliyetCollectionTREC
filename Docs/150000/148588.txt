@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 148588 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/04/09/son/soneko10.html </URL>
+<DATE> 2003/04/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+BUD Başkanı Tavlı Borsada disket emirleri, seansı etkiliyor 
+</HEADLINE>
+<TEXT>
+
+     Borsa Uzmanları Derneği BUD Başkanı İsmail Tavlı, disket seansında piyasa oluşturulduğunu belirterek, ''Büyük işlemler yapılıyor, o günle ilgili fiyat, piyasa oluşturma hareketleri oluyor. Aslında amaç bu değildi'' dedi. 
+     İMKB'de seansların elektronik emir iletim bölümlerine ilişkin sorularını yanıtlayan Tavlı, disket emirlerinin getirilmesindeki asıl amacın şirketlerde biriken küçük alım-satım emirlerinin piyasada disket seansıyla birlikte gerçekleştirilmesi olduğunu söyledi. 
+     Tavlı, bu amacın daha sonra büyük oyuncuların işlem yapmalarıyla biraz yapı değiştirdiğini belirterek, şöyle dedi 
+     ''Disket seansında biraz piyasa oluşturuluyor. Aslında amaç bu değildi. Büyük işlemler yapılıyor, o günle ilgili fiyat, piyasa oluşturma hareketleri oluyor. Fiyat yönünden psikolojik olarak günlük seansları etkiliyor. O gün içinde değişen fiyatların önemli kısmı disket seansında gerçekleşmiş oluyor.'' Başlangıçta disket seansının gözükmediğini, kapalı olduğunu, bu tarz piyasa oluşturmanın pek olmadığını dile getiren Tavlı, ''Olumsuz bakmıyoruz ama disket seansları gözükmese, kapalı olsa daha iyi olur'' diye konuştu. 
+     Global Menkul Değerler'den kıdemli trader Yusuf Nacar ise disket seanslarında gerçekleştirilen işlemlerin normal işlemler içindeki payının yüzde 5 civarında olduğunu belirtti. 
+     Disket seanslarında çok fazla işlem yoğunluğu olmadığına işaret eden Nacar, disket seanslarının uzaktan erişim sistemiyle borsa terminallerinin merkezlerinin borsa dışına taşınması açısından bir altyapı oluşturduğuna dikkati çekti. 
+     Yusuf Nacar, disket seanslarının dezavantajlarına ilişkin görüşlerini açıklarken de piyasa oyuncularının disket seanslarını kendi lehlerine çevirebildiklerini, piyasanın gerektiğinde alıcılı gerektiğinde satıcılı olduğunu söyledi. 
+     
+     TOPLAM 25 DAKİKA 
+     İMKB'de 1. seansta 09.30 ile 09.45, 2. seansta 14.00 ile 14.10 saatleri arasında gerçekleştirilen elektronik emir iletim bölümünde disket emirleri giriliyor. 
+     Disket emirleriyle birlikte aynı saatte uzaktan Erişim Projesi kapsamında sürdürülen çalışmalara paralel olarak devreye alınan Hisse Senetleri Piyasası HSP Alım-Satım Sistemi ile üye sisteminin doğrudan iletişimini sağlayan Ex-API uygulaması da başlıyor. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

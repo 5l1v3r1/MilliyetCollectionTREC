@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 61717 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/01/11/yasam/yas04.html </URL>
+<DATE> 2002/01/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Gaz ve fren için tek pedal sistemi 
+</HEADLINE>
+<TEXT>
+
+İsveç’te, otomobillerin gaz ve fren pedallarını tek bir pedalda birleştiren sistem geliştirildi.. Böylece aracın ani fren yapma süresi iyice kısalacak... 
+     İsveçli Sven Gustafsson’un geliştirdiği sistem, fren ve gaz işlevini tek bir pedalın üstlenmesi esasına dayanıyor. İki parçalı sistemde sürücü, gaz verirken ayağını bilekten hareket ettiriyor, fren yapacağı zaman ise tüm bacağıyla pedalı tamamen ileri itiyor. Böylece sürücü ayağını pedaldan kaldırmak zorunda kalmıyor ve fren yapma süresi normale göre birkaç saniye kısalıyor. 
+     
+     Hayat kurtaracak 
+     Uppsala Üniversitesi uzmanları da, tek pedallı sistemin ani fren durumlarında hayat kurtarabileceği görüşünde. Çünkü fren yapmak için ayağı gaz pedalından fren pedalına götürmek en az 0.2 saniyede gerçekleşiyor. Bu da 90 km s hızda, fren mesafesinin 5 metre daha uzaması demek. Tek pedal, hayat kurtarabilecek bu 5 metreyi kazandırıyor. İsveç Ulusal Yol Müdürlüğü ve Uppsala Üniversitesi’nin onay verdiği "tek pedal" sistemi, halen İsveçli üretici Volvo tarafından test ediliyor. Seri üretilen otomobillere takılmasının ise üç yıldan önce gerçekleşmeyeceği belirtiliyor. 
+     
+
+</TEXT>
+</DOC>

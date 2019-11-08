@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 392751 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/07/son/soneko04.html </URL>
+<DATE> 2005/11/07/ </DATE>
+<TIME> 09.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Binada depremi algılayan cihaz yoksa gaz da yok 
+</HEADLINE>
+<TEXT>
+
+     Selma Şenol Referans Gazetesi 
+
+12 Aralık'tan itibaren doğalgaz kullanan binalara depremi algılayan gaz kesme cihazlarının yerleştirilmesi zorunlu hale geliyor. Uygulamaya ilk olarak otel ve okullardan başlanılacak. 
+     Aralık ayından itibaren doğalgaz kullanıcısı binalarda depremi algılayan otomatik gaz kesme cihazının bulunması zorunlu olacak. Kural 3 yıl önce çıkan bir yönetmelik kapsamında uygulanacak. Daha önce Türk Standartları Enstitüsü TSE belgeli cihaz bulunmadığı için uygulaması bugüne kadar geciken yönetmelik, 12 Aralık 2005 itibariyle yürürlüğe girecek. Yönetmeliğin uygulanması için İGDAŞ, cihazı olmayan binanın doğalgazını açmayacak. 
+     Yönetmelik bina yapı ruhsat tarihi 26 Temmuz 2002 ve sonrasındaki binaları kapsıyor ama İGDAŞ sadece genç binaların bu kapsama alınmasının riski azaltmayacağını düşünerek, eski binaların da kapsama alınması için ilgili kurumlarla görüşmelerini sürdürüyor. Halen İstanbul'da 484 bin 908 binada doğalgaz kullanılıyor. Cihaz sismik frekansı 5.2'ye denk gelen hareketlerde gazı otomatik olarak kesiyor. Cihazın algılamasında baz alınan değer, Richter ölçeği tarafından belirlenen depremin şiddetine bağlı olarak değil, sismik hareketin frekansına göre belirleniyor. TSE 12884 belgeli gaz kesme cihazını satan 4 ithalatçı firma bulunuyor. Cihazın 400 dolara satılması bekleniyor. 
+     İstanbul'da cihazı takmakla görevli iç tesisat firma sayısı ise bin 118 ve bu şirketlerin eğitimine başlandı. 12 Aralık 2005 tarihi itibariyle doğalgaz kullanımı için gaz dağıtım kuruluşuna başvuracak bina sahiplerinin, yapı zorunluluk kapsamına giriyorsa, proje belgesinin üzerinde cihazın varlığının işlenmiş olduğunu kanıtlaması gerekiyor. Eğer kanıtlayamazsa gazı da açılmayacak. 
+     İGDAŞ Genel Müdürü Levent Tüfekçi, binalara 2006 yılı sonuna kadar cihaz takılmasını sağlamak amacıyla, öncelikle insanların toplu halde bulunduğu otel, hastane, okul, sağlık ocağı, kamu kurum ve kuruluşları ile itfaiye, spor tesisleri, sinema ve tiyatrolarda inceleme yapacaklarını söyledi. 
+     
+     Deprem bölgelerinde uygulanacak 
+
+     Tüfekçi, mevcut doğalgaz hattının esneme kabiliyetinin yüzde 600 olduğunu, ayrıca regülatör ve servis kutularında da hattaki bir kopma anında gazı otomatik olarak kapatan bir mekanizma bulunduğunu söyledi. Levent Tüfekçi, "Ancak deprem anında doğal gaz hatlarında yaşanabilecek kopmalardan dolayı gaz sızıntısı oluşabilir, bu durum yangın ve patlamaların yaşanmasına neden olabilir. Cihaz, bu tür durumlara engel olması açısından önemli" dedi. Tüfekçi, deprem bölgelerine giren diğer şehirlerde de bu uygulamaya geçileceğini söyledi. 
+     
+     Ana vanadan kesmek yetmiyor 
+
+     Tüfekçi, doğal gazın ana şebekeden kesilmesinin, yangın ve patlama riskini ortadan kaldırmadığını söyledi. Tüfekçi, "Gaz ana vanalarından kesildiğinde bile bir süre gaz akışı devam eder. Ama binaya giren gazı keserseniz, bina içinde kalan gaz miktarı az olduğundan yangın ve patlama riski oluşmaz" dedi. İç tesisat teknik şartnamelerini revize ederek, Enerji Piyasası Düzenleme Kurulu'nun onayına sunduklarını ve onayın birkaç ay önce geldiğini anlatan İGDAŞ Genel Müdürü Tüfekçi, "Ardından tedarikçi sayısı, yeterli servis ağı, iç tesisat sertifikasına sahip firmaların eğitimi ve firmaların bilgilendirilmesi gibi piyasa koşullarının oluşması beklendi" diye konuştu. 
+     Yönetmelik her binaya bir cihazı şart koşuyor. Ortak kullanıma açık iki binada bile ortak cihaz kullanılamıyor. Tüfekçi, cihazı devreye sokacak şiddette bir deprem yaşandığında, İGDAŞ'ın tüm güvenlik şartlarının sağlandığına emin olduktan sonra en kısa sürede kesilen gazı açacağını söyledi. 
+
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 289639 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/17/son/sonyas15.html </URL>
+<DATE> 2004/11/17/ </DATE>
+<TIME> 10.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İşte yeni hız rekoru Ses hızının 9.6 katı... 
+</HEADLINE>
+<TEXT>
+
+     Amerikan Ulusal Havacılık ve Uzay Dairesi'nin NASA deneme uçuşunu yaptığı insansız X-43A jeti, saatte 11,263 kilometre hıza ulaşarak rekor kırdı. 
+     Güney Kaliforniya açıklarında, Pasifik Okyanusu'nun sadece Amerikan uçaklarına açık hava sahasında yapılan deneme uçuşunda X-43A, ses hızının 9.6 katına ulaştı. 
+     Sadece 3,6 metre uzunluğundaki X-43A'nın teknolojisinin konvansiyonel jet teknolojisinden farklı olduğu ve motorun, içinde havayı sıkıştırmaya dayalı klasik uçak motorlarının aksine, bu teknolojinin sıkıştırılmış ve hızla hareket eden hava akımı içerisinde yanan hidrojen yakıtının sağladığı ileri itme gücü esasına dayandığı belirtildi. 
+     X-43A'nın, B-52 tipi bir uçakla 13,157 metre yükseğe taşınarak gökyüzüne bırakıldığı ve planlandığı gibi 10 saniyeden az süren test uçuşunun, jetin yakıtının bitmesiyle sona erdiği kaydedildi. 
+     Uçuşun, NASA'nın 230 milyon dolarlık Hyper-X programı kapsamında gerçekleştirilen üçüncü test uçuşu olduğu ifade edildi. 
+     Bazı Amerikalı mühendisler, yeni jet teknolojisinin kullanılmasıyla ses hızını aşan uçakların üretilebileceğini söylediler. 
+     Bu teknolojiden askeri uygulamalarda da faydalanılabileceği ve bu teknolojinin balistik füzelerde büyük yeniliklere yol açabileceği ifade ediliyor. 
+     
+</TEXT>
+</DOC>

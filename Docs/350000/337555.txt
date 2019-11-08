@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 337555 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/27/son/sonyas27.html </URL>
+<DATE> 2005/04/27/ </DATE>
+<TIME> 13.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Nokia'dan sabit diski olan telefonlar 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın en büyük cep telefonu üreticisi Nokia, sabit diski bulunan ilk cep telefonlarının üretimine başladı. 
+     ''N serisi'' telefonların ''N90'' ve ''N70'' modellerinin 2 megapiksel kameraları olacak. 
+     ''N91'' multimedya cep telefonunda ise müzik dosyaları için 4 GB kapasitesinde sabit disk bulunacak. 
+     Yeni serinin N90 modeli Haziran ayında, N70 modeli Eylül ayında ve N91 modeli yıl sonunda satışa sunulacak. 
+     
+</TEXT>
+</DOC>

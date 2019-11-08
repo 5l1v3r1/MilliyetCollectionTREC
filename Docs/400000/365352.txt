@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 365352 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/29/son/soneko03.html </URL>
+<DATE> 2005/07/29/ </DATE>
+<TIME> 03.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası değerleri 11 Eylül'den sonra en yüksek seviyesine çıktı 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacminde dünyanın önde gelen borsası New York Wall Street’in Dow Jones Sanayi Endeksi, 70.14 puan artışla binde 6,6 10,707.23 puandan kapandı. 
+     Wall Street’in teknoloji şirketleri ibresi Nasdaq Bileşik Endeksi 12.29 puan artarak binde 5,6 2,198.51 puandan noktalandı. 
+     Nasdaq ile Standard Poor’s 500 endeksleri 11 Eylül faciasının olduğu 2001 yılının yaz aylarından beri en yüksek değere çıktı. 
+     Borsanın ilk seanstan yükselmesinde başta petrol devi Exxon Mobil olmak üzere bazı büyük şirketlerin beklenenin üzerinde kar açıklamaları etkili oldu. 
+     New York Borsası’nın haftanın dördüncü işlem günündeki yükselişinde, Bristol-Myers Squibb ile kahve satış zinciri Starbucks’ın beklenti üstü karları da kayda alındı. 
+     
+</TEXT>
+</DOC>

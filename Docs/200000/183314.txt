@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 183314 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/19/yasam/yas10.html </URL>
+<DATE> 2003/09/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hayatınızın filmini çekin 
+</HEADLINE>
+<TEXT>
+
+      DIŞ HABERLER 
+   
+   Hewlett Packard, gözlük gibi takılan ve kullanıcının gördüğü her şeyi kaydeden bir kamera geliştirdi. Henüz prototip aşamasında olmasına, rağmen deneme kullanımlarında etkinliği kanıtlanan kamera, görüntülerin nerede ve ne zaman çekildiğiyle ilgili bilgileri de kaydedebiliyor. Bu bilgiler ve görüntüler bilgisayara aktarılarak işleniyor. 'Fark edilmeden görüntü elde etmeye' olanak veren sistemin, ahlaki tartışmalara neden olsa da kullanım kolaylığı ve ucuzluğu sebebiyle popüler olacağına inanan yetkililer, şunları söylüyor "Yürürken hayatınızı kaydetme düşüncesi, çok heyecan verici. Gereksiz görüntüleri ayıkladıktan sonra kalanlar, insanlar için büyük önem taşıyacak. Kamerayı, herkes rahatça kullanabilecek." 
+   
+   
+</TEXT>
+</DOC>

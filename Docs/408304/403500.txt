@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 403500 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/14/son/sonyas04.html </URL>
+<DATE> 2005/12/14/ </DATE>
+<TIME> 09.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+40 saniyede kendi kendini imha eden SMS... 
+</HEADLINE>
+<TEXT>
+
+     İngiltere’de önceki gün hizmete giren "kendi kendisini yok eden kısa mesaj" hizmeti büyük ilgi görüyor. 
+     İngiliz Staellium firması tarafından geliştirilen ve okunduktan sonra 40 saniyede kendisini yok eden SMS hizmetine üye olmak için binlerce kişi başvurdu. 
+     1970’lerin ünlü televizyon dizisi "Görevimiz Tehlike"deki 
+     kendini kendini imha eden ses bantlarını anımsatan teknoloji, özellikle ünlülerin, işadamlarının ve Savunma Bakanlığı çalışanlarının büyük ilgisiyle karşılaştı. Yeni SMS hizmeti, yasadışı ve suç unsuru bulunan kısa mesajların da gönderilmesi endişesi yaratırken, Staellium şirketinin üst yöneticisi Carole Barnum, StealthText adı verilen sistemin ardında askeri teknolojinin bulunduğunu söyledi. Ancak, bir kısa mesajı yaklaşık 1,3 YTL’ye gönderen ve kullanıcıların en az 10 mesaj için sözleşme yapmalarını zorunlu kılan yeni SMS hizmeti biraz pahalı bulundu. Yeni SMS hizmetinden faydalanmak isteyenlerin kayıt olduktan sonra internetten küçük bir programı telefonlarına indirmeleri gerekiyor. İngiltere’de geçen yıl futbol yıldızı David Beckham ile Sarah Marbeck arasındaki şehvet ifadeleri içeren kısa mesajların Sun gazetesi tarafından yayınlanması büyük gürültü koparmıştı. 
+     
+</TEXT>
+</DOC>

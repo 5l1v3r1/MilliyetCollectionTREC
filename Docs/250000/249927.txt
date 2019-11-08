@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 249927 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/22/son/soneko01.html </URL>
+<DATE> 2004/06/22/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     New York borsasında Dow Jones ve Nasdaq endeksleri, haftanın ilk işlem gününü kayıpla kapadı. 
+     Dow Jones 44.94 puan düşüşle 10,371.47 puandan, Nasdaq ise 12.35 puan düşüşle 1,974.38 puandan kapandı. 
+     
+</TEXT>
+</DOC>

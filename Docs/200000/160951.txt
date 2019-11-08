@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 160951 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/04/son/sondun04.html </URL>
+<DATE> 2003/06/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+AOL ve Microsoft "anında mesaj" konusunda birlikte çalışacak 
+</HEADLINE>
+<TEXT>
+
+     ABD'de en büyük internet şirketlerinden biri olan America Online AOL ve yazılım devi Microsoft firması arasında buzların erimesinden sonra iki kuruluş ''anında mesaj'' konusunda işbirliği yapacaklarını açıkladı. 
+     Özellikle gençlerle işadamları arasında büyük rağbet gören ''anında mesaj'' sistemi genellikle ücretsiz olarak veriliyor. 
+     İnternet kullanıcılarının ''arkadaş listesinden'' kimlerin internette olduğunu belirleyen sistem, karşılıklı mesajlaşlaşmayı sağlıyor. 
+     Bu mesajlaşmalar kapalı devre yapıldığından, AOL'un mesaj programını kullanan kişi, MSN ya da Yahoo'nun programını kullananla konuşamıyor. 
+     AOL'un kendi mesaj programını başkalarına açmaktan kaçınması, bu alandaki üstünlüğünü elden bırakmak istememesine bağlanıyor. 
+     AOL'un programından geçen Nisan ayında 59.2 milyon kişinin yararlandığı, MSN'inkinden yararlananların sayısının 23.6, Yahoo'nunkini kullananların sayısının ise 19.1 milyon olduğu belirtildi. 
+     Sanayi kaynakları ise, AOL ve MSN'nin açıklamalarına rağmen yakın gelecekte ''anında mesaj''a ilişkin sorunların çözümleneceğine inanmadıklarını ifade ettiler. 
+     
+</TEXT>
+</DOC>

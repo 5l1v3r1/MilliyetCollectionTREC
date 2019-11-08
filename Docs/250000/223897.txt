@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 223897 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/20/ekonomi/eko06.html </URL>
+<DATE> 2004/03/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+AB'den Microsoft'a ceza geliyor 
+</HEADLINE>
+<TEXT>
+
+   Microsoft ve AB arasındaki 'tekelleşme davası'ndaki uzlaşma görüşmesi sonuçsuz kaldı 
+      
+   Microsoft, Avrupa Birliği Komisyonu soruşturması kapsamında yürütülen görüşmelerde anlaşmaya varılamadığını açıkladı. Şirketin önümüzdeki çarşamba cezasının açıklanması bekleniyor. 
+   Microsoft CEO'su Steve Ballmer, konuyla ilgili yaptığı açıklamada, davanın ana meseleleri üzerinde fikir birliğine vardıklarını, ancak gelecekte ortaya çıkabilecek yeni konuların prensipleri üzerinde anlaşamadıklarını bildirdi. 
+   
+   'Gayret gösterdik' 
+   İhtilafa yol açmadan tüm sorunları çözmek amacıyla yoğun bir şekilde çalıştıklarını belirten Ballmer, "Avrupa'daki hükümetlerle olan değerli ilişkimiz adına her türlü gayreti gösterdik. Umuyoruz, davanın daha sonraki aşamalarında bir anlaşmaya varmamız mümkün olur" dedi. 
+   Microsoft yetkililerinin birkaç aydır Komisyon üyeleriyle görüştüğü ve Media Player ile farklı teknolojilerin birlikte çalışabilirliği konusundaki endişelerini giderecek çok sayıda teklifte bulundukları kaydedildi. 
+   
+   
+</TEXT>
+</DOC>

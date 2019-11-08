@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 230764 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/12/son/sonyas13.html </URL>
+<DATE> 2004/04/12/ </DATE>
+<TIME> 12.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Nesillerin tükenme nedeni kromozomlar mı 
+</HEADLINE>
+<TEXT>
+
+     Avusturyalı bir bilim adamı, bir türün neslinin tükenmesinin ne çevreye uyum sağlamada başarısızlık, ne de değişen çevre koşullarından kaynaklandığını belirterek, türlerin nesillerinin tükenme nedeninin kromozomlar olduğunu öne sürdü. 
+     Viyana Üniversitesi'nde görevli Reinhard Stindl, ''New Scientist'' dergisinde yayımlanan makalesinde, kromozomların ucundaki telomerlerin nesilden nesile kısaldığını ifade ederek, telomerlerin belirli bir uzunluğun altına düşmesi halinde, o türün tükenmeye başladığını iddia etti. 
+     Kromozomların her iki ucunda bulunan DNA-protein kompleksi olan telomerler, tamamen kopyalanamadığı için her bölünme sonrasında belli ölçüde kısalıyor. Daha önce Belçikalı bilim adamları tarafından yapılan araştırmalarda, telomerlerin büyük bir ihtimalle yaşlanma sürecinde kilit rol oynadığı belirtilmişti. Bilim adamları, telomerlerin uzunluğunun, ömrün uzunluğuyla doğru orantılı olduğunu kaydetmişti. 
+     Telomerlerin sadece hücre bölünmesinden sonra değil, nesilden nesile geçerken de kısaldığını belirten Stindl'in teorisine göre, tükenmeye yaklaşmış bir türde, kromozomların istikrarsızlığından kaynaklanan kanser ve bağışıklık sistemi bozukluğu gibi hastalıkların çoğaldığını öne sürdü. 
+     Telomer uzunluğunun türler arasında farklılık göstermesinin ancak bu teoriyle açıklanabileceğini iddia eden Stindl, bazı kuş türlerinde telomerlerin yaklaşık bir milyon DNA baz çiftinden oluştuğuna, insanlarda ise bu sayının sadece 10 bin olduğuna dikkat çekti. 
+     Stindl, teorisini güçlendirmek için hızla çoğalan türlerin telomer uzunluğunu, nesli tükenme tehlikesiyle karşı karşıya olan türlerin telomer uzunluklarıyla karşılaştıracağını söyledi. 
+     Daha önce Amerikalı bilim adamları da telomer kaybı nedeniyle bir noktadan sonra bölünmenin durduğunu, kromozomların normal işlevini yerine getiremediğini, bunun da kanser oluşumuna yol açabildiğini ifade etmişlerdi. 
+     
+</TEXT>
+</DOC>

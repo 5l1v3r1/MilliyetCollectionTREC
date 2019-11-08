@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 302630 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/18/son/sontur02.html </URL>
+<DATE> 2005/12/18/ </DATE>
+<TIME> 09.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türkiye korsan yazılım cenneti 
+</HEADLINE>
+<TEXT>
+
+     Türkiye'de korsan yazılım kullanma oranı, dünya ortalamasının iki katına yaklaştı. Korsan yazılım kullanma oranı dünya ortalamasında yüzde 35 olarak hesaplanırken, Türkiye'de bu rakam yüzde 66'ya ulaştı. 
+     Yapılan istatistiklere göre dünya ortalaması yüzde 35 olarak hesaplanan korsan yazılım kullanım oranları, ABD'de yüzde 22, İngiltere'de yüzde 27, Almanya'da yüzde 29, Fransa'da yüzde 45, İsrail'de yüzde 33, Suudi Arabistan'da yüzde 52, Umman'da yüzde 64, Katar'da yüzde 62, Güney Afrika'da yüzde 37, Tayvan'da yüzde 43 olarak ortaya çıkıyor. Türkiye'de ise bu oran, yüzde 66 olarak hesaplanıyor. 
+     BSA Türkiye Koordinatörlüğü, Adalet Bakanlığı Avrupa Genel Müdürlüğü ve Bilkent Üniversitesi'nin işbirliğinde Güzel Sanatlar Fakültesi'nde korsan yazılımla mücadele kapsamında ''Bilgisayar Yazılımları Telif Haklarının Korunması'' konulu bir panel düzenledi. 
+     Panele katılan BSA Avrupa, Afrika ve Ortadoğu bölgelerinden sorumlu Başkan Yardımcısı Laurent Masson, AA muhabirine yaptığı açıklamada, 1988 yılından bu yana dünyanın çeşitli ülkelerinde korsan karşıtı faaliyetler yürüttüklerini, organizasyonda ulusal ve uluslararası pek çok yazılım firmasının yer aldığını ifade etti. 
+     
+     DOĞU AVRUPA ÜLKELERİ 
+     Türkiye'de korsan yazılım kullanım oranının yüzde 66'ya ulaştığını ve bu rakamın çok yüksek olduğunu vurgulayan Masson, önümüzdeki yıllarda güvenli bir ortamla bu oranın asgariye çekileceğinden emin olduklarını belirtti. Masson, bu alandaki hukuki çalışmaların çok etkin yürütüldüğünü, korsanla mücadele için altyapı hazırlıklarının hızla sürdürüldüğünü kaydetti. 
+     Korsan yazılım kullanım oranının bazı Doğu Avrupa ülkelerinde Türkiye'den de yüksek olduğunu dile getiren Masson, İngiltere ve Almanya gibi ülkelerdeki korsan yazılım kullanımının ise Türkiye'ye göre çok düşük olduğunu söyledi. 
+     Masson, korsan yazılım kullanımına karşı yürüttükleri mücadeleyi 3 noktada yoğunlaştırdıklarını belirterek, ''eğitim, bilinçlendirme ve yasa uygulayıcılarının bilgi ve tecrübelerini paylaşarak çözüm üretebilecekleri ortamları oluşturma'' stratejisini uyguladıklarını ifade etti. 
+     
+     OYUN KONSOLU 
+     Laurent Masson, BSA'nın üyelerinden Microsoft'un, son olarak piyasaya sürdüğü oyun konsolunu, korsan kullanım oranının yüksek olduğu gerekçesiyle Türkiye'de satışa sunmadığının ifade edilmesi üzerine, bu konsolun Türkiye dışındaki bazı ülkelerde de dağıtılmadığını ifade etti. Masson, korsan kullanım oranının yüksek olmasının dağıtılmamasının nedenlerden birisi olabileceğini ancak bunun ticari başka nedenleri de bulunduğunu söyledi. 
+     İş Yazılımcıları Birliği Business Software Alliance-BSA , dünyada korsan yazılım ve bu alandaki korsan üretimle mücadele ediyor. Dünyada yazılım üreten pek çok firmanın üyesi olduğu bu kuruluş, kar amacı gütmeksizin çeşitli ülkelerde faaliyet gösteriyor. Korsan yazılım kullanım oranının yüksekliği ile dikkati çeken ülkelerden birisi olan Türkiye'de de çeşitli etkinlikler düzenleyen BSA, telif haklarının korunması, siber güvenliği, ticaret ve elektronik ticareti tanıtan eğitim ve politika girişimleri yoluyla bu alanda destek sağlıyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 166837 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/02/son/soneko02.html </URL>
+<DATE> 2003/07/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Wall Street yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     New York menkul kıymetler borsası Wall Street'te, Dow Jones ve Nasdaq endeksleri günü yükselişle kapattı. 
+     Borsanın temel göstergesi Dow Jones 55.79 puan artarak 9.041,23 puandan, teknoloji endeksi Nasdaq da 17.26 puan yükselerek 1.640,06 puandan günü tamamladı. 
+     
+</TEXT>
+</DOC>

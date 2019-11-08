@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 231449 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/14/son/sonyas01.html </URL>
+<DATE> 2004/04/14/ </DATE>
+<TIME> 08.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft 4 yeni güvenlik yaması birden yayınladı 
+</HEADLINE>
+<TEXT>
+
+     Ender Ülgen bildiriyor 
+
+Microsoft firması, Windows işletim sistemindeki açıklarla ilgili 4 güvenlik yaması birden yayınladı. 
+     ''Kritik'' olarak nitelenen yamaların, bilgisayarların kötü niyetli kişiler tarafından ele geçirilmesini önlemeye yönelik olduğu bildiriliyor. 
+     Microsoft'un benzeri tehditlere karşı yıl başından bu yana yayınladığı yamaların sayısı 13'ü buldu. 
+     Şirket, aynı tehlikeye karşı ''önemli'' olarak nitelendirdiği 4. bir yamayı daha hizmete soktu. Yamalar Windows-98 işletim sistemiyle İnternet Explorer, Outlook Express e-mail programı ve NT Server 4.0 sürümünü ilgilendiriyor. 
+     Windows işletim sisteminde bu tür açıklar olduğu geçen yaz ortaya çıkan Blaster virüsüyle anlaşılmıştı. 
+     Microsoft'un Windows işletim sistemi dünyadaki bilgisayarların yüzde 90'ında kullanılıyor. 
+     Windows'taki son açıkların bilgisayar korsanları tarafından saptandığına dikkati çeken bilgisayar güvenlik uzmanları, yakın gelecekte saldırılar başlamasını beklediklerini ve yamaları yükleyen kullanıcıların bunlardan uzak kalacaklarını ifade ettiler. 
+     
+</TEXT>
+</DOC>

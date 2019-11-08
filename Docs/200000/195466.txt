@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 195466 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/14/son/sondun01.html </URL>
+<DATE> 2003/11/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bakteri öldüren yapay virüs... 
+</HEADLINE>
+<TEXT>
+
+     Bilim adamları bakteri hücrelerini öldürdüğü bilinen bir virüsü sadece iki haftada yapay olarak üretmeyi başardılar. 
+     ABD'nin Maryland eyaletinin Rockville kentindeki Biyolojik Enerji Alternatifleri Enstitüsü'nde yapılan çalışmada, ticari olarak satılan bir DNA'yı kullanarak, bakteri hücrelerine bulaşıp onları öldüren bir virüsle aynı genetik kodları taşıyan yapay bir virüs sadece iki haftada üretildi. 
+     Deneyi yapan bilim adamlarından Enstitü kurucusu J. Craig Venter, yaygın olarak bilinen moleküler biyoloji ilkelerini kullansalar da, virüsün üretiminin aylar ya da yıllar değil sadece iki hafta almasının çığır açıcı bir gelişme olduğunu söyledi. 
+     Bilim adamları daha önce hücrelerde doğal olarak bulunan enzimlerden çocuk felci virüsünü yapay olarak üretmeyi başarmışlar, ancak üretilen virüste hatalar çıkmış ve üretim süreci 3 yıl sürmüştü. 
+     Venter ve arkadaşlarının geçen yıl sadece iki haftada ürettikleri yapay virüs basit bir organizma olsa da, deney DNA'nın uzun parçalarını hızla yapay olarak üretme imkanını ortaya koydu ve böylece daha karmaşık organizmaları kontrol etme konusunda bir kilometre taşı oluşturdu. 
+     Son deneyde kullanılan teknik, daha karmaşık genetik incelemelere, daha etkili aşılar oluşturulmasına ve radyoaktive ve kirliliğin olduğu olağandışı ortamlarda yaşayabilecek organizmaların üretilmesine imkan tanıyacak. 
+     ABD Enerji Bakanı Spencer Abraham deneyin sonuçlarının açıklandığı basın toplantısında, deneyin enerji ve çevre sorunlarına biyoloji temelli çözümler üretme imkanını hızlandıran, olağanüstü ve heyecan verici bir gelişme olduğunu söyledi. 
+     Abraham, ''Bu gelişme sonucunda, çok uzak olmayan bir gelecekte, özel olarak tasarlanmış mikroplardan oluşan bir koloninin, kömürle çalışan bir fabrikanın atık kontrol sistemleri içinde yaşadığını ve mikropların fabrikanın saldığı karbondioksitleri ve kirli atıkları yediklerini veya hava kirliliğini büyük oranda azaltmak veya radyoaktif suyun zehirli etkilerini azaltmak için mikroplardan faydalandığımızı düşünmek çok daha kolay'' dedi. 
+     Araştırmayı yürüten bilim adamları arasında, insanın tam genetik kodunun haritasını ilk üreten bilim adamlarından olan Venter'in yanı sıra, 1978'de genetik araştırmaları için Nobel Tıp Ödülü'nü paylaşan Hamilton Smith de bulunuyor. 
+     
+</TEXT>
+</DOC>

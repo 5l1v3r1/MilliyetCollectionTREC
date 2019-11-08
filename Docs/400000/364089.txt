@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 364089 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/25/son/soneko40.html </URL>
+<DATE> 2005/07/25/ </DATE>
+<TIME> 17.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Japonlar, dünyanın en hızlı bilgisayarını yapmaya hazırlanıyor... 
+</HEADLINE>
+<TEXT>
+
+     Kyodo ajansının haberine göre, halen dünyanın en hızlı bilgisayarı olan ve saniyede 136.8 trilyon işlem yapabilen IBM'in Blue Gene L bilgisayarından 73 kat hızlı olacak süper bilgisayarın yapımına gelecek yıl başlanacak. Söz konusu bilgisayar saniyede 10 katrilyon işlem yapabilecek. 
+     Japonya Eğitim, Kültür, Spor, Bilim ve Teknoloji Bakanlığı, süper bilgisayarın 80-100 milyar yene mal olacağını hesaplıyor. Bakanlık ayrıca bilgisayar için 2006 yılı bütçesinden 10 milyar yen 89 milyon dolar ayrılmasını talep etti. 
+     Tıp ve astronomi alanlarında kullanılması planlanan süper bilgisayarın, finansmanında sorun yaşanmazsa 2010 yılı sonunda tamamlanabileceği ifade ediliyor. 
+     Japonya'nın mevcut en hızlı bilgisayarı olan ''Earth Simulator'', saniyede 35.9 trilyon işlem yapabiliyor. 
+     IBM'in 2 adet Blue Gene ve NASA'nın Columbia sistemlerinin ardından dünyanın en hızlı dördüncü bilgisayarı olan Earth Simulator, 2002 yılında geliştirilmişti. 
+     
+</TEXT>
+</DOC>

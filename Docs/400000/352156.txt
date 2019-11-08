@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 352156 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/15/son/sondun46.html </URL>
+<DATE> 2005/06/15/ </DATE>
+<TIME> 20.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Uzay mekiği Discovery yeninden fırlatma rampasında... 
+</HEADLINE>
+<TEXT>
+
+     Discovery uzay mekiği, Columbia faciasından sonra ilk uçuşunu yerine getirmek üzere fırlatma rampasına yeniden yerleştirildi. Mekiğin en erken 13 Temmuz’da havalanması öngörülüyor. 
+     Tehlikeli buz oluşumunu engelleyecek şekilde tasarlanan yeni model bir dış yakıt tankı yerleştirilen Discovery uzay mekiğinin, hangardan fırlatma rampasına giden 8 kilometre uzunluğundaki yolu dev paletli taşıyıcı "Crawler Transporter" üzerinde katetmesi 9 saatten fazla sürdü. 
+     Discovery uzay mekiği nisanda fırlatma rampasına getirildikten sonra, uzmanların aşırı soğuk yakıt doldurulduğunda dış yakıt tanklarında buz oluştuğunu ve bunun da 2,5 yıl önce Columbia’nın kalkışı sırasında olduğu gibi köpük yalıtım malzemesinin kırılarak gövdeye zarar verdiğini tespit etmeleri üzerine 26 Mayıs’ta hangara geri taşınmıştı. 
+     NASA mühendisleri, 2,5 yıl önceki Columbia faciasının ardından temmuz ortasında planladıkları ilk mekik uçuşu için hazırlanan Discovery’nin dış yüzeyine buzlanmayı önleyecek bir ısıtıcı da yerleştirdiler. 
+     Mühendisler, hangarda Discovery’nin ET-120 tipi yakıt tankını ve iki yardımcı roketini sökerek yerine ET-121 tipi yeni yakıt tankı monte ettiler. 
+     Fırlatma rampasına konan Discovery uzay mekiğinin, Uluslararası Uzay İstasyonu’na UUİ götürülecek İtalyan modülü Raffaello yük bölümüne konduktan sonra 13 Temmuz’dan sonra 3 hafta içinde fırlatılması öngörülüyor. 
+     
+</TEXT>
+</DOC>

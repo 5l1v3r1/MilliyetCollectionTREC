@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 363408 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/22/son/soneko42.html </URL>
+<DATE> 2005/07/22/ </DATE>
+<TIME> 17.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft'un yeni işletim sisteminin resmi adı ''Windows Vista'' 
+</HEADLINE>
+<TEXT>
+
+     Microsoft'un, Longhorn kod adını taşıyan yeni işletim sisteminin resmi adı ''Windows Vista'' olarak belirlendi. 
+     Microsoft Türkiye'den yapılan açıklamada, yeni işletim sistemi Windows Vista'nın ilk beta sürümünün 3 Ağustos'ta kullanıcılarla buluşacağı bildirildi. 
+     Windows Vista'nın, kişiselleştirilebilen ayarları ile resimleri organize etme, bilgisayar üzerindeki dosyaları arama, elektronik ortam üzerinde birçok kişiyle iletişim kurma ve birlikte çalışma gibi değişik imkanları beraberinde getirdiği belirtilen açıklamada, yeni işletim sisteminin, içerdiği gelişmiş kullanım imkanlarıyla bilgi teknolojisi profesyonellerinden yazılım geliştiricilere, bilgi çalışanlarından ev kullanıcılarına kadar tüm bilgisayar kullanıcılarının gereksinimlerine cevap verdiği ifade edildi. 
+     
+</TEXT>
+</DOC>

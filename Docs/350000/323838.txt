@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 323838 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/14/son/sonyas24.html </URL>
+<DATE> 2005/03/14/ </DATE>
+<TIME> 15.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İstenmeyen cep mesajı ve e-maillere rekor ceza... 
+</HEADLINE>
+<TEXT>
+
+     Alman telefon şirketi Debitel, Danimarka'da istenmeyen SMS mesajları ve elektronik posta göndermekten 269 bin avroluk ''rekor'' para cezasına mahkum edildi. 
+     Kopenhag ticaret mahkemesi, Debitel'i, 2003 nisanında başka bir firmanın satın almak istediği rakip Telmore şirketinin abonelerine 36 bin e-posta ve yaklaşık 12 bin SMS mesajı göndermekten suçlu buldu. 
+     Davayı açan tüketiciler derneği yöneticilerinden Hagen Jörgensen, mahkeme kararını memnuniyetle karşıladıklarını belirterek, ''Bu karar, istenmeyen mesaj ve e-posta göndermenin ticaret yasasına aykırı olduğunu açıkça göstermiştir'' dedi. 
+     Jörgensen, mahkemelerde bazı ''spam'' davaları da bulunduğunu hatırlatarak, tüketicilerin şikayetlerini iletebilecekleri internet sitesi açtıklarını kaydetti. 
+     Dernek avukatlarından biri de, derneğe günde 1500 kadar şikayet geldiğini söyleyerek, ''Bu, sorunun devasa boyutlarını gösteriyor'' dedi. 
+     
+</TEXT>
+</DOC>

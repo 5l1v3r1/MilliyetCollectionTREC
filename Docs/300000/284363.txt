@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 284363 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/29/son/soneko04.html </URL>
+<DATE> 2004/10/29/ </DATE>
+<TIME> 11.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tokyo Borsası düşüşle kapandı... 
+</HEADLINE>
+<TEXT>
+
+     Tokyo Menkul Kıymetler Borsası düşüşle kapandı. 
+     Nikkei Endeksi, 81.70 puan yüzde 0.75 değer kaybederek, kapanışta 10,771.42 puana geriledi. 
+     Öte yandan ABD Doları, 0.10 yen değer kazanarak 106.16 yen düzeyine ulaştı. 
+     Çin Merkez Bankası'nın faiz oranlarını yükseltmesi, borsanın değer kaybetmesinde etkili oldu. 
+     
+</TEXT>
+</DOC>

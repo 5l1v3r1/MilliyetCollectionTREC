@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 168952 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/12/son/soneko01.html </URL>
+<DATE> 2003/07/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Wall Street yükseldi 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacmi bakımından dünyanın en büyük borsası konumundaki New York Wall Street Borsası'nın son seansında Dow Jones ve Nasdaq endeksleri yükseldi. 
+     ''Finans-ticaret-sanayi'' olarak ''eski ekonominin'' göstergesi Dow Jones'un sanayi endeksi 83.55 puan artarak 9,119.59 puana çıktı. En ileri teknoloji şirketlerinin ibresi Nasdaq da 18.04 puan kazanımla günün son seansını 1,733.90 puandan kapadı. 
+     Endekslerin yükselmesi, Jupiter Networks, General Electric gibi borsada ağırlığı olan holdinglerin karlarına ilişkin verilere bağlı oldu. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 354535 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/22/son/sonyas03.html </URL>
+<DATE> 2005/06/22/ </DATE>
+<TIME> 08.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kanser tedavisinde yeni bir umut... 
+</HEADLINE>
+<TEXT>
+
+     ABD’de yapılan bir araştırma, halk arasında yaygın olarak bulunan, ancak insanlara herhangi bir zararı olmayan bir virüsün vücuttaki kanserli hücreleri yok edebildiğini ortaya çıkardı. 
+     Çalışmayı yürüten araştırmacılar söz konusu virüsün yeni bir kanser tedavisi geliştirmek için kullanılabileceğini ifade ettiler. 
+     "Adeno-associated virus type 2" ya da AAV-2 olarak adlandırılan virüsün ABD genelindeki nüfusun yaklaşık yüzde 80’ini etkilediği belirtildi. Pennsylvania’da bulunan Penn State Tıp Fakültesi mikrobiyoloji ve immünoloji profesörlerinden Craig Meyers, "Bizim elde ettiğimiz sonuçlar, nüfusumuzun büyük çoğunluğunu etkilediği halde insanlara herhangi bir zararı bulunmayan AAV-2’nin, sağlıklı hücrelere dokunmadan pek çok türdeki kanserli hücreyi öldürdüğü yolundadır" dedi. 
+     AAV-2’nin kanserli hücreleri anormal olarak algıladığına ve yok ettiğine inandıklarını belirten Meyers, "Bu bilgi bize AAV-2’nin yeni bir kanser tedavisi geliştirmek için büyük bir potansiyel içerdiğini gösteriyor" şeklinde devam etti. 
+     Amerikan Viroloji Topluluğu toplantısında konuşan Meyers, çalışmalar sonucunda, kansere sebebiyet veren HPV virüsünü kapan kadınların AAV-2 de kapmaları durumunda AAV-2 kapmayan kadınlara kıyasla daha az rahim ağzı kanserine yakalandığını gördüklerini anlattı. 
+     Meyers ve arkadaşlarının yürüttükleri çalışmada, öncelikle bir grup insan hücresine HPV ve rahim ağzı kanserine sebebiyet veren başka bir virüs bulaştırıldığı, akabinde ise virüslü hücrelerle virüssüz hücrelerin AAV-2 ile temasının sağlandığı belirtildi. Olaydan altı gün sonra HPV kapmış bütün hücrelerin öldüğü ifade edildi. 
+     Aynı sonuçların göğüs, prostat ve bir cilt kanseri türü olan "squamous" hücreli kanserli hücrelerde de gerçekleştiği kaydedildi. 
+     AAV-2’nin başka bir virüsün yardımıyla kendisini çoğaltamadığı, ancak ikinci bir virüsün yardımıyla hücreleri öldürebildiği açıklandı. 
+     "AAV-2’nin sağlıklı hücreler üzerinde olumsuz hiçbir etkisinin olmaması çalışmanın en önemli sonuçlarından biri" diyen Meyers, mevcut pek çok kanser tedavisinin sağlıklı hücrelere de zarar verdiğini vurgulayarak sağlıklı ve kanserli hücreleri ayırt edebilecek bir tedavinin kanser hastaları için daha tahammül edilir bir tedavi olacağını kaydetti. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 355862 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/27/son/soneko26.html </URL>
+<DATE> 2005/06/27/ </DATE>
+<TIME> 12.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı 167 puanlık kayıpla geçti... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeksi, Cuma günkü kapanışa göre 167.82 puan azalarak seansı 26,865.58 puandan tamamladı. 
+     1. seansta, hisse senetlerinin ortalama değer kaybı yüzde 0.62 oldu. 
+     Cuma günü 27,033.40 puandan kapanan İMKB Ulusal 100 Endeksi, ilk seansa 3.66 puan kayıpla 27,029.74 puandan başladı. İlk yarıyı 26,887.98 puandan geçen endeks, seans içinde en düşük 26,796.32 puanı, en yüksek 27,033.40 puanı gördü. 
+     Seans sonunda mali endeks 374.92 puan azalarak 39,727.72 puana, hizmetler endeksi 96.12 puan azalarak 13,993.64 puana geriledi, sanayi endeksi ise 17.68 puan artarak 21,896.03 puana yükseldi. 
+     Böylece önceki kapanışa göre, mali grup hisseler ortalama yüzde 0.93, hizmetler grubu hisseler ortalama yüzde 0.68 değer kaybetti, sanayi grubu hisseler ortalama 0.08 oranında değer kazandı. 
+     1. seansta işlem gören toplam 298 hisse senedinden 91'i değer kazandı, 144'ü değer kaybetti, 63 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta, 268 milyon 777 bin 751 YTL'lik işlem hacmi oluştu. 
+     1. seansta, Koç Holding, Aselsan, Petkim, Bosch Fren Sistemleri ve Park Madencilik, en çok işlem gören hisse senetleri oldu. 
+     
+</TEXT>
+</DOC>

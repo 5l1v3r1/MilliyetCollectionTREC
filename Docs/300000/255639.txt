@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 255639 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/15/son/soneko21.html </URL>
+<DATE> 2004/07/15/ </DATE>
+<TIME> 12.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Şener 'e-imza' çok yakında 
+</HEADLINE>
+<TEXT>
+
+     Devlet Bakanı ve Başbakan Yardımcısı Abdüllatif Şener, ''çok yakında çıkmasını beklediğimiz bir başbakanlık genelgesiyle, elektronik imza konusundaki teknik ve idari yapılanma önemli ölçüde şekillenmiş olacaktır'' dedi. 
+     Devlet Planlama Teşkilatı DPT , Telekomünikasyon Kurumu, Türk Standartları Enstitüsü TSE ile Telekom Dünyası tarafından Etap Altınel Otel'de ''E-İmza ve E-Devlet'' konulu bir sempozyum düzenlendi. 
+     Sempozyumun açılışında konuşan Devlet Bakanı ve Başbakan Yardımcısı Abdüllatif Şener, Elektronik İmza Yasası'nın 23 Ocak 2004 tarihinde yayımlandığını hatırlatarak, yasanın yürürlüğe girmesine ise bir haftadan daha az bir süre kaldığını kaydetti. Söz konusu yasa ile yapılacak düzenlemelerin, kamu kurum ve kuruluşlarının kendi aralarında yapacakları iletişimin yanı sıra vatandaşlar ve iş alemi ile arasındaki iletişimin niteliğini, güvenilirliğini, etkinliğini ve hızını da büyük oranda olumlu etkileyeceğini belirten Şener, şunları kaydetti 
+     ''İcra kurulumuz 10 Haziran 2004 tarihinde yapılan 6. toplantısında, elektronik imzanın idari yapısını değerlendirmiştir. Alınan bir kurul kararı ile kamu kurum ve kuruluşlarının elektronik sertifika ihtiyaçlarının tek merkezden sağlanması öngörülmüştür. Çok yakında çıkmasını beklediğimiz bir Başbakanlık Genelgesi ile elektronik imza konusundaki teknik ve idari yapılanma önemli ölçüde şekillenmiş olacaktır.'' Kamu ve sivil toplum kuruluşlarının ortak çabasıyla hazırlanan Bilgi Toplumuna Dönüşüm Politikası'nın E-Dönüşüm Türkiye İcra Kurulu tarafından kabul edildiğini de hatırlatan Bakan Şener, söz konusu politika belgesinin Türkiye'nin bilgi toplumuna dönüşümü konusunda hükümet iradesinin beyanı olduğunu, burada yer alan politikaların kısa süre içinde hazırlanacak Bilgi Toplumuna Dönüşüm Stratejisine de esas teşkil edeceğini söyledi. 
+     
+     ''ÇALIŞMALAR SÜRÜYOR'' 
+     Özellikle elektronik devlet hizmetlerinin hayata geçirilmesine temel teşkil edecek çalışmaların da sürdürüldüğüne dikkati çeken Şener, vergi, vatandaşlık ve sosyal güvenlik numaralarının birleştirilmesi için ilgili kurumların ortak çalışmalar yaptığını söyledi. Kimlik belgelerinin paylaşılması konusunda büyük mesafe kat edildiğini belirten Şener, dış ticarette kullanılan elektronik belgelerin paylaşımında önemli ölçüde yol alındığını anlattı. Bakan Şener, eğitim ve sağlık alanlarında hazırlanan projelerin de bir bir hayata geçirildiğini vurguladı. 
+     Bilgi Edinme Kanunu, Elektronik İmza Kanunu gibi bilgi toplumunun yasal altyapısının oluşturulması için gerekli yasaların yürürlüğe girmekte olduğunu da belirten Şener, kişisel verilerin korunması ve telekomünikasyon alanlarında hazırlanmış olan yasa tasarılarının kısa zamanda yasallaşmasının da beklendiğini bildirdi. 
+     
+</TEXT>
+</DOC>

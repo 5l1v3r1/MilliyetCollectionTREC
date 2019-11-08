@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 241997 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/22/son/sontur04.html </URL>
+<DATE> 2004/05/22/ </DATE>
+<TIME> 09.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türk teknolojisine ''Atatürk'' imzası... 
+</HEADLINE>
+<TEXT>
+
+     Türkiye, teknolojide yeni bir başarıya daha imza atıyor. Türkiye, ilk kez TÜBİTAK'ın başardığı mikron teknolojisiyle mikroçip üretimiyle, bu alanda dünyanın sayılı ülkeleri arasına girdi. 
+     TÜBİTAK, ürettiği mikroçiplere, Türkiye'ye çağdaş medeniyetler düzeyine çıkma hedefini koyan Ulu Önder Atatürk'ün portresini ve imzasını Türk teknolojisini simgelemesi için mikroçiplere yerleştirdi. 
+     TÜBİTAK Ulusal Elektronik ve Kriptoloji Araştırma Enstitüsü UEKAE Müdürü Önder Yetiş, AA muhabirine yaptığı açıklamada, Enstitü'nün kriptoloji konusunda yaptığı çalışmalarda büyük bir teknolojik birikime ulaştığını kaydetti. 
+     Dünyanın önde gelen ülkelerinin başarısının ileri teknolojide ulaştıkları yetkinlikle ölçüldüğünü vurgulayan Yetiş, Enstitü'nün Türkiye'yi ileri teknoloji üreten bir ülke haline getirmek üzere bilgi güvenliği konusunda çalışmalar yaptığını vurguladı. 
+     Bu çerçevede UEKAE'de bilgi güvenliği sistemlerinde kullanılmak üzere Yarıiletken Teknolojileri Araştırma Laboratuvarı'nda mikroçip üretmeye başladıklarını belirten Yetiş, bunun için yurtdışından hiçbir teknoloji yapmadıklarını, tamamen özgün bir üretim teknolojisi olduğunu kaydetti. TÜBİTAK'ın bu konudaki başarısıyla artık Türkiye'nin de bu alanda söz sahibi bir ülke konumuna ulaştığını vurgulayan Yetiş, şunları söyledi 
+     ''Enstitüde ürettiğimiz mikroçipleri, geliştirdiğimiz bilgi güvenliği cihazlarında kullanıyoruz. Mikroçiplerin içindeki transistörlerin geçit kalınlıkları çok önemlidir. Mikroçip üretimindeki başarı bu kalınlıklar ve üretimdeki verimlilikle ölçülür. 
+     Eskiden iki noktayı birleştiren bu geçit kalınlıkları 10 mikron düzeyindeydi. Bugün 0.3 ve 0.15 mikrona kadar indirildi. Bunlar dünyada çok kullanılan şeyler değil ama teknoloji bunu gerektiriyor. Biz burada önce 3 mikronluk bir teknolojiyi geliştirdik ve şu anda 1,5 mikron teknolojisiyle çalışıyoruz. Yıl içinde 0.7 mikronu deneyeceğiz. Dünyada şu anda en çok kullanılan teknoloji 0.7 mikron teknolojisidir. Kimse farkında değil ama Türkiye artık dünyada çip yapan bilgi birikimine sahip ülkelerden birisidir. Mikroçip yapan ülkeler sayıldığında en fazla 15 ülke bu teknolojiye sahiptir. Biz de bu ülkelerden biriyiz. İhtiyacımız olan mikroçipleri yapabilecek teknolojik bilgimiz var. Bu muhteşem bir olay.'' 
+     
+     MİKRON TEKNOLOJİSİ 
+
+     TÜBİTAK UEKAE'de üretilen mikroçiplerin tamamen özgün bir teknoloji olduğunu vurgulayan Yetiş, mikroçiplere Türk teknolojisini simgelemesi için Türkiye'ye muasır medeniyet düzeyine ulaşma hedefini veren Atatürk'ün portresi ile ''K. Atatürk'' yazılı imzasını yerleştirdiklerini bildirdi. Atatürk'ün portresi ve imzasının mikroçipin içine 100X100 mikron ölçüsünde konulduğunu belirten Yetiş, TÜBİTAK UEKAE'nin bunu bir ''Rumuz'' olarak kullandığını ifade etti. Yetiş, mikroçipler üzerindeki Atatürk'ün portresi ve imzasının ancak mikroskobik aletler yardımıyla görülebildiğini belirtti. 
+     Öte yandan, TÜBİTAK UEKAE'nin ''CMOS Tümdevre Üretim Süreci Geliştirme Projesi'' çerçevesinde mikroçip üretimi Türk Elektronik Sanayiciler Derneği'nin ''Elektronikte Buluşçuluk Ödülü''nü kazandı. TÜBİTAK UEKAE, bu ödülle, Savunma Sanayii'nden özel sektöre, ulusal ve uluslararası çok sayıda merkezden aldığı ödüllerin arasına bir yenisini daha ekledi. 
+     
+</TEXT>
+</DOC>

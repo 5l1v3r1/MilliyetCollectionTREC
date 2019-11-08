@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 175570 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/14/ekonomi/aeko.html </URL>
+<DATE> 2003/08/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Telsim'e ilk haciz kararı 
+</HEADLINE>
+<TEXT>
+
+   Telekom, ABD'de 4 milyar dolar cezaya çarptırılan Telsim'den 1 trilyon liralık alacağını, 'borcunu ödeyemez hale gelmeden' kurtarmak için haciz kararı aldırttı 
+      TESLİME TOSUN Antalya 
+   
+   Antalya Telekom İl Müdürlüğü, Uzanlar'a ait Telsim'den 1 trilyon 39 milyar lira alacağı için 8 Ağustos'ta Antalya Ticaret Mahkemesi'nden jet hızıyla "ihtiyati haciz" kararı çıkarttı. Dilekçede, Telsim'in ABD'de süren yüksek meblağlı davaları hatırlatılarak Telsim ABD'de süren Motorola ve Nokia davasında 4.2 milyar dolar ceza almıştı "Alacakların tahsilinin imk nsız hale gelmesi söz konusudur" denildi. 
+   Telekom İl Müdürlüğü, mahkemeden GSM - PAN AVRUPA mobil telefon sistemi kurulması, işletmesi ve lisans verilmesine ilişkin imtiyaz sözleşmesi ve şebekeler arası irtibat ve işbirliği sözleşmesi kapsamında, "Kira, yer, enerji, minilink ve klima" hizmetleri karşılığındaki Telsim'den alacaklarının tahsil edilmesini talep etti. 
+   Beş gün önce alınan haciz kararı aynı hızla 7'nci İcra Müdürlüğü'ne gönderilerek, Telsim'in mallarına el konulma aşamasına gelindi. 7'nci İcra Müdürlüğü Sermaye Piyasası Kurulu'na şu yazıyı gönderdi "Telsim'in taşınır, taşınmaz malları, üçüncü kişilerdeki hak ve alacakları, bankalardaki mevduatları, menkul kıymetleri, her türlü maddi ve gayri maddi hakları, iştirakçilerden hisseleri, bankalardaki teminatları, borsada işlem görmek üzere Takasbank'taki paraları, Telekomünikasyon Kurumu nezdindeki lisans hakkı, PTT ve diğer yerlerdeki her türlü teçhizatı, şirket nezdindeki doğmuş ve doğacak alacakları üzerine ihtiyati haciz kararı konulmuştur." 
+   
+   Fatura bedeline de el konuluyor 
+   Telsim GSM operatöründen telefon hattı kullananların fatura bedellerine de el konulacağı belirtildi. 7'nci İcra Müdürlüğü, BDDK'ya da aynı yazıyı gönderip, icra işlemiyle ilgili bilgi verdi ayrıca tüm banka genel müdürlüklerine "acil" başlıklı haciz kararlarını göndererek, Telsim'e ait tüm hesaplardaki paralara haciz konulmasını talep etti. Kararın uygulanması için Telsim'in İkitelli'deki merkezindeki büro malzemeleri ve teçhizatlara haciz işlemi yapılması için İstanbul İcra Müdürlüğü'ne de bir icra kararı örneği gönderildi. 
+   Telsim avukatı ise haciz kararına itiraz dilekçesi vererek, faturaya dayalı alacaklarda haciz konulamayacağını belirtti. 
+   
+   Nokia Uzanlarla görüşme olmadı    EVRİM ERGİN 
+   Nokia sözcüsü Lauri Kivinen, Telsim CEO'su Hakan Uzan'ın Reuters'a yaptığı, "Nokia ile birkaç görüşmemiz oldu" diyerek, İsviçre'de 675 milyon dolarlık borcun geri ödemesi için tahkim görüşmeleri yaptıkları yönündeki açıklamasını doğrulamadı. 
+   Kivinen, "Bence burada iki önemli ayrım noktası var. Her şeyden önce şu anda ABN Amro Bankası ile Telsim arasında İsviçre'de yasal bir süreç işlemeye devam ediyor. Bu sürecin adı da tahkim. Bu banka da Nokia'nın kreditör bankası. Ancak bu sürece Nokia dahil değildir. Dolayısıyla bu görüşmeler nedeniyle Telsim ve Nokia arasında görüşme olduğunu ileri sürmek doğru değildir. Tahkim sadece ABN Amro ve Telsim arasında yürümektedir. Diğer bir süreç ise 18 aydan bu yana ABD'nin New York kentinde işlemektedir. Bu da bir ceza davasıdır. Yargıç da iki hafta önce bizim lehimize bir karar vermiştir. Bu iki ayrı süreç nedeniyle Telsim ile Nokia arasında bir görüşme olduğunu iddia etmek doğru değildir." 
+   Telsim'in borcuna karşılık olarak Nokia'ya hisselerini devrettiği yönündeki iddiaların doğru olmadığını belirten Kivinen, "Aramızda bir görüşme olmadı. Bundan sonra da böyle bir planımız yok" dedi. Kivinen, gelecekte Telsim'le bir araya gelerek bir görüşme yapmayı planlayıp planlamadıkları ile ilgili olarak da "Ne yazık ki böyle birşey planlamıyoruz" diye konuştu. 
+   
+   
+</TEXT>
+</DOC>

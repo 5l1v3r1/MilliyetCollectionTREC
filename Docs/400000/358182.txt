@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO> 358182 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/05/ekonomi/eko01.html </URL>
+<DATE> 2005/07/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dinleme tespit edilirse lisans iptal edilir 
+</HEADLINE>
+<TEXT>
+
+
+Türk Telekom'u alan yabancı şirket, 'güvenlik amaçlı dinlemeler'i sağlamak zorunda olacak. Ayrıca devlet, 'yabancıların dinlemesi' riskine karşı da Türk Telekom'u kontrol edebilecek sistemlere sahip 
+
+Şükrü Andaç 
+
+Türk Telekom'un yüzde 55'inin satışı için yapılan ihalenin ardından, şimdiye kadar, kurum aracılığı ile yapılan güvenlik amaçlı dinlemelerin, bundan sonra nasıl yapılacağı tartışması gündeme geldi. Tartışmanın bir boyutu da Türk Telekom'a 'yabancı' bir şirketin veya grubun sahip olması halinde, ulusal çıkarlara aykırı, başka ülkeler veya istihbarat kaynakları hesabına 'Türkiye'nin dinlenme riski'nin bulunup bulunmadığı şeklinde. Ancak telekom uzmanları, dinlemeler konusunda alıcı şirketin, 'devletin koyduğu kurallara tabi olduğu'na dikkat çekiyor. 
+Üst düzey bir bürokrattan alınan bilgilere göre, yüzde 55 hisse ile Türk Telekom'un kontrolü yabancı sermayeye geçse bile, güvenlik ve istihbarat açısından herhangi bir sorun yaşanmayacak. Konuyla ilgili kurumlar, bundan sonra da işlerini aynı şartlarda sürdürecek zemine sahip olacaklar. Ayrıca devlet, Türk Telekom kullanılarak, kendi isteği dışındaki izlemeleri de kontrol edebilecek. 
+
+'İşleyişte sorun olmaz' 
+Telefon dinlenmesi olayının 'ulusal güvenlik' konusu olduğunu söyleyen bürokrat, ilgili kurumlardan izin alınması şartıyla telekom ve GSM operatörlerinden dinleme yapılabildiğine dikkat çekerek, gelecekte de işleyişin bu şekilde yürütüleceğini belirtti. Üst düzey bürokratın, 'Telekom'un yeni sahibinin yabancı olmasının sorun yaratıp yaratmayacağı' konusundaki sorumuza yanıtı ise şöyle 
+"Türk Telekom'a talip firmalar, istihbarat ve güvenlik konusunda öncesinden bilgi sahibiler. İşleyişin ne yönde olduğundan haberdarlar. Aksi taktide devletin kurumları bu konularda çok çabuk hareket eder. Devletin ilgili birimleri kendisi dışında yasadışı dinleme yapıldığını tespit ederse ki bunun için gerekli sistemler mevcut, kendine tehdit olarak görüp, şirkete el koyar. Bu sadece Türkiye'ye özel değil dünyanın tüm ülkeleri için de geçerli bir kuraldır. Bunu telekom sektöründe faaliyet gösteren her firma bilir." 
+
+Aria da yabancıydı 
+Aynı bürokrat geçmişte, GSM operatörü Aria'nın da İtalyan bir şirketin kontrolünde olduğu örneğinden yola çıkarak, o tarihte bir sorun çıkmadığını, çünkü yabancı bir ülkede bu alanda yatırım yapan firmaların lisansın iptali riskine giremeyeceğini hatırlatıyor. 
+
+Santral üzerinden dinleniyor... Dinlenmede sabit hat ve cep telefonu sistemleri için farklı yöntemler kullanılıyor. Bunun nedeni ise, sabit hat görüşmelerinin kablo üzerinden yapılmasına karşılık, cep telefonu görüşmelerinin havada, sesin şifrelenip paketlenerek, yani kablosuz olarak baz istasyonları aracılığıyla gerçekleştiriliyor olması... Dolayısıyla ikisi için de farklı ekipmanlar kullanmak gerekiyor. 
+Türkiye'de şu an itibariyle görüşmelerin yapıldığı tüm sabit telefon altyapısı Türk Telekom'a ait. Telekom'un 19 milyon aboneye kullandırdığı sabit telefon hatlarında dinleme 'paralel hat'ta benzer bir yöntemle yapılıyor. 
+Telekom'un kullandığı santraller analog ve sayısal teknolojili dijital santral olmak üzere iki farklı tipte. Son dönemde yatırımları ile Türk Telekom'daki santrallerin yüzde 94'ü dijital hale gelmiş durumda. Analog santrallerde boş 'slot'lar kablo yuvası bulunuyor ve oraya bir telefon kablosu ile kulaklık takıldığında ilgili abonenin görüşmeleri rahatlıkla dinlenebiliyor. 
+Dijital santrallerde ise santralin kendisi elektronik cihaz olsa da, görüşme kablo üzerinden gerçekleştiği için aynı yöntem kullanılıyor. Tüm bu dinleme işlemi merkezdeki ana santralden yapılıyorsa, santralden kanal ayarlarını yapıp, bölge seçiliyor ardından da abonenin numarası belirlenip dinleme başlatılıyor. 
+
+
+
+
+</TEXT>
+</DOC>

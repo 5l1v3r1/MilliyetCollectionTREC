@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 401022 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/06/son/soneko32.html </URL>
+<DATE> 2005/12/06/ </DATE>
+<TIME> 14.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Serbest piyasada dolar 1.3570 YTL 
+</HEADLINE>
+<TEXT>
+
+     İstanbul ve Ankara'da dolar, avro ve sterlinin alış-satış fiyatları, saat 14.00 itibariyle YTL olarak şöyle 
+     
+     
+İSTANBUL SERBEST PİYASA ALIŞ SATIŞ ABD Doları 1.3540 1.3570 Avro 1.5930 1.5970 İngiliz Sterlini 2.3420 2.3650 
+     
+     
+ANKARA SERBEST PİYASA ALIŞ SATIŞ ABD Doları 1.3510 1.3610 Avro 1.5900 1.6020 İngiliz Sterlini 2.3320 2.3650 
+     
+</TEXT>
+</DOC>

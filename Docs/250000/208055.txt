@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 208055 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/12/son/sondun06.html </URL>
+<DATE> 2004/01/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Windows 98'den vazgeçemeyenler için bedava yardım CD'si... 
+</HEADLINE>
+<TEXT>
+
+     Microsoft firmasının, ''canlı'' teknik yardım sağlamayı durdurduğu Windows-98 kullanıcıları için 15 Ocak'tan itibaren ücretsiz teknik yardım CD'si dağıtmaya başlayacağı bildirildi. 
+     Microsoft, Windows-98 kullanıcılarına teknik yardım vermeyi 15 Ocak tarihinde durduracağını daha önce açıklamıştı. 
+     Ücretsiz CD'den almak isteyenlerin Microsoft'un açacağı siteye girerek kayıt yaptırmaları gerekiyor. 
+     Bundan tam 6 yıl önce piyasaya çıkan Windows-98 hala internete girenlerin dörtte biri tarafından kullanılıyor. 
+     Microsoft'un internette açacağı Windows-98 sitesinde işletim programıyla ilgili bilgi ve ipuçları ile teknik bilgi dosyaları da yer alacak. Sitenin ''Future Publishing'' adlı kuruluşla birlikte hazırlanacağı ifade edildi. 
+     Bu sitedeki bilgilerin yeterli olmaması halinde kullanıcılar ücretsiz Windows-98 teknik yardım CD'sinden talep edebilecekler. Microsoft, ilerde Windows-98 ile ilgili herhangi bir güvenlik açığı ortaya çıktığı takdirde bunun da yama yoluyla kapatılacağını duyurdu. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 322323 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/09/son/sonyas07.html </URL>
+<DATE> 2005/03/09/ </DATE>
+<TIME> 10.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dikkat cep mesajı değişir 
+</HEADLINE>
+<TEXT>
+
+     Nesrin COŞKUN DHA 
+
+      CEP telefonuyla gönderilen tehdit, hakaret, taciz içerikli mesajlar dava konusu olabilirken, bu mesajların değiştirilemez' olduğu inancı da artık yıkıldı. Bilgisayar uzmanı Yasin Uzunoğlu, bilgisayar aracılığıyla cep telefonundaki mesajın içeriğini, geldiği tarih ve saatlerini değiştirecek program geliştirdi. Bu durum, iyi niyetle gönderilen bir mesajın içeriğinin değiştirilerek, gönderene karşı kullanılması tehlikesi bulunduğunu da ortaya çıkardı. 
+     Savcılıklar tehdit, hakaret ya da taciz içerikli mesajları şikayet konusu olması halinde dikkate alıp dava konusu yaparken, teknik olarak gönderilen telefon operatörünün kayıtlarından mesajın içeriğine ulaşılamıyor, sadece mesajın gönderildiği gün, ay, yıl ve saat çıkarılabiliyor. Kimden kime ne zaman mesaj gönderildiği belirlenip karşılaştırılabiliyor. 
+     Ancak Celal Bayar Üniversitesi Kırkağaç Bilgisayar Programcılığı Meslek Yüksekokul mezunu 24 yaşındaki Yasin Uzunoğlu, kızılötesi özelliği olan telefonlarda, gelen cep mesajlarını içerik, tarih ve saat olarak değiştirebilen program hazırladı. Yasin Uzunoğlu, bir programı kullanarak DHA muhabirlerine dana önce kaydedilmiş bir mesajı nasıl değiştirdiğini uygulamalı olarak gösterdi. Kişisel merakını tatmin için bu işe soyunduğunu anlatan Uzunoğlu, şöyle konuştu 
+     "Öncelikle mesaj gönderilen telefonun kızıl ötesi özellikle olması gerekiyor ki, son teknolojide cep telefonları bu özellikli. Bilgisayar aracılığıyla cep telefonunun mesaj kutusuna girip mesaj metnini istediğim gibi değiştiriyorum. Bakıldığında mesaj yine aynı telefondan gelmiş görünüyor. Ancak içerik değişmiş oluyor. İstenildiği taktirde mesajın gönderildiği zamanı tarih ve saat olarak da değiştirebiliyorum.'' 
+     
+     CEZA ALANLAR OLDU 
+     2002 yılında 4 ünlü, cep mesajlarıyla magazin dünyasının gündemine oturmuştu. Manken Buket Saygı, Derman Bey dizisindeki rol arkadaşı Kadir İnanır'ın cep telefonu mesajlarıyla kendisini taciz ettiğini öne sürmüştü. İnanır bu mesajları motivasyon' amaçlı gönderdiğini savunmasına karşın, Sarıyer 1'inci Sulh Ceza Mahkemesi'nde hakim önüne çıkmaktan kurtulamamıştı. Kadir İnanır bu davada hakaretten beraat ederken, sarkıntılıktan 5 ay hapis cezasına çarptırıldı, Yargıtay da cezayı onadı. İnanır'ın cezası 456 milyon 300 bin lira para cezasına çevrilerek ertelendi. 
+     Cep mesajıyla magazin dünyasına bomba gibi düşen diğer ünlüler ise manken Çağla Şıkel ile o dönemde taçlı güzellerden manken Yüksel Ak'la evli olan Şenol İpek oldu. Çağla Şıkel'in, Şenol İpek'in cep telefonuna gönderdiği iddia edilen "Tostumu yedim. Odamda bekliyorum' mesajı günlerce gündemde kalırken, Ak'ın İpek'i terk edip boşanmasında en önemli faktör olarak gösterildi. Mesajlar günlerce konuşulurken, içeriğinin, tarih ve saatinin değiştirilip değiştirilemeyeceği de tartışılmış, mümkün olmadığı iddia edilmişti. 
+     
+     HUKUKÇU NE DİYOR 
+     Hukukçular, cep telefonu mesajlarının değiştirilmesinin de suç oluşturudğuna dikkati çekti. 
+     Avukat Demet Özel, şikayet sözkonusu olacaksa mesajın öncelikle telefon sahibi tarafından saklanması gerektiğini söyledi. Şikayet süresinin 6 ay olduğunu, ancak karşı taraf telefon kayıtlarının 3 ayda silindiğini belirten Özel, "Telefon mesajı tek başına suç delili kabul edilmiyor. Yani hakaret, şantaj ya da tehdit içeren bir telefon mesajıyla Cumhuriyet Savcılığı'na başvurulduğunda bu tek başına dava açılmasına yeten bir delil değil. Bu telefon mesajının başka delillerle desteklenmesi gerekiyor. Yani kişi telefon mesajıyla tehdit edildiğini gösterse, söylese de bu kişiler arasındaki ilişkiler, tanık beyanları gibi destekleyici delillere gereksinim var'' dedi. 
+     Avukat Özel, savcılığın delil toplamada telefon operatöründen şikayet edilen telefon mesajına ilişkin bilgi istediğini belirterek şöyle konuştu 
+     "Ancak kayıtlar istendiğinde mesaj metni çıkmıyor. İçerik kayıtlarda gözükmüyor. Sadece kimden kime hangi tarihte hangi saatte mesaj gönderildiği çıkıyor. O nedenle kişinin mesajı saklaması gerekiyor. Ancak sakladığı zaman bunu delil olarak öne sürebilir. Bugüne kadar cep mesaj içeriğinin değiştirilebildiğini hiç duymadım. Değiştirilmesinin de teknik olarak olanaklı olup olmadığını bilmiyorum. Ama benim düşüncem eğer böyle bir şeyi değiştirmek olanaklıysa bunu tesbit etmek de olanaklı olmalıdır. Böyle bir içerik değiştirme olayı, bilirkişi incelemesiyle ortaya çıkabilir. Yapan tespit edilirse ceza kanunu anlamında bilişim suçunu oluşturur. Ve bu sefer mağdur olduğunu iddia eden kişi de o suçladığı kişiye karşı iftira suçunu işlemiş olur.'' 
+     
+</TEXT>
+</DOC>

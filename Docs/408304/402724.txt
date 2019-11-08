@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 402724 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/12/son/soneko25.html </URL>
+<DATE> 2005/12/12/ </DATE>
+<TIME> 11.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bankalar Birliği, internet dolandırıcılığı konusunda uyardı... 
+</HEADLINE>
+<TEXT>
+
+     Türkiye Bankalar Birliği, internet dolandırıcılığına karşı şube adı ve hesap numarası gibi hesap bilgilerinin internet üzerinden tanışılan kişilere verilmemesi gerektiğini bildirdi. 
+     TBB'den, internet dolandırıcılığıyla elde edilen paraların yurtdışına transferinde banka müşterilerinin aracı olarak kullanılmasına ilişkin yapılan açıklamada, son dönemde internet üzerinden sohbet, elektronik posta veya dolandırıcılık amacıyla kurulan bazı siteler aracılığıyla banka müşterilerine ulaşıldığına dikkat çekildi. 
+     Açıklamada, çeşitli gerekçeler sunularak müşterilerin şube adı, hesap numarası gibi banka hesap bilgilerinin talep edildiği ve yurtdışındaki hesaplara para transferinde aracılık teklifi yapıldığının tespit edildiği bildirildi. 
+     Bu yöntemlerle elde edilen müşteri hesaplarına, internet üzerinden yapılan dolandırıcılık eylemleriyle başka hesaplardan para transferi gerçekleştirildiği, daha sonra müşterilerden hesaplarına gelen paraları belirtilen hesaplara veya kişilere transfer etmelerinin talep edildiği kaydedildi. 
+     
+     ''HİÇBİR İŞLEM YAPILMADAN BANKAYA HABER VERİLMELİ'' 
+     Açıklamada, bu durumda banka müşterilerinin farkında olmadan dolandırıcılık eylemine iştirak ettikleri vurgulanarak, bu tür dolandırıcılık eylemlerinin önlenmesi ve dolandırıcılığa ortak olunmaması açısından dikkat edilmesi gereken hususlar şöyle belirtildi 
+     ''Şube adı ve hesap numarası gibi hesap bilgileri internet üzerinden tanışılan kişilere verilmemelidir. Tanınmayan kişiler tarafından hesaba para yatırılması durumunda, söz konusu para ile ilgili hiçbir işlem yapmadan hemen bankaya haber verilmelidir. Yurtdışına veya başka bir hesaba para transferi yapılması için belirli bir komisyon, para karşılığı veya çeşitli gerekçelerle yapılan aracılık isteklerinin dolandırıcılık amaçlı olması ihtimali bulunmaktadır. Böyle bir olayla karşılaşıldığında işlem yapılmadan önce bankaya haber verilmelidir.'' 
+     
+</TEXT>
+</DOC>

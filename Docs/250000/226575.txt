@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 226575 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/29/son/soneko18.html </URL>
+<DATE> 2004/03/29/ </DATE>
+<TIME> 12.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Aycell ve Aria, tam entegrasyon çalışmalarına başlıyor... 
+</HEADLINE>
+<TEXT>
+
+     Aycell ve Aria, tam entegrasyon çalışmalarına başlıyor. 
+     TT TIM bir açıklama yaparak, mevcut iki şebekenin, tek ve kapsamlı bir GSM 1800 şebekesinde entegrasyonuna başlayacağını duyurdu. 
+     TT TIM çatısı altında güçlerini birleştiren Aria ve Aycell, önceliği teknik altyapı çalışmalarına verdi ve ilk olarak şebekeler arası serbest dolaşımı sağladı. 
+     Şebekeler arası serbest dolaşım sayesinde, Aycell müşterileri Aria şebekesini, Aria müşterileri de aynı şekilde, Aycell şebekesini otomatik olarak ve ilave ücret ödemeden kullanma imkanına sahip oldu. 
+     Böylece Aycell aboneleri, Aycell hizmetlerini mevcut Aria şebekesi üzerinden ve Aria aboneleri de, Aria hizmetlerini mevcut Aycell şebekesi üzerinden alabiliyorlar. 
+     
+     YENİDEN KONUMLANDIRMA İZMİR'DE BAŞLIYOR 
+     İki şebekenin bütünüyle tek bir şebekede entegrasyonu sürecinin ikinci aşamasında ise optimizasyon sürecine geçildi. İzmir, aynı bölge içinde yer alan baz istasyonlarının farklı yerlerde yeniden konumlandırılması yoluyla entegrasyonun tam anlamıyla gerçekleştirileceği ilk bölge olarak belirlendi. 
+     Sonuç olarak, şirketin toplam kapsama alanı tek bir şebeke altında artacak. 
+     İzmir'in ardından entegrasyon ve yeniden konumlandırma çalışmaları, tüm Türkiye çapında bölge bölge süratle tamamlanacak. 
+     Müşteri memnuniyetine büyük önem veren TT TIM'in, İzmir bölgesindeki tüm bayileri bu süreç hakkında bilgilendirdiği ve bölgedeki tüm abonelere SMS gönderdiği belirtildi. 
+     Aria ve Aycell aboneleri, 444 1 505 Aycell Müşteri Hizmetleri ve 444 1 555 AriaMerkez Çağrı Merkezi'nden bilgi alabilecekler. 
+     
+</TEXT>
+</DOC>

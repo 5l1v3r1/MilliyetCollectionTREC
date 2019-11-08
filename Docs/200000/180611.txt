@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 180611 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/05/son/sontur60.html </URL>
+<DATE> 2003/09/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Akbil ile telefon görüşmesi veya internet... 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekom ile İstanbul Büyükşehir Belediyesi Belbim A.Ş tarafından geliştirilen ve toplu taşıma araçlarında kullanılan ''akıllı bilet''le Akbil ankesörlü telefonlar üzerinden görüşme veya dizüstü bilgisayardan internete bağlanma imkanı sağlayan proje, CeBIT Eurasia Bilişim Fuarı'nda tanıtılıyor. 
+     TÜYAP Beylikdüzü Fuar ve Kongre Merkezi'ndeki Bilişim Fuarı'ndaki Türk Telekom standında, ''Akıllı Ankesörlü Telefon Projesi'' ziyaretçilere tanıtılarak, kullanımla ilgili değerlendirmeleri alınıyor. 
+     Proje hakkında bilgi veren stand görevlileri, Türk Telekom 1. Bölge Müdürlüğü ve Belbim işbirliğiyle geliştirilen projeyle ankesörlü telefonlara eklenen bölüme, toplu taşıma araçlarında kullanılan akbilin takılmasıyla, kredi veya telefon kartına gerek kalmadan görüşme yapılabildiğini ve ankesöre bağlı kablonun dizüstü bilgisayara takılmasıyla sınırsız internet erişiminin gerçekleştirilebildiğini kaydettiler. 
+     Bu sistemle sahte kart kullanımının da önüne geçilebileceği belirtilirken, akbilli ankesörlerin ileriki günlerde otobüs durakları, vapur iskeleleri ile metro, tramvay ve tren istasyonları öncelikli olmak üzere kentin genelinde kullanıma sunulacağı bildirildi. 
+     Bu arada, Bilişim Fuarı'nı gezen ziyaretçiler, fuar alanındaki şirketlerin standlarında, iletişim ve ağ, bilgi, GSM, PC, elektronik ev araçları, eğlence, oyun ve multimedya programlarına ilişkin son teknolojik gelişmeleri ayrıntılı şekilde öğrenebiliyor ve bazı standlarda verilen eğitim seminerlerine katılabiliyorlar. 
+     Fuar binasındaki salonlarda düzenlenen çeşitli panel ve forumların yanı sıra, fuar alanında ziyaretçilerin de katılımıyla eğlence ve yarışma programları da gerçekleştiriliyor. 
+     
+</TEXT>
+</DOC>

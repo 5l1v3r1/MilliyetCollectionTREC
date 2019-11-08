@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 244663 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/02/son/sondun04.html </URL>
+<DATE> 2004/06/02/ </DATE>
+<TIME> 09.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD'nin tartışmalı güvenlik ihalesini Accenture firması kazandı... 
+</HEADLINE>
+<TEXT>
+
+     ABD İç Güvenlik Departmanı'nın ülkeyi ziyaret eden yabancıların her türlü hareketini, henüz ABD'ye ulaşmadan önce başlayarak, daha yakından izlemek üzere bir veri tabanları şebekesi kurmak amacıyla açtığı ihaleyi, 10 milyar dolarla Accenture LLP şirketi kazandı. 
+     ABD İç Güvenlik Departmanı, beş yıllığına ihaleyi Accenture'a verirken, Lockheed Martin ve Computer Sciences şirketleri ihaleyi kaybetti. 
+     Accenture şirketi tarafından kurulacak sistemin Ocak ayında 115 havaalanı ve 14 limanda işler hale gelmesi hedefleniyor. Yıl sonuna doğru ABD İç Güvenlik Departmanı'nın ülkenin kara sınırları üzerindeki geçiş noktalarında da benzer sistemler kurmayı hedeflediği kaydediliyor. 
+     US-VISIT ABD-ZİYARET olarak bilinen sistem dahilinde havaalanlarından ya da limanlardan giriş yapacak yabancıların parmak izleri alınacak, fotoğrafları çekilecek ve gözbebekleri taranacak. 
+     Daha önce yapılan bir açıklamada, kurulacak sistem çerçevesinde uygulamanın, İngiltere, Japonya ve Avustralya gibi ABD'nin en yakın müttefiki olan ülkelerin vatandaşlarına da tatbik edileceği kaydedilmişti. 
+     New York Times gazetesinde çıkan bir habere göre, 11 Eylül 2001 terör saldırılarından sonra Pentagon tarafından geliştirilen bir konsepte göre şekillenen US-Visit projesinin, ABD'nin sınır kapılarında bir bilgisayar veri tabanı sistemi kurmayı ve ABD'yi ziyaret için vize başvurusunda bulunanların yurtdışındaki merkezlerde kimlik tespitlerini yapacak biyometrik sensörleri kapsadığı kaydedilmişti. 
+     Kredi kartı kullanımı ya da benzer veri tabanlarından da istifade edecek sistemin insanların özel yaşamlarına müdahale etme riskine dikkat çekilirken, sistemin her yıl ABD'yi ziyaret eden 300 milyondan fazla insan hakkında veri toplayan 20'ye yakın federal veri tabanıyla da bağlantılı çalışacağı kaydedilmişti. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> 332970 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/13/son/sonsiy15.html </URL>
+<DATE> 2005/04/13/ </DATE>
+<TIME> 11.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Cep telefonlarına yeni düzenleme geliyor... 
+</HEADLINE>
+<TEXT>
+
+     Cep telefonlarının ticaretinin kontrol altına alınması ve bu cihazların hırsızlık sonrası kullanımının engellenmesi amacıyla hazırlanan kanun teklifi, TBMM Başkanlığı'na sunuldu. 
+     AK Parti Muğla Milletvekili Orhan Seyfi Terzibaşıoğlu ve arkadaşları tarafından imzalanan Telsiz Kanunu'nda Değişiklik Yapılması Hakkında Kanun Teklifiyle, GSM Küresel Mobil Haberleşme Sistemi telefon cihazları ile daha sonra kullanılabilecek mobil haberleşme cihazlarının ticareti kontrol altına alınması hedefleniyor. 
+     Teklifle, tüketici ve abonelerin dolandırılmasının önüne geçilecek, mobil telefonlarla ilgili organize suçlar kontrol altına alınabilecek ve gümrük kaçağı, kapkaç, hırsızlık ve gasp nedeniyle oluşan suçlarla birlikte kayıtdışılığın da önüne geçilmiş olunacak. 
+     
+     ELEKTRONİK KİMLİK BİLGİLERİ... 
+     Telekomünikasyon Kurumu tarafından izin verilmedikçe işletmecilerce tedarik edilen abone kimlik ve iletişim bilgilerini taşıyan özel bilgiler veya cihazın teşhisine yarayan elektronik kimlik bilgileri, yeniden oluşturulup, değiştirilemeyecek ve kopyalanamayacak. 
+     Elektronik kimlik bilgisi değiştirilmiş cihaz, kart, araç veya gereçlerle değişiklik yapılması amacına yönelik yazılım, her türlü araç veya gereçlerin ithalatı, üretimi, dağıtımı veya tanıtımının yapılması, bulundurulması ve aracılık edilmesi yasaklanacak. 
+     
+     BİLGİLERİN GÜVENLİĞİ... 
+     Abone kimlik ve iletişim bilgilerini taşıyan özel bilgilerle cihazların elektronik kimlik bilgilerini taşıyan her türlü yazılım, kart, araç veya gereçler, yetkisiz ve izinsiz kopyalanamayacak. 
+     İşletmeci veya adına iş yapan temsilcisine abonelik kaydı sırasında abonelik bilgileri konusunda gerçek dışı belge ve bilgi veremeyecek. 
+     Abonelik tesisi için gerekli kimlik bilgileri kontrol edilmeden işletmeci veya adına iş yapan temsilcisi tarafından abonelik kaydı yapılamayacak. 
+     
+     BİLGİ VE İHBAR MERKEZİ... 
+     Teklife göre, elektronik kimlik bilgisine haiz cihazlar için Telekomünikasyon Kurumu tarafından, bilgi ve ihbar merkezi kurması veya kurdurulması öngörülüyor. 
+     Kurum sistemine kayıtlı elektronik kimlik bilgisine haiz cihazı çalınan, yağmalanan, kaybeden veya her ne suretle olursa olsun rızası dışında elinden çıkan kişiler, öncelikle cihazının elektronik haberleşme bağlantısının kesilmesi için kurumun bilgi ve ihbar merkezine başvuracak. 
+     
+     HAPİS CEZASI GELİYOR 
+     Kanun teklifiyle, abone ve cihaz kimlik bilgilerinin güvenliğine aykırı hareket edenlere bir yıldan 3 yıla kadar hapis cezası öngörülüyor. 
+     Kimlik bilgisi değiştirilmiş, kaçak, kayıp veya çalıntı cihazlara elektronik haberleşme hizmeti veren işletmecilere 20 bin YTL 20 milyar Türk Lirası , yasal olmayan cihazların haberleşme şebekelerine bağlanılmalarını önlemek üzere kurulacak sisteme uyumlu hale getirerek güvenilirliğini sağlamayan işletmecilere 10 milyon YTL 10 trilyon Türk Lirası para cezası verilebilecek. 
+     
+     CİHAZLAR YENİDEN PROGRAMLANACAK 
+     Teklifin gerekçesinde, Telekomünikasyon Kurumu tarafından tutulan kayıtlara göre, yasal olarak piyasaya sürülmüş GSM telefon cihazlarının kayıtları ile 3 GSM işletmecisinin abonelerinin kullandığı cihazların IMEI Elektronik Kimlik Numarası numaralarının karşılaştırılması sonucu yaklaşık 12 milyon aboneye ait cihazın kayıtdışı olduğu, bunlardan 500 bin kadarının da IMEI numaralarının değiştirilmiş olduğunun tespit edildiği bildirildi. 
+     Bu nedeniyle teklife eklenen geçici maddeyle IMEI numaraları değiştirilmiş cihazların yeniden programlanarak, kullanıma sokulması öngörülüyor. Programlama yapılabilmesi için 45 gün içerisinde altyapı tesisi oluşturulacak. 
+     
+</TEXT>
+</DOC>

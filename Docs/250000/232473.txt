@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 232473 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/18/yasam/yas09.html </URL>
+<DATE> 2004/04/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+'Uzay Yolu'vari iletişim cihazı 
+</HEADLINE>
+<TEXT>
+
+      DIŞ HABERLER SERVİSİ 
+   
+   ABD'li bir firma, 'Uzay Yolu' dizisi karakterlerinin göğüslerine taktığı ve bir kişinin ismi söylendiğinde onunla bağlantı kuran kablosuz iletişim aracını üretmeyi başardı. Vocera tarafından üretilen ve yakaya takılan alet, düğmesine basılıp görüşmek istenen kişinin adı söylendiğinde bağlantı kuruluyor. Sesli olarak söylenen isimleri kodlayarak tanıyan sistem, görüşülmek istenen kişinin sisteme kayıtlı olup olmadığını araştırdıktan sonra ortak ağ sayesinde iki kişi arasında bağlantı kuruyor. 
+   
+   
+</TEXT>
+</DOC>

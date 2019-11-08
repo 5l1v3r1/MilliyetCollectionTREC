@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 206430 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/04/son/sontur28.html </URL>
+<DATE> 2004/01/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yurtdışı internet çıkışlarında sorun yaşanıyor... 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekom, denizaltı fiberoptik kabloların bu sabah kopmasından kaynaklanan yurtdışı internet çıkışlarında yaşanan sorun nedeniyle, hizmeti alternatif yollardan verecek. 
+     Türk Telekom Genel Müdürlüğü'nden yapılan açıklamaya göre, saat 08.20'den itibaren Türk Telekom'a ait sea-me-we3 denizaltı fiberoptik kablolarda meydana gelen kopmadan dolayı, Türkiye'nin yurtdışı internet bağlantılarında aksamalar yaşanıyor. 
+     Problemin kaynağının tespiti ve kısa sürede giderilmesi için çalışmaların sürdürüldüğü belirtilen açıklamada, hizmetin geçici olarak alternatif yollardan verileceği ve gelişmelerden kamuoyunun bilgilendirileceği kaydedildi. 
+
+     
+</TEXT>
+</DOC>

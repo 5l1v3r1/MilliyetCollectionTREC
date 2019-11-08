@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 348232 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/02/son/soneko40.html </URL>
+<DATE> 2005/06/02/ </DATE>
+<TIME> 15.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sun Microsystem, StorageTek'i alıyor... 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayar üreticisi Sun Microsystem, veri depolama şirketi Storage Technology'yi StorageTek 4.1 milyar dolara satın alıyor. 
+     Sun Microsystems'den yapılan açıklamada, StorageTek'in hisseleri için hisse başına 37 dolar ödeneceği açıklandı. 
+     Sun Microsystems'ın satın almayla hızla büyüyen veri depolama pazarında iyi bir yer edinmeyi hedeflediği bildiriliyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 183596 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/20/son/soneko01.html </URL>
+<DATE> 2003/09/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düştü 
+</HEADLINE>
+<TEXT>
+
+     New York borsası günü düşüşle tamamladı. 
+     Borsanın temel göstergesi Dow Jones endeksi 14.31 puan düşerek, 9,644.82 puandan kapandı. 
+     Teknoloji endeksi Nasdaq da, 3.81 puan düşerek, günü 1,905.74 puandan tamamladı. 
+     
+</TEXT>
+</DOC>

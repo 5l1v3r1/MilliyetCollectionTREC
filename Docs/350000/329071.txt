@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 329071 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/31/son/sonyas02.html </URL>
+<DATE> 2005/03/31/ </DATE>
+<TIME> 02.19 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Berkeley'in 98 bin öğrencisinin kişisel bilgileri çalındı 
+</HEADLINE>
+<TEXT>
+
+     ABD'nin California eyaletindeki Berkeley Üniversitesi'nin 98 bini aşkın öğrencisine ait kişisel bilgilerin bulunduğu bir dizüstü bilgisayar çalındı. 
+     Amerikan CNN televizyonunun internet sitesinde verilen habere göre, üniversitede 1976 ve 2004 yılları arasında öğrenim gören ve mezun olan 98 bin 369 kişinin doğum tarihi, adresi ve sosyal güvenlik numarası gibi bilgilerin bulunduğu bilgisayarın çalınması, bu bilgilerin kötü amaçlı kullanılması endişesine neden oldu. 
+     Bilgisayarın çalınmasıyla ilgili soruşturma başlatılırken, 11 Mart tarihinde bir kişinin Mezuniyet Bölümü'nden bu bilgisayarla çıktığının görüldüğü belirtildi. 
+     Üniversite, California yasaları uyarınca bilgisayarda ismi ve sosyal güvenlik numarası bulunan 98 bin 369 kişiye durumu bildirmek için gerekli çabayı harcayacağını bildirdi. 
+     
+</TEXT>
+</DOC>

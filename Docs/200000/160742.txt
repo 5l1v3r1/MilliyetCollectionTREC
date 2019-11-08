@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 160742 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/03/son/sondun05.html </URL>
+<DATE> 2003/06/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kaza artık "geliyorum" diyecek... 
+</HEADLINE>
+<TEXT>
+
+     Japon Honda firması, kaza olacağını önceden fark edip sürücüyü uyaran otomobil üretti. 
+     Genelde orta ve küçük boy otomobil üreten Honda'nın bu kararı almasına sebep, büyük boyutlu cip SUV tipi araçların yoğun olduğu Amerikan piyasasındaki rekabet şansını artırmak olduğu ifade edildi. 
+     Honda'nın çok pahalı olmayan yeni modellerine koyacağı sistemlere Mercedes ve BMW gibi en pahalı ve lüks araçlarda bile az rastlanıyor. Kısa adı CMBS collision mitigation brake system olan yeni sistemin, çarpışmanın etkisini azaltacak bir fren sistemi olduğu belirtildi. 
+     Honda yetkililerinin Wall Street Journal gazetesine verdiği bilgiye göre, sistem bilgisayara bağlı bir dizi hassas algılayıcıdan oluşuyor. 
+     Ön çamurlukta bulunan algılayıcıların tehlikeyi fark etmesinden sonra, önce sesli bir uyarıcı harekete geçiyor. Bu sinyal, şoförün aracı yavaşlatmasına yetmediği takdirde, bir motorun hareket ettirdiği kol, sürücünün emniyet kemerine 3 kez vuruyor. Aynı anda frenleme sistemi kendi kendine devreye girerek aracın hızını kesiyor. 
+     Honda yetkilileri, sistemin aracı hiçbir zaman kendiliğinden durdurmadığını ve bu işi şoföre bıraktığını da vurguladı. 
+     Yapılan açıklamaya göre, sistem bir çarpışmanın yakın olduğunu algıladığı anda sürücüyü uyarıyor, hatta uyuyorsa onu uyandırmak için hafifçe itiyor. Sistemin özellikle uzun yollarda direksiyon başında uyuyakalan ve öndeki araca çarpmak üzere olan sürücülerin hayatını kurtarabileceği belirtildi. 
+     Çarpışmayı önleyen sistemlerin ilk olarak Honda-Inspire model araçlara konulacağı ifade edildi. Bu araçlar, bu ay içinde piyasaya çıkacak. 
+     Honda güvenlik mühendisi Tomiji Sugimoto, Honda'nın, şimdilik sadece Nissan'ın ürettiği Infiniti gibi lüks modellerde bulunan ''uzun yol seyir kontrol aygıtını'' da yeni modellerine koyacağını açıkladı. 
+     
+</TEXT>
+</DOC>

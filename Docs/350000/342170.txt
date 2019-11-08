@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 342170 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/13/son/soneko01.html </URL>
+<DATE> 2005/05/13/ </DATE>
+<TIME> 00.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası, günü kayıpla kapadı. 
+     Dow Jones Sanayi Endeksi 110.77 puan azalarak 10,189.48 puana indi. 
+     Teknoloji ibresi Nasdaq Birleşik Endeksi de 7.67 puan kayıpla 1,963.88 puana düştü. 
+     
+</TEXT>
+</DOC>

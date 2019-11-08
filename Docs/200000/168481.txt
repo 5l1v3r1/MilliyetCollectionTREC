@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 168481 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/10/son/soneko01.html </URL>
+<DATE> 2003/07/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası... 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Borsası'nda Dow Jones endeksi düşerken, Nasdaq endeksi yükseldi. 
+     Borsanın temel göstergesi Dow Jones 66,88 puan düşüşle 9.156,21 puana gerilerken, teknoloji endeksi Nasdaq 1,06 puan artışla 1.747,52 puana çıktı. 
+     
+     TOKYO BORSASI 
+
+     Tokyo Borsası'nın temel göstergesi Nikkei Endeki kapanışta düne göre 35.33 puan azalarak 9,955.62 puana indi. 
+     Aynı borsada ABD Doları da Japon Yeni karşısında 0.50 yen gerileyip 117.74 yenden işlem gördü. 
+     
+</TEXT>
+</DOC>

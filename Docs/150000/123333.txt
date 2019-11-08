@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> 123333 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/12/08/son/soneko06.html </URL>
+<DATE> 2002/12/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Elektrik sayaçları... 
+</HEADLINE>
+<TEXT>
+
+     Elektrik piyasasında kullanılacak tüketici sayaçlarının, en az dört ayrı tarife diliminde bir günü en az 8 zaman dilimine bölerek ölçme ve kayıt yapma özelliğine sahip olması gerekecek. 
+     Elektrik Piyasası Düzenleme Kurumu'nun, elektrik piyasasında kullanılacak sayaçların asgari özelliklerinin belirlenmesi amacıyla hazırlanan tebliği bugünkü Resmi Gazete'de yayımlandı. 
+     Tebliğde, dengeleme ve uzlaştırma sisteminin gerektirdiği haberleşmeyi sağlayacak sayaçlarla, tüketici sayaçlarına ilişkin özellikler sıralandı. 
+     
+     TÜKETİCİ SAYAÇLARI 
+     Tebliğe göre, tüketicilere, elektronik ve programlanabilen, takvime bağlı tüketimlerin tespit edilmesi, çok zamanlı tarifelerin uygulanması ve diğer işlemlerin zaman bazında değerlendirilmesini sağlayacak nitelikte gerçek zaman saatine sahip sayaçlar tesis edilecek. 
+     Tüketici sayaçlarının, en az dört ayrı tarife diliminde bir günü en az 8 zaman dilimine bölerek ölçme ve kayıt yapma özelliğine sahip olması gerekecek. 
+     Perakende satış lisansı sahibi dağıtım şirketlerinden düzenlemeye tabi tarifeler yoluyla elektrik enerjisi ve veya kapasite satın alan tüketicilerin mevcut sayaçlarını değiştirme zorunluluğu bulunmuyor. 
+     
+     TEBLİĞE UYGUN SAYAÇLAR NE ZAMAN TAKILACAK 
+     Bu arada, tebliğin geçici hükümlerine göre, mevcut sözleşmeler kapsamında işletme hakkı devri, yap-işlet-devret modelleri yoluyla elektrik üretim faaliyetinde bulunan tesislere, lisans alınma tarihini tarihini takip eden 30 gün içinde tebliğde tanımlanan sayaçlar tesis edilecek. 
+     Ayrıca, Elektrik Üretim A.Ş ve bağlı ortaklıklarınca işletilmekte olan elektrik üretim tesisleri ile Elektrik Üretim A.Ş tarafından hizmet alımı yoluyla işlettirilmekte olan mobil santrallara 31 Aralık 2003 tarihine kadar, otoprodüktörler ve otoprodüktör grubu ortaklıklarının tesislerine 3 Mart 2003 tarihine kadar tebliğ hükümlerine uygun sayaçlar takılacak. 
+     İletim sistemine doğrudan bağlı serbest tüketicilerin tesislerine 3 Mart 2003'e, iletim sistemi ile dağıtım sistemlerinin bağlantı noktalarına 31 Aralık 2003 tarihine kadar söz konusu sayaçlar tesis edilecek. 
+     Tebliğ bugünden itibaren yürürlüğe girdi. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

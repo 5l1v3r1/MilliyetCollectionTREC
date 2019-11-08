@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 386994 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/15/son/sonyas01.html </URL>
+<DATE> 2005/10/15/ </DATE>
+<TIME> 09.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+HP, 135 bin dizüstü bilgisarayı geri çağırdı... 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın ikinci büyük personel bilgisayar üreticisi Hewlett-Packard HP şirketi, 135 bin dizüstü bilgisayarında kullanılan pilleri yanma tehlikesi nedeniyle geri çağırdı. 
+     Şirket tarafından yapılan açıklamada, HP ve Compaq modellerindeki lityum iyon yeniden doldurulabilir pillerdeki bir kısa devrenin pil hücrelerini aşırı ısıtarak plastik kabı eritebileceği, bunun da yanma tehlikesi yaratabileceği belirtildi. 
+     HP, dizüstü bilgisayar pillerinin aşırı ısındığına dair 4’ü ABD’de olmak üzere 16 şikayet alındığını, 4 vakada bilgisayarların küçük zarar gördüğünü, ancak yaralanan olmadığını kaydetti. 
+     Geri çağrılan pillerin barkod serilerinin GC, IA, LO ve L1 ile başladığını ve bilgisayarların 2004 yılının Mart ayıyla 2005 yılının Mayıs ayları arasında satıldığını belirten HP,, bazı pillerin ise bilgisayarlardan ayrı tek tek satıldığını bildirdi. 
+     HP, pillerin Çin ve Tayvan’da yapılan Pavilion, HP Compacq, Presario ve Evo modeli dizüstü bilgisayarlarda kullanıldığını, iade edilen piller için para talep edilmeyeceğini, müşterilerin pil değiştirme programının ayrıntıları için www.hp.com support BatteryReplacement. internet adresine başvurabileceğini açıkladı. 
+     Merkezi ABD’nin California eyaletinin Palo Alto bölgesinde olan HP, 135 bin bilgisayarın yaklaşık 80 bininin ABD’de satıldığını da bildirdi. 
+     
+</TEXT>
+</DOC>

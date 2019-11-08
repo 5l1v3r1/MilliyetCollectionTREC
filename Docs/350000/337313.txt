@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 337313 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/27/son/sondun25.html </URL>
+<DATE> 2005/04/27/ </DATE>
+<TIME> 13.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kime oy vereceğini bilmeyenlere 'sanal' yardım 
+</HEADLINE>
+<TEXT>
+
+     ''Ne düşündüğünü söyle bana, kime oy vereceğini söyleyeyim sana...''. Bir internet sitesi, gelecek ay yapılacak genel seçimlerde kime oy vereceğini henüz bilemeyen seçmenlere yardımcı oluyor. 
+     ''www.whoshouldyouvotefor'' adlı siteyi ziyaret edenler, önce 5 Mayıs seçimlerinde oy kullanmak istediklerini belirtiyor, sonra vergi, göç, Avrupa, eğitim, terörle mücadele ve Irak savaşı gibi konularda 23 soruyu yanıtlıyor. 
+     Siteyi ziyaret edenler daha sonra ''Kime oy vermeliyim '' sorusuna tıklıyor. Bilgisayar, harmanladığı verileri yarıştaki beş siyasi partinin programlarıyla karşılaştırarak ziyaretçiye kime oy vermesi gerektiğini gösteriyor. 
+     Söz konusu internet sitesini şimdiye kadar 350 bin kişinin ziyaret ettiği bildirildi. Site yöneticisinin açıklamasına göre, testten ilginç sonuçlar çıkıyor. Teste katılanların yüzde 25'i İşçi Partisi'ne oy vermeye hazır olmakla beraber, sadece yüzde 11'i gerçekten parti lideri Başbakan Tony Blair'in siyasetini destekliyor. Benzer şekilde, ziyaretçilerin yüzde 26'sı da Muhafazakar Parti'ye oy vermeye hazır, ancak bu partinin fikirlerini gerçekten benimseyenlerin oranı yüzde 16. 
+     Muhalefetin ikinci büyük partisi Liberal Demokrat Partisi, bu ''ampirik'' sınavın galibi gözüküyor, zira ziyaretçilerin yüzde 36'sının fikirlerini en iyi yansıtan bu parti çıktı. 
+     İnternet sitesinin yöneticileri, hazırladıkları testin insanları tesir altına almak değil, onları düşündürmek amacıyla hazırlandığını söylediler. 
+     
+</TEXT>
+</DOC>

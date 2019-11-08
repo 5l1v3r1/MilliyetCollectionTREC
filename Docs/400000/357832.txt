@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 357832 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/03/son/sonsiy05.html </URL>
+<DATE> 2005/07/03/ </DATE>
+<TIME> 12.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Polis, tek tuşla herkesin adresini öğrenecek... 
+</HEADLINE>
+<TEXT>
+
+     İçişleri Bakanı Abdülkadir Aksu, vergi dairelerine kayıtlı 28.7 milyon kişinin T.C. kimlik numaraları ile vergi kimlik numaralarının eşleştirildiğini belirtirken, benzeri bir sistemin adres bilgilerinde de oluşturulabilmesi için harekete geçildiğini bildirdi. 
+     CHP Kırklareli Milletvekili Mehmet Kesimoğlu’nun konuyla ilgili soru önergesini yanıtlayan İçişleri Bakanı Aksu, T.C. Kimlik numarasıyla ilgili 560 kamu kurum ve kuruluşuyla paylaşım bağlantısının sağlandığını kaydetti. Uyumlaştırmanın sağlanmasının ardından Vergi Kimlik Numarası da dahil olmak üzere tüm kamu kurum ve kuruluşlarının kendi kayıtlarında da sadece T.C. Kimlik Numarasını kullanacaklarını belirten Aksu, T.C. Kimlik Numarası ile Vergi Kimlik Numarası eşleştirme çalışmaları hakkında bilgi verdi. Bu amaçla bugüne kadar faal durumda olan, işyerini kapatmış olanlar ve potansiyel mükellefler de dahil olmak üzere toplam 36 milyon 338 bin 972 vergi numarası verildiğini ve bunların yüzde 79’una denk düşen 28 milyon 720 bin 687’sinin T.C. kimlik numarası ile eşleştirilmesinin tamamlandığını bildirdi. Aksu, sadece toplam kişi sayısının yaklaşık 1 5’ine denk düşen 7 milyon 618 bin 285 kişinin daha eşleştirmesinin tamamlanmasıyla, tüm işlemlerde sadece T.C. Kimlik Numarasının kullanılacağını bildirdi. 
+     
+     TEK TUŞLA TÜM ADRESLER EKRANDA 
+
+     Eşleştirmenin yaşama geçirileceği sırada Nüfus Hizmetleri Yasası’nda değişiklik yapılacağını, bu amaçla hazırlanan taslağın da bakanlıkların görüşünün alınması aşamasına geldiğini ifade eden İçişleri Bakanı Aksu, Adres veritabanı çalışması yürütüldüğünü de açıkladı. Adres kayıt Sisteminin Entegrasyonunun Sağlanması Projesi ile ilgili mevzuat çalışmalarının tamamlandığını belirten Aksu, "Adres Bilgi Sistemi Kanunu Tasarısı taslağı kamu kurum ve kuruluşlarının görüşüne sunulmuştur. Taslağın yasal sürecinin tamamlanmasının ardından bakanlığımız ilgili kurumlar aracalığı ile projenin pilot bölge uygulaması çalışmalarına başlanacaktır" dedi. Söz konusu proje yaşama geçirildiğinde, 1980’lerde ABD’de yaratılan bir bilgisayar yazılımının benzeri biçimde özellikle istihbarat ve güvenlik birimleri, mahalle muhtarlıkları, konaklama tesisleri, elektrik, su, doğalgaz ve telefon şirketlerinin veri tabanında kayıtlı adresler arasında istediği bilgiye, aradığı kişiye ulaşması için birkaç saniyelik bir sürenin yeterli olacağı belirtiliyor. 
+
+     
+</TEXT>
+</DOC>

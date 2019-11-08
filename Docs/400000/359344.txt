@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 359344 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/08/son/soneko47.html </URL>
+<DATE> 2005/07/08/ </DATE>
+<TIME> 16.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Renault'un Clio 1.2 Quickshift satışa sunuldu... 
+</HEADLINE>
+<TEXT>
+
+     Renault'un Clio HB 1.2 Quickshift model otomobili, 24 bin 650 YTL anahtar teslim fiyatla Türkiye pazarına sunuldu. 
+     Renault Mais'ten yapılan açıklamada, Clio HB ürün yelpazesinin robotize vites kutusuna sahip Clio HB 1.2 16v Quickshift ile genişlediği bildirildi. 
+     Açıklamaya göre, Quickshift sistemi, debriyaj ve vites değiştirme fonksiyonlarını otomatikleştirme imkanı veren, elektrohidrolik bir grubun takılı olduğu manuel vites kutusundan oluşuyor. 
+     Otomatik ve yarı otomatik olmak üzere 2 çalışma şekli sunan Quickshift sisteminde, her iki durumda da vites değiştirirken gaz pedalını serbest bırakmak gerekmediği bildirildi. 
+     Üzerine bir robot eklenmiş manuel vites kutusu olarak tanımlanabilen Robotize Vites Kutusu'nun da teknolojisi ile hayatı kolaylaştırdığı, bir bilgisayar tarafından yönetilen robot sayesinde vites değişikliklerini kolayca gerçekleştirmenin mümkün olduğu kaydedildi. 
+     
+</TEXT>
+</DOC>

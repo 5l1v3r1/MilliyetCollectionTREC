@@ -1,0 +1,71 @@
+<DOC>
+<DOCNO> 107159 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/09/12/yasam/yas09.html </URL>
+<DATE> 2002/09/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sanal suçlu nasıl avlanır 
+</HEADLINE>
+<TEXT>
+
+İnternet aracılığıyla tehdit dolu bir 'e - posta' mı geldi Kısa bir takiple 'sanal suçluya ' ulaşabilirsiniz.. İşte, onu avlamanın yolu... 
+     İSTANBUL Milliyet 
+
+     İnternetten sürekli elektronik posta kutunuza yağan tehdit ya da küfür dolu e - postalardan e - mail bıktıysanız, size bu postaları gönderen 'sanal suçlu'yu avlamanın yolu var. 
+     Bu işin uzmanları uzmanlarına göre 'sanal suçluyu' bulmanın ilk adımı da, gelen e - postaların 'internet protokol numarasını IP nosu ' belirlemek. Bu IP numarasının kolaylıkla belirlendiğini belirten uzmanlar, bu yolla art niyetli kişiye kolaylıkla ulaşılabildiğini belirtiyor. İnternette sanal suçlu avı, ev ya da işyerinizdeki bilgisayarınıza tehdit dolu bir e - posta ulaşmasıyla başlıyor. İşte, adım adım 'sanal suçlu'yu takibin yolu 
+     
+     Önce kimliği meçhul, tehdit dolu e - postanın IP numarasını bulun. 
+     1 - Ekranın sol üst köşesindeki 'dosya' bölümünü tıklayın. 
+     2 - 'Seçenekler' bahsinden 'özellikler' bölümüne girin. 
+     3 - Buradan 'ayrıntılar' bölümünü seçin. 
+     4 - Sağ alt köşedeki 'ileti kaynağı'nı tıklayın. 
+     5 - Burada 'recieved from kimden alındığı ' bölümünde '000.000.00.0' düzeninde çeşitli rakamlardan oluşmuş bir numara göreceksiniz. İşte bu, her bilgisayarda olması gereken IP yani internet protokol numarası. 
+     6 - Bu numaranın kime ait olduğunu bulmak için 'http combat.uxn.com' adlı web adresine girin. 
+     7 - Bu sitede, Asya - Pasifik, Avrupa ve Amerika'ya ait üç ayrı arama motorunda elde ettiğiniz IP numarasının kimliğini arayın. Hangi ülke, hangi şirket ya da oluşum olursa olsun, IP adresi bilgileriyle bu sitede çıkıyor. 
+     
+     IP numarasının kime ait olduğunu bulduktan sonra ne yapmanız gerekiyor 
+
+     IP numarası bir şirkete aitse... 
+     İşyeri yüzlerce bilgisayara sahip olabilir. Ancak işyerindeki her bilgisayar, tek servis sağlayıcısı üzerinden çalıştığı için dışarıda tek bir IP ile temsil edilir. Şirkete ait IP numarasını yine 'http combat.uxn.com' sitesinden bulabilirsiniz. Bu noktadan sonra, şirketteki hangi bilgisayarın sorumlu olduğunu bulmak gerekiyor. Her bilgisayarın şirket bünyesinde kendi 'özel IP'si bulunuyor. Bu 'özel IP numarası' da şirkette mevcuttur. 
+     
+     IP numarası bir eve aitse... 
+     'Sanal suçlu' e - postayı evindeki kişisel bilgisayarından gönderdiyse, IP numarası herhangi bir servis sağlayıcısına E - Kolay, Superonline, Turk.net vb ait olacaktır. IP numarasını yine 'http combat.uxn.com'da aradığınızda, hangi servis sağlayıcısına ait olduğunu da bulacaksınız. Servis sağlayıcıları kişinin ne zaman hangi IP numarasıyla internete bağlandığını bilse de, bunu saklı tutar. Bunun için hukuki yollara, yani savcıya başvurmak gerekiyor. 
+     
+     IP numarası internet kafeye aitse 
+     'Sanal suçlu'nun en zor yakalanabileceği tek yöntem, internet cafelerini kullanması. Çünkü art niyetli kişi e - maili attıktan sonra oradan uzaklaşabilir. Yine 'http combat.uxn.com' sitesinden bulacağınız IP numarası, bu durumda bir internet cafeye ait olacaktır. Ve sanal suçlu, ancak sürekli aynı internet cafeye gidip bilgisayar kullanırsa, adli merciler tarafından sanal takipten canlı takibe geçilerek bulunabilecektir. 
+     
+     Hotmail ve Yahoo'dan takip 
+     'Sanal suçlu'nun işyeri veya evdeki bilgisayarından, 'Hotmail' veya 'Yahoo' gibi uluslararası internet tabanlı e - posta sağlayıcılarına girip, sahte isimle 'ikinci bir IP numarası' almış olma olasılığı da çok büyük. Bu durumda takip, zor olmasına rağmen mümkün. Hotmail ve Yahoo uluslararası şirketler. Kişinin onlara da 'kendi IP' numarası ile bağlanması gerekiyor. Hotmail ve Yahoo da, en son hangi IP'den kendilerine bağlanıldığını kayıtlarından çıkarabiliyor. Ancak yine, bu kez uluslararası hukuki yollara başvurmalısınız. 
+     
+     CIA ve FBI 'örümcek' kullanıyor 
+     Uluslararası ciddi suçlar sözkonusu olduğunda, örneğin Amerika'da e - posta hesabı sağlayan bazı şirketler, CIA ve FBI'a hesap sahiplerine ait bilgileri verebiliyor. Özellikle uluslararası terörizm ve kaçakçılık konularında kullanılan bu yöntemde, 'Spider Örümcek ' adlı bir programa başvuruluyor. Bu program, 'e - posta'larda, örneğin 'Başkan Bush', 'Bomba', 'Terör', 'Öldürmek' gibi belirli kelimeleri tarıyor. Bu kelimeleri içeren e - postalar, CIA ya da FBI'ya gönderiliyor. Gerisini de istihbarat uzmanları hallediyor. 
+     
+     Hukukçu görüşü Delilleri kaybolabilir 
+     'İnternet Hukuku' adlı kitabın yazarı Prof. Dr. Gürsel Öngören, Türkiye'de internet yoluyla işlenen suç sonrası işleyen hukuki prosedürü şöyle anlattı 
+     "Kişi, tehdit içerikli bir e - posta aldığında savcılığa suç duyurusunda bulunur. Bir soruşturma başlatılır. Deliller toplanır. Servis sağlayıcısına bir yazı yazılarak, kişiyle ilgili bilgi istenir, tehdit içerikli e - posta geçip geçmediği sorulur. Ancak servis sağlayıcılar en fazla bir hafta kayıt tutar. Yani suç delillerinin kaybolma ihtimali vardır. Türkiye'de bu nedenle açılmış birkaç dava bulunuyor. Ancak yetkisizlik kararı veriliyor." 
+     
+     
+
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

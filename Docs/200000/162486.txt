@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 162486 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/11/son/soneko49.html </URL>
+<DATE> 2003/06/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düşüşle açıldı... 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası güne düşüşle başladı. 
+     Borsada ilk saat sonunda Dow Jones Endeksi 3.70 puan azalışla 9,058.59 puana, Nasdaq Endeksi 11.09 puan azalışla 1,616.58 puana indi. 
+     Borsanın düşüşünde yatırım bankası Morgan Stanley'in ''aşırı değerlenme'' gerekçesiyle yarı iletken sektörünün kredi notunu düşürmesi etkili oldu. Notun düşürülmesiyle bu sektörde faaliyet gösteren şirketlerin hisse senetlerinin fiyatları da düştü. 
+     Borsanın düşük açılışında bir başka etmen de hafta başındaki büyük yükselişin ardından gelen kar satışlarıydı. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 206463 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/05/guncel/gun20.html </URL>
+<DATE> 2004/01/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kısa kısa.. 
+</HEADLINE>
+<TEXT>
+
+   
+   Türk internetine bir kablo darbesi daha    Yurtdışı internet bağlantıları, dün denizaltındaki fiberoptik kablolarda meydana gelen kopma nedeniyle kesildi. Türk Telekom Genel Müdürlüğü'nden dün yapılan açıklamada, saat 08.20'den itibaren Türk Telekom'a ait "Seamewe3" denizaltı fiberoptik kablolarda meydana gelen kopmadan dolayı, Türkiye'nin yurtdışı internet bağlantılarında aksamalar yaşandığı belirtildi. Sorunun giderilmesi için çalışmaların sürdürüldüğünün belirtildiği açıklamada, hizmetin geçici olarak alternatif yollardan verileceği kaydedildi. 
+   
+   Alman uçağında 'Playboy' dağıttılar    Havayolları şirketleri arasındaki rekabet, ilginç yöntemlere yol açıyor. Alman havayolu şirketlerinden "Germanwings"in uçaklarına geçen hafta Köln ya da Stuttgart havaalanlarından binenlere "erkek dergisi" Playboy dağıtıldı. Şirket, dergiyi üzerinde "Uzun mesafe uçmadığımız için güzel röportajlara yazık olacak" yazılı poşete koyarak dağıttı. Yetkililer, yolcuların memnun kaldığını öne sürerken, hosteslerin büyük kısmı ise dergiyi okuyan erkek yolcuların davranışlarının rahatsız edici olduğundan yakındı. 
+   
+   
+   
+</TEXT>
+</DOC>

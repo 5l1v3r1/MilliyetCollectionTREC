@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 272899 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/18/son/soneko02.html </URL>
+<DATE> 2004/09/18/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacminde dünyanın en büyük borsası olan New York borsası, günü yükselişle kapadı. 
+     Dow Jones endeksi 39,97 puan artarak 110.284,46 puana, teknoloji endeksi Nasdaq da, 6,01 puanlık artışla 1.910,09 puana yükseldi. 
+     
+</TEXT>
+</DOC>

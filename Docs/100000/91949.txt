@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 91949 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/06/25/son/sondun05.html </URL>
+<DATE> 2002/06/25/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternette en çok kullanılan tarayıcı Explorer 
+</HEADLINE>
+<TEXT>
+
+     İnternette en çok kullanılan tarayıcının Microsoft'un geliştirdiği ''İnternet Explorer'' İE olduğu bildirildi. 
+     OneStat adlı web araştırma kurumunca tutulan istatistiklere göre, internete girenlerin yüzde 95.3'ü İE'nin çeşitli sürümlerini kullanıyor. İE'nin ardından yüzde 3.4'lük payıyla Nestcape tarayıcısı geliyor. Birkaç yıl öncesine kadar İE ile Nestcape'in pazar payları hemen hemen yarı yarıya idi. Ancak İE'yi Windows işletim sisteminin parçası haline getiren Microsoft bu alanda büyük atılım yaptı ve sürekli geliştirdiği tarayıcısını kullanıcıların hizmetine bedava sunarak Nestcape'i geride bıraktı. 
+     OneStat, bu iki tarayıcının ardından Opera adlı tarayıcının geldiğini ve kullanım oranının yüzde 0.7 olduğunu belirtti. Son sırada ise Mozilla adlı tarayıcı yer alıyor. Mozilla'nın payı ise yüzde 0.4. 
+     OneStat, sonuçların, internete giren yaklaşık 2 milyon kullanıcının tercihleri incelenerek belirlendiğini açıkladı. Bu izleyicilerin 100 ülkeden günde 20 bin kullanıcı olarak gruplandırıldığı belirtiliyor. 
+     
+     KULLANICILARIN FAVORİSİ İE 6.0 
+     Bu arada Microsoft'un en son geliştirdiği İE 6.0 sürümünün kullanıcıların favorisi olduğu ortaya çıktı. 
+     İstatistikler, yeni piyasaya çıkmış olmasına rağmen İE kullananların yüzde 46.4'ünün İE 6.0 sürümünü tercih ettiklerini gösteriyor. İE kullanıcılarının geri kalan .6'sı ise İE 5.5, İE 5.0 ve İE 4.0 gibi İnternet Explorer'in eski sürümlerini kullanmaya devam ediyor. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

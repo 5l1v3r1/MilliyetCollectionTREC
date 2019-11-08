@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 274910 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/25/son/sonyas09.html </URL>
+<DATE> 2004/09/25/ </DATE>
+<TIME> 10.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+E-polis dönemi başlıyor... 
+</HEADLINE>
+<TEXT>
+
+     İngiltere'nin ilk sanal polis karakolunun Galler'deki Swansea kentinde hizmete gireceği açıklandı. 
+     Kameralarla desteklenmiş internet ağı kurularak, halkın günün her saatinde, her yerden polise doğrudan ulaşmasının sağlanacağına dikkati çeken Swansea polis teşkilatı yetkilileri, video konferans hattı sayesinde isteyen İngiliz vatandaşının, polisin toplantı odasına kadar ulaşabileceğini bildirdi. 
+     Vatandaşa karakollar kapandıktan sonra da polise ulaşma imkanı sağlayacak yeni uygulama bir ilki oluşturacak. Halkın istediği anda polise ulaşabilmesi için ise kentin çeşitli yerlerine içinde kamera destekli internet bağlantısı bulunan ''kiosk''lar yerleştirileceği bildirildi. Süpermarketler, benzin istasyonları gibi çok kullanılan noktalarda yer alacak ''kiosk''ların yapımına başlandığı, pilot uygulamanın başarıya ulaşması halinde diğer bazı kent ve kasabalarda da yaygınlaştırılacağı bildirildi. 
+     ''Kiosk''larda bulunan internet hatları sayesinde polisle doğrudan bağlantı kuracak vatandaşların ihbarda bulunabileceği, yardım isteyebileceği ya da bilgi alabileceğine dikkati çeken yetkililer, isteyen kişilerin bir polis memuruyla konuşma olanağına da sahip olacağını ifade etti. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 392022 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/03/son/sontur07.html </URL>
+<DATE> 2005/11/03/ </DATE>
+<TIME> 11.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ADSL kullanıcılarının tercihi "limitli" abonelik 
+</HEADLINE>
+<TEXT>
+
+     Türkiye’deki internet kullanıcılar daha çok "limitli" aboneliği tercih ediyor. 
+     Türk Telekomünikasyon A.Ş’nin yaptığı araştırmada, hızlı internet ADSL’nin Ekim ayı satışlarının yüzde 92’sinde limitli abonelik tercihi yapıldı. Şirketin 1 milyon 200 bin ADSL abonesinin 800 bini limitli abonelik kullananlardan oluşuyor. 
+     Türkiye’de 3 gigabayt GB limitli abonelik tercihi yapanların aylık kullanım miktarları ortalama 1 GB’ye bile ulaşmadığı, 6 GB limitini ise kullanıcıların sadece binde 7’sinin aştığı saptandı. 
+     AA muhabirinin Türk Telekom yetkililerinden aldığı bilgiye göre, internette hızlı erişim imkanı sağlayan ve kullanıcıların zaman kaybını önleyen ADSL ilgi görmeye devam ediyor. 
+     1 Kasım’dan itibaren ADSL’de 256 Kpbs uygulamasını kaldırarak en düşük hızı 512 Kpbs’ye çıkaran Türk Telekom, bu düzenlemeyle 256 Kbps hızında ve 3 GB limitli 29 YTL tarifesinde olan tüm müşterilerin hızını iki katına çıkardı. 
+     512 Kbps hızında, 5 GB limitli ve 49 YTL tarifesinde olan 
+     müşterilerin hızı aynı kalmak kaydıyla, aynı tarifeyle limiti 6 GB’a yükseltildi. Değişen tüketici alışkanlıkları doğrultusunda 256 Kbps hızın genişband ihtiyacını karşılayamadığı düşüncesinden yola çıkan Türk Telekom, 256 Kbps hızında yeni abonelik kaydı yapılmayacağını duyurdu. 
+     
+     VERİLEN LİMİT BİLE KULLANILMIYOR 
+     Araştırmaya göre, Türkiye’de ADSL ile internete bağlananlar yoğunlukla "limitli" abonelikleri tercih ediyor. 3 GB limitli aboneliği tercih edenlerin oranı tüm abonelerin yüzde 61’ini oluşturuyor. 6 GB limitliyi tercih eden abonelerin oranı ise yüzde 2 düzeyinde kaldı. Kullanıcılardan sadece binde 7’si 6 GB limitini aştı. 
+     Türk Telekom, 3 GB limitli aboneliği tercih edenlerin ortalama kullanım miktarlarının 1 GB’e ulaşmadığını tespit etti. Bir başka deyişle 3 GB limitli aboneliği tercih eden ADSL aboneleri, kendilerine tanınan limitin ancak 3’te birini kullanıyor. 3 GB limitli abonelerin sadece yüzde 4.5’i kendisine tanınan kotayı aştı. 
+     Öte yandan, Türkiye’de ADSL abonelerinin eğiliminin limitli abonelikten yana olduğu satış rakamları da teyit etti. Ekim ayı ADSL satışlarının yüzde 92’sinde limitli abonelik tercihi yapıldı. Böylece limitli abonelik başladığından beri yapılan satışların yüzde 86’sı limitli hale geldi. Türk Telekom’un 1 milyon 200 bin ADSL abonesinin 800 bininin limitli abone olduğu belirtildi. 
+     
+</TEXT>
+</DOC>

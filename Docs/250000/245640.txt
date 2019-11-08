@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 245640 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/05/son/sonyas04.html </URL>
+<DATE> 2004/06/05/ </DATE>
+<TIME> 09.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+3 dakikada check up... 
+</HEADLINE>
+<TEXT>
+
+     ''EGS'' adı verilen cihazla vücuda düşük yoğunluklu elektrik sinyali verilerek, tüm sistem ve organlardaki işlevsel bozukluklar tespit ediliyor. 
+     Fransa'dan ithal edilen, Ankara'da özel bir laboratuarda hizmete giren ''ESG elektroscangrapy '' adlı cihaz, el ve ayaklar ile başa takılan elektrotlar sayesinde 3 dakikada tüm vücudu check-up'tan geçiriyor. 
+     Bilgisayar programına bağlı çalışan cihaz, el ve ayakların çıplak olarak koyulduğu iki metal tabaka ve başa takılan iki elektrottan oluşuyor. 
+     İşlem başladığında, bilgisayar ekranında oluşan erkek veya kadın vücudu verilen elektrikle 4 kez taranıyor. Tarama işlemi sırasında oluşan sarı, kırmızı, yeşil, mavi ve lacivert renkler, bozukluk olan bölgeleri ayırmaya yardımcı oluyor. 
+     Yeşil renkle beliren yerler ''normal'', sarı ve mavi renkler ''az sorunlu'', kırmızı ve lacivert renkler ise ''sorunlu'' bölgeleri gösteriyor. 
+     Cihaz, tespit sonrasında kesin tanı koymuyor, ancak bozukluk olan bölgelerin erken teşhis edilmesinde doktorlara yardımcı oluyor. 
+     Bilgisayar programında vücut yapısının yanı sıra tüm organlar renklerle gösteriliyor, yazılı çıkan sonuçlar grafiklere de yansıtılıyor. 
+     Bu işlemin ardından kişinin yaptırması gereken testler, uygulaması gereken diyet programı, vücut yağ oranı, kolesterol düzeyi gibi veriler de belirleniyor. 
+     
+</TEXT>
+</DOC>

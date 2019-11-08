@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 266508 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/26/son/sondun11.html </URL>
+<DATE> 2004/08/26/ </DATE>
+<TIME> 11.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Odyssey uzay aracının görev süresi uzatıldı... 
+</HEADLINE>
+<TEXT>
+
+     ABD'nin Ulusal Havacılık ve Uzay Dairesi NASA, 2001'de Mars'ın yörüngesine yerleştirdiği, kızıl gezegenin haritalarının çıkarılmasıyla görevli Odyssey uzay aracının 2006 eylülüne kadar yörüngede kalacağını duyurdu. 
+     Odyssey'in 297 milyon dolara mal olan öncelikli görevinin salı günü sona erdiğine dikkat çeken NASA yetkilileri, 35 milyon dolar ek maliyetle Odyssey'in Mars'taki görevinin Eylül 2006'ya kadar uzatıldığını açıkladı. NASA, bugünkü tüketimiyle devam etmesi halinde aracın yakıtının bu on yıl içerisinde bitmeyeceğini, gelecek bir on yıl daha sürebileceğini bildirdi. 
+     Mars Odyssey, gezegenin yüzeyinde araştırmalar yapan Spirit ile Opportunity ikiz robotlarının yüzeyden gönderdikleri bilgilerin aktarılmasında da kullanılıyor. 
+     NASA'nın California-Pasadena kentinde çalışan, Odyssey'i yönlendiren 70 yıllık askeri temeldeki kurumu Jet Motorları Araştırma Merkezi'nden Jet Propulsion Laboratory proje yöneticisi Philip Varghese, Odyssey'in verilen tüm görevleri başarıyla yerine getirdiğini açıkladı. 
+     Odyssey, Mars'ın güney kutup bölgesinde yüzeyin derinliklerinde bol miktarda donmuş su, gezegen ikliminin uzun zamandır kuru yapıya sahip olduğunu gösteren çeşitli mineraller ve iklim değişikliği olabileceği yönünde bulgulara rastladı. Araç, Mars'ın en ayrıntılı haritalarını çıkardı. Odyssey, insanlı uzay aracının Mars'a gönderilmesine hazırlık amacıyla ilk deney yapılan araç olmuş, gezegen radyasyon düzeyi, Güneş patlamalarından etkileniş ve kozmik ışın alımının Dünya'dakine oranla iki-üç kat daha fazla olduğunu tespit etti. 
+     NASA'nın Odyssey aracı, Spirit ve Opportunity robotlarının Mars'ın yüzeyine indirilmeden önceki yer analizlerinde ve onlardan gelen bilgilerin aktarımında kullanıldı. Ayrıca, 2006 ve 2008 yıllarında Mars'a gidecek yeni yörünge ve iniş araçları için saha araştırması yapıyor. 
+http mars.jpl.nasa.gov odyssey 
+     
+</TEXT>
+</DOC>

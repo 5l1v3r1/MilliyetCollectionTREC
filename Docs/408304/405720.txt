@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 405720 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/22/son/sonsiy10.html </URL>
+<DATE> 2005/12/22/ </DATE>
+<TIME> 11.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Meclis efsanesini emniyet avladı 
+</HEADLINE>
+<TEXT>
+
+     Meclis'te kısa süreli paniğe yolaçan, telefon dinlemeyle ilgili "en kısa ömürlü şehir efsanesini" her olasılığa karşın araştıran Emniyet, GSM operatörlerinden, "Sayın Milletvekilleri 31 ile başlayan numaraları aramış" yanıtını aldı. 
+     Emniyet, CHP'li Atilla Kart ve arkadaşlarının telefonlarının dinlendiği paniğine kapılmalarına yolaçan ve İçişleri Bakanı Abdulkadir Aksu'ya kadar ulaşan şikayetlerini her olasılığa karşın ciddiye aldı. 
+     
+     "EFSANE AVCILARI"NA TAŞ ÇIKARTTI 
+     CHP Konya Milletvekili Atilla Kart son dönemlerde cep telefonlarının dinlenip dinlenmediğini test etmek için kullanıldığı belirtilen bir yönteme başvurdu. Söylentiye göre, "kare 31, kare 31" tuşlarına basıldığı zaman kendi cep telefon numarasını girenlerin karşısına "Böyle bir numara kullanılmamaktadır" anonsu çıkarsa o telefon dinlenmiyordu. Telefona tanınmayan bir kişi çıkıyorsa bu o telefonun dinlendiği anlamına geliyordu. Kart, şehir efsanesini uyguladı ve karşısına "Ben polis Rıfat" diyen bir kişi çıktı. Paniğe kapılan vekil, durumu arkadaşlarına ve İçişleri Bakanı Abdülkadir Aksu'ya aktardı, olay Meclis'te vekiller, çalışanlar ve bazı gazeteciler arasında dalga dalga yayıldı. 
+     
+     EMNİYET ARAŞTIRDI 
+     Abdülkadir Aksu vekillerin yakınmalarını Emniyet'e not olarak iletirken, Emniyet yetkilileri de her olasılığa karşın GSM operatörleri uzmanlarıyla temasa geçip olayı araştırdılar. GSM operatörlerinin açıklamaları bir bilgi notu haline getirildi. Bilgi notunda son zamanlarda halk arasında cep telefonlarının dinlenip dinlenmediğinin test edilmesine yönelik yanlış bilgiye dayalı bir söylenti dolaştığı belirtilerek şöyle denildi 
+     
+     NUMARASI 31 İLE BAŞLAYANLAR YANDI 
+     "Yapılan normal aramalarda, aboneler kendi numaralarının karşı tarafta görünmemesi için, aranan numaranın başına kare31kare yazabilir, yalnızca o aramaya mahsus olarak numarasının görünmesini engelleyebilir. Bu söylenti çerçevesinde yapılan işlemde kare31kare kodlanarak, öncelikle arayan telefon numarasının karşı tarafta görünmemesi sağlanmış oluyor. 
+     GSM sisteminde aramalar alan kodundan sonra 7 rakam üzerinden gerçekleştirilmektedir. Bu nedenle kare31kare'den sonra 31 yazıp abone kendi telefon numarasını tuşladığında sistem kare31kare'den sonraki '31' ile başlayan numarayı aramaktadır. 
+     Örneklendirmek gerekirse kare31kare 3102XXXXXXX numaralarını tuşladığınızda sistem otomatik olarak hizmet alınan GSM şirketinin 3102X numarasını arar. 
+     Numara kullanımda ise 'numara gizleme özelliği aktif duruma getirilmiş veo numara aranmış olur.' Numara kullanımda değilse 'aradığınız numara kullanılmamaktadır' anonsu duyulur." 
+     
+</TEXT>
+</DOC>

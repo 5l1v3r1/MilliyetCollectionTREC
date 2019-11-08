@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 363195 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/21/son/sonyas04.html </URL>
+<DATE> 2005/07/21/ </DATE>
+<TIME> 07.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Discovery, uzay yolculuğuna salı günü başlıyor 
+</HEADLINE>
+<TEXT>
+
+     Amerikan Havacılık ve Uzay Dairesi NASA , Discovery uzay mekiğinin salı günü fırlatılacağını açıkladı. 
+     NASA yetkilisi Bill Parsons, 13 Temmuz’daki ertelemeye yol açan teknik problemin giderilmek üzere olduğunu ve Columbia faciasının üzerinden 2,5 yıl geçmesinin ardından uzaya gönderilecek ilk uzay mekiği olan Discovery’nin Salı günü fırlatılacağını söyledi. 
+     Discovery uzay mekiği Nisan ayında fırlatma rampasına getirildikten sonra, uzmanların aşırı soğuk yakıt doldurulduğunda dış yakıt tanklarında buz oluştuğunu ve bunun da 2,5 yıl önce Columbia’nın kalkışı sırasında olduğu gibi köpük yalıtım malzemesinin kırılarak gövdeye zarar verdiğini tespit etmeleri üzerine 26 Mayıs’ta hangara geri taşınmıştı. 
+     Uzay mekiği Discovery’nin bu uçuşunda, Uluslararası Uzay İstasyonu’na UUİ 7 astronot ile malzeme götürmesi planlanıyor. 
+     NASA, Şubat 2003’te Columbia mekiğinin, uzaydan dönüş yolunda atmosferde parçalanması ve 7 astronotun hayatını kaybetmesinden bu yana hiç mekik seferi düzenlemedi. 
+     
+</TEXT>
+</DOC>

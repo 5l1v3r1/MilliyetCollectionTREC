@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 330373 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/05/son/soneko09.html </URL>
+<DATE> 2005/04/05/ </DATE>
+<TIME> 11.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+YTL, Mart'ta değer kaybetti... 
+</HEADLINE>
+<TEXT>
+
+     Yeni Türk Lirası YTL , bu yılın Mart ayında bir önceki aya göre değer kaybetti. 
+     Merkez Bankası verilerine göre, 1995 100 TÜFE bazlı reel efektif döviz kuru Mart ayında, bir önceki aya göre yaklaşık yüzde 0.6 azalarak 155.8'den 154.9'a indi. 
+     Aynı dönemde 1995 100 ÜFE bazlı reel efektif döviz kuru da yüzde 0.8 gerileyerek 139.9'dan 141'e geriledi. 
+     Bir başka deyişle, Yeni Türk Lirası, 2005 yılının Mart ayında TÜFE bazında yüzde 0.6, ÜFE'de ise yüzde 0.8 değer kaybetti. 
+     Öte yandan YTL bir yıllık süre içinde TÜFE bazında, yaklaşık yüzde 0.4 değer kazanırken, ÜFE bazında yüzde 2.4 değer kaybetti. 
+     
+</TEXT>
+</DOC>

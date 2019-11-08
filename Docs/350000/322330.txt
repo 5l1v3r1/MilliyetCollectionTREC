@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 322330 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/09/son/sonyas14.html </URL>
+<DATE> 2005/03/09/ </DATE>
+<TIME> 17.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft 'İstanbul' yazılımının adı 'Office Communicator' oldu 
+</HEADLINE>
+<TEXT>
+
+     Microsoft firması, bilgisayarlarda iletişim alanında büyük bir aşama sayılabilecek ''İstanbul'' kod adıyla bilinen yazılımını ''Office Communicator 2005'' adıyla yakında piyasaya çıkaracak. 
+     Windows Messenger'ın ardılı olarak kabul edilen Office Communicator 2005, kullanıcıya son derece gelişmiş anında mesaj IM , e-posta, ses, video, telefon ve web konferansı olanağı sağlıyor. 
+     ''Windows Messenger''ın ''Arkadaş Listesi'' Buddy List adı verilen uygulamasından esinlenilerek hazırlanılan program, kullanıcıya telefon, video konferans, e-posta, IM, ve internet hattı üzerinden telefon voice over Internet phone-VOIP gibi uygulamaları birbirleriyle uyum içinde yönetebilme imkanı sağlıyor. 
+     Microsoft'un yeni iletişim programını 90 gün içinde piyasaya çıkarması, bu yazılımla birlikte kullanılacak ve iş alanında iletişimi sağlayacak Office Live Communications Server LCS 2005 programının da gelecek aydan itibaren ücretsiz download edilebilmesi bekleniyor. 
+     Kullanıcılara meslektaşları, iş ortakları ve müşterilerinin hatta olup olmadıkları konusunda zengin bir istihbarat olanağı sağlayan yeni program, kullanıcısına listesindeki kişilerin hangilerinin ''on-line'' olduğunu ve bunların görüşmeye uygun olup olmadığını, ne zaman telefon edebileceğini veya e-mail gönderebileceğini veya video konferans yapabileceğini bildiriyor. 
+     Kullanıcılara ayrı ayrı yazılımları bir arada sunacak ve birbirleriyle uyumlu bir biçimde çalışmalarını sağlayacak bu yeni programın bilgisayar kullanıcıları tarafından tutulması bekleniyor. 
+     Yazılımın özellikleri arasında bulunan VOIP'nin, uluslararası çok ucuz telefon görüşmesi olanağı tanıması dolayısıyla da benimseneceği sanılıyor. 
+     Programın hazırlanmasında, Microsoft'un merkez üssü Seattle'da görevli Türk bilgisayar mühendisleri ve programcılarının da emeği olduğu ve bu nedenle programın kod adının ''İstanbul'' olduğu belirtiliyor. 
+     
+</TEXT>
+</DOC>

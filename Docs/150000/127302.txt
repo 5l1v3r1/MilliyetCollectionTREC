@@ -1,0 +1,76 @@
+<DOC>
+<DOCNO> 127302 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/12/27/son/sontur05.html </URL>
+<DATE> 2002/12/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bunları hiç merak ettiniz mi İşte yanıtları... 
+</HEADLINE>
+<TEXT>
+
+     Türkiye Bilimsel ve Teknik Araştırma Kurumu TÜBİTAK , merak duygusunu artırmak amacıyla başlattığı internetten gelen soruları yanıtlama çalışırken, adeta soru yağmuruna tutuldu. Hergün ortalama 30 yeni soru alan TÜBİTAK, bugüne kadar birbirinden ilginç 905 soruya yanıt verdi. 
+     
+     BAZI SORULAR VE YANITLARI 
+
+     TÜBİTAK'ın 15 ayrı başlık altında aldığı bazı sorular ve yanıtları şöyle 
+     S Kibritin yapım maddesi nedir Kibritte barut var mıdır 
+     C Kibrit, kükürt S ve Oksitleyici olarak Potasyum Klorattan KClO3 oluşmaktadır. Potasyum klorat kükürdün yanmasını sağlayan oksijeni veren maddedir. 
+     S Rakı homojen bir madde midir 
+     C Homojen değil, heterojen bir maddedir. 
+     S Zararlı manyetik etki açısından mikrodalga fırınların çalıştırıldıkları sırada yanında bulunuyor olmanın ve de içerisinde işlem gören yiyecekler üzerinde olası ve tartışmalı etkileri nelerdir 
+     C Mikrodalgaların yaydıkları radyasyonun zararlı etkilerine ilişkin bir şüphe var. Ancak, radyasyon yayımı nedeniyle, mikrodalga fırınların insan sağlığına zarar verdiğine dair gözlenmiş ya da bilinen bir etki yok. Bu tür fırınlardaki mikrodalgaların, gıda içinde kalmaları söz konusu değil. Bu yüzden mikrodalga fırında ısıtılmış gıdanın tüketilmesi nedeniyle ortaya çıkmış bir zararlı etki ya da bir hastalık henüz bilinmiyor. 
+     S Ağrımız olduğunda bedenimizin bir kimyasal salgıladığını biliyoruz. Bu kimyasal kan tahlili yoluyla niceliksel olarak saptanarak ağrının şiddeti belirlenebilir mi 
+     C Ağrımız olduğunda bedenin ürettiği hormonlara endorfin denir. Bu hormonun işlevi, ağrının şiddetini azaltmak ve bize daha az rahatsızlık vermesini sağlamak için sinirleri uyuşturmaktır. Vücuttaki endorfin üretimi ile ağrıyı niteliksel olarak ilişkilendirme fikri son derece ilginç fakat burada işin içine başka bir faktör giriyor. 
+     S Bazı kurbağaların cinsiyet değiştirebildikleri doğru mu 
+     C Bu oldukça karmaşık bir konu. Üzerinde çeşitli çalışmalar yapılmış ancak kesin bir tanım ya da cevap vermekten henüz uzağız. Her şey, hangi genlerin etkin kılınmasıyla ilgili. Çalışmalar seks kromozomlarının bu konuda pek de belirleyici rol oynamadıklarını ortaya çıkarmış. 
+     S Havuzlar ya da göller üstten alta doğru donarken, süt neden alttan üste doğru donar 
+     C Varsayımınız doğru değil. Çünkü sütün özgül ağırlığı yaklaşık 1.030 - 1.032 arasıdır ve sudan daha yoğundur. 
+     S İnsan yılda veya bir günde kaç kirpik döker 
+     C Bunun için belirli bir sayı vermek oldukça zor. Ancak doğal olan veya olmayan nedenlerle sanırım günde 2-3 kirpik döküyoruz 
+     
+     DÜNYA YÜZEYİNDE KAÇ SİNEK VAR'' 
+
+     S Dünya yüzeyinde bir anda kaç sinek mevcuttur 
+     C Herhalde 9.874.267.118.512 
+     S Tabancada susturucu nasıl çalışır Bu susturucu kulakları sağır edebilecek kadar yüksek bir sesi nasıl oluyor da ''ffft'' sesine dönüştürebiliyor 
+     C Tabanca patlama gürültüsünün gerçekten susturulabiliyor olması son derece şaşırtıcı, ancak susturucular aslında çok basit bir ilke ile çalışıyorlar. Bir balon düşünün. Balonu iğne ile patlatırsanız, çok ses çıkar, ama ağzını açarak içindeki havayı boşaltırsanız, çok az ses çıkardığını göreceksiniz. Susturucunun çalışmasının ardındaki temel fikir de aynen budur. 
+     S Elmayı yedikten sonra çöpü neden kararıyor Elmadaki glikoz ve havadaki oksijenle bir alakası var mı 
+     C Elmayı ısırdıktan sonra havayla temas eden hücreler okside oldukları için üzerinde kahverengi lekeler oluşuyor. 
+     S Mısır patlayınca niçin beyaz rengi alıyor 
+     C Mısırın patlaması, içeriğindeki suyun ısı nedeniyle yaptığı basıncın bir sonucu. Öz halindeki mısır taneciği ısıtıldığında, içeriğindeki su da buhar haline dönüşüp basınç yaratıyor ve bu basınç taneciğin kabuğunu zorlamaya başladığında da mısırı patlatıyor. Bu gerçekleştiğinde dışarı çıkan kabarık beyazlık ise tane içeriğindeki nişastadan başka bir şey değil. 
+     
+     BİSİKLETLE BİLGİSAYARIM ÇALIŞIR MI 
+
+     S Sık sık elektrik kesilmeleri oluyor. Bisikletin üstüne otursam ve çevirebildiğim kadar hızlı bir biçimde pedalları çevirsem, bilgisayarımı çalıştıracak kadar elektrik üretebilir miyim 
+     C Normal bir insan ancak yarım saat kadar bu ağır işe dayanabilir, sonra yorgun düşer. Bu sorunun çözümü masa üstü bilgisayarı yerine diz üstü bilgisayarı kullanmak olabilir, çünkü diz üstü bilgisayarlar pille de çalışmak üzere tasarlanmıştır. 
+     S Çekirdeksiz üzüm nasıl oluyor ve çekirdek olmayınca yeniden üreyebiliyor 
+     C Manavlar ve marketlerde satışa sunulan üzümlerin büyük bir bölümünün çekirdeksiz olduğu düşünülürse, bu üzümlerin çekirdekten üremedikleri açık. Üzümün yanı sıra daha pek çok meyvenin de çekirdekten üremediğini biliyoruz. 
+     S Kolanın zararları var mıdır, varsa nelerdir 
+     C Kolanın içinde renklendirici maddeler, karamel, fosforik asit, tatlandırıcılar, keçi boynuzu özütü ve kafein bulunur. Bu maddelerden fosforik asit oldukça kuvvetli bir asittir ve diş çürümelerine sebep olur. 
+     
+     TOPUN HIZI NASIL ÖLÇÜLÜR 
+
+     S Maçlarda topun hızını nasıl ölçüyorlar 
+     C Maçlarda, özellikle de tenis maçlarında topun hızını ölçmek üzere geliştirilmiş radarlar kullanılır. Bu radarlar üzerlerindeki algılayıcılar yardımıyla, kolaylıkla mesafe ve zaman ölçülerek, bilgisayar yardımıyla topun hızının hesaplanmasını sağlarlar. 
+     S Yerde biriken kar neden alttan erir 
+     C Yerde biriken karın alttan erimesinin birinci nedeni, toprağın, havaya göre daha sıcak olmasıdır. Ayrıca, üstteki katmanların alttakileri sıkıştırması sonucu da kar tabakasının alt bölümü, üste kıyasla daha sıcak olur. Kar altında kalan bitkilerin donmamasının nedeni de budur. 
+     S Kurşun kalemlerin içinde gerçekten kurşun olup olmadığını merak ediyorum. Eğer gerçekten varsa bu sağlığa zararlı değil mi 
+     C Kurşun kalemlerin içinde, kurşun değil, yumuşak bir karbon cinsi olan grafit bulunur. Sağlığa zararlı değildir, kurşun kalem denmesinin nedeni, rengi olsa gerek. 
+     S Ben balıkların hafızalarının niçin anlık olduğunu, bununla birlikte ölme risklerinin yüksek olup olmadığını yemek yediklerini unuttukları için merak ediyorum 
+     C Anlık hafızadan söz ederken kastedilen balıklar, çoğu kültür üretim sonucu elde edilmiş melez akvaryum balıklarıdır. Denizlerde ve tatlı sularda yaşayan kıkırdaklı ve kemikli balık türlerinde ise böyle bir durum söz konusu değil. Daha doğrusu, bu canlıların bir hafızaları var, ancak hafızanın oluşturulması işlemi oldukça yavaş gerçekleşiyor. 
+     S Leyleklerin hamilelik dönemi ne kadar sürer 
+     C Kuşlarda ''doğum'' olayından söz edemediğimiz gibi bir ''hamilelik'' döneminden de bahsedemeyiz. 
+     S Gökyüzü neden mavi ve güneş batarken ufuk neden turuncu renge bürünüyor 
+     C Güneş, ufka yakın olduğunda Güneş ışınları atmosfere yatay olarak girer ve daha fazla yol kateder. Bu sırada, ışığın büyük bölümü soğurulur. Mavi ışık, öteki renklere oranla daha fazla soğurulduğundan, Güneş kırmızı bir renk alır. Eğer havada pus veya ince bulutlar varsa, Güneş'in eğik gelen ışınları bunlardan yansır. Yine, yerden yansıyan kırmızı ışık da gökyüzünün kırmızı bir renk almasına yol açar. 
+     S Kızlık zarı hangi hayvanlarda bulunur 
+     C Bu koruyucu zar birçok karasal memelide sıçan, köstebek, at, sırtlan, lama, lemur, vs. bulunuyor. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

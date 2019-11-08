@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 377000 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/09/son/sondun20.html </URL>
+<DATE> 2005/09/09/ </DATE>
+<TIME> 13.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Japonya, kravatsız işten büyük tasarruf sağladı 
+</HEADLINE>
+<TEXT>
+
+     Japonya'da işe kravatsız gidilmesi amacıyla düzenlenen ''Cool Biz'' Rahat İş kampanyası sayesinde bu yaz 70 milyon kilovat saat elektrik tasarrufu sağlandığı bildirildi. 
+     Tepco Tokyo Electric Power elektrik şirketinden yapılan açıklamada, bu yazın çalışanlarca kravatsız ve ince gömleklerle geçirilmesi sayesinde daha az klima çalıştırıldığı, elektrik tasarrufunun yanı sıra çevreyi kirleten atıkların 27 bin ton azaldığı belirtildi. 
+     Aynı zamanda dünyanın en büyük elektrik şirketi olan Tepco'nun yöneticileri, Haziran'dan Ağustos'a kadar yapılan bu tasarrufun, bu dönem sırasında üretilen toplam elektrik miktarının sadece yüzde 0.08'ini oluşturduğunu, ancak bu miktarın 240 bin hanenin bir aylık elektrik harcamasına karşılık geldiğini kaydettiler. 
+     Japonya'da bu yaz Başbakan Juniçiro Koizumi başta olmak üzere tüm hükümet üyeleri kamuoyu önüne kravatsız ve ince gömleklerle çıkarak, daha az klima çalıştırılması ve bu sayede elektrik tasarrufunun yanı sıra atmosfere daha az karbondioksit gazı salınımının sağlanması için örnek olmaya çalışmışlardı. 
+     Binalarda 28 derecenin altında klima çalıştırılmamasını hedefleyen kampanyaya Çevre Bakanlığı da sera etkisine yol açan gazların azaltılmasını sağlamak için destek olmuştu. 
+     Japon hükümeti, kışın da ''Warm Biz'' Sıcak İş adlı yeni bir kampanya başlatmayı ve çalışanları kalın yün kıyafetler ve diğer sıcak tutan giysiler giymeye teşvik ederek, işyerlerinin sadece 20 derece sıcaklıkta tutulmasını hedefliyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 185279 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/29/son/sondun12.html </URL>
+<DATE> 2003/09/29/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İE'deki güvenlik açığı yüzünden yüksek faturalara dikkat.. 
+</HEADLINE>
+<TEXT>
+
+     Uzmanlar, Microsoft'un internet tarayıcısı İE'deki güvenlik açıkları yüzünden kullanıcıların yüksek telefon faturaları ödemek zorunda kalabilecekleri uyarısında bulundular. 
+     Uzmanların saptamalarına göre, bu boşluklardan yararlanan hacker'lar, kullanıcıların bilgisayarlarının telefon bağlantısı ayarlarıyla oynayarak, onları uzun mesafe telefon hatları üzerinden pornografik sitelere yönlendiriyorlar. 
+     Boston'da yaşayan bilgisayar güvenlik uzmanlarından Richard Smith'in verdiği bilgiye göre, bu şekilde yönlendirildiğinin farkına varmayan kullanıcı, normal bağlantı ücreti yerine dakikada 5 dolar ödemek zorunda bırakıldığını ancak telefon faturası geldiğinde fark ediyor, ancak iş işten geçmiş oluyor. 
+     Bir diğer korsanlık yönteminin ise kullanıcıların, satıcıların siteye giriş yapan her kişi başına ücret aldıkları sitelere yönlendirilmesi olduğu kaydedildi. 
+     Uzmanlar, kullanıcıların bilgisayarlarına bilgileri dışında yerleştirilen bazı küçük programların perde gerisinde faaliyet gösterdiklerini ve kullanıcının başına büyük sorunlar çıkardıklarını ifade ettiler. 
+     Bu nedenle kullanıcıların, http www.microsoft.com technet security adresinde yer alan yamaları vakit geçirmeden indirip yerleştirmeleri tavsiye ediliyor. 
+     
+</TEXT>
+</DOC>

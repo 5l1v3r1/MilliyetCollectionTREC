@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 195007 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/12/son/sondun31.html </URL>
+<DATE> 2003/11/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Gizli kamera kullanımına ilginç önlem... 
+</HEADLINE>
+<TEXT>
+
+     Güney Kore'de, kamuya açık alanlarda kameralı cep telefonlarıyla izinsiz görüntüleme olaylarının artması üzerine üreticilere, bütün yeni kameralı aletlerde, fotoğraf çekildiğinde sesli alarm verecek sistemin konulması talimatı verildi. 
+     Telekomünikasyon Bakanlığı ''yeni telefonlarda, fotoğraf çekilince en az 65 desibel seviyesinde bir ses çıkaran sistem bulunacağını, kullanıcı telefonu sessiz moda alsa bile bu alarmın duyulacağını'' açıkladı. 
+     Parlamento, telefon kameraları ve dijital kameraların izinsiz kullanılmasından kaynaklanan ''mahremiyet ihlali'' konularıyla ilgili başka düzenlemeleri de değerlendiriyor. 
+     Güney Kore'de bir kadın telefon kamerasıyla ülkenin en gözde saunasında, kadınların gizlice çıplak fotoğraflarını çekmiş daha sonra bu fotoğrafları bir internet sitesine satmıştı. 
+     Son yıllarda Güney Kore'de satılan 4 milyondan fazla kameralı cep telefonunun sahipleri, kamu alanlarında kendilerini, arkadaşlarını ve çevredeki her şeyi görüntülüyor. 
+     Üreticilerse kullanıcıların cep telefonlarını yaklaşık 2 yılda bir değiştirdiği bir ülke olan Güney Kore'de her 5 telefondan 1'inde kamera olduğunu belirtti. 
+     
+</TEXT>
+</DOC>

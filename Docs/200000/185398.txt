@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 185398 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/29/son/sontur32.html </URL>
+<DATE> 2003/09/29/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kadınlarda bir kısırlık nedeni daha tespit edildi... 
+</HEADLINE>
+<TEXT>
+
+     Kistik fibroz isimli akciğer hastalığı bulunan kadınların çoğunun çocuk sahibi olamamasının nedeni tespit edildi. 
+     Nature Cell Biology dergisinde yayımlanan araştırmaya göre, kistik fibroz hastası kadınlarda bozuk bir protein, spermlerin rahim içindeki hareketliliğini yeterince desteklemeyerek, yumurtanın döllenmesini engelliyor. 
+     Hong Kong Üniversitesi ve Hangzhou'daki Tıp Bilimleri Akademisi'nde görevli bilim adamları, kistik fibroz hastalarında belirli bir proteinin üretimiyle görevli bir genin değişime uğradığını belirterek, CFTR isimli bu proteinin çok sayıda organın salgılarının oluşumu için gerekli olduğunu kaydettiler. 
+     Kistik fibroz hastalarında CFTR proteininin üretimi normal olmadığı için, akciğerlerde nefes almayı zorlaştıran ağdalı mukus oluşur. 
+     Araştırma başkanı Hsiao Chan ve ekibi, CFTR proteininin rahmin iç tabakasına da etki ettiğini tespit etti. Buradaki hücrelerin sağlıklı kadınlarda spermlerin hareketliliğini destekleyen ve bu sayede döllenmeyi sağlayan bir sıvı salgıladığını belirten bilim adamları, bu proteininin yapısının bozuk olması halinde, spermlerin yeterince hareketlenemediğini ifade ettiler. 
+     Şimdiye kadar kistik fibroz hastası kadınlardaki kısırlığın nedeni, rahim boynunun kapanması olarak biliniyordu. 
+     Çinli bilim adamları, bu hastalığı olan kadınların, spermlerin rahme doğrudan enjekte edildiği halde hamile kalamamalarının nedenini böylece açıkladıklarını belirterek, tüp bebek yönteminin genelde başarılı sonuç verdiğini ifade ettiler. 
+     
+</TEXT>
+</DOC>

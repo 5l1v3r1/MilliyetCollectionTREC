@@ -1,0 +1,41 @@
+<DOC>
+<DOCNO> 92389 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/06/27/son/sondun06.html </URL>
+<DATE> 2002/06/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Deneysel bir AIDS ilacı şimdiye kadarkilerden daha etkili 
+</HEADLINE>
+<TEXT>
+
+     Kanada'da Toronto Üniversitesi araştırmacıları, deneysel bir HIV ilacının, şimdiye kadar kullanılan ilaçlardan daha etkili bulunduğunu bildirdi. 
+     HIV virüsüne karşı birçok ilacın denendiğine ve her yeni ilacın, kullanılmakta olan ilaçlar ile aynı etkiye sahip olduğunun belirlendiğine değinen uzmanlar, ilk kez bir ilacın daha etkili bulunduğunu kaydetti. 
+     Daha önce tedavi görmemiş denekler üzerinde yapılan araştırmada, protease önleyici ilaç kombinasyonunun, HIV virüsünü önlemede çok etkili olduğu, hastalar tarafından kullanılmasının da kolay olduğu bildirildi. 
+     HIV'e karşı tedavide en büyük sorunlardan birinin, virüsün ilaçlara karşı bağışıklık kazanması olduğu, yeni ilaç kombinasyonuna karşı ise HIV'in bağışıklık meydana getiremediği açıklandı. İnsan bağışıklık sistemini devre dışı bırakan HIV'e, çoğalabilmesi için protease enziminin yardımcı olduğuna değinen uzmanlar, yeni ilaç tedavisinin bu enzimin aktif olmasını engelleyebildiğini bildirdi. 
+     13 ülkeden HIV taşıyan 6 hasta üzerinde yapılan araştırmada, 
+     hastaların bir kısmına, yeni ilaç kombinasyonu olan lopinavir-ritonavir verildi. Diğer grup yaygın olarak kullanılan protease önleyici nelfinavir ilacı aldı. Her iki gruba da ayrıca, protease önleyici ilaçlar ile birlikte alınan anti-HIV ilaçları verildi. 24 ve 48 haftalık devrelerde deneklerin kanındaki HIV sayısını kontrol eden uzmanlar, kombinasyon ilaç kullanan hastaların kanının her mililitresinde HIV sayısının 50'nin altına inmiş olduğunu gözledi. 
+     
+     İLAÇ KAN DOLAŞIM SİSTEMİNDE ÇOĞALABİLİYOR 
+     Kombinasyon ilaçlardan biri olan ritonavir, diğer ilacın lopinavir vücutta metabolize olmasını yavaşlatarak, kan dolaşım sisteminde ilacın oranının artmasını sağlayabiliyor. 
+     Ritonavirin ortaya koyduğu etki ile lopinavir ilacı oranının kan dolaşım sisteminde yüksek oranda artabildiği ve virüse karşı daha fazla öldürücü etki sağlanabildiği kaydedildi. 
+     Yeni ilaç tedavisinde amaç, ilacın hastanın vücudunda çoğalarak virüse karşı daha öldürücü etki ortaya koyabilmesi ve ilacın vücutta daha uzun kalabilmesi olarak gösteriliyor. 
+     Uygulanan bazı tedavi yöntemlerinde HIV taşıyanların günde üç kez üçer ilaç almak zorunda kaldıkları, ilaç almadıkları zaman vücuttaki ilaç oranının azaldığı ve virüsün daha etkili hale gelebildiği biliniyor. Yeni ilaç kombinasyonuyla hastaların daha az ilaç alabilecekleri belirtildi. 
+     Deneysel ilacı kullanan hastaların yüzde 60 ila 70'inde, bir yıl içinde virüsün her mililitre kanda 50'nin altına düştüğü kaydedildi. 
+     Uzmanlar, ilaç kombinasyonunun daha fazla oranda hasta üzerinde etkili olabilmesinin sağlanabileceğine değindi. 
+     
+     YAN ETKİLERİ 
+     Deneysel ilaç kombinasyonunun, mide bulantısı ve ishale yol açabildiği, deneklerin yüzde 3'ünün bu ilaçları yan etkkilerinden dolayı bırakmak zorunda kaldıkları belirtildi. 
+     Ayrıca deneysel ilaç tedavisi uygulanan hastaların kanında düzensiz oranda yağ oluşabildiği gözlendi. 
+     Kanda yağ lipid oranının artmasının, kalp hastalıkları riskine neden olduğu biliniyor. 
+     Yeni ilaç kombinasyonunun, onay için, Amerikan Gıda ve İlaç Dairesi tarafından değerlendirildiği bildirildi. Uzmanlar ilacın yakın bir zamanda onaylanabileceğini düşünüyor. 
+     Araştırma raporu, New England Journal of Medicine adlı derginin 27 Haziran sayısında yer aldı. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

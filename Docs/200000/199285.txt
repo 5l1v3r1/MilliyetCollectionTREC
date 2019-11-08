@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 199285 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/02/son/soneko44.html </URL>
+<DATE> 2003/12/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türkçe Office Online açıldı... 
+</HEADLINE>
+<TEXT>
+
+     Microsoft Office kullanıcılarına Türkçe içerikle destek olmak amacıyla hazırlanan Office Online açıldı. 
+     http office.microsoft.com adresinde hizmet verecek Office Online'da, Office programlarının özelliklerinin anlatıldığı bölümlerin yanı sıra, yardım bilgileri, çevrimiçi eğitim, ürün güncellemeleri, şablonlar ve Türkçe arama destekli küçük resim galerisi de yer alıyor. 
+     Office kullanıcıları, Office Online'a girdiklerinde eğitimden yardıma, multimedyadan ürün güncellemelerine kadar çok sayıda konuda destek alabiliyorlar. Sitede Office programlarının nasıl kullanacağını açıklayan yardım metinleri, makaleler, ipuçları, testler ve yazılar bulunuyor. 
+     Office'teki yetkinliğini geliştirmek isteyenler ise, bir Word belgesini biçimlendirmekten Access veritabanı oluşturmaya kadar çeşitli konularda kısa, çevrimiçi kurslar alabiliyorlar. Çeşitli görünüm ve özelliklere sahip belgeleri hızlı ve kolayca oluşturmayı sağlayan, profesyonel olarak tasarlanmış Office şablonları arayanlar da Office Online'da istedikleri içeriği bulabilecekler. 
+     İş notlarından özgeçmişlere ve parti davetiyelerine kadar çok sayıda şablon Office Online'da yer alıyor. Bunların yanı sıra en yeni güvenlik ve performans güncellemeleri, görüntüleyiciler, dönüştürücüler, ileti örneği ve diğer yararlı Office yüklemeleri sunuluyor. 
+     Microsoft Türkiye, Office Online'nın parçası olarak, Office 2003 ile entegre olarak çalışan Office Pazaryerini de hizmete sunmaya hazırlanıyor. 
+     Office Pazaryeri hizmete girdiğinde, belgeleri çevrimiçi postalama, sarf malzemesi siparişi verme ve çeviri hizmetleri gibi Office ile sık gerçekleştirilen işleri tamamlayan ürünler ve hizmetler de Türkçe Office Online'ın sunduğu avantajlar arasında yer alacak. Ayrıca, Office Online Türkçe site içeriği aylık olarak güncellenecek, eğitim ve şablonlar bölümlerine sürekli eklemeler yapılacak. 
+     
+</TEXT>
+</DOC>

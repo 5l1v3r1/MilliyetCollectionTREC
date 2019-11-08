@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 356602 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/29/son/soneko21.html </URL>
+<DATE> 2005/06/29/ </DATE>
+<TIME> 11.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bono - tahvil piyasasında faiz yüzde 16.12 seviyesinde... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda 24 Ocak 2007 vadeli, bugün valörlü tahvilin saat 11.45 itibariyle basit getirisi yüzde 16.80, bileşik getirisi yüzde 16.08 seviyesinde bulunuyor. 
+     
+     REPO 
+
+     İMKB Tahvil ve Bono Piyasası Repo-Ters Repo Pazarı'nda gecelik işlemler tek oran yüzde 14.25'ten gerçekleştirildi. 
+     
+</TEXT>
+</DOC>

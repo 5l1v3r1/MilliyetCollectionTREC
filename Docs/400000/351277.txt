@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 351277 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/12/son/soneko04.html </URL>
+<DATE> 2005/06/12/ </DATE>
+<TIME> 10.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayarların düşmanı "Kullanıcılar" 
+</HEADLINE>
+<TEXT>
+
+     Symantec'in Türkiye Müdürü Gökhan Say, bilgisayar sistemlerine en büyük zararın yine bilgisayar kullanıcıları tarafından verildiğini bildirdi. 
+     A.A muhabirinin sorularını yanıtlayan Say, saldırıların yüzde 95'inin doğrudan kullanıcıları hedef aldığını, çünkü korsanların antivirüs ve güvenlik duvarları firewall ile uğraşmaktansa ''kandırılması daha kolay olan'' kullanıcılara yöneldiklerini söyledi. 
+     Kullanıcıların bilerek ya da bilmeyerek .exe, .bat, .com uzantılı dosyalar ile içerisinde truva atı ya da virüs yerleştirilmiş sunumları açmasıyla, bilgisayarın tüm güvenlik önlemlerinin devre dışı kalabileceğine işaret eden Say, bir kamu kuruluşundaki bilgisayarın içine sızan korsanların, tüm sistemi ele geçirebileceğine dikkat çekti. 
+     Güvenliğin bir masraf değil yatırım olduğunu ifade eden Say, tek bir güvenlik açığının bile tüm yatırımı riske düşürebileceğini söyledi. 
+     
+     3 MİLYON SAHTE e-POSTA ADRESİ 
+     Symantec'in kurduğu ''Küresel İstihbarat Sistemi''nin internet trafiğini denetleyerek virüs ve spam postaya karşı tarama yaptığını anlatan Gökhan Say, şirketinin çeşitli sunuculardan açtığı 3 milyon sahte e-posta adresi ile ''kötü niyetli kişileri avladığını'' bildirdi. 
+     Tüm dünyadaki 21 operasyon merkezinde 24 saat boyunca veri akışını incelediklerini anlatan Say, bu sistem sayesinde aniden artan bir hareketlilik durumunda, ilgili veriye müdahale ederek yeni yayılmaya başlayan bir virüsün etkisini sıfıra indirmeye çalıştıklarını da söyledi. 
+     Her ay ortalama 325 milyon kullanıcıya gönderilen yaklaşık 100 milyar e-posta'nın tarandığına işaret eden Say, Blaster ve Sasser gibi virüsleri bu tarama sayesinde keşfettiklerini ve fazla yayılmadan etkisiz hale getirebildiklerini kaydetti. 
+     Say, firmasının, 2004 yılında ar-ge harcamalarına 2,6 milyar dolar harcadığını sözlerine ekledi. 
+     
+</TEXT>
+</DOC>

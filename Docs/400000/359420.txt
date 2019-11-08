@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 359420 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/08/son/sontur06.html </URL>
+<DATE> 2005/07/08/ </DATE>
+<TIME> 00.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ana trafo patladı, İzmir karanlığa gömüldü 
+</HEADLINE>
+<TEXT>
+
+     İzmir’in Eşrefpaşa semtinde bulunan ana trafonun patlaması nedeniyle kent genelinde elektrik kesintisi meydana geldi. 
+     Gediz Elektrik Dağıtım A.Ş. yetkililerinden alınan bilgiye göre, Eşrefpaşa’da bulunan ana trafo, fazla yük gelmesi nedeniyle patladı. 
+     Trafonun hizmet dışı kalmasının ardından kent genelinde elektrik kesintisi yaşanırken, destekleme çalışmalarıyla kentin büyük bir bölümüne tekrar elektrik verilmeye başlandı. 
+     Kesintinin tamamen giderilmesi için çalışmaların sürdüğü kaydedildi. 
+     
+</TEXT>
+</DOC>

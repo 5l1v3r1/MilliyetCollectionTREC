@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 245963 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/07/son/soneko15.html </URL>
+<DATE> 2004/06/07/ </DATE>
+<TIME> 12.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı 235 puanlık artışla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi, önceki kapanışa göre 235.25 puan artışla, 1. seansı 17,943.40 puandan tamamladı. 
+     1. seansta hisse senetlerinin ortalama değer kazancı yüzde 1.33 olarak gerçekleşti. 
+     Cuma günü 17,708.15 puandan kapanan İMKB Ulusal 100 Endeksi, 1. seansa, 24.80 puan kayıpla 17,683.35 puandan başladı. 
+     Seansın ilk yarısını 17,828.01 puandan geçen endeks, seans içinde en düşük 17,609.79, en yüksek 18,004.39 puanı gördü. 
+     Seans sonunda mali endeks 552.26 puan artışla 24,406.69 puana, sanayi endeksi 85.62 puan artışla 15,926.80 puana yükseldi, hizmet endeksi 31.48 puan kayıpla 10,194.03 puana geriledi. 
+     Böylece, önceki kapanışa göre, mali grup hisseler ortalama yüzde 2.33, sanayi grubu hisseler ortalama yüzde 0.54 değer kazanırken, hizmet grubu hisseler ortalama yüzde 0.31 değer kaybetti. 
+     1. seansta işlem gören toplam 300 hisse senedinden 199'u değer kazandı, 45'i değer kaybetti, 56 hissenin fiyatında değişiklik olmadı. 
+     Seansta, 579 trilyon 939 milyar 860 milyon liralık işlem hacmi oluştu. 
+     1. seansta, Yapı Kredi Bankası, Doğan Holding, İş Bankası C , Turkcell ve Garanti Bankası en yoğun işlem gören hisseler oldu. 
+     
+     1. SEANSTA ÇUKUROVA ŞİRKETLERİ... 
+
+     Borsa'da, 1. seansta, Çukurova Grubu şirketleri hisselerinden 3'ü değer kaybetti, 2'si değer kazandı, 2'sinin değeri aynı kaldı. 
+     1. seansta yeniden işlem görmeye başlayan şirketlerden Kaplamin yüzde 3.88, Turkcell yüzde 1.12, Yapı Kredi Sigorta yüzde 3.18 değer yitirdi. 
+     Yapı Kredi Bankası yüzde 1.43, Yapı Kredi Yatırım Ortaklığı yüzde 1.37 oranında yükselirken, Yapı Kredi Finansal Kiralama ve Yapı Kredi Koray hisselerinin fiyatında değişiklik olmadı. 
+     
+</TEXT>
+</DOC>

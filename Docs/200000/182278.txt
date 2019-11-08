@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 182278 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/14/son/soneko02.html </URL>
+<DATE> 2003/09/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türk Telekom'dan internet kullanıcılarına yeni hizmet 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekom, kurum müdürlüklerine gidilmeden internet abonesi olunmasını sağlamak amacıyla internet üzerinden kredi kartıyla abonelik hizmeti başlattı. 
+     Alınan bilgiye göre, Türk Telekom'un internet servisi TTnet'e abone olmak isteyenler, ''http www.abonekayit.ttnet.net.tr'' adresine girip buradaki başvuru formunu doldurarak abone olabiliyor. 
+     Formda, abone olmak isteyen kişinin nüfus bilgileri, telefon numaraları, işyeri adı, vergi numarası, bağlı olduğu vergi dairesi ve kredi kartı bilgileri gibi çeşitli bilgiler isteniyor. 
+     Formu dolduran kişinin kredi kartı hesabından, 1 aylık abonelik için 9.5 milyon lira, 3 aylık abonelik için 22.5 milyon lira, 6 aylık abonelik için 38.5 milyon lira, 12 aylık abonelik için ise 58 milyon lira çekilerek abonelik başlatılıyor. 
+     
+</TEXT>
+</DOC>

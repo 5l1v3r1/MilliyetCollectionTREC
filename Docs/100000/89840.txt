@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 89840 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/06/14/son/sondun33.html </URL>
+<DATE> 2002/06/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+150 yıllık Catalan Teorisi ispat edildi 
+</HEADLINE>
+<TEXT>
+
+     Almanya'daki Paderborn Üniversitesi'nde görevli bir matematikçi ve sayı teorisyeni, 150 yıldır ispatlanamayan Catalan Teorisi'ni ispat etti. 
+     Kripto sistemleri uzmanı Dr. Preda Mihailescu, Fransız matematikçi Eugene Charles Catalan'ın 1814-1894 1844 yılında ortaya attığı, hiçbir sayının belirli bir özelliği olmadığı teorisini ispatladı. 
+     Catalan'ın teorisi şöyle 
+     8 2 x 2 x 2 2 ile 9 3 x 3 3 kuvvetleri arasında fark 1'dir ve bu bağlantının sağlandığı 2'den büyük başka tam sayılar yoktur. 
+     Andrew Wiles ve Richard Taylor, 350 yıl sonra 1995 yılında matematikçi Pierre de Fermat'nın 1601-1665 teorisini ispatlamışlardı. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 233045 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/20/yasam/yas09.html </URL>
+<DATE> 2004/04/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Uzay Hali 
+</HEADLINE>
+<TEXT>
+
+      
+   3 milyon kurtçuk uzaya gönderildi    DIŞ HABERLER SERVİSİ 
+   Uluslararası Uzay İstasyonu'nda UUİ görev yapacak 9. ekibi taşıyan Rus Soyuz TMA - 4 uzay aracı dün uzaya fırlatıldı. 'Soyuz', Rus kozmonot Gennady Padalka, Amerikalı astronot Michael Fincke ve Hollandalı fizikçi Andre Kuiper ile üç milyon kurtçuğu da uzaya taşıdı. İnsanla çok sayıda ortak gene sahip olan 'Caenorhabditis elegans' kurtçuklarının uzaydaki 10 günü, bir insanın aynı ortamda geçireceği 10 yıla eşdeğer. Proje ile, uzun uzay yolculuklarının insanlara etkilerinin belirlenmesi amaçlanıyor. 
+   
+      'Örümcek' adamlar yerçekimine karşı    DIŞ HABERLER SERVİSİ 
+   Alman ve İsviçreli bilim adamları, astronotların yerçekimsiz ortamda uçmadan hareket etmelerini sağlayacak yeni bir donanım geliştirmek için 'sıçrayan örümcekleri' evarcha arcuata mercek altına aldı. Örümceklerin her yüzeye yapışmalarını sağlayan 'sırlarını' incelemeye alan bilim adamları, bu bilgiler ışığında astronotlar için özel geliştirilecek bir yapışkanla kaplı ayakkabı ve donanımlar hazırlanabileceğini umuyor. 
+   
+   
+</TEXT>
+</DOC>

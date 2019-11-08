@@ -1,0 +1,46 @@
+<DOC>
+<DOCNO> 362230 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/18/son/sonyas23.html </URL>
+<DATE> 2005/07/18/ </DATE>
+<TIME> 23.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+"Elektronik İmza" uygulaması başladı... 
+</HEADLINE>
+<TEXT>
+
+     Türkiye’de elektronik alanda birçok yenilik getiren ve ıslak imza ile aynı hukuki sonuçları doğuracak elektronik imza e-imza uygulaması başladı. 
+     İlk elektronik imzalar Devlet Bakanı ve Başbakan Yardımcısı Abdüllatif Şener ve Ulaştırma Bakanı Binali Yıldırım’a verilirken, e-imza sertifikası dağıtacak TÜBİTAK’ın yanısıra, Türktrust ve E-güven firmaları da yetki belgelerini aldılar. 
+     Telekomünikasyon Kurumu, e-imza uygulamasının başlatılması dolayısıyla Bilkent Oteli’nde bir toplantı düzenledi. 
+     Devlet Bakanı ve Başbakan Yardımcısı Şener, törende yaptığı konuşmada, bilgi toplumuna geçişte e-imzanın kilometre taşlarından birisi olduğunu belirtti. 
+     E-imza yasasının çıktığını ve ikincil düzenlemelerin yapıldığını anımsatan Şener, uygulama detaylarının saptandığını, bugün e-imza kullanımının fiili olarak başladığını kaydetti. 
+     Bilgi ve iletişim teknolojilerinin toplumsal yaşamın her alanında kullanılmasıyla ekonomik, sosyal ve yaşamda köklü değişiklikler meydana geldiğini belirten Şener, ülke refahının bu sayede arttığını, bunun bilgi toplumuna dönüşüm olarak adlandırıldığını kaydetti. 
+     Bu dönüşümün avantaj ve riskleri konusunda tartışma yaparken, en yüksek faydayı sağlamak üzere stratejiler geliştirildiğini, Türkiye’de de bu konuda çalışmalar yapıldığını anlatan Şener, konunun hükümet tarafından büyük bir önem ve kararlılıkla ele alındığını, Türkiye’nin bilgi toplumuna dönüşümünü hızlandırmak üzere E-dönüşüm Türkiye Projesi’nin başlatıldığını ifade etti. 
+     
+     E-DÖNÜŞÜM TÜRKİYE PROJESİ 
+     Bu projeyi E-dönüşüm Türkiye İcra Kurulu’nun yönlendirdiğini kaydeden Şener, proje kapsamında yıl sonuna kadar 42 bin 500 okulun geniş bant internet erişimine sahip olacağını ifade etti. 
+     Proje kapsamındaki çalışmalarla, SSK bildirgelerinin ve vergilerin elektronik ortamda yapılabilmesine olanak sağlandığını anlatan Şener, yargıda köklü değişiklikler yapan Ulusal Yargı Ağı Projesi’nin hayata geçirildiğini, gümrük ve E-devlet Kapısı çalışmalarının yapıldığını, ayrıca bu alanda hukuki düzenlemeler getirildiğini belirtti. Şener, şöyle devam etti 
+     "Ülkemizin bilgi teknolojilerini kullanarak, kamu hizmetlerinin etkinleştirilmesi ve işletmelerin rekabet gücünün arttırılması amacıyla bilgi toplumuna dönüşüm yönünde önemli adımlar atılmaktadır. 
+     Tüm bu çalışmalar sonucunda Türkiye büyük bir ekonomiye ve nüfusa sahip ülke olarak yavaş yavaş uluslararası karşılaşmalarda da her yıl daha yukarılara tırmanmaktadır." Dünya ekonomi formu e-hazırlık sıralamasında Türkiye’nin 2003’te 56. sırada yer alırken 2004’te 52. sıraya yükseldiğini, Orta Avrupa 
+     ülkelerinde e-devlet hizmetleri araştırmasında 11 ülke arasında Türkiye’nin 6. sırada bulunduğunu belirten Şener, bir başka araştırmada kamu hizmetlerinin elektronik sunumu konusunda Türkiye’nin pek çok ülkeyi geride bırakarak 9. sıraya yükseldiğini kaydetti. 
+     Elektronik ortamdaki işlemlerde yaşanan problemlerin e-imza ile aşılacağını, e-imza sayesinde internetten ürün satın almanın ve ödemelerin kolaylaşacağını vurgulayan Şener, "Elektronik ortamda hizmet sunumu yaygınlaştıkça e-imza kullanımı da artacaktır. Bu nedenle önümüzdeki dönemde kamu kurumlarında e-imzanın yoğun bir şekilde kullanıldığını göreceğiz" dedi. 
+     Şener, e-imzanın artık hayatın ayrılmaz bir parçası haline geleceğini ülkenin bilgi toplumuna dönüşümünü sağlamak ve vatandaşların yaşam kalitesini ve refah düzeyini artırmayı hedeflediklerini bildirdi. 
+     
+     BİNALİ YILDIRIM’IN KONUŞMASI 
+     Ulaştırma Bakanı Yıldırım da haberleşme teknolojilerindeki gelişmenin büyük bir hızla devam ettiğini, son 10 yılda yeniliklerin birbirini kovaladığını kaydetti. 
+     Teknolojik imkanları kullanarak insanların günlük hayatını kolaylaştırma ve kamunun bürokrasisini azaltmanın kaçınılmaz bir görev olduğunu vurgulayan Yıldırım, bunun için E-imza Yasası’nın çıkarıldığını ifade etti. 
+     Haberleşme teknolojilerinde son dönemde kaydedilen aşamalardan söz eden Yıldırım, artık her şeyin bilgisayar üzerinden yapılabildiğini belirtti. Artık çalışma hayatının belirli saatlerle sınırlı olmaktan çıktığını da ifade eden Yıldırım, günün herhangi bir saatinde bilgisayardan işlem yapılabildiğini kaydetti. Yıldırım, bu işlemlerin, espriyle "elektronik zımbırtı" diye ifade ettiği USB Tooken ya da akıllı kartlarla yapılabildiğini belirtti. 
+     Kamu kuruluşlarının da e-imza vasıtasıyla yazılarını güvenle gönderebileceğine işaret eden Yıldırım, uygulamanın çok kısa sürede yayılacağına inandığını ifade etti. 
+     
+     DİĞER KONUŞMALAR 
+     Elektronik imza uygulamalarını denetleme görevi verilen Telekomünikasyon Kurumu’nun Başkanı Tayfun Acarer, e-imza uygulamasında Türkiye’nin birçok AB ülkesinden ileride olduğunu belirtti. 
+     Acarer, kamu çalışanlarının e-imza sertifikalarını TÜBİTAK’tan almalarının kararlaştırıldığını da ifade etti. 
+     TÜBİTAK Başkan Vekili Prof. Dr. Nüket Yetiş de e-imza uygulamasının geleceğe bir kapı açacağını, uygulama konusunda uluslararası standartların sağlandığını belirtti. Yetiş, Türkiye’nin teknolojiyi ne kadar hızlı yakaladığını bu uygulamanın ortaya koyduğunu sözlerine ekledi. 
+     
+     ŞENER, E-İMZASINI AKTİF HALE GETİRDİ 
+     Konuşmaların ardından kamu kurumlarına e-imza sertifikası sağlamakla görevlendirilen TÜBİTAK tarafından üretilen ilk e-imzalar Şener, Yıldırım ve diğer üst düzey yöneticilere verildi. Şener, kendisi için üretilen e-imzayı platformdaki bilgisayarda kullanarak, aktif hale getirdi. 
+     Törende, kamu kurumlarına sertifika üretecek Kamu Sertifikasyon Merkezi Müdürü Erkan Tekman ile özel sektörde faaliyet gösterecek Türktrust A.Ş Yönetim Kurulu Başkanı Bahtiyar Türker ve E-güven A.Ş Yönetim Kurulu Başkanı Faruk Eczacıbaşı’na yetki belgeleri de verildi. 
+     
+</TEXT>
+</DOC>

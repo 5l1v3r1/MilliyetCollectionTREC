@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 168696 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/11/son/sondun03.html </URL>
+<DATE> 2003/07/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Google fena ''hack''lendi... 
+</HEADLINE>
+<TEXT>
+
+     İnternet'in en çok kullanılan arama motoru Google, Irak'la savaşa karşı bir İngiliz eczacı tarafından ilginç bir şekilde ''hack''lendi. 
+     İnternet kullanıcısı ''www.google.com''da, arama yerine ''weapons of mass destruction'' kitle imha silahları yazıp, ''Im feeling lucky'' ya da türkçe sitede ''kendimi şanslı hissediyorum'' tuşunu tıkladığında, karşısına, herhangi bir siteye ulaşılamadığında çıkan hata sayfasının bir benzeri ancak, ''kitle imha silahları gösterilemedi'' yazılı olanı çıkıyor. 
+     Arama motorunu hackleyen savaş karşıtı İngiliz eczacı Anthony Cox, amacının dünya kamuoyunu dikkatini yeniden Irak'a çekerek, savaşı nedeni olan kitle imha silahlarının bulunamayışının hesabının sorulması olduğunu belirtiyor. 
+     Şubat ayında BM silah denetçilerinin şefi Hans Blix'in Irak'ta işbirliği sağlanamaması konusundaki açıklamalarını İnternet'te okuduktan sonra istediği siteye giremediğini anlatan Cox, karşısına ''hata sayfası'' çıkınca birden aklına ''kitle imha silahları hata sayfasını'' hazırlamak geldiğini kaydetti. 
+     Savaş karşıtı Cox, hazırladığı ve uk.re.humour adresinde yayınladığı sayfanın çok ilgi çektiğini ve ilk 24 saate 150 bin kişinin siteyi ziyaret ettiğini belirterek, Şubat sonunda bir milyon ziyaretçinin kendisine izlenim yazdığını bildirdi. 
+     Sayfasını temmuz ayının başında google arama motoruna bağlamasıyla 4 günde 4 milyon kişinin siteye giriş yaptığını belirten savaş karşıtı Cox, amacına ulaştığını belirtiyor. 
+     İngiltere'de Aston Üniversitesi'nde ilaç tepkilerinin izlenmesi konusunda ders de veren Cox, ayrıca ''www.blacktriangle.org'' sitesinde ilaç güvenliği konusunda uyarılarda bulunuyor. 
+     
+</TEXT>
+</DOC>

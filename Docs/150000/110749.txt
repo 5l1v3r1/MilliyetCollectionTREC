@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 110749 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/10/02/son/soneko05.html </URL>
+<DATE> 2002/10/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Windows-XP ikinci sıraya oturdu... 
+</HEADLINE>
+<TEXT>
+
+     Microsoft'un geçen yıl sonunda piyasaya çıkardığı Windows-XP işletim programının dünyada en yaygın kullanılan 2. işletim sistemi haline geldiği açıklandı. 
+     ''WebSideStory'' piyasa araştırma kuruluşunun araştırmasına göre dünyada en yaygın işletim sistemi hala, yüzde 37'lik pazar payı ile Windows-98. Windows-XP ise kısa sürede yüzde 20'lik kullanma oranına erişerek ikinci sıraya yerleşti. 
+     Windows-XP piyasaya çıktığında Windows-98'in payı yüzde 50 idi. 
+     2001 yılı Kasım'ında piyasaya çıkan Windows-XP'nin satışlarının başlangıçta yavaş gitmesi kaygıya yol açmıştı. Ancak XP'nin kısa sürede kullanıcıların beğenisini kazandığı ve hızlı bir atılım yaptığı belirtildi. WebSideStory'nin başkan yardımcısı Geoff Johnston, ''XP'nin önümüzdeki aylarda internette en çok kullanılan işletim sistemi olacağına inandığını'' ifade etti. 
+     Öte yandan internette en yaygın olarak kullanılan tarayıcının, yüzde 90'ın üzerinde pazar payı ile Microsoft'un IE internet explorer tarayıcısı olduğu öğrenildi. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

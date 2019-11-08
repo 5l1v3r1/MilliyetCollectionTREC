@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 343459 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/17/son/sonyas08.html </URL>
+<DATE> 2005/05/17/ </DATE>
+<TIME> 09.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Times internet sitesini kısmen ücretli hale getiriyor 
+</HEADLINE>
+<TEXT>
+
+     ABD’nin en etkin gazetelerinden New York Times, bugüne kadar herkes için ücretsiz olan internet sitesini abone olmayanlara kısmen ücretli hale getiriyor. 
+     New York Times’ın yorum yazarlarının, makalelerini ve bazı hizmetlerini ücretli hale getirme kararı aldığı ve bu kararı Eylül ayından itibaren uygulamaya koyacağı belirtildi. 
+     Kararın uygulamaya girmesiyle gazeteye abone olmayanların internet sitesindeki yorum yazılarına ve gazete arşivine ancak 49.95 dolar ücret ödemek suretiyle TimesSelect adı verilen üyelikle ulaşabileceği kaydedildi. Gazete abonelerininse tüm bu hizmetlerden ücretsiz yararlanmayı sürdüreceği bildirildi. 
+     Kararın uygulamaya geçirilmesinden sonra TimesSelect üyeleri ve New York Times aboneleri dışındakiler David Brooks, Maureen Dowd, Tom Friedman, Bob Herbert, Nicholas Kristof, Paul Krugman, Frank Rich, John Tierney, Dave Anderson, Peter Applebome, Harvey Araton, Dan Barry, Clyde Haberman, Gretchen Morgenson, Joe Nocera, Floyd Norris, Joyce Purnick, William Rhoden, Selena Roberts, George Vescey, Roger Cohen ve John Vinocur’un da dahil olduğu New York Times’ın yorum yazarlarının yazılarına Internet üzerinden ulaşamayacak. 
+     TimesSelect’e üye ya da gazeteye abone olmayanlar ayrıca, TimesPast adı verilen gazetenin internetteki geniş arşivinde tarama yapamayacak, işitsel ve görsel yayınlara giremeyecek, gazetenin çeşitli eklerine erken bir saatte ulaşma imkanından mahrum kalacak ve önemli haberler konusunda e-posta uyarıları alamayacak. 
+     
+</TEXT>
+</DOC>

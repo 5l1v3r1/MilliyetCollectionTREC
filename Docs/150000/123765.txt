@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 123765 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/12/10/son/soneko33.html </URL>
+<DATE> 2002/12/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa günü 13 bin puanın üzerinde tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Bileşik Endeksi 2. seansta 265.43 puan artarak, 13,047.76 puandan kapandı. 
+     Hisse senetleri, ikinci seansta ortalama yüzde 2.08 oranında değer kazandı. 
+     İlk seanstaki 78.55 puanlık artış dikkate alındığında, borsa endeksi günün tamamında 343.98 puan yükseldi. Hisse senetlerindeki günlük artış ise yüzde 2.71 oldu. 
+     Endeks 2. seansa, 8.05 puanlık artışla 12,790.38 puandan başladı. Endeks, seansın ilk yarısını 174.26 puan artıda 12,956.59 puandan geçti. Endeks seans içinde en düşük 12,728.25 puana gerilerken, en yüksek olarak kapanıştaki 13,047.76 puana ulaştı. 2. seansta hisse senetleri ortalama yüzde 2.08 oranında artış kaydetti. 
+     Kapanışta mali endeks 333.24 puan artışla 16,450.89 puana, sanayi endeksi 247.20 puan artışla 12,389.17 puana ve hizmetler endeksi 177.11 puan artışla 8,355.28 puana yükseldi. 
+     Böylece ilk seansa göre mali grup hisseler ortalama yüzde 2.07, sanayi grubu hisseler ortalama yüzde 2.04 oranında ve hizmet grubu hisseler ortalama yüzde 2.17 oranında değer kazandı. 
+     İşlem gören toplam 292 hisse senedinden 25'i değer yitirirken, 193 hisse senedi değer kazandı. 74 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta, 276 trilyon 75 milyar 794 milyon liralık işlem hacmi kaydedildi. İki seanstaki işlem hacmi toplamı da 453 trilyon 724 milyar 947 milyon lira oldu. 
+     İş Bankası C , Garanti Bankası, Yapı ve Kredi Bankası, Doğan Holding ve Tüpraş en yoğun işlem gören hisse senetleri olarak belirlendi. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

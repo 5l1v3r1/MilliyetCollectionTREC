@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 307159 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/17/son/soneko08.html </URL>
+<DATE> 2005/01/17/ </DATE>
+<TIME> 09.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kablo zarar gördü, internet felç oldu... 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekom, yurt dışı internet erişimini sağlayan alternatif kablolardan birisi olan MedTürk denizaltı kablosunun, Marmara Denizi'ndeki kısmının zarar gördüğünü ve yedeklerin çalıştırıldığını bildirdi. 
+     Telekom'dan yapılan açıklamada, 16 Ocak'ta yurtdışı internet erişimini sağlayan kablolarda bir zarar meydana geldiği ve nedeninin araştırıldığı belirtilerek, "Günün en yoğun saatlerinde maksimum 7 Gbps'lik kapasite ihtiyacının yüzde 56'sı olan 3.9'luk Gbps kısmı, kablonun kopmasından sonra hizmete verilen yedek kapasitelerle karşılanmaktadır" denildi. 
+     Alternatif güzergahlardan yeni ek kapasite temin etme yönünde çalışmaların sürdürüldüğünü belirten Telekom, kopan kablonun tamir edilmesiyle ilgili çalışmaların sürdürüldüğünü kaydetti. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 296569 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/10/son/soneko41.html </URL>
+<DATE> 2004/12/10/ </DATE>
+<TIME> 16.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Reel kesim güven endeksi geriledi... 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası tarafından düzenlenen İktisadi Yönelim Anketi Reel Kesim Güven Endeksi MBRKGE , Kasım ayında bir önceki aya göre 3.9 puan, geçen yılın aynı ayına göre ise 2.7 puan gerileyerek, 104.0 değerini aldı. 
+     Merkez Bankası, Kasım ayına ilişkin Reel Kesim Güven Endeksi'nin sonuçlarını açıkladı. 
+     Buna göre Endeksi oluşturan anket sorularına ait yayılma endeksleri Ekim ayına kıyasla incelendiğinde, iç pazara satılan mal hacmi eğilimi yüzde 13.3 oranındaki düşüşle en fazla gerileyen kalem oldu. 
+     Bu düşüşü genel gidişat kaleminde görülen yüzde 5.6 oranındaki gerileme takip etti. Toplam sipariş eğiliminde görülen gerileme, mevsimsel etkilerden arındırıldığında bir miktar artışa denk gelirken, üretim hacmi beklentisi yaklaşık olarak aynı seviyesini korudu. 
+     Diğer alt kalemlerden toplam istihdam ve ihracat imkanları beklentileri sırasıyla yüzde 3.4 ve yüzde 2.3 oranlarındaki düşüşle endeksi azaltıcı yönde etkileyen kalemler oldu. Öte yandan hammadde stok eğilimi ve yatırım harcaması beklentisi, endekse pozitif etki yapan kalemler oldu. Mamul mal stok eğilimindeki artışın ise mevsimsel etkilerden kaynaklandığı ve bu etkilerden arındırıldığında bir miktar azalış olduğu gözlendi. 
+     Geçen yılın Kasım ayına göre karşılaştırma yapıldığında ise genel gidişat, ihracat imkanları beklentisi ile iç pazara satılan mal hacmi eğilimi geçen seneki değerlerinin altında kalırken, toplam istihdam beklentisinde önemli bir değişiklik gözlemlenmedi. 
+     Diğer alt kalemler ise geçen seneki seviyelerinin üzerinde değerler aldı. 
+     
+</TEXT>
+</DOC>

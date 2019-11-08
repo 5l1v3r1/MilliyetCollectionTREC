@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 191786 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/28/son/sondun09.html </URL>
+<DATE> 2003/10/28/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft'tan yeni işletim sistemi... 
+</HEADLINE>
+<TEXT>
+
+     Yazılım firması Microsoft, Windows-XP'den sonra hizmete sunacağı ve kod adı "Longhorn" olan en son işletim sistemini Los Angeles'da düzenlediği basın toplantısıyla kamuoyuna açıkladı. 
+     Yeni işletim sistemi, dosyalama alanında getirdiği yeniliklerin yanı sıra internetle çok daha sıkı ilişki içinde bulunacak, güvenlik açısından yeni özellikler taşıyacak ve hepsinden önemlisi kullanıcıları çok daha az "reboot" etme bilgisayarı yeniden başlatma mecburiyetiyle karşı karşıya bırakacak. 
+     Basın toplantısında konuşan Microsoft'un kurucusu Bill Gates, "Longhorn'un Windows-95'ten bu yana en ilginç özelliklere sahip, son 10 yılın en önemli yazılımı olacağını" ifade etti. 
+     Gates "gelecek kuşak yazılımların getireceği avantajlar arasında ses tanıma ve sentez, entegre telefon servisi ve çok daha mükemmel grafik kapasitesinin bulunduğunu" belirtti. 
+     Bill Gates ve diğer Microsoft yöneticileri, Longhorn'un ne zaman piyasaya çıkacağı konusunda açıklamada bulunmaktan kaçındı. 
+     Ancak uzmanlar, beta sürümü hazırlanan bir ürünün nihai sürümünün 3 ay ile 1 yıl arasında piyasaya verildiğini kaydettiler. 
+     Microsoft'un işletim sistemleri, dünyadaki bilgisayarların yüzde 95'inden fazlasında kullanılıyor. 
+     Longhorn işletim sisteminin getireceği yenilikler arasında, ekranın sağ kenarında belirecek olan "sidebar" önde geliyor. 
+     Sidebar'da mesaj listeleri, borsa haberleri ve en son haberlerin yanı sıra bir saat ve fotoğraflar bulunacak. 
+     Longhorn'un ayrıca eski işletim sistemlerinden çok daha güvenli olacağı, yeni bir grafik ve tanıtım teknolojisi bulunacağı, WinFS adı verilen yeni bir dosyalama sistemine sahip olacağı, ayrıca yeni ağ ve iletişim teknolojisi kullanacağı bildirildi. 
+     Basın toplantısında, Microsoft'un geliştirmekte olduğu .net programlamasında kullanılacak "WinFX" adlı program da tanıtıldı. 
+     
+</TEXT>
+</DOC>

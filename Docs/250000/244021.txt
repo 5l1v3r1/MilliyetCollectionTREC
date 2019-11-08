@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 244021 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/30/son/sontur08.html </URL>
+<DATE> 2004/05/30/ </DATE>
+<TIME> 10.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hırsızlara kısa mesajlı çözüm... 
+</HEADLINE>
+<TEXT>
+
+     Konya'da bir üniversite öğrencisi, eve hırsız girdiğini cep telefonuna mesajla bildiren bir sistemin proje çalışmalarını tamamladı. 
+     Selçuk Üniversitesi Teknik Eğitim Fakültesi Bilgisayar Öğretmenliği Bölümü son sınıf öğrencisi Muammer İyikarsak, bitirme tezi olarak, merak duyduğu güvenlik sistemleri konusunu seçtiğini söyledi. 
+     Güvenlik sistemlerinin özellikle son yıllarda büyük önem kazandığını belirten İyikarsak, bu alanda faaliyet gösteren birçok firmanın önemli çalışmalarda bulunduğunu ifade etti. 
+     Okul bitirme tezini hazırlarken, daha önce düşünülmemiş bir konu üzerinde çalışmayı istediğini kaydeden İyikarsak, şunları söyledi 
+     ''Bunca otomasyon teknolojisine rağmen, ev ve işyeri hırsızlığı hala önemli bir sorun olarak karşımıza çıkıyor. Ben de projeme hayatımızın önemli bir parçası haline gelen cep telefonlarını dahil ederek, bu sorunun çözümüne katkıda bulunmak istedim. Çünkü insanlar cep telefonlarını sürekli olarak yanlarında taşıyorlar. Olası bir hırsızlık durumunda ev sahibine, en hızlı cep telefonundan ulaşılabilir diye düşündüm. Bunu da projemde uygulamaya geçirdim'' Projesinde öncelikle bir ''devre'' hazırladığını anlatan İyikarsak, hazırlan devrenin de bir cep telefonuna yönlendirildiğini söyledi. Sistemin geliştirilen döngü komutlarını çalıştırarak, cep telefonu ile seri iletişim kurduğunu ve belirlenen telefon numarasına kısa mesaj yollayabildiğini anlattı. 
+     Hazırladığı devrenin ev ya da araba kapısına monte edildiğini belirten İyikarsak, kapının biri tarafından açılması halinde sistemin otomatik olarak devreye girerek, boş bir kısa mesaj yolladığını ifade etti. 
+     İyikarsak, bu sayede ev veya otomobil sahibinin olaydan anında haberdar olduğunu söyledi. 
+     Ürettiği sistem için patent almak istediğini belirten İyikarsak, sistemin benzerinin şu ana kadar Türkiye'de geliştirilmediğini söyledi. 
+     
+</TEXT>
+</DOC>

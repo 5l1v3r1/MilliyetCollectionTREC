@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 292374 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/26/son/soneko47.html </URL>
+<DATE> 2004/11/26/ </DATE>
+<TIME> 18.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsada işlem gören hisse senetleri ortalama yüzde 0.73 değer yitirdi 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası'nda İMKB işlem gören hisse senetleri, bugün ortalama yüzde 0.73 oranında değer yitirdi. 
+     İMKB Ulusal 100 Endeksi, 1. Seansta 111.35 puan düşerek 23,3.11 puandan, 2. seansta da 59.90 puan kayıpla 23,293.21 puandan günü tamamladı. 
+     Endeksteki günlük düşüş 171.25 puan ve yüzde 0.73 olarak hesaplandı. 
+     Hisse senetleri piyasasında toplam 578 trilyon 568 milyar 100 milyon liralık işlem hacmi oluştu. 
+     
+     DÖVİZ 
+
+     İstanbul'da serbest piyasada dün 1 milyon 429 bin liradan kapanan dolar güne 1 milyon 430 bin liradan, 1 milyon 890 bin liradan kapanan euro 1 milyon 898 bin liradan başladı. 
+     Kapanışta doların satış fiyatı 1 milyon 424 bin lira, euronun satış fiyatı 1 milyon 887 bin lira oldu. 
+     Merkez Bankası, doların bugünkü efektif kurunu alışta 1 milyon 419 bin 2 lira, satışta 1 milyon 428 bin 985 lira olarak açıkladı. 
+     Böylece dolar, Merkez Bankası'nın dünkü kurlarına göre, TL karşısında alışta bin 591 lira, satışta bin 603 lira değer yitirdi. 
+     
+     TAHVİL-REPO 
+
+     İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda işlem gören 24 Mayıs 2006 vadeli tahvilin bugün valörlü işlemlerinde basit getiri yüzde 24.35, bileşik getiri yüzde 23.09 oldu. 
+     Bu kağıdın bugün valörlü işlemlerinin bileşik getirisi, önceki kapanışa göre 0.09 puan arttı. 
+     İMKB Tahvil ve Bono Piyasası Repo Pazarı'nda 3 günlük işlemlerde faiz ortalama yüzde 20.00'den gerçekleşti. 3 günlük işlemlerde en düşük oran yüzde 19.00, en yüksek oran yüzde 20.00 oldu. 
+     
+</TEXT>
+</DOC>

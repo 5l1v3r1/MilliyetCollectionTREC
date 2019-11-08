@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 50897 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/11/06/son/soneko01.html </URL>
+<DATE> 2001/11/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones ve Nasdaq yükseldi 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası Wall Street'in Dow Jones Endeksi, 117.49 puan artışla yüzde 1.3 günü 9,441.03 puandan bitirdi. 
+     Teknoloji ortaklıklarının hisse senetlerinin izlendiği Nasdaq Birleşik Endeksi de 47.74 puan yükselmeyle yüzde 2.7 1,793.47 puandan kapandı. 
+     ABD Merkez Bankası'nın faiz oranlarını bu yıl 10. kez düşüreceği beklentisi, New York menkul kıymetler borsası Wall Street'in bugünkü açılışında hisse senetleri fiyatlarının yükselmesini sağladı. 
+     Wall Street'in açılışından bir saat sonra Dow Jones Endeksi, 102.31 puan artışla 9,425.85 puana, Nasdaq Endeksi 35.79 puan artışla 
+     1,781.52 puana çıktı. 
+     Borsanın bugünkü ilk esansında Cisco Systems, Juniper Networks, Microsoft, Home Depot, Disney şirketlerinin hisse senetleri değer kazandı. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

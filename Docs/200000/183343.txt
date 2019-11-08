@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 183343 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/19/son/sondun08.html </URL>
+<DATE> 2003/09/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayar firmaları bizi kandırıyor mu 
+</HEADLINE>
+<TEXT>
+
+     Dev bilgisayar firmalarının aldatıcı bilgi vererek tüketiciyi kandırdıkları öne sürüldü. 
+     Bir grup bilgisayar sahibi, bu amaçla Los Angeles mahkemesinde, Apple, Dell, Gateway, HP, IBM, Sharp, Sony ve Toshiba firmaları hakkında dava açtı. 
+     Bilgisayar sahipleri adına açılan toplu davada, firmaların, bilgisayarların ana bellek depolama kapasitesi hakkında tüketiciye yanıltıcı bilgi verdiği öne sürülüyor. Örneğin broşürlerde 20 gigabit olarak ilan edilen bir ana belleğin gerçek depolama kapasitesinin 18.6 gigabit olduğu belirtildi. Aynı şekilde 150 gigabit ana belleği olan bir bilgisayarın da aslında 10 gigabit eksik veri kaydettiği dilekçede ifade edildi. 
+     10 gigabitlik ana belleğe 20 bin resim ya da 2 bin şarkı depolanabiliyor. 
+     Dava sahipleri, dev bilgisayar firmalarının tüketiciye yanlış bilgi verdiklerini ve adil olmayan pazarlama taktikleri uyguladıklarını kabul etmelerini, ayrıca bu yoldan elde ettikleri aşırı karları iade etmelerini ve avukat masraflarını ödemelerini talep ediyor. 
+     Üretici firmalar ise bilgisayarların ''binary'' denilen sistemle çalıştığını, dolayısıyla 20 gigabit hacmindeki ana belleğe ancak 18.6 gigabit veri depolanabildiğini savunuyorlar. 
+     
+</TEXT>
+</DOC>

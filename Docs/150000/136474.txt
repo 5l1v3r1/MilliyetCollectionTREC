@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 136474 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/02/12/son/sontur06.html </URL>
+<DATE> 2003/02/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yargıtay'dan kredi kartı kefillerinin durumuna açıklık... 
+</HEADLINE>
+<TEXT>
+
+     Yargıtay, kredi kartı kefilinin yasal çerçevede boşluk bulunan sorumluluğuna açıklık getirerek, kefilin sorumluluğunun sınırlı olduğuna ve asıl borçlu gibi sorumlu tutulamayacağına hükmetti. 
+     Davacı banka ile bir vatandaş arasında imzalanan kredi kartı sözleşmesi çerçevesinde vatandaş 57 bin 259 dolar harcamada bulundu, borcun bir kısmını ödedi ve yurtdışına gitti. Bunun üzerine, banka, borcun kalan kısmı olan 19 bin 339 dolar, 31 bin 622 dolar faiz ve bin 582 dolar gider vergisi olmak üzere toplam 52 bin 543 doların tahsili istemiyle kefil aleyhine dava açtı. 
+     Kadıköy 1. Asliye Ticaret Mahkemesi'nde görülen davada, davalı kefilin avukatı, müvekkilinin, kefalet sınırının toplam 10 bin dolar olduğunu savunarak, davanın reddini talep etti. 
+     Yerel mahkeme ise davayı kabul etti. 
+     Davanın temyiz incelemesini yapan Yargıtay 11. Hukuk Dairesi, yerel mahkemenin kararını bozdu. 
+     Kredi kartı kefilinin yasal çerçevede boşluk bulunan sorumluğuna açıklık getirilen 11. Hukuk Dairesi kararında, asıl uyuşmazlığın, kredi kartı sözleşmesinden dolayı kefilin sorumluluğunun ne miktarda olduğu hususundan kaynaklandığı belirtildi. 
+     Davaya konu kredi kartı sözleşmesinde, kefilin sorumluluğunu düzenleyen bir hüküm bulunmadığı kaydedilen kararda, şöyle denildi 
+     ''Sözleşmenin ilgili maddesinde üyenin 30 günlük ekstre dönemleri içinde yapabileceği harcama veya çekebileceği nakitler uluslararası kart için 10 bin dolar veya muadili dövizle sınırlandırılmışsa da bu miktar asıl borçlu için geçerlidir. Ne var ki kefilin sorumluluğuna ilişkin sözleşmede özel bir hüküm bulunmadığına göre, kefilin sorumluluğu her aylık ekstre dönemi için 10 bin dolar ile değil, sözleşme süresi boyunca azami 10 bin dolar asıl borç, kefilin temerrüde düşürüldüğü tarihten itibaren uygulanacak yasal faiz ve borcun diğer giderleri ile sınırlıdır. Aksinin kabulü kefaletin sınırını belirsiz hale getireceğinden hukuken olanaklı değildir. 
+     Mahkemece bu ilkeler çerçevesinde davalı kefilin sorumlu olacağı miktarın belirlenmesi ve oluşacak sonuç çerçevesinde hüküm kurulması gerekirken, aksine bir yorumla kefilin asıl borçlu gibi sorumlu tutulması doğru görülmemiştir.'' 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

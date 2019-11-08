@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 178458 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/27/son/soneko18.html </URL>
+<DATE> 2003/08/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+MB Nominal döviz sepeti, TL karşısında 7.5 değer kaybetti 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası, Temmuz ve Ağustos aylarında da Türk Lirasındaki güçlenme eğiliminin devam ettiğini açıkladı. 
+     Merkez Bankası tarafından hazırlanan Haziran ayı Ödemeler Dengesi Raporu'na göre, 1 ABD Doları artı 0,77 Euro'dan oluşan nominal döviz sepeti, 1 Temmuz-20 Ağustos döneminde, Türk Lirası karşısında ortalama yüzde 7,5 oranında değer kaybetti. 
+     Raporda, ''Temmuz ayında TÜFE bazlı endekse göre reel güçlenme oranı yüzde 3,1 olurken TEFE bazlı endekse göre yüzde 2,9 olmuştur'' denildi. 
+     Raporda, Temmuz ayında gerilemiş olmasına karşın, Euro'nun ABD Doları karşısında halen geçen yılki düzeyinden yüksekte olmasının, Euro kullanılarak yapılan ihracattaki artış oranının ABD Doları cinsinden daha yüksek olarak kaydedilmesine yol açmaya devam ettiği bildirildi. 
+     
+     İTHALAT 
+     Yurtiçi sanayi üretimindeki büyümenin güçlü şekilde devam etmesinin Haziran ayında ara malı ithalatındaki artış eğilimini desteklediği belirtilen raporda, diğer taraftan, kapasite kullanım oranlarının yüksek seviyelere ulaşmasının üretim artışının sürdürülebilmesi için yeni yatırımları gerektirdiği kaydedildi. 
+     Reel kesim güvenindeki olumlu seyrin de etkisiyle, firmaların üretim kapasitelerini güçlendirme amaçlı yeni yatırımlara yönelmekte olmasından ötürü sermaye malı ithalatının artış eğilimine girdiği ifade edilen raporda, Türk Lirası'nın yılın ikinci çeyreğinde güçlenme eğilimine girmesinin de ithalat artışını destekleyici bir diğer unsur olduğu bildirildi. 
+     Türk Lirası'ndaki değerlenmenin etkisinin tüketim malı ithalatında diğer mal gruplarına göre daha yüksek olduğu belirtilen raporda, ithalde alınan Katma Değer Vergisi KDV rakamlarına göre Temmuz ayında ham petrol hariç ithalatın 5.4 milyar dolar olmasının beklendiği bildirildi. 
+     Bankaların Temmuz ayında toplam 1.6 milyar dolar tutarında sendikasyon kredisi aldığı kaydedilen raporda, düşük faizli olan bu kredilerin büyük bir bölümünün ihracatın finansmanında kullanılmasının planlandığı ifade edildi. 
+     
+</TEXT>
+</DOC>

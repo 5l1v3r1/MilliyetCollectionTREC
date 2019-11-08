@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 222590 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/15/son/sonyas10.html </URL>
+<DATE> 2004/03/15/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yeşil çay, kanserli tümörlere yapışarak savaşıyor .. 
+</HEADLINE>
+<TEXT>
+
+     Japon bilim adamları, yeşil çayda bulunan bir maddenin kanser hücrelerine yapışarak, tümörlerin büyümesini durdurduğunu bildirdiler. 
+     ''Nature Structural and Molecular Biology'' dergisinde yayımlanan makaleye göre, Fukuoka kentindeki Kyushu Üniversitesi'nde görevli Hirofumi Tachibana ve ekibi, ilk kez yeşil çaydaki antikanserojen etkisi olan maddenin nasıl etki ettiğini saptadı. Bilim adamları, Epigallocatechin-Gallat EGCG maddesinin kanser hücrelerinin yüzeyindeki bölgelere yapıştığını gözlemlediler. 
+     Yeşil çayın akciğer, prostat ve meme kanserlerini önleme amacıyla önerildiği belirtilen makalede, laboratuvar ortamında yapılan deneylerde şimdiye kadar, ancak yüksek miktarlarda EGCG maddesinin olumlu etkisinin ölçülebildiği hatırlatıldı. 
+     Tachibana ve ekibinin akciğer kanseri hücreleriyle yaptığı deneylerde, EGCG'nin bazı kanser hücrelerinde düşük konsantrasyonda bile tümörlerin büyümesini engellediğini tespit ettiler. Bilim adamları, her gün içilen 2-3 fincan yeşil çayın, gerekli konsantrasyona ulaşmak için yeterli olduğunu kaydettiler. 
+     EGCG'nin olumlu etki göstermesi için kanser hücrelerinin yüzeyinde laminin reseptörlerinin alıcı bulunması gerektiğini belirten bilim adamları, EGCG'nin kanser hücrelerine yapıştıktan sonra tümörün büyümesini nasıl engellediğini ve hücrelerinin içinde gelişen sürecin ayrıntılarını henüz bilmediklerini ifade ettiler. 
+     
+</TEXT>
+</DOC>

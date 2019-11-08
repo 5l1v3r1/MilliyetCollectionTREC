@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 382815 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/30/son/soneko01.html </URL>
+<DATE> 2005/09/30/ </DATE>
+<TIME> 00.01 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacminde dünyanın en büyük borsası konumunda olan New York Wall Street Borsası yükseldi. 
+     Borsanın temel göstergesi Dow Jones Sanayi Endeksi, 79.69 puan artarak, günü 10,552.78 puanla kapadı. 
+     Wall Street'in teknoloji ortaklıkları ibresi Nasdaq Bileşik Endeksi de 25.82 puan artışla 2,141.22 puandan kapandı. 
+     
+</TEXT>
+</DOC>

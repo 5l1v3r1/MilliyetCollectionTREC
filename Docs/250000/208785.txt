@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 208785 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/15/son/sondun31.html </URL>
+<DATE> 2004/01/15/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+SARS'ın genlerle ilişkisi tespit edildi 
+</HEADLINE>
+<TEXT>
+
+     Hong Konglu araştırmacılar, akut solunum yetmezliği sendromu SARS hastalığının genlerle ilişkisi olduğunu tespit etti. 
+     Yeni Çin Haber Ajansı'nın Çin Üniversitesi'nde görev yapan uzmanların açıklamasına dayanarak bildirdiğine göre, ''HLA-B 7303'' tipi gen taşıyan insanların SARS hastalığına yakalanma riskleri, ''HLA-DRB1 0131'' tipi gen taşıyanlardan daha fazla. 
+     Bu sonuca, 90 Çinli SARS hastası üzerinde yapılan incelemelerden sonra ulaşıldığı bildirildi. 
+     Hong Kong'da geçen yıl 1700'den fazla kişi SARS hastalığına yakalanmış, 299 kişi bu hastalıktan hayatını kaybetmişti. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> 391223 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/31/son/sonyas15.html </URL>
+<DATE> 2005/10/31/ </DATE>
+<TIME> 11.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kredi kartlarına veda 
+</HEADLINE>
+<TEXT>
+
+     Japonya'da aralarında MasterCard'ın da bulunduğu 39 üyeli birlik kredi kartı işlemlerinin cep telefonuyla gerçekleştirilmesini sağlayacak. Sony tarafından üretilen bir yonga kullanan QuicPay adlı sistem ödeme noktalarındaki özel tarayıcılara cep telefonunun gösterilmesi ve şifrenin girilmesiyle alınan hizmetin tutarını cep telefonu faturasına yansıtacak. Bu hizmetin daha yüksek güvenliğin yanısıra cep telefonu operatörleri için de yeni gelir kaynağı olmuşturması bekleniyor. Şu an ülkede DoCoMo adlı operatör tarafından satılmış benzer bir hizmet sunan 5 milyon telefon kullanımda. 
+     
+</TEXT>
+</DOC>

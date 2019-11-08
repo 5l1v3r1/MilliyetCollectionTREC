@@ -1,0 +1,47 @@
+<DOC>
+<DOCNO> 101863 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/08/14/son/soneko27.html </URL>
+<DATE> 2002/08/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+TEFE ve TÜFE Nedir 
+</HEADLINE>
+<TEXT>
+
+     Devlet İstatistik Enstitüsü'nün DİE , yaptığı çalışmalarda ve yayınladığı istatistiklerde uluslararası kavram ve yöntemleri kullanan, hatta bu kavram ve yöntemleri daha ileri noktalara taşımak gayretinde olan bir yapıda olduğu bildirildi. 
+     DİE, son günlerde fiyat endeksleri ile ilgili basında yer alan haberler üzerine yazılı bir açıklama yaptı. 
+     Zaman zaman bir kısım çevrelerin ve basının teknik bilgi yetersizliği nedeniyle fiyat endeksleri konusunda gelişigüzel yorumlar yaptığı ve yanlış değerlendirmelerde bulunduğu belirtilen açıklamada, bazı bilgilerin çarpıtılarak kullanıldığı ve bu nedenle de kamuoyunun yanlış bilgilendirdiği vurgulandı. 
+     DİE'nin fiyat endekslerini, üretim ve tüketim aşamaları için hesaplayarak yayınladığı belirtilirken, enflasyon rakamı için de gösterge oluşturan bu endekslerin kapsam, yöntem ve kaynaklarının tamamen farklı olduğu vurgulandı. 
+     
+     TEFE VE TÜFE NEYİ KAPSIYOR 
+
+     Toptan Eşya Fiyat Endeksi'nin, üretilen ürünün niteliği ve alıcısına bakmaksızın yurt içi satışa konu olan maddeleri kapsama alırken, Tüketici Fiyat Endeksi'nin sadece hanehalkları tarafından tüketilen mal ve hizmetleri kapsadığı kaydedildi. 
+     Bu nedenle TEFE kapsamında yer alan kum, dinamit, matkap gibi maddelerin hanehalklarının tüketimi gibi değerlendirilmesinin ve Tüketici Fiyat Endeksleri'nde kapsanan maddelermiş gibi gösterilmesinin son derece yanlış olduğuna işaret edildi. 
+     
+     TÜFE NASIL HESAPLANIYOR 
+
+     TÜFE'nin kurulabilmesinin oldukça kapsamlı bir çalışmayı gerektirdiği belirtilen açıklamaya göre, bu amaçla 1994 yılında tüm Türkiye'yi temsil edecek nitelikte belirli bir örnekleme tekniğiyle belirlenen ve her ay değişen 2 bin 188, yıl boyunca da toplam 26 bin 256 örnek hanede Hanehalkı Gelir ve Tüketim Harcamaları Anketi uygulandı. 
+     Edinilen bilgiler kullanılarak, 7 coğrafi bölge, kır, kent ve 19 seçilmiş il merkezi seviyesinde en alt harcama grubu ayrıntısında endekste kapsanacak ağırlıklı mal ve hizmetler seçilerek, madde tanımları belirlendi ve tartıları elde edildi. 
+     Endeksin hesaplanmasında temel yıl bilgileri esas alınarak her ay 410 maddenin fiyatları 747 madde alt çeşidi 35 değişik yerleşim yerinden, toplam 6 bin 390 işyerinden ve 2 bin 988 kiracı haneden derleniyor. 
+     
+     EKMEK VE BAZI MADDELERİN TÜFE'YE ETKİSİ 
+
+     Açıklamaya göre, hanelerin harcamaları içinde ekmek, peynir, et, süt, otomobil ve benzin gibi mal ve hizmetler fiyatlarında meydana gelen değişimin ağırlıkları ölçüsünde endeksi etkiliyor. 
+     Örneğin, ekmeğin Türkiye endeksi içindeki ağırlığı yüzde 4.01 olarak belirlenirken, sadece ekmeğin fiyatı yüzde 100 arttığında ve tüm maddelerin fiyatı sabit kaldığında Türkiye endeksi yüzde 4.01 yükseliyor. 
+     Kemikli koyun etinin Türkiye içindeki ağırlığı yüzde 0.95 olarak hesaplanırken, Temmuzda fiyatı bir önceki ayla göre yüzde 2 oranında artan bu ürün endeksi yüzde 0.02 oranında artırdı. 
+     Türkiye endeksi içinde ağırlığı yüzde 1.2 olan domatesin Temmuz ayındaki fiyatı bir önceki aya göre yüzde 14.6 oranında gerilerken, endeksi yüzde 0.18 oranında düşürdü. 
+     Açıklamada, endeks kapsamındaki temel tüketim maddeleri dışında konut, kültür, eğitim ve eğlence için yapılan harcamaların da bulunduğu göz önüne alındığında temel tüketim maddelerindeki fiyat artışlarının tek başına enflasyon göstergesi olmadığının anlaşılacağı vurgulandı. 
+     
+     TEFE'NİN HESAPLANMASI 
+
+     Açıklamaya göre, TEFE için ise her ay 678 maddenin ı tüm Türkiye'den, toplam 1287 üretici firma, birlik, kooperatif ile toptancı sebze, meyve ve balık hallerinden derleniyor. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

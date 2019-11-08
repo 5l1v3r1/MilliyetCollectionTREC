@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 162090 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/09/son/sontur14.html </URL>
+<DATE> 2003/06/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternette yeni bir virüs... 
+</HEADLINE>
+<TEXT>
+
+     İnternette yayılmaya başlayan ''Fizzer'' adlı yeni bir tür virüsün, ''karmaşık'' olarak tanımlandığı ve ''yüksek riskli'' ilan edildiği bildirildi. 
+     Türk İnternet Birliği Başkanı Hakan Topuzoğlu, yaptığı açıklamada, ''Fizzer'' adlı virüsün internette büyük bir hızla yayıldığını, özellikle dosya paylaşım programlarını kullananlar ile internet üzerinde müzik ve video alışverişi yapanları tehdit ettiğini söyledi. 
+     E-posta ile de bulaşan ve bilgisayar sistemine zarar veren virüsten korunmak için kullanıcıların, şüpheli gördükleri ''exe, pif, com ve scr'' uzantılı e-posta eklerini açmamaları gerektiğini ifade eden Topuzoğlu, şöyle dedi 
+     ''Virüsle ilgili ilk uyarılar, Asya ülkelerindeki işyerlerinden gelirken kısa sürede Avrupa'daki bilgisayarlardan da on binlerce uyarı alınması nedeniyle virüsün çok hızlı yayıldığı tespit edildi. İngiliz virüs izleme kuruluşu MessageLab, '24 saat içinde 17 bin 765 vaka saptandığını ve virüsün yüksek riskli ilan edildiğini' açıkladı.'' Topuzoğlu, ''Fizzer'' virüsü için, ''bilinen pek çok tehlikeli virüsün bir birleşimi'' yorumu yapıldığını ve karmaşık olarak tanımlandığını belirterek, antivirüs ve firewall programlarını da etkisiz hale getirmesi nedeniyle de ''en tehlikeli virüsler'' kategorisinde yer aldığını kaydetti. 
+     
+</TEXT>
+</DOC>

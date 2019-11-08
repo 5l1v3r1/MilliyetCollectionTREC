@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 234132 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/23/son/soneko01.html </URL>
+<DATE> 2004/04/23/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası'nda Dow Jones ve Nasdaq yükseldi 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası'nda Dow Jones ve Nasdaq endeksi yükseldi. 
+     Borsanın temel göstergesi Dow Jones, 147.69 puan yükselerek 10,464.96 puandan kapandı. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq da 37.28 puan yükselerek, 2,032.91 puana çıktı. 
+     
+</TEXT>
+</DOC>

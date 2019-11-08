@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 349506 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/06/son/sonyas26.html </URL>
+<DATE> 2005/06/06/ </DATE>
+<TIME> 19.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnsanlarda artık su altında balık gibi nefes alabilecek... 
+</HEADLINE>
+<TEXT>
+
+     İsrailli bir mucidin, insanların su altında balık gibi nefes almasını sağlayacak bir sistem icat ettiği bildirildi. 
+     İnternetteki livescience.com’da yer alan habere göre, Alan Izhar-Bodner adlı İsrailli, sudaki havayı çözerek su altında insanların kullanımına ve balık gibi solumasına imkan veren bir düzenek geliştirdi. 
+     Sistemin bir sıvıdaki gazın çözünme miktarının sıvı üzerindeki basınç ile orantılı olduğunu öngören "Henry Yasası"na dayandığı ifade edildi. 
+     Bu yasaya göre, sıvı üzerindeki basınç artırıldıkça sıvıda bulunan gazlar daha fazla miktarda çözünmekte ve sıvı üzerindeki basıncın azaltılmasıyla bu çözünen gaz ortaya çıkmakta. 
+     Bu sistemin tam olarak, gazoz şişesinde basınç altındaki sıvı içinde çözünen karbondioksit gazının şişenin açılmasıyla basıncının düşmesiyle gaz salıvermesine benzer şekilde işlediği belirtildi. 
+     Bodner’in geliştirdiği sistemin, düzeneğe aldığı az miktardaki deniz suyunun basıncını bir santrifüj yardımıyla azaltarak salıverilen gazın toplanması mantığına dayandığı kaydedildi. 
+     İcadın patentinde yer alan tanıtımda ise sistemin solunabilir hava ürettiği ifade edildi. 
+     Haberde, insanoğlunun yüzmeye başladığı ilk günden bu yana su altında nasıl nefes alabileceği üzerinde düşündüğü kaydedilerek, bu düşün, ilk bilim-kurgu yazarı Jules Verne’nin "Denizler Altında 20 bin Fersah" isimli kitabında da işlendiği belirtildi. 
+     
+</TEXT>
+</DOC>

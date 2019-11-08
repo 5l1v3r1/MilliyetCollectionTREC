@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 320522 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/03/son/sonyas17.html </URL>
+<DATE> 2005/03/03/ </DATE>
+<TIME> 13.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+TÜBİTAK'ın Linux tabanlı işletim sisteminin CD'si ücretsiz dağıtılacak 
+</HEADLINE>
+<TEXT>
+
+     TÜBİTAK'ın Ulusal Elektronik ve Kriptoloji Araştırma Enstitüsü'nde UEKAE geliştirilen Linux tabanlı Ulusal İşletim Sistemi PARDUS'un CD'si ücretsiz olarak dağıtılacak. 
+     TÜBİTAK'tan yapılan açıklamaya göre, Pardus'un Çalışan CD'si, 4-5 Mart günlerinde Bilgi Üniversitesi Özgür Yazılım ve Açık Kaynak Günleri'nde kullanıcılara dağıtılmaya başlanacak. 
+     PARDUS Çalışan CD, ayrıca özgür bir yazılım olarak internette www.uludag.org.tr adresli siteden bedava alınabilecek. 
+     PARDUS, öncelikli olarak temel düzeydeki bilgisayar kullanıcılarının gereksinimlerine hitap ediyor. Kullanımı kolay bir masaüstü linux dağıtımı oluşturmayı hedefleyen PARDUS işletim sisteminde, ofis araçları, internet araçları, çokluortam ve grafik araçları ile oyunlar ve çok sayıda uygulama yer alıyor. 
+     PARDUS'un önümüzdeki aylarda Kurulan CD sürümü piyasaya çıkacak. Kurulan CD, bilgisayara kalıcı olarak kurulabilecek. 
+     
+</TEXT>
+</DOC>

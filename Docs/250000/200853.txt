@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 200853 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/09/son/soneko02.html </URL>
+<DATE> 2003/12/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi, Dow Jones 10 bin puan sınırında... 
+</HEADLINE>
+<TEXT>
+
+     İşlem bakımından dünyanın en büyük borsası New York Wall Street Borsası'nda endeks 10 bin puanı zorluyor. 
+     Dow Jones, haftanın ilk işlem gününü 102.59 puanlık artışla yüzde 1.04 9965.27 puandan tamamladı. 
+     İleri teknoloji şirketlerinin ibresi durumunda olan Nasdaq endeksi ise 11.03 puanlık artışla 1948.85 puandan kapandı. 
+     
+     TOKYO BORSASI YÜKSELDİ 
+
+     Borsanın temel göstergesi Nikkei Endeksi kapanışta düne göre 78.94 puan yükselip 10,124.28 puana çıktı. 
+     Aynı borsada ABD Doları ise Japon Yeni karşısında düne göre 0.41 yen gerileyip 107.18 yenden işlem gördü. 
+     
+</TEXT>
+</DOC>

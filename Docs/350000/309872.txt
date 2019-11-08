@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 309872 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/27/son/soneko11.html </URL>
+<DATE> 2005/01/27/ </DATE>
+<TIME> 10.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+SSK'da on-line tahsilat dönemi... 
+</HEADLINE>
+<TEXT>
+
+     SSK, 1 Ocak 2005'ten itibaren anlaşmalı bankalar üzerinden on-line tahsilata başladı. 
+     SSK'dan yapılan yazılı açıklamaya göre, on-line tahsilat kapsamında, cari döneme ait sigorta, sosyal güvenlik destek, işsizlik sigortası primleri ile damga vergisi, 4747 Sayılı Kanun gereği ertelemeye tabi tutulan ve erteleme süresi içinde ödenecek olan primlerle 4958 Sayılı Kanun gereği yeniden yapılandırılan sigorta primi, sosyal güvenlik destek primi, sosyal yardım zammı ve idari para cezası borçlarının, asgari ödeme tutarından az olmamak kaydıyla, asgari ödeme tutarıyla bakiye borç tutarı arasındaki değerin tahsilatı, bankalarca yapılacak. 
+     Ancak cari ay prim borçlarının on-line olarak bankalar kanalıyla tahsil edilebilmesi için, aylık prim ve hizmet belgesinin SSK'ya ''e-bildirge'' sistemiyle internet üzerinden gönderilmesi veya doğrudan kuruma verilerek, tahakkuk makbuzunun alınması şart olacak. 
+     Bir başka ifadeyle, tahakkuk ettirilmemiş cari ay prim borçlarının bankalar kanalıyla tahsili mümkün olamayacak. Bu nedenle, işverenlerin bankalarda prim ödemeleri sırasında mağdur olmamaları için öncelikle cari aya ilişkin prim tahakkuk işlemini yapmış yaptırmış olmaları gerekecek. 
+     Yine, on-line tahsilat uygulamasında, cari aya ilişkin borç türü bazında sigorta primi, işsizlik gibi tahakkuk etmiş borçların tamamının tahsilatı yapılacağından, kısmi tahsilatın bankalar kanalıyla yapılması mümkün olamayacak. 
+     Bu nedenle, aylık prim ve hizmet belgesinin kuruma PTT kanalıyla gönderilmesi nedeniyle yasal ödeme süresi sonuna kadar tahakkuk işlemi yaptırılamamış cari aya ilişkin prim borçlarının, borç türü bazında yapılacak kısmi ödemelerin ve yasal ödeme süresi geçirildikten sonra yapılacak ödemelerin, sigorta il müdürlüklerine yapılması gerekecek. 
+     
+</TEXT>
+</DOC>

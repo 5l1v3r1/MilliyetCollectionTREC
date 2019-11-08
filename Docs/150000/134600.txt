@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 134600 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/02/02/son/sondun03.html </URL>
+<DATE> 2003/02/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+NASA'nın uzay mekikleri... 
+</HEADLINE>
+<TEXT>
+
+     İnişine çok az bir süre kala dün düşen uzay mekiği Columbia, Amerikan Uzay ve Havacılık Dairesi NASA'nın mekiklerinin ilkiydi ve 3 kez yenilenmişti. 
+     NASA'nın uzay mekikleriyle ilgili bilgiler şöyle 
+Discovery 
+Ağırlık 76,950 kilogram 
+İlk uçuş 30 Ağustos 1984 
+Uçuş sayısı 30 
+
+Atlantis 
+Ağırlık 76,950 kilogram İlk uçuş 3 Ekim 1985 
+Uçuş sayısı 26 
+
+Endeavour 
+Ağırlık 77,400 kilogram 
+İlk uçuş 7 Mayıs 1992 
+Uçuş sayısı 19 
+
+     
+</TEXT>
+</DOC>

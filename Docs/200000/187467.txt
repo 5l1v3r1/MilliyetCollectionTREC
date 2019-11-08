@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 187467 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/09/son/sondun12.html </URL>
+<DATE> 2003/10/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İşadamlarına özel telefon "Voq"... 
+</HEADLINE>
+<TEXT>
+
+     Sierra Wireless adlı Kanada firması, özellikle işadamlarına hitap edecek yeni kuşak bir cep telefonunu piyasaya çıkardı. 
+     ''Voq'' adıyla sunulan yeni cep telefonu, Microsoft'un Windows Mobile işletim sistemiyle çalışıyor ve telefon numaralarının yer aldığı kapak kaldırıldığında altından klavye çıkıyor. 
+     Ekranı normal cep telefonlarından daha geniş olan ve klavyesi bulunan ''Voq''larla, kısa mesaj alışverişinin çok kolaylaşacağı bildirildi. 
+     Yeni cep telefonlarının hem GSM, hem de GPRS sistemlerine uyumlu olduğu, dolayısıyla Avrupa ülkelerinde de kullanılabileceği belirtildi. 
+     Voq cep telefonlarının, normal taşınabilir telefonlardan daha pahalı olduğu, ancak el bilgisayarlarından ucuza satılacağı kaydedildi. 
+     Sierra firması, dizüstü bilgisayarların kablosuz olarak internete bağlanmalarını sağlayan modemleri de üretiyor. 
+     
+</TEXT>
+</DOC>

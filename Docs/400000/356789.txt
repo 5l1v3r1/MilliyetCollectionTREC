@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 356789 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/29/son/sonyas03.html </URL>
+<DATE> 2005/06/29/ </DATE>
+<TIME> 08.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Satürn'ün uydusu Titan'da metan gölleri bulundu 
+</HEADLINE>
+<TEXT>
+
+     ABD Ulusal Havacılık ve Uzay Dairesi NASA , Satürn gezegeninin uydusu Titan'da göller bulunduğu, ancak bu göllerin su yerine sıvı metanla dolu olduğunu bildirdi. 
+     Cassini uzay aracının, Titan'ın güney kutup bölgesinden gönderdiği görüntülerde, göl kıyısını andıran düzensiz şekilli karanlık alanlar olduğunu açıklayan NASA, bu alanların 234 kilometreye 73 kilometre çapında olduğunu kaydetti. 
+     Söz konusu bölgenin Titan'ın en bulutlu kesiminde bulunduğunu kaydeden NASA yetkilileri, bu bölgede metan yağmurlarının olabileceğine inanıyor. 
+     NASA'nın New York'ta bulunan Goddard Uzay Çalışmaları Enstitüsü'nden Cassini ekip üyesi Tony DelGenio, ''Bu bölgedeki fırtınaların bazılarının yüzeye ulaşacak kadar yeterli metan yağmuruna yol açacak şiddette olması mümkün'' dedi. 
+     Bilim adamları, Titan aşırı soğuk olduğu için sıvı metanın buharlaşmasının çok uzun zaman aldığını, bu yüzden de metan dolu göllerin uzun süre varlığını sürdürebildiğini söylediler. 
+     Bu arada, bilim adamlarının kara noktaların şimdi kurumuş olan eski bir gölün kalıntısı ya da katı hidrokarbonlarla dolu alanlar olabileceği üzerinde durdukları da kaydedildi. 
+     
+</TEXT>
+</DOC>

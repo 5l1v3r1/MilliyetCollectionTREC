@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 77416 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/04/09/son/sontur17.html </URL>
+<DATE> 2002/04/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İki yazılım firmasının programlarını kıran mühendis gözaltında 
+</HEADLINE>
+<TEXT>
+
+     Ankara Emniyet Müdürlüğü'ne bağlı ekipler, iki ayrı bilgisayar yazılım şirketinin bilgisayar programlarını kırarak, internet ortamında pazarlayan bir inşaat mühendisini gözaltına aldılar. 
+     AMP Yazılım Sanayi Ticaret Limited Şirketi ve STA Bilgisayar, Mühendislik ve Müşavirlik Sanayi Ticaret Limited Şirketi, Kaçakçılık ve Organize Suçlarla Mücadele Şube Müdürlüğü Mali Büro Amirliği'ne avukatları aracılığıyla başvurarak, şirketlerine ait yazılım programlarının bir ''hacker'' tarafından çalınarak, piyasaya sürüldüğünü iddia ettiler. 
+     Bunun üzerine çalışma başlatan Mali Büro Amirliği, söz konusu şirketlerin programlarını kırdığı ve piyasaya sürdüğü iddia edilen inşaat mühendisi Baykal S. adlı kişiyi gözaltına aldı. 
+     İşsiz olduğu bildirilen ODTÜ mezunu inşaat mühendisi S.'nin, polise verdiği ifadede, programları kendi alanındaki literatürü takip etmek için kırdığını, bir kaç defa da yüz milyon lira karşılığında internet ortamında pazarladığını itiraf ettiği kaydedildi. 
+     Bu kişinin üzerinde ve evinde yapılan aramada da çok sayıda CD ile bir bilgisayar harddiski ele geçirildi. 
+     Emniyet yetkilileri, gözaltındaki mühendisin soruşturmanın tamamlanmasından sonra adliyeye sevk edileceğini bildirdiler. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

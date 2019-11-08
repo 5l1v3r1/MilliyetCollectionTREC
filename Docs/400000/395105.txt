@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 395105 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/15/son/soneko27.html </URL>
+<DATE> 2005/11/15/ </DATE>
+<TIME> 13.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Visa Avrupa'dan yeni banka kartı çözümü... 
+</HEADLINE>
+<TEXT>
+
+     Visa Avrupa, Avrupa çapında yeni banka kartı çözümü olan V-PAY kabul tabanını kurdu. 
+     Visa Türkiye'den yapılan açıklamada, V-PAY'in ilk işlemler serisinin, Visa Avrupa içerisinde yer alan Türkiye, Almanya, Fransa, Yunanistan, Norveç, Finlandiya, Polonya, Portekiz, Macaristan, Estonya ve Litvanya'da başarıyla tamamlandığı bildirildi. 
+     Açıklamada, V-PAY'ın çip ve PIN uyumlu olmasının, en uygun seviyede güvenlik ve kart veren banka kontrolü ile minimum düzeyde sahtecilik kaybı anlamına geldiği kaydedildi. 
+     V-PAY'in 4, 5 veya 6 ile başlayan 16-19 basamaklı yerel pazar hesap numaralandırma yapılarıyla uyumlu olmasının, söz konusu pazarlardaki kart veren banka, kart kabul eden banka ve üye iş yerlerinin, varolan sistemleri ve altyapıları en düşük maliyetle kullanabilecekleri anlamına geldiğine işaret edilen açıklamada, yerel banka kartı markaları ile birlikte kullanılabildiği, PLUS logosunu taşıyabildiği, ATM'lere küresel erişim sağladığı, tüm EMV terminalleri ile uyumlu olduğu belirtildi. 
+     Visa Türkiye Genel Müdür Yardımcısı Nur Öztin Kurak, V-PAY'ın Avrupalı bankaların, banka kartı için ortak platform gereksinimlerine cevap veren bir çözüm olduğunu, ilk V-PAY işlemini başarıyla tamamlayarak, Türkiye'nin Avrupa'da V-PAY işlemini gerçekleştiren öncü ülkeler arasında yer almasını sağladıklarını belirtti. Kurak, ''Üye bankalarla birlikte oluşturduğumuz EMV altyapısı sayesinde, V-PAY'in üye işyerleri tarafından kabul edilmesine hazırız. Türkiye, ayrıca bu gelişmiş altyapısı sayesinde, V-PAY kartı taşıyan turistler için de uygun bir kabul ortamı sağlamaktadır'' dedi. 
+     Visa Avrupa Başkan Yardımcısı Jon Prideaux de, 2 milyondan fazla EMV üye işyeri terminalinin yarattığı fiili üstünlüğün, V-PAY'in bir Avrupa gerçeği olduğunu gösterdiğini belirterek, V-PAY'in 21 yüzyıl Avrupa'sı için rekabetçi banka kartı çözümü olduğuna inandıklarını kaydetti. 
+     Prideaux, Avrupa çapındaki tüm kart kabul eden bankalarda uygulamaya koyulan kabul altyapısı sayesinde 2006'da kart verilmeye başlanacağını bildirdi. 
+     
+</TEXT>
+</DOC>

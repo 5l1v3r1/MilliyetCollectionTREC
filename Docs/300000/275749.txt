@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 275749 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/28/son/sonyas06.html </URL>
+<DATE> 2004/09/28/ </DATE>
+<TIME> 10.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Virüsler artık fotoğrafların arkasına saklanacak .. 
+</HEADLINE>
+<TEXT>
+
+     İyi ya da kötü niyetli olarak bilgisayarlara ya da ağ sistemlerine sızan bilgisayar korsanları, her türlü önleme rağmen saldırı yöntemlerini geliştiriyor. 
+     Son yöntem ise bilgisayar kullanıcılarını sıkıntıya sokabilecek türden. A.A muhabirinin çeşitli internet sitelerinden derlediği bilgilere göre, fotoğrafları oluşturan her bir ''byte'' bilgisinin arasına kendini saklayan virüsler, anti-virüs yazılımlarını etkisiz kılarken, bilgisayarların tüm verilerini korsanların inisiyatifine sunuyor. 
+     Yeni yöntemde fotoğraf arkasına yerleştirilen ve uzaktan erişim sağlayan virüslü e-posta açıldığı zaman, fotoğrafın muhtelif yerlerindeki görünürde bağımsız kodlar biraraya gelerek virüsü yeniden yaratıyor ve işletim sistemindeki System klasörüne kendisini kopyalıyor. Uzaktan erişime imkan sağlayan virüs, aynı zamanda diğer virüslerin de bilgisayara bulaşmasına imkan tanıyor. 
+
+     
+</TEXT>
+</DOC>

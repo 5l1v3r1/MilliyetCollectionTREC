@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 313304 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/08/ekonomi/eko12.html </URL>
+<DATE> 2005/02/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Merkez Bankası'ndan sahte e-posta uyarısı 
+</HEADLINE>
+<TEXT>
+
+
+
+Merkez Bankası, "Merkez Bankası Genel Güncelleme Formu" başlığıyla gönderilen sahte e-posta mesajına karşı vatandaşları yeniden uyardı. Merkez Bankası'ndan yapılan açıklamada, 26 Ocak'ta, Merkez Bankası'nın e-posta yoluyla işlem yaptırmak ya da bilgi toplamak gibi uygulamasının olmadığının açıklandığı hatırlatıldı. 
+Bu kez yine Merkez Bankası logosu da kullanılarak, sözde "Merkez Bankası Genel Güncelleme Formu" başlığıyla gönderilen bir sahte e-posta mesajında yer alan bağlantı adresinden giriş yapılmasının istendiği ve Merkez Bankası ile hiçbir ilgisi olmayan bir web adresine yönlendirme yapıldığı vurgulandı. Açıklamada, "E-posta yoluyla web adreslerine yönlendirilen ve kişisel bilgilerin girilmesinin istendiği formların asla doldurulmaması gerektiğini önemle hatırlatırız" denildi. 
+Merkez 26 Ocak'taki duyurusunda, kurumun ismi kullanılarak banka müşterilerine YTL işlemlerini otomatik olarak yapmaları için e-posta yoluyla mesajlar gönderildiğini, e - postada verilen linkle kendilerinin bir ilgileri olmadığını belirtmişti. 
+
+
+</TEXT>
+</DOC>

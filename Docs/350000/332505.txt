@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 332505 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/12/son/soneko01.html </URL>
+<DATE> 2005/04/12/ </DATE>
+<TIME> 02.02 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsası hafif düşüle kapandı 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası Wall Street, yükselişle başladığı haftanın ilk işlem gününü düşüşle kapattı. 
+     Dow Jones Sanayi Endeksi, 12.78 puan düşüşle binde 1.2 10,448.56 puandan noktalandı. 
+     Wall Street'in Nasdaq Birleşik Endeksi de 7.23 puan düşüşle binde 3.6 1,992.12 puandan kapandı. 
+     Petrol fiyatlarının dolar seviyesinin altına gerilemesi, borsanın yükselişle açılmasında etkili oldu. 
+     
+</TEXT>
+</DOC>

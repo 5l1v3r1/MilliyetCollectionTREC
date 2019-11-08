@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 335498 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/21/son/soneko01.html </URL>
+<DATE> 2005/04/21/ </DATE>
+<TIME> 02.04 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsası düşüşle kapandı 
+</HEADLINE>
+<TEXT>
+
+     New York Menkul Kıymetler Borsası'nda Dow Jones ve Nasdaq endeksleri günü düşüşle kapadı. 
+     Borsanın temel göstergesi Dow Jones 115.05 puan düşüşle 10,012.36'ya inerken, teknoloji hisselerinin endeksi Nasdaq da 18.60 puan kaybederek 1,913.76 puandan kapandı. 
+     Dow Jones geçen ekim ayından bu yana en düşük seviyesine indi. 26 Ekim 2004'de Dow Jones 10,000 puanda kapanmıştı. 
+     
+</TEXT>
+</DOC>

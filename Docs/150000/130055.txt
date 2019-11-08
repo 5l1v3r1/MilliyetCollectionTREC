@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 130055 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/01/10/son/sontur02.html </URL>
+<DATE> 2003/01/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayarlar kapatıldıktan sonra da elektrik tüketiyor 
+</HEADLINE>
+<TEXT>
+
+     Evdeki bilgisayarı kapatmanın elektrik tasarrufu yapmak için yeterli olmadığı, bilgisayarın kapandıktan sonra bile elektrik tüketmeye devam ettiği belirtildi. 
+     Düz monitörlü yeni bilgisayarların kapatıldıktan sonra ortalama 6 vat, daha eski monitörlü bilgisayarların da 10 vata kadar elektrik harcadıkları kaydedildi. 
+     Bu elektrik sarfiyatının ülke çapında düşünüldüğünde önemli rakamlara ulaştığı belirtilirken, bilgisayarla ilgili bütün fişlerin açma-kapatma düğmesi olan çoklu bir prize takılması ve bu düğmenin de kapatılması önerildi. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

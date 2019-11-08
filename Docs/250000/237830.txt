@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 237830 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/06/son/sonsiy04.html </URL>
+<DATE> 2004/05/06/ </DATE>
+<TIME> 09.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Adalet Bakanlığı bilgisayarlarını virüs vurdu 
+</HEADLINE>
+<TEXT>
+
+     Sasser virüsü Adalet Bakanlığı'nın da bilgisayarlarına bulaştı. 
+     1 Mayıs günü dünya çapındaki wındows kullanıcılarını 
+     etkileyen sasser virüsü Adalet Bakanlığı'nın da başına bela oldu. 
+     
+     UYAP SEVİNCİ YARIM KALDI 
+     UYAP'ı son aşamasına getiren ve taşra teşkilatları da dahil olmak üzere birçok alanda hayata geçiren Adalet Bakanlığı'nın sevinci sasser nedeniyle yarım kaldı. Adalet Bakanlığı kendi web sitesine virüs tarama programlarını yükleyerek, kullanıcıların da buradan yararlanabilmesini sağladı. 
+     Sasser virüsünün Adalet Bakanlığı bilgisayarlarında Windows işletim sistemi ve Mc Afee virüs tarama programı updateleri yapılmamış olan bilgisayarlarda görüldüğü bildirildi. Bu virüsten etkilenen bilgisayarlar ağa veya internete bağlandığı zaman bilgisayar otomatik olarak 60 saniye içinde kapanıyor. 
+     
+     TÜM DÜNYADA ETKİSİNİ GÖSTERDİ 
+     İngiltere'de sahil güvenlik istasyonundaki bilgisayarlar çökerken, Almanya ve ABD'deki hastaneler de sasser virüsünden etkilendi. Sasser, İspanya'da da ulusal mahkeme sistemlerini bloke etmiş, Tayvan'daki posta servisi sisteminin hizmet dışı kalmasına yol açmıştı. Avustralya'da da kendini gösteren virüs nedeniyle trenlerin çalışması aksamıştı. 
+     
+     SASSER VİRÜSÜ 
+     Sasser virüsü internete giriş yapan tüm bilgisayarlara bulaşabiliyor. Virüs bulaştığı bilgisayarı otomatik olarak kullanıcısının müdahalesi dışında kapatıyor ve açıyor. Virüs bu kapama-açma işlemini birkaç kez tekrarlıyor. Ancak, virüsün bilgisayarlara kalıcı bir zarar vermiyor. 
+     
+</TEXT>
+</DOC>

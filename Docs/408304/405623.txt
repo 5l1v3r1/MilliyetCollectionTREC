@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 405623 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/22/son/sondun22.html </URL>
+<DATE> 2005/12/22/ </DATE>
+<TIME> 11.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bu bir ilk İngiltere'de trafik 24 saat kameralarla izlenecek 
+</HEADLINE>
+<TEXT>
+
+     İngiltere, gelecek yıldan itibaren trafikteki araçların tümünü günde 24 saat kameralarla izleyen ilk ülke olacak. 
+     İngiliz basınında çıkan haberlere göre, ülke çapında yerleştirilen güvenlik kameraları kullanılarak yapılacak yeni ulusal gözetim sisteminde trafikteki tüm araçların hareketleri kayda geçirilecek. 
+     İki yıl süreyle uygulanması öngörülen yeni sistemde kameralar, önünden geçen araçların plakalarını okuyarak, polis ve güvenlik birimleri tarafından analiz edilecek dev bir veri tabanına aktaracaklar. 
+     Tüm ülkede, otoyollar, karayolları, kentler, kasabalar, limanlar ve petrol tesislerinde önemli noktalara yerleştirilen binlerce CCTV kamerasıyla yapılacak 24 saat izlemede günde 35 milyon aracın plakası kayda geçirilecek. Bu kayıt sırasında zaman, gün ve yer belirtilecek. 
+     Şimdiden uygulamanın 5 yıla yayılarak veri tabanının genişletilmesi planlanırken, polis yetkilileri, yeni ulusal gözetim şebekesini DNA örneğinin alınmasından bu yana suçun ortaya çıkarılması ve önlenmesi teknolojisinde en büyük gelişme olarak nitelendirdiler. 
+     İngiltere'de yakında hayata geçecek bu gözetim sistemine sivil özgürlük kuruluşlarının büyük tepki göstermesi bekleniyor. 
+     
+</TEXT>
+</DOC>

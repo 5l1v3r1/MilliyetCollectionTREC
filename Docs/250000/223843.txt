@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 223843 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/19/son/sontur09.html </URL>
+<DATE> 2004/03/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+e - devlet projeleri "dolu dizgin"... 
+</HEADLINE>
+<TEXT>
+
+     Kamu kuruluşları, Türkiye'yi bilgi toplumu haline dönüştürecek ve vatandaşların devletle olan işlerinde önemli kolaylıklar sağlayacak elektronik yönetim projelerine hız verdiler. 
+     AA muhabirinin aldığı bilgiye göre, Başbakanlık başta olmak üzere tüm kamu kuruluşları, elektronik devlete geçişi sağlayacak çeşitli projeleri hayata geçirmek üzere çalışma yapıyor. 
+     ''e-Dönüşüm Türkiye Projesi'' adı altında toplanan elektronik devlete geçiş projelerinin hayata geçirilmesi amacıyla oluşturulan ''e-Dönüşüm İcra Kurulu'' ise Türkiye'nin bilişim teknolojilerinde Avrupa standartlarına ulaşabilmesi amacıyla strateji geliştirmeye çalışıyor. 
+     Başbakanlık bu çerçevede Mevzuat Bilgi Sistemi, Resmi Gazete Bilgi Sistemi, Kurum-Kuruluş Kodlamaları Bilgi Sistemi, Arşiv Katalogları Projesi, Arşiv Belgelerine Göre Ermeni Konusu, Genelge Bilgi Sistemi gibi projelere yoğunlaşırken, kamu kurum ve kuruluşlarına ait yazışma kodlarının en küçük birimine kadar güncel takip edilerek, yazışmalara bilgisayar sistemiyle hız kazandırılması hedefleniyor. 
+     Ulusal Yargı Ağı Projesi'ne işlerlik kazandıran Adalet Bakanlığı, zaman kaybetmeden adaletin yerine getirilerek vatandaşın mağdur olmasını engellemek ve yargı sisteminde karar verme sürecini hızlandırmak üzere projenin ikinci ayağı üzerinde çalışıyor. 
+     Çalışma ve Sosyal Güvenlik Bakanlığı, ilgili kuruluşlar ile bilgeye ulaşmak isteyen vatandaşlara hizmet sunmak üzere Çalışma Hayatı Yönetim Bilgi Sistemi e-Çalışma , Devlet İstatistik Enstitüsü web servisini revize çalışmaları, bilgi altyapısının iyileştirilmesi yönünde çalışma yapıyor. 
+     Devlet Malzeme Ofisi ''Elektronik Satış'' adını taşıyan projeyle iletişim giderlerini azaltarak kurumun müşterilerine web sayfası aracılığı ile güncel fiyatları inceleme fırsatı sunarak sipariş ve alım sürecini hızlandırma çabasında. 
+     Dışişleri Bakanlığı yurtdışında yaşayan vatandaşlara başta konsolosluk konuları olmak üzere ihtiyaç duyacakları bilgi ve hizmetleri konsolosluklara gitmeden internet ortamında sunmak, vatandaşların konsolosluklarla iletişimini güçlendirmek üzere ''Sanal Konsolosluk'' Projesini hayata geçirmeyi hedefliyor. 
+     Dış Ticaret Müsteşarlığı, dış ticarette elektronik işleyişi getirecek projeler üzerinde, Gümrük Müsteşarlığı ise gümrükleri elektronik gümrük idarelerine dönüştürecek gümrük idarelerinin modernizasyonu ve güvenlik projeleri üzerinde çalışıyor. Vatandaşlar böylece yükümlü oldukları konularda beyannamelerini gümrük idaresine uğramaksızın uzaktan tescil işlemleri yaptırabiliyor. 
+     
+     KAĞITTAN TASARRUF 
+     Hazine Müsteşarlığı evrak erişim hızını artıracak, kağıttan tasarruf sağlayacak ve belge kaybını önleyecek ''Evrak Akışı ve Arşiv Yönetim Sistemi'' projesi üzerinde çalışıyor. 
+     Eğitim Portalı kurmaya çalışan Milli Eğitim Bakanlığı da bütün okullara geniş bant internet erişimini sağlamaya çalışırken, diğer taraftan web üzerinde soru bankaları oluşturarak deneme sınavlarını elektronik hale dönüştürmek, öğretmen ve öğrencileri internette buluşturmak üzere uzaktan eğitim projelerine yoğunlaşmış durumda. 
+     Emniyet Teşkilatı ''POLNET'' adı altında topladığı bilgi sistemleriyle polisin ve vatandaşların ihtiyaç duyduğu her türlü bilgiye en kolay ulaşmasını sağlayacak sistemleri hayata geçirmeyi hedeflerken, Emekli Sandığı Genel Müdürlüğü, Kültür ve Turizm Bakanlığı, Türkiye İş Kurumu,Milli Prodüktivite Merkezi, İçişleri Bakanlığı, Sağlık Bakanlığı, Tapu ve Kadastro Genel Müdürlüğü, Tarım ve Köyişleri Bakanlığı, TCDD Genel Müdürlüğü, Merkez Bankası ve TÜBİTAK çeşitli elektronik projeler üzerinde çalışıyorlar. 
+     
+     ÜÇCAN ''TEK EKSİK, KONUŞTURMAK...'' 
+     Projeleri koordine etmek ve strateji belirlemek üzere kurulan e-Dönüşüm İcra Kurulu Üyesi Fikret Üçcan, AA muhabirine yaptığı açıklamada, kamuda bütün kurumların mükemmel çalışmalar yaptıklarını, bu kurumlar arasında iletişimi sağlayacak şebekeleri oluşturmanın tek eksik olarak öne çıktığını kaydetti. 
+     ''Bütün kuruluşları altyapıyla birbirleriyle konuşabilir hale getirmek lazım'' diyen Üçcan, elektronik devlet uygulamalarında vatandaşın memnuniyetinin artırılmasının esas olduğunu, devletin de insandan, zamandan ve paradan tasarruf sağlayabileceğini dile getirdi. 
+     Üçcan, Türkiye'yi bilgi ekonomisine geçmiş bilgi toplumu haline getirmek istediklerini, bunun için strateji dokümanları hazırlandığını, yapılacak çalışmalarla Türkiye'nin bilgi teknolojilerini kullanarak Avrupa Birliği standartlarını yakalayabileceğini vurguladı. 
+     Türkiye'nin bilişim teknolojilerinde hizmet sektörüne ağırlık vermesi gerektiğini dile getiren Üçcan, 10 yıllık sürece ilişkin strateji belirlenerek Türkiye'nin küresel rekabette ilk 15 ülke arasında olmak istediğini kaydetti. 
+     
+</TEXT>
+</DOC>

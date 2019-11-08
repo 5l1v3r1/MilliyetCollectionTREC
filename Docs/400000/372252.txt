@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> 372252 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/23/son/sontur09.html </URL>
+<DATE> 2005/08/23/ </DATE>
+<TIME> 10.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türk mühendisten Boeing 787'ye yeni sistem... 
+</HEADLINE>
+<TEXT>
+
+     Türk mühendis Aydın Akdeniz, Boeing uçaklarında gövde hasarını 5 dakikada tespit eden bir sistem geliştirdi. 
+     Boeing firması, Akdeniz'in ''Yapısal Direnç Sistemi''ni 2008'de piyasaya çıkaracağı komposit gövdeli 787 modelinde uygulamaya hazırlanıyor. 
+     Türk mühendisin geliştirdiği sistem sayesinde ortalama 72 saatte tespit edilebilen gövde arızaları 5 dakika içinde bulunabilirken, kabin nem oranı odadaki gibi olacak, kulak ağrısı, gözlerin kızarması gibi etkiler artık görülmeyecek. 
+     ABD'nin Boeing firmasında çalışan yapısal teknoloji yüksek mühendisi Aydın Akdeniz'in 1999'da geliştirmeye başladığı uçak gövdelerinde meydana gelen hasarı 5 dakikada tespit eden ''Yapısal Direnç Sistemi''nin, 2008'de piyasaya çıkarılacak komposit gövdeli 787 modelinde uygulanması için hazırlıklar sürüyor. 
+     THY'ye ait Boeing 737 tipi bir uçakta geçen yıl test edilmeye başlanan sistem, geçen ay bir başka 737 tipi uçağa daha uygulandı. Şu ana kadar elde edilen verilerle sistemin olumlu yönde ilerlediği belirtilirken, Nisan 2006'da test aşamasının tamamlanarak, uçaklara yerleştirilmeye başlanacağı bildirildi. 
+     
+     UÇAĞIN BAKIM SÜRESİ EN AZ YÜZDE 15 AZALACAK... 
+
+     Aydın Akdeniz, sivil havacılığın güvenlikle ilgili kural ve standartları gereği, ''yapılan işin önceki iş kadar iyi ve daha ekonomik olması'' gerektiğini kaydetti. 
+     Yapısal Direnç Sistemi'nin, uçağın sert inişler ile herhangi bir yükleme sırasında gövdesinde meydana gelebilecek kazalardan doğan arızaları tespit ettiğini belirten Akdeniz, uçaklara şu anda standart olarak yapılan bakımlarda her tarafının kontrol edilmesinin gerektiğini anlattı. 
+     Akdeniz, şunları kaydetti 
+     ''Bu sistemde uçağın içine bakmadan bilgi toplayacaksınız, gerekiyorsa bakacaksınız. Uçağı açtığınız zaman uçağın yerde kalması lazım. Uçak yerde kaldığında yolcu taşıyamadığı için firma kaybedilen her dakikada zarar ediyor. Bunu minimuma indirmede bu teknolojinin katkısı olacak. 
+     Sistem, uçağın bakım süresini en az yüzde 15 oranında azaltacak. Uçağın yerdeki her bakım süresi 2-3 gün daha kısalacak. Sert inişlerden sonra 72 saat süren bakım süresi, 5 dakikaya inecek. Uçaklara yiyecek, kargo ve yakıt yüklemek için yanaşan araçların neden olduğu hasarlar, 4-8 saat arasında tespit edilirken, sistem bu arızaları da 5 dakika veya daha az bir zamanda belirleyecek.'' 
+     
+     '3 TEST UÇAĞINDAN 2'Sİ THY'NİN' 
+
+     Geliştirilen sistemin biri 777, ikisi de THY'ye ait 737-800 uçakları olmak üzere 3 uçakta test edildiğini dile getiren Akdeniz, geçen ay THY'ye ait 2. uçağa ilkinden farklı olarak 26 değişik noktada sensör barındıran sistemi kurduklarını anlattı. 
+     Akdeniz, THY uçaklarındaki sistemin, uçuş parçalarında sensörlerin uzun yıllar sonunda nasıl bir netice vereceğini ölçmek için kullanılmaya devam edeceğini kaydetti. THY'den 3 mühendisin projeye destek verdiğini ifade eden Akdeniz, ''THY'den şu ana kadar aldığımız neticeler çok başarılı'' dedi. 
+     Sistemi 787 modelinde kullanmayı düşündüklerini belirten Akdeniz, ''Ama fabrikasyon anında hangi uçakta olacağı kesin değil. 787'nin ilk bakıma gireceği 2011 yılından itibaren bakım masrafları düşmeye başlayacak'' dedi. 
+     
+     'GÖZLER KIZARMAYACAK, KULAKLAR AĞRIMAYACAK' 
+
+     Akdeniz, yapısal teknoloji mühendisi olarak üzerinde çalıştığı komposit gövdeli 787'nin dizaynının tamamen bittiğini, gelecek yıl fabrikasyon aşamasına gelineceğini, 2007'de de ilk uçuşun gerçekleştirileceğini belirtti. 
+     Yolcu rahatlığı ve hava yollarının daha fazla para kazanabilmeleri açısından modern bir uçak meydana getirdiklerini anlatan Akdeniz, ''Eşdeğerlerinden 18.5 ton daha hafif olacak ve yüzde 20-25 daha az yakıt yakacak, bakım masrafı da yüzde 30 daha düşecek. Kabin içinde ortalama 8300 fit olan kabin basıncı, 6000 fite indirilerek, yolcuların daha rahat yolculuk etmeleri sağlanacak. Uçaktaki nem oranı odadaki gibi olacak. Kulak ağrısı, gözlerin kızarması gibi etkiler görülmeyecek'' diye konuştu. 
+     Komposit uçakların ince bakım ihtiyacının, benzer kapasite ve menzildeki uçaklardan çok daha geç ortaya çıktığını ifade eden Akdeniz, ''Motorun toksik gazları yüzde 20 azalacak, uçak alana inerken kimse sesini duymayacak. Uçak, İstanbul-Los Angeles, İstanbul-Tokyo gibi uzun uçuşları direkt olarak gerçekleştirecek'' dedi. 
+     
+</TEXT>
+</DOC>

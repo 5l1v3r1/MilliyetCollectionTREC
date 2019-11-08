@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 123366 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/12/08/son/sontur04.html </URL>
+<DATE> 2002/12/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilişimciler 8. İnternet Konferansı'nda buluşacak... 
+</HEADLINE>
+<TEXT>
+
+     Bilişim sektörünün uzmanları, 19-21 Aralık'ta İstanbul'da gerçekleştirilecek 8. İnternet Konferansı'nda biraraya gelecek. 
+     İnternet Konferansı, bilişim sektörünün ülke gündeminde ağırlıkla yer edinmesi, elektronik Türkiye e-türkiye projesinin irdelenmesi, hükümet ve siyasi partilerin internet ve bilişim sektörüne bakışının değerlendirilebilmesi açısından önemli bir fırsat olarak görülüyor. 
+     Bu yılki konferansın kasım ayı başında yapılması planlanırken, milletvekili genel seçimleri nedeniyle aralık ayına ertelenmişti. 
+     İstanbul Harbiye'deki Askeri Müze'de gerçekleştirilecek konferans, Türk bilişim sektörünün önünü açacak fikirlerin paylaşılacağı ve tartışılacağı bir platform olacak. 
+     8. İnternet Konferansı'nın ana teması ''e-türkiye'' olarak belirlendi. İnternetin tüm boyutlarını kapsamaya özen gösteren konferansta, teknolojik gelişmelerin tartışıldığı bildiriler, Türkiye'den uygulama örnekleri, sponsor firmaların teknolojik sunumları, eğitim seminerleri, paneller ile firmaların standlarının yer aldığı bir sergi bölümü yer alacak. 
+     -GÜNCEL BİLİŞİM SORUNLARI DA ELE ALINACAK- İnternet teknolojileri, elektronik seçim e-seçim ve elektronik devlet e-devlet gibi ulusal boyutlu konuların ele alınacağı konferansta, yeni sayısal imza mevzuatını da kapsayan internet hukuku ile ilgili oturumlar yapılacak ve e-türkiye projesi enine boyuna tartışılacak. e-türkiye projesi, konferansta üzerinde en fazla konuşulacak konu olarak gösteriliyor. 
+     Konferansta ayrıca, SPAM olarak adlandırılan ve internet kullanıcılarının, istemedikleri halde sayısız elektronik posta almasına karşı korunmaları ile yeni multimedya servisler, mobil internet gibi güncel konular da ele alınacak. 
+     İnternet Teknolojileri Derneği'nin INETD kurumsal ev sahipliğinde gerçekleştirilen konferansa bu yıl 2 bin dolayında katılımcı bekleniyor. Konferansın ana sponsorluğunu ise Alcatel, Aycell, Cisco, Ericsson, Siemens, Sun Microsystems ve Türk Telekomünikasyon A.Ş üstleniyor. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 405163 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/20/son/sonyas10.html </URL>
+<DATE> 2005/12/20/ </DATE>
+<TIME> 11.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+'Google Earth' bazı ülkeleri endişelendiriyor 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın bir numaralı arama motoru Google'ın uydu ve hava görüntülerinden oluşan ''Google Earth'' adlı ayrıntılı harita hizmetinin tüm dünyada beklenmedik ilgiyle karşılanması, bazı ülkeleri endişelendirmeye başladı. 
+     New York Times gazetesinde yayımlanan habere göre, Eyfel Kulesi, Big Ben veya Mısır Piramitleri gibi bazı turistik yerlerin kuş uçuşu yüksek çözünürlüklü görüntülerine reklam açısından bakılırken, bazı ülkelerin yetkilileri, hükümet binaları ve askeri tesisler ile sınırları içindeki bazı hassas noktaların ayrıntılı görüntüsünün kolayca elde edilebilmesi nedeniyle endişe duyduklarını dile getiriyorlar. 
+     Bu konudaki endişesini dile getiren ve uydu ile havadan fotoğraf çekmenin kesinlikle yasak olduğu ülkelerden Hindistan sivil makamları, Google'ın bu hizmetinin ülkelerinin güvenliğini ciddi şekilde tehlikeye düşürdüğünü savunurken, Hint askeri makamları da ''Hizmeti başlatmadan önce bize sorsalar iyi olurdu'' diye konuştular. 
+     Benzer endişeleri paylaşan ülkelerden Güney Kore yetkilileri, Google Earth'ün askeri tesislerin ''çıplak ayrıntılarını'' ortaya koyduğunu söylerlerken, Tayland makamları da Google'dan hassas hükümet binalarının görüntülerine engelleme getirilmesini isteyeceklerini açıkladılar. 
+     Rus İtar Tass ajansının haberine göre, bir FSB eski KGB uzmanı da Google Earth ile ilgili olarak ''Artık teröristlerin hedefleri için keşif yapmalarına gerek yok. Bir Amerikan şirketi onlar için çalışıyor'' diye konuşuyor. 
+     İnternet uzmanlarıysa bu ülkelerin bu yöndeki endişelerini dile getirmelerine karşın, görüntüleri engellemek için yapacakları pek bir şey bulunmadığını belirtiyorlar. 
+     
+</TEXT>
+</DOC>

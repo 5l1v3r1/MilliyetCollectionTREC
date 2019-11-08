@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 319585 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/01/son/soneko09.html </URL>
+<DATE> 2005/03/01/ </DATE>
+<TIME> 10.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bank of America 1 milyon müşterinin kaydını kaybetti .. 
+</HEADLINE>
+<TEXT>
+
+     ABD'nin önde gelen bankalarından Bank Of America, yaklaşık bir milyon kamu çalışanına ait bilgilerin yer aldığı backup yedekleme disklerini kaybetti. 
+     ''Download'' sitesinde yer alan habere göre, ABD Hükümeti'nin uyguladığı, SmartPay kartlı ödeme programının 2,1 milyon üyesi bulunuyor. Rutin kontrol yapan banka görevlileri, bu üyelerden 1 milyonunun hesap ve müşteri bilgilerini içeren yedekleme disklerini bulamadı. 
+     İçerdiği finansal bilgilerin yaklaşık 10 milyar dolar olduğu belirtilen disklerin nasıl kaybolduğu konusunda hiç kimse bilgi sahibi değil. Başta banka görevlileri olmak üzere, FBI ve Adalet Bakanlığı yetkilileri, bilgileri çalınan müşterilerin hesaplarında olabilecek olağandışı hareketlere karşı izlemeye aldı. 
+     ABD'li bilişim uzmanları, bankanın çok büyük bir güvenlik hatası yaptığını ve ABD Hükümetiyle yapılacak yeni kontratların tehlikeye girdiğini belirttiler. 
+     
+</TEXT>
+</DOC>

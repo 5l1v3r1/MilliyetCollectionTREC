@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 180014 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/03/son/soneko12.html </URL>
+<DATE> 2003/09/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Elektronik bankacılığa alışamadık... 
+</HEADLINE>
+<TEXT>
+
+     Türk halkının, elektronik bankacılık sistemine yeterince alışamadığı belirtildi. 
+     İzmit'teki banka şubelerinin yetkilileri, internet bankacılığını da kapsayan birçok pratik yöntemlerin kullanıma sunulduğu günümüzde, halkın büyük bölümünün ödemelerini şubelerdeki vezneye yapmaktan vazgeçmediğini bildirdiler. 
+     Elektronik bankacılık sisteminin, başta kredi kartı borcu ödemeleri olmak üzere birçok işlem için kolaylık sağladığını amınsatan yetkililer, şöyle konuştu 
+     ''Elektronik bankacılık sisteminin sunduğu olanaklar, halkın büyük bölümü tarafından eski alışkanlıkların terk edilememesi ya da daha güvenli bir yol tercihi yüzünden kullanılmıyor. İnternet bankacılığının, yeterli güven duygusu sağlayamadığı yönünde izlenim edindik. Güven duygusunu yaşayamayan hesap sahipleri, kredi kartı borcu gibi rutin ödemelerde internet bankacılığının yok denecek kadar az kullanıyor. Çünkü hesap sahipleri, internetle kendi hesabına birinin girip para alabileceği veya ödemede hata yapılabileceği kaygısı taşıyor. Bazı kişiler ise daha garanti olacağı ya da ödeme yaptığına ilişkin ellerinde belge bulunacağı düşüncesiyle şubelerdeki vezneleri tercih ediyor.'' Verilen bilgilere göre, ATM'lerdeki zarfa para konularak borç ödenmesi de güvenilir görülmüyor. Yöntem, bu yüzden pek yaygın olarak kullanılmıyor. Bazı bankaların otomotik ödeme talimat sistemi ise benimsenmedi. Bu yüzden, internet şubesi ve diğer kolaylıklar sağlayan elektronik bankacılık sisteminden yararlananların oranı yüzde 20-30'luk bir kesimi kapsıyor. 
+     Yetkililer, telefonlu iletişim sistemi yönteminin de iyi tanınmadığını, bunun sonucunda da, banka şubelerindeki vezneler önünde uzun kuyrukların kaçınılmaz hale geldiğini dile getirdiler. 
+     Yetkililer, özellikle 40 yaş üzerindeki hesap sahiplerinin elektronik bankacılık olanakları kullanmaktan kaçındığını da söylediler. 
+     Bu gruptaki kişilerin, ödeme yapmak için sırada beklemekten de şikayetçi olmadığını ifade eden banka şubeleri yetkilileri, şunları söylediler 
+     ''Bankaya yapılacak ödemelerde, en güvenilir yöntemin banka memuruna yapılan ödeme olduğu görülüyor. Özellikle de 40 yaş üzerindeki grupta yer alan hesap sahiplerinin internet veya diğer ödeme sistemlerini tam olarak tanımadıkları veya bu konudaki becerilerine güvenemedikleri için banka kuyruğuna girdiklerini tespit ediyoruz. Özellikle de emekliler, paranın bitebileceği, hata olabileceği, başına kapkaç olayının gelebileceği, sahte para verebileceği gibi kaygılar taşıdıkları için ATM'lerden para çekme veya işlem yapmaya çekiniyor.'' Yetkililer, ödemelerdeki pratik kolaylıkları müşterilerine anlatarak, şubeye daha az kişinin gelmesini sağlamaya çalıştıklarını da kaydettiler. 
+     
+</TEXT>
+</DOC>

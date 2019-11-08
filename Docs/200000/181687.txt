@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 181687 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/11/son/soneko11.html </URL>
+<DATE> 2003/09/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansta dünkü hareketi sindirdi... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi önceki kapanışa göre 9.10 puan düşüşle, 1. seansı 12,308.58 puandan tamamladı. 
+     1. seansta, hisse senetlerinin ortalama değer kaybı yüzde 0.07 olarak gerçekleşti. 
+     Dün 12,317.68 puandan kapanan endeks, ilk seansa 31.63 puan düşüşle 12,286.05 puan seviyesinde başladı. Endeks, seansın ilk yarısını ise 12,289.65 puandan geçti. 
+     Endeks, seans içinde en düşük 12,215.76 puana kadar gerilerken, en yüksek olarak 12,380.16 puanı gördü. 
+     Seans kapanışında mali endeks 44.72 puan düşüşle 15,514.07 puana gerilearken, sanayi endeksi 31.68 puan artışla 11,941.26 puana ve hizmetler endeksi 15.74 puan artışla 7,274.22 puana yükseldi. 
+     Böylece, önceki kapanışa göre mali grup hisseler ortalama yüzde 0.29 oranında değer yitirirken, sanayi grubu hisseler ortalama yüzde 0.27, hizmetler grubu hisseler de ortalama yüzde 0.22 oranında değer kazandı. 
+     1. seansta işlem gören toplam 284 hisse senedinden 144'ü değer kazanırken, 68 hisse senedi değer kaybetti, 72 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta, 307 trilyon 113 milyar 672 milyon liralık işlem hacmi oluştu. 
+     1. seansta, Yapı ve Kredi Bankası, Doğan Holding, Garanti Bankası, İş Bankası C ve Sabancı Holding en yoğun işlem gören hisseler oldu. 
+     Borsa uzmanları, işlem hacmindekı azalmayla birlikte 12,215.76 puana kadar gerileyen endeksin bu seviyelerden gelen tepki alımlarıyla 12,300 puanın üzerine çıktığını ve bu seviyelerden kapandığını hatırlatarak, sabah açılışın ardından yaşanan satış baskısı ile hareket eden borsada hacmin düne göre azaldığını ancak ilerleyen seanslar için umut verici olduğunu kaydediyor. 
+     Uzmanlar, bu satış baskısının trend içi bir düzeltme hareketi olarak değerlendirilebileceğini ifade ederek, eldeki verilere bakıldığında bu düzeltmenin sınırlı kalacağı ve alım yönünde hareketin süreceği beklentisinin bulunduğunu savunuyor. 
+     
+</TEXT>
+</DOC>

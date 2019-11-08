@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 202500 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/16/son/soneko37.html </URL>
+<DATE> 2003/12/16/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa günü yüzde 1.16'lık kayıpla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Bileşik Endeksi 2. seansta 212.24 puan kayıpla 17,208.51 puandan kapandı. 
+     Hisse senetleri 2. seansta ortalama yüzde 1.22 oranında değer kaybetti. 
+     İlk seanstaki 10.75 puanlık artış dikkate alındığında Borsa endeksi, günün tamamında 201.49 puan geriledi. Hisse senetlerindeki günlük değer kaybı ise yüzde 1.16 oldu. 
+     Endeks, 2. seansa 16.35 puanlık düşüşle 17,404.40 puan seviyesinde başladı. İlk yarıyı 125.20 puan gerileyerek, 17,295.55 puandan geçen endeks, seans içinde en düşük 17,158.04, en yüksek 17,529.85 puanı gördü. 
+     2. seans kapanışında mali endeks 374.32 puan kayıpla 23,593.58 puana, sanayi endeksi 169.37 puan kayıpla 15,137.17 puana gerilerken, hizmetler endeksi 28.44 puan artışla 9,203.48 puana yükseldi. 
+     Böylece ilk seansa göre mali grup hisseler ortalama yüzde 1.56, sanayi grubu hisseler ortalama yüzde 1.11 oranında değer yitirirken, hizmetler grubu hisseler ise ortalama yüzde 0.31 değer kazandı. 
+     2. seansta işlem gören toplam 290 hisse senedinden 179'u değer kaybetti, 62'si değer kazandı, 49'unun fiyatında değişiklik olmadı. 
+     Seansta, 551 trilyon 474 milyar 419 milyon liralık işlem hacmi kaydedildi. Günlük işlem hacmi ise 1 katrilyon 46 trilyon 450 milyar 395 milyon lira olarak hesaplandı. 
+     2. seansta, Doğan Holding, Yapı Kredi Bankası, Garanti Bankası, Akbank ve Erdemir en yoğun işlem gören hisse senetleri olarak belirlendi. 
+     
+</TEXT>
+</DOC>

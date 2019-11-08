@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 202683 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/17/son/sondun11.html </URL>
+<DATE> 2003/12/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft, yeni işletim sistemini baştan yaratıyor... 
+</HEADLINE>
+<TEXT>
+
+     Yazılım firması Microsoft, 2005 ya da 2006'da piyasaya çıkartacağı Windows işletim sisteminin en yeni sürümü olan Longhorn'un geliştirilmesi için özel bir çalışma grubu kurdu. 
+     ''Windows Nüve İşletim Sistemi Birimi'' adı verilen grubun tüm Windows programlarını geliştirmekle görevli olacağı bildiriliyor. 
+     Longhorn kod adlı işletim sisteminin sadece Windows'da değil, aynı zamanda Office ve Server gibi ürünlerin yazılımlarında da değişimlere yol açacağı kaydedildi. 
+     Windows, Microsoft'un en büyük birimini oluşturuyor. Dünyadaki bilgisayarların yüzde 90'ından fazlasında kullanılan işletim sisteminin, Microsoft firmasına yılda 10,4 milyar dolar kazandırdığı bildirildi. Bu meblağ, Microsoft'un gelirlerinin üçte birini oluşturuyor. 
+     Yeni birimin başına Microsoft'un kıdemli elemanlarından Brian Valentine'in getirileceği ifade edildi. 
+     Microsoft grup başkan yardımcısı Jim Allchin, yeni oluşturulan birimle ilgili olarak yaptığı açıklamada, ''çalışmayla, Microsoft ürünlerinin daha güvenli ve güvenilir hale getirileceğini'' belirtti. 
+     
+</TEXT>
+</DOC>

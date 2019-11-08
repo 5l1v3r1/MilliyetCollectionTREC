@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 191187 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/25/son/soneko01.html </URL>
+<DATE> 2003/10/25/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası'nda Dow Jones ve Nasdaq endeksleri, haftayı düşüşle kapattı. 
+     Borsanın temel göstergesi Dow Jones endeksi 30.67 puan yüzde 0.32 azalarak, 9,582.46 puana düştü. 
+     Teknoloji endeksi Nasdaq da, yüzde 19.92 puan yüzde 1.06 düşüşle 1.865.59 puandan kapandı. 
+     Hafta genelinde Nasdaq'ta yüzde 2.5, Dow Jones'ta yüzde 1.4 düşüş kaydedildi. 
+     
+</TEXT>
+</DOC>

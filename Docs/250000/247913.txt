@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 247913 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/14/son/sonyas14.html </URL>
+<DATE> 2004/06/14/ </DATE>
+<TIME> 18.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Çamaşır yıkamak tarihe mi karışacak 
+</HEADLINE>
+<TEXT>
+
+     Güneşe tutulduğunda kendi kendine temizlenen kumaş üreten Hong Konglu bilim adamları sayesinde çamaşır yıkamak tarihe karışacak. 
+     ''Nature'' dergisinde yayımlanan habere göre, pamuklu kumaş üzerine tabaka halinde yerleştirilen titandioksit parçacıkları katalizör görevi yaparak, dokunun içindeki kirin sökülmesine yardımcı oluyor. Temizleme sürecini başlatmak için kumaşın yalnızca güneşe tutulması gerekiyor. 
+     Hong Kong'daki Politeknik Üniversitesi'nde görevli Walid Daoud ve John Xin tarafından geliştirilen ve kumaşın üzerine tabaka halinde yerleştirilen titandioksit, UV ışınlarına maruz kaldığında elektron serbest bırakıyor. Elektronlar havadaki oksijenle reaksiyona girince, serbest oksijen radikalleri oluşuyor. Bu radikaller de organik kire saldırıyor. 
+     Bilim adamları, titandioksidin zamanla azalmadığı için kumaşın kendi kendini temizleme özelliğini yitirmeyeceğini kaydettiler. 
+     Bilim adamları, böyle bir kumaşı piyasaya çıkarmak için daha çok sayıda deney yapmaları gerektiğini söylediler. 
+     
+</TEXT>
+</DOC>

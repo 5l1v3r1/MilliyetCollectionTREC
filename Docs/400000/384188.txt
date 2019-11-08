@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 384188 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/05/son/soneko28.html </URL>
+<DATE> 2005/10/05/ </DATE>
+<TIME> 11.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hyundai, hibrid araçların seri üretimine başlıyor... 
+</HEADLINE>
+<TEXT>
+
+     Hyundai, doğa dostu, elektrikli ve benzinli motoru aynı anda kullanan hibrid motorlu araçların seri üretimine, 2006 yılında başlamaya karar verdi. 
+     Hyundai Assan'dan yapılan açıklamaya göre, test amacıyla geliştirilen 50 adet Getz Hybrid modelini geçen yıl Kore hükümetine veren Hyundai, yine pilot proje kapsamında hibrid motora sahip 350 adet Accent modelini hükümetin diğer birimlerinde kullanılmak üzere 2005 yılı sonuna kadar teslim edecek. 
+     Hyundai Motor Company'nin hedefi, ilk etapta daha az rakamlarla hibrid araçlarının seri üretimine başlamak olarak açıklandı. 
+     Bu amaçla, Kore pazarının bu araçlara olan ilgisini ölçmek için ilk olarak Accent Hybrid modelleri 2006 yılı içinde satışa sunulacak. Accent Hybrid'lerin göreceği ilgiye göre Sonata'nın da hibrid motorlu versiyonlarının seri üretimine geçilecek. Hibrid motorlu Sonata'lardan 2007 itibariyle yılda en az 10 bin adet üretilmesi planlanıyor. 
+     Hibrid motorlu araçlar öncelikle Kore pazarı için üretilecek. Daha sonraki dönemlerde Kore dışındaki diğer ülkeler için de üretim yapılacak. 
+     Otomotiv sanayiinde Hyundai ile birlikte hibrid araç üretimi yapan sadece birkaç firma bulunuyor. Hyundai Motor Company, 2010 yılına kadar yıllık 300 bin adetlik hibrid araç üretimini öngörüyor. 
+     
+     HİBRİD ARAÇLAR 
+     Açıklamaya göre, hibrid elektrikli araçların, tüm dünyada 2030 yılı itibariyle yeni araç taleplerinin yüzde 50'lik bir bölümünü karşılaması bekleniyor. 
+     Getz Hybrid'in tüketimi, içten yanmalı motora sahip olan Getz'e göre yüzde 50 daha az ve 18 kilometrede sadece 1 litrelik tüketimi bulunuyor. Hibrid sistemde benzinli motor, bataryadaki enerjiyi kullanarak elektrikli motor tarafından çalıştırılıyor. Ancak aracın hareket etmesini, benzinli ve elektrikli motorlar beraber sağlıyor. Araç hareket ederken benzinli motor, bataryayı şarj etmek amacıyla tekerlekleri ve elektrikli motoru kullanıyor. Fren yaparken de elektrikli motor bir jeneratör görevini üstlenerek elektrik enerjisini üretiyor ve aracın bataryasında depoluyor. Araç durduğunda ya da şehir içinde trafik ışıklarında beklerken benzinli motorun çalışması otomatik olarak duruyor. Ancak yeniden gaza yüklenildiğinde elektrikli motor sayesinde çalışmaya başlıyor ve harekete geçiyor. Bu motorlarla 161 km s'lik maksimum hıza ulaşan Getz Hybrid, 12.7 saniyede de 0-100 km s hızlanmasını gerçekleştiriyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 342941 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/16/son/soneko01.html </URL>
+<DATE> 2005/05/16/ </DATE>
+<TIME> 08.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa bu hafta hangi konulara odaklanacak 
+</HEADLINE>
+<TEXT>
+
+     Borsa yatırımcıları, Hazine’nin açıklayacağı iç borç stoğu ve DİE’nin açılan kapanan şirket sayısı verileri ile Nisan ayı kapasite kullanım oranlarını yakından takip edecek. 
+     Gedik Yatırım’ın haftalık değerlendirmesinde, geçtiğimiz hafta uzun bir sürecin ardından onaylanan IMF anlaşmasının İMKB’de fiyatlara yeterince yansıyamadığı, AİHM’nin kararı ve Fransa referandumu gibi ikincil faktörlerin gölgesinde kaldığının görüldüğü belirtilerek, endeksin haftayı yüzde 1.5 artışla 25,325.67 puandan kapattığı kaydedildi. 
+     Bu hafta açıklanacak olan Nisan ayı kapasite kullanım oranının 2005 için büyüme konusunda fikir vermesi açısından önemli bulunduğu 
+     ifade edilen değerlendirmede, "Öte yandan Hazine’nin açıklayacağı iç borç stoku ve DİE’nin açılan-kapanan şirket sayısı verileri haftanın diğer makro dataları olacaktır" denildi. 
+     Değerlendirmede, şu görüşlere yer verildi 
+     "Önümüzdeki günlerde, piyasalarda Amerikan Merkez Bankası’nın FED faiz artırımında agresifleşebileceği endişesinin kalkmış olmasının etkisinin daha fazla hissedilmesini, Türkiye’nin kendi gündemindeki IMF anlaşması sonrasında not artırımları gibi beklentilerin fiyatlara daha net bir şekilde yansımasını, gerek makro verilerdeki iyileşme ve gerekse doğrudan yabancı sermaye yatırımlarına yansıyan yabancı ilgisinin olumlu etkisinin piyasalarda etkisinin sürmesini bekliyoruz." 
+     
+</TEXT>
+</DOC>

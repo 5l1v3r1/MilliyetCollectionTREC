@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 382560 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/29/son/soneko24.html </URL>
+<DATE> 2005/09/29/ </DATE>
+<TIME> 12.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Google ve NASA, ortak uzay araştırması yapacak... 
+</HEADLINE>
+<TEXT>
+
+     İnternetin en büyük arama motoru Google, Amerikan Havacılık ve Uzay Dairesi NASA ile ortak uzay araştırmaları yapacağı bildirildi. 
+     Anlaşmayla Google, NASA'nın da araştırma merkezinin bulunduğu Silikon Vadisi'ne devasa bir kampus kuracak. Anlaşmayla ilgili mali bilgiler ise gizli tutuluyor. 
+     Geniş tabanlı veri yönetimi, nanoteknoloji ve uzay sanayiinde ortak çalışmayı planlayan Google ile NASA, milyonlarca gönüllünün bilgisayarını da internet sayesinde sağlık ve uzay araştırmaları için kullanacak. 
+     Google Üst Yöneticisi CEO ve Yönetim Kurulu Başkanı Eric Schmidt, ortaklıkla ilgili yaptığı açıklamada, NASA ve Google'ın, ''evrenin bilgisini dünyadaki insanlara taşımak gibi'' ortak bir misyona inandığını söyledi. 
+     
+</TEXT>
+</DOC>

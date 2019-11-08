@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 231314 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/14/son/soneko52.html </URL>
+<DATE> 2004/04/14/ </DATE>
+<TIME> 16.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası güne düşüşle başladı... 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacmi bakımından dünyanın en büyük borsası konumundan olan New York'ta endeksler düşük açıldı. 
+     Açılıştan kısa bir süre sonra Dow Jones Endeksi 38.82 puan azalarak 10,342.46 puana, teknoloji endeksi Nasdaq 11.58 puan gerileyerek 2,018.50 puana indi. 
+     Endekslerde görülen gerilemeye neden olarak tüketici fiyatlarının öngörülenin üzerinde arttığı yolunda bir rapor ardından yatırımcıların ABD Merkez Bankası'nın faizleri yükseltebileceği yolundaki korkularının artması gösterildi. 
+     
+</TEXT>
+</DOC>

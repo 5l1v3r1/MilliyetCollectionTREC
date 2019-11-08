@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 87171 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/05/31/son/sondun22.html </URL>
+<DATE> 2002/05/31/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Genetik olarak insan ile fareyi ayırmak çok zor 
+</HEADLINE>
+<TEXT>
+
+     İnsanı fareden ayıran nedir Bilim adamlarına göre, genetik olarak bunu söylemek hayli zor.. 
+     İnsanın gen haritasının çıkarılması üzerine çalışan Celera Genomik şirketinden bir grup bilim adamı, Science dergisinde yayınlanan makalelerinde, bir fare kromozomuyla bir insan kromozomu arasında yaptıkları ilk karşılaştırmada, insanların ve farelerin taşıdıkları genlerin çok benzer olduğunu gördüklerini belirttiler. 
+     Celera şirketinden Richard Mural ve ekibi, faredeki 16. kromozomla insandaki 21. kromozomu karşılaştırdılar. 
+     Araştırmayı yorumlayan Ulusal Kanser Enstitüsü'nden genetik uzmanı Neal Copeland, kromozomların karşılaştırılmasında kendisinin en ilginç bulduğu şeyin, ''insan ve farelerin genler, gen yapısı ve DNA dizilimi açısından birbirlerine ne kadar benzediklerini görmek'' olduğunu söyledi. 
+     Copland ve arkadaşları, farelerdeki 14 genin insanlarda karşılığı olmadığını, karşılaştırmanın yapıldığı bölgelerdeki 21 insan geninin de insanlara özgü olduğunun görüldüğünü söyledi. 
+     Mural ve ekibi, bu bilgiye dayarak, fare genlerinin yalnızca yüzde 2'sinin farelere, insan genlerininse sadece yüzde 2.9'unun insanlara 
+     özgü olduğunun söylenebileceğini belirttiler. 
+     Mural, kısa bir süre sonra, insanların ve farelerin DNA'larının yüzde kaçını paylaştıklarının söylenebileceğini bildirdiler. 
+     İnsanlarla şempanzelerin DNA'larının da yüzde 98.7'nin benzediği bildirilmişti. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

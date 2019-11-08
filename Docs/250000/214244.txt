@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 214244 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/10/son/sondun21.html </URL>
+<DATE> 2004/02/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Mydoom'un yaratıcıları, yeni virüs yazdı DOOMJUICE 
+</HEADLINE>
+<TEXT>
+
+     ''Doomjuice'' adlı yeni bir bilgisayar virüsünün şimdiye kadar 30 bin dolayında bilgisayarı etkilediği bildirildi. 
+     Finlandiyalı bilgisayar güvenlik uzmanları, yeni virüsün sadece geçen ay sonunda ortaya çıkan ''Mydoom'' virüsünün bulaştığı bilgisayarları etkilediğini söyledi. 
+     F-secure adlı şirket tarafından ilk olarak geçen Pazar gecesi tespit edilen virüsün, ''Mydoom'' virüsünü yazan kişiler tarafından yazıldığı belirtildi. 
+     Tıpkı ''Mydoom.A'' ve ''Mydoom.B'' virüsleri gibi yeni virüsün de Windows işletim sistemini etkileyecek şekilde yazıldığı ve dünyanın en büyük UNIX şirketlerinden SCO'ya karşı bir saldırı başlatmak amacıyla programlandığı kaydedildi. 
+     ''Doomjuice'' virüsü ''Mydoom'' gibi e-maillerle yayılmıyor, sadece ''Mydoom''un etkilediği bilgisayarlarda açtığı bir ''arka kapı''dan bilgisayara giriyor. 
+     Microsoft ''Mydoom'' virüsünü yazanın bulunmasına veya yargılanmasına yardımcı olanlara 250 bin dolar para ödülü vereceğini açıklamıştı. 
+     ''Doomjuice'' virüsünün, ''Mydoom'' gibi hızla yayılmasa da ondan daha tehlikeli olabileceği, çünkü 12 Şubat'ta yayılmayı durduracak şekilde programlanmış ''Mydoom''un aksine, yeni virüsün sonsuza kadar yayılabilecek şekilde yazıldığı belirtiliyor. 
+     
+</TEXT>
+</DOC>

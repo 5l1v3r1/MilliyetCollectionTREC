@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 162270 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/10/son/soneko36.html </URL>
+<DATE> 2003/06/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Merkez Bankası reel kesim güven endeksi arttı... 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası tarafından düzenlenen Reel Kesim Güven Endeksi MBRKGE geçen ay, Nisan ayına göre yüzde 3.6 oranında artış göstererek 107.5 seviyesine ulaştı. 
+     Reel Kesim Güven Endeksi, bu seviye ile siyasi belirsizliğin ortadan kalktığı 2002 yılı Kasım ayı seviyesine ulaştı. Ancak, bir yıl öncesine göre karşılaştırma yapıldığında, 2002 yılının ikinci yarısında yaşanan siyasi belirsizlikler öncesinde geldiği en yüksek nokta olan Mayıs 2002 seviyesinin 1.8 puan altında kaldı. 
+     Güven endeksi, üst düzey yöneticilerin bugünkü iş durumlarını nasıl değerlendirdiklerini ve geleceğe ilişkin beklentilerinin bir fonksiyonu olan toplulaştırılmış gösterge niteliğini taşıyor. 
+     Bu kapsamda 100 değeri, ekonomik faaliyetlere ilişkin istikrarlı görünümü ifade ederken, bunun altındaki değer ''güvenin azaldığı'', üstündeki değer ise ''güvenin arttığı'' anlamına geliyor. 
+     Reel kesim güven endeksi Mayıs ayı sonuçlarının yer aldığı Merkez Bankası açıklamasına göre, MBRKGE, son aylarda ekonomik faaliyetlere ilişkin olumlu beklentilerin arttığına dikkati çekerken, sanayi üretim endeksi artış eğiliminin devam edeceğine işaret ediyor. 
+     Endeksi oluşturan anket sorularına ait yayılma endeksleri incelendiğinde, bir önceki aya göre en fazla artış iç pazara satılan mal hacmi, toplam sipariş, genel gidişat ve yatırım harcaması kalemlerinde sırasıyla yüzde 16.6, yüzde 12.7, yüzde 7.9 ve yüzde 6.4 oranlarında gerçekleştiği gözlendi. Toplam istihdam eğiliminde ise yüzde 2.7 oranında daha düşük bir artış gerçekleşti. 
+     Endeksin dış talep göstergesi olan ihracat imkanları kaleminde bir önceki aya göre yüzde 8.8, mamul mal stok miktarı kaleminde ise yüzde 4.6 oranında düşüş gözlenirken, hammadde stok eğilimi ile üretim hacmi beklentisindeki azalışlar oldukça sınırlı kaldı. 
+     Bir önceki yılın Mayıs ayına göre, karşılaştırma yapıldığında, genel gidişat, üretim hacmi, ihracat imkanları ve hammadde stok eğilimi kalemleri halen geçen seneki seviyelerinin altında bulunuyor. 
+     Mayıs ayında iç pazara satılan mal hacmi, geçen seneki değerine ulaşırken, yatırım harcaması, toplam sipariş, toplam istihdam, mamul mal stok kalemleri bir yıl önceki seviyelerinin üzerinde değerler aldı. 
+     
+</TEXT>
+</DOC>

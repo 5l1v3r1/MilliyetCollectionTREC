@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 282462 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/22/son/soneko12.html </URL>
+<DATE> 2004/10/22/ </DATE>
+<TIME> 11.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tüketici güveni yükselişe geçti 
+</HEADLINE>
+<TEXT>
+
+     Türkiye'de son altı aydır gerileyen tüketici güveni, eylül ayında yükselişe geçti. 
+     Özellikle gelecek dönemdeki genel ekonomik duruma ve iş bulmaya ilişkin olumlu beklentilerle yükselen tüketici güveni, halen yılbaşına göre yüzde 8.6 geride bulunuyor. 
+     Devlet İstatistik Enstitüsü ve Merkez Bankası işbirliği ile yürütülen Aylık Tüketici Eğilim Anketi sonuçları açıklandı. 
+     Tüketicilerin harcama davranış ve beklentilerini değerlendiren ankete göre, ağustos ayında 101.2 olan Tüketici Güven Endeksi, eylül ayında yüzde 1.59 oranında artarak 102.8 değerine ulaştı. 
+     
+     Düşüş sona erdi 
+     Güven endeksindeki artış, tüketicilerin mevcut ve gelecek dönem satın alma güçlerine, gelecek dönem genel ekonomik duruma ve iş bulma olanaklarına dair değerlendirmelerinin iyileşmesinden kaynaklandı. 
+     Yılbaşında 111.4 olan ve bir ay sonra da 111.9 seviyesine ulaşan endeks, bu seviyeden itibaren eylül ayına kadar geriledi. Eylül ayındaki yükselişte yüzde 4 artan ekonomik durum beklentileri ve yüzde 3.36 artan iş bulma beklentisi önemli rol oynadı. 
+     
+     İş bulma beklentisi arttı 
+     Endeksin 100’den büyük olması tüketici güveninde iyimser durum, 100’den küçük olması tüketici güveninde kötümser durum, 100 olması ise tüketici güveninde ne iyimser ne de kötümser durum olduğunu gösteriyor. 
+     
+</TEXT>
+</DOC>

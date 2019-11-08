@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 281537 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/19/son/soneko40.html </URL>
+<DATE> 2004/10/19/ </DATE>
+<TIME> 15.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ziraat Bankası Sistemin çökmesi değil, yavaşlaması sözkonusu 
+</HEADLINE>
+<TEXT>
+
+     Ziraat Bankası Genel Müdürü Can Akın Çağlar, Bankanın bilgisayar sisteminin çöktüğü yönündeki haberlere ilişkin olarak, ''Şu anda bir çökme, göçme değil, sistemin yavaşlaması söz konusu'' dedi. 
+     Çağlar, toplam bin 100 şubede merkezi bir sisteme geçiş yönünde çalışmaların devam ettiğini hatırlattı. 
+     Dün gerçekleştirilen çalışmalar sırasında sistemde bir yavaşlamanın ortaya çıktığını söyleyen Çağlar, sistem hızının dörtte bire gerilediğini açıkladı. 
+     Tedarikçi firmanın yavaşlamanın nereden kaynaklandığını araştırdığını kaydeden Çağlar, ''Yavaşlama, yazılımdan mı donanımdan mı bilemiyoruz. Pazartesi günü aşırı yoğunlaşma nedeniyle sistemdeki ekran sayısını azalttık, ancak bundan dolayı kuyruklar uzadı. Hafta sonuna kalmaz. Bu akşam ya da yarın hallederiz diye düşünüyorum'' diye konuştu. 
+     
+     MİCROSOFT TÜRKİYE 
+     Konuya ilişkin bilgi veren Microsoft Türkiye Genel Müdür Yardımcısı Selim Zafer Ellialtı da ''Problem, bizim ürünlerimizin kullanıldığı bir platformda değil'' dedi. 
+     Buna karşılık Ziraat Bankası'nın kendileri açısından önemli bir müşteri olduğunu söyleyen Ellialtı, sadece yardıma ihtiyaçları olup olmadığını sorduklarını ifade etti. 
+     Microsoft Türkiye Genel Müdür Yardımcısı, ''Haberlerde belirtildiği gibi, konu bizim konumuz değil. Microsoft platformu değil problem olan'' diye sözlerini tamamladı. 
+     
+</TEXT>
+</DOC>

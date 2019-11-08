@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 261213 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/06/son/sontur35.html </URL>
+<DATE> 2004/08/06/ </DATE>
+<TIME> 16.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Köpeğe mikroçip takıldı... 
+</HEADLINE>
+<TEXT>
+
+     İzmit'te, golden retriever cinsi Kij adlı köpeğe, kimlik bilgilerinin sürekli güncellenebileceği, bu bilgilerin internetten de takip edilmesine imkan tanıyan, ''petkimlik'' olarak adlandırılan mikroçip takıldı. 
+     Operasyonu gerçekleştiren Veteriner Hekim Akın Ziya Ünal, yöntemin Avrupa'da yaygın olduğunu, İstanbul'da da 60'a yakın klinikte uygulandığını söyledi. 
+     İzmit'te ilk olan uygulamanın, Ekim ayından sonra yurt dışına çıkartılacak tüm hayvanlar için zorunlu olacağını belirten Ünal, şöyle konuştu 
+     ''Petkimlik, yaklaşık bir pirinç tanesi büyüklüğünde ve herhangi bir enerji kaynağına ihtiyaç duymadan okuyucuya sinyal gönderebilen mikro cihazlardır. Bir tarayıcı kullanılarak, deriye temas gerektirmeden hayvanın kimlik bilgileri, 40-80 milisaniye arasında okunabilmektedir. Aşı yapar gibi, kedi, köpek ve at gibi hayvanlara kolayca uyguladığımız bu yöntem sayesinde dostlarımızın sağlığını daha yakından takip edebileceğiz.'' Ünal, hayvan sahiplerinin internetten 'www.petkimlik.com' adresine girerek, hayvanlarının seri numarasıyla sağlık bilgilerine ulaşabileceğini, yöntemin yaygınlaşmasıyla çalınan ya da kaybolan hayvanların yerlerinin de belirlenebileceğini anlattı. 
+     Ünal, mikroçip enjektesinin 50 Euro olduğunu, sistemin yaygınlaşmasıyla bu fiyatın daha da gerileyebileceğini kaydetti. 
+     
+</TEXT>
+</DOC>

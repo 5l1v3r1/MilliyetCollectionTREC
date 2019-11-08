@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 174492 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/08/son/soneko32.html </URL>
+<DATE> 2003/08/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Merkez Bankası Reel Kesim Güven Endeksi, 7 puan yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası tarafından düzenlenen Reel Kesim Güven Endeksi Temmuz ayında geçen yılın aynı dönemine göre 7 puan artarak 99.2'den 106.2 değerine ulaştı. 
+     2003 yılı Nisan ayında yükselişe geçen, ancak Haziran ayında önceki ayki değerini koruyup 108.1 seviyesinde duraklayan Endeks, Temmuz ayında bir önceki aya göre 1.9 puan azalarak 106.2 seviyesine geriledi. 
+     Endeksi oluşturan anket sorularına ait yayılma endeksleri incelendiğinde, Haziran ayına kıyasla endeksteki azalışta en fazla toplam sipariş ile genel gidişat kalemlerinde görülen sırasıyla yüzde 11 ve yüzde 6.4 oranlarındaki düşüşlerin etkili oldu. 
+     Mamul mal stok eğiliminde görülen yüzde 4.3 oranındaki artış, ters kodlama sebebiyle endeksi azaltıcı yönde etkiledi. Toplam istihdam beklentisi yüzde 3.4 oranında azalırken, yatırım harcamaları beklentisinde daha sınırlı bir düşüş gözlendi. 
+     Endeksin alt kalemlerinden hammadde stok eğiliminin yüzde 6.5 oranında arttığı gözlenirken, üretim hacmi ve ihracat imkanları beklentileri ile iç pazara satılan mal hacmi eğilimindeki artışlar oldukça sınırlı kaldı. 
+     Bir önceki yılın Temmuz ayına göre karşılatırma yapıldığında, ihracat imkanları hariç tüm alt kalemlerin geçen seneki seviyelerinin üstünde de değerler aldığı, ancak dış talebe ilişkin bir gösterge olan ihracat imkanları beklentisinin geçen seneki seviyesini koruduğu gözlendi. 
+     Güven endeksi, üst düzey yöneticilerin bugünkü iş durumlarını nasıl değerlendirdiklerini ve geleceğe ilişkin beklentilerinin bir fonksiyonu olan toplulaştırılmış gösterge niteliğini taşıyor. 
+     Bu kapsamda 100 değeri, ekonomik faaliyetlere ilişkin istikrarlı görünümü ifade ederken, bunun altındaki değer ''güvenin azaldığı'', üstündeki değer ise ''güvenin arttığı'' anlamına geliyor. 
+     
+</TEXT>
+</DOC>

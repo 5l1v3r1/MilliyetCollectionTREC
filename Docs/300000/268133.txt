@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 268133 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/01/son/soneko12.html </URL>
+<DATE> 2004/09/01/ </DATE>
+<TIME> 10.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD... Philadelphia, kablosuz internet kenti oluyor... 
+</HEADLINE>
+<TEXT>
+
+     ABD'nin Pennsylvania eyaletine bağlı Philadelphia kenti yaklaşık 10 milyon dolarlık yatırımla şehir merkezindeki 215 kilometre kare alanda kablosuz internet hizmeti vermeye hazırlanıyor. 
+     Şehrin belirli yerlerine yerleştirilecek yüzlerce küçük vericiler yardımıyla isteyen herkes kablosuz ağ kartlarına sahip diz üstü bilgisayarlarıyla hızlı internet erişimi olanağına kavuşacak. 
+     İnternet hizmetinin ya ücretsiz ya da aylık 35-60 dolar bedel karşılığı verilebileceğini belirten Philadelphia bilişim şefi Dianah Neff, ''Evinizin bahçesinde otururken, ücretsiz olarak kayıt olabilir ve hızlı internet bağlantısına kavuşursunuz. İşte bu teknoloji ve şimdi bunun zamanı'' diye konuştu. 
+     Gittiği her yere kablosuz erişime sahip cep bilgisayarını götürmesiyle tanınan Philadelphia Belediye Başkanı John F. Street ise teknoloji tutkunu olarak biliniyor. 
+     ABD'de birçok şehir daha önce kablosuz internet hizmeti sunmaya başlamıştı. Minnesota eyaletinde bulunan Chaska kentinde 21 kilometre kare alanda verilen kablosuz internet erişiminden, aylık 16 dolar karşılığında faydalanılabiliyor. 
+     Texas'ın liman kenti Corpus Christi'te de 32 kilometre kare alana yayılan kablosuz internet erişimi, sadece devlet görevlilerine hizmet veriyor. 
+     Cleveland'ın University Circle ve Midtown bölgelerine yerleştirilen 4 bin kablosuz internet vericisi ise erişim alanında bulunan herkese hızlı internet imkanı sağlıyor. 
+     T-Mobile USA ve Nextel şirketler ise New York Belediyesi ile şehirdeki 18 bin sokak lambasına 21.6 milyon dolar karşılığı verici yerleştirme pazarlığını yürütüyor. 
+     
+</TEXT>
+</DOC>

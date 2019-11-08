@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 66459 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/02/07/son/sontur08.html </URL>
+<DATE> 2002/02/07/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Deprem tahmin çalışmaları kaynağa takıldı 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Teknik Üniversitesi İTÜ Elektrik-Elektronik Fakültesi öğretim üyesi Dr. Berk Üstündağ, "Elektrostatik Kayaç Gerginlik İzleme Yöntemi ile Deprem Tahmin Sistemi" projesinin kaynak yetersizliği nedeniyle istenilen düzeye getirilemediğini söyledi. 
+     Dr. Üstündağ, kayaların sıkışması ve gerilmesinden dolayı oluşan elektrik geriliminin ölçülmesine dayanılarak, depremin yeri ve büyüklüğünü 1-5 saat önceden belirlemeyi amaçlayan projeye, yaklaşık 2 yıl önce başladıklarını hatırlattı. 
+     İlk aşamada Maslak, Etiler, Yeşilyurt, Heybeliada, Göztepe, Suadiye, Maltepe, Kartal, Sakarya, Mudanya, Balıkesir ve Denizli'de 12 pilot istasyon kurduklarını kaydeden Dr. Üstündağ, proje için bugüne kadar 20'si İTÜ kaynaklarından, 30'u da araştırmayı yapan ekibin kendi cebinden olmak üzere toplam 50 milyar liraya yakın para harcadıklarını belirtti. 
+     Geçen süreçte, kaynak yetersizliği nedeniyle kurulan bazı istasyonların işletilemediğini dile getiren Dr. Üstündağ, deprem tahmin projesinin ilerletilmesi için devletten tek kuruş yardım almadıklarını söyledi. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

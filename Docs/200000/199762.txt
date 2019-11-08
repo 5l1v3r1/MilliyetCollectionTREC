@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 199762 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/04/son/soneko28.html </URL>
+<DATE> 2003/12/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yılın en yaygın virüsleri açıklandı... 
+</HEADLINE>
+<TEXT>
+
+     Symantec Güvenlik Yanıt Merkezi, 2003 yılı içinde tüm dünyada en çok bildirilen 10 virüsü açıkladı. 
+     Yılın birincisi yüzde 11,06'lık oranla Bugbear olurken, Klez yüzde 7,80'lik oranla ikinci sırayı aldı. 
+     Bunları yüzde 3.70 ile Redlof.A, yüzde 2.22 ile Hybris, yüzde 1.91 ile Blaster, yüzde 1.67 ile Swen, yüzde 1.15 ile Nimda, yüzde 1.02 ile Bugbear B. Dam ve yüzde 0.98 ile Sobig.A izledi. 
+     Türkiye'nin de içinde bulunduğu EMEA bölgesinde Avrupa, Doğu Akdeniz ve Afrika yapılan toplam virüs bildirimlerinin dağılımında da Bugbear yüzde 13.63 payla birinciliği yakaladı. 
+     
+</TEXT>
+</DOC>

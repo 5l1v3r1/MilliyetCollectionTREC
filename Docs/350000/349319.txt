@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 349319 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/06/son/sondun49.html </URL>
+<DATE> 2005/06/06/ </DATE>
+<TIME> 20.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Mars'ta kuma saplanan robot kurtulmayı başardı... 
+</HEADLINE>
+<TEXT>
+
+     ABD’nin Mars’a indirdiği robotlardan Opportunity, 5 haftadır saplandığı kumuldan kurtulmayı başardı. 
+     Amerikan Havacılık ve Uzay Dairesi NASA’ya bağlı Jet Propulsion Laboratuvarı JPL yetkilileri, mühendislerin hafta sonunda Opportunity’yi kumuldan kurtarmayı ve yürütmeyi başardıklarını belirterek, altı tekerlekli robotun gönderdiği görüntülerden de Mars yüzeyinde bıraktığı tekerlek izinin açıkça görüldüğünü kaydettiler. 
+     JPL’in internet sitesinde yayınladığı fotoğrafta da robot aracın Mars’ın büyük bir kumulunda bıraktığı tekerlek izi görülüyor. 
+     Opportunity, 26 Nisan’dan bu yana altı tekerleği yüzde 80 oranında kumula saplanmış durumdaydı. 
+     ABD’nin Mars’a indirdiği Spirit ve Opportunity adlı ikiz robotlar, başlangıçta öngörülen üç aylık görev sürelerini aşarak, tam 16 aydır araştırma faaliyetlerini sürdürüyor. 
+     NASA, Nisan’da iki robotun keşif ömrünün 18 aya uzatılmasına yeşil ışık yakmış, robotlar, su ve canlı organizmaların bulunabileceğini gösteren ipuçları keşfederek, ne kadar değerli olduklarını ispat etmişlerdi. 
+     NASA yetkilileri, robotların umulmadık şekilde uzun süre "hayatta kalmasının", keşif çalışmalarının sürmesini sağladığını belirttiler. 
+     Spirit 3 Ocak 2004’de, Opportunity de bundan üç hafta sonra Mars yüzeyine indirilmişti. 
+     Opportunity, bir süre önce "kızıl gezegende" bir zamanlar tuzlu su bulunduğunu gösteren ipuçları ortaya çıkarmış, Spirit de geçen ay Mars’ta eskiden su olduğuna işaret eden bir mineral tespit etmişti. 
+     Mars’ta bir zamanlar hayat olup olmadığını araştıran ABD, ağustosta Mars’a yeni sefere başlayacak. 
+     
+</TEXT>
+</DOC>

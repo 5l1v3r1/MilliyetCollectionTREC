@@ -1,0 +1,51 @@
+<DOC>
+<DOCNO> 313969 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/10/guncel/gun01.html </URL>
+<DATE> 2005/02/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Çok primin çalışmanın SSK'da emekli aylığına etkisi 
+</HEADLINE>
+<TEXT>
+
+
+EMEKLİLİK HAKKINDA HER ŞEY 
+
+Hazırlayan Şevket Kerimoğlu 
+
+Faks 212 505 68 09 
+
+Sayın Şevket Kerimoğlu, 23.03.1960 doğumluyum ve 15.01.1980'de işe başladım. Bugüne kadar 6800 gün prim ödedim. Buna göre mart ayında emeklilik için dilekçe verirsem ne kadar emekli aylığı alabilirim Çalışmaya devam eder ve daha sonra emekli olursam ne kadar emekli aylığı alabilirim Cengiz Seçkin-İzmir 
+
+CEVAP Cengiz Bey, aslında sorunuz bir kitap olacak kadar uzun bir konu, ama hesap yapmadan basitçe çok çalışmanızın etkisini açıklayabilirim. 
+4447 Sayılı Kanun ile SSK'nın emekli aylıklarının hesaplanmasında köklü değişiklikler yapıldı. 
+Emekli aylıklarının hesaplanmasında 1978 yılından beri uygulanmakta olan katsayı esasına dayalı gösterge sistemi kaldırılarak, yerine TÜFE ve GH oranlarına göre sigortalıların güncelleştirilmiş prime esas yıllık kazançlarının esas alınması öngörülmüş ve aylık bağlama oranının belirlenmesine ilişkin hükümler de yeniden düzenlenmiştir. Bu değişiklikle 31.12.1999 tarihine kadar geçerli olan katsayı ve gösterge sistemi yerine, 01.01.2000'den itibaren kazançların güncellenmesi uygulamasına geçilmiştir. 
+31.12.1999'a kadar geçerli olan sistemle geriye doğru son 10 yılın veya son beş yılın kazançları emekli aylığında dikkate alınırken, 01.01.2000'den sonra bu uygulamadan vazgeçilerek tüm yılların kazançlarının ortalaması dikkate alınması uygun görülmüştür. 
+Ancak, yeni sistem tam olarak sadece 01.01.2000'den sonra işe girenler için geçerli olup 31.12.1999'dan önce işe girenlerin emekli aylıkları karma sistemle belirleniyor. 
+Karma sistem gereğince, 31.12.1999'a kadar olan çalışmalar için ayrı bir aylık hesaplanacak, 01.01.2000 ve sonrası çalışmalar için ayrı hesaplama sistemi uygulanacak ve bulunan her iki aylık, toplam çalışma sürenizdeki oranlarına göre birleştirilerek toplanarak emekli aylığı belirlenecektir. 
+Gerek eski 31.12.1999 ve öncesi çalışmalarınızın emekli aylığının tespitinde, gerek yeni 01.01.2000 ve sonrası çalışmalarının tespitinde kullanılacak en önemli kriter "aylık bağlama oranı"dır. 
+Konuyu anlamanız için gerek eski sistemde ve gerek yeni sistemde aylık bağlama oranının nasıl hesaplandığını aşağıda ayrıntısıyla açıkladım. 
+1- Eski sistemde aylık bağlama oranı ABO 31.12.1999 tarihine kadar geçerli olan sistemde aylık bağlama oranı aşağıdaki şekilde hesaplanmaktadır. 
+a- Gösterge tablosunda aylık alacaklarda gösterge tablosundan aylık alacak olanların baz aylık bağlama oranı ilk 5000 gün için 60 olup, 5000 günden sonraki her 240 gün için 1 artırılır ve 5000 günden az olan her 240 gün için 1 azaltılır. 
+Ayrıca sigortalı kadın ise 50, erkek ise 55 yaşından büyük olduğu her tam yıl için 1 artırılır, ama küçük ise azaltılmaz. Her iki şekilde de bulunan aylık bağlama oranı 85'ten fazla olamaz. Ayrıca, 506 60. maddenin B,C ve D bentlerine göre bağlanacak aylıklarda aylık bağlama oranı 60'tan az olamaz. 
+b- Üst gösterge tablosundan aylık alacaklarda üst göstergeden kamuoyunda bilinen adıyla süper emekli aylık bağlanacak olanların aylık bağlama oranları aşağıdaki tabloya derece ve kademesine göre belli edilir. "Derece ve kademe neye göre belli edilir " diye sakın sormayın, bütün bir Milliyet gazetesini bana ayırsalar ancak derece ve kademe belirleme tablolarını verebilirim. 
+
+Kademeler Üst Gösterge Tablosundan Aylık Bağlama Oranları Dereceler 1 2 3 4 5 6 7 8 9 10 1 50.9 50.8 50.7 50.6 50.5 50.4 50.3 50.2 50.1 50 2 51.9 51.8 51.7 51.6 51.5 51.4 51.3 51.2 51.1 51 3 52.9 52.8 52.7 52.6 52.5 52.4 52.3 52.2 52.1 52 4 53.9 53.8 53.7 53.6 53.5 53.4 53.3 53.2 53.1 53 5 54.9 54.8 54.7 54.6 54.5 54.4 54.3 54.2 54.1 54 6 55.9 55.8 55.7 55.6 55.5 55.4 55.3 55.2 55.1 55 7 56.9 56.8 56.7 56.6 56.5 56.4 56.3 56.2 56.1 56 8 57.9 57.8 57.7 57.6 57.5 57.4 57.3 57.2 57.1 57 9 58.9 58.8 58.7 58.6 58.5 58.4 58.3 58.2 58.1 58 10 59.9 59.8 59.7 59.6 59.5 59.4 59.3 59.2 59.1 59 
+Yukarıdaki tablo 5000 günlük prim sayısına göre olup 5000 günden sonraki her 240 gün için 1 yüzde 1 artırılır ve 5000 günden az olan her 240 gün için 1 azaltılır. 
+Ayrıca sigortalı kadın ise 50, erkek ise 55 yaşından büyük olduğu her tam yıl için 
+1 artırılır, ama küçük ise azaltılmaz. 
+1- Yeni sistemde aylık bağlama oranı ABO 01.01.2000 tarihinde yürürlüğe giren düzenleme ile öngörülen aylık bağlama oranlarının tespitine ilişkin esaslar aşağıdaki gibidir. 
+Yaşlılık emeklilik aylığı bağlama oranı, sigortalının toplam prim ödeme gün sayısının 
+- İlk 3600 gününün her 360 günü için 3.5, 
+- Sonraki 5400 gününün her 360 günü için 2, 
+- Daha sonraki her 360 günü için 1.5 oranları toplamından oluşacaktır. 
+Ancak, 506 Sayılı Kanun'un 60. maddesinin B , C ve D bentlerindeki özel koşullara göre aylığa hak kazananların aylık bağlama oranları hiçbir şekilde yüzde 60'tan az olamayacaktır. 
+
+YARIN 
+Günsüz giriş ve emeklilik 
+
+
+</TEXT>
+</DOC>

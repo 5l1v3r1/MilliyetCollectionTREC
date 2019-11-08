@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 183366 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/19/son/sondun31.html </URL>
+<DATE> 2003/09/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Enkaz altındaki canlıları bulmak için "robot tırtıl"... 
+</HEADLINE>
+<TEXT>
+
+     Japonlar, enkaz altındaki canlıları bulabilmek için ''robot tırtıl'' yaptılar. 
+     Tokyo üniversitesinden bir araştırma grubunun geliştirdiği tırtıl prototipine ''Kohga'' adı verildi. 
+     İki metrelik robot, tırtıl gibi hareket ediyor, önünü alnındaki ışıklı kamerayla görüyor. Profesör Fumitoşi Matsuno, on parçadan oluşan ''robot tırtıl''ın, çok dar yerlere girebileceğini ve molozların arasında ilerleyerek enkaz altında canlı bulunup bulunmadığını tespit edebileceğini belirtti. 
+     Profesör, ''Enkaz altındaki canlılara yardım eli uzatmak, zamanla yarışmak demek. Oralara bu robotları kolayca ulaştırabilmek çok önemli'' dedi ve uzaktan kumandalı robotun daha gelişmişini üç yıl içinde yapabileceklerini söyledi. 
+     Kyoto kentinde de bir grup araştırmacı, ''Moira'' adını verdikleri 1.4 metre boyunda, 18 kilo ağırlığındaki robotlarını tanıttı. Robotun, enkaz arasında kendine yol açabilecek güçte olduğu belirtildi. 
+     Japonya sık sık depremle sarsılan bir ülke. 1995'deki son büyük depremde Kobe kentinde 6 bin kişi ölmüştü. 
+     
+</TEXT>
+</DOC>

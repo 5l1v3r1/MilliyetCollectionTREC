@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 215684 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/17/son/sondun23.html </URL>
+<DATE> 2004/02/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Araştırma robotu Spirit, Mars'ta 26 metre yürüdü 
+</HEADLINE>
+<TEXT>
+
+     Amerikan Mars araştırma robotu ''Spirit'', gezegen yüzeyinde 26 metre yürüdü. 
+     Ulusal Havacılık ve Uzay Dairesi'nin NASA California-Pasadena'daki görev denetim merkezi Jet Propulsion Laboratory'den Jet Motorları Geliştirme Merkezi Mars yöneticisi Jim Ericson'un verdiği bilgiye göre, Spirit, ''Bonneville'' isimli kratere yönelmek için çalışıyor. 
+     Spirit, Mars yüzeyindeki incelemelerinde geçen hafta bir defada 21 metre yol aldı. 
+     Spirit, inceleyeceği kratere gitmesi için önünde daha 240 metre var. Küçük tekerlekli robot, kratere 345 metre uzaklıkta yüzeye indirildi. Spirit'ten uzakta NASA'nın Opportunity robotu da gezegende geçmiş olası su hareketlerinin çizdiği katmanlaşmayı ölçmek için ''hendek'' kazmaya uğraşıyor. 
+     
+     SPİRİT, ''YÜRÜME REKORU'' KIRDI 
+     Spirit, Mars yüzeyinde bir günde 21.2 metre ''yürüyerek'' 1 hafta önce rekor kırdı. 
+     NASA yetkilileri, Sojourner adlı robotun 1997'de Mars yüzeyinde bir günde 7 metre ilerlediğini anımsatarak, Spirit'in yürüyüşünün rekor anlamına geldiğini kaydetti. 
+     Spirit 10 gün önce özel bir aletle deldiği volkanik bazalt kayanın içini incelemişti. 
+     Ocak ayında Mars'a indirilen robotlar, kızıl gezegen olarak da adlandırılan Mars'ta yaşam izi arıyor. Robotların çalışması, üç ay sürecek. 
+     İnternet adresi http marsrovers.jpl.nasa.gov 
+     
+</TEXT>
+</DOC>

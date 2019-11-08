@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 248273 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/16/ekonomi/eko13.html </URL>
+<DATE> 2004/06/16/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Okulinux teklifi 
+</HEADLINE>
+<TEXT>
+
+
+ANKARA Milliyet 
+
+Linux International, Milli Eğitim Bakanlığı'na MEB Okulinux adlı açık kaynak kodlu linux işletim sistemini önerdi ve ücretsiz dağıtılabileceğini bildirdi. MEB Müsteşar Yardımcısı Salih Çelik, işbirliği yapabileceklerini açıkladı. 
+
+
+</TEXT>
+</DOC>

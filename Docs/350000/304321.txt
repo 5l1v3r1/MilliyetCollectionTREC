@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 304321 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/07/son/soneko05.html </URL>
+<DATE> 2005/01/07/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükselişle kapandı 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası'nda değerli hisse senetleri, Sanayi Endeksi'nde, 2005 yılında ilk kez belirgin yükselişle kapandı. 
+     Wall Street'in Dow Jones Sanayi Endeksi 23.79 puan artışla 10,621.62 puandan Nasdaq Birleşik Endeksi de 1.24 puan eksilerek 2,090.00 puandan kapandı. 
+     Noel tatili döneminde alışverişlerin geçen yıla oranla arttığının açıklanması, borsada alımları Wal-Mart gibi perakende hisselerinde yoğunlaştırdı. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 373067 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/26/son/soneko06.html </URL>
+<DATE> 2005/08/26/ </DATE>
+<TIME> 09.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sokaktaki işsizlik yüzde 15.6'ya ulaştı... 
+</HEADLINE>
+<TEXT>
+
+     DİE’nin Hanehalkı İşgücü Anketiyle yüzde 9.2 olarak hesapladığı Türkiye’deki işsizlik oranının, uygulanan yöntem nedeniyle işsiz sayılmayan, "işsiz olduğu halde iş aramadığı, mevsimlik çalışanlar" dahil edildiğinde yüzde 15.6’ya ulaştığı hesaplandı. 
+     Devlet İstatistik Enstitüsü, Türkiye’nin işgücü istatistiklerini hazırlarken AB ve diğer uluslar arası norm ve standartlara uygun bir yöntem izliyor. Ancak söz konusu yöntemle belirlenen işsiz ve çalışan tanımları, Türkiye’de halk arasındaki işsiz ve çalışan tanımlarına göre daha dar bir kapsamda kalıyor. 
+     Söz konusu normlara göre, işsiz olduğu ve iş bulsa hemen çalışmaya başlayacağı halde, "iş bulamayacağı" gerekçesiyle iş arama kanallarından herhangi birini kullanmayan toplam 1 milyon 623 bin kişi işsiz ve işgücünde kabul edilmiyor. Aynı şekilde mevsimlik çalışan ancak anketin yapıldığı dönemde çalışmayan 280 bin kişi de işgücüne dahil edilmiyor ve işsiz kabul edilmiyor. 
+     Bu iki kesim de dahil edildiğinde DİE’nin araştırmasıyla 2 milyon 294 bin kişi olarak belirlenen işsiz sayısı 4 milyon 197 bin kişiye ulaşıyor. Bu yöntemle hesaplanan işsizlik oranı da yüzde 15.6 düzeyine ulaşıyor. 
+     Aynı yöntemle yapılan hesaplama geçen yılki işsizlik oranını ise yüzde 14.1 olarak gösteriyor. Buna göre son bir yılda sokaktaki işsizlik oranı 1.5 puanlık bir artış kaydetti. 
+     
+     ATIL İŞGÜCÜ 
+     Anketin yapıldığı hafta, tam gün iş bulamama, işin son anketin yapıldığı hafta içerisinde başlayıp bitmesi gibi ekonomik nedenlerle 40 saatten az çalışıp, mevcut işinde ya da başka bir işte daha uzun süre çalışabilecek durumda olanlarla, mesleğinde çalışmadığı ya da mevcut işinden elde ettiği gelir az olduğu için yeni bir iş arayanların sınıflandırıldığı eksik istihdamdakiler ise işgücüne dahil edildikleri halde işsiz olarak kabul edilmiyorlar. Bu durumda olanların sayısı ise 889 bin kişi olarak tahmin ediliyor. 
+     DİE’nin işsiz olarak kabul etmediği bu üç kesim de dikkate alınarak yapılan hesaplama, işsizler ve eksik istihdamdakilerin toplamından oluşan atıl işgücünün 5 milyon 86 bin kişiye ulaştığını gösteriyor. Bu durumda Türkiye’deki 
+     işgücü 26 milyon 918 bine çıkarken, atıl işgücü oranı da yüzde 19.2 olarak hesaplanıyor. Bu arada DİE’nin AB normlarına göre hazırladığı işgücü istatistikleri Türkiye’de işgücüne katılma oranının OECD ülkeleri arasında en düşük düzeyde kaldığını gösteriyor. OECD ülkelerinin büyük bölümünde yüzde 60 ve üzerinde olan bu oranı DİE, Türkiye için yüzde 49.3 olarak hesaplıyor. Oranın bu ölçüde düşük kalması da yine işsiz olduğu halde iş aramadığı için işsiz sayılmayanların işgücüne dahil edilmemesinden kaynaklanıyor. Söz konusu kesimler işgücüne dahil edildiğinde Türkiye’deki işgücünün çalışanlar işsizler çalışma çağındaki nüfusa oranı yüzde .1’le diğer ülkelere biraz daha yaklaşıyor. 
+
+ANKA 
+     
+</TEXT>
+</DOC>

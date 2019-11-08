@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 155956 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/11/son/sondun12.html </URL>
+<DATE> 2003/05/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+SARS... Çin'de 5 kişi daha öldü... 
+</HEADLINE>
+<TEXT>
+
+     Çin'de akut solunum yetmezliği sendromu SARS yüzünden bugün 5 kişinin daha öldüğü bildirildi. 
+     Sağlık Bakanlığı'nın açıklamasına göre, 4 kişi başkent Pekin'de öldü. 
+     Böylece SARS'ın güney Çin'de çıktığı Kasım 2002'den beri Çin'deki ölü sayısı 240'a, vaka sayısı 4948'e yükseldi. 
+     Dünya genelinde ölü sayısı 0'a yaklaştı. Hastalığa yakalananların sayısı 7200'ü aştı. 
+     Başkent Pekin, dünyada SARS'dan ölenlerin en çok olduğu kent. 
+     
+</TEXT>
+</DOC>

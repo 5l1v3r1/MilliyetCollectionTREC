@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 321800 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/08/son/soneko03.html </URL>
+<DATE> 2005/03/08/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükselişle kapandı 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Borsası'nda Dow Jones endeksi günü düşüşle, Nasdaq yükselişle kapadı. 
+     Borsanın temel göstergesi Dow Jones 3,69 puan kayıpla 10.936,86 puana inerken, teknoloji endeksi Nasdaq 19,60 puan artarak 2.090,21 puana yükseldi. 
+     
+</TEXT>
+</DOC>

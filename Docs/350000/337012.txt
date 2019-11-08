@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 337012 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/26/son/soneko43.html </URL>
+<DATE> 2005/04/26/ </DATE>
+<TIME> 16.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa günü 314 puanlık kayıpla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeksi, 2. seansta 164.36 puan düşerek 24,483.97 puandan kapandı. 
+     Hisse senetleri 2. seansta, ortalama yüzde 0.67 oranında değer yitirdi. 
+     İlk seanstaki 149.74 puanlık düşüş dikkate alındığında, Borsa endeksi günün tamamında 314.10 puan geriledi. Hisse senetlerinin günlük ortalama değer kaybı yüzde 1.27 oldu. 
+     Endeks 2. seansa, 31.22 puan azalarak 24,617.11 puandan başladı. Seansın ilk yarısını 24,473.97 puandan geçen endeks, en düşük olarak 24,399.24 puana gerilerken, en yüksek olarak 24,653.85 puanı gördü. 
+     2. seans kapanışında, mali endeks 165.43 puan düşerek 35,782.27 puana, sanayi endeksi 161.64 puan düşerek 19,673.80 puana, hizmetler endeksi 124.99 puan düşerek 13,636.06 puana geriledi. 
+     Böylece ilk seansa göre, mali grup hisseler ortalama yüzde 0.46, sanayi grubu hisseler ortalama yüzde 0.81, hizmet grubu hisseler ortalama yüzde 0.91 oranında değer yitirdi. 
+     2. seansta işlem gören toplam 312 hisse senedinden 72'si değer kazandı, 195'i değer yitirdi, 45 hisse senedinin fiyatında değişiklik olmadı. 
+     2. seansta, 292 milyon 65 bin 992 YTL'lik işlem hacmi kaydedildi. Günlük işlem hacmi, 595 milyon 929 bin 13 YTL olarak hesaplandı. 
+     2. seansta Tansaş, Yapı ve Kredi Bankası, Garanti Bankası, Şekerbank ve Doğan Holding en çok işlem gören hisse senetleri oldular. 
+     
+</TEXT>
+</DOC>

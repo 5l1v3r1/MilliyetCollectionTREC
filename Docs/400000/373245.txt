@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 373245 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/27/ekonomi/eko06.html </URL>
+<DATE> 2005/08/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kaydi sistemde saklama maliyeti yüzde 50 ucuzluyor 
+</HEADLINE>
+<TEXT>
+
+
+
+Hukuki alt yapısı Sermaye Piyasası Kurulu SPK , operasyon ve bilgi işlem alt yapısı ise Merkezi Kayıt Kuruluşu tarafından hazırlanan kaydi sistemde geçerli olacak fiyat tarifesi onaylanarak, yürürlüğe girdi. 
+Kaydi sistem tarifesiyle birlikte müşteri bazında saklama hesaplarındaki hisse senetlerinin yıllık saklama ve bedelli-bedelsiz sermaye artırımından oluşan temel hizmet bedellerinde yüzde 50 indirime gidildi. 
+Kaydi menkul kıymetlerinin parasal değeri 500 YTL'nin altında kalan yatırımcıların hesapları üzerinden yıllık hesap bakım ücreti alınmayacak. Yeni fiyat tarifesi, kaydileşen fon katılma belgeleri için onay tarihinden, hisse senetleri için ise kaydi sisteme geçiş tarihinden itibaren uygulanacak. Kaydi sistemle aracı kuruluşlar merkezi saklama maliyetlerinde ortalama yıllık 10 milyon YTL tasarruf sağlayacak. 
+
+
+</TEXT>
+</DOC>

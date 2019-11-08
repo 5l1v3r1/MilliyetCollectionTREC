@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 227240 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/31/son/soneko51.html </URL>
+<DATE> 2004/03/31/ </DATE>
+<TIME> 16.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa günü 160 puanlık artışla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Bileşik Endeksi 2. seansta 64.07 puan artışla 20,190.83 puandan kapandı. 
+     Hisse senetleri 2. seansta ortalama yüzde 0.32 oranında değer kazandı. 
+     İlk seanstaki 96.05 puanlık artış dikkate alındığında Borsa endeksi, günün tamamında 160.12 puan yükseldi. Hisse senetlerindeki günlük değer artışı yüzde 0.80 oldu. 
+     Endeks, 2. seansa 27.39 puan artışla 20,154.15 puan seviyesinde başladı. İlk yarıyı 20,194.08 puandan geçen endeks, seans içinde en düşük 19,947.17, en yüksek 20,236.10 puanı gördü. 
+     2. seans kapanışında, mali endeks 118.17 puan artışla 27,260.09 puana ve hizmetler endeksi 56.05 puan artışla 11,158.96 puana çıkarken, sanayi endeksi 16.07 puan kayıpla 18,048.52 puana düştü. 
+     Böylece ilk seansa göre mali grup hisseler ortalama yüzde 0.44, hizmet grubu hisseler ortalama yüzde 0.50 değer kazanırken, sanayi grubu hisseler ortalama yüzde 0.09 oranında değer yitirdi. 
+     2. seansta işlem gören toplam 304 hisse senedinden 175'i değer yitirdi, 83'ü değer kazandı, 46'sının fiyatında değişiklik olmadı. 
+     Seansta, 553 trilyon 106 milyar 225 milyon liralık işlem hacmi kaydedildi. Günlük işlem hacmi ise 1 katrilyon 169 trilyon 782 milyar 730 milyon lira olarak hesaplandı. 
+     2. seansta Yapı Kredi Bankası, Kardemir D , Sabancı Holding, Garanti Bankası ve İş Bankası C en yoğun işlem gören hisse senetleri olarak belirlendi. 
+     
+</TEXT>
+</DOC>

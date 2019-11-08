@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 343657 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/18/son/soneko31.html </URL>
+<DATE> 2005/05/18/ </DATE>
+<TIME> 16.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD... Tüketici fiyatları beklentilerin üzerinde arttı... 
+</HEADLINE>
+<TEXT>
+
+     ABD’de tüketici fiyatları endeksi, Nisan ayında yüzde 0.5 oranında arttı. 
+     Çalışma Bakanlığı’nın verilerine göre, çekirdek enflasyon endeksi de bir önceki aya göre değişmeyerek Nisan ayında da yüzde 0.4 olarak gerçekleşti. 
+     ABD’de, Nisan ayı tüketici fiyatları endeksinin yüzde 0.4 olarak gerçekleşmesi beklenirken, oranın yüksek çıkmasında enerji maliyetlerindeki artış etkili oldu. 
+     Gıda ve havayolu taşımacılığı fiyatlarındaki artış da enflasyonun yüksek çıkmasında belirleyici oldu. 
+     
+</TEXT>
+</DOC>

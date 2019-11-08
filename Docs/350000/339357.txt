@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 339357 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/03/son/sonyas14.html </URL>
+<DATE> 2005/05/03/ </DATE>
+<TIME> 13.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+'Dünya Kupası'na bilet kazandınız' virüsü .. 
+</HEADLINE>
+<TEXT>
+
+     "Almanya’da yapılacak olan 2006 Dünya Kupası Finalleri maçına bilet kazandınız" şeklindeki bir elektronik postayla bulaşan "Sober Solucanı"nın hızla yayılması, anti-virüs yazılımcılarını harekete geçirdi. 
+     Trend Micro anti-virüs yazılım şirketinin editörü, "kırmızı alarm" statüsüne aldıkları solucanın, Uluslararası Futbol Federasyonu FIFA tarafından gönderildiği kanısı uyandıran bir e-postayla yayıldığını belirtti. 
+     McAfee editörü de "orta derecede tehlikeli" olarak niteledikleri virüsün, Almanca yazılan e-posta yoluyla yayıldığını ve daha çok Alman internet kullanıcılarını hedef aldığını ifade etti. 
+     Panda Software editörü ise virüslü e-postanın, kendini gönderildiği ülkenin diline çevirebilme kapasitesine sahip olduğunu vurgulayarak, özellikle ABD, Almanya, Avusturya ve İsviçre’deki bilgisayarlara bulaşmış olduğunu söyledi. 
+
+     
+</TEXT>
+</DOC>

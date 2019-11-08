@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 214555 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/11/son/sontur10.html </URL>
+<DATE> 2004/02/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Zümrüt Apartmanı'nın beton kalitesi çok düşük çıktı 
+</HEADLINE>
+<TEXT>
+
+     Türkiye Hazır Beton Birliği Başkanı Hakan Gürdal, 10 gün önce çöken ve 92 kişinin ölümüne neden olan Konya'daki Zümrüt Apartmanı'nda yapılan inceleme sonucunda, kullanılan betonun standartların çok altında olduğunu söyledi. 
+     Konya'da, 2 Şubat'ta çöken 11 katlı binada 29 kişi de yaralandı. Dün ve önceki gün iki kişi, enkazdan sağ olarak çıkarılmıştı. 
+     Gürdal, İstanbul'da konuya ilişkin olarak düzenlediği basın toplantısında, standartlara göre binalarda kullanılması gereken en düşük beton dayanıklılığının c-20 megapascal olması gerekirken, Zümrüt Apartmanı'ndan aldıkları örneklerin ortalama c8 düzeyinde çıktığını söyledi. Gürdal, "Zümrüt Apartmanı'nın yıkılmasını kolaylaştıran nedenlerin en önemlisi, yapının elle üretilen betonla yapılmış olmasıdır" dedi ve binadan beton örneği almakta dahi zorlandıklarını söyledi. Gürdal şöyle konuştu 
+     "Elle üretilen betonlar, olması gerekenden bir kaç kat daha düşük dayanıklılıkta ve beton sınıfına dahi girmemekte. TS500 standardına göre hiç bir kişi ya da kurumun, inşa ettiği yapının taşıyıcı sisteminde kullanılmak üzere elle beton hazırlama izni yoktur." 
+
+     
+</TEXT>
+</DOC>

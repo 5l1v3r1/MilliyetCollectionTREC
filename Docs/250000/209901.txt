@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 209901 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/20/son/soneko24.html </URL>
+<DATE> 2004/01/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türkiye'nin ilk yerli MP3 dönüştürücü yazılımı üretildi... 
+</HEADLINE>
+<TEXT>
+
+     Koç Bilgi Grubu şirketlerinden GVZ, yazı dosyalarını MP3 formatına çeviren Türkiye'nin ilk yerli MP3 dönüştürücü yazılımını üretti. 
+     GVZ'den yapılan açıklamaya göre, şirketin yeni ürünü MP3 dönüştürücüsü yazılım, Türkçe yazılmış metinleri isteğe bağlı olarak erkek ya da kadın sesi kullanılarak MP3 formatında ses dosyasına dönüştürüyor. 
+     Okumak için zamanı olmayanlara bulunmaz bir fırsat sunan GVZ MP3 dönüştürücüsü programı ile artık okumak istenen kitaplar bir MP3 çalara yüklenerek spor yapılırken sesli olarak dinlenebilecek, word dokümanı halindeki raporlar otomobil kullanırken takip edilebilecek. 
+     Yazılım ile gazetelerin online sitelerindeki haberler bilgisayara word formatında kopyalandıktan sonra MP3'e dönüştürülebilecek ve işe gidip gelirken MP3 çalardan dinlenebilecek. 
+     Koç Bilgi Grubu'nun e-ticaret platformlarından Kangurum alışveriş sitesi www.kangurum.com.tr adresi üzerinden satın alınabilen GVZ NetOKUR programına isteyen herkes 257 milyon lira karşılığında sahip olabilecek. 
+     GVZ, görme özürlülerin bilgisayarlı ortamlardaki yazılı metinleri sesli olarak dinlemesini sağlayan NetOKUR programını satın alanlara MP3 dönüştürücü programını ücretsiz olarak hediye edecek. 
+     Rahat ve kolay kullanım olanağı sağlayan arayüzü sayesinde GVZ MP3 dönüştürücüsü ile elektronik ortamda yazılmış bir sayfalık metin yaklaşık bir dakikalık sürede MP3 dosyasına dönüştürülebiliyor. 
+     Programın kurulu olduğu bilgisayarda yüklü olan, Microsoft, L H gibi firmaların geliştirdiği ''SAPI 5'' standardına uygun konuşma sentezleyicilerin kullanılması sonucu seçilen metinler İngilizce, Fransızca, Almanca gibi dillerde de dinlenebilecek. 
+     
+</TEXT>
+</DOC>

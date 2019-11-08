@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 387462 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/17/son/sonyas10.html </URL>
+<DATE> 2005/10/17/ </DATE>
+<TIME> 11.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kedi ve köpek alerjisi olanlar dikkat 
+</HEADLINE>
+<TEXT>
+
+     ABD'de yapılan bir araştırmada, kedi ve köpeklere alerjisi olanların, süt ve kırımız ete de alerjileri olabileceği tespit edildi. 
+     ABD'de yaşayan Türk doktor Bülent Mamıkoğlu ve ekibince hastalar üzerinde yapılan araştırmada, kedi ve köpek dahil ev hayvanlarına alerjisi olanların yüzde 38 ila yüzde 89'unda hastaların ve doktorların fark etmediği süt ve kırmızı et alerjisi olabileceği belirlendi. 
+     Kulak-burun-boğaz uzmanı Dr. Mamıkoğlu, araştırmalarında ayrıca süt alerjisi olanların yüzde 80'inde kırmızı et alerjisi tespit ettiklerini belirtti. 
+     Dr. Mamıkoğlu, süt alerjisi olanların pişmiş et dahil bütün kırmızı etlerden ve özellikle dana etinden uzak durmaları gerektiğini belirterek, kedi ve köpeğe alerjisi olan hastaların süt alerjisi için test yaptırmaları gerektiğini kaydetti. 
+     Araştırma, ABD Ulusal Sağlık Enstitüsü'nün online kütüphanesi ''National Library of Medecine''de de yayımlandı. 
+     Araştırmaya, ''http www.ncbi.nlm.nih. gov entrez query.fcgi cmd Retrieve db pubmed dopt Abstract list uids 16213925 query hl 1'' adresinden ulaşılabilir. 
+     
+</TEXT>
+</DOC>

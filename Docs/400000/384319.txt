@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 384319 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/05/son/sonyas15.html </URL>
+<DATE> 2005/10/05/ </DATE>
+<TIME> 11.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Google coştu 
+</HEADLINE>
+<TEXT>
+
+     Internet’te arama motoru olarak yola çıkıp bilgisayar ve internet dünyasında bir deve dönüşen Google’ın ABD’nin San Francisco şehrinin tamamını hiçbir ücret almaksızın kablosuz internet erişimi kapsamına almayı önerdiği ileri sürüldü. 
+     Şehri ücretsiz kablosuz internet kapsamına almaya karar veren ABD’nin San Francisco şehri Belediye Başkanı Gavin Newsom, bu konuda aralarında Google’ın verdiğinin de bulunduğu en az 24 ihale teklifi aldıklarını açıkladı. 
+     San Francisco belediyesinin, Ağustos ayında 750 bin civarında nüfusa ve engebeli bir coğrafyaya sahip olan şehirde, kablosuz internet erişimine ulaşamayacak hiçbir nokta kalmayacak şekilde, bu konuda şirketlerden bilgi ve teklif istediğini belirten Newsom, belediye olarak her yerde ücretsiz internet erişimi sağlamayı su, elektrik ve kütüphane gibi diğer hizmetleri vermekten farklı görmediklerini ifade etti. 
+     Bilgiye ulaşmanın en temel insan hakkı olduğuna dikkat çeken Newsom, "Kablosuz internet kaçınılmazdı, zaten uzunca bir süre geç kalındı" dedi. 
+     Newsom, kablosuz internet ağının, deprem gibi doğal felaketler durumunda da halkı bilgilendirme konusunda alternatif bir araç olacağını söyledi. 
+     İhale için teklif veren 24 firma arasında yer alan Google’ın online reklam aracılığıyla şehrin tamamını ücretsiz kablosuz internet erişimi kapsamına almayı önerdiği bildirildi. Bu bilgi, Google’ın sözcüsü tarafından da doğrulandı. 
+     
+</TEXT>
+</DOC>

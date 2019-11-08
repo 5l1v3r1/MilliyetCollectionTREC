@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 207939 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/11/son/sontur01.html </URL>
+<DATE> 2004/01/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+DSP ve BCP'nin internet siteleri hack'lendi... 
+</HEADLINE>
+<TEXT>
+
+     DSP ve Bağımsız Cumhuriyet Partisi'nin BCP internet siteleri, hacker'ların saldırısına uğradı. 
+     DSP'nin ''www.dsp.org.tr'' adresli sitesine girenler, ''tarihçe'' başlığı altındaki bilgiler yerine bir penguen ve şeytan animasyonu eşliğinde ''www.devletdusmani.com-saygılar, sevgiler sunarım'' yazısıyla karşılaştılar. 
+     Kendilerini ''Xturk'' diye adlandıran hacker'lar, BCP'nin ''www.bcp.org.tr'' adresli internet sitesini de hack'lediler. 
+     Partinin internet sitesine girenler, sağ üst köşedeki ''Merkez Yönetim Kurulu'' başlığı altındaki bilgileri görmek istediklerinde, yine aynı animasyon ve ''Xturk'' ibaresiyle karşılaştılar. Hacker'lar, partinin Merkez Yönetim Kurulu üyelerine çeşitli takma isimler de verdiler. 
+     
+</TEXT>
+</DOC>

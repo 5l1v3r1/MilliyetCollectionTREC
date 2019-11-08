@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 316233 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/17/son/sonyas08.html </URL>
+<DATE> 2005/02/17/ </DATE>
+<TIME> 09.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Samsung'dan yeni nesil bellek... 
+</HEADLINE>
+<TEXT>
+
+     Güney Koreli elektronik devi Samsung, yeni nesil elektronik ürünlerde kullanılması planlanan, hızlı ve az enerji tüketen yeni bir belleğin tanıtımını yaptı. 
+     512-Megabit DDR3 double date rate 3 adlı DRAM belleğin, saniyede 1066 megabit veri işleme kapasitesine sahip olduğu, bunun 8 bin sayfa gazete sayfasına ve güncel DDR2 DRAM tipi belleklerin ikisine denk olduğu açıklandı. 
+     Samsung'tan yapılan açıklamada, DDR3'ün dizüstü bilgisayarlarda ve server'larda kullanılacağı, ürünün üretimine gelecek yıl başlanacağı bildirildi. 
+     
+</TEXT>
+</DOC>

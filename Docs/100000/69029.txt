@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> 69029 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/02/22/son/sontur07.html </URL>
+<DATE> 2002/02/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Direksiyonda telefon alkol kadar tehlikeli... 
+</HEADLINE>
+<TEXT>
+
+     Sürücülerin seyahat sırasında araç ve cep telefonu kullanmalarının kanda yüzde 0.05 düzeyinde alkol bulunması kadar kaza riski içerdiği belirlendi. 
+     TÜBİTAK Bilgi Teknolojileri ve Elektronik Araştırma Enstitüsü, baz istasyonları, cep telefonları ve araç telefonlarının radyoaktif etkilerini soru ve cevaplarla açıklayan ''Elektromanyetik Dalgalar ve İnsan Sağlığı'' isimli bir kitap hazırladı. 
+     Konusunda uzman bilim adamları tarafından hazırlanan kitapta, baz istasyonları, cep ve araç telefonlarının etkileriyle ilgili sıkça sorulan 35 soru ve yanıtı yer alıyor. 
+     Kitapta, ''Cep telefonlarının bilimsel olarak kesinlikle kanıtlanmış zararlı etkileri var mıdır '' sorusuna yanıt aranırken, şunlar kaydedildi 
+     ''Cep telefonu kullanımının sürücülerde kaza riskini artırdığı kanıtlanmıştır. Kaza riski sürücünün yaşı ile orantılı olarak artmakta, cep telefonu yerine araç telefonu da kullanılsa risk aynı kalmaktadır. Konuşmanın dikkati dağıtması nedeniyle etki kanda yüzde 0.05 alkol bulunması düzeyine ulaşmaktadır.'' 
+     
+     Cep telefonu baş ağrısı yapar mı 
+
+     Kitapta, mobil telefon ve baz istasyonlarının başağrısı, uykusuzluk, dikkat bozukluğu gibi durumlara neden olup olmadığına ilişkin soruya ''çeşitli çalışmalarda sınır değerlerin altındaki mobil telefon sinyallerinin beynin fonksiyonlarında dikkat, hatırlama ve tepki verme konularında kısa süreli değişimlere neden olduğunun gösterildiği'' yanıtı veriliyor. 
+     Cep telefonları gibi radyoaktif kaynakların neden olduğu sıcaklık artışlarının çok düşük olduğu, vücudun mekanizmaları ile kolayca etkisizleştirildiği, cep telefonuyla beyinde sıcaklık artışının ortalama 0,1 derece dolayında olduğu belirtiliyor. 
+     Mobil telefon ve baz istasyonlarından yayılan elektromanyetik dalgaların kansere yol açıp açmadığına ilişkin herhangi bir etkinin bugüne kadar kanıtlanmadığı bilgisine yer verilen kitapta, ABD ve Danimarka'da yapılan ayrıntılı çalışmaların cep telefonu kullanımının beyin tümörü riskini artırmadığını açıkta ortaya koyduğu ifade ediliyor. 
+     Bugüne kadar yapılan çalışmaların ''cep telefonu teknolojisiyle kanser arasında kesinlikle bir ilişki yoktur'' diyebilmek için yetersiz olduğu bilgisine de yer veriliyor. 
+     Mobil telefon ve baz istasyonlarının yaydığı güç ile düşük doğum ya da sakat doğuma neden olduğu konusunda hiçbir laboratuvar ve epidemiyolik kanıt bulunamdığı ifade edilen kitapta, mobil telefonların kalp pili kullananlarca bir önlem olarak göğüs cebinde taşınmaması öneriliyor. 
+     
+     Baz istasyonları 
+
+     Kamuoyunda sıkça tartışılan apartman çatısı ya da duvarında baz istasyonu antenlerinin bulunmasının apartman sakinlerini yüksek risk grubu haline getirip getirmediğine ilişkin sorunun yanıtında şu bilgilere yer veriliyor 
+     ''Baz istasyonlarındaki antenler dar bir bölgeyi etkileyen yönlü antenlerdir. Bu antenler arkalarında ya da diplerinde ışımanın çok az olacağı biçimde tasarlanmıştır. Bu nedenle bulundukları binada yaşayanları yüksek risk grubu haline getirmezler. Ancak antenin konumu, antenin ışıma örüntüsünün kurulduğu binayı içine almayacak şekilde belirlenmelidir. Ayrıca anten için yer seçimi ve antenin kurulumu sırasında yakın alandaki binaların risk altına alınmamasına dikkat edilmelidir. Anten yeri, çalışma frekansı ve çıkış gücüne göre hesaplanacak güvenlik mesafesi içinde insanların istem dışı ve sürekli maruz kalmayacağı şekilde seçilmelidir.'' 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

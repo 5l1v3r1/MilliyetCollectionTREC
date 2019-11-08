@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 256300 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/18/son/soneko03.html </URL>
+<DATE> 2004/07/18/ </DATE>
+<TIME> 10.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kamu, bilgi teknolojisi yatırımlarında hızlı... 
+</HEADLINE>
+<TEXT>
+
+     Devletin bilgi ve iletişim teknolojileri yatırımlarına ayırdığı ödenek iki yılda dolar bazında yüzde 77 artarak 281 milyon dolara çıktı. 
+     A.A muhabirinin yaptığı hesaplamaya göre, 2002 yılında 158.8 milyon dolar seviyesinde olan ödenek, geçen yıl 208 milyon dolara çıktı. 
+     2004 yılında 281 milyon dolarlık bütçenin ayrıldığı bilgi ve iletişim teknolojileri yatırım ödeneklerinde iki yıllık dönemde dolar bazında yüzde 77 artış yakalandı. 
+     
+     TAMAMLANMA SÜRESİ 1.5 YIL 
+     Öte yandan, toplam sayısı 203 adet olan bu projelere şimdiye kadar 374 milyon dolarlık harcama yapıldı. 
+     Projelerin toplam tutarı 800 milyon dolar olduğu göz önüne alındığında bu yıl ki kadar ödenek aktarılması durumunda projelerin ortalama 1.5 yıllık dönemde tamamlanabileceği görülüyor. 
+     Bu tamamlanma süresi diğer yatırımların tamamlanma süreleri göz önüne alındığında oldukça kısa olarak ortaya çıkarken, bilgi ve iletişim projelerine verilen önemi de ortaya koyuyor. Bunun yanında bu alanda teknolojinin hızlı gelişmesi de bunların bir an önce hayata geçirilmesini zorunlu kılıyor. 
+     
+     EĞİTİM AĞIRLIĞI 
+     Öte yandan, sektörel bazda bakıldığında diğer kamu hizmetleri dışında en fazla ödeneğin ayrıldığı sektör eğitim olarak öne çıkıyor. Nitekim bu yıl, eğitim sektörü bilgi ve iletişim teknolojisi yatırımları için 110 trilyon liralık ödenek ayrıldı. 
+     Bunun yanında ulaştırma-haberleşme sektörünün bu yıl ki ödeneği 66.4 trilyon, sağlık sektörünün ödenekleri de 20.7 trilyon lira olarak hesaplandı. En az ödenek alan sektör ise 550 bin dolar ile turizm oldu. 
+     
+</TEXT>
+</DOC>

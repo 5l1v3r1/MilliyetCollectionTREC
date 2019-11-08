@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 390046 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/27/yasam/yas07.html </URL>
+<DATE> 2005/10/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Gen haritası tamamlandı 
+</HEADLINE>
+<TEXT>
+
+
+LONDRA Milliyet 
+
+Bilim adamları, insanların genetik değişim kalıplarını ortaya koyan bir haritayı tamamlamayı başardı. İnsan genetik kodlarını oluşturan 3 milyar harfin dizilimlerini bir haritada birleştiren İnsan Genome Projesi, herhangi 2 insanın, birbirine genetik olarak yüzde 99.9 benzediğini ortaya koymuştu. Yapılan çalışma sonucunda, şimdi de bu yüzde 0.1'lik farkı açıklamak için daha detaylı bir harita çıkarıldı. 
+'HapMap' adı verilen bu harita, genetik değişimlerin belirleyicisini, yani tek nükleotid polimorfimz'leri SNP-single nucleotide polymorphisms daha detaylı şekilde ortaya koyuyor. Bir insanı diğerinden ayıran şey ise SNP'lerin farklı dizilimleri. Yeni harita SNP'lerin bölge bölge gruplandığını ve enformasyon blokları olarak insandan insana kalıtım yoluyla geçtiğini gösteriyor. İnsanlarda yaklaşık 10 milyon SNP bulunuyor ve bir araya gelmiş bir SNP setine ise 'haplotip' deniliyor. SNP'ler, insanın genetik şifresini oluşturan 3 milyar DNA harfi içerisinde farklı dizilimleri gösteriyor. 
+
+
+</TEXT>
+</DOC>

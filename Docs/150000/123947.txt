@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 123947 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/12/11/son/soneko14.html </URL>
+<DATE> 2002/12/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı yüzde 1.29 değer kaybıyla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Bileşik Endeksi 1. seansta, dünkü kapanışa göre 168.41 puan azalarak 12,879.35 puandan kapandı. 
+     Hisse senetleri ortalama yüzde 1.29 oranında değer kaybetti. 
+     Seans, 14.11 puan artışla 13,061.87 puan seviyesinden açıldı. Kararsız açılışın ardından bir süre 13,000 puan seviyesinin üstünde tutunma çabası içinde olan endeks, seansın ilk yarısı geçilirken bu seviyenin altına geriledi. 
+     Yaklaşık olarak 12,800-13,150 aralığında seyreden bileşik endeks, seansın ilk yarısını 92.26 puan düşüşle 12,955.50 puandan geçti. Seans içinde en düşük 12,787.24 puanı, en yüksek değer olarak da 13,156.93 puanı gördü. 
+     Kapanışta mali endeks 175.01 puan düşüşle 16,275.88 puana, sanayi endeksi 129.58 puan düşüşle 12,259.59 puana ve hizmetler endeksi 135.96 puan düşüşle 8,219.32 puana geriledi. 
+     Böylece önceki kapanışa göre mali grup hisseler ortalama yüzde 1.06, sanayi grubu hisseleri ortalama yüzde 1.05 ve hizmetler grubu hisseleri ortalama yüzde 1.63 oranında değer yitirdi. 
+     İşlem gören toplam 280 hisse senedinden 113'ü değer yitirirken, 86'sı değer kazandı. 81 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta, 388 trilyon 512 milyar 393 milyon liralık işlem hacmi oluştu. 
+     İhlas Holding, Yapı ve Kredi Bankası, İş Bankası C , Kristal Kola ve Tüpraş en yoğun işlem gören hisseler oldu. 
+     Borsa uzmanları, Kopenhag Zirvesi'nden çıkacak kararın, piyasadaki tek beklenti olduğunu vurgulayarak, piyasanın beklemeyi tercih ettiğini ve gevşek bir seyre girdiğini, bu seyrin ikinci seansta da devam edeceğini savunuyorlar. 
+     Uzmanlar, Kopenhag'dan çıkacak kararın piyasadaki algılanmasına göre yönün belli olacağını ifade ediyorlar. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

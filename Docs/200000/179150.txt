@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 179150 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/30/son/sondun03.html </URL>
+<DATE> 2003/08/30/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Blaster virüsünün yaratıcısı "lise öğrencisi" çıktı.. 
+</HEADLINE>
+<TEXT>
+
+     ABD ve Kanada'da Ağustos ayının ortalarından itibaren yüz binlerce bilgisayarı etkileyen, diğer ülkelere de yayılan ''Blaster.B'' virüsünün sorumlusu olduğu gerekçesiyle Amerikalı bir lise öğrencisi dün çıkarıldığı mahkemede tutuklandı. 
+     Jeffrey Lee Parson adlı 18 yaşındaki gencin evindeki yedi bilgisayara FBI ajanları tarafından 19 Ağustosta el konulmuş ve incelemeye alınmıştı. 
+     Parson'un verdiği ifadede, Blaster adlı virüs yazılımını değiştirerek Blaster.B ve başka adlar altında yeniden yazdığını kabul ettiği bildirildi. 
+     ''LovSan'' olarak da bilinen Blaster virüsleri, içlerinde havayolları şirketleri ve bankaların bilgisayar sistemleri de dahil toplam 500 bin bilgisayarı etkiledi. 
+     FBI'ın mahkemeye sunduğu belgelere göre Parson'ın bilgisayarından toplam 7000 bilgisayara bu tip virüslerden bulaştırıldığı belirlendi. 
+     
+</TEXT>
+</DOC>

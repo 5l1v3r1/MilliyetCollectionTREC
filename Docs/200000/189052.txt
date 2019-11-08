@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 189052 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/16/son/soneko22.html </URL>
+<DATE> 2003/10/16/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sanayi Bakanı Yazılımcılar, sanayi haklarından yararlanabilecek 
+</HEADLINE>
+<TEXT>
+
+     Sanayi ve Ticaret Bakanı Ali Coşkun, yazılımcıların sanayici olduğunu belirterek, sanayicilerin bütün haklarından istifade edebileceklerini bildirdi. 
+     ATO'da düzenlenen Yazılım Şurası'nda konuşan Coşkun, Türkiye'nin, yazılım konusunda çok gecikmediğini, ancak daha sistemli bir yapıya kavuşması gerektiğini ifade etti. 
+     Bilişim teknolojilerinin, üretimi, kalite anlayışını, bürokrasiyi ve yaşamı değiştirmeye devam ettiğini anlatan Coşkun, bu alanda eğitimin önemine dikkat çekti ve '' bu eğitim düzeyini kuramazsanız, teknoloji bakımından müstemleke konumuna gelirsiniz'' diye konuştu. 
+     Yazılım sektörünün, donanıma göre daha yüksek katma değer içerdiğini belirten Coşkun, burada insan beyninin kalifiye olmasının çok büyük önemli olduğunu vurguladı. 
+     Hükümet olarak, yazılım işinin sanayicilik olduğunu kabul edip, çeşitli mevzuat değişikliklerine gittiklerini kaydeden Coşkun, ''Yazılımcılar, bize göre artık sanayicidir ve sanayicilerin bütün haklarından istifade edecektir'' dedi. 
+     Yazılımın, desteklenmesi gerektiğini de vurgulayan Coşkun, yazılımcılara seslenerek, '' Ev ödevinizi yapın, sorunlarınızın çözüm yollarını Bakanlığımıza teklif edin, gerekirse ESDK'ya getirip sorunlarınızı çözmeye çalışırız '' diye konuştu. 
+     Yazılımcıların KOBİ sınıfına girdiğini ve KOBİ'lere de birçok alanda teşviklerin verildiğini ifade eden Coşkun, her yazılım bürosuna teşvik getiremeyeceklerini kaydetti ve yazılımcıların, teknoloji geliştirme bölgelerinde yer alarak, yazılımcıları teşviklerden yararlanmaya çağırdı. 
+     Seçimler öncesinde, reel faizlerin yüzde 10'lara çekileceği ve enflasyonun kontrol altına alınacağı sözlerine karşılık, basının kendisine yüklendiği hatırlatan Coşkun, enflasyon ve kalkınma tartışmasının önünü kestiklerini söyledi. 
+     Türkiye'nin, borç sarmalından kurtulma sürecine girdiğini de anlatan Coşkun, ancak ekonomide içine girilen sağlıklı yapıya rağmen, borçların 2003 ve 2004'e yığılması nedeniyle bazı sıkıntıların olabileceğini işaret etti. 
+     Devletin, ekonomiden giderek elini çektiğini ve ekonominin, serbest piyasa koşullarında kendi dinamikleriyle dengelerini oluşturduğunu söyleyen Coşkun, ''İşte kurdaki yapı bunun tipik örneğidir. Kura, faize doğrudan devlet müdahale etmediğine göre, kurun yeni yapısı dolayısıyla meydana gelen sıkıntıdan sanayiciyi kurtarmanın tek yolu girdi maliyetlerini düşürmektir, bunun için biraz daha sabır ve metanete ihtiyaç var'' şeklinde konuştu. 
+     Tarihte, tarım, sanayi ve bilişim devrimleri olduğunu hatırlatan Coşkun, şöyle devam etti 
+     ''Birçok şeyi yanlış anladığımız gibi, örneğin Maliye çok önemli bir kavramdır, ama çok kimse bunu malı ye diye anladı. Mülkiyet, devletin bütünlüğü ve yapılanması açısından önemlidir, onu da mülkü ye diye anladılar, devrimleri de yanlış anladılar. Herkes sanayi teknoloji devrimi yaparken, biz başka devrimler yaptık.'' 
+     
+</TEXT>
+</DOC>

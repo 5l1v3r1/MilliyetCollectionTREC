@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 302151 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/30/son/sondun58.html </URL>
+<DATE> 2004/12/30/ </DATE>
+<TIME> 23.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones endeksi 10,799.71 puandan kapattı... 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Borsası Dow Jones Sanayi Endeksi, haftanın dördüncü işlem gününü 29.48 puan düşüşle binde 2.7 10,799.71 puandan kapandı. 
+     Wall Street'in teknoloji ibresi Nesdaq Birleşik Endeksi de 1.34 puan yükselmeyle 2,178.34 puandan noktalandı. 
+     ABD'de Çalışma Bakanlığı'nın işsizlik maaşı başvurularının geçen hafta 326 bin olarak beklenenden az açıklaması borsada günün ilk seans iyimserliğini artırdı. 
+     
+</TEXT>
+</DOC>

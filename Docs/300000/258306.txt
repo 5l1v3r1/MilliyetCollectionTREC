@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> 258306 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/26/son/sontur06.html </URL>
+<DATE> 2004/07/26/ </DATE>
+<TIME> 10.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İtalyanlar, Türk bilim adamının peşinde... 
+</HEADLINE>
+<TEXT>
+
+     İtalyan askeri uçak ile sivil ve askeri uydu firması Galileo Avionica, bilim adamı Dr. Seçkiner Görgün'ün araştırma yapması için İstanbul'a laboratuvar kuruyor. 
+     Galileo Avionica firması, yurtdışında üniversiteler ile özel firmalarda elektromanyetik dalga ve tıp konularında araştırma çalışmalarına katıldıktan sonra 5 yıl önce Türkiye'ye gelen ve halen fizik tedavi ve rehabilitasyon konusunda teknik danışmanlık yapan Dr. Seçkiner Görgün ile anlaşma imzaladı. 
+     Araştırma çalışmalarıyla ilgili AA muhabirine bilgi veren Dr. Görgün, Galileo Avionica firmasının önce kendisini İtalya'ya davet ettiğini, ancak İstanbul'da fizik tedavi ve rehabilasyon konusunda teknik danışmanlık yaptığını söyleyerek bu daveti kabul etmediğini söyledi. 
+     Dr. Görgün, ''Bu firmaya teknik danışmanlık yapıyordum. Yeni projeler üretiyordum. Türkiye'ye geldikten sonra da elektronik, elekromanyetik ve radar sistemleriyle ilgili çözemedikleri problemleri bana getirdiler'' dedi. 
+     Ancak bazı problemlerin çözümü için laboratuvarın gerekli olduğunu belirten Dr. Görgün, ''7 Şubat 2004 tarihinde İstanbul'a geldiler. Gelemeyeceğimi söyledim. 'O zaman laboratuvarı buraya getireceğiz' dediler ve anlaşma imzaladılar. Anlaşmada, 'Görgün prensiplerine göre yapılmış her şeyi istiyoruz. Sizin bulunduğunuz her yere bu laboratuvarı taşıyoruz' diye yazdılar'' şeklinde konuştu. 
+     Laboratuvarda en mükemmel şekliyle uzay teknolojileri gereği hassas ölçüm teknolojisi, izolasyonlu oda, radar sistemleri, özel bilgisayar programları bulunacağını, güvenirlilik ve kalite testlerinin yapılabileceğini anlatan Dr. Görgün, ''Özel olarak bir fabrikada üretilen ve sadece askeri amaçlı kullanılan malzemeler. Bu malzemeler, piyasada satılmaz. Sadece askeri ve uzay tesislerinde bulunur'' dedi. 
+     Laboratuvar malzemelerinin havayoluyla Türkiye'ye gönderilmeye başlandığını, ancak ''kapıya teslim'' gönderilen malzemeleri kargo şirketinin gümrükte teslim alınması şartını koşması nedeniyle aksaklık yaşandığını ifade eden Dr. Görgün, şu anda bu sorunun aşılmaya çalışıldığını söyledi. 
+     
+     PROJELER 
+
+     Araştırmalarını laboratuvarda 3 asistanla gerçekleştireceğini kaydeden Dr. Görgün, biten projelerinin test ve güvenirliğini yapacağını, halen çalışmaları devam eden bazı projelerini geliştireceğini, ayrıca yeni projeler üreteceğini bildirdi. 
+     Dr. Görgün, önceki çalışmaları sırasında uçaklarda radar görünmezlik projesini bitirdiğini, bu projenin ABD'nin hayalet uçaklarından farklı bir sistem olduğunu, mekanik değil, elektronik sisteme dayandığını söyledi. 
+     Kalite ve kontrol aşamasında olan diğer bir projenin de güvenlik sistemleriyle ilgili olduğunu anlatan Dr. Görgün, bu projeye göre virüs ve bakteri gibi organik, plastik patlayıcı, porselenden yapılan tabanca, uyuşturucu gibi maddelerin güvenlik kontrolünde kolayca belirlenmesine yarayacağını belirtti. 
+     Dr. Görgün, projeye göre, bu maddelerin bilgisayar programına tanıtılması sayesinde güvenlik sisteminde ele geçirilebileceğini söyledi. 
+     
+     IŞINLAMA SİSTEMİ 
+
+     Projeleri arasında ''Uzay Yolu'' dizisinin ilginç ''ışınlama'' sistemi de yer alan Dr. Görgün, şöyle dedi 
+     ''Buna uzak değiliz. 1975 yılında hücre kültürü üzerinde laboratuvar tatbikatı yapılan mikro bir çalışma. Kapalı bir şişedeki hücre kültürü 1.5-2 metre mesafedeki başka kapalı bir şişe içine nakledildi. Bunun şimdi makro düzeyde çalışmasını yapmak istiyorum. Önce fare, kurbağa ile daha sonra da bugüne kadar çalışması yapılmayan inorganik maddelerle yapmak istiyorum. Bunun gerçekleşmesi halinde depolama, arşivleme, ulaşım kolaylaşacak.'' Bir diğer amacının da radyoaktif olmayan maddelerden nükleer enerji elde etmek olduğunu ifade eden Dr. Görgün, ''Bunun amacı çok uzun süreli, ucuz ve temiz yakıt. Atığı da radyoaktif değil. Bir kola kutusuyla arabanızı kullanabilirsiniz'' diye konuştu. 
+     Önceki çalışmalarında bilgisayar hard diskinin kapasitesini 512x10 üzeri 18 GB'a çıkarmayı başardığını anlatan Dr. Görgün, bu projesini uçaklar için geliştirmek istediğini söyledi. 
+     Dr. Görgün, hard diskin dönme sistemiyle çalışmasının uçaklar için tehlike oluşturabildiğini belirterek, hard diski dönme sistemiyle değil, sabit olarak porselenden yapmak istediğini kaydetti. 
+     Türkiye'ye 1999 yılında geldiğinde projelerini burada gerçekleştirmek istediğini, ancak imkan bulamadığını ifade eden Dr. Görgün, Hannover, Bordeux, Bangkok ve Torino Üniversiteleri ile başta İtalya olmak üzere çeşitli Avrupa ülkelerinde elekromanyetik dalga ve tıp konularında araştırmalar yaptığını bildirdi. 
+
+     
+</TEXT>
+</DOC>

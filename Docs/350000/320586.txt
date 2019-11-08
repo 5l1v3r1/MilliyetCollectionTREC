@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 320586 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/04/spor/spo09.html </URL>
+<DATE> 2005/03/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Haftanın hakemleri 
+</HEADLINE>
+<TEXT>
+
+
+
+5 Mart Cumartesi 
+14.00 İstanbul - Samsun Yunus Yıldırım 
+16.00 Sakarya - B.B.Ankara Mustafa Çulcu 
+16.00 G.Birliği - Ankaragücü Metin Tokat 
+6 Mart Pazar 
+14.00 A.Sebat - Konyaspor Vedat Tan 
+14.00 Denizli - Diyarbakır Hamza Mısır 
+14.00 Kayseri - Ç.Rize Orhan Erdemir 
+16.00 G.Antep - Trabzon Cem Papila 
+19.00 Malatya - F.Bahçe Bülent Demirlek 
+
+
+</TEXT>
+</DOC>

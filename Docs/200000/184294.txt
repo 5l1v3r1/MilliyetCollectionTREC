@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 184294 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/24/son/sondun14.html </URL>
+<DATE> 2003/09/24/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft, sohbet odalarını kapatıyor 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın bir numaralı yazılım firması Microsoft, MSN portalındaki bedava sohbet odalarını kapamayı kararlaştırdı. 
+     Şirketin açıklamasına göre, ''chat'' odalarını kapama kararı, porno içerikli istenmeyen mektup ya da reklamlardaki spam artış yüzünden alındı. 
+     MSN sohbet hattının ABD, Kanada ve Japonya haricinde bütün ülkelerde 14 ekimde kapatılacağı, bu üç ülkede ise, sohbet odalarına girişin paralı olacağı belirtildi. 
+     Açıklamada, kararın, özellikle çocukları internetteki porno içerikli iletişimden korumaya yönelik olduğu kaydedildi. 
+     Başta Yahoo olmak üzere MSN'nin rakipleri bu habere henüz ses çıkarmadı. 
+     Bir internet güvenlik şirketine göre, internetteki porno sitelerinin sayısı, son beş yılda yüzde 1800 artarak 260 milyona yükselmiş bulunuyor. 
+     
+</TEXT>
+</DOC>

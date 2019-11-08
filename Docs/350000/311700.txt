@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 311700 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/02/son/sonsiy11.html </URL>
+<DATE> 2005/02/02/ </DATE>
+<TIME> 13.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Öğretmenlere, 700 ve 900 dolar arasında dizüstü bilgisayar... 
+</HEADLINE>
+<TEXT>
+
+     Milli Eğitim Bakanlığı'nın, tüm öğretmenleri dizüstü bilgisayar sahibi yapma projesi kapsamında çıkılan ihaleyle 700-900 dolar arasında değişen fiyatlarda dizüstü bilgisayarlar alınacağı kaydedildi. 
+     MEB, ilk olarak kadrosundaki öğretmenlere yapacağı ardından da akademisyenler ve özel öğretim kurumlarındaki öğretmenleri de kapsayacak şekilde genişlettiği dizüstü bilgisayar ihalesini sonuçlandırma geldi. Önümüzdeki günlerde Milli Eğitim Bakanı Hüseyin Çelik tarafından açıklanacak ihale sonuçlarına göre, ihaleyi iki firmanın kazandığı ve bu firmalar 700 ile 900 dolar düzeyinde değişen fiyatlarda dizüstü bilgisayar sağlayacağı öğrenildi. 
+     Firmalardan alıncak dizüstü bilgisayarların özellikleri şöyle 
+     "-900 dolarlık 12 ve 24 ay Vakıfbank vadeli dizüstü bilgisayar 15 inç TFT ekran, 1.3 veya 1.6 Ghz. Intel Centrino Mobil İşlemci, 40 GB HDD, 256 MB Ram Entegre 10 100 ethernet and modem, board üzerinden entegre Wireless ag kartı, DVD CD DVD-RW, MS Windows Türkçe, batarya adaptör, Türkçe Klavye. 
+     -700 dolarlık 12 ve 24 aylık Vakıfbank vadeli dizüstü bilgisayar 14.1 TFT Ekran, 1.3 veya 1.5 Ghz Intel Mobil Celoron işlemci, 20 GB HDD, 256 MB Ram, entegre 10 100 ethernet and modem, mini PCI slot üzerine takili Wireless ag karti, 24x CD-Rom, MS Windows XP Türkçe, batarya adaptör, Türkçe klavye." Öte yandan dizüstü bilgisayar almak isteyen öğretmenler, Vakıfbank şubelerinden herhangi birine sadece öğretmenlik kimlik kartları ile başvurabilecek. Ögretmenler, belirlenen fiyattaki dizüstü bilgisiyarları peşin fiyata alabilecekler. 
+     
+     MICROSOFT'TAN DESTEK 
+
+     İhaleyi alan ve isimleri önümüzdeki günlerde açıklanacak firmalara, Microsoft işletim sistemi yönünden destek verecek. 
+     İhaleyi yapan Vakıfbank, 15 Subat 2005 tarihinde iki firma ile protokol imzalayacak. 
+     
+</TEXT>
+</DOC>

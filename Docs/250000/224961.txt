@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 224961 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/23/son/sonyas24.html </URL>
+<DATE> 2004/03/23/ </DATE>
+<TIME> 17.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Doğum sancısının nedeni gelişmiş akciğerler... 
+</HEADLINE>
+<TEXT>
+
+     Amerikalı bilim adamları, doğum sancılarının, anne karnındaki bebeğin akciğerlerinin gelişimini tamamladığı zaman başladığını bildirdiler. 
+     PNAS dergisinde yayımlanan habere göre, nefes alıp vermede önemli rol oynayan ve akciğerlerin gelişme sürecinin sonunda üretilen bir proteinin, bir dizi reaksiyon sonucunda doğum sancısına neden olduğu tespit edildi. 
+     Dallas'taki Texas Üniversitesi'nde görevli Jennifer Condon ve ekibi, fareler üzerinde yaptığı deneylerde, fetusun, gebeliğin 32. haftasından sonra, akciğerlerin oksijen alımında önemli rol oynayan SP-A ismindeki bir proteini üretmeye başladığını saptadı. 
+     Bu protein doğmamış bebeğin akciğerlerinden amniyo sıvısına geçip, orada bağışıklık sisteminin makrofaj denilen hücrelerine yerleşiyor. Bu hücreler de rahme yapışarak bir tür enfeksiyon reaksiyonuna neden olabiliyor. Enfeksiyon ise rahmin kasılma hareketini uyardığı için sancılar başlıyor. 
+     Bilim adamları, bu reaksiyon zincirini çok sayıda deneyle teyit ettiklerini ifade ettiler. 
+     Gebeliğin erken evrelerinde SP-A proteini verilen farelerin erken doğum yaptığını söyleyen bilim adamları, aynı şekilde, SP-A proteininin işlevini bloke ettiklerinde, doğum sancılarını önlediklerini kaydettiler. 
+     Bilim adamları, insanlarda da benzer bir mekanizmanın sancıların başlamasında rol oynayabileceğini ifade ederek, SP-A proteininin insanlarda da bulunduğunu belirttiler. 
+     Erken doğum sancılarının bir başka nedeninin de bakteriyel enfeksiyonlar olabileceğini kaydeden bilim adamları, bu enfeksiyonların da farelerde makrofajların neden olduğu sürece yol açtığını söylediler. 
+     
+</TEXT>
+</DOC>

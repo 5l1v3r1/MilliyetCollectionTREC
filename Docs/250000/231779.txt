@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 231779 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/15/son/sontur17.html </URL>
+<DATE> 2004/04/15/ </DATE>
+<TIME> 12.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Artık tren biletleri de internetten... 
+</HEADLINE>
+<TEXT>
+
+     TCDD Genel Müdürü Süleyman Karaman, e-Tren uygulamasına başladıklarını, vatandaşların artık trenlere internetten rezervasyon yaptırabileceğini ve bilet satın alabileceğini söyledi. Karaman, Vagon Restaurant'ta düzenlediği kahvaltılı basın toplantısında, TCDD'ye kalite kazandırmak için çalıştıklarını, bu çalışmalar kapsamında hayata geçirilen e-Tren projesinin de elektronik devlet uygulamalarının güzel bir örneğini oluşturduğunu kaydetti. 
+     e-Tren uygulamasında, vatandaşların, ''www.tcdd.gov.tr'' adresli internet sitesine üye olduktan sonra 1 aylık dönem içindeki trenlere rezervasyon yaptırabileceğini belirten Karaman, biletlerin de internet ortamından kredi kartıyla sağlanabileceğini ifade etti. Kredi kartı bilgilerinin kullanıldığı sistemin çok güvenilir olduğunu vurgulayan Karaman, sistemin 128 bit SSL şifre sistemi ile çalıştığını bildirdi. 
+     
+     İSTANBUL-ANKARA YOLU KISALIYOR 
+     Süleyman Karaman, bir soru üzerine, Ankara-İstanbul arası trenle ulaşım süresinin azaltılması çalışmalarının sürdüğünü, bir aksilik çıkmaması halinde, ay sonunda, Ankara'dan kalkacak trenin 5 saat sonra Pendik'e ulaşacağını söyledi. 
+     Karaman, temeli Başbakan Recep Tayyip Erdoğan tarafından atılan hızlı tren projesinin ise 2005 Aralık ayında tamamlanacağını, trenlerin saatte 140 kilometre hız yapacağını, böylece Ankara-İstanbul arası tren yolculuğunun 2,5 saate kadar ineceğini kaydetti. 
+     
+     ''İHALEYE GİREN KİŞİLERİ TANIMIYORUM'' 
+     TCDD Genel Müdürü Karaman, bir başka soruyu yanıtlarken, kamuoyunda çok tartışılan ihale konusunun kendisi ile hiçbir ilgisi bulunmadığını söyledi. 
+     ''Emine Alioğlu'nu gazetelerde gördükten sonra tanımaya başladığını'' anlatan Karaman, 21 bin 300 işten sadece 10 adedini en uygun teklifi veren Ekrim şirketinin aldığını, Emine Alioğlu'nun ortağı bulunduğu Ekrim şirketinin sahiplerini tanımadığını, tanımak gibi bir zorunluluğu da olmadığını belirtti. 
+     
+     YOLCULARA İKRAM 
+     Karaman, bir soru üzerine, trenlerde yolculara dağıtılan ikram kutularının içinde Ülker firmasına ait ürünlerin bulunmasının da normal olduğunu ifade etti. 
+     ''Biz 3-4 firmadan kutu istedik, onlar içine gıda ve sağlık kodeksine uygun malzemeler koyduktan sonra getirdiler'' diye konuşan Karaman, eleştirilen kutuda Ülker firmasına ait iki ürünün yanı sıra başka firmalara ait meyve suyu ve selpak gibi malzemelerin de bulunduğunu anımsattı. 
+     Karaman, bağlantı elemanları üreten, 100 kişinin çalışacağı ve Türk Cumhuriyetleri'ne yönelik ürün satışı da yapacak 20 milyon dolarlık bir fabrika açmayı hedeflediklerini sözlerine ekledi. 
+     
+</TEXT>
+</DOC>

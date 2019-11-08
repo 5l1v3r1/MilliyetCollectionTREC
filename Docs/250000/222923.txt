@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 222923 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/16/son/sonyas29.html </URL>
+<DATE> 2004/03/16/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Toyota, trafikte hızını öndeki araca göre ayarlayan araç üretti 
+</HEADLINE>
+<TEXT>
+
+     Otomobil üreticisi Toyota, her sabah ve akşam işe giderken trafiğe takılan sürücüler için, hızını otomatik olarak önündeki aracın hızına göre ayarlayan otomobil geliştirdi. 
+     Yaz aylarında piyasaya çıkarılması planlanan otomobil, radar sistemi sayesinde, saatte 0 ile 30 kilometre arasındaki hızlarda, hızını öndeki otomobile göre ayarlıyor. Öndeki otomobil durduğu zaman sürücüyü hem ses hem de görüntüyle uyaran sistem, sürücü tepki vermediği zaman kendiliğinden otomobili durduruyor. 
+     Yeni sistemin fiyatı konusunda bilgi vermeyen Toyota, sistemin Japonya dışında satılıp satılmayacağı konusuna da açıklık getirmedi. 
+     
+</TEXT>
+</DOC>

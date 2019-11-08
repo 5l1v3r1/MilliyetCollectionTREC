@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 303674 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/05/son/soneko20.html </URL>
+<DATE> 2005/01/05/ </DATE>
+<TIME> 12.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansta 507 puan kaybetti... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeks, dünkü kapanışa göre 507.92 puan düşerek, 1. seansı 24,534.08 puandan tamamladı. 
+     1. seansta hisse senetleri ortalama yüzde 2.03 değer yitirdi. 
+     Dün 25,042.00 puandan kapanan İMKB Ulusal 100 Endeksi, ilk seansa 40.38 puan düşerek 25,001.62 puandan başladı. İlk yarıyı 24,635.09 puandan geçen endeks, seans içinde 24,515.60 puana kadar gerilerken, önceki seans kapanış seviyesi olan 25,042.00 puanın üstüne çıkamadı. 
+     Seans sonunda mali endeks 846.85 puan düşerek 34,820.17 puana, sanayi endeksi 324.89 puan düşerek 20,543.46 puana ve hizmetler endeksi 187.36 puan düşerek 13,975.19 puana geriledi. 
+     Böylece önceki kapanışa göre, mali grup hisseler ortalama yüzde 2.37, sanayi grubu hisseler ortalama yüzde 1.56 ve hizmet grubu hisseler ortalama yüzde 1.32 oranında değer yitirdi. 
+     1. seansta işlem gören toplam 297 hisse senedinden 35'i değer kazandı, 219'u değer kaybetti, 43 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta, 366 milyon 541 bin 937 YTL'lik işlem hacmi oluştu. 
+     1. seansta Doğan Holding, Yapı ve Kredi Bankası, İş Bankası C , Garanti Bankası ve İzdemir çok işlem gören hisse senetleri oldu. 
+     Seansın ilk dakikalarından itibaren satış baskısı dikkat çekerken, 24,500 seviyelerinde gelen tepki alımlarıyla bu seviyelerde tutunma çabası gözlendi. 
+     Uzmanlar, kademeli olarak artan para çıkışının, endekste satıcılı seyrin sürebileceği sinyalini verdiğini ifade ederek, paritede yaşanan dalgalanma ve dolardaki yükselişin sürmesinin piyasa tarafından tedirginlikle karşılandığını savunuyor. 
+     
+</TEXT>
+</DOC>

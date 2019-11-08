@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 251072 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/26/son/soneko02.html </URL>
+<DATE> 2004/06/26/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası'nda Dow Jones düştü, Nasdaq yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Borsası'nda Dow Jones endeksi düşerken, Nasdaq haftayı yükselişle kapattı. 
+     Borsanın temel göstergesi Dow Jones 71,97 puan düşerek 10.371,84 puana gerilerken, teknoloji endeksi Nasdaq 9,90 puan kazanımla 2.025,47 puana çıktı. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 285090 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/01/son/soneko21.html </URL>
+<DATE> 2004/11/01/ </DATE>
+<TIME> 13.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+YTL'nin enflasyona etkisi ne olur İşte araştırma sonucu... 
+</HEADLINE>
+<TEXT>
+
+     Yeni Türk Lirası'na geçişli birlikte ürünlerin fiyatları üzerinde yapılacak yuvarlamaların, enflasyon üzerinde çok fazla etkili olmayacağı bildirildi. 
+     Ondokuz Mayıs Üniversitesi OMÜ Öğretim Görevlisi ve Araştırmacı- Yazar Şerafettin Özışık'ın yaptığı bir araştırmaya göre, temel gıda, ilaç ve hazır giyim başta olmak üzere 1308 adet ürünün fiyatının YTL'ye geçişle birlikte yuvarlanmış olası fiyatları hesaplandı. 
+     Araştırmada, Türkiye genelinde faaliyet gösteren 4 büyük marketin Samsun, İstanbul, Ankara, Sivas, Erzurum ve Diyarbakır'daki mağazaları ile internetteki ürün fiyatlarından yararlanıldı. 
+     Araştırmaya konu olan ürünler belirlenirken toplumda yaygın olarak kullanılan ürünler tercih edildi. Seçilen 1308 adet üründen yüzde 73.54'ünün 962 adet fiyatında da TL cinsinden yuvarlama yapıldı. 
+     Fiyatlardaki yuvarlamalar 5 bin liradan başlayarak 35 bin liraya kadar çıkarken, fiyatı 1 milyon liranın altında kalan ürünlerdeki yuvarlamanın, yüksek fiyatlı ürünlerdeki yuvarlamaya göre etkisinin daha yüksek olduğu anlaşıldı. 
+     Örneğin fiyatı 680.000 TL olan bir üründeki 20 bin liralık yuvarlama farkının ürün fiyatına oranı yüzde 2.94 iken, fiyatı 4 milyon 980 bin TL olan başka bir üründeki 20 bin liralık yuvarlama farkının ürün fiyatına etkisi ancak yüzde 0.40 olarak kaldı. 
+     Araştırmaya göre 1 Ocak 2005'ten itibaren kullanılmaya başlanacak YTL'nin yuvarlama farkını beş bin liraya kadar düşüreceği de belirlendi. 
+     
+     TALEP DARALMASI 
+     Araştırmanın ortaya çıkardığı bir diğer sonuç ise YTL'ye geçişle birlikte özellikle eğitim seviyesi düşük grupta bir talep daralmasının yaşanabileceği yolundaki veriler oldu. 
+     328 kişi ile yüz yüze yapılan görüşmelerin sonuçlarına göre bu kişilerin önemli bir kısmının YTL hakkında yeterli bilgiye sahip olmadığı, bu nedenle de bir süre harcama eğilimlerinin düşük kalacağı anlaşıldı. Eğitim seviyesi yüksek olanlarda ise bu yönde önemli bir eğilim gözlenmedi. 
+     Buna göre özellikle eğitim seviyesi düşük olanlar açısından belli bir süre talep daralması olabileceği, bunun sonucunda da bir çok üründe fiyat indirimi yaşanabileceği belirlendi. 
+     
+</TEXT>
+</DOC>

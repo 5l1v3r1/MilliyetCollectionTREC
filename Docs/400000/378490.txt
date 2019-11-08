@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 378490 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/14/son/sonyas02.html </URL>
+<DATE> 2005/09/14/ </DATE>
+<TIME> 10.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Uzayın sonunda en büyük patlama 
+</HEADLINE>
+<TEXT>
+
+     Bilim adamları, bilinen evrenin uç noktasında gerçekleşen en büyük ve en parlak gama ışını patlamasının tespit ettiler. 
+     Patlama, Amerikan Swift Uzay Teleskobu’nun yanı sıra Dünya’daki birçok gözlemevinden de izlendi. Birkaç saniye süren patlama sonucu, Güneş’in toplam 10 milyar yıllık ömrü boyunca yayacağı enerjiden 300 kat daha fazla enerji evrene saçıldı ve Dünya’ya ulaştı. 
+     Yüksek enerjili, yoğun radyasyona sahip olan ve milyarlarca yıl önce yaşanan Gama patlaması, 4 Eylül günü dünyadan üç dakika boyunca gözlenebildi. Çok büyük bir yıldızı yok ederek kara delik haline getirdiği sanılan GRB050904’ kod adlı patlamanın yaklaşık 13 milyar ışıkyılı uzakta gerçekleştiği hesaplandı. Bu alandaki eski rekor olan 500 milyon ışık yıllık mesafe de aşılmış oldu. 1 ışık yılı, ışığın bir yılda katettiği mesafeye deniyor, bu da yaklaşık 10 trilyon km. 
+     
+     Geçmişin penceresi 
+     İngiltere Parçacık Fiziği ve Astronomi Araştırma Kurulu PPARC Başkanı Prof. Keith Mason, Zamanın başlangıcında var olan yıldızlar hakkında daha çok şey öğrenebileceğiz. Evrenin, gözlemlediğimiz bu patlamadan sadece 1 milyar yıl önce oluştuğunu sanıyoruz. Yani geçmişe açılan bir pencere bulduk’ dedi. 
+     
+</TEXT>
+</DOC>

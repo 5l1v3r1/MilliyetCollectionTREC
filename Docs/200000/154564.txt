@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 154564 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/05/son/sondun06.html </URL>
+<DATE> 2003/05/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Demode bilgisayarlanınızı atmayın terminal haline dönüştürün 
+</HEADLINE>
+<TEXT>
+
+     ''Neoware'' adlı bir bilgisayar yazılım şirketi, demode olan bilgisayarların modern bir terminal haline dönüştürülmesine olanak veren düşük maliyetli bir yöntem geliştirdiğini açıkladı. 
+     Bilgisayarın terminal olarak kullanılabilmesi için mutlaka internete bağlı olması gerektiğini belirten uzmanlar, yeni yöntemin, eskiyen binlerce bilgisayarını birden değiştirmek zorunda kalan şirketleri büyük masraftan kurtaracağını kaydettiler. 
+     Neoware firmasının yanı sıra Citrix Systems ve merkezi Tayvan'da bulunan Wyse firmaları, demode olmuş bilgisayarları, cihaz başına en fazla 200 dolarlık bir masrafla modern terminaller haline getirebileceklerini belirtiyorlar. Terminaller, gerekli verileri kendi ana belleklerinde depolamıyor ve bu iş için merkezi bilgisayarlardan yararlanıyorlar. 
+     Terminal haline dönüştürülecek bilgisayarların, en modern ofis programı ve ağ aplikasyonlarını kullanabildikleri belirtildi. Bu işler için terminalin işlemci, bellek ya da depolama kapasitesini arttırmak da gerekmiyor. Bu cihazlara yüklenecek ''ezRemote Manager'' adlı program sayesinde terminaller, ana işlemci bilgisayarın yaptığı işlemleri rahatlıkla kullanabilecek. ''ezRemote Manager'' programının fiyatının 133 dolar olacağı açıklandı. Ancak program 31 Temmuz'a kadar teşvik amacıyla 99 dolardan satılacak. 
+     
+     HASTANE VE OTELLER İÇİN İDEAL 
+     Yeni yöntemin özellikle hastaneler, satış merkezleri ve oteller açısından çok yararlı olacağı kaydedildi. Bu sayede otel odalarına, müşterilerin internete bağlanmalarına olanak verecek bilgisayarlar yerleştirmek de mümkün olacak. 
+     Bilgisayar sanayii analistlerinden Bob O'Donnell, ''şirketlerin elinde milyonlarca adet demode bilgisayar bulunduğunu, şimdi bunların yeniden işe yarar hale gelebileceklerini'' söyledi. 
+     
+     PAZAR PAYI ÇOK BÜYÜK 
+     Uzmanlar, geçen yıl merkezi bir bilgisayara bağlı olarak çalışan terminal cihaz piyasasının bir yıl önceye oranla yüzde 18.5 büyüme gösterdiği, bunun yeni bilgisayar piyasasında görülen yüzde 1.4'luk büyümenin 10 katından fazla olduğunu ifade ettiler. 
+     Terminal tipi bilgisayar kullananların sayısının ise dünya çapında 50 milyonun üzerinde olduğu bildiriliyor. 
+     
+</TEXT>
+</DOC>

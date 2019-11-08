@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 92613 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/06/28/son/sondun07.html </URL>
+<DATE> 2002/06/28/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Amerika'da cep telefonu kullanımı yüzde 41.5 arttı 
+</HEADLINE>
+<TEXT>
+
+     ABD'de cep telefonu kullanımının geçen on yıla oranla 41.5 kat arttığı bildirildi. 
+     Bu talebe cevap vermekte güçlük çekmeyen cep telefonu üreticilerinin en fazla zorlandıkları alanın ise telefonlara enerji sağlayan piller olduğu belirtiliyor. 
+     Gerçekten de bugün internete bağlanabilen, kısa mesajların yanı sıra fotoğraf bile gönderebilen telefonların pilinin önemli bir konuşmanın ortasında aniden bitivermesine hala çözüm bulunamadı. 
+     Bu hususu gözönüne alan bazı yan sanayi firmaları, cep telefonlarının pil sorununa çözüm bulmak üzere kolları sıvadılar. 
+     Bunun sonucu olarak piyasaya çeşitli şarj aletleri çıkarıldı. Bunlar arasında, elle çalışan bataryalardan güneş enerjisiyle çalışan panellere kadar değişik modeller bulunuyor. 
+     ''Aladdinpower'' adlı şirket tarafından üretilen şarj aleti, sporcuların kol adalelerini güçlendirmek için kullandıkları topları andırıyor. Telefon sahibi, bu cihazı telefonuna bağlayarak, topu avucuyla sıkıp bırakmaya başladığında telefonun bitmiş olan pili doluyor. Yapılan denemelerde 3 dakikalik sıkma sonucu 10 dakika konuşulabildiği belirlendi. Cihazın Amerika'daki satış fiyatı 60 dolar. 
+     ''iSun'' adlı şirketin ürettiği şarj aleti ise güneş enerjisiyle çalışıyor. İnce bir kitap hacmindeki panel açılarak 1 saat süreyle güneşe tutulduğunda, cep telefonuna 10-15 dakika konuşmaya yetecek enerji sağlıyor. Bu aletin fiyatı da 80 dolar. 
+     ''İnstant Power'' firmasının üretimi olan şarj aleti ise üzerindeki koruyucu çıkarıldığında aktif hale geçiyor ve telefonun pilini şarj ediyor. 15 dolara satılan cihazla telefonun pilini 3 kez tam şarj etmek mümkün. 
+     ''FreeCharge'' şirketinin ürettiği manyetolu şarj aleti ise 45 saniye çevrildiğinde 2.5 dakika konuşma olanağı sağlıyor. Bu aletin fiyatı ise 80 dolar. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

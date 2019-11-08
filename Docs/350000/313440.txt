@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 313440 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/08/son/soneko01.html </URL>
+<DATE> 2005/02/08/ </DATE>
+<TIME> 02.02 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsası düşüşle kapandı 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacminde dünyanın en büyük borsası konumunda olan New York Wall Street Borsası'nın Dow Jones Sanayi Endeksi, haftanın ilk işlem gününü 0.15 puan düşüşle 10,715.98 puandan kapadı. 
+     İleri teknoloji şirketlerinin göstergesi Nasdaq Birleşik Endeksi de günün son seansında 5.74 puan azalarak 2,080.92 puandan noktalandı. 
+     Borsanın ilk seanstan başlayan hareketsizliğinde, şirketlerden yatırımcıları yönlendirecek veri gelmemesi etkili oldu. 
+     
+</TEXT>
+</DOC>

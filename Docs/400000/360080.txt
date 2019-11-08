@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 360080 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/11/son/soneko27.html </URL>
+<DATE> 2005/07/11/ </DATE>
+<TIME> 12.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Merkez Bankası'nın faiz indirim seyri... 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası, 2005 yılı başından bu yana 6 kez faiz indirimi kararı alırken, ilk kez bu ay faiz indirimine gitmedi. 
+     Merkez Bankası'nın yılın altı ayında aldığı 6 faiz indirimi kararıyla, 11 Ocak'tan 9 Haziran'a kadarki sürede, uygulanan kısa vadeli faiz oranları 3.75 puan düşürüldü. 
+     Buna göre Merkez Bankası'nın, 11 Ocak tarihli bu yılın ilk faiz indirimi kararı öncesi yüzde 18 olan gecelik borçlanma faiz oranı geçen sürede yüzde 14.25'e, yüzde 22 olan borç verme faiz oranı da yüzde 18.25'e çekildi. 
+     Diğer vadelerde 1 haftalık borçlanma faiz oranı yüzde 18'den yüzde 14.25'e indirildi. 
+     Geç Likidite Penceresi uygulaması çerçevesinde, Bankalararası Para Piyasası'nda gecelik vadede uygulanan Banka borç verme faiz oranı yüzde 26'dan yüzde 22.25'e düşürülürken, yüzde 5 olan borçlanma faiz oranımız değiştirilmedi. 
+     Açık piyasa işlemleri çerçevesinde piyasa yapıcısı bankalara repo işlemleri yoluyla gecelik ve bir haftalık vadelerde tanınan borçlanma imkanının faiz oranları yüzde 20'den yüzde 16.25 düşürüldü. 
+     Merkez Bankası, 2005 yılında aldığı 6 faiz indirim kararı uyarınca, uyguladığı kısa vadeli faizleri 2 kez bir puan, 3 kez yarım puan ve bir kez de 0.25 puan indirdi. 
+     Bu çerçevede Merkez Bankası, 2005 yılında 11 Ocak ve 9 Mart tarihlerinde aldığı kararla faizleri birer puan, 9 Şubat, 11 Nisan ve 10 Mayıs'ta 0.50'er puan ve en son 9 Haziran tarihinde ise 0.25 puan düşürdü. 
+     
+</TEXT>
+</DOC>

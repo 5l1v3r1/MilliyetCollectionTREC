@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 263384 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/14/son/sondun10.html </URL>
+<DATE> 2004/08/14/ </DATE>
+<TIME> 10.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD'de başkanlık yaraşına siber korsan gölgesi... 
+</HEADLINE>
+<TEXT>
+
+     ABD'de sonbaharda yapılacak başkanlık seçimleri yaklaşırken, kullanılacak elektronik oy sistemine sızacak siber korsanların, seçim sonuçlarını etkileyebileceği bildirildi. 
+     AA muhabirinin çeşitli internet sitelerinden yaptığı derlemeye göre, yüzde yüz güvenli olmadığı ifade edilen e-Voting sistemine sızacak siber korsan ya da korsanlar, girdikleri bölgedeki oy dağılımlarını değiştirebilecek. 
+     Kasım ayında yapılacak başkanlık seçimleri için düzenlenen anketlere katılan ABD halkı, sıklıkla, elektronik oy sistemine duydukları şüpheyi belirtirken, seçimde herhangi bir sorun yaşanırsa, ABD halkının elektronik oylama yöntemine olan güveninin tekrar sağlanmasının yıllar alabileceği ifade ediliyor. 
+     ABD'nin, oy sistemini modernleştirmek için milyarlarca dolar harcamasına karşın sistemin hala yüzde yüz güvenli hale getirilememesi internet analistleri tarafından eleştirilirken, bazı analistler ise sistemdeki potansiyel açıkların, Başkan George Bush yanlısı korsanlar tarafından yine Bush lehine kullanabileceği uyarısında bulunuyorlar. 
+     İnternet analistleri, ABD Kongresi'ne de uyarıda bulunarak, sisteme sızacak bir korsanın, ABD'nin kaderini etkileyebileceğini bildirdiler. 
+     
+</TEXT>
+</DOC>

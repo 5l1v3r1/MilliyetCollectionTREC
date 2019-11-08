@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 382060 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/27/son/sonyas05.html </URL>
+<DATE> 2005/09/27/ </DATE>
+<TIME> 07.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Robot savaş araçları yarışması... 
+</HEADLINE>
+<TEXT>
+
+     Irak ve Afganistan’da verilen askeri kayıplar sonrasında zayiatı azaltmak için harekete geçen Pentagon, muharip robot araçlar yarışması düzenliyor. 
+     Pentagon’a bağlı Gelişmiş Savunma Araştırma Projesi Ajansı’nın DARPA himayesinde 2 milyon dolarlık ödülle düzenlenen yarışmaya 40 ayrı takım katılıyor. 
+     Nevada Çölü’nde yarın başlayacak yarışmada bilim adamları ve teknisyenler, spor ve arazi araçları ile askeri araçlardan hatta motosikletlerden dönüştürülen ve bilgisayar, GPS, lazer, radar ekipmanları ve yapay zeka ile donatılan icatlarıyla yarışacak. 
+     İnsansız savaş araçlarının, bir kısmı özel olarak hazırlanmış engelli alanlarla dolu 240 kilometrelik bir parkuru başarıyla aşması gerekiyor. 
+     Yarışmanın favorileri arasında, deneme sürüşlerinde insan yardımı olmadan 320 kilometre yol kat eden Stanford Üniversitesi takımının Volkswagen Touareg’den ürettiği aracın da yer aldığı belirtiliyor. 
+     Yarışmada en iyi performansı gösteren 20 araç final turuna kalacak. 
+     DARPA yetkilileri, bu yıl yarışa katılacak ekiplerin ve projelerin, ABD’nin 37 eyaleti ve 3 yabancı ülkeden yapılan yaklaşık 200 başvuru arasından seçildiğini söyledi. 
+     Yarışmanın yapılacağı güzergahın, yarıştan 2 saat öncesine kadar yarışmacılardan gizli tutulacağı, ancak yarıştan iki saat önce güzergaha dair CD ve GPS koordinatlarının verileceği kaydediliyor. 
+     Bu yıl yarışacak insansız araçlardan birinin bitiş çizgisine ulaşmayı başarması durumunda bu müsabakayı bir daha düzenlemeyeceğini açıklayan DARPA, başarı sağlanamaması halinde ise gelecek yıl düzenlenecek yarışma için konulacak ödülün 4 milyon dolara çıkarılacağını ifade etti. 
+     
+</TEXT>
+</DOC>

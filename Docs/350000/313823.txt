@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 313823 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/09/son/soneko46.html </URL>
+<DATE> 2005/02/09/ </DATE>
+<TIME> 16.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Finansbank konut kredisi vadesini 12 yıla uzattı... 
+</HEADLINE>
+<TEXT>
+
+     Finansbank, konut kredisinde vadeyi 7 yıldan 12 yıla uzattı. 
+     Finansbank'ın yarından itibaren geçerli yeni düzenlemesine göre, konut kredisinde 5 yıl vadede yüzde 1.60 olan faiz oranı, 8-10-12 yıl vadede yüzde 1.55 olarak belirlendi. 
+     Finansbank'ın alınacak kredi tutarlarını göre, uygulanan faiz oranlarıyla oluşturulan örnek ödeme tablosu şöyle 
+     
+
+Kredi Tutarı YTL 5 Yıl 
+1.60 8 Yıl 
+1.55 10 Yıl 
+1.55 12 Yıl 
+1.55 50,000 1,329 1,033 951 902 75,000 1,994 1,550 1,426 1,353 100,000 2,658 2,066 1,901 1,804      
+</TEXT>
+</DOC>

@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 186980 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/07/son/sondun09.html </URL>
+<DATE> 2003/10/07/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Windows Media Center 2004 yakında çıkıyor... Özellikleri ne 
+</HEADLINE>
+<TEXT>
+
+     Yazılım devi Microsoft firmasının gelecek haftalarda piyasaya çıkartacağı ve kısa adı MCE-2004 olan Windows medya merkezi programı çok gelişmiş özelliklere sahip. 
+     Microsoft'un video, müzik ve fotoğraf ağırlıklı, aynı adı taşıyan bu ikinci sürümü özellikle performans, istikrar ve kullanım kolaylığına öncelik tanıyor. Programı deneyen uzmanlar, özellikle fotoğraf ve müzik alanında programın tatmin edici olduğu sonucuna vardı. Programa bir de FM ve internet radyolarını almaya yarayan ek yapılmış bulunuyor. Program sayesinde, kiralık filmlerin indirilmesi de imkan dahiline giriyor. 
+     MCE-2004'ün en güçlü yanlarından bir diğerini, çok daha mükemmel kalitede televizyon seyretmek oluşturuyor. Ancak uzmanlar, bilgisayarlarda kullanılan video kartları konusunda yapılacak tercihin bu özelliği etkileyeceğine dikkat çekti. 
+     MCE-2004 sayesinde ekrana yansıyacak yazılar da, uzak mesafeden okunacak şekilde büyük olacak. Kullanıcı tercihlerini, klavye kullanmadan, tıpkı televizyonlarda olduğu gibi uzaktan kumanda aletiyle yapabilecek. Kablosuz klavye ve fare ise MCE-2004'un tıpkı bir bilgisayar gibi, ancak uzaktan kullanılmasına olanak tanıyor. 
+     
+     START MENÜSÜNDE NELER VAR 
+     Yeni programın ''Start'' menüsünde ''DVD oynat'', ''My Video'', ''My Pictures'', ''My TV'', ''My Music'', ''Radyo'', internette dolaşmaya yarayan ''Online Spotlight'', ''Diğer Programlar'' ve ''Ayarlar'' yer alıyor. 
+     ''Online Spotlight'' aracılığıyla kullanıcı, televizyon haberleri, hava durumu, müzik ve film indirmeye kolaylıkla ulaşabilecek. ''My TV'' ile de canlı televizyon yayınları izlenebilecek ya da kaydedilecek. Kullanıcı, ayrıca kendi sabit diskinde bulunan müzikleri MCE-2004 aracılığıyla dinleyebileceği gibi, istediği resim ve fotoğrafları da ''slide show'' haline getirebilecek. ''My TV'' tuşu sayesinde kullanıcılar, programların hangi saatlerde hangi kanallarda yayımlanacağını öğrenecek. Ayrıca sabit diske kaydedilen son 3 program da bu tuş aracılığıyla görülebilecek. Kullanıcılar ekranın kontrast ayarını kendi arzularına göre yapabilecek. 
+     Yine MCE-2004 aracılığıyla TV kanallarını spor, sinema, müzik ya da çocuk programları gibi kategorilere ayırmak mümkün. Program, örneğin aynı dizinin değişik bölümlerini aynı liste içinde toplayarak izleme kolaylığı da sağlıyor. 
+     
+     KULLANICI YERİNE KARAR VEREN PROGRAM 
+     Kullanıcı, bilgisayarını birkaç değişik programı kaydedecek şekilde programlamışsa ve bunlar birbiriyle çakışıyorsa, MCE-2004 kullanıcıyı bu konuda da uyarıyor. Kullanıcı bu duruma çözüm getirmediği takdirde, program, kullanıcının son 2 hafta içindeki tercihlerini göz önüne alarak hangi programa öncelik vereceğine kendisi karar veriyor. 
+     Tüm bu özelliklerin, resim kalitesi mükemmel olmadığı takdirde hiçbir işe yaramayacağını hesaplayan programcılar, MCE-2004'e bir de ''görüntü ayarlama sihirbazı'' ekledi. Bu sihirbaz yardımıyla ekran boyutu, orantısı, kontrastı, parlaklığı ve renk dengesini düzenlemek çok kolay. 
+     İçeriği dijital olmak kaydıyla, MCE-2004, DVD filmlerini de 1080 satırlık düzende gösterebiliyor. Böylece videonun kalitesi yükselmiş oluyor. 
+     MCE-2004 sistemiyle çalışacak bilgisayarların bu sonbaharda piyasa çıkacağı bildirildi. 
+     
+</TEXT>
+</DOC>

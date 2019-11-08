@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 384765 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/07/son/sondun50.html </URL>
+<DATE> 2005/10/07/ </DATE>
+<TIME> 21.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+El Salvador'da 5.5'lik deprem... 
+</HEADLINE>
+<TEXT>
+
+     Orta Amerika ülkelerinden El Salvador'da, Richter ölçeğine göre 5,5 büyüklüğünde bir deprem meydana geldi. 
+     Depremin herhangi bir kayıba yol açıp açmadığı hakkında bilgi vermeyen yetkililer, 5 gündür devam eden aşırı yağışlardan etkilenen bölgelerde yaşayanları evlerini terketmeleri konusunda uyardı. 
+     Colorado'daki Amerikan deprem araştırma merkezi, depremin merkez üssünün, başkent San Salvador'un 55 kilometre güneybatısında kıyının hemen dışında olduğunu belirtti. 
+     Bu arada Stan kasırgasının en fazla ölüme yol açtığı komşu Guatemala'da da depremin hissedildiği bildiriliyor. Kasırgada şimdiye kadar Guatemala'da 150, El Salvador'da ise 67 kişi hayatını kaybetti. 
+     
+</TEXT>
+</DOC>

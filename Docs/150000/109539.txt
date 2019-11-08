@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 109539 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/09/25/son/sonspo15.html </URL>
+<DATE> 2002/09/25/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ofsayt pozisyonları artık dert değil 
+</HEADLINE>
+<TEXT>
+
+     Alman bilim adamları, futbol hakemlerinin ofsayttaki kararsızlıklarına son verecek bir sistem geliştirdiler. 
+     Alman Bild Gazetesi, Erlangen kentinde bulunan Frauenhofer Enstitüsü ve Münih Teknik Üniversitesi uzmanlarının, hakemlerin yanlış karar vermelerini engellemek için ''Cairos-Sistem'' adlı bir elektronik sistem geliştirdiklerini yazdı. 
+     Sistem hakkında bilgi veren proje başkanı Hanno Reinert, futbocuların dizliklerine ve topa sensörler yerleştirileceğini belirterek, ''Bu sensörler topun pozisyonunu ve oyuncuların koşu yolları hakkındaki bilgileri sahanın çeşitli yerlerine yerleştirilecek alıcılar üzerinden bir bilgisayara yönlendirilecek. Bilgisayar, bu bilgileri saliseler içinde hakemde bulunan özel geliştirimiş bir saate iletecek. Hakem de böylece kararını verecek'' dedi. 
+     Reinhart, futbol müsabakalarında tartışılan ve hakemlerin zor durumda kaldıkları ''Top, kale çizgisini geçti mi , Oyuncu ofsaytta mı kaldı '', gibi konuların bu teknik çözümle sona ereceğini bildirdi. 
+     Sistemin 2000 yılından beri geliştirildiğini ve 2003 yılında imal edilmeye başlanacağını ifade eden Reinert, sistemin geliştirilmesinin 7.5 milyon Euro'ya mal olduğunu ve bu sistemin 250 bin Euro'ya satışa sunulacağını söyledi. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

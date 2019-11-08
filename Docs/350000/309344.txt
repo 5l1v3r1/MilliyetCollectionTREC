@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 309344 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/25/son/sonyas17.html </URL>
+<DATE> 2005/01/25/ </DATE>
+<TIME> 16.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Google ve yahoo, arama listelerine TV'leri de ekliyor... 
+</HEADLINE>
+<TEXT>
+
+     İnternet arama motorlarından Google ve Yahoo, arama kapsamına televizyon kanallarının yayınladıkları programları da alacaklarını duyurdu. 
+     Televizyon programları ile ilgili aramalarında ABD'deki TV kanallarında özellikle işitme engelliler için yayınlanan alt yazıların esas alınacağı bildirildi. 
+     Google, bu hizmeti bugünden itibaren başlatacağını açıklarken, arama sonucu bulunan videoların bilgisayar üzerinden izlenmesinin şimdilik mümkün olmadığı kaydedildi. 
+     Bu konuda ileride yeni hizmetler sunabileceklerini açıklayan Google yetkilileri, şimdilik telif hakkı ve program yapımcılarının ekonomik çıkarlarının buna izin vermediğini ifade ettiler. 
+     Google'ın programlarını arama kapsamına aldığı televizyonlar arasında ABC, PBS, Fox News, NBA ve C-Span gibi kanallar bulunuyor. 
+     Bu kanallardaki programların arama motoru listelerinde yer alması konusunda TV kanallarından izin alınmasına gerek olmadığını ifade eden Google yetkilileri, ancak belirli bir programın liste dışında bırakılması konusunda TV kanallarından gelecek talepleri yerine getireceklerini belirtti. 
+     Video aramaya dair deneme uygulamasına geçen yıl başlayan Yahoo'nun da altyazı metnine dayalı arama hizmetini birkaç hafta içinde başlatacağı ve arama kapsamına Bloomberg ve BBC gibi TV kanallarını alacağı kaydedildi. 
+     Google'ın aksine Yahoo'nun kullanıcılarına 60 saniyelik video görüntüleri izleme olanağı da sunacağı belirtildi. 
+     
+</TEXT>
+</DOC>

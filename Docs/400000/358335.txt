@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> 358335 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/05/son/soneko15.html </URL>
+<DATE> 2005/07/05/ </DATE>
+<TIME> 11.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kamu net borç stoku 274.9 milyar YTL'ye çıktı 
+</HEADLINE>
+<TEXT>
+
+     Kamu net borç stoku, bu yılın ilk üç aylık döneminde 2 milyar 217 milyon YTL’lik büyüme kaydetti. Ancak bu büyümeye rağmen net borç stokunun 2004 sonunda yüzde 63.5 olan GSMH’ye oranı, mart sonunda yüzde 62.3’e kadar geriledi. 
+     Hazine Müsteşarlığı, brüt borç stokundan, Merkez Bankası’nın net varlıklarıyla, kamu kuruluşlarının mevduatı ve İşsizlik Sigortası Fonu varlıklarının indirilmesiyle hesaplanan kamu net borç stokunu açıkladı. 
+     Buna göre net borç stokundaki nominal büyüme eğilimi ocak-mart döneminde de devam etti. 2004 yılı sonunda 272.2 milyar YTL olan net borç stoku mart sonunda 274.9 milyar YTL’ye ulaştı. 
+     
+     BRÜT BORÇ STOKU 
+     Ocak-mart döneminde kamunun brüt borç stoku 8 milyar YTL’lik kısmı iç borçlardan, 1.8 milyar YTL’si ise dış borçlardan kaynaklanmak üzere toplam 9.8 milyar YTL ardarak 341.8 milyara yükseldi. Brüt iç borç stoku 241.8 milyar 
+     YTL’ye, brüt dış borç stoku ise 100 milyar YTL’ye yükseldi. 
+     İç borç stokunun 232.5 milyar YTL’si Hazine’ye, 9.3 milyar YTL’si diğer kamu kuruluşlarına, dış borç stokunun da 94 milyar YTL’si Hazine’ye 6 milyar YTL’si ise diğer kamu kuruluşlarına ait bulunuyor. 
+     
+     VARLIK VE MEVDUATLAR 
+     Net borç stokunun hesaplanmasında brüt borç stokundan indirilen Merkez Bankası net varlıkları 719 milyon YTL artarak 28.6 milyar YTL’ye yükseldi. Bu dönemde Banka’nın net dış varlıkları 6 milyar YTL artaraken, diğer varlıkları ise 5.3 milyar YTL azaldı. 
+     Kamu mevduatı ise 5.2 milyar YTL’lik büyümeyle 23.9 milyar YTL’ye ylükselirken, işsizlik sigortası fonu varlıkları ise 1.1 milyarlık büyümeyle 14.4 milyar YTL’ye çıktı. 
+     
+     NET İÇ VE NET DIŞ BORÇ 
+     Brüt borçlar ve varlıklarda yaşanan bu gelişmelerden sonra kamu net dış borç stoku geçen yıl sonuna göre 4.2 milyar YTL azalarak 70.9 milyara, net iç borç stoku ise 6.9 milyar YTL artarak 204 milyar YTL’ye çıktı. 
+     
+     GSMH’YE ORANLAR 
+     2001 krizinden sonra yüzde 90.5’e kadar yükselen kamu 
+     net borç stokunun GSMH’ye oranı 2004 yılı sonunda yüzde 63.5’e kadar gerilemişti. Bu yılın ilk üç ayında da nominal büyümeye rağmen özellikle net dış borç stokundaki azalış nedeniyle kamu net borç stokunun GSMH’ye oranındaki azalma devam etti. Bu yıl mart sonu itibariyle son bir yılda 441.5 milyar YTL olan cari fiyatlarla GSMH dikkate alındığında net borç stokunun GSMH’ye oranı mart sonu itibariyle yüzde 62.3 olarak hesaplandı. Geçen yıl sonunda net dış borç stokunun yüzde 17.5 olan GSMH’ye oranı mart sonunda yüzde 16.1’e inerken, net iç borç stokunun oranı ise yüzde 45.9’dan yüzde 46.2’ye yükseldi. Brüt borç stokunun yüzde 77.4 olan GSMH’ye oranı değişmezken, brüt iç borç stokunun oranı yüzde 54.5’ten yüzde 54.8’e çıktı, brüt dış borç stokunun oranı ise yüzde 22.9’dan yüzde 22.7’ye geriledi. 
+     
+</TEXT>
+</DOC>

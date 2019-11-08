@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> 256000 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/16/son/sonyas12.html </URL>
+<DATE> 2004/07/16/ </DATE>
+<TIME> 16.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hawking'den 'kara delikler' itirafı 
+</HEADLINE>
+<TEXT>
+
+     Ünlü İngiliz fizikçi Stephen Hawking, 30 yıl önce geliştirdiği 'kara delikler' teorisiyle ilgili tezlerinden birinin yanlış olduğunu söyledi. 
+     Stephen Hawking'in teorisi, kara deliklerin, içine düşen herşeyi parçaladığı yaklaşımı üzerine kuruluydu. 
+     Ancak Hawking'in şimdi, bu yaklaşımın yanlış olabileceğini kabul ettiği bildiriliyor. 
+     İngiliz fizikçi şu ana kadar yeni fikirlerinin ayrıntılarını açıklamadı. 
+     Ancak bu konuyla ilgili olarak Cambridge Üniversitesi'nde verdiği bir seminerin içeriği basına sızdı. 
+     Hawking'in yeni tezlerinin, modern fiziğin en büyük tartışma konularından 'Kara delik bilgi paradoks'unun çözülmesine yardımcı olabileceği belirtiliyor. 
+     Dünyaca ünlü İngiliz fizikçi, Çarşamba günü İrlanda'nın başkenti Dublin'de yapılacak bir uluslararası konferansa hitap edecek. 
+     
+     'Kara delikler Paradoksu'nun da mimarı 
+     Doğrusu "Kara delik bilgi paradoksu"nun sorumlusu da, Stephen Hawking'in kendisi. 
+     Hawking 1976'da, bir kara deliğin, oluşmasıyla birlikte, nükleer enerji üretmeye başladığını ancak aynı anda önemli oranda enerjini de toplu olarak kaybolduğunu söylemişti. 
+     Teoriye göre bu radyasyon, kara deliğin içinde ne olduğu hakkında bilgi vermiyordu, çünkü kara delikle birlikte, içindeki tüm bigiler de yok oluyordu. 
+     Bu, kuantum fiziğinin temel kurallarına aykırıydı. 
+     Çünkü kuantum fiziği, evrende olanları en küçük ölçekte inceliyordu. 
+     Bu da evrende hiçbir bilginin kaybolamayacağı esasına dayalıydı. 
+     Stephen Hawking yıllarca, kara deliklerin aşırı çekim gücünün bir şekilde kuantum yasalarına ağır bastığını belirtmişti. 
+     Şimdi ise bu fikrinden vazgeçti. 
+     Hawking'in yeni 'kara delikler teorisi', daha öncekinden tamamen farklı değil. 
+     Yeni teori de, kara deliklerin, daha uzun süreler, radyasyon yaymaları üzerine kurulu. 
+     Temel fark ise yeni teorinin, sonunda kara deliklerin içinde bilgiye ulaşmanın mümkün olduğunu savunması. 
+     Bu u dönüşü Profesör Hawking'e bir ansiklopediye mal olabilir. 
+     Çünkü Hawking ve Kaliforniya Teknoloji Enstitüsü'nden fizik teorisyeni Kip Thorne, teorilerine karşı çıkan aynı enstitüden John Preskill'le iddiaya girmişlerdi. 
+     Şimdi Hawking ve Thorne'un, Preskill'e, kendisinin belireyeceği bir ansiklopediyi hediye etmeleri bekleniyor. 
+     
+</TEXT>
+</DOC>

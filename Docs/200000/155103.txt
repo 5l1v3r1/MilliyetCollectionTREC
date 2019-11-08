@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 155103 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/07/son/soneko32.html </URL>
+<DATE> 2003/05/07/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türk Lirası, döviz karşısında TEFE'ye göre yüzde 3 değer kazandı... 
+</HEADLINE>
+<TEXT>
+
+     Türk Lirası'nın TL , 2003 Nisan ayında dövize karşı aylık ortalama TÜFE bazlı endekse göre yüzde 3.2, TEFE bazlı endekse göre de yüzde 3 değer kazandı. 
+     Türkiye'nin ve en çok dış ticaret yaptığı ülkelerin enflasyon oranlarını da dikkate alarak oluşturulan tüketici fiyatları endeksi TÜFE ve toptan eşya fiyatları endeksi TEFE bazlı reel kur endekslerinin Nisan ayı verileri, Merkez Bankası'nın internet sitesinde yer aldı. 
+     Buna göre Ocak ayında döviz karşısında TÜFE bazlı endekse göre yüzde 4.9, TEFE bazlı endekse göre de yüzde 2.9 değer yitiren TL, şubat ayında sırasıyla yüzde 2.9 ve yüzde 3.7, mart ayında da yüzde 0.7 ve yüzde 0.6 değer kazanmıştı. 
+     Böylece TL'nin sürekli değerlendiği Şubat-Mart-Nisan döneminde TÜFE bazlı endekse göre değer kazanımı yüzde 7, TEFE bazlı endekse göre de yüzde 7.5'e ulaştı. 
+     Ocak-Nisan dönemi itibariyle ise TL'nin TÜFE bazlı endekse göre yüzde 1.7, TEFE bazlı endekse göre yüzde 4.4 değerlendiği belirlendi. 
+     TL'nin değerinin bir yıl önceki düzeyinin ise altında olduğu dikkati çekti. Geçen yılın nisan sonuna oranla TL, TÜFE bazlı endekse göre yüzde 11.3, TEFE bazlı endekse göre yüzde 8.4 değer yitirmiş durumda. 
+     
+     REEL KURUN SEYRİ 
+     Merkez Bankası'nın baz yıllarını 1995 olarak esas aldığı endekslerden TÜFE bazlı olanına göre TL'nin anılan yıldan bu yana yüzde 27.5, TEFE bazlı endekse göre de yüzde 22.2 değerlendiği belirlendi. Anılan dönemde kriz yılı olan 2001 dışındaki yıllarda genel eğilim TL'nin dövize karşı değerlenmesi yönünde oldu. 
+     TÜFE ve TEFE bazlı reel kur endekslerinde, TL'nin döviz sepeti karşısında 1995 yılı ortalamasındaki değeri 100 kabul ediliyor. Endeksin büyümesi TL'nin değer kazandığı, küçülmesi ise yitirdiğini gösteriyor. 100'ün altındaki endeks değerleri dövizin üzerindeki değerler ise TL'nin baz yılına göre daha değerli olduğuna işaret ediyor. 
+     
+</TEXT>
+</DOC>

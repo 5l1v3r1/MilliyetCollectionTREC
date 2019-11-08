@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 372909 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/25/son/sonyas02.html </URL>
+<DATE> 2005/08/25/ </DATE>
+<TIME> 08.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Google da 'chat' hizmetine başlıyor 
+</HEADLINE>
+<TEXT>
+
+     Google, anında mesajlaşma instant message ve internet üzerinden telefonla konuşma hizmetlerini sunmaya başlıyor. 
+     Google yeni servisi Google Talk ile AOL, Microsoft, Yahoo ve Skype'nin yer aldığı ve 40 milyondan fazla kullanıcının bulunduğu anında mesaj topluluğunun içine girmeyi hedefliyor. 
+     Deneme versiyonu sadece İngilizce olarak sunulan ve Gmail hesabı olanların kullanabileceği servise google.com talk adresinden ulaşılabiliyor. 
+     Bilgisayardan bilgisayara konuşma hizmeti için ise sadece kulaklık ve mikrofon yeterli oluyor. 
+     Servis, Google'ın geçtiğimiz hafta tanıttığı 'Google Sidebar'a da uyuyor. 'Google Sidebar' ise haber başlıkları, müzik, e-mail ve anında mesajlaşma kullanılarak yapılan aramayı genişletmeye yardımcı oluyor. 
+     Kelsey Grubu'nda analist olarak görev yapan Greg Sterling, "bu Google'ın genişleme stratejisinde bir eksikti" dedi 
+     
+</TEXT>
+</DOC>

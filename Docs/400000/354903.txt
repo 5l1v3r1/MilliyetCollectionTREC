@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 354903 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/23/son/sonyas09.html </URL>
+<DATE> 2005/06/23/ </DATE>
+<TIME> 10.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Protein analiziyle AIDS'e çare umudu 
+</HEADLINE>
+<TEXT>
+
+     İhsan DÖRTKARDEŞ DHA 
+
+      ALMANYA’nın önde gelen araştırma kuruluşlarından Jülich Araştırma Merkezi’nde AIDS, Alzheimer ve deli dana gibi birçok hastalığa çare bulunmasını sağlayabilecek yeni bir yöntem geliştirildiği açıklandı. ’Nükleer manyetik rezonans spektrografisi’nin kullanıldığı yöntemin protein analizine dayandığı belirtildi. 
+     ’Hayatın yapı taşları’ olarak adlandırılan proteinlerin en ince ayrıntısına kadar görülmesini sağlayan yöntemle ilgili olarak Alman DW Radyosu’na bilgi veren Jülich Araştırma Merkezi uzmanı Prof. Dieter Willbold, yaptıkları işin öncelikle protein yapısının incelenmesi olduğunu söyledi. 
+     Willbold, "Bu incelemeden, hastalıkların oluşumuna dair ipuçları elde ediyoruz. Örneğin, Alzheimer hastalığında protein yapısının beyinde nasıl birikime neden olduğunu tespit ediyor ve bunun önüne geçebilmek için protein zincirine nasıl müdahale edebileceğimizi öğreniyoruz" diye konuştu. 
+     
+     YERÇEKİMİNDEN 300 BİN KAT GÜÇLÜ ELEKTROMANYETİK ALAN 
+     Araştırmalar sırasında, kısaca ’NMR’, yani nükleer manyetik rezosans ortamında, yerçekiminden 300 bin kat daha fazla çekime sahip bir elekromanyetik alan oluşturuluyor. Bu alanda elde edilen sonuçları özetleyen Profesör Willbold, "Araştırmalarımızda protein yapısının atomlarına kadar iniyor, yapıyı 3 boyutlu olarak yeniden kuruyoruz. En ince ayrıntısına kadar inince, proteinin işlevini daha kolay kavramak mümkün hale geliyor" dedi. 
+     Araştırma ekibi, SARS virüsünün şimdiye kadar bilinmeyen bazı yönlerini de aydınlatmayı başardı. Belli hastalıklara neden olan proteinleri incelediklerini vurgulayan Willbold, "Deli dana olarak da bilinen Creutzfeld-Jacob, AIDS’e yol açan HIV ile Alzheimer’ı bunların arasında sayabilirim. Çalışmamız, virüsün yapısını oluşturan proteinin nasıl hareket ettiği ve bunu nasıl önleyebileceğimiz üzerinde yoğunlaşıyor" bilgisini verdi. 
+     
+     YENİ İLAÇLAR GELİŞTİRİLMESİNE ZEMİN HAZIRLIYOR 
+     Profesör Willbold liderliğindeki ekibin araştırma sonuçları, hastalıklara karşı koruyucu önlemlere ve yeni ilaçlara zemin hazırlıyor. ’Prion’ adı verilen ve insanlarda deli dana hastalığına neden olan bulaşıcı glikoprotein yapısına karşı, söz konusu araştırmalardan elde edilen sonuçlar sayesinde önlem geliştirildi. Hasta bedenine aktarılan yapay protein unsurlarıyla hastalık ortadan kaldırıldı. 
+     Konunun önemi, Jülich Araştırma Merkezi’nde nükleer spektroskopi alanında önümüzdeki yıllarda birden çok projenin eşzamanlı olarak yürütülmesini sağlayacak. 
+     
+</TEXT>
+</DOC>

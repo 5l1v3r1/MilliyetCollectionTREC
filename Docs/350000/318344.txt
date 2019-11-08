@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 318344 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/24/son/sonyas07.html </URL>
+<DATE> 2005/02/24/ </DATE>
+<TIME> 09.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+AIDS'in saldırganlık ipucu bulundu 
+</HEADLINE>
+<TEXT>
+
+     LONDRA Milliyet 
+
+Asrın vebası AIDS'e yol açan HIV'ın, hücrelere nasıl "saldırdığına" ilişkin kilit öneme sahip bir ipucu bulundu. Nature dergisinde yayımlanan Amerikalı bilim adamlarının araştırması sonucunda, virüsün hücreleri istila edecek değişikliklere yol açtığını ve mutasyona uğradığını ortaya koydu. 
+     HIV'ın, bulaşmak istediği hücrelerdeki CD4 diye bilinen reseptörlere bağlanmadan ve biçim değiştirmeden önce, virüsün dış çeperinin parçası olan gp120 adlı proteinin 3 boyutlu bir görüntüsünü çıkaran bilim adamları, gp120'nin nasıl değiştiğini bilmenin, AIDS hastalığının dizginlenmesi yönünde izlenecek yeni yolu belirleyeceğini belirtti. Bilim adamları, bulguların, HIV aşısı yapmanın neden bu kadar zor olduğunun anlaşılması ve aşı geliştirilmesine yönelik yeni yaklaşımlar konusunda strateji belirlenmesine yardımcı olacağını da kaydetti. 
+     
+</TEXT>
+</DOC>

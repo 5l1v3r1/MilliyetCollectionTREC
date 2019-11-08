@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 197007 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/21/son/sondun10.html </URL>
+<DATE> 2003/11/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dinlenemeyen cep telefonu Almanya'da satışta 
+</HEADLINE>
+<TEXT>
+
+     Alman GSMK şirketi, dinlenemeyen "CryptoPhone-100" adlı cep telefonunu satışa sundu. 
+     İlk kez "dinlemeye karşı güvenli" telefonlarda çift taraflı kriptolu yazılım kullanıldığını açıklayan şirket yetkilileri, iki "CryptoPhone-100"den şifreli yapılacak görüşmelerin dinlenmesinin mümkün olmadığını belirtti. 
+     Tanesi 1799, çifti 3499 euroya satılan telefon, 900 1800 MHz GSM ağlarını kullanabiliyor. 
+     Telefonun şifreli görüşme süresi 3 saat 15 dakika, şifresiz görüşme süresi ise 3,5 saat. 
+     
+</TEXT>
+</DOC>

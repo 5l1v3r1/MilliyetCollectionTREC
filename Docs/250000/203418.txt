@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 203418 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/20/son/sontur14.html </URL>
+<DATE> 2003/12/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Fiber hatlarda arıza nedeniyle TRT yayınları kesildi 
+</HEADLINE>
+<TEXT>
+
+     Türkiye Radyo Televizyon Kurumu TRT , fiber hatlarından kaynaklanan bir arıza nedeniyle yayın yapamıyor. 
+     TRT ve Türk Telekomünikasyon A.Ş yetkilileri, fiber hatlarından kaynaklanan arıza nedeniyle saat 14.20'den itibaren TRT kanallarının yayınlarının kesildiğini bildirdi. 
+     Türkiye'nin hiçbir yerinde dijital ortamın dışında yayın akışı sürdürülemezken, arızanın giderilmesi için ekipler çalışmalarını sürdürüyor. 
+     
+</TEXT>
+</DOC>

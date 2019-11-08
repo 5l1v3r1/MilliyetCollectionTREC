@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 351446 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/13/son/sondun20.html </URL>
+<DATE> 2005/06/13/ </DATE>
+<TIME> 13.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Otosansüre Microsoft da katıldı... İşte 'yasak' kelimeler 
+</HEADLINE>
+<TEXT>
+
+     Çin'de Google ve Yahoo tarafından uygulanan otosansüre dünyanın bir numaralı yazılım firması Microsoft da katıldı. 
+     Microsoft'un kısa bir süre önce Çin'de devlet şirketi Shanghai Alliance Investment Ltd SAIL ile ortak yatırım halinde başlattığı yeni MSN portalında, kullanıcılar, bugünden itibaren ''demokrasi, özgürlük, insan hakları, Tayvan'ın bağımsızlığı veya gösteri'' kelimelerini kullanamayacaklar. 
+     Çin'de Google ve Yahoo gibi otosansür uygulayan Microsoft, yeni portalının arama motorunda bu kelimeleri yazan internet kullanıcılarına otomatik olarak başka bir kelime yazmaya davet ediyor. 
+     Pekin'deki Microsoft yetkilileri ise otosansür uygulaması konusunda konuşmak istemediler. 
+     Çin'deki Google ve Yahoo portallarının arama motorlarında uygulanan otosansür daha önce birçok kez ifade özgürlüğü savunucuları tarafından protesto edilmişti. 
+     Sınır Tanımayan Gazeteciler örgütü de Amerikan hükümetinden, internet şirketlerinin ''dünyanın baskıcı rejimleriyle işbirliğinin'' mesleki etiğe aykırı olduğunu savunarak, bu konuda yasa çıkarılması çağrısında bulunmuştu. 
+     
+</TEXT>
+</DOC>

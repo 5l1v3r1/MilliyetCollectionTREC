@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 310612 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/29/son/sonyas01.html </URL>
+<DATE> 2005/01/29/ </DATE>
+<TIME> 07.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD'de portakal bazlı plastik üretildi... 
+</HEADLINE>
+<TEXT>
+
+     ABD'de petrol kullanmaksızın plastik üretmeye çalışan Cornell Üniversitesi kimyagerlerinin, portakal ve benzeri narenciye kabuklarından faydalanarak doğal plastik üretmeyi başardığı bildirildi. 
+     Amerikan haber kanalı CNN'de çıkan haberde, araştırmacıların. ''polylimonene carbonate'' adlı yeni bir plastik üretmek için narenciye ve diğer bitki kabuklarında bulunan karbondioksit ve ''limonene oksit'' moleküllerinden faydalandığı kaydedildi. 
+     Cornell Üniversitesi kimya profesörlerinden Geoffrey Coates, limonene ve karbondioksidin çevrede bol miktarda bulunduğunu söyleyerek, ''Doğal plastik üretmek için bu küçük molekülleri ilk kez bir araya getirecek bir katalizör icat etmeyi başardık'' dedi. 
+     Narenciye kabuğundan plastik üretmek için izlenen kimyasal süreçte kullanılan katalizörde içinde az miktarda çinko bulunan bir bileşim olduğu ifade edildi. 
+     Limonene oksit, karbondioksit ve katalizörün birleştirilerek beyaz bir toz elde edildiği, bu tozun eritilerek normal plastikten üretilen bütün eşyalara dönüştürülebildiği ve atılabilir bardaklar üretilebildiği belirtildi. 
+     Araştırmacıların üretilen doğal plastiğin sıcak ve soğuğu tutma kapasitesini de test ettikleri ifade edilirken, portakal bazlı alternatif plastik konusundaki detayların Journal of the American Chemical Society dergisinde yayımlandığı kaydedildi. 
+     Buluşun narenciye sektörünün yan ürünlerinin değerlendirilmesi anlamında ekonomik açıdan büyük katkı sağlayacağı belirtilirken, üretilen portakal-bazlı plastiğin laboratuvar ortamından mağaza raflarına uzanan yolculuğunun uzun zaman alabileceği ifade edildi. 
+     
+</TEXT>
+</DOC>

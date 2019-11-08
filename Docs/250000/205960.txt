@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 205960 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/02/son/sondun08.html </URL>
+<DATE> 2004/01/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Çin'deki şüpheli SARS vakası kesinlik kazanıyor 
+</HEADLINE>
+<TEXT>
+
+     Çin'in güneyindeki Guangzhou kentinde geçen ay ortaya çıkan şüpheli SARS vakası kesinlik kazanmaya başladı. 
+     Yeni Çin Haber Ajansı, Guangdong eyaleti mikrobiyoloji laboratuarında yapılan gen sıralaması testlerinin 32 yaşındaki hastanın SARS olma olasılığının yüksek olduğunu gösterdiğini duyurdu. 
+     Çin'in resmi organları, söz konusu vakayla ilgili halen kesin bir ifade kullanmaktan kaçınıyorlar. 
+     Dünya Sağlık Örgütü DSÖ uzmanlarıyla Çinli yetkililer arasında söz konusu hasta ile ilgili olarak Çin dışında da test yapılması konusunda anlaşmaya varılmıştı. 
+     DSÖ sözcüsü Roy Wadia, Çin makamlarının açıklamasıyla ilgili yorum yapmazken, Hong Kong'daki testlerin de sonuçların ne zaman açıklanacağının henüz belli olmadığını belirtti. 
+     Söz konusu hasta, SARS şüphesiyle geçen 20 Aralık günü hastaneye yatırılmıştı. Bu, Temmuz ayından beri Çin'de görülen ilk şüpheli SARS vakası oldu. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 194803 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/11/son/soneko25.html </URL>
+<DATE> 2003/11/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayar demek haksızlık olur... Yeni Acer Aspire satışa çıkıyor 
+</HEADLINE>
+<TEXT>
+
+     Acer'in ev bilgisayarlarını eğlence merkezi haline getiren yeni Aspire modelleri RC900 ve RC500, bu ay içinde Türkiye pazarına sunulacak. 
+     İnfronic Bilgisayar Sistemleri tarafından pazara sunulacak olan ürün, şirketin Genel Müdürü Faik Burhanoğlu, sistem mühendisi Gökhan Uçok ve Ürün Müdürü Gonca Güleş'in katıldığı bir toplantıyla kamuouyuna tanıtıldı. 
+     Evlerdeki televizyon, video, radyo ve müzik gibi eğlence araçlarıyla bilgisayarı birleştirerek tek bir yerde toplayan model, eğlence merkezi olarak tanımlanıyor. 
+     Bilgisayarın yanı sıra televizyon, müzik, radyo, video gibi fonksiyonları bulunan üründe, bu fonksiyonlar arası geçişleri sağlamak için süper dial düğme bulunuyor. Geçişler, bekleme olmaksızın bilgisayar klavyesi veya uzaktan kumanda ile de rahatlıkla yapılabiliyor. Klavye ve mouse bilgisayardan bağımsız olarak kullanılabiliyor. 
+     Televizyon izlerken veya radyo dinlerken istenildiği zaman kayıt yapabilen RC900, ayrıca evde bulunulmadığı zaman herhangi bir programı kayıt etmesi için programlanabiliyor. 
+     Ürün, hem çoklu uygulamayı idare edebilmek hem de üstün performans için Intel Hyper-threading teknolojisini destekleyen 800 MHz'lik veri yoluna sahip Intel Pentium 4 işlemcisine sahip bulunuyor. 
+     
+     BÜYÜK EKRANLI OLAN 2.179 DOLAR 
+     İnfronic Genel Müdürü Faik Burhanoğlu, pazara sunacakları modeli birçok eğlence birimini bünyesinde topladığı için rakipsiz olarak niteleyerek, ''Buna bilgisayar demek haksızlık olur. Ürün, herşeyi uzaktan kumandayla ayarlayabildiğimiz bir eğlence merkezi'' dedi. 
+     İnfronic Ürün Müdürü Gonca Güleş de, Acer'in yeni Aspire modelleriyle ev bilgisayarlarını klasik bilgi işlem görevini yerine getiren bir makine olmanın ötesine taşıdığını belirterek, yeni modellere kullanım kolaylığını artırmak ve ev kullanıcılarının her türlü eğlence gereksinimi karşılamak için bütün ayrıntıların eklendiğini kaydetti. 
+     Birçok insanın evdeki farklı eğlence cihazlarının gerek kapladıkları yer gerek de farklı kumandalardan şikayetçi olduklarını ifade eden Güleş, bu nedenle cihazları tek bir üründe ve uzaktan kumandada toplayan yeni Aspire'a oldukça yoğun ilgi olmasını beklediklerini bildirdi. 
+     İlk etapta 300-400 tane ürün siparişi verdiklerini ve bu ay içinde ürünün Türkiye'ye gelmesiyle pazara sunulacağını belirten Güleş, Türkiye'ye gelecek yeni Aspire modellerinden RJ900'ün 2 bin 179 dolar, daha küçük bir ekrana sahip olan RJ500'ün ise bin 949 dolardan satışa sunulacağını bildirdi. 
+     
+</TEXT>
+</DOC>

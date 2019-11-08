@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 107421 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/09/13/son/soneko24.html </URL>
+<DATE> 2002/09/13/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Merkez Bankası kurları... 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası İdare Merkezi tarafından, saat 15.30'da belirlenen gösterge niteliğindeki döviz kurları şöyle 
+     
+     
+DÖVİZİN CİNSİ D.ALIŞ D.SATIŞ E.ALIŞ E.SATIŞ 1 ABD Doları 1,655,645 1,663,630 1,654,486 1,666,125 1 Avustralya Doları 911,363 917,326 907,171 922,830 1 Danimarka Kronu 218,739 219,816 218,586 220,322 1 İngiliz Sterlini 2,581,933 2,595,429 2,580,126 2,599,322 1 İsviçre Frangı 1,104,935 1,112,052 1,103,278 1,113,720 1 İsveç Kronu 174,819 176,638 174,697 177,044 1 Japon Yeni 13,766 13,857 13,715 13,910 1 Kanada Doları 1,046,008 1,050,736 1,042,138 1,054,729 1 Kuveyt Dinarı 5,438,896 5,510,3 5,357,313 5,593,191 1 Norveç Kronu 220,311 221,797 220,157 222,307 1 Sud. Arb. Riyali 442,778 443,576 439,457 446,903 1 Euro 1,624,684 1,632,520 1,623,547 1,634,969 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

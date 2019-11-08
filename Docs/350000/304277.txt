@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 304277 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/07/son/sondun07.html </URL>
+<DATE> 2005/01/07/ </DATE>
+<TIME> 08.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tüm dünya için tsunami erken uyarı sistemi 
+</HEADLINE>
+<TEXT>
+
+     Tsunamilere karşı dünya çapında erken uyarı sistemi kurulmasına ilişkin bir yasa tasarısı, yakında Amerikan Senatosu'na sunulacak. 
+     Tasarıyı hazırlayan Senatör Joseph Lieberman, ''Okyanus tabanındaki basınç değişikliklerini ölçen ucuz bir sistem olsaydı, Sri Lanka, Tayland ve diğer ülkelerde binlerce insan, dev dalgalardan zamanında haberdar edilebilecekti'' dedi. 
+     Dünya çapında tsunami uyarısında bulunacak bir sistemin eksikliğini giderebilmek için yasa önerisinde bulunduğunu belirten Lieberman, böyle bir sistemin maliyetinin, ancak 10 milyon dolar civarında olacağını kaydetti. 
+     ''Asya'da 146 bin kişinin öldüğünü ve milyarlarca dolarlık zarar meydana geldiğini göz önüne alırsak, bunun çok mütevazı bir yatırım olacağını görürüz'' diyen Senatör, sunacağı teklifin Senato'dan geçeceğine inandığını belirtti. 
+     Lieberman'ın hazırladığı kanun teklifine göre Pasifik, Hint ve Atlantik okyanuslarında oluşturulacak ve yerel sistemlerle eşgüdüm içinde çalışacak ölçüm merkezleri sayesinde, sahil şeritlerinde yaşayan milyonlarca insan, olası dev dalgalardan zamanında haberdar edilebilecek. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 357486 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/01/son/sonyas08.html </URL>
+<DATE> 2005/07/01/ </DATE>
+<TIME> 04.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Uzay mekği Discovery 13 Temmuz'da yolcu... 
+</HEADLINE>
+<TEXT>
+
+     Amerikan Havacılık ve Uzay Dairesi NASA , Columbia faciasının ardından ilk kez uzaya gönderilecek mekiğin, 13 Temmuz’da fırlatılmasının planlandığını resmen açıkladı. 
+     NASA yöneticilerinin mekiğin durumunu gözden geçirdikleri 2 günlük toplantının ardından bir açıklama yapan NASA Başkanı Michael Griffin, uzay mekiği Discovery’nin 13 Temmuz’da fırlatılması ve başarılı bir uçuş yapılması için hazırlıkların sürdüğünü söyledi. 
+     Discovery mekiğinin daha önce Mayıs ayında fırlatılması planlanmış ancak mekik yeni ve daha güvenli bir yakıt tankının takılması için fırlatma rampasından hangara geri götürülmüştü. 
+     Uzay mekiği Discovery’nin bu uçuşunda, Uluslararası Uzay İstasyonu’na UUİ 7 astronot ile malzeme götürmesi planlanıyor. Uzay yolculuğu sırasında Discovery’de onarılamayacak bir arıza meydana gelmesi durumunda astronotların UUİ’ye geçmesi ve son çare olarak Atlantis mekiği tarafından kurtarılmayı beklemesi öngörülüyor. 
+     NASA, Şubat 2003’te Columbia mekiğinin, uzaydan dönüş yolunda atmosferde parçalanması ve 7 astronotun hayatını kaybetmesinden bu yana hiç mekik seferi düzenlemedi. 
+     
+</TEXT>
+</DOC>

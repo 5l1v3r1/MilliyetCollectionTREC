@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 386072 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/12/son/soneko36.html </URL>
+<DATE> 2005/10/12/ </DATE>
+<TIME> 15.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Merkez Bankası Reel Kesim Güven Endeksi en yüksek noktada... 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası Reel Kesim Güven Endeksi, Eylül ayında bir önceki aya göre 3.5 puan artarak 101.2'den 104.7 seviyesine çıktı. 
+     Merkez Bankası, İktisadi Yönelim Anketi Reel Kesim Güven Endeksi'nin Eylül ayı sonuçlarını açıkladı. 
+     Endeks, 2005 yılı başından bu yana en yüksek değerini Eylül ayında aldı. Bir önceki yılın aynı dönemine göre karşılaştırma yapıldığında ise endeksin 3.5 puan gerilediği gözlendi. Endeks, 2004 Eylül ayında 108.2 seviyesinde idi. 
+     Endeksi oluşturan anket sorularına ait yayılma endeksleri Ağustos ayına kıyasla incelendiğinde, endeksi olumsuz yönde etkileyen tek kalemin üretim hacmi beklentisi olduğu, ancak bu olumsuzluğun bir kısmının mevsimsel etkilerden kaynaklandığı görüldü. 
+     Öte yandan, toplam sipariş eğilimi ve genel gidişat konusundaki görüşler, endeksi belirgin şekilde artırdı. Bunu sırasıyla, iç pazara satılan mal hacmi eğilimi, yatırım harcaması ve toplam istihdam beklentileri ile hammadde stok miktarı eğilimi takip etti. 
+     Ancak, toplam sipariş ve iç pazara satılan mal hacmi eğilimlerinde görülen artışta mevsimselliğin bir miktar katkısı oldu. 
+     İhracat imkanları beklentisi ile mamul mal stok miktarı eğiliminde ise önemli bir değişiklik olmadı. 
+     Bir önceki yılın Eylül ayına göre karşılaştırma yapıldığında ise, toplam istihdam beklentisi dışındaki alt kalemlerin tümünde azalış gözlendi. 
+     
+</TEXT>
+</DOC>

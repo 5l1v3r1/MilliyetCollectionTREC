@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 349359 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/06/son/soneko36.html </URL>
+<DATE> 2005/06/06/ </DATE>
+<TIME> 16.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+YTL, Mayıs'ta değer kazandı... 
+</HEADLINE>
+<TEXT>
+
+     Yeni Türk Lirası YTL , Mayıs ayında, bir önceki aya göre TÜFE bazında değer kazanırken, ÜFE bazında değer kaybetti. 
+     Merkez Bankası verilerine göre, 1995 100 TÜFE bazlı reel efektif döviz kuru Mayıs ayında, bir önceki aya göre yaklaşık yüzde 0.8 artarak 151.5'den 152.7'ye çıktı. 
+     Aynı dönemde 1995 100 ÜFE bazlı reel efektif döviz kuru da yüzde 0.2 gerileyerek 138.5'den 138.2'ye düştü. 
+     Bir başka deyişle, Yeni Türk Lirası, 2005 yılının Mayıs ayında TÜFE bazında yüzde 0.8 değer kazanırken, ÜFE'de ise yüzde 0.2 değer kaybetti. 
+     Öte yandan, YTL bir yıllık süre içinde TÜFE bazında yaklaşık yüzde 10.5, ÜFE bazında yüzde 6.3 değer kazandı. 
+     
+</TEXT>
+</DOC>

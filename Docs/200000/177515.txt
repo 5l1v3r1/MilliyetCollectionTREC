@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 177515 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/22/son/sontur24.html </URL>
+<DATE> 2003/08/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kısırlığın sebeplerinden birisi bulundu Protein eksikliği 
+</HEADLINE>
+<TEXT>
+
+     Erkek spermindeki bir protein eksikliğinin, döllenmeyi engelleyerek kısırlık nedeni olabildiği tesbit edildi. 
+     ABD'de Emory Üniversitesi'nde fareler üzerinde yapılan bir araştırmada, erkek farenin spermindeki bir protein eksikliğinin döllenmeyi engellediği belirlendi. 
+     Şimdiye kadar erkekteki kısırlığa, sperm yapısındaki hasar veya yeterli sayıda sperm salgılanmamasının neden olabildiği biliniyordu. Yeni araştırmayla erkekteki kısırlığın yeni bir nedenine daha ulaşıldığı bildirildi. 
+     Yeterli sayıda normal sperm salgılayan, ancak aynı zamanda kısır olan erkeklerde, kısırlığa SED1 protein eksikliğinin neden olabildiği düşünülüyor. 
+     SED1 proteinin döllenme sırasında yumurtanın dış yüzeyine bağlanarak normal döllenmeyi sağladığı, döllenmenin meydana gelmesi için spermlerin bu proteine ihtiyaç duyduğu kaydedildi. 
+     Fareler üzerinde yapılan araştırmada, SED1 proteinin yumurtaya bağlanarak döllenmeyi sağlayabildiği gözlendi. 
+     Laboratuvar ortamında yapılan araştırmada, SED1 proteini bulunmayan spermlerin yumurtayı tanıyamadığı ve döllenmenin sağlanabilmesi için yumurtaya bağlanamadığı gözlendi. 
+     Daha sonra SED1 protein eksikliği meydana getirilen farelerde, sperm sayısının ve spermlerin normal olması durumunda bile döllenmenin meydana gelmediği belirlendi. 
+     Uzmanlar, SED1 proteininin sperm ve yumurta arasında kritik bir rol oynadığını bildirdi. 
+     Sperm ve yumurta arasındaki bağlanmayla ilgili moleküler mekanizmanın anlaşılabildiğine işaret eden araştırmacılar, bu şekilde bazı erkeklerdeki kısırlık nedeninin daha iyi anlaşılabileceğini belirtti. 
+     Amerika'da her yıl 2.6 milyon insanın kısırlık tedavisi gördüğü, kısırlık tedavisi gören erkeklerin sayısının ise bu rakamın yüzde 40'ını meydana getirdiği biliniyor. 
+     Araştırma raporu, Cell dergisinde yayımlandı. 
+     
+</TEXT>
+</DOC>

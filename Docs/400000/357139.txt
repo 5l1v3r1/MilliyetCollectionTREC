@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 357139 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/30/son/sontur51.html </URL>
+<DATE> 2005/06/30/ </DATE>
+<TIME> 22.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türk Telekom, yeni hizmetlerini servise veriyor... 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekomünikasyon A.Ş, geniş bant internet hizmetlerinde getirdiği yenilikleri, yarından itibaren kullanıma açıyor. 
+     Türk Telekom’dan verilen bilgiye göre, Metro Ethernet, G.SHDSL ve Noktadan Noktaya Dial-Up internet servisleri, yarın müşterilerin kullanımına sunulacak. 
+     
+</TEXT>
+</DOC>

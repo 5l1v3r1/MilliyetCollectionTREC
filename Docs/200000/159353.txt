@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 159353 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/28/ekonomi/eko08.html </URL>
+<DATE> 2003/05/28/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tembel mühendisin icadı, akıllı yaşam sistemi oldu... 
+</HEADLINE>
+<TEXT>
+
+     Arçelik, kurumda çalışan ve makina testlerini laboratuvarda izlemek yerine, ofisinden oturarak izlemek için özel bir sistem kuran 'tembel mühendis'in buluşundan yola çıkarak 'akıllı yaşam' sistemi üretti. Ev dışından internet üzerinden veya telefondan sesle yönetilen 'akıllı yaşam' ürünleri sisteminde buzdolabı, çamaşır ve bulaşık makinesi ile klima bulunuyor. 
+     Hazirandan itibaren piyasaya çıkacak sistem ile ilgili bir basın toplantısı düzenleyen Arçelik Üretim ve Teknoloji Grup Direktörü Turgut Soysal, 11 milyar liraya malolan Akıllı Yaşam Projesi'ne nasıl başlandığını ise şöyle anlattı 
+     "İlk başlangıç, 1998'de bir tembel mühendisimiz tarafından yapıldı. Buna h l 'tembel mühendis olayı' deniyor... Bu arkadaşımız, laboratuvarda çalışırken test ettiği makinaların üzerine bir PC koymuş, sinyalleri PC'de değerlendirip izlerken sıkılıyor 'Burada durmaya mecbur muyum ' diyor. Şirketin internet altyapısına bir düzenekle girerek testleri ofisten izliyor. Laboratuvardaki test düzeneğinden bugünlere geldik. Beyaz eşya şirketiyken, bir elektronik şirketi haline geliyoruz." 
+     
+
+</TEXT>
+</DOC>

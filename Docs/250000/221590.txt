@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> 221590 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/11/son/sontur08.html </URL>
+<DATE> 2004/03/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borcunu ödemeyen abonenin elektriği 3 gün sonra kesilecek 
+</HEADLINE>
+<TEXT>
+
+     Elektrik faturasını zamanında yatırmayan tüketicinin, kendisine ihtarname gönderilmesinden sonraki 3 iş günü içinde de borcunu ödememesi durumunda elektriği kesilecek. 
+     Enerji Piyasası Düzenleme Kurulu, 1 Ocak 2004'ten geçerli olmak üzere TETAŞ ile iletim sistemine doğrudan bağlı tüketiciler arasındaki anlaşmaların uygulanmasına ilişkin usul ve esasları yeniden düzenledi. EPDK'nın Resmi Gazete'de yayımlanan kararı uyarınca, tüketicinin, TETAŞ tarafından fatura edilen tutarları zamanında ödememesi durumunda tüketiciye ihtarname gönderilecek. İhtarnamenin tebliğ tarihinden itibaren fatura bedeli 3 iş günü içinde ödenmezse TETAŞ tarafından TEİAŞ'a yapılan bildirim üzerine TEİAŞ tüketicinin elektriğini kesecek. 
+     
+     GÜVENCE BEDELİ 
+     TETAŞ ile iletim sistemine doğrudan bağlı bir tüketici arasında imzalanan enerji satış anlaşmasının sona ermesi veya feshi durumunda, tüketicinin tüketim bedelini ödememesi olasılığına karşı, borcuna mahsup edilmek üzere TETAŞ tarafından güvence bedeli talep edilebilecek. Her yılın ocak ayı içinde, bir önceki yılda müşterinin fatura dönemi itibarıyla ödediği faturalardan en yüksek bedele denk gelen faturadaki tüketim miktarına yeni yılda ocak ayı için belirlenen satış tarifesindeki birim fiyatlar uygulanarak bulunan toplam fatura bedelinin 1.5 katı güvence bedeli olarak belirlenecek. Tüketiciler güvence bedeli olarak, nakit veya süresiz banka kati teminat mektubu verebilecekler. 
+     Aylık elektrik enerjisi tüketim bedelini yılda 3 kez zamanında ödemeyen tüketicilerin mevcut güvence bedeli yüzde 25 oranında arttırılacak. Elektrik enerjisi satış 
+     anlaşmasının feshi veya sona ermesi durumunda nakit güvence bedelleri güncelleştirilecek ve tüketicinin TETAŞ ile olan bütün hesaplarının tasfiyesinden sonra varsa kalanı, 3 iş günü içinde ödenecek. 
+     
+     ELEKTRİK ENERJİSİNİN KULLANILMASI 
+     Elektrik enerjisini onaylı elektrik projesine uygun olarak, anlaşmasındaki esaslara göre kullanacak tüketici, bunu ait olduğu abone grubu dışında kullanamayacak, diğer tüketicilere kullandıramayacak. 
+     
+     KESME-BAĞLAMA 
+     Kaçak veya usulsüz elektrik enerjisi tüketiminde bulunan veya ödeme yükümlülüğünü yerine getirmeyen bir tüketicinin elektrik enerjisinin TEİAŞ tarafından kesildiği durumlarda, söz konusu tüketicinin yükümlülüklerini yerine getirip, anlaşma koşullarına aykırı durumunu da düzeltmesi ve TEİAŞ'a kesme-bağlama bedelini peşin olarak ödemesi durumunda elektrik enerjisi yeniden bağlanacak. 
+     
+     KAÇAK ELEKTRİK TÜKETİMİ 
+     Kişilerce iletim sistemi, sayaç veya ölçüm sistemine ya da tesisata müdahale edilerek, elektrik enerjisinin eksik veya hatalı ölçülmesi veya hiç sayaçtan geçirilmeden tüketilmesi olan kaçak elektrik tüketiminin tespitinde, TEİAŞ'ın bunu doğru bulgu ve belgelere dayandırması ve tüketici haklarının ihlal edilmemesi esas olacak. TEİAŞ, kaçak elektrik tükettiği saptanan kişilerin elektriğini keserek TETAŞ'a yazılı olarak bilgi verecek. Bu konudaki yasal işlemler TETAŞ tarafından yürütülecek. Kaçak elektrik enerjisi tüketim bedeli, ölçüm ve kontrol sonuçlarına göre düzenlenen belgelere dayanılarak hesaplanacak, kullanım süresi ve bu süre içinde tüketilen elektrik enerjisi miktarı dikkate alınarak TETAŞ tarafından tahakkuk ettirilecek. 
+     
+     USULSÜZ TÜKETİM 
+     Usulsüz enerjisi tüketim sayılan durumlar şöyle sıralandı 
+     "Tüketicinin ölçme noktasından sonraki kendi elektrik tesisatından üçüncü kişilere elektrik enerjisi vermesi, kendi adına enerji satış anlaşması olmadan daha önceki tüketici adına düzenlenen faturaları ödeyerek veya sayaç ve ölçü devreleri mühürsüz olduğu halde TEİAŞ'a haber vermeden elektrik tüketmesi, enerji satış anlaşmasının imzalanmasından sonra TEİAŞ tarafından bağlantı anlaşması çerçevesinde yapılması gereken bağlantı işleminin tamamlanmasını beklemeksizin bağlantı yapması veya yaptırması, TETAŞ'a yapılmış bir başvuru olmaksızın, bulunduğu abone grubunun kapsamı dışında elektrik enerjisi tüketmesi, güç transformatörünü değiştirdiği halde ilgili mevzuat çerçevesinde yükümlülüklerini yerine getirmemesi, TETAŞ ile elektrik enerjisi satış anlaşması imzalamadan elektrik enerjisi kullanılması." TEİAŞ tarafından, usulsüz elektrik enerjisi kullandığı saptanan tüketicinin elektriği kesilecek ve durum TETAŞ'a yazılı olarak bildirilecek. Tüm kaçak kullanımlara ilişkin hesaplamalar tek terimli aktif enerji tarifesi üzerinden yapılacak. 
+     
+     SAYACIN YERİ 
+     Sayaç ve ölçüm sisteminin yeri, ilgili mevzuat çerçevesinde TEİAŞ tarafından belirlenecek. Sayaçlar, kolayca okunabilecek şekilde kurulacak. 
+     Sayacın, tüketicinin kusuru dışında herhangi bir nedenle tüketim kaydetmediğinin tespit edilmesi durumunda, bu döneme ait faturalamaya esas tüketim miktarı, sayaç çalışır duruma getirildikten sonra tüketicinin faturalamaya esas iki tüketim dönemine ait tüketimleri ile sayacın tüketimi doğru kaydettiği en son geçmiş iki tüketim dönemine ait tüketimlerinin ortalaması alınarak hesaplanacak. 
+     
+</TEXT>
+</DOC>

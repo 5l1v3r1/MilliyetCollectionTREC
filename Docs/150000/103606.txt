@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 103606 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/08/23/son/sontur09.html </URL>
+<DATE> 2002/08/23/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternette "cehennem" tuzağı var.. 
+</HEADLINE>
+<TEXT>
+
+     İnternette faaliyet gösteren ''www.cehennem.org'', Türk internet kullanıcılarına e-posta yoluyla tuzak kurarak, şifrelerini alıyor. Kurban sayısı ve isimlerini yayınlayan sitenin, bu yolla 10 bine yakın Türk internet kullanıcısının şifresini ele geçirdiği belirtildi. 
+     Türk İnternet Birliği Kurucu Üyesi Hakan Topuzoğlu, günlük yaşamın bir parçası olan internetin beraberinde birçok tehlikeyi de getirdiğini kaydetti. 
+     Son olarak Türk internet kullanıcılarının www.cehennem.org adresli sitenin kurbanı olmaya başladıklarını belirten Topuzoğlu, Hotmail, Yahoo, Turkcell gibi e-posta sağlayıcılarından adres alan kullanıcıların ''size kart var'', ''Çarkıfelek'e katılma şansı'', ''hesabınızı aktif yapın'' gibi başlıklarla gelen e-postaları açmaları durumunda şifrelerini kaptırdıklarını bildirdi. 
+     Topuzoğlu, 6 gün önce bu uygulamaya başlayan sitenin kurban sayısının bugün 10 bine yaklaştığını belirterek, ''Bu site kurban listesini ve kimi, nasıl kurban ettiğini yayınlamaya başladı. İşin kötü tarafı, bugüne kadar 2 bin civarında kişi şifresinin ele geçirildiğinin farkında'' dedi. 
+     Topuzoğlu, güvenliği kesin olmayan e-postaların açılmaması ve şifrenin yeniden girilmesi yolundaki isteğin yerine getirilmemesi gerektiğini kaydederek, şunları söyledi 
+     ''O kadar profesyonelce hareket ediyorlar ki, örneğin Hotmail logosu ve tasarımını birebir yaparak kullanıcıyı aldatıyorlar. Şifresini yeniden giren kişi, kısa sürede şifresini değiştirmezse gelen mesajları okunabiliyor ya da adreslerinden posta gönderilebiliyor.'' 
+     
+     ''LAMELER'' HOTMAİL ŞİFRELERİNE MERAK SARDI 
+     Türk İnternet Birliği Kurucu Üyesi Cemil Alpay Sünnetçi de, hackerlere özenen ve ''lame'' adı verilen kişilerin Hotmail kullanıcılarının e-posta şifrelerini ele geçirdiklerini söyledi. 
+     Hotmail'e gelen bir e-posta açıldığında sayfadan çıkış yapıldığına ilişkin bir uyarı metni geldiğini ve şifrenin yeniden girilmesinin istendiğini belirten Sünnetçi, şunları anlattı 
+     ''Web sayfası olarak gelen bu uyarı, Hotmail'in arabirim sayfası şeklinde geldiği için kolayca aldanılıyor. Sayfada yeralan parola bölümüne şifrenizi yazdığınızda önce lameye sonra da Hotmail'e gönderiliyor. Bunun ardından işlemlerinize kaldığınız yerden devam edebiliyorsunuz. Şifrenizi ele geçiren kötü niyetli bu kişiler, ya şifrenizi değiştiriyor ya da hiçbirşeyden haberiniz olmadığı için sizin e-postalarınızı gizlice okuyor. Eğer böyle bir olayla karşılaşırsanız, şifrenizi kesinlikle yeniden girmemelisiniz. Girmişseniz ve şifreniz değiştirilmişse de eğer hatırlatma sorunuz değişmemişse değişen şifreyi yeniden öğrenebilirsiniz.'' 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

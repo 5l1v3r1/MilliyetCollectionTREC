@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 211222 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/26/son/sondun28.html </URL>
+<DATE> 2004/01/26/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Mars'ta Beagle'dan henüz ses yok 
+</HEADLINE>
+<TEXT>
+
+     Mars gezegenine aralıkta indirilen Avrupalı robot Beagle-2'nin, yeni bağlantı girişimlerine karşın sessizliğini koruduğu bildirildi. 
+     Proje sorumlusu Colin Pillinger, düzenlediği basın toplantısında, Noel günü Mars'a indiği ''varsayılan'' robot Beagle ile hafta sonunda yeniden bağlantı kurmaya çalıştıklarını, ama çabaların sonuçsuz kaldığını kaydetti. 
+     Mars'ta yaşam izi araştıracak Beagle-2 robotu, Noel'de Mars yüzeyine indirildikten sonra Dünyaya sinyal göndermedi. O nedenle robotun nereye indiği de anlaşılamadı. 
+     Amerikalılar ise Beagle'dan sonra Mars'a iki robot indirmeyi ve robotlarla bağlantı kurmayı başardı. 
+     
+</TEXT>
+</DOC>

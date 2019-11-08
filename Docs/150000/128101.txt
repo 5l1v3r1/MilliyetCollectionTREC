@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 128101 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/31/son/soneko20.html </URL>
+<DATE> 2003/12/31/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı 240 puanlık artışla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi, önceki kapanışa göre 239.93 puan artışla 1. seansı 18,532.85 puandan tamamladı. 
+     Günün ilk seansında hisse senetlerinin ortalama değer artışı yüzde 1.31 olarak gerçekleşti. 
+     Dün 18,292.92 puandan kapanan Borsa, 1. seansa 12.42 puan artışla 18,305.34 puandan başladı. İlk yarıyı 18,456.06 puandan geçen endeks, seans içinde önceki kapanış değerinin altına düşmezken, en yüksek olarak 18,656.97 puanı gördü. 
+     Seans sonunda mali endeks 389.08 puan artışla 25,453.90 puana, sanayi endeksi 186.93 puan artışla 16,253.92 puana, hizmetler endeksi 84.07 puan artışla 9,895.45 puana yükseldi. 
+     Böylece, önceki kapanışa göre mali grup hisseler ortalama yüzde 1.55, sanayi grubu hisseler ortalama yüzde 1.16, hizmetler grubu hisseler de ortalama yüzde 0.86 değer kazandı. 
+     1. seansta işlem gören toplam 286 hisse senedinden 204'ü değer kazanırken, 27 hisse senedi değer kaybetti, 55 hissenin fiyatında değişiklik olmadı. 
+     Seansta, 333 trilyon 883 milyar 85 milyon liralık işlem hacmi oluştu. 
+     1. seansta, Yapı Kredi Bankası, Doğan Holding, İş Bankası C , Sabancı Holding ve Akbank en yoğun işlem gören hisseler oldu. 
+     Endeksin yılın son işlem gününde rakamsal açıdan güçlü bir kapanış yapma çabası içerisinde olduğunu ifade eden borsa uzmanları, düşük işlem hacmine karşın yükseliş yönündeki hareketin devam ettiğini kaydediyor. 
+     
+</TEXT>
+</DOC>

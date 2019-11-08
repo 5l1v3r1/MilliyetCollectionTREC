@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 318671 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/25/son/sonyas10.html </URL>
+<DATE> 2005/02/25/ </DATE>
+<TIME> 11.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+'Çocuğum hız yapma' demek tarih oluyor 
+</HEADLINE>
+<TEXT>
+
+     ABD'de üretilen ve kullanılan, İngiltere'de de yakın zamanda satışa sunulması beklenen bir cihaz sayesinde, anne-babalar otomobil kullanan çocuklarının hız yapıp yapmadığını kontrol edebilecek. 
+     RS-1000 adlı cihaz, aracın hem bilgisayar ekranında harita üzerinde takip edilmesini sağlıyor, hem de uçaklardaki karakutu görevini yerine getiriyor. 
+     Böylece aracı kullanan kişinin hız yapıp yapmadığı tespit edilebiliyor. 
+     Cihazın ABD'deki araçların yüzde 15'ine takıldığı ve talebin giderek arttığı belirtiliyor. 
+     İngiltere'de satış fiyatının 132 ile 260 sterlin arasında olması beklenen cihazın bir diğer özelliği, aracı kullanan kişinin hız yapması halinde, ekranın başında oturan kişiye otomobilin durduğu bir anda motoru immobilizer'ı devreye sokarak bloke etme şansı tanıması. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 341040 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/09/son/sonyas07.html </URL>
+<DATE> 2005/05/09/ </DATE>
+<TIME> 11.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Telgraf mı hızlı kısa mesaj mı 
+</HEADLINE>
+<TEXT>
+
+     Cep telefonları sayesinde kısa mesaj hayatın doğal bir parçası oldu. Aynı amaçla 1832'den 1997'ye kadar kullandığımız telgrafsa neredeyse unutulmaya yüz tuttu. Avustralya Powerhouse Müzesi tarafından yapılan bir yarışmaysa bu eski dostu yeniden hatırlattı. Aynı metnin cep telefonu ve telgraf tarafından yazılıp yollanmasını temel alan yarışmada 1927'den bu yana postanede çalışan 93 yaşındaki telgraf memuru Gordon Hill ile kısa mesaj hız şampiyonu 13 yaşındaki Brittany Devlin karşılaştı. Devlin mesajı kısaltarak, Hill ise aynen olduğu gibi yazdı. Yarışmayı telgraf 13 saniyelik açık ara farkla kazandı. 
+     Samuel Morse tarafından 1832 yılında geliştirilen mors, o dönemin tek uzaktan ileşitim aygıtı olan telgrafın iletişim yolu. İngiliz dilindeki karakterlerden oluşan mors aynı zamanda ilk kıtalararası iletişimi de mümkün kılmıştı. Cep telefonlarıyla birlikte yaygınlaşan SMS hizmetiyse elektronik posta ve hızlı mesajla yarışta ipi göğüslüyor. Yapılan son sektörel istatistiklere göre her gün cep telefonu aboneleri birbirine 2 milyar mesaj yolluyor. 
+     
+</TEXT>
+</DOC>

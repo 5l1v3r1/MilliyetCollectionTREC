@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 395592 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/16/son/sonyas10.html </URL>
+<DATE> 2005/11/16/ </DATE>
+<TIME> 09.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternet kime emanet 
+</HEADLINE>
+<TEXT>
+
+     BBC 
+
+      İngiliz Independent gazetesi, bugünkü manşetini Tunus'ta başlayan ve internetin geleceğinin tartışılacağı üst düzey uluslararası konferansa ayırdı. Gazete konferansta ifade özgürlüğü ya da sansür konulu tek bir seminer bile olmamasını eleştiriyor. 
+     
+     Adres dağıtmayı yine Bush mu alacak 
+     En büyük tartışmalarınsa, internetin denetimi konusunda yaşanacağını kaydediyor 
+     "Halen internetin yöneticisi sıfatına en çok yaklaşan kurum, Amerikalı Icann. Internet adreslerini dağıtan bu yarı-bağımsız kuruluşun kontratı dolmak üzere. Dünyanın zenginleri ve güçlüleri de ticari açıdan bir altın madeni olarak gördükleri bu göreve göz dikmiş durumda. 
+     Bush yönetimi, Icann'in özel bir şirkete dönüştürülerek kendi topraklarında ve denetiminde kalmasını istiyor. Dünyanın geri kalanıysa buna itiraz ediyor... Icann kuruluşunun işi teknik gibi görünebilir ama aslında tek bir kararıyla bütün bir ülkenin adres sistemini, örneğin '.co.uk' ile biten tüm adresleri bloke edebilecek güçte. 
+     Fakat Icann'in gücünü bugüne dek kötüye kullanmadığına, teknik kaldığına dikkat çeken savunucuları, alternatifinin çok daha kötü olabilceğini savunuyor. İnternetin denetiminin BM çatısı altında uluslararası bir kuruluşa verilmesini isteyenlerin başını, sansürcü ülkeler çekiyor. Sınır Tanımayan Gazeteciler Örgütü'nden Julian Bein, 'Çin, İran ve Küba gibi ülkeler, internetin yönetiminden nasıl sorumlu olabilir ' diye soruyor." 
+     
+</TEXT>
+</DOC>

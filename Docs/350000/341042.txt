@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> 341042 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/09/son/sonyas09.html </URL>
+<DATE> 2005/05/09/ </DATE>
+<TIME> 11.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Google ile hızlan may ın 
+</HEADLINE>
+<TEXT>
+
+     Arama motoru Google kullanıcıların web sayfalarını daha hızlı görüntülemesini sağlayan bir yazılımı dağıtmaya başladı. Ücretsiz yazılımın temeli açmak istediğiniz sayfanın o siteninki yerine Google'ın ön belleğinden cache alınması. ADSL kullanıcılarına yönelik Google Accelerator adlı bu yazılım İnternet Explorer ve Firefox ile çalışabiliyor ve şu an sadece Amerika ve Avrupalı kullanıcılara hizmet veriyor. Ne var ki birçok Google hizmeti gibi Accelerator'a da kişisel bilgilerin mahremiyetini koruyan gruplar savaş açtı. Önbellekten gelen veriler arasında şifreli sayfaların ve kişisel mesajlarının da olduğuna dikkat çeken uzmanların iddialarına karşı Google en kısa zamanda bir güncelleme yaparak bu açığı kapatacağını açıkladı. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 316064 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/17/son/soneko14.html </URL>
+<DATE> 2005/02/17/ </DATE>
+<TIME> 11.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türkiye'de uydu telefon kullanımı yaygınlaşıyor... 
+</HEADLINE>
+<TEXT>
+
+     Uydu üzerinden mobil iletişim hizmeti sunan Thuraya'nın Denizcilik Ürünleri Müdürü Gleb Larionov, dünyada 230 bin, Türkiye'de yaklaşık 4 bin Thuraya uydu tabanlı cep telefonu aboneleri bulunduğunu bildirdi. 
+     Thuraya hizmet ve ürünlerinin tanıtıldığı İstanbul'daki Boat Show Fuarı'nda soruları yanıtlayan Gleb Larionov, merkezi Birleşik Arap Emirlikleri'nde BAE olan Thuraya şirketinin 2 uydusu ile sesli iletişimin yanında data aktarabildiğini, faks gönderebildiğini ve sistem üzerinden internete girilebildiğini söyledi. 
+     Greb Larionov, Thuraya uydu tabanlı cep telefonlarının diğer cep telefonlarından farkının baz istasyonunun uyduda olmasından kaynaklandığını belirterek, ''Uydudan 120 ülkeyi kapsayan bir sistem. Tüm dünyayı GSM teknolojisi ile kapsayabilmek ekonomik bir çözüm değil. O nedenle uydu çözümleri en ekonomik çözüm haline geliyor'' dedi. 
+     İstanbul'daki fuara denizcilik çözümlerini anlatmak için katıldıklarını dile getiren Larionov, ''Türkiye denizcilikte çok iyi bilinen bir ülke. Üç tarafı denizlerle çevrili olan Türkiye'de balıkçılar, yolcu gemileri için tek çözüm uydu iletişimleri. O nedenle önemli bir potansiyel'' diye konuştu. 
+     Larionov, dünyada 230 bin, Türkiye'de 4 bin civarında uydu tabanlı cep telefonu aboneleri bulunduğunu, cihaz fiyatlarının da cep telefonu fiyatında olduğunu belirtti. 
+     Gleb Larionov, amaçlarının GSM ile rekabet etmek olmadığını, Thuraya kullanıcılarının genelde GSM kapsama alanlarının dışına çıkan, oralarda iş yapan, denizde ve çölde petrol arayanlar, inşaatçılar, nakliyeciler olduğunu, silahlı kuvvetler ve emniyet güçlerinin de hedef kitleleri içinde yer aldığını söyledi. 
+     Larionov, ''Türk işadamlarının en bilinen yönü cesur ve atak olmaları. Türkiye'nin dışında da çeşitli yatırımları var. Bu yüzden kesintisiz iletişim sağlamaları önemli'' dedi. 
+     BAE'deki Thuraya'nın ana hissedarı Etisalat'ın Türk Telekom'un özelleştirilmesiyle ilgili hazırlık yapan konsorsiyumların içinde bulunduğuna işaret eden Larionov, bunun Türk pazarının potansiyelinin ne kadar önemli olduğunu gösterdiğini kaydetti. 
+     
+     ''TURKCELL'İN ARDINDAN AVEA VE TELSİM İLE TEMASTAYIZ'' 
+     Dedeman Topluluğu bünyesinde faaliyet gösteren Thuraya Türkiye'nin Genel Müdürü Hakan Çelikoğlu da özellikle Türkiye'nin önde gelen bankaları, uluslararası şirketleri, afet koordinasyon merkezleri ve elçiliklerin afetlere, depreme karşı kesintisiz iletişim sağlayan Thuraya uydu telefonlarını aldığına işaret etti. 
+     Çelikoğlu, ''Türkiye'deki uluslararası firmaların ilgisi tsunaminin depremi hatırlatmasıyla son dönemlerde daha yoğunlaştı. Özellikle büyük, örgütlü, afete karşı önlem alma prensibi olan organize şirketler uydu telefonu alıp kullanıyor'' dedi. 
+     Turkcell ile uluslararası dolaşım konusunda imzaladıkları işbirliği anlaşmasının devam ettiğini belirten Çelikoğlu, ''Avea ve Telsim ile de bu konuda temasımız var. Onlarla da bağlantıyı yapacağız'' diye konuştu. 
+     Verilen bilgiye göre, Thuraya mobil uydu telekomünikasyon sistemleri Avrupa, Hindistan, Ortadoğu, Orta Asya, Kuzey ve Orta Afrika bölgelerini kapsayan 99 ülkeye hizmet vermek üzere 21 Ekim 2000 tarihinde hizmete girdi. 
+     Thuraya, ses, data, faks, kısa mesaj ve küresel konum belirleme GPS servisleri sunuyor. Çift modlu cep ve araç telefonları ile GSM ve uydu hizmetleri sağlanıyor. 
+     
+</TEXT>
+</DOC>

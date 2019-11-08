@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 223880 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/19/son/sonyas15.html </URL>
+<DATE> 2004/03/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yapay kanla yapılan testler başarılı... 
+</HEADLINE>
+<TEXT>
+
+     Amerikalı bilim adamları tarafından geliştirilen yapay kanla yapılan testler başarılı sonuç verdi. 
+     New Scientist dergisinde yayımlanan habere göre, MP4 adı verilen yapay kanı üreten San Diego'daki Sangart şirketi, testlerin İsveç'te 20 kişi üzerinde denendiğini ve olumlu sonuç alındığını açıkladı. 
+     Haberde, daha önce hayvanlar üzerinde yapılan deneylerde, kan kaybında yapay kanın normal kandan bile etkili olduğunun tespit edildiği hatırlatıldı. 
+     Yapay kanın, polietilenglikol PEG kaplı hemoglobin moleküllerinden oluştuğunu ve toz halinde olduğunu kaydeden bilim adamları, senelerce saklanabilen yapay kanın, trafik kazası gibi acil durumlarda, tozun özel bir sıvıyla karıştırılarak hazır hale getirildiğini belirttiler. 
+     Bilim adamları, yapay kan verilmeden önce hastanın kan grubunun belirlenmesine gerek olmadığını söylediler. 
+     
+</TEXT>
+</DOC>

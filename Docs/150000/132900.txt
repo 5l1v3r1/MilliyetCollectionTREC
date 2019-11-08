@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 132900 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/01/24/son/soneko17.html </URL>
+<DATE> 2003/01/24/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seans kapanış... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi, önceki kapanışa göre 169.61 puan düşerek, 1. seansı 10,712.27 puandan tamamladı. 
+     Hisse senetlerinin ortalama değer kaybı yüzde 1.56 olarak gerçekleşti. 
+     Açılışın ardından 10,800 bölgesinde tutunmaya çalışan endeks, daha sonra artan satış baskısıyla 10,650 puan seviyelerine kadar geriledi. 
+     Seans boyunca yaklaşık 250 puanlık bir bantta yatay seyreden endeks, 58.84 puanlık düşüşle 10,823.04 puan seviyesinden açılış yaptı. Endeks, seansın ilk yarısını 206.56 puan düşüşle 10,675.32 puandan geçerken, 169.61 puan ve yüzde 1.56 düşüşle 10,712.27 puandan seansı tamamladı. 
+     Endeks, seans içinde en düşük 10,626.65 puana gerilerken, bir önceki seans kapanış seviyesi olan 10,881.88 puanın üstüne çıkamadı. 
+     Seans kapanışında mali endeks 229.41 puan düşüşle 13,086.16 puana, sanayi endeksi 98.68 puan düşüşle 10,425.17 puana ve hizmetler endeksi 151.98 puan düşüşle 7,114.07 puana geriledi. 
+     Böylece, önceki kapanışa göre mali grup hisseler ortalama yüzde 1.72, sanayi grubu hisseler ortalama yüzde 0.94 ve hizmetler grubu hisseler ortalama yüzde 2.09 oranında değer yitirdi. 
+     İşlem gören toplam 281 hisse senedinden 152'si değer yitirirken, 62 hisse senedi değer kazandı, 67 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta, 145 trilyon 808 milyar 517 milyon liralık işlem hacmi oluştu. 
+     Garanti Bankası, Turkcell, İzdemir, Doğan Holding ve Sabancı Holding en yoğun işlem gören hisseler oldu. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

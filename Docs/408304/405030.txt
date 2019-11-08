@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 405030 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/20/son/soneko32.html </URL>
+<DATE> 2005/12/20/ </DATE>
+<TIME> 13.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Üst seviye alan adı sistemini Unifiedroot yönetecek 
+</HEADLINE>
+<TEXT>
+
+     Web sitesi adreslerinde .com, .net gibi uzantıları kullanmadan adres almayı sağlayan ''üst seviye alan adı sistemi'' Top Level Domain-TLD , Unified Identity Technology UNIDT şirketi tarafından Unifiedroot'a satıldı. 
+     Sistemde yaşanan yönetim değişikliğini duyurmak amacıyla düzenlenen basın toplantısında konuşan Türkiye Bilişim Derneği TBD Başkanı Turhan Menteş, TBD'nin 6 ay önce Hollanda firması UNIDT ile TLD konusunda işbirliği anlaşması imzaladığını anımsattı. 
+     İnternet teknolojisinin belli sistemler tarafından yönetildiğini belirten Menteş, TLD sistemin farklı bir yapıyı beraberinde getirdiğini kaydetti. 
+     Sistemin tamamen yeni olduğunun altını çizen Menteş, bunun bir alternatif gibi düşünülemeyeceğini söyledi. 
+     Sistemle internette .com, .net, .org ve .tr gibi alan ve ülke kısaltmaları yerine, isteyen kurum ve kuruluşların kendi isimlerini alan adı olarak kullanabileceğini ifade eden Menteş, sistemin aynı şekilde Unifiedroot tarafından satın alındığını kaydetti. 
+     Unifiedroot Genel Müdürü Erik Seebodt ise, kurumların ve bireylerin kolay anlaşılır internet adreslerine sahip olmaları amacıyla 18 Avrupa ülkesinde gerçekleştirilen tanıtım sonrası tüm dünyada hizmet vermeye başladıklarını söyledi. 
+     Çok yeni bir şirket olmalarına rağmen dünya çapında çok olumlu tepkiler aldıklarını ifade eden Seebodt, ilk günden binlerce sipariş talebiyle karşılaştıklarını belirtti. 
+     Hedeflerinin, açık alan inisiyatifini yaygınlaştırmak olduğunu dile getiren Seebodt, herkesin kendi şirket adıyla adres sahibi olmasını istediklerini söyledi. 
+     Çok sayıda ortak ile çalıştıklarını, sistemlerine değer katacak bütün fikirlere önem verdiklerini ifade eden Seebodt, ''Yenilikçi özelliklerimizle dünya çapında ön plana çıkmayı amaçlıyoruz. Ortaklarımız giderek artıyor. Bu anlamda Türkiye ile de yakın işbirliği içinde çalışmayı umuyoruz'' diye konuştu. 
+     
+</TEXT>
+</DOC>

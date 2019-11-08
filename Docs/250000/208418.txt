@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 208418 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/13/son/sontur19.html </URL>
+<DATE> 2004/01/13/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Telekom, internet bağlantılarındaki arızanın giderildiğini duyurdu 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekomünikasyon A.Ş, internet erişiminin sağlandığı SEA ME WE3 uluslararası denizaltı fiber optik kablosu üzerindeki problemi giderdi. 
+     Türk Telekom'dan yapılan açıklamaya göre, arızalı olan kablonun yeniden servise verilebilmesi amacıyla bu gece tüm kablolar üzerinde çalışma yapılacak. Bu nedenle saat 22.00'den itibaren 3 saat süreyle arızalı olan hatların yanı sıra SEA ME WE3 üzerinde yer alan 622 622 Mbps kapasite de devre dışı kalacak ve yurtdışı internet çıkış kapasitesi 775 Mbps'ye düşecek. 
+     Çalışmaların tamamlanmasının ardından saat 01.00'dan iitibaren kesik olan tüm kapasiteler devreye alınacak ve toplam 2.329 2.019 Mbps yurtdışı internet kapasitesi aktif olarak hizmet verecek. 
+     Uluslararası fiber optik kablosunda 4 Ocak'ta meydana gelen arıza öncesinde Türkiye'nin toplum yurtdışı çıkış kapasitesi 1.709 1.554 Mbps düzeyinde bulunuyordu. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 214221 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/10/yazar/uras.html </URL>
+<DATE> 2004/02/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Güngör URAS  </AUTHOR>
+<HEADLINE>
+TL 'biraz fazlaca' değer kazandı 
+</HEADLINE>
+<TEXT>
+
+   
+   Dün dolar 1.348.000 liradan, euro 1.713.000 liradan işlem görüyordu... Bu rakamlara bakanlar ve de dolar ve euro fiyatının uzun süredir değişmediğini fark edenler bu işte bir anormallik hissediyor da... Neyin ne olduğunu anlayan ve anlatan yok. 
+   Bu konuda neyin ne olduğunu gösteren ve neyin ne olduğunu anlamaya yardımcı olabilecek tek bir gösterge var. O da Merkez Bankası'nın "reel efektif döviz kuru endeksi"dir. 
+   Merkez Bankası 1995 yılındaki döviz sepetinin ortalama fiyatını 100 kabul etti. 1996 yılının Ocak ayından bu yana, Türkiye'de TEFE ve TÜFE fiyat artışlarından, Türkiye'nin ilişkide bulunduğu ülkelerdeki ortalama fiyat artışını düşüyor. Ve de fiyat artışlarına göre, 1995 yılında ortalama 100 olan döviz sepetinin o ay için ne olması gerektiğini hesaplıyor. 
+   Reel döviz kuru endeksi 100 olur ise, bu demek ki, ülkede döviz sepetinin değeri dolar ve euronun fiyatı enflasyona paralel olarak gidiyor. Eğer endeks 100'den az ise mesela 90 ise demektir ki, dolar ve euro fiyatı olması gereken rakamın üzerine çıkmış. Pahalılanmış. Eğer endeks 100'ün üzerinde ise, örneğin 110 ise, demektir ki, Türk lirası değerlenmiş. Dolar ve euro olması gereken fiyattan daha ucuza satılıyor. Dolar ve euronun normal fiyata satılabilmesi için fiyatlarının yüzde 10 dolayında artması gerekir. 
+   Bir ülkede ekonomi güçleniyor ise, bir ülkenin iç ve dış borcu yok ise, döviz geliri giderinden fazla ise, döviz rezervi güçlü ise, o ülkenin parası değerlenebilir. Ama bizim gibi Türk lirası ve döviz bütçesi açık veren, zor ile borcunu çeviren, yatırımları ve üretimi durmuş durumdaki bir ülkede Türk lirasının devamlı olarak değer kazanması normal bir durum değildir. 
+   Belli bir dönemde Türk lirası aşırı değer kazanabilir. Bir süre sonra bu aşırılığın bir şekilde dengelenmesi gerekir. Eskiden bu dengeleme devalüasyon ile Ankara tarafından yapılırdı. Günümüzde Türk lirası dalgalanmaya bırakıldığından, bu dengeleme bir gün piyasada kendiliğinden olacak... 
+   Neden dengeleme olacak Aşağıdaki tabloya bakınız. Türk lirasının TÜFE'ye karşı reel kur endeksi göstergesi 2003 yılı Ocak ayında 119.2, aralık ayı sonunda 140.6 iken, 2004 Ocak ayı sonunda 146.8 olmuş. TEFE'ye karşı endeks 133.2 gibi yüksek bir çizgide... 
+   Geçmişte, "kur çapası" uygulanırken de Türk lirası değer kazanmıştı. Reel efektif kur endeksi 2001 yılı Ocak ayında TÜFE'ye göre 118.1, TEFE'ye göre 148.1 olmuş, ardından şubat krizi çıkmıştı. Krizden sonra döviz fiyatları tırmanışa geçince de, endeks TÜFE'ye göre 98.5'a, TEFE'ye göre 88.5'a kadar düşmüştü. 
+   Türk lirasının değer kazanması iyi bir şey de... Keşke bu durum sürdürülebilir bir durum olsa... Ve düzelme dengeleme başlayınca da bu düzelme dengeleme yavaş ve hazmedilebilir olsa... Hızlı bir düzelme hareketi ekonomiyi sarsar... Merkez Bankası herhalde bu konuda hazırlıklıdır. 
+   
+      
+   
+</TEXT>
+</DOC>

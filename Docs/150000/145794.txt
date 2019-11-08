@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 145794 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/03/27/son/sontur03.html </URL>
+<DATE> 2003/03/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türk korsanın hazırladığı virüs bilgisayarlarda yayılıyor... 
+</HEADLINE>
+<TEXT>
+
+     Bir Türk yazılımcının hazırladığı bilgisayar virüsünün, etkili olmaya başladığı bildirildi. 
+     Dünyanın en büyük bilgisayar güvenlik yazılım şirketlerinden Symantec'in sitesinde yer alan habere göre, tahminen Ereğli doğumlu yazılımcının hazırladığı VBS.Ereglili mm adlı virüs, yayılmaya başladı. Şirkete, bu virüs ile ilgili çok sayıda soru geliyor. 
+     ''Aşk ve Gözyaşı'' başlığı ile gelen virüslü mailde, şu cümleler yer alıyor 
+     ''Sevdiğini söyleyebilmek neler anlatır insana derinden derine.. Hissetmek seni seviyorum dediğinde tutulduğun sevdanın ateşini.. Sesini duymak sevdiğinin, sabahlara kadar konuşmak onunla. Uykusuz kalmak onun için. Gözlerim parlıyor, yüreğim aydınlanıyor seni gördüğümde... Saçlarına dokunabilmek son arzu gibi. Hissedebilmek tenindeki sıcaklığı ve hissedebilmek senden ayıran kuralların acımasızlığını...'' Bu elektronik postaya eklenen Ask.vbs uzantılı dosya içerisindeki virüs, kendisini diğer birçok dosya ve klasöre ekleyerek bilgisayarın çalışması için gereken dosyaların uzantılarını değiştirebiliyor. Virüs, kendisini Outlook yazılımı içerisinde bulunan diğer adreslere de kopyalayarak gönderebiliyor. 
+     11 kilobyte büyüklüğündeki virüsten Windows 95, Windows 98, Windows NT, Windows 2000, Windows XP ve Windows Me işletim sistemleri etkilenirken virüs Microsoft IIS, Macintosh, OS 2, UNIX ve Linux'da etkili olamıyor. 
+     Symantec tarafından ''az tehlikeli'' olarak değerlendirilen virüs, kendisini C , C Windows, C Program Files, C Windows System, C Windows System32 kalsörlerine kopyaladıktan sonra dosya uzantılarını şu şekilde değiştiriyor 
+     ''Adapazari.vbs, Zonguldak.vbs, Eregli.vbs, Ankara.vbs, Batikent.vbs, Konutkent.vbs, Istanbul.vbs, Goztepe.vbs, Erdemir.vbs, Yuksek Firin.vbs, Kastamonu.vbs, Kalp.vbs, Komur.vbs, Ankara.vbs, Fizik.vbs, Iskenderun.vbs, Bakan.vbs, Sevdali.vbs ve Yurek.vbs.'' 
+     
+
+
+
+
+</TEXT>
+</DOC>

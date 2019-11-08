@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 329469 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/01/son/sonyas02.html </URL>
+<DATE> 2005/04/01/ </DATE>
+<TIME> 02.16 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kas gelişimini sağlayan mekanizma bulundu 
+</HEADLINE>
+<TEXT>
+
+     Avrupalı araştırmacılar, kas dokusunun gelişiminde kilit rolü oynayan proteinin başlattığı biyokimyasal sinyallerden oluşan mekanizmayı anlamayı başardı. 
+     Science adlı bilim dergisinin son sayısında yayınlanan makaleye göre, bu mekanizmanın daha iyi anlaşılması halinde, kas atrofisi körelme ve kalp kası zafiyeti tedavi edilebilecek. 
+     Araştırma ekibinden Stephan Lange adlı uzmanın açıklamasına göre, insan vücudundaki kas lifleri ömür boyunca fazla değişmiyor ve kasılmayı sağlayan birimler sarkomerler , kasın esneme hareketlerine her an ayak uyduruyor. Kas lifi sarkomerlerin sayısına bağlı olarak büyüyor, sarkomerler azalınca lifler de zayıflıyor. Lange'nin açıklamasına göre, sarkomerlerin biraraya gelişinde önemli rol oynadığı bilinen ''titin'' proteini, kas çalıştığı zaman sarkomerlerde ortaya çıkan gerilimi tespit ediyor. 
+     Makalede, ''titin'' proteini sarkomerin mekanik faaliyetine tepki gösterdiğinde ortaya çıkan ve hücre çekirdeğinde sona eren biyokimyasal sinyallerin bileşenlerinin de tespit edildiği belirtildi. 
+     
+</TEXT>
+</DOC>

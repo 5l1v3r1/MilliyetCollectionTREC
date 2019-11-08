@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 289080 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/15/son/sonyas09.html </URL>
+<DATE> 2004/11/15/ </DATE>
+<TIME> 10.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Stadyumlara kablosuz internet... 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekom, stadyumlara kablosuz internet erişim hizmeti Hotspot kurmaya hazırlanıyor. Basın mensupları artık kablosuz bağlantıdan haber ve fotoğraflarını hızlı ve kesintisiz bir şekilde haber merkezlerine iletebilecek. 
+     A.A muhabirinin sorularını yanıtlayan Türk Telekom Kablosuz Genişbant Teknik Müdürü Turhan Muluk, kendilerine basın mensuplarından böyle bir talep geldiğini ve bu potansiyeli gördüklerini, en kısa sürede bu yöndeki çalışmaların tamamlanacağını söyledi. 
+     Sistemin ilk olarak Şampiyonlar Ligi finalinin oynanacağı Atatürk Olimpiyat Stadı'na kurulacağını bildiren Muluk, daha sonra Süper Lig maçlarının oynandığı tüm stadlarda ''Hotspot'' adı verilen kablosuz bağlantı merkezleri oluşturulacağını ifade etti. 
+     Kablosuz bağlantı merkezleriyle basın mensupları, artık stadyumlarda 2 megabit hızında internet erişimine kavuşacaklar. Bu sayede, gazeteciler haber ve fotoğraflarını internet erişiminde zaman kaybetmeden merkezlerine ulaştırabilecekler. 
+     
+     KABLOSUZ BAĞLANTIDAN NASIL YARARLANILACAK 
+     2005 yılının Şubat ayına kadar Hotspot noktalarından ücret alınmayacak. Basın mensupları, cep telefonlarından gönderecekleri bir mesajla kullanıcı adı ve şifresi elde edecekler. Türk Telekom, anlaşma yapacağı GSM şirketinden kullanım ücretini tahsil edecek ve bağlantı ücreti bedeli GSM faturasına yansıtılacak. 
+     Ayrıca isteyen basın mensupları, standart abone olarak yıl boyunca hizmetten yararlanabilecek ya da ön ödemeli kartlar satın alarak stadyumlarda kablosuz erişimi kullanabilecek. 
+     Sistem basın mensuplarına roaming dolaşım imkanı da sağlıyor. Uluslararası karşılaşmalar için yurtdışına giden basın mensupları, bu ülkelerdeki GSM şebekesi aracılığıyla kablosuz internet erişim noktalarından yararlanmayı sürdürebilecekler. Yurtiçindeki kablosuz internet erişim bilgilerini kullanarak, başka ülkelerdeki stadyumlardan, havalimanlarından ve hotspot noktalarından faydalanabilecekler. 
+     Türk Telekom, stadyumlardaki kablosuz internet erişim noktalarının gazetecilere görevleri sırasında büyük kolaylık sağlayacağını, dolayısıyla bu teknolojik yeniliğin basın mensuplarından yoğun ilgi görmesini bekliyor. 
+     
+</TEXT>
+</DOC>

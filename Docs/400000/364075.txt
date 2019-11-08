@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 364075 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/25/son/soneko26.html </URL>
+<DATE> 2005/07/25/ </DATE>
+<TIME> 12.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Deutsche Bank'tan Garanti'ye 3. Mükemmellik Ödülü... 
+</HEADLINE>
+<TEXT>
+
+     Deutsche Bank, dolar ve avro para transferlerindeki hatasız işlemleri nedeniyle, Garanti Bankası'na, 2002 ve 2003 yılından sonra 2004 için de Mükemmellik Ödülü verdi. 
+     Garanti Bankası'ndan yapılan yazılı açıklamada, bankanın, Deutsche Bank'ın, çalıştığı 6 bin bankadan sadece 145'ine verdiği ödülü arka arkaya 3. kere kazanan, Türkiye'deki ilk ve tek, dünyadaki 45 bankadan biri olmayı başardığı kaydedildi. 
+     Deutsche Bank'ın, Garanti Bankası'nın gerçekleştirdiği para transferi işlemlerindeki hatasızlık oranını belirleyen STP Straight Through Processing-Uçtan Uca Otomasyon oranlarının, avro ödemelerde yüzde 96.7, dolar ödemelerinde de yüzde 95.8 olduğunu açıkladığı belirtildi. 
+     Garanti Bankası'nın, her iki para biriminde ayrı ayrı ''STP Mükemmellik Ödülü''ne layık görüldüğü ifade edilen açıklamada, ''Garanti, son bir ay içinde, STP Mükemmellik Ödülü'nün benzerlerini, ulaştığı yüzde 93 hatasızlık oranıyla Citibank'tan ve yüzde 98.9 oranıyla da JP Morgan'dan almıştı'' denildi. 
+     
+</TEXT>
+</DOC>

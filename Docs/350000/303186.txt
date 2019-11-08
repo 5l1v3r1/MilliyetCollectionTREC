@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 303186 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/03/son/sonyas05.html </URL>
+<DATE> 2005/01/03/ </DATE>
+<TIME> 08.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Alerjinin sonu geliyor 
+</HEADLINE>
+<TEXT>
+
+     BBC - LONDRA 
+
+      Doktorlar, alerjinin kaynağını kurutmaya hazırlanıyor. Deneylerde hücrelerdeki bir proteini bloke eden uzmanlar, alerjik reaksiyonların büyük ölçüde azaldığını gördü... 
+     Bilim adamları, alerji tedavilerinde çok önemli rol oynayacak bir proteini buldu. 
+     Araştırmacılar, tıp dergisi Nature'a yaptıkları açıklamada, deneylerde alerjik reaksiyonlara yol açan hücrelerdeki p110delta proteinini bloke ettiklerini ve bunun semptomları büyük oranda azalttığını duyurdu. Ludwig Institute for Cancer Research'ün Londra şubesi tarafından yürütülen çalışma, belirtiler yerine doğrudan alerjilerin sebebini ortadan kaldıracak ilaç üretimine yarayacak. 
+     
+     Uygunsuz tepkiler 
+     Alerjiler, polen, toz ve hayvanlar gibi alerjenlere karşı bağışıklık sisteminin verdiği, burun akıntısı, göz kaşıntısı, öksürme, cilt kızarıklıkları ve hırıltıyla sonuçlanan uygunsuz tepkiler olarak tanımlanıyor. Alerjisi olan insan sayısı hızla artıyor. 
+     Uluslararası akademik merkez Ludwig Enstitüsü'nün University College London şubesindeki ekip, araştırmanın, alerjilerin ele alınma şeklinde bir değişikliğe yol açabileceği inancında. Mevcut terapiler, alerjinin kaynağından ziyade semptomları yok ediyor. Dr. Bart Vanhaeserbröck, çalışmalarının, alerjik durumlar için 'engelleyiciler' yaratmada umut verdiğini söylüyor. Fakat çalışmanın hayata geçirilmesinin 10 yılı alması bekleniyor. 
+     
+</TEXT>
+</DOC>

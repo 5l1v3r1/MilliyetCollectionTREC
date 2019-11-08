@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 339020 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/02/son/sonyas14.html </URL>
+<DATE> 2005/05/02/ </DATE>
+<TIME> 13.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft'tan otomotiv programı... 
+</HEADLINE>
+<TEXT>
+
+     Microsoft ve Ford firmaları, hangi bilgisayar yazılımlarının trafik kazası riskini asgariye indirebileceği ve otomobillerin kendi kendilerini onarmalarını olanak sağlayabileceği konusunda çalışmalar yürütüyor. 
+     Microsoft’un hafta sonunda Ford firmasının Detroit’teki yerleşkesinde düzenlediği Küresel Otomotiv Zirvesi’nde, Microsoft’un patronu Bill Gates ve Ford’un Başkanı Bill Ford Jr, yüksek çözünürlüklü ekranlar, konuşma tanıyan teknoloji, kameralar, dijital takvimler ve yön ile yol şartlarını tahlil eden navigasyon teçhizatlarının, otomobil şirketlerini rakiplerinden ayıran unsurlar olacağını belirttiler. 
+     Gates, kaza riskini asgariye indirebilecek ve çarpışmaya izin vermeyecek araçların üretilebileceğini kaydederek, "Amaç kesinlikle bu olmalı, bu sanayinin liderleri için hedef, bu teknolojiyi kullanmak ve geliştirmek olmalı" dedi. 
+     Microsoft ayrıca, otomotiv sanayisinin, yedek parça zinciri, dış tasarım, üretim ve satış ile araçları bilgisayarlı cihazlarla donatmak için daha iyi işbirliği yapmasını sağlayacak "Performance Peak Initiative" adlı bir bilgisayar sistemini tanıttı. 
+     Bilgisayar şirketi, bu teknolojinin şu anda 13 otomotiv şirketinden 25 araçta denenmekte olduğunu bildirdi. 
+     
+</TEXT>
+</DOC>

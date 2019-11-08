@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 366550 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/03/ekonomi/eko05.html </URL>
+<DATE> 2005/08/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+hepsiburada.com yeni güvenlik sistemine geçti 
+</HEADLINE>
+<TEXT>
+
+
+
+Son zamanlarda gelişen e - ticaret sektöründe kredi kartlarının yaygın olarak kullanılmasıyla, Visa ve MasterCard, yeni standartlar oluşturdu. hepsiburada.com, Qualys ile anlaşıp çok kısa bir süre içinde yeni standartları uygulayıp, testleri de tamamlayarak Visa ve MasterCard'ın oluşturduğu bu yeni güvenlik standartlarını uygulayan ilk e - ticaret sitesi oldu. 
+hepsiburada.com Genel Müdürü Oğuz İşiten, e - ticaretin lideri olarak güvenliğe her zaman çok önem verdiklerini, sektörün büyümesi için başka oyuncuların da olması gerektiğini belirtiyor. İşiten, sektöre gelecek yeni firmaların ve hatta mevcut firmaların güvenlik standartlarını sağlıyor olmasının sektöre olan güveni arttıracağına inanıyor olduklarını ifade ediyor. 
+
+'Düzenli test gerekli' 
+Bankaların üzerinde hasassiyetle durduğu yeni güvenlik standartlarında işlem sayısına göre her sitenin belli aralıklarla test yaptırması gerekiyor. Bu konuda Visa ve MasterCard, çeşitli firmaları yetkilendirerek sadece ilk uygulama değil, denetim sürecinde de gösterdikleri hassasiyeti vurguladılar. 
+
+
+</TEXT>
+</DOC>

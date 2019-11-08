@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 379967 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/20/son/soneko44.html </URL>
+<DATE> 2005/09/20/ </DATE>
+<TIME> 16.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borusan Telekom, T-Systems ile işbirliğine gitti... 
+</HEADLINE>
+<TEXT>
+
+     Borusan Telekom, Alman Deutsche Telekom'un dört bölümünden biri olan T-Systems ile işbirliğine gitti. 
+     Borusan Telekom, 20'den fazla ülkede faaliyet gösteren T-Systems'in desteğiyle, kurumların tüm dünyadaki noktalarıyla iletişimini tek elden sağlayacak. 
+     Borusan Telekom'un sunacağı hizmetler arasında şirketlerin yurtdışındaki birimleriyle sağlıklı ve güvenli iletişimi mümkün kılan Global Link ve GlobalIP-MPLS uygulamalarının yanı sıra, veri kaybına karşı güvenlik sağlayan Global Backup ve internet erişimini yedekleyen Global Internet uygulamaları da yer alıyor. 
+     Her iki kuruluş arasındaki işbirliği ve sunulacak yeni hizmetlerle ilgili İstanbul'da basın toplantısı düzenlendi. 
+     Basın toplantısında konuşan Borusan Telekom Genel Müdürü Burak Gökmen, Borusan Telekom'un Türkiye'de bu hizmetleri tek elden sunan ilk ve tek kuruluş olduğunu vurgulayarak, şunları söyledi 
+     ''Borusan Telekom olarak, uluslararası ölçeklerde faaliyet gösteren büyük şirketlerin olduğu kadar, daha küçük ölçekli KOBİ'lerin ihtiyaçlarını da karşılayan hizmetler sunuyoruz. Bunun için Avrupa'nın ve dünyanın önde gelen iletişim kuruluşlarından biri olan T-Systems'in desteğini aldık. Her zamanki gibi müşterilerimize kaliteli hizmeti, uygun fiyatla sağlıyoruz. Telekom hizmetlerinde kurumsal pazarın lideri olmayı hedefleyen Borusan Telekom, bu hedefine doğru ilerliyor.'' 
+     
+     MUAZZAM DÖNÜŞÜM YATIRIM İÇİN CİDDİ DÜŞÜNMEYE YÖNELTİYOR 
+     T-Systems Almanya Başkan Yardımcısı Rex Stephenson da, son dönemde Türkiye'de yaşanan muazzam dönüşümün uluslararası şirketleri de Türkiye'ye yatırım yapmak konusunda daha ciddi düşünmeye yönelttiğini belirtti. 
+     Stephenson, şunları söyledi 
+     ''AB adaylığı yolunda ilerleyen bir Türkiye her alanda olduğu gibi, telekomda da Avrupa bütünleşmesinin bir parçası olacaktır. Türkiye'nin yurtdışı ile veri ve ses iletişim pazarında buna paralel olarak daha da artmasını beklediğimiz talebi T-Systems güvencesi ile karşılayacağız. İşbirliği için sahip olduğumuz yüksek standartları karşılayan Borusan Telekom'la birlikte iş dünyasının ihtiyaçlarını en iyi şekilde karşılayacak hizmetler sunacağız.'' 
+     
+</TEXT>
+</DOC>

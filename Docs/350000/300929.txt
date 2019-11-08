@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 300929 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/25/son/sontur08.html </URL>
+<DATE> 2004/12/25/ </DATE>
+<TIME> 10.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yargıtay'dan apartmanlardaki baz istasyonlarına veto 
+</HEADLINE>
+<TEXT>
+
+     Yargıtay, apartmanlarda kurulu baz istasyonlarının kaldırılması gerektiğine karar verdi. Yüksek Mahkeme, hiç bir hizmetin, insan yaşamı kadar öncelik ve önem taşımayacağını, yararlı bir hizmetin karşılığı olarak insanın ölümünün uygun bir sonuç olarak kabul edilemeyeceğine işaret etti. 
+     Bir vatandaş, komşu apartmanda kurulu baz istasyonunun kaldırılması istemiyle dava açtı. Ankara 2. Asliye Hukuk Mahkemesi, davayı reddetti. 
+     Temyiz istemini görüşen Yargıtay 4. Hukuk Dairesi, yerel mahkemenin kararını bozdu. 
+     Kararda, baz istasyonlarının cep telefonlarının kullanımı için zorunlu olduğu, geniş bir kitleyi ilgilendirmesi itibarıyla da kamuya hizmet vermeyi amaçladığının tartışmasız olduğu kaydedildi. 
+     Bu hizmetin verilmesi ve tesisin kullanılması sonucu hukuk kurallarının bir gereği olarak doğan zararlardan tesis sahibinin sorumlu olduğu belirtilen kararda, şöyle denildi 
+     ''Hatta bu sorumluluğu kusura dayanmayan, tehlike sorumluluğu olarak kabul etmek gerekir. Bu özelliği itibarıyla tesisi kullanan ve onu işletenin yüksek özen yükümlülüğü bulunmaktadır. Aksi halde, en küçük bir özensizliğin maddi değerlerle ölçülemeyecek kadar ağır sonuçlar doğurması kaçınılmazdır. Bunun için zarar görenin zararını değil, tesis ve işletme sahibinin tesisin işletilmesinden dolayı kişilere, bu bağlamda çevreye bir zarar vermediği ve herhangi bir olumsuz sonuç yaratmadığının kanıtlanması gerekir. Bu sonuç genel sorumluluk kurallarının aksine, davalıların işletmesinin ağır tehlike doğuracak özelliğinden kaynaklanmaktadır.'' Davalı apartmana, kullanımla ilgili limitlerin belirtildiği Telekomünikasyon Kurum Güvenlik Sertifikası verildiği kaydedilen kararda, değerlerin yönetmelikteki limitlerin de altında bulunduğunun belirtildiği anlatıldı. Kararda, ''Ne var ki, yapılan bu belirlemelerle bir zararın olmayacağı kabul edilemez'' denildi. 
+     
+     YARAR-ZARAR KARŞILAŞTIRMASI 
+     Tek başına ölçüm sonuçlarının düşük olması, zarar doğurmayacağı anlamına gelmeyeceği vurgulanan kararda, şöyle devam edildi 
+     ''Bu ve benzeri tesislerin işletilmesi sonucu geniş bir halk kitlesinin yarar sağladığı bilinen bir olgudur. Ne var ki, bu yararın sağlanması karşısında kişilerin zarar görmesi hoş görülemez. Bu bakımdan gerek hizmetten elde edilen yarar ve bunun karşısında verilen zararın dengelenmesi gerekmektedir. Hiç bir hizmet, insan yaşamı kadar öncelik ve önem taşımaz. diğer bir anlatımla yararlı bir hizmetin karşılığı olarak insanın ölümü uygun bir sonuç olarak kabul edilemez. İnsan yaşamında tehlike yaratan bir hizmetin kişi yaşamının önüne geçmesi ve ona üstünlük tanınması doğru bir yaklaşım olarak düşünülemez. Kaldı ki, somut olayda bu hizmetin aynı yerde verilmesinde zorunluluk da bulunmaktadır.'' Tesislerin yakın çevresine zarar verdiğinin açık olduğu, bu tesisten üçüncü kişilerle birlikte davacı da yararlanmış olsa sağlanan yararla verilen zararın dengelenmesinin genel bir hukuk kural olduğuna işaret edilen kararda, ''Yarar haberleşmeyi amaçlamaktadır. Zararın ise insan sağlığı ve yaşamı ile ilgili olduğu gözetildiğinde, ikinci değere önem verilmesi gerekmektedir'' tespiti yapıldı. 
+     Kullanılan istasyonun konumu itibariyle uzun sürede kişi ve çevreye zarar verdiğinin belirlendiği ifade edilen kararda, şöyle devam edildi 
+     ''Bu belirlemeler itibariyle dar anlamda ve para ile ölçülebilen bir zarar yok ise de, çevre binalarda ve bu bağlamda davacının oturmakta olduğu binada yaşayanlar için sağlık bakımından büyük endişeler taşıdığı bu yerde oturanların psikolojik olarak yaşamını olumsuz biçimde etkilemekte ve bunun da psikolojik yapısında tedirginlik ve ümitsizlik yaratacağı, bu haliyle de yaşamdaki sağlık değerleri düşünüldüğünde o yerde oturmanın olumsuz hale geleceği göz önünde tutulduğunda davacının zarar gördüğü kabul edilmeli ve davanın kabulüne karar verilmelidir.'' 
+     
+</TEXT>
+</DOC>

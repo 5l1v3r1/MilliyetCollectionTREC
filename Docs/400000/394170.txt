@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 394170 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/11/son/sontur07.html </URL>
+<DATE> 2005/11/11/ </DATE>
+<TIME> 10.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Online bankacılık ve alışverişte şifre seçimi önemli... 
+</HEADLINE>
+<TEXT>
+
+     Sanal ortamda kredi kartıyla alışveriş yapmanın günlük yaşamın diğer alanlarında yapılan kartla satın almalardan daha tehlikeli olmadığı savunuldu. 
+     Fırat Üniversitesi Bilgi İşlem Dairesi Başkanı Prof. Dr. Hasan Kürüm, AA muhabirine yaptığı açıklamada, insanların internetten veya telefondan kredi kartı aracılığıyla yaptıkları alışverişlerde kart numaralarının çalınması endişesini taşıdıklarını söyledi. 
+     Gerçek hayatta insanların kredi kartlarını kasiyerlere, garsonlara rahatlıkla verdiklerini belirten Kürüm, şöyle konuştu 
+     "Kasiyer ve garsonlar da kartınızı kopyalayabilir. İnternette kredi kartıyla alışveriş yapmak, normal hayatta kredi kartı kullanımından daha fazla tehlikeli değil. İnternet üzerinden alışveriş, gerçek hayattakinden daha güvenlidir. Çünkü alışverişi gerçekleştiren firma sizin internet tarayıcınızı kullanarak yapmakta olduğunuz alışverişi şifrelerler. Böylelikle alışveriş bilgileri siz ve alışveriş yaptığınız firma dışında üçüncü bir şahıs ya da kurumun eline geçerse okunması mümkün olmayacaktır." Kürüm, kullanıcılara, internetten güvenli alışveriş için her zaman internet tarayıcısının en son sürümünü kullanmalarını, alışveriş yapılan sitenin güvenlik sertifikasının olup olmadığına ve tarayıcının sağ alt köşesinde güvenli sayfa anlamına gelen kilit sembolünün bulunup bulunmadığına dikkat etmelerini önererek, sanal alışveriş bitmeden önce, durum hakkında verilen raporun çıktısının alınması gerektiğini, alışveriş işlemi yapılan bilgisayarlarda virüs bulunmamasına dikkat edilmesi gerektiğini söyledi. 
+     
+     ŞİFRE SEÇİMİ ÖNEMLİ 
+     Kürüm, internet alışveriş siteleri gibi işlem yapılan online bankacılık ve yatırım servislerinin de internet üzerinde şifreleme yöntemine güvendiklerini belirterek, kendisinin 7 yıldır internet bankacılığını kullandığını, her türlü ödemelerini internet üzerinden yapmasına karşın, bu güne kadar herhangi bir sorunla karşılaşmadığını belirtti. 
+     İnternetten alışveriş yapan kredi kartı kullanıcılarının şifre seçerken dikkatli davranmaları gerektiğini, şifre seçerken kolayca tahmin edilebilecek ya da "kullanıcı adı" ile aynı olacak şifreler seçilmemesine özen gösterilmesini isteyen Kürüm, şunları söyledi 
+     "Şifre kullanımıyla pek çok yerde karşılaşırsınız. Genelde tüm güvenlik yapısı şifrelerin ne kadar iyi seçildiği ve yönetildiğine bağlı olabilir. Şifrenizi paylaşmayın veya bir yere yazmayın. 
+     Hatırlaması kolay fakat tahmin edilmesi zor şifreler seçin. Türkçe veya yabancı dilde herhangi bir kelime, telefon, kredi kartı veya adresinizdeki herhangi bir numarayı, ’12345’ veya ’abcde’ tahmin edilebilir rakam veya harf grubunu seçmeyin. Genel kullanımı olan deyimler, cümleler ile 6 harften küçük şifre belirlemeyin." "İyi şifreler"in 6 karakter ya da üzeri olması gerektiğini ve büyük, küçük harf, rakamlar veya noktalama işaretleri içermesinin tercih edildiğini ifade eden Kürüm, "Hatırlaması kolay fakat farklı yazılım kullanılan A1000 ile Kahv6ettik gibi cümleler seçebilirsiniz. Yanlış heceleme ve harf yerine rakam kullanabilir, her kelimenin ilk veya son karakterini alarak şifre oluşturabilirsiniz" dedi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 301881 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/29/son/soneko33.html </URL>
+<DATE> 2004/12/29/ </DATE>
+<TIME> 15.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+IMKB YTL'ye geçiş için güncelleme 2. seansın ardından yapılacak 
+</HEADLINE>
+<TEXT>
+
+     İMKB, bugünkü 2. Seansın ardından YTL'ye geçişe yönelik olarak sürüm güncellemesi yapacak. 
+     İMKB'nin, üyelerine yönelik olarak yaptığı açıklamada, 15 Aralık 2004 tarih ve 1815 sayılı genel mektup ile duyurulduğu üzere, bugünkü ikinci seans sonrası, YTL'ye geçişe yönelik olarak sürüm güncellemesi yapılacağı ve 2.0.8 sürümün yükleneceği anımsatıldı. 
+     Ayrıca 30 Aralık'ta şirket merkezlerinde ve Borsa'da, 31 Aralık'ta ise üye merkezlerinde saat 09.00'dan itibaren simülasyon çalışması yapılacağı belirtilen açıklamada, ''Konuya ilişkin olarak üyelerimizin 1815 sayılı genel mektupta belirtilen hususlara uymaları, 'üye özel'i anlık olarak takip ederek geçilecek mesajların gereğini yapmaları gerekmektedir'' denildi. 
+     Açıklamada, simülasyonun başlama saatinin 09.00 olduğu duyurularak, isteyen üye temsilcilerinin İMKB'de bulunan lokal terminallerden emir gönderebilecekleri kaydedildi. 
+     Testin üye temsilcilerinin de katılabileceği bölümünün, normal olarak saat 14.30'da sona ermesi gerektiği belirtilen açıklamada, ''Saat 17.30'da başlayacağı duyuru ile belirtilen iletişim testine üye temsilcileri salonlardan katılmayacaklardır. Test sadece üye merkezlerinden yürütülecektir. İletişim testine ilişkin detay 'üyeözel'den duyurulacaktır. Üyelerimizin 'üyeözel' sayfasındaki duyuruları takip etmeleri ve kurum içinde gerekli bilgilendirmeyi yapmaları önemle duyurulur'' denildi. 
+     
+</TEXT>
+</DOC>

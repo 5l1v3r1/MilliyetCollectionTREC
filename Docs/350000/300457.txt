@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 300457 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/24/yazar/gunes.html </URL>
+<DATE> 2004/12/24/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Hurşit GÜNEŞ  </AUTHOR>
+<HEADLINE>
+Bankalarımızın durumu düzeliyor, ama... 
+</HEADLINE>
+<TEXT>
+
+
+Bir iki ay sonra bankalar 2004 yılı sonu bilançolarını yayımlamış olacak. Mayıs ayında da Bankalar Birliği her yıl olduğu gibi sektörün toplu mali tablolarını yayımlayacak. Ancak şimdiden belirtelim, 2004 yılında da sektördeki özkaynak güçlenmesi sürecek. 
+Öncelikle Türk bankacılık kesimine ilişkin yaygın olan yanlış bir kanıyı düzeltelim Bankalar krizden önce karlı kuruluşlar değildi. Şatafatlı davranmalarının bir nedeni, bu eğreti konumlarını saklamak, bir diğeri de sermayedarın itibarını kazanmak için kantarın topunu kaçıracak kadar harcama yapmaktı. Oysa aşağıdaki tabloda da görüldüğü gibi krizden iki yıl önce, 1999 yılında da, bankaların sermayesi yoktu. Hatta negatifti. Yani bankalar net olarak borçluydu. 
+Önce "net çalışma sermayesi" kavramını açıklayalım. Bu kavram bankanın işe yaramayan sermaye kalemlerinin ayıklanmasını gerektirir. Mesela çeşitli batık krediler, ya da sabit varlıklar özkaynaklardan çıkarılır. Çünkü bunlar gerçekte bankanın kredi vermesine yardımcı olmaz, aksine yük getirir. Oysa bankalar bazen batık kredileri açık göstererek, ya da gayrimenkul gibi bazı duran varlıkları sermayeye ekleyerek özkaynaklarını abartırlar. 
+Bu ayıklama yapılınca serbest ya da likit olan sermaye bulunur. Bunun da risklere göre ayarlanmış aktiflere oranının yüzde 8'i geçmesi halinde bankanın mali gücü yeterli görülür. 
+1999 yılında net olarak sermayeleri borçlu olan bankaların durumu 2000 yılında daha da kötüleşti. Borç neredeyse reel olarak ikiye katlandı. Üstelik 2000 yılında kriz filan da olmamıştı. Hatta bankaların şatafatı daha da artmıştı. 2001 yılında kriz olunca bu zarar ya da sermaye borcu neredeyse üç kat arttı. Ama bu kez şatafata filan kalmamış, takke düşmüş kel görünmüştü. 2001 yılında ortaya çıkan bankacılık krizi, 43 milyar dolara yakın bir zarara neden olmuştu. Bunun yarıya yakını da kamu bankalarının görev zararlarından kaynaklanıyordu. 
+Kriz sonrası gelinen bu durum karşısında BDDK bankaların sermayelerinin güçlendirilmesi konusunda bir olanak tanıdı. Böylece patronlar bankalarına sermaye koyarak mali yapıyı değiştirmeye yöneldiler. Ancak pek ciddi sermaye gereksinimi göstermeyen bir bankanın bir süre sonra yolsuzluk yaptığı ortaya çıktı ve BDDK bu bankaya el koydu. Bu da Hazine'ye 7 milyar dolara yakın yük getirdi. Kısacası, büyük bir yük ortaya çıktı. 
+2004 yılında bankaların karlılığının arttığını düşünüyoruz. Hem faizler hızla düştüğü için menkul kıymet portföyünden, hem de artan tüketici kredilerinden bankalar para kazandılar. Böylece 2003 yılında başlayan süreç 2004 yılında da sürerek net çalışma sermayesi yüzde 6'dan çok daha yukarılara tırmanacaktır. 
+Ancak yanılmamalı ülkemizdeki bankacılık sektörünün aktif karlılığı hala çok düşük. Gerek kamuda, gerek özel kesimde verimliliğin artması için birleşme ve devralmaların sürmesi gerekiyor. 
+
+Net Çalışma Sermayesi Toplam Aktifler 1999 2000 2001 2002 2003 -0.7 -1.2 -3.1 1.8 6.1 
+
+
+</TEXT>
+</DOC>

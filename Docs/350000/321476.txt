@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 321476 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/07/son/soneko10.html </URL>
+<DATE> 2005/03/07/ </DATE>
+<TIME> 09.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa bu hafta hangi konulara odaklanacak 
+</HEADLINE>
+<TEXT>
+
+     Borsa'da bu hafta, Merkez Bankası Para Kurulu toplantısı ile Türkiye-AB Troyka toplantısı sonrası yapılacak açıklamalar ve petrol fiyatları, piyasalar tarafından yakından takip edilecek Gedik Yatırım'ın haftalık değerlendirmesinde, İMKB Ulusal-100 Endeksi'nin Cuma gününü yüzde 0.38 oranında değer artışıyla 27,663.22 puandan kapattığı belirtilerek, işlem hacminin 767 milyon dolar civarında gerçekleştiği kaydedildi. 
+     Değerlendirmede, haftaya genel bir bakış yapıldığında alternatif piyasalardaki aşağı yönlü seyirlerin sürmesinin ve hisse senedi piyasasında geçen haftaki durgun seyirlerden sonra, bu hafta ilk etapta yukarı yönde bir kuvvetlenme çabasının yaşanabileceği ifade edildi. 
+     Merkez Bankası'nın yarın gerçekleştireceği Para Kurulu Toplantısı sonrasında faiz indirimine gitmesine kesin gözüyle bakıldığına işaret edilen değerlendirmede, şu görüşler aktarıldı 
+     ''Enflasyon rakamlarının düşük gelmesi ile 0.5 puan üzerinde indirim olasılığı da bulunmasına rağmen bizim görüşümüz dış etkilerden petrol fiyatlarındaki yükseliş de dikkate alınarak, 3 puandan başlayan ve 0.5 puana kadar gerileyen kademeli faiz indirimi sürecine mevcut seyirle devam edileceği yönündedir. 0.5 puanın üzerindeki indirim olasılıkları piyasalarda ek bir hareketlilik yaratabilecekken, ilerleyen aylara yönelik faiz indirimi spekülasyonlarını ise artıracaktır. Bunun yanında petrol fiyatları uluslararası piyasalarda takip edilecek, başta ABD ve Brezilya olmak üzere yurtdışı borsalarda yaşanacak hareketler ise Ulusal-100 Endeksi üzerinde de doğrudan etki yaratacaktır.'' Değerlendirmede, hükümet üyeleri ile AB yetkilileri arasında geçen hafta yaşanan karşılıklı açıklamalar sonrasında, Türkiye'nin AB sürecinde 17 Aralık zirvesinden sonraki gelişmelerin ele alınacağı bugünkü Türkiye-AB Troyka toplantısından gelecek açıklamaların da yakından izleneceği belirtildi. 
+     
+</TEXT>
+</DOC>

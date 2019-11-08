@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 92827 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/06/29/son/sondun13.html </URL>
+<DATE> 2002/06/29/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternette ilk jpeg virüsü 
+</HEADLINE>
+<TEXT>
+
+     Network Associates firması, JPEG dosyaları etkileyen ilk virüs konusunda internet kullanıcılarını uyardı. 
+     Türk İnternet Birliği kurucularından Hakan Topuzoğlu, internetteki ilk JPEG virüsü olarak duyurulan bu virüsün bir ''uyarı'' mesajıymış gibi geldiğini kaydetti . 
+     Virüslerde daha gelişmiş bir neslin habercisi gibi görünen yeni virüsün ''W32 Perrun virüsü'' olarak adlandırıldığını bildiren Topuzoğlu, şunları söyledi 
+     ''Network Associates firması tarafından duyurulan bu virüs JPEG dosyalarından verileri çıkarıp yerine virüs bulaşmış dijital imajlar enjekte ediyor. Arkadaşlarına resim göndermeyi ve almayı seven kullanıcıların çok dikkatli olması gerekiyor. Güvenlik uzmanlarına göre Perrun'u önemli yapan programlardan biri de veri dosyalarına virüslü kodları taşıyabilen ve farklı bölümleri olan ilk virüs programı olması. Bugüne kadar veri dosyalarına virüs bulaşmıyordu. Ama uzmanlara göre artık bulaşıyor.'' Topuzoğlu, bu virüsün e-posta ya da disketlerle, bir program dosyası halinde geldiğini belirterek, şu uyarıda bulundu 
+     ''Virüslere karşı genel olarak yapılan tanımadığınız kişilerden gelen e-postalardaki ekli dosyaları açmayınız uyarısı burada da geçerli. Enfekte olmuş dosyalar virüsü hard diske kopyalıyor ve kullanıcı bir JPEG uzantılı dosyayı açtığı zaman virüsün ikinci parçası kendi kendine harekete geçiyor. Bundan dijital imajı ne gönderenin ne de alanın haberi bile olmuyor.'' Topuzoğlu, güvenlik uzmanlarına göre şu andaki şekliyle Perrun'un kolaylıkla engellenebildiğini ve kitlesel posta ile dağıtılamadığını, ancak daha da geliştirilerek çok yıkıcı hale getirilmesinden endişe edildiğini de bildirdi. 
+     Microsoft Windows ile çalışanların Perrun'a karşı özellikle dikkatli olmalarını isteyen Topuzoğlu, ''Perrun'un çok yıkıcı bir örnek ve virüslerin artık daha çok gelişmeye başladığının bir işareti olduğu söyleniyor. JPEG dosyalarının değişiminde dikkatli olunması gerekmektedir'' diye konuştu. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

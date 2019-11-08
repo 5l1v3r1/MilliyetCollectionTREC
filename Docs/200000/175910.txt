@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 175910 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/15/son/soneko03.html </URL>
+<DATE> 2003/08/15/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Wall Street eletrik kesilmesinden hemen önce yükselişle kapandı 
+</HEADLINE>
+<TEXT>
+
+     ABD ve Kanada'da elektrik şebekelerindeki arıza, New York borsasının kapanışından sonra meydana geldiği için hisse senedi fiyatları üzerinde etkili olmadı. 
+     Dow Jones endeksi günü 38,8 puan artışla 9.310,56 ile kapattı, Nasdaq endeksi de, 13,7 puan artışla 1.700,34'e yükseldi. 
+     Yetkililer, borsanın Cuma günü açılmaya hazır olduğunu, gerekirse jeneratörlerin devreye sokularak çalışmaların olağan biçimde sürdürüleceğini açıkladılar. 
+     
+</TEXT>
+</DOC>

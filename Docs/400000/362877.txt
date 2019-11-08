@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 362877 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/20/son/sonyas12.html </URL>
+<DATE> 2005/07/20/ </DATE>
+<TIME> 10.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Elektromanyetik kirlilikten korunma önerileri... 
+</HEADLINE>
+<TEXT>
+
+     Televizyon ekranlarından, fotokopi makinalarından ve mikrodalga fırınlardan, yaydıkları elektromanyetik nedeniyle mümkün olduğu kadar belli bir mesafede durulması gerektiği bildirildi. 
+     Gazi Üniversitesi Tıp Fakültesi Biyofizik Ana Bilim Dalı ve Non-İyonizan Radyasyondan Korunma Merkezi’nce "Elektromanyetik Kirlilik" konusunda yapılan araştırma-inceleme, Gazi Üniversitesi’nin aylık dergisinde yayınlandı. 
+     Bilim ve teknolojinin gelişmesiyle son yıllarda trafik ve askeri alanlarda kullanılan radarların, telsiz iletişim sistemlerinin, özel radyo ve televizyonların, cep telefonlarının ve baz istasyonlarının artmasıyla radyasyona maruz kalındığı belirtilen araştırmada, evlerde ve ofislerde kullanılan elektrikli cihazların, trafoların ve yüksek gerilim hatlarının düşük oranda radyasyon kaynakları olduğu kaydedildi. 
+     
+     "REAKSİYON ORTAYA ÇIKABİLİR" 
+     Kanser türleri ile Alzheimer, Parkinson, MS gibi hastalıkların son yıllarda artmasının elektromanyetik kirliliği gündeme getirdiği belirtilen araştırmada, elektromanyetik alanların sağlığa etkilerine ilişkin bilimsel çalışmalar yürütüldüğü ifade edildi. 
+     Araştırmada, laboratuvarlarda yapılan çalışmalarda, düşük frekanslı elektromanyetik alanların kan biyokimyası ve hematolojisinde sapmalara neden olduğu, sindirim ve kardiyovasküler sistemi ile deri sıcaklığını etkilediğinin tespit edildiği kaydedildi. 
+     Araştırmada, bazı kimselerin elektromanyetik alanlara daha hassas olabilecekleri belirtilerek, "Bu kimselerde boğazda kuruluk hissi, gözde problemler, baş ağrısı, alerji, yüzde kızarıklık, uykusuzluk, seslere karşı hassasiyet, işitme zorluğu ve yorgunluk şeklinde reaksiyonlar ortaya çıkabilmektedir" denildi. 
+     
+     ÖNERİLER 
+     Araştırmada, elektromanyetik radyasyondan korunmak için şu önerilerde bulunuldu 
+     - Elektrikli cihazları kendinizden mümkün olduğunca uzak tutun. 
+     Elektromanyetik etkinin mesafeyle azaldığını unutmayın, - Mikrodalga fırın çalışırken en az 1 metre uzakta durun, gerekmedikçe kullanmayın, - Fotokopi makinalarından en az 50 cm uzakta durun, - Televizyon ekranından ön ve arkasından en az 2 metre uzakta bulunun, - Elektrikli tıraş makinasını mümkünse şarjlı olarak kullanmayı tercih edin, - Çocuklarda sinir sisteminin ve başın gelişimi devam ettiği için, çocuk ve gençler risk altındadır. Bu nedenle 16 yaşın altındakilerin cep telefonu kullanmamaları, kullanmalarının zorunlu olması halinde ise günde 10 dakikayı geçmemesi Dünya Sağlık Örgütü tarafından önerilmektedir, - Cep telefonunuz kullanmadığınız sürece mümkünse kapalı olsun. 
+     Gerekmedikçe cep telefonu kullanmayın, - Cep telefonunuzdan kulaklıkla konuşmayı tercih edin, - Saç kurutma makinasının manyetik alanı yüksektir. Uzun süreli kullanmak yerine aralıklarla kullanın. Uyku düzeninizin bozulmaması için saç kurutma makinasını yatmadan önce kullanmayın. 
+     
+     "YATAĞINIZDAN UZAKLAŞTIRIN" 
+     - Dinlendirici bir uyku için yatak odasında televizyon ve bilgisayar bulundurmayın veya bu cihazları tamamen kapalı konumda tutun, - Yatağınızı elektromanyetik alanlardan mümkün olduğu kadar uzağa koyun, - Elektrikle çalışan radyolu çalar saatleri başınızdan mümkün olduğunca uzak tutun, mümkünse pille çalışanları tercih edin, - Yatak odasında başucunuzdaki duvarla, komşunuzda bir elektronik aletin bitişik durmamasını sağlamaya çalışın. Televizyonların, bilgisayarların arkasındaki elektromanyetik alanlar daha fazladır, - Elektrikli battaniyeyi yatağa girmeden önce kapatın, - Halojen, floresan gibi ekonomi lambalarını, okurken kullanmamaya çalışın, - Kullanmadığınız cihazları kapalı tutun ya da fişten çıkarın. 
+     Cihazlar stand-by konumdayken elektromanyetik kirlilik yaratacaktır, - Dizüstü bilgisayarlar, şarjlı kullanıldığında daha düşük elektromanyetik alana sahiptir - Elektromanyetik alanlar açısından sağlıklı bir ortamda yaşadığınızdan emin olmak için evinizdeki ve işyerinizdeki elektromanyetik alanları ölçtürün. 
+     
+</TEXT>
+</DOC>

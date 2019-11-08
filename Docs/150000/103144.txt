@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 103144 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/08/21/son/soneko07.html </URL>
+<DATE> 2002/08/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Petrol fiyatları inişe geçti 
+</HEADLINE>
+<TEXT>
+
+     Uluslararası piyasalarda dün 30 dolar sınırını yoklayan petrolün varil fiyatı, ABD'nin petrol stoklarının şaşırtıcı biçimde yükseldiğinin açıklanmasıyla gerilemeye başladı. 
+     Amerikan Petrol Kurumu API önceki hafta 9.5 milyon varil azalan ABD ham petrol stokunun, geçen hafta itibariyle 6.6 milyon varillik bir artış gösterdiğini açıkladı. 
+     Açıklama sonrasında petrol piyasasındaki tedirginliğin azalmasıyla Singapur piyasasında bugün işlem gören Ekim teslimi ABD hafif petrolünün varilinin fiyatı düne göre 32 sent azalarak 28.45 dolara indi. 
+     ABD'nin Irak'a müdahale olasılığının güçlenmesi ve yine ABD'nin petrol stoklarında geçen hafta görülen azalmanın devam edeceği beklentileri petrol fiyatlarını dün son 15 ayın en yüksek düzeyine taşımıştı. 
+
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 287989 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/11/son/sondun29.html </URL>
+<DATE> 2004/11/11/ </DATE>
+<TIME> 12.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Saddam Bacağı'na internet korsanlarından saldırı... 
+</HEADLINE>
+<TEXT>
+
+     İnternette açık arttırmayla satışa çıkarılan Saddam Hüseyin'in Bağdat'ta yıkılan heykeline ait bir bacak parçası, bilgisayar korsanlarının sabotajı üzerine açık arttırmadan çekildi. 
+     Azubo adlı bilgisayar şirketi tarafından yapılan açıklamada, açık arttırmanın son gününde Köln kenti ve çevresinden gönderilen yaklaşık 35 bin başvuru nedeniyle sistemin çöktüğü ve bu nedenle açık arttırmanın iptal edildiği bildirildi. 
+     Bağdat'ta 9 Nisan 2003 tarihinde bir tank tarafından devrilen Saddam Hüseyin heykelinin ayağının parçası, İngiliz askerleri tarafından Almanya'da bir hurdacıya satılmış, bu parçayı hurdacıdan satın alan kişi de parçayı İnternet üzerinden açık arttırmayla satışa sunmuştu. 
+     Bilgisayar korsanlarının saldırısından önce bacak parçası için teklif edilen en yüksek para 10 bin euro olarak açıklandı. 
+     
+</TEXT>
+</DOC>

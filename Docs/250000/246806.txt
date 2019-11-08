@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 246806 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/10/son/soneko07.html </URL>
+<DATE> 2004/06/10/ </DATE>
+<TIME> 09.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yıllık reel faiz beklentisi yüzde 12... 
+</HEADLINE>
+<TEXT>
+
+     Piyasaların, gelecek bir yıllık döneme ilişkin reel faiz beklentisi yüzde 13'e yaklaştı. 
+     İç siyaset tartışmaları ve ekonomide belirsizlik algılamasının etkisiyle mayıs ayında 1.7 puan artarak yüzde 12.7'e yükselen gelecek bir yıllık döneme ilişkin reel faiz 
+     beklentisi, beklentilerin olumluya dönmesiyle faiz ve enflasyon beklentilerinde iyileşmeye yaşanan haziranın ilk haftasında da değişmedi. Merkez Bankası'nın mali sektörde her ay iki kez gerçekleştirdiği beklenti anketlerinin haziran ayı birinci dönem sonuçlarına göre, Hazine ihalelerinde yıllık bileşik faiz beklentisi mayısın ikinci anketine göre 0.6 puan düşerek yüzde 24.6'ya, gelecek 12 aylık dönemin enflasyon TÜFE beklentisi de aynı oranda gerileyerek yüzde 10.6'ya indi. Böylece, gelecek 12 ayda beklenen bileşik faiz oranının, tahmin edilen yıllık TÜFE artışından arındırılmasıyla bulunan dar anlamdaki yıllık reel faiz beklentisi değişmeyerek yüzde 12.7 çıktı. Mayıs ayının ilk anketinde yüzde 11 olan söz konusu oran, piyasalarda dalgalanma yaşanan dönemde yapılan ikinci ankette yüzde 12.7'ye çıkmıştı. 
+     
+     BEKLENTİNİN SEYRİ 
+     Piyasaların ileriye yönelik reel faiz beklentisi, son iki yıldır genel olarak aşağı doğru iniş trendi izlemekle birlikte, iç ve dış konjonktürdeki gelişmelere duyarlı biçimde dalgalanıyor. Geçen yılın mart ayında yapılan ankette Irak savaşının da etkisiyle yüzde 24.6'ye ulaşan yıllık reel faiz beklentisi, izleyen dönemde yaklaşık 16 puan gerileyerek ekim ayında yüzde 8.5'e kadar inmiş, ancak, bütçe gelir hedeflerinde sapma, hükümetin bazı sosyal harcamalar nedeniyle ortaya çıkan ek kaynak gereksinimi, IMF ile gözden geçirmenin gecikmesi gibi etkenlerle izleyen dönemde yeniden yükselerek, kasım başında yeniden yüzde 10'a çıkmıştı. 
+     Reel faiz beklentisi bu yıl ise ocak ayında yüzde 11.7'ye kadar yükseldikten sonra, şubatta yüzde 11.1'e, 
+     martta yüzde 10.9'a inmişti. İkinci yarısında piyasalarda tedirginlik havasının başladığı nisan ayında yüzde 11'e çıkan beklenti, mayıs ayında da yeniden yüzde 12.7'ye ulaştı. 
+     
+     HAZİNE'NİN RİSK PRİMİ 
+     Hazine'nin risk primini gösteren piyasaların ileriye yönelik reel faiz beklentisinin düzeyi, yatırım eğilimi açısından da önem taşıyor. Beklentinin düşmesi faize dayalı enstrümanlara yatırımın cazibesini azaltırken, kaynak kullanım maliyetlerindeki düşüş paralelinde doğrudan yatırımları özendiriyor. Reel faiz beklentisinin yükselmesi ise fonları ranta dayalı enstrümanlara yöneltirken, ihalelerde faiz düzeyini etkileyerek Hazine'nin borç çevirme maliyetini de artırıyor. 
+     
+</TEXT>
+</DOC>

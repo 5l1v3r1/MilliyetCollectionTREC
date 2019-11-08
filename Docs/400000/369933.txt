@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 369933 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/15/son/soneko12.html </URL>
+<DATE> 2005/08/15/ </DATE>
+<TIME> 10.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ISS'lerin ADSL ücretlerinde yeni tarife... 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekom, internet servis sağlaycılarına yönelik ADSL veri akış erişiminde yeni tarife uygulanacağını bildirdi. 
+     TT’den yapılan açıklamaya göre, ilan edilen yeni ücretlere yüzde 18 KDV ve yüzde 15 ÖİV dahil bulunuyor. Söz konusu hizmete ilişkin İSS başvurularının Türk Telekom Pazarlama Dairesi Başkanlığı’na yapılması istendi. İSS’lere yönelik yeni tarife şöyle olacak. 
+     
+
+Hızı Kbit s Bağlantı ücreti Aylık ücret 256 64 59 34.61 512 128 59 70.04 1024 256 59 116.30 2048 512 59 176.03      
+</TEXT>
+</DOC>

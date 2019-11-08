@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 174495 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/08/son/soneko35.html </URL>
+<DATE> 2003/08/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Para piyasalarında bugün... 
+</HEADLINE>
+<TEXT>
+
+     Borsa'da işlem gören hisseler bugün ortalama yüzde 0.10 değer kazandı. 
+     İstanbul Menkul Kıymetler Borsası İMKB Ulusal 100 endeksi, 1. seansta 25.24 puan artışla 11,572.60 puandan kapandı. 
+     2. seansta ise endeks 14.15 puan düşüşle 11,558.45 puandan günü tamamladı. Endeks, günlük bazda 11.09 puan ve yüzde 0.10 yükseldi. 
+     Hisse senetleri piyasasında günlük işlem hacmi 424 trilyon 774 milyar 371 milyon lira oldu. 
+     Gün boyunca sakin bir seyirde işlemlere devam eden piyasanın 11,500 puan seviyelerindeki dengelenme sürecini devam ettirdiğini belirten uzmanlar, önümüzdeki hafta başında 11,600 direnç bölgesinin denenebileceğini savunuyor. 
+     
+     DOLAR 
+     Merkez Bankası, doların bugünkü efektif kurunu alışta 1 milyon 394 bin 172 lira, satışta ise 1 milyon 403 bin 981 lira olarak açıkladı. 
+     Böylece dolar, Merkez Bankası'nın dünkü kurlarına göre, alışta 9 bin 172 lira, satışta ise 9 bin 236 lira düştü. 
+     Serbest piyasada dün 1 milyon 406 bin liradan kapanan Dolar, güne 1 milyon 404 bin liradan, 1 milyon 599 bin liradan kapanan Euro da 1 milyon 595 bin liradan başladı. 
+     Piyasa kapanışında doların satış fiyatı 1 milyon 402 bin liraya, Euro'nun satış fiyatı 1 milyon 589 bin liraya geriledi. 
+     
+     TAHVİL VE BONO PİYASASI 
+     İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda işlem gören 18 Ağustos 2004 vadeli bugün valörlü tahvilin bileşik getirisi 0.37 puan düştü. 
+     Bu kağıdın aynı gün valörlü işlemlerinin basit getirisi yüzde 43.28, bileşik getirisi yüzde 43.03'ten kapandı. 
+     Dünkü piyasa kapanışında bu kağıdın basit getirisi yüzde 43.67, bileşik getirisi yüzde 43.40 olmuştu. 
+     İMKB Tahvil ve Bono Piyasası Repo Pazarı'nda, 3 günlük faiz de ortalama yüzde 31.99 olarak belirlendi. 
+     
+</TEXT>
+</DOC>

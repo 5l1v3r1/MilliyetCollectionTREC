@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 354733 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/23/son/soneko16.html </URL>
+<DATE> 2005/06/23/ </DATE>
+<TIME> 14.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+BKM Çalınan kart numaraları belirlenip, kullanıma kapatıldı 
+</HEADLINE>
+<TEXT>
+
+     Bankalararası Kart Merkezi BKM , ABD'de bulunan CardSystem Solutions isimli şirketten çalınan yaklaşık 40 milyon adet kart bilgisi ile ilgili ''çalınan kart bilgilerinin çok az miktarının yurt içi bankalara ait olduğu tespit edilmiştir'' açıklaması yaptı. 
+     BKM'den gönderilen açıklamada, bu konuda gerek VISA ve MasterCard gerekse yurt içi bankaların, ilgili kart numaralarını tespit ederek kartları kullanıma kapattığı ve yeni kartların müşterilere gönderildiği bildirildi. 
+     Açıklamada, ''Bu olayla ilgili olarak alınan tedbirler çerçevesinde Türk kart sahiplerimizin konu hakkında endişe duymalarını gerektiren bir durum söz konusu değildir'' denildi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 333660 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/15/son/soneko02.html </URL>
+<DATE> 2005/04/15/ </DATE>
+<TIME> 02.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası Wall Street'te, Dow Jones ve Nasdaq endeksleri düştü. 
+     Dow Jones Sanayi Endeksi, 125.18 puan düşerek 10,278.75 puandan kapandı. 
+     Nasdaq Birleşik Endeksi de 27.66 puan azalarak 1,946.71 puana indi. 
+     
+</TEXT>
+</DOC>

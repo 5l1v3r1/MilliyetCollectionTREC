@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 268256 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/01/son/sonyas01.html </URL>
+<DATE> 2004/09/01/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kalp krizini önceden belirleyecek test geliştirildi... 
+</HEADLINE>
+<TEXT>
+
+     Kişinin ileride kalp krizi geçirip geçirmeyeceğinin daha iyi belirlenmesini sağlayabilecek yeni bir kolesterol testi geliştirildi. 
+     Avrupa Kardiyoloji Topluluğu'nun yıllık toplantısında sunulan bir bilimsel rapora göre, yeni yöntemle, ''vücuttaki toplam kolesterolle, iyi HDL ve kötü LDL kolesterolün ölçülmesini'' içeren eski yöntem terk ediliyor ve kötü kolesterolün molekül yapısı inceleniyor. Araştırmacılara göre böylece ''ormana değil, tek tek ağaçlara bakılmış oluyor.'' Yeni yöntemde, HDL ve LDL arasındaki denge değil, LDL parçacıklarının, iyi kolesterol parçacıklarına oranı ölçülüyor. LDL parçacıkları, ''apolipoprotein B molekülleri,'' HDL parçacıkları da ''apolipoprotein A1 molekülleri'' olarak adlandırılıyor. 
+     Eğer oran 1'e 2 ise o kişinin kalp krizi geçirme riskinin düşük olduğu anlaşılmış oluyor. Eğer oran bire bir veya bu dolayda ise riskin yüksek olduğu anlaşılıyor. LDL parçacıkları daha yüksek bir oranda ise çok yüksek bir risk anlaşılıyor. 
+     Yaklaşık 15 bin hasta üzerinde yapılan incelemelerde, yeni testin, eski teste göre kalp krizlerinin öngörülmesinde çok daha doğru sonuç verdiğini kanıtladı. 
+     
+</TEXT>
+</DOC>

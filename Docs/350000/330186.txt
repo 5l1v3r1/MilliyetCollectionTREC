@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 330186 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/04/son/sonyas01.html </URL>
+<DATE> 2005/04/04/ </DATE>
+<TIME> 09.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bir gezegen fotoğraflandı 
+</HEADLINE>
+<TEXT>
+
+     CNN 
+
+Güneş Sistemi'nin dışındaki bir gezegen ilk kez fotoğraflandı. 
+     Almanya'nın Jena kentindeki Astrofizik Üniversitesi uzmanları, üç teleskopu kullanarak 1999'da keşfedilen GQ Lupi'yi görüntüledi. 
+     Jüpiter'in iki katı büyüklüğündeki GQ Lupi, Dünya'dan 400 ışıkyılı uzakta, Güneş'e benzer bir yıldızın yörüngesinde dönüyor. 
+     GQ Lupi'nin bulunduğu sistem, oluşum dönemindeki Güneş Sistemi'yle benzerlik taşıdığı için bilim dünyasını heyecanlandırıyor. 
+     
+</TEXT>
+</DOC>

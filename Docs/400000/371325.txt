@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 371325 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/19/son/sonyas10.html </URL>
+<DATE> 2005/08/19/ </DATE>
+<TIME> 13.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+'Zotob'u bir Türk mü geliştirdi 
+</HEADLINE>
+<TEXT>
+
+     CNNTÜRK 
+
+      Dünyayı etkileyen yeni bilgisayar virüsü 'Zotob'u bir Türk'ün geliştirdiği öne sürüldü. 
+     Wall Street Journal gazetesi, virüsü, 'Diablo' kod adlı bir kişinin geliştirdiğini yazdı. 
+     Bu kod adın da, sıklıkla Türk sitelerinde geçtiği belirtiliyor. Habere göre, 'Diablo' kod adlı kişi, Türkçe yazışmalar yapıyor. 
+     Windows programlarında etkili olan virüs, bilgisayarları da işlem yapamaz hale getiriyor. 
+     Amerika Birleşik Devletleri'nde, aralarında CNN, New York Times ve ABC gibi basın kuruluşlarının da bulunduğu pek çok şirket de bu virüsten etkilendi. 
+     Windows, koruma programı çıkarttı ancak virüsün 11 versiyonu daha üretilince, bu program etkisiz kaldı. 
+     Virüsün yayılmasını önlemek içinse yeni çareler aranıyor. 
+     
+</TEXT>
+</DOC>

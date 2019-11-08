@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 162267 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/10/son/soneko33.html </URL>
+<DATE> 2003/06/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türkiye'nin en hızlı PC oyunları seçilecek... 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayar oyunu olimpiyatı World Cyber Games WCG ile Türkiye'nin PC oyun şampiyonları belirlenecek. 
+     Türkiye elemeleri Samsung Electronics tarafından düzenlenen WGC'ye katılanlar, dünyanın en popüler bilgisayar oyunları Counter Strike, Age of Mythology, Unreal Tournament 2003, Starcraft, Warcraft 3 ve FIFA 2003 oyunlarında yarışacaklar. 
+     4 Temmuz'dan itibaren kayıtları www.worldcybergames.com.tr adresi üzerinden yapılacak olan WCG'nin ön elemeleri, 12 Temmuz-30 Ağustos tarihleri arasında yapılacak. 
+     Yarışmanın ön elemeleri İstanbul, Ankara, İzmir, Antalya, Adana, Eskişehir, Trabzon, Samsun, Bolu, Balıkesir, Konya, Kayseri, Gaziantep, Denizli, Bursa, Lefkoşa, Isparta ve Diyarbakır'da seçilen internet cafelerde gerçekleştirilecek. 
+     İstanbul'daki Türkiye finallerinde dereceye girenler, Güney Kore'nin başkenti Seul'de yapılacak büyük finale katılmaya hak kazanacaklar. Unreal Tournament'in birinci ve ikincileri ile diğer oyunların birincileri, 12-18 Ekim tarihlerinde 57 ülkenin katılımıyla yapılacak dünya finallerinde Türkiye'yi temsil edecekler. 
+     Escort ve Intel'in donanım sponsorluğunu üstlendiği WCG 2003'ün yazılım sponsoru Microsoft, altyapı sponsoru Armada ve APC, basın sponsoru ise bilgisayar oyunu dergisi Level. WCG 2003 Türkiye elemelerinin organizasyonu Sibelig, internet çözümleri ise DNA tarafından sağlanacak. 
+     
+</TEXT>
+</DOC>

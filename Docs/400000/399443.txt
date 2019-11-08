@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 399443 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/30/son/sonyas19.html </URL>
+<DATE> 2005/11/30/ </DATE>
+<TIME> 14.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Japonlar, cerrah adaylarını eğitecek robot geliştirdi... 
+</HEADLINE>
+<TEXT>
+
+     Japon araştırmacılar, cerrah adaylarının eğitimi için bir robot geliştirdi. 
+     Nagoya Üniversitesi araştırmacılarının damarlara yapılması gereken hassas müdahaleler konusunda cerrah adaylarının eğitim almasına olanak sağlaması için tasarladıkları ''mikro-cerrahi'' robotunun prototipinin, Tokyo'da devam eden uluslararası robot fuarında 4 gün boyunca sergilendiği belirtildi. 
+     Robotun, cerrah adaylarının, zor damar müdahalelerinde riske mahal vermeden ameliyat yapabilmelerine olanak sağlamayı amaçladığı belirtildi. 
+     Cerrah adayı tarafından yönlendirilen robot, kullanıcısına, gerçeğe çok yakın şartlarda gereken teknikleri incelemesini sağlıyor. 
+     Bu arada, başka Japon araştırmacıların, tıp alanında kullanılmak üzere robotlar geliştirmek için çalışmalarını sürdürdüğü, bu araştırmaların beden üzerinde yapılan çalışmayı kolaylaştırmanın yanı sıra hastaların fiziksel ya da moral güçlerini toplamalarına yardım etmek amacını taşıdığı belirtildi. 
+     Yakınlarından uzakta bulunan yaşlılara eşlik eden bir ''bebek fok'' robotunun, birkaç huzurevi ve hastanede hizmete girdiği de ifade ediliyor. 
+     
+</TEXT>
+</DOC>

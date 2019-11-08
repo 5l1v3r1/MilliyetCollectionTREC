@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 208584 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/14/son/soneko13.html </URL>
+<DATE> 2004/01/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Taşıt vergisinde mahsuplaşma için bankalar program yazıyor 
+</HEADLINE>
+<TEXT>
+
+     Motorlu Taşıtlar Vergisi'nde bu yıl yeni sisteme gidilirken, geçen yıl yatan ek vergilerin mahsup işlemi nedeniyle her banka yeni duruma uygun bilgisayar programını oluşturmaya çalışıyor. 
+     Bu ay başından itibaren yatırılması gereken Motorlu Taşıtlar Vergisi'nin ilk taksiti bankaların program çalışmaları nedeniyle tahsil edilemiyor. 
+     İçinde mahsup işlemini barındırması nedeniyle bunun daha önceki Motorlu Taşıtlar Vergisi tahsilatından farklı olduğu vurgulanarak, eski sistemle uyuşmadığı ifade ediliyor. 
+     
+     ZİRAAT'IN ÇALIŞMALARI SÜRÜYOR 
+
+     Öte yandan, Ziraat Bankası Maliye Bakanlığı'dan plaka numaralarına göre kişilerin fazladan ödedikleri vergilere ilişkin tutarları alırken, bilgisayar programı çalışmalarını sürdürüyor. 
+     Şu anda programın testlerinin sürdürüldüğü ifade edilirken, en geç Pazartesi gününe kadar sistemin hazır hale gelerek vatandaştan tahsile başlanacağı vurgulanıyor. 
+     Bu arada, Ocak ayının ortalarına gelindiği hatırlatılarak, bankaların vergi tahsilatında sıkışma yaşabileceğine dikkat çekiliyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> 401805 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/08/son/sontur22.html </URL>
+<DATE> 2005/12/08/ </DATE>
+<TIME> 11.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sistemi kurulmadı ama 3. Nesile uyumlu 300 bin cep telefonu satıldı 
+</HEADLINE>
+<TEXT>
+
+     
+     Suat KARABIYIK 
+     
+Türkiye’de, henüz sistemi kurulmamış olmasına rağmen görüntülü telefondan mobil bankacılığa kadar pek çok yeni imkan sunacak 3. nesil mobil haberleşme sistemine uyumlu 300 bin cep telefonu satıldı. 
+     "3G" diye adlandırılan 3. nesil mobil haberleşme sistemi, dünyada bütün operatörler tarafından test ediliyor. Türkiye’de de Telekomünikasyon Kurumu, cep telefonu operatörlerine test çalışmaları için izin verdi. 
+     GSM operatörleri, bu teknolojinin olanakları ve sunulabilecek imkanları araştırırken, diğer yandan henüz Türkiye’de kullanılmayan bu teknolojiye uyumlu 300 bin adet cep telefonunun Türk kullanıcılara ulaştığı saptandı. 
+     Telekomünikasyon Kurumu Lisans ve Sözleşmeler Dairesi Başkanı Müminhan Bilgin, AA muhabirine yaptığı açıklamada, Türkiye’nin genç ve büyük bir nüfus potansiyeline sahip olduğunu ancak sosyal yönden gelir durumunun her aile için değişiklik gösterdiğini ifade etti. Buna rağmen Türkiye’de Avrupa ülkelerinin tersine cep telefonunun çok sık değiştirildiğini vurgulayan Bilgin, şunları söyledi 
+     "Nokia’nın üretildiği Finlandiya ve Ericsonn’un üretildiği Norveç’te hala 1995 modelleri taşınırken Türkiye’de kullanıcıların elinde 300 bin civarında 3. nesil cep telefonu var. Bunun anlamı, milyonlarca dolar dışarıya gitti demektir. Getireceğimiz teknolojiyi iyi düşünmeliyiz. Bu telefonlarda bu teknoloji kullanılıyor olsa hiç gam yemeyeceğiz ama ne olduğunu çoğu kullanıcı bilmiyor. Üstelik bu telefonlar 1 milyar lira civarında fiyatlarla satılıyor. Ama ne işe yaradığını bilmiyoruz." 
+     
+     "ÜLKEYİ ARENAYA DÖNÜŞTÜRMEYELİM" 
+     İngiltere’de yapılan bir araştırmada, cep telefonu cihazlarının fonksiyonlarını bilme oranının yüzde 45’ler düzeyinde saptandığını anımsatan Bilgin, Türkiye’de de makinaların ne kadar etkin kullanıldığının bilinme oranının düşük olduğunu kaydetti. Bilgin, "Bu nedenle teknolojiyi ülkeye getirirken çok dikkatli ve kontrollü olmak zorundayız. Ülkemizi teknoloji çöplüğüne ya da teknolojilerin çarpıştığı arenaya dönüştürmemeliyiz" diye konuştu. 
+     3. nesil mobil haberleşme sisteminin, halen kullanılan sistemle 
+     karşılaştırıldığında, hız ve kapasitesindeki üstünlük nedeniyle yeni olanaklar sağlanacağına dikkati çeken Bilgin, bu teknolojinin kullanıcılara görüntülü telefondan mobil bankacılığa yeni imkanlar sunacağını söyledi. Bilgin, bu teknolojinin Türkiye’de kullanımı için operatörlerin test çalışmalarını sürdürdüklerini, Telekomünikasyon Kurumu’nun da bu teknolojiyle hizmet sağlayacak işletmecilere lisanlarının verilmesi için dünyadaki örnekleri incelediğini, bu konudaki politikanın Ulaştırma Bakanlığı tarafından belirlendiğini kaydetti. 
+     
+     CEP TELEFONU, KİMLİK KAZANDIRIR MI 
+     Mobil İletişim Sistemleri ve Araçları İş Adamları Derneği MOBİSAD Başkanı Murat Dursun, sektörde cep telefonu kirliliği yaşandığını, 3G ile sağlanacak hizmetler devreye girmemiş olmasına rağmen insanların yurtdışından ya da yurtiçinden bu fonksiyonları da taşıyan cihazları satın aldıklarını ifade etti. 
+     Bu cihazların satılması için Türkiye tarafından yoğun bir ithalat yapılmadığını belirten Dursun, halen kullanılan mobil teknolojiye uyumlu cep telefonlarının satılma imkanı varken 3G’ye uyumlu telefonların ithalatının üreticinin ve ithalatçının işine gelmeyeceğini dile getirdi. 
+     Dursun, "Ben bu telefonların tercih edilmesini tüketicinin bilinçsiz alışveriş yapma alışkanlığına yoruyorum. İşletmeciler, üreticiler ya da ithalatçılar tarafından bunun istismar edildiğine inanmıyorum" dedi. 
+     
+     "BİLİNÇSİZ TÜKETİM ÖZENTİSİ" 
+     Gelişmemiş toplumların "en iyisine ve en yenisine sahip olmak" gibi karakteristik bir davranış biçimi olduğuna da işaret eden Dursun, şunları kaydetti 
+     "Cep telefonlarını kullanarak kimlik kazanmaya çalışıyoruz. 
+     Kimlik test etmeye çalışıyoruz. Maalesef böyle. Cep telefonunun ortalama kullanılma ömrü Türkiye’de 1,5 yıl, Avrupa’da ise 2,5 yıl dolayındadır. Bize zaten eski teknoloji ürünler gelmiyor. Ülkeler bu konuda entegre olmuş durumda. ABD, Almanya ya da İngiltere’de çıkan cihaz anında Türk pazarına da geliyor ve satılıyor. Dolayısıyla bu konuda maalesef bir sorun var. Bunun önüne geçmek lazım. Bunu, bilinçsiz tüketim ya da tüketim özentisi olarak tanımlayabiliriz." 
+     
+</TEXT>
+</DOC>

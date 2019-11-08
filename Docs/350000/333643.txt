@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 333643 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/15/son/sondun48.html </URL>
+<DATE> 2005/04/15/ </DATE>
+<TIME> 16.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+"Angola'daki Marburg salgınında ölü sayısı 215'e yükseldi" 
+</HEADLINE>
+<TEXT>
+
+     Dünya Sağlık Örgütü DSÖ , Angola'da Marburg virüsünden ölenlerin sayısının 215'e yükseldiğini bildirdi. 
+     DSÖ sözcüsü Fadela Chaib, ülkede virüsü alan kişilerin sayısının da 235'e çıktığını belirterek, bunlardan 208'inin kuzeydeki Uige bölgesinde yaşadığını söyledi. 
+     Ebola'ya benzer bir virüs olan öldürücü Marburg virüsü ilk defa 1967 yılında Uganda'dan Almanya ve Yugoslavya'ya ithal edilen hastalıklı maymunlardan insanlara bulaşmasıyla ortaya çıkmıştı. 
+     Hastalığın belirtilerinin başağrısı, mide bulantısı, kusma ve kanlı ishal olduğu ifade ediliyor. 
+     
+</TEXT>
+</DOC>

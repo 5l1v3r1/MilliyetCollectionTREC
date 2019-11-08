@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 405809 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/22/son/sonyas02.html </URL>
+<DATE> 2005/12/22/ </DATE>
+<TIME> 07.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilim sıcak buz üretti 
+</HEADLINE>
+<TEXT>
+
+     DIŞ HABERLER SERVİSİ 
+
+Güney Koreli bilim adamları, oda sıcaklığında buz elde etti. Su kütlelerini düşük şiddetteki elektrik alanından geçiren araştırmacılar, suyun katı haline oda sıcaklığında ulaşmayı başardı. Normalde sıfırın altındaki sıcaklıklarda donan suyun oda sıcaklığında dondurulmasına "sıcak buz" deniliyor. 
+     Araştırmada suyu, sıcak buz haline getirmek için yalnızca 106 voltluk bir elektrik geriliminin yeterli olması bilim adamlarını şaşırttı. Su kütlesine uygulanan elektrik alanının, su molekülünü oluşturan hidrojen ve oksijen atomlarını daha düzenli bir yapıda birarada bulunmaya zorladığı tahmin ediliyor. 
+     Bu araştırmayla bilim adamları bulutların oluşumu konusundaki bazı sırları da çözebilecek. Mevcut bilgilere göre su damlacıkları havadaki toz taneleriyle birleşerek farklı sıcaklıklarda farklı biçim ve nitelikte bulutların oluşmasına yol açıyor. Bazı bulutlar yağmur, bazıları dolu ve kar yüklü oluyor. Koreli araştırmacılar, 106 voltluk elektrik gerilimin doğada sıkça rastlandığına dikkat çektiler. 
+     
+</TEXT>
+</DOC>

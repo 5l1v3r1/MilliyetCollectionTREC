@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 236460 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/01/son/soneko08.html </URL>
+<DATE> 2004/05/01/ </DATE>
+<TIME> 10.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft'a Türk enflasyon programı... 
+</HEADLINE>
+<TEXT>
+
+     İzmir'deki Center bilgisayar firmasının, hazırladığı enflasyon muhasebesi hesaplama programıyla Microsoft Office 2003 program paketine girmeyi başardığı bildirildi. 
+     Center Bilgisayar Hizmetleri Kollektif şirketi ortaklarından Ecmel Bircan, AA muhabirine yaptığı açıklamada Microsoft'tan gelen talep üzerine enflasyon muhasebesi uygulamasının getirdiği karışık işlem yükünü basitleyen bir program yazdıklarını söyledi. 
+     Microsoft'un ilk kez Türkiye'de hazırlanan bir programı listesinde pazarladığını belirten Bircan, şunları kaydetti 
+     ''Yeni uygulamaya geçen enflasyon muhasebesi sistemiyle muhasebe hesap sistemlerinde önemli değişikler yaşandı. Hesaplamaların karışıklığı ve geçmiş dönemlere ilişkin enflasyon bilgilerinin de gerekli olması sorunu derinleştiriyordu. Microsoft, bu sorunu çözebilecek bir program yazılması için bize başvurdu. Yazdığımız programı sunduk, onlar da bunu ürün haline getirerek Office program listesine koydu. Microsoft ilk defa Türkiye'den aldığı bir programı Office program listesine koyarak pazarlamaya başladı.'' 
+     
+     30 YILLIK BİLGİ 
+     Programın tanıtım toplantıları sonrası muhasebeci ve mali müşavirlerden yoğun talep alındığını belirten Bircan, Microsoft'la birlikte yeni projeler üzerinde çalıştıklarını dile getirdi. 
+     Yaptıkları araştırmada, benzeri bir programın dünyada bulunmadığını öğrendiklerini dile getiren Bircan, ''Yüksek enflasyon olan ülkelerde enflasyon muhasebesi sistemine geçiliyor. Ancak Türkiye'de yüksek enflasyona rağmen bu sisteme ancak bu yıl başında geçilebildi. Bu nedenle hesaplamada geçmiş yılların değerlerinin de bilinmesi gerekiyor. Hazırladığımız program 30 yıllık enflasyon bilgilerine sahip. Dağıtımı ve pazarlaması Microsoft tarafından yapılan ürünün 1000 adedin üzerinde satılmasını hedefliyoruz'' dedi. 
+     Bircan, daha önce yaptıkları ''Office üzerinde akıllı etiket uygulaması'' çalışmasıyla Microsoft Türkiye tarafından ''Örnek Çalışma Ödülü'' ve ''KOBİ'lere Yönelik Yılın Pazarlama Çalışması'' ödüllerini aldıklarını sözlerine ekledi. 
+     
+</TEXT>
+</DOC>

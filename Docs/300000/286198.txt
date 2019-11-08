@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 286198 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/04/son/sonyas09.html </URL>
+<DATE> 2004/11/04/ </DATE>
+<TIME> 10.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İlk kez ameliyatsız yapay kalp pompası takıldı 
+</HEADLINE>
+<TEXT>
+
+     İngiltere'de ilk kez bir hastaya ameliyatsız olarak yapay kalp pompası takıldığı açıklandı. 
+     Londra'daki ünlü Hammersmith Hastanesi doktorlarının, sadece 4 milimetre genişliğindeki yapay pompayı, hastanın kasığındaki atardamardan soktukları ve rehber kablolar sayesinde kalbe kadar ilerlemesini sağladıkları bildirildi. 
+     Uygulanan yöntemin açık ameliyat edilemeyecek kadar hasta olan kişinin durumundaki herkes için büyük umutlar vaat ettiğini belirten Operatör Doktor Peter Smith, Impella Recover adlı mini pompanın hastanın kalbinin en büyük bölümü olan sol karıncığına yerleştirildiğini söyledi. 
+     Pompanın ağır bir bay-pass ya da kalp krizinin ardından hastanın kalp kaslarına gereken desteği vermeye yönelik olarak kullanıldığını belirten doktorlar, hastanın toparlanmasının ardından pompanın vücuttan aynı yolla çıkartıldığını kaydetti. 
+     Dr. Kevin Beatt de pompanın çok küçük olmasına rağmen dakikada 2,5 litre kan pompalayabildiğini bildirdi. Pompanın çok küçük olması sayesinde ameliyatsız olarak kalbe yerleştirilebildiğini belirten Beatt, bunun için kasıkta bulunan atardamarda küçük bir delik açmanın yeterli olduğuna dikkat çekti. 
+     Uzmanların verdikleri bilgilere göre, pompa kasıktan sokulduktan ve rehber teller vasıtasıyla kalbe ilerletilmesinden sonra doğru yere yerleştirilebilmesi için röntgen teknolojisinden yararlanılıyor. 
+     Elektrik motoruyla çalışan pompanın şarj edilebilmesi için de hastanın vücudundan çıkartılan 3 milimetrelik bir tel kullanılıyor. Bu tel aynı zamanda kontrolü sağlayan bir cep bilgisayarıyla da bağlantıyı sağlıyor. Hastanın durumunda iyileşme sağlandıktan sonra pompanın aynı yoldan çıkarılması sağlanıyor. 
+     
+</TEXT>
+</DOC>

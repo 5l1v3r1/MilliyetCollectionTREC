@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 160730 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/03/yazar/gunes.html </URL>
+<DATE> 2003/06/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Hurşit GÜNEŞ  </AUTHOR>
+<HEADLINE>
+Tüketimde patlama eğilimi gözleniyor 
+</HEADLINE>
+<TEXT>
+
+     Tüketimin ölçülmesi elbette birkaç yöntemle mümkün. Örneğin, Maliye'nin KDV tahsilatına bakılabilir. Burada artışlar varsa satışlar da artıyor demektir. Bir diğer yöntem, bazı kritik mallara ya da dükkanlara bakmaktır. Ve nihayet, dünyada en yaygın yöntemi Tüketici Güven anketleridir. Böylece tüketicinin bakışı gözlenir. Ülkemizde iki yıldır CNBC - E bunu ele alıyor. Dün açıklanan rakamlar da, ekonomide canlanmanın başladığını, hatta dikkat edilmezse bir ısınmanın bile yaşanabileceğine işaret etmekte. 
+     Yan üstteki grafikte de gözlendiği gibi, Başbakan Ecevit'in hastalanması ile 2002 yılının Mayıs ayında tüketici güveninde ilk iniş yaşanmış, daha sonra AB ve seçim kararlarıyla bir toparlanma oluşmuş, seçim sonuçlarıyla ise tüketici çok önemli bir güven kazanmıştı. Ancak daha sonra hükümetin kararsız tutumu, gergin iç siyasi ortam ve Irak savaşının yaklaşması nedeniyle, tüketici güveni yine rekor düzeyde sarsılmıştı. Son iki aydır, yani savaşın sona ermesiyle beraber, bu sarsılmanın tekrar, hem de önemli boyutlarda, toparlanmaya dönüştüğü anlaşılıyor. Grafik incelendiğinde, olağanüstü gelişmeler oluşmadığı takdirde, bu trendin süreceği de anlaşılıyor. 
+     Tüketici güven endeksinin en önemli parçalarından biri de tüketim eğilimi endeksi. Bu endeks, bireylerin bugün çeşitli dayanıklı tüketim mallarını satın almak için uygun zaman bulup bulmadıklarını belirliyor. İlginçtir, en büyük sıçrama bu endekste gözleniyor. Olumlu yanıtlar iki ayda ikiye katlanıyo. 
+     Tüketim patlamasının bize kalırsa, dört nedeni var. Biri kurdaki aşırı revalüasyon ve ithalatın artması. Bir diğeri kamu maliyesindeki disiplinin göreli gevşekliği. Tabii iki yıldır ertelenmiş tüketimin de artık ertelenemez hale gelmesi bunu güçlendiriyor. İlelebet tüketim ertelenemez ya. Nihayet ekonomide yakın gelecekte önemli bir sorun gözlenmiyor. 
+     Yaz aylarında eksi enflasyon, yani deflasyon, çıkabilir. Ancak görüldüğü gibi, ister adına "canlanma" densin, istenirse "ısınma" densin, ekonomide belli bir toparlanma yaşanıyor. Bu eğer hızlanırsa, enflasyon da toparlanabilir. Özellikle kamu maliyesinde bir gevşeme gözlenirse. 
+     Bu verilerden sonra mayıs ayı perakende satışları büyük önem kazanıyor. Sonuçlar tüketici güveni endeksini tekrar onaylarsa, bu yıl büyük olasılıkla öngörülenden daha yüksek bir büyüme gerçekleşebilir. Bu anlamda haziran ayı enflasyonu ve perakende satışları da kritik bir rol taşıyor. 
+     
+     
+
+</TEXT>
+</DOC>

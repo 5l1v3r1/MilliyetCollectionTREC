@@ -1,0 +1,44 @@
+<DOC>
+<DOCNO> 331330 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/08/yasam/axyas02.html </URL>
+<DATE> 2005/04/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+'B.B. adını gören kaçsın' 
+</HEADLINE>
+<TEXT>
+
+
+Dolandırıcılık yaparak insanların banka hesaplarını boşaltan çetenin 17 yaşındaki üyesi B.B., 'sanal dünyanın kirli kahramanı' olarak tanınıyor 
+
+İSTANBUL Milliyet 
+
+İstanbul Şişli'de yapılan bir operasyonla, önceki gün, internette işlem yapan banka müşterilerine ait bilgileri elde ederek dolandırıcılık yaptıkları öne sürülen biri kadın 4 kişi yakalandı. Operasyonun ilgi çekici yanlarından biri de 17 yaşındaki hacker B.B. oldu. 
+'Phishing' adlı yöntemle piyasayı dolandıran şebekenin 17 yaşındaki hacker'ı B.B., sanal lemde adı sık duyulan bir kişi. Bir arkadaşıyla birlikte tutuklanarak cezaevine gönderilen hacker B.B. hakkında internette birçok iddia yer alıyor. B.B. en çok, 'server' yani internet servis sağlayıcı olarak hizmet verdiğini duyurarak, sitelere satış yapıp sonra ortadan kaybolmakla suçlanıyor. 
+
+'Sektörün kara lekesi' 
+Forum sitelerinde B.B. ile ilgili uyarılar bulunuyor. Örneğin "ovetto" isimli sitede "B.B. ismini gördüğünüz yerden kaçın... B.B. inanılmaz tekliflerle ona zerre kadar inanmayanların bile aklını çeliyor. İmk nsızı satmaya çalışıyor. Sonucu da hep hüsran oluyor. Ülkemizdeki light bilişim hukuku, bu adama ne yazık ki yeterince etki edemiyor" deniliyor. B.B. aynı sitede sektörün kara lekesi olmakla da suçlanıyor. Kredi kartı dolandırıcılığı gibi suçlamalara da adının karıştığı öne sürülerek, "B.B.'den uzak durun" uyarısı yapılıyor. 
+
+Yönetim kurulu başkanı 
+B.B., internete kendini tanıttığı ve 11 Temmuz 2004'te güncellediği bilgilere göre, Diyarbakır doğumlu. O dönem 16 yaşında olmasına rağmen kendisini sistem mühendisi olarak tanıtıyor. Baysan Networks Yönetim Kurulu Başkanı olduğunu kaydeden B.B., ek bilgiler bölümünde ise "Tuğçe seni unutmadım" yazıyor. 
+2000'lerin başından itibaren faaliyetlerini Diyarbakır'dan sürdüren B.B., internette çıkan yazılara göre 3 kişiyle birlikte çalışıyor. 
+
+İnternette işlem yaparken bunlara dikkat 
+
+Tanımadığınız kimselerden gelen mesajları silin, yanıtlamayın."Aşağıdaki bağlantıya tıklayın" gibi elektronik posta isteklerine uymayın.Elektronik postanın kimden geldiğinden emin olamıyor veya gönderilen içerikle ilgili bazı şüpheleriniz oluyorsa, sizden bilgi talep ettiğini öne süren kuruluşla irtibata geçin.Bankanızdan gelen kart ekstrelerini düzenli olarak kontrol edin.Şifrelerizi belli aralıklarla değiştirin.İnternet tarayıcınızın sağ alt kısmında yer alan kapalı kilit işareti, güvenli ve şifrelenmiş bir sayfada işlem yaptığınızın işaretidir.Sahte sitelerde, çoğu zaman 'sayısal adresler' kullanılır. Eğer bu tür bir durumla karşılaşırsanız, direkt olarak çalıştığınız kuruluşla irtibata geçin.Ziyaret ettiğiniz web sitelerinde adresler çoğunlukla adres kısmı, ardından firmanın ve şirketin ismine ek olarak, com, org, net gibi uzantılarla biter. Örneğin https www.disbank.com.tr Buna dikkat edin. 
+
+Oltaya nasıl takılınır 
+
+Çete, kişisel bilgi ve şifrelere B.B.'nin de yardımıyla "phishing" yöntemiyle ulaşıyordu. İngilizce "balık tutma" anlamına gelen "fishing" sözcüğünün 'f' harfinin yerine 'ph' harflerinin konulmasıyla türetilen kelime, oltayı attığınız zaman en azından bir balık yakalayabileceğiniz düşüncesinden esinlenerek oluşturulmuş. "Phishing" yöntemi şöyle işliyor 
+1- Hacker, önce bir bankanın ya da kişisel bilgiler doğrultusunda hizmet veren bir kuruluşun web sayfasını kopyalıyor. 
+2- Hedef seçilen kişiye, 'bankadan geliyormuş gibi' bir elektronik posta gönderiliyor. Şifresinin süresinin dolduğu belirtilerek güncellemesi isteniyor. 
+3- Müşteri de kendisine gönderilen elektronik postadaki linke 'tık'layarak, bankanın çete tarafından kopyalanmış sitesine giriyor. 
+4- Güvenli sitede işlem yaptığını sanan müşteri, ekranda şifre değiştirme işlemi yapıyor. Oysa geçerli olmayan bu işlemle gerçek şifresini çoktan hacker'a kaptırmış oluyor. 
+5- Hacker da müşterinin değiştirdiğini sandığı eski şifresini kullanarak, banka hesabını boşaltıyor. 
+
+
+
+</TEXT>
+</DOC>

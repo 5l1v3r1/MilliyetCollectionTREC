@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> 110921 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/10/03/yasam/yas09.html </URL>
+<DATE> 2002/10/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternette yeni tehlike Umacı 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayar kullanıcılarının, kredi kartı numaraları da dahil olmak üzere bilgisayarda kayıtlı bilgilerini ele geçirip "hackerlara" postalayan bir virüs keşfedildi. Bugbear Umacı adındaki virüs, elektronik posta yoluyla gönderildiği bilgisayara yerleşiyor. Pazartesi günü keşfedilen virüs, aktif duruma geçtiğinde kişinin klavyede yaptığı tüm tuşlamaların kaydını tutan bir dosya hazırlıyor. Bu dosyada kredi kartı numaralarından, gizli şifrelere kadar birçok kişisel bilginin kaydı yer alabiliyor. Ardından bu dosyayı e - posta aracılığıyla virüsü postalayan "hacker"a gönderiyor. Şu ana dek Umacı’ya karşı herhangi bir antivirüs yazılımı geliştirilemedi. 
+     
+
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 264996 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/20/son/soneko17.html </URL>
+<DATE> 2004/08/20/ </DATE>
+<TIME> 12.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Avea'dan ''bas-konuş'' hizmeti... 
+</HEADLINE>
+<TEXT>
+
+     Avea, abonelerin bir tuşa basarak aynı sisteme sahip cep telefonlarıyla bir ya da birçok kişiyle GPRS altyapısı üzerinden konuşabilecekleri ''bas-konuş'' hizmeti verecek. 
+     Avea'dan yapılan açıklamaya göre, Türkiye'de ilk kez Avea abonelerinin kullanacağı servis, birebir ya da grup içinde sesli iletişimi sağlayarak, kişileri tek tek aramak yerine oluşturulmuş gruplara ya da bireylere tek tuşla ulaşma imkanı sağlıyor. 
+     Öncelikle sahada görev alan ve ekip halinde çalışan kurumsal abonelere yönelik sunulacak servis, şu anda bazı kurumlarda deneme amaçlı kullanılırken, Eylül ayından itibaren de abonelerin hizmetine sunulacak. 
+     Servisin hedef kiltesini öncelikle sahada görev alan ve ekip halinde çalışan kurumsal aboneler oluşturuyor. Bas-konuş, sohbet amaçlı arkadaş grupları ile günlük hayatta yapılan kısa konuşmalarda da kullanılabilecek. 
+     Servisi kullanmak isteyen abonelerin, sisteme uyumlu cep telefonlarından kontak listesindeki kişi veya grubu seçerek bas-konuş tuşuna basmaları gerekecek. 
+     Sistemin işleyişi sırasında konuşmak için basılı tutulan tuş bırakıldığında karşı taraf konuşma imkanı bulacak ve arayan kişi dinlemeye başlayacak. Aranan kişi veya grup üyesi de aynı şekilde konuşmayı başlatabilecek. Kontak listesinde kullanılan numaralar kişilerin Avea numaraları olduğundan, abonelerin servis için ayrıca numara alması gerekmiyor. 
+     Avea Genel Müdürü Cahit Paksoy, amaçlarının GSM sektörüne pozitif rekabeti getirmek suretiyle hizmet kalitesini artırmak ve kullanıcıların memnuniyetlerini maksimum seviyeye taşımak olduğunu vurguladı. 
+     Paksoy, bu gibi hizmetleri vermeye devam edeceklerini belirterek, abonelerin bas-konuş servisini, 31 Ağustos-5 Eylül tarihleri arasında gerçekleştirilecek CeBIT Bilişim Eurasia Fuarı'nda test etme imkanı bulabileceklerini bildirdi. 
+
+     
+</TEXT>
+</DOC>

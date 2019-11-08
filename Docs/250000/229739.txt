@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 229739 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/08/son/sonyas15.html </URL>
+<DATE> 2004/04/08/ </DATE>
+<TIME> 12.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dünyanın en küçük otomobili 'Clever' geliyor 
+</HEADLINE>
+<TEXT>
+
+     İngiltere'de, üzerinde çalışılan ''Clever'' adlı üç tekerlekli mini otomobilin ilk prototipinin gelecek yıl tamamlanması bekleniyor. 
+     Bath Üniversitesi bilim adamları tarafından geliştirilen, doğalgazla çalışacak otomobilin bir metre genişliğinde olacağı ve saatte 76 km hız yapabileceği belirtildi. 
+     İngiliz basını, halen trafikteki bazı küçük otomobil modellerinden çok daha ekonomik ve çevre dostu olacak aracın üretim projesini AB'nin de desteklediğini ve 1,5 milyon sterlin destek sözü verdiğini yazdı. 
+     Aracın ilk prototipinin gelecek yıl tamamlanabileceğini belirten Bath Üniversitesi bilim adamları, aracın bir otomobilin güvenliği ile bir motorsikletin manevra kabiliyetini bir arada barındıracağını söylediler. 
+     Aracın seri üretilmesi halinde fiyatının yaklaşık 6500 sterlin 16 milyar lira olacağını belirten bilim adamları, doğalgazla çalışacak otomobilin çok kullanışlı olacağını kaydettiler. 
+     Otomobilin tasarımında çalışan ekipten mühendis Ben Drew, yakıt ihtiyacının çok kolay yöntemlerle giderilebileceğini, hatta evde bile dolum yapılabileceğini söyledi. 
+     Clever'ın ortalama bir aracın beşte biri kadar yakıt tüketeceği, araçta arka arkaya oturabilecek bir sürücü ve bir yolcunun seyahat edebileceği belirtildi. 
+
+     
+</TEXT>
+</DOC>

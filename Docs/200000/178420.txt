@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 178420 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/27/son/sondun23.html </URL>
+<DATE> 2003/08/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Virüslerin nedeni ortaya çıktı... Yıllık zarar 60 milyar dolar 
+</HEADLINE>
+<TEXT>
+
+     Son günlerde interneti kilitleyen virüslere, aceleyle ve dikkatsizce hazırlanan kötü yazılımların neden olduğu bildirildi. 
+     Uzmanlar, bu yazılımlardaki boşluklardan yararlanan hacker'ların yazdıkları virüslerin, kullanıcı ve yazılımcılara yüklediği zararın yıllık tutarının 22.2 ile 59.5 milyar dolar arasında değiştiğini söylediler. 
+     Wall Street Journal WSJ gazetesinde yer alan incelemeye göre, bu masrafa kuruluşların uğradıkları zararlar dahil değil. 
+     Bilgisayar sanayisinde son 30 yılda yaşanan başdöndürücü gelişmenin, yazılımlarda mükemmeliyetten çok sürat aranmasına yol açtığına dikkat çeken WSJ, ''Yazılımların önce süratli şekilde hazırlanarak piyasaya verildiğini, daha sonra bunlarda ortaya çıkan boşluk ve hataların yamalarla giderilmesine çalışıldığını'' vurguladı. 
+     Haberde ''Yamaların her zaman açığı kapamada başarılı olmadığı, hatta zaman zaman başka sorunlara bile yol açtıklarına'' dikkat çekildi. 
+     
+     BILL GATES'E ELEŞTİRİ 
+     Microsoft'u hedef alan son Blaster virüsünün kodunu inceleyen uzmanlar çok ilginç bir cümleye rastladılar. 
+     Hacker'lar yazdıkları kodun içine ''Bill Gates, buna neden müsaade ediyorsun Para kazanmayı bırak da yazılımını düzelt'' tarzında bir cümle yerleştirmişlerdi. 
+     Virüslerin gelecekte, şimdiye kadar verdikleri zararların çok daha fazlasını vermelerinden endişe eden uzmanlar, CSX Corp. adlı taşımacılık şirketinin Blaster virüsü yüzünden trenlerle yaptığı nakliyatı durdurmak zorunda kaldığını, Air Canada firmasının ise uçuşlarını iptal ettiğini hatırlatıyorlar. 
+     Olayın ciddiye alınmasını isteyen IBM'in eski müdürlerinden Watts Humphrey, ''Yazılım hatalarının ölüm ya da ciddi yaralanmalara bile yol açabileceğini'' söyledi. 
+     WSJ'nin haberinde günümüzdeki yazılımcılar, 1970'lerdeki otomobil sanayicilerine benzetildi ve ''bu sanayiciler daha iyi üretilen ve az benzin yakan Japon arabalarını örnek alarak forma girdiler. Son virüs saldırıları da yazılımcıların kendilerine gelmelerine yardımcı olabilir'' denildi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 171384 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/24/son/soneko01.html </URL>
+<DATE> 2003/07/24/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Wall Street yükselişle kapandı 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Borsası günü yükselişle kapadı. 
+     Dow Jones sanayi endeksi 35,79 puan yükselişle 9194,24'den, Nasdaq endeksi ise 13,08 puan düşüşle 1719,18'den kapandı. 
+     
+</TEXT>
+</DOC>

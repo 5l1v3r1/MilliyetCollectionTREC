@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 59263 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/12/27/son/sondun04.html </URL>
+<DATE> 2001/12/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayar virüsleri 2002'de daha da etkili olacak 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayar virüslerinin, 2002 yılında, bu yıla oranla daha etkili olacağı belirtildi. 
+     Symantec firması yetkilisi Vincent Weafer, virüsler ve kendi kendine yayılan kurtların sadece bilgisayar sistemlerini değil, cep bilgisayarları ve cep telefonlarını da etkilemesinden endişe edildiğini söyledi. Weafer, ''Bilgisayar kullanıcıları 2002 yılında, 2001'den daha fazla virüsle mücadele etmek zorunda kalacaklarını 
+     bilsinler'' dedi. 
+     En zararlı virüslerin, elektronik posta yoluyla değil, Microsoft'un internet bilgi ağ yazılımı aracılığıyla yayıldığı belirtiliyor. 
+     Bunun en son örneği, etkilediği 300 bin bilgisayarda, toplam 2.6 milyar dolar zarara neden olan ''Kızıl Kod'' adlı virüs oldu. 
+     Uzmanları kaygılandıran bir diğer sorun ise ''hacker'' adı verilen bilgisayar korsanları ile virüs programı yazanların işbirliği yapmaları. Bu işbirliği sonucu, kullanıcılara bazı web adresleri gönderilerek, buraların ziyaret edilmesi öneriliyor ve kullanıcı bu siteyi ziyaret ettiği takdirde bilgisayarına virüs yükleniyor. 
+     Bu tür virüslerin bilgisayara bağlanan mobil telefonlara da bulaştığı belirtildi. 
+     Bu arada, virüslerin artık gerçek anlamda bir antivirüs programına sahip olmayan telefonları da tehdit ettiği, uzmanlar tarafından hatırlatılıyor. Bu virüslerin, cep telefonlarıyla gönderilen kısa mesajlar aracılığıyla bile bulaşabildiği ifade ediliyor. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 209267 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/17/son/sondun10.html </URL>
+<DATE> 2004/01/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Çin'de 2 yeni SARS vakası daha görüldü... 
+</HEADLINE>
+<TEXT>
+
+     Çin'de iki kişinin daha SARS hastalığına yakalandığı açıklandı. 
+     Resmi Çin Haber Ajansı, Sağlık Bakanlığı'na dayanarak verdiği haberde, Guangzhou kentinde gözetim altında tutulan iki kişinin yapılan testler sonucu SARS hastası olduğunun kesinleştiğini belirtti. 
+     İki SARS hastasının, 20 yaşında bir kadın garsonla 35 yaşında bir işadamı olduğu kaydedildi. 
+     Soyadı Zhang olan kadın garsonun, bugün taburcu edildiği ve kadın garsonla teması olan 100 kişinin karantina ve tıbbi gözlem durumuna da son verildiği belirtildi. 
+     Soyadı Yang olan işadamınınsa sağlık durumunun istikrarlı olduğu ve ateşi olmadığı, ancak karantinada tutulacağı ve tedavisinin devam edeceği, kendisiyle teması olan 28 kişiden 22'sinin de artık gözlem altında tutulmayacağı açıklandı. 
+     Çin'de, bu yılın ilk SARS hastası da Guangzhou kentindeydi ve geçen hafta tedavi edildikten sonra taburcu edilmişti. 
+     
+</TEXT>
+</DOC>

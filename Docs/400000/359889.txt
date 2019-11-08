@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 359889 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/10/son/sontur05.html </URL>
+<DATE> 2005/07/10/ </DATE>
+<TIME> 10.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+AB'nin sağlık bilgi ağı standardını ODTÜ belirleyecek... 
+</HEADLINE>
+<TEXT>
+
+     Avrupa Birliği, Orta Doğu Teknik Üniversitesi'nin ODTÜ , AB'nin sağlık bilgi ağı standardını belirlemesi için önerdiği projeyi kabul etti. 
+     RIDE Projesi ile A Roadmap for Interoperability of eHealth Systems in Support of COM 356 with Special Emphasis on Semantic Interoperability AB üyesi ülkelerdeki hastane sunucularının ''aynı dili'' konuşmaları için gereken alt yapı önerilecek. 
+     A.A muhabirinin konuyla ilgili sorularını yanıtlayan ODTÜ Bilgisayar Mühendisliği Araştırma Geliştirme Merkezi Direktörü Prof. Dr. Asuman Doğaç, yaklaşık 1 milyon avro değerindeki projenin, 1 Ocak 2006'da başlayacağını ve 31 Aralık 2007'de sona ereceğini bildirdi. 
+     Avrupa ülkelerinde hasta kayıtlarının özenle saklandığını, ancak her hastanenin farklı kayıt sistemleri tuttuğu için hastane bilgisayarlarının ''aynı dili'' konuşamadığını anlatan Doğaç, ODTÜ'nün geliştireceği bir yol haritası ile farklı formattaki hasta bilgilerinin, sorgulama sırasında, tüm bilgisayarların anlayabileceği hale getirileceğini kaydetti. 
+     ''Bir Alman, İtalya'da rahatsızlanıp hastaneye kaldırıldığında, İtalyan doktor, bu standardı kullanarak hastanın daha önce hangi rahatsızlıklar geçirdiğini Almanya'daki hastanelerden sorgulayabilecek'' diyen Doğaç, projenin erken teşhis ve tedavi yöntemleri için çok önemli bir adım olduğunu ifade etti. 
+     Yaklaşık 1 milyon avroluk toplam bütçenin 163 bin avrosunun ODTÜ'ye verileceğini anlatan Prof. Dr. Asuman Doğaç, proje sırasında Avrupa'daki 8 bilimsel kuruluşun da kendilerine destek olacağını bildirdi. 
+     Prof. Dr. Doğaç, ABD ve Avrupa'da hasta bilgilerinin ''sır gibi saklandığını'' belirterek, RIDE projesinin de çok katmanlı güvenlik sistemleri önereceğini söyledi. 
+     
+</TEXT>
+</DOC>

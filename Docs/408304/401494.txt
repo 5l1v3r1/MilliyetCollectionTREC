@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 401494 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/07/son/sonyas11.html </URL>
+<DATE> 2005/12/07/ </DATE>
+<TIME> 10.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsof, Güney Kore'de mahkum edildi 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın bir numaralı yazılım şirketi Microsoft, piyasa hakimiyetini kötüye kullanmaktan Güney Kore'de mahkum edildi. 
+     Güney Kore rekabet kurumu, Amerikan devini ticaret kurallarını ihlal etmekten ötürü 32 milyon dolar para cezasına çarptırdı. 
+     Gazetecilere açıklama yapan rekabet kurumu başkanı, Microsoft'un uygulamalarının piyasada rekabeti engellediğini, tüketicilere zarar verdiğini söyledi. 
+     Rekabet kurumu, yazılım devinin Windows XP'den, rakip ürünlerine ulaşmayı engelleyen MSN Messenger sohbet programını çıkarmasını istedi. Microsoft'un, bu programı işletim sisteminden çıkarmak için 180 günü var. Şirket, bu süre sonunda Messenger ve Media Player'i içermeyen ve içeren Windows sürümlerini ayrı ayrı satacak. 
+     Microsoft, Amerikalı rakiplerinden RealNetworks'e, tekelcilik davasını geri alması için ekimde 761 milyon dolar ödemişti. 
+     Amerikan devi, geçen ay ayrıca Güney Kore'de bir internet portalına aynı gerekçeyle 30 milyon dolar ödemiş bulunuyor. 
+     Avrupa Komisyonu da Microsoft'u 2004 martında tekelcilikten 497 milyon avro para cezasına mahkum etmişti. 
+     
+</TEXT>
+</DOC>

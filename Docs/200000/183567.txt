@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> 183567 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/20/yazar/saglam.html </URL>
+<DATE> 2003/09/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Erdoğan SAĞLAM  </AUTHOR>
+<HEADLINE>
+Enflasyon muhasebesi tasarısı Meclis'te 
+</HEADLINE>
+<TEXT>
+
+   
+   Enflasyon muhasebesine neden ihtiyaç var 
+   Enflasyon, ekonomik ve sosyal hayatı etkilediği bozduğu kadar muhasebeleri de etkiliyor. Mali tabloları gerçek durumu göstermekten uzaklaştırıyor. Bundan, ödenecek vergi de etkileniyor, başka bir deyişle gerçekte olmayan kazançlar üzerinden vergi ödeniyor. 
+   Enflasyon muhasebesi paranın satın alma gücünün sabit olmadığı enflasyonist bir ortamda, muhasebenin nasıl tutulması gerektiğini düzenliyor. Cari ve önceki dönem mali tablo değerlerini, bilanço tarihindeki genel fiyat düzeyine getirerek, mali tabloların bütünlüğünü sağlıyor. Böylece, işletmenin faaliyet dönemindeki gerçek faaliyet k rı hesaplanabiliyor. 
+   
+   Enflasyon muhasebesi nasıl uygulanıyor 
+   Uygulamada işletmenin sahip olduğu parasal kalemler, nominal değeri değişmeyen ancak paranın satın alma gücündeki azalma nedeniyle, bilanço tarihi itibariyle satın alma güçleri azalan nakit, TL ile tahsil edilen alacak ve borç gibi kalemler. 
+   Parasal olmayan kalemler ise hisse senetleri, gayrimenkuller, hammadde ve mamul stokları gibi hesaplardır. Bu kalemler enflasyon ortamında reel değerlerini koruyorlar. Düzeltme katsayıları kullanılarak enflasyon düzeltmesine konu ediliyorlar. Böylece bütün kalemler aynı tarih cinsinden ifade edilmiş oluyor. Enflasyon muhasebesi ile, faaliyet dönemine ait parasal değerleri elde bulundurmaktan kaynaklanan "Parasal durum kazancı veya kaybı" hesaplanıyor. 
+   Türkiye'de öncelikle bankalar enflasyon muhasebesini uygulamaya başladı ve 2002 mali tablolarını düzelttiler. Ancak bunun vergisel sonuçları olmadı. Yine geleneksel muhasebe ile ortaya çıkan kazancın vergisini ödediler. Halka açık şirketler 2003 sonu itibariyle uygulamaya geçecekler. Özel hesap dönemi olanlar 2003 yılı içinde uygulamaya başladılar. 
+   
+   Meclis'e sunulan tasarı ne getiriyor 
+   Meclise sunulan tasarının yasalaşması halinde bankalar ve halka açık şirketlerin dışındaki mükellefler de enflasyon muhasebesi uygulayacaklar. Düzeltme sonrası kazanç vergiye esas alınacak. Esasen yabancı sermayeli şirketler yıllardır enflasyon düzeltmesi yapmaktaydılar. Ancak bunun vergisel sonuçları olmuyordu. Tasarı yasalaşırsa 2004'ten başlayarak mali tablolara göre hesaplanan kazanç vergilendirmeye esas alınacak. 
+   Mevzuattaki yeniden değerleme, maliyet revizesi gibi uygulamalar kalkacak. Tasarıya göre son üç yılda TEFE'deki toplam artış yüzde 100'den ve içinde bulunulan yılda yüzde 10'dan fazla olduğu takdirde enflasyon düzeltmesi yapılacak ve yasa 1.1.2004 tarihinde yürürlüğe girecek. Ancak başlangıç yılı olarak 31.12.2003 tarihli mali tablolar da düzeltilecek. Bu düzeltmenin 2003 yılı matrahlarına etkisi olmayacak. Bakanlar Kurulu yüzde 100 oranını yüzde 35'e ve yüzde 10 oranını yüzde 25'e çıkarmaya yetkili. 
+   Düzeltme Maliye'nin belirleyeceği katsayılar kullanılarak yapılacak. 1970 yılından önce aktife girmiş kalemler 1970 yılında girmiş sayılacak. Enflasyon düzeltmesi yapmış olanlar vergisel açıdan da yapmış kabul edilecek. Bu isabetli bir düzenleme. 
+   SPK ile Maliye'nin düzeltme katsayıları birbirinden farklı. Bunun düzeltilmesi gerekiyor. Son yıllarda, SPK mevzuatına göre çıkarılmış mali tabloların esas alınarak işletmelerin tek bir mali tablosunun çıkarıldığı ve vergi beyannamesi üzerinde bundan hareket edilerek birtakım indirim ve ilavelerle vergi matrahına ulaşıldığı herkesçe biliniyor. Bu nedenle daha başlangıçta farklılık olmamalı.En doğrusunu tartışmaya gerek yok. 
+   Uygulamanın en önemli ve külfetli yılı başlangıç yılının yani 31.12.2003 mali tablolarının düzeltilmesi olacak. Uygulamada bazı kişilerin buna basit bir vergi indirimi gözüyle baktığını görüyoruz. Bu fevkalade hatalı. Üzülerek söylemek durumundayız Halen pek çok halka açık şirket dahi uygulamaya teknik olarak hazır değil. Bu durumda iş denetim firmalarına düşecek. 
+   Enflasyon muhasebesinin bilgisayar ortamı dışında ve hatta şirketlerin kendilerinin yazacağı veya yazdıracağı programlarla yapılabilmesi çok zor. Bu nedenle denetim kuruluşları seminerler verdi veriyorlar. Ayrıca bunlardan yazılım firmaları ile birlikte çalışarak yazılım geliştirilmesine katkı sağlayanlar da oldu. Bugünlerde ortaya çıkan ve kullanıcılara satın alma veya kiralama gibi alternatifler sunan güvenilir yazılımlar mevcut. 
+   Mükelleflere tavsiyemiz önce eğitim açıklarını gidermeleri, daha sonra da durumlarına en uygun çözümü, varsa müşavirleri ve denetim firmaları ile birlikte benimsemeleridir. 
+   Tasarıya göre enflasyon muhasebesi bütün mükellefler için zorunlu. Maliye'nin toplulaştırılmış yöntemler uygulatma yetkisi var ancak buna rağmen Türkiye'de bunu uygulayamayacak, özellikle Anadolu'da çok sayıda mükellef var. Bu nedenle uygulama mükelleflerin isteğine bırakılmalı. Umarız kanun Meclis'te görüşülürken, komisyonlarda veya genel kurulda bu düzeltme yapılır. 
+   
+      
+   
+</TEXT>
+</DOC>

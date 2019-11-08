@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 192175 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/30/son/sondun03.html </URL>
+<DATE> 2003/10/30/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dünyada son 14 yılın en büyük elektromanyetik fırtınası .. 
+</HEADLINE>
+<TEXT>
+
+     Dünyada 1989 yılından beri görülen en şiddetli elektromanyetik fırtınanın ABD'de bazı havayollarında iletişimi aksattığı, ancak ilk belirmelere göre büyük elektrik kesintileri veya diğer büyük çaplı problemlere yol açmadığı bildirildi. 
+     Amerikan Uzay ve Havacılık Dairesi'nden NASA yapılan açıklamada, elektromanyetik fırtınanın şimdiye kadar belirlenen en büyük 4. güneş fırtınası nedeniyle dün TSİ 08.13'te meydana geldiği belirtildi. Uzmanlar, fırtınanın daha önce hesaplanandan 12 saat önce dünyanın manyetik alanını etkilediğine dikkati çektiler. 
+     Güneşten kalkan yüksek elektrik yüklü parçacıkları taşıyan dev bulut tabakasının, yüksek frekanslı radyo iletişimleri, uydu seyir sistemleri ve televizyon yayınları için tehdit oluşturduğu kaydedildi. Bazı uzmanlar ise güneşte halen devam eden çalkalanmanın gelecek hafta için de kaygı kaynağı olmayı sürdürdüğünü ifade ettiler. 
+     Elektro manyetik fırtınaların en çabuk farkedilen etkisinin çok kuzeyde seyreden uçakların yüksek frekanslı telsiz iletişimlerini kesintiye uğratması olduğunu belirten uzmanlar, yine de uçakların acil durumlarda başka uçaklar ve askeri gözlem istasyonlarıyla çok yüksek frekanslı iletişim kurabileceklerini kaydettiler. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO> 388349 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/20/son/sontur14.html </URL>
+<DATE> 2005/10/20/ </DATE>
+<TIME> 11.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+"Cep telefonu sahipleri karşı mesaj atarak ceplerini kaydettirecekler" 
+</HEADLINE>
+<TEXT>
+
+     Telekomünikasyon Kurumu Başkanı Tayfun Acarer, kayıt dışı cep telefonlarına, Bilgi ve İhbar Merkezi kurulması ihalesinin sonuçlanmasından sonra en geç 2 hafta içinde mesaj gönderileceğini bildirdi. 
+     Acarer, kayıt dışı telefonlarla ilgili yönetmeliğin geçen günlerde yayımlandığını, kanundaki konuların biraz daha detaylı şekilde hükme bağlandığını belirtti. 
+     Yönetmeliğe göre, 12 Temmuz 2005 tarihi itibariyle kurumun kayıtlarında "kayıtsız" olarak görünen yaklaşık 12 milyon civarındaki GSM abonesine telefonlarını kaydettirmeleri için mesaj gönderilmesi gerekeceğini kaydeden Acarer, bunun için Telekomünikasyon Kurumu’nda gerekli sistem ile Bilgi ve İhbar Merkezi’nin kurulması ihalesinin yapıldığını söyledi. 
+     Yapılan ihaleye itirazları Kamu İhale Kurumu’nun değerlendirdiğini, bu arada ihaleyi kazanan firmanın da hazırlıklarını sürdürdüğünü anlatan Acarer, "Şu andaki süreç, kamudaki normal bir süreçtir. İhale sonuçlandığında, kazanan firmayla el sıkıştıktan sonra en geç 2 hafta içinde mesajlar kayıt dışı cep telefonlarına gönderilmeye başlanacak" dedi. 
+     Bu mesajlarda nasıl kayıt yaptırılacağının aktarılacağını ifade eden Acarer, kayıt işlemlerinin cep telefonu operatörlerinin abone merkezlerinde gerçekleştirileceğini söyledi. 
+     
+     BÜTÜN ABONELER, KURUMA KAYIT MESAJI ATACAK 
+     Acarer, yönetmelikteki "Aboneler çalınma, yağmalanma, kaybolma veya her ne suretle olursa olsun rızası dışında elinden çıkması ihtimaline karşı cihazlarının haberleşme şebekesinden hizmet almasının engellenmesi için öncelikle Kurumun Bilgi ve İhbar Merkezi’ne bu cihazdan kısa mesaj göndererek kayıt yaptırırlar" hükmünü de anımsattı. 
+     Buna göre, cep telefonu abonelerinin, çalınma, yağmalanma veya kaybolma tehlikesine karşı Telekomünikasyon Kurumu’na bir mesaj göndererek cihazlarını kaydettireceklerini belirten Acarer, bu mesajın karşılığında kurumun aboneye bir şifre vereceğini, herhangi bir sorunla karşılaşıldığında telefonun görüşmeye kapattırılabilmesi için bu şifreyle başvuru yapılacağını bildirdi. Acarer, "Abonenin kimliği teyit edilmezse bazı kötü şeyler de olabilir. Örneğin aboneler birbirlerine şaka yapabilirler. Bu, kredi kartı kullanımında olduğu gibi bir işlem. Ancak bu süreçte bir sıkıntı yok. Mesaj daha sonra da yapılabilir. Önceliğimiz kayıt dışıları kayıt altına almak" diye konuştu. 
+     
+     "KLONLANMIŞ TELEFONLAR EN ZOR KONU" 
+     Kayıt işlemleri sırasında olası sorunlara da işaret eden Acarer, cihazların seri numarasının birden çok telefona yüklenmesini içeren "klonlanma" nedeniyle büyük sıkıntılar çıkacağını ifade etti. 
+     Türkiye’ye kaçak yollarla daha ucuza mal edilerek getirilen cep telefonlarında bu sorunun ortaya çıktığını belirten Acarer, "Yani yüzlerce telefon aynı IMEI numarasına sahip ya da bu numaraların hepsi sıfır diye geçiyor. Bu tip seri numaralar verilerek bu telefonlar çok daha ucuz temin ediliyor" dedi. 
+     IMEI numarası klonlanmış cep telefonlarının seri numaralarının düzeltilmesi gerektiğini, ancak bunun basit olmadığını vurgulayan Acarer, şöyle devam etti 
+     "15 karakterli IMEI numarasında her karakterin bir anlamı var. 
+     Bir kısmı ülkesini, bir kısmı modelini, bir kısmı markasını gösteriyor. Klonlanmış numarayı silmek teknik olarak kolay değil. Bunu yapabilirler ama bu sırada telefonun yazılımını tamamen silebilirler. 
+     IMEI numarası düzeltilirken telefonu kullanılamaz hale gelebilir. Bu nedenle o telefonların bir kısmı kullanılamaz hale gelebilir." Kayıt dışı telefonlar konusunun sadece kurumu ilgilendirmediğini, bunun bir toplumsal sorumluluk da getirdiğini kaydeden Acarer, özellikle klonlanmış telefonlarda kesinlikle sorunlar çıkacağını belirtti. Acarer, "Birtakım teknik sıkıntılar nedeniyle sorunlar yaşanırsa, buradan Telekomünikasyon Kurumu’nu doğrudan sorumlu tutmak insaf ölçülerine uymaz. Çıkacak sorunlar konusunda herkes anlayışlı olmalı. 10 yıldır süregelen bir sorunu 10 günde çözmek hayal olur" diye konuştu. 
+     
+     "GASP VE ÇALINMA OLAYLARI AZALDI" 
+     Tayfun Acarer, kayıt dışı telefonların kayıt altına alınmasına ilişkin kanunun çıkmasının çok olumlu sonuçlar doğurduğunu, cep telefonlarında gasp ve çalıntı oranının yüzde 50’nin altına düştüğünü, kaçak yoldan Türkiye’ye gelen telefonlarda azalma olduğunu da söyledi. 
+     Türkiye’deki cep telefonlarının kullanım ömrünün Avrupa’dan daha az olduğunu, Avrupa’da 2 yıl olan cep telefonu kullanım süresinin Türkiye’de 1,5 yıla düştüğünü kaydeden Acarer, yerli üretim olmaması nedeniyle cep telefonlarına çok ciddi bir rakam ödendiğini belirtti. 
+     Eylül ayı kayıtlarına göre Türkiye’de 40.4 milyon GSM abonesi bulunduğunu vurgulayan Telekomünikasyon Kurumu Başkanı Acarer, 10 yıllık dönemde 70 milyon telefonun Türkiye’ye girdiğini, bunun karşılığında yaklaşık 15 milyar dolar ödendiğini ifade etti. 
+     
+</TEXT>
+</DOC>

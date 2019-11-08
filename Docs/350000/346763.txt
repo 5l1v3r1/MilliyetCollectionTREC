@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> 346763 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/28/son/sontur12.html </URL>
+<DATE> 2005/05/28/ </DATE>
+<TIME> 10.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Emniyet internet sitesi de emniyetli... 
+</HEADLINE>
+<TEXT>
+
+     Ankara Emniyet Müdürlüğü’nün resmi internet sitesinin güvenliği için geliştirdiği proje, uluslararası platformda kabul gördü. Siteye yönelik saldırıları anında tespit eden proje, Japonya’da düzenlenecek olan "Bilgisayar Ağları ve Dağıtım Sistemlerinin Güvenliği" konferansına davet edildi. 
+     İnternet üzerinden pasaport alma, silah ruhsat başvurusu, çalıntı cep telefonu başvurusu gibi konularda, geniş bir yelpazede vatandaşlara hizmet sunan sitenin güvenliği için Ankara Emniyet Müdürlüğü’nün hazırladığı ve kullandığı sistem, konferansın yönetim ve hakem kurulu tarafından yapılan değerlendirmede ilk 20’ye girdi. 
+     Sistemin içeriği ve nasıl çalıştığı hakkında AA muhabirine bilgi veren Ankara Emniyet Müdürlüğü Bilgi İşlem Şube Müdürlüğü İnternet Büro Amiri ve Bilişim Güvenliği Yöneticisi Komiser Yardımcısı Yusuf Uzunay, Ankara Emniyet Müdürlüğü personeli tarafından hazırlanan projenin uluslararası bir konferansa davet edilmesinin gurur verici olduğunu söyledi. 
+     
+     GÜNDE 100 SALDIRI... 
+     İnternetteki gelişmelerin bir sonucu olarak, her geçen gün kötü niyetli kullanıcı sayısının arttığını ve günde ortalama 100 saldırıya maruz kaldıklarını ifade eden Uzunay, bunun için bilişim suçları ve bilişim güvenliği alanlarında kendilerini geliştirdiklerini kaydetti. 
+     Hedeflerinin emniyette bilişimi geliştirerek, vatandaşa kaliteli, daha güzel, daha hızlı hizmet sunmanın yanı sıra bilişim güvenliğini de sağlamak olduğunu belirten Uzunay, bunun için yurtiçi ve yurtdışında birçok kaynaktan yararlandıklarını ifade etti. 
+     Uzunay, 2004 yılının Şubat ayında Ankara Emniyet Müdürlüğü bünyesinde "Yetkisiz İnternet Erişimi Tespit ve Bloklama Sistemi Unauthorized Internet Access Detection and Blocking System " adı altında başlattıkları projenin aynı yılın sonuna doğru tamamlandığını belirtti. 
+     Yapılan çalışmaların İngilizce bir makalesinin de hazırlanarak Japonya’nın Fukuoka kentinde bu yıl 11’incisi düzenlenecek "Bilgisayar Ağları ve Dağıtım Sistemlerinin Güvenliği" konulu uluslararası konferansa gönderildiğini anlatan Uzunay, şunları kaydetti 
+     "Dünya çapında birçok üniversite ve kurumun bilim adamları tarafından makale gönderilen konferansın yönetim ve hakem kurulu tarafından yapılan değerlendirmede, sistemimiz uluslararası platformda ilk 20 makale arasına seçilmiş olup, makalemiz "Computer Society" isimli uluslararası bilimsel yayınlar arasında yayınlanacak. Böyle uluslararası bir organizasyonda özellikle Japonya gibi teknoloji devi olmuş bir ülkede Ankara Emniyet Müdürlüğü’nde ürettiğimiz ve kodlarını tamamen kendi personelimizin yazdığı sistemin dereceye girmiş olması bizi çok gururlandırdı." Söz konusu projeyi ve makaleyi ODTÜ Enformatik Enstitüsü’nde öğretim görevlisi olarak çalışan ve şu anda Hollanda Vrije Üniversitesi Bilgisayar Bilimleri Bölümü’nde post doktora yapan Kemal Bıçakçı ile birlikte hazırladıklarını belirten Uzunay, 20-22 Temmuz tarihleri arasında Japonya’da katılacakları söz konusu konferansta da sunumu birlikte yapacaklarını ifade etti. 
+     
+     SİSTEMİN ÇALIŞMASI 
+     Sistemin birçok konuda avantajı olduğunu, özellikle sistem ve güvenlik yönetimini yüzde 80-90 oranında arttırdığını anlatan Uzunay, sistemin en önemli özelliğinin "kayıt yapması" olduğunu söyledi. 
+     Sistem sayesinde bilgisayar korsanlarından günde kaç saldırı geldiğini, saldırıların hangi saatte ve nerelerden gerçekleştirildiğinin belirlenebildiğini ifade eden Uzunay, saldırı içeriklerini de inceleyerek sistemi sürekli yenilediklerini kaydetti. 
+     Geliştirdikleri yazılım ve sistemin söz konusu adreslerin değiştirildiği anda güvenlik amacıyla internet bağlantısını keserek kendilerini uyardığını ifade eden Uzunay, "Saldırı gerçekleştiği anda buradaki güvenlik konsolumuzda alarm ışıkları yanmaya başlıyor ve biz de saldırıyı kimin yaptığını anında görebiliyoruz" dedi. 
+     Kullanılan sistemin yüzde yüz güvenli olmamakla birlikte, kesin güvenliğin sağlanabilmesi için sürekli kendilerini ve sistemi geliştirdiklerini belirten Uzunay, bunun için farklı kurum ve üniversitelerden sürekli destek aldıklarını söyledi. 
+     
+     HACKER’LARA KARŞI UYARILAR 
+     Bilişim suçları alanında farklı çalışmalar yürüttüklerini belirten Yusuf Uzunay, bilgisayar kullanıcılarının bilgisayar korsanlarına hacker karşı neler yapmaları gerektiği konusunda da tavsiyelerde bulundu. 
+     Her kullanıcının bilgisayarında anti-virüs programlarının olması gerektiğine dikkat çeken Uzunay, bu programların yanı sıra bilgisayarların ayrıca fire-wall ateş duvarı denilen bir yazılımla da korunması gerektiğini kaydetti. 
+     Tüm önlemleri alan bir kullanıcının dahi tam anlamıyla korumada olmadığını da belirten Uzunay, kullanıcıları internette gezdikleri sitelere çok dikkat etmeleri ve güvenlik açısından tavsiye edilmeyen siteleri ziyaret etmemeleri konusunda uyardı. 
+     
+</TEXT>
+</DOC>

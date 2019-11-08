@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO> 178021 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/25/son/soneko26.html </URL>
+<DATE> 2003/08/25/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Piyasalarda bugün... Borsa ve dolar düştü... 
+</HEADLINE>
+<TEXT>
+
+     Borsa'da Endeks 12 bin puanın altına gerilerken, hisse senetleri ortalama yüzde 1.69 değer kaybetti. 
+     İstanbul Menkul Kıymetler Borsası İMKB Ulusal 100 endeksi, 1. seansta 62.33 puan düşüşle 11,938.75 puandan kapandı. Seansta, 13 Ağustos'ta 12,075.22 puanla ulaşılan seans içindeki en yüksek seviyeye, 12,074.48 ile yaklaşan endeks, bu seviyede tutunamayarak 12,000 puanın altına indi. 2. seansta endeks 140.78 puan ve yüzde 1.18 oranında geriledi. 
+     Endeks 11,797.97 puandan günü tamamlarken, günlük bazdaki düşüş 203.11 puan ve yüzde 1.69 oldu. 
+     Hisse senetleri piyasasında günlük işlem hacmi 520 trilyon 629 milyar 961 milyon lira olarak gerçekleşti. 
+     Piyasa uzmanları Cuma günü gerçekleştirilen Milli Güvenlik Kurulu toplantısının ardından beklenen açıklamaların gelmemesi ve haftasonunda Kerkük'te meydana gelen olayların ardından güne satıcılı başlayan Borsa'nın, daha sonra bir miktar toparlanarak 12,000 direncini denediğini kaydetti. 
+     Uzmanlar, gün boyunca sonucu beklenen Bakanlar Kurulu toplantısından da net bir açıklama gelmemesinin etkisiyle kar realizasyonlarıyla bileşik endeksin 11,800 seviyesine gerilediği görüşünü dile getirdiler. 
+     
+     DOLAR 
+     Merkez Bankası, doların bugünkü efektif kurunu alışta 1 milyon 382 bin 529 lira, satışta ise 1 milyon 391 bin 255 lira olarak açıkladı. 
+     Böylece dolar, Merkez Bankası'nın Cuma günü açıkladığı kurlara göre, alışta 3 bin 491, satışta ise 3 bin 517 lira geriledi. 
+     Serbest piyasada Cuma gününü 1 milyon 392 bin liradan kapatan dolar, haftaya 1 milyon 393 bin liradan, 1 milyon 512 bin liradan kapatan Euro da 1 milyon 513 bin liradan başladı. 
+     Piyasa kapanışında doların satış fiyatı 1 milyon 392 bin lira, Euro'nun satış fiyatı 1 milyon 517 bin lira oldu. 
+     
+     DÖVİZ ALIM İHALESİ 
+     Merkez Bankası tarafından düzenlenen döviz alım ihalesinde, ortalama kur 1 milyon 390 bin 376 lira oldu. 
+     104 milyon dolarlık teklifin geldiği ihalede, maksimum kur 1 milyon 391 bin lira, minimum kur 1 milyon 389 bin 997 lira olarak belirlendi. İhaleye gelen tekliflerin fiyatlarının ortalaması ise 1 milyon 391 bin 174 lira olarak gerçekleşti. 
+     
+     TAHVİL VE BONO PİYASASI 
+     İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda işlem gören 18 Ağustos 2004 vadeli bugün valörlü tahvilin bileşik getirisi 0.03 puan yükseldi. 
+     Bu kağıdın aynı gün valörlü işlemlerinin basit getirisi yüzde 40.28, bileşik getirisi yüzde 40.40 oldu. 
+     Cuma günkü piyasa kapanışında bu kağıdın basit getirisi yüzde 40.31, bileşik getirisi de yüzde 40.37 olmuştu. 
+     İMKB Tahvil ve Bono Piyasası Repo Pazarı'nda gecelik faiz de ortalama yüzde 31.98 olarak belirlendi. 
+     
+</TEXT>
+</DOC>

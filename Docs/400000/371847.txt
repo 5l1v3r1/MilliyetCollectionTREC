@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 371847 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/22/son/soneko16.html </URL>
+<DATE> 2005/08/22/ </DATE>
+<TIME> 10.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tüketici Güven Endeksi arttı... 
+</HEADLINE>
+<TEXT>
+
+     Tüketici Güven Endeksi, bu yılın Temmuz ayında, bir önceki aya göre 0.1 puan yüzde 0.18 artarak 99.2'ye yükseldi. 
+     Endeks, Haziran ayında 99.1 düzeyindeydi. 
+     Güven endeksindeki artış ''tüketicilerin, mevcut dönem satın alma güçlerine, gelecek dönem genel ekonomik duruma ve mevcut dönemin dayanıklı tüketim malı satın almak için uygunluğuna dair değerlendirmelerinin iyileşmesinden'' kaynaklandı. 
+     Devlet İstatistik Enstitüsü DİE ile Merkez Bankası tarafından her ay ortaklaşa düzenlenen ve tüketicilerin harcama davranış ve beklentilerinin değerlendirildiği Tüketici Eğilim Anketi'nin Temmuz ayı sonuçları açıklandı. 
+     Endeksin alt kalemleri ve değişim oranlarına bakıldığında ise mevcut dönemde satınalma gücü endeksi, Haziran ayına göre artarak 90.1'den 90.3'e çıktı. 
+     Gelecek dönem için satın alma gücü endeksi 93.8'den 92.8'e, gelecek dönem iş bulma olanakları endeksi 86.2'den 84'e gerilerken, gelecek dönem genel ekonomik durum endeksi 93.6'dan 94.2'ye, mevcut dönemin dayanıklı tüketim malı satın alma için uygunluğu endeksi 131.5'den 134.8'e çıktı. 
+     
+</TEXT>
+</DOC>

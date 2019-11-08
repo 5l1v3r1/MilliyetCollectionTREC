@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 231179 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/14/yasam/yas01.html </URL>
+<DATE> 2004/04/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Elektrik bile bu kafadan kaçamıyor 
+</HEADLINE>
+<TEXT>
+
+   Gaziantep TEDAŞ ekipleri, kontrolleri sırasında akıllara durgunluk veren 'elektrik hırsızlığı yöntemleriyle' karşılaştı 
+      
+   TEDAŞ ekipleri, Gaziantep'te çıktıkları kaçak elektrik operasyonunda inanılmaz 'elektrik çalma yöntemlerini' ortaya çıkardılar. 
+   Ekipler ilk olarak, Beyazlar Mahallesi 23 nolu sokakta oturan M.Ç.'ye ait evde kaçak elektrik kullanıldığını belirledi, ancak sistemi tüm aramalara rağmen bulamadı. Uzman bir ekibin yaptığı araştırmada, elektrik akım rölesi sisteminin bir buatın içine gizlendiği, açma - kapama kumandasının da kapı ziline bağlandığı anlaşıldı. Zile basıldığında elektrik sayacının otomatik devreye girdiğini belirten kontrol görevlisi Kadir Felli, sistemi şöyle anlattı "Ev sahibi zile bir kez daha basarak sayacın durmasını sağlıyor, kaçak elektrik kullanmaya devam ediyor. Böyle bir sistemi ekipler bütün aramalara rağmen ortaya çıkaramıyor." 
+   M.Ç. ise kaçak elektrik kullanmadığını iddia etti. M.Ç., "Alt katta marangoz atölyem var. Elektrik ücretleri çok yüksek geliyordu. Voltaj da çok düşüktü. Seyyar çalışan bir elektrikçi, 'Bir sistem yapacağım, faturan daha az gelecek, çok kuvvetli akım alırsın' dedi. Kaçak elektrik kullandığımın farkında bile değilim, suç olduğunu biliyorum" dedi. 
+   
+   'Kapıyı kapatın Elektrik kaçıyor ' 
+   Gaziantep TEDAŞ Müessese Müdürü Abdullah Tancan da rastladıkları diğer iki 'şaşırtıcı' sistemi şöyle anlattı 
+   "Bir vatandaşımız, mutfakta fayansın arkasına gömülü dokunmatik kaçak sistemi kurmuş. Görevli geldiğinde ev sahibi fayansa dokunarak sayacın çalışmasını sağlıyor. İkinci kez dokunduğunda duruyor. Vatandaş buna 'Dokunmatik' adını vermiş. Diğer bir yöntemin adı da 'kapı açar'. Kapı açılınca sayaç devreye giriyor. Kapatılınca duruyor, kaçak kullanmaya başlıyor. Ekiplerimiz ev sahibinin 'Kapıyı çabuk kapatın elektrik parası gidiyor' dediğine şahit oldu. Vantilatörle çalışan bir sistem de tespit ettik. Vantilatörü kumanda eden cihaz kaçak elektrikte kullanılıyor. Kumanda düğmesinin dört kademesi var. Elektriği kademe kademe kısıyor. Sayacın içindeki çarkı yavaşlatıyor." 
+   
+   
+</TEXT>
+</DOC>

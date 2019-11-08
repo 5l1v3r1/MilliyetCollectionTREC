@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 246460 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/09/son/sondun31.html </URL>
+<DATE> 2004/06/09/ </DATE>
+<TIME> 15.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bulgaristan, internet ve cep telefonuyla oy kullanmaya geçiyor... 
+</HEADLINE>
+<TEXT>
+
+     Bulgaristan'ın internet ve cep telefonu üzerinden oy kullanma sistemine geçeceği bildirildi. 
+     Merkez Seçim Komisyonu üyesi Mihail Konstantinov, gelecek yıl yapılacak genel seçimlerde vatandaşların cep telefonlarından mesaj yollayarak oylarını kullanabileceklerini açıkladı. 
+     Elektronik oylama olarak adlandırılan internet ve cep telefonu üzerinden oy kullanmanın seçime katılım oranını artıracağını ifade eden Konstantinov, sistemin güvenlik açısından bazı sakıncalarının bulunduğunu, ancak bu sakıncaların ortadan kaldırılması için gerekli çalışmaların sürdürüldüğünü söyledi. 
+     Genel seçimlerde uygulanması planlanan yeni sisteme göre, cep telefonuyla oy kullanmak isteyenler belirli bir telefon numarasını arayarak, buraya mesajla kayıtlı oldukları seçim bölgesinin kod numarasını ve oy vermek istedikleri siyasi partinin pusula numarasını yazarak oy verme işlemini tamamlayacak. 
+     İnternet üzerinden de Merkez Seçim Kurulu'nun ana sayfasına girilerek oy kullanılabilecek. Oy verme işlemleri vatandaşlık numaraları ve kişiye özel şifrelerle yapılacak. 
+     Mihail Kostadinov, böylece yurtdışındaki seçmenlerin de rahatlıkla oylarını kullanabileceğini belirterek, en büyük endişelerinin Merkez Seçim Komisyonu'nun internet safyasının oylama günü internet korsanlarının saldırısına uğraması olduğunu söyledi. 
+     Avrupa'da elektronik posta ve cep telefonuyla oy kullanma sistemi, İsveç, Hollanda, İspanya, İngiltere ve İrlanda'da uygulanıyor. 
+     
+</TEXT>
+</DOC>

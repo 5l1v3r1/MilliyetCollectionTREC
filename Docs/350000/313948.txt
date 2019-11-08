@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> 313948 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/09/son/sonyas19.html </URL>
+<DATE> 2005/02/09/ </DATE>
+<TIME> 15.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+IBM'den uyarı Bilgisayar virüsü ve spam'de büyük artış var... 
+</HEADLINE>
+<TEXT>
+
+     Amerikan bilgisayar şirketi IBM, virüs ve spam çöp posta gibi günlük bilgisayar baş ağrılarının, telefonlardan otomobil motorlarına dek geniş bir alanda yayılma tehdidi gösterdiğini bildirdi. 
+     Dünyanın en büyük bilgisayar şirketi olan IBM'in danışmanlık kolu Güvenlik İstihbarat Servisi tarafından yapılan araştırma ve ardından yayınlanan rapora göre virüsler, cep telefonları, avuç içi bilgisayarlar, kablosuz şebekeler ve otomobil firmalarının artık yaygınca kullandıkları otomobillerdeki ''iliştirilmiş bilgisayarlara'' kadar ulaşabilme tehdidi taşıyor. 
+     IBM'in 2 bin kadar güvenlik danışmanının katkısıyla hazırlanan raporda, virüs ve spam'lerin yayılma tehdidine karşılık, bilgisayar kullanıcılarının bireysel ve kurumsal düzeyde hazırlıklarının da geliştiği belirtildi. 
+     Şirketin güvenlik stratejisi müdürü Stuart McIrvine, tehdidin arttığını, ancak tüketici ve iş dünyasının bu tehdide karşı ''daha akıllı'' davrandığını söyledi. 
+     
+     VİRÜSTE BÜYÜK ARTIŞ 
+
+     Rapor, 500 bin elektronik cihazdan alınan verilere dayanıyor. Raporda, bilinen bilgisayar virüsü sayısının 2004'te 28 bin 327 artarak 112 bin 438'e ulaştığı belirtildi. 2002'de sadece 4 bin 551 yeni virüs saptanmıştı. 
+     IBM tarafından 2004'te 147 milyar e-mail'in tarandığı belirtilen raporda, bunların 16'da biri, ya da yüzde 6'sının virüs içerdiği kaydedildi. 2002'de bu oran sadece yüzde 0,5 olarak belirlenmişti. 
+     Araştırmada ayrıca, küresel internet ortamında dolaşan ortalama spam oranının yüzde 75 olduğu, bunun zaman zaman e-mail trafiğinin yüzde 95'e ulaştığı belirlendi. 
+     
+     PHISHING'E DİKKAT 
+
+     2004'ün en hızlı büyüyen tehdidinin, suçluların kişisel finansal bilgileri elde etmek için e-mail yoluyla iletişime geçme çabaları olduğu belirtilen raporda, ''phishing'' adı verilen bu yöntemi amaçlayan e-mail'lerin geçen yıl yüzde 5 bin oranında arttığı ve 18 milyon ''phishing'' girişimi saptandığı kaydedildi. 
+     
+     OTOMOBİLLER İÇİN DE TEHDİT 
+
+     IBM yetkilileri, bilgisayarların güvenliğini etkileyen bazıları istem dışı, bazıları kötü niyetli virüslerin otomobiller için de tehdit oluşturduğunu belirttiler. 
+     Ortalama yeni bir model otomobilin 20 işlemci ve 60 megabaytlık yazılımı bulunduğunu belirten IBM yetkilileri, araçların elektronik bölümlerini etkileyecek ve kötü çalışmalarına neden olabilecek kablosuz şebeke saldırısı ve diğer güvenlik tehditlerinin arttığını kaydettiler. 
+     Yetkililer, özellikle son dönemde şirketlerin büyük ilgi gösterdiği internet üzerinden telefonla iletişimi sağlayan ''Voice over Internet'' VoIP sisteminin de güvenlik saldırılarına karşı hassas olduğu uyarısında bulundular. 
+
+     
+</TEXT>
+</DOC>

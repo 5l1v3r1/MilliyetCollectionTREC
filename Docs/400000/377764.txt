@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 377764 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/12/son/soneko40.html </URL>
+<DATE> 2005/09/12/ </DATE>
+<TIME> 14.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternet'te 2.6 milyar dolarlık birleşme... 
+</HEADLINE>
+<TEXT>
+
+     Açık artırma şirketi EBay, internet üzerinden telefon hizmeti veren Skype'yi 2.6 milyar dolara satın alıyor. 
+     EBay'den yapılan açıklamada, Skype için 1.3 milyar doları nakit, 1.3 milyar doları da hisse senedi olmak üzere 2.6 milyar dolarlık ödeme yapılacağı bildirildi. 
+     Skype'nin performansına göre ilerleyen yıllarda yeni ödemelerin gündeme geleceğini kaydedilirken, en olumlu senaryoda Skype'nin EBay'e maliyeti 4.1 milyar dolara yükselecek. 
+     ''Voice-over-internet'' VoIP teknolojisiyle internet üzerinden telefon görüşmesi için ücretsiz yazılım sunan Skype'nin milyon kayıtlı kullanıcısı bulunuyor. Sabit telefon şirketlerinin çok altında bir fiyata uluslararası görüşme imkanı sağlayan Skype'de günün herhangi bir anında da 2 milyondan fazla kişinin hatta online olduğu hesaplanıyor. 
+     Bu yıl toplam satışlarının 60 milyon dolara ulaşmasını bekleyen Lüksemburg merkezli Skype'nin 2006 yılı hedefi ise 200 milyon dolar olarak açıklandı. 
+     Bu arada Çin kamu şirketi China Telecom, gelirlerinin azalmasının sorumlusu olarak gösterdiği internet üzerinden telefon hizmeti veren Skype'ye savaş açtı. 
+     Şinhua ajansının haberine göre China Telecom, ilk olarak Şenzen kentinde Skype'nin internet adresine erişimi engellemeye başladı. Kentte ayrıca Skype kullanıcıları ''kara listeye'' alınıyor. 
+     Yerel basına konuşan China Telecom'un bir sözcüsü, ''yasalara göre bilgisayardan telefonu aramak sıkı kurallara bağlanmıştır ve bu konuda sabit telefon şirketleri China Telecom ve China Netcom yetkili kılınmıştır'' dedi. 
+     Skype'nin Çin'deki iş ortakları ise ülkede internet üzerinden telefon hizmetinin sürdüğünü belirtiyorlar. 
+     Uluslararası görüşmelerde China Telecom'un dakika başına faturası yaklaşık 1 dolarken, Skype'de maliyet 2 avrosente kadar düşüyor. 
+     
+</TEXT>
+</DOC>

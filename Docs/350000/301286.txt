@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 301286 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/27/son/soneko33.html </URL>
+<DATE> 2004/12/27/ </DATE>
+<TIME> 14.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+YTL'ye geçişle birlikte Merkez Bankası yeni bir gösterge kur ilan edecek 
+</HEADLINE>
+<TEXT>
+
+     Yeni Türk Lirası'na YTL geçiş için 5 gün kalırken, yeni dönemde Merkez Bankası, döviz kurunda noktadan önce ve sonra kullanılan rakam sayısının 5'e eşit olduğu bir gösterge niteliğindeki kur listesi ilan edecek. 
+     Merkez Bankası'nın internet sitesinde yer alan bilgiye göre, 6 sıfır atılması ile birlikte Türk Lirası'nın TL çeşitli para birimleri karşısındaki nominal değeri kendiliğinden değişecek. Buna göre, örnek olarak 1 ABD Doları döviz satış kuru 1.432.925 TL'ye eşit iken 1,432925 YTL'ye eşit hale gelecek. Böyle bir durumda noktadan sonra kaç basamak kullanılacağı önem kazanıyor. 
+     Bu durumda, Merkez Bankası'nca uluslararası uygulamalara benzer olarak, noktadan önce ve sonra kullanılan rakam sayısının 5'e eşit olduğu bir gösterge niteliğindeki kur listesi ilan edilecek. Buna göre, örnek olarak 6 sıfır atılmadan önce 1.781.022 TL olarak ilan edilmiş bulunan 1 Euro döviz satış kuru, yeni uygulamaya geçilmesi ile birlikte 1,7810 YTL olarak, 1 ABD Doları ise 1,4329 YTL şeklinde ilan edilecek. 
+     Fakat bu uygulama, nominal değeri düşük bazı para birim değerlerinin önemli ölçüde etkilenmesine neden olabileceği için, bu olumsuzluğu giderebilmek amacıyla, noktadan önce sıfırın yer aldığı kurlarda, noktadan sonra 5 basamağa yer verilecek. Örnek olarak, halen geçerli olan uygulamada 213.834 TL olarak ilan edilmiş bulunan Norveç Kronu, yeni uygulamaya göre 0,21383 YTL olacak. 
+     Bununla birlikte, nominal değeri oldukça düşük olan Rumen Leyi ve İran Riyali için bu uygulama dahi yeterli olmadığı için, sözü edilen iki para birimi ile birlikte Japon Yeni'ne ilişkin kur, 100 birim üzerinden duyurulacak. Örnek vermek gerekirse, 1 birimi 13.333 TL olarak ilan edilmiş bulunan Japon Yeni döviz satış kuru, 100 Japon Yeni 1,3333 YTL olarak ilan edilecek. 
+     
+     SERBEST PİYASA 
+     Öte yandan, Yeni Türk Lirası uygulamasına serbest döviz piyasasının kolaylıkla adapte olması bekleniyor. 
+     Altın ve para piyasaları uzmanı Mehmet Ali Yıldırımtürk, serbest piyasada dolar, euro, sterlin gibi yabancı para birimleriyle işlemlerin bir karışıklığa yol açmayacağını belirtti. 
+     
+</TEXT>
+</DOC>

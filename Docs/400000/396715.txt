@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 396715 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/21/son/soneko25.html </URL>
+<DATE> 2005/11/21/ </DATE>
+<TIME> 11.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türkiye Bilişim Derneği'nden, üyelerine ücretsiz güvenlik yazılımı... 
+</HEADLINE>
+<TEXT>
+
+     Türkiye Bilişim Derneği TBD , üyelerine ücretsiz kişisel güvenlik yazılımları verecek. 
+     TBD'den yapılan açıklamaya göre, üyeler, dernekten edinecekleri formlarla talepte bulundukları takdirde antivirüs, güvenlik duvarı ve anti-spyware özellikli CA eTrust EZ Armor ve CA eTrust PestPatrol yazılımlarına ücret ödemeden sahip olacaklar. 
+     Güvenlik ürünleri, 1 yıl boyunca hiçbir ücret ödenmeden güncellenebilecek. TBD'ye kampanya başlangıcından sonra üye olanlar da bu fırsattan yararlanabilecek. 
+     Açıklamada, söz konusu ürünlerin piyasada yaklaşık 80-90 dolar civarında fiyatlarla satıldığı bildirildi. 
+     
+</TEXT>
+</DOC>

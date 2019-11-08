@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO> 384894 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/07/son/sontur12.html </URL>
+<DATE> 2005/10/07/ </DATE>
+<TIME> 10.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Veliler, öğrencilerin notlarını ve devam durumlarını netten görebilecek 
+</HEADLINE>
+<TEXT>
+
+     Milli Eğitim Bakanlığı MEB , velilerin, çocuklarının okula devam ve derslerdeki başarı durumlarını internet üzerinden takip edebilmelerini sağlayan www.bep.meb.gov.tr adresli "Bilgiye Erişim Portalı" hazırlayarak, hizmete sundu. 
+     "Bilgiye Erişim Portalı" ile ilgili proje kapsamında öğrencilerin sınavlardan aldıkları notlar ile okula devam durumları isteyen velilerin e-posta adreslerine veya cep telefonlarına gönderilecek. 
+     MEB ile Microsoft arasında imzalanan "MEB’e bağlı Okullarda Bilgi ve İletişim Teknolojilerini Geliştirme Protokolü" kapsamında hazırlanan Bilgiye Erişim Portalı Projesi, 9 ildeki 120 okulda pilot olarak uygulanacak. Portal, öğrenciler, öğretmenler, okul yöneticileri ve velilerin yanı sıra eğitim ile ilgili içeriklere ulaşmak isteyenlere de açık olacak. Ancak veliler, öğrenciler, öğretmenler ve okul müdürleri kendileriyle ilgili yetki alanlarına T.C. kimlik numarası ve kendi şifreleriyle girebilecekler. Projenin uygulandığı okullarda öğrencisi bulunan velilere birer şifre verilecek. Böylece öğrenciler, sınav notlarının ve öğretmenlerinin kendileriyle ilgili değerlendirmelerinin bulunduğu sayfayı, velileri şifre kullanarak girebilecekleri için göremeyecekler. 
+     
+     KULLANICI SERVİSLERİ 
+     Portalda öğrenci, öğretmen, müdür ve velilere yönelik kullanıcı servisleri bulunuyor. 
+     Veliler, kendilerinin kullanabileceği servisten çocuklarının tüm derslerindeki yazılı ve sözlü sınavlardan aldığı notları, öğretmenlerin öğrenci ile ilgili görüşlerini öğrenebilecekler. İlgili serviste velilerin meslekleri, e-posta adresleri, telefonları ve adres bilgileri de yer alacak. Veliler, çocuklarının sınav notları ve devam-devamsızlık gibi durumlarının cep telefonlarına veya e-postalarına iletilmesini isteyebilecekler. 
+     Öğrenciler de kendilerine ayrılan servisten yazılı, sözlü ve ödev notlarını, bütünleme ve yıl sonu sınavları ve geçmişe dönük sınav notlarını görebilecekler. Öğrenciler ayrıca içeriği internete verilen dersleri de takip edebilecekler. Öğretmenlere yönelik serviste ise derslere girecekleri okulların listesi, okulda verdiği ders ve sınıf listeleri, öğrencilerin ilgili dersteki sınav notları bulunacak. 
+     Öğretmenler de e-içeriği bulunan derslere bu servisten ulaşabilecekler. Öğretmenler ders doküman notlarını da meslektaşlarıyla paylaşabilecekler. 
+     Okul müdürlerine yönelik serviste de okulda ders veren öğretmenlerin isim ve branş listesi, öğretmenlerin o dönem içinde verdikleri dersler ve sınıf listeleri, öğrencilerin derslerdeki notları bulunacak. 
+     Bilgilerin sürekli güncelleneceği portalda ayrıca, e-kütüphane, haberler, anketler ve alanla ilgili linkler de yer alacak. Projeye dahil okullar, birbirlerine mesaj da gönderebilecekler. 
+     
+     OKULLAR 
+     Proje, geçen yıl, yeni ilköğretim müfredatını pilot olarak uygulamak amacıyla seçilen Ankara, Bolu, Diyarbakır, Hatay, İstanbul, İzmir, Kocaeli, Samsun ve Van’daki toplam 120 okulda uygulanacak. 
+     Projenin Ankara’da uygulanacağı 25 okulun müdür yardımcılarına ve öğretmenlerine 2 gün boyunca sistem tanıtıldı. 
+     
+     "ZAMANLARINI İYİ KULLANSINLAR İSTEDİK" 
+     Eğitim Teknolojileri Genel Müdürü Nizami Aktürk, son yıllarda öğrencilerin bilgisayar kullanma oranlarının arttığına işaret ederek, şunları söyledi 
+     "Biz istedik ki çocuk bilgisayar başında geçirdiği zamanı iyi kullanabilsin. Bu siteye girince dersleriyle ilgili çeşitli bilgilere ulaşabilecek, arkadaşlarıyla sohbet edebilecekler. Veliler çocuklarının öğretmenleriyle görüşebilecek. Velilerin okula sık sık gitmediklerini göz önünde bulundurursak, bu yolla çocuklarının durumunu daha yakından takip edebilecekler." Aktürk, "Bilgiye Erişim Portalı"nın Bakanlığın kendi eğitim portalını hazırlamak için bir deneme niteliğinde olduğunu belirtti. 
+     Aktürk, "Pilot uygulamadan çıkacak sonuçlara göre gelecek yıl Bakanlığın eğitim portalını hazırlamayı hedefliyoruz" diye konuştu. 
+     Öğrencilere daha fazla imkanlar sunmak amacıyla çalışmalar yaptıklarını ifade eden Aktürk, birçok ülkenin kendi diline çevirerek kullandığı www.skoool.ie, www.think.com ve www.globalgateway.org.uk. 
+     adresli portalların da Türkçe’ye çevrilerek, söz konusu portala aktarılacağını bildirdi. Aktürk, böylece portalın içeriğinin daha da zenginleşeceğini ve öğrencilerin "yabancı akranlarından geri kalmayacağını" söyledi. 
+     
+</TEXT>
+</DOC>

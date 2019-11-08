@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 170317 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/19/ekonomi/eko12.html </URL>
+<DATE> 2003/07/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İcra davaları 30 günde bitecek 
+</HEADLINE>
+<TEXT>
+
+     İcra ve İflas Kanunu'nda değişiklik yapılmasına ilişkin yasa tasarısı, TBMM Genel Kurulu'nda kabul edildi. Yasaya göre, icra işlemlerinin daha verimli ve düzenli yürütülmesi amacıyla icra k tipleri uzmanlaşacak, icra reisliği kurumu kaldırılarak, icra dairelerinin bağlı bulundukları icra tetkik mercii hakimlerinin gözetim ve denetimi altında tutulacak. Yargıtay, uygulamada yol gösterici olması için icra ve iflas işlerine ilişkin kararlarını düzenli olarak yayımlayacak. 
+     
+     Alacaklı kuru belirleyecek 
+     Aksine hüküm bulunmayan hallerde tetkik mercii, şik yet konusu işlemi yapan icra dairesinin açıklama ve duruşma yapmasına gerek olup olmadığını takdir edecek. Duruşma yapılması uygun görülürse, ilgililer en kısa zamanda duruşmaya çağırılacak ve gelmeseler bile karar verilecek. Duruşma yapılmayan işlerde tetkik mercii, en geç 10 gün içinde kararını verecek, duruşmalar zorunlu hallerde 30 günü geçmemek üzere ertelenecek. 
+     Alacaklı, yabancı para alacağının Türk parası karşılığını takip talebinde gösterecek. Bu alacağının hangi tarihteki kur üzerinden tahsilini istiyorsa bunu açıkça belirtecek ve yabancı parayla ilgili faiz alacağına ilişkin talebini de bildirecek. 
+     
+
+</TEXT>
+</DOC>

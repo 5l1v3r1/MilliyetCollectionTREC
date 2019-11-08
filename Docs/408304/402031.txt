@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 402031 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/09/son/soneko21.html </URL>
+<DATE> 2005/12/09/ </DATE>
+<TIME> 11.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tokyo Borsası'nda büyük kargaşa 
+</HEADLINE>
+<TEXT>
+
+     Tokyo Borsası'nda dün halka arzedilen bir şirketin hisse senetlerini fiyatlandırmada yapılan yanlışlık, aracı şirkete bir servete mal olurken borsanın güvenilirliği hakkında da kuşku yarattı. 
+     Borsada büyük kargaşa yaratan olay, J-Com adlı işçi bulma şirketinin, perşembe günü, aracı kurum Mizuho Securities aracılığıyla borsaya hisse senedi arz etmesiyle başladı. 
+     J-Com'dan hisse senedi başına 610 bin yen fiyatla 5065 ABD Doları arz talimatı alan aracı kurum görevlisinin yaptığı bir yazım yanlışı, toplam değeri 3,1 milyar dolar olan 610 bin hissenin hisse başına 1 yen fiyatla satışa sunulmasına yol açtı. Satışa sunulan bu miktarın sadece 93 milyon dolar olan J-Com'un toplam piyasa değerinin 40 kat üzerinde olmasına rağmen, borsa yönetimi de bu ''hayalet hisselerin'' satışa sunulmasına engel olmadı. 
+     Hatanın anlaşılması üzerine, satışa sunduğu aslı olmayan hisseleri tekrar satın alarak piyasadan toplayan Mizuho'nun bu işlem için ödediği miktarın neredeyse geçen yılki toplam karına eşit bir tutar olan 224 milyon dolara ulaştığı, satılan tüm hisseler toplanamadığından bu rakamın daha da artabileceği belirtiliyor. 
+     Olay üzerine, bugün J-Com hisselerinde işlem yapılmasına izin verilmedi. 
+     Şirketin hatanın anlaşılmasının ardından, 3 kez satışı durdurmaya çalışmasına rağmen, borsa yönetiminin yanlış talimatla yapılmış bile olsa başlayan bir işlemin durdurulamayacağını açıklaması ve bir şirketin gerçek değerinin 40 katından fazla hisse senedinin satışa çıkarılmasına izin vermesi de Tokyo Borsası'nın güvenilirliği hakkında kuşkuların dile getirilmesine yol açtı. 
+     Mali piyasalara nezaret etmekle görevli Japonya Mali Hizmetler Ajansı konuyla ilgili soruşturma başlatırken, Ekonomi ve Bankacılık Bakanı Kaoru Yosano da sorunun bir an önce çözülmesini istedi. 
+     Yosano, Tokyo Borsası'nın güvenilirliğinin korunması için bu tür hataların tekrarlanmamasını sağlayacak önlemler alınmasını istedi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 108871 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/09/21/son/sontur01.html </URL>
+<DATE> 2002/09/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yeni bir virüs için alarm verildi... 
+</HEADLINE>
+<TEXT>
+
+     Microsoft'un popüler sunum programı Power Point ile gönderilen yeni bir virüsün, bilgisayarın kontrolünü virüsü gönderen kişiye verdiği bildirildi. 
+     İnternette yeralan habere göre, ''life is beatiful.pps'' isimli power point prezentasyonu içine yerleştirilen ve bilişim dünyasında Trojan olarak adlandırılan virüs, sunumun açılmasının ardından önce ''life is no longer beatiful anymore'' olan bir yazı gösteriyor ve hemen arkasından virüsü gönderen kişiye başta elektronik posta şifreleri olmak üzere, tüm şifreleri gönderiyor, bilgisayarın kontrolünü tamamen göndericiye bırakıyor. 
+     İnternet analistleri, ''life is beatiful.pps'' adlı sunumu alan kullanıcıların söz konusu dosyayı açmamaları ve bilgisayarlarında sürekli güncellenen bir anti-virüs programı bulundurmalarını istiyorlar. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 238907 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/10/son/sonyas14.html </URL>
+<DATE> 2004/05/10/ </DATE>
+<TIME> 12.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Havaalanlarına vücudu tarayan cihaz 
+</HEADLINE>
+<TEXT>
+
+     İngiltere'de, yolcuyu tepeden tırnağa taramadan geçiren yeni bir X-Ray cihazının yakında tüm havaalanlarında kullanılacağı bildirildi. 
+     The Independent gazetesinin haberinde, yüksek teknoloji ürünü sistemin, yolcunun kat kat giyinmesi halinde bile üzerinde silah ve patlayıcı gibi maddeleri taşımasını imkansız hale getireceği kaydedildi. 
+     ''Qinetiq'' adlı savunma teknolojisi firmasının İngiltere Savunma Bakanlığı ile ortak ürettiği yeni cihazın bir yıl içinde bütün havaalanlarında kullanılacağını belirten gazete, ''Bu makine, yolcu kaç kat giyinirse giyinsin, hepsinin altını görebilmeye imkan veriyor. Ancak insanların özel yaşamının korunabilmesi için, vücudun kontrol edilmesi gereken noktalarını kontrol ederken, bazı yerlere incir yaprağı varmış gibi karartma yapabiliyor'' diye yazdı. 
+     Özel bir ışın dalgasıyla giysilerin içini gösteren cihazın Gatwick havaalanındaki denemesinde başarılı olduğunu belirten gazete, sistemin esasen Savunma Bakanlığı'nın da ortaklığıyla helikopter pilotlarının sisli havalarda görebilmesi için üretildiğini, ancak terör tehdidinin artması üzerine güvenlik alanında da kullanılabilir şekle dönüştürüldüğünü kaydetti. 
+     Gazete, cihaz sayesinde kalp pilleri ve platin çiviler gibi tüm ayrıntıların görülebildiğini belirtti. 
+     
+</TEXT>
+</DOC>

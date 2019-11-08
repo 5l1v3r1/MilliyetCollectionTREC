@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 183630 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/20/son/sontur13.html </URL>
+<DATE> 2003/09/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türkiye'nin ilk mini uydusu için geri sayım başladı 
+</HEADLINE>
+<TEXT>
+
+     Türkiye, haberleşme uydularının ardından uzaya göndereceği çok amaçlı ilk alçak irtifa uydusuyla uzaydaki varlığını pekiştiriyor. TÜBİTAK Bilgi Teknolojileri ve Elektronik Araştırma Enstitüsü'nün BİLTEN projesiyle üretilen ve 26 Eylül Cuma günü sabah saatlerinde uzaya fırlatılacak BİLSAT uydusu için geri sayım başladı. 
+     BİLTEN Müdürü Prof. Dr. Erol Kocaoğlan'dan alınan bilgiye göre, İngiltere Surrey Üniversitesi'nin Satellite Teknology Limited SSTL şirketiyle yürütülen çalışmalarla üretilen mini uydunun fırlatma öncesi son testleri Rusya'da sürüyor. Rusya'nın Plesetsk kasabasındaki askeri üsten 26 Eylül Cuma günü saat 09.07'de fırlatılması planlanan uydu için TÜBİTAK BİLTEN'de heyecanlı bir bekleyiş başladı. 
+     Fırlatma işlemlerinde görev almak üzere TÜBİTAK BİLTEN'den iki uzman 24 Eylül Çarşamba günü Rusya'ya gidecek. Uydunun verileri indireceği ODTÜ kampüsündeki TÜBİTAK BİLTEN binasında da hazırlıklar tamamlanmaya çalışılıyor. Fırlatma işleminin ardından yaklaşık 1 aylık süre içinde uydunun kontrolünün TÜBİTAK BİLTEN'e geçecek olması dolayısıyla uydunun yapımında görev alan Türk mühendisler, Uydu Yer İstasyonu'nda son kontrollerini gerçekleştiriyorlar. 
+     Hava koşullarının uygun olması halinde BİLSAT, 4 ayrı uyduyu daha taşıyacak roketle uzaya gönderilecek. Fırlatma işleminin yaklaşık 20 dakika sürmesi bekleniyor. Uydunun yörüngeye oturtulmasının ardından yaklaşık 1 aylık süre içinde uydunun kontrolü ODTÜ'deki BİLTEN'e devredilecek. 
+     BİLSAT uydusunun yapımı için 12 Ağustos 2001 tarihinde proje hazırlandı. Nisan 2002'de tasarımı tamamlanan uydu 3 Haziran 2003'te uçuşa hazır hale getirildi. 28 Temmuz'da Rusya'nın Plesetsk askeri üssünden fırlatılması planlanan uydu, Rusya Federasyonu'nun bir askeri uydusunun arızalanması ve bu uyduyu yenilemek istemesi üzerine programda değişiklik yapması nedeniyle ertelenmişti. 
+     Türkiye'nin ilk mini uydusu 12 metre ve 26 metre çözünürlükte dört bantlı kameralar taşıyacak. Bu sayede uydudan şehircilik, kaçak yapılaşmanın tespiti, tarım, çevre, ormancılık, haritacılık ve tabi afetlerin neden olduğu hasarın değerlendirilmesi gibi çeşitli amaçlarla yararlanılabilecek. Uydudan elde edilecek veriler, TÜBİTAK BİLTEN'de kurulan uydu yer istasyonuna indirilecek. BİLSAT, tamamen Türk mühendislerinin tasarladığı Çok Bantlı Kamera ÇOBAN ve Gerçek Zamanda Görüntü İşleyen GEZGİN modülleri de taşıyacak. BİLTEN'de üretilen bu iki modül de uyduya yerleştirildi. 
+     Toplam 129 kilogram ağırlığındaki BİLSAT, 686 kilometrelik bir irtifada yörüngeye yerleştirilecek. Temel görevi uzaktan algılama olan ve bir ölçüde haberleşme yeteneği de bulunan BİLSAT, Türkiye'nin yanı sıra İngiltere, Cezayir, Nijerya, Çin ve Tayland uydularının da bulunduğu uluslararası Afet İzleme Takımuydu Sistemi'nde Disaster Monitoring Constellation yer alacak. Uydu, 12 saatte aynı bölgenin üzerinden geçecek. 15 yıllık ömre göre tasarlanan uydu 14 milyon dolara mal olacak. 
+     BİLSAT uydusunda görev alan Türk mühendisler, yapım sürecinde mühendislik becerileri kazandı. BİLTEN'de ''Temiz Oda'' ve ''Uydu Tasarım Ofisi'' oluşturularak, bundan sonra yapılacak uydular için zemin hazırlandı. BİLTEN, teknoloji transferi yoluyla yapımını gerçekleştirdiği BİLSAT uydusu ile bundan sonraki mini uyduların yüzde yüz yerli imkanlarla yapımını hedefliyor. 
+     
+</TEXT>
+</DOC>

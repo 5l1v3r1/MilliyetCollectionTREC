@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 320702 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/04/son/soneko41.html </URL>
+<DATE> 2005/03/04/ </DATE>
+<TIME> 17.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dolardaki gerileme sürüyor... 
+</HEADLINE>
+<TEXT>
+
+     Yeni Türk Lirası karşısında gerilemesi devam eden dolar, serbest piyasada günü 1.2680 YTL'den tamamladı. 
+     Kapalıçarşı'da dün 1.2760 YTL'den kapanan dolar, bugün 1.2700 YTL alış, 1.2780 YTL satış fiyatıyla güne başladı. 
+     Gün içinde düşüşü devam eden dolar, 1.2630 YTL alış, 1.2680 YTL satış fiyatıyla kapandı. 
+     İstanbul ve Ankara serbest piyasalarında alınıp satılan döviz türlerinin, dün ve bugün itibariyle alış ve satış kapanış fiyatları şöyle 
+     
+
+İSTANBUL SERBEST PİYASA Perşembe Alış Perşembe Satış Cuma alış Cuma Satış ABD Doları 1.2710 1.2760 1.2630 1.2680 Avro 1.6710 1.6760 1.6660 1.6780 İng. Sterlini 2.4140 2.4400 2.4150 2.4250 İsviçre Frangı 1.0740 1.0860 1.0750 1.0850      
+
+ANKARA SERBEST PİYASA Perşembe Alış Perşembe Satış Cuma alış Cuma Satış ABD Doları 1.2730 1.2810 1.2640 1.2740 Avro 1.6720 1.6830 1.6680 1.6810 İng. Sterlini 2.4200 2.4520 2.4140 2.4450      
+</TEXT>
+</DOC>

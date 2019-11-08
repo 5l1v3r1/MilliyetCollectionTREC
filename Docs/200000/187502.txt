@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 187502 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/09/son/soneko05.html </URL>
+<DATE> 2003/10/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     Borsanın temel göstergesi Dow Jones, 23.71 puan kayıpla 9,630.90 puana gerilerken, teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq, 14.07 puan düşerek 1,893.78 puandan kapandı. 
+     
+     TOKYO BORSASI 
+
+     Açılıştan kapanışa kadar inişli ve çıkışlı bir seyir izleyen Tokyo Menkul Kıymetler Borsası, kapanışta geriledi. 
+     Nikkei Endeksi, ortalama 10.76 puan yüzde 0.1 değer kaybederek, 10,531.44 puana indi. 
+     Öte yandan, ABD Doları, Japon Yeni karşısında 0.63 yen değer kaybederek, 109.14 yen düzeyine geriledi. 
+     
+</TEXT>
+</DOC>

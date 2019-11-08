@@ -1,0 +1,45 @@
+<DOC>
+<DOCNO> 136938 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/02/15/son/soneko03.html </URL>
+<DATE> 2003/02/15/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Buğday üretim miktarı uzaydan belirlenecek... 
+</HEADLINE>
+<TEXT>
+
+     Türkiye'de her yıl tartışmalara neden olan ve gayri safi milli hasıla GSMH hesapları açısından da önem taşıyan buğday üretim miktarının, 3 yıl içinde uzaktan algılama yöntemi ile belirlenmesi hedefleniyor. 
+     Edinilen bilgiye göre, buğday üretiminde uzaktan algılama yönteminin kullanılması amacıyla, model oluşturmak üzere Ankara'da başlatılan pilot projenin gelecek yıl tamamlanması hedefleniyor. Modelin oluşturulması halinde, 3 yıl sonra Türkiye'nin buğday üretimi, uzaydan alınacak fotoğraflar değerlendirilerek, daha doğru bir şekilde tahmin edilebilecek. 
+     Halen üretim tahminleri, borsalara ve Toprak Mahsulleri Ofisi'ne TMO gelen ürün miktarları, tarım il müdürlerinin tahminleri veri alınarak, Tarım Ürünleri Tahmin Komitesi tarafından yapılıyor. Komite, Tarım ve Köyişleri ile Sanayi ve Ticaret bakanlıkları, Devlet İstatistik Enstitüsü DİE , Devlet Planlama Teşkilatı DPT , Türkiye Odalar ve Borsalar Birliği TOBB , Türkiye Ziraat Odaları Birliği temsilcilerinden oluşuyor ve yılda 3 tahminde bulunuyor. Tahmin rakamları, GSMH'nın hesaplanması açısından büyük önem taşıyor. 
+     Edinilen bilgiye göre, 1993 yılında Türkiye'deki bitkilerin tarım açısından önemli yabani gen kaynaklarının tespiti, haritalanması ve yerinde korunması amacıyla Dünya Bankası'nın 5 milyon dolar desteği ile Tarım ve Köyişleri Bakanlığı'nın Ankara'daki Tarla Bitkileri Araştırma Enstitüsü'nde kurulan Uzaktan Algılama Merkezi, geçen yıl, buğday tahmininde model oluşturmak üzere Ankara'da pilot proje başlattı. Proje kapsamında, uydulardan sağlanan görüntüler, yer bilgileri ile eşleştirilerek doğruluğu test ediliyor. Uzmanlar, uydu görüntülerin ekili alanların miktarı hakkında bilgi vermesine karşın verim konusunda tahmin yapmanın henüz mümkün olmadığını, verimin tahmin edilmesi için uzaktan algılama, iklim, toprak, yetiştirme tekniği gibi konuları içeren bir model oluşturulması gerektiğini belirttiler. Pilot projenin tamamlanmasıyla geliştirilecek modelin Türkiye genelinde uygulanması hedefleniyor. Böylece, sadece ekiliş alanı değil, verim hakkında da tahmin yapılabileceği için, üretim rakamları daha doğru bir şekilde ortaya konabilecek. 
+     
+     EN BÜYÜK SORUN KADASTRO KAYITLARI VE HARİTALAR 
+     Tarımda üretim tahminlerinin uzaktan algılama ile yapılabilmesi için, model oluşturulmasının dışında, öncelikle arazi, tapu ve kadastro bilgilerinin bilgisayar ortamına aktarılması gerekiyor. 
+     Ancak, Türkiye'de tapu ve kadastro çalışmaları tamamlanamadığı için, Uzaktan Algılama Merkezi tarafından yürütülen birçok projede, arazi bilgilerinin de toplanıp bilgisayara yüklenmesi gerekiyor. GPS denilen Küresel Yer Konumlama cihazları ile arazi verileri toplanıyor ve bu veriler topoğrafik haritalar, uydu görüntüleri, toprak haritaları gibi diğer verilerle birlikte bilgisayar ortamında değerlendiriliyor. 
+     Koordinatlı arazi bilgilerinin ve buna ilişkin haritaların tam olarak dijital ortama geçirilmesi halinde, uydudan alınan görüntüler aracılığı ile her bir parselde hangi ürünün ekildiğini tespit etmek mümkün olabilecek. 
+     Türkiye'de Maden Tetkik ve Arama MTA , Köy Hizmetleri gibi bazı kamu kurumlarında 1 25000'lik sayısal haritalar olmasına karşın, henüz bu haritaların kurumlar arasında paylaşım ve kullanımına ilişkin bir düzenleme bulunmadığı için, bu haritaların da resmi kurumlarca ücret karşılığı alınması gerekiyor. 
+     
+     1x1 METRE ÇÖZÜNÜRLÜKTE GÖRÜNTÜ SAĞLAMAK MÜMKÜN 
+     Uzaktan algılama için kullanılan görüntüler, birçok ülkenin görüntü sağlamak amacıyla fırlattığı uydulardan elde ediliyor. 
+     ABD'nin LANDSAT uydusu 15 günde bir Türkiye'nin üzerinden geçiyor. Proje kapsamında istenilen tarihler arasındaki görüntüler sipariş ediliyor. Uydunun sağladığı görüntünün detayına göre maliyet değişiyor. 30x30 metre detay verebilen çözünürlükte 170x170 kilometrekarelik km alanı kapsayan bir görüntünün bedeli 1000-1500 dolar, 5x5 metre çözünürlükte 70x70 km'lik alanın görüntüsü 4 bin-5 bin dolar olurken, IKONOS'tan sağlanan 1x1 metre çözünürlükte görüntünün kilometrekaresi 30-40 dolara çıkıyor. 
+     Ürünlerin yetişme dönemine göre, değişik tarihlerde alınan görüntüler analiz edilerek, yer bilgileri ile eşleştiriliyor. Oluşturulan modelin uygulanması ile ekim alanı ve verim ile ilgili tahminde bulunmak mümkün oluyor. 
+     Ankara'daki merkezde bulunan NOAA uydusu yer indirme istasyonundan elde edilen görüntüler ise 1.1 kilometre hassasiyette ve tüm Türkiye'yi kapsıyor. NOAA uydu görüntüleri bitki canlığı, kuraklık ile ilgili çalışmalarda kullanılabiliyor. 
+     Mevcut sayısal veri tabanlar ile ekili alanların tahmini şu anda ilçe bazında yapılabiliyor, parsel bazındaki değerlendirmeler ise yapılamıyor. 
+     
+     PAMUK PRİMİNDEKİ YOLSUZLUKLAR TESPİT EDİLMİŞTİ 
+     Uzaktan Algılama Merkezi'nin 2001 yılında, Gaziantep, Şanlıurfa, Adıyaman ve Kahramanmaraş'ta yürüttüğü, pamuk ekim alanlarının uzaktan algılama yöntemi ile belirlenmesine yönelik projesi sonucunda fazla ekim alanı bildirimleri tespit edilerek prim ödemelerindeki suiistimal önlenmeye çalışılmıştı. 
+     Söz konusu 4 ilde Şanlıurfa Tarım İl Müdürlüğü ile işbirliği halinde yürütülen çalışmada pamuk primi ödenmesine ilişkin bildirimlerin doğruluğu test edilerek, milyarlarca liralık haksız kazancın önüne geçilmiş oldu. Uzmanlar, model oluşturulması ve kaynak ayrılması halinde, doğrudan gelir desteği ödemelerine esas olacak bildirimlerin doğrulununun da bu yöntemle belirlenebileceğine dikkat çektiler. 
+     Diğer taraftan, TÜBİTAK-BİLTEN'in bu yıl Temmuz ayında fırlatmayı planladığı, Türkiye'nin görüntü amaçlı ilk uydusunun çalışmaya başlaması halinde, görüntü maliyetlerinin ucuzlaması bekleniyor. Bu uydudan, 25 metre çözünürlükte veri sağlamak mümkün olacak. 
+     Haymana'nın tarımsal veri tabanı oluşturulması projesini tamamlayan Uzaktan Algılama Merkezi'nde, halen Ankara ve Erzumun'da mera alanlarının tespiti ve haritalanması, Muğla-Güllük Körfezi'nde su kirliliğinin uzaktan algılama yöntemi ile tespiti için model oluşturma projeleri yürütülüyor. 
+     Türkiye'de her yıl buğday rekoltesi konusunda tartışmalar yaşanıyor, üretim rakamları, değişik kurumlar tarafından 18-22 milyon ton arasında kabul ediliyor. 
+     Öta yandan, Türkiye'deki pamuk, ayçiçeği ve buğday alanlarının uydu görüntüleri ile tespit edilmesi ve üretim rakamlarının belirlenmesi için Tarım ve Köyişleri Bakanlığı'nın Türkiye Odalar ve Borsalar Birliği ile ortak bir proje yürütmek için hazırlık yaptığı öğrenildi. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

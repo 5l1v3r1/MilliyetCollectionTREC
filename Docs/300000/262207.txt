@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 262207 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/10/son/sonyas07.html </URL>
+<DATE> 2004/08/10/ </DATE>
+<TIME> 09.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft'tan ikinci güvenlik paketi... 
+</HEADLINE>
+<TEXT>
+
+     Yazılım devi Microsoft, Windows XP işletim sistemi için ikinci güvenlik paketini çok yakında kullanıcılarının hizmetine sunacak. 
+     Yazılımdaki güvenlik boşluklarını giderecek Service Pack 2, geçen cuma bilgisayar üreticisi firmalara sunuldu. Paket, birkaç gün içinde de PC kullanıcılarının kullanımına bedava sunulacak. 
+     Firmanın, Service Pack 2 ve diğer programlar için yaklaşık bir milyar dolarlık yatırım yaptığı, ''Longhorn'' adı verileceği bildirilen müstakbel yeni işletim sisteminin bir bölümünün de Pack 2'ye dahil edildiği kaydedildi. 
+     Üç yıl önce piyasaya verilen Windows XP, güvenlik açıkları nedeniyle çok sayıda saldırıya maruz kalmış bulunuyor. 
+     
+</TEXT>
+</DOC>

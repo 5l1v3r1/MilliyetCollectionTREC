@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 246605 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/09/son/sontur09.html </URL>
+<DATE> 2004/06/09/ </DATE>
+<TIME> 10.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Araç devretmek artık daha kolay... 
+</HEADLINE>
+<TEXT>
+
+     Kurum olarak geçen yıl e-Devlet ödülü alan Emniyet Genel Müdürlüğü, vatandaşlara yönelik hizmetlerinde de on-line sistemini devreye sokarak zaman ve para tasarrufu yapmaya başladı. Artık iller arası araç devir işlemleri on-line sistemi ile aynı gün içerisinde yapılabilecek. 
+     Emniyet Genel Müdürlüğü Trafik Hizmetleri Başkanlığı, iller ve ilçeler arasındaki araç devirlerindeki tescil işlemlerinde ''sakınca sorma'' yazışmasında faks ve posta yolunun kullanılmasının uzun zaman alması dolayısıyla, emniyet birimleri arasındaki internet ağı olan Pol-Net'i kullanmaya başladı. Bir süredir Ankara ve İzmir arasındaki ''pilot'' uygulama bu hafta başından itibaren 81 ili kapsayacak şekilde genişletildi. 
+     Başka illere ait araçların nakil yapılmadan önce tescilinde sakınca bulunup bulunmadığının öğrenilmesi için yapılan yazışmanın Pol-Net üzerinden yapılmasıyla artık, sahte üst yazı veya evrak kullanılarak yapılan usulsüz araç tescillerini de ortadan kaldıracak. 
+     Trafik Hizmetleri Başkanlığı'nın verilerine göre 2003 yılında 1 milyon 67 bin adet aracın iller arası devri yapıldı. Bu araçlar için emniyet 2 milyon 134 bin 156 yazışma yaptı. Posta ve faks masrafı olarak yaklaşık 3.5 trilyon lira para harcandı. Yeni sistem ücretsiz olduğu için vatandaşlar açısından maddi külfet de ortadan kalkmış oldu. 
+     Sistemin en önemli getirisinin zaman tasarrufu olduğunu belirten Trafik Hizmetleri Başkanlığı yetkilileri, iller arası yazışmanın ortalama 7-10 gün aldığını, bazen bunun haftalarca sürebildiğine de dikkat çekerek, ''Yazışmalar artık kısa sürede yapılabileceği için tescil işlemleri de aynı gün tamamlanabilecek'' dediler. 
+
+     
+</TEXT>
+</DOC>

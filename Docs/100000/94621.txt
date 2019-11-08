@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 94621 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/07/09/son/sondun05.html </URL>
+<DATE> 2002/07/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dünyada en çok sanal saldırı Amerika'dan yapılıyor 
+</HEADLINE>
+<TEXT>
+
+     Dünyada bilgisayarlar aracılığıyla en fazla saldırının ABD'den yapıldığı, bunu Almanya, Güney Kore ve Çin'in izlediği bildirildi. 
+     Merkezi Virginia'da bulunan Riptech Inc. adlı şirket tarafından hazırlanan rapora göre, sanal saldırıların yüzde 40'ı ABD'den, yüzde 7,6'sı Almanya'dan, yüzde 7,4'ü Güney Kore'den ve yüzde 6,9'u Çin'den kaynaklanıyor. 
+     Buna karşılık internet kullanıcıları bazında yapılan değerlendirmede, en fazla sanal saldırının İsrail ve Hong Kong'dan yapıldığı belirtildi. Her 10 bin kullanıcıya karşı İsrail'den 33, Hong Kong'dan ise 22 saldırı yapılıyor. 
+     Rapora göre, sanal saldırganların başlıca hedefleri arasında enerji şirketleri bulunuyor. 
+     Sanal saldırı kapsamına bilgisayar virüslerinin yayılmasından internet şebekesinin çökertilmesine yönelik girişimlere kadar her şey giriyor. Bu saldırıların, 2002'nin ilk yarısında, 2001'in ikinci yarısına oranla yüzde 28 arttığı bildirildi. Yıllık bazda ise saldırıların yüzde 64 oranında fazlalaştığı saptandı. 
+     Şirketlerin ortalama olarak haftada 32 kez sanal saldırıya uğradıkları belirtilen raporda, saldırıların özellikle çarşamba ve perşembe günleri çoğaldığına dikkat çekildi. 
+     Raporun hazırlanmasında, 30 ülkedeki 400 şirketin değerlendirmeye alındığı kaydedildi. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

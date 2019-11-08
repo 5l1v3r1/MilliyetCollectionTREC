@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 186187 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/03/son/sondun08.html </URL>
+<DATE> 2003/10/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft'a güvenlik açıkları yüzünden toplu dava .. 
+</HEADLINE>
+<TEXT>
+
+     Microsoft firmasının, ürünlerindeki güvenlik açıkları yüzünden toplu davayla karşı karşıya kaldığı bildirildi. 
+     Los Angeles Yüksek Mahkemesi'ne kullanıcılar adına sunulan dava dilekçesinde, ''Microsoft ürünlerinin virüslere açık olduğu ve dünya çapında bilgisayar şebekesinin toplu olarak çökmesine yol açabildiği'' öne sürüldü. 
+     Dilekçede, ''Microsoft'un güvenlik uyarılarının, halkın çoğunluğu tarafından anlaşılamayacak kadar karmaşık olduğu, ayrıca kullanıcılara yarar sağlamak yerine, açıkgöz bilgisayar korsanlarının bu açıklardan yararlanmasına hizmet ettiği'' vurgulanıyor. 
+     Davanın, bir üründe bu tür hatalar bulunmasının tüketici haklarını ihlal ettiğini hükme bağlayan California eyalet yasalarına dayanarak açıldığı kaydedildi. 
+     Dava hukuk çevrelerinde, yazılım şirketlerinin, örneğin otomobil üreticileri gibi, ürünlerindeki hatalardan sorumlu tutulup tutulamayacağı tartışmasını da başlattı. Uzmanlar, bunun sonucunda bilgisayarların daha güvenli, ancak daha pahalı olacağını tahmin ediyor. 
+     Davanın açılmasına, internet aracılığıyla sosyal güvenlik numarası ve banka hesabının ayrıntıları çalınan ''bilgisayar kullanıcısı ve film editörü'' Marcy Levitas Hamilton'un ön ayak olduğu bildirildi. Hamilton'un avukatı Dana Taschner, dava dilekçesini mahkemeye verdikten sonra, ''Tüketicileri ve iş alemini korumak için bazı şeylerin kökten değişmesi gerekiyor'' diye konuştu. 
+     Davanın gerçek anlamda toplu davaya dönüşmesi halinde, milyonlarca kullanıcının Microsoft'tan şikayetçi olabileceği belirtiliyor. 
+     Dilekçede, Microsoft'tan istenen tazminatın yanı sıra kuruluşun haksız uygulamalarına son vermesi de talep edildi. 
+     Microsoft yöneticileri, dava dilekçesinin bir kopyasını elde ettiklerini ve avukatların bunu incelediğini belirtmekle yetindi. 
+     Dünyada kullanılan bilgisayarların yüzde 90'ının işletim sistemini sağlayan Microsoft'un nakit varlığının 49 milyar dolar olduğu bildiriliyor. 
+     Ancak Microsoft'un tüm ürünlerinde ''kullanıcıların yazılımı olası olumsuzlukları kabul ederek bilgisayarlarına yüklediklerini'' vurgulayan bir ''feragat'' maddesi bulunuyor. Bazı hukukçular, Microsoft'un mahkemede bu hususu öne sürerek tazminattan kurtulabileceğini savunuyorlar. 
+     
+</TEXT>
+</DOC>

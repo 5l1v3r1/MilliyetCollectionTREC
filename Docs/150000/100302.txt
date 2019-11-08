@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 100302 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/08/06/son/soneko01.html </URL>
+<DATE> 2002/08/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası'nda Dow Jones ve Nasdaq endeksleri, günü düşüşle tamamladı. 
+     Borsanın temel göstergesi Dow Jones Endeksi, 269.5 puan düşerek, günü 8,043.63 puandan tamamladı. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq Endeksi de 41.91 puan düşerek, günü 1,206.01 puandan kapattı. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

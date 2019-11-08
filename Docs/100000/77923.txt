@@ -1,0 +1,54 @@
+<DOC>
+<DOCNO> 77923 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/04/12/yasam/ayas.html </URL>
+<DATE> 2002/04/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bu maçı alacağız BAŞKA YOLU YOK 
+</HEADLINE>
+<TEXT>
+
+Dünya şampiyonasına hazırlanan Boğaziçi Üniversitesi patentli futbolcu 4 robot köpek, idman sahasında basmadık yer bırakmıyor 
+     PINAR AKTAŞ İstanbul 
+
+     Haziran ayında Japonya ile Güney Kore’de düzenlenecek olan Dünya Futbol Şampiyonası’yla aynı tarihlere bir başka heyecanlı turnuva daha başlayacak. Dünya Robot Köpekler turnuvası... 
+     Yine Japonya’da yapılacak RoboCup’ turnuvasında Türkiye’yi Boğaziçi Üniversitesi’nin robot köpeklerden kurulu takımı Cerberus’ temsil edecek. Dört robot köpekten oluşan takım, şu an son hazırlıklarını yapıyor. Bu maçların asıl amacı ise 2050 yılında insanlardan kurulu dünya futbol takımına karşı mücadele edecek robot futbol takımını yaratmak... 
+     Boğaziçi Üniversitesi Bilgisayar Mühendisliği Bölümü Yapay Zeka Laboratuarı’nda Doç. Dr. Levent Akın’ın yönetimindeki 17 kişilik bir ekip, takımı maçlara hazırlamak için harıl harıl çalışıyor. 
+     
+     Daha önce de katıldılar 
+     2001 yılında Seattle’da ilk kez robot köpekler arası futbol şampiyonasına katılan ve 16 üniversite arasında 13. olan Cerberus’, önce 23 - 29 Mayıs tarihleri arasında başta Seul olmak üzere Kore’de çeşitli şehirlerde yapılacak olan FİRA futbol turnuvasına katılacak. 
+     Robot köpeklerin en büyük mücadelesi ise Japonya’nın Fukuoka kentinde gerçekleşecek. Cerberus’, Dünya Futbol Şampiyonası’yla aynı tarihlerde yani 19 - 25 Haziran’da Amerika, İngiltere, Almanya ve İtalya’nın da bulunduğu değişik ülkelerden 19 üniversitenin robot köpeklerine karşı mücadele verecek. 
+     
+     Amaç depreme hazırlık 
+     Ekibin, tek sorunu ise sponsor bulamamak. Çünkü her türlü altyapı hazır olmasına rağmen ekibin Japonya’ya gitmesi için gerekli olan 18 bin dolar henüz bulunamadı. Proje lideri Doç. Dr. Levent Akın, futbolcu robotları için şunları söylüyor "Futbol oynayan robotların dizaynı sırasında elde edilecek tecrübe birçok alanda kullanılabilecek. RoboCup’un en önemli hedefi Türkiye’yi vuran deprem gibi büyük felaketlerde kurtarma çalışmaları yapabilecek robotların yaratılması. Araştırmacılar teknik tartışmaları takip ederken, seyirciler robotların yaptığı maçları seyrediyorlar." 
+     
+Nasıl oynayacaklar      Sony firmasının 2000’de piyasaya sürdüğü AİBO adındaki robot köpeklerden dördü, futbolcu’ olarak yetiştirildi. Boğaziçili ekip önce görme, yürüme, yer bulma ve taktik ile strateji kabiliyetine yönelik bilgileri, yazılım haline getirdi. Daha sonra bu yazılım, memory stick’ denilen bir çipe aktarılarak köpeklere yerleştirildi. Köpekler, kafalarına yerleştirilen video kameralar sayesinde öncelikle çevrelerindeki renkleri algılamayı öğrendi. Daha sonra algıladıkları renkleri, ayırarak yön bulma ve hareket etme kabiliyetlerini edindi. Kaleler, sarı ve mavi. Saha kenarlarında bulunan direklerdeki pembeler ise köpeklere sahanın neresinde olduklarını bildiriyor. 
+     
+
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

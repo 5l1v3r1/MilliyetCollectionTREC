@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 172320 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/29/son/soneko01.html </URL>
+<DATE> 2003/07/29/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası'nda Dow Jones düştü, Nasdaq yükseldi 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Borsası'nda Dow Jones sanayi endeksi, 19 puan düşüşle binde 2 günün son seansını 9,265.74 puandan kapadı. 
+     En ileri teknoloji ortaklıklarının ibresi Nasdaq birleşik endeksi de, 5 puan yükselmeyle binde 2,7 1,735.34 puandan kapandı. 
+     Yatırımcıların Amerikan şirketlerinin yılın ikinci çeyreğindeki karlılık rakamlarını beklediği ortamda, New York menkul kıymetler borsası Wall Street günü durgun açtı. 
+     Wall Street'in ilk seansında Dow Jones Endeksi 4.67 puan kayıpla 9,279.90 puana indi. Nasdaq da 0.7 puan kayıpla 1,730.00 puana geriledi. 
+     
+</TEXT>
+</DOC>

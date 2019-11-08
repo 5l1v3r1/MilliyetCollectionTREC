@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 183215 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/18/son/sontur11.html </URL>
+<DATE> 2003/09/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yargıtay kararı Fazla ödenen yaşlılık aylıkları geri ödenmesin 
+</HEADLINE>
+<TEXT>
+
+     Yargıtay, sosyal güvenlik kurumlarının hatası nedeniyle fazla ödenen yaşlılık aylığının geri ödenemeyeceğine karar verdi. 
+     sosyal güvenlik kurumu, bir kişinin, 25 Ocak 1995 tarihli tahsis talep dilekçesine istinaden, 1 Mayıs 1963-31 Aralık 1968 arasında geçen 469 gün hizmeti de eklenmek suretiyle 1 Mart 1995 tarihinden geçerli olmak üzere yaşlılık aylığı bağladı ve 22 Temmuz 1999 tarihine kadar da bu aylığı ödedi. 
+     Daha sonra bilgisayar kayıtları kontrolü sırasında yanlışlık yaptığını fark eden sosyal güvenlik kurumu, yaşlılık aylığını alan kişinin hizmet süresine eklenen 469 gün hizmeti ve aylığını iptal etti, ödediği 1 milyar 551 milyon 7 bin 160 lirayı da talep etti. 
+     Bunun üzerine kuruma müracaat eden sigortalı, 1995-1999 yıllarının isteğe bağlı primlerini ödeyerek, 10 Eylül 1999 tarihinde yeniden tahsis talebinde bulundu ve kurum da 1 Ekim 1999 tarihinden itibaren yeniden yaşlılık aylığı bağladı. 
+     Bu aşamadan sonra sosyal güvenlik kurumu, fazla ödenen paranın yasal faiziyle birlikte tahsili istemiyle dava açtı. 
+     Yerel mahkeme, kurumun isteğini kabul etti. 
+     
+     ''DAVALI, KURUMU YANILTMAMIŞTIR'' 
+
+     Kararın temyiz istemini görüşen Yargıtay 10. Hukuk Dairesi, yerel mahkemenin kararını oybirliğiyle bozdu. 
+     Kararda, davalının, yaşlılık aylığı talebi sırasında ve sonrasında kurumu yanıltmadığı, iyi niyetli olduğu belirtilerek, kurumun da davalının kötü niyetli olduğunu ispat edemediği kaydedildi. 
+     ''Tahsis talebi üzerine kurum, yaşlılık aylığı alacak kişinin hizmet süresinin eksik olduğunu belirtseydi, davacının primlerini ödeyip yaşlılık aylığına hak kazanması mümkün bulunmaktadır'' denilen kararda, Borçlar Kanunu'na göre, sebepsiz zenginleşen kişinin iade borcu ile yükümlü tutulabilmesi için kötü niyetli olduğunun kanıtlanması gerektiğine işaret edildi. 
+     Kararda, şu görüşlere yer verildi 
+     ''Birçok Yargıtay kararında da belirtildiği gibi, iyi niyetli zenginleşen kimse zenginleşmenin geri verilmesinden dolayı zenginleşme hiç olmasaydı bulunacağı durumdan daha kötü duruma düşürülemez. 
+     Kurumun hizmet süresini yanlış hesaplaması sonucu, fazla ödenen yaşlılık aylığını alan davalının yaşlılık aylığı talebi sırasında ve sonrasında kötü niyetli olmaması ve yaşam deneyleri ve günümüzün ekonomik koşullarına göre de ödenen yaşlılık aylıklarını tüketerek elden çıkarmak zorunda olup, zor geçinen kimselerden olduğunun anlaşılması karşısında kurum davasının reddine karar verilmelidir.'' 
+     
+</TEXT>
+</DOC>

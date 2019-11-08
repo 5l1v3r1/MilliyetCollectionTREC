@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 159197 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/27/son/sondun04.html </URL>
+<DATE> 2003/05/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+SARS aşısı hayvanlarda denenecek 
+</HEADLINE>
+<TEXT>
+
+     Dünyayı tehdit eden akut solunum yetmezliği sendromu SARS hastalığına karşı çare bulmak için birçok ülkede bilim adamları yoğun çaba harcıyorlar. 
+     Hong Kong Üniversitesi'nden mikrobiyoloji uzmanı Guan Yi, geliştirmeye çalıştıkları aşıyı yakında maymunlar üzerinde deneyeceklerini söyledi. 
+     Aşının insanlar üzerinde ne zaman güvenli ve etkili olacağını söyleyemeyeceklerini belirten Guan, denemelerin de ne kadar süreceğinin kesinleşmediğini kaydetti. 
+     Laboratuvarda SARS virüsü yetiştirdiklerini belirten Guan, bu virüsleri denemeler için öldüreceklerini veya pasif hale getireceklerini söyledi. 
+     Hayvanlarda denemeden önce canlı virüs bulunmadığını garanti altına alacaklarını kaydeden Guan, böylece yetiştirilen virüslerin antikor üretimini harekete geçirip geçirmeyeceğinin görüleceğini ifade etti. 
+     Antikorlar teorik olarak SARS'a karşı bağışıklık sağlıyor. 
+     Uzmanlar, virüslerin çabuk değişmesi halinde bu tür hastalığa karşı aşı geliştirilmesinin uzun zaman aldığına veya aşının uzun süre etkili olamadığına işaret ettiler. 
+     Hong Konglu bilim adamları, geçen hafta SARS hastalığına yol açan virüsün büyük olasılıkla misk kedilerinden kaynaklandığını açıklamışlardı. 
+     Dünya Sağlık Örgütü yetkilileri de misk kedilerinin SARS hastalığının kaynağı olduğunu söylemek için erken olduğunu belirttiler. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 341037 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/09/son/sonyas04.html </URL>
+<DATE> 2005/05/09/ </DATE>
+<TIME> 10.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+4.5 milyar dolarlık güvenlik cihazı çöpe gidecek 
+</HEADLINE>
+<TEXT>
+
+     NEW YORK DHA 
+
+      11 Eylül saldırılarının ardından askeri savunma alanının yanı sıra deniz, kara ve hava sınırlarının tümünün güvenlik sistemlerini yenileyen Amerikan yönetimi, şimdi de ’ihtiyaca cevap vermediği’ gerekçesiyle 4.5 milyar dolar harcayarak satın aldığı güvenlik cihazlarını çöpe atıyor. 
+     New York Times gazetesinde yayımlanan habere göre, ülkenin deniz, kara ve hava sınır kapılarına yerleştirilmesi planlanan yeni güvenlik sistemleri için yaklaşık 7 milyar doları daha gözden çıkaran ABD İç Güvenlik Bakanlığı yetkilileri, halihazırda 3.5 yıldır kullanılan detektör ve tarama cihazlarının sorunlu olduğu konusunda ısrarlı. 
+     Yetkililerin hazırladığı raporlarda ortaya çıkan sorunlardan bazıları, sınır kapılarında ve limanlarda radyoaktif madde ölçümü yapan cihazların, bir nükleer silahla, çok az miktarda radyoaktif madde içeren sıradan bir madde arasındaki farkı algılayamaması ya da büyük şehirlerde biyolojik saldırı tehdidine karşı alınan ölçüm aletlerinin, havadan aldıkları numunelerin sonuçlarını ancak 36 saat sonra, yani olası bir saldırıda ’iş işten geçtikten sonra’ bildirmesi şeklinde sıralanıyor. 
+     
+     MUZA BİLE NÜKLEER BOMBA ALARMI 
+     Örneğin sınır kapılarında TIR’ların yükleri içindeki radyoaktif maddeleri tespit eden cihazların, granit, porselen hatta muz gibi doğal radyoaktif yayan her tür maddeyi algılayıp alarm vermesinden bıkan gümrük görevlileri, çareyi cihazın ayarlarıyla oynamakta bulmuş. 
+     Yolcuların bagajlarının içinde bulunan maddeleri yoğunluklarına göre ölçen detektörler, yoğunlukları bazı patlayıcılara eşdeğer olan şampuan ve pudingi bile patlayıcı kimyasal madde sanıp alarmların ötmesine neden olunca, uçak seferlerinde büyük gecikmeler yaşanmaya başlamıştı. 
+     
+     HATALARINI KABUL ETTİLER 
+     11 Eylül sonrası yapılan hatayı kabul eden dönemin hükümet danışmanlarından emekli Hava Kuvvetleri Albayı Randall J. Larsen, "Yeni bir terör saldırısı korkusuyla her tür güvenlik cihazını satın aldık. Ama yapılan harcama pek işe yaramadı" diye konuştu. İç Güvenlik Komitesi Başkanı, Temsilciler Meclisi üyesi Christopher Cox ise, "11 Eylül’den sonra güvenliğimiz için ne kadar fazla para harcayabileceğimizi göstermek zorundaydık, ancak bazı cihazların testlerini bile yapmadan, ihtiyacımıza uygun olup olmadığını görmeden ya da ’daha ucuza bulabilir miyiz’ diye araştırmadan sınırlarımıza yerleştirdik. Fakat galiba ’pahalı’ bir hata yaptık" dedi. 
+     
+</TEXT>
+</DOC>

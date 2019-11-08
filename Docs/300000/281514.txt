@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 281514 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/19/son/soneko15.html </URL>
+<DATE> 2004/10/19/ </DATE>
+<TIME> 12.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı 201 puanlık artışla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeksi, 201.19 puan artarak, 1. seansı 22,535.49 puandan tamamladı. 
+     1. seansta hisse senetleri ortalama yüzde 0.90 değer kazandı. 
+     Dün 22,334.30 puandan kapanan İMKB Ulusal 100 Endeksi, ilk seansa 27.45 puan artarak 22,361.75 puandan başladı. İlk yarıyı 22,530.22 puandan geçen endeks, seans içinde önceki kapanış seviyesi olan 22,334.30 puanın altına düşmezken, en yüksek 22,680.44 puanı gördü. 
+     Seans sonunda mali endeks 396.11 puan artarak 30,580.86 puana, sanayi endeksi 159.46 puan artarak 20,694.14 puana, hizmetler endeksi ise 7.42 puan artarak 12,222.33 puana yükseldi. 
+     Böylece, önceki kapanışa göre, mali grup hisseler ortalama yüzde 1.31, sanayi grubu hisseler ortalama yüzde 0.78, hizmet grubu hisseler ortalama yüzde 0.06 değer kazandı. 
+     1. seansta işlem gören toplam 296 hisse senedinden 187'si değer kazandı, 43'ü değer kaybetti, 66 hissenin fiyatında değişiklik olmadı. 
+     Seansta, 471 trilyon 889 milyar 826 milyon liralık işlem hacmi oluştu. 
+     1. seansta, İş Bankası C , Doğan Holding, Tansaş, Sabancı Holding ve İhlas Holding en çok işlem gören hisse senetleri oldu. 
+     
+</TEXT>
+</DOC>

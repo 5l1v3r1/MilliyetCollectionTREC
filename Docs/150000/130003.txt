@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 130003 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/01/10/son/soneko22.html </URL>
+<DATE> 2003/01/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seans kapanış... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Bileşik Endeksi 1. seansta, dünkü kapanışa göre 12.91 puan artarak 10.238.73 puandan kapandı. 
+     Hisse senetleri ortalama yüzde 0.13 oranında değer kazandı. 
+     Haftanın son işlem gününde 1. Seansta en yuksek 10,354 puanı gören Ulusal-100 Endeksi bir miktar satışla 10,200 seviyesine gerileyerek, dengelendi ve seansı artıda tamamladı. 
+     Borsa uzmanları, endeks 10,150 puanın üzerinde tutunduğu sürece sorun olmadığını ifade ederek, bu seviyenin kırılması halinde, bir miktar satış baskısının gelebileceğini, aksi halde ise endeksin 10,400-10,500 civarında bir kapanış yapmasının beklenebileceğini savunuyorlar. 
+     Endeks, 1. seansa 5.45 puan artışla 10,231.27 puan seviyesinde başladı. Seansın ilk yarısını 37.15 puan düşüşle 10,188.67 puandan geçen endeks, gelen son dakika alımlarıyla 12.91 puan ve yüzde 0.13 artışla 10,238.73 puandan kapandı. 
+     Endeks, seans içinde en düşük 10,159.35 puana gerilerken, en yüksek olarak da 10,354.45 puana ulaştı. 
+     Seans kapanışında mali endeks 18.34 puan düşüşle 12,682.39 puana gerilerken, sanayi endeksi 24.10 puan artışla 9,831.94 puana ve hizmetler endeksi 37.05 puan artışla 6,821.41 puana yükseldi. 
+     Böylece, önceki kapanışa göre mali grup hisseler ortalama yüzde 0.14 oranında değer yitirirken, sanayi grubu hisseler ortalama yüzde 0.25 ve hizmetler grubu hisseler de ortalama yüzde 0.55 oranında değer kazandı. 
+     İşlem gören toplam 280 hisse senedinden 99'u değer yitirirken, 87 hisse senedi değer kazandı, 94 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta, 250 trilyon 734 milyar 625 milyon liralık işlem hacmi oluştu. Bu hacmin yaklaşık 157.5 trilyonluk bölümünü işlem hacmi sıralamasında ilk 10'da yer alan şirketlerin işlemleri oluşturdu. 
+     Yapı ve Kredi Bankası, Garanti Bankası, İş Bankası C , Doğan Holding ve Turkcell en yoğun işlem gören hisseler oldu. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

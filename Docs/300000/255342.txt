@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 255342 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/14/son/soneko06.html </URL>
+<DATE> 2004/07/14/ </DATE>
+<TIME> 09.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tokyo Borsası, düşüşle kapandı... 
+</HEADLINE>
+<TEXT>
+
+     Tokyo Menkul Kıymetler Borsası, teknoloji sektörü hisselerindeki olumsuz görünüm nedeniyle, düşüşle kapandı. 
+     Nikkei Endeksi, 251.97 puan yüzde 2.17 değer kaybederek, 11,356.65 puandan kapandı. 
+     Öte yandan, ABD Doları, 0.59 yen değer kazanarak 109.11 yen düzeyine çıktı. 
+     
+</TEXT>
+</DOC>

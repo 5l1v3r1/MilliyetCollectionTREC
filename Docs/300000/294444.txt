@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 294444 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/03/son/soneko24.html </URL>
+<DATE> 2004/12/03/ </DATE>
+<TIME> 12.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+IBM, PC sektöründen çekiliyor... 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayar dünyasının bir numaralı markası International Business Machines IBM , kişisel bilgisayar PC üretim faaliyetine son vermeyi ve bu bölümünü satmayı planlıyor. 
+     New York Times NYT gazetesinin haberine göre, satışla ilgili görüşmeleri yürüten kaynaklar, piyasa değeri 1 ila 2 milyar dolar tahmin edilen PC bölümünün satışı konusunda en güçlü adayın Çin'in PC alanındaki bir numarası Lenovo eski adı Legend olduğunu belirttiler. 
+     1981'de şirketler ve özel kullanım için ilk kişisel bilgisayarlarını piyasaya sürerek PC'lerin gelişiminde büyük katkısı olan IBM'in bu alandan çekilmesinin, ABD'de vergi yılının sona ermesinden önce şirkete sadece 100 milyon dolarlık bir tasarruf sağlayacağı kaydediliyor. 
+     NYT'nin haberine göre, PC sektöründen çekilmeyi ve şirket 'server'ları ile şirketlerin bilişim çözümleri alanına ağırlık vermeyi yıllardır düşününen IBM yetkilileri, bu yöndeki haberleri ne doğruladılar ne de yalanladılar. 
+     Bu alandan çekilerek pazarı Dell veya Hewlett Packard gibi diğer büyük firmalara bırakan Amerikan bilgisayar devinin yıllık 92 milyar doları bulan cirosunda PC bölümünün payı yüzde 12 idi. 
+     
+</TEXT>
+</DOC>

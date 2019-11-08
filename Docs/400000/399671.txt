@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 399671 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/01/son/soneko69.html </URL>
+<DATE> 2005/12/01/ </DATE>
+<TIME> 18.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Piyasalarda bugün... 
+</HEADLINE>
+<TEXT>
+
+     Borsa'da işlem gören hisse senetleri ortalama yüzde 0.55 değer kazandı. 
+     İstanbul Menkul Kıymetler Borsası İMKB Ulusal 100 Endeksi, 1. seansta 81.20 puan azalarak 38,007.45 puandan kapandı. 2. seansta ise 289.46 puan artan endeks 38,296.91 puandan günü yeni bir rekorla tamamladı. Endeksin kapanışta gördüğü bu seviye yeni tarihi zirve olarak da kaydedildi. 
+     Endeks, dünkü 2. seans kapanışına göre 208.26 puan ve yüzde 0.55 yükseldi. 
+     Hisse senetleri piyasasında işlem hacmi toplam 1 milyar 705 milyon 914 bin 640 YTL olarak gerçekleşti. 
+     Borsa uzmanları, İMKB'de Avrupa Merkez Bankası'nın ECB faiz artırım kararı ve ABD'de açıklanan ekonomik verilerin yanında, uluslararası borsaların seyri ve alternatif piyasalardaki hareketlerin de takip edildiğini belirterek, Endeksin hareketine dolar bazında 3 sent, YTL bazında 40,000 puan seviyelerine doğru devam edeceğini düşündüklerini ifade ediyor. 
+     Uzmanlar, yarın için ilk önemli direncin 38,800, diğer direncin ise 39,000 seviyesinde bulunduğunu, hareketin muhtemelen kısa vadede bu seviyeye doğru devam edeceğini kaydediyor. 
+     
+     DÖVİZ 
+     Dünkü kapanışta 1.3600 YTL olan dolar güne 1.3590 YTL'den, 1.6000 YTL olan avro güne 1.6010 YTL'den başladı. 
+     Doların bugünkü kapanıştaki satış fiyatı 1.3640 YTL, avronun satış fiyatı 1.5980 YTL oldu. 
+     Merkez Bankası, doların bugünkü efektif kurunu alışta 1.3496 YTL, satışta 1.3590 YTL olarak açıkladı. Merkez Bankası, doların dünkü efektif kurunu alışta 1.3491 YTL, satışta 1.3585 YTL olarak belirlemişti. 
+     
+     FAİZ 
+     İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda işlem gören 27 Haziran 2007 vadeli tahvilin, bugün valörlü işlemlerinin kapanışında basit getiri yüzde 14.43 bileşik getiri yüzde 13.89 oldu. 
+     Bu kağıdın bileşik getirisi dünkü kapanışa göre 0.02 puan yükseldi. 
+     İMKB Tahvil ve Bono Piyasası Repo-Ters Repo Pazarı'nda gecelik işlemlerde faiz ortalama yüzde 13.75'ten gerçekleşti. Gecelik işlemlerde en düşük oran yüzde 13.20, en yüksek oran yüzde 13.80 oldu. 
+     
+</TEXT>
+</DOC>

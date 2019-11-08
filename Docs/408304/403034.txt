@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 403034 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/13/son/soneko01.html </URL>
+<DATE> 2005/12/13/ </DATE>
+<TIME> 01.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düştü 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacminde dünyanın en büyük borsası konumunda olan New York Wall Street Borsası, yükselişle başladığı ilk seansın ardından ikinci seansı düşüşle kapadı. 
+     Borsanın Dow Jones Sanayi Endeksi, haftanın ilk işlem gününü 10.81 puan düşüşle binde 1 10,767.77 puandan noktaladı. 
+     Wall Street'in ''yeni ekonomi'' göstergesi teknoloji ortaklıkları ibresi Nasdaq Bileşik Endeksi ise ikinci seansta 4.22 puan artarak binde 1.9 2,260.95 puanla kapandı. 
+     Borsanın ilk seans yükselişinde, petrol devi ConocoPhillips'in aynı alanda faaliyet gösteren Burlington Resources'ı satın alma planları yapması ve bu şirketlerin hisse senetlerinin değerlenmesi etkili oldu. İkinci seans bitiminde ise Amerikan Merkez Bankası'nın faiz oranını yarın salı yeniden artırma ihtimali ile petrol fiyatının varilde 2 dolar yükselmesi etmendi. 
+     
+</TEXT>
+</DOC>

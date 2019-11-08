@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 249109 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/18/son/sontur47.html </URL>
+<DATE> 2004/06/18/ </DATE>
+<TIME> 22.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayar üzerinden dolandırıcılık 
+</HEADLINE>
+<TEXT>
+
+     Başkalarına ait kredi kartı şifrelerini bilgisayarda çözüp, paraları kendi kredi kartı hesabına aktardığı iddia edilen bir üniversite öğrencisi, Antalya'nın Alanya ilçesinde tatilde alışveriş yaparken yakalandı. 
+     AA muhabirinin edindiği bilgiye göre, İstanbul Üniversitesi Bilgisayar Bölümü 1. Sınıf öğrencisi M.A'nın 19 , bilgisayarda başkalarına ait banka hesaplarının şifrelerini çözerek, bu hesaplarda bulunan paraları kendi hesabına aktardığı iddia edildi. 
+     İstanbul'dan tatil için Alanya'ya gelen M.A'nın, burada arkadaşı H.Ö ile alışveriş yaptığı sırada, durumundan şüphelenilerek jandarmaya ihbarda bulunuldu. M.A. ve arkadaşı H.Ö, jandarma tarafından gözetim altına alındı. 
+     Sorgusu tamamlanan ve mahkemeye çıkarılan M.A. tutuklanarak cezaevine konulurken, H.Ö. tutuksuz yargılanmak üzere serbest bırakıldı. 
+     
+</TEXT>
+</DOC>

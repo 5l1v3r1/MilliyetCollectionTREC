@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 351165 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/12/guncel/agun.html </URL>
+<DATE> 2005/06/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İstanbul 570 kamera ile izlenecek 
+</HEADLINE>
+<TEXT>
+
+
+Türkiye'nin en büyük güvenlik projesi MOBESE İstanbul'da hayata geçecek. Şehir, elektronik kameralarla bir kontrol merkezinden 7 gün, 24 saat izlenecek 
+
+Pınar Aktaş - İstanbul 
+
+Son yıllarda çetelerin yuvası haline gelen İstanbul, çok yakında Türkiye'nin en büyük güvenlik projesi ile tanışacak MOBESE Mobil Elektronik Sistem Entegrasyonu. 
+17 Haziran'da Başbakan Recep Tayyip Erdoğan tarafından tanıtılması beklenen projeyle İstanbul, komuta merkezinden 570 kamerayla izlenecek. Gözetim odasında "işkence" iddiaları da, buralara yerleştirilen kameralarla ortadan kaldırılacak. 
+MOBESE, İstanbullulardan önce Conrad Otel'deki İstanbul Demokrasi ve Küresel Güvenlik Konferansı'nda düzenlenen "Polis Teşkilatları Arasında Bilgi Paylaşımı" adlı oturumda yabancı konuklara tanıtıldı. Büyük beğeni toplayan projenin unsurlarının yer aldığı bir kitap da herkesten önce ilk kez yabancı konuklara dağıtıldı. İşte sistemin parçaları 
+KOMUTA KONTROL MERKEZİ Bütün bilgiler İstanbul Emniyet Müdürlüğü binasında yer alan bu merkezde toplanacak. 12 büyük ekrandan İstanbul'un önemli 570 noktasına yerleştirilen kameralardan görüntüler akacak. Herhangi bir olay buradan canlı izlenebilecek ve ekipler amirler tarafından yönlendirilebilecek. Merkez 7 gün, 24 saat kesintisiz çalışacak. ARAÇ TAKİP SİSTEMi Bu sistem 3 bin 500 devriye aracına yerleştirilecek. Araca yerleştirilen tablet bilgisayardan, GPRS sayesinde, diğer araçların pozisyonu görülebiliyor. YEREL-ULUSAL SORGU SİSTEMİ Sahada çalışan polisin hızlı bir şekilde bilgiye ulaşmasını sağlıyor. Pasaport, ehliyet, ruhsatı ve plaka bu sistemden sorgulanabiliyor. Ayrıca şüpheli kişilerle ilgili suç analizi yapılabiliyor. MOBİL POLİS KARAKOL ÜNİTESİ Bir "James Bond" çantası. İçinde bir bilgisayar, bir yazıcı ve kamera bulunuyor. Çantayı kullanan bir polis, zamandan kazanıp çok kısa sürede ipucuna veya kanıta ulaşabiliyor. NEZARETHANE İYİLEŞTİRME VE KONTROL SİSTEMİ Gözetim odalarına, 24 saat çalışacak kameralar yerleştirildi. Kameralar güvenliğin yanı sıra "gözaltında işkence" iddialarını ortadan kaldırmak için de önem taşıyor. Herhangi bir iddia gündeme geldiğinde, arşivlenen görüntüler incelenerek doğruluğu araştırılabilecek. BÖLGE GÖRÜNTÜLEME SİSTEMİ İstanbul'un önemli 570 noktasına kameralar yerleştirildi. 24 saat kesintisiz çalışacak kameralardan alınan görüntüler, merkeze aktarılacak ve belirli bir süre saklanacak. Eylem, patlama gibi herhangi bir olayda, anında ayrıntılı görüntülere ulaşılacak. Suçluyu bulmada kolaylık sağlayabilecek. Ayrıca deprem gibi afetlerde görüntülerden yararlanılarak kayıp hakkında tahmini bilgiye ulaşılabilecek. PLAKA ALGILAMA SİSTEMİ Boğaziçi ve Fatih Sultan Mehmet köprülerinden geçiş yapan her aracın plakası anında merkeze aktarılacak. Çalıntı araç plakalarıyla eşleştirme yapılacak. MUHTAR OTOMASYON SİSTEMİ İstanbul'daki 952 muhtarlıkla bağlantı sağlandı. Polis, herhangi bir kişiyle ilgili muhtarların bilgi sistemine girebilecek. Bu sistem özellikle deprem gibi afetlerde binadaki kişi sayısını öğrenmede önem taşıyacak. MOBİL OPERASYON YÖNETİM MERKEZİ Büyük bir kamyonda kurulu ve gerçek komuta kontrol merkezinin küçük bir modeli olan merkez, özellikle acil durum ve afetlerde önem taşıyacak. Kamyondan tüm sistemi yönetmek mümkün olabilecek. 
+
+</TEXT>
+</DOC>

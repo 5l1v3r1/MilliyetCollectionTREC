@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 198393 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/28/son/soneko02.html </URL>
+<DATE> 2003/11/28/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tokyo Borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     Yatırımcıların önceki seanslardaki kazanımlarını kara çevirmek için hisse senetlerini elden çıkarmaları sonucu, Tokyo menkul kıymetler borsası bugünü düşüşle kapadı. 
+     Borsanın bugünkü kapanışında Nikkei Endeksi 62.81 puan binde 6.2 kayıpla 10,100.57 puana yükseldi. Advantest ve Tokyo Electron dahil, teknoloji şirketlerinin hisse senetleri değer kaybetti. 
+     Medyadaki ''Japon hükümetinin, mali sıkıntıdaki bölgesel kredi bankası Ashikaga Financial Group'u kurtarmayı düşündüğü'' spekülasyonundan ötürü de, UFJ, Mitsubishi Tokyo ve Sumitomo Mitsui dahil, bazı bankaların hisse senetleri değer kaybetti. Bu haberler Japon hükümetince daha sonra yalanlandı. 
+     Tokyo döviz borsasının bugünkü kapanışında, ABD Doları düne göre 0.35 yen değer kazanarak 109.45 yene, euro 1.1927 dolardan 1.1930 dolara ve 130.17 yenden 130.50 yene yükseldi. Daha ayrıntılı bilgi için http www.tse.or.jp 
+     
+</TEXT>
+</DOC>

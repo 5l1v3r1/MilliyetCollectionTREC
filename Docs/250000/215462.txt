@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 215462 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/16/son/soneko09.html </URL>
+<DATE> 2004/02/16/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ofisler artık sanal alemde... 
+</HEADLINE>
+<TEXT>
+
+     Gelişen teknoloji ile birlikte, işadamları artık ofislerindeki her türlü bilgi ve belgeye oluşturulan ''sanal ofis''lerden ulaşabiliyorlar. Sanal ofislere sadece belirlenen kişiler erişebiliyor. 
+     Türk Ticaret Net E-İş Geliştirme Yönetmen Yardımcısı Sibel Avcı, AA muhabirine yaptığı açıklamada, 2000 yılından bu yana şirketlere internet alt yapısı sağlayan TürkTicaret.Net'in, 2001 yılından itibaren ''Sanal Ofis'' uygulamasını geliştirdiğini söyledi. 
+     Bir web sitesinden farklı olarak sanal ofisle firmalarda çalışan personelin ya da müşterilerin, hazırlanan dokümanlara, takvimlere, grup içindeki duyurulara, haberlere ve üye bilgilerine kolayca ulaşabildiğini anlatan Avcı, sanal ofislerin web sayfalarına göre dahagüvenli ortam olduğunu ifade etti. 
+     Özel şifre ile korunan bu ofislere, kimin erişip erişemeyeceğinin kontrolünün ise tamamen kullanıcıya ait olduğunu belirten Avcı, şunları söyledi 
+     ''Sanal ofisin alt yapısı TürkTicaret.Net tarafından sağlanırken, içeriğini firmalar oluşturuyor. Günümüz iş dünyası koşulları, çalışma arkadaşlarının ülkenin farklı yörelerine, hatta dünyanın başka kıtalarına dağılmasına sebep olabiliyor. Ancak bu durum birlikte bir proje üzerinde çalışılmasına, bir rapor yazılmasına engel olmamalı. Sanal ofis sayesinde ekipler, yalnızca üyelerin gireceği özel internetalanındaki dosyalara erişerek, çalışmalarını her koşulda sürdürebiliyorlar. Böylece projeler zamanında yetiştirilirken, iletişim de hiç kaybolmamış oluyor.'' Özellikle KOBİ'leri hedef alan TürkTicaret.Net'in Türkiye'de, şu ana kadar 40 bin firmaya web alt yapı hizmeti verdiğini kaydeden Avcı,bu firmalardan gıda ve otomotiv başta olmak üzere yaklaşık 20 bininin ise aktif sanal ofis kullanıcısı olduğunu kaydetti. 
+     2004 yılı sonunda bu rakamın katlanarak artacağını tahmin ettiklerini belirten Avcı, ''Sanal ofis uygulaması tanındıkça aktif kullanan firma sayısının da artacağına inanıyoruz. Bu yılın sonunda hedeflenen kullanıcı sayısı ise 80 bin civarında'' diye konuştu. 
+     
+     SANAL OFİS MALİYETLERİ 
+     Sanal ofis fiyatlarının, kullanılan web alanı ve kullanıcı sayısına göre belirlendiğini kaydeden Avcı, kullanıcı veya alan için fazladan ödeme yapılarak, sanal ofisin genişletilebileceğini söyledi. 
+     Avcı, sanal alemde bir ofis sahibi olmanın bir yıllık maliyetinin 10 MB alan ve 5 kişilik kullanım için 69 dolar, 20 MB için 90 dolar, 30 MB için 110 dolar, 40 MB için 145 Dolar, 50 MB için ise 165 dolar olduğunu ifade etti. 
+     Avcı, sanal ofis uygulaması ile artık işadamlarının, dünyanın neresinde olurlarsa olsunlar, ihtiyaç duydukları bilgi veya belgeye her an ulaşabildiklerini sözlerini ekledi. 
+     
+</TEXT>
+</DOC>

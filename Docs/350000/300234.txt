@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 300234 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/23/son/soneko37.html </URL>
+<DATE> 2004/12/23/ </DATE>
+<TIME> 16.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa günü 94 puanlık kayıpla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Bileşik Endeksi, 2. seansı 176.48 puan azalarak 24,430.82 puandan tamamladı. 
+     Hisse senetleri 2. seansta ortalama yüzde 0.72 oranında değer kaybetti. 
+     İlk seanstaki 82.01 puanlık artış dikkate alındığında, Borsa endeksi günün tamamında 94.47 puan geriledi. Hisse senetlerinin günlük ortalama değer kaybı yüzde 0.39 oldu. 
+     Endeks 2. seansa, 72.36 puan azalarak 24.534.94 puan seviyesinde başladı. Seansın ilk yarısını 24,495.47 puandan geçen endeks, seans içinde 24,345.64 puana kadar gerilerken, 1. Seans kapanış seviyesi olan 24,607.30 puanın üstüne çıkamadı. 
+     2. seans kapanışında, mali endeks 223.92 puan düşerek 34.790.26 puana, sanayi endeksi 161.19 puan düşerek 20.407.16 puana ve hizmetler endeksi 134.45 puan düşerek 13,536.48 puana geriledi. 
+     Böylece ilk seansa göre, mali grup hisseler ortalama yüzde 0.64, sanayi grubu hisseler ortalama yüzde 0.78 ve hizmet grubu hisseler ortalama yüzde 0.98 oranında değer kaybetti. 
+     2. seansta işlem gören toplam 303 hisse senedinden 55'i değer kazandı, 196'sı değer yitirdi, 52 hisse senedinin fiyatında değişiklik olmadı. 
+     2. seansta, 509 trilyon 926 milyar 891 milyon liralık işlem hacmi kaydedildi. Günlük işlem hacmi, 1 katrilyon 52 trilyon 718 milyar 117 milyon lira olarak hesaplandı. 
+     2. seansta Doğan Holding, Yapı ve Kredi Bankası, Şekerbank, Park Madencilik ve Sabancı Holding en çok işlem gören hisse senetleri oldu. 
+     
+</TEXT>
+</DOC>

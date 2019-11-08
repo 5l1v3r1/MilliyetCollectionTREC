@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 195297 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/13/son/soneko43.html </URL>
+<DATE> 2003/11/13/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Para piyasalarında bugün... 
+</HEADLINE>
+<TEXT>
+
+     Borsa'da işlem gören hisse senetleri, bugün ortalama yüzde 1.81 değer kazandı. 
+     İMKB Ulusal 100 endeksi, 1. seansta 172.30 puan artışla 15,943.74 puandan kapandı. Endeks, 2. seansta da 112.84 puanlık yükselmeyle günü 16,056.58 puandan tamamladı. Endekste günlük bazdaki artış 285.14 puan ve yüzde 1.81 oldu. 
+     Hisse senetleri piyasasında günlük işlem hacmi 1 katrilyon 205 trilyon 210 milyar 824 milyon lira oldu. 
+     Uzmanlar, endeksin, 16,200 direncine yakın bir seviye olan 16,134 puanı test ettiğini ancak bu seviyeyi geçmekte zorlandığını belirterek, kısa dönem içinde 16,500 direncinin kırılmasını sağlayacak pozitif bir gelişme veya beklentinin de bulunmadığını belirttiler. 
+     
+     DOLAR 
+     Merkez Bankası, doların bugünkü efektif kurunu alışta 1 milyon 473 bin 285, satışta ise 1 milyon 483 bin lira olarak açıkladı. 
+     Böylece dolar, Merkez Bankası'nın dün açıkladığı kurlara göre, alışta 7 bin 660 lira, satışta ise 7 bin 714 lira geriledi. 
+     Kapalıçarşı'da dün 1 milyon 490 bin liradan kapanan dolar, güne 1 milyon 484 bin liradan, 1 milyon 728 bin liradan kapanan Euro da 1 milyon 725 bin liradan başladı. 
+     Kapanışta, doların satış fiyatı 1 milyon 484 bin lira, Euro'nun satış fiyatı 1 milyon 736 bin lira oldu. 
+     
+     TAHVİL VE BONO PİYASASI 
+     İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda en fazla işlem gören 15 Aralık 2004 vadeli, bugün valörlü tahvilin bileşik getirisi 0.40 puan geriledi. 
+     Bu kağıdın aynı gün valörlü işlemlerinin basit getirisi yüzde 29.75, bileşik getirisi yüzde 29.39 oldu. Dün, bu kağıdın aynı gün valörlü işlemlerinde basit getiri yüzde 30.17, bileşik getiri yüzde 29.79'dan kapanmıştı. 
+     İMKB Tahvil ve Bono Piyasası Repo Pazarı'nda gecelik faiz de ortalama yüzde 25.99 oldu. 
+     
+</TEXT>
+</DOC>

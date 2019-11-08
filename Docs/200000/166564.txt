@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 166564 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/01/yazar/uras.html </URL>
+<DATE> 2003/07/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Güngör URAS  </AUTHOR>
+<HEADLINE>
+İlk 3 aylık üretimin 11'i stokta 
+</HEADLINE>
+<TEXT>
+
+     Biz halk anlatımında GSMH rakamına da, GSYİH rakamına da kısaca "Milli Gelir" deriz. Halbuki ikisi farklıdır. 
+     GSYİH rakamı, belli bir dönemde ülkede üretilen mal ve hizmetlerin parasal katma değerini gösterir. 
+     Ülke ekonomisinin dış dünya ile bağlantısı nedeniyle dışarıdan içeriye, içeriden dışarıya bir faktör geliri akımı genelde faiz ve kar transferi var. İçeriden çıkan ile içeriye giren arasındaki farka "Dış alem net faktör geliri - gideri" adı verilir. Bunun neti, GSYİH'ye eklenince veya çıkarılınca GSMH rakamı ortaya çıkar. Bu yılın ilk üç ayında yurt dışına faiz ve kar transferi fazla olduğundan net rakam eksi durumda. Eksi rakam üç aylık GSYİH rakamından düşülüyor. Ve GSYİH rakamından daha küçük bir GSMH rakamı ortaya çıkıyor. Sonuç olarak da GSYİH artışı üç aylık büyüme yüzde 8.1 iken, GSMH'deki büyüme oranı yüzde 7.4'e düşüyor... 
+     Gayri safi yurt içi hasıla GSYİH yılın ilk üç ayında geçen yılın aynı dönemine göre yüzde 8.1 oranında artarken acaba bu artış nereden kaynaklandı 
+     
+ Büyümedeki Payı Büyüme Oranı Tarım 5.2 7.0 Sanayi 33.1 7.8 Ticaret 22.4 10.8 İnşaat 3.1 -17.0 Ulaştırma 15.5 13.7 İthalat 6.7 19.8      
+     
+     Tarımda yüzde 7.0, sanayide yüzde 7.8, ticarette yüzde 10.8, ulaştırma ve haberleşmede yüzde 13.7 oranında büyüme gerçekleşti. Toplam büyümeye etkisi sadece yüzde 3.1 oranında bir ağırlık taşıdığından inşaattaki yüzde 17.0 oranındaki gerileme büyümeyi frenlemedi. Buna karşı büyümede yüzde 33.1 oranında ağırlığı olan sanayi ile yüzde 22.4 ağırlığı olan ticaret, yüzde 7.8 ve yüzde 10.8 gibi yüksek oranlarda büyüyünce yüzde 8.1 gibi yüksek bir GSYİH büyüme oranı ortaya çıktı. 
+     İyi de... Büyüme demek, üretim artışı demek... Artan üretim nereye gitti Üretilen mallardan kim daha fazla pay aldı Talep artışı nereden geldi de üretim yüzde 8.1 oranında arttı 
+     
+ Harcamadaki Artış Büyümeye katkısı puan Özel tüketim 6.5 4.47 Devlet tük. -3.0 -0.19 Yatırım 9.3 1.49 - Kamu -37.8 -0.64 - Özel 20.4 2.92 Stok artışı - 6.71 İhracat 14.5 6.23 İthalat 23.9 10.61 Harca. Büyü. 8.1 8.1      
+     
+     Üretilen mal ve hizmetlerin yüzde 68.7'sini halkımız tüketiyor. Halkımızın tüketimi geçen yılın ilk üç ayına göre yüzde 6.5 oranında arttı. Bu artışın yüzde 8.1 oranındaki büyümedeki payı 4.47 puan. Devlet yatırımı harcamayı da kesti. Sadece özel sektörün makine teçhizat yatırımlarında artış var. 
+     Yatırımların büyümeye katkısı 2.92 puan. Mal ve hizmet ihracatındaki yüzde 14.5 artış büyümeyi 6.23 puan olumlu etkilerken, ithalattaki yüzde 23.9 artış büyümeyi 10.61 puan olumsuz etkiliyor. 
+     Açık anlatımıyla mal ve hizmet artışının bu kadarlık bölümü yurt içinde üretilmediğinden, dışarıdan geldiğinden büyüme rakamından çıkarılıyor. Bütün bu puanlar alt alta toplanarak büyüme rakamından düşülünce, 8.10 oranındaki büyüme rakamının içinde stok değişiminin 6.71 puan gibi çok büyük bir ağırlığı ortaya çıkıyor. 
+     Stoklardaki artışın, değer olarak sabit fiyatlarla , geçen yılın aynı dönemine göre yüzde 102 artış göstermesi insanı şaşırtıyor. İlk üç aylık mal ve hizmet üretiminin yüzde 11'inin stokta görünmesi bu hesaplamalarda bir yanlışlık olabileceği tartışmasına kapı açıyor. 
+     
+     
+
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 178880 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/29/yasam/yas03.html </URL>
+<DATE> 2003/08/29/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+'Sobig' virüsünü yazan köşe oldu 
+</HEADLINE>
+<TEXT>
+
+   Dünya çapında interneti felç eden 'Sobig' virüsünü yazan 'hacker'ın, çöp posta yollayıcısı şirketlerden ciddi miktarda para aldığı sanılıyor 
+      
+   İnterneti felce uğratan 'Sobig' adlı seri virüsleri yazan kişi ya da kişilerin, bunu para için yaptığı öne sürüldü. 
+   Konuyu derinlemesine araştıran internet güvenlik uzmanları, gerisinde para olduğu için, 'Sobig' virüslerinin arkasının kolay kesilmeyeceğini ifade ediyor. Uzmanlara göre, ilki ocak ayında ortaya çıkan 'Sobig' virüsü, on binlerce bilgisayarı etkiledikten sonra, bunları çöp - posta olarak nitelendirilen lüzumsuz e - postalar gönderilmesi amacıyla kullanılır hale getirdi. Böylece 'Sobig' virüsünü yazan kişi ya da kişiler, virüs bulaştırılan bilgisayarları saptayarak, bunların adreslerini çöp - posta yollayıcılarına sattı. Çöp - posta yollayanlar da bu bilgisayarları kullanarak, izlerini belli etmeden, çoğu satış ya da reklam içeren çöp - postaları dağıtabildi. 
+   
+   'Hacker'ı yakalamak zor 
+   Virüsü değerlendiren 'F - Secure' adlı güvenlik kuruluşu direktörü Mikko Hypponen de, olayın 'çok iyi tasarlanmış ve aynı mükemmeliyette uygulanan bir proje olduğunu' söyledi. 
+   'Lurhq' adlı kuruluş araştırmacılardan Joe Stewart ise "Sobig'i yazan programcı ya da programcılar bu işten para kazandıkları için bundan kolay kolay vazgeçmeyeceklerdir" diye konuştu. Stewart, "Adli makamların tüm çabalarına rağmen Sobig'i yazan hacker'ın kısa zamanda yakalanabileceğine ihtimal vermediğini" de sözlerine ekledi. 
+   
+   
+</TEXT>
+</DOC>

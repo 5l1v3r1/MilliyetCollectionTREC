@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 273423 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/20/son/sontur24.html </URL>
+<DATE> 2004/09/20/ </DATE>
+<TIME> 12.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Asılsız "112 acil" ihbarları uydudan dönecek... 
+</HEADLINE>
+<TEXT>
+
+     Denizli'de, gelecek ay faaliyete girecek ''Colcenter'' sistemi sayesinde ''112 Acil Servis''e yapılan asılsız ihbarların uydu takibiyle önleneceği bildirildi. 
+     Denizli Sağlık Müdürü Erdoğan Taş, AA muhabirine yaptığı açıklamada, 112 acil serviste çalışan personelin kadın olduğunu, bazı kişilerin arayıp rahatsız ettiğini ve saat sorma, yemek isteme gibi ilginç isteklerde bulunarak 112'nin işlevsiz duruma gelmesine neden olduklarını söyledi. 
+     ''112 Acil Servis''e yapılan asılsız ihbarları önlemek için ekim ayında ''colcenter'' sistemini uygulamaya koyacaklarını ifade eden Taş, şöyle konuştu 
+     ''Günde yapılan 5 bin ihbardan sadece 25-30'u doğru çıkıyor. Biz de uydu takibiyle yapılacak kontrolle, asılsız ihbarları önlemek için ihale açtık. 82 milyar liraya mal olacak sistemde, gelen aramalar çağrı sistemine alınıp ana santrale aktarılacak. Bilgisayar sistemiyle de arayan numara ekrana düşecek. İhbar gerçek değilse daha sonra aynı numaradan yapılan ihbarlar santralden komuta merkezine düşmeyecek.'' 
+     
+     AMBULANS VE İSTASYONLARA UYDU SİSTEMİ 
+     Kaza, yangın, doğal afet gibi durumlarda hastaya ilk müdahalede ilk 5 dakikanın hayati önem taşıdığını ve adres bulunmasında hayati öneme sahip bu dakikaların büyük bölümünün harcandığını ifade eden Taş, şunları kaydetti 
+     ''Araçlarda uydu takip sistemi kuruyoruz. Şehir içinde hangi adrese girip çıktıkları sokak sokak izlenecek. Şehrin dijital haritası da yaptırılınca ihbarı yapan kişinin nereden telefon ettiği anında ortaya çıkacak. Böylece, ambulansa yerleştirilecek uydu takip sistemiyle, ekip telefon trafiğinden kurtulup arayan kişinin adresini görecek. Bu sistemle hastaya daha kolay ulaşılacak.'' Taş, kaza, yangın, doğal afet gibi benzeri durumlarda, polis, itfaiye, sağlık personeli ve yangın söndürme ekiplerinin aynı anda hareket edebileceği bir sistem üzerinde çalıştıklarını bildirdi. 
+     
+</TEXT>
+</DOC>

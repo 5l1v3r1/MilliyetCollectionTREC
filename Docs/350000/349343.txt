@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 349343 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/06/son/soneko20.html </URL>
+<DATE> 2005/06/06/ </DATE>
+<TIME> 12.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı 149 puanlık kayıpla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeksi, Cuma günkü kapanışa göre 149.97 puan azalarak seansı 25,901.58 puandan tamamladı. 
+     1. seansta, hisse senetlerinin ortalama değer kaybı yüzde 0.58 oldu. 
+     Cuma günü 26,051.55 puandan kapanan İMKB Ulusal 100 Endeksi, ilk seansa 11.77 puan düşüşle 26,039.78 puandan başladı. İlk yarıyı 25,833.19 puandan geçen endeks, seans içinde en düşük 25,671.17 puanı, en yüksek 26,051.55 puanı gördü. 
+     Seans sonunda mali endeks 286.98 puan azalarak 38,548.43 puana, hizmetler endeksi 77.90 puan azalarak 13,997.88 puana geriledi, sanayi endeksi ise 9.38 puan artarak 20,564.22 puana yükseldi. 
+     Böylece önceki kapanışa göre, mali grup hisseler ortalama yüzde 0.74, hizmet grubu hisseler ortalama yüzde 0.55 değer kaybetti, sanayi grubu hisseler 0.05 oranında değer kazandı. 
+     1. seansta işlem gören toplam 298 hisse senedinden 124'ü değer kazandı, 103'ü değer kaybetti, 71 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta, 344 milyon 891 bin 804 YTL'lik işlem hacmi oluştu. 
+     1. seansta, Koza Davetiye, Doğan Holding, Yapı ve Kredi Bankası, Park Madencilik ile Petkim, en çok işlem gören hisse senetleri oldu. 
+     
+</TEXT>
+</DOC>

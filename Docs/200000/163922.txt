@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 163922 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/18/son/soneko20.html </URL>
+<DATE> 2003/06/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı 90 puanlık artışla noktaladı... 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası İMKB Ulusal-100 Endeksi, 1. seansı, 90.52 puan artışla 11,259.72 puandan tamamladı. 
+     Hisse senetlerinin ortalama değer kazancı yüzde 0.81 olarak gerçekleşti. 
+     Endeks, bugünkü ilk seansa 4.28 puan artışla 11,173.48 puan seviyesinde başladı. Seansın ilk yarısını 11,146.67 puandan geçen endeks, en düşük 11,020.61, en yüksek 11,300.46 puanı gördü. 
+     Seans kapanışında mali endeks 143.18 puan artışla 13,467.38 puana, sanayi endeksi 63.96 puan artışla 11,519.16 puana, hizmetler endeksi 33.59 puan artışla 7,168.31 puana yükseldi. 
+     Böylece, önceki kapanışa göre mali grup hisseler ortalama yüzde 1.07, sanayi grubu hisseler ortalama yüzde 0.56, hizmetler grubu hisseler ortalama yüzde 0.47 oranında değer kazandı. 
+     İşlem gören toplam 284 hissenin 137'sinin fiyatı yükseldi, 67'si değer kaybetti, 80'inin fiyatı değişmedi. 
+     Seansta, toplam 336 trilyon 977 milyar 27 milyon liralık işlem hacmi oluştu. 
+     1. seansta, Garanti Bankası, Yapı Kredi Bankası, İş Bankası C , Tüpraş ve Sabancı Holding en yoğun işlem gören hisseler oldu. 
+     
+</TEXT>
+</DOC>

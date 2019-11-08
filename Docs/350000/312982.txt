@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 312982 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/06/son/sonyas10.html </URL>
+<DATE> 2005/02/06/ </DATE>
+<TIME> 13.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sesli mesajı yazıya dönüştüren cep telefonu çıkıyor... 
+</HEADLINE>
+<TEXT>
+
+     Son yıllarda giderek yaygınlaşan cep telefonlarıyla mesajlaşma alışkanlığının, cep telefonu teknolojisinde yeniliklerle daha da yaygınlaşması bekleniyor. 
+     İngiltere'de yayımlanan The Mail on Sunday gazetesinin haberine göre, yeni cep telefonlarında kişi artık mesaj yazmak için parmaklarını, gözünü ve beynini yormak zorunda kalmayacak. Telefon kullanıcısı sesli mesajını cihaza kaydedecek ve cihaz kaydedilen bu sesi yazılı hale getirecek. 
+     Yeni teknolojiyle telefonun sahibinin sesini tanıyarak sesli mesajı yazılı hale dönüştürecek şekilde tasarlandığını kaydeden gazete, yeni teknolojiye sahip bu telefonların 2006'dan itibaren İngiltere'de kullanılabileceğini bildirdi. 
+     Gazeteye göre, telefon belli bir listedeki sözcüklerin okunmasıyla, bunu okuyan kişinin ses tonu kadar aksan ve telaffuzunu da hafızasına alacak ve mesajları yazarken hafızasındaki bu bilgileri kullanacak. Örneğin ''Bu mesaj John'a'' diye başlayan bir notu hafızasına alan telefon, önce adı geçen kişinin numarasını bulacak, sonra da mesajı yazılı hale getirerek gönderebilecek. 
+     Yeni cep telefonu teknolojisi üzerinde çalışan mühendislerin, sistemin ilk denemelerinden son derece kolay ve verimli olacağı sonucuna vardıkları belirtildi. 
+     Sesli mesajı yazılı hale getirebilen yeni cep telefonlarının özellikle sürücüler tarafından rağbet görmesi bekleniyor. Sürücüler, ellerini direksiyondan çekmeden mesaj gönderebilecek. 
+     
+</TEXT>
+</DOC>

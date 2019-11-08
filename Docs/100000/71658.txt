@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 71658 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/03/09/son/soneko05.html </URL>
+<DATE> 2002/03/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sun Microsystem'den Microsoft'a dava 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın en büyük yazılım firması Microsoft'un başı dertten kurtulmuyor. 
+     Dünyanın önde gelen yazılım firması Sun Microsystem firması, Microsoft'u rekabet dışı davranışlarda bulunmak iddiasıyla 1 milyar dolar tutarında tazminat davası açtı. 
+     Davaya neden olarak, Microsoft'un piyasaya yeni sürdüğü Windows XP sisteminin Sun'ın Java program diline uygun olmaması gösterildi. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

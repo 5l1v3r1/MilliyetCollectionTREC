@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 276207 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/30/son/soneko23.html </URL>
+<DATE> 2004/09/30/ </DATE>
+<TIME> 12.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa 22 bin puana geriledi... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Bileşik Endeksi 1. seansta, dünkü 2. seans kapanışına göre 200.47 puan gerileyerek, 22,019.41 puandan kapandı. 
+     Hisse senetlerinin ortalama değer kaybı yüzde 0.90 oldu. 
+     Dün 22,219.88 puandan kapanan İMKB Ulusal 100 Endeksi, 1. seansa, 1.81 puan artarak 22,221.69 puandan başladı. İlk yarıyı 22,243.77 puandan geçen endeks, seans içinde en düşük 21,968.05, en yüksek 22,326.73 puanı gördü. 
+     Seans sonunda mali endeks 326.07 puan azalarak 30,335.43 puana, sanayi endeksi 77.90 puan azalarak 19,821.72 puana ve hizmetler endeksi 105.75 puan azalarak 11,342.00 puana geriledi. 
+     Böylece, önceki kapanışa göre, mali grup hisseler ortalama yüzde 1.06, sanayi grubu hisseler ortalama yüzde 0.39 ve hizmet grubu hisseler ortalama yüzde 0.92 değer yitirdi. 
+     1. seansta işlem gören toplam 297 hisse senedinden 83'ü değer kazandı, 140'ı değer kaybetti, 74 hissenin fiyatında değişiklik olmadı. 
+     Seansta, 606 trilyon 414 milyar 540 milyon liralık işlem hacmi oluştu. 
+     1. seansta, Yapı ve Kredi Bankası, İhlas Holding, Vestel, Doğan Holding ve Sabancı Holding en çok işlem gören hisse senetleri oldu. 
+     
+</TEXT>
+</DOC>

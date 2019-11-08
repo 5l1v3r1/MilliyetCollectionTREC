@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 155313 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/08/son/sondun30.html </URL>
+<DATE> 2003/05/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bulgaristan'da SARS vakası yok 
+</HEADLINE>
+<TEXT>
+
+     Bulgaristan'da Akut Solunum Yetmezliği Sendromu SARS şüphesiyle bir süre önce tedavi altına alınan kişinin hastalığa yakalanmadığı anlaşıldı. 
+     Bulgaristan Sağlık Bakanlığı, Dünya Sağlık Örgütü'nden DSÖ gelen analiz sonuçlarına dayanarak, Sofya'daki Bulaşıcı Hastalıklar Kliniği'nde karantina altında tutulan 33 yaşındaki kişide SARS virüsüne rastlanmadığını açıkladı. 
+     Bakanlığın Epidemoloji Dairesi Müdürü Angel Kunçev, DSÖ'nün Almanya'daki laboratuvarında yapılan tahlillerin sonucunun temiz çıktığını, söz konusu kişinin bir süre önce taburcu edildiğini bildirdi. 
+     Kunçev, dünyada bugüne kadar 500'e yakın kişinin ölümüne neden olan SARS hastalığına karşı gerekli tedbirlerin alındığını ve bu ayın sonundan itibaren artık Bulgaristan'da da SARS testinin yapılabileceğini söyledi. 
+     Bulgaristan'da geçen ay Kanada'dan gelen bir Bulgar vatandaşı, SARS şüphesiyle Bulaşıcı Hastalıklar Kliniği'nde karantinaya alınmış ve Sağlık Bakanlığı bu kişinin SARS virüsünün neden olduğu tüm belirtileri gösterdiğini resmen açıklamıştı. 
+     Olay, başta Bulgaristan'da olmak üzere komşu ülkelerde paniğe neden olmuş, Bulgaristan'a sınırı olan ülkeler gümrük kapılarında SARS kontrolü yapmaya başlamışlardı. 
+     
+</TEXT>
+</DOC>

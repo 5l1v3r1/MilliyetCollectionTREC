@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 396413 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/20/ekonomi/eko08.html </URL>
+<DATE> 2005/11/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+100 dolara laptop 
+</HEADLINE>
+<TEXT>
+
+
+ANKARA AA 
+
+Dünyadaki zenginlerle yoksullar arasındaki 'dijital uçurumu' kapatması umulan 100 dolarlık dizüstü bilgisayarın laptop üretimine gelecek yıl başlanıyor. 
+Bilgisayarın mucidi Massachusetts Institute of Technology MIT Media laboratuvarı Başkanı Profesör Nicholas Negroponte 2006 sonuna kadar milyonlarca bilgisayar üretmeyi planladıklarını belirtti. 
+'Yeşil makina' adlı bilgisayar Tunus'ta dün sona eren Dünya Bilgi Toplumu Zirvesi'nde ilk kez kamuoyuna tanıtıldı. Profesör Negroponte, şimdiden çok sayıda şirket ile hükümetin dizüstü bilgisayarın üretimiyle ilgilendiğini belirterek, bu konuda en coşkulu ülkelerin Tayland ve Brezilya olduğunu kaydetti. 
+
+Elektriğini de üretecek 
+Tasarımı bilinen dizüstü bilgisayarlardan farklı olacak ve kendi elektriğini yanına yerleştirilen kolun çevrilmesiyle üretecek 100 dolarlık laptop, katlanabilecek ve darbeye karşı dayanıklı lastik koruyucuyla çevrelenecek. Bilgisayar, üretim masraflarının kısılması için günümüzde standart olan işlemci hızından biraz düşük olan 500 megahertz işlemciye sahip olacak. 
+Kablosuz internet erişimine sahip olacak bu dizüstü bilgisayarlar, yakındaki aynı model laptoplarla doğrudan bağlantıya geçebilecek ve bunlardan birinin internete girişi varsa diğer laptoplar da bu girişten faydalanabilecek. Bilgisayar, çocukların oyun oynayabileceği, aynı zamanda televizyon da izleyebileceği şekilde tasarlandı. 
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 350304 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/09/son/soneko09.html </URL>
+<DATE> 2005/06/09/ </DATE>
+<TIME> 10.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa faiz kararından etkilenmedi 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası'nın açıklayacağı kısa vadeli faiz kararının beklendiği borsa, MB'den gelen çeyrek puanlık indirimden etkilenmedi. 
+     Piyasada beklentilerin yarım puanda yoğunlaşmasına karşın çeyrek puanlık indirimin önemli bir satışa yol açmadığı görüldü. 
+     Merkez Bankası'nın beklentileri karşılamayan çeyrek puanlık indirimi açılışta hafif bir satışa neden olsa da borsa çabuk toparlandı. Endeks ilk işlemler sonucunda 25 bin 701 puana kadar geriledi. Bu seviyeden gelen alımlarla endeksin 25 bin 833 puana kadar çıktığı izlendi. 
+     Disket seansının sonuna gelindiğinde borsa yüzde 0.2 artışla 25 bin 830 puanda bulunuyor. 
+     
+     "25 bin 300-25 bin 900 aralığı" 
+     Borsadaki seyir ile ilgili Global Menkul Değerler'den yapılan değerlendirmede, endeksin kısa ve orta vadeli trendinde 22 haftalık ortalama seviyesi olan 25 bin 300 ile 22 günlük ortalama seviyesi olan 25 bin 100'ün önemli olduğu belirtildi. 
+     Değerlendirmede bu hafta içinde, 25 bin 300 seviyesini güçlendirme süreci içinde olan endeksin, 25 bin 300 25 bin 900 aralığında hareket edeceği öngörüldü. 
+     
+</TEXT>
+</DOC>

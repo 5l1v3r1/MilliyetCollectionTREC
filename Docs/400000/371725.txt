@@ -1,0 +1,41 @@
+<DOC>
+<DOCNO> 371725 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/22/ekonomi/aeko.html </URL>
+<DATE> 2005/08/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Akıllı kartın şifresi sahtek rlığı önleyecek 
+</HEADLINE>
+<TEXT>
+
+
+Türkiye, 1 Ocak 2006'dan itibaren üzerinde çip bulunan akıllı kart kullanımına geçiyor. Visa ve MasterCard kuralları gereği manyetik karttan şifreli karta geçiş olacak. Müşteri, kredi kartını kullanırkan POS'a takılı ek cihaza şifre girecek 
+
+Finans Sohbetleri - KADİFE ŞAHİN 
+
+Tüm dünyada artan kredi kartı sahtek rlıklarının önlenmesi için güvenlik önlemlerini arttıran kart tedarikçileri Visa ve MasterCard'ın kuralları gereği Türkiye de yeni yıldan itibaren güvenlik tedbirleri arttırılmış, bilgisayar teknolojisi özelliği olan çipli kartlara akıllı kart geçecek. 
+Visa ve MasterCard, kredi kartlarında kopyalama, çalıntı ve kayıp nedeniyle meydana gelen sahtek rlık ve dolandırıcılığın önlenmesi için manyetik bantlı karttan elektronik çip özellikli akıllı kartların kullanımına geçişi destekliyor. Kredi kartları için ortak kurallar belirleyen Visa ve MasterCard'ın manyetik kartlar üzerinden yapılan sahtek rlıklardaki sorumluluğu daha da azalacak. 
+Akıllı çipli kartların kullanımında EMV Europay MasterCard, Visa standartları oluşturan MasterCard ve Visa, çip uyumlu POS kart işlemine onay veren ödeme sistemi makinalarına ve POS'larla birlikte kullanılarak müşterinin bulunduğu yerde şifre girmesine olanak sağlayan PINPAD'e ek cihaz onay veriyor. 
+Türkiye'de kredi ve banka kartı düzenlemeleri alanında ilk olacak olan ve Bankacılık Düzenleme ve Denetleme Kurumu tarafından hazırlanarak ilgili bakanlığa iletilen yasa taslağı Meclis'in yeni dönemini beklerken, kart işlemlerinde bankalara hizmet veren Bankalararası Kart Merkezi BKM , şifreli karta geçişi hızlandırmak için çalışmalar yapıyor. Şu anda Türkiye'de akıllı kart kullanımının yüzde 26 olduğunu bildiren Bankalararası Kart Merkezi Genel Müdürü Sertaç Özinal, bu oranın yıl sonunda yüzde 50, manyetik kartla paralel geçişin sağlanacağı 2006 yılında ise yüzde 80'e ulaşacağını söyledi. 
+
+Yatırım 650 milyon dolar 
+Şifreli akıllı kartların kullanımı için yıl sonuna doğru tüketici ve işyeri eğitim kampanyalarına başlayacaklarını söyleyen Özinal, şifre kullanımı için bugüne kadar bankacılık sisteminin 250 milyon dolar yatırım yaptığını belirtti. 
+Özinal, toplam yatırımın 650 milyon dolar civarında olacağını bildirdi. İngiltere'de çipli kart kullanımı için yapılan toplam yatırımın 1 milyar sterlin olduğunu ifade eden Özinal, şöyle konuştu 
+"2006 yılından itibaren bankacılık sisteminde manyetik kart kullanımı ile birlikte akıllı çipli kart kullanımı da Visa ve MasterCard kuralları gereği zorunlu hale gelecek. Kart sahtek rlığı çalıntı, kopyalama ve kayıp nedeniyle oluyor. Manyetik kartlarda kimlik ve imza kontrolü yapılmadığında dolandırıcılık gerçekleştiriliyor. Oysa akıllı kartlarda şifre girmek gerekiyor." 
+
+'Sahtek rlık rakamı yıl sonunda 20 milyon dolara ulaşabilir' 
+Türkiye'nin akıllı kartlarda 2006'da başarılı bir geçiş sağlaması halinde Avrupa'da İngiltere ve Fransa'dan sonra en başarılı üçüncü ülke olacağını söyleyen BKM Genel Müdürü Sertaç Özinal, kredi kartı işlemleri üzerinden yapılan sahtek rlıklar hakkında şu bilgileri verdi 
+"Türkiye'de yurtiçi ve yurtdışı işlemlerinin tümünde toplam olarak geçen yıl 16 milyon dolarlık sahtek rlık yapıldı. Bu yıl ilk altı ayda bu rakam 8 milyon dolar. Yıl sonunda 20 milyon dolara ulaşması bekleniyor." 
+
+Masanda şifre girerek ödeme yap PINPAD, kart sahiplerinin kart şifrelerini güvenli bir şekilde girmeleri amacı ile kullanılan bir cihaz. Türkiye'de kullanımda bulunan tüm EMV uyumlu POS makinalarında PINPAD desteği bulunuyor. PINPAD'ler POS'a takılı ve POS'tan bağımsız olarak kulllanılabiliyor. 
+Bankalararası Kart Merkezi ve uluslararası ödeme sistemleri MasterCard ve Visa tarafından test edilen POS ve PINPAD cihazlarının donanım, uygulama ve iletişim protokolleri testlerinin sonucunda sertifikalandırılıyor. Sertifikasız cihazların ödeme sistemleri ürünleri ile kullanılabilmeleri BKM ve uluslarası ödeme sistemleri kuralları gereği mümkün değil. 
+
+Eve teslimde de kullanılıyor 
+POS noktası ile müşterinin birbirinden uzak olduğu restaurant, kafe gibi yerlerde PINPAD desteği olan mobil POS kullanılarak kart sahibinin masasında şifresini girmesi sağlanıyor. 
+Kredi kartı üzerinden eve teslimi gerçekleştirilen alışverişlerde de PINPAD desteği olan GSM POS teknolojisi kullanılarak kart sahibinin siparişini teslim alıp ödemesini yaparken şifresini girmesi gerekiyor. 
+
+
+</TEXT>
+</DOC>

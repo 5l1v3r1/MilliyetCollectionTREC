@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 303655 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/05/son/soneko01.html </URL>
+<DATE> 2005/01/05/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacminde dünyanın en büyük borsası New York Wall Street'in Dow Jones Sanayi Endeksi, yılın ikinci işlem günü son seansını 9. puan düşüşle binde 9.3 10,629.90 puandan noktaladı. 
+     Wall Street'in düşüşünde ABD Merkez Bankası'nın aralık ayında faiz oranlarını düşük tutma karanının, Washington hükümeti siyasetçilerin gözünde enflasyonu önceden dizginlemede yetersiz kalacağının açığa çıkması etkili oldu. 
+     Wall Street'in teknoloji ortaklıkları ibresi Nasdaq Birleşik Endeksi de 44.29 puan azalışla yüzde 2.06 2,107.86 puandan kapandı. 
+     Borsanın ilk seans yükselişinde, ABD Doları'nın önemli paralar karşısında toparlanması ve petrol fiyatlarının düşük seyretmesi belirleyici olmuştu. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 303058 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/03/son/soneko42.html </URL>
+<DATE> 2005/01/03/ </DATE>
+<TIME> 15.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+YTL'ye geçiş sıkıntılı başladı 
+</HEADLINE>
+<TEXT>
+
+     Yeni Türk Lirası 2005 yılının ilk resmi gününe sıkıntılı başladı. 
+     Resmi ve özel bankaların birçoğu Türk Lirası'ndan TL Yeni Türk Lirası'na YTL geçiş sürecinde sistem değişikliği çalışmalarını tamamlayamadığı için elektrik, su ve telefon faturalarını tahsil edemiyor. Yarın da tahsilat yapamayacak olan bankalar, Çarşamba günü faturaları kabul etmeye başlayacak. 
+     Bu arada TEDAŞ ve Ankara Su ve Kanalizasyon İdaresi de ASKİ para değişikliğinden kaynaklanan sancıdan nasibini aldı. TEDAŞ sistem değişikliğine geçtiği için bankalara, "Pazartesi ve Salı günü fatura tahsili yapmayın" ricasında bulundu. Kurum, tahsilat yapamadığı için elektrik faturalarının son ödeme gününü bir süre daha uzatmak zorunda kaldı. 
+     
+
+     
+</TEXT>
+</DOC>

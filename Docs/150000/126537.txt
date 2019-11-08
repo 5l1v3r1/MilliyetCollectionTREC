@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 126537 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/12/24/son/sondun01.html </URL>
+<DATE> 2002/12/24/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft, mahkeme kararıyla Java kullanacak 
+</HEADLINE>
+<TEXT>
+
+     Windows işletim sistemi ve Office gibi programları üreten yazılım devi Microsoft firması, en büyük rakibi Sun Microsystems tarafından geliştirilen Java dilini kullanmaya ''mahkum oldu''. 
+     İki firma arasında şimdiye kadar süregelen kıran kırana rekabet, en sonunda Baltimore mahkemesi yargıcının kararıyla çözüme kavuşturuldu. Yargıç Frederick Motz, kararında, ''kamu yararını göz önünde tutarak, Microsoft'u, ürünlerinde Java yazılım dilini kullanmaya mahkum ettiğini'' bildirdi. 
+     ''Sun'' firması, Microsoft aleyhine açtığı davada, ''adı geçen şirketin, Windows işletim sisteminin dünyadaki bilgisayarların yüzde 90'ında kullanılmasından yararlanarak, kendilerine karşı haksız rekabette bulunduğunu'' öne sürdü. Sun avukatları, ''Microsoft'un ürünlerinde, Java'nın uyumsuz eski sürümlerini kullanarak haksız rekabet yaptığını'' söylediler. 
+     Sun tarafından geliştirilen Java yazılım dili, ister Windows, ister Mac OS ya da başka bir işletim sistemiyle çalışsın, her türlü bilgisayarda kullanılabiliyor. Microsoft buna karşılık .net platformu adını verdiği bir başka sistem geliştirdi ve bundan böyle ürünlerinde Java'ya yer vermeyeceğini duyurdu. 
+     Ancak bu davranış, davaya bakan yargıç Motz'u tatmin etmedi ve yargıç kararında '' .net Java'dan daha üstün bir ürünse, zaten kendini kanıtlar ve piyasada hak ettiği yeri alır. Dolayısıyla Microsoft'un tekelciliğe başvurarak kendine haksız avantaj sağlamasına izin verilemez'' dedi. 
+     Açtığı davada Sun şirketi, Microsoft'u, rakip firmaların ürünleriyle kendi ürünleri arasında kasten uyumsuzluklar yaratmakla suçlamıştı. Sun, Microsoft'un diğer firmaları da Java dilini kullanmamaya zorladığını ileri sürmüştü. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

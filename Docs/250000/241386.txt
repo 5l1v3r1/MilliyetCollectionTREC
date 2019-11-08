@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 241386 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/20/son/soneko21.html </URL>
+<DATE> 2004/05/20/ </DATE>
+<TIME> 12.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansta 163 puan arttı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi, önceki kapanışa göre 163.44 puan artışla, 1. seansı 16,287.74 puandan tamamladı. 
+     1. seansta hisse senetlerinin ortalama değer artışı yüzde 1.01 olarak gerçekleşti. 
+     Salı günü 16,124.30 puandan kapanan İMKB Ulusal 100 Endeksi, 1. seansa, 17.95 puan artışla 16,142.25 puandan başladı. 
+     İlk yarıyı 116.36 puan artışla 16,240.66 puandan geçen endeks, seans içinde en düşük 16,139.30, en yüksek 16,389.07 puanı gördü. 
+     Seans sonunda mali endeks 271.57 puan artışla 21,822.44 puana, sanayi endeksi 156.36 puan artışla 14,871.81 puana yükselirken, hizmetler endeksi 2.65 puan düşüşle 9,286.67 puana geriledi. 
+     Böylece, önceki kapanışa göre, mali grup hisseler ortalama yüzde 1.26, sanayi grubu hisseler ortalama yüzde 1.06 oranında değer kazanırken, hizmet grubu hisseler ortalama yüzde 0.03 değer yitirdi. 
+     1. seansta işlem gören toplam 304 hisse senedinden 187'si değer kazandı, 48'i değer yitirdi, 69 hissenin fiyatında değişiklik olmadı. 
+     Seansta, 267 trilyon 205 milyar 441 milyon liralık işlem hacmi oluştu. 
+     1. seansta, Yapı ve Kredi Bankası, Doğan Holding, İş Bankası C , Ereğli Demir Çelik ve Garanti Bankası en yoğun işlem gören hisseler oldu. 
+     
+</TEXT>
+</DOC>

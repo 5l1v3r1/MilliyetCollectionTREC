@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 225503 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/25/son/soneko40.html </URL>
+<DATE> 2004/03/25/ </DATE>
+<TIME> 16.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Serbest piyasada dolar 1 milyon 327 bin lira... 
+</HEADLINE>
+<TEXT>
+
+     İstanbul ve Ankara serbest piyasalarında alınıp satılan döviz türlerinin, dün ve bugün itibarıyla alış ve satış kapanış fiyatları şöyle 
+     
+
+İSTANBUL SERBEST PİYASA Çrş.Alış Çrş.Satış Prş.Alış Prş.Satış ABD Doları 1,320,000 1,324,000 1,322,000 1,327,000 Euro 1,612,000 1,617,000 1,606,000 1,611,000 İngiliz Sterlini 2,410,000 2,430,000 2,375,000 2,395,000 İsviçre Frangı 1,030,000 1,040,000 1,030,000 1,040,000      
+
+ANKARA SERBEST PİYASA Çrş.Alış Çrş.Satış Prş.Alış Prş.Satış ABD Doları 1,320,000 1,328,000 1,320,000 1,328,000 Euro 1,612,000 1,621,000 1,606,000 1,615,000 İngiliz Sterlini 2,407,000 2,438,000 2,377,000 2,428,000      
+</TEXT>
+</DOC>

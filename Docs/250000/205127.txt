@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 205127 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/29/son/soneko17.html </URL>
+<DATE> 2003/12/29/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yeni yıla temiz masayla başlayın, yeşil düşünün Ofislere öneriler 
+</HEADLINE>
+<TEXT>
+
+     Teknoloji şirketi Xerox, ofislerde karmaşa yaratan, iş verimliliğini düşüren ve üretim maliyetlerini artıran noktalara dikkat çekerek, ufak değişikliklerle nasıl daha etkili ve verimli çalışılabileceğinin ipuçlarını açıkladı. 
+     Xerox'un iş analizi uzmanları, yayınladıkları yeni yıl mesajında, ofislerin 2004 yılında daha hızlı, güvenli ve düşük maliyetlerle çalışmasını sağlayacak 7 önemli noktaya dikkat çekti. 
+     Yeni yılda etkin ve verimli ofis için bilgi güvenliğinin sağlanması, virüs koruma yazılımının en son sürümünün kullanıldığından emin olunması istendi. Çeşitli elektronik ortamlar üzerinde yer alan bilgilerin güvenliğiyle ilgili çözümlerin konu uzmanları ile konuşulması ve uygulanması önerildi. 
+     Yeni yıla temiz bir masa ile başlanması gerektiği belirtilerek, masanın karışıklığının ortadan kaldırılması, uzun zamandır kullanılmayan eşya ve dokümanların ya geri dönüşüm kutusuna ya da çöpe atılması istendi. 
+     Ofislere rengin gücünden yararlanılması önerisinde bulunuldu. Çalışanların daha az zamanda daha çok iş yapması için elektronik ve kağıt ortamlardaki dokümanlarda renk kullanılması gerektiği vurgulanarak, önemli noktaları renklendirilerek hazırlanan dokümanların daha hızlı incelendiği, dikkat edilmesi gereken hususların da kolayca ön plana çıkarıldığı belirtildi. 
+     Etkin ve verimli bir ofis için maliyetlerin kontrol edilmesi, iş ve ofisin büyüklüğüne uygun ofis teknolojilerinin kullanılması bir diğer öneriyi teşkil etti. Xerox'un mesajında, ''Ofis içinde farklı farklı markaların ürünlerini kullanmayın yoksa bu size ayrı ayrı sarf malzemesi, teknik destek ve servis maliyeti olarak geri dönecektir'' denildi. 
+     Ofislerdeki inkjet mürekkepli makine sayısının azaltılması, bu ürünlerin, ilk alım maliyetinin düşük ama kullanım maliyetlerinin son derece yüksek olması nedeniyle ofislerde kullanım maliyetleri düşük, servis ihtiyaçları az olan ileri teknoloji lazer ve katı mürekkep kullanan makinelerin tercih edilmesi gerektiği belirtildi. 
+     Internet sitesinin örümcek ağlarından korunması, sitede yer alan bilgilerin çok sık güncellenmesi de ofislere öneriler arasında yer aldı. 
+     Yeni yılda etkin ve verimli bir ofis için ''Yeşil düşünün'' önerisi ise, finansal olarak iyi olmaya çalışıldığı kadar çevreyle de dost bir ofis olunmasının önemine dikkat çekiyor. Ofis içinde gereksiz kağıt, enerji, su ve deterjan kullanımına dikkat edilmesi, mümkün olduğunca çift taraflı baskı kullanılması, çalışmayan makinelerin enerji tasarruf moduna alınması veya kapatılması, yüksek enerjili ışıkların kullanılmaması ve çalışmayan alanların aydınlatılmaması istendi. 
+     
+</TEXT>
+</DOC>

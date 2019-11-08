@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 354378 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/22/son/soneko25.html </URL>
+<DATE> 2005/06/22/ </DATE>
+<TIME> 13.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternette "Top level domain" sistemi Türkiye'de... 
+</HEADLINE>
+<TEXT>
+
+     Internette ikinci nesil alan adı olarak kabul edilen üst seviye alan adı Top Level Domain TLD , sistemi Türkiye Bilişim Derneği TBD koordinatörlüğünde Türkiye'de hizmete girdi. 
+     İstanbul'da düzenlenen basın toplantısıyla kamuoyuna duyurulan TLD sistemini anlatan TBD Yönetim Kurulu Başkanı Turhan Menteş, TBD'nin kısa süre önce Unified Identity Technology UNIDT ile yaptığı işbirliği sonucunda TLD sistemini Türkiye'de ilk kez uygulamaya başlayacağını söyledi. 
+     Haziran ayı başında kendisi ile UNIDT EMEA Bölgesi Temsilcisi Yusuf Taragano'nun imzaladığı işbirliği anlaşmasıyla, TBD'nin TLD sisteminin Türkiye koordinatörü olduğunu aktaran Menteş, anlaşma gereğince Türkiye'deki internet servis sağlayıcıların ISS TBD koordinatörlüğünde sözü edilen isimlerin satışını gerçekleştireceğini kaydetti. 
+     Sistemle şimdiye kadar internette .com, .net, .org ve .tr gibi alan ve ülke kısaltmaları yerine, yeni sistem sayesinde isteyen kurum ve kuruluşların kendi isimlerini alan adı olarak kullanabileceğini aktaran Menteş, şirketlerin alan adlarının alt versiyonlarını istedikleri gibi dağıtma hakkına da sahip olacağını söyledi. 
+     Menteş, anlaşmanın Türkiye için yeni açılımlar sağlayabilecek bir işbirliği özelliği taşıdığını, şirketlerin fırsatı iyi değerlendirip alan adları kapatılmadan harekete geçmesi gerektiğini anlattı. 
+     Menteş, dünya genelinde internet alan adlarının .com, .net, .org altında yer aldığını, mevcut internet yapısındaki yetersizlik, kısıtlamalar ve tekelleşme eğilimine karşı bazı bağımsız internet kök sunucu işletmenlerinin ve internet topluluğu üyelerinin biraraya gelerek kar amacı gütmeyen Public-Root isimli bir federasyon kurduğunu belirterek, bu sayede sadece ülke adı ve belirli sayıda alan adları yerine her türlü üst seviye alan adının kullanımına olanak sağlandığını kaydetti. 
+     Belirli sayıda alan adı kullanımı nedeniyle aramalarda binlerce sonuçla karşılaşıldığını da belirten Menteş, TLD ile sadece aranılan siteyle ilgili sonuçların ekrana geleceğini dile getirdi. 
+     Public Root sisteminin varolan internet alan adlarını da desteklediğini söyleyen TBD Başkanı Menteş, sistemde yer alan kök sunucular ve üst seviye alan adlarının düzenli olarak INAIC The Internet Names Authorization Information Center tarafından kontrol edildiğini ve dünya çapındaki 13 kök sunucudan birinin de Ankara'da kurulmuş olduğunu anlattı. 
+     Konuşmaların ardından TLD sisteminin Türkiye'de uygulanması konusunda UNIDT EMEA Bölgesi Temsilcisi Yusuf Taragano ile Superonline, e-kolay.net ve Meteksan Net yetkilileri arasında sözleşme imzalandı. 
+     
+     TLD 
+     Belirli bir hiyerarşiye göre tanımlanan internet alan adlarında en sağda yazan isim en üst seviyede alan adını belirliyor. www.aa.com.tr örneğinde .tr en üst seviye alan adı olurken, www.aa.com örneğinde ise .com üst seviye alan adı konumuna geliyor. 
+     Yeni nesil alan adlarında TLD ise .org., .tr gibi uzantıların yerini, ''www.aa'' gibi şirket veya kurum isimleri alabilecek, sözü edilen isimlerde Türkçe karakter kullanılabilecek. Sistem çerçevesinde, istedikleri alan adlarını satın almak isteyen firmalar TBD'nin anlaşma yaptığı üç ISS'nin web sayfalarındaki formları doldurduktan sonra, formların Amsterdam'daki UNIDT merkezine iletilip onaylanmasının ardından kendi isimlerinden oluşan alan adlarını kullanmaya başlayabilecek. 
+     İstenilen alan adının kullanılması karşılığında 1.000 dolar ödenmesi gerekiyor. 
+     
+</TEXT>
+</DOC>

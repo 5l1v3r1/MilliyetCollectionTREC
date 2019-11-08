@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 131001 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/01/15/son/soneko17.html </URL>
+<DATE> 2003/01/15/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seans kapanış... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Bileşik Endeksi 1. seansta, dünkü kapanışa göre 231.49 puan artarak 10.356.37 puandan kapandı. 
+     Hisse senetleri, ortalama yüzde 2.29 oranında değer kazandı. 
+     Dün 10,550 direncini test eden ancak bu seviyeden gelen kar satışlarıyla gerileyen endeks, ilk seansta gelen tepki alımlarıyla 10,300 direncine kadar yükseldi. 
+     Uzmanlar, 10,300 seviyesinin aşılması halinde, tekrar 10,500 puanın denenebileceğini, ancak 10,500 puanın oldukça ciddi bir direnç seviyesi olduğunu kaydediyorlar. 
+     Seans 5.42 puan kayıpla 10,119.46 puandan başladı. Dar hacimle, yaklaşık 300 puanlık bir bantta seyreden endeks, seansın ilk yarısını 120.13 puan artışla 10,245.01 puandan geçti. Endeks en düşük 10,091.42, en yüksek de 10,396.09 puanı gördü. 
+     Seans kapanışında mali endeks 341.40 puan artışla 12,782.69 puana, sanayi endeksi 188.77 puan artışla 10,024.76 puana ve hizmetler endeksi de 93.62 puan artışla 6,791.77 puana yükseldi. 
+     Böylece önceki kapanışa göre mali grup hisseler ortalama yüzde 2.74, sanayi grubu hisseler ortalama yüzde 1.92 ve hizmetler grubu hisseler de ortalama yüzde 1.40 oranında değer kazandı. 
+     1. seansta işlem gören toplam 282 hisse senedinden 201'i değer kazanırken, 23 hisse senedi değer kaybetti. 58 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta, 149 trilyon 200 milyar 177 milyon liralık işlem hacmi oluştu. 
+     1. seansta İş Bankası C , Garanti Bankası, Sabancı Holding, Vestel ve Tüpraş en yoğun işlem gören hisseler oldular. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

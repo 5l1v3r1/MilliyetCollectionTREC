@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 268423 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/02/son/soneko01.html </URL>
+<DATE> 2004/09/02/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası'nda Dow Jones endeksi günü düşüşle kapatırken, Nasdaq endeksi yükselişle günü tamamladı. 
+     Dow Jones Endeksi 5.38 puan azalarak 10,168.54 puana indi. Nasdaq Endeksi ise 12.28 puan yükselerek 1,850.38 puana çıktı. 
+     
+</TEXT>
+</DOC>

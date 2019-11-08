@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 186211 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/03/son/soneko06.html </URL>
+<DATE> 2003/10/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa yeniden 14 bin puanı aştı... 
+</HEADLINE>
+<TEXT>
+
+     Borsa, yaklaşık bir hafta aradan sonra tekrar 14,000 puanın üstüne çıktı. 
+     Sabah alımlarla açılan ve 13,895.78 puandan güne başlayan endeks, seansın ilk beş dakikası dolmadan 14,000 puanı geçti. 
+     Seansın ilk yarım saatini 172,92 puan ve yüzde 1.25 oranındaki artışla 14,0.41 puandan geçen endeks, ardından 14,150-14,200 puan seviyelerindeki direnci test etti. İlk 45 dakika sonunda endeks 264.65 puanlık artışla 14,145.14 puan seviyesine ulaştı. İşlem hacmi de 301.9 trilyon lira olarak gerçekleşti. 
+     Endeks ilk 45 dakikalık sürede dünkü kapanış seviyesi olan 13,880.49 puanın altına düşmezken, en yüksek olarak 14,156.19 puanı gördü. 
+     Borsa, DEHAP davası ve asker gönderme gibi konuların yarattığı tedirginlikle 14,000 puanın üzerindeki dirençlere takılarak, 23 Eylül Salı günü gerçekleşen 14,031.06 puanlık kapanışın ardından düşüş eğilimine girmişti. 
+     Borsa uzmanları, endeksin yaklaşık bir haftadır 12,800-13,900 aralığında seyrettiğini belirterek, DEHAP davasıyla Irak'a asker gönderme konusunda yaşanan son gelişmelerin bugünkü çıkışta etkili olduğunu ifade ediyorlar. 
+     
+</TEXT>
+</DOC>

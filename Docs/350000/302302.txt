@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 302302 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/30/son/sontur45.html </URL>
+<DATE> 2004/12/30/ </DATE>
+<TIME> 19.39 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İzmir'de deprem 3.7 şiddetinde deprem meydana geldi... 
+</HEADLINE>
+<TEXT>
+
+     İzmir'de hafif şiddette deprem meydana geldi. 
+     Boğaziçi Üniversitesi Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü'nden alınan bilgiye göre, merkez üssü Seferihisar İlçesi'nde saat 18.48'de 3.7 büyüklüğünde bir sarsıntı kaydedildi. 
+     Deprem, İzmir merkez ve diğer ilçelerde de hissedildi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 178509 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/27/son/sontur05.html </URL>
+<DATE> 2003/08/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilişim terimlerinin Türkçe karşılıklarını merak etmiyor musunuz 
+</HEADLINE>
+<TEXT>
+
+     Yabancı sözcüklere bulduğu Türkçe karşılıklarla dil kirlenmesinin önüne geçmeye çalışan Türk Dil Kurumu TDK , gelişen teknolojiyle birlikte bilişim alanında her gün bir yenisi eklenen yabancı terimlere de hızla Türkçe karşılıklar üretmeye çalışıyor. 
+     Türk Dil Kurumu'nun ''www.tdk.gov.tr'' adresinden ulaşılabilen web sitesinde ''Yabancı Sözcüklere Türkçe Karşılıklar'' bölümünde yayınlanan sözcüklerden derlenen bilgiye göre, kurum, yabancı sözcüklere Türkçe karşılık bulma çalışmalarında, bilim, teknoloji ve bilişim alanında kullanılan terim ve sözcüklere de yer vermeye başladı. 
+     TDK, teknolojik gelişime paralel olarak her geçen gün yeni bir yabancı sözcüğün, Türkçe'de karşılığı bulunmadığı için yaygın olarak günlük kullanıma girmesi üzerine, bulduğu karşılıklarla Türkçe'yi yabancı sözcüklerden arındırmaya çalışıyor. 
+     Yapılan yeni sözcük üretme çalışmaları sonucunda, yaygın olarak kullanımda olan başta ''Compact Disc CD '', ''e-mail'', ''modem'', ''link'' gibi kelimeler olmak üzere bu alandaki birçok yabancı terim ve sözcüğe Türkçe karşılık bulan TDK, ''modem'' yerine ''çevirge'', ''link'' yerine ''ilişim'', ''Compakt Disk CD '' yerine ''yoğun teker YT ''in kullanılmasını öneriyor. 
+     
+     E-POSTA BEĞENİLMEMİŞ 
+
+     TDK'nın sitesinde, yabancı terim ve sözcüklere karşı yapılan bazı öneriler ise kullanımda kendiliğinden Türkçeleştirilen terimleri yok sayması ya da kendiyle çelişmesiyle dikkati çekiyor. 
+     ''e-mail''in halk arasında ''e-posta'' olarak kullanılmasına karşın, bu kelime yerine ''elektronik mektup''tan yola çıkarak ''elmek'' önerilirken, ''Disc'' kelimesi ''Compact Disc CD ''de ''Yoğun Teker YT '' olarak, ''Video Compact Disc VCD ''de ise ''Görüntülü Yoğun Disk GYD '' diye çevriliyor. 
+     ''Web'' yerine ''ağ'', ''webmaster'' yerine ''ağ yöneticisi'', ''web sayfası ve web sitesi'' yerine de ''ağ sayfası ve ağ sitesi'' terimlerinin kullanılmasının önerildiği TDK'nın web sitesinde, ilk defa Prof. Dr. Aydın Köksal tarafından ''Computer'' kelimesi yerine kullanılan ''Bilgisayar'' kadar kabul görüp görmeyeceği merak konusu... 
+     Diğer Türkçeleştirilen sözcüklerin bazıları şöyle 
+     ''Server sunucu, software yazılım, on-line çevrimiçi, network bilişim ağı, notebook el bilgisayarı, monitör mini gösterici, multimedya çoklu ortam, laptop dizüstü, laser-disc ışıklı teker, konfigürasyon yapılandırma, joystick yönetme kolu, internet genel ağ, intranet iç ağ, hacker kırıcı, hacking kırma, faks belgegeçer kısaltması belgeç , fakslamak belgegeçerle göndermek, extranet dış ağ, çip yonga, chat sohbet, yarenlik, hoşbeş, gevezelik etmek, cracker çökertici.'' 
+
+     
+</TEXT>
+</DOC>

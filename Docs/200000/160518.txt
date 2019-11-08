@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 160518 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/02/son/sondun29.html </URL>
+<DATE> 2003/06/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Washington'da biyolojik saldırılara karşı müthiş önlem.. 
+</HEADLINE>
+<TEXT>
+
+     ABD, 11 Eylül terörist saldırılarından sonra başkent Washington'un güvenliğini artırmak ve olası kimyasal ya da biyolojik saldırıları zamanında tespit edebilmek amacıyla yüksek teknoloji ürünlerini devreye soktu. 
+     Saldırılara hazırlık çerçevesinde, hükümet adına çalışan bilim adamları, Washington ve çevresindeki Arlington ve Silver Spring bölgelerine, rüzgar akımını tespit ederek örnek alma kapasitesine sahip 10 metre yüksekliğinde alüminyum kuleler yerleştirdi. Bu rüzgar kuleleri, Kongre, Beyaz Saray, Pentagon, Anıt Bölgesi, Hayvanat Bahçesi ve kentin çevre yolunu koruyacak şekilde konumlandırıldı. 
+     Yeni teknolojiyle elde edilmek istenen sonuç, Washington bölgesine kitle imha silahlarıyla saldırıda bulunulursa, bunun zamanında tespit edilmesi ve hangi bölgelere nasıl dağılacağı konusunda fikir edinilmesi olarak açıklanıyor. Rüzgar kulelerindeki ultrasonik alıcılar, saniyede 10 kez havadan örnek alıyor ve elde ettiği veriyi her 15 dakikada bir yükleyerek, acil durum planlamacılarıyla bilim adamlarına gönderiyor. 
+     ABD'ye yönelik tehditleri inceleyen analistler, ''kirli bomba'' adı verilen basit düzenekli radyoaktif silahların, çok nüfuslu alanlarda kullanılmasına karşı sürekli uyarılarda bulunuyor. 
+     Enerji Bakanlığı'nın gözetiminde, Washington'da uygulamaya konulan havadan örnek alma işleminin, diğer Amerikan kentlerinde de zaman içinde başlatılması planlanıyor. 11 Eylül saldırılarından en çok etkilenen New York'ta, biri Times Meydanı, diğeri de Greenwich Village bölgesinde olmak üzere iki kule kurulması öngörülüyor. Rüzgar kuleleri, ses dalgalarını kullanarak rüzgarın hızı ve yönünü tespit ediyor. 
+     
+</TEXT>
+</DOC>

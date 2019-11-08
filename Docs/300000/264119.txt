@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 264119 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/17/son/soneko43.html </URL>
+<DATE> 2004/08/17/ </DATE>
+<TIME> 17.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükselişle açıldı... 
+</HEADLINE>
+<TEXT>
+
+     New York Menkul Kıymetler Borsası yükselişle açıldı. 
+     Dow Jones Endeksi, 20.13 puan yüzde 0.2 değer kazanarak, 9,974.68 puana ulaştı. 
+     Standard and Poor's 500 endeksi yüzde 0.16, Nasdaq Bileşik endeksi de yüzde 0.55 oranlarında değer kazandılar. 
+     Borsanın değer kazanmasında, ABD'de sanayi üretimindeki artış ve enflasyonun kontrol altına alındığına dair haberler etkili oldu. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 380231 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/21/son/soneko01.html </URL>
+<DATE> 2005/09/21/ </DATE>
+<TIME> 01.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacminde dünyanın en büyük borsası konumunda olan New York Wall Street Borsası’nın temel göstergesi Dow Jones Sanayi Endeksi, 76.19 puan düşüşle binde 7,2 günü 10,481.44 puandan noktaladı. 
+     Wall Street’in teknoloji ortaklıkları ibresi Nasdaq Bileşik Endeksi de 13.92 puan düşüşle binde 6,5 2,131.34 puandan kapandı. 
+     ABD merkez bankasının faiz oranını geçen yıldan beri 11. kez yükseltmesi yüzde 3,75 , borsanın gerilemesinde etkili oldu. 
+     ABD merkez bankasının "Açık Piyasa Kurulu"nun açıklamasında, "Ekonomi için asıl tehlike yükselen enerji fiyatlarıyla enflasyon baskısının daha güçlü hissedilmesi" denildi. Açıklamada, gıda ve enerji fiyatlarından arındırılmış çekirdek enflasyonun son aylarda göreceli olarak düşük ve uzun dönem enflasyon beklentilerinin kontrol altında tutulduğu belirtildi. 
+     
+</TEXT>
+</DOC>

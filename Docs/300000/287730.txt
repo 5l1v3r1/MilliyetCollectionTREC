@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 287730 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/10/son/soneko22.html </URL>
+<DATE> 2004/11/10/ </DATE>
+<TIME> 12.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı 181 puanlık artışla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeksi 181.18 puan artarak 1. seansı 22,725.46 puandan tamamladı. 
+     1. seansta hisse senetleri ortalama yüzde 0.80 değer kazandı. 
+     Dün 22,544.28 puandan kapanan İMKB Ulusal 100 Endeksi, ilk seansa 17.64 puan artarak 22,561.92 puandan başladı. İlk yarıyı 22,779.24 puandan geçen endeks, seans içinde en düşük 22,544.28 puana kadar gerilerken, en yüksek 22,800.96 puanı gördü. 
+     Seans sonunda mali endeks 239.56 puan artarak 30,798.36 puana, sanayi endeksi 143.87 puan artarak 20,914.28 puana ve hizmetler endeksi 109.32 puan artarak 12,869.33 puana yükseldi. 
+     Böylece önceki kapanışa göre, mali grup hisseler ortalama yüzde 0.78 oranında, sanayi grubu hisseler ortalama yüzde 0.69 oranında ve hizmet grubu hisseler ortalama yüzde 0.86 oranında değer kazandı. 
+     1. seansta işlem gören toplam 298 hisse senedinden 161'i değer kazandı, 66'sı değer kaybetti, 71 hissenin fiyatında değişiklik olmadı. 
+     Seansta, 410 trilyon 624 milyar 159 milyon liralık işlem hacmi oluştu. 
+     1. seansta Park Madencilik, Turkcell, Garanti Bankası, İş Bankası C ve Ceytaş Madencilik en çok işlem gören hisse senetleri oldu 
+     
+</TEXT>
+</DOC>

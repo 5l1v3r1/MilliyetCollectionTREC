@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> 75355 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/03/29/son/sontur04.html </URL>
+<DATE> 2002/03/29/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sayısal Loto'da 3,5 trilyonluk oynayan 6'yı garantiler 
+</HEADLINE>
+<TEXT>
+
+     Her hafta dağıttığı yüzmilyarlarca liralık ikramiyelerle milyonlarca kişinin zengin olma umudu haline gelen Sayısal Loto, doçentlik tezi oldu. 
+     Tezini Sayısal Loto çekilişleri üzerine hazırlayarak doçent olan Uludağ Üniversitesi İktisadi ve İdari Bilimler Fakültesi Ekonometri Bölümü Öğretim Üyesi Erkan Işığıçok, 49 sayıdan 6'sının kesin olarak bilinmesi için yaklaşık 3.5 trilyon lira tutarındaki 13 milyon 983 bin 816 kolon oynamak gerektiğini söyledi. 
+     Doç. Dr. Işığıçok, ''İstatistiksel Proses Kontrolü Sayısal Loto Üzerine Bir Uygulama Denemesi'' adını taşıyan tezini, her hafta yapılan çekilişler sonrası güncelleştirdiğini kaydetti. 
+     Sayısal Loto ile ilgili araştırmalarını topladığı kitabını önümüzdeki günlerde yayımlayacağını belirten Doç. Dr. Işığıçok, 16 Kasım 1996 tarihinde başlayan 23 Mart 2002 çekilişiyle 280 haftadır oynanan Sayısal Loto'da çıkan rakamların ''tamamen tesadüfi'' olduğunu bildirdi. 
+     49'un 6'lı kombinasyonuna göre, garantili 6 tutturmak için 13 
+     milyon 983 bin 816 kolon Sayısal Loto oynamak gerektiğini bildiren Doç. Dr. Işığıçok, şunları söyledi ''Sayısal Loto gibi şans oyunları, istatistik biliminin olasılık teorisi içinde incelenir ve kombinasyon hesaplarına dayanır. Sayısal Loto çekilişleri tamamen şansa bağlı olup, çekilişlere ilişkin matematiksel bir model veya fonksiyonel ilişki kurulamaz ve bu yaklaşımla tahmin yapılamaz. Bunun nedeni, şans oyununda herhangi bir önsel bilginin olmaması ve çekilişlerin her hafta aynı koşullarda tesadifi olarak yapılmasıdır. Örneğin at yarışlarında herhangi bir atın koştuğu son yarışlar, atın geçmişi ve özellikleri gibi önsel bilgi vardır. Bu önsel bilgi sayesinde, yarışların tahmin edilmesinde şans artırılabilir. Oysa Sayısal Loto'da bu tür bir önsel bilgi söz konusu değildir. Diğer bir deyişle, Sayısal Loto'da tüyo veya banko gibi kavramların yeri yoktur. Ancak olasılık teorisine dayanarak şansın nisbi olarak artırılması mümkündür.'' 
+     
+     EN ÇOK VE EN AZ ÇIKAN SAYILAR 
+     Doç. Dr. Işığıçok'un araştırmasına göre, 280 haftanın 71 haftasında Sayısal Loto'da 6 bilen çıkmadığı için ikramiye devretti. 
+     Bu da toplam çekilişin yüzde 25.47'sini oluşturuyor. Haftalık Sayısal Loto çekilişlerinin frekans tablosuna göre de en çok 27, 16, 38, 14 ve 20 sayıları çıktı. Bu sayılardan ''27'', tam 44 çekilişte yer aldı. 
+     ''23, 31, 33, 42, 48'' en az çıkan sayılar olarak belirlenirken, ''23'', sadece 24 kez çekildi. 
+     Doç. Dr. Işığıçok, çok çıkan sayıların ''şanslı'', az çıkanların da ''şanssız'' sayılar olarak değerlendirilmesinin de yanlış olduğuna dikkati çekerek, 280 haftalık çekilişte toplam 1680 sayının 844 tanesinin çift, 836 tanesinin de tek sayı olduğunu, 9 hafta 3, 3 hafta da 4 ardışık sayının çekildiğini söyledi. 
+     Doç.Dr. Erkan Işığıçok, 280 haftalık çekişlikte 71 hafta 6 bilen çıkmadığını, 88 hafta bir kişinin büyük ikramiye talihlisi olduğunu, 1 hafta da 15 kişinin birden 6 tutturduğunu kaydetti. 
+     
+     BİLGASAYARDA OYNUYOR 
+     Kendisinin de zaman zaman Sayısal Loto oynadığını ve bugüne kadar sadece bir kez 4 tutturabildiğini anlatan Doç. Dr. Işığıçok, Sayısal Loto oynarken bilgisayarın excel programını veya çok fonksiyonlu hesap makinelerinin ''RND'' tuşunu kullandığını bildirdi. 
+     Excel programında, S SAYI ÜRET 49 formülünü yazarak, bilgisayardan 1 ile 49 arasında sayı üretmesini istediğini ve çıkan verilere göre Sayısal Loto oynadığını ifade eden Doç. Dr. Işığıçok, ''Sayısal Loto çekilişi tesadüf olarak yapılmakta ve bilgisayar da tesadüfi sayı üretmektedir. İki tesadüfi durumun karşılaşma olalığı yüksektir'' dedi. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

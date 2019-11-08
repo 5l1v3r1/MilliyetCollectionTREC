@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 225311 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/24/son/sonyas27.html </URL>
+<DATE> 2004/03/24/ </DATE>
+<TIME> 16.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dalgıçlara müjde... Vurgunu önleyici ilaç için çalışmalar sürüyor 
+</HEADLINE>
+<TEXT>
+
+     Norveçli bilimadamlarının, dalgıçların en korkulu rüyası olan vurgunu önleyici bir ilaç üzerinde çalıştığı bildirildi. 
+     New Scientist dergisinde çıkan habere göre, dalıştan 20 saat önce yapılacak olan yoğun bir egzersiz, basınç değişikliklerinden kaynaklanan vurgun riskini önemli ölçüde azaltıyor. 
+     Egzersizin, kan akımında vurgunu önlemede etkili olan nitric oxide'in salınımını artırdığı vurgulandı. 
+     Bu teoriden yola çıkan uzmanlar, 10 yıldan daha kısa bir sürede, nitric oxide salınımını artıran, dolayısıyla vurgunu önleyen bir ilacın çıkarılabileceğini kaydediyorlar. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 307633 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/18/son/sonyas19.html </URL>
+<DATE> 2005/01/18/ </DATE>
+<TIME> 10.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Google'dan dijital fotoğrafları düzenlemek için ücretsiz program 
+</HEADLINE>
+<TEXT>
+
+     İnternet arama motoru Google, bilgisayarların sabit diskindeki yüzlerce, binlerce dijital fotoğrafı düzenlemek ve bulmak için ücretsiz program çıkardı. 
+     Google'ın geçen yıl satın aldığı Picasa şirketinin geliştirdiği teknoloji kullanılarak oluşturulan programın, yeni başlayanlar için bile fotoğraf koleksiyonlarını saklama ve bunların üzerinde düzeltmeler yapma olanağı sunacağı belirtildi. 
+     Picasa programında kullanıcının fotoğraflarını sabit diskten bireysel olarak çağırması yerine, program, e-mail yoluyla ya da dijital fotoğraf makinesiyle mi transfer edildiğini gösterecek ve otomatik şekilde fotoğrafların yerlerini belirleyecek. 
+     Picasa'nın Google tarafından satın alınmadan önce 29 dolara sattığı programın bedava olarak indirildiği ikinci versiyonunda, dosya isimleri gibi karmaşık işlemler yerine fotoğraflar, tarihleri ya da istenen olaylara göre bulunarak tasnif edilebiliyor. 
+     Programın yeni versiyonunda, kullanıcı en iyi resimlerine birer altın yıldız koyarak, sadece bunları kolayca arayabiliyor. 
+     Uzmanlar, yeni programın renkleri düzeltmek ve kırmızı gözleri kaldırmak için daha uygun olanaklar sağladığını belirtiyorlar. 
+     
+</TEXT>
+</DOC>

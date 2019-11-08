@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> 387669 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/18/son/sonsiy15.html </URL>
+<DATE> 2005/10/18/ </DATE>
+<TIME> 14.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Elektronik Haberleşme Kanunu tasarısı TBMM'de... 
+</HEADLINE>
+<TEXT>
+
+     Elektronik haberleşme sektörünün düzenlenmesi, denetlenmesi ve bu sektörde faaliyet gösterenlerin hak, yetki ve yükümlülüklerinin belirlenmesi amacıyla hazırlanan Elektronik Haberleşme Kanunu Tasarısı TBMM Başkanlığı’na sunuldu. 
+     Tasarıyla elektronik haberleşme hizmetlerinin yürütülmesi, elektronik haberleşme altyapı ve şebekesinin tesisi ve işletilmesi, geliştirilmesi, yeni elektronik haberleşme şebeke ve hizmetlerin teşvik edilmesi hususları ile ilgili politika, hedef ve ilkelerin tespiti, kaynakların etkin ve verimli kullanılması amaçlanıyor. 
+     Tasarıya göre, her türlü elektronik haberleşme cihaz, sistem ve şebekelerinin kurulması ve işletilmesine müsaade edilmesi, gerekli frekans, numara, uydu pozisyonu ve benzeri kaynak tahsislerinin yapılması ile bunların kontrolü devletin yetki ve sorumluluğu altında olacak. 
+     Elektronik haberleşme cihaz ve sistemlerinin kurulması, kullanılması ve işletilmesinde insan sağlığı, can ve mal güvenliği, çevre ve tüketicinin korunması açısından uluslararası normlar dikkate alınacak. Hizmetlerin sunulmasında ve düzenlemelerde teknolojik tarafsızlık sağlanacak. Teknolojik yeniliklerin kullanım da dahil olmak üzere özürlü, yaşlı ve sosyal açıdan korunmaya muhtaç diğer kesimlerin özel ihtiyaçları da İlke olarak dikkate alınacak. Bilgi güvenliği ve haberleşme gizliliği gözetilecek. 
+     Telekomünikasyon Kurumu elektronik haberleşme sektöründe rekabete aykırı davranış ve uygulamaları resen veya şikayet üzerine incelemeye, soruşturmaya ve rekabetin tesisine yönelik gerekli tedbirleri almaya, görev alanına giren konularda bilgi ve dokümanların sağlanmasını talep etmeye yetkili olacak. 
+     Rekabet Kurulu, sektöre yönelik yapacağı inceleme ve tetkiklerde, birleşme ve devralmalara ilişkin kararlar da dahil olmak üzere elektronik haberleşme sektörüyle ilgili vereceği tüm kararlarda, öncelikle Telekomünikasyon Kurumu’nun görüşünü ve yaptığı düzenleyici işlemleri dikkate alacak. 
+     Kurum, yapacağı pazar analizleri sonucu ilgili pazarlarda etkin piyasa gücüne sahip işletmecileri belirleyebilecek. Kurum, etkin rekabet ortamının sağlanması ve korunması amacıyla etkin piyasa gücüne sahip işletmecilere yükümlülükler getirebilecek. 
+     Sayısının sınırlandırılmasının gerekmediği tespit edilen elektronik haberleşme hizmetleri için usulüne uygun başvuruya 30 gün içinde kullanım hakkı verilecek. Kullanım hakkı sayısı, ancak kaynakların sınırlı sayıda işletmeci tarafından yürütülmesinin gerektiği durumlarda ve kaynakların etkin ve verimli kullanılmasını teminen sınırlandırılabilecek. 
+     Uydu pozisyonu ile ulusal çapta verilecek frekans bandı kullanımını içeren ve sınırlı sayıda işletmeci tarafından yürütülmesi gereken elektronik haberleşme hizmetlerine ilişkin yetkilendirme politikası esasları, hizmetin başlama zamanı, yetkilendirme süresi ve hizmeti sunacak işletmeci sayısı Ulaştırma Bakanlığı tarafından belirlenecek. 
+     Kullanım hakları süresi, 25 yıldan fazla olmamak üzere belirlenecek. Yetkilendirme süreleri, şebeke ve hizmetin niteliği ile başvuru sahibinin talebi de dikkate alınmak suretiyle tespit edilecek. 
+     Kurum, elektronik haberleşme hizmetinin verilebilmesi için başvuruda bulunan gerçek ve tüzel kişilere deneme veya gösterim amaçlı geçici izin verebilecek. 
+     
+     TARİFE 
+     Tarife, her türlü elektronik haberleşme hizmetinin sunulmasında ilgili mevzuat ve düzenlemelere aykırı olmayacak şekilde işletmeciler tarafından serbestçe belirlenecek. 
+     İşletmecinin etkin piyasa gücüne sahip olduğunun belirlenmesi halinde Telekomünikasyon Kurumu, gerekli hallerde değiştirerek onaylamak dahil tarifelerin onaylanması, izlenmesi ve denetlenmesine ilişkin yöntemleri ve tarifelerin alt ve üst sınırları ile bunların uygulama usul ve esaslarını belirleyebilecek. 
+     Bir işletmenin tesislerini kamuya veya üçüncü şahıslara ait bir arazinin üzerine veya altına yerleştirebildiği veya bu tür arazileri kullanabildiği veya kamulaştırma müessesesinden yararlanabildiği hallerde kurum, çevrenin korunması, kamu sağlığı ve güvenliği, şehir ve bölge planlaması ve kaynakların etkin kullanılması gereklerini gözeterek ilgili işletmeciye söz konusu tesisleri ve araziyi makul bir bedel karşılığında diğer işletmecilerle paylaşmasına ilişkin yükümlülükler getirebilecek. 
+     Radyo ve televizyon yayınlarını da içeren her türlü yayının belirlenmiş emisyon noktalarından yapılabilmesini teminen, ortak anten sistem ve tesisleri kurulması da dahil tesis paylaşımı ve ortak yerleşimle ilgili usul ve esaslar Kurum, tarafından belirlenecek. 
+     Kurum, işletmecilerin hesaplarını inceleyebilecek veya işletmecilere hesaplarını bağımsız denetim kuruluşlarına denetletme yükümlülüğü getirebilecek. Bağımsız denetim kuruluşları, denetimlere ilişkin olarak hazırlayacakları raporlardaki yanlış ve yanıltıcı bilgi ve kanaatler nedeniyle doğabilecek zararlardan ve üçüncü kişilere verecekleri zararlardan sorumlu olacaklar. 
+     Telekomünikasyon, işletmecilere, hesap ayrımı ve maliyet muhasebesi yükümlülükleri kapsamında hazırladıkları bilgi ve belgeleri yayımlama yükümlülüğü getirebilecekler. Kurum gerekli gördüğü takdirde bu bilgi ve belgeleri kendisi de yayımlayabilecek. 
+     
+</TEXT>
+</DOC>

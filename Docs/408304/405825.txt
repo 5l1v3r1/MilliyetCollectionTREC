@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 405825 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/22/son/sonyas18.html </URL>
+<DATE> 2005/12/22/ </DATE>
+<TIME> 15.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft'a günlük 2 milyon avro ceza geliyor 
+</HEADLINE>
+<TEXT>
+
+     AB, rekabet kurallarını ihlal etmemesi için yazılım devi Microsoft'a 25 Ocak'a kadar süre tanıdı. Bu süreçte gerekli şartlar yerine getirilmezse günlük 2 milyon avro ceza uygulanması gündeme gelecek. 
+     Microsoft'tan yazılımlarıyla ilgili rakip şirketlere daha fazla bilgi akışı sağlamasını isteyen AB Komisyonu'nun rekabetten sorumlu üyesi Neelie Kroes, ''Yükümlülüklerini yerine getirmesi için şirkete her türlü fırsatı sunduk. Buna karşın, yasal yolu izlemekten başka çare bulamadık'' dedi. 
+     AB Komisyonu tarafından Microsoft'a gönderilen ve başlangıç tarihi 15 Aralık olarak belirlenen iddianame belgesinde, pazar hakimiyetinin olduğu programlarda bazı yazılım bilgilerini paylaşması ve video oynatıcılarına benzer entegre programların Windows ve server programlarıyla birlikte çalışabilmesine mantıklı bir süre içinde olanak sağlanması isteniyor. Belgede Microsoft'a tam uyum için 5 hafta süre tanınıyor. 
+     AB Komisyonu, pazar hakimiyetini kötüye kullanarak rekabet kurallarını ihlal ettiği gerekçesiyle geçen yıl mart ayında Microsoft'a 497 milyon avro ceza vermişti. 
+     Söz konusu kararda Microsoft'un ayrıca Windows işletim sistemini Media Player yazılımından ayırması ve diğer yazılım şirketlerine işletim sistemleriyle ilgili gerekli bilgilerin verilmesi istenmişti. 
+     Microsoft ise AB Komisyonu'nun aldığı karara uygun davrandığını iddia ediyor. 
+     
+</TEXT>
+</DOC>

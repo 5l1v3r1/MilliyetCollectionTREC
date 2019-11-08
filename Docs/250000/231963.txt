@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 231963 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/16/son/sondun36.html </URL>
+<DATE> 2004/04/16/ </DATE>
+<TIME> 15.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Polis, internet iletişimini kontrol altına alıyor... 
+</HEADLINE>
+<TEXT>
+
+     Belçika Federal Polisi, gelecek haftadan itibaren internet iletişim ağlarını ''dinlemeye'' ve kontrol etmeye başlayacağını duyurdu. 
+     Güvenlik yetkilileri, internet kanalıyla gerçekleşen suçlarla mücadele amaçlı kurulan CCU Computer Crime Unit isimli birimin, ilk aşamada, internet hizmeti veren Belgacom şirketinin hatlarını izlemeye alacağını, daha sonra tüm şirketlerin sistemlerine kontrol uygulanacağını bildirdiler. 
+     İsrailli bir firmanın oluşturduğu ''Necetrack'' isimli bir sistemi kullanacak CCU, gerekli gördüğü kişilerin e-posta mesajlarını, internet konuşmalarını ve girdiği siteleri izleyecek ve bunların kopyalarını alabilecek. 
+     CCU'nun, Belçika'daki tüm internet haberleşmelerini ''tarayacağı'' ve izleyeceği ileri sürülürken polis açıklamasında, ''sadece gerekli görülen kişilerin'' hedef alınacağı belirtildi ve ilk aşamada ''deneyler'' yapılacağı ifade edildi. 
+     Polis açıklamasında, yapılacak denemelerin sonuçlarının incelenmesinin ardından, uygulamanın Belçika'daki diğer tüm internet hizmet sunucularının sistemlerinde de yapılacağı, firmalar arasında bir ayırım olmayacağı, internet kontrol ve izlemelerinin ''adli makamlardan alınacak yetkiyle'' gerçekleştirileceği kaydedildi. 
+     Polis, bu uygulamanın internet kullanıcılarını huzursuzluğa yöneltmemesi gerektiğini, hedefin suç ve terör örgütleriyle sübyancılar olduğunu anlattı. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 350341 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/09/son/soneko46.html </URL>
+<DATE> 2005/06/09/ </DATE>
+<TIME> 15.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Fiat ve GM'nin "1.3 litre Multijet"i yılın motoru seçildi... 
+</HEADLINE>
+<TEXT>
+
+     Uluslararası Yılın Motoru Jürisi, 1.0-1.4 litre kategorisinde Fiat ve GM tarafından üretilen 1.3 litre Multijet turbodiesel motoru 2005 yılının motoru seçti. 
+     Fiat'tan yapılan açıklamaya göre, 1.3 Polonya yapımı common rail diesel motorun özelliklerini içeren multijet teknolojisi, Fiat Araştırma Merkezi tarafından geliştirildi. MultiJet ana enjeksiyonu elektronik kontrol aracılığıyla daha küçük parçalara bölerek daha sessiz yanma, düşük emisyon ve daha yüksek performans sağlıyor. 
+     Daha hafif ve kompakt bir mimariye de sahip bulunan motorun, böylelikle pek çok değişik araçta kullanılabilecek esnekliğe sahip olduğu belirtildi. 
+     26 ülkeden motor konusunda uzmanlaşmış 56 gazeteciden oluşan Uluslararası Yılın Motoru Jürisi kararını verirken birden fazla ülkede satışa sunulan araçların tümünün motorlarını inceledi. 
+     Yarışmaya katılan liste, son bir yılda pazara sürülen yaklaşık 60 yeni motoru içeriyor. 
+     
+</TEXT>
+</DOC>

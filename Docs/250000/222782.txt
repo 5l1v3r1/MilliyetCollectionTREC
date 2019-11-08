@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 222782 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/16/son/soneko23.html </URL>
+<DATE> 2004/03/16/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Gümrüklere akıllı kart sistemi geliyor... 
+</HEADLINE>
+<TEXT>
+
+     Devlet Bakanı Kürşad Tüzmen, Akıllı Kart Sistemini gümrüklere getireceklerini belirtirken, bu sistemle gümrük sahası içinde nakit para kullanımını ortadan kaldıracaklarını bildirdi. 
+     Tüzmen, gümrüklerde Akıllı Kart uygulaması ile ilgili düzenlediği basın toplantısında, uygulama ile giriş çıkışlarda kolaylık sağlayacaklarını, bürokrasiyi ortadan kaldıracaklarını ve gümrük sahası içersinde nakit para kullanımını ortadan kaldıracaklarını kaydetti. 
+     Nakit para kullanımının çeşitli suiistimallere neden olduğunu anlatan Tüzmen, uygulama ile gümrük sahasında nakit para kullanılmayacağı için, suiistimallerin de ortadan kalkacağını söyledi. 
+     Bakan Tüzmen, Akıllı Kart uygulamasının tamamiyle kendi yaptıkları çalışmalar ile oluşturulan bir sistem olduğunu da belirtti. 
+     
+     e-TİCARET 
+     Tüzmen, e-ticaret kavramına da değinirken, Elektronik İmza Yasası'nın çıktığını ve yönetmeliklerde çıktıktan sonra bütünüyle gümrük idarelerinde ıslak imzanın ortadan kalkacağını söyledi. 
+     Gümrük idarelerini yasal ticaretler için en kolay, yasadışı ticaret için en zor gümrükler haline getirmek için çalıştıklarını kaydeden Tüzmen, AB müktesebatına uyum çalışmaları, yap-işlet-devret modelleri ile gümrük kapılarının yenilenmesi, gümrüklerdeki işlemlerle ilgili onaylanmış kişiden sonra, Uzakdoğu'dan ithalata engel olmak için çalışmalar yaptıklarını da kaydetti. 
+     Son zamanlarda attıkları teknolojik adımlarla çok ciddi yol aldıklarını belirten Tüzmen, 67 gümrük idaresinde, yüzde 99.5 oranında otomasyona geçildiğini, ofisten yapılan gümrük işlemlerinde de yüzde 60 oranında otomasyona ulaşıldığını söyledi. 
+     Gümrüklerin otomasyona geçmesi ile gümrük veri ambarının güv-as oluşturulduğunu ve risk analizlerinden, performans ölçümlerine kadar bütün konularda her türlü işlemi yapabilir hale gelindiğini anlatan Tüzmen, ''Bu Türkiye'de dış ticaret ve gümrüğün hafızasının artık oluşmuş olmasıdır'' dedi. 
+     Güv-as'ı internet ortamına da açmayı düşündüklerini belirten Tüsmen, bu sistemin karar verme mekanizmalarında çok daha iyi noktaya gelmeyi sağlayacağını ve aynı şekilde Uzakdoğu'dan yapılan ithalatı da gününe güne izlemek açısından kolaylık sağlayacağını söyledi. 
+     Tüzmen, 2002 yılında kaçak yakalama değerlerinde, yüzde 130 oranında bir artış sağlandığını ve 330 trilyon liraya yükseldiğini, 2003'de de bir önceki yıla göre yüzde 30-40 oranında artış sağlandığını sözlerine ekledi. 
+     
+     SORULAR 
+     Tüzmen, Akıllı Kart uygulamasına ne zaman geçileceğine ilişkin soru üzerine, altyapı hazırlarını bitirdikten sonra, 3 ay içersinde ön pilot uygulamasının başlatılacağını bildirdi. Tüzmen, ''Esas bunu 2005'de uygulamaya sokmak üzere geliştiriyorduk ama daha da hızlandıracağız'' dedi. 
+     Zaman tasarrufu ile ilgili bir soru üzerine de ortalama zamanın en az yarıya indirileceğini belirten Tüzmen, maliyet analizi ile ilgili bir başka soru üzerine de altyapı çalışmaları için AB'den 5.8 milyon dolar kaynak kullanılacağını bildirdi. 
+     Toplantının ardından Gümrük Müsteşarlığı yetkilileri, Gümrük Kapıları Güvenlik Sistemleri Projesi güm-sis , Gümrük Veri Ambarı Sistemi güv-as ve Akıllı Kart uygulaması ile ilgili bilgiler verdiler. 
+     Güm-sis ile 2003 yılında toplam 111 trilyon 400 milyar değerinde uyuşturucu yakalamasının yapıldığını kaydeden yetkililer, projenin maliyetinin ise 7 trilyon lira olduğunu söylediler. 
+     Öte yandan Gümrük Müsteşarı Nevzat Saygılıoğlu, Mayıs ayından itibaren Uzakdoğu'dan ithalat yapan 424 firma üzerinde inceleme başlatıldığını ve 75 firmanın incelemesinin bittiğini, bunun sonucunda 2 trilyon lira tutarında gümrük vergisi ve KDV kaybı olduğunun belirlendiğini söyledi. 
+     Saygılıoğlu, 6 trilyon lira tutarında para cezasının tebliğ edildiğini de sözlerine ekledi. 
+     
+</TEXT>
+</DOC>

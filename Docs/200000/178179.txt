@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 178179 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/26/son/sondun07.html </URL>
+<DATE> 2003/08/26/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternet uçaklardan sonra artık trenlerde... 
+</HEADLINE>
+<TEXT>
+
+     ABD'de İnternet uçaklardan sonra trenlere de girdi. Trenlerin uydu aracılığıyla internet bağlantısı kuracakları belirtiliyor. 
+     Bu olanaktan ilk yararlanacak tren yolcuları Silicon vadisinde oturan bilgisayar kullanıcıları olacak. 
+     Yetkililer eylül başından itibaren trenlerde kablosuz iletişim Wi-Fi sağlanacağını ve yolcuların, tren hareket halindeyken dizüstü bilgisayarlarıyla internete girebileceklerini söylediler. 
+     Kısaca ACE olarak adlandırılan Altamont ekspresinde yolcular, ilk 3 aylık deneme süresi içinde internete bağlanmak için herhangi bir ücret ödemeyecekler. Deneme süresi sona erdikten sonra ne kadar ücret ödeneceği ise ileride saptanacak. 
+     ACE trenleriyle her gün Stockton ile San Jose arasında 1300 yolcunun gidip-geldiği, çoğu teknoloji kuruluşlarında çalışan ya da iş dünyasında görev yapan bu kişilerin sürekli laptop kullandıkları belirtiliyor. 
+     
+</TEXT>
+</DOC>

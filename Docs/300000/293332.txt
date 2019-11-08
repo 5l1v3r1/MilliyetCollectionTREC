@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 293332 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/30/son/sondun13.html </URL>
+<DATE> 2004/11/30/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones düştü, Nasdaq yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası'nda Dow Jones endeksi günü düşüşle, Nasdaq endeksi yükselişle kapattı. 
+     Borsanın temel göstergesi Dow Jones 46.92 puan düşerek 10,475.31'den kapandı. 
+     Teknoloji şirketlerinin hisse senetlerinin işlem gördüğü Nasdaq ise 4.90 puan yükselişle 2,106.87'ye çıktı. 
+     
+</TEXT>
+</DOC>

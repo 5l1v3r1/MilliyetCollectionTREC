@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 363518 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/22/son/sonyas02.html </URL>
+<DATE> 2005/07/22/ </DATE>
+<TIME> 10.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Mars'ta çok uzun süreden beri sıvı yok .. 
+</HEADLINE>
+<TEXT>
+
+     Mars meteorlarının incelenmesi sonucu, Kızıl Gezegen'de çok uzun süreden beri sıvı olmadığı teorisi ileri sürüldü. 
+     ABD'de yapılan araştırmada, Mars'ın bazı bölgelerinde sıcaklığın milyarlarca yıl sıfır dereceye yakın olduğu belirlenirken, bu sıcaklığın sıvı haldeki suyun uzun süre kalmasına izin vermeyeceği görüşü dile getirildi. 
+     California Institute of Technology ve Massachusetts Institute of Technology üniversitelerince yapılan araştırmada, meteorlar üzerinde yapılan sıcaklığa hassas argon gazı ölçümlerinde, meteorların, ''nahlit'' adı verilen kayalarının kristalize hale geldiği 2 ila 4 milyar yıldan bu yana sıfır derecenin üzerinde sıcaklığa maruz kalmadıkları tespit edildi. 
+     Araştırmalarındaki bulguları Science dergisinin bugün yayımlanan sayısında da dile getiren bilim insanları, son 2 ila 4 milyar yılda Mars gezegeninin yüzeyinde sıvı halde suyun muhtemelen bulunmadığını belirttiler. 
+     Bilim adamlarının Mars'ta uzun süre suyun bulunduğu şeklindeki yaygın görüşlerine karşı gelen bu yeni teoride, meteorların kayalıklarına verilen ''nahlit'' adı, meteorların bulunduğu Mısır'daki El Nahlaa'dan geliyor. 
+     
+</TEXT>
+</DOC>

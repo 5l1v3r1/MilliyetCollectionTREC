@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 206514 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/05/son/sondun01.html </URL>
+<DATE> 2004/01/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+"Spam" listesinin başında Viagra var... 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın en büyük internet hizmeti sağlayan kuruluşu America on Line AOL , 2003 yılında en fazla ''spam'' çöp mektup gönderenlerin kullandıkları anahtar kelimelerin listesini yayınladı. 
+     Bunların başında ''Viagra'', ''En düşük ipotek faizi'', ''XXX Eylem'' porno siteler , ''Oprah'ın Winfrey programında gördüğünüz gibi'' kelimeleri bulunuyor. 
+     Diğer çok kullanılan ''anahtar kelimeler'' arasında ise şunlar yer alıyor 
+     ''İnternet eczanesi'', ''Daha büyük'', ''İnternetten diploma'', ''En düşük sigorta primleri'', ''Evde çalışmak isteyenlere iş'' ve ''Borçtan kurtulun''. 
+     Kısaca ''spam'' olarak adlandırılan çöp mektuplar, internetin en kötü yanı olarak nitelendiriliyor ve özel kuruluşların yanı sıra Amerikan hükümeti de bunun önüne geçmek için yöntemler geliştiriyor. Özel firmaların uyguladıkları yöntemler arasında çöp mektupların adres ve içerdikleri kelimeler esas alınarak filtre edilmeleri ve engellenmeleri bulunuyor. 
+     Sadece AOL'in 2003 yılı içinde yarım milyar ''spam''i bloke ettiği açıklandı. Bu, abone başına günde yaklaşık 40 mesaj anlamına geliyor. 
+     AOL, günlük eletronik posta trafiğinin yüzde 75-80'ini ''spam''in oluşturduğunu da açıkladı. 
+     Buna karşılık ''spam'' gönderen kişi ve kuruluşların da kendi çaplarında önlem geliştirdikleri gözleniyor. Bunlar arasında anahtar kelimlerin ufak yanlışlarla yazılması Viarga , harfler arasına nokta v.i.a.g.r.a ya da rakam konulması viag2ra gibi yöntemler bulunuyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 322839 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/11/son/soneko02.html </URL>
+<DATE> 2005/03/11/ </DATE>
+<TIME> 02.11 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New Yor borsasında Dow Jones yükseldi, NASDAQ düştü... 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Borsası'nda Dow Jones endeksi yüseldi, Nasdaq endeksi düştü. 
+     Borsanın temel göstergesi Dow Jones, 45.89 puan artarak 10,851.51'a çıktı. Teknoloji endeksi Nasdaq ise 1.57 puan düşüşle 2,059.72 puana indi. 
+     
+</TEXT>
+</DOC>

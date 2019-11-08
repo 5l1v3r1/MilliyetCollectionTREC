@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 180261 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/04/son/soneko04.html </URL>
+<DATE> 2003/09/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     New York borsası, günü yükselişle tamamladı. 
+     Borsanın temel göstergesi Dow Jones endeksi 45.19 puan yükselerek, 9,568.46 puandan kapandı. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq bileşik endeksi, 11.42 puanlık yükselişle 1,852.90 puandan günü tamamladı. 
+     
+     TOKYO BORSASI 
+
+     Tokyo Borsası'nda ise Nikkei Endeksi , 68.74 puan düşerek 10,646.95 puandan günü kapattı. 
+     Aynı borsada ABD Doları Japon Yeni karşısında 0.76 yen değer kazanarak 116.82 yene çıktı. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 181232 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/09/son/sondun25.html </URL>
+<DATE> 2003/09/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sigara ve uyuşturucu aşısı deneniyor.. 
+</HEADLINE>
+<TEXT>
+
+     İngiltere'de bilim adamlarının nikotin bağımlılığına karşı geliştirdikleri bir aşının denemesini yaptıkları açıklandı. 
+     Salford Üniversitesi Bilim Festivali sırasında geliştirdikleri aşıyı bilim dünyasına tanıtan merkezi Cambridge'deki Xenova biyoteknik firmasına mensup bilim adamları, aşının sadece nikotin değil, aynı zamanda kokain gibi uyuşturucuların da beyne ulaşmasını ve bağımlılık yaratmasını engellediğini bildirdi. 
+     Yapılan ilk denemeler sırasında ilacın istenen güvenlik ölçütlerini karşıladığı, yakında da ayrıntılı klinik deneylerin başlayacağı belirtildi. 
+     Aşının vücuttaki bağışıklık sistemini harekete geçirerek, sistemin antikor üretmesini sağladığını belirten bilim adamları, antikorların da kokain ya da nikotinin kan dolaşımı yoluyla insan beynine ulaşmasını engellediğini savunuyor. 
+     Nikotin ya da kokainin beyne gitmesini engellemeleri halinde, bağımlının yeniden bu maddeleri tüketme isteğinde bulunmayacağına inanan bilim adamları, bütün denemelerin olumlu sonuç vermesi halinde aşının gelecek yıllarda piyasaya sürülebileceğini söylediler. 
+     
+</TEXT>
+</DOC>

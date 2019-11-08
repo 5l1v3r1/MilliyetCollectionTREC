@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 228801 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/06/ekonomi/eko08.html </URL>
+<DATE> 2004/04/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Arçelik'e ABD'den mükemmellik ödülü 
+</HEADLINE>
+<TEXT>
+
+   Kurutma makinelerinde zaman ve enerji tasarrufu sağlayan tasarım Arçelik'e mükemmellik ödülü getirdi 
+   
+   Arçelik, ABD'de düzenlenen 55. Uluslararası Ev Cihazları Teknik Konferansı'nda IATC "Mükemmellik Ödülü" aldı. 
+   Kurutma makinelerinde kullanılan hava kanallarının tasarım metodolojisi ve sayısal analizi konulu çalışmasından ötürü Arçelik ödüle layık görüldü. Ödüllü çalışma, Arçelik Araştırma ve Teknoloji Merkezi'nden Dr. Kemal Sarıoğlu, Levent Akdağ, Deniz Şeker ve Ewald Weber tarafından gerçekleştirildi. Weber, "Çalışmada kurutucu içindeki hava akışını, bilgisayar ortamında hesaplamalı akışkanlar dinamiği ile modelleyerek optimize etme yöntemini anlatıyoruz. Zaman ve enerji tasarruf sağlama yollarını oluşturuyoruz" dedi. 
+   
+   
+</TEXT>
+</DOC>

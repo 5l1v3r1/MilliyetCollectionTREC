@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 223098 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/17/son/soneko13.html </URL>
+<DATE> 2004/03/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türkiye e-Dönüşüm'ün neresinde... 
+</HEADLINE>
+<TEXT>
+
+     Hükümet, e-Dönüşüm Türkiye Projesi Kısa Dönem Eylem Planı konusunda çalışmalarını sürdürürken, 84 ülke arasında yapılan ''Ülkelerin Bilgi Toplumuna Hazır Olma Durumu'' araştırmasında ilk üç sırayı Finlandiya, ABD ve Singapur paylaştı. Türkiye ise 50. sırada yer aldı. 
+     Devlet Planlama Teşkilatı tarafından hazırlanan ''e-Dönüşüm Türkiye Projesi Kısa Dönem Eylem Planı'' konulu raporundan derlenen bilgilere göre, 2002 yılında sabit telefon abonesi sayısı 18 milyon 900 binden 18 milyon 800 bine düştü. 
+     Bu çerçevede, Türkiye'de 2002 yılında 100 kişiye düşen bilgisayar kullanımı sayısı 4.1'de kalırken, İnternet kullanımda yüzde 7.3 ile Türkiye, aday ülkeler arasında son sıralarda yer aldı. 
+     Araştırmada ülke sıralaması yapılırken, 'teknik altyapı göstergeleri kadar, ülkelerin hizmet sunumu ve geliştirmesindeki durumu, teknoloji üretme yetenekleri, insan sermayesi, hukuki düzenlemeler' gibi pek çok kriterin kullanıldığı kaydedildi. 
+     Değerlendirmeye alınan 84 ülke arasında Türkiye 50. sırada yer aldı. 
+     
+     İNTERNET KULLANICI SAYISI 
+
+     Rapora göre Türkiye Bilgi ve İletişim Teknolojileri BİT pazarı 2002 yılında, önceki yıla göre yüzde 12 oranında büyüdü ve yüzde 9.2 milyar dolar seviyesine ulaştı. Bu rakamın, 2003 yılında ise yüzde 12 artışla 10.3 milyar dolara ulaştığı tahmin ediliyor. 
+     Bu pazarın yüzde 8.5 milyar dolarlık kısmı yüzde 83 telekomünikasyon sektörü, geri kalanı 1.8 milyar dolarlık kısmı ise yüzde 17 bilgi teknolojilerinden oluşuyor. 
+     Bilgi ve bilişim teknolojileri alanında önemli temel göstergeler olarak kabul edilen 'sabit telefon, mobil telefon ve internet kullanıcılığına' bakıldığında, 2002 yılı itibarıyla AB üyesi ülkelerdeki sabit telefon yoğunluğu yüzde 78.8, AB'ye aday ülkelerde yüzde 50.8, Türkiye'de ise yüzde 33.3 oldu. 
+     İnternet kullanılıcılığı sıralamasında ise AB üyesi ülkeler yüzde 35.7'i ile ilk sırada yer alırken, aday ülkelerde yüzde 14, Türkiye'de ise yüzde 7.3'de kaldı. 
+     
+     TÜRKİYE'DEKİ YERLEŞİK YABANCILARA TEK KİMLİK NUMARASI 
+
+     Öte yandan Hükümet, ''e-Dönüşüm Türkiye Projesi Kısa Dönem Eylem Planı'' çerçevesinde yapılmış ve yapılacak toplam 73 adet eylemi belirlerken, bunların bir kısmı 2003 yılında gerçekleştirildi, bir kısmının da 2004 yılında gerçekleştirilmesi planlanıyor. 
+     Bu çerçevede, ''bilgi toplumu stratejisi, internet altyapısını geliştirilmesi, 3. nesil mobil telekomünikasyon hizmetlerine ilişkin hazırlık çalışmalarının yapılması, Akıllı Kart standartları ve güvenlik test standartlarının yapılması, ''Bir okulu dünyaya aç internet bağla kampanyası'', Elektronik İmza Kanunun çıkartılması, Ulusal Bilgi Güvenliği Kanunun çıkarılması, Türk Ceza Kanunun çıkarılması, Bilgi Edinme Hakkı Kanunun çıkartılması, e-ticaret için uygun ortamın oluşturulması, Yeni Telekomünikasyon Kanunun çıkartılması, vergi vatandaşlık ve sosyal güvenlik vb numaralarının birleştirilmesi, tüzel kişilerin tek numarada birleştirilmesi, adres kayıt sisteminin entegrasyonun sağlaması, Türkiye'de yerleşik yabancılara tek kimlik numarası verilmesi, kimlik paylaşım sistemi, tarım bilgi sistemi oluşturulması, kan ve kan ürünleri barkot etiketleme standardlarına uyulması, elektronik hasta kayıt sistemi, şirket sicil kayıt isteminin oluşturulması, ortak e -ticaret bilgi havuzunun oluşturulması ve dış ticarette e- belgenin uluslararası dolaşımının sağlanması'' gibi çalışmaların yer aldığı toplam 73 eylem bulunuyor. 
+
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 102102 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/08/15/son/sontur08.html </URL>
+<DATE> 2002/08/15/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sakın aldanmayın... İnternette bedava kontör dolandırıcılığı... 
+</HEADLINE>
+<TEXT>
+
+     İnternette GSM abonelerine bedava cep telefonu kontörü vaat eden sitelerin, kontör vermediği gibi 900'lü hatlar aracılığıyla kullanıcılara yüklü telefon faturası gelmesine neden olduğu belirtildi. 
+     Türk İnternet Birliği Girişimi Kurucu Üyesi, Eğitimci-Yazar Hakan Topuzoğlu, son günlerde internet kullanıcılarına ''şifre kırıldı. Bedava 1000 kontör'' başlığı altında e-postalar geldiğini kaydetti. 
+     Bu mesajları okuyup adresleri verilen internet sitelerine giren kişilerin, ''Uzun çalışmalar sonunda GSM sistemlerinin kontör sistemini çözdük, kontör şifresi veren programı hazırladık'' aldatmacasıyla karşılaştıklarını anlatan Topuzoğlu, şunları söyledi 
+     ''Gösterilen programı çalıştırmaları istenen internet kullanıcıları, programa girmeleri durumunda günde yüzlerce kişiye kontör verdiğimiz için bazen tıkanma olabiliyor. Şifrenin çıkması beş dakika alabilir mesajı ile karşılaşıyor. Bu program, gerçekte internet bağlantısını kesip, 900'lü hatlara bağlanan bir program. Bu sitelere girenler, bedava kontör alamadıkları gibi internette kullandıkları telefonlarına yüklü fatura gelmesine davetiye çıkarıyorlar. Yani ava giderken, farkında olmadan avlanıyorlar.'' Topuzoğlu, internet kullanıcılarına, tanımadıkları kişilerden gelen iletilere kanmamalarını önererek, ''Tanıdığınız kişiden bile olsa, şüpheli e-postaları açmayın. Kullanıcının isteği dışında adres defterine otomatik olarak e-posta gönderebilen virüsler de ne yazık ki bulunuyor'' dedi. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

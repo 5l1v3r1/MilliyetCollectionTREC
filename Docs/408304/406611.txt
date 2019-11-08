@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> 406611 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/26/yazar/oztrak.html </URL>
+<DATE> 2005/12/26/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Faik ÖZTRAK  </AUTHOR>
+<HEADLINE>
+İmalat sanayiinde ücretler ve rekabet gücü 
+</HEADLINE>
+<TEXT>
+
+
+Türkiye İstatistik Kurumu TÜİK tarafından yayımlanan imalat sanayiinde aylık brüt kazanç verileri bu sektörde yaşananlara ışık tutuyor. Aylık brüt kazanç imalat sanayiinde çalışan bir kişinin aldığı brüt ücret, sosyal yardım ödemeleri, fazla çalışma ücreti, ikramiyeler ve diğer ödemelerin toplamını gösteriyor. Bu aynı zamanda imalat sanayiinde işgücünün ortalama maliyeti olarak da görülebilir. 
+Aylık çalışan başına ortalama kazanç 2003 yılının birinci çeyreğinden bu yılın üçüncü çeyreğine kadar yüzde 31 oranında artmış. Aynı dönemde TÜFE yüzde 22, üretimde çalışan başına üretim de yüzde 27 civarında artmış. Bu durum YTL cinsinden ücret artışlarının bu dönemde reel olarak TÜFE artışı düşüldükten sonra , verimlilik artışının oldukça altında gerçekleştiğini gösteriyor. Yani yüksek verimlilik artışları çalışanların refahına çok az yansımış. 
+
+
+
+Grafik'1 de YTL cinsinden kazançla birlikte dolar ve euro cinsinden kazançlardaki gelişmeler endeks bazında yer alıyor. 
+Euro cinsinden kazançların 2003 yılında YTL kazançların üzerinde arttığı, daha sonra her iki para cinsinden kazançların aynı seviyeye geldiği görülüyor. 2005 yılından itibaren ise euro cinsinden ifade edilen kazançlar yeniden YTL kazançların üstüne çıkıyor. Dönemin tamamında dolar cinsinden kazançlar diğerlerinin çok üstüne çıkıyor. 
+
+
+
+YTL'nin değeri... 
+İkinci grafikte kazançlar çalışan başına üretim artışına bölünerek hesaplanıyor. Bu aynı zamanda bir birimlik üretim için işgücüne yapılan ödemeyi gösteriyor. Bu gösterge hem rekabet gücünü ölçmek, hem de YTL'nin aşırı değerli olup olmadığını anlamak bakımından önemli. 
+Burada da cinsinden ödemelerin euro ve YTL cinsinden ödemelerin çok üstünde arttığını görüyoruz. Bu yılın başından itibaren ise euro cinsinden ödemelerin, YTL ödemeler üzerine çıkması dikkat çekiyor. 
+Bu durum Türkiye'de imalat sanayiinin dönem boyunca kullanan ülkelerle yapılan ithalat ve ihracat karşısında rekabette giderek zorlandığını gösteriyor. Euro bölgesi ile ticarette ise daha rahat iken bu sene başından itibaren durumun burada da bozulmaya başladığı görülüyor. 
+Bu YTL cinsinden ücret artışlarının yol açtığı bir sorun değil. Nitekim YTL cinsinden reel ücretleri verimliliğe bölerek elde ettiğimiz endeks değeri 2003 başında 100 iken bu yılın üçüncü çeyreğinde 85 seviyesine geriliyor. Bu aynı zamanda enflasyonu aşağı çekmekte işgücü verimliliğindeki artışın önemli katkı yaptığını gösteriyor. 
+
+İstihdam azalıyor 
+Dönem boyunca çalışanlar aşırı ücret artışı almıyorlar. Hatta adam başına üretim artarken bunu ücretlerine yansıtmıyorlar. Ürettikleri mal başına daha az reel kazanç sağlamaya razı oluyorlar. İşverenler teknolojik yenilenmeye ağırlık vererek işyeri verimliliğini artırıyorlar. Yetmiyor, üretimde makine kullanımını artırarak çalışan sayısını azaltıyorlar. 
+Bütün bu çabalara rağmen üretimde kullanılan ithal mal, yerli malın yerini almaya devam ediyor. Üretim artışı yavaşlıyor. İmalat sanayiinde istihdam azalıyor. Bazı firmalar kapanma noktasına geliyor. İhracat yavaşlıyor ithalat ise üretimden çok daha hızlı artıyor. Dış ticaret açığı ve dışarıdan borçlanma ihtiyacı yükseliyor. 
+Bütün bunların arkasında YTL'nin de dolar karşısında değer kazanması ve özellikle sene başından itibaren de doların euro karşısında değer kazanması sonucunda, imalat sanayiinin birim üretimde işgücü maliyeti bazında, dünyada hem euro hem de dolar bölgeleri karşısında kan kaybetmesi var. 
+Buna rağmen finansal kazançlara odaklanmış kesimler şirketlerin borsada artan değerlerine bakıp işler iyi gidiyor aman işleri bozmayın diyebiliyor. Oysa sermaye hareketleri yönetilmiyor, maliye politikası rekabeti artırmaya bir türlü odaklanmıyor. Üretemeyen şirketlerin ve işsizliğin yaygınlaştığı, dış borçlanma ihtiyacının arttığı bir ekonomide şirketlerin değerinin ileride nerelere düşeceği görülmüyor. 
+
+
+
+</TEXT>
+</DOC>

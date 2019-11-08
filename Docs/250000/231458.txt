@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 231458 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/14/son/sonyas10.html </URL>
+<DATE> 2004/04/14/ </DATE>
+<TIME> 10.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hotmail, com.tr olacak 
+</HEADLINE>
+<TEXT>
+
+     Microsoft, dünyanın en fazla kullanılan mail hesaplarından Hotmail'i, ülke uzantısı ''tr'' ile Türkiye'ye getiriyor. ''Hotmail.com.tr'' uzantılı hesapların, Türkiye'de ön ödemeli kartlarla 1 dolar düzeyinde satışa sunulması planlanıyor. 
+     AA muhabirinin Microsoft yetkililerinden aldığı bilgiye göre, Microsoft, Hotmail'in geliştirilmiş ve kapasitesi yükseltilmiş Türkçe versiyonunu yaz aylarında Türkiye'de kullanıma açacak. Bugüne kadar sadece ''com'' uzantısıyla dünyanın çeşitli ülkelerinden kullanıcılara mail hesapları veren Microsoft, artık Türkiye'de ''tr'' ekleyerek ''hotmail.com.tr'' uzantılı mail adresleri vermeye başlayacak. 
+     İnternet pazarını geliştirici bir hamle olarak nitelendirilen bu yeniliği Microsoft'un Türkiye'deki internet servis sağlayıcılarıyla rekabet etme amacıyla hazırlamadığı belirtildi. 
+     Microsoft, ''tr'' uzantılı hotmail hesaplarını ücret karşılığında Türkiye'de kullanıma sunmayı planlıyor. Aylık 1 dolar düzeyinde düşünülen abonelik bedelinin henüz kesinleşmediği öğrenildi. Microsoft, abonelik sisteminde kredi kartı yerine, faturasız cep telefonu hatlarındaki uygulamaya benzer ön ödemeli kart sistemini kullanacak. Yaygın bir şekilde dağıtılması planlanan ön ödemeli kartları satın alacak kullanıcılar, karttaki bilgilerle ''hotmail.com.tr'' hesabı açarak, mailboxlarını kullanabilecekler. 
+     Öte yandan Microsoft, MSN Messenger ve MSN portalini de Türkçe olarak düzenleyecek ve portalde Türkiye'ye ilişkin haberler ile güncel bilgiler yer alacak. 
+
+     
+</TEXT>
+</DOC>

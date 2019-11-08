@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 115033 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/10/25/son/sondun09.html </URL>
+<DATE> 2002/10/25/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD-Irak savaşı sanal ortamda başladı 
+</HEADLINE>
+<TEXT>
+
+     Tüm dünya ABD'nin Irak'a ne zaman saldıracağını tartıştığı şu günlerde, sanal ortamda ABD-Irak savaşı çoktan başladı. 
+     Amerika'da genelde bağımsız hareket eden siber korsanlar, Yeraltı Lejyonerleri Legions of the Underground -LoU adı altında toplanarak, Irak'ın bilgi ve iletişim ağlarına nasıl zarar verebilecekleri konusunda tartışmaya başladılar. ABD'nin önde gelen siber gruplarından L0pht, Chaos Computer Club, ve the Cult of the Dead Cow'u da bünyesinde toplayan LoU ekibi, Irak'taki her türlü bilgi ve enformasyon ağına saldırı başlattı. 
+     
+     RUSLARDAN IRAKLILARA DESTEK 
+     ABD'nin saldırısına yine sanal ortamda yanıt veren Iraklı siber korsanlar ise diğer Müslüman ülkelerin korsanlarının yanısıra özellikle Rusya'daki bilişimcilerden de önemli destek görüyor. Iraklı korsanların asıl hedefleri ABD ve İngiltere'nin askeri ve finans altyapısı. Bilişim analistlerine göre, milyonlarca dolarlık güvenlik sistemleriyle donatılmış sitelere yapılan bu saldırıların tam anlamıyla başarıya ulaşabilmesi için "içeriden destek verilmesi" gerekiyor. Bilişim analistleri, Iraklı korsanların saldırısını "Tanka saldıran güvercin" olarak nitelendiriyorlar. 
+     İşin ilginç kısmı Iraklı siber korsanlar, planlarını diğer destekleyicileriyle ABD'den yayın yapan küresel web sitelerinin gruplarında tartışıyorlar. Sık sık grup değiştiren korsanları takip etmek ise oldukça güç. 
+     İstatiksel açıdan bakıldığı zaman batının saldırıları daha fazla. Bunun en önemli nedeni de ABD'nin İsrail ve İngiliz yazılımcılardan da destek görüyor olması. Hem Batılı hem de Doğulu korsanlar hedef belirledikten sonra aynı anda saldırı gerçekleştiriyor ve sistemleri devre dışı bırakmaya çalışıyor. Saldırıya uğrayan ve sistemi bozulan kuruluş ise prestij kaybı düşüncesiyle bunu açıklamıyor. 
+     
+     İSRAİL-FİLİSİTİN ARASINDA DA SÜRÜYOR 
+     Bilişim analistleri, ABD'nin Irak'a yapacağı operasyonun yaklaşması ile birlikte, bu durumu destekleyen ya da tepki duyan hackerların saldırılarını yoğunlaştıracaklarını tahmin ediyorlar. 
+     ABD-Irak sanal savaşının bir benzeri de İsrail-Filistin arasında sürüyor. Filistinli siber korsanlar, ABD'deki en büyük Yahudi lobby kuruluşlarından "The American-Israeli Public Affairs Committee"nin Aipac sitesini çökertmeyi başarmışlar ve Yahudi işadamlarının bilgi ve belgelerine ulaşmışlardı. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

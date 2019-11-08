@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 252139 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/01/son/soneko03.html </URL>
+<DATE> 2004/07/01/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+FED, faiz oranını 0.25 puan yükseltti... 
+</HEADLINE>
+<TEXT>
+
+     ABD Merkez Bankası FED , bugünkü toplantısı sonrasında, beklendiği gibi kısa vadeli faiz oranını yüzde 0.25 puan arttırdı. 
+     Alan Greenspan başkanlığında, FED'in dün başlayan ve bugün de devam eden Açık Piyasalar Komitesi toplantısı sonucunda kısa vadeli ana faiz oranı yüzde 1.25'e çıktı. 
+     Ticari bankaların da, FED'in kararını takip ederek, kısa vadeli faiz oranlarını aynı oranda arttırması bekleniyor. 
+     FED'in dört yıldan bu yana artırmadığı faiz oranları, ABD'de son 46 yılın en düşük düzeyi olan yüzde 1 oranında bulunuyordu. 
+     FED toplantısı sonrasında, bundan sonra, faiz konusunda, gerekmesi halinde daha radikal adımların atılabileceği de vurgulandı. 
+     Açıklamada, fiyat istikrarının sağlanması amacıyla tüm gerekenlerin yapılacağı kaydedildi. 
+     Faiz oranlarının, ekonomide enflasyonu istikrar altında tutmak amacıyla arttırıldığı belirtiliyor. 
+     Ekonomistler, 0.25 puanlık bir artışın, ekonomik canlanmayı olumsuz etkilemeyeceğini, FED'in ise faiz oranlarını, yıl sonuna kadar yüzde 2 düzeyine çıkarabileceğini ifade ediyorlar. 
+     
+</TEXT>
+</DOC>

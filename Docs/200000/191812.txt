@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 191812 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/28/son/soneko03.html </URL>
+<DATE> 2003/10/28/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası'nın temel göstergesi Dow Jones, 26.15 puan yüzde 0.27 yükselerek, 9,608.61 puandan kapandı. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq da, 17.32 puanlık yüzde 0.93 artışla günü 1,882.91 puandan tamamladı. 
+     
+     TOKYO BORSASI 
+
+     Tokyo Borsası, günü yükselişle tamamladı. 
+     Borsanın temel göstergesi Nikkei Endeksi kapanışta, düne göre 1o6.89 puan artarak 10,561.01 puana çıktı. 
+     Aynı borsada ABD Doları ise Japon Yeni karşısında düne göre 0.44 yen gerileyip 108.26 puandan işlem gördü. 
+     
+</TEXT>
+</DOC>

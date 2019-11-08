@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 82783 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/05/08/son/sondun09.html </URL>
+<DATE> 2002/05/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternete kablo ile bağlantı DSL'i geride bıraktı 
+</HEADLINE>
+<TEXT>
+
+     Giderek yaygınlaşan hızlı internet bağlantısında kablo modemin, DSL telefon bağlantılarını geride bıraktığı bildirildi. 
+     Merkezi Boston'da bulunan ''The Yankee Group'' adlı araştırma kuruluşu tarafından hazırlanan rapora göre, 2001 sonu itibarıyla Amerika'da hızlı bağlantıya sahip evlerin yüzde 60'ı kablo-modem, yüzde 40'ı ise DSL kullanıyor. 
+     Kablo modem ve DSL bağlantısı sağlayan firmalar arasında bu alanda büyük bir rekabet bulunuyor. Ancak araştırmalar, kablo bağlantısının 5 yıl daha DSL'in önünde gideceğini ortaya çıkardı. Raporu kaleme alan araştırmacı İmran Khan, ''Bu alanda uydu şirketleri de rekabete dahil oldu. Fakat kablo modem bağlantısı sağlayan kuruluşlar, büyük farkla önde gidiyor'' açıklamasında bulundu. İkinci sırada DSL telefon bağlantısı bulunurken, uydu aracılığıyla hızlı bağlantı çok gerilerden geliyor. 
+     
+     HIZLI BAĞLANTI, TELEFON BAĞLANTISINI YOK EDECEK 
+     ''Yankee Group''un raporuna göre, gelişen hızlı bağlantı, yakın gelecekte telefon aracılığıyla yapılan modem bağlantılarını tamamıyla ortadan kaldıracak. Evlerinde internet bağlantısı için ikinci bir telefon hattı bulunduranların yüzde 50'si, bundan vazgeçerek hızlı bağlantı alacağını belirtti. 
+     Bu arada AOL, MSN, Earthlink ve Worldnet gibi internet hizmeti sağlayan kuruluşlar, hızlı bağlantı alanında giderek daha fazla pay almak için yarışıyor. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

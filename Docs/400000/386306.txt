@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 386306 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/13/son/sondun12.html </URL>
+<DATE> 2005/10/13/ </DATE>
+<TIME> 10.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Romanya'da kuş gribi var, AB Komisyonu ithalatı yasakladı 
+</HEADLINE>
+<TEXT>
+
+     AB Komisyonu, Romanya’da kuş gribi virüsü varlığının kanıtlandığını ve bu ülkeden kanatlı hayvan ithalatının yasaklandığını açıkladı. 
+     Komisyon tarafından yapılan yazılı açıklamada, Romanya’ya gönderilen uzmanların, bir tavuk ve bir ördek numunesi üzerinde yaptıkları tahliller sonunda "H5 kuş gribi virüsü" tespit ettikleri, bu virüsün "H5N1" türünden olup olmadığının belirlenmesi için yeni tahliller gerekeceği duyuruldu. 
+     AB Komisyonu, daha önce, Romanya’daki testlerin "negatif" sonuç verdiğini, bu ülkeden AB’ye ithalat yasağı uygulanmayacağını bildirmişti. Komisyonun bugünkü açıklamasında ise Romanya’da virüs varlığının tespit edilmesi üzerine bu ülkeye, geçen Pazartesi gününden beri Türkiye’ye uygulanan ithalat yasağının başlatılacağı ve aynı önlemlerin alınacağı belirtildi. 
+     Komisyon, bugün ayrıca, Hayvan Sağlığı ve Gıda Komitesi’nin toplanarak durum değerlendirmesi yapacağını, Türkiye’den gelen ve incelenmek üzere İngiltere’ye gönderilen numunelere ilişkin bilgilerin de beklendiğini duyurdu. 
+     
+</TEXT>
+</DOC>

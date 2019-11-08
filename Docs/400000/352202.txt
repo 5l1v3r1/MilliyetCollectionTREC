@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 352202 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/15/son/soneko30.html </URL>
+<DATE> 2005/06/15/ </DATE>
+<TIME> 13.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+BDDK'dan bankalara nakit karşılığı kredi uyarısı... 
+</HEADLINE>
+<TEXT>
+
+     Bankacılık Düzenleme ve Denetleme Kurumu BDDK , bankalar tarafından nakit karşılığı verilen kredilerde, kredinin vadesi ile rehinli olan mevduatın vadesi arasında uyumun sağlanması gerektiğini bildirdi. 
+     BDDK'nın ''nakit karşılığı kredi ve mevduat rehni'' konulu ve BDDK Başkanı Tevfik Bilgin imzalı genelgesinde, 4389 sayılı Bankalar Kanunu'nun 11. maddesinin 6 numaralı fıkrasının a bendinde, karşılığı nakit olan işlemlerin kredi sınırlamalarına tabi olmadığının belirtildiği hatırlatıldı. 
+     Genelge'de, uygulamada, özellikle hakim hissedar grubu ile yoğun bir şekilde nakit karşılığı kredi ilişkisine girdiği tespit edilen bankalarda, teminatların kaldırılması durumunda ciddi riskler oluşabileceği vurgulandı. 
+     Açıklamada, şöyle denildi 
+     ''Söz konusu bent kapsamında nakit karşılığı verilen krediden bahsedebilmek için, karşılık olarak rehinli tutulan veya temlik edilen mevduatın rehin temlik belgelerinde hangi kredi karşılığında rehinli olduğunun açıkça belirtilmesi ve kredinin vadesi boyunca söz konusu mevduatın, mevduat sahiplerinin serbest kullanımına bırakılmaması gerekmektedir. 
+     Bu çerçevede, nakit karşılığı verilen kredilerde, kredinin vadesi ile rehinli olan mevduatın vadesi arasında uyumun sağlanması gerekmektedir.'' 
+     
+</TEXT>
+</DOC>

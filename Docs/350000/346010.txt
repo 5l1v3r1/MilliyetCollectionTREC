@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 346010 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/26/son/soneko02.html </URL>
+<DATE> 2005/05/26/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası'nda Dow Jones ve Nasdaq günü düşüşle kapadı 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası’nda Dow Jones ve Nasdaq endeksleri günü kayıpla kapattı. 
+     Dow Jones, 45.88 puan kayıpla 10,457.80 puana gerilerken, Nasdaq da 11.50 puan düşerek 2,050.12 puandan kapandı. 
+     
+</TEXT>
+</DOC>

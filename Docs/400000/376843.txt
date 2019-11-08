@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 376843 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/08/son/sontur32.html </URL>
+<DATE> 2005/09/08/ </DATE>
+<TIME> 16.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Emniyet Geçen yıl çocuk pornografisi, bu yıl banka dolandırıcılığı 
+</HEADLINE>
+<TEXT>
+
+     Ankara İl Emniyet Müdür Yardımcısı Ayhan Çankaya, bilişim suçları geçen yıl çocuk pornografisinde yoğunlaşırken, bugün banka dolandırıcılığının ön plana çıkmaya başladığını söyledi. 
+     Bilişim Zirvesi sponsorlarından Symantec tarafından düzenlenen ''Bilişim Güvenliği 2005'' konulu panelde konuşan Çankaya, Türkiye'de bilişim suçlarının dünya ile paralel olarak şu anda banka dolandırıcılığı şeklinde ilerlediğini belirtti. 
+     Çankaya, phishing denen banka dolandırıcılığı ile ilgili geçtiğimiz Salı günü Malatya'da bir hacker yakalandığını ve cezaevine konulduğunu bildirdi. 
+     AA muhabirinin sorularını da yanıtlayan Çankaya, iki yıl öncesinde daha çok amatör amaçlı, yaşı küçük olan, meraktan, kendisini ispat etmeye çalışan insanlar bu suçları işlerken, bugün hacker'ların daha ciddi boyutlara doğru kendisini geliştirdiğini, kendilerini hiç belli etmeden profesyonel grupların bu işten para kazanmak için çalışmalar başlattığını kaydetti. 
+     Çankaya, ''Daha önce bu tür suçlar Türkiye'ye geç gelirken teknolojinin, internetin gelişmesi ile hızlandı. Bilişimle ilgili Avrupa'da bir suç işleniyorsa bir hafta 10 gün içinde bizim ülkemizde bu suçun izine rastlayabiliyorsunuz'' dedi. 
+     Bilişimle ilgili suçların özellikle belli bölgelerde yoğunlaşmaya başladığına işaret eden Çankaya, şunları kaydetti 
+     ''Bundan önceki suçlarımızda Batı'ya doğru kayma varken yeni suç tipinde 4-5 şehrimizde aşırı bir yoğunluk oluştu, orta bölgelerde Doğu'ya doğru kaymaya başladı. Her ne kadar Doğu'da diyorsak da Batı'dan herhangi bir kişi o kişinin bilgisayarını ele geçirmek suretiyle o bilgisayar üzerinden de saldırıyı yapmış olabilir. Burada o bölgelerde son kullanıcı güvenliğe dikkat etmiyor anlamı çıkabilir.'' Bilişimle ilgili suçlarda önceki yıllara göre yüzde 5-10 artış yaşandığını belirten Çankaya, suçun şeklinin değiştiğini, suçun biraz daha profesyonelleştiğini söyledi. 
+     Çankaya, ''Geçen yıl çocuk pornografisi ile ilgili yoğun suç vardı ama bugün banka dolandırıcılığı ön plana çıkmaya başladı. Bir ara cep telefonundan kontör çalma hırsızlığı da söz konusuydu'' dedi. 
+     Çankaya, bilişim suçları ile ilgili şu anda verilen cezaların yeterli olduğunu, banka dolandırıcılığı olarak adlandırdıkları bütün konulara baktıklarında hemen hemen tamamında suçlularının yakalanmış durumda olduğunu kaydetti. 
+     
+</TEXT>
+</DOC>

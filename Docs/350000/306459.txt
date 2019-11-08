@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 306459 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/14/son/soneko36.html </URL>
+<DATE> 2005/01/14/ </DATE>
+<TIME> 15.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Döviz alım ihalesinde ortalama fiyat 1.3520 YTL oldu... 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası'nın bugün düzenlediği 15 milyon dolar tutarındaki döviz alım ihalesinde, ortalama fiyat 1.3520 Yeni Türk Lirası YTL oldu. 
+     Merkez Bankası'nın döviz alım ihalesine 112 milyon dolar teklif gelirken, ihalede tek fiyat oluştu ve maksimum ile minimum fiyat 1.3520 YTL olarak belirlendi. 
+     İhaleye gelen tekliflerin ortalaması ise 1.3547 YTL oldu. 
+     Döviz alım ihalesinde opsiyon kullanılmadı. 
+     
+</TEXT>
+</DOC>

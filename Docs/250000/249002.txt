@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 249002 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/18/son/soneko40.html </URL>
+<DATE> 2004/06/18/ </DATE>
+<TIME> 15.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa Yeni Türk Lirası'na uyum çalışmalarını 8 Ekim'de tamamlayacak 
+</HEADLINE>
+<TEXT>
+
+     Borsa şirketleri, Yeni Türk Lirası'na YTL uyum çalışmalarını 8 Ekim tarihine kadar tamamlayacaklar. 
+     Borsa Bülteni'ndeki duyuruya göre, hisseleri işlem gören şirketlerin, en geç 9 ve 10 Ekim'de bilgisayar ve muhasebe sistemlerinde konuya ilişkin testleri yaptıktan sonra ve test sonuçlarını da içerecek şekilde YTL'ye uyum çalışmalarını İMKB'ye göndermeleri gerekiyor. 
+     
+</TEXT>
+</DOC>

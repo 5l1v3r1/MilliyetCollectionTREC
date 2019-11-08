@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> 392608 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/06/son/sontur11.html </URL>
+<DATE> 2005/11/06/ </DATE>
+<TIME> 12.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Polisten 'sanal ortam dolandırıcılığı' uyarısı... 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Emniyet Müdürlüğü, web sayfası aracılığıyla, internet kullanıcılarını ''balık tutmak'' anlamına gelen İngilizce ''fishing'' kelimesinden türetilerek ''phishing'' adı verilen dolandırıcılık yönteminden korunmaları amacıyla uyarıyor. 
+     İstanbul Emniyet Müdürlüğü'nün web sayfasında yer alan ve Bilişim Suçları Büro Amirliği'nce hazırlanan ''Sanal dolandırıcılıkta son nokta phishing'' başlıklı yazıda, kullanıcılar ''phishing'' yöntemine karşı bilgilendiriliyor. 
+     Yazıya göre, son günlerde sıklıkla kullanılan bu dolandırıcılık yöntemini ifade eden ''Phishing'' terimi, ''balık tutma'' anlamına gelen İngilizce ''fishing'' sözcüğünün ''f'' harfinin yerine 'ph' harflerinin konulmasıyla ortaya çıktı ve oltayı attığınız zaman en azından bir balık yakalayabileceğiniz düşüncesinden hareketle oluşturuldu. Bu yöntemle kullanıcının bankasının, elektronik postasının ya da bunun gibi bilgi girmesi gereken bir kuruluşun web sayfasının kopyası yapılarak hesap bilgileri çalınmaya çalışılıyor. 
+     Örneğin, kullanıcıya elektronik posta servisinin giriş ekranının bir kopyası elektronik posta olarak gönderiliyor ve bilgilerini girmesi isteniyor. Sayfanın içine gizlenmiş bir kod parçası da kullanıcının girdiği bilgileri dolandırıcılara gönderiyor. 
+     Bu yöntemi kullananlar özellikle, kredi, Debit ATM Kart Numaraları CVV2, şifreler, parolalar, hesap numaraları, internet bankacılığına girişte kullanılan kullanıcı kodu ve şifrelerini çalıyorlar. 
+     
+     PHISHING TEKNİKLERİ 
+     Kullanıcıların çeşitli şekillerde aldatılmaya çalışıldığı ''phishing'' yönteminde, öncelikle kullanıcının elektronik postasına sürekli temas halinde olduğu bir kuruluştan elektronik posta gönderilerek, şifresinin süresinin dolduğu ya da şifresini değiştirmesi söyleniyor ve kuruluşun web sayfasına girmesi için bir link bağlantı yolu veriliyor. 
+     Bu şekilde korsanın hazırladığı kuruluşun web sayfasının kopyasına yönlenen kullanıcının şifresi korsanın eline geçiyor. 
+     Bir yarışma düzenlendiği, ödül olarak otomobil verileceği kaydedilerek kişisel bilgilerin istendiği elektronik postalar ya da müşteriye kişisel bilgilerini güncellemesi gerektiği tüm bilgileri tekrar girmesinin daha iyi hizmet verebilmeleri için gerekli olduğu söylenen elektronik postalar da başka ''phishing'' teknikleri arasında yer alıyor. 
+     Son olarak da bazı bankaların başlattıkları ve cep telefonlarıyla para transferine imkan veren sistem kullanılarak banka müşterilerine sanki kendi hesaplarına para gönderilmiş veya alınmış gibi gösterilip sahte banka sitesi linki verilerek bu paranın tahsil edilebilmesi için bilgi güncelleştirmesi isteniyor. 
+     ''Phishing'' saldırılarından korunmak için kullanıcının tanımadığı kişilerden gelen elektronik postalara asla cevap vermemesi, online yapılan işlemlerde web sayfasının güvenli olup olmadığının kontrol edilmesi gerekiyor. 
+     
+     ''S'' HARFİNİN ÖNEMİ 
+     İşlem yapılan site adresinin başı ''https '' şeklinde başlıyorsa buradaki ''S'' harfi sitenin güvenli olduğu anlamına geliyor. 
+     İnternet tarayıcısının sağ alt kısmında yer alan ''kapalı kilit'' işareti de yine güvenli ve şifrelenmiş bir sayfada işlem yapıldığını gösteriyor. 
+     Ancak bu güvenlik önlemleri korsanlar tarafından da oluşturulabildiğinden, işlem yapılmak istenen sayfaya yönlendiren bağlantı yolundan değil de kullanıcının kendisinin sayfayı açarak girmesi en güvenilir yolu oluşturuyor. 
+     Kullanıcıların, adresinde rakamlar bulunan sitelere girmemesi, güvenmediği ağlarda elektronik işlem yapmaması, çeşitli kurumlardaki hesaplarının ve elektronik posta adreslerinin şifrelerinin birbirinden farklı olması, şifrelerini belirli aralıklarda değiştirmesi alınacak önlemlerden bazıları arasında geliyor. 
+     
+     PHISHING'E SİZİ DE ALET EDEBİLİRLER 
+     Bu yöntemle dolandırıcılık yapan kişiler, tespit edilmelerini engellemek amacıyla internet üzerinden şüphelenilmeyecek insanlara iş ilanları sunup, bu ilanlara cevap veren kişilerin banka hesaplarını komisyon karşılığı kullanarak ''phishing'' yöntemiyle elde edilen paraların transferlerini sağlıyorlar. 
+     Para transferi konusunda gelen iş ilanlarına ilişkin çok dikkatli davranılması gerekiyor. Çünkü yapılan işlem ''kara para aklama'' olduğu için aracılık eden kişi hakkında da yasal işlem yapılabiliyor. 
+     Böyle bir durumla karşı karşıya kalındığında, gelen elektronik postanın silinmemesi, yönlendirdiği siteyle ilgili bilgi toplanması ve savcılığa başvurulması gerekiyor. 
+     
+</TEXT>
+</DOC>

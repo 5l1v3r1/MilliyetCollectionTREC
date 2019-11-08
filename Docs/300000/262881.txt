@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 262881 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/12/son/sontur25.html </URL>
+<DATE> 2004/08/12/ </DATE>
+<TIME> 11.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Fatura yine gariban makiniste çıkartıldı 
+</HEADLINE>
+<TEXT>
+
+     Tavşancıl'da meydana gelen tren kazasına ilişkin TCDD Genel Müdürlüğü teknik ekibinin ilk incelemesinde, sinyal sisteminde bir arıza olmadığı, kazanın Başkent Ekspresi'nin kırmızı sinyalde geçmesinden kaynaklandığı belirlendi. 
+     AA muhabirinin aldığı bilgiye göre, TCDD Genel Müdürlüğü, Genel Müdür Yardımcısının başkanlığında ilgili birimlerden uzmanların katılımıyla bir teknik ekibi olay yerine inceleme yapmak için gönderdi. 
+     Teknik ekibin ilk incelemesine göre, Ankara-İstanbul demiryolu hattının sinyal sisteminde bir arıza olmadığı saptandı. Kazanın Başkent Ekspresi makinistlerinin kırmızı sinyalde geçmesinden kaynaklandığı belirlendi. 
+     Kazaya ilişkin trenlerin çarpışma sırasındaki hızlarını gösteren ''hız bandı'' savcılığın izni doğrultusunda incelendi. Buna göre, çarpışma sırasında Başkent Ekspresi'nin hızı 82.5 kilometre saat Adapazarı Ekspresi'nin hızı da 10 kilometre saat olarak tespit edildi. 
+
+     
+</TEXT>
+</DOC>

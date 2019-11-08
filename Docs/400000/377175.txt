@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 377175 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/09/son/sonyas01.html </URL>
+<DATE> 2005/09/09/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sırtta taşınan jeneratör geliştirildi 
+</HEADLINE>
+<TEXT>
+
+     Amerikalı bilim adamları, askerler ve kurtarma ekiplerinin artık ağır bataryalar taşımalarını ortadan kaldıracak bir "sırt elektrik jeneratörü" geliştirdiler. 
+     Science dergisinde yarın yayınlanacak bir makaleye göre, Pennsylvania Üniversitesi’nden bilim adamları tarafından geliştirilen cihaz, insanın yürüyüşüyle ortaya çıkan mekanik enerjiyi elektriğe çeviren bir sistemle çalışıyor. 
+     Sistem, jeneratörün bulunduğu sırt çantasının, taşıyan kişinin hareketiyle yukarı aşağı hareket etmesinin bir dişli sistemini çalıştırarak bunu elektriğe çevirmesine dayanıyor. 
+     Bilim adamları, insanın yürüyüşü sırasında kalçalarının 5 santimetre yukarı ve aşağı hareket ettiğini belirterek, dişli sisteminin manyetik alanın içindeki bobinleri döndürerek elektrik ürettiğini belirtiyorlar. 
+     Yürüyüş sırasında kalçaların hareketiyle 7,4 watta yakın elektrik üretilebileceği ve bu cihazın askerler ile kurtarma ekiplerinin iletişim ve diğer gereksinimleri için ağır bataryalar taşımaları zorunluluğunu ortadan kaldıracağı kaydediliyor. 
+     
+</TEXT>
+</DOC>

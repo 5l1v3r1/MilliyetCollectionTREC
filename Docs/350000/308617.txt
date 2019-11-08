@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 308617 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/23/son/sondun02.html </URL>
+<DATE> 2005/01/23/ </DATE>
+<TIME> 07.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD, Irak'ta "Robot asker" kullanacak... 
+</HEADLINE>
+<TEXT>
+
+     Amerikan ordusu, Irak'taki çatışmalarda, makineli tüfek monte edilmiş ve uzaktan kumandayla çalıştırılan bir tür robot askerden yararlanmaya hazırlanıyor. 
+     Amerikan Swords şirketinin ürettiği robot askerler, Englewood Cliffs'teki bir askeri tesiste ilk kez medyaya tanıtıldı. 
+     Robot savaşçılardan 18'inin, mart veya nisan ayından itibaren Irak'ta kullanılmasının planlandığı belirtildi. 
+     Minyatür bir tankı andıran robot savaşçılar, yine tanklar gibi paletler üzerinde ilerliyor ve kamerası aracılığıyla hedefleri belirliyor. Yetkililer, robot askerlerin, otomatik olarak çatışmaya girmediğini, ancak uzaktan kumandayı elinde bulunduran operatörün kameradan gördükleri ışığında verdiği komutları uyguladığını belirttiler. 
+     Yetkililer, yemek, giysi ve eğitime ihtiyaç duymayan, hiç ''şikayet etmeyen'' ve vurulmaları durumunda yas tutacak aileleri olmayan robot savaşçıların bazı ortamlarda gerçek askerlere oranla avantajlar sağladığı yorumunu da yaptılar. 
+     Dört kamerası, zoom objektifleri ve gece görüş cihazları bulunan, Talon adı verilen bu robotlara, istenen özelliklere uygun makineli tüfek tipleri monte edilebiliyor. 
+     Robot askerlerin bir tanesinin değerinin, yaklaşık 200 bin dolar olduğu belirtildi. 
+     Uzmanlar, insan hatasına yer vermediği için bu tür robot savaşçıların çok daha isabetli atışlar yapabildiğini kaydediyor. 
+     Robot askerlerin en büyük eksikliği ise inisiyatif sahibi olmaması. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 317177 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/21/son/sondun38.html </URL>
+<DATE> 2005/02/21/ </DATE>
+<TIME> 15.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Nükleer terörü 'kozmik ışınlar' önleyecek... 
+</HEADLINE>
+<TEXT>
+
+     Mısır'daki Kefren piramidinin esrarının aydınlatılması amacıyla kullanılmış olan kozmik parçacık dedektörleri, yakında nükleer terörizmle mücadelede önemli bir önleyici silah olabilir. 
+     ABD'deki Ulusal Los Alamos Laboratuvarı'ndan fizikçi Chris Morris limanlar, havalimanları, köprüler gibi önemli noktalarda kontrol amacıyla kullanılan x ve gama ışınlarının yerini onlardan çok daha güçlü ''müon'' adı verilen kozmik parçacıkların alabileceğini belirtti. 
+     Kullanılmakta olan radyografik tekniğin, ağır metallerin altına saklanan nükleer malzemelerin tespit edilmesinde yetersiz kaldığına işaret eden Morris, ''müonların'' x ve gama ışınlarıyla bulunamayan malzemelerin saptanmasını sağlayacağını kaydetti. Fizikçi, ''Üstelik doğal müon ışınımı, x ve gama ışınlarının tersine radyasyon tehlikesi içermez'' dedi. 
+     Amerikalılar, 11 Eylül 2001 saldırılarından bu yana radyolojik ya da nükleer bomba saldırısı korkusuyla yaşıyor. Zira Amerikan topraklarına sokulan her kargoyu kontrol etmek ve bunların içinde ne olduğunu anlamak imkansız sayılabilecek kadar zor bir iş. 
+     Resmi tahminlere göre, Amerikan limanlarına gelen milyonlarca konteynerin ancak yüzde 5'i denetimden geçiriliyor. 
+     Amerikan yönetimi, bilim adamlarını konteynerlerin daha güvenli şekilde denetlenmesini sağlayacak yöntemler geliştirmeye teşvik ediyor. Bu bağlamda meslektaşlarıyla ortak proje yürüten fizikçi Morris, ''Değişik kontrol yöntemleri geliştirme ihtiyacına cevap verebilecek konuma geldiğimizi söyleyebilirim'' dedi. 
+     Morris'in açıklamasına göre, ''müon'' radyografisi, diğer ışınlarla yapılan radyografiden daha iyi sonuç veriyor. Bu parçacıkların milyarlarcası an be an gezegenimizi dört bir yandan bombardıman ediyor. Sahip oldukları enerji, ''müonların'' ağır metaller ve kayaların içinden rahatça geçmelerini sağlıyor. Plütonyum ve uranyum gibi çok yoğun atom çekirdeğine sahip materyallerin yaydığı güçlü elektromanyetik alan müon akışını, demir ya da alüminyum gibi diğer ağır metallerden daha fazla saptırıyor. 
+     
+     MÜON AKIŞINDAKİ SAPMA... 
+     Morris, ''müonlar dünyaya her açıdan dik olarak çarptığına göre, sözgelimi bu parçacıkların bir kamyona ya da kutuya giriş ve oradan çıkış değerlerini ölçecek dedektörlerle rahatlıkla kontrol yapılabileceğini'' düşünüyor. Müon parçacıklarının akışında ortaya çıkacak sapma, kontrol edilen kamyon ya da kutunun içinde çok yoğun bir nesne bulunduğunu gösterecek, dahası materyalin ne olduğunun anlaşılmasına da imkan verecek. 
+     Morris, ''Dedektör, çeşitli materyalleri tanımlayan bilgiler yüklenmiş bilgisayar programı sayesinde kutunun içinde bomba mı, yoksa nükleer malzeme mi bulunduğunu gösterebilecek'' dedi. 
+     Maliyeti bir milyon doları bulacak müon dedektörü otomobili 20 saniyede, kamyon kasasını ise bir dakikada tarayabilecek. 
+     
+</TEXT>
+</DOC>

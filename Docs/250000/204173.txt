@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 204173 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/24/son/soneko21.html </URL>
+<DATE> 2003/12/24/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+2004 Atina Olimpiyatları'na kablosuz iletişim 
+</HEADLINE>
+<TEXT>
+
+     Samsung Electronics, 2004 Atina Olimpiyatları'nın aksaksız organize edilmesini sağlamak amacıyla kablosuz teknolojinin kullanılacağı bilgi sistemi geliştirdi. 
+     Samsung'dan yapılan açıklamaya göre, bugüne kadar bir spor etkinliği için yapılmış en kapsamlı bilgi kaynağı olma özelliğini taşıyan Wireless Olympic Works WOW adı verilen sistem, her türlü bilgiyi kablosuz olarak kullanıcıya sunacak. 
+     Olimpiyatların başarıyla organize edilmesi için çalışan binlerce insanın yüzlerce etkinliği başarıyla koordine etmesini sağlayacak bir bilgi sistemi olarak tasarlanan WOW sayesinde her bir oyundaki etkinlikler hakkındaki bilgi ve sonuçlar izlenebilecek. 
+     2004 Atina Olimpiyatları için 22 binden fazla cihaz tedarik eden Samsung'un atletler, resmi yetkililer, medya, görevli ve gönüllü kişilere sağlayacağı kablosuz cihazlar arasında, mobil telefonlar ve sistemler, kablosuz sayfalama ekipmanları, çift yönlü radyo sistemleri ve bataryalar yer alıyor. 
+     2004 Atina Olimpiyatları'nın resmi kablosuz iletişim sponsoru olan Samsung, aynı zamanda Coca Cola ile birlikte Olimpiyat Meşalesi Koşusu'na da destek veriyor. 
+     Bu kapsamda, 4 Haziran 2004 tarihinde Sydney'den start alacak Olimpiyat Meşale Koşusu'nun dünya turu sırasında 6 Temmuz'da İstanbul'da Türk halkına olimpiyat coşkusu yaşatmasına katkı sağlandı. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 304169 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/06/son/sonyas06.html </URL>
+<DATE> 2005/01/06/ </DATE>
+<TIME> 11.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sesi, yazılı hale getiren cep telefonu... 
+</HEADLINE>
+<TEXT>
+
+     Güney Kore'nin elektronik devi Samsung, sesli mesajı yazılı hale getirebilen ilk ses tanımlı cep telefonunu üretti. 
+     Şirketin Başkan Yardımcısı Peter Skarzynski, yeni ürünün tanıtımında yaptığı açıklamada, kullanıcıların ilk kez kablosuz olarak mesajlarını doğrudan cep telefonlarına dikte edebileceklerini söyledi. 
+     Skarzynski, bunun mesajlaşma SMS işlemini önemli ölçüde kolaylaştıracağını belirtti. 
+     Nokia'dan sonra dünyanın ikinci büyük cep telefonu üreticisi Samsung'un yeni modellerinde bu yeni özelliğin bulunacağı kaydedildi. 
+
+     
+</TEXT>
+</DOC>

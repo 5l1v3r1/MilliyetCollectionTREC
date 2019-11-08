@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 207231 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/08/son/sondun01.html </URL>
+<DATE> 2004/01/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yüz yıldır çözülemeyen matematik problemi çözüldü mü .. 
+</HEADLINE>
+<TEXT>
+
+     Rus matematikçi Grigori Grişa Perelman'ın, 100 yıldır çözülemeyen bir matematik problemini çözmüş olabileceği bildirildi. 
+     Fransız matematikçi Henri Pioncare tarafından 1904 yılında ortaya atılan ve uzun yıllar boyunca ''çözülemeyen problemlerin en ilgi çekicisi'' olarak kalan problem, üç boyutlu uzayın anlaşılması ile ilgili. 
+     Bu problem, dünyanın anlaşılması en güç 7 matematik problemi arasında bulunuyor. 
+     Perelman'ın problemi çözme çalışmalarını izleyen Michigan Üniversitesi matematik profesörü Bruce Kleiner, Rus matematikçinin problemi çözdüğüne ilişkin 2002 Kasım ayından beri belirtiler bulunduğunu söyledi. 
+     Ancak Perelman'ın geçen yıl ABD'de bazı üniversitelerde konferanslar vermesine karşın çalışmalarını bir bilimsel dergide yayımlamaya veya ABD'deki Clay Mathematics Institute'un bu problemi çözen için koyduğu 1 milyon dolarlık ödüle ilgi göstermediği belirtiliyor. Perelman'ın bunun yerine, çalışmalarının bir bölümünü bir internet sitesinde yayımlamayı tercih ettiği kaydedildi. Problemin Perelman tarafından çözülüp çözülmediği, uzmanların yapacakları değerlendirmeler sonucunda kısa bir sürede kesinliğe kavuşacak. 
+     Üç boyut, örneğin havada bulunan bir uçağın kuzey-güney ve doğu-batı boyutlarındaki konumu ile yerden yüksekliğini birlikte ifade ediyor. 
+     Fransız matematikçi Pioncare'in problemi, iki boyut için yapılan matematiksel hesaplamaların üç boyut için de uygulanabileceği varsayımından hareket ediyor. Pioncere, bunun mümkün olduğundan emin olmasına karşın, problemi çözerek kanıtlayamadı. 
+     Problemin çözümü, bilim adamlarının, evrenin yapısını daha iyi anlamasını sağlayacak. 
+     
+</TEXT>
+</DOC>

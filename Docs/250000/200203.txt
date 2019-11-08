@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 200203 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/06/son/soneko05.html </URL>
+<DATE> 2003/12/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Elektrikte mali uzlaştırma dönemi başladı 
+</HEADLINE>
+<TEXT>
+
+     Enerji Piyasası Düzenleme Kurumu EPDK , 1 Aralık 2003 tarihinden itibaren elektrik piyasasında mali uzlaştırma yapılmasına ilişkin işlemleri başlattı. Kurum, mali uzlaştırmayla birlikte bu kapsamda elektrik piyasasında geniş çerçeveli uygulamalara da gidilecek. 
+     EPDK'dan yapılan açıklamaya göre, uygulama çerçevesinde, artık serbest piyasada elektrik enerjisi satan şirketler, elektrik enerjisi miktarlarını, gece, gündüz ve puant saatlerinde ayrı ayrı ve müşterilerinin ihtiyacını tam olarak karşılayacak şekilde temin edecekler. 
+     Başlatılan uygulamada, serbest piyasada satılan ve tüketilen elektrik miktarları 06.00-17.00, 17.00-22.00 ve 22.00-06.00 saatleri arasında ayrı ayrı ölçülerek karşılaştırılacak. Bu dönemlerin sayısı, ölçme-iletişim-kontrol altyapısının gelişimine paralel olarak EPDK kararı ile artırılacak. 
+     Bu dönemlerde müşterilerinin ihtiyacından daha fazla elektrik enerjisini şebekeye veren bir tedarikçiye verdiği fazla elektrik için düşük bir fiyat ödenecek. Şebekeye eksik elektrik veren bir tedarikçi ise piyasa fiyatının üzerinde olan bir bedel karşılığı eksik kalan elektriği satın almak zorunda kalacak. 
+     
+     KURUMLARARASI İLİŞKİLER 
+     Açıklamaya göre yeni dönemde, serbest piyasada, ikili anlaşmalar kapsamındaki elektrik enerjisi arzı ile tüketim arasında gerçek zamanlı olarak ortaya çıkan dengesizlikler, başlangıçta Türkiye Elektrik Ticaret ve Taahhüt A.Ş'nin TETAŞ teklif ettiği ve EPDK tarafından onaylanan yük alma ve yük atma fiyatları çerçevesinde düzenlenecek. 
+     Yük Dağıtım ve Piyasa Mali Uzlaştırma Dairesi Başkanlığı, her ayın son günü yapılan ölçümlerde tespit edilen değerler ile TETAŞ'ın yük alma ve yük atma fiyatları üzerinden hesaplanan tutarları, TETAŞ'a ve ilili katılımcıya yazılı olarak bildirilecek. 
+     TETAŞ ve ilgili katılımcı söz konusu bildirimde yer alan tutarlara göre düzenledikleri faturaları birbirlerine gönderecek. 
+     Sayaç altyapısı tamamlandıkça günlük 3 olan uzlaştırma dönemi sayısı zamanla artırılarak saat olarak da uygulabilecek, sayaç okumaları günlük olarak yapılabilecek. 
+     Ayrıca şimdilik sadece TETAŞ tarafından verilen ve EPDK tarafından onaylanarak yürürlüğe giren yük alma ve yük atma fiyat teklifleri piyasada üretim faaliyeti gösteren tüm tüzel kişiler tarafından serbestçe verilecek. 
+     Böylecek elektrik enerjisi piyasasında bir borsa ve spot piyasa oluşacak ve elektrik enerjisinin tam anlamıyla bir meta olarak ticareti yapılabilecek. 
+     
+     VERİMLİLİK ARTACAK 
+     EPDK açıklamasında, söz konusu uygulamanın, enerjinin üretildiği zaman diliminde tüketilmesi prensibinin yaşama geçerilmesini esas aldığı kaydedildi. 
+     Açıklamada, elektrik enerjisi depolanabilir olmadığından, oluşabilecek açıkların önlenebilmesi ve şebekenin herhangi bir noktasında kesinti yaşanmaması için sistemde daima yedek kapasitenin bulunması gerektiği ifade edilerek, şöyle denildi 
+     ''Bu uygulama ile tedadikçiler müşterilerinin ihtiyaçlarını ihtiyaç duydukları anda karşılamaya yönlendirildiğinden, emre amade yedek kapasite bulundurulma zorunluluğu asgariye indirilmiş olacak. İletim ve dağıtım şebekesi üzerindeki yükün hafiflemesiyle sistem daha verimli işletilecek. Uygulamanın gelişerek ilerlemesi ile birlikte sistemde gereksiz bir yedek kapasite tutulmasına da gerek kalmayabilecek. Bu uyulama kaynakların optimum kullanıma ve kamu ya da özel tüm gerçek ve tüzel kişilerin enerji kullanımında verimliliği esas almalarına olanak sağlayacak.'' 
+     
+</TEXT>
+</DOC>

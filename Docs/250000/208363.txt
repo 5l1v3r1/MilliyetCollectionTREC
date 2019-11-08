@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 208363 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/13/son/soneko29.html </URL>
+<DATE> 2004/01/13/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Superonline, kişisel PC pazarına girdi... 
+</HEADLINE>
+<TEXT>
+
+     Internet servis sağlayıcısı Superonline, kişisel bilgisayar pazarına girdi. 
+     ''Her Eve Bilgisayar Artık Internetsiz Ev Kalmayacak'' sloganıyla başlatılan kampanya doğrultusunda Superonline PC, pazara sunuldu. 
+     Superonline PC'nin Celeron işlemcili konfigürasyonu 585, Pentium 4 işlemcili konfigürasyonu ise 749 dolar artı KDV fiyatıyla satılacak. 
+     Superonline Genel Müdürü Savaş Ünsal, düzenlediği basın toplantısında, projeyle Türkiye'nin bilgisayarlaşma oranını yükselmeye katkıda bulunmayı amaçladıklarını söyledi. 
+     ''Kampanyanın iki amacı var. Birincisi doğal olarak ticari, ikincisi ise sorumluluk. Türkiye'nin bilgisayar kullanım oranını yükseltme vizyonuna katkı sorumluluğu'' diyen Ünsal, kampanyanın bir başlangıç olduğunu ve örnek olmasını istediklerini kaydetti. 
+     Savaş Ünsal, kampanyanın, bilişim altyapısının AB standartlarına yükseltilmesi alanında da önem taşıdığını anlattı. 
+     Bu pazardaki üreticilere rakip olmayı düşünmediklerini bildiren Ünsal, yıl içinde 10 bin Superonline PC satışı gerçekleştirmeyi planladıklarını dile getirdi. 
+     Ünsal, yakın zamanda Superonline Notebook'u da piyasaya çıkaracaklarını duyurdu. 
+     
+     SUPERONLINE PC 
+     Intel Celeron 2.4 GHz İşlemci, 128 MB Bellek 40 GB harddisk, 17 inç Philips monitör, 52X Cdrom sürücü, 64 MB ekran kartı, 400W hoparlör gibi özellikleri bulunan Superonline PC-I konfigürasyonu 585 dolar artı KDV fiyatla satılacak. 
+     749 dolar artı KDV fiyatıyla satılacak Superonline PC-II konfigürasyonu ise Intel Pentium 4 2.66 GHz İşlemci, 256 MB bellek, 40 GB harddisk, 17 inç Philips monitör, 52x24x52x CDRW, 400W stereo hoparlör, 64 MB ekran kartından oluşuyor. 
+     Her iki alternatifte de 1 yıllık Superonline aboneliği, Windows XP Home Türkçe işletim sistemi ve 24 ay servis garantisi bulunuyor. 
+     Bilgisayarlar, WorldCard ile peşin fiyatına 3 taksit veya 12 aya varan taksit seçenekleriyle satın alınabilecek. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> 401721 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/08/son/sonsiy12.html </URL>
+<DATE> 2005/12/08/ </DATE>
+<TIME> 11.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+TSK'nın sipariş verdiği 4 adet uçağın yapımı Boeing tesislerinde sürüyor 
+</HEADLINE>
+<TEXT>
+
+     
+     Fatih Ferhat Sürmeli bildiriyor 
+     
+Türk Silahlı Kuvvetleri’nce TSK siparişi verilen 4 adet havadan erken uyarı ve kontrol uçağından 1’i olan "Barış Kartalı"nın yapımı, Boeing tesislerinde sürüyor. 
+     Boeing firmasının ABD’nin Seattle kentinde yer alan Renton Tesisleri’ndeki Türkiye’nin ilk havadan erken uyarı ve kontrol uçağı Airborne Early Warning Control System-AEWC , tesisleri gezen Türk basın mensuplarına tanıtıldı. 
+     Uçak hakkında bilgi veren mühendisler, "Boeing 737-700" tipi yolcu uçağında değişiklikler yapıldığını belirterek, uçağın gövdesinin bir bölümünün tamamen çıkarıldığını ve radar görevi gören antenin monte edileceği bölümün santimetrenin 5 binde 1’i kadar ince hesaplarla eklendiğini söylediler. 
+     Anten bölümünün 3-6 hafta arasında gövdeye monte edileceğini anlatan mühendisler, özellikle bu uçağın burun ve kuyruk kısmında yeni uygulamalar gerçekleştirdiklerini ve uçağın dijital tasarımı yapılan ilk askeri uçak olacağını bildirdiler. 
+     Motorları ve camları henüz takılmayan uçak ilk geldiğinde kablo sayısının 490 olduğunu, yapımı tamamlandığında ise bu sayının 1200’e çıkacağını ifade eden mühendisler, ayrıca uçağın dışarıdaki havayı içeri geçirerek ısının düşmesini sağlayacak bir yapıda üretildiğini kaydettiler. 
+     Mühendisler, söz konusu ilk uçağın teslimatının 2008 yılı ortalarında gerçekleştirileceğini belirttiler. 
+     Uçağın, radarda görünmeme gibi bir özelliği bulunmadığını dile getiren mühendisler, operasyonlara uzaktan destek verme özelliğine sahip olan uçağın korumalı uçacağını da vurguladılar. 
+     
+     TÜRK MÜHENDİSLER DE VAR 
+     Havadan erken uyarı ve kontrol uçağının yapımına ayrıca, dönüşümlü olarak 30-40 arasında Türk mühendis de katılıyor. 
+     Uçağın yapımına ilişkin eğitim alan Türk mühendisler, gerçekleştirilen anlaşma kapsamında eğitimin ardından diğer 3 uçağın yapımında görev alacaklar. 
+     Boeing tesislerinde ilk uçağın yapımının tamamlanmasından sonra diğer 3 uçak, astar boyalı olarak Türk Havacılık ve Uzay Sanayii TAI 
+     tesislerine getirilecek ve tüm yapısal tadilat, entegrasyon, tesisat, fonksiyonel test ve teslimat işlemleri, burada Türk mühendis ve teknisyenlerince yapılacak. Boeing’in ana yüklenici olduğu, ayrıca TAI’nin yanı sıra THY, Aselsan, Havelsan, MSKAS ve Mikes gibi Türk şirketlerinin de görev aldığı proje, Temmuz 2003’te resmen başladı. Projenin maliyetinin, yer sistemleri de dahil 1 milyar doların üzerinde olduğu bildirildi. 
+     
+     HAVADAN ERKEN UYARI VE KONTROL UÇAĞI 
+     AEWC, Boeing 737-700 üzerine kurulu çok amaçlı elektronik tarama radarıyla aynı zamanda havadaki ve denizdeki hedeflerin izini sürebiliyor, operasyon alanını tarayan kullanıcının, uçağı yüksek performansta kontrol etmesini sağlıyor. 
+     Uçağın üstündeki "şapka" arka donanımların alçak çekiş profilini korurken, hem ön, hem de arkadaki görüntüleri algılamayı sağlıyor. Bu tasarım, sistemin orta boydaki 737-700 uçağına, performansını etkilemeden uyarlanmasına imkan veriyor. 
+     AEWC’lerde kullanılan bir yenilik de, ağırlığı azaltarak güvenilirliği artıran ve hedef korelasyonunu kolaylaştıran entegre "Dost ve Düşmanı Tanıma Sistemi" IFF-Identification Friend or Foe . 
+     Ayrıca, buna ek olarak uçaklarda azami esnekliğe sahip geliştirilmiş açık sistemli bir yapı OSA-Open System Architecture bulunuyor. 
+     "737-700 Havadan Erken Uyarı ve Kontrol Uçağı", 41 bin feet uçuş yüksekliği ve 3 bin milin üzerinde menzil özelliğine sahip. 
+     
+</TEXT>
+</DOC>

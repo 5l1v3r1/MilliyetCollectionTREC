@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 380806 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/23/son/sondun22.html </URL>
+<DATE> 2005/09/23/ </DATE>
+<TIME> 12.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İngiltere'de hastane virüsü kontrol dışına çıktı, panik başladı 
+</HEADLINE>
+<TEXT>
+
+     İngiltere'de uzmanlar, hükümetin bütün çabalarına ve savunmalarına karşın, hastane virüsünün MRSA kontrol dışına çıktığını, ülkede bir hastanın hastane virüsü kapma olasılığının, Avrupa ortalamasının 40 katı olduğunu bildirdi. 
+     Enfeksiyon yayılma hızının hastanelerdeki yatak sayısının azalması ve koğuşların daha kalabalık hale gelmesiyle daha da arttığını belirten uzmanlar, doluluk oranının artmasının bazı hastaların virüsü kaptıktan sonra tedavi görmeleri gerekirken taburcu edilmelerine ve virüsün dışarıda da yayılmasına yol açtığını kaydetti. 
+     Bazı hastanelerin kapasitelerinin aşıldığını, bunun da bir yatağa birden fazla hasta düştüğü anlamına geldiğine işaret eden Kamu Sağlığını Koruma Ajansı doktorlarından Barry Cookson, hastaneler arasındaki hasta transferlerinin de virüsün yayılmasını hızlandırdığını bildirdi. 
+     Cookson, bazı hastanelerin, bekleyen hasta sayısının baskısı yüzünden aslında kapatılıp karantinaya alınması gereken bölümleri bilerek açık tuttuklarını da belirterek, acil önlem alınmazsa sağlık sisteminin MRSA yüzünden çökebileceği uyarısında bulundu. 
+     
+</TEXT>
+</DOC>

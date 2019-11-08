@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 274265 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/23/son/soneko22.html </URL>
+<DATE> 2004/09/23/ </DATE>
+<TIME> 12.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı 32 puanlık kayıpla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Bileşik Endeksi 1. seansta, dünkü 2. seans kapanışına göre 32.28 puan azalarak, 21,459.14 puandan kapandı. 
+     Hisse senetlerinin ortalama değer kaybı yüzde 0.15 oldu. 
+     Dün 21,491.42 puandan kapanan İMKB Ulusal 100 Endeksi, 1. seansa, 7.19 puan azalarak 21,484.23 puandan başladı. İlk yarıyı 21,327.38 puandan geçen endeks, seans içinde en düşük 21,290.29, en yüksek 21,599.43 puanı gördü. 
+     Seans sonunda mali endeks 79.73 puan artışla 29,469.82 puana yükselirken, sanayi endeksi 103.06 puan düşüşle 19,292.85 puana ve hizmetler endeksi 25.82 puan düşüşle 11,198.51 puana geriledi. 
+     Böylece, önceki kapanışa göre, mali grup hisseler ortalama yüzde 0.27 değer kazandı. Sanayi grubu hisseler ortalama yüzde 0.53 ve hizmet grubu hisseler ortalama yüzde 0.23 değer yitirdi. 
+     1. seansta işlem gören toplam 296 hisse senedinden 143'ü değer kazandı, 86'sı değer kaybetti, 67 hissenin fiyatında değişiklik olmadı. 
+     Seansta, 482 trilyon 673 milyar 627 milyon liralık işlem hacmi oluştu. 
+     1. seansta, İş GYO, Sabancı Holding, Yapı Kredi Bankası, Kardemir D ve Park Elektrik Madencilik en çok işlem gören hisse senetleri oldu. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 351503 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/13/son/soneko26.html </URL>
+<DATE> 2005/06/13/ </DATE>
+<TIME> 12.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı 48 puanlık kayıpla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeksi, Cuma günkü kapanışa göre 48.46 puan azalarak seansı 25,676.73 puandan tamamladı. 
+     1. seansta, hisse senetlerinin ortalama değer kaybı yüzde 0.19 oldu. 
+     Cuma günü 25,725.19 puandan kapanan İMKB Ulusal 100 Endeksi, ilk seansa 41.56 puan düşüşle 25,683.63 puandan başladı. İlk yarıyı 25,586.51 puandan geçen endeks, seans içinde en düşük 25,522.80 puanı, en yüksek 25,727.51 puanı gördü. 
+     Seans sonunda mali endeks 226.36 puan azalarak 37,774.65 puana gerilerken, sanayi endeksi 92.79 puan artarak 20,762.21 puana, hizmetler endeksi 18.84 puan artarak 14,164.51 puana yükseldi. 
+     Böylece önceki kapanışa göre, mali grup hisseler ortalama yüzde 0.60 oranında değer kaybetti, sanayi grubu hisseler ortalama yüzde 0.45, hizmetler grubu hisseler ortalama 0.13 oranında değer kazandı. 
+     1. seansta işlem gören toplam 298 hisse senedinden 118'i değer kazandı, 110'u değer kaybetti, 70 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta, 280 milyon 951 bin 791 YTL'lik işlem hacmi oluştu. 
+     1. seansta, Şekerbank, Koza Davetiyeleri, İpek Matbaacılık, İş GMYO ve Milpa, en çok işlem gören hisse senetleri oldu. 
+     
+</TEXT>
+</DOC>

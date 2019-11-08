@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 321822 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/08/son/soneko25.html </URL>
+<DATE> 2005/03/08/ </DATE>
+<TIME> 12.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı 33 puanlık artışla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeksi, dünkü kapanışa göre 33.68 puan artarak, 1. seansı 27,823.60 puandan tamamladı. 
+     1. seansta hisse senetleri ortalama yüzde 0.12 değer kazandı. 
+     Dün 27,789.92 puandan kapanan İMKB Ulusal 100 Endeksi, ilk seansa 11.78 puan artarak 27,801.70 puandan başladı. İlk yarıyı 27,726.49 puandan geçen endeks, seans içinde 27,620.66 puana kadar gerilerken, en yüksek 27,929.37 puanı gördü. 
+     Seans sonunda mali endeks 42.18 puan artarak 40,689.26 puana, sanayi endeksi 77.66 puan artarak 23,229.81 puana yükselirken, hizmetler endeksi 30.21 puan düşerek 14,407.88 puana geriledi. 
+     Böylece önceki kapanışa göre, mali grup hisseler ortalama yüzde 0.10, sanayi grubu hisseler ortalama yüzde 0.34 oranında değer kazanırken, hizmet grubu hisseler ortalama yüzde 0.21 değer yitirdi. 
+     1. seansta işlem gören toplam 303 hisse senedinden 149'u değer kazandı, 80'i değer kaybetti, 74 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta, 433 milyon 878 bin 26 YTL'lik işlem hacmi oluştu. 
+     1. seansta Yapı ve Kredi Bankası, İŞ Bankası C , Aselsan, Doğan Holding ve Sabancı Holding en çok işlem gören hisse senetleri oldu. 
+     
+</TEXT>
+</DOC>

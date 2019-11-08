@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 55497 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/12/04/son/soneko01.html </URL>
+<DATE> 2001/12/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones günü düşüşle kapattı 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası Dow Jones Endeksi 87.60 puan düşüşle yüzde 0.89 9,763.96 puandan kapandı. 
+     Borsada Nasdaq Endeksi de 25.68 puan azalmayla yüzde 1.33 
+     1,904.90 puanla günü kapattı. 
+     Borsada ilk saat sonunda Dow Jones Endeksi Cuma gününe göre 115.97 puan azalarak 9,735.59 puana düştü. 
+     Borsanın düşüşünde Arjantin'deki mali krizin derinleşmesi ve ABD'li enerji devi Enron'un iflasıyla ilgili kaygılar etkili oldu. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

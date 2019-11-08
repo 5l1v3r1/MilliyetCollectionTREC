@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 319266 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/28/son/soneko31.html </URL>
+<DATE> 2005/02/28/ </DATE>
+<TIME> 15.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+POAŞ'tan yeni sistem Araçtan inmeden yakıt alımı... 
+</HEADLINE>
+<TEXT>
+
+     Petrol Ofisi A.Ş. POAŞ , tüketicilere hızlı ve aracından inmeden yakıt almalarını sağlayacak yeni bir sistem geliştirdi. 
+     Petrol Ofisi'nin, filo ve akaryakıt yönetim sistemi ''AutoMatic''in bireysel araç sürücülerine yönelik uygulaması olan ''AutoExpress Ödeme Sistemi'', İstanbul'da basın toplantısıyla tanıtıldı. 
+     Petrol Ofisi Genel Müdürü Ertuğrul Tuncer, ileri teknoloji ile desteklenen yeni sistemin en kısa sürede tüm Türkiye sathına yayılacağını bildirdi. Tuncer, hedefin yıl sonunda Türkiye'de 81 ilde 1.000 istasyona ulaşmak olarak açıkladı. 
+     Tuncer, koşulsuz müşteri memnuniyetini ilke edinen Petrol Ofisi'nin, bireysel müşterilerine daha kolay, daha hızlı, daha güvenli bir ödeme sistemi ile hizmet vereceğini anlattı. 
+     Petrol Ofisi Akaryakıt Otomasyon Müdürü Cem Arat'ın verdiği bilgiye göre, istasyonlar ve Petrol Ofisi şirket merkezi arasında kurulan uydu bağlantısı ile çalışan sisteme, müşteriler bir sözleşme imzalayarak girecekler. 
+     Kendilerine 6.5x4 santimetre boyutlarında, içinde çip ve anten barındıran AutoExpress anahtarlık kart verilecek. Müşteri bilgileri sisteme kayıt edilecek. Anahtarlık kart ile kredi kartı eşleştirilecek. Kart aktif hale getirilip müşteriye iletilecek. 
+     Öncelikle İstanbul, Ankara ve İzmir'de seçilmiş Petrol Ofisi istasyonlarında devreye girecek kartı, pompacı radyo frekansı ile çalışan sisteme okutacak. Dolum gerçekleştikten sonra, dolum bilgileri uydu üzerinden POAŞ merkezine iletilecek. Kredi işlemleri ile ilgili kart onayı alındıktan sonra işlem hızla sonuçlandırılarak, sonuç pompa üzerindeki ekranda müşteriye iletilecek. 
+     Kredi kartında tahsilat yapılamaması halinde nedeni hakkında kullanıcıya bilgi verilecek. 
+     Sistem, ''kara liste''de bulunmayan tüm kredi kartı müşterilerine açık olacak. 
+     Kayıt alınmaya başladığını belirten Akaryakıt Otomasyon Müdürü Cem Arat, önümüzdeki günlerde sistemin kullanıma açılacağını duyurdu. 
+     Genel Müdür Ertuğrul Tuncer de tüketiciye güvenilir ürünler sunmayı hedefleyen şirketin bu alanda yaptığı yatırımın 10 milyon doların üzerinde olduğunu bildirdi. 
+     
+</TEXT>
+</DOC>

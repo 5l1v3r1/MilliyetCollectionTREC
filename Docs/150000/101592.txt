@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 101592 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/08/13/son/sondun04.html </URL>
+<DATE> 2002/08/13/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Depremi 30 saniye önceden bilmek mümkün... 
+</HEADLINE>
+<TEXT>
+
+     Bilim adamları, Tayvan'da sismik gözlem istasyon ağından elde edilen verileri işleyen bir sistemle, depremin 30 saniye önce bilinebileceğini, böylece yıkımı aza indirecek bir hazırlık yapılabileceğini belirtiyor. 
+     Amerika Sismoloji Derneği bülteninde yayımlanan araştırmayı yöneten California Deprem Merkezi'nden Leon Teng, acil durum olarak değerlendirdiği 30 saniye için, bu sürede insanların depreme hazır olabileceğini söyledi, Depremin saniyeler öncesinden de olsa bilinmesi gaz vanalarının kapatılması, toplu taşımacılığı durdurma gibi zararı en aza indirebilecek önlemlerin alınmasını sağlayacak. 
+     Teng'in araştırması, Tayvan'daki sismik istasyon ağından elde edilen verilerin çözümlenmesine dayanıyor. Bilim adamları, ''subnetwork'' adı verilen gözlem istasyonlarına yerleştirilen bir sistemle, belirli depremleri ilk aşamalarında tanımlayabiliyor, depremin merkez üssünü ve şiddetini tahmin eden hesaplar yapıyor ve bu, sarsıntı öncesinde alarm verecek zamanı sağlıyor. 
+     Denemelerde ''subnetwork'' sisteminin doğru çalıştığı ve Richter ölçeğine göre 3.5 ile 6.3 arasında büyüklükleri değişen 54 depremi bildiği, yüzde yüze yakın bir kesinlik gösterdiği kaydedildi. 
+     Teng, deprem erken uyarı sisteminde Tayvan örneğinin benzer sismik aktiviteye sahip bölgelerde de uygulanabileceğini, ancak California gibi birçok yerde depremin nerede ve ne zaman vuracağını saptamaya yönelik ''subnetwork'' kurmak için yeterli sismik gözlem istasyonları olmadığını belirtti. 
+     Tayvan'ın sismik gözlem sistemi için 60 milyon dolar harcadığını açıklayan Teng, bu sistemin California'da kurulması halinde 200 milyon dolara mal olacağına dikkat çekti. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

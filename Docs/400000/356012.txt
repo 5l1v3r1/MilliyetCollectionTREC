@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 356012 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/27/son/sonyas02.html </URL>
+<DATE> 2005/06/27/ </DATE>
+<TIME> 17.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternetteki çöp postaların ABD'ye 6 aylık zararı 17 milyar dolar 
+</HEADLINE>
+<TEXT>
+
+     İnternet kullanıcılarının en büyük sorunlarından çöp postaların, çalışanlara zaman kaybından ötürü bu yıl ABD ekonomisine 17 milyar dolarlık zarar vereceği bildirildi. 
+     Açıklamayı yapan San Francisco'daki Ferris Research adlı kuruluş, çöp postaların engellenmesi konusunda Amerikan Kongresi'nde 2003 kasımında kabul edilen yasanın yeterince caydırıcı olmadığını ortaya koyduğunu da kaydetti. 
+     Amerikan Federal Ticaret Komisyonu FTC verilerine göreyse 2003 yılında her 25 yetişkin Amerikalıdan biri, kişisel bilgilerinin internet üzerinden çalınmasına maruz kaldı. Bu oranın, son zamanlarda hızla yükseldiği belirtilirken, bu konuda alınması gereken tedbirlerin yer aldığı FTC web sitesinin 1,8 milyon kişi tarafından ziyaret edildiği kaydedildi. 
+     Yine FTC verilerine göre, 2004 yılında yapılan dolandırıcılık şikayetlerinin yarıdan fazlası da internetle alakalı. 
+     Bu arada Pew Internet ve Amerikan Yaşam Projesi'ne göre, 1995 yılında ABD'de her beş kişiden sadece biri internet kullanırken, bugün her üç kişiden ikisi Internet kullanıyor. Pew araştırması, 2004 Aralık ayı itibariyle her gün 58 milyon Amerikalının e-posta gönderdiğini ve 35 milyon Amerikalınınsa haberleri internet sitesinden okuduğunu gösterdi. 
+     Öte yandan Jupiter Research adlı kuruluşun verilerine göre, reklam sektöründeki etkinliği her geçen gün artan internetteki reklamların bu yıl ABD'de yüzde 27 oranında artarak 10,7 milyar dolara ulaşması bekleniyor. 
+     
+</TEXT>
+</DOC>

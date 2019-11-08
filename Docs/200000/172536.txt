@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 172536 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/30/son/soneko02.html </URL>
+<DATE> 2003/07/30/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düşüşle kapandı 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Borsası'nda Dow Jones Sanayi Endeksi, 62.05 puan düşüşle günün son seansını 9,204,46 puandan kapadı. 
+     En ileri teknoloji ortaklıklarının ibresi Nasdaq Bileşik Endeksi de, 3.96 puan düşerek 1,731.40 puandan kapandı. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 322080 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/09/yasam/yas02.html </URL>
+<DATE> 2005/03/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Cep mesajına 'dokunuldu ' 
+</HEADLINE>
+<TEXT>
+
+
+Bilgisayar uzmanı Uzunoğlu, kısa cep telefonu mesajlarının SMS 'içerik ve tarihini' değiştirebilen program yazdı 
+
+NESRİN COŞKUN DHA 
+
+Cep telefonuyla gönderilen tehdit, hakaret ve taciz mesajlarından dava bile açılabilirken, bu mesajların 'değiştirilemez olduğu' inanışı yerle bir oldu. Bilgisayar uzmanı Yasin Uzunoğlu, cep telefonlarındaki kısa mesajların içeriğini, tarihini değiştirecek bir program geliştirdi. 
+
+Herkes tehlikede 
+Bu durum, iyi niyetle gönderilen bir mesajın içeriğinin değiştirilerek, gönderene karşı kullanılması tehlikesi bulunduğunu da ortaya çıkardı. Teknik olarak, telefon operatörünün kayıtlarından, gönderilen SMS mesajının içeriğine ulaşılamıyor. Sadece mesajın günü, ayı, yılı ve saati çıkarılabiliyor, ve böylece kimden ne zaman mesaj gönderildiği belirlenip karşılaştırılabiliyor. 
+Programın kızılötesi özelliği olan telefonlarda işe yaramadığını belirten Uzunoğlu, şu bilgileri verdi "Bilgisayar aracılığıyla cep telefonunun mesaj kutusuna girip mesaj metnini istediğim gibi değiştiriyorum. Bakıldığında mesaj yine aynı telefondan gelmiş görünüyor. Ancak içerik değişmiş oluyor. İstenildiği takdirde mesajın gönderildiği zamanı tarih ve saat olarak da değiştirebiliyorum." 
+
+İnanır'ı yakmıştı 
+
+2002'de manken Buket Saygı, Kadir İnanır'ın cep mesajlarıyla kendisini taciz ettiğini öne sürdü. İnanır, 5 ay hapis cezası aldı. Çağla Şıkel'in, Şenol İpek'e gönderdiği söylenen 'Tostumu yedim, bekliyorum' mesajının da yuva yıktığı ileri sürülmüştü. 
+
+
+</TEXT>
+</DOC>

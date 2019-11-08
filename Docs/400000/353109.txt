@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 353109 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/17/son/sonyas23.html </URL>
+<DATE> 2005/06/17/ </DATE>
+<TIME> 13.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Mars Express'in radarına ikinci anten 
+</HEADLINE>
+<TEXT>
+
+     Avrupa Uzay Dairesi'nin ESA Mars'a gönderdiği Mars Express uzay aracının radarına ikinci antenin takıldığı bildirildi. 
+     ESA Genel Direktörü Jean-Jacques Dordain, 20 metre uzunluğundaki antenin Mars Express'teki Marsis radarına başarıyla monte edildiğini belirterek, ''Kaygı dönemleri ve kritik kararların ardından bu güzel bir başarı. Bu sonuç, ESA, Avrupa endüstrisi ve genel bilim derneği arasındaki ekip çalışmasının etkisinin kanıtıdır'' dedi. 
+     Marsis radarı, Mars'ın yüzeyinde su kaynağı bulunup bulunmadığını araştıracak ve gezegendeki iyonosfer tabakasını inceleyecek. 
+     İkinci antenin takılması işlemi, ilk antenin yerleştirilmesi esnasında meydana gelen bir sorun yüzünden geçen ay ertelenmişti. 
+     Mars-Express, 2 yıllık bir görev için, Haziran 2003'de fırlatılmış ve altı ay sonra gezegenin yörüngesine girmişti. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 403047 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/13/son/soneko14.html </URL>
+<DATE> 2005/12/13/ </DATE>
+<TIME> 10.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kasım'da en yüksek getiriyi borsa sağladı... 
+</HEADLINE>
+<TEXT>
+
+     Finansal yatırım araçları arasında Kasım ayında en yüksek reel getiriyi borsa sağladı. 
+     Türkiye İstatistik Kurumu TÜİK , seçilmiş finansal yatırım araçlarının Kasım ayı itibarıyla gerçekleşen reel getiri oranlarını açıkladı. 
+     Buna göre Kasım ayında, tüketici fiyatları endeksi TÜFE bazında borsada yüzde 6.61, külçe altında ise yüzde 5.42 reel getiri görülürken, yatırımcılar mevduat faizinde brüt yüzde 0.05, dolarda yüzde 1.18, avroda ise yüzde 3.25 getiri kaybına uğradı. 
+     
+     YILLIK GETİRİ 
+     Bu yıl Kasım ayı itibariyle son bir yıla bakıldığında ise borsa endeksi ile mevduat faizine yatırım yapanlar reel bazda kazanırken, avro, dolar ve altına yatırım yapanlar zarar etti. 
+     Söz konusu dönemde borsa endeksi yüzde 42.27, mevduat faizi brüt yüzde 7.47 oranında yıllık bazda getiri sağlarken, avroda yüzde 20.92, dolarda yüzde 12.83, külçe altında da yüzde 6.89 reel getiri kaybı oldu. 
+     
+</TEXT>
+</DOC>

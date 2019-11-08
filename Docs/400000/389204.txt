@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 389204 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/24/son/soneko13.html </URL>
+<DATE> 2005/10/24/ </DATE>
+<TIME> 10.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tüketici Güven Endeksi 2 puan geriledi... 
+</HEADLINE>
+<TEXT>
+
+     Tüketici Güven Endeksi bu yılın Eylül ayında, bir önceki aya göre 2 puan yüzde 2.01 azalarak 95.5'e indi. Endeks, Ağustos ayında 97.5 düzeyindeydi. 
+     Güven endeksindeki düşüş, ''tüketicilerin mevcut dönem ve gelecek dönem satın alma güçlerine, gelecek dönem genel ekonomik duruma ve iş bulma olanakları ile mevcut dönemin dayanıklı tüketim malı satın almak için uygunluğuna dair değerlendirmelerin kötüleşmesinden'' kaynaklandı. 
+     Devlet İstatistik Enstitüsü DİE ile Merkez Bankası tarafından her ay ortaklaşa düzenlenen ve tüketicilerin harcama davranış ve beklentilerinin değerlendirildiği Tüketici Eğilim Anketi'nin, Eylül ayı sonuçları açıklandı. 
+     Endeksin alt kalemleri ve değişim oranlarına bakıldığında ise mevcut dönemde satınalma gücü endeksi, Ağustos ayına göre azalarak 89.6'dan 87.3'e indi. 
+     Gelecek dönem satın alma gücü endeksi 91.3'den 89.5'e, gelecek dönem genel ekonomik durum endeksi 93'den 89.9'a, mevcut dönemin dayanıklı tüketim malı satın alma için uygunluğu endeksi 127.1'den 125.6'ya, gelecek dönem iş bulma olanakları endeksi 86.4'den 85.3'e geriledi. 
+     Endeksin 100'den büyük olması tüketici güveninde iyimser durum, 100'den küçük olması tüketici güveninde kötümser durum, 100 olması ise tüketici güveninde ne iyimser ne de kötümser durum olduğunu gösteriyor. 
+     
+</TEXT>
+</DOC>

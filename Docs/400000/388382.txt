@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 388382 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/20/son/sonyas09.html </URL>
+<DATE> 2005/10/20/ </DATE>
+<TIME> 11.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Direksiyon başında uyumaya son... 
+</HEADLINE>
+<TEXT>
+
+     Japonya'da bir firma, direksiyon başında uyuklayan şoförü uyandırmak için geliştirdiği bir sistemi tanıttı. 
+     Denso firmasının Tokyo'daki otomobil fuarında tanıttığı sistemde, şoför mahalline yerleştirilen bir kamera kullanılıyor. Kamera, sürücünün göz kapaklarının ne kadar açık olduğunu ölçüyor. Uyuklama emaresi belirirse, sistem sürücünün boyun ve yüz nahiyesine aniden üflüyor. 
+     Sistem, sürücüyü uyanık tutmak için müzik yayını da yapabiliyor. Sürücüyü yüz hatlarından tanıyabilen sistem, direksiyona geçen kimsenin hafızasındaki kişi olduğunu görünce, koltuk ayarını da onun önceki tercihlerine göre otomatik olarak yapıyor. 
+     Denso, sürücünün nabzını sürekli kontrol altında tutan bir sistemi de tanıttı. Bu sistem, direksiyona yerleştirilen elektrotlar sayesinde sürücünün nabız atışlarını kontrol ediyor, kalp ritmi bozulursa alarm veriyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 388375 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/20/son/sonyas02.html </URL>
+<DATE> 2005/10/20/ </DATE>
+<TIME> 09.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Japonlardan 370 km hız yapan otomobil 
+</HEADLINE>
+<TEXT>
+
+     Japonlar, saatte 370 km hız yapabilen 8 tekerlekli elektrikli otomobilin prototipini tanıttı. 
+     Japon hükümeti ve özel şirketlerin desteğiyle Keio üniversitesi uzmanlarınca geliştirilen prototip, Tokyo'daki otomobil fuarında tanıtıldı. 
+     4,2 saniyede 0'dan 100 km hıza ulaşan otomobil, 7 saniyede 160 km hıza çıkabiliyor. Mühendislerin açıklamasına göre, ''Eliika'' adı verilen araç, lityum-iyon pilleriyle çalışıyor. Aracın her tekerleğinde bir motor bulunuyor. 
+     Yolda başarıyla denendiği bildirilen aracın, birkaç yıla kadar sınırlı sayıda üretileceği, aracın fiyatının yaklaşık 217 bin avro olacağı bildirildi. 
+     
+</TEXT>
+</DOC>

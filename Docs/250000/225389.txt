@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 225389 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/25/yasam/yas08.html </URL>
+<DATE> 2004/03/25/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnsan beyni kumanda oldu 
+</HEADLINE>
+<TEXT>
+
+   NEVSAL ELEVLİ Londra 
+   
+   Bilim adamları insanın beyin dalgalarıyla kontrol edebildiği bir bilgisayar programı geliştirdi. Mind Balance Akli Denge adlı proje, Dublin'deki MIT Media Lab Europe'un laboratuvarında geçen ay tanıtıldı. Sistemin işlemesi için insanın kafasına Cerebus adlı, maska benzeyen kablosuz bir cihaz takılıyor. Bu cihaz, beyinden aldığı sinyalleri EEG ve Bluetooth mavi diş teknolojisini kullanarak bilgisayara iletiyor. Bu sayede verilen komutlarla, ekrandaki nesne sağa - sola hareket ettirilebiliyor. 
+   
+   
+</TEXT>
+</DOC>

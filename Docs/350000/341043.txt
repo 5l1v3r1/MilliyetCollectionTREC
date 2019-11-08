@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 341043 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/09/son/sonyas10.html </URL>
+<DATE> 2005/05/09/ </DATE>
+<TIME> 11.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternette 2 milyar dolarlık bela 
+</HEADLINE>
+<TEXT>
+
+     Açılış sayfanız bir porno site oldu ve değiştiremiyorsunuz. İstenmeyen pencereler ekranınızı dolduruyor. Arama yaptığınızda alakasız sitelere gidiyorsunuz. Bunlar her geçen gün daha fazla sayıda internet sakinini rahatsız eden konular ve hepsinin kaynağı gizlice sisteminize yüklenen casus yazılımlar spyware . 
+     Webroot tarafından yapılan bir araştırmaya göre bu yazılımların yarattığı ekonominin boyutu 2 milyar dolara ulaştı. Bu oran online reklam bütçesinin dörtte biri. Temizleme yazılımlarıyla yapılan araştırmada bilgisayarların yüzde 88'inde casus yazılımlara rastlandı. Bu oran iş bilgisayarlarında yüzde 87 oldu. Basılan tuşları kaydeden dolayısıyla kullanıcı adı ve şifrelerini kaydeden yazılımların oranıysa yüzde 7 olarak kayıtlara geçti. 
+     
+</TEXT>
+</DOC>

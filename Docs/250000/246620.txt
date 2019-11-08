@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 246620 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/09/son/sontur24.html </URL>
+<DATE> 2004/06/09/ </DATE>
+<TIME> 14.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ATM'lere mikro kamera yerleştirip, hesaplardan para çekiyordu... 
+</HEADLINE>
+<TEXT>
+
+     İstanbul'da yakalanan, bankaların otomatik para çekme makinelerine yerleştirdiği kopyalama cihazı ve mikro kamera ile vatandaşların kredi kartı bilgilerini alarak, düzenlediği sahte kartlarla hesaplardan para çeken Romanya uyruklu kişinin tutuklanarak cezaevine konulduğu bildirildi. 
+     Mali Şube Müdürlüğü'nden yapılan açıklamaya göre, bazı bankaların ATM makineleri aracılığıyla vatandaşların bilgisi olmadan hesaplardan para çekildiği yönündeki başvurular üzerine çalışma başlatıldı. 
+     Yürütülen çalışma sonucu, bankaların ATM makinelerine kredi kartlarının manyetik şerit bilgilerini kopyalayan ''Reader'' cihazı yerleştirildiği, mikro kamerayla da şifrelerin öğrenildiği tespit edildi. 
+     İlgili banka ATM'leri önünde gerekli önlemleri alan polis, 5 Haziran 2004 tarihinde Bostancı'da bir banka ATM'sine gelerek yerleştirdiği cihazları almaya çalışan Romanya uyruklu Stetanita Magos'u gözaltına aldı. 
+     Magos'un üzerinde ve kaldığı yerde yapılan aramada, 1 adet reader cihazı, 1 adet alıcı receiver , 2 adet kredi kartı, 1 adet dijital video kamera, 1 adet lamba görünümünde vericili mikro kamera, 1 adet mini kamera kaseti, 1 adet elektronik açma kapama anahtarı ele geçirildi. 
+     Magos'un, temin ettiği bu bilgileri düzenlediği kartlara yükleyerek ATM'lerden para çektiği, para çektikten kısa bir süre sonra ülkesine döndüğü, parası bitince tekrar Türkiye'ye gelerek aynı şekilde dolandırıcılık yaptığı bildirildi. 
+     Şubedeki sorgu ve işlemlerinin ardından Kadıköy Cumhuriyet Savcılığı'na çıkarılan Magos, tutuklanarak cezaevine konuldu. 
+     
+</TEXT>
+</DOC>

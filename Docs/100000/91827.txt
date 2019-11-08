@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 91827 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/06/24/son/sontur09.html </URL>
+<DATE> 2002/06/24/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dikkat... ''Çernobil virüsü'' 26 Haziran'da aktif hale gelebilir 
+</HEADLINE>
+<TEXT>
+
+     İnternet üzerinde yayılan ve bilgisayarlardaki ''BIOS'' çipini bozarak kalıcı hasara neden olan ''Çernobil Virüsü'nün, 26 Haziran'da aktif hale geçmesinin beklendiği bildirildi. 
+     Türk İnternet Birliği Kurucu Üyesi Hakan Topuzoğlu, son günlerde oldukça yaygınlaşan ''W95.CIH'' virüsünün bir türevi olan ve 1998 yılı ortalarında yazıldığı tahmin edilen Çernobil virüsünün, bilsayarlardaki BIOS çipini bozarak kalıcı hasara yolaçtığını söyledi. 
+     BIOS çipinde bulunan programın üzerine birtakım bilgiler yazarak, bilgisayarı açılamaz hale getiren virüsün, çeşitli sürelerde aktif hale geçtiğini ifade eden Topuzoğlu, şöyle dedi 
+     ''Bu virüsün sıklıkla yayılan versiyonu, 26 Nisan'da aktif hale gelir. Ancak, herhangi bir ayın 26'sında tetiklenen versiyonları da vardır. Bilinen üç versiyonundan Nisan ayının 26'sında aktif hale geçen CCIH 1.2 TTIT ve CCIH 1.3 TTIT , herhangi bir ayın 26'sında aktif hale geçen versiyonu ise CCIH 1.4 TATUNG dir. CCIH virüsü, Windows 95-98 işletim sistemi altındaki exe uzantılı program dosyalarına bulaşır. Virüslü program çalıştırıldığında, virüs belleğe yerleşir ve diğer çalıştırılan ya da kopyalanan programlara bulaşmaya başlar. Kendilerini bu dosyaların içindeki boş alanlara bulaştırdıklarından, virüs bir dosyada parça parça bulunabilir, ancak dosya boyutu aynı kalır.'' Bu virüsün, IBM'e en çok rapor edilen virüsler listesinde 14. sırada yeraldığını belirten Topuzoğlu, ''Bilgisayar dergilerinin verdiği bazı CD-ROM'lardan ve internet üzerindeki tanınmış bazı web sitelerinden alınmış dosyalardan yayıldığı saptanmıştır. Bu da virüse geniş bir alanda yayılma şansı vermiştir'' dedi. 
+     
+     BİLGİSAYAR GÜVENLİĞİNİN SAĞLANMASI... 
+
+     Topuzoğlu, virüse karşı bilgisayara anti-virüs programı yüklenmesi gerektiğini vurgulayarak, sözlerini şöyle sürdürdü 
+     ''Bilgisayarınızda virüs etkin hale gelmişse, yapabileceğiniz en iyi şey düşünmeden işletim sistemini tekrar kurmaktır. Eğer bilgisayarınızdan şüpheleniyorsanız, bilgisayarınız açılırken "Del" tuşuna basarak sistem tarihini geri veya ileriye alınız. Tarihin herhangi bir ayın 26. günü ile 1 Ocak, 14 Şubat, 31 Aralık gibi bilinen tarihler olmamasına da dikkat edinmelidir.'' 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 293792 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/01/son/soneko27.html </URL>
+<DATE> 2004/12/01/ </DATE>
+<TIME> 12.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı 179 puanlık artışla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeksi, dünkü kapanışa göre 179.61 puan artarak 1. seansı 22,665.81 puandan tamamladı. 
+     1. seansta hisse senetleri ortalama yüzde 0.80 değer kazandı. 
+     Dün 22,486.20 puandan kapanan İMKB Ulusal 100 Endeksi, ilk seansa 36.48 puan artarak 22,522.68 puandan başladı. İlk yarıyı 22,655.91 puandan geçen endeks, seans içinde en düşük 22,481.98 kadar gerilerken, en yüksek 22,843.72 puanı gördü. 
+     Seans sonunda mali endeks 261.12 puan artarak 30,861.13 puana, sanayi endeksi 98.36 puan artarak 20,261.02 puana ve hizmetler endeksi 218.72 puan artarak 13,181.43 puana yükseldi. 
+     Böylece önceki kapanışa göre, mali grup hisseler ortalama yüzde 0.85, sanayi grubu hisseler ortalama yüzde 0.49 ve hizmet grubu hisseler ortalama yüzde 1.69 oranında değer kazandı. 
+     1. seansta işlem gören toplam 297 hisse senedinden 206'sı değer kazandı, 33'ü değer kaybetti, 58 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta, 322 trilyon 135 milyar 483 milyon liralık işlem hacmi oluştu. 
+     1. seansta Sabancı Holding, Doğan Holding, İş Bankası C , Turkcell ve Yapı ve Kredi Bankası en çok işlem gören hisse senetleri oldu. 
+     Borsa uzmanları, hafta başından itibaren satıcılı bir seyir izleyen piyasanın güne tepki alımlarıyla başladığına işaret ederek, 22,800 direncini test eden endeksin para girişinin yetersiz kalması nedeniyle bu seviyeyi aşamadığını belirtiyor. 
+     Uzmanlar, AB süreciyle ilgili gelişmeleri yakından izleyen piyasanın gün boyu 22,350-22,800 aralığında seyretmesinin beklenebileceğini ifade ederek, katılımcı sayısının sınırlı kalması ve 17 Aralık öncesi yatırımcıların pozisyon değişikliği konusunda acele etmeyecekleri düşünülürse piyasanın bu banda sıkışmasının olası göründüğünü kaydediyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 336029 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/22/son/sonyas01.html </URL>
+<DATE> 2005/04/22/ </DATE>
+<TIME> 02.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Patlamış mısırda, patlamayan taneciklerin sırrı çözüldü 
+</HEADLINE>
+<TEXT>
+
+     Bilimadamları, patlamış mısırdaki bazı taneciklerin neden patlamadığını buldular. 
+     Bazı mısır taneciklerinin neden ''beyaz pamukçuklara'' dönüşmediğini araştıran bilimadamları, patlamaları için taneciklerin merkezinde belli derecede nem olması gerektiğini uzun zamandır biliyorlardı. 
+     Ancak Purdue üniversitesi araştırmacıları, mısır taneciğinin patlama kapasitesinin, kabuğunun özelliğine bağlı olduğunu keşfettiler. 
+     Araştırmacılar, patlamamış mısır taneciklerinin kabuklarında, içeride nemin birikmesini önleyen deliklerin bulunduğunu ve uygun kabuk yapısına sahip olmadıklarını saptadılar. 
+     Purdue üniversitesinden gıda kimyası profesörü Bruce Hamaker, taneciklerin, basınç belli bir seviyeye ulaşınca infilak eden küçük basınçlı kazanlara benzediklerini belirterek, fazla miktarda nemin delikli kabuklardan dışarı kaçmasıyla taneciğin patlama yeteneğini kaybettiğini söyledi. 
+     Bu bulgulardan yol çıkarak, mısır üreticilerinin patlamaya en uygun türleri seçebilecekleri, hatta asgari miktarda patlamamış taneciğin kalacağı yeni türler yaratabilecekleri belirtildi. 
+     
+</TEXT>
+</DOC>

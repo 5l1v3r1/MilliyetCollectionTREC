@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 174481 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/08/son/soneko20.html </URL>
+<DATE> 2003/08/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Temmuz'da en yüksek reel getiriyi, mevduat faizi sağladı... 
+</HEADLINE>
+<TEXT>
+
+     Finansal yatırım araçları arasında, bu yılın Temmuz ayında reel bazda mevduat faizi yüzde 3.4 getiri sağlarken, diğer yatırım araçları zarar ettirdi. 
+     Devlet İstatistik Enstitüsü DİE verilerine göre, tüketici fiyatları TÜFE ile indirgendiğinde, Temmuz ayında reel bazda borsa endeksi yüzde 2.8, dolar yüzde 1.1, euro 3.6, külçe altın ise yüzde 3.5 oranında zarar ettirdi. 
+     Toptan eşya fiyatları TEFE bazında ise Temmuz ayında, mevduat faizi yüzde 3.5 getiri sağlarken, borsa endeksi yüzde 2.7, külçe altın yüzde 3.4, dolar yüzde 1.0, euro yüzde 3.5 oranında yatırımcısını zarara uğrattı. 
+     
+     YILLIK GETİRİ 
+     Temmuz ayı itibariyle son bir yıla TÜFE bazında bakıldığında ise reel olarak yine mevduat faizine yatırım yapanlar kazanırken, İMKB, dolar, euro ve altına yatırım yapanlar kaybetti. 
+     Doların yıllık reel getirisi göz önüne alındığında TEFE'de yüzde 32.6, TÜFE'de yüzde 33.6, Euro'nun sırasıyla yüzde 22.9, yüzde 23.9 oranlarında yatırımcıları zarar ettirdi. Aynı dönemde, borsa endeksi yıllık TEFE'de yüzde 12.6, TÜFE'de yüzde 13.8, külçe altın TEFE'de yüzde 24.9, TEFE'de yüzde 26 oranlarında yatırımcılarına zarar getirdi. 
+     
+</TEXT>
+</DOC>

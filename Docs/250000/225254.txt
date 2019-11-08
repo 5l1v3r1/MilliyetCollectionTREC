@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 225254 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/24/son/sontur04.html </URL>
+<DATE> 2004/03/24/ </DATE>
+<TIME> 10.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yargıtay "Kiracı anahtarı da teslim edecek" 
+</HEADLINE>
+<TEXT>
+
+     Yargıtay, kiracının sözleşmeden doğan sorumluluktan kurtulması için evi boşaltmasının yanı sıra anahtarı da teslim etmesi gerektiğine hükmetti. 
+     Davacı Rıdvan Demirsan, temerrüt nedeniyle kiraladığı evinin tahliyesi ve kira alacağı istemiyle dava açtı. 
+     Ankara 1. Sulh Hukuk Mahkemesi, ev tahliye edildiğinden tahliye konusunda karar verilmesine yer olmadığına, alacağın kısmen kabulüne karar verdi. Davacı Demirsan, yerel mahkemenin kararını temyiz etti. 
+     Alınan bilgiye göre, temyiz istemini görüşen Yargıtay 6. Hukuk Dairesi, yerel mahkemenin kararını oybirliğiyle bozdu. 
+     Kararda, taraflar arasındaki ilk uyuşmazlığın, kiralananın, davanın ikamesinden önce veya sonra tahliye ve kiralayan davacıya teslim edilip edilmediği noktasında olduğu kaydedildi. 
+     Kira tespit davası dosyasında bilirkişinin bu yerin boş olduğunu beyan ettiğini, davalının da davacıya çektiği telgrafla dava konusu yeri boşalttığını bildirdiği anlatılan kararda, şöyle denildi 
+     ''Ancak kiralanana ait anahtarın tevdi mahalline ya da davacıya verildiği konusunda bir açıklamada bulunmamıştır. Kiracının sözleşmeden doğan sorumluluktan kurtulabilmesi için kiralananın boşaltılması yeterli olmayıp anahtarın da ya kiralayan davacıya ya da tevdi mahalline teslim edilmesi gerekir. Bu yön üzerinde durulmadan ve yeterli araştırma yapılmadan eksik inceleme ile karar verilmesi hatalı olmuştur.'' 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 156146 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/12/son/sondun28.html </URL>
+<DATE> 2003/05/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dikkat ... Yeni virüs "Fizzer Worm" işbaşında... 
+</HEADLINE>
+<TEXT>
+
+     Başta Japonya olmak üzere birçok Asya ülkesiyle ABD'de bilgisayarlara ''Fizzer Worm'' adlı yeni bir virüs bulaştığı bildirildi. 
+     Hong Kong'daki Trend Micro Şirketi tarafından yapılan açıklamada, Japonya'daki bilgisayarların önemli bir kısmında yeni virüsün görüldüğü, diğer Asya ülkeleriyle ABD'de de virüsün bilgisayarlara bulaştığının bildirildiği kaydedildi. 
+     ''Orta seviyede risk'' alarmı yayınlayan şirket, virüsün elektronik posta yoluyla ve benzer dosyalarla Windows 95, 98, ME, NT, 2000 ve XP işletim sistemlerini etkilediğini belirtti. 
+     Virüsün, EXE, PIF,COM ve SCR ilişik dosyalarıyla bilgisayarlara gönderildiği, konu ya da mesajların gelişigüzel olarak üretildiği bildirildi. 
+     
+</TEXT>
+</DOC>

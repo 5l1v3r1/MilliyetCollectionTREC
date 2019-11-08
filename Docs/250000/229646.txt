@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 229646 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/08/son/soneko55.html </URL>
+<DATE> 2004/04/08/ </DATE>
+<TIME> 18.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+"Alo hissem yerinde mi " ucuzlayacak... 
+</HEADLINE>
+<TEXT>
+
+     Hisse senetlerinin takibini kolaylaştıran ALOTAKAS sesli yanıt sisteminin kullanımı, yarından itibaren ucuzlayacak. 
+     Takasbank duyurusuna göre, 0212 315 22 22 numaralı ALOTAKAS sesli yanıt sistemi, yatırımcıların sistemi kullanma maliyetlerinin düşürülmesi amacıyla yarından itibaren 444 74 74 numaralı telefondan hizmet vermeye başlayacak. 
+     444 74 74 numaralı telefon, Türkiye'nin her yerinden alan kodu eklenmeden aranabilecek. Sabit telefon ile yapılacak aramalar Türk Telekom'un şehir içi görüşme tarifesi üzerinden, Turkcell, Aria, Aycell GSM operatörleri kullanılarak yapılacak aramalar ise kullanılan GSM operatörünün şebeke içi ücret tarifesi üzerinden ücretlendirilecek. 
+     SPK düzenlemeleri gereğince yatırımcılar tarafından aracı kuruluşlara teslim edilen hisse senetleri, aracı kuruluş nezdinde hesaben takip edilirken, fiziki olarak ise merkezi saklama kuruluşu olan Takasabnk A.Ş.'de aracı kuruluş hesabında saklanıyor. 
+     Yatırımcılar ALOTAKS sesli yanıt sistemine, Takasbank tarafından oluşturularak kendilerine bildirilmiş olan Takasbank sicil numarası ve sicil şifresini, aracı kuruluş kodu, hesap numarası ve aracı kuruluş tarafından verilen şifreyi kullanarak ulaşabiliyor. 
+     
+</TEXT>
+</DOC>

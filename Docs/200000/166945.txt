@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 166945 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/02/son/sontur50.html </URL>
+<DATE> 2003/07/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Genç bir yıldız bulundu... Yeni bir güneş mi 
+</HEADLINE>
+<TEXT>
+
+     Bilim adamlarının, çok güçlü objektifi olan ve tek bir teleskop işlevi gören, ''Keck Interferometer'' olarak bilinen birbirine bağlı ikili teleskopla Güneş'e bugüne kadar keşfedilenlerden daha çok benzeyen genç bir yıldızı izlediği bildirildi. 
+     California Teknoloji Enstitüsü'nden bilim adamları, ''DG Tau'' olarak adlandırılan yıldızın etrafının, gezegen kaynakları olduğu düşünülen, girdap şeklinde dönen yuvarlak nesnelerle çevrili olduğunu kaydettiler. 
+     DG TAU yıldızıyla ilgili 23 Ekim 2002 ve 13 Şubat 2003'te yapılan gözlemlerin, yakında Astrofizik Dergisi'nin yeni sayısında yayımlanacağı belirtildi. 
+     Gökbilimciler, 1995 yılından bu yana güneş sistemi dışından 100'den fazla gezegeni keşfettiler. 
+     Keşfedilen genç yıldızla ilgili gözlemlerin, yıldızların nasıl oluştuğu tek ya da çift ve sonunda etraflarında gezegenlerin nasıl meydana geldiğine ilişkin çalışmalara ışık tutması bekleniyor. Keck Interferometer teleskobunun, gezegenlerin oluştuğu sanılan yıldızların etrafındaki toz bulutlarının miktarının ölçülmesi gibi çalışmalarla da Amerikan Havacılık ve Uzay Dairesi'nin NASA 2012'de başlatmayı düşündüğü Dünya benzeri gezegenleri arama çalışmasında rol alması bekleniyor. 
+     
+</TEXT>
+</DOC>

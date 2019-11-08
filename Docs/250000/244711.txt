@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 244711 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/02/son/soneko23.html </URL>
+<DATE> 2004/06/02/ </DATE>
+<TIME> 12.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı 3 puanlık kayıpla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi, önceki kapanışa göre 3.72 puan kayıpla, 1. seansı 16,763.06 puandan tamamladı. 
+     1. seansta hisse senetlerinin ortalama değer kaybı yüzde 0.02 olarak gerçekleşti. 
+     Dün 16,766.78 puandan kapanan İMKB Ulusal 100 Endeksi, 1. seansa, 16,725 puandan başladı. İlk yarıyı 16,863 puan seviyesinden geçen endeks, seans içinde en düşük 16,672.44, en yüksek 16,925.52 puanı gördü. 
+     Seans sonunda mali endeks 15.04 puan kayıpla 22,388.12 puana, sanayi endeksi 51.31 puan kayıpla 15,313.50 puana geriledi, hizmetler endeksi 90.31 puan artışla 9,577.79 puana yükseldi. 
+     Böylece, önceki kapanışa göre, mali grup hisseler ortalama yüzde 0.07, sanayi grubu hisseler ortalama yüzde 0.33 değer kaybetti, hizmet grubu hisseler ortalama yüzde 0.95 değer kazandı. 
+     1. seansta işlem gören toplam 299 hisse senedinden 135'i değer yitirdi, 77'si değer kazandı, 87 hissenin fiyatında değişiklik olmadı. 
+     Seansta, 205 trilyon 678 milyar 730 milyon liralık işlem hacmi oluştu. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 403203 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/13/son/sonyas18.html </URL>
+<DATE> 2005/12/13/ </DATE>
+<TIME> 12.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnsansı robot 'Asimo', resepsiyonda çalışacak 
+</HEADLINE>
+<TEXT>
+
+     Japon teknolojisinin ulaştığı tepe noktalarından biri olan insansı robot ''Asimo'''nun, Nisan ayından itibaren resepsiyon görevlisi olarak çalışmaya başlayacağı bildirildi. 
+     Asimo'nun sahibi Honda'dan yapılan açıklamada, şirketin Wako kentindeki bir şubesinin kafesinde ''çalışmaya'' başlayacak Asimo'nun görevinin, ''müşterileri karşılamak ve onlara kahve ikramında bulunmak'' olduğu belirtildi. 
+     1.30 metre boyunda ve 54 kilo ağırlığındaki Asimo'yu geliştiren mühendis Satoshi Shigemi, düzenlediği basın toplantısında, ''Asimo'nun kapasitesi eskiden insanlara hizmet etmek için yeterli değildi. Yeni Asimo, resepsiyon görevlisi olarak çalışabilecek'' dedi. 
+     Asimo'nun misafirlere gidecekleri yere kadar eşlik edebileceğini ve onlara içecek sunabileceğini ifade eden Shigemi, Asimo'nun seri olarak üretilip, yıllık 140 bin avro ücretle isteyen işyerlerine kiraya verilmesinin düşünüldüğünü de açıkladı. 
+     Beyaz astronot elbisesi giymiş bir çocuk görünümde olan Asimo, saatte 6 kilometreye kadar bir hızla yürüyebiliyor. Kendi ekseni etrafında dönebilen ve zigzaglar çizebilen Asimo, belirli bir hızda koşma yetisine de sahip bulunuyor. 
+     İstanbul'da 20-29 Kasım 2004 tarihleri arasında düzenlenen ''Auto Show'' fuarına katılan Asimo, Başbakan Recep Tayyip Erdoğan ile tokalaşarak, büyük sükse yapmıştı. Asimo, merdiven inip çıkabiliyor, konuşabiliyor ve bir insan zarafetinde davranışlar sergileyebiliyordu. 
+     
+</TEXT>
+</DOC>

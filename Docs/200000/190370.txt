@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 190370 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/22/son/sondun10.html </URL>
+<DATE> 2003/10/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Internetten müzik indirecek müzik setleri geliyor 
+</HEADLINE>
+<TEXT>
+
+     Japonya'da 4 firma, bilgisayara ihtiyaç duymadan internetten müzik indirerek çalabilecek özelliklere sahip stereo müzik setleri geliştirdiklerini açıkladı. 
+     Müzik dünyasında devrim yaratacak cihazı geliştiren firmalar Sony, Sharp, Pioneer ve Kenwood. Söz konusu şirketlerin, bu amaçla oluşturdukları ''Any Music Planning Inc'' adlı şirketin yüzde 25 hissesine sahip oldukları ifade edildi. 
+     Örnek modeli dün kamuoyuna tanıtılan yeni cihazın satışına gelecek yıl başlanması bekleniyor. 
+     Müzik sanayindeki hızlı gelişmeye cevap vermek amacıyla planlanan yeni cihazın Linux işletim sistemiyle çalışacağı kaydedildi. 
+     Klasik müzik setlerini andıran yeni cihazın ilave olarak likit kristal bir ekranı ve hızlı internet bağlantısı için ethernet girişleri bulunuyor. Kullanıcıların cihaz aracılığıyla internette müzik taraması yapabilecekleri, buldukları müzikleri indirerek katı diske depolayabilecekleri, set aracılığıyla çalabilecekleri, mini diske kaydedebilecekleri ya da taşınabilir müzik kutularına yükleyebilecekleri ifade edildi. 
+     ''Any Music'' şirketi yöneticisi Fujio Naguchi, ''ilk önce Japon piyasasına yoğunlaşacağız. Ancak hayalimiz tüm dünyaya hizmet verebilmek'' açıklamasında bulundu. 
+     
+     APPLE 1 MİLYON ŞARKI SATTI 
+     Öte yandan, Apple firması, Windows bilgisayar kullanıcılarının ''iTunes'' adlı dijital müzik yazılımını indirdikten sonra Apple'in sanal müzik mağazasından 1 milyondan fazla şarkı satın aldıklarını açıkladı. 
+     Kullanıcılar şarkı basına 99 sent ödüyor. 
+     Apple, yazılımının Windows sürümünü geçen Perşembe günü lanse etmişti. 
+     Apple, aynı programı Mac kullanıcıları için lanse ettiğinde 1 milyon şarkı satışı ancak bir haftada gerçekleşmişti. Programın kullanıma verildiği Nisan ayından bu yana satın alınan toplam şarkı sayısı ise 14 milyona ulaştı. 
+     
+</TEXT>
+</DOC>

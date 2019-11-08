@@ -1,0 +1,118 @@
+<DOC>
+<DOCNO> 311526 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/02/guncel/gun01.html </URL>
+<DATE> 2005/02/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yaş ve zaman nasıl hesaplanır 
+</HEADLINE>
+<TEXT>
+
+
+Yaş ve emeklilik zamanının hesaplanması en çok karıştırılan konulardan biridir. vereceğimiz formülle, aslında bunun hiç de zor olmadığını göreceksiniz 
+
+EMEKLİLİK HAKKINDA HER ŞEY 
+Hazırlayan Şevket Kerimoğlu 
+Faks 212 505 68 09 
+
+Giriş ve kısa tarihçe 
+Sosyal güvenlik kurumlarının açıkları arttıkça, ilk oynanmak istenen emeklilik aylığına hak kazanma zamanı olmuştur. Bu yazı dizimizde kimlerin hangi şartlarla, ne zaman emekli olabileceği örneklerle açıklanacaktır. 
+Bu yıl 2005 yılı haziran ayı sonuna kadar değiştirilmesi düşünülen, Türk Sosyal Güvenlik Sistemi ve sonrasında sizlerin emeklilik şartlarında da bazı değişiklikler olabilecektir. 
+Mevcut haklarınızı öğrenmeniz ve en azından haklarınızda daha geriye gidişe "dur" diyebilmeniz için bu yazı dizisinden yararlanarak ne zaman hangi tarihte emekli olabileceğinizi hesaplayabilirsiniz. 
+Çalışanların emekliliklerinin geciktirilmesi işi son dönemde ilk kez, 1987 yılında 3395 Sayılı Kanun ile Turgut ÖZAL Hükümetince emeklilikte belirli bir süre prim ödeme ve belirli bir süre sigortalı olma şartının yanında, belirli bir yaşı tamamlama şartı ile başlatılmıştı. 
+1992 yılında ise, 3774 Sayılı Kanun ile Süleyman DEMİREL hükümetince emeklilikte "YAŞ" şartı tamamen kaldırıldı. 
+08.09.1999'da Resmi Gazete'de yayımlanan, DSP, MHP, ANAP koalisyon hükümetince çıkarılan 4447 Sayılı Kanun ile emeklilikte "YAŞ" şartı yeniden getirildi ve eski çalışanlar için "KADEME" getirildi. 4447 Sayılı Kanun'daki eski çalışanlarla ilgili "KADEMELER", Anayasa Mahkemesi'nce iptal edildi ve TBMM iptal edilen "KADEMELER" ile ilgili yeni düzenleme yaptı. 23.05.2002 tarihinden itibaren geçerli olan 4759 Sayılı Kanun, 01.06.2002 günkü Resmi Gazete'de yayımlandı. 
+Şimdi ise SSK, Bağ-Kur ve T.C. Emekli Sandığı bir araya getirilmeye çalışılıyor. 
+Diziye, bulunduğunuz yaş ve emeklilik zamanın nasıl hesaplandığını anlatarak başlayacağız. Ardından da 35 milyonluk bir nüfusu kapsayan, ülkenin en büyük sosyal güvenlik kurumu SSK'dan emeklilik şartlarını ele alacağız. Daha sonra Bağ-Kur ve T.C. Emekli Sandığı'ndan emeklilik şartları ile engelli emeklilerin emekliliğini ele alacağız. 
+
+Mağdurlar ne olacak 
+Diziye başlamadan önce mağdur edilen bir kesimi dile getirmek gerekir. Anayasa Mahkemesi, 4447 Sayılı Kanun'u iptal edince, yerine 4759 Sayılı Kanun getirildi, ama 4447 Sayılı Kanun ile 08.09.1999'a itibar edilerek "KADEME" hesaplanırken, 4759 Sayılı Kanun ile itibar edilen 23.05.2002 oldu. Ancak, Anayasa Mahkemesi'nin iptal etmediği 506 Sayılı Kanun'un Geçici 81. Maddesi'nin A bendindeki ve aynı bendin Bağ-Kur ve T.C. Emekli Sandığı'nın ilgili yerlerine denk gelen bentlerindeki 08.09.1999 tarihi değiştirilmediğinden, 08.09.1999 ile 23.05.2002 arasında kadınlarda 18, erkeklerde ise 23 yıllık sigortalılık süresini tamamlamış olanlara haksızlık edildi. Bu haksızlığın giderilebilmesi için 506 Sayılı Kanun'un Geçici 81. Maddesi'ndeki 08.09.1999 tarihinin, "23.05.2002" olarak değiştirilmesi şart. 
+
+Okurlarımıza bugünden sonra emeklilik tabloları vereceğiz ve bu tablolarda emekli olunacak yaşlar da yer alacak. Tecrübelerimize göre, tablolarda yayımlanacak yaşa girince mi, yoksa tamamlayınca mı emekli olacağım şeklinde sorulara cevabım, "tamamlayınca"dır. Bulunduğunuz yaşın da hesaplaması aşağıdaki şekildedir. Nüfus cüzdanlarında ay ve gün yazmayan sadece yıl yazanlar yılortası olan 01 Temmuz'da doğmuş sayılır. Nüfus cüzdanlarında ay ve yıl yazılı ama gün yazılı olmayanlar ise o ayın 1'inde doğmuş sayılırlar. 
+
+Bulunduğunuz yaşın hesabı 
+Bugünün tarihini, gün, ay, yıl şeklinde yazın. Tam altına doğum tarihinizi gün, ay, yıl şeklinde yazıp çıkarın. 
+01 2005 Bugünkü tarih 
+19 Doğum tarihiniz 
+--------------------- 
+0 Şimdiki yaşınız 
+Not İşlemi, yıl ve ay bozarak yapacaksınız 
+
+Emekli olacağınız yılın hesabı 
+. .19 Doğum tarihi 
+Gereken YAŞ 
+
+--------------------- 
+. .2 
+
+Bir örnek 
+Çetin Yılmaz 21.12.1969 doğumlu. 25.03.1987 tarihinden beri SSK'lı. Yaşını ve emeklilik yılını hesaplayalım. 
+
+Yaş Hesabı 
+02.02.2005 
+21.12.1969 
+- 
+--------------------- 
+11 gün 1 ay 35 yıl Çetin Yılmaz'ın kesin yaşı 
+
+Emekli olacağı yılın hesabı 
+21.12.1969 
+50 
+
+--------------------- 
+21.12.2019 Çetin Yılmaz'ın emekli olabileceği tarih 
+
+Yaş dolmadan tazminat veya ikramiye 
+Emeklilik için belli bir süre çalışmanın yanı sıra bir de yaş şartının getirilmesi ile birlikte TBMM çalışanlara yeni bir hak daha vermiştir. Buna göre, 
+SSK'lı olarak çalışanlar yaş dışındaki diğer şartları tamamladıkları ve SSK'dan bunu teyit eden kıdem tazminatı alabilir yazıyı alarak işverenlerine verdikleri takdirde, işlerinden kıdem tazminatı alarak ayrılabilirler. Memur olarak çalışanlardan istenen çalışma süresi olan erkekler 25 ve kadınlar 20 yılı tamamlayınca işinden ayrılabilir, ama emekli maaşı ve ikramiye için tamamlayacakları yaşı beklemek zorundadır. 
+
+Yaş düzeltmeleri yaş tashihleri 
+506 Sayılı Kanun'un 120'nci maddesi gereğince, ilk kez işe giren sigortalının işe girdiği gün nüfusta kayıtlı olan doğum tarihine itibar edilir ve işe giriş tarihinden sonra yapılmış yaş düzeltmeleri emeklilik yaşının hesabında dikkate alınmaz. 
+Aynı uygulama, 5434 Sayılı T.C. Emekli Sandığı Kanunu'nunda ve Bağ-Kur'da da vardır. 
+
+Önemli hatırlatmalar 
+Bugünden sonra yayımlayacağım tablolardaki, 
+1-İşe başlama tarihinden maksat, SSK, Bağ-Kur, T.C. Emekli Sandığı veya özel banka borsa sandıklarının iştirakçisi olarak ilk kez sosyal güvenlik sistemine dahil olunduğu tarihtir. 
+2-Tablolardaki üç şartın tamamının gerçekleşmesinden sonra talep ile emekli olunabilir. 
+3-Hangi kurumdan emekli olunacağının tesbiti son yedi yıllık prim kesenek ödeme süresi boş geçen süreler sayılmaz içinde, en çok hangi kuruma prim kesenek ödenmiş kurumdan ve o kurum mevzuatına göre belli edilir. 
+
+SSK'dan erkeklerin emeklilik şartları 
+
+506 Sayılı Kanun'a göre emeklilik için iki tür şart vardır. Kamuoyunda birinci şartlardakine 'normal emeklilik', diğerine 'yaşlılıktan emeklilik' denir 
+
+08.09.1999 tarihli Resmi Gazete'de yayımlanan 4447 Sayılı Kanun ile eklenen 506 Sayılı Kanun'un Geçici 81. Maddesinin A bendine göre Anayasa Mahkemesi'nin İptal Etmediği Bent 
+A-08.09.1999 tarihi itibariyle 23 yıldan fazla sigortalılık süresine sahip olan erkek sigortalılar, 08.09.1976 ve daha önce sigortalı olanlar eskiden olduğu gibi 5000 günü tamamladıkları takdirde 'YAŞ'a bağlı olmadan emekli olacaklardır. 
+Alttaki şartları yerinde getiremeyenler ise aşağıdaki tablodaki şartlarla emekli olabileceklerdir. 
+
+İşte normal şartlarda emekli olacak ERKEKLER için geçiş tablosu 
+Bu tablo erkekler için geçerlidir 
+
+
+Örneklere bakarak hesap yapabilirsiniz 
+
+Örnek 1- 12.11.1959 doğumlu olan 01.01.1978 günü memur olarak işe başlayan Ahmet Bey, 3 yıl kadar memuriyette kalmış ve bilahara 12.09.1980 ihtilali sonrasında memuriyetten çıkarılmıştır. Bir müddet işsiz kalan Ahmet Bey, 01.12.1995 günü bir fabrikaya muhasebeci olarak işe başlamış ve halen devam etmektedir. 
+Ahmet Bey'in emeklilik durumunun hesabı 
+SSK'dan emeklilik hesaplamasında diğer sosyal güvenlik kurumları dahi olsa ilk işe başlama tarihi önemli olduğu için Ahmet Bey yukarıdaki tablonun "09.09.1976-23.05.1979" bölümü gereğince, emeklilik için gereken 44 yaşını doldurmuş, 25 yıllık sigortalılık süresini de 01.01.2003 günü tamamlamış olmakla birlikte, son şart olan 5000 gün sayısı henüz eksiktir. Zira, 5000 gün sayısı için yaklaşık olarak 13 yıl, 10 ay gerekmektedir. Ahmet Bey memuriyet süresi ile birlikte SSK'da 5000 günü tamamladığı gün emekli olacaktır. 
+
+Örnek 2- 01.11.1983 tarihinde işe başlayan ve işe girmeden önce yani 1983'ten önce yerine getirdiği 20 aylık askerlik süresini daha sonra borçlanıp ödeyen bir ERKEK çalışanın emekli olacağı tarihi şu şekilde hesaplanacaktır. 
+Bu sigortalı askerden sonra sigortalı olduğundan, borçlanıp ödediği askerlik süresi kadar sigortalılık başlangıcı geriye gidecektir. 
+
+01.11.1983 İlk işe başlama tarihi 
+00.08.0001 Askerlik süresi 
+- 
+--------------------------- 
+01.03.1982 Sigortalılık süresinin başlangıcı. 
+
+Buna göre tabloda bu tarihin karşılığı, "24.11.1980-23.05.1982" aralığıdır. Dolayısıyla, 46 yaşından ve 25 yıllık sigortalılık süresini tamamlayacağı 01.03.2007'den sonra olmak kaydıyla 5075 gün sayısı ile emekli olunabilecektir. 
+
+Örnek 3- 01.10.1961 doğumlu olan Hasan, henüz çocuk yaşında 01.12.1976 tarihinde askerden önce işe başlamış ve bugün için 8000 günü olan bir sigortalıdır. Hasan Bey'in emekli olacağı 'YAŞ' tabloya göre, "08.09.1976-23.05.1979" aralığı olup tamamlaması gereken "YAŞ" 44' tür. Bu sigortalı 25 yıllık sigortalılık süresini 01.12.2001 günü doldurmuştur. Gün sayısı olarak da 5000 günü çoktan geçmiştir, ama emeklilik talebi için 44 yaşını doldurmayı bekleyecektir. 
+
+YARIN 
+Gemi adamı, gazeteci gibi yıpranma hakkı olanların emekliliğine örnekErkeklerin SSK'dan yaşlılık şartlarıyla emekliliği Kadınların SSK'dan emekliliği 
+
+
+
+</TEXT>
+</DOC>

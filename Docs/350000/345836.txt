@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 345836 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/25/son/sonyas21.html </URL>
+<DATE> 2005/05/25/ </DATE>
+<TIME> 11.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Mars'ta kaya tabakaları bulundu 
+</HEADLINE>
+<TEXT>
+
+     ABD’nin Mars’a indirdiği robotlardan Spirit, kızıl gezegende, "sert ve ıslak bir tarihin" göstergesi olan kaya katmanları buldu. 
+     Amerikalı bilimadamları, Spirit’in, gezegende Gusev kraterinin bulunduğu bölgede üç katmandan aldığı kaya örneklerini incelediğini, bunların, patlamaların yol açtığı çöküntünün suyla değişime uğramış tortuları olabileceğini gösterdiğini kaydettiler. 
+     Çöküntünün, volkanik patlamalardan çıkan küller olabileceği belirtildi. 
+     New Orleans’taki Amerikan Jeofizik Birliği toplantısında açıklanan bulgular hakkında konuşma yapan Cornell Üniversitesi öğretim görevlisi araştırmacı Steve Squyres, Gusev krateri çevresinde bir zamanlar büyük patlamalar olduğunu ve bölgede büyük miktarda su bulunduğu söyledi. 
+     Bu arada, Spirit ile birlikte Mars’a gönderilen Opportunity’nin, saplandığı bir kum tepesinden kurtulmaya çalıştığı belirtildi. 
+     Spirit 3 Ocak 2004’de, Opportunity de bundan üç hafta sonra Mars yüzeyine indirilmişti. 
+     
+</TEXT>
+</DOC>

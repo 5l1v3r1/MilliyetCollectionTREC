@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 353803 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/20/son/sonyas11.html </URL>
+<DATE> 2005/06/20/ </DATE>
+<TIME> 10.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Alzheimer'ın erken teşhisinde yeni yöntem... 
+</HEADLINE>
+<TEXT>
+
+     Bir kimsenin Alzheimer hastası olup olmayacağını yıllar öncesinden tespit etmeye yarayabilecek bilgisayar programı geliştirildi. 
+     New York üniversitesi tıp fakültesinden Dr. Lisa Mosconi, beynin belli bir bölümündeki metabolizma değişikliklerini beyin sintigrafisi yardımıyla ölçebilen program sayesinde, herhangi bir kimsenin Alzheimer hastası olup olmayacağının çok önceden belirlenebileceğini söyledi. 
+     ''Bu araştırma, beynin hipokampüs bölümünün metabolizmal faaliyetlerindeki azalmanın, Alzheimer riskini tespit amacıyla kullanılabileceğini ilk kez gösterdi'' diyen Amerikalı doktor, ''Elde ettiğimiz sonuçlar başka yöntemlerle desteklenmeli. Kullandığımız teknik, hiçbir Alzheimer belirtisi göstermeyen insanlarda, bu hastalığın ya da ciddi hafıza sorunlarının ortaya çıkma ihtimalini yüzde 85 öngörme imkanı sağlıyor'' diye konuştu. 
+     Öğrenme ve hatırlama işlevlerini gören hipokampüs, Alzheimer ilerledikçe küçülüyor. 
+     
+</TEXT>
+</DOC>

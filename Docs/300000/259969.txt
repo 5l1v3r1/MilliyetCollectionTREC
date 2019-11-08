@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 259969 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/02/son/soneko39.html </URL>
+<DATE> 2004/08/02/ </DATE>
+<TIME> 18.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hisse senetleri ortalama yüzde 1.64 değer kazandı... 
+</HEADLINE>
+<TEXT>
+
+     Borsa'da işlem gören hisse senetleri, bugün ortalama yüzde 1.64 değer kazandı. 
+     İstanbul Menkul Kıymetler Borsası İMKB Ulusal 100 Endeksi, 1. seansta, 184.05 puan artarak 19,564.91 puandan, 2. seansta da 133.21 puan artarak 19,698.12 puandan kapandı. 
+     Endeksin günlük artışı 317.26 puan ve yüzde 1.64 olarak hesaplandı. 
+     Hisse senetleri piyasasında toplam 1 katrilyon 8 trilyon liralık işlem hacmi oluştu. 
+     
+     DÖVİZ 
+     İstanbul'da serbest piyasada Cuma günü 1 milyon 468 bin liradan kapanan dolar, güne 1 milyon 460 bin liradan, 1 milyon 774 bin liradan kapanan euro da 1 milyon 760 bin liradan başladı. 
+     Kapanışta doların satış fiyatı 1 milyon 474 bin lira, euronun satış fiyatı 1 milyon 767 bin lira oldu. 
+     Merkez Bankası, doların bugünkü efektif kurunu alışta 1 milyon 451 bin 776 lira, satışta 1 milyon 461 bin 990 lira olarak açıkladı. 
+     Böylece dolar, Merkez Bankası'nın Cuma günkü kurlarına göre, TL karşısında alışta 9 bin 854 bin lira, satışta 9 bin 924 lira değer yitirdi. 
+     
+     TAHVİL-REPO 
+     İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda işlem gören 7 Aralık 2005 vadeli tahvilin bugün valörlü işlemlerinde basit getiri yüzde 27.09, bileşik getiri yüzde 25.98 oldu. 
+     Bu kağıdın bugün valörlü işlemlerinin bileşik getirisi, Cuma günkü kapanışa göre 0. puan geriledi. 
+     İMKB Tahvil ve Bono Piyasası Repo Pazarı'nda gecelik faiz ortalama yüzde 22.00 olarak gerçekleşti. Gecelik işlemlerde en düşük oran yüzde 21.50, en yüksek oran yüzde 22.90 olarak belirlendi. 
+     
+</TEXT>
+</DOC>

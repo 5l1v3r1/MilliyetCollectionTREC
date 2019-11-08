@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 166867 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/02/son/soneko32.html </URL>
+<DATE> 2003/07/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa 58 puan düşerek 10.690 puandan kapandı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB üzerindeki satış baskısı bugün de devam etti ve endeks günü yüzde 0,55 oranında kayıpla 10,690.94 puandan kapandı. 
+     Borsa uzmanları, durgun ve sıkışık bir günün sonunda işlem hacminin de düşük gerçekleştiğini belirterek, yarın açıklanacak enflasyon dataları beklenti oluşturabilirse 10,800 seviyesine doğru bir hareket olabileceğini ifade ediyor. 
+     Uzmanlar, hacimle desteklenmediği sürece bu hareketlerin kalıcı olmasının söz konusu olmadığını, bunun yanında 10,600 destek seviyesinin bugün de çalıştığını kaydediyor. 
+     İstanbul Menkul Kıymetler Borsası İMKB Ulusal 100 endeksi, ilk seansta 7.35 puan kayıpla 10,742.48 puana geriledi. 2. seansta da 51.54 puan düşen endeks, 10,690.94 puandan günü tamamladı. 
+     Endeksin günlük bazdaki kaybı ise 58.89 puan ve yüzde 0.55 olarak belirlendi. 
+     Hisse senetleri piyasasında günlük işlem hacmi 191 trilyon 430 milyar 547 milyon lira olarak gerçekleşti. Dün bu rakam 262 trilyon 57 milyar 825 milyon lira olarak gerçekleşmişti. 
+     
+</TEXT>
+</DOC>

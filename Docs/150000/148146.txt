@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 148146 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/04/07/son/soneko35.html </URL>
+<DATE> 2003/04/07/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa haftanın ilk gününü yüzde 3.15'lik artışla noktaladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Bileşik Endeksi, 2. seansta 102.91 puan artarak 10,742.99 puandan kapandı. 
+     Hisse senetleri, ikinci seansta ortalama yüzde 0.97 oranında değer kazandı. 
+     İlk seanstaki 225.06 puanlık artış dikkate alındığında, borsa endeksi günün tamamında 327.97 puan arttı. Hisse senetlerindeki günlük artış ise yüzde 3.15 oldu. 
+     Seansa 23.28 puanlık artışla 10,663.33 puandan başlayan endeks, seans içinde en düşük 10,579.90, en yüksek 10,777.81 puanı gördü. 
+     Kapanışta mali endeks 181.76 puan artışla 12,854.63 puana, sanayi endeksi 65.17 puan artışla 10,858.59 puana, hizmetler endeksi 9.09 puan artışla 7,052.98 puana yükseldi. 
+     Böylece ilk seansa göre mali grup hisseler ortalama yüzde 1.43, sanayi grubu hisseler ortalama yüzde 0.60, hizmetler grubu hisseler ortalama yüzde 0.13 değer kazandı. 
+     2. seansta işlem gören toplam 298 hisse senedinden 135'i değer kazandı, 71'i değer kaybetti, 92'sinin fiyatında değişiklik olmadı. 
+     Seansta, 245 trilyon 262 milyar 421 milyon liralık işlem hacmi kaydedildi. İki seanstaki toplam işlem hacmi 490 trilyon 757 milyar 712 milyon lira olarak belirlendi. 
+     2. seansta İş Bankası C, Garanti Bankası, Tüpraş, Yapı Kredi Bankası ve Hürriyet, en yoğun işlem gören hisse senetleri olarak belirlendi. 
+
+     
+</TEXT>
+</DOC>

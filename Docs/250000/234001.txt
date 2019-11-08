@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 234001 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/23/ekonomi/eko06.html </URL>
+<DATE> 2004/04/23/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türkiye enflasyon liginde beş basamak geriledi 
+</HEADLINE>
+<TEXT>
+
+   ANKARA ANKA 
+   
+   Türkiye, yüksek enflasyonlu ülkeler arasında geçen yıl beş basamak birden düşerek dokuzuncu sıraya indi. IMF'nin Dünya Ekonomik Görünümü raporuna göre Türkiye, 2002'de tüketici fiyatları TÜFE bazında 12 aylık ortalamalara göre artış oranında yüzde 45'le dördüncü sırada yer alıyordu. 2003'te ortalama yıllık TÜFE artışını yüzde 25.3'e indiren Türkiye, beş ülkeyi daha geride bırakarak dokuzuncu oldu. Ancak Türkiye'den daha yüksek yıllık enflasyon oranlarının, çoğu Afrika'da bulunan ve dünya kamuoyunun haritadaki yerini bile bilmediği, bazılarında gerçek anlamda piyasaların bile olmadığı, mikro ölçekli ülkelerde yaşandığı dikkati çekiyor. 
+   
+   Enflasyonda ilk 10 ülke Ülke 2002 2003 Zimbabwe 140.0 431.7 Angola 108.9 98.3 Mynmar 46.9 40.0 Haiti 8.7 32.5 Venezuella 22.4 31.1 Belarusya 42.6 28.4 Ekvador 5.2 27.4 Gana 14.8 26.4 Türkiye 45.0 25.3 Surinam 15.5 23.8 
+   
+</TEXT>
+</DOC>

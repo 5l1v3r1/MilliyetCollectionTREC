@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 208612 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/14/son/soneko42.html </URL>
+<DATE> 2004/01/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa günü yüzde 3.3'lük kayıpla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Bileşik Endeksi 2. seansta 621.25 puan azalışla 18,818.56 puandan kapandı. 
+     Hisse senetleri 2. seansta ortalama yüzde 3.20 oranında değer kaybetti. 
+     İlk seanstaki 20.45 puanlık düşüş dikkate alındığında Borsa endeksi, günün tamamında 641.70 puan geriledi. Hisse senetlerindeki günlük değer kaybı da yüzde 3.30 oldu. 
+     İMKB'de günlük işlem hacmi 1 katrilyon 264.9 trilyon olarak gerçekleşti. 
+     Endeks, 2. seansa 22.27 puan düşüşle 19,417.54 puan seviyesinde başladı. İlk yarıyı 18,993.86 puandan geçen endeks, seans içinde en düşük 18,736.59 puana kadar gerilerken, bir önceki seans kapanış değeri olan 19,439.81 puanın üstüne çıkamadı. 
+     2. seans kapanışında mali endeks 1,030.11 puan düşüşle 25,719.75 puana, sanayi endeksi 448.49 puan düşüşle 16,629.96 puana, hizmetler endeksi 137.21 puan düşüşle 10,107.13 puana geriledi. 
+     Böylece ilk seansa göre mali grup hisseler ortalama yüzde 3.85, sanayi grubu hisseler ortalama yüzde 2.63 ve hizmetler grubu hisseler ortalama yüzde 1.34 değer yitirdi. 
+     2. seansta işlem gören toplam 289 hisse senedinden 33'ü değer kazandı, 243'ü değer yitirdi, 13'ünün fiyatında değişiklik olmadı. 
+     Seansta, 581 trilyon 76 milyar 825 milyon liralık işlem hacmi kaydedildi. Günlük işlem hacmi ise 1 katrilyon 264 trilyon 983 milyar 294 milyon lira olarak hesaplandı. 
+     2. seansta Yapı Kredi Bankası, Doğan Holding, Koç Holding, Sabancı Holding ve Vestel en yoğun işlem gören hisse senetleri olarak belirlendi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 382805 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/30/son/sondun31.html </URL>
+<DATE> 2005/09/30/ </DATE>
+<TIME> 16.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+100 dolarlık dizüstü bilgisayarın prototipi kasımda hazır... 
+</HEADLINE>
+<TEXT>
+
+     Dünyadaki zenginlerle yoksullar arasındaki dijital uçurumu kapatması umulan 100 dolarlık dizüstü bilgisayarın prototipinin Kasım'da hazır olması ve üretimine gelecek yıl başlanması bekleniyor. 
+     Bilgisayarın mucidi ABD'nin Boston kentindeki Massachusetts Institute of Technology MIT Media laboratuvarı Başkanı Nicholas Negroponte, ilk bir yıl içinde üretilecek 15 milyon bilgisayarı Brezilya, Mısır, Tayland ve Güney Afrika'daki çocuklara göndermeyi planlıyor. 
+     Ucuz bilgisayarın mucidi Negroponte, ''bu bilgisayar sayesinde tüm dünyaya internette sörf yapmayı öğretmek istediğini'' belirterek, bu bilgisayarın tasarım açısından farklı olacağını ve çalınması veya satılmaya çalışılması halinde kiliseden çalınmış bir eşya gibi muamele göreceğini savundu. 
+     Negroponte, bu bilgisayarın fiyatının dünyanın birçok yeri için yüksek olduğunu belirterek, fiyatın ileride daha düşmesini ve satılacak ülkenin ekonomisine göre ucuzlatılmasını umduğunu kaydetti. 
+     Dünyanın bir numaralı arama motoru Google'ın da aralarında bulunduğu birçok Amerikan şirketinin destek verdiği ucuz bilgisayar projesine şimdiden ABD içinden de talepler gelmeye başladı. Massachusetts Valisi Mitt Romney, eyaletteki düşük gelirli okulların öğrencileri için 500 bin adet satın almayı planladığını açıkladı. 
+     
+     FARKLI TASARIM 
+
+     Tasarımı bilinen dizüstü bilgisayarlardan biraz farklı olacak ve kendi elektriğini yanına yerleştirilen kolun çevrilmesiyle üretecek 100 dolarlık laptop, çeşitli biçimlerde katlanabilecek ve darbeye karşı dayanıklı lastik koruyucuyla çevrelenecek. 
+     AC adaptör kablosunun aynı zamanda taşıyıcı omuz bandı olduğu bilgisayar, üretim masraflarının kısılması için günümüzde standart olan işlemci hızından biraz düşük olan 500 megahertz işlemciye sahip olacak. 
+     Aynı zamanda acil durumlarda iletişim sağlanabilecek bir araç olarak da kullanılması planlanan bilgisayarın ilk modellerinde güç kaynağı kolunun bir kez çevrilmesiyle 10 dakika yetecek güç sağlanacak. 
+     Kablosuz internet erişimine sahip olacak bu dizüstü bilgisayarlar, yakındaki aynı model laptoplarla doğrudan bağlantıya geçebilecek ve bunlardan birinin internete girişi varsa diğer laptoplar da bu girişten faydalanabilecek. 
+     
+</TEXT>
+</DOC>

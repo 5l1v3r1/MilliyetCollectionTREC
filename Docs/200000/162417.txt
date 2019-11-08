@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 162417 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/11/son/sondun07.html </URL>
+<DATE> 2003/06/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft, antivirüs işine giriyor... 
+</HEADLINE>
+<TEXT>
+
+     Yazılım devi Microsoft'un antivirüs işine gireceği ve bu amaçla bir Rumen firmasından antivirüs teknolojisi satın alacağı bildirildi. 
+     Microsoft'un anlaştığı firmanın, merkezi Bükreş'te bulunan ''GeCAD Software Srl'' olduğu ifade edildi. Microsoft'un firmaya kaç para ödediği ise gizli tutuluyor. 
+     Microsoft'un üreteceği antivirüs yazılımlarıyla kullanıcılarını virüslü programlardan koruyacağı belirtiliyor. 
+     Microsoft'un ana ürünü olan Windows işletim sistemi, bilgisayar virüslerinin başlıca hedefleri arasında. Microsoft, yazılımlarının güvenilirliğini korumak için, 2002 yılı başında ''trustworthy computing'' adını verdiği bir girişim başlatmıştı. 
+     Microsoft yetkilileri, bir süre sonra antivirüs programları üretimine de geçeceklerini ifade ettiler. Bu hizmet şimdiye kadar Symantec ve Network Associates gibi kuruluşlar tarafından veriliyordu. Symantec ''Norton'', Network Associates ise ''McAfee'' adlı programları üretiyor. 
+     
+</TEXT>
+</DOC>

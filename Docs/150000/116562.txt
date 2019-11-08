@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 116562 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/11/02/son/soneko07.html </URL>
+<DATE> 2002/11/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Cep operatörleri tek hatta buluşacak 
+</HEADLINE>
+<TEXT>
+
+     Cep telefonu GSM aboneleri, Telekomünikasyon Kurumu'nun yetki vereceği sanal mobil operatörler aracılığıyla, diğer operatörlerin farklı hizmetlerinden yararlanma imkanına kavuşacak. 
+     Bir veya birden fazla mobil operatörün şebekesini kullanarak abonelere hizmet verecek sanal mobil operatörler, mobil pazarda hizmetlerin çeşitlendirilmesini ve maliyetlerin düşürülmesini sağlayacak. 
+     Telekomünikasyon Kurumu, Türkiye'de, mobil iletişim alanında rekabet ortamının geliştirilmesini, hizmet çeşitliliğinin artırılarak yatırım, istihdam ve gelir açısından avantaj sağlanmasını, abonelerin aldıkları birden çok hizmetin tek faturada ücretlendirilmesini sağlamak amacıyla düzenleme yapmaya hazırlanıyor. 
+     Sanal mobil operatörlük uygulaması, Telekomünikasyon Kurumu'nun aracı olarak yetkilendireceği şirketlerin, mobil cep telefonu şirketlerinden toplu olarak görüşme süresi satın almasını ve bu süreyi onlar adına pazarlamasını içeriyor. 
+     Uygulamada, sanal mobil operatörlere, hizmet vermeleri için ayrı bir frekans tahsis edilmesi gerekmiyor. Bu nedenle, uygulama, frekansların etkin ve verimli kullanılmasını sağlıyor. Sanal mobil operatörün, hizmet sunabilmek için en az 1 mobil operatör ile ticari anlaşma yapması gerekiyor. Sanal mobil operatörler diğer mobil operatörlerle anlaşma yaptıklarından, abonelerin, değişik mobil operatörlerin hizmetlerinden yararlanabilmeleri için sadece sanal operatör işletmecisiyle sözleşme yapmaları yeterli oluyor. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

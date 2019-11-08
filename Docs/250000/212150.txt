@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 212150 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/30/son/sondun16.html </URL>
+<DATE> 2004/01/30/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Röntgenler kansere mi yol açıyor 
+</HEADLINE>
+<TEXT>
+
+     İngiliz bilim adamları, kanser ve diğer hastalıkların teşhisi için kullanılan röntgen teknolojisinin İngiltere'de her yıl fazladan 700 kanser vakasına yol açtığını öne sürdü. 
+     Oxford Üniversitesi ile Kanser Araştırmaları Vakıfı'nın yaptığı araştırmalar sonucunda, İngiltere'de ortaya çıkan kanser vakalarının yüzde 0.6'sından röntgen cihazlarının sorumlu olabileceğine dikkati çekilirken, ''Ancak yine de röntgen teknolojisinin getirdiği avantajlar hala risklerinden çok daha fazla, böylece hastanın durumu çok erken bir aşamada ve çok açık biçimde anlaşılabiliyor'' denildi. Bilim adamları, dünya nüfusunun yüzde 14'ünün radyasyonun doğal ya da yapay şeklinden etkilendiğini belirterek, röntgen cihazlarının yol açtığına inanılan kanser vakalarının oranının ülkeden ülkeye de değişiklik gösterebildiğini bildirdiler. 
+     Lancet adlı tıp dergisinde yayımlanan araştırmada, bu oranın ABD'de bütün kanser vakalarının yüzde 0.9'u, Almanya'da yüzde 1.3'ü civarında bulunduğu, Japonya'nınsa bu konuda bir rekora imza attığı vurguladı. 
+     Araştırma sonuçları, Japonya'da röntgen cihazlarının yaydığı radyasyonun yol açtığı kanser vakalarının bütün kanser vakaları içindeki payının yüzde 2.9'a ulaştığını ve bunun da yılda 7 bin 500 vaka demek olduğunu gösterdi. 
+     Bilim adamları, İngiltere'de bazı durumlarda gereksiz yere röntgen teknolojisinin kullanıldığı iddiasını da ortaya koydu. Araştırmaya göre, göğüs röntgenlerinin yüzde 30'u çok acil olmadığı halde çekiliyor ve bu yüzden hastanın kanser riski artıyor. 
+     Konuyla ilgili görüş bildiren Münih Üniversitesi bilim adamlarından Peter Herzog da İngiliz bilim adamlarının görüşlerini paylaştığını belirtirken, bir doktorun en önemli hedefinin gereksiz hallerde röntgen teknolojisine başvurmaktan kaçınmak olması gerektiğini vurguladı. 
+     Bunun hastaya gereksiz radyasyon yüklemekten başka işe yaramayacağını belirten Herzog, ''Bir doktor hastasından röntgen istemeden önce, bunun yararıyla zararını dikkatli biçimde değerlendirmeli'' dedi. 
+     
+</TEXT>
+</DOC>

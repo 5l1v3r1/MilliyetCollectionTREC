@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 183219 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/18/son/sontur15.html </URL>
+<DATE> 2003/09/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Taksilere ve kapkaçlara karşı elektro şoklu koruma sistemi... 
+</HEADLINE>
+<TEXT>
+
+     Güvenlik sistemleri konusunda araştırmalar yapan Marlin Laboratuarı firması, Türkiye'de ilk kez taksi şoförünü tehdit eden saldırganı elektrik şoku vererek etkisiz hale getiren Taksi Koruma Sistemi'ni TKS geliştirdi. 
+     Firma Yönetim Kurulu Başkanı Ersin Özkan, İstanbul'da bulunan laboratuarlarında geliştirdikleri güvenlik sistemlerini Kayseri'de açılan Endüstri ve Eletex Fuarı'nda sergilediklerini bildirdi. 
+     Türkiye'de son yıllarda taksi şoförlerine yönelik saldırıların artması nedeniyle bu konuda araştırmalar yapmaya başladıklarını kaydeden Özkan, geliştirdikleri Taksi Koruma Sistemi'nin özelliklerini şöyle sıraladı 
+     ''Taksicilere yönelik gasp olaylarında saldırganı etkisiz hale getirmeyi amaçlayan bir sistem. Sistemde otomobilin şoför koltuğu hariç diğer koltuklarına özel elektrik tesisatı döşeniyor. Herhangi bir saldırıya maruz kalan taksi şoförü, gizli bir bölüme yerleştirilmiş alarm ikaz butonuna bastığında, sistem, aküden aldığı 12 volt elektriği 385 bin volta çıkarıp saldırgana uyguluyor. Elektrik şokuyla saldırganın kasları bloke edilerek etkisiz hale getiriliyor.'' Özkan, gerekli izinleri aldıktan sonra piyasaya sürecekleri TKS'nın, 135 Euro'dan satışa sunulacağını söyledi. 
+     
+     ELEKTRİKLİ ÇANTA İLK KEZ TÜRKİYE'DE 
+     Türkiye'de kapkaç olaylarının artmasından sonra yabancı ülkelerden ithal edilen elektrikli çantaların yoğun talep gördüğünü de hatırlatan Özkan, elektrikli çantayı ilk kez Türkiye'de ürettiklerini belirtti. 
+     Ürettikleri çantaların, ithal çantalara göre daha ucuz olduğunu ifade eden Özkan, şöyle devam etti 
+     ''Kapkaççıyı elektrik şoku vererek, etkisiz hale getiren çantalar daha önce, ABD, İsrail ve Uzakdoğu gibi ülkelerden ithal ediliyor ve 1500 dolar gibi fiyatlarla satılıyordu. Bizim ürettiğimiz çanta, 250 metre uzaklıktan kumanda ile kontrol edilebiliyor ve 9 voltluk akünün gücünü 250 bin volta çıkararak kapkaççıyı etkisiz hale getiriyor. Piyasaya sürdüğümüz çantaları 350 dolardan satıyoruz.'' Özkan, elektrik şoku ile çalışan güvenlik sistemlerinin tamamının dünya standardı kabul edilen 20 mikro amper ölçülerinde test edilerek üretildiğini ve kesinlikle öldürücü etkisi olmadığını vurguladı. Özkan, ayrıca özellikle kadınlar için ürettikleri elektroşok tabancayı 30 milyon, gece bekçileri için ürettikleri elektroşok copu 50 milyon ve hırsızların çelik kasalara yaklaşmasını önleyen elektroşok kasa sistemini de 40 milyon liradan satışa sunduklarını sözlerine ekledi. 
+     
+</TEXT>
+</DOC>

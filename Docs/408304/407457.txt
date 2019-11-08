@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 407457 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/28/son/sonyas09.html </URL>
+<DATE> 2005/12/28/ </DATE>
+<TIME> 10.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dünya yeni yıla bir saniye geç giriyor 
+</HEADLINE>
+<TEXT>
+
+     BBC TÜRKÇE 
+
+      Dünya 2006'ya bir saniye gecikmeli olarak girecek. Bu durum, yedi yıl aradan sonra "artık saniyenin" 2005'e eklenmesinden kaynaklanıyor. 
+     Artık saniyeler, saatlerimizin gökbilimcilerin kullandığı güneş saatiyle uyumu açısından gerekli. 
+     Dünyada saat ayarından Paris Rasathanesi sorumlu. 
+     Rasathane her altı ayda bir saniyelerin eklenmesi ya da çıkarılması konusunda görüş bildiriyor. 
+     Artık saniyeler, dünyanın kendi etrafında dönüşüne bağlı olarak güneş saatiyle uyum için Eşgüdümlü Evrensel Saat'e UTC ekleniyor. 
+     Ayın çekim gücü, dünyanın dönüşünü yavaşlatıyor. Bu da güneş saatinin atom saatiyle eşgüdümünü bozuyor. 
+     Greenwich saatinin GMT yerini alan UTC'nin güneş saatiyle eşgüdümünün bozulması halinde biryıl içinde birkaç saniyeye varan farklılıklar oluşabiliyor. 
+     Bu da gökbilimcilerin kullandığı cihaz ve yazılımları işlevsiz hale getiriyor. 
+     Artık saniyelerin zamana eklenmesi uygulaması 30 Haziran 1972'de başladı. Bu tarihten beri saatlere 21 kez artık saniye eklendi. 
+     
+</TEXT>
+</DOC>

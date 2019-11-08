@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 311581 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/02/yasam/yas12.html </URL>
+<DATE> 2005/02/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft'un 'motoru' devrede 
+</HEADLINE>
+<TEXT>
+
+
+DIŞ HABERLER SERVİSİ 
+
+Dünyanın en büyük yazılım firması Microsoft, 'Google' arama motoruna rakip olarak geliştirdiği arama motorunu, aylar süren denemeden sonra dün resmi olarak açtı. Microsoft'un daha önce Yahoo teknolojisi kullanan 'MSN Search' motoru, bütünüyle kendi geliştirdiği teknolojiyle yenilendi. Yetkililer, 100 milyon dolara mal olan arama motorunun geliştiril-mesinin 2.5 yıl sürdüğünü belirtti. Firmanın yeni arama motorunun promosyonu için dev bir reklam kampanyasına hazırlandığı kaydedildi. Firma, kampanya kapsamında ABD, İngiltere ve Japonya'da televizyon reklamları hazırlayacak. MSN arama motoruna http search.msn.com adresinden ulaşılıyor. 
+
+
+
+
+</TEXT>
+</DOC>

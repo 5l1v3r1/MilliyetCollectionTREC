@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 181654 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/11/son/sondun10.html </URL>
+<DATE> 2003/09/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ve "evsiz hacker" teslim oldu... 
+</HEADLINE>
+<TEXT>
+
+     Yasadışı olarak internet sitelerinin veritabanına erişerek kullanıcı bilgilerini çalan ve FBI tarafından aranan Adrian Lamo isimli bilgisayar korsanı teslim oldu. 
+     İnternette yer alan haberlere göre, 20 yaşındaki siber korsan, New York Times gazetesinin internetteki veritabanına sızarak, gazete çalışanlarının kayıtlarını ve nüfus cüzdanı olarak da kullanılan sosyal güvenlik numaralarını kopyaladı. Lamo'nun, çalışanların bilgilerinin yanı sıra eski ABD Başkanı Jimmy Carter, eski Denizcilik Bakanı Oliver North ve hip-hop şarkıcısı Queen Latifah gibi gazete abonelerinin bilgilerine ulaştığı da tespit edildi. 
+     Habere göre, korsanın izin süren FBI ajanlarının Lamo'nun ailesine ulaşması üzerine panikleyen ve evinden ayrılan Lamo, daha sonra avukatının uyarısı üzerine polise başvurarak teslim oldu. Kefaletle serbest bırakılan Lamo'nun, mahkemeye çıkacağı güne kadar bilgisayar kullanması yasaklandı. 
+     Siber korsan Lamo, ilk sorgusunda, FBI'dan kaçmadığını, iletişim hatları yüzünden ilgililere ulaşamadığını ileri sürdü, ancak, daha sonra FBI'dan kaçmak için arkadaşlarında kaldığını, ve ''yakalanmamak için Saddam Hüseyin gibi bir yerde iki gece kalmadığını'' itiraf etti. 
+     
+</TEXT>
+</DOC>

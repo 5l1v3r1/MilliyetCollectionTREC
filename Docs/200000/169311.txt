@@ -1,0 +1,50 @@
+<DOC>
+<DOCNO> 169311 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/14/son/soneko15.html </URL>
+<DATE> 2003/07/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+"En büyük 500 şirketimiz, gelirinin 85'ini repodan elde ediyor" 
+</HEADLINE>
+<TEXT>
+
+     Şirketlere operasyonel mükemmellik vaadeden Six Sigma uygulaması, verimliliğin anahtarı oldu. 
+     Amerika'da Motorola ve General Electric'te GE başlayarak tüm dünyaya yayılan uygulama şirketlere, süreçlerinde gerçekleştirecekleri iyileştirmelerle en az 1'e 4 kazanma şansı veriyor. 
+     ENERA Danışmanlık Başkanı Kerem Bikmen, six sigma uygulamasının şirketleri kısa ve orta vadede çok farklı noktalara getiren bir süreç olduğunu belirterek, ''Süreçten kastettiğimiz, şirketlerin üretim, pazarlama, satın alma, planlama, lojistik gibi hizmetleri. Bunların hepsi birer alt süreç. Six sigma bu süreçlerin hepsinde uygulanabilen bir yönetim sistemi'' dedi. 
+     Bikmen, bu süreç içinde, ''Müşteri ne bekliyor, süreci nasıl etkin hale getirebilirim, nasıl daha az kaynakla daha çok çıktı elde edebilirim, nasıl daha az hata yaparak hata maliyetlerimi azaltabilirim, nasıl gerçek potansiyelimi yerine getirebilirim'' sorularına yanıt arandığını kaydetti. 
+     Kerem Bikmen, Türkiye'de böyle bir uygulamaya ihtiyaç bulunduğunu ve uygulamanın büyük fayda getireceğini belirterek, şunları söyledi 
+     ''1999-2000 yıllarında İSO tarafından Türkiye'nin en büyük 500 şirketi olarak belirlenen şirketlerin karlılık oranlarına baktığımızda, karlarının yüzde 85'ini finansal işlemlerden, yani parasını bankada repoya koyarak kazandığını görüyoruz. Gelirlerinin sadece yüzde 15'ini operasyondan yani asıl işlerinden elde ediyorlar. Bu, çok acıklı bir durum ama ortam öyle. 
+     Enflasyon, faiz oranları yüksek öyle bir gerçek var. Ama enflasyon ve faizlerin düşmesiyle beraber böyle bir gelir kalmayacağı için artık şirketler operasyonlarına dönüp oradan kar etmek durumundalar. Fakat korkunç bir tembellik döneminden geliyorlar. 20 yıllık yüksek enflasyon, yüksek faiz... Dolayısıyla herşey gevşemiş durumda. Şimdi şirketler operasyonlarını daha etkin hale getirecek araçlara ihtiyaç duyuyorlar. O noktada six sigma soruna çözüm olacak bir araç. Türkiye'de kaynak yok değil, sadece yeterli kullanılmıyor.'' 
+     
+     ''CİRONUN YÜZDE 30-40'I HAVAYA GİDİYOR'' 
+     Kerem Bikmen, şirketlerin kalitesizlik maliyetinden kaynaklanan kayıplarının cirolarının yüzde 30-40'ına kadar çıkabildiğine dikkat çekerek, şunları kaydetti 
+     ''Şirketlerin süreçlerindeki verimsizliklerden dolayı kaybettiği, havaya attığı buharlaşan bir ekstra maliyetleri var. Bunlar, şirket içerisindeki hataları kontrol etmek için harcanan birtakım paralar, müşteri memnuniyetsizliğinden doğan maliyetler, hatalardan doğan fiyat büyümeleri... Yani şirketlerin hem maliyet hem de kazancı yakalayamama olarak gelir kayıpları var. Buna kalitesizlik maliyeti diyoruz. Bu, şirketlerin cirolarının yüzde 30-40'ına kadar çıkabiliyor. Yani 10 milyon dolar ciro yapan şirkette yaklaşık 3-4 milyon dolar bir kayıp oluyor.'' 
+     
+     KARA KUŞAK'LAR İŞ BAŞINDA 
+     Kerem Bikmen, uygulamada öncelikle üst yönetimin, iyileştirmenin hangi bölüm için yapılacağını tespit ettiğini, daha sonra şirketin orta kademesindeki en iyilerin proje uygulayıcısı olarak seçildiğini kaydetti. 
+     Six sigmanın başarılı olması için herkesin katkıda bulunması gerektiğini belirten Bikmen, ''Biz orta kesimin en parlak elemanlarını alıyoruz. Kara kuşak dediğimiz bu kişiler, 2-3 sene sadece üretim problemleriyle ilgili projelerde çalışıyorlar'' dedi. 
+     Şirketin politika ve planlamasına göre, yaklaşık 8 ayın sonunda ilk turun tamamlandığını, ilk kazançların elde edilmeye başlandığını dile getiren Bikmen, şunları söyledi 
+     ''Bu bir kültür değişim programı. Onun için bir yılda tamamlamak mümkün değil. Kara kuşaklar 2 senede yetişiyor. 3-4 senede şirkette birçok kara kuşak yetişmiş oluyor. Böylece six sigma ayrı yapılan bir iş olmaktan çıkıp günlük iş yapış şekli haline dönüşüyor. Biz bunu şirketlerin DNA'sına sokmak istiyoruz'' dedi. 
+     
+     ''100 VERİP 600 KAZANDILAR'' 
+     Kerem Bikmen, şirketlere six sigma konusunda verdikleri danışmanlık hizmetinde 1'e 4 kazanma oranı sunduklarını belirterek, ilk olarak Çanakkale Seramik grubunun Kalekalıp ve Kalekim firmalarıyla çalıştıklarını söyledi. 
+     Bikmen, şunları kaydetti 
+     ''Bu şirketlerle çalışmalarımız ilk yıllarını doldurdu. Grup içinde yer alan Kalekalıp'taki başarı yüzde 600'ü buldu. Yani, bu işe 100 yatırıp 1 sene sonra 600 kazandılar. Bu, beklentilerinin iki katını aşması demekti. 
+     Daha sonra Bursa'da Bosch Otomotiv'le çalıştık. Otomotiv yan sanayine enjektör üretiyorlar. Oradaki çalışma da yaklaşık bir sene sürdü, projeler tamamlandı ve yüzde 800'e varan bir başarı elde edildi. 
+     Geçen yıl sonunda da Petrol Ofisi'yle çalışmaya başladık. Sonuçlarını bu yıl sonunda almaya başlayacağız.'' 
+     
+     ''DEVLET KURUMUNU İKNA ETMEK ZOR'' 
+     Kerem Bikmen, şirketlerin kalitesizlik maliyetinden kaynaklanan yüzde 30-40'lık kayıbın giderilmesinin six sigma içine hangi yoğunlukla girildiğine bağlı olduğunu belirterek, ''Tahmin ediyorum ki 5-6 yıl içerisinde yüzde 80-90'ını ortadan kaldırmak mümkün olacaktır'' dedi. 
+     Tüm şirketlerin bu uygulamayı çok mantıklı ve faydalı bulduklarını kaydeden Bikmen, şunları söyledi 
+     ''Kimse, bu da nereden çıktı, aklım yatmadı demiyor. Herkes çok mantıklı ve faydalı buluyor. İnsanları bir tek düşündüren nokta var, şirket kültürü olarak biz buna hazır mıyız Bu sorunun cevabı da aslında hiçbir zaman hazır olmamak. Aksi takdirde buna ihtiyacınız yok demektir. Her şirketin buna girişebilmesi için bazı taşları yerine oturtması gerekiyor. Şirketin süreçlerini iyi oturtmuş olması, rekabet baskısının olması gerekiyor.'' Devlet kurumlarını bu uygulamaya ikna etmenin zor olduğunu belirten Kerem Bikmen, ''Çünkü müşteri beklentisiyle hareket etmek yok, karlılık baskısı yok. Öyle olmayınca iyileştirme onlar için çok manasız kalıyor. Performansın ölçülmediği bir yere, böyle bir sistemi sokmanın pek imkanı olmuyor. Ortamın şeffaf olması, performansın ölçülebiliyor olması gerekiyor.'' 
+     
+     SIX SIGMA 
+     İlk olarak 1980'li yılların sonlarına doğru Motorola'da uygulanmaya başlanıp, Japonların rekabeti karşısında zor durumda olan şirketin kısa zamanda tekrar aranılan bir marka haline gelmesini sağlayan Six Sigma, en büyük sınavını ve başarısını Jack Welch ile GE'de gösterdi. 
+     Sistem, GE'ye, başlama yılı olan 1995'den bugüne kadar 13 milyar dolar kazandırdı ve şirketin piyasa değerindeki büyük artışta önemli rol oynadı. 
+     Şirketleri operasyonel mükemmelliğe ulaştırmayı hedefleyen uygulama, bugüne kadar Ford, DuPont, ABB, Dow Chemical, American Express, Chase JP Morgan, Johnson Johnson, BMW, Samsung gibi çok uluslu şirketlerin yanı sıra birçok yerel firma tarafından da kullanıldı. 
+     Türkiye'de 1999'da uygulanmaya başlanan six sigma sistemi, şirketlerin problemlerinin, tanımlama, ölçme, analiz, iyileştirme ve kontrol aşamalarından geçirilerek çözülmesini sağlıyor. 
+     
+</TEXT>
+</DOC>

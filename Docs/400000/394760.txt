@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> 394760 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/14/son/soneko16.html </URL>
+<DATE> 2005/11/14/ </DATE>
+<TIME> 11.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilançolara elektronik takip... 
+</HEADLINE>
+<TEXT>
+
+     Türkan Al AA 
+
+Gelir İdaresi önümüzdeki yıldan itibaren bilançolara, elektronik takip dönemini başlatıyor. 
+     2006'da, elektronik fatura ile ticari defterlerin ''elektronik ortamda'' tutulması uygulamasına geçilecek. 
+     Yeni sistemle işletmelerin daha düzenli kayıt tutarak, verimlilikleri ve rekabet güçlerini artırmaları sağlanacak. Aynı şekilde kayıtdışı ekonomi ile de daha etkin mücadele edilmesinin de yolu açılacak. 
+     Sisteme ilişkin altyapısını tamamlayan mükellefler, mal alıp, satarken elektronik fatura verecek. Ticari defterler de elektronik ortamda düzenlenecek. 
+     
+     ELEKTRONİK MUHASEBE GELİYOR 
+     Elektronik fatura ve ticari defterlerin elektronik ortamda tutulması uygulaması, elektronik muhasebeye geçişin de ön adımı olacak. Elektronik muhasebe ile birlikte, kağıt ortadan kalkacak, mükellefler, defter ve belge ibraz etmeyecek, her türlü işlem, elektronik ortamda gerçekleştirilecek. 
+     Bu arada Gelir İdaresi de, yeni sisteme ilişkin altyapı çalışmalarına devam ediyor. Veri Ambarı ile Vergi İstihbarat Merkezi, yeni sisteme uygun olarak yeniden düzenleniyor. 
+     
+     ELEKTRİK VE TELEFONDA ELEKTRONİK FATURA 
+     Gelir İdaresi Başkan Vekili Osman Arıoğlu, önümüzdeki yıldan itibaren mükelleflerin kendi aralarındaki işlemlerde geçerli olmasını istedikleri elektronik faturanın, kamuda da yaygın şekilde kullanılacağını bildirdi. 
+     Gelir İdaresinin halen Turkcell ile bu tür bir uygulama başlattığını belirten Arıoğlu, ''bu kuruluş, abonelerine gönderdiği faturaların ikinci nüshasını artık bize göndermiyor. İkinci nüshalar, tamamen elektronik ortamda düzenlenerek, bize CD olarak iletiliyor'' dedi. 
+     Söz konusu uygulamanın elektrik, telefon ve doğalgaz faturalarında da başlatılacağını bildiren Arıoğlu, Türk Telekom, TEDAŞ ve İGDAŞ ile bu konuda çalışma yapıldığını kaydetti. 
+     Kağıdı kaldıracak ve bürokrasiye son verecek yeni sistemin kayıtdışı ekonomi ile daha etkin mücadeleye de katkı sağlayacağını kaydeden Arıoğlu, şunları söyledi 
+     
+     BİLGİLER, DENETİM ELEMANLARINA AÇILACAK 
+     ''Elektronik fatura ve defterlerin elektronik ortamda tutulması uygulamasında nihai hedef, tüm muhasebe kayıtlarının elektronik ortamda tutulmasını sağlamak. Ancak işletmelerin de buna hazır olması lazım. Onlar gerekli altyapıyı kurarken, biz de buna ilişkin belli güvenlik standartları getireceğiz. 
+     Zaman içinde her türlü alış ve satışta elektronik belge düzenine geçilecek. Elektronik muhasebe tümüyle devreye girecek. Bu şekilde hem işletmelerin hem de bizlerin daha verimli çalışması sağlanacak. 
+     Yeni sistem, kayıt dışı ile daha etkin mücadeleye de katkı sağlayacak. Vergi kayıp ve kaçağına ulaşmak da çok daha kolay hale gelecek. Yeni sistem ile şirketlerin ve diğer mükelleflerin kayıtlarına da gerektiğinde hemen bakma olanağı bulacağız. Her türlü bilgi, elektronik ortamda denetime hazır olacak.'' 
+     
+     NAYLON FATURACILARA UYARI 
+     Gelir İdaresi Başkanvekili Arıoğlu, firmaların alış ve satışlarının yeraldığı B formları yoluyla naylon fatura ile de amansız bir mücadele başlattıklarını ifade etti. 
+     Söz konusu formlar sayesinde, naylon fatura düzenleyenlerin yakayı çok daha çabuk ele vereceğini kaydeden Arıoğlu, ''herkes ayağını denk alsın. Klasik alışkanlıkları da bıraksın. B formları ve arkasından gelecek elektronik fatura ve muhasebe uygulaması ile naylon faturacılar kolaylıkla tespit edilecek'' dedi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 68329 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/02/18/son/sontur05.html </URL>
+<DATE> 2002/02/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İETT pasoları, kredi kartına benzeyecek 
+</HEADLINE>
+<TEXT>
+
+     İETT, güvenli bilet uygulamasından sonra ''güvenli toplu taşıma kartı'' projesini hayata geçiriyor. 
+     İETT Genel Müdürlüğü'nün toplu taşıma kartları için veri toplanması, kart yönetim sistemi oluşturulması, kartların üretilmesi ve kişiselleştirilmesi projesi, Otonom ve E-Kart işbirliği ile gerçekleştirilecek. 
+     Öğrenci, öğretmen, 65 yaş üzeri vatandaşlar ve İETT personeli gibi yaklaşık 1.5 milyon kişinin kullandığı toplu taşıma kartları için form işleme sistemi ile veri toplanmasının yanı sıra fotoğraf arşivinin ve kart yönetim sisteminin oluşturulmasını Otonom firması, kartların üretimi ve kişiselleştirilmesini ise E-Kart üstlendi. 
+     Otonom'un İETT'ye kuracağı ve kendi ürünü olan kart yönetim sistemi, form tasarımı, dağıtım otomasyonu, form işleme sistemi, görüntü arşiv sistemi ve kart kişiselleştirme modüllerinden oluşuyor. 
+     Sistemin tüm bileşenleri ve teknolojileri OTONOM-İTÜ işbirliği ile tamamen yerli kaynaklarla geliştirildi. 
+     İmzalanan anlaşma gereğince, Otonom firması söz konusu kart yönetim sistemini 3 ayrı bölgede toplam 5 adet kişiselleştirme istasyonu ile kurup, bir yıl işlettikten sonra donanım ve yazılımı ile birlikte İETT'ye hibe edecek. 
+     Kredi kartına benzeyen yeni toplu taşıma kartları, E-Kart tarafından Türkiye'de ilk defa kullanılan bir teknikle yüksek güvenlikli olarak tasarlandı ve yapımına başlandı. 
+     Yüksek teknoloji ile basılan kartların ön ve arka yüzeylerindeki gözle görülen ve görülmeyen güvenlik unsurları sayesinde kartın sahtesinin yapılması, fotokopi ya da başka tekniklerle çoğaltılması mümkün olmayacak. 
+     İETT'nin yeni toplu taşıma kartları, E-Kart'ın uluslararası güvenlik standartlarındaki üretim tesisinde kişiselleştirilecek ve sahiplerine ulaştırılacak. 
+     Öte yandan, Otonom'un kart yönetim sisteminin versiyon yükseltilerek ''akıllı kart'' yönetim sistemine dönüştürülebilir olması da ''akıllı şehircilik'' vizyonu açısından önemli bir avantaj olarak değerlendiriliyor. ''Akıllı şehircilik'' sayesinde vatandaşlar İstanbul BüyükŞehir Belediyesi'nin tüm hizmetlerinden tek bir kart ile yararlanabilecekler. 
+     Kritik teknolojilerde dışa bağımlılığı azaltma misyonuyla kurulan Otonom, uluslarası alanda rekabet edecek kalitede yazılım tabanlı teknolojiler geliştiriyor. Otonom yapay sinir ağları programcılığından, üst sınıf yazılım mühendisliği yöntemlerine kadar, yüksek Ar-Ge becerisi gerektiren konulara odaklanıyor. Otonom'un geliştirdiği teknoloji ve ürünler Türkiye'de pazar liderliğini yakaladıktan sonra yurt dışına pazarlanmaya başladı. Hali hazırda 10 ülkede Otonom ürünlerini satan yerel firmalar bulunuyor. 
+     Eczacıbaşı Topluluğu'nun Alman Giesecke Devrient G D firması ile ortak kurduğu Türkiye'nin ilk ''akıllı kart'' üretim tesisleri olan E-Kart, 11 Nisan'da Gebze'de hizmete açıldı. 
+     VISA, Europay ve Mastercard'dan güvenlik, teknik, kart üretimi ve kişiselleştirmesi sertifikasyonlarını alan E-Kart, Ortadoğu ve Doğu Akdeniz bölgesinde uluslararası onaylı tek akıllı ve manyetik bantlı kredi ve debit kart üretim merkezi sıfatına sahip bulunuyor. 
+     İETT geçtiğimiz günlerde ''Güvenli Bilet Sistemi'' uygulamasıyla, özel bir mürekkep kulanılarak sahtesi yapılamayacak tarzda yeni teknolojinin kullanıldığı bir bilet sistemine geçmişti. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

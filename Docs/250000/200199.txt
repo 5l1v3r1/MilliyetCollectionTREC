@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 200199 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/06/son/soneko01.html </URL>
+<DATE> 2003/12/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsası geriledi... 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası'nda, Dow Jones ve Nasdaq endeksleri haftayı düşüşle kapattı. 
+     Borsanın temel göstergesi Dow Jones Endeksi, 68,14 puan azalarak, 9,862.68 puana gerilerken, teknoloji Endeksi Nasdaq 30,98 puan kayıpla 1,937.82 puana düştü. 
+     
+</TEXT>
+</DOC>

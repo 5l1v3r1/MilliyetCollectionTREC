@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO> 158083 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/21/son/sontur10.html </URL>
+<DATE> 2003/05/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternet adresleri zenginleştiriliyor... 
+</HEADLINE>
+<TEXT>
+
+     Türkiye'de internet kullanıcıları için yeni bir sayfa açılıyor. Kullanıcıların, diledikleri herşeyi internet adresi olarak alabilmelerinin yolu açılıyor. 
+     İnternette ''com.tr'' uzantılı Türkiye'yi simgeleyen adresleri tescil etmekte tek yetkili kurum olan ODTÜ Alan Adı Yönetimi Domain Names Systems-DNS , kullanıcılara büyük kolaylıklar sağlayan yeni sistemin hazırlıklarını tamamladı. Sistem, 26 Mayıs Pazartesi günü kullanıcıların hizmetine girecek. 
+     Yeni DNS sistemi ''https www.nic.tr'' adresinde çalışmaya başlayacak. Sisteme hazırlık amacıyla 22 Mayıs Perşembe günü saat 17.00'de hizmet vermeyi durduracak. 
+     DNS sisteminin getirdiği en büyük yenilik olarak gösterilen ve bugüne kadar ''jenerik'' olduğu gerekçesiyle kullanımına izin verilmeyen ''com.tr'' uzantılı adreslerin de artık kullanılmasını olanaklı hale getirmesi. Noter huzurundaki çekilişle örneğin ''gaz.com.tr'' adresini isteyen herhangi bir LPG şirketi bu adresi üzerine tescil ettirebilecek. 
+     Çekiliş nedeniyle DNS Merkezi, yoğun başvuru aldı. Yalkaşı 31 bin başvurunun 29 bini ''com.tr'' uzantılı adresler için yapıldı. Diğer başvurular başka alanlarda olduğu için geçersiz sayıldı. Toplam 31 bin başvuruyu 3 bin 892 farklı kurum gerçekleştirdiği belirlendi. Başvuruların incelenmesinin ardından noter huzurunda kura çekimi yapılacak. 
+     Yeni DNS sistemi, adres tescil işlemlerini internet üzerinden yapılabilmesine imkan veren bir yazılımı içeriyor ve oluşabilecek hataları adres sahiplerine yüklüyor. Alan adlarının tescil işlemlerinin bedelleri kredi kartıyla yapılabilecek. Sistem, daha önce onaylanmış alan adının başkaları tarafından alınması ya da silinmesi gibi hassas konular dışında evrak trafiğini ortadan kaldırıyor. 
+     
+     YENİ ALAN ADLARI DEVREYE GİRİYOR 
+
+     Sistemin kullanıma açılmasıyla birlikte internet kullanıcıları, diledikleri herşeyi internet adresi olarak alabilecekler. 
+     Şirketler, ''com.tr'' uygulamasında olduğu gibi ''info.tr'' ve ''biz.tr'' uzantılı alan adlarını alabilecek. DNS Yönetimi, bireysel ve kurumsal kullanımı ve girişimciligi teşvik için ''web.tr'' alan adını da açacak. Bu alan adında hiç bir kısıtlama olmaksızın kullanıcılar istedikleri adresleri tescil ettirecekler. 
+     İnternet kullanıcılarına adres alımında en büyük kolaylığı ''name.tr'' ve ''tel.tr'' uygulamalarının sağlaması bekleniyor. Kullanıcılar, isimlerini ve telefon numaralarını bu uygulama sayesinde internet adresi olarak alabilecekler. 
+     Sistem, emniyet teşkilatı, belediyeler ve avukatlar için de yenilikler getiriyor. Artık emniyet teşkilatı ''pol.tr'', belediyeler ''bel.tr'' ve avukatlar ''av.tr'' uzantılı internet adreslerini kullanabilecekler. 
+     DNS Yönetimi, ''net.tr''nin de kapsamını genişletiyor. Bugüne kadar sadece Telekomunikasyon Kurumu'ndan lisans yada genel izin alanlara ayrılan bu alan adı artık internet hizmeti veren ve interneti büyütmeye yönelik proje ve oluşumlara da verilebilecek. 
+     
+     YENİ FİYAT TARİFELERİ 
+
+     Sistemle birlikte adres tescil fiyatlandırmalarında da indirimlere gidildi. Yeni fiyatlandırma rejimi 6 ayda bir enflasyon dolar kuru göz önüne alınarak güncellenecek. Fiyatlandırmalar 3 grupta toplandı. Gruplar şöyle 
+-Belgeye dayalı ve kurumlara yönelik ticari alan adları ''com.tr, biz.tr, info.tr ve net.tr için yıllık 25 Milyon lira, 
+-Belgesiz, daha çok bireylere ve sivil toplum kuruluşlarına yönelik alan adları ''org.tr, gen.tr, web.tr, bbs.tr, av.tr için yıllık 15 Milyon lira, 
+- Bireyler ve kamu için ''name.tr, tel.tr, gov.tr, pol.tr, bel.tr, k12.tr, mil.tr ve edu.tr için 5 Milyon lira.'' 
+
+     
+</TEXT>
+</DOC>

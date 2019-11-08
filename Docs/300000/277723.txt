@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 277723 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/06/son/soneko06.html </URL>
+<DATE> 2004/10/06/ </DATE>
+<TIME> 09.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tokyo Borsası yükselişle kapandı... 
+</HEADLINE>
+<TEXT>
+
+     Tokyo Menkul Kıymetler Borsası, hafta ortasındaki işlem gününde yükselişle kapandı. 
+     Nikkei Endeksi, 103.55 puan yüzde 0.92 artışla 11,385.38 puandan kapandı. 
+     Öte yandan Tokyo piyasasında ABD Doları, 0.24 yen değer kazanarak 111.11 yen düzeyinden işlem gördü. 
+     Tokyo Borsası'nın son 11 haftanın en yüksek noktasına çıkmasında elektrik ve teknoloji sektörlerinde faaliyet gösteren şirketlerin hisselerine gelen talep etkili oldu. 
+     
+</TEXT>
+</DOC>

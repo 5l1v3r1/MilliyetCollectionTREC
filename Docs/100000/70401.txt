@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 70401 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/03/02/son/soneko02.html </URL>
+<DATE> 2002/03/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft-Windows.NET'in piyasaya sürümü yine ertelendi 
+</HEADLINE>
+<TEXT>
+
+     Ünlü bilgisayar yazılım şirketi Microsoft'un Windows 2000'in yerini alacak yeni programı windows.NET'in piyasaya sürümü yine ertelendi. 
+     Microsoft'tan yapılan açıklamada, ürün, bu yılın ikinci yarısında piyasaya çıkarılmasının planlandığı bildirildi. 
+     İlk olarak, geçen yılın sonuna doğru çıkarılması planlanan, fakat daha sonra, Windows XP'nin piyasaya sürülmesi nedeniyle ertelenen windows.NET'in, performansının artırılması için sürümünün ertelendiği belirtilirken, ayrıca Microsoft'un sahibi Bill Gaates'in direktifleri doğrultusunda, yeni ürünün güvenlik sisteminin yeniden deneneceği kaydedildi. 
+     Müşterilerin, Microsot ürünlerinin güvenliği konsundaki şikayetlerinin artması üzerine, Windows.NET'in üretimined daha hassas davranılacağı ifade ediliyor. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

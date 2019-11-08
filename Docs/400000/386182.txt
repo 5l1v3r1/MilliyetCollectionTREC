@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 386182 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/12/son/sonyas02.html </URL>
+<DATE> 2005/10/12/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft, tekel davasında RealNetwors'e 761 milyon dolar ödeyecek 
+</HEADLINE>
+<TEXT>
+
+     Yazılım devi Microsoft firması, 2003’te açılan bir tekel davasında, RealNetworks şirketine 761 milyon 
+     dolar ödemeyi kabul etti. 
+     İki şirketin ortak açıklamasında, 2003 yılında RealNetworks’ün açtığı davada dostane çözüme gidildiği ve tekel davasının sonuçlanması için varılan anlaşma çerçevesinde Microsoft’un RealNetworks’e 761 milyon dolar ödeyeceği belirtildi. 
+     İki şirketin internet kullanıcılarına müzik ve video oyunları konusunda daha iyi hizmet edebilmek için işbirliği yapacağı kaydedilen açıklamada, Microsoft’un müzik yayınında RealNetworks’den faydalanacağı, RealNetworks’ün oyunlarının da Microsoft’un oyun konsolu XBox sayesinde oynanabileceği belirtildi. 
+     RealNetworks Başkanı Rob Glaser da yaptığı açıklamada, "Bugün Microsoft ile bir dönemi kapattık ve ilişkilerimizde yeni bir sayfa açtık" diye konuştu. 
+     Bilgisayarlarda müzik dinlemek ve film seyretmek için kullanılan Real Player adlı programın üreticisi RealNetworks şirketi, 2003’te, kendi yazılımlarını haksız yere bilgisayar kullanıcılarına empoze ettiği iddiasıyla Microsoft firması aleyhinde tekel karşıtı dava açmıştı. 
+     RealNetworks, Microsoft’un tekelci tutumu yüzünden büyük çapta gelir kaybına uğradığını iddia ederek, Microsoft’tan 1 milyar dolar tazminat istemişti. RealNetWorks, Microsoft’un, kullanıcılar istese de istemese de onları kendi ürünü olan Windows Media Player’i kullanmaya zorladığını ileri sürmüştü. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 364469 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/26/son/sontur21.html </URL>
+<DATE> 2005/07/26/ </DATE>
+<TIME> 11.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+''Sıcaklığın 5 derece fazlasını hesap edip dışarı çıkın'' uyarısı... 
+</HEADLINE>
+<TEXT>
+
+     Meteorolojinin, sıcaklık ölçümlerini, güneş ışınlarından koruyan siperler içerisine yerleştirilmiş sıcaklık ölçerler aracılığıyla yaptığı, bu yüzden asfalt ve betonlaşmanın yoğun olduğu kent merkezlerinde hava sıcaklığının açıklanan değerlerin yaklaşık 5 derece üzerinde olabileceği bildirildi. 
+     Devlet Meteoroloji İşleri Genel Müdürlüğü Hava Tahminleri Daire Başkanı Kemal Dokuyucu, AA muhabirine yaptığı açıklamada, sıcaklık ölçümlerinin siperlerin içine yerleştirilen ölçüm aletleri aracılığıyla yapıldığını söyledi. 
+     Rasat parklarında içine termometre yerleştirilen siperlerin hava sirkülasyonuna uygun olarak doğal gölge ortamını yansıtan, çift tavanlı, kafes şeklinde ağaçtan yapıldığını ifade eden Dokuyucu, yerden yaklaşık 2 metre yükseklikteki siper içerisine yerleştirilen sıcaklık ölçerlerin doğrudan güneş ışınlarından, yağıştan ve yoğunlaşmadan korunduğunu bildirdi. 
+     Sıcaklığın bu ortamda ölçüldüğünü ve açıklandığını ifade eden Dokuyucu, yükseklik, nem, rüzgar ve hava cereyanı gibi etkenlere bağlı olarak farklı ortamlarda sıcaklığın açıklanan değerin üzerinde ve altında olabileceğini kaydetti. 
+     
+</TEXT>
+</DOC>

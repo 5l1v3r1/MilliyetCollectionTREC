@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 187719 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/10/son/sondun04.html </URL>
+<DATE> 2003/10/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft, 2004 başında Windows'daki açıkları yamayacak 
+</HEADLINE>
+<TEXT>
+
+     Yazılım devi Microsoft firması, 2004 yılı başında Windows-XP ve Windows server 2003 programlarındaki açıkları kapayacak bir yamayı ücretsiz olarak kullanıcıların hizmetine sunacağını açıkladı. 
+     Microsoft İcra Direktörü Steve Ballmer ''bu olumsuzlukların giderilmesi amacıyla 2004 başında yeni bir 'servis paketi' yayınlanacağını'' bildirdi. 
+     Yeni servis paketiyle Windows işletim programının, bilgisayar hafızasını daha iyi yöneteceği ve ''buffer overruns'' adı verilen boşlukların oluşmasının önüne geçeceği belirtiliyor. Hackerlar bu boşluklardan yararlanarak bilgisayarları ele geçiriyorlar. 
+     Microsoft buna ek olarak XP işletim sistemine eklediği ateş duvarı programını geliştirmeyi de vaat etti. 
+     Ballmer, ''Amacımız çok basit. Kullanıcıları, suç teşkil eden saldırılara karşı korumak. Yapacağımız değişiklikler, ihmalkar davranarak servise koyduğumuz yamaları indirmeyen kullanıcıları dahi korumaya yönelik'' diye konuştu. 
+     
+</TEXT>
+</DOC>

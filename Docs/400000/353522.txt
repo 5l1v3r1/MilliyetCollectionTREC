@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 353522 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/19/son/sonyas04.html </URL>
+<DATE> 2005/06/19/ </DATE>
+<TIME> 11.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sanal lemde en büyük bilgi hırsızlığı 
+</HEADLINE>
+<TEXT>
+
+     ABD, bugüne kadar gerçekleşen en büyük mali bilgi hırsızlığını konuşuyor. Bankalar ve şirketler için hesap nakli yapan Arizona merkezli 'CardSystems Solutions' adlı şirketin güvenlik sistemini virüs yardımıyla delen hırsız veya hırsızlar, 40 milyon kişiye ait kredi kartı bilgilerini ele geçirdi. 
+     Durum, 'MasterCard International'ın güvenlik biriminin uyarısı üzerine anlaşıldı. Kredi kartlarıyla yapılan dolandırıcılıkları belirleyen uzmanların uyarısı üzerine başlatılan araştırmada 40 milyon kredi kartının risk altında olduğu, bu kartlardan 13.9 milyonunun MasterCard müşterilerine ait olduğu ortaya çıkarıldı. 
+     Mastercard yetkilileri, müşterileri durumunda olan bankaların uyarıldığını, kredi kartlarında sosyal güvenlik numarası, adres, doğum tarihi ve benzeri kritik bilgilerin yer almadığını açıkladı. ABD'deki Elektronik Mahremiyet Bilgi Merkezi danışmanlarından David Sobel'in verdiği bilgiye göre, olay 'bugüne kadar gerçekleşen en büyük mali bilgi hırsızlığı'. Müşterilerine ait bilgileri çalınan kredi kartı şirketleri arasında bulunan Visa, Discover ve MBNA ise bu konuda henüz bir açıklama yapmadı. American Express'in sözcüsü ise az sayıda kart sahibinin olaydan etkilendiğini söyledi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 332903 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/13/son/sondun56.html </URL>
+<DATE> 2005/04/13/ </DATE>
+<TIME> 21.49 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Çalar saatte devrim... 
+</HEADLINE>
+<TEXT>
+
+     İngiltere'de bir grup uyku yorgunu üniversite öğrencisi, çareyi, insanları uykularının en hafif zamanında uyandıran bir çalar saat icat etmekte buldu. 
+     New Scientist dergisinin haberine göre, ''SleepSmart'' adı verilen akıllı saat, uyku döngüsünü ölçüyor ve insanları uyandırmak için uykunun en hafif olduğu anı bekliyor. 
+     Böylece saat insanları, uyandıklarında huysuz ve yorgun olacakları bir zamanda değil, kalktıklarında kendilerini daha dinç hissedecekleri bir anda uyandırmış oluyor. 
+     Saat, uyku döngüsünün her aşamasında, beyinden gelen dalgaları, elektrotların bulunduğu bir kafa bandı vasıtasıyla kaydediyor. 
+     İnsanlar, saati uyanmak istedikleri en geç saate göre kuruyor ve saat onları buna göre son hafif uykuları sırasında uyandırıyor. 
+     Akıllı saat, üniversiteden kısa bir süre önce mezun olan Eric Shashoua ile bu fikri hayata geçirmek için bir şirket kuran arkadaşlarının ürünü. 
+     Shashoua, ''Hiçbir zaman uykusunu alamamış kişiler olarak, bu konuda ne yapabileceğimizi düşünmeye başlamıştık'' dedi. 
+     Mucitlerin saatin prototipini hemen hemen tamamladıkları, gelecek yıla kadar da saati piyasaya sürmeyi planladıkları bildirildi. 
+     
+</TEXT>
+</DOC>

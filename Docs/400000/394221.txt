@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 394221 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/11/son/sonyas06.html </URL>
+<DATE> 2005/11/11/ </DATE>
+<TIME> 09.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İlkokula dijital parmak izi okuyucu 
+</HEADLINE>
+<TEXT>
+
+     Hong Kong'da bir ilkokulda zamandan kazanmak ve devamsızlıkları engellemek için dijital parmak izi okuma cihazları yerleştirildi. 
+     Yerel basının haberine göre, bir Katolik ilkokuluna yerleştirilen sistem 5 bin dolara mal oldu. 
+     İlkokul öğrencileri, parmak izlerini makineye okutarak binaya girdikten sonra kantin ve kütüphaneye girerken de parmak izi vermek zorunda kalacak. 
+     
+</TEXT>
+</DOC>

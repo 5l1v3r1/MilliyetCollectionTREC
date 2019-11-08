@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 229079 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/06/son/sonyas02.html </URL>
+<DATE> 2004/04/06/ </DATE>
+<TIME> 07.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Lokanta ve hastanelerde kirli elle çalışanlara "mavi ışık" çözümü .. 
+</HEADLINE>
+<TEXT>
+
+     ABD'de yeni bir teknoloji sayesinde lokanta ve hastanelerde kirli elle çalışanlar tespit edilebilecek. 
+     Florida'da faaliyet gösteren eMerge Interactive adlı teknoloji firmasının ürettiği mavi ışıklı tarayıcıların, tuvaletten sonra ellerini yıkamayı unutan çalışanlar arasında hijyeni artırması bekleniyor. 
+     Elektrikli el kurutucusu büyüklüğündeki tarayıcı, ellerde en küçük kirlerle nokta büyüklüğündeki lekeleri bile dijital olarak görüntüleyebiliyor. 
+     Cihaz sayesinde her yıl onmilyonlarca insanı mağdur eden gıda zehirlenmelerinin önüne geçileceği belirtiliyor. 
+     Araştırmalar, genellikle tırnak çevresi ve parmak aralarının yeterince yıkanmadığını gösteriyor. 
+     Uzmanlar ellerin en az 20 saniye yıkanmasını önerirken, araştırmacılar pek çok kişinin ellerini yıkarken sabun bile kullanmadığını belirtiyorlar. 
+     Kirli elleri tespit eden cihazın prototipini tanıtan firma, tarayıcıların yıl sonuna kadar piyasaya sürüleceğini kaydetti. 
+     Cihazın öncelikle lokanta, bakım evlerine ve hastanelerde pazarlanması planlanıyor. Cihaz, özel bir kimlik kartıyla hangi personelin temiz, hangilerinin kirli ellerle çalıştığını kayıt altına da alabilecek. 
+     
+</TEXT>
+</DOC>

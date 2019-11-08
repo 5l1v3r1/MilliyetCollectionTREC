@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 68811 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/02/21/son/sondun02.html </URL>
+<DATE> 2002/02/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternetten artık film de indirilecek 
+</HEADLINE>
+<TEXT>
+
+     MGM stüdyoları, dünyada ilk kez kendi yapımı olan 2 filmin internet aracılığıyla bilgisayarlara yüklenebileceğini bildirdi. 
+     Bu amaçla internette bir site açan MGM'nin, ''CinemaNow İnc'' adlı bir kuruluşla işbirliği yaptığı ve internetten film indirilmesi işleminin 30 gün süreyle deneneceği bildiriliyor. MGM'nin internete koyacağı filmlerin copyright telif hakları yasasının koruması altında oldukları da belirtildi. 
+     Yüksek kaliteli bir gösterime olanak veren internet filmleri, kopyalamayı engelleyen bir yazılımla birlikte geliyor ve indirildikten sonra ancak 24 saat süreyle izlenebiliyor. 
+     Ancak Hollywood stüdyoları internet aracılığıyla film dağıtımı konusunda ciddi sorunlarla karşı karşıya bulunuyorlar. Bunların başında yavaş internet bağlantıları geliyor. Örneğin normal bir modem bağlantısıyla 90 dakikalik bir filmin yüklenmesi 25 saat sürüyor. 
+     Hızlı bağlantıyla bu süre 4 saate iniyor. 
+     Film stüdyoları ayrıca filmlerin hacker'lar tarafından kopya edilmesinden de çekiniyorlar. 30 günlük süre içinde filmlerin kopyalanmasını engelleyen yazılımların işleyip işlemedikleri de denemeye tabi tutulacak. 
+     MGM stüdyolarının internete koyacağı filmlerden biri, başrolünü ''Titanic''in yıldızı Leonardo DiCaprio'nun oynadığı ''Demir Maskeli Adam, diğeri ise ''Bundan daha kötü ne olabilir '' adlı film. MGM stüdyolari bu filmler için bağlantı hızına göre 1.99 ile 5.99 dolar arasında para talep edecek. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

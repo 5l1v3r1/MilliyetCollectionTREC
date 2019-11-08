@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 197039 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/21/son/soneko06.html </URL>
+<DATE> 2003/11/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İMKB bugün kapalı, altın borsası ise açık... 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası Hisse Senetleri Piyasası bugün işleme kapalı olacak. 
+     İMKB Yönetim Kurulu'nun dün akşam geç saatlere kadar süren toplantısının ardından yapılan Başkanlık duyurusunda, İstanbul'da dün yaşanan terör olayları sonucunda Hisse Senetleri Piyasası'nda seansın sağlıklı bir biçimde yürütülmesine imkan kalmaması nedeniyle işlemlerin saat 11.09 56 itibariyle durdurulduğu anımsatılmıştı. 
+     Birinci seansın kalan bölümü ile ikincin seansın yapılamadığı belirtilen açıklamada, gelişmeleri değerlendiren Borsa Yönetim Kurulu'nun, Hisse Senetleri Piyasası'nda seansın durdurulduğu saate kadar yapılan işlemler geçerli olmak üzere bugün de Hisse Senetleri Piyasası'nın kapalılık halinin devamına karar verdiği bildirilmişti. 
+     Tahvil Bono Piyasası Kesin Alım Satım ve Repo Ters Repo pazarlarında ise işlemler belirlenen saatler içinde gerçekleştirilecek. 
+     İstanbul Altın Borsası ise bugün açık olacak. Borsa yönetmeliğinin Başkan'a verdiği yetkiye dayanarak İAB'nin tüm piyasalarında dün saat 11.20 itibariyle geçici olarak durdurulan işlemlerin, bugün tekrar başlatılmasına karar verilmişti. 
+     
+</TEXT>
+</DOC>

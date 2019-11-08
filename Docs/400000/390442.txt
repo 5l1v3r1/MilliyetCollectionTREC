@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 390442 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/28/son/soneko35.html </URL>
+<DATE> 2005/10/28/ </DATE>
+<TIME> 17.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Piyasalarda bugün... 
+</HEADLINE>
+<TEXT>
+
+     Borsa'da işlem gören hisse senetleri haftanın son işlem gününde ortalama yüzde 0.75 değer yitirdi. 
+     29 Ekim Cumhuriyet Bayramı Nedeniyle bugün İstanbul Menkul Kıymetler Borsası'nda İMKB tek seans işlem yapıldı. 
+     İMKB Ulusal 100 Endeksi, bu tek seansta 234.79 puan düşerek 31,038.52 puandan kapandı. Hisse senetleri piyasasında işlem hacmi 377 milyon 923 bin 8 YTL olarak gerçekleşti. 
+     
+     DÖVİZ 
+     Dün kapanışta 1.3510 YTL olan dolar güne 1.3540 YTL'den, 1.6410 YTL olan avro 1.6430 YTL'den başladı. 
+     Doların bugünkü kapanıştaki satış fiyatı 1.3470 YTL, avronun satış fiyatı 1.6320 YTL oldu. 
+     Merkez Bankası, dün açıklanan döviz kurlarının, Cumhuriyet Bayramı tatili nedeniyle, 31 Ekim Pazartesi gününe kadar geçerli olacağını bildirdi. Merkez Bankası, doların dünkü efektif kurunu alışta 1.3464 YTL, satışta 1.3558 YTL olarak belirlemişti. 
+     
+     FAİZ 
+     İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda işlem gören 9 Mayıs 2007 vadeli tahvilin, bugün valörlü işlemlerinin kapanışında basit getiri yüzde 14.81, bileşik getiri yüzde 14.28 oldu. 
+     Bu kağıdın bileşik getirisi dünkü kapanışa göre 0.07 puan yükseldi. 
+     İMKB Tahvil ve Bono Piyasası Repo-Ters Repo Pazarı'nda 3 günlük işlemlerde faiz ortalama yüzde 14.00'ten gerçekleşti. 3 günlük işlemlerde en düşük oran yüzde 13.00, en yüksek oran yüzde 14.05 oldu. 
+     
+</TEXT>
+</DOC>

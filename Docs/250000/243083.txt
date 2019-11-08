@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 243083 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/26/son/sonyas01.html </URL>
+<DATE> 2004/05/26/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Aspirin, göğüs kanserine de iyi geliyor... 
+</HEADLINE>
+<TEXT>
+
+     Araştırmalara göre, aspirinin, göğüs kanserinin en yaygın olan tipinin ortaya çıkma riskini düşürme ihtimali bulunuyor. 
+     Araştırma sonuçları, ''Journal of the American Medical Association'' adlı tıp dergisinin yarınki sayısında yayımlanacak. 
+     Yazıya göre, araştırmalar sonucunda, aspirinin göğüs kanserine karşı etkisi üzerinde umut verici sonuçlara varıldı ancak doktorların, ''kadınların bu hastalığa yakalanmamak için aspirin almalarını tavsiye etmeleri'' gibi kesin bir aşamaya ulaşılması için, daha fazla araştırmaya ihtiyaç var. 
+     Columbia University'den araştırmacı Mary Beth Terry ve Dr. Alfred Neugut'un başkanlığındaki ekipçe yapılan araştırma, aspirin ve kanserli tümör gelişimi arasında bir bağlantı olup olmadığı konusundaki ilk çalışma oldu. 
+     Çalışma sonucunda, aspirinin, östrojen ve progesteron hormonlarının beslediği tipteki kanserli tümörlerin gelişim riskini azalttığı saptandı. Göğüs kanserine yakalanan kadınlarının yüzde 70'i, hastalığın, ''hormone receptor-positive'' diye adlandırılan bu tipini taşıyor. 
+     Araştırmanın ilk sonuçlarına göre, en az üç ay boyunca haftada en az dört aspirin alan birisinin bu tip göğüs kanserine yakalanma riski yüzde 30 azalıyor. 
+     
+</TEXT>
+</DOC>

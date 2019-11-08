@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 285713 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/03/son/soneko03.html </URL>
+<DATE> 2004/11/03/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones düştü, Nasdaq yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası'nda, başkanlık seçimlerinin yapıldığı bugün Dow Jones endeksi düştü, Nasdaq endeksi yükseldi. 
+     Borsanın temel göstergesi Dow Jones endeksi 18.66 puanlık düşüşle 10,035.73 puana inerken, teknoloji endeksi Nasdaq 4.92 puanlık yükselişle 1,984.79 puana çıktı. 
+     
+</TEXT>
+</DOC>

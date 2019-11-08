@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> 213836 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/08/spor/spo14.html </URL>
+<DATE> 2004/02/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ara transfer raporu 
+</HEADLINE>
+<TEXT>
+
+   
+   GENÇLERBİRLİĞİ Gelenler Şenol Adana Demirspor , Damir Yüksel altyapı , Doğa Kayserispor , Gidenler Uğur Boral Ankaraspor , Bülent Karaman Samsunspor , Volkan Kıral Almanya , Mustafa Gürsel Bursaspor , Ali Cansun Beşiktaş 
+   ELAZIĞSPOR Gelenler Ziya Konyaspor , Ahmet Arslaner Mersin İY , Oğuzhan Ankaragücü , Hüseyin Gaziantepspor , Nuorela Finlandiya - Malmö , Tolga gurbetçi , Gidenler Sedat Gaziantepspor , Orkun Ankaragücü , Da Silva Brezilya 
+   ANKARAGÜCÜ Gelenler Erhan Albayrak Fenerbahçe , Ergin Adanaspor , Tolga İstanbulspor , Orkun Elazığspor , Faruk Namdar Karşıyaka , Ender Bursaspor , İsmet Denizlispor , Göktuğ Göztepe , Gidenler Ayhan Ankaraspor , Burak Denizlispor , Galiano Brezilya , Axel Brezilya , Keita Gine , Oğuzhan Elazığspor , Abdullah Adanaspor 
+   KONYASPOR Gelenler Oumar, Bayram Trabzonspor , Murat Duman Malatyaspor , Fatih Bursaspor , Gidenler Carlos Braga Brezilya , Ziya Elazığspor , Ünsal Bursaspor 
+   ADANASPOR Gelenler Umut Sivasspor , Vural FC Zürih - İsviçre , Ümit Lomen - Belçika , Sancak Malatyaspor , Abdullah Ankaragücü , Yusuf Akçaabat Sebatspor , Ümit Ozan Diyarbakırspor , Gidenler Necati Galatasaray , Murat Şahin Çaykur Rizespor , Hayati Ankaraspor , Volkan K.Bekiroğlu Trabzonspor , Ergin Ankaragücü , Volkan Öztürk Mersin İY 
+   GAZİANTEPSPOR Gelenler Yusuf, Hakan Fenerbahçe , Sedat Elazığspor , Ahmet, Mehmet Kara Gaziantep B.Belediyesi , Gidenler Cem Baki Çaykur Rizespor , Yaw Preko Halmstad BK - İsveç , Hüseyin Elazığspor , Mustafa Şahintürk 
+   DİYARBAKIRSPOR Gelenler Mustafa Göndem BK Akademisko - Danimarka , Edmond FC Basel - İsviçre , Mehmet Çolak Adana Demirspor , Gidenler Saffet Çaykur Rizespor , Ümit Ozan Adanaspor , Cengizhan Kayseri Erciyesspor , Da Silva Brezilya 
+   MALATYASPOR Gelenler İlyas Denizlispor , Göksel, Recep Trabzonspor , Gidenler Murat Duman Konyaspor , Tolga Trabzonspor , Hakan, Ufuk Yimpaş Yozgatspor , Sancak Adanaspor 
+   İSTANBULSPOR Gelenler Mehmet Bölükbaşı Galatasaray , Gidenler Mehmet Yozgatlı Fenerbahçe , Zdravkov Bulgaristan , Olcay Karşıyaka , Gökhan Karagümrük Kyoto , Tolga Ankaragücü 
+   GALATASARAY Gelenler Necati Adanaspor , Emrah Karşıyaka , Kingston Gana , Gidenler Frank de Boer Glasgow Rangers - İskoçya , Mehmet Bölükbaşı İstanbulspor , Abdullah, Ali Lukunku 
+   FENERBAHÇE Gelenler Nobre Cruzeiro - Brezilya , Mehmet Yozgatlı İstanbulspor , Gidenler M.Alper Çaykur Rizespor , Yusuf, Hakan Gaziantepspor , Erhan Albayrak Ankaragücü 
+   BEŞİKTAŞ Gelenler Adrian Ilie Romanya , Ali Cansun Gençlerbirliği , Gidenler Ahmet Dursun 
+   SAMSUNSPOR Gelenler Bülent Karaman Gençlerbirliği , Julio Cesar Santos - Brezilya , Gidenler Hakkı Kayserispor , Regilson Monterio Junior Atlethico Minerea - Brezilya 
+   TRABZONSPOR Gelenler Volkan K.Bekiroğlu Adanaspor , Tolga Malatyaspor , Gidenler Göksel, Recep Malatyaspor , Osman Akçaabat Sebatspor , Mustafa Yalçınkaya Kayserispor , Oumar Konyaspor , Van De Paar Belçika 
+   ÇAYKUR RİZESPOR Gelenler M.Alper Fenerbahçe , Cem Baki Gaziantepspor , Klodian Duro Dinamo Tiran - Arnavutluk , Miranda Nene Braga - Portekiz , Murat Şahin Adanaspor , Saffet Akyüz Diyarbakırspor , Gidenler Merthan İstanbul B.Belediyesi , Zeki İstanbul B. Belediyesi , Serkan Karabükspor 
+   AKÇAABAT SEBATSPOR Gelenler Oktay Derelioğlu Nürnberg - Almanya , Emaneul Osie Gana , Osman Trabzonspor , Gidenler Korhan Karşıyaka , Serkan Kılıç Altay , Feridun Karşıyaka , Yusuf Adanaspor , Metin Sarıyer , Alper Mutlu Antalyaspor 
+   DENİZLİSPOR Gelen İ.Burak Ankaragücü , Gidenler Coşkun, Cafer, Bülent Ertuğrul, İbrahim, Mustafa Sert Vestel Manisaspor , İsmet Ankaragücü , İlyas Malatyaspor , Sercan 
+   BURSASPOR Gelenler Mustafa Gürsel Gençlerbirliği , Milan Osterç Slovenya - Hapoel Hayfa , Nenad Grozdiç Sırbistan Karadağ - Velez Mostar , Ünsal Konyaspor , Gidenler Ender Ankaragücü , Fatih Konyaspor . 
+   
+   
+</TEXT>
+</DOC>

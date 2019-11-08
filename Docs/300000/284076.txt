@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 284076 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/28/son/soneko26.html </URL>
+<DATE> 2004/10/28/ </DATE>
+<TIME> 18.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsası düşüşle açıldı 
+</HEADLINE>
+<TEXT>
+
+     New York Menkul Kıymetler Borsası, düşüşle açıldı. 
+     Dow Jones endeksi, yüzde 0.29 oranında değer kaybederek 9,972.75 puan düzeyine geriledi. 
+     Standard and Poor's 500 endeksi yüzde 0.15, Nasdaq Bileşik Endeksi de yüzde 0.09 oranlarında değer kaybetti. 
+     Borsanın değer kaybetmesinde, Çin Merkez Bankası'nın, dokuz yıldan bu yana ilkkez faiz oranlarını yükseltmesinin küresel ekonomik büyümeyi yavaşlatabileceği kaygısı etkili oldu. 
+     
+</TEXT>
+</DOC>

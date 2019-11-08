@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 154612 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/05/son/soneko23.html </URL>
+<DATE> 2003/05/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Telsiz telefonlara internet üzerinden müzik ve video... 
+</HEADLINE>
+<TEXT>
+
+     Kişisel bilgisayarları internet üzerinden müzik ve video yayınlarını alabilen eğlence cihazlarına dönüştüren RealNetworks bilgisayar yazılım ve hizmetleri şirketi, bu işi telsiz telefonlar üzerinden de yapacak. 
+     Merkezi Seattle'daki RealNetworks şirketi, gelişmiş cep telefonları ve veri hizmetine sahip müşterilerine telsiz iletişim-aktarım şebekeleri üzerinden haberler, müzik, spor ve sinema filmleri temin edecek. 
+     Bu hizmetten, şimdilik sadece Nokia 3650 tipi cep telefonu sahipleri ile AT T Wireless, Cingular Wireless ya da T-Mobile'in veri hizmeti aboneleri yararlanabiliyor. 
+     RealNetworks şirketi, RealNetworks görsel ve işitsel yazılımını birbiriyle kaynaştıracak yeni telefonlar ve cihazlar için Samsung ve Siemens ile çalışıyor. 
+     National Public Radio, Fox Sports.com ve iFilm gibi şirketlerle, güncelleştirilmiş haberler, spor, sinema filmleri ve cep telefonları kullanıcıları için diğer enformasyon temini, sunumu için anlaşmalar imzalandı. 
+     Daha ayrıntılı bilgi için http www.realnetworks.com 
+     
+</TEXT>
+</DOC>

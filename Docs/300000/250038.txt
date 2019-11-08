@@ -1,0 +1,43 @@
+<DOC>
+<DOCNO> 250038 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/22/son/sontur20.html </URL>
+<DATE> 2004/06/22/ </DATE>
+<TIME> 13.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+MEB-Microsoft eğitimde işbirliği yapıyor... 
+</HEADLINE>
+<TEXT>
+
+     Milli Eğitim Bakanı Hüseyin Çelik, hazırlanan yeni ilköğretim müfredatında, bilişim dersinin ağırlıklı ve tercihli olarak yer aldığını belirterek, ''Bir öğrencinin bu yönde kabiliyeti varsa, dersi çok çok daha fazla saat alması mümkün olacak'' dedi. 
+     4. Türkiye İktisat Kongresi sırasında imzalanan ve Milli Eğitim Bakanlığı ile Microsoft işbirliğini öngören ''Eğitimde İşbirliği Anlaşması''nın tanıtım toplantısı, Ankara Sheraton Oteli'nde yapıldı. 
+     Milli Eğitim Bakanı Çelik, yaptığı konuşmada, Microsoft firmasının dünya genelinde yürüttüğü ''Partners in Learning-Eğitimde İşbirliği'' anlaşması çerçevesinde, Türkiye'de de bir atılım sağlandığını belirterek, bundan duyduğu mutluluğu dile getirdi. 
+     Eğitim sistemini çağdaşlaştırmadan, çağdaş bir toplum yaratmanın mümkün olmadığını dile getiren Çelik, hükümetin ve Milli Eğitim Bakanlığı'nın bu yönde büyük çaba gösterdiğini kaydetti. Çelik, hükümetin Acil Eylem Planı çerçevesinde e-devlet projesini hayata geçirmeye çalıştığını anlatarak, bakanlığın öğretmen atama, bürokratik yazışmalar gibi konularda örnek teşkil ettiğini anlattı. 
+     Bakanlığın bu konuda yürüttüğü projeler hakkında bilgi veren Çelik, 2005 yılı sonuna kadar tüm okullarda internet ağının kurulmasını hedeflediklerini ve bu yıl sonu itibariyle 20 bin okula ulaşılmış olunacağını söyledi. 
+     
+     ÖĞRETMEN ADAYLARINA, BİLGİSAYAR BİLME KOŞULU 
+     Çelik, hizmetiçi eğitimlerle öğretmenlere bilgisayar okur-yazarlığını öğretmeye çalıştıklarını ifade ederek, gelecek yıldan itibaren öğretmen atamalarında bilgisayar bilme koşulu arayacaklarını kaydetti. Üniversitelere geçen yıl bu yönde birer yazı gönderdiklerini ifade eden Çelik, bu yılı geçiş süreci kabul ettiklerini, ancak gelecek yıldan sonra atamalar için bilgisayar bilen öğretmenlerin başvurabileceğini kaydetti. 
+     Hüseyin Çelik, bu eğitimin, formasyon sırasında öğretmenlere kazandırılabileceğini ifade etti. 
+     
+     CUMHURİYET TARİHİNDE İLK 
+     ''Cumhuriyeti tarihinde dünya çapında bir firmayla bu düzeyde işbirliği yapılmamıştır'' diyen Çelik, anlaşmanın amaçlarını şöyle sıraladı 
+     - Bilgisayar okur-yazarı olan öğretmenlerin ve öğrencilerin bilgisayar okur yazarlık seviyeleri artacak, olmayanlara bilgisayar okur-yazarlığı kazandırılacak, - Öğretmenlerin ve öğrencilerin bilgi ve iletişim teknolojisi araçlarına erişimleri kolaylaşacak, - Bilgi ve iletişim teknolojilerini BİT eğitim öğretim faaliyetleri içine entegre etmek suretiyle eğitim ve öğretim ortamları daha etkin hale getirilecek, - Öğretmenlerin söz konusu teknolojileri mevcut müfredata entegre etme konusunda yürütecekleri çalışmaları ve deneyimleri paylaşabilecekleri bir eğitim portalı oluşturulacak, - BİT araçlarına erişim olanağı kısıtlı olan okulların bu araçlara erişimini sağlamaya yönelik çözümler üretilecek, - BİT araçlarını kullanma becerilerine sahip insangücü yetiştirilecek. 
+     Bu amaçlara ulaşmak için yürütülecek çalışmalara da değinen Çelik, öğretmenlere, uzaktan eğitim yoluyla Türkçe anlatımlı, sesli, interaktif eğitimler verileceğini kaydetti. 
+     İlk ve ortaöğretim öğrencileri ile öğretmenlerine yönelik Türkçe BİT eğitim içeriğinin hazırlanacağını kaydeden Çelik, kullanım dışı kalan bilgisayarların yeniden kullanılabilir hale getirilmesini sağlamak amacıyla bilgisayar yenileme merkezleri kurulacağını bildirdi. Çelik, çeşitli kurumlarda kullanım dışı kalmış bilgisayarların bu sayede olanakları kısıtlı okullara bağışlanabileceğini anlattı. 
+     
+     ''TÜRKİYE, ANLAŞMA İMZALANAN . ÜLKE'' 
+     Microsoft Türkiye Genel Müdürü Çağlayan Arkan da Milli Eğitim Bakanlığı'nın bazı reform niteliğinde attığı adımların programın yapacağı teknoloji katkısının temelini oluşturduğunu kaydetti. 
+     Bakanlığın ''öğretme'' kavramı yerine ''öğrenmeyi'' temel alması, müfredatın teknolojiye uygun şekilde yenilenmesi çalışmaları teknolojiyle birleştirildiğinde 20 milyona yakın öğrenci, 600 bin öğretmenin okul, sınıf, derslik ve öğretmen paradigmalarından kurtulacağını anlatan Arkan, şöyle devam etti 
+     ''Eğitimde işbirliği anlaşması Partner in learning adı ile bütün dünyada uyguladığımız 2003 yılında duyurulan, sayısal uçurumu azaltmak, ülkelerin potansiyellerini gerçekleştirmelerine yardımcı olmak üzere hazırlanan bir programdır. Microsoft bu program için büyük bir yazılım yatırımı yaptı. 250 milyon dolar kaynak ayırdı. 63 ülke ile ABD ve Kanada'da bazı eyaletler bu anlaşmayı imzaladı. Türkiye bu anlaşmayı imzalayan . ülkedir.'' Türkiye'de uygulanacak programın diğerlerine göre daha kapsamlı olduğunu ifade eden Arkan, Microsoft'un, yazılım, donanım ve hizmet ihracı konularında Türkiye'nin bölgesel liderliğe için katkı sağladığını dile getirdi. 
+     İşbirliği anlaşmasının ''pazarlama faaliyeti olmadığını'' vurgulayan Arkan, programın Bakanlığın attığı reformları destekleyecek ve sürekliliği olan bir program olacağını belirtti. 
+     
+     SORULAR 
+     Çelik bir soru üzerine, ilköğretim müfredatını yenilediklerini ifade ederek, yeni müfredatta bilişim dersinin ağırlıklı ve tercihli olarak yer alacağını belirtti. 
+     Bu sayede bir öğrencinin yeteneği ölçüsünde çok daha fazla bilişim dersi almasının mümkün olacağını kaydeden Çelik, rehberlik hizmetlerine ağırlık vereceklerini ifade etti. 
+     Çelik, başka bir soru üzerine yeni müfredat çerçevesindeki ders kitaplarına ilişkin Temmuz ayında yarışma düzenlemeyi planladıklarını söyledi. 
+     Anlaşmanın maliyetinin sorulması üzerine de Çelik, bakanlığın herhangi bir maliyet üstlenmediğini, ancak hedeflere ulaşıldığı takdirde 50 milyon dolar kazanımının olacağını ifade etti. Çağlayan Arkan da programın uluslararası olduğunu ve başlangıçta 250 milyon dolar bütçe ayrıldığını, Türkiye'ye ayrılan kaynağın Milli Eğitim Bakanlığı'nda programın uygulanışı sırasında ihtiyaçlarına göre tekrar şekillendirileceğini kaydetti. 
+     Bakan Çelik, neden Microsoft firmasının seçildiğine ilişkin soruyu yanıtlarken de firma bağımlılıklarının bulunmadığını, uygun teklifleri görüşmeye hazır olduklarını kaydederek, ''Bill Gates ile herhangi bir iş ortaklığımız falan söz konusu değil'' dedi. 
+     
+</TEXT>
+</DOC>

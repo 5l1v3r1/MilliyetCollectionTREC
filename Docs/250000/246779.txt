@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 246779 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/10/son/sondun34.html </URL>
+<DATE> 2004/06/10/ </DATE>
+<TIME> 15.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+1000 dolar ver, Kremlin'in internet sitesini bir haftalığına çökerteyim 
+</HEADLINE>
+<TEXT>
+
+     Rus internet korsanları, herhangi bir web sitesini, günlüğü 150 dolara çökertebileceklerini iddia ettiler. 
+     Vedomosti gazetesi, ''herhangi bir siteyi felç etmeyi'' öneren bir elektronik posta aldığını duyurdu. 
+     Haberde, elektronik postayla gelen fiyat tarifesinde, sıradan bir internet sitesinin 6 saat boyunca çökertilmesinin maliyetinin 60 dolar, 24 saatinin ise 150 dolar olduğunun belirtildiği kaydedildi. 
+     Korsan, kendisini müşteri gibi arayan gazete muhabirine de, Amerikan yazılım devi Microsoft'un sitesini haftada 80 bin dolara, Kremlin'in ''www.kremlin.ru'' adresli sitesini ise haftalığı sadece 1000 dolara çökertebileceğini söyledi. 
+     
+</TEXT>
+</DOC>

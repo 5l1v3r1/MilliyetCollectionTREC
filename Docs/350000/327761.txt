@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 327761 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/28/son/sondun55.html </URL>
+<DATE> 2005/03/28/ </DATE>
+<TIME> 22.02 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sismolog Mustafa Meghravi "26 Aralık'takinden 30 kere daha az" 
+</HEADLINE>
+<TEXT>
+
+     Fransa'nın Strasbourg kentindeki Yeryüzü Fizik Enstitüsü Tektonik Laboratuvarı'ndan bir sismolog, Endonezya açıklarında meydana gelen Richter ölçeğine göre 8.2 büyüklüğündeki depremden sonra tsunami riskine işaret etti, ancak depremin ardından açığa çıkan enerjinin, 26 Aralık'takinden 30 kere daha az olduğunu söyledi. 
+     Sismolog Mustafa Meghravi, AFP'ye yaptığı değerlendirmede, ''Bugün büyüklük 8.2, 26 Aralık'ta ise 9.2 idi. Ancak depremin büyüklüğünü ifade etmek için kullanılan logaritmik ölçekteki aradaki 1 puanlık fark, 30 kere daha az enerjinin açığa çıkması demek'' dedi. 
+     Bugünkü depremin merkez üssünün 26 Aralık'taki depreminkine yakın olduğunun söylenebileceğini belirten yetkili, ''Aradan geçen zamana bakılırsa bunun bir artçı deprem olduğundan söz etmek kesinlikle mümkün değil. Bu, aynı sismik bölgede meydana gelen yeni bir deprem. Merkez üssü okyanus yüzeyinin maksimum 40 kilometre altında, yani bu yüzeysel bir deprem, bu da bu depremi tehlikeli kılıyor'' ifadesini kullandı. 
+     
+</TEXT>
+</DOC>

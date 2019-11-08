@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 324571 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/17/son/sonyas08.html </URL>
+<DATE> 2005/03/17/ </DATE>
+<TIME> 11.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kanserli hücreleri 'uyutarak' durdurdular 
+</HEADLINE>
+<TEXT>
+
+     LONDRA DHA 
+
+      İNGİLİZ bilim adamları, vücutta kanserin yayılmasını durdurmak için kanserli hücreleri komaya sokup 'uyutmayı' amaçlayan bir yöntem geliştirdi. Gelecekte cilt, meme, prostat ve pankreas kanserleri üzerinde de etkili olabileceği belirtilen yöntem, Surrey kentindeki Marie Curie Araştırma Merkezi tarafından denendi. 
+     Normal şartlarda sağlıklı hücreler tehlikeli bir durumla karşılaştıklarında doğal bir mekanizmayı devreye sokarak bölünmeyi durduruyor ve hastalığın yayılmasını engelliyor. Ancak kanserli hücrelerde bu mekanizma devreye giremediği için kontrolsüz bir hücre bölünmesi yaşanıyor ve hastalık hızla yayılıyor. Marie Curie uzmanlarının yaptığı ise kanserli hücrelerde bu doğal mekanizmayı tekrar harekete geçirmek oldu. 
+     Cilt kanserinin en tehlikeli türü olan 'melanom' üzerinde araştırma yapan bilim adamları, kanserli hücreleri bölünemeyecek duruma getirerek hastalığın yayılmasını önledi. Uzmanlar Tbx2' adlı genin bölünmeyi durdurma mekanizmasını bastırdığını belirterek, melanom hücrelerindeki bu gen bloke edilince, hücre bölünmesinin durduğunu açıkladı. 
+     İnsan hücrelerini laboratuvar ortamında inceleyerek araştırmalarını yürüten bilim adamları, henüz klinik deneyler yapmayı planlamadıklarını ve bu yöntemin en az 10 yıl sonra uygulamaya konulabileceğini ifade etti. 
+     
+</TEXT>
+</DOC>

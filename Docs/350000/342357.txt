@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 342357 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/13/son/sonyas17.html </URL>
+<DATE> 2005/05/13/ </DATE>
+<TIME> 14.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kandan enerji üretebilen pil geliştirildi 
+</HEADLINE>
+<TEXT>
+
+     Japon bilimadamları, yapay organlar için sürekli beslenme kaynağı yaratmak amacıyla, kandaki glikozu kullanarak herhangi bir kimyasal maddeye ihtiyaç duymadan enerji üretebilen pil geliştirdiler. 
+     Japonya’nın Sendai kentindeki Tohoku Üniversitesi’nden Profesör Matsuhiko Nişizawa, geliştirdikleri pilin, akım kaynağı olarak glikozdaki elektronları kullandığını söyledi. 
+     Pilin elektron akımı üretmek için vücutta bulunan K3 vitamininden faydalandığını belirten Nişizawa, gelecekte bu pilin vücuda nakledilerek yapay organlar için enerji kaynağı olarak kullanılabileceğini söyledi. 
+     Tohoku Üniversitesi tarafından geliştirilen pilin bozuk para büyüklüğünde olduğu ve 0,2 milivatlık akım üretebildiği belirtiliyor. 
+     
+</TEXT>
+</DOC>

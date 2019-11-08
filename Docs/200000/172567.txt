@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 172567 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/30/son/soneko33.html </URL>
+<DATE> 2003/07/30/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa 10.444 puandan kapandı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi, 2. seansı, 1. seansa göre 43.53 puan düşüşle 10,444.95 puandan tamamladı. 
+     2. seansta, hisse senetlerinin ortalama değer kaybı yüzde 0.42 oldu. 
+     Endeks, 2. seansa 17.05 puanlık düşüşle 10,471.43 puan seviyesinde başladı. Seans boyunca yaklaşık 85 puanlık dar bir bantta seyreden endeks, seansın ilk yarısını 10,443.43 puandan geçti. Endeks, seans içinde en düşük 10,403.62, en yüksek 10,488.48 puanı gördü. 
+     İMKB Ulusal 100 Endeksi, son dakika alımlarıyla günü 10,444.95 puandan tamamladı. 
+     1. seanstaki 10.21 puanlık artış dikkate alındığında endeks, günlük bazda 33.32 puan geriledi. Hisse senetleri günlük bazda ortalama yüzde 0.32 değer yitirdi. 
+     Kapanışta mali endeks 64.12 puan düşüşle 12,495.67 puana, sanayi endeksi 37.37 puan düşüşle 10,592.37 puana, hizmetler endeksi 7.78 puan düşüşle 6,894.16 puana geriledi. 
+     Böylece ilk seansa göre mali grup hisseler ortalama yüzde 0.51, sanayi grubu hisseler ortalama yüzde 0.35, hizmetler grubu hisseler ortalama yüzde 0.11 değer kazandı. 
+     2. seansta işlem gören toplam 292 hisse senedinden 156'sı değer kaybetti, 62'si değer kazandı, 74'ünün fiyatında değişiklik olmadı. 
+     Seansta, 70 trilyon 494 milyar 675 milyon liralık işlem hacmi kaydedildi. İki seans toplamında ise 143 trilyon 1 milyar 652 milyon liralık işlem hacmi oluştu. 
+     2. seansta Sabancı Holding, Erdemir, Tüpraş, Garanti Bankası ve İş Bankası C en yoğun işlem gören hisse senetleri olarak belirlendi. 
+     
+</TEXT>
+</DOC>

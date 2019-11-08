@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 252137 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/01/son/soneko01.html </URL>
+<DATE> 2004/07/01/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     New York borsası yükselişle kapandı. 
+     Borsanın temel göstergesi Dow Jones, 22.05 puan yükselerek 10,435.48 puana çıkarken, teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq 12.86 puan artışla 2,047.79 puandan kapandı. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 265971 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/24/son/soneko02.html </URL>
+<DATE> 2004/08/24/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası'nda Dow Jones düştü, Nasdaq yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     New York borsasında Dow Jones endeksi düşüşle, Nasdaq endeksiyse yükselişle günü tamamladı. 
+     Borsanın temel göstergesi Dow Jones 37.09 puan düşerek 10,073.05 puandan kapandı. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq endeksi de 0.68 puan yükselerek 1,838.70 puandan kapandı. 
+     
+</TEXT>
+</DOC>

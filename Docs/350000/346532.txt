@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 346532 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/27/son/sonyas13.html </URL>
+<DATE> 2005/05/27/ </DATE>
+<TIME> 14.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yeni virüs Online fidye saldırısına hazır olun... 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayarda dosyadaki bilgiyi çalarak kriptolayan ve bilgisayar sahibinin bilgiyi geri alabilmesi için fidye isteyen yeni tip "online saldırı" uyarısında bulunuldu. 
+     ABD’de "trojan" tipi virüsle yapılan saldırıda bilgiyi kriptolayarak şifreleyen bilgisayar kriminalleri, böylece bilgisayar sahibinin dosyayı okumasını engelliyor. 
+     Dosyadaki şifrenin açılması için 200 dolar karşılığı fidye talep eden bilgisayar korsanlarının, ilk kez böyle bir saldırı için bu kadar gelişmiş bir program hazırladıkları belirtiliyor. 
+     Amerikalı bilgisayar güvenliği uzmanlarının, "fidye isteğinin bilgisayar korsanının yakalanmasını kolaylaştıracağını" belirtmelerine karşın, bu tip "online fidyecilerin" şimdiye dek yakalanamadığına dikkat çekiliyor. 
+     Trojan olarak bilinen bu tip ilk saldırının, merkezi California’da bulunan Websense şirketi tarafından iki hafta önce tespit edildiğini belirten güvenlik yetkilileri, buna benzer bir başka "online saldırının" da bir haber grubunda Rusya’dan düzenlendiğini kaydettiler. 
+     Bilgisayar güvenliği yetkilileri, bu tip "online saldırının" kurbanlarının gerçek sayısının hiçbir zaman bilenemeyeceğini belirterek, "insanların bilgisayar korsanlarına para ödediklerini yetkililere söylemekten utandıklarını" vurguladılar. 
+     "Online fidye" kurbanlarının sayısının yüzlerce olabileceği belirtilirken, bu korsan programın, Microsoft Word belgelerini, HTML web sayfaları , JPG dosyalarını görüntü ve XLS Microsoft Excel dosyaları ile ZIP ve RAR ile sıkıştırılan dosyaları kriptolayarak şifreleyebileceği kaydediliyor. 
+     
+</TEXT>
+</DOC>

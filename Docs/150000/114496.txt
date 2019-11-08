@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 114496 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/10/22/son/sontur11.html </URL>
+<DATE> 2002/10/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ODTÜ Robot Günleri başladı 
+</HEADLINE>
+<TEXT>
+
+     ODTÜ Robot Topluluğu ve Türkiye Zeka Vakfı'nın birlikte ODTÜ'de düzenlediği Robot Günleri başladı. ODTÜ Robot Topluluğu öğrencileri tarafından tasarlanarak geliştirilen 2 robot, sumo güreşi gösterisi yaptı. Maç 2 kez tekrarlandı ve robotlar birer galibiyet kazanarak, rakibini platformun dışına attı. Maç, salondaki ilköğretim öğrencilerinden büyük ilgi gördü. 
+     ODTÜ Robot Günleri etkinliği, yarın akşam sona erecek. Etkinlikte, robotik konusundaki uzmanlar ile bilim adamları bildiriler sunacak ve robot teknolojileri anlatılacak. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

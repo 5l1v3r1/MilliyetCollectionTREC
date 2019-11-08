@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 163543 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/16/son/sontur10.html </URL>
+<DATE> 2003/06/16/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternetin en tehlikeli 5 virüsü... 
+</HEADLINE>
+<TEXT>
+
+     İnternette yayılan ''w32.bugbear.b mm, w32.klez.h mm, w32.sobig.c mm, w32.sobig.b mm, w32.hllw.fizzer mm'' adlı virüslerin ''en tehlikeli virüsler'' olarak ilan edildiği bildirildi. 
+     Türk İnternet Birliği Başkanı Hakan Topuzoğlu, yaptığı açıklamada, internette, dosya paylaşımı, e-posta gibi çeşitli yollarla yayılan virüslerin, etkilediği bilgisayarlarda sistemlere zarar verdiğini ve gizli bilgileri çaldığını söyledi. 
+     Symantec tarafından derecelendirilen virüslerden en tehlikelilerinin ''w32.bugbear.b mm, w32.klez.h mm, w32.sobig.c mm, w32.sobig.b mm, w32.hllw.fizzer mm'' adlı virüsler olduğunu bildiren Topuzoğlu, şunları anlattı 
+     ''Maksimum 4 risk derecesinde bulunan 'W32.Bugbear.B mm' adlı virüs 4 Haziran 2003'te, maksimum 3 risk derecesinde bulunan 'W32.Klez.H mm' 17 Nisan 2002'de, 'W32.Sobig.C mm' 31 Mayıs 2003'te, 'W32.Sobig.B mm' 18 Mayıs 2003'te, 'W32.HLLW.Fizzer mm' ise 8 Mayıs 2003'te tespit edildi. Mevcut antivürüs yazılımlarını ve firewall programlarını devredışı bırakan bu virüslere karşı da tespit tarihinin aynı günü ya da ertesi günü hazırlanan antivürüs yazılımlarıyla bilgisayarlar korunmaya çalışıldı. Ancak, internetten ücretsiz olarak alınabilen bu yazılımları bilgisayarlarına yüklemeyenler, virüslerin etkilerinden kurtulamadılar.'' Topuzoğlu, her gün yeni bir virüsle karşılaşan internet kullanıcılarının, antivürüs yazılımlarını düzenli olarak güncellemeleri gerektiğini belirtti. 
+     
+</TEXT>
+</DOC>

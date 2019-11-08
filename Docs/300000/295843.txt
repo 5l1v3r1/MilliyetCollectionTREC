@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 295843 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/08/son/soneko02.html </URL>
+<DATE> 2004/12/08/ </DATE>
+<TIME> 02.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Wall Steet Dow Jones endeksi 10,440.50 puandan kapandı 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacmi itibarıyla dünyanın en büyük borsası olan New York Wall Street'te, Dow Jones Sanayi Endeksi haftanın ikinci işlem gününü 106.56 puan düşüşle yüzde 1.01 10,440.50 puandan noktaladı. 
+     Wall Street'te teknoloji şirketlerinin ibresi Nasdaq Birleşik Endeksi de günün son seansını 36.33 puan düşüşle yüzde 1.69 2,114.92 puandan kapadı. 
+     New York menkul kıymetler borsası, haftanın ikinci işlem gününe hareketsiz başladı. 
+     Borsada ilk seansın ilk dakikaları içinde Dow Jones Sanayi Endeksi 10,547.50 puana çıktı. Borsada yine durgun açılış yapan teknoloji şirketleri endeksi Nasdaq da 2.37 puan yükselişle 2,1.62 puana ulaştı. 
+     Yatırımcıların kalp ve damar hastalıkları cihazları üreticisi Guidant'ın, sağlık ürünleri firması Johnson Johnson tarafından 24 milyar dolara satın alınacağına dönük söylentilerin netleşmesini beklemesi, borsanın hareketsiz ve düşük seyrinde etkili oldu. 
+     
+</TEXT>
+</DOC>

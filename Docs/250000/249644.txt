@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 249644 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/21/son/soneko23.html </URL>
+<DATE> 2004/06/21/ </DATE>
+<TIME> 14.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ford Kargo kamyonlar "kaza geliyor" diye uyaracak... 
+</HEADLINE>
+<TEXT>
+
+     Ford Otosan'ın İnönü Fabrikası'nda üretilen Ford Cargo kamyonlar, kaza riskine karşı sürücüleri uyaran bir sistemle donatılacak. 
+     Ford Otosan'dan yapılan açıklamaya göre, Türkiye'de ilk kez deneme amaçlı uygulanan sistem, gelecekte isteyen müşterilerin kullanımına sunulabilecek. 
+     ''Eaton VORAD Kaza Uyarı Sistemi'' adı verilen sistem, görsel ve sesli uyarılarla, özellikle görüşün kısıtlı olduğu sisli veya karanlık kullanım şartlarında şoförü uyararak kazaları önlemeye katkıda bulunuyor. 
+     Ford Cargo'ların ön kısımlarına yerleştirilen antenle radar sinyalleri gönderen sistem, önünde seyreden başka araçların hız bilgileri ile Ford Cargo'nun elektronik kontrol ünitesi ile ECU yapılan bağlantıyla aldığı araç hızı ve fren konumu gibi bilgileri kıyaslıyor. 
+     Aracın önündeki 105 metrelik alanı tarayarak, bir cisim tespit edilmesi durumunda görsel uyarı veren uyarı sistem, önünde yer alan veya hareket halinde olan cisimle arasındaki hızı değerlendirerek, iki araç arasındaki mesafenin 2, 1 ve 0.5 saniyeye düşmesine göre farklı tonlarda sesli uyarı sinyalleri veriyor. 
+     Sistem aracın yan bölgesine yerleştirilen bir sensör ile de yan aynalardan görülemeyen ''kör nokta'' denilen kısımları tarayarak bu bölgede bir cisim algılandığında görsel, sağa dönmek için sinyal verildiğinde sesli uyarı vererek oluşabilecek kazaları önlemeye çalışıyor. 
+     Ayrıca, sistemde bulunan gyroscope, aracın dönüş yarıçapını hesaplayarak, radarın taradığı bölgeyi daraltıyor ve yanlış sinyaller alınmasını engelliyor. 
+     
+     KARA KUTU ÖZELLİĞİ 
+     Kaza çözümü için data toplama kapasitesine de sahip olan sistem, çalıştığı son 10 dakika içerisinde ana aracın ve radar içerisindeki araçların hızları, yavaşlama, hızlanma ve yön değiştirme bilgilerini otomatik olarak kaydediyor. 
+     Ford Otosan ürün geliştirme yetkilileri, önümüzdeki dönemlerde Ford Cargo araçlara elektronik hız sabitleme cruise control uygulamasının yerleştirilmesi durumunda da VORAD sisteminde gerçekleştirilecek yazılım değişikliği sayesinde, sistemin hız sabitleme ünitesiyle ortak çalışmasının sağlanabileceğini ifade ettiler. 
+     Böylece, cruise control devrede iken araç, önüne gelen cisimleri algılayıp, fren yapma veya hızlanma gibi işlemleri otomatik olarak yapabilecek. 
+     
+</TEXT>
+</DOC>

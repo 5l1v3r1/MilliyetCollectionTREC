@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 221231 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/10/son/soneko04.html </URL>
+<DATE> 2004/03/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kodak'la Sony mahkemelik oldu... 
+</HEADLINE>
+<TEXT>
+
+     Kodak firması, dijital kamera teknolojisiyle ilgili patent anlaşmazlığı nedeniyle Japon Sony firmasını mahkemeye verdi. 
+     Kodak, Sony'nin dijital fotoğrafçılık alanında kendisine ait olan 10 patenti ihlal ettiğini öne sürüyor. Kodak firmasının davayı New York federal mahkemesinde açtığı öğrenildi. 
+     Şirket, Sony firmasının, ürünlerinde, Kodak tarafından icat edilen ve resmi sıkıştırarak dijital yoldan depolayan bir elektronik kamera yöntemini izinsiz kullandığını savunuyor. 
+     Gerek Kodak, gerekse Sony, dijital fotoğraf makineleri alanında öncü firmalar. 
+     Film kullanmayan bu tür fotoğraf makineleri çektikleri resmi bilgisayar yongası ya da hafıza kartına kaydediyorlar. Bu fotoğraflar bilgisayara aktarıldıktan sonra makineden kolaylıkla siliniyor ve fotoğraf makineleri yeniden kullanıma hazır hale geliyor. 
+     Kodak firmasının, Sony tarafından ihlal edildiğini öne sürdüğü patentleri 1987-2003 yılları arasında aldığı kaydedildi. Patentler, video çekimi, fotoğraf basımı, çekilen resimlerin incelenmesi ve depolanması gibi alanları kapsıyor. 
+     Konu hakkında açıklamada bulunan Kodak firmasının sözcüsü Gerard Meuchner, ''iki firma arasındaki anlaşmazlığı çözümleyebilmek için Sony firmasıyla yaklaşık 3 yıldır pazarlık yaptıklarını ancak uygun bir lisans anlaşması yapmayı başaramadıklarını'' ifade etti. 
+     Sony firmasının sözcüsü ise ''haklarında dava açıldığını yeni öğrendiklerini ve yorumda bulunmayacaklarını'' söylemekle yetindi. Dava çerçevesinde Kodak, Sony'den kendi geliştirdiği teknolojiyi kullanmaktan vazgeçmesini ve parasal tazminat ödemesini istiyor. Kodak daha önce, benzeri alanlarda Olympus ve Sanyo firmalarıyla lisans anlaşmaları yapmıştı. 
+     
+</TEXT>
+</DOC>

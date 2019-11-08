@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 303339 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/04/son/soneko05.html </URL>
+<DATE> 2005/01/04/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacminde dünyanın en büyük borsası New York Wall Street'in Dow Jones Sanayi Endeksi, yılın ilk işlem gününün son seansını düşüşle kapadı. 
+     Sanayi sektörüne yatırımların düşüşü ve istihdam büyümesinde yavaşlama ihtimali, Dow Jones Sanayi Endeksi'nin 54.09 puan düşüşle binde 5 10,728.92 puandan kapanmasına neden oldu. 
+     Wall Street'in ileri teknoloji şirketleri ibresi Nasdaq Birleşik Endeksi de 23.29 puan düşüşle yüzde 1.07 2,152.15 puandan noktalandı. 
+     
+</TEXT>
+</DOC>

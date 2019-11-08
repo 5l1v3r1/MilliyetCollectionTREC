@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 156967 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/16/ekonomi/eko09.html </URL>
+<DATE> 2003/05/16/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bankalar risklerine göre prim ödeyecek 
+</HEADLINE>
+<TEXT>
+
+Bankaların halen yıllık yüzde 1 olan TMSF prim yükleri bu yılbaşından itibaren yüzde 0.50’e çekiliyor 
+     EKONOMİ SERVİSİ 
+
+     Bankacılık Düzenleme ve Denetleme Kurumu BDDK , aracılık maliyetlerinin yüksekliğinden şikayetçi olan bankaların Tasarruf Mevduatı Sigorta Fonu’na TMSF ödediği yıllık yüzde 1 oranındaki prim yüklerini yüzde 0.50’ye düşürdüğünü açıkladı. 
+     BDDK, uygulamanın 1 Ocak 2003 tarihinden itibaren geçerli olacağını bildirdi. 
+     Yeni sistemle daha önce yıllık toplam yüzde 1 olan prim yükünü yüzde 0.50’ye çektiğini belirten BDDK, bankaların risk unsurlarına göre daha yüksek riskler için daha yüksek prim oranı öngördüğünü de kaydetti. BDDK açıklamasına göre daha önce sermaye yeterliliği standart oranları yüzde 8 ve daha büyük olan bankalar için onbinde 25, yüzde 8’den küçük olan bankalar için onbinde 26 olarak uygulanan iki kademeli prim sistemi yürürlükten kaldırıldı. 
+     
+     Primler üç ayda bir ödeniyor’ 
+     Riske dayalı yeni bir sistem oluşturulmasına yönelik olarak esas alınacak kritelerin yeniden düzenlendiği belirtilen açıklamada şöyle denildi 
+     "Temel prim oranı 3’er aylık dönemler itibarıyla bankaların yurtiçi şubelerinde gerçek kişiler tarafından açılmış olan TL cinsinden tasarruf mevduatı ile tasarruf mevduatı niteliğini haiz altın depo ve döviz tevdiat hesapları toplamının onbinde 12.5’i olarak tespit edilmiştir." 
+     
+
+</TEXT>
+</DOC>

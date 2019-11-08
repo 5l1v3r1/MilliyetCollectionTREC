@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 169512 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/15/son/sondun11.html </URL>
+<DATE> 2003/07/15/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayarda gizli porno tehlikesi... 
+</HEADLINE>
+<TEXT>
+
+     Hackerların tüm dünyada hızlı internet bağlantısı bulunan yaklaşık 2000 bilgisayara gizlice girerek, bunların porno reklam göndermelerini ve porno siteleri ziyaret edenleri müşteri olarak kaydetmelerini sağlayan bir program yükledikleri bildirildi. 
+     Amerikalı bilgisayar güvenliği uzmanları, tam olarak bilinmeyen ancak ''Truvalı'' olarak adlandırılan programın ''kurbanı'' bilgisayarların sayısının her geçen gün arttığını belirterek, çoğu kullanıcının e-posta virüsleri gibi yayılan bu yazılım programının bilgisayarlarına girdiğini fark etmediğini kaydettiler. 
+     Bostonlu bilgisayar güvenliği uzmanı Richard M. Smith, kurumsal bir güvenlik duvarıyla firewall korunmayan kişisel bilgisayarları birer yetkili sunucuya proxy server çeviren yazılımın, kurban bilgisayarların gizli bir sunucuya giderek, hızlı bağlantıları sayesinde diğer bilgisayarlara göndermek üzere porno reklam getirmelerini sağladığını belirtti. 
+     Kurban bilgisayarın porno web sitesinin ''cephesi'' gibi hareket ettiğini ve porno web sunucularının yerlerini saklamalarını sağladığını ifade eden Smith, böylece kullanıcıların farkına varmadan porno işine bulaşmış olduklarını ifade etti. 
+     Smith, bu hackerların Rus kökenli olabileceğini belirterek, bu işe karışan bazı e-posta adreslerinin Rusya'daki sunuculara döndüğünü ve bazı internet alan adlarının Rusça olduğunu söyledi. 
+     Bilgisayar güvenlik uzmanları, programın, kullanıcıların kredi kartı numaralarını almak için de kullanılabileceğini belirtirken, bilgisayarlara gizlice girilmesini önlemek için bir kurumsal güvenlik duvarı yazılımı kullanılmasını tavsiye ettiler. 
+     
+</TEXT>
+</DOC>

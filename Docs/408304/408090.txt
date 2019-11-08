@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 408090 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/30/son/sonyas16.html </URL>
+<DATE> 2005/12/30/ </DATE>
+<TIME> 11.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Cep007 servisiyle kendini imha eden kısa mesaj... 
+</HEADLINE>
+<TEXT>
+
+     Telsim aboneleri, CEP007 servisiyle başkasının görmesini istemediği gizli ve özel mesajlarını artık rahatça gönderecek. 
+     MCD Telekom'dan yapılan açıklamaya göre, Cep007 ile gönderilen mesajlar, açıldıktan sonra 30 saniye içinde kendini imha ediyor. Bunun için Cep007 yazıp 7878'e göndermek yeterli olacak. 
+     MCD Telekom tarafından geliştirilen bu servisi kullanabilmek için Cep007'ye bir kereliğine kayıt olmak ve gönderilen telefonların WAP ve GPRS özelliğinin aktif olmasının yeterli olduğu bildirildi. 
+     
+</TEXT>
+</DOC>

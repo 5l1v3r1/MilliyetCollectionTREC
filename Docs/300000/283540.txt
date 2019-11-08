@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 283540 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/26/son/sontur21.html </URL>
+<DATE> 2004/10/26/ </DATE>
+<TIME> 12.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ADSL bağlantı ücretinde indirim .. 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekomünikasyon A.Ş, ADSL internet erişim ücretlerinde indirim yaptı. ADSL Asimetrik Sayısal Abone Hattı ile 256 Kbps hızında bağlantı 49 milyon liraya indirildi. 
+     Türk Telekom'dan yapılan açıklamaya göre, dünden itibaren uygulanmaya başlanan yeni tarifeye göre, ADSL erişiminde 128 Kbps hızındaki tüm kullanıcıların hızı, fiyatları değiştirilmeden 256 Kbps'ye çıkarıldı. Böylece en düşük bağlantı hızı 256 Kbps'ye yükselirken, fiyatı ise yüzde 28.9 oranında indirilerek, 49 milyon liraya düşürüldü. 
+     Diğer hızlarda ise 512 Kbps hız 109 milyon liradan 99 milyon liraya, 1024 Kbps hız 179 milyon liradan 169 milyon liraya, 2048 Kbps hız 279 milyon liradan 269 milyon liraya indirildi. 
+     Bağlantı ücretlerindeki farklılar kaldırıldı ve taksit seçeneği getirildi. Buna göre tüm hızların ilk bağlantı ücretleri peşin 59 milyon lira, 12 ay taksitle 69 milyon lira olarak belirlendi. 
+     Bu arada ADSL'de limitli kullanım aboneliği uygalaması da baştalıdı. Bu uygulamada müşteriler isterse 256 ve 512 Kbps hızlarında limitli erişimi tercih edebilecek. 256 Kbps hızında aylık 29 milyon liraya 3 GB, 512 Kbps hızında ise aylık 49 milyon liraya 5 GB veri indirimi download yapılabilecek. Belirlenen limitler aşıldığında ise her 1 MB için 10 bin lira alınacak. 
+     
+</TEXT>
+</DOC>

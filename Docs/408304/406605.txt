@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 406605 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/26/yasam/yas11.html </URL>
+<DATE> 2005/12/26/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+SMS ile erken deprem uyarısı 
+</HEADLINE>
+<TEXT>
+
+
+TAKİ BERBERAKİS Atina 
+
+YUNANİSTAN'DA, depremi saniyeler önce cep telefonuna kısa mesaj ile haber veren uyarı sistemi geliştiriliyor. Ependitis gazetesine göre, 5 yıl içinde hayata geçirilecek olan "Ermis" isimli projeyle, Atina'da olası bir deprem SMS ile 10 saniye önceden duyurulacak. Yetkililer bu yöntemle, sanayi tesislerinde önlem alınabileceğini ve evlerin boşaltılabileceğini belirtiyorlar. Gazete, sistemin ilk olarak 2 yıl içinde California'da uygulanmasının planlandığını yazdı. 
+
+
+</TEXT>
+</DOC>

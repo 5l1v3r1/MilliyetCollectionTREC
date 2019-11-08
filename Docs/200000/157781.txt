@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 157781 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/20/son/sondun06.html </URL>
+<DATE> 2003/05/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Windows'un yeni sürümü 2005'te geliyor... 
+</HEADLINE>
+<TEXT>
+
+     Yazılım devi Microsoft tarafından geliştirilen Windows işletim sisteminin en yeni sürümünün 2005 yılında piyasaya çıkacağı bildirildi. 
+     Halen deneme aşamasında bulunan ve kod adı ''Longhorn'' olan işletim sisteminin, daha güçlü ve hızlı bilgisayarlara ihtiyaç duyduğu kaydedildi. Yeni programın özellikle grafik ve güvenlik açısından daha iyi olacağı belirtiliyor. 
+     Microsoft'un Windows program müdürü Greg Sullivan, ''yeni işletim sisteminin halen gelişme aşamasında olduğunu ve her gün ilerleme kaydettiklerini'' söyledi. Sullivan, ''bu nedenle, programın nihai halinin özellikleri konusunda konuşmanın erken olduğunu'' sözlerine ekledi. 
+     
+     HER ÖNLEM GÜVENLİK İÇİN 
+     Buna rağmen bazı teknoloji uzmanları, ''Longhorn''un ''alpha'' sürümünün özelliklerini internete taşıdılar. Buna göre programın özellikleri arasında temel tasarımı ve iç işletim yöntemi önde geliyor. Microsoft'un ayrıca, ''Palladium'' adıyla yeni bir güvenlik sistemi geliştirdiği ve bunu ''Longhorn''a ekleyeceği bildiriliyor. 
+     Bu bağlamda, örneğin bir kişinin şifresi yazılırken basılan tuşlar, klavyeden ekrana giderken kablo üzerinde şifrelenecek. Dolayısıyla şifreyi çözmek daha da zorlaşacak. Aynı yöntem sayesinde bilgisayardaki hassas verileri ele geçirmek de güçleşiyor. 
+     Ancak Microsoft'un ''Palladium''u, kullanıcıları izlemekte ve yasadışı program kopyalarının kullanıldığı yerleri belirlemede kullanılabileceği yolundaki söylentileri, kişi haklarını savunan kuruluşları kaygılandırdı. 
+     
+     YENİ DOSYALAMA SİSTEMİ 
+     ''Longhorn''un bir başka özelliği de dosyalama sistemi olacak. Bu sayede işletim sisteminin, verileri daha etkin biçimde dosyalayabileceği belirtildi. 
+     En önemli değişiklik ise bilgisayarın masaüstü adı verilen ana ekranında olacak. Bu çerçevede, açılan pencerelerin yarı şeffaf olması ve alttaki penceredeki verilerin görülmesine olanak sağlanacağı bildiriliyor. Ayrıca pencerelerin içindeki veriler, 3 boyutlu oyunlardaki gibi, otomatik olarak daralıp genişleyebilecek. Bunun için de bilgisayarların grafik gücünün çok yüksek olması gerekiyor. 
+     ''Longhorn'' sürümünü kullanabilmek için bilgisayarların bugünkünden çok daha güçlü olmaları gerektiğini kaydeden uzmanlar, bilgisayar yapımcılarının, satışları arttıracağı gerekçesiyle bundan büyük memnunluk duyacaklarını kaydettiler. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 318512 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/25/son/soneko01.html </URL>
+<DATE> 2005/02/25/ </DATE>
+<TIME> 02.03 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsası yükseldi 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Borsası, günü yükselişle kapattı. 
+     Borsanın temel göstergesi Dow Jones 74.12 puan yükselişle 10,747.91 puana çıkarken, teknoloji endeksi Nasdaq 20.45 puan artarak 2,051.70 puana yükseldi. 
+     
+</TEXT>
+</DOC>

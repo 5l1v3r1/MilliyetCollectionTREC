@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 220254 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/06/son/sondun22.html </URL>
+<DATE> 2004/03/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+NASA Mars'ta bir zamanlar su bulunduğu sonucuna ulaşıldı... 
+</HEADLINE>
+<TEXT>
+
+     ABD Ulusal Havacılık ve Uzay Dairesi NASA , iki ay önce Mars'a inen Spirit adlı robotun araştırmalarında da ''Kızıl Gezegen''de bir zamanlar su bulunmuş olduğu sonucuna ulaşıldığını açıkladı. 
+     NASA'dan yapılan açıklamada, Spirit'in bir kayada iki milimetre derinliğinde bir delik açtığı ve kayada suyun varlığıyla oluşmuş mineral çökeltilerinin izine rastlandığı belirtildi. 
+     NASA, Mars gezegenine Spirit ile birlikte yollanan Opportunity adlı robotun, 4 gün önce gezegende bir zamanlar su bulunmuş olduğu sonucuna ulaştığını, Kızıl Gezegen'de bir zamanlar yaşamın ortaya çıkmasını sağlayacak bu ortamın varlığına karşın, organizma izine rastlanmadığını açıklamıştı. 
+     
+</TEXT>
+</DOC>

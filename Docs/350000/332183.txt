@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 332183 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/11/son/soneko13.html </URL>
+<DATE> 2005/04/11/ </DATE>
+<TIME> 10.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bankalar Birliği, e-posta konusunda uyardı... 
+</HEADLINE>
+<TEXT>
+
+     Türkiye Bankalar Birliği TBB , dolandırıcılık amaçlı e-posta mesajlarına dikkat çekerek, bankaların e-posta aracılığıyla müşterilerine ait bilgileri hiçbir şekilde talep etmediğini bildirdi. 
+     TBB'den yapılan açıklamada, son dönemlerde müşterilere gönderilen, bankaların ve kart kuruluşlarının logo ile isimlerini içeren dolandırıcılık amaçlı e-posta mesajlarının arttığı belirtilerek, şöyle denildi 
+     ''Bankalar, e-posta aracılığıyla müşterilerine ait bilgileri hiçbir şekilde talep etmemektedir. Dolandırıcılık amaçlı e-posta mesajlarında kişisel bilgiler, kredi kartı bilgileri, internet telefon bankacılığı şifreleri gibi gizli müşteri bilgileri istenmektedir. Bu tip sahte e-postalarda yer alan linklerin açılmaması, talep edilen bilgilerin kesinlikle doldurulmaması ve en kısa süre içerisinde ilgili bankalara haber verilmesi olası dolandırıcılık eylemlerinden korunmak için çok önemlidir.'' Açıklamada, konuyla ilgili olarak bankaların internet sitelerindeki güvenlik açıklamalarının dikkatle okunması ve uygulanması gerektiği vurgulandı. 
+     
+</TEXT>
+</DOC>

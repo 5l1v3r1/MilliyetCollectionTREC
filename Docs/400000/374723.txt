@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 374723 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/01/son/soneko18.html </URL>
+<DATE> 2005/09/01/ </DATE>
+<TIME> 10.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft Türkiye yıl sonuna kadar yüzde 20 büyüme hedefinde... 
+</HEADLINE>
+<TEXT>
+
+     Microsoft Türkiye Genel Müdürü Çağlayan Arkan, 2005 yılında bilişim sektörünün yüzde 20 büyümeyi yakalayacağını söyledi. 
+     Arkan, Türkiye'nin hak ettiği yere ulaşması ve potansiyelini gerçekleştirmesi, bilişim pazarının büyümesi ve tüm sektörlerin teknolojiden faydalanması konusunda Microsoft'a liderlik görevi düştüğünü belirtti. 
+     Arkan, ''Görevimiz, KOBİ'leriyle, okullarıyla, devlet kurumlarıyla, Türkiye'nin bilgisayarlaşmasına, dolayısıyla rekabet gücünün ve verimliliğinin artmasına katkıda bulunmaktır. Sektörümüz, her geçen yıl ağırlıklı olarak bilgisayarlaşmaya odaklanıyor. Türkiye'deki yıllık bilgisayar satışlarında 1.5 milyon adet satışa ulaşmayı bekliyoruz'' dedi. 
+     Bilişimin büyümesinin istihdam alanında da hareketlilik getirdiğine işaret eden Arkan, Türkiye'de Microsoft eko sisteminin yarattığı toplam istihdamın 36 bin kişiyi bulduğunu, bu rakamın Türkiye'deki bilişim yatırımlarının artmasıyla daha üst seviyelere çıkmasını beklediklerini vurguladı. 
+     Arkan, 2005'in sektör için iyi bir yıl olarak devam ettiğini ifade ederek, şunları söyledi 
+     ''Microsoft bu yıl çok başarılı bir büyüme oranı elde etti ve büyümesini sektörle birlikte sürdürecek. İş ortaklarımızla ortaya çıkaracağımız sinerji ile sektör ve şirket olarak bu yıl için önemli bir ilerleme kaydedeceğimize inancımız tamdır. Nitekim, Cebit Bilişim Eurasia Fuarı'na da 70'e yakın iş ortağımızla birlikte 2 bin 48 metrekarelik Microsoft salonunda yer alıyoruz. Bu aynı zamanda, iş ortaklarımızla sergilediğimiz yakın işbirliğinin ve sonucunda gelen verimliliğin açık bir göstergesidir.'' 
+     
+     ''DEVLETİN BİLİŞİME YÖNELİK HASSASİYETİ DEVAM ETMELİ'' 
+     Türkiye'de teknoloji kullanımının düşük olduğu KOBİ'lerin bilişim yatırımlarının artmasını beklediklerini söyleyen Arkan, özellikle AB sürecindeki rekabet koşulları açısından KOBİ'lerin bilişim yatırımlarının öne çıkacağını düşündüklerini belirtti. 
+     Çağlayan Arkan, Türkiye'nin sahip olduğu potansiyeli harekete geçirdiği takdirde Avrupa ölçeğinde başarılı çalışmalara imza atacağını vurguladı. 
+     Devlet hizmetlerinin iyileştirilmesi açısından başarılı örneklerini görmeye başladıkları e-devlet projelerinin artmasıyla birlikte kamu sektörünün de bilişim için 2005 yılında önemli bir yer tutacağına söyleyen Arkan, şöyle devam etti 
+     ''Özellikle kamu kurumları arasındaki bilişim entegrasyonun iyileştirilmesi ve e-imza konusundaki gelişmelerin hızlanması kamu sektörüne hız katacaktır. Vatandaşların devletten alacakları hizmetlerdeki gözle görülür iyileşmeler e-devlet uygulamalarının en açık geri dönüşü olarak nitelendirilebilir. Türkiye'nin vizyonunu ve politikalarını belirleyen ve hukuki altyapıyı düzenleyen devletin verimlilik, istihdam, rekabet edebilirlik ve eğitim gibi konularda teknolojiden en iyi şekilde faydalanması temel bir gerekliliktir. 
+     Türkiye'nin e-devlet sürecini başarıyla gerçekleştirmesi için temel gerekliliklerden birisi bilgisayar kullanım oranının artmasıdır. Yüzde 10'un altındaki bilgisayar sahip olma oranının gelişmiş ülkeler seviyesine yükselmesi e-devlet uygulamalarına hız katacaktır. Burada, toplumun tüm kesimlerine büyük görevler düşüyor. Her ölçekteki işletmenin iş süreçlerini elektronik ortama taşıması, ülkemizin ekonomik büyümesi için oldukça önemlidir. Devletin bilişim sektörüne yönelik hassasiyetinin devam etmesi ve özellikle korsan yazılım konusundaki çabalarının devamı sektöre daha sağlıklı bir çalışma ortamı sağlayacaktır.'' 2005 sonuna kadar bilişim sektörü için yüzde 20 olarak öngördükleri büyümeyi yakalayacaklarını kaydeden Arkan, mobil cihazlardaki yaygınlaşmanın sürmesini beklediklerini, sayıları 10 milyona yaklaşan internet kullanıcıları için ADSL hizmetlerinin yaygınlaşmasının 2006 yılı içinde dikkatleri geniş bant internet erişimine çektiğini söyledi. 
+     Arkan, ''2003 yılında 6 milyon dolayında bulunan internet kullanıcısı sayısının 10 milyon kişiye çıkması, Microsoft'un her zaman, her yerden, her türlü cihazla bilgiye erişim vizyonu içinde önemli bir gelişme'' dedi. 
+     
+</TEXT>
+</DOC>

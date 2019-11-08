@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 178654 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/28/son/sondun06.html </URL>
+<DATE> 2003/08/28/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sobig'in hacker'ı virüsü para için yazmış, yeni virüs yolda... 
+</HEADLINE>
+<TEXT>
+
+     İnterneti felce uğratan Sobig adlı seri virüsleri yazan kişinin, bunu para için yaptığı öne sürüldü. 
+     Konuyu derinlemesine araştıran internet güvenlik uzmanları, olayın gerisinde para olduğunu, bu nedenle de Sobig virüslerinin arkasının kolay kolay kesilmeyeceğini ifade ettiler. 
+     Uzmanların verdiği bilgiye göre, ilki Ocak ayında ortaya çıkan Sobig virüsü, onbinlerce bilgisayarı etkiledikten sonra bunları çöp-posta olarak nitelendirilen lüzumsuz e-postalar gönderilmesi amacıyla kullanılır hale getirdi. 
+     Uzmanlar Sobig virüsünü yazan kişi ya da kişilerin, virüs bulaştırılan bilgisayarları saptayarak, bunların adreslerini çöp-posta yollayıcılarına sattıklarını ve çöp-posta yollayanların da bu bilgisayarları kullanarak, izlerini belli etmeden, çoğu satış ya da reklam içeren çöp-postaları dağıttıklarını söylediler. 
+     "Lurhq" adlı kuruluş araştırmacılardan Joe Stewart ise "Sobig'i yazan programcı ya da programcılar bu işten para kazandıkları için bundan kolay kolay vazgeçmeyeceklerdir" diye konuştu. 
+     Geçen hafta yayılmaya başlayan Sobig.F virüsünün pornografik bir siteye konan bir fotoğraftan kaynaklandığı biliniyor. Uzmanlar söz konusu sitedeki üyeliğin de çalıntı bir kredi kartı kullanılarak yapıldığını saptadılar. 
+     
+</TEXT>
+</DOC>

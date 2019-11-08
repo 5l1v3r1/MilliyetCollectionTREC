@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 183348 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/19/son/sondun13.html </URL>
+<DATE> 2003/09/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Cep telefonları telsize dönüşebilecek.. 
+</HEADLINE>
+<TEXT>
+
+     ABD'de bir firma tarafından geliştirilen Fastchat adlı yazılım sayesinde, tüm cep telefonları yakın bir gelecekte telsiz haline dönüştürülebilecek. 
+     ABD'de halen Nextel firması, Motorola yapımı cep telefonlarıyla mandallama yöntemiyle telsiz türü konuşma olanağı sağlıyor. Bu tür konuşma yapıldığında ek ücret ödenmiyor. 
+     Bir ilki oluşturan ve büyük ilgi gören bu yöntemi kendi abonelerine de sunmak isteyen öteki cep telefonu şirketleri de, bu yönde çalışma başlattılar. Ancak ''Fastmobile İnc'' adlı firmanın geliştirdiği Fastchat adı verilen yazılım, cep telefonlarının sadece aynı ülke içinde değil, başka ülkelerdeki cep telefonlarıyla da telsiz yöntemiyle konuşma yapılmasına imkan veriyor. Üstelik konuşmalar sadece aynı firmaya ait telefonlar arasında değil, başka başka şirketlere ait telefonların sahipleriyle de yapılabilecek. 
+     Yazılımın ilk denemesini yapan uzmanlardan biri, cep telefonu aracılığıyla Paris'teki arkadaşıyla biraz cızırtılı da olsa telsiz gibi konuştuğunu bildirdi. 
+     
+     ÖZEL TELEFON GEREKMİYOR 
+     Yeni yazılım sayesinde kullanıcıların cep telefonlarını değiştirmelerine de gerek bulunmuyor. Nextel'in telsiz telefonlarının yan tarafında, bu tür konuşma yapabilmek için bir mandal bulunuyor. Fastchat yazılımı ise tüm telefonların konuşma tuşunu ''telsiz mandalı'' haline dönüştürüyor. Bu yazılım, abonelik şartı yerine getirildikten sonra ''American Connection'' firmasına ait mağazalar aracılığıyla ya da Fastmobile firmasının web sitesinden kolaylıkla indirilerek telefona yüklenebiliyor. 
+     Söz konusu yöntemi kullanabilmek için abonelerin ayda 3 dolar ödemeleri gerekiyor. Ayrıca bu yöntem şimdilik sadece Nokia 3650 ve Sony Ericsson P800 tipi telefonlar tarafından kullanılabiliyor. Bu telefonları ABD'deki AT T, Cingular ve T-Mobile firmaları pazarlıyor. 
+     Bu telefonların Fastchat yazılımı için gerekli olan Symbian işletim sistemine sahip oldukları belirtildi. 
+     
+     2000 KIŞI ABONE OLDU 
+     Fastmobile firması, yazılımın kullanıma hazır hale gelmesinden bu yana dünyanın 44 ülkesinde 2000'in üzerinde kişinin kendilerine abone olduğunu açıkladı. 
+     Uzmanlar Fastmobile'in geliştirdiği yöntemin, cep telefonları açısından bir anlamda anında sözlü mesaj olduğunu kaydettiler. 
+     Yöntemin bir başka özelliği de, bu yoldan gelen mesajların telefonun hafızasına kaydedilmesi ve istendiği takdirde günlerce sonra bile dinlenebilmesi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 326541 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/24/yasam/yas02.html </URL>
+<DATE> 2005/03/24/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+'Rus ruleti'nden sağ çıkan, işi alır 
+</HEADLINE>
+<TEXT>
+
+
+Artık büyük bir şirkette işe girmeniz, kanalizasyon kapaklarının neden yuvarlak olduğunu açıklayabilmenize ve sanal Rus ruletinden sağ çıkmanıza bağlı olabilir 
+
+SERHAT OĞUZ 
+
+William Poundstone'un derlediği, ODTÜ Yayınları'ndan çıkan "Fuji Dağı'nı Nasıl Taşırsınız " adlı kitapta, dev şirketlerin en yaratıcı beyinleri seçmek için mülakatlarda sorduğu hileli bulmacalar yer alıyor. Ayda 12 bin iş başvurusunun yapıldığı Microsoft ve Wall Street'teki yatırım şirketlerinin de aralarında bulunduğu dev işletmelerin mülakatlarında yer alan sorulardan bazıları şunlar 
+
+6 hazneli toplu tabancanın 2 haznesine ardışık birbiri ardına gelen 2 mermi yerleştiriliyor. Tetik 1 kez çekiliyor ve silah patlamıyor. 2. kez tetiğe basılması mı yoksa topun yeniden döndürülmesi durumunda mı silahın patlama olasılığı daha düşük 
+CEVAP Topun çevrilmemesi. Mermilerin ardışık yerleştirilmesi, 4 boş hazne arka arkaya demektir. Bu da 4 hazneden 3'ü için, bir sonraki haznenin de boş olacağı anlamına gelir. Bir boş haznenin sonrasında ise 2 mermiden 1'i vardır. Yani topu çevirmezseniz hayatta kalma şansınız 3 4'tür. 
+
+Kanalizasyon kapağı niye yuvarlaktır 
+CEVAP Kare şeklinde bir kanalizasyon kapağını düşeye yakın bir pozisyona getirip biraz döndürürseniz, deliğin içine kolaylıkla girer. Bir yuvarlak ise, her yönden eşit çapa sahiptir. Deliğin ağzının biraz dar olması, nasıl tutulursa tutulsun kapağın içeri düşmesini engeller. 
+
+Bir koridorda 3 elektrik düğmesi var. Görmediğiniz bir odanın elektriğini bu 3'ünden hangisinin yaktığını, odaya sadece bir kez girerek nasıl bulursunuz 
+CEVAP Düğmelere 1, 2, 3 diyelim. 1'i açın. 10 dakika bekleyin ve 1'i kapatıp 2'yi açın. Odaya gidin. Ampul yanıyorsa doğru düğme 2. Yanmıyor ama ısınmışsa 1. Soğuksa 3'tür. 
+
+
+
+</TEXT>
+</DOC>

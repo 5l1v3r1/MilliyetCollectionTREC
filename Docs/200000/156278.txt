@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 156278 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/13/guncel/gun11.html </URL>
+<DATE> 2003/05/13/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+50 bin öğretmen bilgisayar öğrenecek 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayarın okullarda eğitime katkı sağlamasının önündeki engelleri kaldırmaya yönelik dünyanın en büyük eğitim kampanyalarından biri, Türk öğretmenlerinin de hizmetine sunuluyor. Intel ile Milli Eğitim Bakanlığı arasında imzalanan protokolle hayata geçen kampanyayla, 3 yıl içinde 50 bin öğretmene bilgisayar eğitimi verilecek. Intel Gelecek İçin Eğitim Kampanyası halen 28 ülkede yürütülüyor ve her ülkenin müfredatına göre düzenlenerek geliştiriliyor. 
+     
+
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 243569 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/28/son/soneko43.html </URL>
+<DATE> 2004/05/28/ </DATE>
+<TIME> 17.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası güne kararsız başladı... 
+</HEADLINE>
+<TEXT>
+
+     New York Menkul Kıymetler Borsası'ndaki endeksler kararsız bir seyirde açıldı. 
+     Dow Jones endeksi, 1.7 puan yüzde 0.02 değer kaybederek, 10,203.50 puana geriledi. 
+     Öte yandan, Standard and Poor's 500 endeksi yüzde 0.02, Nasdaq Bileşik Endeksi de yüzde 0.03 oranında değer kazandı. 
+     ABD'de tüketim harcamalarının arttığının açıklanması, endeksler üzerinde olumlu bir etki yarattı. 
+     
+</TEXT>
+</DOC>

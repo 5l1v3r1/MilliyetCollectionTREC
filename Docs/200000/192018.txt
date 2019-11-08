@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 192018 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/29/son/soneko01.html </URL>
+<DATE> 2003/10/29/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi 
+</HEADLINE>
+<TEXT>
+
+     New York Menkul Kıymetler Borsası Wall Street, günü yükselişle kapattı. 
+     Borsanın temel göstergesi Dow Jones endeksi 140.15 puan yükselerek 9,748.31 puana çıkarken, teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq da 49.35 puan yükselerek 1,932.26 puandan kapandı. 
+     
+</TEXT>
+</DOC>

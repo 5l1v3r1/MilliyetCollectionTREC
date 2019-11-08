@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 366404 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/02/son/soneko37.html </URL>
+<DATE> 2005/08/02/ </DATE>
+<TIME> 16.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa güne düşüşle başladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeksi, 2. seansta 129.34 puan düşerek, 29,543.48 puandan kapandı. 
+     Hisse senetleri 2. seansta, ortalama yüzde 0.44 oranında değer kaybetti. 
+     İlk seanstaki 103.87 puanlık düşüş dikkate alındığında, Borsa endeksi günün tamamında 233.21 puan geriledi. Hisse senetlerinin günlük ortalama değer kaybı yüzde 0.78 oldu. 
+     Endeks 2. seansa, 18.27 puan düşerek 29,654.55 puandan başladı. Seansın ilk yarısını 29,430.05 puandan geçen endeks, en düşük 29,326.23 puana gerilerken, en yüksek olarak 29,696.92 puanı gördü. 
+     2. seans kapanışında, mali endeks 289.34 puan düşerek 44,558,01 puana, sanayi endeksi 3.45 puan azalarak 23,716.26 puana ve hizmetler endeksi 49.92 puan azalarak 14.822.50 puana geriledi. 
+     Böylece ilk seansa göre, mali grup hisseler ortalama yüzde 0.65, sanayi grubu hisseler ortalama yüzde 0.01 ve hizmetler grubu hisseler ortalama yüzde 0.34 değer kaybetti. 
+     2. seansta işlem gören toplam 306 hisse senedinden 68'i değer kazandı, 176'sı değer yitirdi, 62 hisse senedinin fiyatında değişiklik olmadı. 
+     2. seansta, 566 milyon 944 bin 361 YTL'lik işlem hacmi kaydedildi. Günlük işlem hacmi, 1 milyar 89 milyon 59 bin 23 YTL olarak hesaplandı. 
+     2. seansta Finansbank, Garanti Bankası, Doğan Holding, Deva Holding ve Koç Holding, en çok işlem gören hisse senetleri oldu. 
+     
+</TEXT>
+</DOC>

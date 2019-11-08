@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 280155 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/14/son/sonyas02.html </URL>
+<DATE> 2004/10/14/ </DATE>
+<TIME> 09.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Cep telefonları tümör riskini artırıyor 
+</HEADLINE>
+<TEXT>
+
+     İsveçli bilim adamlarının yaptıkları araştırmaya göre, on yıldan fazla cep telefonu kullanımı, kulak sinirlerinde iyi huylu tümör akustik neroma oluşumuna yol açıyor. 
+     Karolinska Enstitüsü'nden yapılan açıklamada, riskin kafanın telefonun kullanıldığı tarafı için söz konusu olduğu, 10 yıldan az telefon kullananların risk altında olduğuna dair göstergenin bulunmadığı belirtildi. 
+     Avrupa'nın en büyük tıp fakültelerinden biri olan Karolinska'dan yapılan açıklamada, araştırma yapıldığında analog cep telefonlarının 10 yıldan fazla süredir kullanımda olduğu belirtilerek, bu nedenle riskin, dijital GSM cep telefonlarının uzun dönemli kullanımında da söz konusu olup olmadığının bilinmediği kaydedildi. 
+     Cep telefonu sanayisinin, telefonların sağlığa olumsuz etkisi olmadığını ileri sürmesine karşın, Karolinska Enstitüsü araştırmaya katılanların 600'ünün sağlıklı olmasına rağmen 150'sinde "akustik neroma" görüldüğünü belirtti. 
+     Araştırmada, kafanın telefonun çoğunlukla tutulduğu tarafında akustik neroma riskinin, 4 kat fazla olduğunun ortaya çıktığı belirtildi. 
+     
+</TEXT>
+</DOC>

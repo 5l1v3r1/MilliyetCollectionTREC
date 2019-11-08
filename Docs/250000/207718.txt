@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 207718 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/10/son/soneko01.html </URL>
+<DATE> 2004/01/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacminde dünyanın en büyük borsası olan New York Wall Street Borsası, günün son seansını düşüşle kapadı. 
+     Dow Jones Sanayi Endeksi 132.07 puan düşüşle yüzde 1.25 10,460.37 puandan noktalandı. 
+     İleri teknoloji ortaklıklarının göstergesi Nasdaq Birleşik Endeksi de 13.33 puan azalışla binde 6.3 2,086.92 puana indi. 
+     Wall Street'in bugünkü açılışında, düne göre Dow Jones Endeksi 46 puan azalarak 10,547 puana Nasdaq Endeksi de 17 puan azalmayla 2,082 puana geriledi. 
+     Borsanın düşüşünde, ABD'nin Aralık ayı işsizlik rakamının beklenenden yüksek çıkması etkili oldu. 
+     
+</TEXT>
+</DOC>

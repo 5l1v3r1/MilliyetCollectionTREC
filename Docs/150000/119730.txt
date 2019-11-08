@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 119730 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/11/19/son/soneko08.html </URL>
+<DATE> 2002/11/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft Sadece Windows para kazandırıyor 
+</HEADLINE>
+<TEXT>
+
+     Amerikan yazılım devi Microsoft firması, sadece Windows işletim sisteminden kar ettiğini, diğer programların ise zararına satıldığını açıkladı. Bunlar arasında Xbox oyun konsolları da bulunuyor. 
+     ''Salomon Smith Barney'' firması, Microsoft'un sattığı her konsolda 120 dolar zarar ettiğini belirtti. Microsoft'un, AOL'e rakip olmak üzere oluşturduğu MSN adlı portal'in de zararına çalıştığı bildiriliyor. 
+     
+     WİNDOWS'TA KAR YÜZDE 85 
+     Şirket kaynakları, Windows işletim sisteminin kar marjının ise yüzde 85 olduğunu belirttiler. Bu açıklama Hisse ve Borsa Komisyonu'na SEC sunulan şirket raporunda yer aldı. Cep bilgisayarları ve cep telefonlarında kullanılan CE işletim sisteminin de, zarar eden programlar arasında bulunduğu ifade ediliyor. 
+     Buna karşılık, Las Vegas Comdex fuarında konuşan Microsoft'un kurucusu Bill Gates, ''bilgisayarların evlerde ve işyerlerinde giderek daha yüksek oranda kullanılmakta'' olduklarına dikkati çekti ve ''enformasyon teknolojisindeki yeniliklerin süreceğini'' vurguladı. 
+     Microsoft, rakip firmalar tarafından kişisel bilgisayarların işletim sistemi alanında tekel oluşturmakla suçlanıyor. Firma kasım başında Adalet Bakanlığı ile anlaşmaya vararak, aleyhinde açılan davaları durdurmayı başarmıştı. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

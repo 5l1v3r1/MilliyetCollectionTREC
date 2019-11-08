@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 128084 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/31/son/soneko03.html </URL>
+<DATE> 2003/12/31/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası Wall Street'de Dow Jones Sanayi Endeksi, durgun başladığı günü 24.96 puan düşüşle binde 2.4 10 bin 425.04 puandan kapattı. 
+     İleri teknoloji ortaklıklarının ibresi Nasdaq Endeksi ise 3.40 puan artışla binde 1,7 2,009.88 puana yükseldi. 
+     Borsanın durgunluğunda, yatırımcıların gün içinde açıklanacak bazı ekonomik verileri beklemeleri kadar bazı yatırımcıların dünkü büyük yükselişin ardından kar realizasyonlarına yönelmeleri etkili oldu. 
+     
+</TEXT>
+</DOC>

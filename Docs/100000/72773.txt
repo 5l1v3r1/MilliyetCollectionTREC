@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 72773 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/03/15/son/soneko08.html </URL>
+<DATE> 2002/03/15/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Korsan yazılım sitesi "Warez"e kilit... 
+</HEADLINE>
+<TEXT>
+
+     İş Yazılımcıları Birliği'nin Business Software Alliance-BSA girişimleri sonucu, Avusturya üzerinden yayın yapan ve yazılım korsanlarının gözde sitelerinden biri olan ''warez.at''ın kapatıldığı bildirildi. 
+     BSA Türkiye'den yapılan açıklamada, kapatılan sitenin, Avrupa'daki yazılım korsanlığının ana buluşma noktalarından biri olduğu belirtildi. Siteden, aralarında Avusturya, Avustralya, Almanya, Fransa, Hong Kong ve ABD'nin de yer aldığı 20 ülkeden yayın yapan korsan sitelere yönlendirme yapıldığı kaydedildi. 
+     Açıklamada, BSA'nın girişimleriyle sadece geçen yıl bin 800 warez sitesinin kapatıldığı, internetteki 6 bin sitenin kapatılması için de çalışmaların sürdürüldüğü bildirildi. 
+     ''Warez'' sözcüğü, yazılım korsanları tarafından, koruma önlemleri kırılmış ve internet üzerinden ücretsiz dağıtılan yazılım için kullanılan argo bir tabir olarak biliniyor. Bu tür sitelerde, işletim sistemlerinden, kelime ve grafik işleme yazılımlarına kadar çeşitli popüler yazılımlar yasalara aykırı şekilde sunuluyor. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

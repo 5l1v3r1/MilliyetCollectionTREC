@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 212877 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/03/son/sondun10.html </URL>
+<DATE> 2004/02/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hubble teleskopu oksijen buldu 
+</HEADLINE>
+<TEXT>
+
+     ABD'nin uzay çalışmalarında farklı alanlara yoğunlaşması nedeniyle onarımından vazgeçmeye hazırlandığı Hubble teleskopu, uzak bir gezegenin atmosferinde karbon ve oksijen buldu. 
+     Evrenin milyarlarca yıl önceki halini görüntüleyebilen, Dünya yörüngesindeki Hubble teleskopu, uzak bir gezegenin atmosferinde karbon ve oksijen keşfetti. Hubble bilimadamları, gezegenin Dünya'nın aksine, Güneş benzeri yıldızlar gibi sıcak ve gazlı bir atmosfere sahip olduğunu belirtirken, keşfedilen karbon ve oksijenin burada herhangi bir yaşam bulunduğuna dair işaretler olmadığını söylediler. 
+     HD 209458b ya da Osiris adı verilen ve Dünya'dan 150 ışık yılı uzaklıktaki bir yıldızın çevresinde dört günden az bir sürede dönen gezegenin, bu yıldıza uzaklığının 6.92 milyon kilometre olduğu belirtildi. Dünya'nın Güneş'e uzaklığı ise 150 milyon kilometre. Bilimadamları, karbon ve oksijene, güneş sistemi dışındaki alemde ilk kez rastlandığını, bunun çok uzaktaki gezegenlerin atmosferlerindeki kimyasal bileşimin ölçülebileceğini ortaya koyduğunu kaydettiler. 
+     Osiris'in, atmosferlerin üst tabakası çok sıcak olan ve hidrojeni buharlaştırarak uzaya yayan "Sıcak Jüpiterler" denilen gezegenler sınıfına dahil olduğu kaydedildi. 
+     
+</TEXT>
+</DOC>

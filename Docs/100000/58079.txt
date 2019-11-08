@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 58079 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/12/20/yazar/civaoglu.html </URL>
+<DATE> 2001/12/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Güneri CIVAOĞLU  </AUTHOR>
+<HEADLINE>
+100 bin voltluk adam 
+</HEADLINE>
+<TEXT>
+
+     Bay 100 bin volt söndü... 
+     Gilbert Becaud, Paris'te Sein'e bağlı yeşil beyaz penişinde bizi bıraktı. 
+     Gitti. 
+     Sevgilinin ardından o hep yaşayacak olan şarkı "Ve şimdi"yi Et Maintenant söylüyoruz. 
+     "Ve şimdi... 
+     Ne yapacağım 
+     Ağlamamak için güleceğim. 
+     Ve 
+     Şimdi... 
+     Boş". 
+     B b B b B b B b B b B b B b B b B b B b B b B b B b B b B b B b B centerfont size "4" color " 0A69C9"b b font center B b B b B b B b B b B b B b B b B b B b B b b B b B b B b centerfont size "4" color " 0A69C9"b b font center B b B b B b B b centerfont size "4" color " 0A69C9"b b font center B b B b B b B b B b B b I TD TR TABLE CENTER TD -- SAĞ DATA -- TD ALIGN "CENTER" VALIGN "TOP" WIDTH 155 BGCOLOR " F5F5F5" IMG SRC " sabitimg 03 gazete genel transp.gif" WIDTH 1 HEIGHT 9 BORDER 0 TABLE WIDTH 140 CELLSPACING 1 CELLPADDING 1 ALIGN "CENTER" A TD TR TRTDFONT class "yazar2" FONT TD TR A TD TR TRTDFONT class "yazar2" FONT TD TR A TD TR TRTDFONT class "yazar2" FONT TD TR A TD TR TRTDFONT class "yazar2" FONT TD TR A TD TR TRTDFONT class "yazar2" FONT TD TR A TD TR TRTDFONT class "yazar2" FONT TD TR A TD TR TRTDFONT class "yazar2" FONT TD TR A TD TR TRTDFONT class "yazar2" FONT TD TR A TD TR TRTDFONT class "yazar2" FONT TD TR A TD TR TRTDFONT class "yazar2" FONT TD TR A TD TR TRTDFONT class "yazar2" FONT TD TR A TD TR TRTDFONT class "yazar2" FONT TD TR A TD TR TRTDFONT class "yazar2" FONT TD TR A TD TR TRTDFONT class "yazar2" FONT TD TR TABLE TD TR TABLE TD TR TABLE body html 
+</TEXT>
+</DOC>

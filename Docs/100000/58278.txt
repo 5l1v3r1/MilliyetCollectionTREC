@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 58278 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/12/21/son/sondun10.html </URL>
+<DATE> 2001/12/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Windows XP, korsanlara karşı zayıf çıktı... 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayar yazılım devi Microsoft, piyasaya yeni çıkardığı Windows XP işletim sisteminde korsanların kullanabileceği bir "gedik" bulunduğunu kabul etti ve kullanıcılardan bunu giderecek "yama"yı yüklemelerini istedi. 
+     Microsoft, "hacker"ların bilgisayarlara rahatça girmesini önleyebilmek amacıyla XP kullanıcılarının, şirketin internet sitesinden ücretsiz "yama" indirebileceklerini bildirdi ve bu işlemin ivedilikle yapılmasının yararlı olacağı uyarısında bulundu. 
+     XP'nin korsanlar karşısındaki zayıf noktasını, bir Amerikan bilgisayar güvenlik şirketi bulmuştu. 
+     Microsoft, Win98 ve WinMe versiyonlarını kullananların da aynı "yama"yı bilgisayarlarına yüklemelerini salık verdi. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

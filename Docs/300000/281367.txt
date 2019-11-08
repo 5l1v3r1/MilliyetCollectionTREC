@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 281367 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/18/son/sonyas22.html </URL>
+<DATE> 2004/10/18/ </DATE>
+<TIME> 15.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Boeing, insansız uçak geliştirecek... 
+</HEADLINE>
+<TEXT>
+
+     Uçak şirketi Boeing, 767 milyon dolara insansız uçak geliştirme projesi aldı. 
+     Boeing'ten yapılan açıklamaya göre, Amerika'nın İleri Savunma Araştırma Projeleri Ajansı DARPA Defense Advanced Research Projects Agency , Boeing'e insansız muharebe uçağı X-45C'yi geliştirmesi için 767 milyon dolarlık bir proje verdi. 
+     Proje kapsamında 3 adet X-45C, 2 görev kontrol ünitesi ve gerekli işletim teknolojilerini geliştirecek olan Boeing, yeni modelin ilk uçuşunu 2007 yılının başında gerçekleştirecek. 
+     İstihbarat, keşif ve saldırı amaçlı kullanılabilecek X-45C'lerin boyu yaklaşık 12 metre, kanat genişliği ise 15 metre olacak. Uçak, 12.000 metre irtifada 980 km s hızla görev yapabilecek, 1.300 kg silah taşıyabilecek ve 2.200 km'nin üzerinde menzile sahip olacak. 
+     Açıklamada, insansız hava taşıtları üretimine 1998 yılında başlayan Boeing'in, X-45C projesiyle hava muharebe sistemlerinde devrim niteliğinde değişiklikler yaratmayı hedeflediği kaydedildi. 
+     Boeing'in, bugüne kadar 2 adet X-45A model insansız muharebe uçağı ve görev kontrol istasyonlarını ürettiği, bu uçaklarla 35 başarılı test uçuşu gerçekleştirdiği de ifade edildi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,76 @@
+<DOC>
+<DOCNO> 105655 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/09/04/yazar/gunes.html </URL>
+<DATE> 2002/09/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Hurşit GÜNEŞ  </AUTHOR>
+<HEADLINE>
+Kim ne kadar şaştı 
+</HEADLINE>
+<TEXT>
+
+     Dün akşam enflasyon verileri açıklandı. Rakamlar büyük ölçülerde beklentilerle örtüşüyor. Hem enflasyon düşüyor, hem de tahminler tutuyor. Şaşanlar bulunsa da, ortalama tahminler doğru çıktı. 
+     Uygulanan programa göre şu ana kadar çoktan enflasyon hedeflemesinin EH uygulanması gerekiyordu. Ancak Merkez Bankası MB bir türlü buna geçemiyor. Çünkü süregelen siyasal belirsizlikler MB’yi sınırlıyor. Piyasa riskleri çok yüksek olunca, MB kısa vadeli faizleri etkili biçimde kullanamıyor. 
+     EH’nin temel araçları açıklama etkisi ve saygınlık. MB saygınlığa sahipse, piyasalar açıklanan rakama inanıyor, beklentiler de buna uyum gösteriyor. Böylece hedeflenen enflasyon rakamı tutturuluyor. Politika da başarılı oluyor. Ancak MB etkin değilse, hedefler şaşıyor, politika başarısız kalıyor. 
+     Şu anda yıllık hedef belli tüketici fiyatlarının yıl sonunda yüzde 35 artması gerekiyor. Ancak layıkıyla enflasyon hedeflemesi uygulansa, kısa erimli rakamların da açıklanması gerekir. Açıklanamamasının nedeni ise siyasal istikrarsızlığın yol açtığı dalgalanmalar. Bunlar ortadan kalksa MB kısa vadeli hedefleri açıklayacak, belki de daha düşük oranlı faizlerle yola devam edilecek. 
+     Geçen programda, yani 2000 yılında, enflasyon hedeflemesi değil, kur hedeflemesi uygulanıyordu. Kur kontrol edilince, maliyetlerin mesela çekirdek enflasyon dediğimiz özel imalat sanayii fiyat endeksinin düşmesi bekleniyordu. Ancak bu politika iflas edince, bu gösterge de geçerliliğini yitirdi. Enflasyon hedeflemesinin parametresi ise bizzat enflasyonun kendisi, yani TÜFE. Sıkı bütçe ve para politikaları talebi frenliyor, böylece tüketici fiyatları düşürüyor. 
+     Zaman zaman gazetemizde ve CNBC - e’de çeşitli finans kuruluşlarının aylık enflasyon tahminleri yayımlanıyor. Kaldı ki, MB her ay en az bir defa olmak üzere bu tahminleri derliyor ve kendi saygınlık düzeyini ölçüyor. Derlenen bu beklentilere göre de gecelik faiz oranlarını ayarlıyor. Şimdiye dek MB istikrarlı, fakat yüksek bir faiz politikası izledi. Zaten enflasyon hedeflemesi politikası da bunu gerektirir. MB faizleri sık sık değiştirerek piyasaları allak bullak etmeden bunu sürdürdü. Ancak bu politika iç borç yönetimini de zorladı. 
+     MB kendi dünyasında haklı olabilir. Nitekim, onun amacı iç borcu çevirmek değil, enflasyonu düşürmek. Kaldı ki, enflasyon düştüğünde faizler de kalıcı olarak düşecektir. 
+     Bu aya ilişkin beklentiler TÜFE’de yüzde 0.9 ile 3.4 arasında değişiyordu. Ortalaması ise yüzde 2’ydi. Gerçekleşme ise 2.2 oldu. Piyasada TEFE beklentileri ise, ilginçtir, TÜFE’yi aşıyordu. Gerçekleşme ise tersi oldu. Ama iki rakam çok yakın açıklandı. Ağustos ayında TEFE artışı yüzde 2.1 olarak açıklandı. Görünüm bu olunca TEFE ile yakın bağlantıda olan özel imalat sanayii fiyat endeksinin de yaklaşık bu düzeylerde olması beklenirdi. Oysa beklentiler çekirdek enflasyon beklentisinin ortalaması ise yüzde 3’tü. Oysa dün çekirdek enflasyonun yüzde 2.3 arttığı açıklandı. Demek ki, kur etkisi daha az oldu. Bu da son derece olumlu. 
+     Ağustos ayı genellikle temmuzdan yüksek, ama okulların başladığı eylülden daha düşük seyreder. Yine de okul zamları bir ölçüde yansır. Özetle görülüyor ki, yıl sonunda enflasyon yüzde 35’in altında oluşacak. 
+     
+BEKLENTİLER  Ağustos TEFE Ağustos TÜFE Ağustos ÖİS Ortalama 2.2 2.0 3.0 Maksimum 2.9 3.4 4.1 Minimum 1.5 0.9 2.0 Abank 1.9 1.4 2.4 ABN Amro 1.7 2.0 2.5 Ak Yatırım 2.3 1.5 2.4 Alfa 1.5 1.6 2.6 Ata Yatırım 2.4 2.6 3.3 Datek 2.1 2.2 2.3 Dışbank 1.7 1.4 3.3 Eczacıbaşı 2.2 1.8 3.0 Finansinvest 1.8 1.6 2.7 Garanti 2.3 2.0 3.1 Garanti Yatırım 2.3 1.9 3.2 Global 2.0 2.3 2.1 HC İstanbul 2.4 2.5 2.9 HSBC Yatırım 2.7 1.9 4.1 İş Yatırım 2.0 2.2 2.5 JPMorgan Chase 2.5 1.9 3.3 Kent Yatırım 2.9 1.7 3.8 Koç Yatırım 2.9 3.4 3.5 Oyak Yatırım 1.8 2.0 3.0 Pamuk Yatırım 2.6 2.3 3.5 Raymond James 1.7 2.1 2.5 Riva Menkul 2.4 1.9 2.9 Şeker Yatırım 2.8 2.2 3.6 TEB 2.5 2.2 3.7 Tekfen Menkul Kıymetler 2.7 1.7 3.5 TSKB 2.4 1.7 3.0 Turkish Yatırım 1.6 0.9 2.5 Yapı Kredi Bankası  2.3 2.0      
+     
+     
+
+
+
+
+
+
+
+Seçmen davranışı 
+
+
+İlk kez bir hümanizm açılması... 
+
+
+Tıp mezunları 
+
+
+Sıra Kürtçe yayında 
+
+
+Fuarda konu yine siyaset 
+
+
+12 dev adama ne oldu 
+
+
+Kim ne kadar şaştı 
+
+
+Şirince ve işini bilen turizmci 
+
+
+AB neden h l kuşkulu 
+
+
+Önseçimden parti liderlerine "ders" çıktı 
+
+
+Saçmalıklardan vazgeçebilsek... 
+
+
+Erkan Mumcu Metamorfoz geçirmeyeceğim’ 
+
+
+Vicdan kerterizleri 
+
+
+TL’miz dolardan fazla kazandırıyor 
+
+
+</TEXT>
+</DOC>

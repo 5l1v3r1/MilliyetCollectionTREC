@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 204767 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/27/son/sondun06.html </URL>
+<DATE> 2003/12/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+MARS'a giden araçta yaşam belirtisi yok... 
+</HEADLINE>
+<TEXT>
+
+     Avrupa Uzay Ajansı'nın ESA Mars'a gönderdiği ve gezegenin yüzeyine indiği sanılan Beagle-2 yüzey sonda aracından, faal olduğuna dair bir mesajı NASA da alamadı. 
+     Yüzeye iniş sürecinde faaliyette olduğuna ilişkin sinyal göndermesi gereken araçtan ESA hiç bir işaret alamadı. 
+     Bunun üzerine, Mars yörüngesinde bulunan ABD'nin Mars Odyssey aracı da devreye sokuldu ve aracın ''yaşamakta olup olmadığı'' belirlenmeye çalışıldı. Üç girişim yapan Odyssey, aracın izine rastlayamadı. 
+     Mars'ta yaşam olup olmadığını araştırması planlanan Beagle-2'nin dün TSİ 05 00'te gezegen yüzeyine indiği sanılıyor. 
+     Odyssey'den beklenecek üçüncü girişimden de sonuç alınamazsa, Avrupa'nın bir gökcismine araç indirmedeki ilk deneyinin başarısız kaldığının, Beagle-2'nin de birçok Mars yolcusu gibi hurdaya çıktığının anlaşılacağı belirtiliyordu. 
+     Buna karşın aracı arama çabaları bırakılmadı. İngiltere'deki Lovell radyo teleskobu ile bu gece aracın izinin bulunmasına çalışılıyor. Kaliforniya'daki Stanford Üniversitesi radyo teleskobu da yarın benzer bir çalışma yapacak. 
+     
+</TEXT>
+</DOC>

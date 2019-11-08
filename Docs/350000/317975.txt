@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 317975 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/23/son/sonspo32.html </URL>
+<DATE> 2005/02/23/ </DATE>
+<TIME> 18.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+FIFA, ofsayt tartışmaları için çare arıyor... 
+</HEADLINE>
+<TEXT>
+
+     Dünya Futbol Federasyonları Birliği FIFA yetkilileri, ofsayttan kaynaklanan tartışmalara son vermek için elektronik bir sistem üzerinde araştırma yapıyor. 
+     Fas asıllı Belçikalı Abdellah Hajjab'ın bulduğu ve arabalarda kullanılan GPS sistemine benzer bir teknolojinin ofsaytı tespit etmede kullanılmak üzere araştırmaları sürüyor. 
+     Sistemde oyuncuların formalarına omuz yüksekliğinde, kredi kartı büyüklüğünde bir GPS kartı dikiliyor. Futbol topuna bir verici yerleştiriliyor. Uydu üzerinden anında oyuncunun ve topun pozisyonu hesaplanarak, bir bilgisayar tarafından yan hakemlerin kulağına yollanıyor. Bu uygulamayla oyuncunun pozisyonunun milimetrik olarak hesaplanabileceği de belirtiliyor. 
+     
+</TEXT>
+</DOC>

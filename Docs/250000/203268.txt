@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 203268 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/19/son/sontur08.html </URL>
+<DATE> 2003/12/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türkiye, yeni yılda internette uçacak... 
+</HEADLINE>
+<TEXT>
+
+     Türkiye'yi hızlı internetle tanıştıran Türk Telekomünikasyon A.Ş, bu alanda yaptığı yatırımlarla gelecek yıl internette adeta Türkiye'yi uçuracak. 
+     A.A muhabirinin aldığı bilgiye göre, bir süre önce ADSL Projesi'ni Asimetrik Sayısal Abone Hattı hayata geçiren Türk Telekom, projenin en önemli ögesi olan port alımlarını hızlandırdı. 
+     Türk Telekom, 60 bin port alımı ihalesini gerçekleştirdi. Alcatel tarafından port başına 90 doların da altında fiyatın verildiği ihalenin önümüzdeki günlerde tamamlanması ve sözleşmenin imzalanarak alımlara geçilmesi hedefleniyor. 
+     Aktif port sayısını 33 bine yükselten Telekom, bu yıl 276 bin, gelecek yıl sonuna kadar 1 milyon porta ulaşmayı planlıyor. Telekom, bunun dışında 140 POP noktasından da internete erişim imkanı sağlıyor. 
+     
+     YURTDIŞI BAĞLANTILARI 
+
+     Portların alımlarıyla aynı anda telefon ve internet bağlantısının gerçekleşmesine imkan veren ADSL sayesinde internete erişim daha da hızlanacak. 
+     Halen 1.71 gigabitlik yurtdışı bağlantısına sahip olan Türkiye interneti, Telekom'un 3 adet 622 Mpbs ve 3 adet 155 mbpslik uydu çıkışıyla 2004'ün başında 4 gigabit yurtdışı erişim kapasitesine ulaşacak. Yıl sonunda kapasitenin 10 gigabit düzeyine yükseltilmesi hedefleniyor. 
+     Bu arada Türk Telekom, yaptığı çalışmada, ADSL kullanıcılarının tahsis edilen kapasitenin ancak 5'te birini kullandıkları, buna göre 2 gigabitlik yurtdışı çıkış kapasitenin bile yeterliği olduğu ancak yeni portlarla bunun üzerine çıkılacağını belirledi. 
+     Öte yandan yeni hizmete verilen ADSL ücretleriyle ilgili yapılan analizlerde, Türk Telekom'un ABD ve Avrupa ülkelerine göre daha düşük ücret uyguladığı belirlendi. ADSL ile internete erişimde ABD'de aylık 69 ile 100 dolar, İspanya'da 44.3, Danimarka'da 160 dolar ücret alındığı kaydedildi. Türk Telekom, ADSL ile 256 128 Kbps hızında internete sınırsız erişimde 49 milyon lira ücret alıyor. 
+     ADLS uygulamasında kullanıcılar, mevcut telefon hatları üzerinden yapılan bağlantılardan birkaç kat daha hızlı ve kesintisiz şekilde internete erişebiliyor. 
+     Bağlanma hızının 56 kilobayttan 8 megabite kadar yükseldiği ADSL teknolojisinde, internet bağlantısı sırasında telefon hattı da görüşmelere açık kalıyor. 
+     
+</TEXT>
+</DOC>

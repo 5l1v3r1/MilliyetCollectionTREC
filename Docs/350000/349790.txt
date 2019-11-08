@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 349790 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/07/son/sonyas10.html </URL>
+<DATE> 2005/06/07/ </DATE>
+<TIME> 10.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Depresyona bilgisayar programı ile tedavi 
+</HEADLINE>
+<TEXT>
+
+     HİLAL YILMAZ Londra DHA 
+
+      İNGİLİZ Ulusal Sağlık Örgütü NHS , iki yeni bilgisayar programıyla fobi, panik atak ve depresyon gibi rahatsızlıkları tedavi etmeye hazırlanıyor. ’Beating The Blues’ ve ’Fear Fighter’ adlı bilgisayar oyunları bu yıl sonu itibarıyla hizmete sunulacak. 
+     Londra’da bulunan Psikiatri Enstitüsü ile Ultrasis adlı yazılım şirketi tarafından hazırlanan tedavi edici nitelikteki bilgisayar programları, sorular yoluyla kişideki gerginlik oranını ölçerek, bu olumsuzluklarla nasıl başa çıkılabileceği konusunda önerilerde bulunuyor. 
+     Kişiye, doktora gitmeden psikolojik danışmanlık hizmeti sunan programlar, günlük yaşamda karşılaştıkları olaylara nasıl tepki verdiklerini ölçmek amacıyla hastalara çeşitli sorular soruyor. Örneğin hastalara, bir barda geç kalan arkadaşını beklerken neler düşündüğünü ya da trafikte takılıp kalınca neler hissettiğini soran programlar, kişilerden gerginlik düzeylerini belirtmesini de istiyor. Psikoterapistler tarafından hazırlanan program, 8 kademeden oluşan şıkları işaretleyen hastaların asabiyetini ölçerek, bununla nasıl başetmeleri gerektiğini söylüyor. 
+     
+     MALİYETİ 100 MİLYON STERLİN 
+     NHS’e yaklaşık 100 milyon sterline mal olacak yeni bilgisayar sisteminin, özellikle doktora gitmekten çekinen depresyon ve panik atak hastalarında başarılı sonuç vermesi bekleniyor. İngiltere genelinde 6 milyon kayıtlı hastanın depresyon tedavisi gördüğünü belirten uzmanlar, bilgisayar programları sayesinde kişilerin kendilerindeki rahatsızlığın farkına daha kolay varıp kısa sürede iyileşme imkanı bulabileceğini belirtti. 
+     İngiltere’de 2002 yılı itibarıyla tam 26 milyon kişinin antidepresan ilaçlar kullandığı belirtilirken, Dünya Sağlık Örgütü tarafından yapılan açıklamaya göre depresyon önümüzdeki yıllarda kalp hastalıklarından sonra en yaygın ikinci hastalık olacak. 
+     ’Beating The Blues’ ve ’Fear Fighter’ adlı bilgisayar programlarının 3 aylık bir test sürecinin ardından aralık ayı itibarıyla İngiltere’de hizmete girmesi bekleniyor. 
+     
+</TEXT>
+</DOC>

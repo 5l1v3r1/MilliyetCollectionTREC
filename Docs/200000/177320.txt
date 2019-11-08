@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 177320 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/22/ekonomi/eko09.html </URL>
+<DATE> 2003/08/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Cep'te siyasi propaganda yapmak yasaklanıyor 
+</HEADLINE>
+<TEXT>
+
+   ANKARA Milliyet 
+   
+   Telekomünikasyon Kurumu TK , Genç Parti'nin özellikle Telsim üzerinden gerçekleştirdiği siyasi propaganda faaliyetlerinin yinelenmesini önlemek için düzenleme yaptı. Düzenleme çerçevesinde, ilgili abonenin önceden izni alınmadan pazarlama ve siyasi propaganda amacıyla kısa mesaj kullanılamayacak. 
+   
+   Dinleme de yasak 
+   TK'nın hazırladığı yönetmelik taslağında, yasalar ve yargı kararlarının öngördüğü durumlar dışında, kullanıcının izni olmaksızın, bir başkasınca telekomünikasyon ve ilgili trafik verilerinin dinlenmesi, kaydedilmesi, saklanması, kesilmesi ve gözetiminin yasak olduğu vurgulandı. Operatörler faks, elektronik posta, kısa mesaj gibi otomatik arama sistemlerini, abonenin izni olmadan pazarlama ve siyasi propaganda amaçlarıyla kullanamayacak. GSM operatörleri, abonelerine, "arama" olarak ekrana düşen numarası belli olmayan aramaları reddetme olanağı da sunacak. 
+   Telekomünikasyon hizmetlerini pazarlamak ya da katma değerli hizmetleri sağlamak amacıyla abone veya kullanıcı, kişisel bilgilerinin kullanılmasına izin verirse işletmeci bu tür hizmetler ve pazarlama için gerekli kapsam ve sürede veriyi işleyebilecek. İşletmeci, aramayı yapan kullanıcıya, ücretsiz olarak, her arama için numarasının gizlenmesi olanağı tanıyacak. 
+   
+   
+</TEXT>
+</DOC>

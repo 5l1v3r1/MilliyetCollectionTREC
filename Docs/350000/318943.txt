@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 318943 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/27/ekonomi/eko11.html </URL>
+<DATE> 2005/02/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD'de 1.2 milyon hesap bilgisi kayboldu 
+</HEADLINE>
+<TEXT>
+
+
+
+ABD'de faaliyet gösteren Bank of America isimli banka, aralarında bazı Senato üyelerinin de bulunduğu 1.2 milyon hesaba ait kişişel bilgileri içeren bilgisayar kayıtlarını kaybettiğini duyurdu. Kaybedilen kayıtlar arasında kimlik hırsızlarının ilgi alanına giren ABD'deki en önemli kimlik aracı durumundaki sosyal güvenlik numaraları ve banka hesap bilgilerinin de bulunduğu belirtildi. Kaybolan kayıtlarda şahsi bilgileri bulunan müşterilerine birer mektup göndereceği açıklanan bankanın, bu amaçla yüz binlerce mektubu postaya vermesi bekleniyor. Geçen hafta da ChoicePoint isimli şirket aynı sebeple müşterilerine 145 bin mektup göndermişti. 
+
+
+</TEXT>
+</DOC>

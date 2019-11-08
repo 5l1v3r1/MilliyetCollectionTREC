@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 406315 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/24/son/sontur17.html </URL>
+<DATE> 2005/12/24/ </DATE>
+<TIME> 15.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dijital yayında deneme 2006'da başlıyor 
+</HEADLINE>
+<TEXT>
+
+     Avrupa Birliği AB ile entegrasyonun yanı sıra yayın kalitesi ve yayıncılığa getirdiği ekonomik çözümler nedeniyle uygulamaya konulması hedeflenen "karasal sayısal yayın", 2006’nın Ocak ayından itibaren deneme niteliğinde başlayacak. 
+     ABD’de tüm yayın kuruluşlarının kullandığı ve Avrupa’da son 10 yılda yaygınlaşmaya başlayan "karasal dijital" sistemin Türkiye’de de hayata geçirilmesi için 1998 yılında Radyo Televizyon Üst Kurulu RTÜK tarafından başlatılan çalışmalar sonuç vermeye başladı. 
+     RTÜK’ün başkanlığında TRT ve özel yayın kuruluşlarının temsilcilerinden oluşan çalışma grubunun ortak görüşüyle Ocak ayından itibaren İstanbul, Ankara ve İzmir’de deneme yayınları yapılacak. 
+     RTÜK Üyesi Taha Yücel, AA muhabirine yaptığı açıklamada, birkaç yıl öncesinde yayına hazırlık bölümlerinde dijitale geçişin sağlandığını, bunun da teknolojinin daha kaliteli ve ekonomik yayın yapmanın gereği olduğunu belirtti. 
+     Dağıtım yöntemlerinde sayısala geçişin ise çeşitli aşamalardan oluştuğunu anlatan Yücel, bunlardan biri olan uydu üzerinden sayısala geçişin tamamlandığını söyledi. 
+     Yücel, en son gelişen teknolojiyle birlikte Avrupa ve ABD’de uygulanmaya başlanan karasal ortamda sayısala geçişin kısıtlı frekans spektrumunda verimlilik sağladığını ifade etti. 
+     Dijital yayında "tek frekanslı ağ" denilen yöntemle büyük yerleşim yerlerinde önemli kolaylıklar sağlandığını anlatan Yücel, dijital yayıncılığın, milli kaynak olarak gösterilen kısıtlı frekans spektrumunu maksimum verimlilik ve kaliteli şekilde kullanmaya olanak sağladığını söyledi. 
+     
+     DENEME YAYINI 
+     Türkiye’de başlatılacak deneme yayınlarının zaman paylaşımlı yapılacağını dile getiren Yücel, şunları kaydetti 
+     "Deneme yayınlarıyla aynı frekanstan 6 tane yayının alınıp alınamayacağını deneyeceğiz. İstanbul’un coğrafi ve fiziki durumunda tek frekanslı ağın çalışıp çalışmayacağını deneyeceğiz. 
+     Bunun sonunda yaklaşık 6-7 aylık süreçte deneme amaçlı sayısal yayına geçiş tamamlanacak. Daha sonra, yayıncıların katkısıyla tüm illerde nihai yayına geçilmesine start verilecek. Tüm yayınlar analog ve dijital olarak yapılacak. Dijital yayına geçiş, gecekondulaşmadan planlı yerleşime geçişe benziyor. Aynı anda analog yayın yapan kuruluşlara dijital yayın yapma imkanı sağlayacağız. İnsanlar, gecekondularını yıkmadan apartmanlarda yaşamaya başlayacak." Yücel, bu sürecin zorlu geçeceğini, izleyicilerin de ilgi ve tepkisinin bu konuda önemli olduğunu vurgulayarak, "RTÜK ve yayıncılardan önce tüketicilerin bu uygulamayı benimsemesi önemli. 
+     Analog yayınların dijitale geçmesine bir noktadan sonra izleyici karar veriyor" dedi. 
+     
+     "ESKİ TELEVİZYONLARA ÇÖZÜMLEYİCİ KUTU İLAVE EDİLECEK" 
+     Yücel, analog televizyonların dijital teknolojide kullanılacağını, ancak, buna şu anda 50-60 dolar olan "çözümleyici kutu" ilave edileceğini belirtti. 
+     Yücel, yayıncılar için sayısal yayına geçiş maliyetinin çok yüksek olmayacağını, çünkü, analog ve dijital vericilerin aynı fiyatlarda olduğunu anlattı. 
+     Yücel, analog yayındaki vericiyle bir yayın yapılırken, dijital vericide 6 yayın yapılacağını, 30 bin dolarlık bir vericiyi analog sistemde bir kuruluş alıp kullanırken, dijital sistemde 6 kuruluşun bu cihazı kullanabileceğini sözlerine ekledi. 
+     
+</TEXT>
+</DOC>

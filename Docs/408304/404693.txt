@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> 404693 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/19/son/soneko13.html </URL>
+<DATE> 2005/12/19/ </DATE>
+<TIME> 10.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Osmanlı tapu arşivi elektronik ortama taşınıyor 
+</HEADLINE>
+<TEXT>
+
+     Gökçen Çamlıyurt - Zeynep Akyıl AA 
+
+Osmanlı Devleti'nin, vergi mükelleflerini belirlemek amacıyla 15 ve 19. yüzyıllar arasında tuttuğu tapu kayıtları, bilgisayar ortamına taşınıyor. 
+     Alınan bilgiye göre, Osmanlı'nın 1460'da Ayasofya Vakfiyesi ile başlattığı tapu bilgilerini kayıt altına alma süreci, 19. yüzyıl sonuna kadar devam etti. 
+     Bu dönem içinde Osmanlı sınırlarında yer alan 21 ülke topraklarında vergiye esas değerler, bekar ve evli insan sayısı, yetiştirilen arpa, buğday gibi ürünler, arıcılık başta olmak üzere hayvancılık faaliyetleri, değirmen sayısı gibi ''dönemin profilini ortaya koyan veriler'' kayıda geçirildi. 
+     Bugün Tapu ve Kadastro Genel Müdürlüğü'nün Oran'daki arşiv binası ile İstanbul Bölge Müdürlüğü'nde korunan binlerce cilt, Tapu Arşiv Otomasyon Projesi TARBİS kapsamında elektronik ortama aktarılıyor. 
+     İhalesi Kasım ayı sonunda yapılan proje, 2 yılda tamamlanacak ve yaklaşık 20 milyar YTL'ye 20 trilyon TL malolacak. 
+     
+     BELGELERİN ASLI ÜZERİNDE İŞLEM YAPILMAYACAK 
+     Proje kapsamında, çoğu eski dilde kaleme alınan 2 bin 334 Tapu Tahrir Defteri 15-19. yüzyıl , 22 bin 250 Zabıt Kayıt Defteri 1847-1934 , 31 bin 695 Köy ve Yayla Sınır Kayıdı 1925-1967 ile 270 bin Hasılat Kayıdı Türkçe'ye çevrilerek, mikrofilm ve dijital kopyalama yoluyla bilgisayar ortamına geçirilecek. 
+     Mevcut sistemde istenilen bir bilgiye ulaşmak için ''birinci derecede korunması gereken kültür varlığı'' niteliğindeki belgeler üzerinde çalışma yapılıyor. Projeyle bakım ve onarımdan geçirilecek olan belgeler, bir daha kolay kolay raftan indirilmeyecek. Bugün çelik kapılar ardında özel yangın söndürme ve soğutma sistemiyle koruma altına alınan belgeler bu sayede, ''insan elinin'' yarattığı tahribattan da korunmuş olacak. 
+     Personel sayısı ve zamandan önemli ölçüde tasarruf sağlanacak projeyle, personelin çalışma ortamındaki toz, mantar gibi olumsuzluklardan etkilenmesinin de önüne geçilecek. 
+     Proje tamamlandıktan sonra, bilgilerin internete taşınması da planlanıyor. 
+     
+     KERKÜK'ÜN KAYITLARI DA VAR 
+     Tapu ve Kadastro Genel Müdürü Zeki Adlı, Osmanlı'dan devralınan tarihi mirasın, yalnız Türkiye için değil, bir dönem Osmanlı sınırları içinde yer almış ülkelerin tarihi açısından da vazgeçilmez bir kaynak olduğunu belirtti. 
+     ''Bu nedenle sahip olduğumuz arşiv, milli olduğu kadar milletlerarası değer taşımaktadır'' diyen Adlı, savaş sürecinde tapu kayıt arşivleri yakılan Bosna-Hersek, Makedonya ve Filistin'in Türkiye'den bu yönde yardım istediğine işaret etti. 
+     Belgelerden çekilen mikrofilmlerin bu ülkelere gönderildiğini anımsatan Adlı, bir soru üzerine, Irak ve Kerkük'e ilişkin de arşivde veri bulunduğunu kaydetti. 
+     Adlı'nın verdiği bilgiye göre, arşivde, bir dönem Osmanlı sınırları içinde yer alan Arnavutluk, Bosna-Hersek, Bulgaristan, Hırvatistan, Kıbrıs Rum Kesimi, Kuzey Kıbrıs Türk Cumhuriyeti, Macaristan, Makedonya, Romanya, Sırbistan-Karadağ, Yunanistan, Libya, Filistin, Gürcistan, İsrail, Lübnan, Suriye, Suudi Arabistan, Ürdün ile Irak'a ilişkin tapu kayıtları bulunuyor. 
+     
+     YILLIK 250 BİN KAYIT ÖRNEĞİ ÇIKARTILIYOR 
+     Tapu Arşiv Dairesi Başkan Vekili Adnan Torun da, tapu tahrir belgelerine, mera, yaylak, kışlak sınır ihtilaflarında, köylerdeki kadimlik eski ve muhdeslik yeni konularında zabıt kayıt defterlerine de taşınmaz mal mülkiyetine ilişkin işlemler kadastro çalışmaları sırasında başvurulduğunu belirtti. 
+     Bu konulara ilişkin yılda ortalama 250 bin adet kayıt örneği çıkartılarak, Genel Müdürlüğün çeşitli taşra birimlerine, mahkemelere, kurumlara ve ilgili vatandaşlara gönderildiğini ifade eden Torun, projenin bu süreci çok kolaylaştıracağını kaydetti. 
+     Arşivin ekonomik, sosyal ve tarihi konularda çalışan yerli ve yabancı araştırmacılara da kaynak oluşturduğuna dikkati çeken Torun, mevcut sistemde belgeler üzerinde araştırma yapmanın zorluğuna işaret ederek, bu yıl 1'i yabancı 31 araştırmacıya kapılarını açtıklarını söyledi. 
+     Torun, proje tamamlandıktan sonra, araştırmacılara daha sağlıklı bir ortam yaratılmış olacağını sözlerine ekledi. 
+     
+</TEXT>
+</DOC>

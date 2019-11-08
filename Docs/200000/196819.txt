@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 196819 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/20/son/soneko07.html </URL>
+<DATE> 2003/11/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Wall Street yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     New York menkul kıymetler borsası Wall Street, günü yükselişle kapattı. 
+     Dow Jones endeksi 66,3 puan artışla 9690,46'ya, Nasdaq endeksi de 17,9 puan artışla 1899,65'e yükseldi. 
+     
+     TOKYO BORSASI DA YÜKSELDİ 
+
+     Tokyo Borsası da günü yükselişle tamamladı. 
+     Borsanın temel göstergesi Nikkei Endeksi kapanışta, düne göre 251.10 puan artıp 9,614.60 puana çıktı. 
+     Aynı borsada ABD Doları da Japon Yeni karşısında düne göre 0.85 yen değerlenip 108.93 yenden işlem gördü. 
+     
+</TEXT>
+</DOC>

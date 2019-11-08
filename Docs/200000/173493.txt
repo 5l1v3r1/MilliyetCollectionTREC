@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 173493 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/04/son/soneko12.html </URL>
+<DATE> 2003/08/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı 376 puanlık artışla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası İMKB Ulusal-100 Endeksi, 1. seansı, 376.44 puan artışla 10,997.59 puandan tamamladı. 
+     Hisse senetlerinin ortalama değer kazancı yüzde 3.54 olarak gerçekleşti. 
+     Cuma gününü 10.621.15 puandan tamamlayan endeks, haftanın ilk seansına 10,800 puan seviyesinde başladı. Seansın ilk yarısını 10,831.84 puandan geçen endeks, seansta en düşük 10,729.77, en yüksek 10,998.88 puanı gördü. 
+     Seans kapanışında mali endeks 482.44 puan artışla 13,221.09 puana, sanayi endeksi 371.96 puan artışla 11,068.71 puana, hizmetler endeksi 111.04 puan artışla 7,114,31 puana yükseldi. 
+     Böylece, önceki kapanışa göre mali grup hisseler ortalama yüzde 3.79, sanayi grubu hisseler ortalama yüzde 3.48, hizmetler grubu hisseler ise ortalama yüzde 1.59 oranında değer kazandı. 
+     İşlem gören toplam 284 hissenin 238'i değer kazandı, 23'ü değer yitirdi, 23'ünün fiyatı değişmedi. 
+     Seansta, toplam 261 trilyon 598 milyar 207 milyon liralık işlem hacmi gerçekleşti. 
+     1. seansta, Garanti Bankası, İş Bankası C, Ereğli D. Ç., Tüpraş ve Akbank en yoğun işlem gören hisseler oldu. 
+     
+</TEXT>
+</DOC>

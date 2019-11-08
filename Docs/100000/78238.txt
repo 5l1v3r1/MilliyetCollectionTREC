@@ -1,0 +1,49 @@
+<DOC>
+<DOCNO> 78238 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/04/14/ekonomi/eko04.html </URL>
+<DATE> 2002/04/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Riski düşük hisseler 
+</HEADLINE>
+<TEXT>
+
+Riski düşük ve beklenen getirisi yüksek olan hisse senetlerinin başında çimento ve holding hisse senetleri yer alıyor. İMKB 100 hisseleri içerisinde son bir yılın verilerine göre beklenen getirisi pozitif ve riski düşük 24 şirket bulunuyor 
+     Songül HATISARU 
+
+     Oynaklığın yüksek olduğu İstanbul Borsası’nda alıcılar görünmeye başladı. Irak’a müdahale ihtimalinin sonbahara kayması ve Tüpraş’ın halka arzının ertelenmesi piyasada alımları getirdi. 
+     İMKB 100 Endeksi şubat ayından beri ilk defa 12.400’lere kadar yükseldi. Endeksteki bu çıkışla birlikte gözler yine hisse senetlerine çevrildi. Şimdi ne almalıyım diye düşünen yatırımcıların gözlerinden kaçmaması gereken noktaları irdeleyerek hisse senetlerinin risk, beklenen getiri, alfa ve betalarına dayalı profillerini çıkardık. 
+     Son bir yıllık verilerden hareketle yaptığımız analizde riski düşük beklenen getirisi yüksek olan hisse senetlerini belirledik. İMKB 100 hisselerini baz alarak yaptığımız analizde hisse senetlerinin son bir yıl içerisindeki günlük getirilerinin geometrik ortalamalarını alarak beklenen getirilerini tesbit ettik. Beklenen getirisi pozitif olan hisseleri ve riskleri 5’in altında bulunan senetleri bir filtreye tabi tuttuğumuzda sadece 24 hisse senedinin istenilen kriterleri sağladığı görülüyor. 
+     Bu hisseler önümüzdeki dönemde endeksin getirisinin üzerinde bir performans sağlama potansiyeline sahip. 
+     
+     Tablo neyi anlatıyor 
+     Beklenen Getiri Hisselerin son bir yıllık getirilerinin geometrik ortalaması. l Risk Getirinin standart sapmasıdır. l Getiri Risk Oranı Hisse senetleri getirisi ile risk arasındaki ilişkinin anlaşılmasını kolaylaştırır. Oranı düşük olan hisse senetlerinin tercih edilmemesi daha uygun olabilir. Oranı büyük olan hisse senetlerinden tercih yaparken istenen getiri arttığında riskin de arttığı görülecektir. l Alfa Hissenin gerçekleşen getirisinin, hissenin beklenen getirisinin ne kadar altında ya da ne kadar üstünde olduğunu gösterir. Pozitif alfa "ekstra" getiri anlamına gelir. l Beta Bir hissenin beta katsayısı hisse senedinin pazar riskinin bir ölçüsüdür. Hisse senedinin beta katsayısı, hisse senedinin endekse karşı duyarlılığını göstermektedir. Eğer bir hissenin betası 1 ise, endeksin yüzde 10 arttığı bir dönemde o hissenin yüzde 10 değer kazanması, endeksin yüzde 10 düştüğü bir dönemde ise o hissenin yüzde 10 düşmesi beklenir. l Sharpe Oranı Getiri ile risksiz getiri oranı farkının standart sapmaya bölünmesiyle bulunur. Oranın yüksek olması portföyün ya da hissenin risklerine göre daha fazla kazandırdıklarını gösterir. Çünkü, getiri riske katlanarak elde edilir, böylece daha fazla getiri elde etmek buna karşılık daha az risk almak çok iyidir. 
+     
+Riski düşük, getirisi yüksek hisseler Hisse Adı Beklenen getiri Risk Getiri risk Alfa Beta Sharpe oranı Adana Çimento A 0,07230 3,99770 0,01810 0,09890 0,83700 0,01810 Anadolu Efes 0,11680 4,52650 0,02580 0,14160 0,77940 0,02580 Akbank 0,14230 4,29110 0,03320 0,17320 0,97410 0,03320 Akçansa 0,00750 4,46750 0,00170 0,03680 0,92360 0,00170 Ak Enerji 0,11610 4,08950 0,02840 0,14310 0,84990 0,02840 Aksa 0,06780 4,69430 0,01440 0,09900 0,98140 0,01440 Alarko GMYO 0,05210 4,26730 0,01220 0,07990 0,87360 0,01220 Bagfaş 0,01820 4,16400 0,00440 0,04580 0,87020 0,00440 Bak Ambalaj 0,05810 4,79870 0,01210 0,07600 0,56230 0,01210 Beko Elektronik 0,12470 4,75900 0,02620 0,15670 1,00710 0,02620 Bolu Çimento 0,05010 4,01210 0,01250 0,07570 0,80570 0,01250 Bossa 0,14970 4,84840 0,03090 0,17810 0,89630 0,03090 Çimsa 0,06640 4,25780 0,01560 0,09390 0,86500 0,01560 Dışbank 0,06150 4,90360 0,01250 0,09330 0,99980 0,01250 Enka Holding 0,18610 4,77950 0,03890 0,21810 1,00840 0,03890 Koç Holding 0,02660 4,63840 0,00570 0,06010 1,05290 0,00570 Kent Gıda 0,19010 3,53790 0,05370 0,21070 0,64860 0,05370 Kipa 0,09480 4,46520 0,02120 0,12400 0,91810 0,02120 Mardin Çimento 0,13360 3,58060 0,03730 0,15680 0,72950 0,03730 Sabancı Holding 0,05630 4,32010 0,01300 0,08790 0,99640 0,01300 Tat Konserve 0,07070 4,25990 0,01660 0,09720 0,83460 0,01660 Trakya Cam 0,07980 4,56520 0,01750 0,11060 0,97210 0,01750 Usaş 0,28930 4,49900 0,06430 0,31040 0,66330 0,06430 Zorlu Enerji 0,02730 4,70740 0,00580 0,05810 0,96980 0,00580      
+     Son bir yıllık verilerle yapılan analizde riski 5’in altında, beklenen getirisi 0’dan büyük hisse senetleri alınmıştır. 
+     
+
+
+
+ EKONOMİ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

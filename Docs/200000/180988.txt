@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 180988 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/08/yazar/saglam.html </URL>
+<DATE> 2003/09/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> ERDOĞAN SAĞLAM  </AUTHOR>
+<HEADLINE>
+Özel okullarda fatura ne zaman düzenlenmeli 
+</HEADLINE>
+<TEXT>
+
+   
+   Yakında okullar açılacak, ziller yeniden çalmaya başlayacak. 
+   Bu nedenle biz de bugünkü yazımızda, ticari faaliyet olan özel okul işletmeciliği işinde, müşterilere yani velilere faturanın ne zaman verilmesi gerektiği konusunu işleyeceğiz. 
+   Önce faturanın tanımını yapalım. Vergi Usul Kanunu'na göre fatura, satılan mal veya yapılan iş karşılığında müşterinin borçlandığı meblağı göstermek üzere malı satan veya işi yapan tüccar tarafından müşteriye verilmesi gereken ticari belge. Tüccar gelirini müşteri de giderini bu belge ile tevsik ediyor. Peki faturanın ne zaman düzenlenmesi gerekiyor Bunun cevabı mal veya hizmet satışına göre farklı. Mal satışında faturanın malın tesliminde düzenlenmesi gerekli. Hizmet ifasında ise hizmet yapıldıktan, başka bir deyişle tamamlandıktan sonra fatura kesilmeli. Faturanın daha önce kesilmesi mümkün mü 
+   Evet, eğer taraflar mutabık ise fatura malın tesliminden veya hizmetin tamamlanmasından önce düzenlenebilir. Ancak bunun vergisel bir sonucu var. KDV Kanunumuza göre normalde malın teslimi veya hizmetin tamamlanması ile doğan KDV, fatura önceden düzenlendiğinde faturanın kesilmesi ile doğuyor. 
+   Eğitimde hizmet ne zaman tamamlanmış sayılıyor 
+   Eğitim hizmetlerinde hizmet ne zaman tamamlanmış sayılır ve KDV ne zaman doğar, dolayısıyla fatura ne zaman düzenlenir 
+   Bilindiği gibi özel okul hizmetleri ilköğretimde sekiz yıl, lisede ise prensip itibariyle dört yıldır. Buradan hareketle eğitim hizmetinin bu sürelerin sekiz veya dört yılın dolması ile tamamlandığı söylenemez. Çünkü eğitimde mutad periyot "eğitim yılı"dır. Yani eğitim hizmetinde okul işletmesi ile veli arasındaki eğitim sözleşmesi yıllar itibariyle yapılır. Bu anlaşma yani eğitim hizmeti takvim yılının tümünü kapsamaz. öğretimin başladığı tarihte başlayıp bittiği tarihte de sona erer. Yani eğitim hizmeti eylül başında başlar ve haziran ayında biter. Buna göre faturanın da öğretim süresinin sonunda düzenlenmesi ve KDV'nin de bu tarihte doğduğunun kabulü gerekir. 
+   Ancak Maliye, öğretim hizmetinde hizmetin kısım kısım ifa edildiği, dolayısıyla her bir kısmın tamamlanması ile vergiyi doğuran olayın meydana geldiği görüşündedir. Yani Maliye'ye göre, öğretim hizmetinin başlaması ile hizmet verilmeye başlamaktadır ve bir aydan daha uzun süre devam eden bu hizmette takvim yılının her ayı itibariyle KDV hesaplanmalıdır. 
+   Görüldüğü üzere Maliye, eğitim hizmetinin eğitim yılı süresince aylık periyotlarla verildiği görüşündedir. Bu nedenle toplam eğitim bedeli on ikiye bölünmeyip, öğretimin kapsadığı ay sayısına bölünmek suretiyle her bir ayın KDV matrahı hesaplanmalıdır. 
+   Örneğin eylülde başlayıp haziran ayında biten on aylık bir eğitim yılı için veli ile KDV hariç 10 milyar liraya anlaşan bir özel okul, faturasını on eşit taksitte ve hazirandan başlayarak aylar itibariyle düzenleyebilir. 
+   Ödemenin peşin yapılması veya hiç yapılmaması bu durumu değiştirmez. Çünkü fatura tahsilatın değil satışın belgesidir. Tahsilat ise tahsilat makbuzu ile belgelenir. Eğer tahsilat 10 milyar lirayı aşarsa banka kanalıyla yapılmalıdır. Bu örnekteki şirket bedeli peşinen veya on taksitten daha az taksitte tahsil etse bile her ay eğitim bedeli olarak 1 milyar lirayı fatura edebilir. Düzenlenecek eğitim faturalarında 8 oranında KDV hesaplanmalıdır. 
+   Faturanın önceden kesilmesi mümkün olduğundan tahsilata paralel fatura düzenlenebilir. Zaten genelde özel okulların biraz da velilerin isteğiyle bu şekilde uygulama yaptıkları gözlenmektedir. 
+   Bu konuda son bir bilgi Yurt, yemek ve servis hizmetleri okullar tarafından verildiğinde eğitim hizmetinin içinde mütalaa edilerek 8 KDV'ye tabi tutulur. Ancak söz konusu hizmetler okulların kontrolünde olsa bile, dışarıdaki kişilerce verildiğinde 18 oranında KDV hesaplanmalıdır. 
+   
+      
+   
+</TEXT>
+</DOC>

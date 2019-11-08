@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 167961 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/08/yasam/yas07.html </URL>
+<DATE> 2003/07/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kamikazeye karşı görünmez duvar 
+</HEADLINE>
+<TEXT>
+
+Uçak bilgisayarında yapılacak küçük bir ayar sayesinde, pilotun yasaklanmış hava sahasına girmesi önlenecek... 
+     DIŞ HABERLER SERVİSİ 
+
+     Yakın bir gelecekte kent merkezleri ve teröristlerin olası hedefleri görünmez duvarlarla sarılacak. Uçakların bu duvarı aşarak hedefleri vurması imk nsız hale gelecek. Bir bilimkurgu öyküsünü andıran bu projeyi, California’daki Berkeley Üniversitesi bilim adamları hazırlıyor. Edward Lee başkanlığındaki ekibin geliştirdiği proje, görünmez bir duvar inşaatını değil, uçakların elektronik sisteminde bazı ayarları gerektiriyor. Uçağın bilgisayarında yapılacak bir ayarla, pilotun yasaklanmış hava sahasına girmesi önleniyor. Yani uçak rotasını uçuşa kapalı bölgeye kırdığında elektronik sistem devreye girerek bunu önlüyor. 
+     
+     Pilotu uyarıyor 
+     Lee’nin "yumuşak duvar" adını taktığı sistem, pilotu önce nazikçe’ uyarıyor, pilot rotada ısrar ederse daha güçlü bir şekilde karşılık veriyor. Pilotsa bunu güçlü bir rüzg r gibi dışarıdan gelen bir etki olarak algılıyor. 
+     Sistem, uçağın bilgisayarında bulunan yasak bölgelerin küresel yön belirleme sistemi GPS kayıtlarına ait bir veri tabanına dayanarak çalışıyor. Uçak, GPS’deki yasak bölgeye girmeye kalkışırsa otomatik pilot devreye giriyor ve terörist saldırı önleniyor. 
+     
+
+</TEXT>
+</DOC>

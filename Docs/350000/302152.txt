@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 302152 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/30/son/soneko01.html </URL>
+<DATE> 2004/12/30/ </DATE>
+<TIME> 02.02 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones endeksi 10,831.37 puandan kapandı 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası Wall Street'in Dow Jones Sanayi Endeksi, haftanın üçüncü işlem gününü 24.17 puan düşüşle binde 2.2 10,830.37 puandan kapadı. 
+     Wall Street'in ileri teknoloji ortaklıkları ibresi Nasdaq Birleşik Endeksi de günün son seansını yarım puan artışla 2,177.24 puandan noktaladı. 
+     Çin'in uçak işletme sektörünü daraltma planının Amerikan Boeing firmasına zararlı olması ve petrolün varilde yeniden 43 doların üzerine çıkmaya başlaması Dow Jones Sanayi Endeksi'ni olumsuz etkiledi. 
+     
+</TEXT>
+</DOC>

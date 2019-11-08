@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 222761 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/16/son/soneko02.html </URL>
+<DATE> 2004/03/16/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     New York Menkul Kıymetler Borsası Wall Street, günü büyük düşüşle kapadı. 
+     Dow Jones Endeksi 137,19 puan kayıpla 10102,89'puana, Aralık ortası sonrası en düşük seviyesine geriledi. 
+     Nasdaq Endeksi de yüzde 2,29 düşüşle 45, puan geriledi ve 1939,20'den kapandı. 
+     
+</TEXT>
+</DOC>

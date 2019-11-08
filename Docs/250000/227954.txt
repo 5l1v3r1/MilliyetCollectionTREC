@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 227954 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/02/son/soneko48.html </URL>
+<DATE> 2004/04/02/ </DATE>
+<TIME> 17.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası güne yükselişle başladı... 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacmi bakımından dünyanın en büyük borsası konumunda olan New York'ta, açılışta endeksler yükseldi. 
+     Açılıştan kısa bir süre sonra Dow Jones Endeksi, 49.48 puan artarak 10,422.81 puana, teknoloji endeksi Nasdaq 39.59 puan yükselerek 2,049.60 puana çıktı. 
+     Endekslerde görülen yükselmeye neden olarak, sürpriz biçimde ABD çalışma piyasasına ilişkin raporun güçlü çıkmasının ardından, yatırımcıların Amerikan ekonomisinin geleceğine ilişkin güvenin artması gösterildi. 
+     
+</TEXT>
+</DOC>

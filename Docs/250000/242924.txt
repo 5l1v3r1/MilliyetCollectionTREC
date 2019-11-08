@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 242924 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/26/son/soneko01.html </URL>
+<DATE> 2004/05/26/ </DATE>
+<TIME> 09.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Wall Street'ten büyük ralli .. Asya borsaları da etkilendi... 
+</HEADLINE>
+<TEXT>
+
+     New York menkul kıymetler borsası Wall Street, bugün, mart sonundan bu yana bir günde kaydettiği en büyük yükselişi gördü. 
+     Dow Jones endeksi 159,19 puan artışla 10.117,62'ye, Nasdaq endeksi de 41,67 puan artışla 1.964,65'e yükseldi. 
+     
+     ASYA BORSALARI DA YÜKSELDİ 
+
+     Japonya, Tayvan ve Singapur borsaları, ham petrol vadeli işlemlerindeki düşüşle Wall Street'te gelen hızlı yükselişin ardından sıçrama gösterdiler, ancak enerji fiyatları Asya'da yeniden yükselişe geçti. 
+     Nikkei Endeksi yüzde 1.73 artışla 11,152 puandan kapandı ve dün uğradığı yüzde 1.3 oranındaki kaybını telafi etti. Singapur'un ana endeksi yüzde 0.6 yükseldi. Tayvan'da ise en büyük teknoloji şirketi Taiwan Semiconductor Manufacturing hisselerindeki yüzde 2.75 artışın desteğiyle Taiex endeksi yüzde 1.1 yükseldi. 
+     ABD hafif ham petrolü New York'ta varil başına 58 sent düsüsle 41.14 dolara gerilemesinin ardından Asya'da 41.49 dolara kadar yükseldi ve TSİ 09.04'te 16 sent artışla 41.30 dolardan işlem görüyordu. New York'ta benzin fiyatları da, ham petrolün pazartesi günü rekor kapanış yapması sonrasında gelen kar satışları üzerine ve ABD'de bugün açıklanacak stok verileri öncesinde düştü. 
+     Ancak işlemciler, Suudi Arabistan'ın geçen hafta sonunda vaat ettiği üretim artışının hızla artan küresel talebi karşılamaya veya ABD benzin stoklarını yeniden doldurmaya yeterli olmayacağını söylediler. Bazı işlemciler hala varil başına 42 doların kısa dönemde deneneceğini tahmin ediyorlar. 
+     Dolar ise, yatırımcıların ABD'de bir miktar olumlu çıkan konut ve tüketici güven verilerini dikkate almayarak yüksek petrol fiyatlarının ekonomi üzerindeki etkisine odaklanmaları nedeniyle hızla düştü. 
+     Dolar Asya'da yatay seyretti ancak işlemciler Tokyo hisse fiyatları yükselirken yen karşısında bir toparlanma ihtimalinin yüksek olmadığını söylediler. 
+
+REUTERS 
+     
+</TEXT>
+</DOC>

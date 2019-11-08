@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 283146 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/25/son/soneko25.html </URL>
+<DATE> 2004/10/25/ </DATE>
+<TIME> 13.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+YTL'ye geçişte hisse senetlerinin durumu... 
+</HEADLINE>
+<TEXT>
+
+     Yeni Türk Lirası'na YTL yılbaşından itibaren geçilmesi ile birlikte hisse senetlerinde bin adedi ifade eden 1 lot, 1 adede denk olacak. 
+     Böylelikle söz gelimi, şimdi 7 bin 350 lira olan bir hisse senedi, yeni dönemde 7.35 YTL'den işlem görecek. 
+     YTL'ye geçişle birlikte İMKB'de özellikle fiyatı 10 bin liranın altında kalan hisse senetlerinde fiyat takibi konusunda zorluklar ve karışıklıkları önlemek için, mevcut yapıda 1 adet Bin TL nominal değerli hisse senedi için gösterilen piyasa fiyatı, yeni yapıda 1 YTL Bir milyon TL nominal değerli hisse senedi için gösterilecek. 
+     Mevcut yapıda ''Bir milyon TL nominal Bin adet 1 lot'' eşitliğine göre var olan düzenlemeler, yeni yapıda 1 YTL nominal 1 adet 1 lot eşitliğine uygun olarak değiştirilecek. 
+     Örneğin adedi 7 bin 350 lira olan bir hisse senedinin şu anda bir lot fiyatı 7 milyon 350 bin liraya tekabül ediyor. YTL'ye geçiş ile birlikte '1 lot-bir adet'' olarak esas alınacağı için, bu hissenin fiyatı 7.35 YTL olacak. 
+     Aynı şekilde fiyatı 750 lira olan bir hisse senedinin yılbaşından sonra bir adedi 0.75 YTL'den işlem görecek. Örneğin, 10 lota sahip olan kişi, YTL'ye geçiş ile birlikte 10 adet hisse sahibi olacak. 
+     
+     ŞU ANDA 1 LOTUN ALTINDA SENEDİ OLANLAR 
+     Yılbaşından itibaren, Borsa'da bugünkü sistemde bin adet olarak kabul edilen hisse senetleri, yeni sistemde 1 adet olarak kabul edilecek. 
+     Yeni dönemde Borsa dahilinde tüm hisse senetleri piyasası pazar ve piyasalarında küsurat işlemlerinin yapılmasına son verilecek ve küsurat işlemleri Borsa dışı lot altı işlemleri kapsamında yürütülecek. 
+     Bu doğrultuda, bin adedin altında hisse senedi sahibi olan yatırımcıların, yılbaşından sonra Borsa dışı lot altı piyasada işlem yapmayı tercih etmemeleri halinde, bu yıl sonu itibariyle hesaplarında mümkün olduğunca bin adedin altında hisse senedi bulundurmamaları gerekiyor. 
+     
+     İMKB'DE YILIN SON İKİ GÜNÜ İŞLEM YOK 
+     Takas sürecinde herhangi bir olumsuzluk yaşanmasını önlemek, Borsa üyelerinin yıl sonu işlemlerini sağlıklı bir şekilde yürütmelerine imkan tanıyabilmek amacıyla bu yılın son iki işlem günü olan 30 ve 31 Aralık 2004 tarihlerinde hisse senetleri piyasasında işlem yapılmayacak. 
+     
+     ENDEKSTE DEĞİŞİKLİK OLMAYACAK 
+     YTL'ye geçişle birlikte birim fiyatlar değişince endeks hesaplama formülünde gerekli değişiklikler yapılarak endeks değerinde şu andaki basamak sayısının korunması sağlanacak. 
+     Dolayısıyla 2005 yılının ilk seansında endeks, herhangi bir farklılık olmaksızın 2004 yılının son seansında kapandığı değerden açılacak. 
+     
+</TEXT>
+</DOC>

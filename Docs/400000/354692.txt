@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 354692 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/23/son/sondun22.html </URL>
+<DATE> 2005/06/23/ </DATE>
+<TIME> 12.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Japonlar, robot muhafızlar üretiyor... 
+</HEADLINE>
+<TEXT>
+
+     Japonlar, bankalar, alışveriş merkezleri ve bürolar için robot muhafızlar üretiyor. 
+     Japon güvenlik şirketi Sohgo'nun ürettiği 109 santimetrelik robotlar kamera ve sensörlerle donanacak. 
+     Önceden belirlenmiş yollarda devriye görevi yapacak robotlar, ''davetsiz misafirler'', yangın, hatta su sızıntısını bile telsiz aracılığıyla insan muhafızlara iletecek. 
+     Sogho Güvenlik Şirketi, Japonya'nın yaşlanan nüfusu göz önüne alındığında, yakın gelecekte insan gücüne dayalı işlere uygun kişiler bulunmasının giderek zorlaşacağına dikkati çekerek, güvenlik sektörünün de nüfusun yaşlanmasından en çok etkilenecek alan olduğunu bildirdi. 
+     Şirketin, robot destekli güvenlik sistemini bir yıl içinde sunmasının beklendiği kaydedildi. 
+     
+</TEXT>
+</DOC>

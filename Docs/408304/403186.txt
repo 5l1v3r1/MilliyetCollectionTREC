@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 403186 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/13/son/sonyas01.html </URL>
+<DATE> 2005/12/13/ </DATE>
+<TIME> 09.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternet 15 yaşında... En büyük damgayı Google vurdu... 
+</HEADLINE>
+<TEXT>
+
+     Dünyada enformasyon, iletişim ve ekonomi alanında sessiz bir devrim yaratan internet 15. yılını kutluyor. 
+     İnternetin bu kısa tarihine en büyük damgayı ise Google'ın vurduğu belirtiliyor. 
+     Amerikan haber kanalı CNN'in internetin 15 yıllık tarihinde en büyük etkiye sahip 10 faktör konusunda düzenlediği ankette, ve halen devam etmekte olan bir şu ana kadar kullanılan oyların yaklaşık yüzde 40'ını alan Google açık ara önde gidiyor. 
+     Tim Berners-Lee'nin 1990'da başlattığı ''World Wide Web www '' ve ''http protokolü'' sayesinde hızla yaygınlaşan internet kullanımı Mosaic ve Netscape Navigator ile süratle artarak milyarlarca internet sayfasının ortaya çıkmasına öncülük etmişti. 
+     İnsanları birbirine yakınlaştırarak ve iş dünyasını yeniden şekillendirerek özgürleştirici bir güç haline gelen internet, Yahoo, Hotmail, eBay, Amazon, Google gibi üzerinde en çok konuşulan ve yeni ekonominin direklerini teşkil eden milyar dolarlık yeni markaların doğmasına da yol açtı. 
+     CNN'in internetin 15 yıllık tarihinde en büyük etkisi olan gelişme konusunda izleyicilerinden oy kullanmalarını istediği unsurlar arasında şunlar yer alıyor 
+     1- Havaalanlarında, otellerde hatta lokantalarda kablosuz internet bağlantı noktaları Şu ana kadar oyların sadece yüzde 4'ünü aldı. 2- İletişimi görüntülü hale getiren web kameraları ve fotoğraf paylaşımı Oyların yüzde 2'sini aldı. 
+     3- Ücretsiz uzak mesafe sesli görüşmelere imkan veren ve bu sayede telefon firmalarını zorlayan Skype Oyların yüzde 1'ini aldı. 
+     4- Yoksulluğa karşı bilinçlendirmeyi amaçlayan ve Temmuz 2005'te American Online üzerinden aynı anda 5 milyon kişinin izlediği Live 8 konseri Oyların yüzde 1'ini aldı. 
+     5- Müzik indirme sitesi Napster'in kapanması Oyların yüzde 7'sini aldı. 
+     6- 1998'de ABD eski Başkanı Clinton ile Monica Lewinsky arasındaki seks skandalını ortaya çıkararak blogların doğumuna yol açan Matt Drudge ve drudgereport.com Oyların yüzde 7'sini aldı. 
+     7- Amatör videolarla internetten yayılan tsunami ve 11 Eylül görüntüleri ve bu olaylara dair yayılan vatandaş fikirleri Oyların yüzde 13'ünü aldı. 
+     8- İnternet sitelerinden kazanılan ve kaybedilen trilyonlarca dolar Oyların yüzde 21'ini aldı. 
+     9- 1995'te 0 kullanıcı ile yola çıkan, 30 ayda kullanıcı sayısı 30 milyona, şu an ise 215 milyona ulaşan Hotmail Oyların yüzde 4'ünü aldı. 
+     10- İnternet aramalarını yeniden tanımlayan ve yeni bir reklam modeli yaratarak bir ekonomi imparatorluğuna dönüşen Google Şu ana kadar oyların yüzde 40'ını aldı. 
+     
+</TEXT>
+</DOC>

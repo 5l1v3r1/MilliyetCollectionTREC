@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 405962 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/23/son/soneko01.html </URL>
+<DATE> 2005/12/23/ </DATE>
+<TIME> 01.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     New York borsasında Dow Jones ve Nasdaq endeksleri yükseldi. 
+     Borsanın temel göstergesi Dow Jones 55.71 puan çıkarak 10,889.44 puana ulaştı. Teknoloji endeksi Nasdaq da 14.83 puan artışla 2,246.49 puan oldu. 
+     
+</TEXT>
+</DOC>

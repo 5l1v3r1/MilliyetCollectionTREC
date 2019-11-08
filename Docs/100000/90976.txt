@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 90976 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/06/20/son/soneko01.html </URL>
+<DATE> 2002/06/20/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsası düştü 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Borsası'nın Dow Jones Sanayi Endeksi 144.55 puan düşerek yüzde 1.49 9,561.57 puandan kapandı. 
+     Nasdaq Bileşik Endeksi de 46.12 puan düştü yüzde 2.99 ve 1,496.84 puandan günü kapadı. Nasdaq, geçen yıl Ekim'den beri en düşük düzeyine indi. 
+     Borsanın düşüşünde, aralarında Apple Computer, Advanced Micro Devices ve Intel gibi sektör devlerinin de bulunduğu bazı yüksek teknoloji ortaklıklarının, yılın ikinci 3 aylık dönemine ilişkin düşük kar tahminlerinde bulunmaları etkili oldu. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

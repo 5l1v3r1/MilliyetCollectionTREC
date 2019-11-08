@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 354376 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/22/son/soneko23.html </URL>
+<DATE> 2005/06/22/ </DATE>
+<TIME> 15.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Öğretmen ve öğrenciler için ADSL kampanyası 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekom, ilköğretim, ortaöğretim ve yükseköğretim kurumlarında okuyan öğrenciler, öğretmenler, öğretim görevlileri, diğer eğitim mensupları ve bu kurumlardan emekli olanlara yönelik ADSL kampanyası başlattı. 
+     Türk Telekom'dan yapılan yazılı açıklamada, ADSL internet erişim hizmetini geniş kitlelere sunmak ve özellikle eğitim-öğretim kurumlarında öğrenci ve öğretmenlerin bu olanaktan faydalanabilmesini sağlamak amacıyla ''Öğrenci-Öğretmen ADSL Promosyonu''nu başlatıldığı belirtildi. 
+     15 Ekim 2005 tarihine kadar sürecek kampanyaya, Türkiye sınırları içerisindeki ilköğretim, ortaöğretim ve yükseköğretim kurumlarında okuyan öğrenciler, öğretmenler, öğretim görevlileri, diğer eğitim mensupları ve bu kurumlardan emekli olanlar başvurabilecek. 
+     Kampanyaya katılmak isteyenler, 256 Kbps limitli veya limitsiz tarife paketlerinden birini seçerek ADSL abonesi olabilecek. Bu müşterilerden ADSL bağlantı ücreti ve bir aylık kullanım bedeli, ayrıca limitli tarife seçen kullanıcılardan ilk bir ay kota aşım ücreti alınmayacak. 
+     Kampanya, ADSL altyapısının bulunduğu ve ADSL hizmetinin verilebildiği yerlerle sınırlı olacak. ADSL abonesi olmak isteyenler, Telekom müdürlüklerine veya ADSL çözüm ortağı firma bayilerine başvuracaklar. 
+     Promosyon hakkında ayrıntılı bilgi www.turktelekom.com.tr web adresinden ve 444 1 444 Müşteri Hizmetleri hattından alınabiliyor. 
+     
+</TEXT>
+</DOC>

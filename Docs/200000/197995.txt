@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 197995 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/26/son/sonspo07.html </URL>
+<DATE> 2003/11/26/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türkçe maç analizi programı geliştirildi... 
+</HEADLINE>
+<TEXT>
+
+     İzmir'in Aliağa İlçesi'nde görev yapan 2 beden eğitimi öğretmeni, Türkçe maç analiz programı geliştirdi. 
+     Aliağa Namık Kemal İlköğretim Okulu beden eğitimi öğretmeni Nadir Arıkan ile Cumhuriyet İlköğretim Okulu beden eğitimi öğretmeni Murat Yaman, kulüpler ve antrenörler için Türkçe maç analizi programı üretti. 
+     Nadir Arıkan, antrenör ve kulüplerin kullanabilecekleri Türkçe bir maç analizi programının eksik olduğunu fark ettiklerini belirtti. 
+     Uzun süredir bilgisayar programları üzerine yoğunlaşan Murat Yaman ile bu konu üzerinde bir çalışma başlattıklarını kaydeden Arıkan, yazılım sürecinde Beşiktaş, Gençlerbirliği ve Ankaragücü'nün çalışmaları ve diğer maç analiz programlarını incelediklerini söyledi. 
+     Bu süreçte Ege Üniversitesi Beden Eğitimi ve Spor Yüksekokulu Müdürü Prof. Dr. Mustafa Ferit Acar ve teknik direktörler Ersun Yanal ile Tevfik Lav'dan yardım aldıklarını belirten Arıkan, geliştirdikleri programa da Murat ve Nadir isimlerinin ilk hecelerinden oluşturdukları ''MuNa'' ismini verdiklerini kaydetti. 
+     Arıkan, şunları söyledi 
+     ''Türkiye'de maç arşivleri için Türkçe programlar var. Bizim geliştirdiğimiz program, analiz anlamında ilk program. Bütün veriler Türkçe olarak giriliyor. Maç analiz programları yüksek maliyeti ve hepsinin yabancı dilde yazılmış olması nedeniyle Türkiye'de dar bir kesim tarafından kullanılıyordu. Bu programı geniş bir kesim kolaylıkla kullanılabilecek.'' 
+     
+     MuNa NE İŞE YARIYOR 
+     Nadir Arıkan, programla ilgili de şu bilgileri verdi 
+     ''Bir antrenörün oynanan bir maçta futbolcusu ile ilgili olarak, performansını nicelik ve nitelik açıdan değerlendirebileceği bir program ürettik. Antrenör ele alacağı bu analiz raporu doğrultusunda futbolcusuna eksik olan, çalışması gereken bütün futbol teknik, taktik ve kondisyon öğelerini antrenman içeriğinde verebilecek. Bu da hem takım performansına, hem antrenörün performansına ve mesleki başarısına katkılar ve avantajlar sağlayacaktır.'' Arıkan amaçlarının ''2 beden eğitimi öğretmeni olarak'' Türk futboluna hizmet olduğunu söyledi. Arıkan, sözlerini şöyle sürdürdü 
+     ''Tüm kulüplere ve antrenörlere bu programı öneririz. Öncelikle amacımız maddi kazanç değil, Türk futboluna faydalı olabilmek. Programa şu an için bir fiyat biçmedik. Ancak kulüpler ve antrenörler için yabancı programlarla kıyaslandığında çok daha ucuza mal olacağını söyleyebilirim. Programı bir şirket aracılığıyla satışa çıkaracağız.'' 
+     
+     BİLGİSAYARLA MAÇ ANALİZİ NEDİR 
+     Bilgisayarla maç analizi, oynanan bir futbol maçının hemen ardından maç kasetinin videodan izlenmesi veya maçın bir CD'ye kaydedilip, direkt bilgisayar ekranında görüntülenerek, oyun esnasında analizi yapılan takımın futbolcularının, sahanın neresinde hangi hareketi ne şekilde ve nerede yaptığının tespit edilmesidir. 
+     Bilgiler bilgisayara girildikten sonra veriler, istatistiksel olarak elde ediliyor. 
+     
+</TEXT>
+</DOC>

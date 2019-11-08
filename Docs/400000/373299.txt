@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> 373299 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/27/yasam/ayas.html </URL>
+<DATE> 2005/08/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dünyayı vuran Adanalı 'hacker' 
+</HEADLINE>
+<TEXT>
+
+
+Lise mezunu Atilla E., dünyanın dev şirketlerini vuran 'ZOTOB' ve 'MYTOB' virüslerini dağıtan 'bilgisayar korsanı' çıktı. Adanalı 'hacker'ı, FBI ajanları ve Türk polisi yakaladı 
+
+ANKARA Milliyet 
+
+ABD'deki birçok dev şirketin bilgisayar sistemlerini kilitleyen 'ZOTOB' ve 'MYTOB' adlı elektronik virüsü üreten 2 hacker'dan bilgisayar korsanı birinin Türk olduğu ortaya çıktı. Adana'da yaşayan 23 yaşındaki 'hacker' Atilla E., Türk polisi, ABD federal araştırma bürosu FBI ve Fas Polisi'nin eşzamanlı operasyonunda yakalanarak cezaevine gönderildi. 
+İki haftadır, New York Times, ABC ve CNN International, Boeing Australia, Disney gibi dev şirketler ile San Francisco Havaalanı da dahil 116 ülkede etkili olan ZOTOB ve MYTOB adlı virüslerin bir ucu da Türkiye'de çıktı. 
+
+Microsoft ihbar etti 
+İki ayrı bilgisayar programına güvenlik açıklarından girilerek bu virüslerin bulaştırıldığını belirleyen Microsoft firması, FBI'a başvurdu. 
+FBI uzmanları, sanal sohbet odalarından chat internet ortamındaki sistemlere virüs bulaştıran 'Diablo' ve 'Coder' takma isimlerini kullanan 2 hacker'a ulaştı. 
+FBI, bilgisayar kimlik numarası IP numaralarından yola çıkarak korsanlardan birinin Fas, diğerinin Adana'da yaşadığını belirledi ve iki ülkeye ekip gönderdi. Bir hafta önce özel uçakla Türkiye'ye gelip Kaçakçılık ve Organize Suçlarla Mücadele Dairesi'yle görüşen FBI uzmanları, bilgilerini Türk polisine aktardı. 
+Daire bünyesindeki Yüksek Teknoloji Suçları Şubesi'ndeki bilgiyasar uzmanı polisler de, 2 gün önce Adana'da 'ZOTOB' adını verdikleri operasyonla Atilla E.'yi yakalayarak Ankara'ya getirdi. Diğer korsan da Fas'ta ele geçirildi. 
+
+İnternette öğrendi 
+Ankara'da sorgulanan lise muzunu Atilla E., virüs yaratmayı ilk olarak internet kafelerde öğrendiğini ve Faslı korsanla da internette tanıştığını kaydetti. 
+E., Faslı korsanın yazılımını yaptığı virüsleri, sohbet odaları üzerinden dağıtıp büyük şirketlerin bilgilerine ulaştığını söyledi. 4 yıldır üniversite sınavına hazırlanan ve geçen kasımda Ankara'da ortaya çıkarılan bir sahte kredi kartı şebekesi operasyonunda da adının geçtiği saptanan E.'nin, banka hesapları incelemeye alındı. 
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> 81495 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/05/01/son/soneko37.html </URL>
+<DATE> 2002/05/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Para piyasalarında bugün nasıl geçti 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası İMKB Ulusal 100 Endeksi, bugün yüzde 0.33 yükseldi. 
+     Endeks, ilk seansı 8.18 puan kayıpla 11,433.32 puandan tamamladı. 2. seansta ise sadece 46.40 puan artışla, 11,479.72 puandan kapanan endeks, günlük bazda 38.22 puan yükseldi. 
+     İki seansta toplam 192 trilyon 456 milyar 334 milyon liralık işlem hacmi oluştu. 
+     
+     DOLAR YÜKSELDİ 
+     Merkez Bankası doların bugünkü efektif kurunu alışta 1 milyon 349 bin 780 lira, satışta ise 1 milyon 359 bin 277 lira olarak açıkladı. 
+     Böylece Merkez Bankası'nın dün açıkladığı kurlara göre, dolar, alışta 18 bin 828 lira, satışta ise 18 bin 962 lira yükseldi. 
+     Kapalıçarşı'da dün günü 1 milyon 345 bin liradan kapatan dolar, güne 1 milyon 344 bin liradan, 1 milyon 213 bin liradan kapatan Euro da 1 milyon 210 bin liradan başladı. 
+     Piyasa kapanışında doların satış fiyatı 1 milyon 364 bin lira, Euro satış fiyatı da 1 milyon 228 bin lira oldu. 
+     
+     TAHVİL-BONO-REPO 
+     İstanbul Menkul Kıymetler Borsası İMKB Tahvil ve Bono Piyasası Repo Pazarı'nda gecelik faiz ortalama 47.99'dan kapandı. 
+     İMKB Tahvil ve Bono Piyasası verilerine göre, gecelik faizde en düşük oran yüzde 47.30, en yüksek oran ise yüzde 48.10 olarak belirlendi. 
+     Bankalararası TL interbankında da gecelik faiz oranı yüzde 48,00'den gerçekleşti. 
+     İstanbul Menkul Kıymetler Borsası İMKB tahvil ve bono piyasasında en çok işlem gören 9 Nisan 2003 tarihli, bugün valörlü tahvilin basit getirisi yüzde 51.86'ya, bileşik getirisi ise yüzde 52.57'ye yükseldi. 
+     Bu tahvilin dünkü aynı gün valörlü işlemlerinde basit getiri yüzde 50.91, bileşik getiri ise yüzde 51.58 olarak belirlenmişti. 
+     
+     TL DEPO ALIM İHALESİ 
+     Merkez Bankası tarafından düzenlenen Türk Lirası TL depo alım ihalesinde ortalama faiz yüzde 49.05 olarak belirlendi. 
+     TL depo alım ihalesinde maksimum faiz yüzde 49.25 minimum faiz ise yüzde 48.50 oldu. Merkez Bankası'nın maksimum 250 trilyon lira tutarlı depo alım ihalesinde toplam 856 trilyon lira teklif geldi. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

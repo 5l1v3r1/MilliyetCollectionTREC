@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 364846 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/27/son/sonyas01.html </URL>
+<DATE> 2005/07/27/ </DATE>
+<TIME> 01.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayar şifresi koruma ürünü icat edildi... 
+</HEADLINE>
+<TEXT>
+
+     Kimlik hırsızlığı alanında görülen artış sonucu, Stanford Üniversitesi’nden iki profesör bilgisayar şifrelerini internet hırsızlarından koruyacak bir yazılım geliştirdi. 
+     ’Pwdhash’ adını verdikleri yazılımı önümüzdeki hafta Baltimore’da yapılacak Usenix Güvenlik Sempozyumu’nda tanıtacak olan John Mitchell ve Dan Boneh, Pwdhash’ın Web sitelerine yazılan şifreleri değiştirerek her ziyaret edilen site için kendine özgü bir şifre oluşturduğunu açıkladı. 
+     Pwdhash adlı yazılım, sahte internet bankacılığı ya da elektronik ticaret siteleri oluşturarak insanların şifrelerini çalan sanal suçlular tarafından yapılan girişimleri bertaraf etmek için gerçekleştirilen projelerin sonuncusu. Sanal suçlular kurbanlarını kendi hazırladıkları sahte sitelerin yasal olduğuna inandırarak onların şifrelerine ulaşıyor ve şifre sahibinin banka hesabından para çalıyor. 
+     Geçen yıl Mitchell ve Boneh, web site kullanıcılarının site ziyaretlerini ve sitenin sahte olup olmadığını denetleyen SpoofGuard adlı yazılımı geliştirmişti. Söz konusu teknoloji tek tip kaynak konumlandırıcılar URL , grafikler ve linkleri derinlemesine tarıyor ve herhangi bir sorunla karşılaştığında kullanıcıyı uyarıyor. 
+     
+</TEXT>
+</DOC>

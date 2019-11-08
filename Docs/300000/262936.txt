@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 262936 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/12/son/sonyas05.html </URL>
+<DATE> 2004/08/12/ </DATE>
+<TIME> 10.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft, Linux'un önünü ''XP Starter Edition" ile kesmeye hazırlanıyor 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın en büyük yazılım kuruluşu Microsoft, özellikle Asya kıtasında her geçen gün daha çok kullanıcı tarafından tercih edilen Linux'un önünü, ''XP Starter Edition SE '' adlı yeni bir işletim sistemi ile kesmeye hazırlanıyor. 
+     İnternette yer alan habere göre, her ne kadar Microsoft, hala dünyanın en çok satılan işletim sistemi Windows ile işletim sistemi pazarının lideri olsa da Asya kıtasındaki bazı büyük dağıtıcı firmaların, ücretsiz Linux işletim sistemi ile donatılmış bilgisayarları büyük bir hızla satışa sunması, Microsoft'u harekete geçirdi. 
+     Pazar payının düşmesini istemeyen Microsoft, Linux'a olan talebi durdurmak için, Windows XP'nin basit bir versiyonu olan ''XP Second Edition'' işletim sistemini hazırladı. ''XP SE'', standart XP özellikleri arasında bulunan internet bağlantısı, Windows Messenger, Windows Media Player 9 ve dijital fotoğraf desteğine sahip olacak ancak fiyatının düşük olması için düşük çözünürlüklü grafikler, azaltılmış ağ opsiyonları ve daha az kapasiteli görev mönüsü ile kullanıcıya ulaşacak. 
+     Microsoft, ''XP SE''nin, düşük fiyatıyla, ''yazılım korsanlığı ile savaş amacıyla'' hazırlandığını belirtirken, internet analistleri, Linux'un her geçen gün artan pazar payının Microsoft'u telaşlandırdığı ve yazılımın bu yüzden hazırlandığı görüşünde. 
+     Fiyatı henüz açıklanmayan yeni işletim sisteminin, Ekim ayında, ilk olarak Linux'un hızla yayıldığı Tayland, Malezya ve Endonezya gibi ülkelerde piyasaya sürüleceği öğrenildi. 
+     
+</TEXT>
+</DOC>

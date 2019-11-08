@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 195471 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/14/son/sondun06.html </URL>
+<DATE> 2003/11/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kasparov, yapay zekaya yenik düştü .. 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın bir numaralı satranç oyuncusu puanına sahip eski dünya şampiyonu Garry Kasparov, ''X3D Fritz'' adlı bilgisayarla yaptığı ikinci maçı kaybetti. 
+     İlk maçın berabere bittiği, toplam dört maçlık karşılaşmada üçüncü maç, pazar günü yapılacak. 
+     Siyahlarla oynayan Kasparov, maçtan sonra, ''aptalca bir hata nedeniyle kaybettim'' dedi. Kasparov, bu şekilde tanımladığı hatasını, 32'nci hamlesinde yaptı. Bu hamleye kadar eşitlik halinde geçen maçta, Kasparov'un, kalesini beyazların savunması arasına sokması sonucu bilgisayarın üst üste, önü alınamaz hamleleri başladı. Oyunda üstünlüğü ele geçiren ''X3W Fritz,'' bu pozisyonunu bir daha terk etmedi ve maçı aldı. 
+     Oldukça gergin geçen maçta Kasparov, bilgisayarın 39'uncu hamlesi sonucu, 3 saat 40'ıncı dakikada yenilgiyi kabul ederek oyundan çekildi. 
+
+     
+</TEXT>
+</DOC>

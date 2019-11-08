@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 189289 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/17/son/soneko02.html </URL>
+<DATE> 2003/10/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düştü, Tokyo Borsası yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     New York borsasında, Dow Jones endeksi düştü, Nasdaq endeksi ise yükseldi. 
+     Borsanın temel göstergesi Dow Jones endeksi 11.93 puan kayıpla 9,791.12 puana gerilerken, teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq, 11.04 puan yükselerek 1,950.14 puandan günü tamamladı. 
+     
+     TOKYO BORSASI 
+
+     Tokyo Menkul Kıymetler Borsası, haftanın son işlem gününde yükselişle kapandı. 
+     Nikkei Endeksi, 12.74 puan yüzde 0.12 yükselerek, 11,037.89 puana çıktı. 
+     Öte yandan, ABD Doları, Japon Yeni karşısında, 0.24 yen değer kaybederek, 109.89 yen düzeyine indi. 
+     
+</TEXT>
+</DOC>

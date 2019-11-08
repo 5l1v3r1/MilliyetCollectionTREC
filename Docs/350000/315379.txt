@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 315379 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/15/son/soneko02.html </URL>
+<DATE> 2005/02/15/ </DATE>
+<TIME> 02.03 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsası 10,791 puandan kapandı 
+</HEADLINE>
+<TEXT>
+
+     İşlem hacminde dünyanın en büyük borsası New York Wall Street'in Dow Jones Sanayi Endeksi, haftanın ilk işlem gününü 4.88 puan düşüşle 10,791.13 puandan kapadı. 
+     Apple bilgisayar firmasının yükseltici, sigorta şirketi American International Group'un frenleyici etkisiyle çok hareketli seyretmeyen Wall Street'in teknoloji ortaklıkları ibresi Nasdaq Birleşik Endeksi de 6.25 puan artışla 2,082.91 puandan noktalandı. 
+     
+</TEXT>
+</DOC>

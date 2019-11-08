@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 181590 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/11/siyaset/siy02.html </URL>
+<DATE> 2003/09/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yazıcıoğlu kazasında manyetik alan şüphesi 
+</HEADLINE>
+<TEXT>
+
+      GÜLÇİN ÜSTÜN Ankara 
+
+   
+   Türk Standartları Enstitüsü TSE , Denizli Valisi Recep Yazıcıoğlu'nun geçirdiği trafik kazasıyla yeniden gündeme gelen ve çok sayıda benzer kazanın gerçekleştiği Ankara - Eskişehir yolunun 35. kilometresinde yüksek gerilim hatlarının araçların elektronik aksamını bozduğu iddiaları üzerine manyetik alan ölçümlerine başladı. 
+   Ölümlü ve yaralanmalı birçok kazanın meydana geldiği bölgedeki sorunun elektriksel alandan kaynaklandığı yolundaki şüpheler üzerine inceleme başlattıklarını dile getiren TSE Başkanı Kenan Malatyalı, yolda ölçüm yapmak için Karayolları Genel Müdürlüğü'nden gerekli iznin alındığını kaydetti. Kazaların elektriksel alan oluşumundan kaynaklanıp kaynaklanmadığını anlamak için çeşitli testler yapılacağını dile getiren Malatyalı şöyle konuştu 
+   "Yüksek gerilim hatlarından ve kablolardan dolayı araçların elektrik devreleri etkilenebilir. İncelemeler sonucu elde edilen veriler iki gün sonra kamuoyuna açıklanacak. Testler sırasında bölgedeki metal yoğunluğu da ölçülecek. Böyle bir inceleme Türkiye'de ilk kez yapılıyor. Aslında bu bizim görevimiz değil ama kamuoyunu aydınlatmak ve nedeni buysa başka kazaları önlemek istiyoruz." 
+   
+</TEXT>
+</DOC>

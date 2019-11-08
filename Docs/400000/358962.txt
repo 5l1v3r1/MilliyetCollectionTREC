@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 358962 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/07/son/soneko01.html </URL>
+<DATE> 2005/07/07/ </DATE>
+<TIME> 01.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Wall Street Borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     Petrol fiyatlarının 60 doları aşmasıyla New York Wall Street Borsası, hafta ortasında açılış seansında gerilemesini günün son seansında da sürdürdü. 
+     Wall Street’in Dow Jones Sanayi Endeksi günü 101.12 puan düşüşle binde 9,7 10,270.68 puandan noktaladı. 
+     Wall Street’in teknoloji ibresi Nasdaq Bileşik Endeksi de, 10.1 puan gerilemeyle binde 4,9 2,068.65 puandan kapandı. Yatırımcıların, petrol fiyatlarında yükselişin şirketlerin karlarını eritmesinden endişesi Wall Street’in seyrini etkiledi. 
+     
+</TEXT>
+</DOC>

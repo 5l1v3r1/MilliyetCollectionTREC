@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 225508 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/25/son/soneko45.html </URL>
+<DATE> 2004/03/25/ </DATE>
+<TIME> 18.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Para piyasalarında bugün... 
+</HEADLINE>
+<TEXT>
+
+     Haftanın dördüncü gününü de tarihi rekorla kapatan Borsa'da, hisse senetleri ortalama yüzde 0.61 değer kazandı. 
+     İMKB Ulusal 100 Endeksi, 1. seansı yüzde 0.24 düşüşle 20,298.39 puandan tamamladı. Endeks, 2. seansta gelen alımlarla yüzde 0.86 artarak günü 20,472.61 puandan kapattı. 
+     Dün 20,347.82 puanla tarihi rekora ulaşan endeks, bugünkü kapanış değeriyle bu rekoru bir kez daha yeniledi. Borsa bugünkü artışla birlikte üst üste 6. günü de yükselişle tamamlamış oldu. 
+     İlk seanstaki 49.43 puanlık düşüş dikkate alındığında, endeks, günlük bazda 124.79 puan ve yüzde 0.61 yükseldi. 
+     Hisse senetleri piyasasında, toplam 1 katrilyon 431.4 trilyon liralık işlem hacmi kaydedildi. 
+     
+     DÖVİZ 
+     Kapalıçarşı'da dün 1 milyon 324 bin liradan kapanan dolar, güne 1 milyon 325 bin liradan, 1 milyon 617 bin liradan kapanan Euro da 1 milyon 610 bin liradan başladı. 
+     Kapanışta, doların satış fiyatı 1 milyon 327 bin lira, Euro'nun satış fiyatı 1 milyon 611 bin lira oldu. 
+     Merkez Bankası, doların bugünkü efektif kurunu alışta 1 milyon 318 bin 204 lira, satışta 1 milyon 327 bin 477 lira olarak açıkladı. 
+     Böylece dolar, Merkez Bankası'nın dün açıkladığı kurlara göre, alışta 6 bin 660 lira, satışta 6 bin 706 lira yükseldi. 
+     
+     TAHVİL VE BONO PİYASASI 
+     İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda işlem gören 24 Ağustos 2005 vadeli tahvilin, bugün valörlü işlemlerinde basit getiri yüzde 23.65, bileşik getiri yüzde 22.63 oldu. 
+     Bu kağıdın aynı gün valörlü işlemlerinin bileşik getirisi, dünkü kapanışa göre 0.15 puan arttı. 
+     İMKB Tahvil ve Bono Piyasası Repo Pazarı'nda gecelik faiz ise ortalama yüzde 22.00 olarak belirlendi. 
+     
+</TEXT>
+</DOC>

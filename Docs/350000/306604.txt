@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 306604 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/14/son/sonyas09.html </URL>
+<DATE> 2005/01/14/ </DATE>
+<TIME> 10.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dikkat Bu da 'Tetris' virüsü... 
+</HEADLINE>
+<TEXT>
+
+     Microsoft tarafından üretilen Windows bilgisayar işletim sistemi kullanıcıları, yeni ortaya çıkan ve bilgisayar oyunu Tetris'i kullanarak yayılan yeni bir virüs konusunda uyarıldılar. 
+     Cellery adı verilen virüs, erişebildiği bilgisayara Tetris oyununun kullanılabilir bir versiyonunu yüklüyor. 
+     Kullanıcılar oyunu oynarken, virüs, arka planda çalışarak, diğer bilgisayar ağları üzerinde ulaşabileceği bilgisayarlar olup olmadığını tarıyor. 
+     Uzmanlar, fazla yayılmamış olan Cellery virüsünün çok büyük bir güvenlik riski taşımadığını belirtiyor. 
+     Son dönemlerde ortaya çıkan ve elektronik posta mesajlarıyla yayılan virüslerin tersine, bu virüs, etkilediği bilgisayarı aracı olarak kullanarak, aynı ağa bağlı bilgisayarlarda güvenlik açığı olup olmadığını araştırıyor. 
+     Kendisini güvenlik açığı bulunan bir bilgisayara yerleştiren Cellery, kullanıcı Tetris oyununu oynamaya başladığında, bu oyuna eşlik edecek bir müzik dosyasını çalıyor. Bu arada bilgisayar ağı üzerinde de bir tarama başlıyor. 
+     Virüs, bilgisayarlara bir zarar vermiyor. Ancak bu virüsten etkilenen bilgisayar ağlarının çalışması virüsün 'tarama süreci' nedeniyle yavaşlıyor. 
+     Windows işletim sisteminin 95, 98, ME, NT, 2000 ve XP sürümlerinin kullanıldığı bilgisayarların bu virüse karşı açık oldukları belirtiliyor. 
+     Virüsle mücadele şirketi Sophos'un sözcüsü Graham Cluley, "Eğer şirketler, bilgisayar ağlarına oyunlar yüklüyorsa ve çalışanlarının bilgisayar oyunları oynamasına izin veriyorsa, kullanıcılar bu virüsü yeni bir oyun zannedebilirler" uyarısında bulunuyor. 
+     Cellery'den etkilenen bilgisayar sayısının çok fazla olmadığı, yayılma riskinin de düşük olduğu açıklandı. 
+     Sophos ve diğer virüsle mücadele şirketleri, kullanıcıların virüs tarama programlarını güncellemeleri gerektiğini hatırlatıyorlar. 
+     
+</TEXT>
+</DOC>

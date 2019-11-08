@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 242209 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/23/son/sonyas01.html </URL>
+<DATE> 2004/05/23/ </DATE>
+<TIME> 07.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternet, çöp posta işgali altında... 
+</HEADLINE>
+<TEXT>
+
+     Geçtiğimiz yıl istenmeyen reklamları içeren çöp posta niteliğindeki e-postaların gerçek e-postaların sayısını geçtiği ifade edilirken, çöp posta ile mücadele firmaları tarafından verilen bilgilere göre, bu yıl durum çok daha kötüye gitti. 
+     Bu firmalar tarafından sağlanan verilere göre, Nisan ayında çöp posta niteliğindeki e-posta sayısı dünyada dolaşan bütün e-postaların üçte ikisini oluşturur hale gelerek yeni bir rekor kırdı. 
+     E-Posta izleme şirketi MessageLabs Inc.'e göre, durum ABD'de çok daha kötü durumda ve bu ülkede çöp posta oranı beşte dört şeklinde gerçekleşmekte. Şirket, bu rakamları 8500 müşterisine gelen postaları filtreleme sonucu virus ve çöp posta içerikli olanları sınıflandırması sonucu elde ettiğini açıkladı. 
+     ''On iki ay önce çöp postalar sadece yüzde 50'lik baremi geçmişlerdi. Hiç kimse çöp postaların artış hızını koruyabileceğini tahmin etmemişti, ancak arttılar'' diyen MessageLabs'ın pazarlama başkan yardımcısı Biran Czarny, önümüzdeki yıl bu oranın çok daha artarak yüzde 90'lara ulaşabileceği tahmininde bulunuyor. 
+     Benzer bir teknoloji kullanarak günde yaklaşık 200 milyon e-postayı tarayan Postini Inc. firması da ABD Kongresi'nde verdiği bir brifingde benzer sonuçlar sundu. Firma, çoğu ABD'de bulunan müşterilerine gelen e-postaların yüzde 83'ünün çöp posta olduğunu açıklarken, bu oranın ocak ayında yüzde 78 olduğunu kaydetti. 
+     ''Artış trendi devam ediyor'' diyen Postini ürün pazarlama direktörü Andrew Lochart, ''Çöp postacılar yeni hileler ve teknikler geliştirmeyi sürdürüyor'' şeklinde konuşuyor. Bu teknikler arasında, çöp posta filtrelerini aşabilen basit mesajların bulunduğu ifade edilirken, masum insanların evlerinde kullandığı bilgisayarların ''Truva Atı'' programlarıyla ele geçirilerek, sahiplerinin iradesi ve bilgisi dışında çöp posta gönderen bilgisayarlara dönüştürülebildiğine dikkat çekiliyor. 
+     Çöp posta konusunda beşte dörtlük oranıyla en kötü durumda olan ülkenin ABD olduğu kaydedilirken, İngiltere'de bu oranın yüzde 52, Almanya'da yüzde 41, Avusturya'da ise yüzde 32 olduğu ifade ediliyor. 
+     
+</TEXT>
+</DOC>

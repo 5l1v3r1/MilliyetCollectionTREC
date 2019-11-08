@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 207031 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/07/son/soneko15.html </URL>
+<DATE> 2004/01/07/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansta 118 puan kaybetti... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi, önceki kapanışa göre 118.55 puan kayıpla 1. seansı 18,895.29 puandan tamamladı. 
+     Günün ilk seansında hisse senetlerinin ortalama değer kaybı yüzde 0.62 olarak gerçekleşti. 
+     Dün 19,013.84 puandan kapanan Borsa, 1. seansa 30.60 puan kayıpla 18,983.24 puandan başladı. İlk yarıyı 19,055.21 puandan geçen endeks, seans içinde en düşük 18,670.54, en yüksek 19,198.02 puanı gördü. 
+     Seans sonunda mali endeks 213.08 puan kayıpla 26,078.11 puana, hizmetler endeksi 153.81 puan kayıpla 10,003.65 puana gerilerken, sanayi endeksi 18.52 puan artışla 16,467.34 puana yükseldi. 
+     Böylece, önceki kapanışa göre mali grup hisseler ortalama yüzde 0.81, hizmetler grubu hisseler ortalama yüzde 1.51 değer kaybetti, sanayi grubu hisseler ise ortalama yüzde 0.11 değer kazandı. 
+     1. seansta işlem gören toplam 283 hisse senedinden 118'i değer kaybederken, 91 hisse senedi değer kazandı, 74 hissenin fiyatında değişiklik olmadı. 
+     Seansta, 619 trilyon 372 milyar 288 milyon liralık işlem hacmi oluştu. 
+     1. seansta, Yapı Kredi Bankası, Doğan Holding, Garanti Bankası, İş Bankası C ve Sabancı Holding en yoğun işlem gören hisseler oldu. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 314255 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/10/son/sonyas06.html </URL>
+<DATE> 2005/02/10/ </DATE>
+<TIME> 10.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilgisayar işlemcilerinde hız sınırı 54 Ghz 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayar geliştiricileri daha hızlı bilgisayar yapmak için çabalarken, işlemcilerin fiziksel hız sınırı en büyük engel olarak görülüyor. 
+     İşlemcilerin, 13 yıl sonra ve yaklaşık 54 GHZ hızda fiziksel sınıra ulaşacağını öngörüyorlar. 
+     Uluslararası Yarıiletken Teknolojileri Grubu, 2018 yılında işlemcilerin fiziksel olarak sınıra dayanacağını ve 54 GHZ Giga Hertz tıkanacağını öngörüyor. 
+     İşlemci hızları, elektronların iki atom arasında gidip gelme hızıyla doğru orantılı. Mesafe her geçen yıl kısalacak ve 13 yıl sonra elektronun hareket imkanı kalmayacak. 
+     Uzmanlar, manyetikbant teknolojisinden sonra icat edilen CD'lerin Compact Disk veri teknolojilerine kazandırdığı performansın, nano teknolojiler ile bilgisayar hızı anlamında da önemli performans sağlayacağını düşünüyor. Teknolojinin hangi boyutlara ulaşacağını ise zaman ve para gösterecek. 
+     Teknoloji geliştiricileri, fiziksel sınıra gelecek hızlı bir işlemci yerine, aynı işlemciden bir kaç tane yanyana kullanarak hızı artırma planları yapıyor. 
+     Uluslararası Yarıiletken Teknolojileri Grubu'nun öngördüğü işlemci hızları, yıllara göre ortalama şöyle artış gösterecek 
+     
+     
+YIL HIZ GHZ 2005 5,2 2006 6,7 2007 9,2 2008 10,9 2009 12,3 2010 15 2011 17,3 2012 20,6 2013 22,9 2014 27 2015 33 2016 39 2017 45 2018 54 
+     
+</TEXT>
+</DOC>

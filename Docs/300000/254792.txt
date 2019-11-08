@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 254792 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/12/son/soneko31.html </URL>
+<DATE> 2004/07/12/ </DATE>
+<TIME> 15.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ekonomistler Platformu Basel2 gelişmemiş bankaları verimsizleştirecek 
+</HEADLINE>
+<TEXT>
+
+     Ekonomistler Platformu, 2007'den itibaren başta gelişmiş ülkelerde yürürlüğe girecek olan Basel 2 uygulamalarının, yeterince gelişmemiş bankaları verimsiz hale getireceğini bildirdi. 
+     Ekonomistler Platformu, dünyadaki bankacılık sektörü ile ilgili düzenleyici ve denetleyici standartları belirlemek amacıyla oluşturulan Bankacılık Düzenleme ve Denetim Uygulaması Komitesi Basel Komitesi tarafından hazırlanan ''Basel 2'' uygulamasıya ilgili bir rapor yayınladı. 
+     Raporla ilgili olarak yapılan yazılı açıklamada, Basel 2 uygulamasının hayata geçirilmesinin dünyadaki en büyük 3 bin bankaya yaklaşık 23 milyar euroya mal olacağının tahmin edildiği kaydedildi. 
+     Raporda, Türkiye gibi gelişmekte olan ülkelerde temel kredi riski kriteri olarak OECD üyeliğinin esas alınmasına son verilmesinin maliyetlerin yükselmesine neden olacağı da vurgulandı. 
+     Söz konusu uygulama ile genel olarak küresel bankacılık sektöründe ve finansal piyasalarda istikrarın, piyasalardaki disiplinin, şeffaflığın ve rekabetin artırılarak güven ortamının sağlanmasının amaçlandığının belirtildiği raporda, şöyle denildi 
+     ''Yeterince gelişmemiş bankalar, yeni sisteme finansal yetersizlik ve teknik eksiklikler nedeniyle kolayca uyum sağlayamayacakları için gereğinden fazla sermaye ayırarak daha verimsiz duruma düşeceklerdir. Basel kararlarının olumlu etkisi ise temelde risk ağırlığındaki önemli indirimler yüzünden bireysel kredilerde hissedilecektir. Kendi iç modellerini kurmak isteyen bankalarımız en az 3 yıllık kredi ve operasyonel kayıp veri tabanını oluşturmak zorundadır. Bunun için de teknoloji altyapısının geliştirilmesi ve sağlıklı bir veri tabanı yönetim sisteminin oluşturulması gerekmektedir.'' 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 162475 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/11/son/soneko38.html </URL>
+<DATE> 2003/06/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa kapanışta 61.87 puan yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Bileşik Endeksi, 2. seansta 61.87 puan artarak 10,597.31 puandan kapandı. 
+     Hisse senetleri, ikinci seansta ortalama yüzde 0.59 oranında değer kazandı. 
+     İlk seanstaki 109.30 puanlık kayıp dikkate alındığında, borsa endeksi günün tamamında 47.43 puan azaldı. Hisse senetlerindeki günlük düşüş ise yüzde 0.47 oldu. 
+     Seansa 11.42 puan kayıpla 10,524.02 puandan başlayan endeks, ilk yarıyı 41.45 puan kayıpla 10,493.99 puandan geçti. Seans içinde en düşük 10,441.09 puanı gören endeks, ulaştığı en yüksek seviye olan 10,597.31 puandan kapandı. 
+     Kapanışta mali endeks 69.73 puan artışla 12,475.04 puana, sanayi endeksi 52.08 puan artışla 11,096.00 puana, hizmetler endeksi 42.14 puan artışla 6,731.48 puana yükseldi. 
+     Böylece ilk seansa göre mali grup hisseler ortalama yüzde 0.56, sanayi grubu hisseler ortalama yüzde 0.47, hizmetler grubu hisseler ise ortalama yüzde 0.63 değer kazandı. 
+     2. seansta işlem gören toplam 291 hisse senedinden 137'si değer kazandı, 83'ü değer kaybetti, 71'inin fiyatında değişiklik olmadı. 
+     Seansta, 158 trilyon 178 milyar 440 milyon liralık işlem hacmi kaydedildi. İki seanstaki toplam işlem hacmi 284 trilyon 357 milyar 732 milyon lira olarak gerçekleşti. 
+     2. seansta İş Bankası C , Yapı Kredi Bankası, Tüpraş, Garanti Bankası ve Turkcell en yoğun işlem gören hisse senetleri olarak belirlendi. 
+     
+</TEXT>
+</DOC>

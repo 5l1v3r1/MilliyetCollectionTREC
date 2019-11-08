@@ -1,0 +1,59 @@
+<DOC>
+<DOCNO> 146449 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/03/31/guncel/gun99.html </URL>
+<DATE> 2003/03/31/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sitemizin tasarımı niye değişti 
+</HEADLINE>
+<TEXT>
+
+     Milliyet.com.tr'nin tasarımı, geçtiğimiz hafta önemli ölçüde yenilendi. 
+     Sitemizin yeni halini kimileri çok beğendi, kimileri eleştiri yağmuruna tuttu. 
+     Beğenenler, tasarımla sitenin ana sayfasının daha canlı ve iç açıcı hale geldiğini söylüyordu. 
+     Beğenmeyenler ise iç kapadığını... 
+     Aslında eleştirilerin temel noktası, yeni tasarımla birlikte sitenin daha güç yüklendiği, daha geç açıldığı idi. 
+     Peki sitenin tasarımı niye değişti.. 
+     Rakiplerimiz TV ve gazeteler. 
+     Onlara karşı üstün olduğumuz tarafların altını çizmeye çalıştık. Örneğin foto kalitesini artırıp, sayfada daha belirgin hale getirmek için koyu zemine geçtik. 
+     Görsel olanı gazeteden çok daha fazla okurla buluşturmayı hedefledik. Ama okurları boğmamak için lacivertle uyumlu açık renk tonlara da yer verdik. 
+     Haber ve başlıkların daha çarpıcı olması için beyaz ve sarı renkleri seçtik. Zamanlama rastgele değil. Savaş dolayısıyla karamsarlığın arttığı bu dönemde hayata asılmanın önemini böyle göstermek istedik. 
+     
+     Aslında tasarımın değiştiği gün, aynı anda, ek olarak bir server daha hizmete girdi. Site hızlandırıldı. 
+     Ana sayfanın ağırlığı yeni tasarımda daha da azaltıldı, ama değişimin olduğu ilk gün aynı anda 25 bin bağlantı oldu, bu kadar insan siteye bağlanmaya çabaladı. 
+     Bu durum öğleden sonra saatlerine kadar sürdü. Haber siteleri bakımından dünyada az rastlanan bir durum. Teknik sorunları giderdik. Şimdi eskisinden de hızlı bir buluşma söz konusu... 
+     Eleştiriler çok yararlı. Kuşkusuz o yönde tasarımda rötuşlar yapacağız. 
+     
+
+
+GÜNCEL 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 130716 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/01/14/son/sondun02.html </URL>
+<DATE> 2003/01/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İntel, dizüstü bilgisayarların fiyatını indirdi... 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın en büyük bilgisayar işlemcisi üreticisi İntel firması, dizüstü bilgisayarlarda kullanılan işlemcilerin fiyatlarında indirime gitti. 
+     Yüzde 10-38 arasında değişen indirimin dizüstü bilgisayar fiyatlarında ucuzluğa yol açması bekleniyor. 
+     Öte yandan, İntel'in, en yeni ve süper hızlı dizüstü işlemcileri olan ''Centrino işlemci paketini'' Temmuz ayından önce piyasaya çıkaracağı bildirildi. Bu işlemcilerin, telsiz ağ yazılımıyla wireless networking software çalışacağı belirtildi. 
+     Pentium-4 kuşağı 2.2 GHZ hızındaki dizüstü işlemcilerinin fiyatının yüzde 38 düşürülerek 348 dolara indirildiğini belirten İntel yetkilileri, diğer indirimleri de şöyle açıkladılar 
+     2.0 GHZ hızındaki işlemciler yüzde 31 indirimle 241 dolar 1.9 GHZ hızındaki işlemciler yüzde 18 indirimle 198 dolar ve 1.8 GHZ hızındaki işlemciler yüzde 14 indirimle 171 dolar. 
+     Bu arada, pentium-3 kuşağı işlemcilerin fiyatlarının da 1.0 GHZ hızındakiler için 241 dolara, 933 MHZ hızındakiler için ise 198 dolara indirildiği belirtildi. 
+     İntel, Celeron işlemcilerin fiyatlarında da önemli çapta indirim yaptı. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

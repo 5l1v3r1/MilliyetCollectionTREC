@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 270806 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/11/dunya/dun02.html </URL>
+<DATE> 2004/09/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Türk'ten, suda yürüyen robot 
+</HEADLINE>
+<TEXT>
+
+
+
+Carnegie Mellon Üniversitesi'nden Doçent Metin Sitti, suda yürüyen bir robot üretti. 15 cm boyunda olan ve 5 cm.'lik bacakları bulunan robot, üzerine takılacak bir sensörle su kaynaklarının temizliğini ve zehir durumunu inceleyebilecek. 
+
+
+</TEXT>
+</DOC>

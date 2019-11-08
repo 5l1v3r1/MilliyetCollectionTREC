@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 311630 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/02/son/sondun28.html </URL>
+<DATE> 2005/02/02/ </DATE>
+<TIME> 15.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Her yıl bir milyon çocuk önlenebilir hastalıklardan ölüyor 
+</HEADLINE>
+<TEXT>
+
+     Dünya çapında her yıl bir milyondan fazla çocuğun önlenebilir hastalıklar yüzünden öldüğü bildirildi. 
+     Küresel Aşı ve Bağışıklık Birliği, 5 yaşın altındaki 1,3 milyon çocuğun, akut zatürree, Japon ensefaliti beyin iltihabı gibi aşıyla önlenebilecek hastalıklardan yaşamını yitirdiğini söyledi. 
+     Birlikten Hans Kvist, bu ölümlerin büyük bölümünün az gelişmiş ülkelerden, yarısının Asya'dan olduğunu belirtti. 
+     Standart ishal tedavilerinin virüslere karşı başarılı olamadığını kaydeden Birlik yetkilileri, bu hastalıkla yalnızca aşının başa çıkabileceğini bildirdiler. 
+     Sivrisineklerin yaydığı virüslerin yol açtığı bir hastalık olan Japon beyin iltihabının, Asya'da çocuk felcinden sonra sakatlığın en başta gelen nedeni olduğu belirtildi. 
+     Kvist, Asya'da çocuk ölümleri sorununu tsunami felaketinin kurbanlarının sayısıyla karşılaştırarak, dünya çapında bir yılda ölen çocuk sayısının tsunami felaketinde ölenlerin sayısından 4 kat fazla olduğuna dikkat çekti. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> 204121 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/24/son/sondun06.html </URL>
+<DATE> 2003/12/24/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+''Deli Dana'' ABD'ye de sıçradı 
+</HEADLINE>
+<TEXT>
+
+     Amerikan Tarım Bakanlığı, Washington eyaletinde deli dana hastalığına rastlandığını doğruladı. 
+     ABD Tarım Bakanı Ann Veneman, düzenlediği basın toplantısında, bir Holstein ineğinde rastlanan hastalığın, ABD'deki ilk vaka olduğunu söyledi. 
+     Veneman, ABD'nin gıda kaynaklarının güvenilirliğinden emin olduklarını ifade ederek, insan sağlığı için riskin çok az olmasına rağmen gerekli bütün önlemleri alacaklarını kaydetti. 
+     Veneman, vakanın incelendiğini belirterek, 9 Aralık'ta hayvandan alınan örneğin askeri bir uçakla daha ileri testler yapılması için İngiltere'deki bir laboratuvara gönderildiğini söyledi. 
+     Vakanın rastlandığı çiftliğin karantinaya alındığını ifade eden Veneman, ''bu olayda elde ettiğimiz bilgiler ışığında bunun terörizmle alakası olmadığını belirtirim'' dedi. 
+     
+     FAST FOOD HİSSE SENETLERİ DÜŞTÜ 
+
+     Bazı lokanta zincirlerinin hisse senetleri düştü. 
+     Hastalığın ortaya çıktığı resmi makamlarca doğrulanır doğrulanmaz McDonalds gibi fast-food lokanta zincirlerinin borsadaki hisse senetlerinde ani düşüşler görüldü. 
+     Amerikan canlı hayvan yetiştiricileri, ülkede deli dana hastalığının başgöstermesinden çok korkuyorlardı. Hastalığın yayılması halinde hayvan üreticilerinin milyarlarca dolar zarara uğrayacakları belirtiliyor. 
+     DELİ DANA İLE İLGİLİ GERÇEKLER 
+     Halk dilinde deli dana olarak bilinen, bilimsel adı ''bovine spongiform encephalopathy'' BSE olan hastalık yüzünden 1980'li ve 90'lı yıllarda İngiltere'de milyonlarca hayvan itlaf edilmişti. 
+     Hastalığa ilk olarak 1985 yılında siyah-beyaz mandıra ineğinde rastlandı. Belirtilileri ise hayvanda sersemleşme, diğer sığırlara tos vurma ve diğer hayvanlardan ürkmeydi. 
+     İngiltere, BSE gerekçesiyle 1980'li ve 90'lı yıllarda 3.7 milyon sığırı öldürdü. İngiliz yetkililer, 1986 ila 2002 yılları arasında 181 binden fazla BSE vakasına rastlandığını doğruladılar. 
+     Deli dana hastalığı, Creutzfeldt-Jakob disease CJD denilen türünü içeren etlerin yenilmesi suretiyle insanlara geçebiliyor. CJD yüzünden çoğu İngiltere'de olmak üzere, Fransa, İtalya, İrlanda, Kanada ve ABD'de 137 kişi ölmüştü. 
+     Dünya üzerinde halen CJD taşıyan 6 hastanın yaşamını sürdürdüğü bildirilirken, İngiltere'de son iki ay içinde yeni CJD vakasına rastlanmadığı belirtiliyor. İngiltere'de hastalığın bittiği öne sürülürken, bu ay İngiliz sağlık yetkilileri 1997 yılında ameliyat sırasında kan verilen bir adamda CJD'nin geliştiğini ve bu kişinin daha sonra öldüğünü açıkladılar. 
+     Bilim adamları, hastalığın CJD formunun insanlarda doğal olarak bulunduğunu, genetik değişime uğranılması durumunda hastalığın insanlarda ortaya çıkma olasılığının milyonda bir olduğunu ifade ediyorlar. 
+     İnsanlara kan ve doku ürünleri kullanımı yoluyla bulaşabilen BSE nedeniyle ABD 1980'li ve 90'lı yıllarda İngiltere'de yaşayan kişilere kan bağışı yapma yasağı getirmişti. 
+     BSE, ithal edilen sürüler vasıtasıyla Avusturya, Belçika, Çek Cumhuriyeti, Danimarka, Finlandiya, Fransa, Almanya, Yunanistan, İrlanda, İsrail, İtalya, Japonya, Liechtenstein, Lüksemburg, Hollanda, Polonya, Portekiz, Slovakya, İspanya ve İsviçre'ye yayılmıştı. 
+     ABD ve Kanada, İngiltere'de ortaya çıkan salgınlar sırasında et ithalatını durdurmaya çalışmıştı. İki ülkede rastlanan CJD vakalarının tamamı İngiltere'de yaşamış insanlarda çıkmıştı. 
+     Bilim adamları, bir koyun hastalığı olan scrapie ile yakın benzerlik taşıyan BSE'nin İngiltere'de ortaya çıkmasına sebep olarak, sığırlara scrapie bulaşmış koyunların kalıntılarının hayvan yemi olarak yedirilmesini gösteriyorlar. 
+     BSE, scrapie, CJD ve benzer hastalıkların prion denilen hastalıklı protein parçalarının canlılara geçmesiyle ortaya çıktığı bildiriliyor. Ne yaşayan bir organizma ne de virüs olan bu şekilsiz protein parçacığı, kendisini ölümcül protein türlerine dönüştürebiliyor. 
+     BSE, scrapie, CJD ve benzer hastalıklar için belirli bir iyileştirme ve tedavi şekli ise bulunmuyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 304037 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/06/son/soneko39.html </URL>
+<DATE> 2005/01/06/ </DATE>
+<TIME> 13.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft, büyük şirketlerle büyük ittifaklar kuruyor... 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın en büyük bilgisayar yazılım firması Microsoft, dijital eğlence pazarındaki payını artırmak için başka şirketlerle bir dizi işbirliği ve ittifaka hazırlanıyor. 
+     Microsoft Başkanı Bill Gates, Las Vegas'ta katıldığı Tüketici Elektronik Şov konferansında yaptığı konuşmada, Microsoft olarak kişisel bilgisayar aracılığıyla iletişim ve medya teknolojilerini bir araya getirmek için 12 yıldır sarf ettikleri gayretlerin semeresini vermeye başladığını söyledi. 
+     Gates, Microsoft'un Media Center PC adıyla geliştirdiği yeni Windows versiyonunun televizyon bağlantısıyla bilgisayar kullanıcılarına sayısal ortamda film izleyip müzik dinleme ve fotoğraf alış verişinde bulunma olanağı tanıdığını hatırlatarak, gelecek yılların bu alanda yeni ve yaratıcı gelişmelere tanık olacağını belirtti. 
+     Gates, Microsoft'un bilgisayar aracılığıyla eğlence sektörünü geliştirmek için aralarında televizyon alanında MTV, telefonda BellSouth ve fotoğrafçılık alanında Fuji Photo gibi dev şirketlerin de bulunduğu çok sayıda şirketle ortaklıklar ve ittifaklar oluşturduğunu da bildirdi. 
+     
+</TEXT>
+</DOC>

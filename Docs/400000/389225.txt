@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 389225 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/24/son/soneko34.html </URL>
+<DATE> 2005/10/24/ </DATE>
+<TIME> 16.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+KOBİ'ler internete olumlu bakıyor... 
+</HEADLINE>
+<TEXT>
+
+     KOBİ'lere yönelik çözümler sunan TURKTICARET.Net'in, 62 ilden yaklaşık bin üyesiyle gerçekleştirdiği anket sonucunda, yeni Türk Ticaret Kanunu Taslağı'nın şirketlere web sitesi kurma zorunluluğu getirmesi konusuna KOBİ'lerin olumlu baktığı belirlendi. 
+     TURKTICARET.Net'ten yapılan yazılı açıklamada, ankete göre KOBİ'lerin yüzde 68'i, kanun taslağının internet alanında getireceği zorunluluğun olumlu etkileri olacağına inandığı kaydedildi. 
+     Ankette, katılımcıların yüzde 27'sinin web sitesi kurma mecburiyeti getirilmesinin ticaretin daha sağlıklı şekillenmesine, yüzde 11'inin ise şeffaflığın hızlanmasına yardımcı olacağını belirttiği aktarıldı. 
+     KOBİ'lerin yüzde 8'inin bu uygulamanın rekabeti yoğunlaştıracağını ve bu sayede ürünle hizmet kalitesinin yükseleceğini düşündüğü aktarılan açıklamada, KOBİ'lerin yüzde 22'sinin web sitesi kurma zorunluluğunun yurtdışına açılmayı hızlandıracağına inandığı belirtildi. 
+     Ankete katılan KOBİ'ler arasında site kurmanın pratikte bir işlevi olmayacağını söyleyenlerin oranı ise yüzde 4, taslağın bu haliyle yasalaşacağına inanmadıklarını ifade eden üyelerin oranının ise yüzde 17 olduğu kaydedildi. 
+     
+</TEXT>
+</DOC>

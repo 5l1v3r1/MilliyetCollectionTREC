@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 192986 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/11/03/son/sondun09.html </URL>
+<DATE> 2003/11/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternet Ölü web siteleri mezarlığı 
+</HEADLINE>
+<TEXT>
+
+     En hızlı ve yeni bilgilere erişimi sağlayan internetin aynı zamanda ölü ve terk edilmiş web siteleri mezarlığı olduğu ortaya çıktı. 
+     Konuyu araştıran uzmanlar, ''milyonlarca insanın yaşadıkları deneyimleri ya da ilgilendikleri konuları herkesin bilgisine sunabilmek amacıyla internette web siteleri oluşturduklarını, ancak daha sonra ilgilerini kaybederek, ya da başka nedenlerden dolayı sitelerini yenilemekten vazgeçtiklerini'' belirttiler. 
+     İnternetteki 3634 siteyi kapsayan bir araştırma, bunların üçte ikisinin en az 2 aydır yenilenmediklerini, dörtte birinin ise yapıldığı gibi kaldıklarını ortaya koydu. 
+     ''Perseus Development Corp.'' adlı kuruluşun teknoloji görevlisi Jeffrey Henning, ''Bazı sitelerin yapımcıları 'şu sıralar çok meşgulüm fakat en kısa zamanda sitemi yenileyeceğim' gibi mesajlar yayınladıkları halde hiçbir zaman sitelerini yenilemiyorlar'' diye konuştu. 
+     
+     GARİP SİTELER 
+     Bu şekilde kendi kaderine terk edilmiş siteler arasında hayli garip olanlar da var. Bunlardan biri olan ''Massachussets 2000 yılı sitesi'', hala vatandaşları gıda maddesi ve içecek stoklamaya ve ATM makinelerinin çalışmamaları olasılığına karşı bankadan nakit para çekmeye davet ediyor. 
+     Buna karşılık İgor Sidorkin adlı bir web sitesi yöneticisinin oluşturduğu ''Y2K'' 2000 yılı sitesi adlı siteyi hala günde 30 dolayında kişinin ziyaret ederek, 4 yıl önce indirmeleri gereken yamaları indirdikleri saptandı. 
+     Kendi kaderine terk edilen siteler arasında seçim ve benzeri şeyler için açılan kampanya siteleri önde geliyor. 
+     Uzmanlar, bu site mezarlıklarının, internette yapılan araştırmaları zorlaştırdığı konusunda görüş birliği içindeler. 
+     Sitelerin terk edilmesinin bir başka nedeni ise para. Çünkü bedava internet alanı veren kuruluşların dışında site oluşturanlar bunlar için her yıl belli bir ücret ödemek zorundalar. Bunu yapmak istemeyenler kurdukları siteleri devam ettirmeyerek terk ediyorlar. 
+     
+</TEXT>
+</DOC>

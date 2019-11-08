@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 398160 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/26/son/sondun07.html </URL>
+<DATE> 2005/11/26/ </DATE>
+<TIME> 07.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Çin'de 5.7'lik deprem 14 kişi öldü... 
+</HEADLINE>
+<TEXT>
+
+     Çin'in orta kesiminde Richter ölçeğine göre 5.7 büyüklüğünde meydana gelen depremde ölenlerin sayısının 14, yaralıların sayısının 377 olduğu bildirildi. 
+     Resmi Şinhua haber ajansı, depremde toplam 1,300 odalı evin yıkıldığını ve 129 bin odanın zarar gördüğünü de kaydetti. 
+     Çin'de depremin binalara verdiği zararın, yapı olarak değil oda olarak hesaplandığı belirtildi. 
+     Öte yandan, ABD Ulusal Deprem Bilgi Merkezi, depremin Richter ölçeğine göre 5.5 büyüklüğünde kaydedildiğini bildirdi. 
+     
+</TEXT>
+</DOC>

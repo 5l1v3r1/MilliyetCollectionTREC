@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 357302 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/01/son/sondun40.html </URL>
+<DATE> 2005/07/01/ </DATE>
+<TIME> 20.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Pakistan'da 5.5 büyülüğünde deprem... 
+</HEADLINE>
+<TEXT>
+
+     Pakistan’ın kuzeybatısında Richter ölçeğine göre 5.5 büyüklüğünde deprem meydana geldi. 
+     İlk bilgilere göre, depremde can ya da mal kaybı olmadı. 
+     Pakistan haber ajansı APP, depremin merkez üssünün Peşaver’in yaklaşık 300 kilometre kuzeyi olduğunu duyurdu. 
+     Peşaver, yaklaşık 2 hafta önce de Richter ölçeğine göre 5.3 büyüklüğündeki depremle sallanmıştı. 
+     Pakistan’da orta büyüklükte depremler sık meydana geliyor. 
+     
+</TEXT>
+</DOC>

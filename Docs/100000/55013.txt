@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> 55013 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/12/01/yasam/yas02.html </URL>
+<DATE> 2001/12/01/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Virüsler şimdi de cep’e dadandı... 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayarların baş düşmanı virüsler, cep telefonlarına da musallat oldu. 
+     Bu konuda düzenlenen Black Hat’ adlı konferansta www.blackhat.com , cep telefonlarının da bilgisayar virüslerinin kurbanı olabileceği kanıtlandı. Bu amaçla konferans sırasında yapılan bir saldırı denemesinde, ITSX adlı şirket uzmanlarından Job de Haas, sms - client’ adlı bir yazılımla SMS mesajı kısa mesaj gönderdiği cep telefonunu bir daha açılamayacak şekilde kilitledi. Telefonu kurtarabilmek için ya yeni bir SIM kartı takmak ya da bir SMS yönetim yazılımı ile telefondaki SMS mesajını silmek gerekiyor. Sms - client’ adlı yazılımın internet üzerinden gönderilmesi de, saldırının kaynağını gizliyor. Bu nedenle belli başlı GSM şirketleri, her türlü yazılım boşluğunu kapatma amacıyla, yazılımlarını kontrol etmeye başladı bile.. 
+     
+
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

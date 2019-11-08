@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 358032 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/04/son/soneko17.html </URL>
+<DATE> 2005/07/04/ </DATE>
+<TIME> 11.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bankalar İBAN'a geçiyor 
+</HEADLINE>
+<TEXT>
+
+     Avrupa Birliği AB ülkelerinde zorunlu olarak kullanılan uluslararası banka hesap numarası IBAN 
+     uygulamasına Türkiye’deki bankalar 1 Eylül 2005 tarihinden itibaren başlayacaklar. Türkiye Bankalar Birliği TBB , yaptığı yazılı açıklamayla, Uluslararası Standartlar Kuruluşu ISO trafından geliştirilen ve 33 ülkede kullanılan IBAN standartına uygun hesap numaralarına ilişkin bankaların geçiş sürecini 1 Eylül 2005 tarihine kadar tamamlayacakları bildirildi. Bu tarihten itibaren talep eden müşterilere IBAN verilerek, gelen ve giden havalelerle ilgili işlemler IBAN ile yapılabilecek. 
+     
+     HATA VE MALİYET AZALACAK 
+     TBB’nin açıklamasında, IBAN’in kullanımı ile yurtdışı ve yurtiçi para transfer işlemlerinin daha ekonomik ve hızlı bir şekilde gerçekleştirileceği belirtilirken, şöyle denildi 
+     "Para transferlerindeki hatalar ve bu hatalardan kaynaklanan gecikmeler büyük oranda azaltılacaktır. IBAN kullanılarak transfer edilen para daha hızlı bir biçimde göndericinin hesabından alıcının hesabına geçmektedir. 
+     Böylece, işlemlerde oluşabilecek muhtemel hatalardan kaynaklanan bekleme süreleri ve ek maliyetler ortadan kalkmaktadır." Açıklamada, IBAN-Türkiye standardının 30 Mayıs 2005 tarihinde Avrupa Bankacılık Standartları Komitesi’ne bildirildiği ve ülke standartlarının yayınlandığı ECBS web sitesinde yayınlandığı kaydedildi. 
+     
+     IBAN NASIL İŞLİYOR 
+     Banka hesap numaralarının her biri için hesap sahiplerine bir IBAN verilecek. Dünyadaki tüm banka hesapları içinde yalnızca bir hesabı işaret eden IBAN rakam ve harflerden oluşacak. En fazla 34 basamaktan oluşabileceği öngörülen IBAN’in uzunulğu Türkiye için 26 hane olarak belirlendi. 
+     IBAN’in ilk 4 hanesi 2 haneli ülke kodu ve iki haneli kontrol rakamından oluşacak, kalan kısmı da ulusal banka hesap numarasını içerecek. Türkiye’nin IBAN’i, ülke kodu "TR", kontrol basamakları "56", 5 haneli banka kodu, rezerv alan olarak bir hane ve 16 haneli hesap numarasından oluşacak. 
+     
+</TEXT>
+</DOC>

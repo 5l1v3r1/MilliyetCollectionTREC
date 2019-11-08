@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 212210 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/30/son/soneko38.html </URL>
+<DATE> 2004/01/30/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Cep mesajını göster, konsere gir 
+</HEADLINE>
+<TEXT>
+
+     Mobil Bilet ve Kupon Sistemleri MOBİLX, satış, promosyon ve belirli bilgilere ulaşma konusunda cep telefonlarına yeni bir işlev yüklüyor. 
+     Artık sadece cep telefonuna gelen bir mesajı göstererek bir konsere girmek veya bir firmanın indiriminden yararlanmak mümkün olacak. 
+     Mobil Bilet ve Kupon Sistemleri MOBİLX, basılı materyallere gerek kalmadan promosyon indirim kuponlarının ya da konser, sinema, maç gibi her türlü etkinlik biletlerinin SMS yoluyla cep telefonuna aktarılmasını sağlıyor. 
+     Mobil ticaretin, perakende ve eğlence sektöründeki payının artmasından hareketle tasarlanan MOBİLX'in, pazarlama teknolojisinin ulaştığı son nokta olarak tanımlandığı bildirildi. 
+     
+</TEXT>
+</DOC>

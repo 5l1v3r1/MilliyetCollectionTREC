@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 324200 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/16/son/sonyas28.html </URL>
+<DATE> 2005/03/16/ </DATE>
+<TIME> 17.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Trafik ışıklarını değiştiren cihaz internetten satışa çıkınca... 
+</HEADLINE>
+<TEXT>
+
+     ABD'de trafik ışıklarını değiştirebilen cihazın internetten satışı yetkilileri endişeye düşürdü. 
+     Bazı web sitelerinin ''Trafik ışığını saniyesinde kırmızıdan yeşile dönüştürün '', ''Artık kavşakları kontrol edebilirsiniz '' sloganıyla ve ambulans ile itfaiye gibi ilk yardım personelinin kullanmasına izin verilen cihazı çok düşük fiyata halka satmaları, yetkilileri düşündürüyor. 
+     ABD'nin ''3M'' mağazasında normalde fiyatı 1000 dolar olan cihaz internet sitelerinde 200 dolardan ucuza satılıyor. 
+     Mobil kızılötesi radyo vericisi bulunan cihaz yaklaşık 50 metre mesafeden trafik ışıklarını kırmızıdan yeşile çevirebiliyor. 
+     Birçok web sitesi cihazı ilkyardım personeline yönelik pazarladığını açıklarken, bazıları cenaze araçları, gönüllü itfaiye kuruluşları ve özel detektiflerin de bu cihazı satın alabileceğini belirtiyor. 
+     Amerikalı yetkililer, cihazın yanlış ellere geçmesinden endişe ettiklerini belirterek, trafik ışıklarını değiştirme cihazının siviller tarafından kullanımının yasalara aykırı olduğunu kaydediyor. 
+     Cihazın satışının yasaklanması ve yasadışı kullanımına büyük cezalar getirilmesi için bazı senatörlerin harekete geçtiği bildiriliyor. 
+     Cihaz kullanıldığında ve kırmızı ışık yeşile dönüşmeden hemen önce kavşağın diğer yönüne sarı ışık, ardından da kırmızı talimatı veriyor. Sonrasında ilkyardım aracına yeşil ışık yanmasını sağlıyor. 
+     
+</TEXT>
+</DOC>

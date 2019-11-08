@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 383702 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/03/son/sonyas19.html </URL>
+<DATE> 2005/10/03/ </DATE>
+<TIME> 17.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yahoo sanal kütüphane kuruyor 
+</HEADLINE>
+<TEXT>
+
+     Yahoo sanal alemde ''kıran kırana'' rekabet ettiği Google'a karşı bir adım öne geçmek için kuracağı ''sanal kütüphaneyle'' yüz binlerce kitap ve akademik çalışmayı tam metin olarak internette yayımlamayı planlıyor. 
+     Kullanıcılarının ücretsiz olarak faydalanacağı hizmet sayesinde Yahoo'nun, aynı konuda benzer bir projeyi henüz hayata geçirmeyi başaramayan Google'a büyük darbe vuracağı belirtiliyor. 
+     Kitapların, akademik çalışmaların, görüntü ve ses kayıtlarının dijital versiyonlarını sağlamak üzere, birçok kuruluşun da Yahoo'ya destek verdiği kaydediliyor. 
+     Yahoo'da tam metin olarak yayımlanacak malzemeler arasında, telif hakları yayıncılar ve yazarlar tarafından gönüllü olarak verilen yayınlar da bulunacak. 
+     Yahoo'nun sanal kütüphane kurma projesindeki diğer ortakları arasında ise Adobe Systems, Hewlett-Packard, Internet Archive, O'Reilly Media, California ve Toronto üniversiteleri de yer alacak. 
+     Yahoo, bu yayınlara ulaşılmasını sağlamak için ''www.opencontentalliance.org'' sitesine bir arama motoru koyacak, ancak yapılacak listeleme ve endeksler sayesinde, bu sitedeki bütün yayın ve kitaplara, Google da dahil olmak üzere diğer arama motorları aracılığıyla da ulaşılabilecek. 
+     Yahoo'nun, yayıncısı ya da yazarı tarafından açıkça telif hakkı verilmemiş hiçbir eseri yayımlamayacağı belirtilirken, Google'ın da Harvard, Stanford ve Michigan üniversiteleriyle işbirliği içinde, telif hakkı için 1 Kasım'a kadar itiraz edilmemiş milyonlarca kitabın endekslerini yayımlayacağı kaydedildi. 
+     Telif haklarını ihlal ettiği gerekçesiyle uzun zamandır hukuki sorunlarla karşı karşıya bulunan Google hakkında, son olarak 8 bin civarında yazarı temsil eden Yazarlar Birliği tarafından dava açılmıştı. 
+     Google ise endekslerinde kullanıcılarına sadece kısa özetlerin verildiğini ifade ederek, bunun telif haklarını ihlal etmediği savunmasında bulunmuştu. 
+     
+</TEXT>
+</DOC>

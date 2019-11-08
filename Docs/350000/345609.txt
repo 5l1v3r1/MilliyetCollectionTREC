@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 345609 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/25/son/sondun20.html </URL>
+<DATE> 2005/05/25/ </DATE>
+<TIME> 13.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Moskova'da metro seferleri durdu, cep telefonları kesildi 
+</HEADLINE>
+<TEXT>
+
+     Rusya’nın başkenti Moskova’nın güneyindeki enerji santrali arızalanınca, kentteki metro seferleri durdu, cep telefonları kesildi. 
+     Rus haber ajansları, santraldeki arızaya neyin yol açtığının belirlenemediğini kaydederek, santralin onarılması için çalışmaların aralıksız sürdürüldüğünü duyurdular. 
+     Ajanslar, elektriğin kesilmesi üzerine metrodaki seferlerin tamamen durduğunu ve kesinti sırasında yolda kalan vagonlardaki vatandaşların tahliyelerinin sürdüğünü belirttiler. 
+     Yetkililer, kimisi yerin 70 metre altında olan istasyonlarda bulunanların yürüyen merdiven ve asansörlerin çalışmaması yüzünden yürüyerek çıkmak zorunda kaldığını açıkladılar. 
+     Elektrik kesintisinden hastaneler, trafik ışıkları ve cep telefonları şirketleri de etkilenirken, birçok ev ve işyerinde suların kesildiği kaydedildi. 
+     Elektrik kesintisi Moskova’nın güneyinin yanı sıra tüm Tula bölgesinde etkili olurken, Tula-Moskova tren seferlerinin de iptal edildiği açıklandı. 
+     Birleşik Enerji Sistemleri sözcüsü Tatyana Milyayeva, İnterfaks ajansına yaptığı açıklamada, Moskova’nın bazı bölgelerindeki arızaların giderildiğini söyledi. 
+     Moskova’nın güneyindeki enerji kesintisinin Mosenergo şirketine ait bir santralin çökmesinden kaynaklandığını belirten Milyayeva, "Çagino şubesindeki enerji iletim hatlarından birinin kesilmesi üzerine otomatik güvenlik sistemi devreye girdi. Bu, elektrik şebekesine aşırı yüklenmeyi önlemek için düşük voltajlı elektrik verilmesine neden oldu" diye konuştu. 
+     Rusya Sanayi ve Enerji Bakanı Viktor Hristenko da Rus parlamentosunun alt kanadı Duma’da yaptığı açıklamada, elektrik kesintisinin Mosenergo şirketine ait bir santralde önce patlamaya, ardından da yangın çıkmasının yol açtığını söyledi. 
+     Patlama ve yangının enerji nakil hatlarının otomatik olarak kesilmesine neden olduğunu belirten Hristenko, "Abonelerimizin çok büyük bölümü elektriksiz kaldı" diye konuştu. 
+     
+</TEXT>
+</DOC>

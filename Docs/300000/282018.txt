@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 282018 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/21/ekonomi/eko02.html </URL>
+<DATE> 2004/10/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bankalarda endişe 
+</HEADLINE>
+<TEXT>
+
+
+Ziraat Bankası'nda bilgisayarların çökmesinin ardından eğer yeni sistem de çalışmazsa bankalar arasında 'yeni tür bir kriz'in çıkabileceği belirtiliyor 
+
+AHMET ERHAN ÇELİK Ankara 
+
+Ziraat Bankası'ndaki yeni bilgisayar sisteminin 3 gündür tam olarak işletilememesi yoğun spekülasyonlara neden oluyor. Ziraat Bankası Genel Müdürü Can Akın Çağlar, "Perşembe sabahı bugün sistemin tam olarak çalışmaya başlayacağını ümit ediyoruz" dedi. "Yeni sistem çalışmazsa ne olacak " sorusuna açık yanıt verilemediği için mali piyasalarda bilişim teknolojisine dayanan "yeni tür bir kriz" çıkabileceği iddiaları gündeme getiriliyor. 
+Ziraat yönetimi önceki gece tam kadro toplanarak bilgisayar arızasının nasıl giderileceğini değerlendirdi. Teknik heyetin verdiği bilgilere göre sorun Microsoft firması tarafından 608 şubede oluşturulan bilgisayar mimarisinin 493 şubede uygulama yapan Oracle firmasının sistemine uyumlu hale getirilmesi sırasında yaşandı. 608 şube Oracle sistemine bağlanınca, mudilerin para hareketleriyle ilgili tablolar sistem içinde dağıtılamaz hale geldi. Böylece bünyesinde 12 milyona yakın müşteriye ait 30 milyon hesap tutan Ziraat şubeleri basit bir alındı fişini bile düzenleyemedi. Ankara'ya gelen Oracle teknisyenleri de sorunu çözmedi. 
+
+Ana makine mi çöktü 
+Ziraat'teki sorunun giderilememesi banka içinde farklı görüşlerin oluşmasına neden oldu. Bazı yöneticiler dün itibariyle sorunun yüzde 70 oranında halledileceğini belirtirken, "Arızanın k busa dönüştüğü" iddiasındaki bir başka yetkili ise şöyle konuştu 
+"Teknik heyet yönetim kademesine henüz tam olarak rapor veremiyor. Bazı teknisyenler sistemde ana dağıtıcı makinenin server çöktüğünü söylüyor. Eğer bu doğruysa yeni makinenin ithal edilerek kurulması ciddi bir zaman alacaktır. Bu durumda Ziraat günlerce mali sistem dışında kalabilir." Çöküş sebebinin, Oracle ve Microsoft'un sistemlerinin biraraya getirilmesi sırasında kullanım oranının yüzde 100'ü aşarak bilgisayarları kilitlemesi olduğu belirtiliyor. 
+
+'Diğerlerini şik yet edeceğim' Ziraat Bankası Genel Müdürü Can Akın Çağlar, Anadolu'daki bazı özel banka şubelerinin "Ziraat ödeme güçlüğüne düştü" söylentisi çıkarak mevduat çalmaya çalıştığını söyledi. "Bu durumu Bankalar Birliği'ne şikayet edeceğim" diyen Çağlar, mevduat güvencesinin 50 milyar liraya çekilmesinin ardından "kamu bankaları olarak mevduat çalıyor" denilmemesi için gösterdikleri hassasiyeti diğer bankalardan da beklediklerini ifade etti. 
+
+
+</TEXT>
+</DOC>

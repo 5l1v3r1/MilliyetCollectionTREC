@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 203165 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/19/son/sondun11.html </URL>
+<DATE> 2003/12/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Akıllı otoyollar, trafik canavarına karşı... 
+</HEADLINE>
+<TEXT>
+
+     ABD'de trafik kazalarını en aza indirmek için 10 yıl içinde akıllı otoyollar açılacak. 
+     Akıllı otoyollara ve araçlara yerleştirilecek algılayıcılar, kavşakta veya başka bir yerde araç yaklaştığında, şerit değiştirirken ya da öndeki araç çok yakından takip edildiğinde sürücüleri ışıklı ya da sesli biçimde uyararak trafik kazalarının en aza indirilmesini sağlayacak. 
+     ABD Federal İletişim Komisyonu FCC , bu amaçla akıllı otoyolların geliştirilmesine yönelik bir adımı daha onaylayarak, algılayıcılarla gönderilecek sinyallerin kullanacağı frekans bandını tahsis etti. 
+     Akıllı otoyollara konacak algılayıcıların göndereceği sinyallerin cep telefonları, elektronik gişe algılayıcıları ya da garaj kapısı açan cihazlarla aynı alanı paylaşmayacağını açıklayan FCC Başkanı Michael Powell, akıllı otoyol teknolojisinin daha güvenli yollar ve daha güvenli bir ülke anlamına geldiğini belirtti. 
+     Ulaştırma Bakanı Norman Mineta da, bu teknoloji sayesinde çarpışmaların önlenebileceğini, araçlara önemli yol bilgisinin ulaştırılacağını ve sürücülerin araç kullanmaya daha iyi yoğunlaşmalarının sağlanacağını söyledi. 
+     Sürücüler uyarıyı, sinyali yayan vericiden 100 metre uzaklıktan alabilecek ve akıllı otoyol teknolojisi içinde iletişim sadece araçlar arasında ve araçla algılayıcı arasında sağlanacak. 
+     
+</TEXT>
+</DOC>

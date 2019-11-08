@@ -1,0 +1,44 @@
+<DOC>
+<DOCNO> 266494 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/26/yazar/toruner.html </URL>
+<DATE> 2004/08/26/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Yaman TÖRÜNER  </AUTHOR>
+<HEADLINE>
+TMSF hatasını kabul etti 
+</HEADLINE>
+<TEXT>
+
+Çukurova protokolüyle ilgili İngilizce metinde bazı maddelerin eksik bırakılmasının hata olduğunu kabul eden TMSF Başkanı Ertürk, 'Ama altında şeytan aramaya gerek yok' dedi 
+
+Önceki günkü yazımla ilgili olarak Tasarruf Mevduatı Sigorta Fonu'ndan TMSF şu cevap geldi 
+"Çukurova Grubu'yla yaptığımız anlaşmaya ilişkin tereddütler konusundaki cevaplarımız aşağıdadır. 
+Öncelikle "ana borç" olarak tanımladığınız meblağ, "kullanılan kaynak" anlamında ana para olmayıp Pamukbank'ın Fon'a devredildiği tarihe kadar işlemiş faizleri de içeren borç meblağıdır. Bu nedenle, bu meblağın altına inilmesinin anaparadan iskonto yapıldığı şeklinde yorumlanması yanlış olur.İlk protokolde borcun asgari üçte birinin ödenmesi halinde iskonto yapılacağı hükmü bu protokolün de şartları arasındadır. Bugün itibariyle borcun üçte birinin ödenmiş olmasını aramamız elbette mümkün değildir, ama eğer borcun üçte birine ulaşılmadan "default" durumu oluşursa o güne kadar ödenen borç tutarının iskontodan yararlanması mümkün değildir. Bu da protokole uyulmamasının parasal müeyyidesidir.Türkçe ile İngilizce versiyonlar arasındaki farklılık ise öyle "derin" sebeplere bağlanabilecek bir farklılık değildir. İngilizce versiyonu, 4 Ağustos tarihinde yaptığımız Türkçe basın açıklamasına dayanmaktadır. Oysa Türkçe açıklama Web sitemize konulurken biraz detaylandırılmış. Bu nedenle İngilizce versiyon ile Web sitemizdeki Türkçe açıklama arasında bir farklılık oluşmuş. Çok basit bir sebep. Bu bir "hata" ise evet. Ama sadece bir "hata". Altında bir "şeytan" aramaya gerek yok. Kaldı ki yabancıların Türkçe metinden haberdar olmadıklarını yahut olmayabileceklerini iddia etmemiz ve analizlerimizi bu iddia üzerine kurmamız biraz "tuhaf" olabilir.Bu paranın "kaynağı"ndan sonra "nasıl bulunacağı"nı da tartışabiliriz elbette. Ama ben sizin o konudaki tahminlerinize katılmıyorum. Bu tahmininizin bir "bilgi"ye dayandığını da sanmıyorum.Biz çok basit bir tercih yaptık. Daha önce imzalanmış olan protokol gereğince 3.6 milyar doları almak için 15 yıl bekleyelim mi, yoksa 20 ay içinde alacağımızı tahsil edebileceğimiz bir alternatifi "deneyelim" mi Herkes önce bu sorunun cevabını versin, bu tercihi yapsın. 
+Ben sizin de 15 yıl beklememizi tavsiye ettiğinizi sanmıyorum. 
+Ahmet ERTÜRK" 
+
+Bu açıklamadan anladığım kadarıyla, Türkçe ve İngilizce metinler arasındaki farklılık İngilizce metinde borca iskonta yapılmasının ilk protokoldeki borcun 1 3'ünün ödenmesi halinde mümkün olacağı, borcun 4.1 milyar dolarının dış kaynakla karşılanacağı ve TMSF'nin YKB hisselerindeki rehinleri muhafaza edeceği maddeleri yer almamıştı sadece "hata"dır. Ben bu görüşe katılamıyorum. Bu konuda ihbarlar var. 
+Bu anlaşmada çok ciddi püf noktaları var 
+a TMSF'nin ilk protokolle rehin aldığı hisseler ve kıymetler, yeni protokolle önce yediemin sıfatıyla Çukurova'nın adamlarının yönetimde bulunduğu Yapı Kredi'ye, sonra da Northway Petrolium'a geçmektedir. Bu noktada, yediemin olarak Yapı Kredi'nin seçilmesi kesinlikle kabul edilemez bir hatadır. 
+
+Sistem tıkanabilir 
+b Doğal olarak Northway'e verilen rehinler borcun oldukça üzerinde olacaktır. Çukurova, Northway'e borçlarını ödemezse veya geciktirirse sistem tıkanır. Bu durumda, Northway rehinleri kaldırmaz. TMSF de avucunu yalar. 
+c Yukarıdaki gelişmeler olursa, Çukurova iskontodan yararlanacakmış, yararlanmayacakmış gibi avunmalar, TMSF'nin söylediği gibi bir müeyyide filan sayılamaz. 
+d TMSF bu anlaşmayla, alacağı bütün faizlerden pratikte vazgeçmiş olmaktadır. TMSF'nin böyle bir yetkisi yoktur. Varsa, bütün diğer borçlulara uygulanmalıdır. 
+e Çukurova, Northway'e borcunu zamanında ödemezse, Northway Turkcell'in, Digitürk'ün ve Show TV'nin sahibi olur. Bu da, Türkiye'de verilen lisanslar ve ülke güvenliği açısından önemlidir. 
+İşte bu nedenlerle, 
+1- Hem paranın kaynağını, 
+2- Hem Çukurova ile Northway arasındaki anlaşmayı, 
+3- Hem Yapı Kredi ile TMSF arasındaki anlaşmayı, 
+4- Hem Norhtway ile Yapı Kredi arasındaki anlaşmayı, 
+5- Hem Çukurova borcunu ödeyemezse, medya lisanslarının Norhtway'e nasıl devredileceği konusundaki kurul kararlarını, 
+6- Hem bu gruba yapılan iskontonun diğer gruplara uygulanmaması nedeniyle alınması gereken Rekabet Kurulu Kararı'nı, 
+7- Hem TMSF ile Çukurova arasındaki anlaşmayı, 
+8- Hem de Çukurova'nın ödeme gücünü bilmek zorundayız. 
+Bize açıklamasalar bile, TMSF bilmek zorunda. "Bunlar beni ilgilendirmez" demek, ne bürokratik ne de siyasi sorumluluğu azaltıyor. 
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,42 @@
+<DOC>
+<DOCNO> 136253 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/02/11/guncel/gun06.html </URL>
+<DATE> 2003/02/11/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kapak açılınca sayaç çalışıyor 
+</HEADLINE>
+<TEXT>
+
+     ŞENOL DEMİRCİ İstanbul 
+
+     Kaçak elektrik kullanan vatandaşlardan yeni yöntem Fotoselli saat düzeneği... Bu sisteme göre, elektrik sayaçları sadece dolap kapağı açıldığında devreye giriyor. BEDAŞ yetkililerinin verdiği bilgiye göre, dolap içinde bulunan elektrik saatlerinde kullanılan sistem şöyle çalışıyor Teknolojide ışık algılayıcısı olarak kullanılan fotosel’ gizli bir elektronik devreyle saatin bulunduğu dolaba yerleştiriliyor. Dolabın kapağı BEDAŞ kontrol memuru tarafından açıldığında içeri giren ışığı algılayan fotosel, elektrik sayacını çalıştırmaya başlıyor. Kapağın kapatılmasıyla birlikte fotosel saate giden devreyi kapıyor, elektrik tüketildiği halde sayaç dönmüyor. Bu gibi yöntemlerle kullanılan kaçak elektrikler nedeniyle BEDAŞ’ın yıllık 300 trilyon lira zarar ettiği belirtilirken, 2002 yılında kaçak elektrik kullanan 51 bin kişinin yakalandığı ve bu kişilerden 14 trilyon lira tahsil edildiği vurgulandı. 
+     
+
+
+
+ GÜNCEL 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

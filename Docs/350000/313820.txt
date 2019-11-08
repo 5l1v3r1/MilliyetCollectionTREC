@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 313820 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/09/son/soneko43.html </URL>
+<DATE> 2005/02/09/ </DATE>
+<TIME> 14.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+MB döviz alım ihalesinde ortalama kur 1.3278 oldu 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası'nın bugün düzenlediği döviz alım ihalesinde, ortalama kur 1.3278 Yeni Türk Lirası YTL oldu. 
+     Merkez Bankası'nın 15 milyon dolar alım yaptığı döviz alım ihalesine, 97 milyon dolar teklif gelirken, ihalede maksimum kur 1.3280, minimum kur 1.3270 YTL olarak belirlendi. 
+     İhaleye gelen tekliflerin ortalaması ise 1.3299 YTL oldu. 
+     Döviz alım ihalesinde 7.3 milyon dolar opsiyon kullanıldı. 
+     
+</TEXT>
+</DOC>

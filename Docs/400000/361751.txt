@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 361751 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/16/son/sonyas07.html </URL>
+<DATE> 2005/07/16/ </DATE>
+<TIME> 15.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+NASA, Discovery'nin teknik arızasını 2-3 gün içinde bulmayı umuyor 
+</HEADLINE>
+<TEXT>
+
+     Amerikan Havacılık ve Uzay Dairesi NASA , Discovery uzay mekiğinin fırlatılışına engel olan teknik arızayı 2-3 gün içinde tespit etmeyi umuyor. 
+     NASA'nın mekik programından sorumlu ikinci isim Wayne Hale, 2-3 gün içinde arızayı bulacaklarına inancının tam olduğunu söylerken, mekiğin fırlatılış tarihi konusunda konuşmayı reddetti. 
+     Yetkili, hafta sonu durmaksızın çalışacaklarını, sorunu tespit eder etmez gidereceklerini belirtti. 
+     Uzay mekiği programı yönetiminin bugün toplanarak fırlatma tarihi konusunu ele alması bekleniyor. 
+     NASA, Discovery uzay mekiğinin gelecek hafta sonuna kadar fırlatılmayacağını açıklamıştı. 
+     Columbia uzay mekiği faciasından 2,5 yıl sonra ilk defa uzaya gidecek Discovery'nin önceki akşam fırlatılacağı açıklanmış, ancak bu işlem son anda teknik bir sorun nedeniyle ertelenmişti. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 371552 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/20/son/sonyas06.html </URL>
+<DATE> 2005/08/20/ </DATE>
+<TIME> 16.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+25 derecenin üstündeki sıcakta telefonlarınızı şarj etmeyin 
+</HEADLINE>
+<TEXT>
+
+     
+     Oktay ENSARİ KAYSERİ, DHA 
+     
+CEP telefonlarının 25 derecenin üstündeki sıcaklıkta şarj edilmemesi, kalitesiz batarya kullanılmaması ve bu telefonların otomobil içinde bırakılmaması istendi. 
+     ASPİLSAN olar Askeri Pil Fabrikası yöneticileri, cep telefonları ve taşınabilir elektronik cihazlarda Li-Ion’ Lityum İyon pillerinin kullanıldığını, bu pillerin sağladıkları birçok avantaja karşılık, çok sayıda risk de taşıdığını hatırlattı. Bu pillerin güven içerisinde kullanılması için, üretim, depolama, taşıma ve kullanım esnasında çok çeşitli güvenlik önlemlerinin alınmasının son derece önemli olduğu, Çin ve diğer birçok Uzakdoğu ülke ürünlerinde bu güvencenin gözardı edildiğini hatırlatan ASPİLSAN yöneticileri gerekli önlemlerin alınmaması halinde piller patlayabileceğini, yanabileceğini, zehirli gaz çıkarabileceğini vurguladı. Uzmanlar, şu uyarılarda bulundu 
+     Ucuz diye herhangi bir marka pil satın alınmamalıdır. Bu tür pillerin içerisinde koruyucu elektronik devreleri bulunsa dahi, bunların fonksiyonlarını yerine getirdiklerinin hiçbir güvencesi yoktur. Kullanım aşamasında piller şarj edilirken çevre sıcaklığına dikkat edilmelidir. Yüksek sıcaklıkta yapılan şarjlarda istenen verim elde edilmeyeceği gibi, patlama riski de artar. İdeal şarj sıcaklığı 15-25 derecedir. Özellikle, yaz mevsiminde cep telefonları araç içerisinde bırakılmamalı, şarj edilmemeli ve doğrudan güneş ışığı altında kalmamasına çok dikkat edilmelidir. Piller ve cep telefonları kalorifer ve benzeri ısı kaynaklarından uzakta tutulmalı. Bataryaların sıcak ortamda şarj edilmesi durumunda şarj verimi düşeceği gibi patlama riski ortaya çıkar.'' 
+     
+</TEXT>
+</DOC>

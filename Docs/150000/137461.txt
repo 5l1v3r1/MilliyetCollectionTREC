@@ -1,0 +1,50 @@
+<DOC>
+<DOCNO> 137461 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/02/18/yasam/yas14.html </URL>
+<DATE> 2003/02/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Robotlar gittikçe insana benziyor 
+</HEADLINE>
+<TEXT>
+
+     DIŞ HABERLER SERVİSİ 
+
+     24 mekanik kası var 
+     ABD’nin Texas Üniversitesi’nden David Hanson’un geliştirdiği "KBot" adı verilen robot kafası, 2 kilogram ağırlığında. "Derisinin" altında 24 mekanik kas var. Gözlerinin arkasındaki kamera yolu ile karşısındakinin mimiklerini takip eden KBot, gelişmiş yazılımı sayesinde bunları taklit de edebiliyor. 
+     
+     Yapay kaslar için umut 
+     ROBOTUN yüzü, gülümseme, surat asma, göz kısma, alaycı bakış gibi son derece karmaşık hareketleri gerçekleştirebiliyor. KBot’un mucidi Hanson, icadının yakın bir gelecekte yapay kasların denenmesi için önemli bir platform olmasını umut ediyor. 
+     
+
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 253565 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/07/son/soneko16.html </URL>
+<DATE> 2004/07/07/ </DATE>
+<TIME> 11.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Haziran'da TL değer kaybetti... 
+</HEADLINE>
+<TEXT>
+
+     Türk Lirası'nın reel efektif döviz kuru Haziran ayında bir önceki aya göre geriledi. 
+     Merkez Bankası'nın verilerine göre, 1995 100 bazlı TÜFE bazlı reel efektif döviz kuru Haziran ayında bir önceki aya göre yüzde 0.6 azalarak 138.3'den 137.4'e indi. 
+     Aynı dönemde, 1995 100 bazlı TEFE bazlı reel efektif döviz kuru yüzde 1.7 gerileyerek 131.2'den 128.9'a düştü. 
+     Bir başka değişle Türk Lirası Haziran ayında TÜFE'de yüzde 0.6, TEFE'de ise yüzde 1.7 değer kaybetti. 
+     TÜFE bazında, bir yıllık süre içinde Türk Lirası yüzde 2.3, altı ayda yüzde 6.5, TEFE bazında ise sırasıyla yüzde 1.1, yüzde 4 değer yitirdi. 
+     
+</TEXT>
+</DOC>

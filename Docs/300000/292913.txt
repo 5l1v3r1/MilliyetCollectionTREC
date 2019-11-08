@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO> 292913 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/28/son/sonyas01.html </URL>
+<DATE> 2004/11/28/ </DATE>
+<TIME> 09.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kanser tedavisine ''antikor'' yöntemi... 
+</HEADLINE>
+<TEXT>
+
+     Bilim adamları bioteknoloji yöntemiyle insan vücuduna en uygun antikorları üreterek kanseri yenmeye çalışıyor. Bu yöntemle, yakın gelecekte Alzheimer ve AIDS gibi hastalıkların da tedavisi amaçlanıyor. 
+     Roche İlaç Araştırma Başkanı Klaus Strein, biyoteknolojiyle üretilen antikor ilaçlarla ilgili son gelişmeleri AA muhabirine anlattı. 
+     Strein, kanser hücrelerinin normal hücrelerden farklı olduğunu, hastanın diğer hücrelerine zarar vermeden yalnızca kanserli hücreyi yok etmeyi hedeflediklerini söyledi. 
+     Bu amaçla insan vücuduna uygun, kanseri yok edecek antikorlar ürettiklerini bildiren Strein, ''İnsan vücudundaki mekanizma hastalığı en iyi yenen mekanizma, bu nedenle antikorlar, vücudun kendi savunma mekanizması örnek alınarak yapılıyor. Vücudun kullandığı antikorlara en yakın ve en iyisini bulmayı hedefliyoruz'' diye konuştu. 
+     Strein, deney farelerinin yumurtalık hücrelerine insan DNA'sı verilerek üretilen antikorların sonraki aşamalarda geliştirilerek çeşitli hastalıklar için kullanıldığını anlattı. 
+     İnsan vücudundaki antikora yüzde 99 oranında benzeyen antikor üretmeyi başardıklarını belirten Strein, her hastalık için farklı antikor üretilmesi gerektiğini kaydetti. Üretilen antikorların insan vücudundaki kanserli hücreyi bularak, buna yapıştığını dile getiren Strein, şöyle konuştu 
+     ''Kanserli hücre, vücutta kendini büyütür. Yaptığımız antikorlar, bu savunma hücresini yok ediyor. Örneğin, meme kanseri tedavisinde kullanılan Herceptin adlı antikorumuz, kanser hücresinin büyümesini engelliyor ve öldürüyor. Her kanser için farklı olan antikorlar, şu anda meme, lenf, kalınbağırsak kanserleri için üretildi. Bu antikorlar, ayrıca hastanın kemoterapide yaşayacağı yan etkileri de ortadan kaldırıyor. Hemen hemen hiçbir yan etkisi olmayan antikorlar, vücuda verilince gidip kanser hücresine bağlanıyor ve yalnız onu yok etmeye çalışıyor. Böylece hastada bulantı, kusma, saç dökülmesi gibi yan etkiler görülmüyor, hastanın yaşam kalitesi artıyor.'' 
+     
+     ''ALZHEIMER VE AIDS'E DE ÇÖZÜM OLABİLİR'' 
+
+     Son teknolojiyle geliştirilen antikorlar sayesinde yakın gelecekte özellikle onkoloji ürünleri açısından yüksek etkinlik sağlanacağını ve kanser hastalarında hayat beklentisinin artacağını anlatan Strein, bu antikorlar sayesinde 10-15 yıl sonra Alzheimer hastalığının da önlenebileceğini veya ortaya çıkışının geciktirilebileceğini ifade etti. 
+     Enfeksiyon alanında da geliştirilen ilaçların kullanılacağını belirten Strein, ''Özellikle AIDS hastalığında virüslerin dirençliliği artıyor. Geliştirdiğimiz ürünlerle bu direnç kalkacak ve uygulanması kolay ürünler ortaya çıkacak. Mesela ayda bir yapılan enjeksiyonlarla virüsün öldürülmesine çalışılacak'' dedi. 
+     Kanser hücresi, vücudun kendi hücresi olduğu için buna uygun antikor bulmanın zor olduğunu, ancak HIV virüsüne karşı geliştirilmiş tedavilerin hedefe yönelik olduğunu anlatan Strein, bundan sonraki 10-15 yılda hedefe yönelik antikorlar geliştirilerek daha başarılı sonuçların alınacağını bildirdi. 
+     Strein, Hepatit-C hastalığıyla ilgili geliştirilen yeni teknikler sayesinde şu anda virüsün yüzde 50-60 oranında yok edildiğini, gelecekte bunu yüzde 90 çıkarmayı hedeflediklerini söyledi. 
+     Geliştirdikleri bu antikorlara küçük moleküllü toksik ilaçlar da ekleyerek kanseri tam olarak ortadan kaldırmayı hedeflediklerini belirten Strein, geliştirdikleri yeni antikorlarla söz konusu hastalıklara karşı daha etkin tedavi sağlanacağını, hastaların yaşam süresi ve kalitesinin artırılacağını anlattı. 
+     
+     YARININ İLAÇLARI 
+
+     Roche İlaç Araştırma Bölüm Başkanı Klaus Strein'in verdiği bilgilere göre, firmanın geliştirdiği biyoteknolojik ilaçlar ''yarının ilaçları'' olarak nitelendiriliyor. 
+     Eklem romatizması ve lenf kanseri hastalarında kullanılan ''Mabtheri'' adlı ilaç da kanser hastalarında hedefe yönelik tedavi sağlayarak, yalnızca kanser virüsünün yok edilmesini hedefliyor. Bu ilaç, Türkiye'de satılıyor. 
+     Kanserin kemiğe sıçradığı hastalarda kemikte kırılma, ağrı gibi şikayetleri sona erdiren ve yeniden kemik oluşumunu sağlayan ''İbondronat'' adlı ilaç Avrupa ve ABD ilaç piyasasında kullanılıyor. İlacın 1-1.5 yıl içinde Türkiye'ye gelmesi bekleniyor. 
+     AIDS konusunda üretilen ve HIV'in kan hücresine girmesini engelleyen ''Füzeon'' adlı ilaç da Avrupa'da satılıyor. AIDS ilacının da bir yıl içinde Türkiye'ye getirilmesi planlanıyor. 
+     
+</TEXT>
+</DOC>

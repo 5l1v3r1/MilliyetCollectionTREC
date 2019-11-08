@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 369597 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/13/son/sonyas01.html </URL>
+<DATE> 2005/08/13/ </DATE>
+<TIME> 00.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Google, 'kütüphaneleri internete taşıma'yı askıya aldı 
+</HEADLINE>
+<TEXT>
+
+     İnternet devi Google, 6 yıl içinde 15 milyon kitabı internette bedava kullanıma sunma projesini askıya aldı. 
+     Firmanın proje sorumlusu Adam Smith, internet sayfasında yaptığı açıklamada, dünyada ses getiren ve birçok çevrenin itirazıyla karşılaşan projeyi askıya aldıklarını bildirdi. Smith, şunları kaydetti 
+     "Nice iddialı fikir gibi, Google Print projesi de dünyada sağlıklı bir tartışmanın kapısını araladı. Biz, bize söylenenlere kulak verdik. Son aylarda çok sayıda yazar ve yayıncıyla görüştük. 
+     Telif hakkı sahipleri, dijital ortama aktarmamızı istemedikleri kütüphanelerdeki kitaplarını bize bildirebilirler. Onlara böyle bir imkan sunmak için telif eserlerin hiçbirini, Kasım’a kadar dijital ortama aktarmayacağız." Google, geçen yılın sonlarında açıkladığı proje kapsamında, üç saygın Amerikan ve bir İngiliz kütüphanesinin raflarında bulunan 15 milyon kitabı, 6 yıla kadar internete taşıyacağını ve bunları ücretsiz kullandıracağını bildirince, özellikle Avrupalı yazarlar, yayıncılar ve siyasetçilerin tepkisiyle karşılaşmıştı. 
+     
+</TEXT>
+</DOC>

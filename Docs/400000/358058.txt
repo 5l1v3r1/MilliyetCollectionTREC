@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 358058 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/04/son/soneko43.html </URL>
+<DATE> 2005/07/04/ </DATE>
+<TIME> 17.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Eski endekse göre enflasyon rakamları... 
+</HEADLINE>
+<TEXT>
+
+     Devlet İstatistik Enstitüsü'nün DİE 1994 100 bazlı, eski endekse göre Haziran ayı fiyat artışları da belli oldu. 
+     Eski endekse göre 2005 Haziran ayı fiyat artışları, aylık bazda tüketici fiyatlarında yüzde 0.46, toptan eşya fiyatlarında yüzde 0.34 artış görüldü. 
+     Geçen yılın Haziran ayında yine 1994 baz yıllı eski endekse göre, fiyatlarda TÜFE yüzde 0.13, TEFE'de de yüzde 1.05 gerileme olmuştu. 
+     Yeni endekse göre ise 2005 Haziran ayında, TÜFE'de yüzde 0.10 artış, ÜFE'de de yüzde 0.48 gerileme açıklanmıştı. 
+     TÜFE'deki 6 aylık fiyat artışı da eski endekse göre yüzde 4.31, yeni endekse göre yüzde 2.59, yıllık bazda ise eski endekse göre yüzde 10.65 yeni endekse göre de yüzde 8.95 olarak hesaplandı. 
+     TEFE'de de 6 aylık artış oranı, eski endekse göre yüzde 3.25, yeni endekse göre yüzde 1.89, yıllık artış ise eski endekse göre yüzde 8.70, yeni endekse göre yüzde 4.25 oldu. 
+     
+</TEXT>
+</DOC>

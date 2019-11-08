@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 181221 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/09/son/sondun14.html </URL>
+<DATE> 2003/09/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dünyanın en küçük mikroçipi üretildi.. 
+</HEADLINE>
+<TEXT>
+
+     Japonlar, insan vücudundan kağıt paraya kadar her yere kolaylıkla yerleştirilebilecek olan dünyanın en küçük mikroçipini ürettiler. FEC firması tarafından üretilen mikroçipin tüm haklarının Malezya tarafından satın alındığı bildirildi. 
+     Konuyla ilgili olarak açıklamada bulunan Malezya Başbakanı Mahathir Muhammed, ''mikroçipin özellikle uluslararası terörle mücadele alanında çok yararlı olacağını'' söyledi. 
+     Yetkililer, mikroçipin terörle mücadelenin yanı sıra sahte para basılmasının da önüne geçeceğini kaydediyor. 
+     Mikroçipi üreten FEC firmasının icra direktörü Konioki İchioka, ''mikroçipin insan vücuduna, hayvanlara, kredi kartlarına, hatta mermilere bile yerleştirilebileceğini'' söyledi. 
+     Neredeyse bir nokta büyüklüğünde olan mikroçipin, ileride fiyat etiketlerinde de kullanılması bekleniyor. Uzmanlar, mikroçipin tanesinin yaklaşık 10 sente mal olduğunu açıkladılar. Çipin ''radyo frekansı yoluyla kimlik belirleme'' Radio Frequency Identification teknolojisiyle çalıştığı ve içinde bir alıcı ve verici anteni bulunduğu kaydedildi. 
+     Mikroçipin üretimine Japonya'da başlanacağı, ancak daha sonra üretimin tamamiyle Malezya'nın kuzeyinde bulunan Kedah eyaletindeki bir fabrikaya kaydırılacağı kaydediliyor. 
+     
+</TEXT>
+</DOC>

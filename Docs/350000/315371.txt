@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 315371 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/15/son/sondun51.html </URL>
+<DATE> 2005/02/15/ </DATE>
+<TIME> 19.57 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Microsoft'tan yeni "İnternet Explorer" 
+</HEADLINE>
+<TEXT>
+
+     Microsoft firması, internette gezintiyi sağlayan ''Internet Explorer'' yazılımının yeni sürümü 7.0'ı piyasaya çıkaracağını açıkladı. 
+     Yazılım, bilgisayar korsanlığına karşı yeni güvenlik özelliklerine sahip olacak. 
+     Firma başkanı Bill Gates bugün yaptığı açıklamada, yeni sürümün, test amaçlı olarak yaz aylarından itibaren dağıtımına başlanacağını belirtti. 
+     Bu açıklama, dünyanın en büyük yazılım firması olan Microsoft'un, Internet Explorer'ın daha güvenli hale gelmesi için üç yıl içerisinde attığı en büyük adım olarak değerlendirildi. 
+     
+</TEXT>
+</DOC>

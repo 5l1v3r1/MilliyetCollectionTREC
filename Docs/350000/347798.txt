@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 347798 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/01/son/soneko01.html </URL>
+<DATE> 2005/06/01/ </DATE>
+<TIME> 01.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası, günü kayıpla kapadı. 
+     Dow Jones Sanayi Endeksi 75.07 puan azalarak 10,467.48 puana indi. 
+     Teknoloji ibresi Nasdaq Birleşik Endeksi de 7.51 puan kayıpla 2,068.22 puana düştü. 
+     
+</TEXT>
+</DOC>

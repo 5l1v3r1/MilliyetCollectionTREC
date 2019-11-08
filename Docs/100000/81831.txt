@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 81831 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/05/03/yazar/temelkuran.html </URL>
+<DATE> 2002/05/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Ece TEMELKURAN  </AUTHOR>
+<HEADLINE>
+Nasıl sevmeli 
+</HEADLINE>
+<TEXT>
+
+I IMG SRC "resim ece.jpg" HSPACE 10 VSPACE 10 BORDER 1 ALIGN "RIGHT" TD TR TABLE CENTER TD -- SAĞ DATA -- TD ALIGN "CENTER" VALIGN "TOP" WIDTH 155 BGCOLOR " F5F5F5" IMG SRC " sabitimg 03 gazete genel transp.gif" WIDTH 1 HEIGHT 9 BORDER 0 TABLE WIDTH 140 CELLSPACING 1 CELLPADDING 1 ALIGN "CENTER" A TD TR TRTDFONT class "yazar2" FONT TD TR A TD TR TRTDFONT class "yazar2" FONT TD TR A TD TR TRTDFONT class "yazar2" FONT TD TR A TD TR TRTDFONT class "yazar2" FONT TD TR A TD TR TRTDFONT class "yazar2" FONT TD TR A TD TR TRTDFONT class "yazar2" FONT TD TR A TD TR TRTDFONT class "yazar2" FONT TD TR A TD TR TRTDFONT class "yazar2" FONT TD TR A TD TR TRTDFONT class "yazar2" FONT TD TR A TD TR TRTDFONT class "yazar2" FONT TD TR A TD TR TRTDFONT class "yazar2" FONT TD TR A TD TR TRTDFONT class "yazar2" FONT TD TR A TD TR TRTDFONT class "yazar2" FONT TD TR A TD TR TRTDFONT class "yazar2" FONT TD TR A TD TR TRTDFONT class "yazar2" FONT TD TR A TD TR TRTDFONT class "yazar2" FONT TD TR A TD TR TRTDFONT class "yazar2" FONT TD TR TRTDIMG SRC " sabitimg 03 gazete yazar postadan.gif" 
+Parlamenterler de durumdan memnun değil 
+
+
+</TEXT>
+</DOC>

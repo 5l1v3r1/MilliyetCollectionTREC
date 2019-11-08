@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 375606 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/04/son/sonyas03.html </URL>
+<DATE> 2005/09/04/ </DATE>
+<TIME> 11.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kansere yeni umut 
+</HEADLINE>
+<TEXT>
+
+     ANKA 
+
+      Kanserli hücrelerin çoğalmasını engelleyen yeni bir molekül bulundu. Fare testleri olumlu sonuç verdi. 
+     Amerika’da yapılan bir araştırmanın sonuçları, kanserli hücrelerin gelişimini durdurmak ve çoğalmasını önlemek için yeni bir molekülün bulunduğunu gösterdi. 
+     Cancer Research Kanser Araştırmaları dergisi başyazarlarından Dr. Jerry Shay, yeni yöntemle, kanser hücrelerini geliştiren ve canlı tutan "telomerase" isimli enzime saldırarak hareketliliğinin önlendiğini ifade etti. 
+     Telemorlar, normal hücrelerde hücreler bölündükçe ve yaşlandıkça küçülüyor. Telemorlar yeterince küçüldüğünde ise hücre bölünmeyi sona erdiriyor. Ançak kanserli hücrelerde bu durum farklılık gösteriyor çünkü "telomerase"ler, telemorların küçülmesini engelliyor ve böylece kanserli hücreler ölümcül seviyelere varıncaya kadar büyüyüp çoğalabiliyor. 
+     İşte bilimadamları, kanserli hücrelerin de normal hücreler gibi gelişimlerini durdurmanın yolunu bu mantıkla buldu. Fareler üzerinde yapılan kanser araştırmalarında kanserin farenin vücuduna yayılmasının önlendiği belirtildi. 
+     Bilimadamları şimdi bu tekniğin insanlar üzerindeki uygulanabilirliğini araştırmaya hazırlanıyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> 230939 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/13/son/soneko11.html </URL>
+<DATE> 2004/04/13/ </DATE>
+<TIME> 11.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa yatırım fonları geliyor... 
+</HEADLINE>
+<TEXT>
+
+     Borsa Yatırım Fonları'na ilişkin esaslar belirlendi. 
+     SPK'nın, Borsa Yatırım Fonları'nın kuruluşu, faaliyet ilke ve kuralları, katılma belgeleri ile bunların halka arzı ve kamunun aydınlatılmasına ilişkin esasları düzenleyen tebliğ, bugünkü Resmi Gazete'de yayımlandı. 
+     Tebliğe göre Borsa Yatırım Fonları, ''portföyünün en az yüzde 80'i devamlı olarak baz alınan ve Kurul tarafından uygun görülen endeks kapsamındaki menkul kıymetlerden oluşan ve yapılan hesaplama çerçevesinde, baz alınan endeksin değeri ile fonun birim pay değeri arasındaki korelasyon katsayısı en az yüzde 90 olacak şekilde baz alınan endeksi takip etmek üzere'' Endeks Fon olarak kurulacak. 
+     Borsa fonları, baz alınan endeks kapsamındaki menkul kıymetlerin, tümünden 'tam kopyalama' veya seçilen bir kısmından 'örnekleme yoluyla' oluşturulabilecek. 
+     Buna göre Fon portföy değerinin aylık ağırlıklı ortalama bazda en az yüzde 25'ini, devamlı olarak mevzuata göre özelleştirme kapsamına alınan Kamu İktisadi Teşebbüsleri KİT dahil Türkiye'de kurulmuş ortaklıkların menkul kıymetlerine yatıran fonlar, A tipi olacak. 
+     A Tipi olmayanlar dahil olmak üzere, borsa fonlarının katılma belgeleri ise menkul kıymet niteliğinde. 
+     
+     BORSA'DA İŞLEM GÖRME 
+     Fon kuruluşu için gerekli belgeler hakkında bilgi verilen tebliğe göre, Fon içtüzük standardı Kurul tarafından belirlendi. 
+     Borsa Fonu katılma belgelerinin kayda alınması için, Kurul'a yapılan başvurular sonucunda Kurul tarafından kayda alınan katılma belgeleri, kurucunun Borsa'ya başvurması halinde, İMKB mevzuatı çerçevesinde, Borsa'nın uygun göreceği ilgili pazarda işlem görecek. 
+     
+     FONUN BİRİNCİL VE İKİNCİL PİYASA İŞLEMLERİ 
+     Borsa fonlarının birincil piyasa işlemleri, yetkilendirilmiş katılımcılarla saklamacı kuruluş arasında yeni fon katılma belgelerinin oluşturulması ve fon katılma belgelerinin geri alınması süreçlerinin ayni olarak gerçekleştirildiği işlemlerden oluşacak. 
+     Fon katılma belgesi oluşturma sürecinin ardından, yetkilendirilmiş katılımcılar aracılığıyla elde edilen yeni oluşturulan fon katılma belgelerinin, borsada alım satıma tabi tutulması ise fonun ikincil piyasa işlemlerini oluşturacak. 
+     
+     NET AKTİF DEĞER 
+     Bu arada her bir fon katılma belgesinin net aktif değeri ve işlem fiyatı olmak üzere iki ayrı değeri bulunacak. Net aktif değer katılma belgesi sahiplerinin adına fona dahil edilen menkul kıymet portföyünün ve veya fonun yatırım yaptığı diğer varlıkların toplam değerine alacakların eklenip borçların düşülmesi suretiyle bulunan tutarı ifade ediyor. İşlem fiyatı ise borsada işlem gününde gerçekleşen son işlem fiyatı. 
+     Net aktif değerin hesaplanması, kurucunun sorumluluğunda olacak, Borsa'nın uygun gördüğü ve fon izahnamesinde açıklanan şekilde ilan edilecek. Borsa fonu katılma belgesi de, belge sahibinin kurucuya karşı sahip olduğu hakları taşıyan ve fona kaç pay ile katıldığını gösteren menkul kıymet niteliğinde bir senet olup, kaydi değer olarak tutulacak. 
+     Tebliğe göre Yatırım Fonlarına İlişkin Esaslar Tebliği'nde endeks fonlar için belirtilen portföy sınırlamalarına uyulması şart. 
+     Ayrıca baz alınan endeks ve fon portföyünün kamuya açıklanma periyodları ve zamanlamaları konusunda ayrıntılı bilgiler, izahnamede zorunlu olarak yer alacak. 
+     Hükümleri Sermaye Piyasası Kurulu tarafından yürütülecek tebliğ, bugünden itibaren yürürlüğe girdi. 
+     
+</TEXT>
+</DOC>

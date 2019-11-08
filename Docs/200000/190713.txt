@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 190713 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/23/son/soneko11.html </URL>
+<DATE> 2003/10/23/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Wall Street'te son bir ayın en sert düşüşü yaşandı... 
+</HEADLINE>
+<TEXT>
+
+     New York menkul kıymetler borsası Wall Street'te bugün, son bir ayın en büyük günlük düşüşü kaydedildi. 
+     Dow Jones endeksi 149,4 puan kaybederek 9598,24'e gerilerken, Nasdaq endeksi de 42,83 puan azalarak 1898,07'ye geriledi. 
+     Her iki endeks de 24 Eylül sonrasında ilk kez bu kadar büyük günlük değer kaybına uğradı. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> 174227 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/07/son/soneko08.html </URL>
+<DATE> 2003/08/07/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+DPT, bilgi ekonomisinde fırsat ve riskleri değerlendirdi... 
+</HEADLINE>
+<TEXT>
+
+     Devlet Planlama Teşkilatı DPT , Türkiye'nin, bilgi ekonomisine erişim için bir eylem planı hazırlaması ve zaman geçirmeksizin uygulamaya koyması gerektiğini bildirdi. 
+     DPT'nin ''Bilgi Ekonomisi, İşgücü Piyasasının Temel Aktörleri ve Eşitsizlik Eğilimler, Roller, Fırsatlar ve Riskler'' başlıklı çalışmasına göre, bilgi ekonomisinin sermaye birikimine ve toplam faktör verimliliğine önemli katkısı oluyor. 
+     Bilgi ekonomisi ile birlikte yatırımların kompozisyonu da değişirken, bu değişim fiziki olandan fiziki olmayan yatırımlara doğru kayıyor. 
+     Diğer taraftan öğrenme süreci bilgi ekonomisinin en önemli unsurlarından biri kabul edilirken, bu sürecin başarısı için akademik, mesleki ve yaparak öğrenme arasında denge kurulması önemli görülüyor. 
+     Bilgi ekonomisiyle birlikte firmalar küreselleşme sürecinin etkisiyle hızla artan rekabet baskısına karşı koymak için kendilerini şartlara adapte etme arayışına girerken, esnek iş organizasyonlarına yönelim artıyor. 
+     Bilgiye dayalı ekonomilerde bilgi en önemli varlık olduğu için, çalışanların bilgisinden yararlanmak daha da önem kazanırken, bilgi ekonomisinde girişimcilik konusu da oldukça önemli görülüyor. 
+     Bilgi ekonomisiyle birlikte, bilgi fakirliği ve sayısal uçurum gibi kavramlar önem kazanırken, gerek milli ekonomiler içinde, gerekse farklı ekonomiler arasında ortaya çıkabilecek bu sorunların ciddi eşitsizlik ve gelir dağılımı sonuçları olabilecek. 
+     
+     BİLGİ EKONOMİSİNDE RİSKLER 
+     Bilgi ekonomisinin yayılması sürecinde ortaya çıkan önemli risklerden biri virüsler ve hackerlar olarak görülüyor. 
+     Elektronik iş gibi yeni iş yapma biçimlerinin yaygınlaşması ve uluslararası şirketlerin artmasıyla birlikte ortaya ulus devletler için vergileme konusunda da önemli bir risk çıkıyor. 
+     Bilgi ekonomisi sürecinden sendikalar da etkilenirken, bu süreçte sendikaların fonksiyonlarını başarılı bir şekilde yerine getirebilmeleri için bilgi ve iletişim teknolojilerinden BİT yararlanmaları önem taşıyor. 
+     Bu süreçte, iletişim kurma, BİT kullanabilme, takım çalışması yapabilme ve problem çözme gibi becerilere sahip olmak önem kazanıyor. 
+     Bilgi ekonomisinin büyüme, verimlilik ve sonuçta rekabet gücü gibi getirileri otomatik ve kendiliğinden ortaya çıkmadığı için özellikle aktif kamu müdahalesine gereksinim bulunuyor. 
+     
+     BİLGİ EKONOMİSİNE GEÇİŞ İÇİN YAPILMASI GEREKENLER 
+     Çalışmada, Türkiye'nin bilgi ekonomisine erişim için bir eylem planı hazırlaması ve zaman geçirmeksizin uygulamaya koyması öneriliyor. 
+     Çalışmaya göre, Türkiye'nin, bilgi ekonomisine dönüşümü, eşitsizlik sorunu ile bu dönüşüm arasında bir denge gözeterek yapması gerekiyor. 
+     Diğer yandan, Türkiye'nin, daha kurumsallaşmış bir ekonomiye geçiş ile hızla artan rekabetin gerektirdiği esneklik arasında dikkatli bir denge gözetmesi de zorunlu bulunuyor. 
+     Çalışmada, gerek devlet, gerek özel sektör olarak ekonomik açıdan dönüşümü gerçekleştirebilmek için teknolojiye ve eğitime önemli ölçüde yatırım yapılması da öneriliyor. 
+     Müfredat ve eğitim sisteminin çağın gereklerine göre yeniden düzenlenmesi gerektiği belirtilirken, bunun için de tüm nüfusu kapsayan bir beceri envanteri önerisi ortaya konuluyor. 
+     Ara eleman ihtiyacı için mesleki eğitime önem verilmesi, yaygın bir bilgisayar okuryazarlığı seferberliği oluşturulması da öneriler arasında yer alırken, eğitim politikasının başarısı için öğretmenlerin de bununla uyumlu niteliklere sahip olmasının hayati olduğu vurgulanıyor. 
+     Ayrıca Türkiye'nin bir an önce uzun dönemli ve kapsamlı bir istihdam stratejisini geliştirmesinin kritik bir zorunluluk olduğu ifade ediliyor. 
+     Türkiye'nin bilgi ekonomisine dönüşümünün hızlı ve etkin bir şekilde sağlanabilmesi için halk, özel sektör, bürokrasi, sivil toplum kuruluşları, üniversiteler, hükümet ve muhalefetin konunun önemini kabul etmesi ve bu hedefe birlikte sahip çıkarak odaklanmalarının son derece önemli olduğu vurgulanıyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 179292 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/31/yasam/yas11.html </URL>
+<DATE> 2003/08/31/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Liseliyi 'hack'lediler 
+</HEADLINE>
+<TEXT>
+
+      
+   Blaster.B virüsünü yaratan Amerikalı lise öğrencisi, dün tutuklandı. Minnesota'da yaşayan Jeffrey Lee Parson'ın 18 evindeki yedi bilgisayara el koyan FBI, liseli gencin bilgisayarından, yaklaşık 7 bin bilgisayara bu virüslerden bulaştırıldığını belirledi. Parson, Blaster virüsünü yazdığını kabul etti. Blaster virüsleri, havayolları ve banka sistemleri de dahil, 500 bin kadar bilgisayarı etkilemişti. 
+   
+   
+</TEXT>
+</DOC>

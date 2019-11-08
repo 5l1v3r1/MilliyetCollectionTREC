@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 405047 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/20/son/soneko49.html </URL>
+<DATE> 2005/12/20/ </DATE>
+<TIME> 16.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa günü 230 puanlık kayıpla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeksi, 2. seansta 2.34 puan artarak 37,729.42 puandan kapandı. 
+     Hisse senetleri 2. seansta, ortalama yüzde 0.01 oranında değer kazandı. 
+     İlk seanstaki 233.05 puanlık düşüş dikkate alındığında, Borsa endeksi günün tamamında 230.71 puan geriledi. Hisse senetlerinin günlük ortalama değer kaybı yüzde 0.61 oldu. 
+     Endeks 2. seansa, 10.61 puan azalarak 37,716.47 puandan başladı. Seansın ilk yarısını 37,667.52 puandan geçen endeks, seans içinde en düşük 37,536.94 puana kadar gerilerken, en yüksek 37,980.32 puanı gördü. 
+     2. seans kapanışında, mali endeks 45.03 puan artarak 58,804.64 puana yükselirken, sanayi endeksi 15.04 puan azalarak 30,037.98 puana, hizmetler endeksi 74.13 puan azalarak 17,659.56 puana geriledi. 
+     Böylece ilk seansa göre, mali grup hisseler ortalama yüzde 0.08 değer kazanırken, sanayi grubu hisseler ortalama yüzde 0.05, hizmetler grubu hisseler ise ortalama yüzde 0.42 oranında değer kaybetti. 
+     2. seansta işlem gören toplam 310 hisse senedinden 92'si değer kazandı, 137'si değer yitirdi, 81 hisse senedinin fiyatında değişiklik olmadı. 
+     2. seansta, 578 milyon 432 bin 55 YTL'lik işlem hacmi kaydedildi. Günlük işlem hacmi, 947 milyon 585 bin 646 YTL olarak hesaplandı. 
+     2. seansta Petrol Ofisi, İş Bankası C , Marmaris Martı Otel, Akbank ve Koza Davetiye, en çok işlem gören hisse senetleri oldu. 
+     
+</TEXT>
+</DOC>

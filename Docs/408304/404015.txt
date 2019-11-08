@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 404015 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/16/son/soneko44.html </URL>
+<DATE> 2005/12/16/ </DATE>
+<TIME> 16.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sezen Aksu'nun eserlerine teknolojik takip 
+</HEADLINE>
+<TEXT>
+
+     Sezen Aksu'nun, tüm radyo ve televizyonlarda yayınlanan eserlerini Escort Computer tarafından geliştirilen MSTATS sistemi ile takibe alacağı bildirildi. 
+     Escort Computer'den yapılan açıklamada, müzik parçalarının radyo ve televizyonlarda hangi tarihte kaç kez çalındığının takibini yapabilen ve sanatçıların telif haklarını talep edebilmelerine imkan tanıyan MSTATS ile Sezen Aksu'nun önümüzdeki günlerde tüm eserlerinin Türkiye çapındaki takibini gerçekleştireceği kaydedildi. 
+     MSTATS, reklam verenler açısından da medya planlarının hangi oranlarda uygulandığının takibini yapabiliyor. 
+     
+</TEXT>
+</DOC>

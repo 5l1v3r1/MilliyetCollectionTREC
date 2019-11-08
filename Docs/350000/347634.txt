@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 347634 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/31/son/sonyas23.html </URL>
+<DATE> 2005/05/31/ </DATE>
+<TIME> 18.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Çocuklara 100 dolara dizüstü bilgisayar 
+</HEADLINE>
+<TEXT>
+
+     ABD'nin Boston kentinde Massachusetts Teknoloji Enstitüsü MIT tarafından üçüncü dünya ülkelerindeki fakir çocuklara satılmak üzere 100 dolarlık dizüstü bilgisayar geliştirildi. 
+     MIT tarafından yapılan açıklamada, üçüncü dünya ülkelerinde çocukların piyasa değeri 800 avro'dan başlayan bilgisayarları almalarının mümkün olmadığı için böyle bir proje geliştirildiği ve 100 ila 200 milyon adet dizüstü bilgisayarın 2007 yılına kadar üçüncü dünya çocuklarına dağıtılacağı bildirildi. 
+     MIT araştırma görevlisi Nicholas Negroponte, ''Müşteriler dizüstü bilgisayarlarda pazarlama ve dağıtım için de para ödüyor. Bu da bilgisayar fiyatının yüzde 50'sini oluşturuyor. Bu ucuz bilgisayarlardaysa pahalı programlardan ve tekniklerden vazgeçerek fiyatı büyük ölçüde düşürmeyi başardık'' dedi. 
+     Bilgisayarların büyük miktarlarda satılmasıyla üretim maliyetlerinin de düşürüldüğünü belirten Negroponte, çocukların ucuz bilgisayarlar sayesinde telefon bağlantılarının bulunmadığı bölgelerde de birbirleriyle iletişim kurabileceklerini kaydetti. 
+     
+</TEXT>
+</DOC>

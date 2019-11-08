@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 351836 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/14/son/soneko41.html </URL>
+<DATE> 2005/06/14/ </DATE>
+<TIME> 16.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa günü 319 puanlık artışla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeksi, 2. seansta 5.66 puan artarak 25,929.93 puandan kapandı. 
+     Hisse senetleri 2. seansta, ortalama yüzde 0.02 oranında değer kazandı. 
+     İlk seanstaki 314.28 puanlık artış dikkate alındığında, Borsa endeksi günün tamamında 319.94 puan yükseldi. Hisse senetlerinin günlük ortalama değer kazancı yüzde 1.25 oldu. 
+     Endeks 2. seansa, 6.24 puan azalarak 25,918.03 puandan başladı. Seansın ilk yarısını 25,893.28 puandan geçen endeks, en düşük 25,846.68 puana gerilerken, en yüksek 26,006.63 puanı gördü. 
+     2. seans kapanışında, mali endeks 64.30 puan artarak 38,188.66 puana, sanayi endeksi 15.87 puan artarak 20,013.03 puana yükseldi, hizmetler endeksi ise 56.98 puan azalarak 14,138.23 puana geriledi. 
+     Böylece ilk seansa göre, mali grup hisseler ortalama yüzde 0.17, sanayi grubu hisseler ortalama yüzde 0.08 değer kazandı, hizmetler grubu hisseler ise ortalama yüzde 0.40 oranında değer kaybetti. 
+     2. seansta işlem gören toplam 304 hisse senedinden 105'i değer kazandı, 117'si değer yitirdi, 82 hisse senedinin fiyatında değişiklik olmadı. 
+     2. seansta, 345 milyon 565 bin 446 YTL'lik işlem hacmi kaydedildi. Günlük işlem hacmi, 697 milyon 61 bin 632 YTL olarak hesaplandı. 
+     2. seansta Şekerbank, Garanti Bankası, Yapı ve Kredi Bankası, Aselsan ile Denizbank, en çok işlem gören hisse senetleri oldular. 
+     
+</TEXT>
+</DOC>

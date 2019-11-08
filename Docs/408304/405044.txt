@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 405044 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/20/son/soneko46.html </URL>
+<DATE> 2005/12/20/ </DATE>
+<TIME> 16.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD üretici fiyat endeksi Kasım'da beklenenden fazla geriledi 
+</HEADLINE>
+<TEXT>
+
+     ABD'de Üretici Fiyatları toptan eşya Endeksi Kasım ayında yüzde 0.7 ile, beklenenden fazla bir düşüş gösterdi. 
+     Çalışma bakanlığının açıklamasında, endekste Kasım ayında kaydedilen düşüşün aylık bazda son ikibuçuk yılın 2003 Nisan ayından beri en yüksek düşüşü olduğu belirtildi. 
+     Birçok etmene bağlı olarak kısa vadede büyük dalgalanmalar gösterebilen enerji ve gıda maddelerini dışarıda bırakarak hesaplanan ''çekirdek endeks'' ise Kasım ayında yüzde 1'lik yükseliş gösterdi. 
+     Üretici fiyatlarında genel ve çekirdek endekslerin Kasım ayı performansı piyasa beklentilerinden iyi oldu. Piyasalarda genel endeksin yüzde 0.5 düşeceği, çekirdek endeksin ise yüzde 0.2 artacağı bekleniyordu. 
+     Daha önce, Tüketici Fiyatları Endeksi'nin de Kasım ayında yüzde 0.6 ile son 56 yılın en büyük düşüşünü gösterdiği açıklanmıştı. 
+     Endekslerin piyasa beklentisinden iyi çıkması, ABD'de enflasyonun kontrol altında olduğunun işareti olarak değerlendiriliyor. 
+     
+</TEXT>
+</DOC>

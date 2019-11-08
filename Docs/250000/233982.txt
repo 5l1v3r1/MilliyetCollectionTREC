@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 233982 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/22/son/sonyas18.html </URL>
+<DATE> 2004/04/22/ </DATE>
+<TIME> 12.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İki anahtarlı kapı kilidi... 
+</HEADLINE>
+<TEXT>
+
+     İngiltere'de normal kilitlerden daha güvenli olduğu bildirilen iki anahtarlı kilit üretildi. 
+     ''New Scientist'' dergisinde yayımlanan habere göre, Londra'da yaşayan mucit Malachi McKenna tarafından geliştirilen yeni kilit sisteminin patenti alındı. 
+     Yeni kilit sayesinde ev ya da dükkan sahibinin anahtarlardan birini rahatlıkla boyacı, tesisatçı ya da komşusuna verebileceği belirten haberde, ev sahibinin anahtarı geri aldığında, bu anahtarın kopyasının işe yaramayacağı belirtildi. 
+     İki anahtarı olan kilidin içinde ayrı ayrı anahtarlarla açılan bir mekanizma bulunuyor. Kilit, ev sahibinin isteğine göre, ya sadece bir anahtarla, ya da yalnızca iki anahtarla açılabiliyor. Bu durumda, geçici olarak verilen anahtarın kopyası yapılsa bile, kapıyı açamıyor. 
+     Haberde, kilidin normal kilitler gibi göründüğü belirtildi. 
+     
+</TEXT>
+</DOC>

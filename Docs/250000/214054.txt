@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 214054 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/02/09/son/soneko12.html </URL>
+<DATE> 2004/02/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansta yüzde 0.21 değer kaybetti... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi, önceki kapanışa göre 35.24 puan kayıpla, 1. seansı 16,930.59 puandan tamamladı. 
+     1. seansta hisse senetlerinin ortalama değer kaybı yüzde 0.21 olarak gerçekleşti. 
+     Geçen hafta 16,965.83 puandan kapanan İMKB Ulusal 100 Endeksi, 1. seansa 17.21 puan kayıpla 16,8,486.61 puandan başladı. 
+     Devam eden satışlarla seansın ilk yarım saatlik bölümünü 16,593.92 puandan geçen endeks, Özelleştirme Yüksek Kurulu'nun ÖYK , TÜPRAŞ'ın Efremov Kautschuk GMBH grubuna satışını onayladığı açıklamasının ardından toparlandı. 
+     Seansın ilk yarısını 16,783.68 puandan geçen endeks, seans içinde en düşük 16,565.68, en yüksek 16,948.62 puanı gördü. 
+     Seans sonunda mali endeks 46.52 puan kayıpla 22,943.02 puana, sanayi endeksi 73.46 puan kayıpla 15,150.01 puana geriledi, hizmetler endeksi 72.18 puan artışla 9,361.65 puana yükseldi. 
+     Böylece, önceki kapanışa göre mali grup hisseler ortalama yüzde 0.20, sanayi grubu hisseler ortalama yüzde 0.48 değer kaybetti, hizmet grubu hisseler ise ortalama yüzde 0.78 değer kazandı. 
+     1. seansta işlem gören toplam 284 hisse senedinden 150'si değer kaybederken, 70 hisse senedi değer kazandı, 64 hissenin fiyatında değişiklik olmadı. 
+     Seansta, 289 trilyon 572 milyar 766 milyon liralık işlem hacmi oluştu. 
+     1. seansta, Doğan Holding, İş Bankası C , Yapı Kredi Bankası, Koç Holding ve Akbank en yoğun işlem gören hisseler oldu. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,57 @@
+<DOC>
+<DOCNO> 73446 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/03/19/son/soneko24.html </URL>
+<DATE> 2002/03/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+''En çok aranan'' hacker İstanbul'da idi.. 
+</HEADLINE>
+<TEXT>
+
+     Kod adı ''Condor'' olan ve Digital Equipment Company'nin ağına yetkisiz giriş yaptığı için ABD Federal Soruşturma Bürosu'nun FBI ''Most Wanted'' en çok aranan posterinde aranan ilk hacker olan Kevin Mitnick, artık uslandığını, ancak bunun aldığı cezalarla ilgisi bulunmadığını, bilgi güvenliğinin iş dünyası için ne kadar önemli olduğunu anladığım için uslandığını söyledi. 
+     Bilişim Sistemlerinde Güvenlik Denetim Kontrol Konferans ve Fuarı'na SACIS 2002 Los Angeles'den video konferansla konuşmacı olarak katılan Mitnick, kariyerinin amatör radyoya ilgi duymasıyla başladığını ve daha sonra telsiz ve telefonlar üzerinde yoğunlaştığını kaydetti. 
+     ''Annem çalıştığı için evde tek başıma çok fazla zaman geçiriyordum ve kendimi teknolojiye verdim'' diyen Kevin Mitnick, daha sonra sistemler üzerinde durduğunu ve bunu kötü niyetle değil entelektüel merakından yaptığını dile getirdi. 
+     O zamanlar hacker olmanın bir onur ifadesi olduğunu ancak günümüzde bu faaliyetlerin suç unsuru olduğunu anlatan Mitnick, Hacker'lerin hiçbir zaman tek bir kefeye konulamayacağını iyi ya da kötü niyetli insan olabileceğini bildirdi. 
+     
+     "İnternette 100 güven yoktur.." 
+
+     Hacker'lerin finansal kaynaklarına ilişkin bir soruyu yanıtlayan Kevin Mitnick, şunları kaydetti 
+     ''İki türden bahsediyoruz birincisi 8-9 yaşlarında gündüz okula gidip gece hacker olanlar. Bir de bu işi profesyonel olarak yapanlar var. Bunların bir kısmı şirketlerin gizli bilgilerini çalarak gelir elde ediyor. Bir de şirketlerin daha fazla internete kaymasıyla ve e-ticarete yönelmesiyle ortaya çıkan tür var. Bunlar da güvenlik unsurlarını belirleyip, zayıflık testleri gibi görevler üstleniyorlar.'' Güvenlik unsurunun bir ürün değil bir süreç olduğunu vurgulayan Mitnick, internette yüzde 100 güvenden bahsedilemeyeceğini belirterek, ''İstediğiniz kadar güvenlik uygulamaları, firewall kullanın. 
+     Şirketinizde görevli bir çalışanı kandırırsam, bu şekilde istediğim bilgilere ulaşabilirim. İnsan en önemli unsurdur'' diye konuştu. 
+     Mitnick, bir izleyicinin yazılım şirketlerinin ürünlerinde özellikle birtakım boşluklar ve açıklar bırakıp bırakmadıklarını sorması üzerine şöyle devam etti 
+     ''ABD istihbaratı bu tür zayıflıkları bulunan programları, yazılımları ABD dışına gönderme isteğinde olabilir, bu programla belirli bilgilere ulaşmak isteyebilir. Kanıtım yok ama böyle bir şey olabilir. Ben Sun Microsystem'de ve başka yerlerde çalışırken arka kapı dediğimiz ve benim daha sonra sisteme yetkisiz girmemi sağlayacak güvenlik açıkları koyabilirdim ama yapmadım.'' FBI'nın şüphelendikleri kişilerin bilgisayarına göndererek bilgi almasını sağlayacağı savunulan ''Sihirli Lamba'' isimli virüs programına ilişkin bir soruyu da yanıtlayan Mitnick, ''Türkiye'ye yapılsaydı ve casus programlarla bilgi toplanmak istenseydi siz ne hissederdiniz '' dedi. 
+     ABD'de eski bir polisin bu tür programlar üreten bir firması olduğunu belirten Mitnick, ''Bu programlar baskıcı rejimlere Çin, Suudi Arabistan gibi ülkelere gönderilerek bu ülkedeki vatandaşların devlet tarafından izlenmesine neden olabilir. Gerçi bu şirketi hacklediler ve bütün dünyaya açtılar'' diye konuştu. 
+     1995 yılında cep telefonunun izlenmesi sonucu yakalandığını 
+     belirten Kevin Mitnick, çarptırıldığı cezaların işlediği suçun çok ötesinde olduğunu söyledi. Dünyaca ünlü Hacker Mitnick, şunları kaydetti ''New York Times'ta beni kötüleyen manşetler attılar, hakkımda çeşitli sahte öyküler yazıldı. Gazetecilik ilkelerini çiğnediler. Gerçek hikayem ortaya çıkmadı benim, gerçekten ne yaptığımı dünya bilmiyor, basının hikayeleri dışında...'' Birçok suç işlediğini anlatan Mitnick, artık uslandığını hissettiğini ancak ama bunun aldığı cezalarla ilgisi olmadığını, bilgi güvenliğinin iş dünyası için ne kadar önemli olduğunu anladığı için uslandığını söyledi. Türkiye'ye gelmekten onur duyacağını kaydeden Mitnick'in, ''Türkiye'yi gelmeyi her düşündüğümde aklıma Geceyarısı Ekspresi geliyor ve korkuyorum'' şeklindeki esprili sözleri salonda soğuk rüzgar estirdi. 
+     
+     Ücretsiz telefonla konuşma sisteminin mucidi 
+
+     Daha sonra düzenlenen oturuma katılan ve yaşayan efsane olarak anılan hacker John Draper ise bir hackerin hapse atılmasının yapılabilecek en yanlış hareket olduğunu belirterek, bu şekilde bilgilerin hapiste bulunan ve suça yakın kişilere yayılacağını ve bunun daha büyük sorunlara yol açacağını belirtti. 
+     Draper, Captain Crunnch adıyla, ücretsiz telefon konuşması yapılabilen Blue Box cihazıyla ünlü bir hacker oldu. 
+     1972 yılında tutuklandı, 1976 yılında kablolu sistem sahteciliği 
+     nedeniyle tutuklanarak Californiya Federal Cezaevi'ne gönderildi. 
+     Modern hackerlere karşı kullanılan CrunchBox sistemi geliştiren Draper'in kendine ait güvenlik şirketi bulunuyor. 
+     
+     Mitnick "Siber uzayın kayıp çocuğu" 
+
+     20 Ocak 2003 tarihine kadar şartlı salıverme kurallarına uyma 
+     zorunluluğu bulunan Mitnick'in Güney Kaliforniya dışına çıkması yasak. 
+     Yakalandığı zaman bilgisayar bağımlılığının tedavisi için bir yıl ceza alarak tedavi merkezine gönderilen Mitnick, hacker olmadan önce Passkey Systems isimli şirkette sistem yöneticiliği yapıyordu. 
+     İnternet sitelerini ''siber uzayın kayıp çocuğu'' takma adıyla hackleyen Mitnick, 1989 yılında Digital Equipment'in sistemini çökertti, FBI'nın en çok arananlar listesine giren ilk hacker oldu, yakalandı ve bir yıl hapis yattı. 
+     1992 yılında Motor Vehicle'nin bilgisayarına girdi, 1995'te 20 bin 
+     kredi kartı numarasının şifresini kırdı, FBI'nın sitesini çökertti. 
+     FBI, izleme cihazları kullanarak Mitnick'i buldu ve dairesinde gözaltına aldı. Herhangi bir elektronik ağın bulunduğu yerde tehlikeli olarak tanımlandığı için kefaletsiz 4 yıl mahkemeye çıkarılmadan hapis yattı. 
+     2003'e kadar bilgisayar kullanması ve cep telefonuyla konuşması 
+     yasaklandı. 
+     Bugünkü video konferansa da özen izinle çıkabilen Mitnick'i konuşması, aralarında resmi kurumlardan uzmanların da bulunduğu çok sayıda izleyici tarafından ilgiyle takip edildi. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

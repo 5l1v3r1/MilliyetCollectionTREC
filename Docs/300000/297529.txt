@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 297529 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/14/son/sondun59.html </URL>
+<DATE> 2004/12/14/ </DATE>
+<TIME> 22.06 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yeni virüs yolda... Noel elektronik postalarıyla gönderiliyor 
+</HEADLINE>
+<TEXT>
+
+     Finlandiyalı internet güvenliği uzmanları, Noel ve yılbaşı için gönderilen elektronik postaların yeni bir virüs içerdiği uyarısında bulundu. 
+     Fin F-Secure şirketi virüs araştırma yetkililerinden Mikko Hyppoenen, yaptığı açıklamada, virüs içeren elektronik postaların 15 Avrupa ülkesinin dilinde gönderildiğini belirtti. 
+     ''Zafi.D'' adlı virüsün, bulaştığı bilgisayardaki elektronik posta adreslerine virüslü posta göndererek yayıldığı kaydedildi. 
+     Virüsün, gönderildiği kişinin ülkesini, elektronik posta adresinden tespit edebildiği belirtiliyor. Şayet, elektronik posta adresi ''.fr'' ile bitiyorsa, virüs o kişiye Fransızca bir mesajla gönderiliyor. 
+     Finlandiyalı uzmanlara göre, bulaştığı bilgisayara dışarıdan müdahale edilmesini de sağlayan virüs sayesinde, virüslü bilgisayarlara elektronik postayla ''spam'' gönderilebiliyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 238240 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/07/son/sonyas04.html </URL>
+<DATE> 2004/05/07/ </DATE>
+<TIME> 10.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sahte e-postalara dikkat .. 
+</HEADLINE>
+<TEXT>
+
+     İnternette kişisel bilgilere ulaşmada en sık banka formatı ile hazırlanan sahte e-postaların kullanıldığı bildirildi. 
+     Uzman Özgür Danışman, internetin çağın koşulları içinde bir gereklilik olduğunu, ancak kullanıcıların sanal ortamdan gelebilecek tehlikelere karşı bilinçli olmaları gerektiğini söyledi. 
+     Güvenlik uygulamaları olmayan bilgisayarlara, dünyanın herhangi bir yerindeki bir kullanıcının müdahale edebileceğini ifade eden Danışman, şunları söyledi 
+     ''Son dönemde internette kişisel bilgilere ulaşmada en sık banka formatı ile hazırlanan sahte e-postalar kullanılıyor. E-postalarını kontrol eden kullanıcı, bankadan geldiğini sandığı ve güvenerek açtığı postası ile tuzağa düşüyor. Gelen e-postada şifrenizin yenileneceği bildiriliyor ve şifrenin girilmesi isteniyor. Bankasına güvenen kişi, istenileni yaptığında ise farkına varmadan kişisel bilgilerini paylaşmış oluyor.'' Danışman, internet üzerinden anlık mesaj, oyun ya da müzik amacıyla indirilen ücretsiz programların da bilgisayar kullanıcıları için büyük tehlike olduğuna dikkati çekerek, ''Siz ücretsiz bir programı indirirken, aynı zamanda bir başka program da sizin bilginiz dışında bilgisayarınıza yükleniyor. Bu yolla sizin bilgisayarınızı ortak kullanıma açıyor'' dedi. 
+     Danışman, internet kullanıcılarına şu önerilerde bulundu 
+     ''İnterneti bir mahalle olarak görün, bilgisayarınızı da kendi eviniz. Kapınızı kilitlemezseniz, soyulma olasılığınız artar. Kullanıcılar bilgisayarlarına anti virüs programı yüklesinler ve mutlaka sık sık güncellesinler. Anti virüs tek başına yeterli olmaz. İşletim sisteminizi de açıklara karşı güncel tutmalısınız. En önemlisi ise mutlaka güvenlik duvarı dediğimiz yazılımlar kullanın. 
+     Güvenlik yazılımları servis sağlayıcılardan alınabildiği gibi, paket program olarak da satılıyor. Ortalama 40-50 dolar tutarındaki bu paketler aracılığıyla bilgisayarınızı internet üzerinden gelecek tehlikelere karşı koruyabilirsiniz.'' 
+
+     
+</TEXT>
+</DOC>

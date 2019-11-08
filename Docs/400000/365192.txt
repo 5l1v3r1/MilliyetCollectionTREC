@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 365192 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/28/son/sonyas03.html </URL>
+<DATE> 2005/07/28/ </DATE>
+<TIME> 00.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yeni bir devrim Nano takip 
+</HEADLINE>
+<TEXT>
+
+     İngiltere Kraliyet Üniversitesi Imperial College ile Durham Üniversitesi bilimadamları, evrakta sahtekarlığın önüne geçmek için ''Nano metrenin milyarda biri teknoloji'' sayesinde imal edilecek malzemenin taramasıyla daha iyi sonuçlar alınabileceğini bildirdi. 
+     Molekül-atom düzeyinde önemli belgelerin yapımında sağlanacak ''mikroskobik kimlik'' ve bunların örneğin polis kontrolünde lazer taramasından geçirilmesiyle belgenin üstünde ne gibi ''bir oynama yapıldığını'' saptamak daha kolay olabilecek. 
+     Örneğin pasaport ve diğer kimlik belgelerinin plastik kağıt aksamının fabrika çıkışı atom düzeyinde ''kodlu kimlikli'' olması, adli işlemi daha da kolaylaştıracak. 
+     Londra-Imperial College'dan nanoteknoloji uzmanı Prof. Dr. Russell Cowburn, ''Yeni teknolojiyle üretilecek belge dokusu, kendi benzersiz DNA'larına sahipmiş gibi olacaklar'' dedi. 
+     Bilimadamları, yeni belge malzemesi üretimi için ileri teknoloji şirketleriyle temasta. 
+     
+</TEXT>
+</DOC>

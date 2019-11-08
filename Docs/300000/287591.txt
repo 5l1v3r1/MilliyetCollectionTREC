@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 287591 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/09/son/sonyas19.html </URL>
+<DATE> 2004/11/09/ </DATE>
+<TIME> 12.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dünyanın en hızlı bilgisiyarı ünvanını IBM aldı... 
+</HEADLINE>
+<TEXT>
+
+     Amerikan IBM firması, 3 yıl aradan sonra en hızlı bilgisayar unvanını ABD'ye geri getirdi. 
+     ABD'de bağımsız bilgisayar bilimi akademisyenlerinin her 6 ayda bir açıkladıkları en hızlı 500 süper bilgisayar sıralamasında, IBM'in henüz yapımı tamamlanmayan Big Blue Gene L birinciliği aldı. 
+     Listeye göre, IBM'in sistemi saniyede 70,72 trilyon işlem hızıyla birinci sırayı alırken, rakibi Japon NEC firmasının Earth Simulator sistemi saniyede 35.85 trilyonluk işlem hızıyla üçüncü oldu. 
+     NASA'nın Ames Araştırma Merkezi'ndeki sistemi de saniyede 51,87 trilyon işlem hızıyla IBM'in ardından ikinciliği aldı. 
+     Listeyi hazırlayanlardan Erich Strohmaier isimli bilgisayar uzmanı, 2.5 yıl önce ortaya çıkan Japon bilgisayarının eskiden rakibinden 4.5 kez hızlı olduğunu, ancak IBM'in Earth Simulator'ün tahtını elinden aldığını belirtti. 
+     ABD'nin nükleer stoklarını ve diğer araştırmaları hesaplamada kullanılmak üzere gelecek yıl Lawrence Livermore Ulusal Laboratuvarı'na yerleştirilecek Blue Gene'in, tam kapasiteyle çalıştırıldığında saniyede 360 trilyon hesap yapması planlanıyor. 
+     Yılda 1 milyon dolar tutarında elektrik tüketeceği ve 130 bin işlemciden oluştuğu belirtilen Blue Gene'in 230 metrekare yer kaplayan ve 100 milyon dolara mal olan bir sistemden oluştuğu kaydediliyor. 
+
+     
+</TEXT>
+</DOC>

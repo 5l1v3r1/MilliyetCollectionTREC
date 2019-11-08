@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 334961 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/19/son/sonyas19.html </URL>
+<DATE> 2005/04/19/ </DATE>
+<TIME> 13.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+MR cihazına ucuz alternatif... 
+</HEADLINE>
+<TEXT>
+
+     Avustralyalı iki bilim adamı, MR manyetik rezonans cihazına alternatif ucuz bir yöntem geliştirdi. 
+     Canberra'lı iki bilim adamı tarafından geliştirilen bir çeşit ''yüksek teknoloji şapkası'', kulaktaki sıcaklık değişiklikleri sayesinde beyin faaliyetlerini gözlemliyor. Buluş, beyin ameliyatı geçirecek hastaların risklerinin tespiti konusunda ucuz bir yöntem olarak görülüyor. 
+     Beyin bir göreve yoğunlaştığında kullandığı taraftaki kan miktarının artışı nedeniyle kulak zarının sıcaklığında oluşan çok hassas değişimleri kaydedebilen cihaz, beyin ameliyatına girecek hastaların risklerinin gözlemlenmesi konusunda önemli avantaj sağlıyor. 
+     ''Eğer beynin bir bölgesi daha aktif ise daha fazla kana gereksinim duyduğunu ve şahdamarında kan akışının hızlandığını'' anlatan araştırmacılardan Nicolas Cherbuin, ''bu kanın beyin ve iç kulak arasında paylaşıldığını ve kulak zarı sıcaklığı ölçülerek, beynin hangi tarafının aktif olduğunun saptanabildiğini'' kaydetti. 
+     Henüz genel kullanım için onaylanmayan bu görüntüleme cihazının ilk prototipinin yaklaşık 3800 dolara mal olduğu belirtiliyor. 
+     
+</TEXT>
+</DOC>

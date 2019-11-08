@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 178184 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/26/son/sondun12.html </URL>
+<DATE> 2003/08/26/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yeni Sobig virüsü her an vurabilir.. 
+</HEADLINE>
+<TEXT>
+
+     Uzmanlar, interneti sarsan Sobig virüsünün yeni sürümünün her an ortaya çıkabileceği ve yeni sorunlara yol açabileceği uyarısında bulundu. 
+     Yapılan açıklamada, yeni virüsün tahmin edildiği gibi 10 eylülde değil, çok daha önce ortaya çıkabileceğinin anlaşıldığı kaydedildi. 
+     Bu yoldaki görüş, Norton antivirüs programını üreten Symantec firması araştırma direktörü Steve Trilling tarafından ortaya atılırken, merkezi Finlandiya'da bulunan ''FSecure Corp'' adlı firmanın uzmanları da bu görüşe katıldılar. 
+     Öte yandan merkezi Clearswift'te bulunan ''ThreatLab'' adlı kuruluşun başkanı Peter Simpson, ''Sobig virüsünü yazan kişilerin örgütlü bir suç şebekesi olabileceğini'' öne sürdü. 
+     ''Sayısal olarak Sobig tüm rekorları kırmış bulunuyor. Ancak hikaye burada sona ermiyor'' diyen Simpson, ''Sobig, kontrollü biçimde piyasaya sürülen bir dizi virüsün 6.'sı. Bunu yazanlar, işi yatak odalarında yapmıyorlar. Bu düpedüz örgütlü suç'' açıklamasında bulundu. 
+     Simpson, ''gelecek günlerde çok daha ürkütücü virüslerle karşılaşılmasının kaçınılmaz olduğunu'' sözlerine ekledi. 
+     Sobig'in ilk sürümü ocak ayında ortaya çıkmış, bunu 4 ay sonra görülen Sobig.B izlemişti. Sobig'in yeni sürümleri, ortalama 1-3 hafta arayla dolaşıma giriyor. Bir hafta önce ortaya çıkan Sobig.F, Windows programı kullanan yüz binlerce bilgisayarı kontrolü altına alarak çöp-posta niteliğinde yaklaşık 200 milyon e-mail gönderilmesine sebep olmuştu. 
+     
+</TEXT>
+</DOC>

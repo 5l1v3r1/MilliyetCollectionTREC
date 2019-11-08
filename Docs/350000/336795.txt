@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 336795 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/25/son/sonyas05.html </URL>
+<DATE> 2005/04/25/ </DATE>
+<TIME> 07.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilimadamları bitkilerin genetik yapısında insan geni kullanıyor .. 
+</HEADLINE>
+<TEXT>
+
+     Bilim adamları, bitkilerin genetik yapısını değiştirmek için artık insan geni kullanmaya başladı. 
+     Habere büyük tepki gösteren çevreler, bilim adamlarını ''Frankeştayn gıda'' üretmekle suçladı. 
+     Çevreciler konuyla ilgili bir açıklama yaparak, hiç kimsenin kısmen insan özelliği taşıyan gıdaları tüketmek istemeyeceğini, bunun yamyamlıkla eşdeğer olduğunu öne sürerken, genetik değişimi destekleyenler yeni varılan noktanın etik açıdan problem oluşturmayacağını ve çevresel yararlar getireceğini savundu. 
+     Bu tür değişimin ilk örneği Japon araştırmacıların insan karaciğerinden aldıkları genleri pirince aşılamaları sonucu oluştu. Pirincin böcek ilacı ve endüstriyel kimyasalları sindirebilir hale gelmesi amacıyla yapılan aşılamada kullanılan gen, kod adı CPY2B6 olan ve vücuttaki zararlı kimyasal maddeleri sindirmeye yarayan bir tür enzim üretiyor. 
+     Mevcut genetik değişim teknolojisiyle üretilen bitkilerde bakterilerden alınan ve bitkileri ilaçlamaya dayanıklı hale getiren bir gen kullanılıyor. Ancak bu bitkilerin çoğu sadece tek bir kimyasal ilaç türüne karşı dayanıklı hale geldiği için aynı bitkinin defalarca farklı genler kullanılarak aşılanması gerekiyor. Bu süre içinde ayrık otları ilaca karşı bağışıklık kazandıkları için ilaçlama da etkisini yitiriyor. 
+     Tokyo'nun kuzeyinde Tsukuba şehrindeki Ulusal Ziraibiyoloji Bilimleri Enstitüsü'ndeki araştırmacılar, insan geni eklenen pirinçlerin 13 değişik kimyasal ilaca karşı bağışıklık kazandığını keşfetti. Bu sayede değişik türde ilaçlar kullanılarak yapılan ilaçlamalarla ayrık otlarının büyümesi engellenebiliyor. 
+     Bilim adamları ayrıca, insan geninin doğadaki kirlilikle savaşmaya da yardım edeceğini ileri sürdü. Daha önce tavşanlardan alınan benzer bir genin bitkilere aşılanması üzerinde çalışan Purdue Üniversitesi profesörlerinden Richard Meilan, bu tür bir aşılamaya tabi tutulan bitkilerin kirli topraktaki toksinleri temizlemeye faydalı olabileceğini iddia etti. 
+     Bu genin pirincin yabani türlerine geçmesi durumunda ilaçlamalara karşı süper dayanıklı bir ayrık otu türünün oluşabileceği ihtimalinden de bahseden Meilan, bitkilere insan geni aşılanmasında etik olarak bir sakınca görmediğini, Frankeştayn gıda ifadesini ise saçma bulduğunu dile getirdi. 
+     Bu gelişmeden önce aralarında Prens Charles'ın da bulunduğu pek çok kişi canlılar üzerinde doğal olmayan düzenlemeler yapıldığı gerekçesiyle genetik değişim teknolojisine karşı çıkıyordu. 
+     
+</TEXT>
+</DOC>

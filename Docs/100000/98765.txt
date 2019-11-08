@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 98765 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/07/30/guncel/gun08.html </URL>
+<DATE> 2002/07/30/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bu yıl puanlar düşük olabilir 
+</HEADLINE>
+<TEXT>
+
+Uzmanlardan adaylara Tercih yaparken geçen yılın puanlarını değil yüzdelik dilimleri göz önüne alın 
+     SİBEL KAHRAMAN İstanbul 
+
+     Üniversite tercihleri için son kararlar verilirken, uzmanlar bu yıl puanlarda düşme beklediklerini söylediler. 
+     MEF Dershanesi uzmanları, adayların fakültelerin geçen yılki puanlarına bakarak, "istediğim yere giremeyeceğim" endişesine kapılmamaları gerektiğini belirterek, "Böyle bir düşünce doğru olmayacak. Bu nedenle tercih yaparken geçen yılın puanlarını değil, yüzdelik dilimlerini göz önünde tutmak gerekiyor" dediler. 
+     MEF Rehberlik ve Araştırma Birim Müdürü Erdem Kaya, 2001 değerlerine göre puanlarını hesaplayan adayların özellikle sayısal ve sözel puan türünde beklediklerinden farklı puan aldıklarına dikkat çekti. 
+     
+     4.7’lik bir fark var 
+     105 puan ve üzerine bakıldığında geçen yılın sonuçlarına oranla düşüş olduğunu belirten Kaya, "Bu düşme 120 puan ve üzeri değerlendirmede daha da artıyor. Geçen yıl, 4 yıl ve üzerinde eğitim veren lisans programlarını tercih etme hakkı kazanan aday sayısı 651 bin 733 kişiydi. Bu yıl ise bu rakam 613 bin 915 kişi oldu. Arada yüzde 4.7’lik bir fark var" dedi. 
+     Bu yıl en fazla meslek liseleri ve klasik liselerde düşüş görüldüğü belirtilirken, üç puan türünde de yapılması gereken net soru sayısının çok fazla olmadığı bu nedenle düşüşün gerekçelerinin incelenmesi gerektiği belirtildi. 
+     
+Doğru tercih başarı getirir      Adaylar, üniversite tercihlerini 31 Temmuz - 9 Ağustos tarihleri arasında yapacaklar. Tercih yaparken şunlara dikkat etmeniz gerekiyor 
+
+</TEXT>
+</DOC>

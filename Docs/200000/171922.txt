@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 171922 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/27/yazar/uras.html </URL>
+<DATE> 2003/07/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Güngör URAS  </AUTHOR>
+<HEADLINE>
+Fon ve bonoda "reel getiri" fena sayılmaz 
+</HEADLINE>
+<TEXT>
+
+   
+   Ayşe Hanım Teyzem ile Ali Rıza Bey Amcamın üç kuruşları var, beş kuruşları var ama... Onlar için üç kuruş, beş kuruş çok önemli... Hem paraları emniyette olsun, hem de geçimlerine katkı sağlasın istiyorlar. Bu nedenle ikide bir "Paramızı nereye yatıralım " diye sual eyliyorlar... 
+   Bir süre önce bu tür sorulara karşılık "yatırım fonları"nı önermiştim. "Yatırım fonu" denilen şey bir "yatırım sepeti". Bazı sepetlerde hisse senedi ve bono var. Bazı sepetlerde sadece bono ile repo var. Bu sepetleri yönetenler, sepetteki değerlere karşılık "fona katılım belgesi" bastırıyor. Bunu sepetin o günkü fiyatından satıyor. Sepetin fiyatı değiştikçe "fona katılım belgesi"nin fiyatı da değişiyor. Bu belgeler genelde bir banka şubesinden alınıyor, banka şubesinde istenildiğinde paraya çevriliyor. Sepetteki hisse senetleri ve bonolar "Takasbank'ta saklandığı için" yatırım fonları güvenli yatırım aracı sayılıyor. 
+   Milliyet Ekonomi Yatırım Fonları Uzmanı Songül Hatısaru'ya yılbaşında yatırım fonuna yatırım yapanların ne getiri elde ettiklerini sordum. Karşılaştırma yapmak için sadece yatırım fonlarının değil, diğer yatırım araçlarının da 6 aylık getirisini hesapladı. Sonra 6 ayın enflasyon oranı olan yüzde 12.0 tüketici fiyatları artış oranını dikkate alarak bu getirilerin netini reel getiriyi hesapladı. 
+   
+   En çok talep bonoya 
+   Bu yazının altındaki reel getiri tablosuna bakınca, halkımızın bonoya ve yatırım fonlarına neden ilgi gösterdiği anlaşılıyor. Bankalardaki repo hesaplarında sadece 3.3 katrilyon var iken, gerçek kişiler Hazine bonosuna 31.5 katrilyon lira, yatırım fonlarına 12.1 katrilyon lira bağlamış. 
+   Yatırım fonlarındaki 12.1 katrilyon liranın yüzde 66'sı Hazine bonosu ile devlet tahviline, yüzde 32'si repoya ve sadece yüzde 2'si hisse senedine bağlı. 
+   Hisse senedi ağırlıklı A Tipi Yatırım Fonları yılın ilk 6 ayında reel olarak yüzde 2.2 oranında kaybettirmiş. Kısa vadeli bonolara bağlı B Tipi Likit Fonların 6 aylık net getirisi 4.8, ama orta ve uzun vadeli B Tipi Tahvil - Bono Fonları 6 ayda yüzde 8.8 net getiri sağlamış. Buna karşılık bankalardan doğrudan Hazine bonosu satın alanlar bononun vadesine göre yüzde 7.8 ile yüzde 16.3 reel getiri elde etmiş. Bonolar altı aylık dönemde ortalamada ise reel bazda yüzde 13 kazandırmış. Banka mevduatının getirisi ise yüzde 6.1 - yüzde 6.2 dolayında. Dövize, altına para bağlayanlar ilk 6 ayda kaybetmiş. 
+   Ayşe Hanım Teyzem ile Ali Rıza Bey Amcam için 6 aylık reel getiri tablosunu veriyorum. Bu tabloya bakarak kendi kendilerine nereye yatırım yapacaklarına karar verebilirler. 
+   
+   Yatırım fonları ve Hazine bonosu ne kadar kazandırıyor 
+İlk 6 ayda yatırımların net getirisi 6 aylık getiri 6 aylık reel getiri Yatırım aracı A Tipi Yatırım Fonu 9.5 -2.2 B Tipi Likit Fon 17.4 4.8 B Tipi Tahvil - Bono Fonu 21.9 8.8 Repo 17.7 5.1 30 gün vadeli bono 20.7 7.8 91 gün vadeli bono 26.3 12.7 182 gün vadeli bono 30.2 16.3 365 gün vadeli bono 27.3 13.7 Mevduat 1 ay vadeli 18.8 6.1 Mevduat 3 ay vadeli 18.9 6.2 İMKB-100 Endeksli 5.0 -6.3 Dolar -14.2 -23.4 Euro -6.4 -16.4 Döviz sepeti -10.7 -20.2 Cumhuriyet altını -14.8 -23.9 Tüketici enflasyonu 12.0 
+      
+   
+</TEXT>
+</DOC>

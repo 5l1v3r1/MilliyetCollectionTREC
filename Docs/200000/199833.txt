@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 199833 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/04/son/sontur06.html </URL>
+<DATE> 2003/12/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+En büyük asal sayı bulundu... 
+</HEADLINE>
+<TEXT>
+
+     200 binden fazla bilgisayarın kullanıldığı 2 yıllık çalışma sonucunda, 6 milyon 320 bin 430 basamaklı en büyük asal sayı tespit edildi. 
+     New Scientist dergisinde yayımlanan habere göre, bulunan asal sayı bir Mersenne asal sayısı. Mersenne asalları, 2 üzeri p-1 biçiminde yazılan özel bir sayı sınıfına ait. Burada p de bir asal sayı. Mersenne asalları 3, 7, 31, 127, ... diye devam ediyor. Asal sayılar, yalnızca 1'e ve kendilerine bölünebiliyor. 
+     6 milyonun üzerinde basamağı olan en büyük Mersenne asal sayısının 17 Kasım 2003 tarihinde Michael Shafer isimli Amerikalı bir üniversite öğrencisi tarafından bulunduğu belirtilen haberde, sayının gerçekten bir Mersenne asıl sayısı olduğunun yeni doğrulandığı kaydedildi. 
+     Yeni bulunan asal sayıyla Mersenne asallarının sayısının 40'a çıktığı ifade edilen haberde, sayının, 2 üzeri 20.9960.11 - 1 olarak ifade edildiği belirtildi. 
+     
+     SAYININ ÇIKTISINI ALMAK İÇİN 5 TOP KAĞIT GEREKİYOR 
+     Bilgisayar ekranına hiç boşluksuz 2700 kadar karakter sığıyor. Bu durumda bulunan sayı ancak 2390 ekran sayfasına sığıyor. Çıktı almak için yaklaşık 5 top kağıt gerekiyor. 
+     Mersenne asalının hane sayısını şimdilik 6 milyona taşıyan Shafer, 200 binden fazla masa üstü bilgisayarın bağlı olduğu ve kısa adı GIMPS olan ''Büyük İnternet Mersenne Asal Sayı Araştırması'' projesinin 60 binden fazla gönüllü üyesinden biri. Binlerce bilgisayarın birleşmesiyle, bir bilgisayarın binlerce yılda yapacağı hesaplar, çok daha kısa sürede yapılabiliyor. 
+     Haberde, bundan önce George Cameron isimli 20 yaşında Kanadalı bir amatör matematikçi tarafından bulunan 39. Mersenne asalının hane sayısının 4 milyon bin 946 olduğu ve 2 üzeri 13.466.917 - 1 olarak ifade edildiği kaydedildi. 
+     Electronic Frontier Foundation isimli bir vakıf, 10 milyon haneli Mersenne asal sayısını bulana 100 bin dolar ödül verecek. 
+     
+</TEXT>
+</DOC>

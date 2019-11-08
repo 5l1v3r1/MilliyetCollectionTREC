@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 114261 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/10/21/son/sontur02.html </URL>
+<DATE> 2002/10/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Robotlar ODTÜ'de sumo yapacak 
+</HEADLINE>
+<TEXT>
+
+     Teknolojinin mükemmel ürünü olan robotlar da artık Türkiye'de de yarışacak. Robotlar ODTÜ'de sumo yapacak. 
+     Ortadoğu Teknik Üniversitesi bünyesinde etkinlik gösteren ODTÜ Robot Topluluğu'nun düzenlediği ve her yıl geleneksel olarak yapılacak Robot Günleri 2002'nin ilki yarın başlayacak ve iki gün sürecek. 
+     Robotlar serbest kategori, robotop turnuvası, sumo robot turnuvası olmak üzere üç ayrı dalda yarışacak. Oyunlara bireysel olarak ya da gruplar halinde katılınabilecek. 
+     Sumo robot turnuvasında maç iki takım arasında yapılacak. Her takımın robotu olacak. Robotlar dışarıdan müdahale olmadan "dohyo" ring üzerinde mücadele edecek, kazananı hakem belirleyecek. Her maç 3 dakika sürecek. 
+     Robotop turnuvası, iki robotun maç alanında bulunan 11 tenis topundan 6'sını rakip robotton önce merkezdeki kutuya atması şeklinde yapılacak. 
+     Serbest kategoride ise yapay zeka uygulamaları içeren ve çeşitli konularda ilginç ve yararlı işlevleri olan robotların sergi ortamında tanıtımı yapılacak. Yarışmada sıralamayı jüri belirleyecek. Yaratıcılık, performans, zeka düzeyi, teknoloji kullanımı, sadelik ve ziyaretçi oyları gözönüne alınarak değerlendirme yapılacak. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

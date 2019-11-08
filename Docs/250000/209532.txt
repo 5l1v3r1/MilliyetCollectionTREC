@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 209532 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/19/guncel/gun05.html </URL>
+<DATE> 2004/01/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+e - imza geliyor bürokrasi bitiyor 
+</HEADLINE>
+<TEXT>
+
+   Elektronik imzanın hayata geçmesiyle bürokrasiye takılmadan resmi kurumlara e imzayla başvuru yapılabilecek. Kurum arası işlemler de bu yöntemle yapılacak 
+      SERHAT OĞUZ İstanbul 
+   
+   TBMM'de kabul edilen Elektronik İmza Yasası, uzun kuyruklara girmeyi ve masadan masaya dolaşarak yapılan bürokratik işlemleri rafa kaldırmayı, vatandaşın her işini bilgisayarı aracılığıyla yapabilmesini hedefliyor. Ancak bilimadamlarına göre, gelişmiş ülkelerin bile henüz rayına oturtamadığı elektronik imzanın, bilgisayar ve internet kullanımının çok düşük olduğu Türkiye'de yaygınlaşması zor. 
+   Resmi kurumlara imzayla yapılabilen bir hizmet başvurusu ya da beyan formu vatandaş tarafından evinden bilgisayarla yapılabilecek. Ayrıca kurum içindeki birimler ve kurumlar arasındaki işlemler de yine e - imza yöntemiyle yürütülecek. Yasa, elektronik imzada yapılan sahteciliklere iki yıldan beş yıla kadar hapis ve ağır para cezası verilebilmesini öngörüyor. Elektronik imza da delil sayılacak. 
+   İTÜ Elekrik Elektronik Bölümü öğretim üyesi Dr. Berk Üstündağ, şöyle konuştu "Kullanıcıların özellikle kendi adlarına telefon gibi yöntemlerle başkalarına işlem yaptırmaktan kaçınmaları gerekir. Aksi halde çok hayati sorunlarla karşılaşılabilir. En güvenli yöntemler ise, yeni üretilmeye başlanan parmak izi okuyuculu klavyeler ya da iris göz okuyucular kullanmak." 
+   
+   Gelişme aşamasında 
+   TÜBİTAK Bilten Araştırma Kurumu uzmanı Dr. Tolga Tüfekçi ise, uygulamanın ilk olarak kamu kurumlarının kendi içinde pilot olarak denemesi gerektiğini belirtti. Tüfekçi, e - imzanın en başarılı olduğu Güney Kore'de 7 milyon kişinin elektronik imza sertifikasına sahip olduğunu, diğer ülkelerde de henüz gelişme safhasında olduğunu hatırlattı. 
+   
+   Önce sertifika gerekiyor    Elektronik imzayı kullanmak için öncelikle "Elektronik Sertifika Belgesi" almak gerekiyor. Bu belgeyi alırken kullanacağınız imzayı beyan ediyorsunuz. İmzalar güvenlik amacıyla şifrelenmiş olarak tutuluyor. Sertifikayı ilk olarak TÜBİTAK'ın vermesi planlanıyor. İkinci aşamada e - imzanın kullanılabilmesi için, bilgisayarlara takılan ve üzerine özel kalemiyle imza atılabilen "imza tableti" almak lazım. Kağıt imzalar gibi tablete atılan imza, bilgisayardaki belge üzerine aktarılıyor. Sonra hazırlanan belge ilgili kuruma gönderiliyor. İlgili kurum, gerektiğinde sertifika alırken attığınız imzayla karşılaştırma yapıyor. 
+   
+   
+   
+</TEXT>
+</DOC>

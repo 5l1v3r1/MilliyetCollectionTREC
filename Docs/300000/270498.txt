@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 270498 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/09/son/sonyas03.html </URL>
+<DATE> 2004/09/09/ </DATE>
+<TIME> 07.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Çin 2 uydu fırlattı... 
+</HEADLINE>
+<TEXT>
+
+     Çin, bilimsel araştırmalarda kullanılmak üzere uzaya 2 uydu daha yolladı. 
+     Yeni Çin Haber Ajansı'nın bildirdiğine göre, uydular, Uzun Yürüyüş 4-B tipi taşıyıcı füzelerle Kuzey Çin'deki Şanşi eyaletinde bulunan Tayyüen uydu fırlatma merkezinden yerel saatle 07.14'te TSİ 02.14 fırlatıldı. 
+     Şian Uydu İzleme Merkezi'nden verilen bilgilere göre, SJ- A tipi uydu fırlatılışından 11 dakika sonra, SJ- B tipi uydu da ondan bir dakika sonra füzeden ayrılarak belirlenen yörüngeye oturdu. 
+     Kullanım süreleri 2 yıl olan ve Şanghay Uzay Uçuşu Teknolojisi Akademisi ve Dongfanghong Uydu Şirketi ile Çin Uzay ve Bilim Teknolojisi Şirketi'nin işbirliğiyle üretilen uydular, uzay ortamı ile radyasyon ve etkilerinin araştırılması çalışmalarında kullanılacak. 
+     Uzun Yürüyüş tipi taşıyıcı füzelerle 79. kez uydu fırlatan Çin, Ekim 1996'dan bu yana 37 kez arka arkaya başarılı fırlatma işlemleri yaptı. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 231076 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/13/son/sontur20.html </URL>
+<DATE> 2004/04/13/ </DATE>
+<TIME> 13.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+"Kaçak elektrik bağlayan elektrikçiler, 1-2 milyar ücret alıyor .." 
+</HEADLINE>
+<TEXT>
+
+     Gaziantep TEDAŞ Müessese İl Müdürlüğü'ne bağlı kaçak kontrol ekipleri, yaptıkları kontrollerde, akıllara durgunluk veren, kaçak yöntemleri ile karşılaştılar. 
+     AA muhabirinin de katıldığı kontrollerde, TEDAŞ ekipleri Beyazlar Mahallesi 23 nolu sokak üzerinde M.Ç'ye ait evde yaptıkları aramada, kaçak elektrik kullanıldığını tespit etti. Ancak, ekipler kaçak sistemini bütün aramalara rağmen bulamadılar. Bunun üzerine eve uzman bir ekip tarafından daha detaylı araştırma yapıldı. Kontrollerde, elektrik akım rölesi sisteminin bir buatın içine yerleştirildiği ortaya çıkarıldı. Sistemin açıp-kapama kumandasının kapı ziline bağlandığı, kaçak elektriğin bu sistemle kullanıldığı ortaya çıkarıldı. 
+     İlk kez böyle bir kaçak elektrik sistemini ortaya çıkaran kaçak kontrol görevlisi Kadir Felli, sisteminin çalışmasını şöyle anlattı 
+     ''Bu evdeki değişik bir sistemdi. Görevli olarak eve gittiğimizde kapı ziline basıyoruz. O zaman elektrik sayacı otomatik olarak devreye girerek, sayacı çalıştırmaya başlıyor. Evden ayrıldığımızda ev sahibi zile bir kez daha basarak sayacın durmasını sağlıyor, kaçak elektrik kullanmaya devam ediyor. Böyle bir sistemi kaçak ekipleri bütün aramalara rağmen ortaya çıkaramıyorlar.'' Elektrik ziline kurduğu kaçak sistemi ile TEDAŞ ekiplerine zor anlar yaşatan ev sahibi M.Ç, kaçak elektrik kullanmadığını iddia ederek, ''3 katlı bir eve sahibim. Evimin alt katında ise marangoz atölyem bulunuyor. Elektrik ücretleri çok yüksek geliyordu, voltajda çok düşüktü. Seyyar olarak çalışan bir elektrikçiye durumu anlatınca, bana yardımcı olacağını söyledi. Bir sistem yapacağım, böylelikle elektrik ücreti az gelecek, çok kuvvetli akım alırsın dedi. Bende kabul ettim, bu sistemi yaptı. Kaçak elektrik kullandığımın farkında bile değilim. Bunu yapmanın suç olduğunun bilincindeyim. Kaçak elektrik kullandığımı kabul etmiyorum'' diye konuştu. 
+     
+     KAÇAK ELEKTRİK KULLANMA YÖNTEMLERİ 
+     Gaziantep TEDAŞ Müessese Müdürü Abdullah Tancan, Gaziantep ve ilçelerinde kaçak elektrik kullanımına yönelik çalışmaların sürdüğünü belirterek, şunları söyledi 
+     ''Bir vatandaşımız, evin mutfağında yer alan bir fayansın arkasına gömülü vaziyette dokunmatik kaçak sistemi kurmuş. Bu sistem, TEDAŞ görevlisi, eve geldiğinde ev sahibi fayansa dokunmak suretiyle sayacın çalışmasını sağlıyor. İkinci kez dokunduğunda ise sayacın tekrar durmasını sağladığını tespit ettik. Vatandaş buna ''Dokunmatik'' sistemi adını vermiş. 
+     Bir diğer kaçak çeşidi ise,'Kapı açar Sistemi'. Görevliler, eve geldiğinde, kapı açılıp içeri girildiğinde sayaç devreye giriyor. Görevliler evden ayrıldığında da, kapı kapatılınca sayaç tekrar duruyor, kaçak kullanmaya başlıyor. Bu sistem, kapı açılınca otomatik olarak devreye giriyor, kapanınca da duruyor. Yapılan kontrolde, yakalanan ev sahibinin, ''Kapıyı çabuk kapatın elektrik parası gidiyor'' dediğine ekiplerimiz şahit olmuştur. 
+     Vantilatörle çalışan bir sistem de tespit ettik. Evde bulunan vantilatörü kumanda eden cihaz kaçak elektrikte kullanılıyor. Kumanda düğmesinin 4 kademesi kullanılıyor. Elektriği kademe kademe kısmayı sağlıyor. Örneğin, çamaşır makinesi, ütü, fırın veya bulaşık makinası kullanıldığında, kumanda 3-4 kademelerine getirilerek elektrik sayacının içindeki çarkın çalışmasını yavaşlatıyor. Dolayısıyla doğru çalışması önleniyor.'' Tancan, kaçakla mücadelede kararlı olduklarını, bu kararlıklarını ekiplerin sürekli yaptıkları taramalarda gösterdiklerini vurguladı. 
+     Tancan, kaçak elektrik kullananlar hakkında yasal işlem yaptıklarını, bu kapsamda hem kullanan hem de bu sistemi bağlayanlar hakkında ''Hırsızlık'' suçundan Cumhuriyet Savcılığı'na suç duyurusunda bulunduklarını söyledi. Tancan, kaçak elektrik kullanma sistemini elektrikçilerin 1-2 milyar lira karşılığında yaptıklarını öne sürdü. 
+     
+</TEXT>
+</DOC>

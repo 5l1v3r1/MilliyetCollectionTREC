@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO> 402888 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/13/ekonomi/eko02.html </URL>
+<DATE> 2005/12/13/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Telaşa kapılmayın cep'ler hemen kapatılmıyor... 
+</HEADLINE>
+<TEXT>
+
+
+Kaçak cep'lerin kayıt işlemi, abonelerin 'telefonum kapanır' telaşı ile kuyruk çilesi başlattı. Aslında telaşa gerek yok, çünkü hem işlem basit hem de cep'ler hemen kapanmayacak 
+
+ŞÜKRÜ ANDAÇ 
+
+Kayıt dışı cep telefonlarının kayıt altına alınması işlemleri beş gün önce başladı. Ancak, aboneler ne yapacakları konusunda tam olarak aydınlatılmadıkları için, kayıt olayı adeta bir krize dönüştü. Telekomünikasyon Kurumu TK ve cep operatörlerinin çağrı merkezleri kilitlendi, abone merkezlerinde uzun kuyruklar oluştu. Hatta, 'kuyruk sırası olayları' yaşanmaya başladı. Polis müdahale etti. 
+Aboneler gelen mesajlara göre ne yapacaklarını bilemedikleri için, aslında oldukça basit bir işlem, ciddi bir 'ulusal kargaşaya' dönüştü. Yapılması gereken işlemler aslında çok kolay. Ayrıca 'telefonum kapanacak' korkusu da yersiz. Kayıt altına alma işlemi için gerekli adımlar izlendiğinde kolaylıkla sorun aşılabiliyor. Üstelik, TK, önceden belirlediği 13 Aralık bugün itibariyle kayıt dışı telefonları kapatma işlemini, bir anda uygulamaya almayacak. 
+
+Bir anda kapatma yok 
+Kurum, bugünden itibaren operatörlerin elde ettikleri verileri isteyip, sistemde ne kadar kayıt dışı telefon kaldığını tespit ederek, kapatma tarihiyle ilgili kesin kararını verecek. Bu karar operatörlerin genel müdürleri ile tartışılarak alınacak. TK'nın kayıt dışı telefonları kapatmak yerine, yeni mesaj gönderimi yapma olasılığı da var. 
+Bu arada telefonlarının kayıt dışı olup olmadığını internetten öğrenmek isteyen aboneler, 06 tuşlayarak cihazın seri numarasını öğrenip, ardından http imei.tk.gov.tr adresinde bu numarayı sorgulayabiliyorlar. Telefon kayıt dışı çıkarsa, kayıt işlemlerini yapmaları gerekiyor. 
+
+Birden fazla SMS gelirse... Abonelerin yaşadığı en önemli sorun, birden fazla 'kimlik numarası'na mesaj gelmesi oldu. Uzun süredir kullanılan telefonlar için olduğu kadar yeniler için de bu olabiliyor. Birden fazla mesaj gelirse bu, kart sahibinin önceden başka telefon kullanmasından kaynaklanıyor. Bu durumda abone, cihazın kimlik numarasını öğrenip, kendisine gelen numara ile karşılaştıracak. Gelen numaralar, kullanılan cep'e ait değilse, 'hayır' tuşuna basılacak. 
+
+Otomatik kayıt yapılıyor Kayıt dışı telefonlar, 5 YTL karşılığında kayda alınıyor. Operatörler, hediye puanlardan 5 YTL'yi düşerek, sorun yaşanmadan sürecin tamamlanmasını öngörüyorlar. 
+Gelen kimlik numarası ile, cihazın 06 tuşlarına basılarak öğrenilen numara aynı ise, abonenin hiçbir şey yapması gerekmiyor. Abone telefonda herhangi bir tuşa basmadığı takdirde, operatör hediye puandan 5 YTL'yi kesip, cihazı kayıt altına alıyor. 
+Kayıt altına alma işlemlerine bakıldığında operatörlerin tercih ettiği yollar şöyle 
+
+TURKCELL Cihazı kayıt dışı olan abonelerine SMS göndererek, 5 YTL'yi Hazır Kart'lı abonelerinin KontörBizden'deki hediye kontörlerinden, faturalı abonelerinin HediyeCell puanlarından düşerek, aboneleri adına ödüyor. Mesaj geldiğinde, telefonlar üzerindeki 'hayır' tuşuna basarsanız, kayıt altına alınmıyor. 'Evet' için herhangi bir tuşa basılması gerekmiyor. 
+TELSİM Aboneler, 7046'yı arayarak veya boş SMS göndererek, telefonlarının kayıt altında olup olmadığı öğreniyor. Ardından, abonenin onayıyla kayıt dışı telefon için 5 YTL, faturalı hatlarda hediye birikim, ön ödemeli kartlarda ise hediye kontör puanlarından düşülüyor. Telsim, kendisine gelen mesajlara bakıp kayıt dışı telefonları kapatıyor. 
+AVEA Aboneleri SMS yoluyla bilgilendiriyor. Ardından kayıt dışı olanlar, şirketin iletişim merkezlerine giderek 5 YTL yatırmanın yanı sıra 9858'e SMS atarak veya arayarak kayıt olabiliyor. Avea da hediye puan uygulamasını bazı aboneleri için kullanıyor. 
+
+
+</TEXT>
+</DOC>

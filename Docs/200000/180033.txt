@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 180033 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/03/son/soneko31.html </URL>
+<DATE> 2003/09/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Merkez Bankası kurları... 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası İdare Merkezi tarafından, saat 15.30'da belirlenen gösterge niteliğindeki döviz kurları şöyle 
+     
+
+DÖVİZİN CİNSİ D.ALIŞ D.SATIŞ E.ALIŞ E.SATIŞ 1 ABD Doları 1,387,895 1,394,589 1,386,923 1,396,681 1 Avustralya Doları 883,687 889,469 879,622 894,806 1 Danimarka Kronu 201,762 202,755 201,621 203,221 1 İngiliz Sterlini 2,171,044 2,182,392 2,169,524 2,185,666 1 İsviçre Frangı 976,439 982,728 974,974 984,202 1 İsveç Kronu 162,715 164,408 162,601 164,786 1 Japon Yeni 11,927 12,006 11,883 12,052 1 Kanada Doları 995,492 999,992 991,809 1,003,792 1 Kuveyt Dinarı 4,585,752 4,646,152 4,516,966 4,715,844 1 Norveç Kronu 181,536 182,760 181,409 183,180 1 Sud. Arb. Riyali 371,182 371,851 368,398 374,640 1 Euro 1,498,510 1,505,738 1,497,461 1,507,997      
+</TEXT>
+</DOC>

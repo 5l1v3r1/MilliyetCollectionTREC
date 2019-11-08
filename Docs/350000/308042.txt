@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 308042 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/20/son/soneko01.html </URL>
+<DATE> 2005/01/20/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düşüşle kapandı 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası Wall Street'in Dow Jones Sanayi Endeksi 88.82 puan yüzde 0.84 düşüşle 10,9.97 puandan kapandı. 
+     İleri teknoloji ortaklıkları ibresi Nasdaq Birleşik Endeksi de 32.45 puan yüzde 1.54 düşüşle 2,073.59 puan oldu. 
+     
+</TEXT>
+</DOC>

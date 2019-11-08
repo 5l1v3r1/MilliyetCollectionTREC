@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 333321 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/14/son/soneko27.html </URL>
+<DATE> 2005/04/14/ </DATE>
+<TIME> 12.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yüksek petrol fiyatları, büyümenin önünde risk 
+</HEADLINE>
+<TEXT>
+
+     Avrupa Merkez Bankası AMB yüksek petrol fiyatlarının ekonomik büyüme ve enflasyon hedefleri için bir risk oluşturduğunu bildirdi. 
+     AMB'nin bugün yayımlanan aylık bülteninde, bununla birlikte Avro Kuşağı'nda şu an için enflasyonist bir baskı olmadığı belirtildi. 
+     Ekonomik verilerin Avro kuşağı için yakın gelecekte ''ılımlı bir büyümeye'' işaret ettiği belirtilen raporda, bununla birlikte yüksek petrol fiyatlarının bu eğilimi tersine çevirebilecek bir risk faktörü oluşturduğu ifade edildi. 
+     AMB'nin bülteninde, ''petrol üretiminde yedek kapasitenin sınırlılığının arz talep dengesini beklenmedik değişikliklere karşı hassas kılması yüzünden kısa vadede petrol fiyatlarının yüksek seyretmeye devam edeceği'' de bildirildi. 
+     
+</TEXT>
+</DOC>

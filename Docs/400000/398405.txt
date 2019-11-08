@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 398405 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/27/son/soneko08.html </URL>
+<DATE> 2005/11/27/ </DATE>
+<TIME> 11.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Vergi kaçağına 'elektronik takip' 
+</HEADLINE>
+<TEXT>
+
+     Denetim birimleri, vergi kayıp ve kaçağı ile mücadele yöntemlerini değiştiriyor. Hesap Uzmanları Kurulu HUK , vergi kaçağı ile mücadelede ''Bilgisayar Destekli Denetim Programını'' uygulamaya koyuyor. 
+     A.A muhabirinin Hesap Uzmanları Kurulu Başkanı Mahmut Vural'dan aldığı bilgiye göre, Avrupa Birliği'nin 2 milyon 320 bin Avro'luk finansman katkısında bulunacağı Bilgisayar Destekli Denetim Programı, geçtiğimiz günlerde AB Konseyi'nce de onaylanarak kesinleşti. 
+     Almanya ve İngiltere'nin koordinatör ülkeler olarak destek vereceği proje ile Hesap Uzmanları Kurulu'nun denetim altyapısı tamamen yenilenecek. 
+     Mevcut altyapı, önümüzdeki haftadan itibaren Bilgisayar Destekli Denetime uygun hale getirilmeye başlanacak. Bilgi İşlem Merkezi de bu süreçte, yeni donanım ve yazılımlar ile tamamen elektronik hale gelecek. Merkezde, çok geniş bir bilgi ağı oluşturulacak. 
+     
+     İNGİLTERE VE ALMANYA'DA STAJ 
+     Bilgisayar Destekli Denetime yönelik altyapı çalışmaları sürerken, denetim elemanları da yeni sisteme uyum eğitimi alacak. Bu amaçla, hesap uzmanları, gruplar halinde Almanya ve İngiltere'ye staja gönderilecek. Uzmanlar, bu iki ülkede denetim sisteminin nasıl işlediğini, vergi kayıp ve kaçağına karşı ne tür denetim tekniklerine başvurulduğunu yerinde inceleyecek. 
+     İngiliz ve Alman uzmanlar da Türkiye'ye gelerek, hem yeni sistemin kurulmasına katkı sağlayacak hem de bilgi ve birikimlerini anlatacaklar. 
+     Yeni denetim programının kuruluş çalışmaları 2 yıl içinde tamamlanacak. Böylece, Türkiye'de vergi denetimlerinin önemli bölümünü gerçekleştiren ve ortaya çıkarılan vergi kaçaklarının yarısında imzası bulunan hesap uzmanları, en geç 2 yıl sonra tümüyle bilgisayar destekli denetime geçmiş olacaklar. 
+     
+     ELEKTRONİK DENETİM 
+     Hesap Uzmanları Kurulu Başkanı Mahmut Vural, Bilgisayar Destekli Denetim Programının tam olarak devreye girmesiyle, vergi mükelleflerinin bilgisayar ortamında sorgulanmaya başlanacağını bildirdi. 
+     Mükelleflerin muhasebe verilerini de elektronik ortamda vereceklerine dikkat çeken Vural, ''Artık kağıt kalkıyor. Bütün işlemler elektronik ortamda gerçekleştirilecek. Denetim elemanlarımız da yeni proje ile tümüyle bilgisayar ortamında denetim yapacak. Her türlü işlem bilgisayar ortamında olacak'' dedi. 
+     Yeni program ile risk analizlerinin de çok daha kolay ve hızlı gerçekleştirileceğini kaydeden Vural, şöyle devam etti 
+     ''Bu proje ile birlikte Veri Ambarımız da çok daha fonksiyonel hale gelecek. Büyük mükelleflerden başlanarak, aşağıya doğru her grup mükellef için çok hızlı şekilde risk analizleri yapacağız. Bu analizlerin sonunda riskli görülen mükellefleri de elektronik ortamda hemen incelemeye alacağız. 
+     Yeni sistemi kurarken, Almanya ve İngiltere'nin denetim tekniklerinden de yararlanacağız. Bu teknikler, Türkiye'nin kendine özgü şartları da dikkate alınarak uygulamaya konulacak. Bilgisayar Destekli Denetim Programı ile birlikte vergi kayıp ve kaçağına çok daha hızlı ulaşabilecek, kaçak ile de daha etkin mücadele edebileceğiz.'' 
+     
+</TEXT>
+</DOC>

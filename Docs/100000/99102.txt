@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 99102 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/07/31/son/sondun31.html </URL>
+<DATE> 2002/07/31/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Huzurevine alışılmamış yardımcı "Robot Pearl" 
+</HEADLINE>
+<TEXT>
+
+     ABD'de bir huzurevinin sakinlerinin pek de alışılmamış bir yardımcısı var ''Robot Pearl''. 
+     New Scientist dergisinde çıkan yazıya göre, Pennsylvania eyaletinin Oakmont kasabasındaki huzurevinin mekanik yardımcısı, yaşlılara görevlerini, yemek zamanlarını hatırlatıyor, onlara hava durumu ve televizyon programları hakkında bilgi veriyor. 
+     Eyaletteki Carnegie Mellon Üniversitesi'nden Sebastian Thrun ve arkadaşlarıyla Michigan Üniversitesi'nden Martha Pollack'ın yarattığı robot, dokunmatik bir ekran aracılığıyla yaşlılara mesajlarını iletiyor. 
+     İlk denemelerde Pearl'ün yaşlılar için biraz hızlı ''vızıldadığı'', ancak ilerki modellerde farklı hızlara programlanacağı belirtildi. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

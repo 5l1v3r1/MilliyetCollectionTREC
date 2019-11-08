@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 374013 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/30/yasam/yas05.html </URL>
+<DATE> 2005/08/30/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bu robot 10 bin sözcük biliyor 
+</HEADLINE>
+<TEXT>
+
+
+DIŞ HABERLER SERVİSİ 
+
+Japon Mitsubishi firmasının ürettiği insan şeklindeki robot, 16 Eylül'de Tokyo'da satışa sunulacak. 10 bin sözcük bilen, çocuk şeklindeki "Wakamaru" adlı robot, 10 kişinin yüzünü tanıyabiliyor, konuşarak bir ev hizmetçisi gibi görev yapabiliyor. Robotun fiyatının 14 bin 300 dolar olduğunu belirten Mitsubishi yetkilileri, 1 metre boyunda ve 30 kilogram ağırlığındaki "Wakamaru"dan ilk etapta 100 tane satmak istediklerini belirttiler. 
+
+
+</TEXT>
+</DOC>

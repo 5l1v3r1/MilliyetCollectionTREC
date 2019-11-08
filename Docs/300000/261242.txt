@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 261242 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/06/son/sonyas14.html </URL>
+<DATE> 2004/08/06/ </DATE>
+<TIME> 12.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Cep telefonları için ezan programı... 
+</HEADLINE>
+<TEXT>
+
+     Türkiye'de bir firma, ülke ve kentlere göre 5 vakit ezan saatini gösteren ve cep telefonlarından ezan sesi ile uyarı yapan ''Ezan Programı''nı hizmete sundu. 
+     AA muhabirinin edindiği bilgiye göre, bir Türk yazılım şirketi tarafından, ''dünyada benzeri yok'' sloganıyla ''Ezan Programı'' geliştirildi. 
+     Türkiye, Avrupa, Ortadoğu ve Türk Cumhuriyetleri'nde kentlere uyumlu olan program, cep telefonlarında ezan saatlerini gösteriyor, istenildiğinde ezan sesiyle uyarı yapıyor. 
+     Şimdilik bazı cep telefonu modelleri için geçerli olan programla ilgili bilgiler ve şifreler, firmanın internet sitesinde yayınlanıyor. 
+     
+</TEXT>
+</DOC>

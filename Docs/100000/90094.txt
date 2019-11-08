@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> 90094 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/06/16/guncel/gun09.html </URL>
+<DATE> 2002/06/16/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sosyopatlar "TTNET"in şifrelerini ele geçirdi 
+</HEADLINE>
+<TEXT>
+
+     Türk İnternet Birliği Kurucu Üyesi Hakan Topuzoğlu, kendilerini dış dünyadan soyutladıkları ve sanal yaşam biçimini benimsedikleri için "sosyopat" adı verilen kişilerin, "ttnet" kullanıcılarının şifrelerini ele geçirdiklerini bildirdi. Topuzoğlu, Türk Telekom’un internet sitesinden hizmet alanlara http webadmin ttnet.net.tr adresinden gönderilen epostada, "web sitesinin hack’lendiği, bu nedenle şifre değişikliği yapılması ve ekte gönderilen formun doldurularak belirtilen adrese gönderilmesi gerektiğinin" belirtildiğini söyledi. Kullanıcıların bu forma yazdıkları şifrelerin sosyopatlar tarafından ele geçirildiğini ifade eden Topuzoğlu, Türk Telekom’un internet sitesinde bu konuda uyarıcı bilgi de bulunduğunu bildirdi. 
+     
+
+
+
+ GÜNCEL 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

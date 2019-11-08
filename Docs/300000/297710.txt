@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 297710 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/14/son/sonyas16.html </URL>
+<DATE> 2004/12/14/ </DATE>
+<TIME> 13.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dünyanın en büyük kütüphanesi Google'da 
+</HEADLINE>
+<TEXT>
+
+     İnternet arama motoru Google, dünyanın önde gelen kütüphanelerini internet kullanıcılarının ayağına getirmeye hazırlanıyor. 
+     California eyaletinin Mountain View kentinde kurulu Google şirketi, New York halk kütüphanesinin yanı sıra ABD'nin Harvard, Stanford ve Michigan üniversiteleri ile İngiltere'nin Oxford üniversitesi kütüphanelerindeki kitapları tarayarak, meraklıların on-line hizmetine sunmak için çalışmalarını sürdürüyor. 
+     Google yetkililerinin, projeyle ilgili resmi açıklamalarını bugün yapmaları bekleniyor. 
+     Şu ana kadar sadece Michigan ve Stanford üniversitelerinin tüm materyallerinin Google tarafından taranmasına izin verdiği belirtildi. New York halk kütüphanesinin kitaplarının telif hakları kapsamında bulunmayan küçük bir bölümünün kullanımına izin verdiği kaydedildi. 
+     ABD'nin ünlü üniversitesi Harvard'ın da önce 40 bin kitapla bu projeye katılmayı, ardından projenin gelişimine göre katılımını artırmayı kabul ettiği ifade edildi. 
+     Google yetkilileri projenin maliyetini açıklamasalar da kitap başına 10 dolar tutarında bir maliyet hesaplanıyor. 
+     Michigan Üniversitesi kütüphanesinde Google ile çalışan kütüphaneci John Wilkin, proje için ''Dünyanın değiştiği gün'' ifadesini kullandı. 
+     Kimilerinin bu işin kütüphanelerin sonunu getirebileceğini düşünebileceklerini belirten Wilkin, aslında bu projenin mesleklerini canlandırdığını ve daha anlamlı kıldığını belirtti. 
+     Kitapları tarayarak on-line sunmak birkaç yıl önce yine Google ve Amazon.com tarafından küçük çaplı olarak hayata geçirilse de bu denli büyük bir projenin, endeksinde milyarlarca web sayfası bulunduran Google arama motoruna rakipleri karşısında büyük avantaj sağlayacağı yorumu yapılıyor. 
+     Google, 7 milyon kitaba sahip Michigan üniversitesi kütüphanesindeki kitaplar yan yana konduğunda 200 kilometreden daha uzun olan kitap yığınını ancak 6 yıl içinde tarayarak kayda geçirmeyi öngörüyor. 
+     Harvard üniversitesinde 15 milyon kitap bulunuyor. 
+     Google, kısa süre önce de kullanıcının arama yaptığı sözcüğü tahmin edebilen bir arama motoru çıkarmıştı. 
+     
+</TEXT>
+</DOC>

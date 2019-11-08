@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 398936 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/29/son/soneko02.html </URL>
+<DATE> 2005/11/29/ </DATE>
+<TIME> 03.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düştü 
+</HEADLINE>
+<TEXT>
+
+     New York borsasında endeksler düştü. 
+     Borsanın temel göstergesi Dow Jones, 40.90 puan düşerek 10,890.72 puana inerken, teknoloji endeksi Nasdaq, 23.64 puan kayıpla 2,239.37 puandan kapandı. 
+     
+</TEXT>
+</DOC>

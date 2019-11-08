@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 344694 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/22/ekonomi/eko07.html </URL>
+<DATE> 2005/05/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Patlasa da 150 kilometre giden lastik 
+</HEADLINE>
+<TEXT>
+
+
+Pirelli, patlasa bile 150 kilometre gidebilen bir lastik üretti. Ayrıca lastiğin basıncını cep telefonuna bildiren bir sistem de geliştirdi 
+
+EVRİM ERGİN Marsilya 
+
+Pirelli, patlasa da otomobilin yola devam etmesini mümkün kılan yeni bir lastik üretti. Henüz satışa çıkarılmayan bu lastiklerle, patlamanın ardından 80 kilometre hızla 150 kilometre daha yol gidebilmek mümkün oluyor. Pirelli Run Flat adını taşıyan bu teknolojinin yanı sıra lastikteki hava basıncını cep telefonu ile sürücüye bildiren yeni bir teknoloji geliştirdiğini ve patlayınca kendi kendini şişirebilen yeni bir lastik ürettiğini de açıkladı. Pirelli, Fransa'daki Paul Ricard pistinde gerçekleştirilen basın toplantısında lastik teknolojisinde geliştirdiği yenilikleri duyurdu. Pirelli yetkilileri geliştirdikleri yenilikler hakkında şu bilgileri verdi 
+"Otomobil sürüşünü daha güvenli hale getirmek için lastiklerdeki hava basıncını kolayca kontrol etmeyi ve bir patlama halinde otomobilin güvenli sürüşle uzun bir mesafe gidebilmesini sağlayan yeni teknolojiler geliştirdik. Bunlardan birincisi patlasa da otomobilin belli bir süre yola devam etmesini sağlayan 'Run Flat' adlı lastik. Run Flat teknolojisine sahip lastik patlasa dahi otomobil 80 kilometre hızla 150 kilometre yol gidebiliyor. İkinci yenilik lastikteki hava basıncı değişikliğini sürücüye cep telefonu mesajıyla ya da araç işletim sistemindeki gösterge panosuyla bildiren X-PressureTM AcousticBlue cihazı. Üçüncü yenilik ise lastikteki patlama ya da hava kaybı durumunda lastiği otomatik olarak şişiren SWSTM teknolojisi." 
+
+
+</TEXT>
+</DOC>

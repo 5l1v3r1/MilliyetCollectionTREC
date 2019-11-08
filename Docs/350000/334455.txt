@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 334455 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/18/son/soneko24.html </URL>
+<DATE> 2005/04/18/ </DATE>
+<TIME> 13.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Adobe, 3.4 milyar dolara Macromedia'yı satın alıyor... 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayar döküman şirketi Adobe, mültimedya yazılım şirketi Macromedia'yı 3.4 milyar dolara satın alıyor. 
+     Bilgisayar kullanıcılarınca iyi tanınan Acrobat belge paylaşım yazılımının sahibi Adobe'nin Macromedia'yı satın almakla, İnternette grafik animasyon alanında büyük bir üstünlük kazanacağı kaydediliyor. 
+     
+</TEXT>
+</DOC>

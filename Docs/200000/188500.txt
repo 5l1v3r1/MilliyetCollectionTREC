@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 188500 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/14/son/sondun04.html </URL>
+<DATE> 2003/10/14/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dünyada internet kullanımı arttı... 
+</HEADLINE>
+<TEXT>
+
+     İnternet kullanımının geçen yıl tüm dünyada arttığı, ancak çöp mektup, elektronik ticaret yolsuzlukları gibi dijital tehditlerin elde edilen kazanımları gölgelediği açıklandı. 
+     VeriSign adlı kuruluş tarafından yayımlanan verilere göre, internet kullanımı bu yılın ağustos başında, geçen yılın aynı dönemine oranla yüzde 50 artış gösterdi. Elektronik posta kullanımının ise yüzde 245 arttığı bildiriliyor. Ancak ''spam'' adı verilen çöp mektupların, bu artışın önemli bir kısmını oluşturduğu araştırmacılar tarafından açıklandı. 
+     Verisign ve merkezi California'da bulunan Mountain View adlı kuruluş, internetteki alan isimleriyle ilgili veri tabanlarının kayıtlarını tuttukları için faaliyetleri çok yakından izleyebiliyor. 
+     Verisign'in verilerine göre, elektronik ticaret 2003'ün ikinci çeyreğinde, geçen yıla göre yüzde 17 oranında arttı. Buna karşılık internet aracılığıyla yapılan yolsuzluklar, tüm işlemlerin yüzde 6.2'sine ulaştı. Uzmanlar, yolsuzluk oranının normalde yüzde 1'i geçmemesi gerektiğini belirtiyorlar. 
+     Bu arada ''hacker'' adı verilen bilgisayar korsanlarının, özellikle IP adresleri aracılığıyla yolsuzluk yaptıkları belirlendi. Bu tür yolsuzlukların en çok ABD'de görüldüğü ve tüm dünyadaki yolsuzlukların yüzde 81'inin bu ülkeden kaynaklandığı kaydediliyor. 
+     İnternet aracılığıyla yayılan ve ''MSBlast'' adı verilen ''böceğin'' bir milyondan fazla bilgisayarı etkilediği, Symantec adlı anti virüs firması tarafından açıklandı. Sobig.F virüsünün ise on binlerce bilgisayarı vurduğu verilen bilgiler arasında. 
+     
+</TEXT>
+</DOC>

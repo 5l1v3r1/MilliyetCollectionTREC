@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 86723 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/05/29/son/sondun10.html </URL>
+<DATE> 2002/05/29/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+FBI Bin Ladin'in e-mail kayıtlarını yanlışlıkla silmiş 
+</HEADLINE>
+<TEXT>
+
+     Federal Soruşturma Bürosu FBI'ın, 11 Eylül'den bir yıl önce, Suudi terörist Usame bin Ladin'in terör ağındaki bazı kişilerin e-mail kayıtlarını yanlışlıkla yok ederek, önemli bir soruşturmanın kanıtlarını ortadan kaldırdığı ortaya çıktı. 
+     FBI'ın, kurum için bir raporda, kullandığı özel bir sistemle hedef kişilerin e-mail mesajlarını ele geçirdiği, ancak zaman zaman hedef alınmayan kişilerin e-maillerini de taradığı anlatıldı. Bu raporda ayrıca, ''FBI'ın teknik elemanı, bir soruşturmaya ilişkin bütün e-mailleri yanlışlıkla kaybetti ve bu durumdan açık bir biçimde üzgün'' denildi. 
+     FBI'ın bu kurum için raporu, orijinal metin olmamakla birlikte kısmen, Washington merkezli Elektronik Özel Haklar Bilgi Merkezi adlı bir kurum tarafından kamuya açıklandı. 
+     Bu belgelere göre, FBI'ın, Bin Ladin'den sorumlu bölümü Mart 2000'de Denver'da bir araştırma yürütüyordu. Bu çerçevede bir 
+     şüphelinin elektronik haberleşmesi, Carnivore adı verilen özel bir tarama sistemiyle incelemeye alınmıştı. 
+     Bu son belgeler, 11 Eylül saldırılarını önlemede gelen istihbaratı değerlendirme başarısızlığı yüzüden FBI'a yöneltilen eleştirilere yeni bir boyut daha kattı. Kısa süre önce de, FBI'ın Phoenix bürosundan bir ajan, Araplar'ın ABD'de uçuş eğitimi alma merakına dikkati çektiği ortaya çıkmıştı. Ancak ajanın bu uyarısı dikkate alınmadı. FBI, kendisine yönelik sarsılan güveni yerine getirmek için, Merkezi Haberalma Teşkilatı CIA'den yardım alacak. CIA ajanları, terörizm bağlantılı konularda FBI'a, hem Washington'daki merkezde, hem de ülke genelindeki bürolarda kendi tekniklerini gösterecek. CIA, dış istihbarattan, FBI ise yurt istihbaratından sorumlu tutuluyor. 
+     FBI, carnivore adı verilen ve çok sayıda e-mail mesajını taramaya yarayan sistem sayesinde, kaçaklar, uyuşturucu satıcıları ve yabancı istihbarat ajanlarını tespit etmede yararlanıyor. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

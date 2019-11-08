@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 260070 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/02/son/sonyas12.html </URL>
+<DATE> 2004/08/02/ </DATE>
+<TIME> 12.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+'Bir kaşık suda' denizaltı 
+</HEADLINE>
+<TEXT>
+
+     Avustralyalı bilimadamları, dünyanın en küçük denizaltısını üretti. Serafina adı verilen mini denizaltı 40 santimetre uzunluğunda. 
+     Plastik bir kapsül şeklindeki denizaltı, beş pervanesinin yardımıyla hareket ediyor. 
+     Mini denizaltı beş bin metreye kadar derinliğe iniyor. 
+     Önceden programlanan Serafina, su altında, saniyede bir metre yol alıyor. Bu ise bir insanın yürüyüş hızına denk geliyor. 
+     Her türlü manevrayı yapabilen denizaltı, pek çok bilimsel araştırma görevini de yürütebiliyor. 
+     Tasarımcıları Srafina'nın araştırma, kurtarma, deniz kazalarını incelemede ve askeri amaçlı faaliyetlerde kullanılabileceğini söylüyorlar. 
+     Avustralya Ulusal Üniversites'nde sistem mühendisliği uzmanı olarak görev yapan Dr. Uwe Zimmer, bu denizaltıların yaklaşık 700 dolara üretilebileceğini söylüyor. 
+     Zimmer sualtı araştırmaları için kullanılan normal büyüklükteki araçların çok daha yüksek maliyetler anlamına geldiğini ve suya bırakılması için vinçler, özel tekneler gerektiğini hatırlatıyor. 
+     Şarjlı pille çalışan bu araç ise, bir kez programlanıp suya bırakıldığında gün boyu çalışıyor. 
+     Görünüşe göre tek sorun, Serafina'nın aslında avantajlarının da kaynağı olan boyutu... 
+     Mini denizaltıyı bir deniz canlısının yemesi ihtimali endişe yaratıyor. 
+     
+</TEXT>
+</DOC>

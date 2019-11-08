@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 309989 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/27/son/sontur13.html </URL>
+<DATE> 2005/01/27/ </DATE>
+<TIME> 10.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Ege ve Marmara'da oluşacak tsunaminin yüksekliği 3 metreden küçük 
+</HEADLINE>
+<TEXT>
+
+     İki Türk bilim adamı, dünyada ilk kez yapılan bir çalışmayla yapay zeka tekniklerinden yapay sinir ağlarını kullanarak tsunami tahmin modeli geliştirdi. 
+     ODTÜ Mühendislik Fakültesi İnşaat Mühendisliği Bölümü'nden Prof. Dr. Ayşe Ergin ile Gazi Üniversitesi Mühendislik-Mimarlık Fakültesi İnşaat Mühendisliği Bölümü'nden Doç. Dr. Can E. Balas'ın geliştirdiği tsunami tahmin modeli, tsunami oluşma olasılığını ortaya koyuyor. 
+     Tsunami yaratabilecek bir depremin oluşma olasılığının ancak geçmiş deprem kayıtlarına dayanarak yapılacak tahminlerle bulunabileceğini gözönüne alan bilim adamları, istatistiki tahmin modeli kullandı. 
+     Dünyada ilk kez yapılan bir çalışma ile yapay zeka tekniklerinden ''yapay sinir ağları'' kullanarak tsunami tahmin modeli geliştiren bilim adamları, ''Yapay zeka, insan düşüncesi ve davranışını taklit eden sistemler yanında akılcı düşünebilen ve davranabilen sistemlerin geliştirilmesidir. Yapay sinir ağları da, yapay sinir hücrelerinin katmanlar şeklinde bağlanmasıyla oluşturulan veri tabanlı sistemler ile insan beyninin öğrenme ve değişik koşullar altında çok hızlı karar verebilme gibi yeteneklerinin, basitleştirilmiş modeller yardımıyla karmaşık problemlerin çözülmesinde kullanılmasını amaçlar'' açıklamasında bulundu. 
+     
+     MARMARA VE EGE'DE TSUNAMİ ETKİSİ 
+     Geliştirilen bu yapay zeka modeli ile Marmara ve Ege denizlerindeki mevcut tsunami verilerine dayanarak bu denizlerde yüz yıllık bir yinelenme dönemi ile oluşabilecek Sieberg sismik deniz dalgası ölçeğiyle 1 şiddetindeki tsunaminin kıyıda yaratacağı dalga yüksekliğinin 3 metreden daha düşük olacağı tahmin ediliyor. 
+     Gerçekleştirilen yapısal hasar ve risk modeli uyarınca da olası tsunaminin kıyılarda nasıl bir hasar oluşturacağı ve yaratacağı riskler saptanıyor. 
+     Bilim adamlarının bu konuda yaptıkları özgün çalışma ile geliştirilen tsunami hasar riski modeliyle bir deniz yapısının rüzgar dalgaları ve dünyada ilk kez tsunami etkisi altındaki yıkılma riski Monte Carlo benzeşimleri kullanarak elde ediliyor. Bu benzeşimlerde doğada oluşabilecek tsunamilerin yapısal etkileri bilgisayar ortamındaki deneylerle binlerce kere tekrarlanırken, yapısal risk de belirleniyor. 
+     
+     HAYDARPAŞA DALGAKIRANI'NDA RİSK BELİRLEMESİ 
+     Geliştirilen model yardımıyla İstanbul'un en önemli ikmal merkezlerinden biri olması beklenen ve Türkiye'nin en önemli ticari limanlarından olan Haydarpaşa Limanı ana dalgakıranının güvenirliği yapının dayanımı ile birlikte yapıyı etkileyebilecek rassal yüklerin bileşik etkisi gözetilerek hesaplandı. 
+     Yapılan çalışmada Marmara Denizi'nde 3 metre dalga yüksekliği yaratacak bir tsunami yinelenme dönemi 100 yıl etkisi altında, Haydarpaşa Limanı dalgakıranlarındaki yıkılma riskinin yüzde 5 düzeyinde kalacağı belirlendi. 
+     
+     UZMANLARDAN UYARI 
+     İki bilim adamı, yapılan çalışmanın ışığında Türkiye kıyılarında çok pahalı olan erken uyarı sistemlerinin yerleştirilmesi gereken noktalara doğru karar verilmesi ve bu çalışmalara da hızla başlanması uyarısında bulundu. 
+     Tsunaminin okyanuslarda kıyılara ulaşma süresinin depremin merkezine bağlı olarak saatlerle ifade edildiğine dikkati çeken iki bilim adamı, ancak Akdeniz, Ege, Marmara ve Karadeniz'de tsunaminin kıyıya ulaşma süresi depremin merkez üssüne bağlı olarak dakikalarla sınırlı olabileceğini belirtti. 
+     Türkiye'de öncelikle bu konuda medyada ve ilköğretim düzeyinden başlayarak tüm öğretim kurumlarında bilgilendirme çalışmalarına başlanması gerektiğine de işaret eden uzmanlar, ''Tsunami bilgilendirmesi ve alınacak önlemler için bir ortak politika geliştirilmelidir. Bu çalışmalar, can kaybını çok büyük ölçüde önleyecektir'' sözleriyle de yetkilileri uyardı. 
+     
+</TEXT>
+</DOC>

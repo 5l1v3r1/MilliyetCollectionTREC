@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 187741 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/10/son/sondun26.html </URL>
+<DATE> 2003/10/10/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İlk insanlı uzay aracı uzaya çıkıyor... 
+</HEADLINE>
+<TEXT>
+
+     Çin'in, ilk insanlı uzay aracının 15-17 Ekim tarihleri arasında uygun bir günde fırlatılacağı açıklandı. 
+     Çin'in uzay programıyla ilgili yetkilileri, fırlatma için kesin tarihin hava durumuna göre belirleneceğini kaydettiler. 
+     Shenzhou-5 adlı uzay aracı, Çin'in kuzeybatısındaki Gansu eyaletinde bulunan Jiuquan Uydu Fırlatma Merkezi'nden uzaya gönderilecek. 
+     Yeni Çin Haber Ajansı'nın bildirdiğine göre, Shenzhou-5 dünya çevresindeki yörüngesinde 14 tur attıktan sonra yeryüzüne dönecek. 
+     Yetkililer, bundan önce yapılan 4 insansız denemeden farklı olarak uzay aracının gündüz fırlatılacağını ve dünyaya gündüz iniş yapacağını belirttiler. Bu uygulamanın amacının astronotların can güvenliğini artırmak olduğu ifade edildi. 
+     
+     3. ÜLKE OLACAK 
+     Rus ''kozmonot'' Yuri Gagarin, 1961'de uzaya giden ilk insan olmuştu. Gagarin'den 1 aydan az bir süre zarfında ABD ''astronot'' Alan Shepard'ı uzaya göndermişti. Çin, gelecek haftaki programı başarıyla gerçekleştirir ve uzaya bir ''taikonot'' yollayabilirse ABD ile Rusya'nın ardından kendi olanaklarıyla uzaya insanlı uzay aracı gönderen 3. ülke olacak. 
+     Çinli uzay adamlarının adı, Çince ''uzay'' demek olan ''Taikung'' kelimesinden geliyor. Batılıların kullandığı ''astronot'' Yunanca astro ve nautes yıldız gemicisi , Rusların ''kozmonot''undan evren gemicisi '' sonra Çinliler, kendi dillerinde ''taikonotlarını'' uzay gemicisi fezaya göndermek için var gücüyle çalışıyor. 
+     İnsan taşımak için tasarlanmış Şıncou uzay aracı serisinin birincisi, 1999 yılında uzaya gönderilmişti. 
+     
+</TEXT>
+</DOC>

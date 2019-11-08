@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 185319 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/29/son/soneko17.html </URL>
+<DATE> 2003/09/29/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı 192 puanlık kayıpla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi, önceki kapanışa göre 191.73 puan kayıpla, 1. seansı 13,567.05 puandan tamamladı. 
+     1. seansta hisse senetlerinin ortalama değer kaybı yüzde 1.39 olarak gerçekleşti. 
+     Cuma günü 13,758.78 puandan kapanan endeks, ilk seansa 27.10 puan gerileyerek 13,731.68 puan seviyesinde başladı. Seansın ilk yarısını 13,627.99 puandan geçen endeks, seans içinde en düşük 13,480.40 puanı gördü. 
+     Seans kapanışında mali endeks 294.56 puan kayıpla 17,417.97 puana, sanayi endeksi 152.84 puan kayıpla 12,963.82 puana, hizmetler endeksi 65.77 puan kayıpla 7,658.96 puana geriledi. 
+     Böylece, önceki kapanışa göre mali grup hisseler ortalama yüzde 1.66, sanayi grubu hisseler ortalama yüzde 1.17, hizmetler grubu hisseler ortalama yüzde 0.85 değer kaybetti. 
+     1. seansta işlem gören toplam 284 hisse senedinden 221'i değer kaybederken, 21 hisse senedi değer kazandı. 42 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta, 244 trilyon 79 milyar 82 milyon liralık işlem hacmi oluştu. 
+     1. seansta, Yapı Kredi Bankası, İş Bankası C , Doğan Holding, Sabancı Holding ve Garanti Bankası en yoğun işlem gören hisseler oldu. 
+     
+</TEXT>
+</DOC>

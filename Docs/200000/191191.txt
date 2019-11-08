@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 191191 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/25/son/soneko05.html </URL>
+<DATE> 2003/10/25/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Uluslararası borsalarda geçtiğimiz hafta böyle geçti... 
+</HEADLINE>
+<TEXT>
+
+     ABD Doları, Avrupa döviz borsalarında geçen hafta, önemli para birimleri karşısında değer kaybederken, altın fiyatları yükseldi. 
+     Hafta başında, ABD Hazine Bakanı John Snow'un The Times Gazetesi'ne demecinde, ''Amerikan ekonomisinin yeterince toparlandığı, bundan sonra da faiz oranlarının yükselebileceği'' yolundaki sözleri, ABD Doları'na euro ve Japon Yeni karşısında değer kazandırdı. 
+     ABD Hazine Bakanlığı'ndan bir sözcünün daha sonraki açıklamasında, ''Snow'un piyasalardaki oranlardan söz ettiği, ABD Merkez Bankası'nın FED kısa vadeli kredilendirme faiziyle ne yapılması gerektiğini kastetmediği'' bildirildi. 
+     Bir döviz stratejistine göre, ABD'de yıl sonundan önce ekonomik büyüme ve istihdam piyasasında artış görülürse, FED de faizleri daha erken yükseltebilir, bu da dolar için olumlu yorumlanır. 
+     Bütün bunlara rağmen, ABD borsalarındaki gerileme nedeniyle dolar hafta ortasında yeniden değer yitirdi. 
+     Londra Borsası'nda euro geçen hafta 1.1666 dolardan, 1.1827 dolara çıktı. 
+     
+     MENKUL KIYMETLER BORSALARI 
+     Uluslararası menkul kıymet borsaları, genelde geçen hafta değer kaybetti. 
+     New York Menkul Kıymetler Borsası'ndaki Dow Jones Endeksi, haftasonu kapanışta yüzde 1.4 oranında değer kaybederek 9,582.46 puana inerken, teknoloji endeksi Nasdaq da yüzde 2.5'luk gerilemeyle 1,865.59 puandan haftayı kapattı. 
+     S P 500, yüzde 1 oranında değer kaybederek 1,028.91 puanla haftayı kapattı. 
+     Nikkei Endeksi, hafta içinde 702.19 puanlık değer kaybıyla, 10,335.70 puanla haftayı kapattı. 
+     Londra Menkul Kıymetler Borsası'nda, FTSE 100 endeksi, 105 puanlık değer kaybıyla, haftayı 4,239 puanda kapattı. 
+     Frankfurt Borsası'ndaki DAX endeksi, 60.35 puanlık değer kaybıyla, 3,452.64 puandan kapandı. 
+     Paris'teki CAC-40 endeksi, 87.45 puanlık değer kaybıyla, 3,266.27 puanla kapandı. 
+     
+</TEXT>
+</DOC>

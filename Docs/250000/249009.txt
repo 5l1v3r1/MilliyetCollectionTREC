@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 249009 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/18/son/soneko47.html </URL>
+<DATE> 2004/06/18/ </DATE>
+<TIME> 17.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düşüşle açıldı... 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası güne düşüşle başladı. 
+     Borsanın açılışında, Dow Jones endeksi 4.61 puan azalışla 10,372.91 puana, Nasdaq Endeksi de 9.76 puan azalışla 1,973.91 puana indi. 
+     Borsanın düşüşünde bazı teknoloji şirketlerinin yılın ikinci çeyreği için beklenenden az kar açıklamaları etkili oldu. Bu durum, yatırımcılarda teknoloji şirketlerinin hisse senetlerinin beklenenin üzerinde değerlenmiş olabileceği kaygısını güçlendirdi. 
+     
+</TEXT>
+</DOC>

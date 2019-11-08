@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 285545 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/02/son/sontur43.html </URL>
+<DATE> 2004/11/02/ </DATE>
+<TIME> 17.20 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Fiberoptik kablo koptu, Kütahya'da 5 saat telefon görüşmesi yapılamadı 
+</HEADLINE>
+<TEXT>
+
+     Türk Telekom'un fiberoptik kablosunun kopması sonucu, Kütahya'da 5 saat telefon görüşmesi yapılamadı. 
+     Türk Telekom İl Müdür Yardımcısı Cengiz Çakmak, AA muhabirine yaptığı açıklamada, Kütahya'nın her türlü iletişimini sağlayan ana link çıkışlarının bulunduğu, Bursa'nın Yenişehir İlçesi'nden geçen fiberoptik kablosunun öğlen saatlerinde koptuğunu bildirdi. 
+     Devreye giren ve Afyon üzerinden geçen yedek fiberoptik kablosunun da kopması üzerine Kütahya'da telefon iletişiminin tamamen kesildiğini ifade eden Çakmak, arıza nedeniyle GSM şebekelerinin de çalışmadığını söyledi. 
+     Çakmak, arıza süresince, bankalarda ve ATM'lerde işlem, kredi kartları ile alışveriş yapılamadığını, ADSL hatları çalışmadığı için internet bağlantısının da gerçekleştirilemediğini kaydetti. 
+     Çakmak, kablonun kopması nedeniyle saat 11.00'de meydana gelen arızanın saat 16.00 sıralarında giderildiğini ifade etti. 
+     
+</TEXT>
+</DOC>

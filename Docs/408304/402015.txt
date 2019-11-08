@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 402015 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/09/son/soneko05.html </URL>
+<DATE> 2005/12/09/ </DATE>
+<TIME> 09.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Merkez Bankası faiz indirdi 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası, kısa vadeli faizleri çeyrek puan indirdi. Buna göre gecelik borçlanma faizi, yüzde 13.75'den yüzde 13.50'e çekildi. 
+     Merkez Bankası'ndan yapılan açıklamada, Banka bünyesindeki Bankalararası Para Piyasası ve İMKB Repo-Ters Repo Pazarı'nda uygulamakta olunan kısa vadeli faiz oranlarının bugünden itibaren çeyrek puan düşürülmesine karar verildiği bildirildi. 
+     Buna göre gecelik faiz oranları kapsamında, borçlanma faiz oranı yüzde 13.75'ten yüzde 13.50'ye, borç verme faiz oranı da yüzde 17.75'ten yüzde 17.50'ye indirildi. 
+     Diğer vadelerde 1 haftalık borçlanma faiz oranı da yüzde 13.75'ten yüzde 13.50'ye düşürüldü. 
+     Geç Likidite Penceresi uygulaması çerçevesinde, Bankalararası Para Piyasası'nda saat 16.00-16.30 arası gecelik vadede uygulanan Banka borç verme faiz oranı da yüzde 21.75'ten yüzde 21.50'ye düşürülürken, yüzde 5 olan borçlanma faiz oranı değiştirilmedi. 
+     Açık piyasa işlemleri çerçevesinde piyasa yapıcısı bankalara repo işlemleri yoluyla gecelik ve bir haftalık vadelerde tanınan borçlanma imkanının faiz oranları da yüzde 15.75'ten yüzde 15.50'ye çekildi. 
+     Faiz indirim kararının gerekçesini açıklayan "Enflasyon ve Görünüm" başlıklı rapor, dün yapılan Para Politikası Kurulu toplantısında yapılan değerlendirmeleri de göz önüne alacak şekilde 2 iş günü içinde yayımlanacak. 
+     
+</TEXT>
+</DOC>

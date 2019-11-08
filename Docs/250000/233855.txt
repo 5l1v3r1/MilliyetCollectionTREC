@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 233855 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/22/son/soneko51.html </URL>
+<DATE> 2004/04/22/ </DATE>
+<TIME> 17.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düşüşle açıldı... 
+</HEADLINE>
+<TEXT>
+
+     New York Menkul Kıymetler Borsası, açılışta değer kaybetti. 
+     Dow Jones Endeksi, açılışta 8 puan yüzde 0.08 değer kaybederek, 10,308.61 puana geriledi. 
+     Nasdaq Bileşik Endeksi 0.61 puan yüzde 0.03 , Standard and Poor's 500 endeksi de 1.20 puan yüzde 0.11 değer kaybettiler. 
+     Borsanın gerilemesinde, imalatçı şirketlerin fiyatlarının yükselmesi etkili oldu. 
+     
+</TEXT>
+</DOC>

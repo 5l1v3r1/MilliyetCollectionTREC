@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 297248 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/13/son/soneko28.html </URL>
+<DATE> 2004/12/13/ </DATE>
+<TIME> 13.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Oracle, rakibi Peoplesoft'u satın alıyor... 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayar yazılım şirketi Oracle, sektördeki rakiplerinden PeopleSoft'ı yaklaşık 10.3 milyar dolara satın alıyor. 
+     Oracle baş icra yetkilisi Larry Ellison, iki şirketin yönetim kurullarının anlaşmasıyla, 18 aydır süren satın alma girişiminin başarıyla sonuçlandığını bildirdi. 
+     Ellison, PeopleSoft'u satın almakla Oracle'ın sektördeki gücünü ve pazar payını önemli ölçüde artıracağını söyledi. 
+     
+</TEXT>
+</DOC>

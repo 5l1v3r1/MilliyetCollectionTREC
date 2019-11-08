@@ -1,0 +1,43 @@
+<DOC>
+<DOCNO> 363223 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/07/22/ekonomi/aeko.html </URL>
+<DATE> 2005/07/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kayıtsız cep telefonu görüşmeye kapatılacak 
+</HEADLINE>
+<TEXT>
+
+
+Kayıtdışı 12 milyon cep telefonu, 14 Aralık 2005 tarihine kadar kayıtlı hale getirilmezse görüşmeye kapatılacak. Abonelerin 28 Ağustos'tan itibaren cep telefonları için kayıt başvurusu yapmaları gerekiyor 
+
+
+Telekomünikasyon Kurumu Başkanı Tayfun Acarer, kayıtsız cep telefonlarının, 14 Aralık 2005 tarihinden itibaren görüşmeye kapatılacağını açıkladı. Acarer, bundan böyle, ikinci el satışlarda da belgeye dayalı bir sistem getirileceğini, cep telefonu satışında alıcılardan net kimlik bilgileri isteneceğini söyledi. 
+Acarer'in verdiği bilgiye göre yeni sistemde kayıtsız telefon hangi operatörün SIM kartını kullanırsa kullansın, kesinlikle çalışmayacak. 
+
+1 milyar dolarlık vergi kaybı 
+Türkiye'de kayıtdışı 12 milyon cep telefonu bulunduğunu belirten Acarer, kayıtdışı telefon sayısının büyük bir hızla artarak yıl sonuna kadar 15 - 16 milyona ulaşma ihtimali bulunduğunu, ancak yasayla bunun önlendiğini vurguladı. 
+Cep telefonlarında kayıtdışılığın bugüne kadar ekonomide 3 milyar dolarlık kayba neden olduğunu, devletin de bu işten 1 milyar dolarlık vergi kaybı bulunduğunu anlatan Acarer, "Bıraksak, bu devam edip gidecekti" diye konuştu. 
+Bundan sonra ikinci el cep telefonu satışları da kayıt altına alınıyor. Cep telefonu bayileri kişiler arasındaki satışta aracı olarak kullanılabilecek. Ancak, ikinci el cep telefonları da özel ambalajlarında, kimlik karşılığında satılacak. 
+Acarer, yasanın uygulanmasıyla Türkiye'de kullanılamaz hale gelecek kayıtdışı cep telefonlarının yurtdışına çıkartılmasının gündeme geleceğini, bunu önlemek için de komşu ülkelerle bu konuda anlaşma yapmaya çalıştıklarını sözlerine ekledi. 
+
+Yeni uygulama nasıl olacak 12 milyon kayıtsız telefon mesajla uyarılacak 
+Yeni yasa 13 Temmuz 2005'te yürürlüğe girdi. Telekomünikasyon Kurumu, 45 gün içinde ihbar ve bilgi merkezi işlevini yürütecek çağrı merkezi kuracak. Teknik altyapının kuruluş çalışmaları devam ediyor. Merkezden üç GSM operatörünün telefonu kayıtsız abonelerine SMS ile "Telefonunuz kayıtlı değil' mesajı gönderilecek ve kayıt işlemi için yol gösterilecek. Kayıtsız telefon sahipleri, yönlendirildikleri kayıt noktasına gidecek. Fatura gösteremeyen 5 YTL ödeyerek, gösteren para ödemeden kayıt işlemi yaptıracak. 
+
+14 Aralık'a kadar kayıt yaptırmayanın telefonu kapanacak 
+Çağrı merkezinin kuruluşu için verilen 45 günlük sürenin ardından beş aylık zaman diliminde kayıt işlemleri yapılacak. Bu sürede bütün kayıt işlemlerinin tamamlanması planlanıyor. 1 Aralık'ta ise kayıtsız telefonları ikinci ve son kez SMS kısa mesaj ile uyarılacak. 14 Aralık'tan itibaren de tüm kayıtsız telefonlar görüşmeye kapatılacak. 
+Uyarı mesajını dikkate almayanlar daha sonra gerekçelerini belirterek operatörlere başvurabilecek. Bu talebin kabul edilmesi halinde kayıt işlemleri, yapılabilecek. 
+
+Kimliksiz telefon alınamayacak 
+Telefon satışlarında yeni bir prosedür uygulanacak. Alıcılar kimlik bilgilerini bildirecekler. SIM kart alınırken de satın alınan cep telefonunun faturası mutlaka sorulacak. 
+Gasp edilen telefonun maddi bir değeri de olmayacak. 
+Çalınan telefonlar kapalı haldeyken başkalarına satılmak istenirse, bu durumda makinayı satın alanlar telefonu çalmadığını ya da gasp etmediğini ispatlamak durumunda kalacak. 
+
+Telefonun kaçak olup olmadığını cepten öğrenin Cep telefonu kullanıcıları, telefonlarının kaçak olup olmadığını basit yolla öğrenebiliyor. Bunun için tüm GSM aboneleri, 06 tuşlarıyla cep telefonunun seri numarasını tespit ederek, internetten "http imei.tk.gov.tr" adresinde kayıtlı olup olmadığını sorgulayabiliyor. 
+Sistemde "Kayıtlı Değil" uyarısı alanlar, SMS ile uyarılmayı beklemeden, 28 Ağustos'tan itibaren kayıt işlemlerini yaptırabiliyor. 
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,57 @@
+<DOC>
+<DOCNO> 127360 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/12/28/guncel/gun02.html </URL>
+<DATE> 2002/12/28/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tüm dünya Japonca’yı sökecek .. 
+</HEADLINE>
+<TEXT>
+
+Bir Türk gencinin geliştirdiği InfoScope adlı cep tercümanı, Time’ın yılın buluşları listesinde... 
+     ELİF KORAP İstanbul 
+
+     Amerikan dergisi Time’ın seçtiği "yılın buluşları" listesine InfoScope adlı buluşuyla giren 32 yaşındaki İsmail Haritaoğlu, Milliyet’in sorularını yanıtladı. Herhangi bir yabancı dili istenen dile çevirebilen InfoScope’u geliştiren Haritaoğlu, bilgisayar devi IBM’de araştırmacı olarak çalışıyor. Haritaoğlu’nun buluşu bir yıl sonra kameralı cep telefonlarında da kullanılmaya başlanacak. Cihaz, Nokia, Ericsson ve Panasonic telefonlarıyla uyumlu. 
+     
+     15 SANİYE YETİYOR 
+Bu icat ettiğiniz şey’ ne işe yarıyor 
+     Mesela Çince mönüden bir şey ısmarlarken ne yiyeceğinizi bilmenize yarayabilir. InfoSkope, İngilizce, Almanca, Fransızca, İtalyanca, İspanyolca ve Çince’yi destekliyor. Şu an diğer dilleri de katarak bunu geliştiriyoruz. 
+     
+Nasıl yapıyor bunları 
+     InfoScope’la bir kişi etraflarındaki objelerin, yazıların fotoğrafını çekip gönderiyor. InfoScope internet bağlantısıyla fotoğrafın üzerindeki yazıları otomatik olarak buluyor, onları tanıyor ve gerekli çeviriyi yapıp 15 saniye içinde kullanıcıya geri gönderiyor. 
+     
+     BİR YIL SONRA TAMAM 
+Nereden çıktı InfoScope’u geliştirme fikri 
+     Yaklaşık 2 yıl önce bir Japonya ziyaretimde, metroda yolumu bulmak icin zorlandığımda aklıma geldi. 
+     
+Bu buluşunuzu biz ne zaman kullanabileceğiz 
+     Kameralı cep telefonları InfoScope için biçilmiş kaftan. Nokia 7650, Sony-Ericsson T68, P800 ve Panasonic Gd87 modelleriyle uyumlu. Bu servisin yaklaşık olarak bir yıl içinde başlamasını bekliyoruz. 
+
+
+
+ GÜNCEL 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

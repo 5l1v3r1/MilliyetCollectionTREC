@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 234345 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/24/yazar/theper.html </URL>
+<DATE> 2004/04/24/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Tamer HEPER  </AUTHOR>
+<HEADLINE>
+Faydalı bir yenilik 
+</HEADLINE>
+<TEXT>
+
+   
+   Memlekette doğalgaz kullanımı yaygınlaştıkça yeni yeni problemlerle karşılaşıyoruz. Bunlardan biri İstanbul, Üsküdar'da oturan okuyucum, F. T. 
+   Binalarında ısınmak için kombi kullanıyorlar. Ancak binalarının en üst katında oturan daire sahipleri kombi ile ısınmada önemli problem yaşıyorlar. Isı kaybı nedeni ile kombi tek başına ısınmaya yetmediği için bir de klima kullanıyorlar ve istekleri, çatı arasına izolasyon maddesi döşenmesi. Bu halde masraflar kim tarafından karşılanacak 
+   Şayet binanın projesinde çatı arası izolasyon öngörülmüşse izolasyonun yaptırılması ve bağımsız bölüm maliklerinin masrafa katılmasıdır. Ancak projede yoksa ve buna rağmen izolasyonun yapılması üst katların ısınmasına katkı sağlıyorsa yine de bunun yapılması gerekir kanaatindeyim, ancak bu halde projede bulunmayan bir sistem çatı arasına konulacağı için kat maliklerinin sayı ve arsa payı çoğunluğu ile karar alması kanaati benim görüşümdür. 
+   
+      
+   
+   
+</TEXT>
+</DOC>

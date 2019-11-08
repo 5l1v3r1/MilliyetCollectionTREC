@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 353431 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/19/yazar/toruner.html </URL>
+<DATE> 2005/06/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Yaman TÖRÜNER  </AUTHOR>
+<HEADLINE>
+Oradaydım Birçok kanser türü 5 yıl içinde tedavi edilebilecek 
+</HEADLINE>
+<TEXT>
+
+
+Araştırmacı ilaç firmalarının en önde gelenlerinden biri olan Pfizer'in Amerika Groton'daki araştırma laboratuvarlarını ziyaret ettim. Şu anda üçüncü deneme safhasında bulunan, yani birkaç yıl içinde piyasaya çıkabilecek olan, kanser, sigara tiryakiliğini durdurma, AIDS, kolestrol ve alerji konularında çok etkili ilaçlar geliştirmiş durumdalar. Üçüncü aşamadaki bu denemeler, binlerce seçilmiş hasta üzerinde yapılıyor. 10-15 yıldan fazla sürmüş olan birinci ve ikinci aşama denemeler başarıyla sonuçlanmış durumda. Bulunan AIDS ilacı hastalığın gelişmesini durdurabiliyor. Sigara tiryakiliğini durduran ilaç ise, tiryakilerin sigara içmekten zevk almasını engelliyor. 
+Akciğer kanserinin 80-90'ı tütün içimine bağlı. Diğer kanser çeşitlerinin 7-10'u kalıtımsal. Pfizer mucit araştırmacıları kanserin moleküler yapılarını tamamen ortaya çıkarmış durumdalar. "Tyrosine kinase" denilen enzimlerin normal moleküler yapıları etkileyerek kanser oluşturduğunu bulmuşlar. Bu enzimleri etkileyebilecek moleküler yapı ve ilaçlar üzerinde çalışmışlar. Amaç başka hücrelere zarar vermeden bu enzim hücrelerinin beslenmelerini durdurmak. Pratik olarak, kılcal damarlara ulaşamayan kanser hücreleri protein alamıyor yani, yaşayamıyor. Beslenemiyor ve artıklarını kana ulaştıramıyor. 
+İşte, "Sutent" ismiyle piyasaya çıkarılacak olan ilaç normal hücreleri hiç etkilemezken, kanserli hücrelerin beslenmesini engelliyor. Hastalar üzerindeki şimdiye kadarki denemeler çok başarılı ve 3-8 haftalık bir kür sonucunda tümörlerin büyümesi engellendiği gibi yok olduğu da görülüyor. Akut safhadaki kanserli hastaların bile 40'ının iyileştiği söyleniyor. Üstelik, ilaç kolayca ağızdan alınan drajeler biçiminde sunulacak. Yani, kemoterapi ve ışın tedavisi artık birçok kanser türü için tarihe karışacak. İlacın yan etkileri de hemen hemen hiç yok. Şimdiye kadar böbrek, mide, sindirim, meme ve bağırsak kanserleri üzerinde yapılan denemeler çok başarılı oldu. Üstelik, binlerce denek hiç bir başka tedavinin başarılı olmadığı hastalardan seçilmişti. 
+Pfizer kanser konusundaki araştırmalarda dünya lideri durumunda. Yapılan araştırmalara göre, "tyrosine kinase" enzimlerinden biri olan IGF-1R enzimi sadece kanser hücrelerinde bulunuyor. Pfizer, IGF-1R enzimine karşı savaşan molekül hücreleri ve molekülsel yapı geliştirdi. Bu molekülleri içeren yeni ilaç da meme ve akciğer kanserleriyle savaşıyor. Denemelerde sadece dozajı belirleme sorunu kalmış durumda. Bu aşamada, her hastanın moleküler yapısının bilinmesi ilaç kullanımı konusunda çok önem taşıyor. 
+Haberler çok iyi. Pfizer yılda bu araştırmalar için 7.6 milyar dolar harcamış. Bir tek ilacın piyasaya sürülmesi ortalama 800 milyon dolara mal oluyor. Ama, sonuç da var. İlaçlar, 5-6 yıl içinde, belki de daha erken piyasada olacak. 
+
+
+
+</TEXT>
+</DOC>

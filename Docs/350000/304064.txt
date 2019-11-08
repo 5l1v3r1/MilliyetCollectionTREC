@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> 304064 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/06/son/sonsiy09.html </URL>
+<DATE> 2005/01/06/ </DATE>
+<TIME> 10.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Başbakan yakındı, e- imza yönetmeliği çıktı... 
+</HEADLINE>
+<TEXT>
+
+     Başbakan Tayyip Erdoğan'ın bürokrasiden yakınırken gecikmesinden dem vurduğu Elektronik İmza Kanunu Uygulama Yönetmeliği, Telekomünikasyon Kurumu tarafından 5.5 aylık bir gecikmenin ardından yürürlüğe konuldu. 
+     Elektronik İmza Yasasının Uygulanmasına İlişkin Usul ve Esaslar Hakkında Yönetmeli Resmi Gazete'de yayımlandı. 5070 sayılı E-İmza Yasası, 23 Ocak 2004 tarihinde Resmi Gazete'de yayımlanmış, ancak gerekli yönetmeliğin hazırlanabilmesi amacıyla yürürlük tarihi 23 Temmuz 2004 olarak belirlenmişti. Yürürlük tarihinden beş buçuk aylık bir rötarın ardırndan söz konusu yönetmelik yayımlandı. 
+     Elektronik imzanın hukuki ve teknik yönleri ile uygulanmasına ilişkin usul ve esasları düzenlemek amacıyla Telekomünikasyon Kurumu'nca hazırlanan yönetmelik, "Bildirim ve sertifikasyon süreçlerine, güvenli elektronik imza oluşturma ve doğrulama verileri ile araçlarına, elektronik sertifika hizmet sağlayıcısı, Kurum, nitelikli elektronik sertifika sahibi ve üçüncü kişilerin yükümlülüklerine, denetime, faaliyetin sona erme hallerine, zaman damgasına, yabancı elektronik sertifikalara, güvenliğe, teknik ve mali hususlara ilişkin usul ve esasları" kapsıyor. 
+     Elektronik Sertifika Hizmet Sağlayıcısı ESHS olmak isteyen resmi veya özel kişi kurumların Telekomünikasyon Kurumu'na TK 
+     başvurması gerekiyor. TK, başvuruyu iki ay içinde sonuçlandırılacak ve bildirimin yapılmasından iki ay sonra hizmet verilmeye başlanabilecek. ESHS, nitelikli elektronik sertifika vereceği kişilerin kimliğini nüfus cüzdanı, pasaport, sürücü belgesi gibi fotoğraflı ve geçerli resmi belgelere göre saptayacak ve oluşturacağı sertifikayı sahibine teslim edecek. Geçerlilik süresi sonunda sertifikalar yenilenecek. 
+     ESHS, nitelikli elektronik sertifikayı vermeden önce ilgili kişiyi hak ve sorumluluklarına ilişkin bilgilendirecek. 
+     TK, ESHS'lerin bildirim sürecine ve faaliyet durumuna ilişkin bilgilerinin yanı sıra elektronik imzaya ilişkin yaptığı çalışmalarla ve sektörün durumuyla ilgili yıllık durum raporu hazırlayıp internetten yayınlayacak. ESHS'ye ait imza oluşturma ve doğrulama verilerinin geçerlilik süresi on yılı aşamayacak. ESHS özel hukuk tüzel kişisi ise, "kurucu ortakları, tüzel kişiliği temsile yetkili yöneticileri ve istihdam ettiği veya ettirdiği personeli gerçek kişi ise kendisi, temsile yetkili yöneticileri ve istihdam ettirdiği personeli taksirli suçlar hariç olmak üzere, affa uğramış olsalar bile ağır hapis veya altı aydan fazla hapis yahut basit veya nitelikli zimmet, irtikap, rüşvet, hırsızlık, dolandırıcılık, sahtekarlık, inancı kötüye kullanma, dolanlı iflas gibi yüz kızartıcı suçlar ile istimal ve istihlak kaçakçılığı dışında kalan kaçakçılık suçları, resmi ihale ve alım satımlara fesat karıştırma, kara para aklama veya devlet sırlarını açığa vurma, vergi kaçakçılığı ya da iştirak veya bilişim alanındaki suçlar nedeniyle hüküm giymemiş olması" gerekiyor. 
+     TK, nitelikli elektronik sertifika, zaman damgası ve ilgili hizmetlere ait ESHS'lerin uymakla yükümlü olduğu ücretlerin alt ve üst sınırlarının belirlenmesine ilişkin usul ve esasları ayrıca saptayacak. Ancak, TK, ESHS'den bir önceki yıla ait net satışlarının binde 4'ü kadar idari ücret alacak ve bu ücretin tamamı Nisan ayının son iş gününe kadar Kuruma ödenecek.. 
+     
+     GÜVENLİK İÇİNDE GÜVENLİK 
+
+     Sertifika sağlayıcı kurumlar, kullanıcılara bilgisayarın USB çıkışlarına takılabilecek özel anahtarlar ya da özel dizayn edilmiş elektronik imzaların yüklü olduğu kartları verecekler. Anahtar ya da kartlar, üzerinde kullanıcısının kimlik bilgileri, vatandaşlık numarası gibi bilgileri içereceğinden bunlar ilerleyen yıllarda iş kimliği ya da pasaport olarak da kullanılabilecek. 
+     Sertifika kuruluşları, ürettikleri elektronik imzayı bir kez üretecek ve ardından imha edecekler. Kullanıcılar, güvenli şekilde işlem yapabilmeleri için bu anahtar ve kartları kullanırken, ayrıca işlem sırasında güvenlik gereği 2 şifre daha girecekler. Anahtar ya da kartın çalınması halinde bile bir başkasının imzasını kullanmak mümkün olamayacak. 
+     
+     YAZILAR KRİPTOLANABİLECEK 
+
+     E-imza yürürlüğe girdiğinde kamuda halen kullanılmakta olan elektronik devlet uygulamaları da hukuki zemin kazanmış olacak. Kamu kurumlarında yazışmalar gizli, özel, hizmete özel, tasnif dışı olarak düzenlenecek ve yazılar yetkilisinin elektronik imzasını taşıyacak. Özellikle gizliler başta olmak üzere resmi yazılar, istenildiğinde kriptolanacak ve alıcısından başkası bu yazıları göremeyecek. Sistem, yazıyı gönderenin kimliğini alıcıya bildirirken, yazıyı alan kişi kimlik sorgulaması yapabilecek. Böylece kamu kurum ve kuruluşlarında kağıtla yapılan yazışma trafiği sona erecek ve tüm işlemler elektronik ortamda güvenle gerçekleştirilecek. Bu sayede, kamuda işlemlerin daha hızlı yapılması bekleniyor. 
+     
+     ELEKTRONİK İMZA VATANDAŞA NE GETİRECEK 
+
+     Vatandaşlar ise kamudaki gibi, sertifikasyon kurumlarından aldıkları elektronik imzalar sayesinde günün herhangi bir saatinde kamu kurumlarına başvuru yapabilecek ya da internet üzerinden özel işlerini gerçekleştirebilecek. Elektronik imza kullanımında ''inkar edemezlik'' temel prensip olarak kabul edilecek. Kullanıcıların, elektronik imzasını atarak gönderdiği e-mail bile sadece yetkilendirdiği kişi tarafından okunabilecek. 
+     Uygulamanın başlamasıyla birlikte kullanıcılar, e-imzaları sayesinde ÖSS, KPSS, pasaport gibi başvurularını, nüfus cüzdanı, vatandaşlık işlemlerini, sosyal güvenlik kurumlarıyla olan işlerini, hastaneler başta olmak üzere sağlık işlemlerini, vergi ödemelerini, internet bankacılığı, sigortacılık işlemlerini internet üzerinden güvenli bir şekilde yapabilecek. İnternet üzerinden kredi kartıyla daha güvenli şekilde alışveriş yapılabilecek. Sertifikasyon kurumları, ürettikleri kart ya da anahtarlar karşılığında ortaya çıkabilecek sorunlara karşı Mali Sorumluluk Sigortası yaptıracaklar. 
+     E-imza uygulaması sayesinde gerekli düzenlemelerin yapılmasıyla elektronik olarak nüfus sayımı ve seçimlerde oy verme işleminin bile yapılabileceği belirtiliyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> 313629 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/09/ekonomi/eko02.html </URL>
+<DATE> 2005/02/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Öğretmene laptop ihalesini 3 yerli, 1 yabancı firma aldı 
+</HEADLINE>
+<TEXT>
+
+
+650 bin öğretmenin yararlanabileceği dizüstü bilgisayar ihalesini, Datateknik - Casper - Sentim konsorsiyumu ile Toshiba kazandı. Laptoplar 730 - 920 dolardan satılacak 
+
+Bahar Atakan - Ankara 
+
+Milli Eğitim Bakanlığı'nın MEB , yaklaşık 650 bin öğretmeni dizüstü laptop bilgisayar sahibi yapmak amacıyla Vakıfbank aracılığıyla düzenlediği ihaleyi kazanan firmalar belli oldu. İhaledeki iki farklı laptop seçeneğinden 730 dolarlık laptoplar DataTeknik - Casper - Sentim Konsorsiyumu tarafından, 930 dolarlık üst kategorideki laptop seçeneği ise Toshiba firması tarafından temin edilecek. İhaleye, bu firmaların yanı sıra Aidata, İnfronic ile Koç Sistem de katılmıştı. 
+Vakıflar Bankası'nın, ihaleyi kazanan firmalarla bu ay sonunda protokol imzalamasının ardından öğretmene laptop satışının başlaması bekleniyor. 
+
+KDV yüzde 1 olacak 
+Projeden, devlet okullarında görevli 600 bin öğretmen, özel öğretim kurumlarında görev yapan 28 bin öğretmen ve 77 bin öğretim üyesi ile öğretim elemanları yararlanacak. Öğretmenler, maddi imk nlarına göre iki farklı laptop seçeneğinden birini alabilecek. Vakıflar Bankası ile firmalar arasında 15 Şubat'ta protokol imzalanacağı belirtilirken, MEB, Sanayi ve Ticaret Bakanlığı'ndan 'kampanyalı satış izni' istedi. İzin alındıktan sonra satış noktalarından öğretmenler laptoplarını temin edebilecek. 
+Laptoplara uygulanan yüzde 18'lik KDV yüzde 1'e düşürülecek. Bu arada Microsoft'un işletim sistemi bedeli de satış fiyatından düşülecek ve laptoplar, öğretmenlere 860 - 670 dolardan satılacak. 
+Laptoplarda, 1 yıllık ücretsiz ADSL aboneliği ya da düşük fiyatlı internet kullanımına yönelik imk nların bulunması da planlanıyor. Öğretmenler, Vakıflar Bankası'ndan krediyi faiz farkı olmadan alabilecek. İki yıl garantisi olacak laptoplarda, öğretmenlerin ödeme gücüne göre 24 - 36 ay taksitlendirme yapılabilecek. 
+
+Klavyeler F Milli Eğitim Bakanlığı, akademisyenler de dahil tüm öğretmenleri dizüstü bilgisayar sahibi yapmak için çıktığı ihalede, son dakika değişikliği yaparak kazanan firmalara bilgisayarların F klavyeli olması koşulunu getirdi. İhale şartnamesine F klavye koşulunu açıkça yazmayan bakanlığın, yüklenici firmalara uyarıda bulunarak, verilecek dizüstü bilgisayarların F klavye olmasını isteği bildirildi. 
+
+Laptop seçenekleri 
+Datateknik - Casper - Sentim, 730 dolar 14.1 inç TFT Ekran, 1.3 veya 1.5 Ghz Intel Mobil Celeron İşlemci, 20 GB HDD, 256 MB RAM, entegre 10 100 ethernet ve modem, mini PCI slot üzerine akıllı wireless kablosuz ağ kartı, 24x CDROM, MS Windows XP Türkçe, batarya adaptör. 
+Toshiba, 920 dolar 15 inç TFT ekran, 1.3 veya 1.6 Ghz Intel Centrino Mobil İşlemci, 40 GB HDD, 256 MB RAM, entegre 10 100 ethernet ve modem, board üzerinde entegre wireless ağ kartı, DVD CD DVDRW, MS Windows XP Türkçe, batarya adaptör. 
+
+Ülker'in ilk bilişim şirketi 1989'da kurulan Datateknik, Ülker Grubu'nun bilişim alanında kurduğu ilk firma. Şirket, Exper markasıyla bilgisayar üretimi yapıyor. Türkiye genelinde bayi ağına sahip Datateknik'in müşterileri arasında bakanlıklar, üniversiteler, sosyal güvenlik kurumları ve belediyeler yer alıyor. 
+
+81 ilde teknik destek Bilişim sektörüne 1990 yılında giren Sentim Teknoloji, bu alanda tedarikçi firmaların yanı sıra, kurumsal ve bireysel pazarda yer alıyor. Firmanın 81 ili kapsayan, teknik destek ve servis altyapısı ağı kurulu. 
+
+İki genç mühendis kurdu 1991 yılında iki genç bilgisayar mühendisi tarafından kurulan Casper Computer, bilişim alanında ithalatçı, üretici ve distribütör olarak faaliyet gösteriyor. Türkiye genelinde 600 mağazası bulunan firma 2003'te 48 bin adet bilgisayar sattı. 
+
+
+</TEXT>
+</DOC>

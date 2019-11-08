@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 401525 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/08/ekonomi/eko11.html </URL>
+<DATE> 2005/12/08/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+e - kolay'dan net'e açılan akıllı kutu 
+</HEADLINE>
+<TEXT>
+
+
+
+Doğan Online şirketlerinden e-kolay.net, Minicom adlı ürünü tanıttı. Yeni ürün, çip üreticisi AMD teknolojisiyle üretilen küçük sistem biriminin yanı sıra ekran, klavye, mouse, adaptör gibi donanımları içeriyor. Sistem biriminin üretiminde, Microsoft, Samsung, Seagate, Macromedia ve Solectron gibi dünya devi firmaların da teknolojik desteği alınıyor. 
+Yeni ürünle internete girilebiliyor, e - posta alınıp gönderilebiliyor, belge, tablo, çizim hazırlanabiliyor, oyun oynanabiliyor, müzik dinlenebiliyor, film ve sunum izlenip, MSN Messenger programı kullanılabiliyor. 
+Doğan Online İcra Kurulu Başkanı Orhan Göksal, e-kolay.net'in Minicom ile Türkiye'deki sayısal uçurumu ortadan kaldırmayı hedeflediğini belirtti. AMD Başkan Yardımcısı ve Yeni Teknolojiler Başsorumlusu Dr. William T. Edwards ise, Minicom'un evde, işte, okulda kullanılabileceğini bildirdi. 
+
+
+</TEXT>
+</DOC>

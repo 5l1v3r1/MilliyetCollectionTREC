@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 173634 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/05/yasam/yas05.html </URL>
+<DATE> 2003/08/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bu eldiven işaret dilini söze döküyor 
+</HEADLINE>
+<TEXT>
+
+   İşitme engellilerin kullandığı işaret dilini sese ve yazıya çeviren elektronik eldiven icat edildi 
+      DIŞ HABERLER SERVİSİ 
+   
+   WASHINGTON'DAKİ George Washington Üniversitesi'nden Jose Hernandez - Rebollar'ın geliştirdiği "AcceleGlove" adlı elektronik eldiven, kullanıcının koluna takılan ve el kol hareketlerini analiz eden bir bilgisayar. Küçük elektronik devreler, alıcılar ve ses cihazından oluşan bilgisayar, alıcıları yardımıyla hareketleri ekrana yazıyor ve sese dönüştürüyor. 
+   HERNANDEZ - Rebollar, "Amerikan İşaret Dili'ni yazılı ve sözlü kelimelere, cümlelere çeviren eldiveni sağır ve dilsizlerin hayatını kolaylaştırmak için yaptım" diyor. Daha önce de böyle cihazların geliştirildiğini söyleyen Hernandez - Reboller, buluşunun farkını ise şu sözlerle anlatıyor Karışık hareketleri de cümlelere dökebiliyor. 
+   
+   
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 403995 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/16/son/soneko23.html </URL>
+<DATE> 2005/12/16/ </DATE>
+<TIME> 12.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı 52 puanlık kayıpla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeksi, dünkü 2. seans kapanışına göre 52.42 puan düşerek 37,579.15 puandan kapandı. 
+     1. seansta, hisse senetlerinin ortalama değer kaybı yüzde 0.14 oldu. 
+     Dün 37,631.57 puandan kapanan İMKB Ulusal 100 Endeksi, ilk seansa 13.53 puan azalarak 37,618.04 puandan başladı. İlk yarıyı 37,641.54 puandan geçen endeks en düşük 37,465.10 puana kadar gerilerken, en yüksek olarak da 37,723.72 puanı gördü. 
+     Seans sonunda mali endeks 23.39 puan artarak 58,759.67 puana, sanayi endeksi 26.57 puan artarak 29,498.71 puana yükseldi, hizmetler endeksi ise 26.89 puan azalarak 17,679.07 puana geriledi. 
+     Böylece önceki kapanışa göre, mali grup hisseler ortalama yüzde 0.04, sanayi grubu hisseler ortalama yüzde 0.09 oranında değer kazanırken, hizmetler grubu hisseler ortalama yüzde 0.15 oranında değer kaybetti. 
+     1. seansta işlem gören toplam 306 hisse senedinden 154'ü değer kazandı, 65'i değer kaybetti, 86 hissenin fiyatında ise değişiklik olmadı. Mert Gıda hisseleri ise bugün ilk kez İMKB'de işlem görmeye başladı. 
+     Seansta 507 milyon 49 bin 77 YTL'lik işlem hacmi oluştu. 
+     1. seansta Vakıfbank, Garanti Bankası, İş Bankası C , Marmaris Martı ve Koç Holding, en çok işlem gören hisse senetleri oldu. 
+     
+</TEXT>
+</DOC>

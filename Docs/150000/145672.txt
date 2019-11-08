@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 145672 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/03/27/son/sondun09.html </URL>
+<DATE> 2003/03/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Masaüstü bilgisayarların yerini "dizüstüler" alıyor... 
+</HEADLINE>
+<TEXT>
+
+     Dizüstü bilgisayarların hızla masaüstü bilgisayarların yerini aldığı bildirildi. 
+     IDC adlı piyasa araştırma kuruluşunun verilerine göre, üreticiler geçen yıl, toplam satışların yüzde 23.5'una denk gelen 30.5 milyon dizüstü bilgisayar sattı. Bu oran 2001'de yüzde 22.5 dolayındaydı. 
+     Uzmanlar, bu eğilim devam ettiği takdirde gelecek yıl sonunda satılan bilgisayarların yüzde 25'ini dizüstülerin oluşturacağını belirttiler. 
+     Dizüstü bilgisayar satışları 1998 yılından bu yana sürekli artış gosteriyor. Bunda ''notebook'' olarak da adlandırılan dizüstü bilgisayarların kalitesinin yükselmesinin yanı sıra fiyatlarının hızla düşmesi de önemli rol oynuyor. 2002 yılında iş dünyasına paralel olarak özel kullanıcıların da dizüstü bilgisayarlara yöneldikleri belirtildi. 
+     
+     ÖZELLİKLERİ 
+     Gelişen işlemci teknolojisi sayesinde günümüzdeki dizüstü bilgisayarların hızı 2.4-2.8 GHZ'e kadar yükselmiş bulunuyor. Bu bilgisayarların fiyatları 1500 dolardan başlıyor. 
+     Örneğin, dünyanın önde gelen dizüstü bilgisayar üreticisi Toshiba tarafından geçen hafta piyasaya sürülen ''1135-s155'' modeli bir bilgisayar 2 GHZ Celeron işlemciye ve 512 MB RAM'a sahip. 40 GB hacminde hard disk depolama kapasitesi bulunan bu bilgisayarın DVD-ROM ve CD yazıcısı ve 15 inçlik TFT ekranı var. Bilgisayarın fiyatı ise 1249 dolar. Ancak bu fiyat üzerinden çeşitli indirimler yapılıyor. Bu tür bir bilgisayarı 1000 dolar civarında satın almanın mümkün olduğu belirtiliyor. 
+     Kablosuz iletişim teknolojisinin yanı sıra bataryaların ömrünün uzaması da dizüstü bilgisayarları cazip kılan ögeler arasında yer alıyor. 
+     
+
+
+
+
+</TEXT>
+</DOC>

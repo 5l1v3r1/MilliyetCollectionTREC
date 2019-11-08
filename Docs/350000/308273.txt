@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 308273 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/21/son/sontur02.html </URL>
+<DATE> 2005/01/21/ </DATE>
+<TIME> 02.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İzmir'de orta şiddette deprem... 
+</HEADLINE>
+<TEXT>
+
+     İzmir'de, gece saat 01.30 sıralarında, orta şiddette deprem meydana geldi. 
+     Kandilli Rasathanesi Deprem Araştırma Enstitüsü'nden aldığı bilgiye göre, depremin büyüklüğü 4.0 olarak belirlendi. 
+     Meydana gelen depremin merkez üssünün İzmir'in Menemen ilçesi olduğu öğrenildi. 
+     İzmir, Menemen, Manisa ile çevredeki il ve ilçelerde de hissedilen depremde, ilk belirlemelere göre, herhangi bir can kaybı ve maddi hasar meydana gelmedi. 
+     
+</TEXT>
+</DOC>

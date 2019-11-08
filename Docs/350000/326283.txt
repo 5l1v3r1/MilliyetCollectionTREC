@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 326283 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/23/son/soneko47.html </URL>
+<DATE> 2005/03/23/ </DATE>
+<TIME> 15.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD'de enflasyon korkusu... 
+</HEADLINE>
+<TEXT>
+
+     ABD Merkez Bankası FED'in, dünkü toplantısında dikkat çekilen enflasyon tehlikesi bugün açıklanan verilerle daha somut şekilde ortaya çıktı. 
+     Çalışma Bakanlığı'ndan yapılan açıklamada, bir önceki aya göre Şubat ayında tüketici fiyatlarında yüzde 0.4 binde 4 artış kaydedildiği bildirildi. 
+     Enerji ve gıda fiyatları hariç tutulduğunda Şubat ayında çekirdek enflasyon olarak adlandırılan diğer tüketici fiyatlarındaki artış ise yüzde 0.3 oldu. 
+     Son 4 ayın en yüksek fiyat artışı anlamına gelen Şubat enflasyonu, FED'in bundan sonraki faiz artırımlarında daha sert davranabileceği endişesini güçlendirdi. 
+     ABD'de petrol fiyatlarının görece daha düşük kaldığı Ocak ayı enflasyonu ise yüzde 0.1 olarak açıklanmıştı. 
+     Şubat ayı enflasyonunun beklentilerin üzerinde gelmesi, uluslararası döviz piyasasında doların önemli paralar karşısında güçlenmesini sağladı. 
+     Avro karşısında son bir ayın en yüksek seviyesine çıkan ABD Doları, paritenin 1.30 seviyesinin de altına inmesini sağladı. Avro dolar paritesi son işlemlerde 1.2984'e kadar geriledi. 
+     ABD'de Şubat ayı enflasyonu açıklanmadan 105.60 dolardan satılan Japon yeni ise dolar karşısında yüzde 0.2 gerileyerek 105.84 dolardan işlem gördü. 
+
+     
+</TEXT>
+</DOC>

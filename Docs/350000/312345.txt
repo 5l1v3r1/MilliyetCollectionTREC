@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 312345 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/04/son/soneko08.html </URL>
+<DATE> 2005/02/04/ </DATE>
+<TIME> 10.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Morgan Stanley Türkiye deflasyona doğru gidiyor 
+</HEADLINE>
+<TEXT>
+
+     Uluslararası yatırım bankası Morgan Stanley, enflasyondaki düşüş süreciyle birlikte Türkiye'nin, 'fiyatlardaki gerilemeyi'' gösteren deflasyona doğru gittiğini bildirdi. 
+     Morgan Stanley tarafından, yeni sepete göre hazırlanan Ocak 2005 enflasyonu analizinde, tüketici fiyatları yüzde 0.55 artarken, toptan eşya fiyatlarının yerini alan üretici fiyatları yüzde 0.41 oranında gerilediği, imalat sanayii fiyatlarının toplamda yaklaşık yüzde 1.1 oranında azaldığı kaydedildi. 
+     Analizde verilerin, deflasyona gidişin bir işareti olduğu da vurgulandı. 
+     
+     ENFLASYON TAHMİNİ YÜZDE 6.7... 
+
+     Analizde, enflasyondaki düşüşün devam edeceği belirtilirken, bu yıl sonu itibarıyla yüzde 6.7 oranında bir enflasyon beklendiği kaydedildi. 
+     Morgan Stanley, 2006 yılı Türkiye enflasyon tahminini ise yüzde 3.6 olarak bildirdi. 
+     Hükümetin bu yılki TÜFE enflasyon hedefi yüzde 8 seviyesinde bulunuyor. 
+     Ocak itibarıyla yıllık enflasyon ise TÜFE'de yüzde 9.23, ÜFE'de yüzde 10.70 oldu. 
+     
+
+     
+</TEXT>
+</DOC>

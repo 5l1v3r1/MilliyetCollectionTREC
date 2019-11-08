@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 166783 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/07/02/yazar/gunes.html </URL>
+<DATE> 2003/07/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Hurşit GÜNEŞ  </AUTHOR>
+<HEADLINE>
+Meğer iç borcun reel faizi çok düşükmüş 
+</HEADLINE>
+<TEXT>
+
+     Reel faizin hesabı çok önemli. Reel faiz, vadenin sonuna kadar olan enflasyonun o vadeye ödenen faizden düşülmesidir. Ancak bu düşme yöntemi doğru hesaplanmalıdır. Elde edilen nominal faizden oluşan enflasyon bölünerek düşülür. Çünkü ulaşılmaya çalışılan reel gelirdeki artıştır. Bir örnekle açıklayayım enflasyon yüzde 30, nominal faiz yüzde 60 ise reel faiz yüzde 30 değildir. Reel faiz yüzde 23'tür. Yani gelir reel olarak yüzde 23 oranında büyümüştür. Örneğin, bugün 12 aylık bileşik faizler yüzde 52 düzeyindedir. Biz Haziran 2004'te enflasyonun yüzde 16 - 17 düzeyinde gerileyeceği kanısındayız. Eğer böyle bir gerçekleşme olursa reel faiz yüzde 29 olarak gerçekleşmiş olacaktır. 1.52 1.17 1.29 
+     
+İÇ BORÇ STOKUNUN REEL FAİZİ Yıllık Bileşik Reel Faiz NİSAN 2003 MAYIS 2003 TOPLAM İÇ BORÇ STOKU 10.97 11.38 Kamu 9.41 10.78 - TL 15.17 13.83 - DÖVİZ E CİNSİ END. -10.48 -0.14 Piyasa 12.59 11.96 - TL 27.91 26.69 - DÖVİZ E CİNSİ END. -14.59 -16.55      
+     Geçici 
+     
+     Yukarıda yaptığımız hesaplama elbette iskontolu bonoların reel faizi. Ancak Hazine borcu sadece iskontolu bonolarla çevirmiyor. TL borçlanırken aynı zamanda FRN Floating Rate Note denilen her üç ayda bir faizi ihaleyle belirlenen bonoları satıyor. Bunlar topluca hesaplandığında iç borcun reel faizinin pek de yüksek olmadığı anlaşılıyor. 
+     Geçenlerde Hazine tarafından bir reel faiz tablosu yayımlandı. Nisan ayında yüzde 28 civarında olan piyasaya olan borcun reel faizi, bir ayda nominal faizlerin düşmesiyle yüzde 27'nin altına inmişti. Ancak bu rakamlar iç borcun tüm yükünü yansıtmıyor. Çünkü kamuda TL borçlanma daha çok FRN bonolarına dayandırılmış vaziyette. Bunların da reel faizi ise yüzde 14 - 15'i geçmiyor. Her ikisinin ortalaması alındığında ise, reel faiz yükü yüzde 20'lere geriliyor. 
+     Üstelik hesap bununla da kalmıyor. Hazine zaman zaman döviz endeksli borçlanmalar yapıyor. Ve şu ara döviz kuru düştüğü için Hazine aslında bu tür borçlanmalarda, bırakın reel faiz ödemeyi, aksine nominal faiz bile ödemiyor. 
+     Yukarıda tabloda da görüldüğü gibi, dövizle yapılan borçlanmalarda mayıs ayında negatif reel faiz yüzde 17 imiş. Yani Hazine'nin ödediği, borçlandığından yüzde 17 daha düşükmüş. Yahut da, Hazine'ye borç para verip dövizli bono alan yurttaşlarımız yüzde 17 zarar etmişler. Ancak döviz kurundaki bu hareketin Hazine'ye sağladığı avantaj sürekli olamaz. Nitekim, Merkez Bankası giderek açılan cari açıklar nedeniyle döviz alım ihalelerinin miktarını artırdı. Kur yükselmeye başladı mı, iç borç dolar bazında küçülse bile, dövizli kısmın servis yükü artacaktır. Bu nedenle bir an önce iskontolu bonoların reel faizini düşürecek çeşitli önlemlerin ele alınması gerekiyor. 
+     Borç ekonominin en önemli sorunu olmaya devam ediyor. Ancak Türkiye'nin son üç yılda bu konuda çok önemli aşamalar kaydettiği de göz ardı edilmemeli. 
+     
+     
+
+</TEXT>
+</DOC>

@@ -1,0 +1,50 @@
+<DOC>
+<DOCNO> 113620 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/10/18/yasam/ayas.html </URL>
+<DATE> 2002/10/18/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Oto hırsızının k busu GPS 
+</HEADLINE>
+<TEXT>
+
+Küresel konum belirleme sistemi GPS, Türkiye’de de hızla yayılıyor. Sistemin takılı olduğu araç, deyim yerindeyse deliğe girse’ bulunuyor 
+     SERHAT OĞUZ İstanbul 
+
+     Her yıl çalınan binlerce otomobilin ya izine rastlanamıyor ya da araçlar bulunduğunda artık kullanılamayacak halde oluyor. 
+     Sadece 2002 yılı içinde Türkiye çapında şu ana kadar çalınan tam 10 bin 300 otomobilden ancak 8 bin 290’u bulunabildi. Otomobil hırsızlarına karşı çözüm de, teknolojiden geldi. Tüm gelişmiş ülkelerde oto hırsızlarının k busu olan uydu bağlantılı GPS sistemi Global Positioning System , son bir yıldır Türkiye’de halen uluslararası nakliye firmaları, araç kiralama şirketleri ve medya kuruluşlarına ait bin 500’ü aşkın araçta kullanılıyor. 
+     
+     Hırsız bırakıp kaçtı 
+     Küresel konum belirleme sistemi GPS bulunan bir araç çalındığı takdirde, internetten, harita üzerinde hemen bulunuyor. Başarı Elektronik İstanbul Bölge Müdürü Orkunt Yozgat da, üç ay önce Antalya’da çalınan bir BMW otomobilin, uydudan takiple ertesi gün Burdur’da ele geçirildiğini söylüyor. Yozgat, sistemi kullanan bir TIR’ı 1.5 ay önce İtalya’da çalan hırsızların da, sistemi farkedince aracı birkaç cadde uzaklığa bırakıp kaçtığını da belirtiyor. Uluslararası Nakliyeciler Derneği de, GPS’i 368 araçta hırsızlık ve kötü niyetli sürücülere karşı kullanıyor. 
+     
+Nasıl çalışıyor      Sistem, kibrit kutusu kadar bir GPS vericisinin, aracın uygun bir yerine, antenin de tavanına takılmasıyla kuruluyor. Böylece yaklaşık 20 bin km. yüksekteki 24 GPS uydusu, gelen sinyallerle aracın bulunduğu konumu, rakımı ve hareket hızını belirliyor. Araçtaki cihaz, konumsal bilgileri, kullanıcının tayin ettiği bilgisayar veya cep telefonuna iletiyor. İnternetteki elektronik harita üzerinde, araç tespit ediliyor. 
+     
+
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

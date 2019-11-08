@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 324579 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/17/son/sonyas16.html </URL>
+<DATE> 2005/03/17/ </DATE>
+<TIME> 14.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kalbe takılan ICD cihazlarında fabrika hatası çıktı... 
+</HEADLINE>
+<TEXT>
+
+     Merkezi Amerika Birleşik Devletleri'nde bulunan çokuluslu Medtronic şirketi tarafından üretilen, hastaların kalp ritmini normale döndüren defibrilatörlerin ICD bir bölümünde fabrika hatası olduğu ve şirketin hatalı cihazların değiştirilmesi için harekete geçtiği belirtildi. 
+     İtalyan La Repubblica gazetesi, İtalya'da hastalara takılmış hatalı cihaz sayısının 3 bin olduğuna dikkati çekti. 
+     Birim fiyatı 10 bin avro civarında olan ICD cihazındaki pilin ömrü normalde 5 yıl olarak öngörülüyor. 
+     Cihazların bir bölümünde fabrika hatası olduğu, Medronic'in İtalya'daki yetkili bayii tarafından da doğrulandı. 
+     Sesto San Giovanni'de bulunan bayinin basın bürosu tarafından yapılan açıklamada, ''Cihazların pilleri öngörülenden daha kısa sürede tükeniyor. Cihazdaki kısa devreden kaynaklanan bu sorun, pilin tükenmesiyle cihazın işlevselliğini de yitirmesine neden oluyor'' denildi. 
+     Medtronic şirketinin, 120 ülkede hastalara mektup göndererek, cihazların değiştirilmesi için harekete geçtiği belirtildi. 
+     Şirket yetkililerinin, ''Sadece dokuz hasta kendini kötü hissetmiştir. Bu vakalardan biri Avrupa'da... İtalya'da sorunlu vaka söz konusu değil'' dediklerine işaret edilen haberde şöyle denildi 
+     ''Ancak durum böyle değil. İtalya'daki hastanelerde de cihazı kullananlarda anomali gözlendiğinin kayıtlara geçtiği belirtiliyor. Cenova'daki hastanelere, kalıcı kalp pili taşıyan iki hastanın ritm bozukluğu şikayetiyle başvurduğu biliniyor.'' 
+     
+</TEXT>
+</DOC>

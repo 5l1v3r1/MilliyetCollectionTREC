@@ -1,0 +1,50 @@
+<DOC>
+<DOCNO> 84486 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/05/17/yasam/yas03.html </URL>
+<DATE> 2002/05/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bu kadar sanallık fazla oluyor artık.. 
+</HEADLINE>
+<TEXT>
+
+MIT öğrencileri öyle bir görüntülü bilgisayar programı geliştirdiler ki, Bush’a kendi sesiyle "11 Eylül’ü ben yaptım" dedirtebilirler.. Hem de Arapça.. 
+     DIŞ HABERLER SERVİSİ 
+
+     Bilim ve teknolojide dünyanın en önde gelen eğitim merkezlerinden Massachusetts Institute of Technology MIT öğrencileri görüntü teknolojisinde devrim niteliğinde bir buluşa imza atarak, kendi ses ve dudak hareketleriyle, kişileri, söylemedikleri şeyleri söylemiş gibi gösteren bir teknik geliştirdiler. 
+     ABD’de etik tartışması başlatan bu yöntemin yaygınlaşmasıyla, video görüntülerin mahkemelerde kanıt olarak kabul edilmesi tarihe karışacak politikacılar, önemli kişiler, söylemedikleri şeyleri söylemiş gibi gösterilerek yolsuzluk ve propaganda malzemesi olarak kullanılabilecek. Buluşun olumsuz özelliklerine rağmen, Marilyn Monroe gibi hayatta olmayan sinema yıldızlarına filmlerde yeni roller vermek de mümkün olacak. 
+     
+     Hem gerçek hem değil 
+     MIT lisans öğrencisi Tony F. Ezzat’ın geliştirdiği teknik, bir kişinin konuşurken elde edilmiş ancak fazla hareketli olmayan görüntüsünün bilgisayarda yeniden işlenmesi esasına dayanıyor. 
+     Yapay zek sı oldukça gelişkin program, konuşma, ses ve mimikleri analiz ederek, kişi başka şeyler söylediğinde nasıl bir yüz ifadesine sahip olacağını, dudaklarının nasıl hareket edeceğini ve kelimeleri söylerken sesleri nasıl vurgulayacağını hesaplayarak yeni görüntüyü oluşturuyor. Bu teknikle yapılan deneylerde, bir kelime Japonca bilmeyen bir kadının bu dilde şarkı söylemesini ve ABC’nin gece haberleri sunucusu Ted Koppel’in gece bültenini İspanyolca okumasını sağlayan uzmanlar, tekniğin geliştirilmesiyle, çok hareketli olan görüntülerin de kolayca işlenebileceğini söylüyor. 
+     
+
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

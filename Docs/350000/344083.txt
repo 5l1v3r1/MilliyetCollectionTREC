@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 344083 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/19/son/sonyas14.html </URL>
+<DATE> 2005/05/19/ </DATE>
+<TIME> 11.10 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Tıbbi hatalar her yıl 100 bin can alıyor 
+</HEADLINE>
+<TEXT>
+
+     ABD’de, bazı ilerlemeler kaydedilse de, tıbbi hataların her yıl 100 bine yakın kişinin ölümüne neden olmaya devam ettiği bildirildi. 
+     Journal of the American Medical Association’ın JAMA yaptığı araştırmaya göre, Amerikan Tıp Enstitüsü’nün 2000 yılında tıbbi hataların her yıl 98 bin kişinin ölümüne neden olduğunu açıklamasından bu yana bazı hastanelerde önlemler alınsa da ölenlerin sayısında azalma olmadı. 
+     Araştırmacılar, bu sorunun giderilememesinin, tedavi sisteminde karışıklıklar, doktorların hatalarını kabul etmemesi ve hataların neden olduğu masrafların ödenmesine ilişkin güvence sistemine bağlı olduğunu kaydettiler. 
+     Amerikan Tıp Enstitüsü’nün hastaneleri hastanın güvenliğine yoğunlaşmaya teşvik ettiği, bu yaklaşımın bazı tedavi merkezlerinde hata ve ihmale bağlı ölüm ve hastalık oranlarını yüzde 93 oranında azalttığı belirtildi. 
+     Hastanın kullandığı ilaçların bilgisayarlara kaydedilmesinin hata oranını yüzde 81 oranında azaltabildiği belirtilen araştırmada, doktorların yanında bir eczacının bulundurulmasının da ilaç alerjisine bağlı reaksiyonları yüzde 78 oranında indirebildiği vurgulandı. 
+     
+</TEXT>
+</DOC>

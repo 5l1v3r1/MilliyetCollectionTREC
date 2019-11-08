@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 125280 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/12/17/son/sontur32.html </URL>
+<DATE> 2002/12/17/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Pi sayısında dünya rekoru... Artık 1 trilyon 400 milyar basamaklı 
+</HEADLINE>
+<TEXT>
+
+     Sonsuz olduğu bilinen Pi sayısının 3,14159... virgülden sonraki yaklaşık 1 trilyon 400 milyar basamağı hesaplanarak dünya rekoru kırıldı. 
+     Science dergisindeki habere göre, Tokyo Üniversitesi'nde görevli bilim adamı Yasuma Kanada ve ekibi, Pi sayısını hesaplamak için 2 formül kullandı. Formülleri uygulamak için 5 yılda bilgisayar programları geliştiren bilim adamları, hesaplama işleminin 400 saat sürdüğünü açıkladılar. 
+     Pi sayısının rekorunu 80'li yılların ortasından bu yana elinde tutan ekibin bu son hesaplaması insanlık için çok da önemli değil, çünkü virgülden sonra bu kadar çok rakam astronomların bile işine yaramıyor. 
+     Haberde, bu hesapla, gelişmiş bilgisayarların işlem kapasitesinin ne kadar büyük olduğunun gösterildiği belirtildi. 
+     Pi sayısı, bir dairenin çevresinin çapına olan oranını ifade ediyor. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

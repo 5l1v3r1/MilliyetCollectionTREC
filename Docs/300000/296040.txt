@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 296040 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/08/son/sonyas05.html </URL>
+<DATE> 2004/12/08/ </DATE>
+<TIME> 02.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Cihazlar beyin gücüyle hareket ettirilebilecek 
+</HEADLINE>
+<TEXT>
+
+     BBC 
+
+Cihazları beyin gücüyle kontrol etmeye bir adım daha yaklaşıldı. İkisi felçli dört kişiyle çalışan ABD'li uzmanlar, başa takılan elektrotlar yardımıyla deneklerin bir bilgisayar kursörünü hareket ettirmeyi başardığını söyledi. 
+     New York Eyalet Üniversitesi ve New York Eyaleti Sağlık Departmanı uzmanlarından Jonathan Wolpaw ve Dennis McFarlane, tekerlekli sandalye ya da diğer elektronik cihazları düşünce gücüyle hareket ettirmek için insanların elektrotlardan yararlanmayı öğrenebileceklerini belirtti. 
+     Araştırmada dört denek, büyük bir ekranın karşısına oturtularak özel başlıklar giydirildi. 
+     Uzmanlar beyin aktivitesinin elektrotlar yardımıyla okunabilen elektrik sinyalleri ürettiğini, bu karmaşık sinyallerin daha sonra bilgisayarı yönlendirecek emirlere dönüştürüldüğünü açıkladı. 
+     
+</TEXT>
+</DOC>

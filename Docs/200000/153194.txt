@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 153194 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/04/29/son/sondun07.html </URL>
+<DATE> 2003/04/29/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Apple'dan online müzik hizmeti... 
+</HEADLINE>
+<TEXT>
+
+     Amerikan Apple bilgisayar şirketi, İnternet üzerinden ucuza müzik dinlemeyi sağlayacak bir hizmet vermeye başladığını açıkladı. 
+     Apple, İnternet ortamında faaliyet gösteren ''iTunes Music Store'' aracılığıyla sağlayacağı hizmetin, plak sanayiinin satışlarını düşürmekle suçladığı dosya değiş-tokuşu yapan ücretsiz web siteleriyle rekabet edecek kadar ucuz hizmet vereceğini duyurdu. 
+     Şimdilik ''iTunes Music'' yazılım programını sadece Apple'ın Macintosh bilgisayarlarının kullanabileceğini, Windows versiyonun ise yıl sonuna kadar hazır olacağını bildiren şirket, bir şarkıyı indirmenin bedelinin 99 cent yaklaşık 1 milyon 700 bin TL olduğunu, ayrıca 3 bilgisayarla paylaşılmasına izin verilen şarkının sınırsız sayıda CD'ye kopyalanabileceğini belirtti. 
+     Apple, ayrıca ABD'de son zamanlarda oldukça popüler olan dijital müzik player ''iPod''un ''10-15 ve 30 gigabyte'' kapasiteli yeni modelini çıkardığını ve hizmete giren online müzik hizmetinin bu cihazlarla uyum halinde çalışacağını açıkladı. 
+     En çok satan 5 plak şirketiyle anlaşma yaptıklarını belirten Apple yetkilileri, online müzik hizmeti sayesinde 200 binden fazla şarkının indirilebileceğini ifade ettiler. 
+     ''Listen.com''un Rhapsody adlı dijital müzik servisi de aylık 10 dolar üyelik bedeliyle kullanıcılara 99 cent karşılığında şarkıları CD'ye kaydetmelerine olanak veriyordu. 
+     
+
+
+
+
+</TEXT>
+</DOC>

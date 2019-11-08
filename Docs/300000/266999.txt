@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 266999 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/27/son/sonyas05.html </URL>
+<DATE> 2004/08/27/ </DATE>
+<TIME> 10.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Çürük muzdan elektrik üretti 
+</HEADLINE>
+<TEXT>
+
+     Avustralyalı bilim adamı, çürük muzdan elektrik elde etti. Queensland üniversitesinden Prof. Bill Clarke, çürük muzla çalışan jeneratör geliştirdiğini, çürük meyvelerle çalışacak çevreci elektrik santrali projesi için de çalışmaların sürdüğünü bildirdi. 
+     Clarke, geliştirilen jeneratörün, çürüyen muzlardan çıkan metan gazını kullandığını kaydetti. 
+     AFP muhabiriyle görüşen profesör, ''Kuzey Queensland'da bol miktarda muz üretiliyor. Bu, alternatif enerji kaynağı olabilir, ama muzun ekonomik bir kaynak olup olmadığını henüz bilmiyoruz. Yapacağım araştırmalarla muzların ne kadar zamanda ne kadar metan yaydığını da saptayacağım'' dedi. 
+     Avustralyalı profesör, bir vantilatörü 60 kilo muzdan elde ettiği enerjiyle 30 saat çalıştırdığını belirtti. 
+     
+</TEXT>
+</DOC>

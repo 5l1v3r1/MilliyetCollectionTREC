@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 220497 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/07/son/soneko01.html </URL>
+<DATE> 2004/03/07/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Boeing'in 717 üretim fabrikası kapanıyor... 
+</HEADLINE>
+<TEXT>
+
+     Büyük ihaleleri almakta başarısız olan Boeing firması, sıkıntılı günler geçiriyor. 
+     Boeing şirketinden yapılan açıklamaya göre, satışların düşmesi sebebiyle şirket California Long Beach'deki 717 Jet uçağı üretim montaj fabrikasını kapatma kararı aldı. 
+     Son olarak Aralık ayında büyük bir ihaleyi kaybeden Boeing'in, 106 yolcu taşıma kapasiteli 717 uçaklarının üretimini durdurma olasılığının iyice yükseldiği kaydedildi. 
+     İşlerin kötüye gitmesine rağmen Boeing'in, 717 üretiminin geleceği konusundaki kararını en erken yaz aylarında alması bekleniyor. 
+     Ayda üç adet üretim yapıldığı dönemlerde 3 bin işçisi bulunan 717 fabrikasında, şu an sadece 1500 isçi çalışıyor ve ayda sadece bir adet üretim yapılabiliyor. 
+     
+</TEXT>
+</DOC>

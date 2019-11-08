@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 329096 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/31/son/sonyas28.html </URL>
+<DATE> 2005/03/31/ </DATE>
+<TIME> 18.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Felçli hasta, beynine takılan çiple uzaktan robot kolu hareket ettirdi 
+</HEADLINE>
+<TEXT>
+
+     ABD'de beynine çip yerleştirilen bir felçli hasta, sadece düşünerek uzaktan robot kolu hareket ettirmeyi başardı. 
+     Rhode Island ve Kuzey Carolina'daki Brown ve Duke üniversitelerinin ortak çalışması sonucu yapılan deneyde, 4 yıl önce bıçaklı bir saldırı sonucu felç olan Matt Nagle isimli hasta, beynine yerleştirilen bir cihazla suni bir eklemi hareket ettirebilen ilk insan oldu. 
+     Hastanın beynine yerleştirilen küçük bir aspirin büyüklüğündeki çip, insan saçından daha ince 100 elektrot alıcısına sahip bulunuyor. Alıcılar, bir şey düşünüldüğünde beyindeki ince elektrik sinyallerini tespit ederek, bunu harekete çevirmeyi sağlıyor. 
+     Cyberkinetics adlı bir firma tarafından geliştirilen ve BrainGate adı verilen teknoloji sayesinde, gelecekte felçli hastaların, sadece düşünerek bir kas dahi oynatmadan internette sörf yapabilecekleri, elektronik posta gönderebilecekleri, oyun oynayabilecekleri, televizyon ve telefonu uzaktan kullanabilecekleri belirtiliyor. 
+     
+</TEXT>
+</DOC>

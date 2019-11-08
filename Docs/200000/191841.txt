@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 191841 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/28/son/soneko32.html </URL>
+<DATE> 2003/10/28/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Intel CEO'su Fabrikalarımızdan birinin Türkiye'de olması zor 
+</HEADLINE>
+<TEXT>
+
+     Intel CEO'su Craig Barrett, fabrika yatırımlarından birinin Türkiye'de gerçekleşmesinin biraz zor olduğunu bildirdi. 
+     Craig Barrett, Boğaziçi Üniversitesi'nde düzenlenen toplantıda yaptığı konuşmada, şirket olarak her zaman yenilikleri takip ettiklerini ve bu doğrultuda her yıl AR-GE'ye 4 milyar dolar civarında harcama yaptıklarını söyledi. 
+     Türkiye'de bilgi teknolojileri alanında kaydedilen ilerlemelere değinen Barrett, teknolojik alanda büyük avantajları bulunan Türkiye'nin iyi bir telekomünikasyon altyapısı bulunduğunu ve bilişime büyük yatırımlar yaptığını anlattı. Barrett, gelecek yıl Türkiye'de 5 ila 10 bin arasında bilgisayar öğretmenini eğiteceklerini bildirdi. 
+     Toplantıda öğrencilerin sorularını da yanıtlayan Barrett, oyun endüstrisine ilişkin bir soru üzerine, oyun sanayi ile çok yakın ilişki içinde olduklarını belirterek, ''İkisinin çok iyi birleşmesi, evliliği söz konusu'' dedi. 
+     Bireysel mahremiyet ile ilgili bir soru üzerine Barrett, bu konuya, bütün sorumlu kişilerin, teknoloji şirketlerinin ve bilgi kullananların saygı göstermesi gerektiğini vurgulayarak, şöyle konuştu. 
+     ''Şirketlerin bireysel mahremiyet konusunda belli bir politikası olmalı, karakter bütünlüğüne sahip olmalı. Internetteki bilgi akımı kötü niyetli insanların eline geçebilir. Geçmişte ABD'de bazı şirketler kişilerin izni olmadan özel bilgilerini sattılar. Bu tehlike gelecekte de olabilir. Ancak her şeyden interneti sorumlu tutmamak lazım. Örneğin pornografi... Pornografi, internetten önce de vardı. Interneti kimlik hırsızlığı için de suçlamayın, başka bir şey için de suçlamayın.'' 
+     
+     ''İŞLETME DERSİ ALMIYORUM'' 
+     Craig Barrett, bir öğrencinin ''Üniversitedeki görevinizden böyle bir işe sizi iten neydi '' sorusuna esprili bir şekilde, ''Tabii ki borsadaki hisse senetleri'' diyerek, şu yanıtı verdi 
+     ''Daha somut projeler üzerinde çalışmak istedim ve özellikle piyasaya ulaşan ürünleri etkileme gücü beni her zaman heyecanlandırmıştır. Intel'deki görevimin bunu gerçekleştirmek için iyi bir fırsat olduğunu düşünüyorum.'' Intel gibi büyük ve kompleks bir şirketi nasıl yönettiğine ilişkin bir soru üzerine de Barrett, işletme dersi almadığını belirterek, işini yaparken her zaman çevresindeki insanlara çok soru sorduğunu, aklıselim davranmaya çalıştığını ve oluşan ortak kanaati uyguladığını söyledi. 
+     Intel'in vizyonuna ilişkin bir soruyu da Barrett, ''Vizyonumuz, bilgi işlem gücünü artırmak ve kurumlara rekabet gücü kazandırmak. Önümüzdeki birkaç yıl içinde bilgisayar teknolojileriyle iletişim teknolojileri birleşecek, evlenecek. Biz, bunun yamasız yapılmasına çalışıyoruz'' diye yanıtladı. 
+     Craig Barrett, ''Microsoft'un vizyonu belli. Sizin net olarak vizyonunuz nedir '' sorusu üzerine, esprili bir şekilde, ''Bizim vizyonumuz, Microsoft'un vizyonunu gerçekleştirmesine yardımcı olmak'' dedi. 
+     Türkiye'deki yatırım planlarına dair bir soru üzerine de Barrett, ''Fabrikalarımızdan bir tanesinin Türkiye'de olması biraz zor ancak sistem entegrasyonu, ülkeler için çok önemli. Esas iş fırsatı mikro işlemciye sıfırdan imal etmek yerine budur'' dedi. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 234917 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/26/son/soneko39.html </URL>
+<DATE> 2004/04/26/ </DATE>
+<TIME> 17.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası güne yükselişle başladı... 
+</HEADLINE>
+<TEXT>
+
+     Borsada ilk saat sonunda, cuma gününe göre Dow Jones Endeksi 33.57 puan artıp 10,506.41 puana, Nasdaq Endeksi de 8.88 puan artıp 2,058.65 puana çıktı. 
+     Borsanın yükselişinde Amerikan uçak üreticisi Boeing'in piyasaya yeni sürdüğü 7E7 tipi uçağı için Japonya'dan 50 adet sipariş aldığı haberi etkili oldu. 
+     
+</TEXT>
+</DOC>

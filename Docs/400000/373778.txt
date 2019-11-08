@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 373778 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/29/son/soneko15.html </URL>
+<DATE> 2005/08/29/ </DATE>
+<TIME> 12.05 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı 5 puanlık artışla tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal 100 Endeksi, Cuma günkü kapanışa göre 5.27 puan artarak, seansı 30,025.67 puandan kapattı. 
+     1. seansta, hisse senetlerinin ortalama değer kazancı yüzde 0.02 oldu. 
+     Cuma günü 30.020.40 puandan kapanan İMKB Ulusal 100 Endeksi, ilk seansa 3.50 puan azalarak 30,016.90 puandan başladı. İlk yarıyı 29,804.58 puandan geçen endeks, en düşük 29,737.95 puanı, en yüksek 30,069.82 puanı gördü. 
+     Seans sonunda mali endeks 57.12 puan artarak 45,286.30 puana, sanayi endeksi 5.64 puan artarak 24,190.55 puana yükseldi, hizmetler endeksi ise 62.22 puan azalarak 15,048.06 puana geriledi. 
+     Böylece önceki kapanışa göre, mali grup hisseler ortalama yüzde 0.13, sanayi grubu hisseler yüzde 0.02 değer kazandı, hizmetler grubu hisseler ise yüzde 0.41 oranında değer kaybetti. 
+     1. seansta işlem gören toplam 302 hisse senedinden 127'si değer kazandı, 114'ü değer kaybetti, 61 hissenin fiyatında ise değişiklik olmadı. 
+     Seansta, 378 milyon 158 bin 151 YTL'lik işlem hacmi oluştu. 
+     1. seansta Ereğli Demir Çelik, Sabancı Holding, İş Bankası C , Petkim ve Koç Holding, en çok işlem gören hisse senetleri olarak belirlendi. 
+     
+</TEXT>
+</DOC>

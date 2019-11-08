@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 369080 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/11/son/sonyas11.html </URL>
+<DATE> 2005/08/11/ </DATE>
+<TIME> 16.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Mars'a insansız yolculuk yine ertelendi... 
+</HEADLINE>
+<TEXT>
+
+     Amerikan Uzay ve Havacılık Dairesi'nin NASA Mars'a göndereceği insansız uzay aracının fırlatılışı teknik bir arıza yüzünden ertelendi. 
+     Rokete yüklenen yakıtın miktarını ölçen sensörler ve bilgisayar yazılımındaki sorun yüzünden uzay aracının fırlatılışı yarına kaldı. 
+     Mars Reconnaissance Orbiter'ın Mars'ın etrafında en az 4 yıl geçirmesi planlanıyor. 
+     
+</TEXT>
+</DOC>

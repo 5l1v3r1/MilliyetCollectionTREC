@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 372133 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/23/son/soneko01.html </URL>
+<DATE> 2005/08/23/ </DATE>
+<TIME> 01.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Borsası Dow Jones Sanayi Endeksi, haftanın ilk işlem gününü 10.66 puan artışla binde 1 10.569.89 puandan noktaladı. 
+     Wall Street’in teknoloji ibresi Nasdaq Bileşik Endeksi de 5.85 puan yükselişle binde 2,7 2.141.41 puandan kapandı. 
+     
+</TEXT>
+</DOC>

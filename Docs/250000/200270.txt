@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 200270 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/07/ekonomi/eko11.html </URL>
+<DATE> 2003/12/07/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+HSBC'ye 'sahte site' saldırısı 
+</HEADLINE>
+<TEXT>
+
+   HSBC, Hong Kong'ta kendisininkine benzeyen siteler kurarak müşterilerinin bilgilerini öğrenen sahte sitelere karşı uyarıda bulundu 
+   
+   HSBC Bankası müşterilerini www.hsbc.com.hk sitesine benzer isimlerde faaliyet gösteren ve kişisel banka hesaplarına ulaşan sahte internet sitelerine karşı uyardı. Açıklamada Hong Kong şubesinin kopyası olan, banka logosu taşıyan ve giriş sayfasında kullanıcı adı ve şifre sorarak müşterilerin kişisel hesaplarına ulaşan sahte internet sitelerine dikkat etmelerini gerektiği bildirildi. Hong Kong'taki eylemlerini yurtdışına da taşımak isteyen çeteye karşı HSBC'nin dünyadaki diğer şubeleri de uyarıldı. 
+   Hong Kong polisi ile Merkez Bankası yetkilileri, yurtdışına da taşan internet sahtekarlıkları konusunda yardım istediklerini belirttiler. HSBC Bank'ın internet sitesine çok benzer isimler kullanan internet korsanlarının sitesi dün kapatılırken Hong Kong'taki yerel medya, sitenin benzer adreslerde faaliyetlerine devam ettiğini yazdı. Banka, müşterilerin internet yoluyla yaptıkları işlemlerinde kullanıcı adı ve şifrelerini girmeden önce gerçek HSBC Bank internet adresine girdiklerinden emin olmaları gerektiğini açıkladı. Banka ayrıca benzer sitelerle karşılaşanların polise ihbarda bulunmasını istedi. Şimdiye kadar hiçbir müşterinin mevcut sahte işlemler nedeniyle zor durumda kalmadığını açıklayan banka yetkilileri, benzer vakaların hızla arttığına da dikkat çekti. 
+   
+   
+</TEXT>
+</DOC>

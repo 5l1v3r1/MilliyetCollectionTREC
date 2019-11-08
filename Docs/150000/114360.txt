@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 114360 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/10/22/spor/spo02.html </URL>
+<DATE> 2002/10/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+BU SİSTEMLE, BU KADAR 
+</HEADLINE>
+<TEXT>
+
+Fenerbahçe’nin Brezilyalı golcüsü Washington, üstü kapalı Lorant’ı eleştirdi, "Golleri duran toplardan buluyoruz. Organize bir atağımız yok. Johnson ile Ogün nerede oynuyor, h l bilmiyorum" dedi 
+     Kötü oynuyoruz’ 
+     ELAZIĞSPOR maçından sonra Lorant tarafından yedek kulübesine çekilen Washington, Fenerbahçe’yi değerlendirirken, ilginç tespitler yaptı. Takımda ne sistem, ne de şablon olduğunu iddia eden Brezilyalı futbolcu, "Kim nerede, nasıl oynuyor bilemiyorum. Mesela Johnson ve Ogün’ü çözemedim. Defansta mı oynuyorlar, orta sahada mı Golleri ya duran toplardan, ya da ölü toplardan attık. Göze hoş gelen bir golümüz yok. İşte sorun burada" diye konuştu. 
+     
+     Lorant çözmeli’ 
+     BU sistem içinde faturanın kendisine kesilmesinden şikayetçi olan Brezilyalı futbolcu, şöyle devam etti "Kötü futbol yüzünden biz suçlanıyoruz. Böyle bir sistem anlayışında ben ne yapabilirim ki Bu sistemsizliği de hocamız Lorant çözecek. Onun hakkında iyi ya da kötü diye birşey söylemem yanlış olur. Fenerbahçe’nin başındaysa demek ki iyi bir antrenördür. Bir an önce de saha içi uyumunu sağlamamız lazım. Her futbolcu nerede oynadığını bilmeli." 
+     
+     Hiç yedek kalmadım’ 
+     "ÇOK üzülüyorum, çok sıkılıyorum. Futbol hayatımda hiç yedek beklemedim. Zoruma gidiyor. Umarım Lorant beni bir an önce anlar. Kulübede oturacak bir futbolcu asla değilim. Bana fırsat verildiğinde daha çok gol atacağımı biliyorum. Futbol bir takım, bir grup oyunudur. Bizim de nerede hata yapıyoruz diye oturup düşünmemiz lazım. Fenerbahçe’den ayrılmayı kesinlikle düşünmüyorum. Ben buraya başarılı olmak için geldim. Olacağıma da eminim." 
+     
+     Beni beklesinler’ 
+     "CEZAYI sizden duyuyorum. Bunun bana söylenmesi gerekiyordu ama size söylemişler. Bu çok yanlış. Takım içinde arkadaşlık bence var. Ama saha içinde bir türlü istediğimiz uyumu sağlayamıyoruz. Panathinaikos maçı gerçekten zor olacak. Ancak biz onlardan daha iyi takımız. Fenerbahçe seyircisi ile kucaklaşmaya hazırlanıyorum. Beni beklesinler, destek versinler. Umutsuzluğa da kapılmasınlar. Washington’un nasıl bir golcü olduğunu göstereceğim." 
+     
+center b FONT TH TR bgColor " FFEFCA" TDFONT SIZE "2" COLOR "Black" FONT TD TDFONT SIZE "2" COLOR "Black" FONT TD TDFONT SIZE "2" COLOR "Black" FONT TD TR TR bgColor " FFE4A6" TDFONT SIZE "2" COLOR "Black" FONT TD TDFONT SIZE "2" COLOR "Black" FONT TD TDFONT SIZE "2" COLOR "Black" FONT TD TR TR bgColor " FFEFCA" TDFONT SIZE "2" COLOR "Black" FONT TD TDFONT SIZE "2" COLOR "Black" FONT TD TDFONT SIZE "2" COLOR "Black" FONT TD TR TR bgColor " FFE4A6" TDFONT SIZE "2" COLOR "Black" FONT TD TDFONT SIZE "2" COLOR "Black" FONT TD TDFONT SIZE "2" COLOR "Black" FONT TD TR TR bgColor " FFEFCA" TDFONT SIZE "2" COLOR "Black" FONT TD TDFONT SIZE "2" COLOR "Black" FONT TD TDFONT SIZE "2" COLOR "Black" FONT TD TR TR bgColor " FFE4A6" TDFONT SIZE "2" COLOR "Black" FONT TD TDFONT SIZE "2" COLOR "Black" FONT TD TDFONT SIZE "2" COLOR "Black" FONT TD TR TR bgColor " FFEFCA" TDFONT SIZE "2" COLOR "Black" FONT TD TDFONT SIZE "2" COLOR "Black" FONT TD TDFONT SIZE "2" COLOR "Black" FONT TD TR TR bgColor " FFE4A6" TDFONT SIZE "2" COLOR "Black" FONT TD TDFONT SIZE "2" COLOR "Black" FONT TD TDFONT SIZE "2" COLOR "Black" FONT TD TR table centerfont size "4" color " 0A69C9"b b font centerbcenter center b centerfont size "4" color " 0A69C9"b b font centerIMG SRC "resim spo02.jpg" HSPACE 10 VSPACE 10 BORDER 0 ALIGN "RIGHT"bcenter center b b b b b Ifont size "2" color " A50000" font I centerfont size "4" color " 0A69C9"b b font centerbcenter center b Ifont size "2" color " A50000" font I centerfont size "4" color " 0A69C9"b b font center centerfont size "4" color " 0A69C9"b b font center centerfont size "4" color " 0A69C9"b b font center IMG SRC " sabitimg 03 gazete genel logominik.gif" WIDTH 8 HEIGHT 14 BORDER 0 FONT SIZE "4" FACE "Verdana" COLOR " 005090"B B FONT IMG SRC " sabitimg 03 gazete genel cizgi.gif" WIDTH 450 HEIGHT 1 BORDER 0 IMG SRC " sabitimg 03 gazete genel transp.gif" WIDTH 220 HEIGHT 5 BORDER 0 A A A A A A A A A A A A A A A A A A A TD TR TABLE CENTER TD -- SAĞ DATA -- TD ALIGN "CENTER" VALIGN "TOP" WIDTH 155 BGCOLOR " F5F5F5" TABLE CELLSPACING 0 CELLPADDING 0 TR ALIGN "CENTER"TD IMG SRC " sabitimg 03 gazete genel transp.gif" WIDTH 1 HEIGHT 9 BORDER 0 TD TR TABLE TD TR TABLE TD TR TABLE body html 
+</TEXT>
+</DOC>

@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> 247784 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/06/14/son/soneko48.html </URL>
+<DATE> 2004/06/14/ </DATE>
+<TIME> 18.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Piyasalarda bugün... 
+</HEADLINE>
+<TEXT>
+
+     Borsa'da işlem gören hisse senetleri ortalama yüzde 3.31 değer kaybetti. 
+     İstanbul Menkul Kıymetler Borsası İMKB Ulusal 100 Endeksi, 1. seansta, 424.23 puan gerileyerek, 17,240.23 puandan, 2. seansta 160.39 puan gerileyerek 17,079.84 puandan kapandı. 
+     Endeksteki günlük bazdaki gerileme 584.62 puan ve yüzde 3.31 olarak hesaplandı. 
+     Hisse senetleri piyasasında toplam 424.5 trilyon liralık işlem hacmi oluştu. 
+     
+     DÖVİZ 
+     Kapalıçarşı'da Cuma günü 1 milyon 498 bin liradan kapanan dolar, güne 1 milyon 510 bin liradan, 1 milyon 800 bin liradan kapanan euro 1 milyon 810 bin liradan başladı. 
+     Kapanışta doların satış fiyatı 1 milyon 509 bin lira, euronun satış fiyatı 1 milyon 819 bin lira oldu. 
+     Merkez Bankası, doların bugünkü efektif kurunu alışta 1 milyon 501 bin 519 lira, satışta 1 milyon 512 bin 83 lira olarak açıkladı. 
+     Böylece dolar, Merkez Bankası'nın Cuma günkü kurlarına göre, TL karşısında alışta 17 bin 404 lira, satışta 17 bin 527 lira değer kazandı. 
+     
+     TAHVİL-REPO 
+     İMKB Tahvil ve Bono Piyasası Kesin Alım Satım Pazarı'nda işlem gören 5 Ekim 2005 vadeli tahvilin bugün valörlü işlemlerinde basit getiri yüzde 27.82, bileşik getiri yüzde 26.77 oldu. 
+     Bu kağıdın bugün valörlü işlemlerinin bileşik getirisi, Cuma günkü kapanışa göre 0.20 puan yükseldi. 
+     İMKB Tahvil ve Bono Piyasası Repo Pazarı'nda gecelik faiz ortalama yüzde 22.00 olarak gerçekleşti. 
+     
+     HAZİNE İHALESİ 
+     Hazine'nin bugün düzenlediği 91 gün vadeli Türk Lirası cinsinden referans bono ihalesinde, basit faiz yüzde 22.90, bileşik faiz yüzde 24.94 oldu. 
+     Nominal 1 katrilyon 499.5 trilyon liralık teklifin geldiği ihalede, nominal 964.2 trilyon lira, net 912 trilyon liralık satış yapıldı. 
+     
+</TEXT>
+</DOC>

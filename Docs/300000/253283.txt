@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 253283 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/07/06/son/soneko04.html </URL>
+<DATE> 2004/07/06/ </DATE>
+<TIME> 09.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Turkcell'in İran'da sözleşme süreci sürüyor... 
+</HEADLINE>
+<TEXT>
+
+     Turkcell, İran'da kazandığı GSM ihalesi ile ilgili lisans sözleşmesi sürecinin devam ettiğini bildirdi. 
+     Turkcell İletişim Hizmetleri A.Ş, son 60 gün içinde hukuki bir gelişme kaydedilmeyen 12 konu başlığını Borsa'ya iletti. 
+     Buna göre, lisans sözleşmesinin 13. maddesi, Nisan 1998'de imzalanan lisans sözleşmesi karşılığı ödenen lisans bedeli üzerinden KDV ödenmemesi konusu, brüt gelir üzerinden ödenen Hazine payının üzerinden KDV ödenmesi, Türk Telekom'un şirkete kiraladığı transmisyon hatları üzerinden aldığı kira bedelini yüzde 100 oranında artırması, Telekomünikasyon Kurumu'nun şirkete roaming sağlama yükümlülüğünü öngören Kurul kararına uymadığı gerekçesiyle verdiği ceza, Telekomünikasyon Kurumu'nun şirkete görüşmeye kapatılan aboneler üzerinden de telsiz kullanım ücreti ödenmesi gerekçesiyle verdiği ceza, Türk Telekom'un altyapısından başka altyapı kullanılması, Türk Telekom ile devam eden arabağlantı konusu ve Hazine ile brüt gelirin tanımı, uyuşmazlık konularını oluşturuyor. 
+     Başarı Elektronik ve Telsim tarafından Rekabet Kurumu'na yapılan başvurular üzerine Danıştay nezdinde açılan dava, telsiz ruhsat ve kullanım ücretiyle ilgili dava ile İran GSM ihalesiyle ilgili lisans sözleşmesi süreci de, hukuki bir gelişme kaydedilmeyen konu başlıkları arasında sayıldı. 
+     
+</TEXT>
+</DOC>

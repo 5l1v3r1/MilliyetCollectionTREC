@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 298204 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/16/son/soneko32.html </URL>
+<DATE> 2004/12/16/ </DATE>
+<TIME> 15.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD bilişim sektöründe birleşmeler sürüyor... 
+</HEADLINE>
+<TEXT>
+
+     ABD'de eski hızlı büyüme performansından uzaklaşan bilişim şirketleri birleşerek güçlenme çabasına girdi. 
+     Son yıllarda hisse senetleri önemli oranda değer kaybeden Oracle'ın hafta başında imzalanan anlaşmayla 10.3 milyar dolar karşılığında rakibi Peoplesoft'u satın almasının ardından ''Norton Anti-virüs'' yazılımıyla tanınan Symantec, 13.5 milyar dolar ödeyerek sanal depolama şirketi Veritas'ın yeni sahibi olacak. 
+     Symantec ve Veritas yönetim kurullarının onayladığı anlaşmayla birleşecek şirketlerin gelecek yıl 5 milyar dolar satış hasılatı gerçekleştirmesi bekleniyor. 
+     Yeni şirketin yüzde 60'ı Symantec, yüzde 40'ı ise Veritas hissedarlarına ait olacak. CEO'luğunu, halen Symantec'in başkanlığını yürüten John W. Thompson'un üstleneceği yeni şirkette, Veritas'ın başkanı Gary L. Bloom baş icra direktör yardımcılığına getirilecek. 
+     Birleşmeyle maliyetlerin kısılarak karlılığın artırılması hedefleniyor. 
+     
+</TEXT>
+</DOC>

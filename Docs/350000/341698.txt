@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 341698 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/05/12/ekonomi/eko07.html </URL>
+<DATE> 2005/05/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Finnet'ten emeklilik analizi 
+</HEADLINE>
+<TEXT>
+
+
+
+Finnet Elektronik Yayıncılık, tüm finansal yatırım araçlarının teknik, grafik analizi için 'Finnet Teknik Analist sürüm 4.0'ı piyasaya sundu. Finnet tarafından yapılan açıklamada, "Finnet Teknik Analist sürüm 4.0"ın farklı finansal yatırım araçlarının bir arada analizi ile piyasaların birbiri ile olan etkileşimini izleme olanağı verdiği belirtildi. 
+
+Fon doluluk oranları 
+Açıklamada, "Bu sürümle hisselerin açılış, en düşük, en yüksek, kapanış, işlem adedi grafiği çizilebilecek. İstenildiği taktirde hissenin kapanışı yerine ağırlıklı ortalama fiyatı, işlem adedi yerine işlem hacmini de kullanabilecek" denildi. 
+Programda yatırım fonu veya emeklilik fonlarının teknik analizini yaparken veri penceresi açıldığında fonun, gün gün yatırım yaptığı, yatırım araçlarının dağılımının yüzdesel oranlarıyla görüldüğü, fon toplam, portföy değeri ile yatırımcı sayısı gibi, çok sayıda analitik veriyle analiz yapma imkanı bulunuyor. 
+Ayrıca, tahvil ve bono grafiklerinde, grafikleri, fiyat, işlem hacmi, bileşik faiz ve basit faiz verileriyle tek grafik penceresinde çizilebiliyor. 12 yatırım ana finansal enstrüman grubunun analizinin yapılabildiği programın bir yıllık kullanım bedelinin yıllık 150 YTL olduğu belirtildi. 
+
+
+</TEXT>
+</DOC>

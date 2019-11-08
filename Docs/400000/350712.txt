@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 350712 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/10/son/soneko57.html </URL>
+<DATE> 2005/06/10/ </DATE>
+<TIME> 18.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yatırım araçlarında bu hafta... 
+</HEADLINE>
+<TEXT>
+
+     İMKB'de işlem gören hisse senetleri, haftalık bazda ortalama yüzde 1.25 değer kaybetti. 
+     İstanbul Menkul Kıymetler Borsası İMKB Bileşik Endeksi, haftalık bazda 326.36 puan azalarak 25,725.19 puana geriledi. 
+     24 ayar külçe altının gram satış fiyatı haftalık bazda yüzde 0.27, Cumhuriyet altınının satış fiyatı yüzde 0.80 arttı. 
+     Önceki hafta sonu 18.55 YTL olan 24 ayar külçe altının gram satış fiyatı 18.60 YTL'ye, 125.00 YTL olan Cumhuriyet altınının satış fiyatı 126.00 YTL'ye yükseldi. 
+     Geçen hafta YTL karşısında dolar değer kazanırken, avro değer kaybetti. Amerikan Doları'nın satış fiyatı haftalık bazda yüzde 0.07 oranında artarak 1.3600 YTL'ye yükseldi, Avro ise yüzde 0.66 oranında azalarak 1.6590 YTL'ye geriledi. 
+     Yatırım fonlarına katılma belgeleri geçen hafta ortalama yüzde 0.06 oranında artış kaydetti. A tipi endeks haftalık bazda yüzde 0.45 azaldı, B tipi endeks yüzde 0.19 arttı. 
+     
+</TEXT>
+</DOC>

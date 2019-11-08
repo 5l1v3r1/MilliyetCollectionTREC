@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 50202 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/11/02/son/soneko22.html </URL>
+<DATE> 2001/11/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+ABD Adalet Bakanlığı, Microsoft ile anlaşma sağladı 
+</HEADLINE>
+<TEXT>
+
+     ABD Adalet Bakanlığı, ünlü bilgisayar yazılım şirketi Microsoft şirketi ile tekelcilikle mücadele yasalarının ihlaline ilişkin davayla ilgili anlaşmaya ulaştıklarını açıkladı. 
+     Adalet Bakanlığı'ndan yapılan açıklamada, üç yıldan buyana devam eden Antitröst davası sonucu, Microsoft şirketine ''geniş kapsamlı sınırlamalar'' uygulanacağı kaydedildi. 
+     Anlaşma çerçevesinde uzmanlar, Microsoft'un tekelcilik oluşturabilecek tüm ürünlerini yakından inceleyebilecekler. Microsoft ise tekel oluşturabilecek uygulamalar içinde bulunmayacak. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

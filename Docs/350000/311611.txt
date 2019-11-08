@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 311611 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/02/son/sondun09.html </URL>
+<DATE> 2005/02/02/ </DATE>
+<TIME> 11.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dünya sallanıyor... Japonya, Endonezya ve Yakutistan'da deprem 
+</HEADLINE>
+<TEXT>
+
+     Endonezya'nın Cava adasında 5,2 büyüklüğünde deprem meydana geldi. 
+     Meteoroloji ajansından yapılan açıklamada, binalarda çatlaklara ve paniğe yol açan depremin merkez üssünün Batı Cava eyaletinin başkenti Bandung'un 60 kilometre kadar güneyinde olduğu belirtildi. 
+     El Şinta radyosunun haberinde ise depremde Garut ve Pengalengan kasabalarında iki evle bir okulun hasar gördüğü bildirildi. 
+     Öte yandan Japonya'nın kuzeyinde de 4,6 büyüklüğünde deprem oldu. 
+     Ölen ya da yaralananın olmadığı, herhangi bir hasara yol açmayan depremin merkez üssünün Iwata eyaleti kıyısının açıklarında, Pasifik'te olduğu belirtildi. Depremden sonra tsunami alarmı verilmedi. 
+     Sibirya'nın doğusundaki Yakutistan da sallandı. 
+     Bilimler Akademisi'nden yapılan açıklamada, Richter ölçeğine göre büyüklüğü 5 ile 6 arasında olan deprem, can ve mal kaybına yol açmadı. 
+     Depremin merkez üssünün, Yakutistan'ın orta kesimlerindeki Nilkan ve Artik köyleri arasında olduğu kaydedildi. 
+     
+</TEXT>
+</DOC>

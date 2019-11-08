@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 190244 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/21/son/sontur19.html </URL>
+<DATE> 2003/10/21/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Astım geni bulundu... 
+</HEADLINE>
+<TEXT>
+
+     İngiliz bilim adamları, astıma karşı hassasiyet yaratan ve başka solunum yolu hastalıklarına neden olan bir gen varyasyonu buldular. 
+     Nature Genetics dergisinde yayımlanan makalede, bu gen varyasyonunun bulunmasıyla, astım hastalığının tedavisinde yeni olanakların açılacağı belirtildi. 
+     Araştırmayı yapan Oxford Üniversitesi'nde görevli bilim adamı William Cookson ve ekibi, 244 ailenin astım olan 239 çocuğunu inceledi. 
+     Astım olan çocukların çoğunda DPP10 geninin bir varyasyonunu tespit eden bilim adamları, bu varyasyonun özellikle astım derecesi ağır olanlarda daha sık görüldüğünü kaydettiler. 
+     Bilim adamları, DPP10 geninin, protein zinciri üzerinden solunum yolu iltihaplanmalarında rol oynayan bir enzime bilgi ulaştırdığını belirttiler. 
+     
+</TEXT>
+</DOC>

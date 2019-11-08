@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> 121811 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/11/29/son/soneko19.html </URL>
+<DATE> 2002/11/29/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Merkez Bankası, bankaları, Döviz Efektif Piyasası için uyardı 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası, bankalarararası para piyasası BPP ve döviz efektif piyasalarındaki DEP aracılık faaliyetlerinden tedricen çekilme sürecinin, 2 Aralık 2002 Pazartesi tarihi itibariyle tamamlanacağını bildirdi. 
+     Bu arada DEP döviz depo piyasasında, Merkez Bankası'nın dolar ve euro cinsinden işlemler için haftalık vadede halen yüzde 20 olan borç verme faiz oranı, 2 Aralık tarihinden geçerli olmak üzere yüzde 12'ye indirildi. 
+     Merkez Bankası'ndan yapılan açıklamada, Banka'nın 2002 yılı içinde, BPP ve DEP'teki aracılık işlemlerinden aşamalı olarak çekilmeye başladığı hatırlatıldı. 
+     Açıklamada, Merkez Bankası'nın aracılık faaliyetlerinden çekilmesinin amacı ise ''bankalararası para ve döviz piyasalarının derinliğini artırmak, risk algılamalarının yansıtıldığı fiyatlama mekanizmalarının oluşabilmesini sağlamak ve zaman zaman bu piyasalarda gerçekleşen işlemlerin Banka taraflı işlemler olarak algılanması sonucu para ve döviz kuru politikalarına ilişkin piyasalara karışık mesajlar verilmesinin önlemesi'' olarak gösterildi. 
+     Açıklamaya göre, 1 Temmuz 2002 tarihinde başlayan Merkez Bankası'nın, BPP ve DEP döviz depo piyasasındaki aracılık faaliyetlerinden tedricen çekilme süreci, 2 Aralık tarihi itibariyle tamamlanacak. Bu tarihten itibaren söz konusu piyasalarda bankaların Merkez Bankası aracılığı ile başka bankalardan borç alabilme limitleri karşılaşan işlem limitleri sıfırlanacak. 
+     
+     TL VE DÖVİZ LİKİDİTESİNDE AZALMAYA YOL AÇMAYACAK 
+     Merkez Bankası'nın BPP ve DEP'te üstlendiği aracılık faaliyetlerinin sona ermesinin, bankaların bu piyasalardan sağladığı Merkez Bankası kaynaklı Türk Lirası ve döviz likiditesi miktarında herhangi bir azalmaya yol açmayacağı ifade edilen açıklamada, bir başka ifadeyle, bankaların Merkez Bankası ile yapacakları işlemler için mevcut borçlanma limitlerinin korunacağı belirtildi. 
+     Öte yandan Merkez Bankası, BPP kanalıyla piyasalardaki likidite fazlalığını, ilan ettiği borç alma kotasyonları üzerinden ve banka bazında herhangi bir limit uygulaması olmaksızın, sterilize etmeye devam edecek. 
+     Buna göre Bankalar, BPP'de 10 00-16 00 saatleri arasında Merkez Bankası'nın likidite sterilizasyonu amacıyla ilan ettiği ''borç alma'', likidite sağlamak amacıyla ilan ettiği ''borç verme'' kotasyonlarından, mevcut limitleri dahilinde işlem yapmaya devam edecekler. 
+     
+     GÜN İÇİ LİMİT UYGULAMASINA DEVAM 
+     Ayrıca bankacılık sisteminde gün içinde oluşan geçici likidite ihtiyacının karşılanabilmesi amacıyla, 09 00-15 00 saatleri arasında bankalara mevcut limitleri dahilinde, gün sonunda ödenmek üzere sağlanan Gün İçi Limit GİL uygulaması devam edecek. 
+     Merkez Bankası'nın, BPP'de 16 00-16 30 saatleri arasında ''Borç Veren Son Merci'' fonksiyonu çerçevesindeki ''Geç Likidite Penceresi LON '' uygulaması devam edecek. 
+     Bankalar geç likidite penceresinden limitsiz olarak, ancak teminatları karşılığında Merkez Bankası borç verme kotasyonundan borç alabilecekler veya Merkez Bankası borç alma kotasyonundan borç verebilecekler. 
+     Piyasa yapıcısı bankalara, açık piyasa işlemleri çerçevesinde sağlanan likidite imkanı uygulaması devam edecek. 
+     Uzun süre piyasaların artı Türk lirası rezervi ile açılması beklenmekle birlikte, önümüzdeki dönemde piyasa gelişmeleri çerçevesinde Türk lirası likidite ihtiyacının ortaya çıkması halinde, gerekli likidite, gün içi repo ihalelerine başlamak suretiyle sağlanacak. 
+     BPP düzenlemeleri paralelinde, Merkez Bankası'nın DEP döviz depo piyasasındaki aracılık işlemleri de sona erecek. Ancak kamu bankalarının 2001 yılı içinde, TMSF bünyesindeki bankalardan devraldıkları depolarla sınırlı olmak üzere aracılık işlemlerine devam edilecek. 
+     Bankalar, DEP döviz depo piyasası çalışma saatleri içinde, kendilerine tanınan borçlanma limitleri çerçevesinde Merkez Bankası'ndan döviz deposu alabilecekler. 
+     DEP döviz depo piyasasında, Merkez Bankası'nın ABD doları ve euro cinsinden işlemler için haftalık vadede halen yüzde 20 olan borç verme faiz oranı ise 2 Aralık 2002 tarihinden geçerli olmak üzere yüzde 12'ye indirildi. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

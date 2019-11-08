@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 335873 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/22/son/soneko22.html </URL>
+<DATE> 2005/04/22/ </DATE>
+<TIME> 11.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilişim dünyası, Microsoft Zirvesi İlkbahar 2005'te buluşuyor 
+</HEADLINE>
+<TEXT>
+
+     Microsoft Türkiye, bilişim dünyasını 3 gün sürecek Microsoft Zirvesi İlkbahar 2005’te bir araya getiriyor. 
+     Microsoft Türkiye, 25-27 Nisan tarihleri arasında Lütfi Kırdar Kongre ve Sergi Sarayı’nda gerçekleştirilecek Microsoft Zirvesi İlkbahar 2005’i düzenlediği bir basın toplantısıyla tanıttı. 
+     Bu sene ilk olarak 9 ana başlıkta toplanan Microsoft Zirvesi İlkbahar 2005’te, Yazılım Geliştiriciler, Finans, Telekomünikasyon, Üretim Perakendecilik, Kurumsal Girişimci, Sektörel Çözümler, Profficeyonel, Güvenlik ve Microsoft Business Solutions zirveleri yer alıyor. 
+     Aralarında Microsoft EMEA Başkan Yardımcısı Neil Hollaway’in de bulunduğu çok sayıda uluslararası konuşmacının sunumlarıyla zenginleşecek zirvede, Microsoft iş ortakları ve müşterileri de Microsoft çözümleriyle elde ettikleri başarılı sonuçları katılımcılarla paylaşacak. 
+     Zirve öncesinde düzenlenen basın toplantısında konuşan Microsoft Türkiye Genel Müdürü Çağlayan Arkan, Türkiye’nin bilişimle kalkınması vizyonu çerçevesinde bilişim sektörünün tüm kesimleriyle oluşturacağı sinerjiye büyük önem verdiklerini ifade ederek, Bilişimin kişilere, kurumlara ve Türkiye ekonomisine sağladığı katma değeri, ülkemizde bu kapsamda bir ilk olma özelliğindeki Microsoft Zirvesi İlkbahar 2005’le ortaya koyuyoruzö dedi. 
+     Microsoft Zirvesi İlkbahar 2005’in geniş içeriğinin 9 ayrı zirveden oluştuğuna dikkat çeken Arkan konuşmasını şöyle sürdürdü 
+     Bu kapsamdaki bir zirve ile ekosistemimizde yer alan kişi ve kurumların tamamına yer vererek, Türkiye’nin bilişimle kalkınmasında önemli bir katkı sağlamayı amaçlıyoruz. Öte yandan zirvelerimizde Microsoft’un iş süreçlerine sağladığı katma değeri yaşayan müşterilerimiz de kendi tecrübelerini katılımcılarla paylaşacak. Zirvemiz üç gün boyunca Türkiye bilişim sektörünün gerçek gücünü ve etkisini göstermesi açısından hepimiz için heyecan verici bir etkinlik olacak.ö Zirve kapsamında ayrıca, Türkiye pazarına ilk defa yaklaşık bir sene önce sunulan Navision’ın 4.0 versiyonunun Türkiye lansmanı 27 Nisan 2005 Çarşamba günü Microsoft Navision Genel Müdürü Mogens Elsberg’ın da katılımıyla gerçekleşecek. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 230932 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/13/son/soneko04.html </URL>
+<DATE> 2004/04/13/ </DATE>
+<TIME> 00.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Wall Street yükselişle kapandı... 
+</HEADLINE>
+<TEXT>
+
+     New York menkul kıymetler borsası Wall Street, günü yükselişle kapadı. 
+     Dow Jones endeksi 73, puan artışla 10.515,56'ya, Nasdaq endeksi 12,60 puan artışla 2.065,48'e yükseldi. 
+     
+</TEXT>
+</DOC>

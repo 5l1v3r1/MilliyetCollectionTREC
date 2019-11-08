@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 285992 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/04/son/sondun12.html </URL>
+<DATE> 2004/11/04/ </DATE>
+<TIME> 11.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Biyometrik pasaportlar 
+</HEADLINE>
+<TEXT>
+
+     Belçika, ''biyometrik pasaport'' sistemine geçti. 
+     Dışişleri Bakanlığı yetkilileri, bu aydan itibaren dağıtılacak pasaportlarda bir mikroçip bulunacağını bildirdiler. Mikroçipte ilk aşamada, pasaport sahibinin kimlik, imza ve fotoğraf kayıtları yer alacak. Bu verilere, daha sonra, parmak izi ve diğer bazı bilgiler eklenecek. 
+     Belçikalı yetkililer, öngörülen eklemelerin yapılması için AB bünyesinde uyum ve uygulama kararı çıkmasının bekleneceğini kaydettiler. 
+     Belçika'da yeni ''elektronik kimlik kartları'' da dağıtılmaya başlandı. Çeşitli bölgelerde kullanılmaya başlanan bu kartlar kısa sürede ülke çapında herkese verilecek. Gelecek beş yıl içinde eski kimlik kartları tamamen kalkmış olacak. 
+     Belçika hükümeti 2001 yazında verdiği bir kararla elektronik kimlik kartı uygulamasına geçilmesini istemişti. 
+     Bir banka kartı boyutunda olan yeni kimlik kartlarında mikroçipler üzerine yapılan kayıtlar önemli işlevleri beraberinde getiriyor. Bu kartlar sayesinde ayrıca ehliyet taşımak gerekmiyor, banka işlemlerinde ve çeşitli resmi belgelerde ''elektronik imza'' atılabiliyor, internet iletişimi daha güvenli bir hale getiriliyor. 
+     Yabancı uyruklulara da verilen bu kartlarda isim ve soyadı, doğum yeri ve tarihi, uyruk, cinsiyet, ulusal kayıt numarası, adres, fotoğraf ve imza gibi veriler yer alıyor. Bu kartlarla bireylerin kimlikleri elektronik kontrole açılıyor. 
+     Merkezi sisteme bağlı olan kimlikleri kullananlar, banka kartlarında olduğu gibi, bir şifreyle kartları devreye sokabiliyorlar. Kart, kaybolması veya çalınması halinde, sistemde devre dışı bırakılıyor. 
+     Elektronik kimlik kartı uygulamasının en yaygın olduğu ülkelerin İsveç ve Finlandiya olduğu, bu sistemin kısa sürede tüm AB ülkelerinde görüleceği belirtiliyor. 
+     
+</TEXT>
+</DOC>

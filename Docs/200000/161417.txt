@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 161417 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/06/son/sondun01.html </URL>
+<DATE> 2003/06/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yeni ve saldırgan bir bilgisayar virüsü hızla yayılıyor 
+</HEADLINE>
+<TEXT>
+
+     Yeni ortaya çıkan ve çok tehlikeli, oldukça saldırgan olarak nitelendirilen bir bilgisayar virüsü, korsanın karşıdaki bilgisayarı tamamen ele geçirmesini, şifre, kredi kartı bilgileri gibi verileri almasını sağlıyor. 
+     İnternet üzerinden bugün yayıldığı belirlenen yeni virüs, uzmanlarca ''BugBear.B'' olarak adlandırıldı. 
+     Virüs, ''Sobig.B'' ve ''Sobig.C'' olarak adlandırılan, elektronik posta ile yayılan virüsleri izledi. Ancak uzmanlar ''BugBear.B''yi, önceki bu iki virüse göre kat kat daha yıpratıcı ve saldırgan olarak nitelendiriyorlar, yeni virüsün yayılma hızının da diğerlerine göre çok üstün olduğunu belirtiyorlar. 
+     Elektronik postaların virüse karşı taranması hizmeti yapan ''MessageLabs Inc.'' firması, yalnızca bu sabahtan öğleye kadar toplam 125 ülkede 37 bin 400 ''BugBear.B'' virüsü bulaşmış postayı engellediklerini açıkladı. 
+     ''BugBear.B,'' geçen Eylül ayında ortaya çıkan ''BugBear'' virüsünün yeni çeşidi. 
+     
+</TEXT>
+</DOC>

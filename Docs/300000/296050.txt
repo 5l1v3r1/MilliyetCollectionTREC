@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 296050 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/08/son/sonyas15.html </URL>
+<DATE> 2004/12/08/ </DATE>
+<TIME> 09.55 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternette 'Pearl Harbor' alarmı... 
+</HEADLINE>
+<TEXT>
+
+     Amerikan internet sanayi, sayısal ''Pearl Harbor'' korkusuyla hükümetten önlemler almasını istedi. 
+     Symantec, McAfee, Check Point Software gibi şirketleri bir araya getiren İnternet Güvenliği İttifakı adlı örgüt, dün akşam yaptığı yazılı açıklamada, ülkenin teknolojik kaynaklarının korunması amacıyla sanal dünyanın açıklarını ve eksiklerini giderecek önlemler alınması gerektiğini bildirdi. Örgüt, özellikle İç Güvenlik Bakanlığı bünyesinde siber güvenlikten sorumlu bakan yardımcısı atanmasını istedi. 
+     Bilişim sistemleri ve ağlarını bazen işlemez hale getiren spam ve virüs saldırılarını ''Pearl Harbor''a benzeten ve bunların verdiği zararın faturasının çok büyük olabileceği uyarısında bulunan şirketler, ''Amerikan ekonomisinin gittikçe artan siber saldırılar yüzünden milyarlarca doları bulan kayıplara çare bulmasının şart olduğunu'' kaydettiler ve sanal dünyanın güvenliğinin sağlanabilmesi için bir dizi öneri sundular. 
+     Şirketler, bakan yardımcısı atanmasının yanı sıra Avrupa Konseyi'nin siber suçlarla ilgili sözleşmesinin gecikmeden onaylanmasını istedi. 
+     Japon savaş uçakları, 7 Aralık 1941'de Hawaii'deki Pearl Harbor deniz üssünü bombalamış, ABD bu beklenmedik saldırı üzerine İkinci Dünya Savaşı'na girmişti. 
+     
+</TEXT>
+</DOC>

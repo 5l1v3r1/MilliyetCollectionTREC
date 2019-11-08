@@ -1,0 +1,41 @@
+<DOC>
+<DOCNO> 303592 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/01/05/yazar/uras.html </URL>
+<DATE> 2005/01/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR> Güngör URAS  </AUTHOR>
+<HEADLINE>
+Maliyet artışını toptancı tüketiciye yansıtamadı 
+</HEADLINE>
+<TEXT>
+
+
+2003-2004 Aralık ayları fiyatları arasındaki değişimi gösteren TEFE Toptan Eşya Fiyatları Endeksi yüzde 13.84 oranında artarken, TÜFE Tüketici Fiyatları Endeksi artış oranı yüzde 9.32 olarak gerçekleşti. 
+Acaba ne oldu da, bir aralık ayından öbür aralık ayına, toptan fiyatlar daha çok, perakende fiyatları tüketici fiyatları daha az arttı 
+Fiyat endekslerindeki yıllık artışlar veya değişimler 2 farklı şekilde izlenir 1 12 aylık yıllık artış oranı denilen oran, bir önceki yılın aralık ayı ile o yılın aralık ayı fiyatları arasındaki değişimi ortaya koyar. 
+Burada karşılaştırılan iki yılın iki aralık ayının fiyatlarıdır. Yıl boyunca diğer aylardaki fiyat değişimi hesaba girmez. 
+2 Yıllık ortalama fiyat artışı oranı denilen oran ise, son 12 aylık fiyat değişiminin tüm aylardaki değişimin bir önceki yılın 12 aylık tüm aylardaki fiyat değişimine göre farkını ortaya koyar. 
+2004 yılında bu iki farklı hesaplama şekline göre 
+1 TEFE'de aralık aralık yıllık artış yüzde 13.94, yıllık ortalama artış yüzde 11.09'dur. 
+2 TÜFE'de aralık aralık yıllık artış yüzde 9.32, yıllık ortalama artış yüzde 10.58'dir. 
+Dikkat edilirse, 1 aralık aralık ayları için yapılan hesaplamada TEFE yüzde 13.84 oranında artarken, TÜFE artışı yüzde 9.32 oranında kaldığı için, toptan ve perakende fiyat artışları birbirinden farklı görülmektedir. 2 Halbuki yıllık ortalama fiyat artışında TEFE yüzde 11.09 ve TÜFE yüzde 10.58 oranıyla birbirine yaklaşmaktadır. 
+TEFE'nin özelliği, üretim ve ithalat maliyetini iç ve dış girdi fiyatlarını yansıtmasıdır. Büyük ölçüde üretim maliyetindeki gerçek artışı gösterir. 
+
+Talep TÜFE'yi etkiliyor 
+TÜFE'nin özelliği, perakende mal fiyatlarındaki değişim kadar, hizmet fiyatlarındaki değişimi de içermesidir. 
+Normal olarak TEFE'deki değişimin aynen TÜFE'ye yansıması gerekir. Normal olarak TÜFE'nin de en az TEFE kadar artması beklenir. Uzun dönemde zaten TEFE ve TÜFE artışları bir noktada buluşur ama bazı dönemlerde örneğin bu yıl olduğu gibi TEFE'deki artış TÜFE'ye uzun süre yansımayabilir. 
+Bunun temel nedeni, tüketicinin talebindeki duraklamadır. Tüketicinin geliri düşer, tüketici mal satın almaya eskisi kadar istekli olmazsa, perakendeci mecburiyetten fiyatı indirir. 1 Önce karından fedakarlık eder. 2 Sonra gerekiyorsa zammı geciktirir. 3 Çaresiz kalınca da, nakde dönmek için maliyetin altında satış yapar. Bütün bunlar olunca da, toptan eşya fiyatlarındaki artış tüketiciye aynen yansımamış olur. 
+Sonuç olarak toptan eşya fiyatları maliyet etkisinde artarken, perakende fiyatları aynı ölçüde artmaz. 
+2004 yılında da bu tabloyla karşılaşıldı. Tüketicilerin gelirleri genelde artmadığı için perakendeciler piyasayı canlı tutabilmek uğruna karlarından fedakarlık yaptı. O yetmeyince maliyetine ve bazen de maliyetin altında satış yapmak zorunda kaldı. İşte bunun içindir ki, aralık aralık hesabında TÜFE ile TEFE arasındaki fark açıldı. Ama tekrarda yarar vardır. 
+Bu fark uzun dönemde ortadan kalkar. Toptan maliyeti artan malı perakendeci ucuza satamaz. Belli bir süre sonra TÜFE de en az TEFE kadar artar. Yıllık ortalamalar iki fiyat endeksindeki artışın uzun sürede birbirine yaklaştığını açıklıkla gösteriyor. 
+Aralık aralık ayları arasındaki yıllık fiyat değişiminde önemli bir gelişmeye dikkat çekmek istiyorum. TEFE'de yıllık aralık aralık artış, 2003 yılında yüzde 13.94 iken 2004 yılında yüzde 13.84 olarak gerçekleşti. Açık anlatımıyla 2004'te önemli bir gerileme yok. Ama TÜFE'de 2003 yılında yüzde 18.36 olan artış oranı yüzde 9.32'ye geriledi. Demek ki, perakendeci 2004 yılında daha az fiyat artırabildi. 
+
+2004-2003 yılı fiyat artışları TEFE Toptan eşya TÜFE Tüketici 2004 2003 2004 2003 Ocak 2.60 5.60 0.70 2.60 Şubat 1.64 3.10 0.55 2.30 Mart 2.10 3.20 0.89 3.10 Nisan 2.65 1.76 0.59 2.09 Mayıs -0.03 -0.60 0.38 1.60 Haziran -1.05 -1.93 -0.13 -0.17 Temmuz -1.52 -0.54 0.22 -0.37 Ağustos 0.79 -0.20 0.58 0.15 Eylül 1.85 0.05 0.94 1.90 Ekim 3.23 0.56 2.22 1.42 Kasım 0.75 1.70 1.54 1.61 Aralık 0.13 0.63 0.45 0.88 Yıllık 1 13.84 13.94 9.32 18.36 Yıllık ort. 2 11.09 25.56 10.58 25.30 
+1 Aralık aralık ayları fiyatları arasındaki artış oranı. 
+2 2004 yılı 12 aylık fiyatları ile 2003 yılı 12 aylık fiyatları arasındaki artış oranı. 
+
+
+
+</TEXT>
+</DOC>

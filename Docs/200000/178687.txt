@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 178687 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/28/son/soneko02.html </URL>
+<DATE> 2003/08/28/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası... 
+</HEADLINE>
+<TEXT>
+
+     New York borsasında Dow Jones endeksi günü düşerek, Nasdaq ise yükselerek kapattı. 
+     Borsanın temel göstergesi Dow Jones endeksi 6.88 puan inerek, 9,333.57 puandan kapandı. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq bileşik endeksi de, 11.49 puanlık yükselişle 1,782.14 puandan günü tamamladı. 
+     
+     TOKYO BORSASI 
+
+     Tokyo Menkul Kıymetler Borsası ise kapanışta değer kaybetti. 
+     Nikkei Endeksi, 83.77 puan yüzde 0.81 gerileyerek, kapanışta 10,225.22 puana indi. 
+     Öte yandan, ABD Doları, Japon Yeni karşısında 0.18 yen değer kaybederek, 117.50 yen düzeyine geriledi. 
+     
+</TEXT>
+</DOC>

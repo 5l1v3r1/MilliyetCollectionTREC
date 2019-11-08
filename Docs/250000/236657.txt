@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 236657 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/05/02/son/soneko05.html </URL>
+<DATE> 2004/05/02/ </DATE>
+<TIME> 10.25 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yatırımlar da, elektronik ortamda izlenecek... 
+</HEADLINE>
+<TEXT>
+
+     Devletin bir çok hizmetinin elektronik ortamda yürütülmesine paralel, artık yatırımların da elektronik ortamda takibine imkan verecek bir sisteme geçiliyor. 
+     Devlet Planlama Teşkilatı DPT , yatırımlara ilişkin bilgi akışını sağlayacak ve yatırımların elektronik ortamda izlenmesine olanak verecek sistemin oluşturulması için hazırlıklara başladı. 
+     A.A muhabirinin edindiği bilgiye göre, halen yazılım çalışmaları devam eden sistemin bu yıl içinde kullanıma girmesi ve kamu yatırımlarını da elektronik ortamdan takibinin sağlanması hedefleniyor. 
+     
+     SİSTEMİN FAYDALARI 
+     Yeni sistem devreye alındığında, yatırımcı kuruluşların teklifleri elektronik ortamda DPT'ye iletilecek, böylelikle posta veya kargo gibi masraflar azalacak, zamandan tasarruf sağlanacak ve bir çok yazışmanın kısa sürede gerçekleşmesine imkan sağlanacak. 
+     Sistem ile birlikte kamu yatırım gerçekleşmeleri daha erken yayınlanabilecek, kuruluşlara yapılan ödenek tahsislerinin durumu elektronik ortamda izlenebilecek. 
+     Sektörler itibariyle proje sorgulama ve analiz daha kolay hale gelecek, bir başka deyişle binlerce projeden oluşan yatırım programı daha iyi izlenebilecek. 
+     Söz konusu sistemin Maliye Bakanlığı'nın SAY 2000 projesi ile entegrasyonu da planlanırken, böylelikle harcamaların takibinde DPT ve Maliye Bakanlığı arasında ortaklık kurulabileceği vurgulanıyor. Bunun aynı zamanda mükerrerliklerin de önüne geçeceğine işaret ediliyor. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 376225 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/06/son/sonyas19.html </URL>
+<DATE> 2005/09/06/ </DATE>
+<TIME> 16.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Asteroidden dünyaya örnek geliyor 
+</HEADLINE>
+<TEXT>
+
+     Japonya'nın 2,5 yıl önce uzaya fırlattığı Hayabusa uzay aracı bir asteroidden örnek almaya ve bunu dünyaya getirmeye hazırlanıyor. 
+     İngiltere'nin Cambridge kentinde toplanan gökbilimciler, Hayabusa sondasının Kasım'da 630 metre uzunluğundaki Itokawa 1998SF36 asteroidini inceleyeceğini, Dünya'ya getirmek üzere gökcisminden örnek toplayacağını belirttiler. 
+     Bunun astronomi için bir ilk olduğunu söyleyen bilimadamları, asteroidlerin kimyasal bileşimini öğrenmenin, gezegenlerin oluşumunu anlamaya olanak sağlayacağını kaydettiler. 
+     Gökbilimciler, şu ana dek incelemek için ellerindeki tek asteroidin, Dünya'ya girerken yanan meteorlar olduğunu, ellerinde ham asteroidin bulanmadığına işaret ettiler. 
+     İlk aşamada asteroide birkaç metre yaklaşacak Hayabusa, gökcisminin yüzeyine 5 gram ağırlığında bir mermiyi saniyede 300 metre saatte 1800 km hızla ateşleyecek. Her şey yolunda giderse merminin çarpması sonucu gökcisminden kopan parçalar uzay sondasının hunisi tarafından toplanacak. 
+     Bu manevrayı gökcisminin üç ayrı noktasında tekrarlayacak olan uzay aracı, ayrıca Itokawa'ya çeşitli ölçümler yapmak ve fotoğraf çekmek üzere Minerva adlı küçük bir robot yerleştirecek. 
+     Hayabusa uzay sondası, görevini tamamladıktan sonra yaklaşık 100 miligram ağırlığındaki değerli yüküyle Dünya'ya doğru yola çıkacak ve bilimsel modülünü Haziran 2007'de Avustralya çölüne indirecek. 
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 221723 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/12/son/sondun08.html </URL>
+<DATE> 2004/03/12/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hitachi'den 400 GB'lik dev sabit disk .. 
+</HEADLINE>
+<TEXT>
+
+     ''Hitachi Global Storage Technologies'' adlı şirket, 400 gigabitlik dev bir sabit disk HDD ürettiğini açıkladı. 
+     Bu sabit diske 400 saatlik standart televizyon programı ya da 45 saatlik yüksek çözünürlükte TV programı veya 6 bin 500 saatlik dijital müzik depolamak mümkün. 
+     Bundan önce üretilen en geniş kapasiteli sabit disk 300 gigabit hacmindeydi ve Maxtor firması tarafından üretilmişti. 
+     Merkezi San Jose'de bulunan Hitachi firması, ''Deskstar 7K400'' adını verdiği dev diskin, dijital video kayıtları ya da ses ve video kayıtları için kullanılabileceğini açıkladı. 
+     Merkezi Boston'da bulunan Yankee Group adlı piyasa araştırma şirketi de bugün 3 milyon olan video kayıt cihazları sayısının 2007 yılında 25 milyona yükseleceğini belirtti. 
+     
+</TEXT>
+</DOC>

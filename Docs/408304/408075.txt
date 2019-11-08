@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 408075 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/30/son/sonyas01.html </URL>
+<DATE> 2005/12/30/ </DATE>
+<TIME> 01.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Windows'da yeni açık uyarısı 
+</HEADLINE>
+<TEXT>
+
+     Bilgisayar kullanıcıları, Microsoft Windows'da yeni tespit edilen bir açığın, bilgisayarları saldırılara açık hale getirdiği konusunda uyarıldı. 
+     ABD'de interneti izleyen Computer Emergency Response Center Cert ve web güvenlik firmaları, ''Windows Metafiles'' adı verilen bazı görüntü dosyaları konusunda uyarıda bulundular. 
+     Uzmanlar, çok sayıda websitesinin, bilgisayarlara sızmak ve kullanıcının izni olmadan tanıtım, kişisel bilgi toplama veya bilgisayarın yapılandırmasını değiştirmek için ''spyware'' yerleştirmek amacıyla bu açığın avantajını kullandıklarını belirttiler. 
+     Söz konusu görüntü dosyalarının ''.wmf'' uzantısıyla geldiği ve bunların vektör ile bitmap resim datalarının pixel grafikler halinde yazılması temelli oldukları uyarısı karşısında, Microsoft gerekli incelemeyi başlattığını açıkladı. 
+     Microsoft firması öteden beri, kullanıcılara bilinmeyen bir kaynaktan gelen e-postalar ile bunlardan gelen linkleri dikkatli açmaları uyarısında bulunuyor. 
+     
+     2005 SAKİN GEÇTİ 
+     Öte yandan, bilgisayar güvenliği uzmanları, virüs saldırıları bakımından 2005'in önceki yıla göre daha sakin geçtiğini belirttiler. 
+     Bu alanda önde gelen firmalardan Symantec'in derlediği verilere göre, 2004'te 33 önemli virüs saldırısı kayda geçerken, 2005'te sadece 6 önemli olay meydana geldi. 
+     Symantec'in üst düzey yöneticilerinden Kevin Hogan, dünyada bilgisayar virüsü salgını konusunda önemli bir düşüş yaşandığını belirterek, bunda kullanıcıların bilinçlenmesi ve virüs programlarının büyük ölçüde engellenmesinin payı olduğunun altını çizdi. 
+     Finlandiyalı anti-virüs yazılım şirketi F-Secure da, 2005'te virüs programlarının son iki yıla göre yüzde 40 artış göstermesine karşın, bilgisayar virüsü salgınında yüzde 50 azalma tespit edildiğini belirtti. 
+     
+</TEXT>
+</DOC>

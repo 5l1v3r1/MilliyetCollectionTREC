@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 178453 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/08/27/son/soneko13.html </URL>
+<DATE> 2003/08/27/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Cebit Bilişim Eurasia, 2-7 Eylül'de... 
+</HEADLINE>
+<TEXT>
+
+     Cebit Bilişim 2003 Eurasia Fuarı, 2-7 Eylül tarihleri arasında Beylikdüzü Tüyap'ta başlıyor. 
+     Yapı Kredi Bankası, fuar kapsamında bankacılık hizmetlerinin yer aldığı standıyla katılımcılarla buluşacak. 
+     Yapı Kredi standında yer alacak hizmetler, POSCepte, Online Kredi, Worldonline, Sınırsız Bankacılık ve Mobil Ödeme olacak. 
+     Cep telefonundan kredi kartıyla satış gerçekleştirmek için geliştirilen, Türkiye'nin pos özelliklerini cep telefonlarına taşıyan ilk ürünü olan POSCepte hizmetiyle üye işyerleri sahip oldukları wap uyumlu cep telefonlarına kredi kartı bilgilerini girerek, müşterilerine kredi kartı ile alışveriş imkanı sağlayabilecek. 
+     Yapı Kredi Yayınları'nın kitapları da, TelewebClub üyelerine fuar süresince yüzde 35 indirimle sunulacak. 
+     
+     KENDİNİ BAŞTAN YARAT 
+     Intel, HP ile birlikte Bilişim Fuarı süresince HP standına uğrayacaklar için bir sürpriz hazırladı. 
+     Bu yıl herkese Cosmopolitan kapağına çıkma şansı tanıyan Intel, Cosmopolitan dergisinin lisanslı ürünü olan yazılım ile katılımcılara bilgisayarda birkaç tıklama ile yepyeni bir çehreye bürünebileceklerinin kanıtını sunuyor. 
+     Buna göre, dijital fotoğrafını çektiren katılımcılar, Intel Pentium 4 3.06 GHz Hyper-Threading'li işlemcilerle donatılmış multimedya PC'lerde Cosmopolitan yazılımı ile saç şeklini, kullanacağı aksesuarları, yüzüne en uygun makyajı seçerek yeni bir görüntü oluşturuyor. 
+     
+     BİLİŞİM ZİRVESİ 
+     Bilişim Zirvesi'03, 2-5 Eylül tarihleri arasında ''Uluslararası Buluşma'' adı altında Lütfi Kırdar Uluslararası Kongre ve Sergi Sarayı'nda gerçekleşecek. 
+     Lider yapımcılığı Türkiye Bilişim Vakfı TBV tarafından gerçekleşen buluşma, Faruk Eczacıbaşı'nın açılış konuşmasıyla başlayacak. 
+     Forum kapsamında, Türkiye ile global bilişim pazarı arasındaki makasın kapatılması için gerekli yöntemlerin belirleneceği ''Türkiye ve Global Bilişim Pazarı'' başlıklı bir panel düzenlenecek. 
+     
+</TEXT>
+</DOC>

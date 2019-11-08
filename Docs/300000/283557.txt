@@ -1,0 +1,41 @@
+<DOC>
+<DOCNO> 283557 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/10/26/son/sontur38.html </URL>
+<DATE> 2004/10/26/ </DATE>
+<TIME> 16.35 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Diyarbakır'daki uçak kazasının raporu açıklandı ''Kusur pilotların''... 
+</HEADLINE>
+<TEXT>
+
+     Diyarbakır'da 8 Ocak 2003 tarihinde meydana gelen ve 75 kişinin öldüğü 5 kişinin de yaralandığı uçak kazasının raporunda uçuş ekibinin yaklaşma ışıkları veya pisti görmemelerine rağmen inişte ısrarcı davrandığı, minimum alçalma irtifasının altına inildiği için pas geçme kararı vermekte de geç kalındığı belirtildi. 
+     Ulaştırma Bakanlığı ve Sivil Havacılık Genel Müdürlüğü'nce hazırlanan kaza raporunun başlangıç bölümünde, THY'nin İstanbul-Diyarbakır seferini yapmak üzeri İstanbul'dan hareket eden ve Diyarbakır Askeri Havaalanı yakınlarında inişe geçtiği sırada araziye çarpan uçak ve kazaya ilişkin bilgilere yer verildi. 
+     Kaptan Pilot Alaaddin Yunak ve İkinci Pilot İsmail Altuğ Ulusu'nun Kokpit Ses Kayıt Cihazı'nda CVR bulunan konuşmalarından aşağının bayağı puslu olduğu, pistin görülemediği ve ışıkların yanıp yanmadığının fark edilemediğinin anlaşıldığı belirtilen raporda, yaklaşmanın her aşamasında pilotlar tarafından pistin ve yaklaşma ışıklarının görülebilmesi için çaba harcandığı vurgulandı. Raporda, kaptanın iki lambayı şüphe ile karşıladığı, buna karşın uçuş ekibinin Minimum Alçalma İrtifaı'nın MDA altında alçalma ve yaklaşmaya devam ederek standart prosedürlerin dışına çıktığı, pilotların ''göremezsek pas geçelim'' diyerek mutabık kaldıkları ifade edildi. 
+     İkinci kaptanın minimum alçalma ikazı yaptığı, Kaptan'ın ise ''biraz daha'' diyerek alçalma ve yaklaşmaya devam edilmesini istediği anlatılan raporda, 3 ve 5 saniye sonra iki ikazın ardından kaptanın ''pas geçelim'' komutu verdiği, ikinci kaptanın ''pas geçiyoruz efendim. Go around....'' ifadesini tamamlayamadan uçağın ana iniş takımlarından ve gövdenin tam alt kısmından iniş takımları açık olarak 131 knot süratle yere çarptığı belirtildi. 
+     
+     ÇARPMA ANINDA UÇAKTA 5 BİN 147 LİTRE YAKIT VARDI 
+
+     Çarpmanın ardından uçağın parçalanarak 200 metre sürüklendiği, çarpmadan sonra meydana gelen patlama ve yangından dolayı uçağın tamamen tahrip olduğu kaydedildi. Uçakta çarpma anında 5 bin 147 litre yakıt bulunduğunun belirlendiği, yangında 3 numaralı motorun yandığı, diğer 3 motorda ise yangın izine rastlanmadığı belirtildi. 
+     Pilotların ve hava trafik kontrolörünün eğitim ve kariyerlerine ilişkin bilgilerin de aktarıldığı raporda, RJ-100 tipi uçağın son olarak kazadan 4 gün önce Antalya'da bakımının yapıldığı ifade edildi. 
+     
+     KAZANIN ANALİZİ 
+
+     Dijital Uçuş Verileri Kayıt Cihazı DFDR ve Kokpit Ses Kayıt Cihazı'nın CVR incelemesinde uçuş esnasında uçakta herhangi bir teknik arıza olduğuna dair bulguya rastlanılmadığı, uçuş anında yangın çıkmadığı ve patlama tesit edilmediği vurgulandı. Uçak yere vurduktan ve sürüklenmeye başladıktan sonra 150 metre mesafedeki arazi yükseltisine çarptığı, ardından patlama ve yangın olduğu vurgulanan raporda, ''Kazanın Analizi'' başlıklı bölümde şu tespitlere yer verildi 
+     ''Yaklaşma sırasında 2800ft Minimum Alçalma İrtifası'na gelindiğinde pus sebebiyle pistin görülemediği her iki pilot tarafından da açık bir şekilde ifade edilmiş olmasına rağmen, kaptan tarafından şimdi artık 500'e kadar devam edebiliriz talimatı verilmiş ve bu talimat İkinci Pilot tarafından da teyit edilmiştir. Bu noktadan sonra uçucu personel standart yaklaşma prosedürlerinden saparak Minimum Alçalma İrtifası'nın altında alçalmaya devam etmiştir. 
+     Altimetreler normal prosedürlere göre ayarlanmıştır. DGDR ve CVR kapıtları, oto pilotun çarpma noktasına çok yakın bir noktaya kadar devrede olduğunu göstermektedir. GPWS, normal olarak çalışmış ve beklenen ikazları vermiştir. Kokpit ekibi ikazlara, bilhassa sistemden gelen uyarılara, düzgün olarak tepki verememiş ve gerçek durumu yayımlanmış prosedürlerle karşılaştıramamıştır. 
+     Son yaklaşmada, minimumların altına inilerek yapılan uygulamaların uluslararası standartlar ile işletme prosedürlerine uygun olarak yapılmadığı ve pas geçme kararı vermekte geç kalındığı belirlenmiştir.'' 
+     
+     HER İHTİMALE KARŞI FAZLADAN 500 LİTRE YAKIT ALMIŞ 
+
+     Raporda, iniş sırasındaki hava tahminlerine yer verilirken, iniş sırasında görüşün 2000 metreye düşebilme ihtimalinin bulunması nedeniyle, kaptanın muhtemelen Diyarbakır Askeri Havaalanı'na inemeyebileceği yönündeki ihtimali hesaba katarak, uçuş öncesinde İstanbul Atatürk Havalimanı'nda ilave olarak 500 litre daha fazla yakıt aldığı düşüncesi dile getirildi. 
+     Kazanın ''Bulgular'' ve ''Sonuç'' başlığını taşıyan son bölümünde şu tespitler yapıldı 
+     ''TC-THG tescil işaretli uçak, Türk Sivil Havacılık Mevzuatına uygun bakım görmüş ve sertifikalandırılmıştır. Kaza anında, uçak sistemlerinin normal olarak çalıştığı ve faal durumda oldukları belirlenmiştir. 
+     TK-634 sefer sayılı uçuşa hava trafik hizmeti, bu hava alanına yapılan diğer uçuşlarda olduğu gibi Diyarbakır Askeri Havaalanı'nda görevli askeri personel tarafından verilmiştir. 
+     Kaza anındaki gerçek meteorolojik duruma ait güncel bilginin rasatlarda mevcut olmadığı gibi uçuş mürettebatına da yaklaşmanın herhangi bir safhasında iletildiğine dair bir bilgiye rastlanmamıştır. 
+     Uçuş ekibi tarafından 2800ft irtifada Minimum Alçalma İrtifaı'na gelinmesine ve yaklaşma ışıkları veya pistin görülememesine rağmen inişte ısrarcı davranılmıştır. Kötü hava koşulları kaza nedenine katkıda bulunmuştur.'' 
+
+     
+</TEXT>
+</DOC>

@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 154810 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/06/son/soneko01.html </URL>
+<DATE> 2003/05/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Dow Jones düştü, Nasdaq yükseldi... 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Borsası'nda Dow Jones Endeksi düştü, Nasdaq Endeksi yükseldi. 
+     Borsanın temel göstergesi Dow Jones 51.11 puan düşerek, günü 8.1.57 puandan kapattı. 
+     Teknoloji endeksi Nasdaq ise 1.16 puan artışla 1.504.04 puana çıktı. 
+     
+     TOKYO BORSASI 
+
+     Tokyo döviz borsasının bugünkü kapanışında dolar, Cuma gününe göre 0.28 yen değer kaybederek 118.60 yene geriledi. 
+     Singapur ve Asya kıtasındaki diğer borsalarda euronun dolar karşısındaki değeri, yaklaşık son dört yılın en yüksek düzeyine çıktı. 
+     Singapur borsasında euro, Mart 1999'dan bu yana en yüksek değeri olan 133.94 yene ve Şubat 1999'dan bu yana en yüksek düzeyi olan 1.1284 dolara çıktı. Euro, bugün bir ara 1.1305 dolara kadar yükseldi. 
+     Faiz oranlarının göreceli olarak yükselmesinden istifade eden Avustralya Doları da son üç yılın en yüksek düzeyine, 0.6363 dolara çıktı. 
+     New York menkul kıymetler borsası Wall Street'in dünkü kapanışında yükselişlerin olumlu etkisiyle, Tokyo menkul kıymetler borsası da bugün yükseldi. 
+     Borsada Nikkei Endeksi bugün 176.37 puan yüzde 2.23 oranında artışla 8 Nisan'dan bu yana en yüksek kapanış değerine, 8,083.56 puana ulaştı. 
+     Singapur borsasında Amerikan Batı Teksas ham petrolünün varil fiyatı 3 sent düşüşle 26 dolar 46 sente gerilerken, altının ons fiyatı 341 dolar 75 sentte kaldı. 
+     
+</TEXT>
+</DOC>

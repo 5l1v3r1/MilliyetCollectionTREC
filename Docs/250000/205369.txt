@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 205369 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/30/son/soneko04.html </URL>
+<DATE> 2003/12/30/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Wall Street yükselişle kapandı 
+</HEADLINE>
+<TEXT>
+
+     New York menkul kıymetler borsası Wall Street, bugünü yükselişle kapadı. 
+     Dow Jones endeksi 10 bin puanı aşarak, 125.33 artışla 10,450.00, Nasdaq endeksi ise 33.34 artışla 2,006.48 puana yükseldi. 
+     
+     TOKYO BORSASI 
+
+     Tokyo Borsası da günü yükselişle tamamladı. 
+     Borsanın temel göstergesi Nikkei Endeksi kapanışta düne göre 176.02 puan artıp 10,676.64 puan oldu. 
+     Aynı borsada ABD Doları ise Japon Yeni karşısında düne göre 0.03 yen gerileyip 107.01 yenden işlem gördü. 
+     
+</TEXT>
+</DOC>

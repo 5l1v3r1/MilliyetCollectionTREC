@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 161468 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/06/son/soneko16.html </URL>
+<DATE> 2003/06/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansta 48 puan arttı... 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Menkul Kıymetler Borsası İMKB Ulusal-100 Endeksi, 1. seansı 48.12 puan kayıpla 11,081.62 puandan tamamladı. 
+     Hisse senetlerinin ortalama değer kaybı yüzde 0.43 olarak gerçekleşti. 
+     Endeks, bugünkü ilk seansa 9.52 puan artışla 11,139.26 puan seviyesinde başladı. Seansın ilk yarısını 16.16 puan artışla 11.145.93 puandan geçen endeks, en düşük 10,998.38, en yüksek 11,258.71 puanı gördü. 
+     Seans kapanışında mali endeks 18.05 puan artışla 13,026.29 puana yükseldi. Sanayi endeksi 73.84 puan kayıpla 11,504.54 puana, hizmetler endeksi 83.32 puan kayıpla 7,140.14 puana geriledi. 
+     Böylece, önceki kapanışa göre mali grup hisseler ortalama yüzde 0.14 değer kazandı. Sanayi grubu hisseler ortalama yüzde 0.64 ve hizmetler grubu hisseler ortalama yüzde 1.15 oranında değer yitirdi. 
+     İşlem gören toplam 283 hissenin 130'unun fiyatı geriledi, 86'sı değer kaybetti, 67'sinin fiyatı değişmedi. 
+     Seansta, toplam 236 trilyon 372 milyar 635 milyon liralık işlem hacmi oluştu. 
+     1. seansta Vestel, Garanti Bankası, Tüpraş, İş Bankası C ve Ereğli D.Ç., en yoğun işlem gören hisseler oldular. 
+     
+</TEXT>
+</DOC>

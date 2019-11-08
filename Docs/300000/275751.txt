@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 275751 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/28/son/sonyas08.html </URL>
+<DATE> 2004/09/28/ </DATE>
+<TIME> 10.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Virüs yazarı iş buldu 
+</HEADLINE>
+<TEXT>
+
+     Sasser ve Netsky virüslerinin yazarı Sven Jaschan, Almanya'da faaliyet gösteren güvenlik firması Securepoint tarafından işe alındı. Bu yılın ilk yarısındaki virüs sorunlarının yaklaşık yüzde 70'ini oluşturan bu iki virüsün yazarının kariyeri yarım kalabilir. Çünkü yakında başlayacak olan mahkemesi sonucunda büyük ihtimalle hapse girmek zorunda kalacak. 
+     Securepoint firması yetkilileri virüs yazan birisini neden işe aldıkları konusundaki sorulara "Kötü bir şey yapmış olması kötü biri olduğu anlamına gelmez" gibi ilginç bir cevap verdi. Jaschan'ın temel bilgilere sahip olduğunu, ancak fazla birikimi olmadığını belirten yönetici Lutz Hausmann "Güvenlik yazılımı yazmak virüs yazmaktan çok daha fazla bilgi gerektiriyor" diyor. 
+     
+</TEXT>
+</DOC>

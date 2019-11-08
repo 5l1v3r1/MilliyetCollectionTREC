@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 397743 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/11/24/son/sontur38.html </URL>
+<DATE> 2005/11/24/ </DATE>
+<TIME> 19.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+'Cep'lere elektriksiz şarj 
+</HEADLINE>
+<TEXT>
+
+     Fırat Üniversitesi'nde FÜ doktora öğrencisi Yavuz Erol, hareket enerjisini elektrik enerjisine dönüştürerek şebeke elektriğine ihtiyaç duymadan cep telefonlarının şarj edilmesini sağladı. 
+     Erol, yaptığı yazılı açıklamada Arçelik Firması'nın kuruluşunun 50. yılı nedeniyle ve TÜBİTAK işbirliğiyle iki ayrı kategoride yarışma düzenlediğini belirtti. 
+     Üniversite öğrencilerinin bilimsel araştırma yapmalarını teşvik etmek amacıyla düzenlenen bu yarışmaya ''Yenilikçi Teknoloji'' kategorisinde katıldığını kaydeden Erol, yarışma sonunda ikinci olduğunu belirtti. Erol, FÜ Mühendislik Fakültesi Elektrik-Elektronik Mühendisliği Bölümü doktora öğrencisi olduğunu ifade ederek, şunları kaydetti 
+     ''Projede yaptığım cihaz, manyetik bir mekanizmayla hareket enerjisini elektrik enerjisine dönüştürüyor. Böylece şehir şebekesine ihtiyaç duymadan cep telefonu bataryası şarj ediliyor. Yarışmada FÜ'ni temsil ettiğim ve ikinci olduğum için mutluyum.'' 
+     
+</TEXT>
+</DOC>

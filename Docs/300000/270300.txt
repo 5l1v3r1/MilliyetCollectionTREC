@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 270300 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/09/09/yasam/yas11.html </URL>
+<DATE> 2004/09/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sinekle beslenen robot 
+</HEADLINE>
+<TEXT>
+
+
+DIŞ HABERLER SERVİSİ 
+
+İNGİLİZ bilim adamları, 'gücünü' yediği sineklerden alan bir robot geliştiriyor. Chris Melhuish isimli bilim adamının geliştirdiği 'EcoBot 2', yediği böceklerdeki şekeri özümseyerek özel bir yakıt hücresine dönüştürüyor. Robotu şimdilik kendilerinin beslediğini söyleyen Melhuish, böcekleri robotun içine çekecek bir vakum sistemi geliştirdiklerini duyurdu. 
+
+
+
+</TEXT>
+</DOC>

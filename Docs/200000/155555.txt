@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 155555 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/05/09/son/sondun11.html </URL>
+<DATE> 2003/05/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+SARS daha çok erkekleri öldürüyor 
+</HEADLINE>
+<TEXT>
+
+     Tayvan'da 18 yeni akut solunum yetmezliği SARS vakasının ortaya çıkarıldığı bildirildi. 
+     Tayvanlı yetkililer, ülkede SARS vakalarının görüldüğü 2 aydan bu yana ilk defa bir günde bu kadar çok vakaya rastlandığını belirterek, hastalığın başkent Taipei'den güneydeki bölgelere yayılmasından endişe edildiğini söylediler. 
+     Bu arada Singapur Genom Enstitüsü tarafından yapılan bir araştırma, şimdiye kadar 507 kişinin ölümüne yol açan SARS virüsünün sanılandan daha dirençli olduğunu ve önemli bir değişime uğramadığını ortaya çıkardı. 
+     Lancet tıp dergisinde yayımlanan araştırma sonuçlarını değerlendiren Ottawa Üniversitesi virüs bilimcisi Earl Brown, Singapur'da yapılan araştırmada, daha önce düşünülenin aksine, virüsün insan vücudunda daha önce de bulunuyor olabileceği anlamı çıktığını söyledi. 
+     Bilim adamları, SARS virüsünün nasıl ortaya çıktığını bulamazlarken, hastalığın hayvanlardan insanlara geçtiği olasılığı üzerinde kuvvetle duruyorlar. 
+     Öte yandan yine Singapur'da yapılan ve SARS'ın 9 haftalık seyrini izleyen bir araştırmaya göre, hastalıktan ölen erkeklerinin sayısı kadınlardan daha fazla. 
+     Dünya Sağlık Örgütü DSÖ ve Singapur Sağlık Bakanlığı tarafından yapılan araştırmaya göre, Singapur'da SARS'a yakalananların yüzde 66'sının kadın olmasına rağmen, ölen kadınların yüzdesi yüzde 44. 
+     Erkeklerin SARS'tan ölüm oranının kadınlara göre neden daha yüksek olduğu hakkında ise açıklama yapılmadı. 
+     
+</TEXT>
+</DOC>

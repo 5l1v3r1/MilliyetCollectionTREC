@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> 108954 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/09/22/yasam/yas03.html </URL>
+<DATE> 2002/09/22/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hayat, bu virüsle kötü 
+</HEADLINE>
+<TEXT>
+
+Life is beautiful hayat güzeldir ’ diye bir e - posta’ alırsanız, sakın açmayın... Çünkü bu yeni virüs, sanal dünyanızın k busu olabilir... 
+     Microsoft’un popüler sunum programı Power Point’le gönderilen yeni bir virüs, sanal dünyaya korku salıyor. Life is beautiful.pps’ isimli dosyada bulunan ve Trojan Truvalı ’ olarak tanınan virüs, sunumun açılmasıyla önce life is no longer beautiful anymore hayat artık mükemmel değil ’ yazısını gösteriyor ve ardından virüsü gönderen kişiye elektronik posta şifreleri de dahil tüm şifreleri gönderip bilgisayarın kontrolünü tamamen virüsü atana bırakıyor. Virüse karşı tek çare ise söz konusu dosyayı açmamak ve bilgisayarda sürekli güncellenen bir antivirüs programı bulundurmak. 
+     
+
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

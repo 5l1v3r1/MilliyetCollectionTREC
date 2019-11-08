@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> 314560 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/02/11/son/sonyas16.html </URL>
+<DATE> 2005/02/11/ </DATE>
+<TIME> 16.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+14 yaşından küçükleri eleyen bilgisayar sistemi... 
+</HEADLINE>
+<TEXT>
+
+     Ünlü bir güvenlik firması, bilgisayar kullanıcısının çocuk mu yetişkin mi olduğunu gösteren bir sistem geliştirdi. 
+     CNN'in haberine göre, geliştirilen teknoloji, kullanıcının parmak kemiğini analiz ederek yaşını hesaplıyor. 
+     Bilgisayara bağlanan cihaz, ses ötesi dalgalar yayarak orta parmak kemiğinde bulunan çok sayıda biyometrik özelliği hesaplıyor. 
+     Çocukların parmak kemiğinde daha az bulunan kalsiyum miktarı da bu göstergelerden birtanesi. 
+     Cihaz, kullanıcının çocuk mu yetişkin mi olabileceğini hesaplıyor. 
+     
+     14 yaş altı için kesin çözüm 
+
+     'I-Mature' adlı İsrailli şirketin kurucusu Shmuel Levin, 18 ve 21 yaşlar arasında parmak kemiğinde çok büyük bir farklılık olmadığını ancak cihaz ile 14 yaşından küçük çocukların yetişkinlerin gireceği sitelerden uzak tutulabileceğini söyledi. 
+     Bu sayede çocuklar için düzenlenen chat odalarına da yetişkinler giremeyecek. 
+     
+     Üretim için ortaklık 
+
+     Şirket, RSA Güvenlik şirketi ile ortak çalışarak cihazı üretecek. 
+     RSA Güvenlik Şirketi yöneticisi Burt Kaliski, güvenlik için piyasada bulunan yaş hesaplamalarının güvenli olmadığına da değindi. 
+     Kaliski, bir çocuğun anne babasının kredi kartını alabildiğini, yetişkinlerin de çocukların kullanıcı şifreleri ile çocuklara yönelik sitelere girebildiğini anlattı. 
+     Levin, ürünün fiyatının çok yüksek tutulmayacağını da belirrti. 
+     Biyometrik, istatistiğin özellikle biyolojik gözlemlere uygulanması bilimi. 
+     
+</TEXT>
+</DOC>

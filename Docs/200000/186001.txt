@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 186001 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/10/02/son/soneko18.html </URL>
+<DATE> 2003/10/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Elektrik üretimi yüzde 7.09, tüketimi yüzde 5.45 arttı 
+</HEADLINE>
+<TEXT>
+
+     Türkiye'de, 2003 yılı ikinci çeyreğinde Nisan-Mayıs-Haziran elektrik üretimi yüzde 7,09, tüketimi de yüzde 5,45 oranında arttı. 
+     Devlet İstatistik Enstitüsü DİE verilerine göre, 2003 yılı ilk üç aylık döneminde elektrik üretimi 32 milyar 835,8 milyon kilovatsaat, tüketimi ise 28 milyar 259,4 milyon kilovatsaat olarak gerçekleşti. 
+     Elektrik enerjisi üretiminde Elektrik Üretim A.Ş'nin EÜAŞ payı geçen yılın aynı dönemine göre yüzde 50,08'den yüzde 37,98'e geriledi. 
+     Brüt üretimin 2002 yılı ikinci çeyreğinde yüzde 42,04'ü doğalgaz, yüzde 28,38'i su, yüzde 19'u linyit, 2003'ün aynı döneminde ise yüzde 43,81'i doğalgaz, yüzde 30,85'i su, yüzde 13,48'i de linyit ile çalıştırılan santrallardan sağlandı. 
+     Elektrik tüketimi ise aynı dönem itibariyle yüzde 5,45 oranında artarak 28 milyar 259,4 milyon kilovatsaat olarak gerçekleşti. 
+     Söz konusu tüketimin yüzde 50,33'ü sanayi, yüzde 22,14'ü de meskenler tarafından yapıldı. 
+     Elektrik enerjisi üretimi, 2003 yılının ikinci döneminde 2003 yılının ilk dönemine göre yüzde 5,68 oranında geriledi. 
+     Bu arada, 2003 yılı ikinci döneminde önceki yılın aynı dönemine göre elektrik dağıtım şirketlerinin elektrik satış gelirleri cari fiyatlarla yüzde 14,76 oranında arttı. 
+     
+</TEXT>
+</DOC>

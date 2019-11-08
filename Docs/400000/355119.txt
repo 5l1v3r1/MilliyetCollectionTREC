@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 355119 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/06/24/son/soneko35.html </URL>
+<DATE> 2005/06/24/ </DATE>
+<TIME> 16.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa haftayı 27 bin puanın üzerinde tamamladı... 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi 2. seansta, 1. seansa göre 193.40 puan azalarak 27,033.40 puandan kapandı. 
+     2. seansta, hisse senetlerinin ortalama değer artışı yüzde 0.72 oldu. 
+     Endeks 2. seansa, 18.67 puan azalarak 26,821.33 puandan başladı. Seansın ilk yarısını 26,972.23 puandan geçen endeks, en düşük 26,744.12 puana gerilerken, en yüksek 27,046.43 puanı gördü. 
+     1. seanstaki 181.54 puanlık düşüş dikkate alındığında, endeks günlük bazda 11.86 puan yükseldi. Hisse senetlerinin günlük ortalama değer kazancı yüzde 0.04 olarak belirlendi. 
+     2. seans kapanışında, mali endeks 365.70 puan artarak 40,102.64 puana, sanayi endeksi ise 100.74 puan artarak 21,878.35 puana ve hizmetler endeksi 35.26 puan artarak 14,089.76 puana yükseldi. 
+     Böylece ilk seansa göre, mali grup hisselerde ortalama yüzde 0.92, sanayi grubu hisseler ortalama yüzde 0.46 ve hizmet grubu hisseler ortalama yüzde 0.25 oranında değer kazandı. 
+     2. seansta işlem gören toplam 305 hisse senedinden 143'ü değer kazandı, 81'i değer yitirdi, 81 hisse senedinin fiyatında değişiklik olmadı. 
+     2. seansta, 330 milyon 231 bin 473 YTL'lik işlem hacmi kaydedildi. Günlük işlem hacmi, 587 milyon 354 bin 780 YTL olarak hesaplandı. 
+     2. seansta Bosch Fren Sistemleri, İş Bankası C , Yapı ve Kredi Bankası, Doğan Holding ve Akbank, en çok işlem gören hisse senetleri oldu. 
+
+     
+</TEXT>
+</DOC>

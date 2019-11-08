@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 100110 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/08/05/son/soneko11.html </URL>
+<DATE> 2002/08/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa birinci seansı düşüşle kapattı 
+</HEADLINE>
+<TEXT>
+
+     İMKB Ulusal-100 Endeksi, önceki kapanışa göre 14.98 puan gerileyerek, günün ilk senasını 10,766.63 puandan tamamladı. Hisse senetleri ortalama yüzde 0.14 değer kaybetti. 
+     Borsa'da haftanın ilk seansı, erken seçim kararı ve Avrupa Birliği AB uyum yasasının Meclis'ten geçmesinin yarattığı iyimser hava ile 49.71 puan artışla, 10,831.32 puan seviyesinde başladı. 
+     Ulaşılan en yüksek 10,987.81 puanla 11,000 seviyesinin de denendiği seansta, Merkez Bankası'ndan gelen faiz indirimi de olumlu karşılandı. Ancak, Borsa'da düzeltme isteğiyle gelen satışlar, birinci seans kapanışında endeksi, 14.98 puan kayba uğrattı. Endeks, en düşük, 10,688.13 puanı gördü. 
+     Seans kapanışında mali endeks 21.61 puan artışla 13,151.53 puana, sanayi endeksi 3.91 puan artışla 10,246.38 puana yükselirken, hizmetler endeksi 83.65 puan kayıpla 7,359.57 puana geriledi. 
+     Böylece mali grup hisseler önceki kapanışa göre ortalama yüzde 0.16, sanayi grubu hisseler ortalama yüzde 0.04 oranında değer kazanırken, hizmetler grubu hisseler ortalama yüzde 1.12 oranında değer kaybetti. 
+     Seansta işlem gören toplam 283 hisse senedinden 142'si değer kazanırken, 53 hisse senedi değer yitirdi. 88 hissenin fiyatında değişiklik olmadı. 
+     342 trilyon 22 milyar 233 milyon liralık işlem hacmi oluşurken, Doğan Holding, Garanti Bankası, Yapı Kredi Bankası, İş Bankası C ve Tüpraş en yoğun işlem gören hisseler oldu. 
+     
+
+
+
+
+
+</TEXT>
+</DOC>

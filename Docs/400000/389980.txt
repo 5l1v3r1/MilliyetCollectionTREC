@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 389980 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/10/26/son/sonyas23.html </URL>
+<DATE> 2005/10/26/ </DATE>
+<TIME> 21.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnsanın 'Gen Haritası' tamamlandı 
+</HEADLINE>
+<TEXT>
+
+     Bilim adamları insanın gen haritasını tamamlamayı başardı. 
+     Dünyanın değişik ülkelerinden bilim adamları, dünyada yaşayan insanların genetik değişim kalıplarını ortaya koyan bir haritayı tamamladılar. İnsan genetik kodlarını oluşturan 3 milyar harfin dizilimlerini bir haritada birleştiren İnsan Genome Projesi, herhangi iki insanın, birbirine genetik olarak yüzde 99.9 benzediğini ortaya koymuştu. 
+     Birçok ulustan bilim adamlarının biraraya gelmesiyle yapılan çalışma sonucunda, şimdi de bu yüzde 0.1'lik farkı açıklamak için daha detaylı bir harita çıkarıldı. 
+     ''HapMap'' denilen bu harita, genetik değişimlerin belirleyicisini, yani tek nükleotid polimorfimzleri SNP-single nucleotide polymorphisms gösteren daha detaylı bir harita. Bir insanı diğerinden farklı kılan şey ise SNP'lerin farklı dizilimleri. 
+     Yeni harita SNP'lerin bölge bölge gruplandığını haplotipler ve enformasyon blokları olarak insandan insana kalıtım yoluyla geçtiğini gösteriyor. 
+     İnsanlarda yaklaşık 10 milyon SNP bulunuyor ve biraraya gelmiş bir SNP setine ise ''haplotip'' deniliyor. 
+     SNP'ler, insanın genetik şifresini oluşturan üç milyar DNA harfi içerisinde farklı dizilimleri gösteriyor İngiltere, ABD, Kanada, Japonya, Nijer ve Çin'den 200 bilimadamının çalıştığı, bir özel-kamu ortaklığı olan Uluslararası HapMap Konsorsiyumu, Asya, Afrika ve ABD'den 269 kişinin kanlarından alınan DNA örneklerini kullanarak HapMap haritasını geliştirdi. 
+     HapMap'ın ilk aşamasında 1 milyondan fazla SNPs bulunuyor, halen yapım aşamasındaki ikinci aşama HapMap'da ise 2 milyon SNP daha haritaya eklenecek. 
+     Oxford Üniversitesi'nden Profesör Peter Donnelly, ''insan geni dizilimleri, bize insanı yapan birçok parçanın listesini veriyor. HapMap ise tıpkı Post-İt notları gibi göstergeler sağlıyor. Yaygın hastalıklarla ilgili olan genleri ararken, bu göstergeler üzerinde yoğunlaşabiliriz'' dedi. 
+     Bilim adamları HapMap'ı kullanarak, hastalığın temelindeki genetik nedeni tespi etmek için, hastalıklı insanların SNP kalıplarını, sağlıklı insanlarınki ile karşılaştırabilecekler. 
+     İnsanın gen haritasının tamamlanmasının, şeker hastalığı, kalp hastalıkları ve kanser gibi yaygın hastalıkların moleküler nedenlerinin belirlenmesi çalışmalarını olağanüstü boyutlarda hızlandıracağı da kaydedildi. 
+     
+</TEXT>
+</DOC>

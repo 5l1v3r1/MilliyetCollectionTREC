@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 323825 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/14/son/sonyas11.html </URL>
+<DATE> 2005/03/14/ </DATE>
+<TIME> 12.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kredi kartı yerine parmak iziyle alışveriş 
+</HEADLINE>
+<TEXT>
+
+     BBC 
+
+Almanya'da bir süpermarket zinciri müşterilerinden parmak iziyle ödeme kabul etmeye başladı. 
+     Edeka adlı süpermarketlere gidenler yaptıkları alışverişin karşılığında ödemelerini para veya kredi kartıyla değil, parmak izi okuyan bir cihaza dokunarak yapıyorlar. 
+     Edeka süpremarketleri deneme amaçlı uygulamayı Kasım ayında ülkenin batısındaki Rüelzheim kasabasında başlattı. 
+     Uygulamaya şimdiye kadar yaklaşık 100 kişi katıldı ve ödemelerde hiçbir sorun yaşanmadı. 
+     Edeka önümüzdeki aydan itibaren biyometrik ödeme sistemini diğer mağazalarında da devreye sokacak. 
+     Bu uygulamadan yararlanmak isteyenlerin önce mağazaya banka hesap numaralarını ve parmak izi örneklerini vermeleri gerekiyor. 
+     Miriam Kleck adlı bir müşteri, "Cüzdanımı evde bırakıp yanıma hiç para almadan alışveriş yapabiliyorum. Kasada parmağınızı basıp çıkıyorsunuz hepsi bu kadar" diyor. 
+     Edeka yetkilileri, parmak izi verilerinin mağazaların bilkgisayar sistemlerinde güvenli şekilde saklandığını dışarıdan hiçkimsenin bu verilere ulaşmasının mümkün olmadığını söylüyorlar. Ancak yine de bazı güvenlik uzmanları ve tüketici dernekleri bu uygulamanın yeterince güvenli olduğuna ikna olmuş değil. 
+     Parmak izi uygulamasıyla yapılan ödemelere, herhangi bir kredi kartıyla yapılan ödemeler gibi değerlendiriliyor. 
+     Uzmanlar, bir karışıklığa neden olabilecek benzerlik olasılığının 220 milyonda bir olduğunu belirtiyorlar. 
+     
+</TEXT>
+</DOC>

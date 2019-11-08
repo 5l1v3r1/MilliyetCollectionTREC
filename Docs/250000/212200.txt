@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 212200 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/01/30/son/soneko28.html </URL>
+<DATE> 2004/01/30/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+"Mydoom" virüsü yüksek risk kategorisinde... 
+</HEADLINE>
+<TEXT>
+
+     Network Associates'in Anti-virüs acil müdahale ekibi AVERT, kısa süre önce ortaya çıkan ve dünyanın farklı bölgelerinde hızla yayılan Mydoom virüsü hakkında tüm bilgisayar kullanıcılarını uyardı. 
+     AVERT, bu virüsü en üst tehlike sınırının bir altındaki sınır olan ''Yüksek Risk'' kategorisine aldığını duyurdu. 
+     E-posta yoluyla yayılan yeni 'worm' W32 Mydoom MM, e-postada, ekli metin dosyası olarak bulunuyor ve Windows Notepad dosyasını açarak, içini çeşitli karakterlerle dolduruyor. Ardından kendini kullanıcıların paylaşımlı dosyalarına kopyalayarak, hızla yayılıyor. 
+     Tanınmayan kişilerden, çeşitli konu başlıkları ile ''.exe, .pif, .cmd ya da 22 bin 528 bitlik sıkıştırılmış .scr'' dosyaları ile ekli gelen e-postaların okunmadan silinmesi gerektiği konusunda uyaran AVERT ekibi, virüsün sistem içinde yerleşmesi riskine karşın da önlem olarak, kullanıcıların ''c diski'' üzerinde bir virüs taraması gerçekleştirmelerini öneriyor. 
+     Sistem içine yerleştikten sonra, uzaktan erişim özelliklerini etkin kılan TCP 3127 portunu dış kullanıma açan Mydoom ile ilgili son gelişmeleri öğrenmek isteyen kullanıcılar, NAI AVERT Internet'teki virüs saldırılarına ilişkin sürekli güncellenen uyarı sayfası http vil.nai.com vil content v 100983.htm'dan bu bilgilere ulaşabilirler. 
+     
+</TEXT>
+</DOC>

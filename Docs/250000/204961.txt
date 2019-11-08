@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> 204961 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/12/28/son/sontur08.html </URL>
+<DATE> 2003/12/28/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İnternetin yarattığı popüler meslekler... 
+</HEADLINE>
+<TEXT>
+
+     Doktorluk, diş hekimliği öğretmenlik, avukatlık gibi bilinen temel mesleklerin yanına, internetin hayatımızdaki yerinin genişlemesiyle birlikte ilginç isimleriyle dikkat çeken çok sayıda yeni meslek dalı daha eklendi. 
+     Bilgi teknolojileri ve internet ile birlikte özellikle gençler arasında temel mesleklerin popülaritesi kaybolmaya başladı. 
+     Bilişim teknolojilerinin yaşanan iş süreçlerinin hızını artırması, özel alanlarda uzmanlaşmış ya da birkaç uzmanlık alanına birden hakim olan kişilere olan ihtiyacı her geçen gün artıyor. 
+     Son yıllarda ''içerik mühendisi'', ''site ölçüm analisti'' ''bireysel hizmetler geliştirme uzmanı'', ''insan arabirim uzmanı'' gibi meslekler dünyanın insan kaynakları bültenlerinde en fazla aranan dallar oluyor. 
+     ''İnsan arabirim uzmanı'', insan ve bilgisayar etkileşimini kolaylaştırmak için çalışırken, yazılım firmaları kullanıcılarla programlar arasında çıkabilecek sorunları çözebilmek için bu pozisyonu uygun nitelikte kişilerle dolduruyor. 
+     Site ölçüm analisti ise kullanıcıların siteleri hangi sıklıkla ziyaret ettiği, ne kadar süre kaldığı, nasıl alışveriş yaptıkları gibi müşteri davranışlarını değerlendirmek ve rapor etmek gibi görevleri üstleniyor. Hazırlanan bu raporlar ise web şirketlerine reklam ve pazarlama stratejilerini belirleme konusunda rehberlik ediyor. 
+     
+     İNTERNET MESLEKLERİ 
+     İnternetin yaygınlaşması ile Türkiye ve dünyadaki yükselen yeni mesleklerden bazıları şöyle sıralanıyor 
+     Network Uzmanı Kurumların komple bilgisayar ağlarının kurulmasından sorumlu uzman. Sistem güvenliğini sağlayabilme konusundaki yetenekleri ise başarının belirleyicisi olarak kabul ediliyor. 
+     İnternet Direktörü Firmaların internet sayfalarının hazırlanması ve web reytinglerini yükseltmek için çeşitli işlemler yapmak internet direktörünün görevleri arasında yer alıyor. 
+     e-ticaret danışmanı Firmaların elektronik ticaret konularındaki stratejilerini belirlenmesini üstleniyor ve e-operasyonları yönetmek konusunda firmaya rehberlik ediyor. 
+     Web cenaze kaldırıcısı İşlerliği olmayan internet projelerine hareket getiriyor. 
+     Düşünce Jokeji Şirket içinde edinilen tecrübelerin paylaştırılmasından sorumlu. 
+     Komedi Bakanı Şirketlerin müşterilerine çekici, renkli, esprili ve dikkat çekici sunumlar hazırlamak. 
+     Bilgi Brokerliği Karmaşık enformasyon ortamında kalmış kişi ve kurumlara, ihtiyaç duydukları bilgileri temin etmek ve araştırmalar yapmak. Müşteriler için zor bulunan bilgileri temin etmek. 
+     Anlamlandırıcı İnternet veya medya ortamında gelen yoğun bilgilerden şirket için önemli olanları ayıklamak. 
+     
+</TEXT>
+</DOC>

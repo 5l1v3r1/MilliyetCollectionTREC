@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 181223 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/09/son/sondun16.html </URL>
+<DATE> 2003/09/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Müzik devlerinden hacker'lara misilleme... 261 dava açıldı 
+</HEADLINE>
+<TEXT>
+
+     ABD'deki plak şirketlerini çatısı altında toplayan en büyük grup, internetten ücretsiz şarkı indiren ve bu dosyaları paylaşan 261 kişiye dava açtı. 
+     Amerikan Plak Sanayii Derneği tarafından ABD'de yaşayan ve internetten karşılıksız şarkı indirerek bunları başkalarıyla paylaşan 261 müziksever aleyhinde açılan dava, bu yöntemi benimseyen müzikseverlerin gözünü korkutmayı amaçlıyor. 
+     Kısa bir süre önce binlerce hacker aleyhinde dava açılabileceğini açıklayan plak şirketleri, ilk aşamada ortalama binden fazla şarkı indiren ve bu dosyaları paylaşan baş hacker'ları hedeflediklerini belirtirken, dava açılan kişiler arasında bu işle hiçbir ilgisi olmayan 70'lik bir dede ve Yale Üniversitesi'nden bir profesör de bulunuyor. 
+     Teksas eyaletinin Richardson kasabasından 71 yaşındaki Durwood Pickle, yeniyetme torununun kendisini ziyareti sırasında bilgisayarından müzik indirdiğini belirterek, oğlunun daha sonra durumu plak şirketlerinin derneğine bildirmesine karşın davanın açıldığını anlattı. 
+     Gazeteciler evine gelinceye kadar dava açıldığından habersiz olan ve evindeki bilgisayarını seyrek kullanan Teksaslı dede, ''Ben yapmadım ve bu yüzden sorumluluk hissetmiyorum. Şu anda artık download edilmiyor, bu konuda güvence verebilirim'' diye konuşuyor. 
+     Aleyhinde dava açılanlar arasında bulunan Yale Üniversitesi Fotoğraf Bölümü öğretim üyesi Timothy Davis de, şarki indirmeye derhal son verdiğini belirterek, internet sağlayıcısı şirket plak şirketlerinin faaliyetleriyle ilgilendiklerini bildirinceye dek 500 kadar şarkı indirdiğini söyledi. 
+     Bir başka sanık New Yorklu 26 yaşındaki Lisa Schamis de, dosya paylaşım programlarından şimdiye dek çok müzik indirdiğini anlatarak, internet sağlayıcısının 2 ay önce kendisine, plak şirketlerinin avukatlarının isim ve adresini sorduklarını belirtti. 
+     ''Bu çok saçma, bu işi yapanlar beni seviyorlar, bunun neden yasadışı olduğunu'' anlamıyorum diyen Schamis, her şeye rağmen plak şirketlerinin dava açmaya hakları olmadığını ve işsiz olduğu için ceza verilse bile bunu ödeyecek parası olmadığını söyledi. 
+     Plak şirketlerinin şarkı indirmekten çok bunların paylaşımına engel olmaya çalıştıkları ABD'de, telif hakkı yasaları uyarınca hacker'lara indirdikleri ve paylaşım dosyalarında tuttukları her bir şarkı için 750 ila 150 bin dolar para cezası verilebilir. 
+     
+</TEXT>
+</DOC>

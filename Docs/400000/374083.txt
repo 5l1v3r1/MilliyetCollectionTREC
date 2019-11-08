@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 374083 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/08/30/son/soneko01.html </URL>
+<DATE> 2005/08/30/ </DATE>
+<TIME> 01.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası günü yükselişle kapandı... 
+</HEADLINE>
+<TEXT>
+
+     New York borsasında Dow Jones endeksi 65.76 puan yükselerek 10,463.05 puandan kapandı. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq da 16,88 puan artarak 2,137.65 puana yükseldi. 
+     
+</TEXT>
+</DOC>

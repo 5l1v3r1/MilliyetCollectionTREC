@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 232696 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/19/yasam/yas11.html </URL>
+<DATE> 2004/04/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bir çiple felçlilerin düşünceleri okunacak 
+</HEADLINE>
+<TEXT>
+
+   DIŞ HABERLER SERVİSİ 
+   
+   ABD'li bilim adamları, felçli insanların beynine küçük çipler takarak 'düşüncelerini' okuyabilecek. Cyberkinetics şirketince kafatasının altına yerleştirilecek 'Brain Gate' beyin kapısı adlı 4 milimetre kare büyüklüğündeki çipler, felçli olduğu için hareket edemeyen kişilerin, bir uzvunu hareket ettirmek istediğinde beyninde oluşan hareketliliği belirleyecek. Bilim adamları çipin kablolarla gönderdiği sinyalleri bilgisayar koduna dönüştürerek ileride robot kol ve bacakların geliştirilmesinde kullanacak. Şirket, Amerikan Gıda ve İlaç Dairesi'nden insanlar üzerinde denemelere başlamak için izin aldı. 
+   
+   
+</TEXT>
+</DOC>

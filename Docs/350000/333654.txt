@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 333654 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/04/15/son/sondun59.html </URL>
+<DATE> 2005/04/15/ </DATE>
+<TIME> 19.04 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Wall Street Journal'de internet, gazeteyi geçti... 
+</HEADLINE>
+<TEXT>
+
+     ABD'nin en çok satan gazetelerinden Wall Street Journal'ın ınternet versiyonundan elde ettiği gelirin, ilk kez normal gazeteden elde ettiği geliri geçtiği bildirildi. 
+     Gazeteyi çıkaran Dow Jones Co. şirketinin yılın ilk üç ayındaki karının yüzde 54 oranında azaldığı kaydedilirken, bu düşüşte yüzde 8 oranında azalan reklam gelirlerinin etkili olduğu kaydedildi. Geçen yılın ilk çeyreğinde 17,8 milyon dolarlık kar elde eden Wall Street Journal'ın bu yılın ilk çeyreğindeki karının 8,2 milyon dolara gerilediği ifade edildi. 
+     Gazetenin elde ettiği toplam gelir ise reklamdaki düşüşe rağmen, bir önceki yılın aynı dönemine göre yüzde 2,6 oranında bir artış göstererek 412,1 milyon dolara yükseldi. Gazete yönetiminin 40 milyon dolara mal olan ve Eylül ayında yayına başlayacak hafta sonu baskısı sayesinde reklam gelirlerinin artmasını beklediği bildirildi. 
+     Wall Street Journal'ın ınternet üzerinden 731 bin abonesi bulunduğu belirtilirken, müşterilerinin artan şekilde kağıt baskısından ınternet versiyonuna geçiş yaptığı kaydedediliyor. 
+     Bu arada ABD'nin saygın gazetelerinden New York Times gazetesinin gelirlerinin de yılın ilk üç ayında yüzde 21 oranında azaldığı bildirildi. Gazetenin merkez binasının satışından dolayı gazeteyi çıkaran şirketin yılın ilk çeyreğindeki gelirlerinde yüzde 90'lık bir artış olmasına rağmen, gazete gelirinin düşerek 91,3 milyon dolara gerilediği ifade edildi. 
+     
+</TEXT>
+</DOC>

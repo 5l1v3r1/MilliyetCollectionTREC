@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 264428 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/08/18/son/soneko41.html </URL>
+<DATE> 2004/08/18/ </DATE>
+<TIME> 17.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsası düşüşle açıldı... 
+</HEADLINE>
+<TEXT>
+
+     New York Menkul Kıymetler Borsası düşüşle açıldı. 
+     Dow Jones Endeksi, ilk dakikalarda, 26.47 puan yüzde 0.3 değer kaybederek, 9,946.36 puana indi. 
+     Standard and Poor's 500 endeksi yüzde 0.1, Nasdaq Bileşik endeksi de yüzde 0.54 oranlarında değer kaybetti. 
+     Borsanın değer kaybında, petrol fiyatlarının yeni rekorlar kırması ve Google'ın halka arz fiyatını düşürmesi etkili oldu. 
+     
+</TEXT>
+</DOC>

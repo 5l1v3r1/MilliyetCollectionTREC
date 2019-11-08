@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 378928 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/16/son/soneko01.html </URL>
+<DATE> 2005/09/16/ </DATE>
+<TIME> 01.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası bugün... 
+</HEADLINE>
+<TEXT>
+
+     New York Borsası Wall Street’te Dow Jones endeksi yükseldi, Nasdaq endeksi ise düştü. 
+     Dow Jones Sanayi Endeksi 12.34 puan artarak 10,557.24 puandan, Nasdaq Bileşik Teknoloji Endeksi de 3.68 puan düşerek 2,145.65 puandan kapandı. 
+     
+</TEXT>
+</DOC>

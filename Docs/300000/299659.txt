@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 299659 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/12/21/son/sonyas03.html </URL>
+<DATE> 2004/12/21/ </DATE>
+<TIME> 08.40 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yeni web adresleri hazır 
+</HEADLINE>
+<TEXT>
+
+     İnternette alınabilecek adreslerin çoğu tükendiği için .com, .org gibi yeni adres uzantılarına duyulan ihtiyaç her geçen gün artıyor. 
+     Bu konudaki tek yetkili kurum olan ICANN ise yıllardır bu yeni nesil adres uzantıları için çalışmalar yürütüyor. Gündeme gelen yeni seçeneklerin adres kıtlığını çözmesi bekleniyor. 
+     .asia....Asyalı firma siteleri. 
+     .cat....Katalan diline ait siteler. 
+     .jobs....İş ilanı yayımlayan siteler. 
+     .mail....Anti-spam siteleri. 
+     .mobi....Cep telefonu siteleri. 
+     .post....Postane siteleri. 
+     .tel....İnternet telefonu siteleri. 
+     .travel....Seyahat ve otel siteleri. 
+     .xxx....Pornografik siteler. 
+     
+</TEXT>
+</DOC>

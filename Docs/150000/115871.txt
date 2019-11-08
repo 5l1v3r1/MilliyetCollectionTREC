@@ -1,0 +1,52 @@
+<DOC>
+<DOCNO> 115871 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2002/10/30/siyaset/siy06.html </URL>
+<DATE> 2002/10/30/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İşte seçmen testi 
+</HEADLINE>
+<TEXT>
+
+H l hangi partiye ve lidere oy vereceğini bilmeyen kararsız seçmenler için, Prof. Nevzat Tarhan iki test hazırladı. Bu testleri yapmadan oy vermeye kalkmayın 
+     AYŞEGÜL AYDOĞAN İstanbul 
+
+     Seçime dört gün kala, h l hangi partiye ve lidere oy vereceğini bilemeyen binlerce kararsız seçmen var. Kime oy vereceğinize karar vermek ve iyi bir seçmen olup olmadığınızı değerlendirmek isteyenler için Psikiyatr Prof. Dr. Nevzat Tarhan bir test hazırladı. Prof. Tarhan, seçim öncesi politik liderlik ve seçmen testleri hazırlayarak karar vermenizi kolaylaştıracak kriterleri belirledi. 
+     Tarhan’a göre yönetilenlerin kendilerini tanımaları, yöneticileri de "çoban" gibi görmemeleri gerekli. Tarhan, "Lider, liderlik taslamamalı anlayan, dinleyen, işbirliğine açık, çalışanlarına güvenebilen biri olmalı. Açık, dürüst iletişim kurabilen liderleri bulmalıyız. Liderin hatasından savaş kaybedilebilir" diyor. Lideri seçerken dikkat edilmesi gereken unsurlara dikkat çeken Tarhan, lider seçme testini hazırlama gerekçesini ise şöyle açıklıyor 
+     "İyi lider iletişimi geliştirir, verimi artırır, iyi kararlar aldırır, sorunlara daha doğru çözümler üretir. Kötü lider ise bütün birikimi bozabilir. Adil davranacağına inandığımız, yanında kendimizi güvende hissettiğimiz liderlerin özelliklerini bu testte belirlemeye çalıştım." 
+     
+Liderleri tanıyın  Hayır - Evet 1. Sık fikir değiştirmez 0 1 2 3 4 2. Ne yapacağı bellidir, güven uyandırır 0 1 2 3 4 3. Kendisine yontmaz, bencil değildir, paylaşmayı sever 0 1 2 3 4 4. Başkaları kendisi ile işbirliği etmekten kaçınmaz 0 1 2 3 4 5. Önemliyi önemsizi ayırt eder 0 1 2 3 4 6. Yapılabilir olanla yapılabilir olmayanı ayırt eder 0 1 2 3 4 7. Gerçekçi hedefleri vardır, hayalci değildir 0 1 2 3 4 8. Zihin kavrayışı yeterlidir 0 1 2 3 4 9. Öğrenme ve kendini geliştirme yeteneği yeterlidir 0 1 2 3 4 10. Rakibini dost haline getirmeye çalışır, hırçınlık yapmaz, uzlaşmacıdır 0 1 2 3 4 11. Liderlik rolü oynamaz, samimidir 0 1 2 3 4 12. Kendini iyi göstermek için zorlamaz 0 1 2 3 4 13. Sıkıştığı zaman bile yalan söylemez, güvenilir ve dürüsttür 0 1 2 3 4 14. Ülkenin menfaatini partinin menfaatinden önce tutar 0 1 2 3 4 15. Önce devlet adamıyım, sonra siyasetçiyim der 0 1 2 3 4 16. Yanında çalışanların duygu ve düşüncelerine önem verir, sinirlenip incitmez 0 1 2 3 4 17. Karar verirken yanında çalışanlara danışma alışkanlığı vardır 0 1 2 3 4 18. Ayıran değil, birleştiren özelliklere önem verir 0 1 2 3 4 19. Çalışkandır, rahatını düşünmez 0 1 2 3 4 20. Ahlaki değerlere önem verir, adaletsizlik yapmaz 0 1 2 3 4      
+     Not Düşüncenize en yakın puanı verin. Eğer 20 puan verdiyseniz o liderden kaçınız. 20 - 40 arası puan alan lider idare edebilir. 40 puan üstünü verdiyseniz o lidere artık güvenmelisiniz. 
+     
+     
+Seçmene sorular  Hayır - Evet 1. Liderin sağlık politikalarını biliyorum 0 1 2 3 4 2. Liderin ekonomi politikalarını biliyorum 0 1 2 3 4 3. Liderin ulusal güvenlikle ilgili politikalarını biliyorum 0 1 2 3 4 4. Liderin eğitim politikalarını biliyorum 0 1 2 3 4 5. Liderin dünya barışı ile ilgili politikalarını biliyorum 0 1 2 3 4 6. Liderin çevre politikalarını biliyorum 0 1 2 3 4 7. Liderin insan haklarına yaklaşımını biliyorum 0 1 2 3 4 8. Liderin dış politika ile ilgili görüşlerini biliyorum 0 1 2 3 4 9. Önce kendimi değil, ülkemin çıkarını düşünüyorum 0 1 2 3 4 10. Kendimi politikacımın yerine koyabiliyorum 0 1 2 3 4 11. Takım tutar gibi parti tutmuyorum 0 1 2 3 4 12. Hangi kadro gelirse ülkenin yararına olacağına önem veriyorum 0 1 2 3 4 13. Samimi, güvenilir, dürüst olmaya önem veriyorum 0 1 2 3 4 14. Kararlı, tutarlı, devamlı tutumlara önem veriyorum 0 1 2 3 4 15. Ayıran değil, birleştiren özelliklere önem veriyorum 0 1 2 3 4 16. Paylaşma, yardımlaşmaya önem veriyorum 0 1 2 3 4 17. Hak arama yöntemi olarak şiddeti doğru bulmuyorum 0 1 2 3 4 18. Sorun çözme yöntemi olarak uzlaşmayı görürüm 0 1 2 3 4 19. Başkasının hakkına saygı duymaya önem veririm 0 1 2 3 4 20. Kendi fikrimi zorla başkasına kabul ettirmeye çalışmam 0 1 2 3 4      
+     Not Düşüncenize en yakın puanı verin. 40 puanın altında aldıysanız kendinizi geliştirmelisiniz. Eğer kendinizi geliştirmezseniz lütfen oy vermeyiniz, hata yaparsınız. 
+     
+     
+
+
+
+ SİYASET 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

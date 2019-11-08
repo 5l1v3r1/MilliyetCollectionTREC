@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 184851 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/09/26/son/sontur30.html </URL>
+<DATE> 2003/09/26/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Bilsat uydusu'nun fırlatılması fırlatma rampası yüzünden ertelenmiş 
+</HEADLINE>
+<TEXT>
+
+     TÜBİTAK BİLTEN tarafından teknoloji transferi yöntemiyle üretilen Türkiye'nin ilk mini gözlem uydusunun Rusya'daki fırlatma rampası ve yakıt doldurma sistemindeki arızalardan dolayı uzaya gönderilemediği bildirildi. Fırlatma işlemi yarın saat 09.09'da gerçekleştirilecek. 
+     TÜBİTAK BİLTEN Müdürü Prof. Dr. Erol Kocaoğlan'dan aldığı bilgiye göre, BİLSAT uydusu bu sabah 09.09'da Rusya'nın Plesetsk Üssü'nden uzaya gönderilmesi planlanırken son anda fırlatma işlemi ertelendi. 
+     BİLSAT'ın yanı sıra Rusya, İngiltere ve Nijerya'nın uydularını da taşıyacak olan Cosmos 3 roketine yerleştirilirken, fırlatma için geri sayım sırasında erteleme kararı verildi. Fırlatma öncesi son 10 dakikada fırlatma rampasında ve yakıt doldurma sisteminde iki arıza tespit edildi. Kısa bir süre kalması ve uyduların Takım Uydu Sistemi'nde yer alacak olmaları nedeniyle fırlatma işleminden vazgeçildi. 
+     BİLSAT'ın yarın saat 09.09'da herhangi bir olumsuzluk çıkmaması halinde uzaya gönderileceği bildirildi. 
+     
+</TEXT>
+</DOC>

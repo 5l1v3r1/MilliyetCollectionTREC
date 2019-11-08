@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> 164122 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2003/06/19/son/soneko04.html </URL>
+<DATE> 2003/06/19/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düştü... 
+</HEADLINE>
+<TEXT>
+
+     New York Menkul Kıymetler Borsası'nda Dow Jones Endeksi, 29 puan azalarak yüzde 0,3 kayıpla günü 9293 puandan kapattı. 
+     Teknoloji endeksi Nasdaq ise yükselişle kapandı. Endeks, yüzde 0,5 yükselerek, 8,79 puan artışla 1677,23 puandan kapandı. 
+     
+</TEXT>
+</DOC>

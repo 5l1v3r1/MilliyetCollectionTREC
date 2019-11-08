@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 399900 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/12/02/son/sondun19.html </URL>
+<DATE> 2005/12/02/ </DATE>
+<TIME> 12.50 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Çin'de yine maden kazası 5 kişi öldü 
+</HEADLINE>
+<TEXT>
+
+     Ülkenin kuzeydoğusunda 170’ten fazla kişinin ölümüyle sonuçlanan maden kazasının şokunu atlatamayan Çin’in, bu kez kuzeyindeki Hıbey eyaletinde bulunan bir kömür ocağında meydana gelen patlamada 5 kişi öldü. 
+     Yeni Çin Haber Ajansı, önceki gece 6 işçinin ocakta bakım yaptıkları sırada meydana gelen patlamadan sonra bir işçinin kaybolduğunu duyurdu. 
+     Yerel yetkililer, yıllık üretim kapasitesi 60 bin ton kömür olan ocağın güvenlik belgesi bulunmadığını açıkladılar. 
+     Çin’in hızlı ekonomik büyümesinin getirdiği enerji ihtiyacı karşısında çok sayıda ocak gerekli koşullara sahip olmadan üretim yapıyor. 
+     Resmi rakamlara göre Çin’deki maden kazalarında geçen yıl 6000’den fazla insan öldü. Ancak bağımsız kuruluşlara göre bu rakam 20 bin civarında. 
+     Çin uzun yıllar toplam enerji ihtiyacının yüzde 60’ını kömürden karşılamasıyla tanınıyor. 
+     
+</TEXT>
+</DOC>

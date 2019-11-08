@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 236121 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/04/30/son/sondun09.html </URL>
+<DATE> 2004/04/30/ </DATE>
+<TIME> 11.45 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Çin'de bu yıl ilk defa SARS'tan bir kadın öldü 
+</HEADLINE>
+<TEXT>
+
+     Çin, bir kadının geçen hafta akut solunum yetmezliği sendromundan SARS öldüğünü doğruladı. 
+     Sağlık Bakanlığı'ndan yapılan açıklamada, SARS olduğundan şüphelenilen yaşındaki kadının hastalık virüsü taşıdığının anlaşıldığı bildirildi. 
+     Anhui eyaletinde yaşayan, soyadı Wei olan kadının, başkent Pekin'de laboratuvarda çalışırken SARS virüsü kapan bir çalışanın annesi olduğu kaydedildi. 
+     Sağlık Bakanlığı, son 24 saat içinde yeni SARS vakasına rastlamadığını da duyurdu. 
+     Çin'in doğrulamasıyla bu yıl ilk defa bir kişinin SARS'tan öldüğü kesinleşti. 
+     Pekin yönetiminin açıklamalarına göre, Çin'de halen kesinleşmiş 5 SARS vakası bulunuyor ve bu kişilerin 4'ü tedavi görüyor. Şüpheli 4 kişi ise hastanede gözetim altında tutuluyor. 
+     
+</TEXT>
+</DOC>

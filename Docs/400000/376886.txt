@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> 376886 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/09/08/son/sonyas10.html </URL>
+<DATE> 2005/09/08/ </DATE>
+<TIME> 11.00 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Doğru pil doğru şarj aletiyle şarj edilmezse patlayabilir 
+</HEADLINE>
+<TEXT>
+
+     Eskişehir Osmangazi Üniversitesi Teknoloji Araştırma Merkezi TEKAM Müdürü Prof. Dr. Muammer Kaya, doğru pillerin, doğru şarj aletleriyle şarj edilmemesi durumunda, ısınma nedeniyle hem yangın ve patlama tehlikesinin yaşanabileceğini hem de aletlerin zarar görebileceğini söyledi. 
+     Prof. Dr. Muammer Kaya, AA muhabirine yaptığı açıklamada, son zamanlarda cep telefonlarının şarj sırasında yanıp, patladığı, yaralanmalara ve maddi zararlara neden olduğu yönünde birçok haberlerin yayınlandığını belirtti. 
+     Telefonların pillerinin şarjı sırasında çıkan bu olayların, halkın şarjlı piller hakkında yeterli bilgiye sahip olmamasından kaynaklandığını ifade eden Prof. Dr. Kaya, şöyle konuştu 
+     "Fatura çoğunlukla ucuz uzakdoğu kökenli pil ve şarj aletlerine çıkarılmaktadır. Pillerin uygun şarj aletlerinde kullanılmaması göz ardı edilmektedir. Şarjlı piller hakkındaki bilgiler de yetersizdir. 
+     Şarj edilebilir nikel kadmiyum ve nikel metal hidrit pil hücreler yeni satın alındıklarında şarj edilmemiştir. Bu pillerin kullanımından en iyi sonucu elde etmek için üretici yönergelerinin iyi takip edilmesi gerekir. Daima hatırlanmalıdır ki bu yeni piller 6-8 kez tam şarj deşarj edilmeden tam çalışma kapasitesine ulaşamazlar. Nikel metal hidrit piller için üretilen şarj cihazları ile nikel metal hidrit piller ve nikel kadmiyum piller şarj edilebilirken tersi mümkün değildir." 
+     
+     "DOĞRU PİL, DOĞRU ŞARJ ALETİ KULLANILMALI" 
+     Prof. Dr. Kaya, en yaygın şarj aleti olan ve 1-3 saat içinde bu işlemi gerçekleştiren hızlı şarj cihazlarının nikel ve lityum bazlı pillerde kullanılabileceğini belirterek, şöyle devam etti 
+     "Doğru piller doğru şarj aletleriyle şarj edilmezse, ısınma nedeniyle hem yangın ve patlama tehlikesi yaşanabilir hem de aletler zarar görebilir. Isınan aletlerin yangınlar ve patlamalarla maddi ve manevi hasara yol açmaması için, genellikle orijinal pil ve şarj aletlerinin doğru şekilde kullanımı gerekmektedir. Şarjlı aletlerin kullanım kitapçıkları tamamen okunarak kurallara uyulması gerekmektedir. Piyasadaki ucuz pilleri ve şarj aletlerini kullanmada dikkatli olunmasında yarar vardır. Şarjlı piller de kullanım ömürlerini tamamladıktan sonra tek kullanımlık piller gibi çöpe atılmamalı ve ayrı toplanıp uygun şekilde imha edilmelidir. Bu piller özellikle ateşe atılmamalıdır." 
+     
+</TEXT>
+</DOC>

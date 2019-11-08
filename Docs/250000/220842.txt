@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 220842 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/03/09/ekonomi/eko06.html </URL>
+<DATE> 2004/03/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Çöp postaya karşı, pul önerisi 
+</HEADLINE>
+<TEXT>
+
+   Bill Gates, 'çöp postaların' önlenmesi için e- postalardan 1 cent gibi düşük bir miktarda para alınmasını önerdi 
+      
+   Microsoft şirketinin kurucusu ve Onursal Başkanı Bill Gates, istenmeyen çöp e - postayla spam mücadele için elektronik posta gönderirken "pul" satın alınması önerisinde bulundu. 
+   Gates, elektronik postanın ücretsiz olması nedeniyle bu kadar çok çöp posta ortaya çıktığını belirterek, normal posta servisini örnek gösterdi. Gates, "Eğer posta servisi ücretsiz posta dağıtsaydı, posta kutumuz kesin daha fazla kredi kartı teklifi, piyango, reklam ve süpermarket bildirileriyle dolar taşardı" diye konuştu. 
+   Her gönderilen elektronik posta karşılığında e-posta 1 cent gibi küçük bir meblağ ödeyerek, spam yığınlarının önüne geçilebileceğini anlatan Gates, ev kullanıcıları için önemli olmadığı ama reklam amacıyla binlerce e -posta atanlar için caydırıcı olacağını savundu. 
+   Microsoft yetkilileri, ücret yerine, göndericinin iyi niyetini sınamak için çözümü 10 saniye sürecek bir matematik sorusu sorulabileceğini ve böylece 'pul' alınmış kabul edilebileceğini, bu sayede iletişimde demokrasi ilkesine de saygı gösterilmiş olacağını kaydetti. 
+   
+   
+</TEXT>
+</DOC>

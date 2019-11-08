@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> 324569 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/17/son/sonyas06.html </URL>
+<DATE> 2005/03/17/ </DATE>
+<TIME> 10.30 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Satürn'ün uydusunda kalın atmosfer 
+</HEADLINE>
+<TEXT>
+
+     Uzay aracı Cassini, Satürn gezegeninin uydusu Enceladus'un etrafında kalın bir atmosfer buldu. 
+     Jet Propulsion Laboratuvarı JPL , bilim adamlarının, atmosferin volkanlar, gayzerler ve bazı yeraltı hareketleri nedeniyle oluştuğunu tahmin ettiklerini açıkladı. 
+     JPL'den yapılan açıklamaya göre, Cassini 17 şubat ve 9 mart tarihlerinde iki kez Enceladus'un yakınından geçtiği sırada uydudaki manyetik alanları bulmaya yarayan manyetometreyi kullandı. 
+     500 kilometre genişliğindeki buzlarla kaplı Enceladus, Güneş Sistemi'ndeki en yansıtıcı nesne olarak tanımlanıyor. 
+     Enceladus, güneş ışınlarının yaklaşık yüzde 90'ını yansıtıyor. 
+     JPL, Enceladus'ta yerçekiminin zayıf olması nedeniyle atmosferin kalıcı olması için devamlı bir kaynağa ihtiyaç duyulduğunu da açıkladı. 
+     
+     Titan fotoğrafları 
+     Huygens sondası da Satürn'ün uydusu Titan'dan ilk fotoğrafları geçtiğimiz ocak ayında göndermeye başlamıştı. 
+     İlk fotoğraflar, eksi 190 derecelere varan, yüzeye çıkan donmuş siyah-beyaz çizgiler ortaya çıkarmıştı. 
+     Bilim adamları da, kalın atmosfere sahip tek Güneş Sistemi uydusu olan Titan'da 'sıvı yüzey' ihtimalini ortaya çıkardı. 
+     Titan'ın dünyadan bir buçuk kat koyu atmosferi, dünya gibi büyük oranda azot içeriyor. 
+     Huygens, Cassini'den 24 aralıkta ayrılarak Titan atmosferine inmeye başlamıştı. 
+     Uzay uçuşlarında 3 milyar 400 milyon dolarla en büyük proje olan ve 1997'de fırlatılan Cassini-Huygens, adını, 350 yıl önce Titan'ı keşfeden Felemenkli gökbilimci Christian Huygens ile Satürn'ün halka aralığı ve dört uydusunu belirleyen İtalyan asıllı Fransız gökbilimci Gian Domenico Cassini'den alıyor. 
+     
+</TEXT>
+</DOC>

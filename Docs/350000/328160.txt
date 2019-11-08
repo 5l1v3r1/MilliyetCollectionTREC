@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> 328160 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2005/03/29/son/soneko48.html </URL>
+<DATE> 2005/03/29/ </DATE>
+<TIME> 18.15 </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York Borsası düşüşle açıldı... 
+</HEADLINE>
+<TEXT>
+
+     New York Menkul Kıymetler borsası açılışta değer kaybetti. 
+     Borsanın temel göstergesi Dow Jones endeksi, 23.05 puan düşerek 10,462.60 puana geriledi. 
+     Teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq endeksi de, 3.14 puan azalarak 1,989.38 puana düştü. 
+     
+</TEXT>
+</DOC>

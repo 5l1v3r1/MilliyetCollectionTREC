@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> 287278 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2004/11/09/ekonomi/eko01.html </URL>
+<DATE> 2004/11/09/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Başladılar ama telefonları yok 
+</HEADLINE>
+<TEXT>
+
+
+Bas - Konuş'u, önce Avea, bir gün sonra da Turkcell başlattı. Ancak sistem mevcut telefonlarda çalışmıyor. Çünkü bas - konuş destekli telefonlar henüz Türkiye'de yok 
+
+Şükrü Andaç 
+
+Bas - Konuş push to talk sistemini GSM operatörlerinden Avea başlattı. Arkasından Turkcell de sistemi başlattığını duyurdu. Ancak sistemin uygulanmasını sağlayacak telefonlar henüz Türkiye'de satılmadığı için sistem fiilen kullanılamıyor. 
+Bas - konuş teknolojisi, birden fazla kişiyle eş zamanlı olarak, üstelik ortalama görüşme fiyatının yaklaşık 10'de 1'i gibi ucuz tarifelerle görüşme sağlıyor. ABD'de yoğun olarak kullanılıyor ancak Avrupa ülkeleri ve Türkiye için yeni bir teknoloji. Türkiye'de Bas - Konuş'u Avea ve Turkcell, eylülde İstanbul'da düzenlenen Bilişim Fuarı'nda tanıtmıştı. Ardından da Turkcell, yoğun reklam kampanyasıyla test aşamasında olan bu teknolojiyi yaymaya çalışmıştı. 
+
+Şimdilik ücret yok 
+Avea ise geçtiğimiz günlerde abonelerinin bu servisi kullanmaya başlayabileceğini, üstelik 1 Şubat 2005'e kadar ücretsiz olarak bu servisten yararlanabileceklerini duyurdu. 
+Bir gün sonra, bu kez de Turkcell Bas - Konuş'u abonelerine kullandırmaya başlayacağını açıkladı. Üstelik Turkcell de 1 Şubat 2005'e kadar, bu servisi ücretsiz kullandıracak. 
+
+İthalat izinleri alınmış 
+Avea ve Turkcell, Bas - Konuş'u, Telekomünikasyon Kurumu'ndan 'kullanım' izni alarak başlattı. Ancak sisteme uyumlu olan Nokia 5140 ve Nokia 6260 ile Motorola V400p modelleri henüz piyasada yok. Ürünler için gerekli ithalat izinleri çıktı. Piyasaya girmeleri üç - dört haftayı bulabilir. Buna rağmen her iki operatörün çağrı merkezi arandığında, ürünlerin piyasada olduğu söyleniyor. 
+
+Telefonları da gelirse, 10'da 1 fiyata konuşturacaklar Bas - Konuş teknolojisi ile telsiz walkie - talkie haberleşmesinde olduğu gibi karşılıklı iletişim kurulabiliyor.İki kişi veya en fazla 20 kişiden oluşan bir grup, telefonda listelenerek aynı anda görüşme yapabiliyor. Bir defada sadece bir kişi, 'Bas - Konuş' tuşuna basarak konuşabiliyor. Bas - Konuş için telefonda özel olarak atanan tuşa bir kez basıldığında, karşıdakilerin tamamı konuşanı dinliyor. Konuşma bitip tuş bırakıldığında ise diğer kişiler arayana konuşana yanıt veriyor. Görüşme, yani sesin taşınması tek yönlü olarak gerçekleşiyor. Yani 'bas konuş' tuşuna basarak konuşmakta olan kişinin sesi iletilirken, karşı taraftan her hangi bir ses alınamıyor.Arayan kişi tuşa bastığında, önceden kontak listesine aldığı kişilerin durumunu 'uygun', 'meşgul' ve 'uygun değil' olarak üç farklı durumda görebiliyor. Bu durumda 'uygun' durumu görerek tuşlayıp konuşabiliyor.Görüşme cep telefonundan internet bağlantısı sağlayan GPRS üzerinden gerçekleştiriliyor. Kapsama alanı GSM operatörünün normal kapsama alanıyla aynı. Cep telefonu uli konuşmalarda ulaşilabilen bütün alanlarda kullanılabiliyor.Bu teknolojiyi kullanacak olan aboneler, aynı üretici tarafından geliştirilen 'bas - konuş' destekli telefonları kullanabilecek. Farklı üreticilerin telefonları birbirini desteklemiyor.Konuşanın sesi, 0 - 6 saniye arasında bir gecikme ile ulaşabiliyor.Şu an itibariyle Turkcell, Motorola V400p modeli, Avea ise Nokia 5140 ve 6260 modelleri ile Bas - Konuş'u abonelerine kullandırmaya başladı. Ancak bu üç model de Türkiye'de henüz piyasada yok. Sadece bu teknolojiyi destekleyen telefonlarla gerçekleşebiliyor. Ancak Bas - Konuş'lu telefonlar, normal cep telefonu olarak da kullanılabiliyor.Bas - Konuş tarifelerini her iki operatör de henüz açıklamış değil. 1 Şubat 2005'e kadar bu servisten iki operatörün aboneleri ücretsiz yararlanacak. Ancak bu servisin, şu anki görüşme tarifesinin en az 10'da biri oranında ucuza kullanılması bekleniyor. 
+
+</TEXT>
+</DOC>
